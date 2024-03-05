@@ -35,6 +35,21 @@ jobs:
           cat phishfort_small_only_domains_new.txt >> phishfort_small_only_domains.txt
           rm phishfort_small_only_domains_new.txt
 
+      - name: Download Umbrella Top Million List
+        run: |
+          echo "Downloading Umbrella Top Million list..."
+          wget -O top-1m.csv.zip https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip
+          unzip -o top-1m.csv.zip -d umbrella_list
+        # Save the path to the downloaded list for later steps
+        env:
+          UMBRELLA_LIST_PATH: umbrella_list/top-1m.csv
+
+      - name: Read and Remove Domains from Textfile
+        run: |
+          echo "Removing domains from phishfort_small_only_domains.txt..."
+          # Use grep to filter out domains from the target text file based on the Umbrella list
+          grep -vFf "${{ env.UMBRELLA_LIST_PATH }}" phishfort_small_only_domains.txt > temp.txt && mv temp.txt phishfort_small_only_domains.txt
+
       - name: Check if domain list has changed
         id: check_changes
         run: |
