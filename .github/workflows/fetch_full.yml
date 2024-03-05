@@ -18,7 +18,7 @@ jobs:
 
       - name: Parse JSON and extract domains
         run: |
-          cat domains.json | jq -r '.[]' > phishfort_full_only_domains_new.txt
+          cat domains.json | jq -r '.[]' domains.json | sort | uniq > phishfort_full_only_domains_new.txt
 
       - name: Add description to domain list file
         run: |
