@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar  5 22:30:57 UTC 2024
-# Number of Entries: 7721
+# Fetch date: Tue Mar  5 22:40:44 UTC 2024
+# Number of Entries: 7717
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -241,7 +241,6 @@ air-hoppersreview.com
 air-linea.build
 air-satoshivm.io
 air.trustpad-coin.top
-aircoinciti.com
 airdop-walletconnect.pages.dev
 airdrop--manta.network
 airdrop-alt-layer.com
@@ -1461,6 +1460,7 @@ clarkconstruvction.com
 classicsanctuary.com
 clearanceshops.top
 clestia.org
+cliamsolana.c3mongtho.edu.vn
 clickclaimnft.vercel.app
 clickclaimnfts.vercel.app
 clickopenboxnft.vercel.app
@@ -3389,7 +3389,6 @@ llamaswap.pages.dev
 lmeow.pw
 lnftclick.vercel.app
 lnjective.trading
-lnsgroup.net
 lnsulet.com
 lntrac-funds-instnat.digital
 lntrac-web-mobile.digital
@@ -5147,11 +5146,9 @@ pwxskm.cfd
 pxlivewebsite.onrender.com
 pyro-nft-vercel.pages.dev
 pyrthdex.com
-pyt-rew.vercel.app
 pyth-protocol.space
 pyth-protocol.tech
 pyth-web3.org
-pyth.news
 pyth.party
 pytha.network
 pythdrop.site
@@ -7282,7 +7279,6 @@ www.metamaskai.top
 www.metamaskai.xyz
 www.metamaskarb.com
 www.metamaskcion.com
-www.metamaske.top
 www.metamasksupportcenter.com
 www.metamcvk.com
 www.metemeak.io
