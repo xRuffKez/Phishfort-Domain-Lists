@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar  5 22:31:55 UTC 2024
-# Number of Entries: 105854
+# Fetch date: Tue Mar  5 22:41:54 UTC 2024
+# Number of Entries: 105850
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3261,7 +3261,6 @@ airbtrum.foundation
 aircamelot.exchange
 aircashs.finance
 airchains.top
-aircoinciti.com
 aircoindrop.com
 aircraftxchange.net
 aircrypto.top
@@ -11854,7 +11853,6 @@ bitcoin-twitter.org
 bitcoin-tx-transaction-accelerator.com
 bitcoin-up-pros.com
 bitcoin-update.info
-bitcoin-wallet-recovery.com
 bitcoin-wallet-sync.com
 bitcoin-wallet.net
 bitcoin-walletru.site
@@ -17404,6 +17402,7 @@ clffchncllfps.com
 clffchncllpfp.com
 clfpchnllp.com
 cliam-trustpad.top
+cliamsolana.c3mongtho.edu.vn
 clibiya.com
 clibonanode-select.dev
 click-collab.land
@@ -39836,7 +39835,6 @@ ishiba.org
 isiv.edu.ar
 isjit.leahe.net
 iskra.web3fast.net
-islamcoin.net
 islandrecords.co
 ismetamask.io
 ismetok.site
@@ -43944,7 +43942,6 @@ lnghome.top
 lnitbtc.com
 lnjective.trading
 lnpiaccess.drbirincioglu.com
-lnsgroup.net
 lnslagram.com
 lnspro.site
 lnstgram-bussines-helpcenter-account-contact-82847828377389.ml
@@ -98575,7 +98572,6 @@ www.metamaskcoin.cc
 www.metamaskcoin.top
 www.metamaskd.org
 www.metamaske.online
-www.metamaske.top
 www.metamaskextension.one
 www.metamaskey.com
 www.metamaskfox-earncoin.net
