@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar  5 20:23:06 UTC 2024
-# Number of Entries: 105853
+# Fetch date: Tue Mar  5 20:32:19 UTC 2024
+# Number of Entries: 105855
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -31382,6 +31382,7 @@ everybodys.wl-premint.com
 everybodysfun-free.xyz
 everyconnect.netlify.app
 everyconnect.pages.dev
+everyconnects.com
 everydayjanetravel.com
 everymundo-evaluateairfare.com
 everymundoplus.com
@@ -67228,6 +67229,7 @@ paxful.xn--node
 paxful1.com
 paxful168.life
 paxful53.com
+paxful78291047.com.ng
 paxful8.com
 paxful88.live
 paxful95.com
