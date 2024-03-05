@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar  5 19:36:00 UTC 2024
-# Number of Entries: 7718
+# Fetch date: Tue Mar  5 19:40:52 UTC 2024
+# Number of Entries: 7721
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -1117,6 +1117,7 @@ bonus-manta.network
 bonus-pyth.xyz
 bonuses-defi.network
 bonuses-manta.network
+bookaflightwithunitedairlines.statuspage.io
 booking.ro-plato.online
 boomboompromos.com
 boomlandgames.netlify.app
@@ -3038,6 +3039,7 @@ jumper.trading
 jumperexchenge.org
 jumpers-exchanges.xyz
 jumpers.trading
+jumperweb3.pro
 jup-ag.online
 jup-cases.trade
 jup-claim.info
@@ -3378,6 +3380,7 @@ live-mantas.com
 live-satoshivm.io
 live-zetachain.com
 livefree-clestia.org
+livepersonatunitedairlin.amebaownd.com
 liverpoolmx.com
 lives-manta.net
 ljective.trading
