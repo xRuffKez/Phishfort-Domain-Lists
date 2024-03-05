@@ -1,0 +1,2 @@
+# Phishfort Domain Lists
+ 
