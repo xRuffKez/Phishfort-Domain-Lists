@@ -1,0 +1,51 @@
+name: Update PhishFort Full Domain List
+
+on:
+  schedule:
+    # Schedule the action to run every 10 minutes
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update_domains:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Download PhishFort domain list
+        run: curl -o domains.json https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/domains.json
+
+      - name: Parse JSON and extract domains
+        run: |
+          cat domains.json | jq -r '.[].domain' > phishfort_full_only_domains_new.txt
+
+      - name: Add description to domain list file
+        run: |
+          echo "# PhishFort Full Only Domain List" > phishfort_full_only_domains.txt
+          echo "# This list contains domains from PhishFort blacklists." >> phishfort_full_only_domains.txt
+          echo "# Repository: https://github.com/phishfort/phishfort-lists" >> phishfort_full_only_domains.txt
+          echo "# Project website: https://phishfort.com/" >> phishfort_full_only_domains.txt
+          echo "# Fetch date: $(date)" >> phishfort_full_only_domains.txt
+          echo "# Number of Entries: $(cat phishfort_full_only_domains_new.txt | wc -l)" >> phishfort_full_only_domains.txt
+          echo "" >> phishfort_full_only_domains.txt
+          cat phishfort_full_only_domains_new.txt >> phishfort_full_only_domains.txt
+          rm phishfort_full_only_domains_new.txt
+
+      - name: Check if domain list has changed
+        id: check_changes
+        run: |
+          if git diff --quiet phishfort_full_only_domains.txt; then
+            echo "::set-output name=changed::false"
+          else
+            echo "::set-output name=changed::true"
+          fi
+
+      - name: Commit and push changes if list has changed
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@users.noreply.github.com"
+          git add phishfort_full_only_domains.txt
+          git commit -m "Update PhishFort domain list"
+          git push
