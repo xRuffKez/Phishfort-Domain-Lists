@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar  5 19:35:53 UTC 2024
-# Number of Entries: 105854
+# Fetch date: Tue Mar  5 19:41:42 UTC 2024
+# Number of Entries: 105853
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -9034,7 +9034,6 @@ axieinfinity.click
 axieinfinity.club
 axieinfinity.com.aave.defi-universe.vip
 axieinfinity.com.ge
-axieinfinity.com.marketplace.wallet.connect.pujadangol.com.np
 axieinfinity.com.marketplace.wallet.connect.techspert.net
 axieinfinity.com.my
 axieinfinity.com.ronin.wallet.gopa.co.za
@@ -13340,7 +13339,6 @@ bnbairdrops.top
 bnbbinance.com
 bnbbridge-user.com
 bnbbridge.net
-bnbcashtoken.com
 bnbchain-opbnb.com
 bnbchain.claim-services.network
 bnbchain.coinsdraw.io
@@ -13657,6 +13655,7 @@ bonustesla.com
 bonustesla.io
 bonustsla.io
 book213.godaddysites.com
+bookaflightwithunitedairlines.statuspage.io
 booking-agoda-hk.net
 booking-agoda-hotel.com
 booking-hotel-agoda.com
@@ -40457,6 +40456,7 @@ jumperexchange.space
 jumperexchenge.org
 jumpers-exchanges.xyz
 jumpers.trading
+jumperweb3.pro
 jumpn.finance
 jumptoken.app
 junabypharma.com
@@ -42742,7 +42742,6 @@ ledgqer.com
 ledgr-journey.com
 ledgrsinsr.com
 ledgyerwallet.com
-ledlqer.com
 ledqer-liv.com
 ledqer.cc
 ledqr.com
@@ -43785,6 +43784,7 @@ livenodesynchronization.com
 liveoficials.blogspot.com
 liveonlinetv.org
 liveops.live
+livepersonatunitedairlin.amebaownd.com
 liveprimeapeplanet.com
 liveprotocols.net
 liverader.live
@@ -53693,7 +53693,6 @@ multiwalletcoinn.com
 multiwalletcoins.com
 multiwalletconnect.vauthsync.com
 multiwalletconnect.vsyncauths.com
-multiwalletconnectbot.com
 multiwalletconnects.com
 multiwalletexplore.on.fleek.co
 multiwalletlab.com
