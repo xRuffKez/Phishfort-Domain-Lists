@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar  5 20:13:36 UTC 2024
-# Number of Entries: 7721
+# Fetch date: Tue Mar  5 20:22:22 UTC 2024
+# Number of Entries: 7720
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -859,6 +859,7 @@ ba.inletuta.online
 babydogswap.com.web-app3.cfd
 babygrok-ai.com
 babygrok-ai.top
+babyionchain.app
 babylon.trading
 babywif.network
 bac-swapcoins.web.app
@@ -7317,7 +7318,6 @@ www.notkem.com
 www.o2-login.info
 www.ondo-finance.info
 www.openseaclaimdropbox.com
-www.optbtcv.com
 www.optenvos.com
 www.optgous.com
 www.optorgo.com
@@ -7440,7 +7440,6 @@ www.trade-metapro.com
 www.traderjoaxyz.com
 www.traderjoexyz.com.de
 www.travellucky.cc
-www.tripocost.com
 www.trustwalletdefi.icu
 www.tuckea.com
 www.uni-ammdefi.top
