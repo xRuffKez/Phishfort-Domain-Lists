@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar  5 20:14:49 UTC 2024
+# Fetch date: Tue Mar  5 20:23:06 UTC 2024
 # Number of Entries: 105853
 
 0-metemask.com
@@ -9813,6 +9813,7 @@ babyglhost.org
 babygrok-ai.com
 babygrok-ai.top
 babyinch.app
+babyionchain.app
 babylon.trading
 babymetamask.com
 babymetamasks.com
@@ -99417,7 +99418,6 @@ www.opensee-protocol.com
 www.opensun.io
 www.opependao.com
 www.opersea-nft.com
-www.optbtcv.com
 www.optenvos.com
 www.optgous.com
 www.optim.gift
