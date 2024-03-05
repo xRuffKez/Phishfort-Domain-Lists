@@ -4,7 +4,7 @@ This repository contains a list of domains sourced from PhishFort blacklists. Th
 
 ## Usage
 
-You can use the `phishfort_full_only_domains.txt` and `phishfort_full_only_domains.txt` in your projects to enhance security measures by blocking access to known phishing domains.
+You can use the `phishfort_full_only_domains.txt` and `phishfort_small_only_domains.txt` in your projects to enhance security measures by blocking access to known phishing domains.
 
 ## About PhishFort
 
