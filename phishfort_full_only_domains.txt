@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar  5 19:20:41 UTC 2024
+# Fetch date: Tue Mar  5 19:22:02 UTC 2024
 # Number of Entries: 105854
 
 popularsimples.xyz
