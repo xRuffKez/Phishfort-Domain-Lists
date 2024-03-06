@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 07:02:43 UTC 2024
-# Number of Entries: 105888
+# Fetch date: Wed Mar  6 07:14:23 UTC 2024
+# Number of Entries: 105889
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -42757,6 +42757,7 @@ ledqr.com
 ledrgerwe.pw
 ledrgerwe.space
 ledsgerlive.com
+ledsgerwallet.com
 ledterlive.com
 leedger.info
 leedger.io
@@ -50279,6 +50280,7 @@ metamaskcio.com
 metamaskclaim.com
 metamaskclaim.io
 metamaskclaims.com
+metamaskclaims.io
 metamaskclaims.net
 metamaskclaimtoken.com
 metamaskclub.com
@@ -58247,7 +58249,6 @@ neomcareers.cloud
 neomcareers.life
 neomonlines.info
 neomprojects-ksa.net
-neomsuppliers.net
 neon-animals.world
 neon.ftidfast.xyz
 neon.reconnects-web3.com
