@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 17:13:19 UTC 2024
-# Number of Entries: 7776
+# Fetch date: Wed Mar  6 17:23:40 UTC 2024
+# Number of Entries: 7775
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -1791,7 +1791,6 @@ dapplaunchpad.live
 dappmainhub.pages.dev
 dappmigratechain.com
 dappmobilewallet.com
-dapppax.com
 dapppaxos.co
 dapprad.net
 dappradaar.net
@@ -3154,6 +3153,7 @@ keungz.space
 keyst-one.com
 kfusl.com
 kgatn.pro
+kier-careers.co.uk
 killaverse.eu
 kimimart.com
 kingroofing.com
@@ -5794,7 +5794,6 @@ selortis.net
 senecanillwork.com
 sentry.xalgames.xyz
 sentryxai.claimtokens.live
-sepolia.eu
 serenitybuildsconstructions.org
 servdnshortingorgs.site
 server192560.online
