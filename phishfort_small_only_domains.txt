@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 09:30:56 UTC 2024
-# Number of Entries: 7758
+# Fetch date: Wed Mar  6 09:40:56 UTC 2024
+# Number of Entries: 7763
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -1988,6 +1988,7 @@ dexpcsintergal.com
 dexrstool.net
 dexscieener.com
 dexsuperdoge.pages.dev
+dexsynage.web.app
 dextoolhub.com
 dextools.bz
 dextools.events
@@ -3141,6 +3142,7 @@ kelpdao.fun
 kelpdao.live
 kelpdao.lol
 kelpdao.pro
+kelpdaostoken.xyz
 kelpdeo.xyz
 keplrsync.web.app
 keungz.space
@@ -4324,6 +4326,7 @@ nakamigos-cloaks.art
 namadachain.app
 namairdrop.xyz
 nanoapebsc.com
+nanogatesphere.info
 nansenportfolio.live
 napaauto.shop
 napaautoparts.store
@@ -4382,6 +4385,7 @@ newparadigms.manta-networks.org
 newparadiqm-manta.network
 newporkcoin.pages.dev
 newprovisionschainlink.org
+newsupport.alkhaleej.com.sa
 newtradedex.pages.dev
 newtresures-manta.network
 newwhitelistdex.pages.dev
@@ -4719,6 +4723,7 @@ pancake-swap-v3.tech
 pancake-swap.club
 pancake-swap.net
 pancake-swapfinance.pages.dev
+pancake-swapfinances.pages.dev
 pancake-swapi.web.app
 pancake-swapp.github.io
 pancake.albert.vip
