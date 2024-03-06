@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 00:24:05 UTC 2024
+# Fetch date: Wed Mar  6 00:44:36 UTC 2024
 # Number of Entries: 7719
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1254,6 +1254,7 @@ cbrecbre.com
 cbreholdings.com
 cbrepartners.com
 cbrevoke.org
+cchgroupfx.com
 ccqqxhn.cn
 cdek.avito.avito.avito.pancakeswap.reid4deeds.com
 cdn.cdn.secure.pancakefiance.org
@@ -7427,7 +7428,6 @@ www.surnty.com
 www.swisroger.net
 www.syncodapps.online
 www.synth-swap.io
-www.the-app.life
 www.theplaybooksol.xyz
 www.tiktok-world.shop
 www.tiktok8.bond
