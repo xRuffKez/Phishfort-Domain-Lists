@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 14:14:21 UTC 2024
+# Fetch date: Wed Mar  6 14:24:03 UTC 2024
 # Number of Entries: 105919
 
 0-metemask.com
@@ -3489,6 +3489,7 @@ airdrop-traitsniper.top
 airdrop-treasure.com
 airdrop-trezor-eth.accesng.com
 airdrop-trias.com
+airdrop-trust.com
 airdrop-trustpad.io
 airdrop-trustwallet.io
 airdrop-ubx.com
@@ -27334,7 +27335,6 @@ duke-florence-finance.co
 duken.im
 duklokner.site
 dulcetgarden-promogive.com
-dulcie.vip
 dumalomas.com
 dumb1.com
 dumbak.site
@@ -67634,6 +67634,7 @@ paypaxful.com
 paypie.net
 paypie.tech
 payprotect-paxful.com
+payrollfrommyhel.com
 pays-paxful-online.com
 paysafe-paxful.com
 paysecurity-paxful.com
@@ -70873,7 +70874,6 @@ preferbehavioral.com
 prefertoken.com
 prehost86.pancakeswape.finance
 prelanding.pages.dev
-prelaunch.aidrip.xyz
 premierholdingsltd.com
 premint-adidas.com
 premint-app.online
