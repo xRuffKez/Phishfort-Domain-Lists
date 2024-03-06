@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 20:51:43 UTC 2024
-# Number of Entries: 105950
+# Fetch date: Wed Mar  6 21:03:08 UTC 2024
+# Number of Entries: 105951
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -33293,6 +33293,7 @@ flybitex.com
 flydaddys.com
 flyemirates.space
 flyemiratescareer.com
+flyemiratesonline.com
 flyemiratestoursandtravels.in
 flyingformations.xyz
 flyinglands.com
