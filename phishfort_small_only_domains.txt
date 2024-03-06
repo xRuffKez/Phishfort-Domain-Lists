@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 06:01:22 UTC 2024
-# Number of Entries: 7727
+# Fetch date: Wed Mar  6 06:14:33 UTC 2024
+# Number of Entries: 7738
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -918,6 +918,7 @@ befilabs.foundation
 bellaprotocol.cloud.augusttarget.online
 beltsmania.com
 benbutterfield.co.uk
+benddoa.xyz
 bendogsolana.top
 benefits-blast.com
 benzksync.nfts2.me
@@ -1433,6 +1434,7 @@ claim.retikapps.com
 claim.sonikapp.live
 claim.spazecommune.com
 claim.spongeonerc.com
+claim.wallstretmemes.app
 claim.wen.ag
 claim.zeta.chain.wb3ox.xyz
 claim.zetachain.wb3s.xyz
@@ -3162,6 +3164,7 @@ krakenencoin.com
 kresko-airdrop.com
 kroma.events
 kroma.trading
+krroma.network
 kryptexx.com
 ksaneomcareers.top
 kstmple.pages.dev
@@ -3462,6 +3465,7 @@ macysdiscount.store
 mad-lads.com
 madnessoholy.com
 maekrdao.com
+magamemecoin.cash
 maggpiexyz.cyou
 maggpiexyz.xyz
 magic-eden-wallet.net
@@ -4258,6 +4262,7 @@ mynewmont.us
 mynewmontbonk.com
 myob.business
 myob.finance
+myob.network
 myria-game.com
 myrianewmigration.pro
 myrmourneco.org
@@ -4607,6 +4612,7 @@ openseapro-clickc.vercel.app
 openseapro3claim.vercel.app
 openseapro55.vercel.app
 openseaproject-nft.vercel.app
+openseaproject82.vercel.app
 opensearbox.vercel.app
 openseas-pro.vercel.app
 openseclicks.vercel.app
@@ -5380,6 +5386,7 @@ reewelprotocol.com
 refreshingsiqnaccoount.com
 refund-agoda.com
 refund.shidoprotocols.com
+refund.wallstretmemes.app
 reg-dym.xyz
 reg-etherfi.app
 reg-jup.com
@@ -5387,6 +5394,7 @@ reg-linea.build
 reg-metis.io
 reg-nibiru.app
 reg-pandora.network
+reg-shido.app
 reg-woo.org
 regdioneprotocol.com
 registarzuki.com
@@ -5793,6 +5801,7 @@ shibreward.net
 shidc.io
 shido-34p.pages.dev
 shido.tco-c.xyz
+shidoapp.work
 shiiibaerhg.store
 shirbclaime.netlify.app
 shirbreward.netlify.app
@@ -6385,6 +6394,7 @@ token-airdop.org
 token-beam.com
 token-berachain.com
 token-entangle.com
+token-illuvium.com
 token-mainnetdapp.com
 token-port3.com
 token-revoke.cash
@@ -6846,6 +6856,7 @@ web3-roninchain.com
 web3-traffic.xyz
 web3-uniswap-uniswap.com
 web3-zapper.com
+web3.app-in-box.com
 web3.direcdapps.com
 web3.iamversed.xyz
 web3.kavaprotect.com
