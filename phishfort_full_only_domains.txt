@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 17:32:02 UTC 2024
-# Number of Entries: 105931
+# Fetch date: Wed Mar  6 17:41:59 UTC 2024
+# Number of Entries: 105936
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -22859,6 +22859,7 @@ dappcynchronize.com
 dappdao.online
 dappdebug.com
 dappdecentralize.nl
+dappdecentraswift.pages.dev
 dappdefi.online
 dappdefichains.com
 dappdeficonnect.site
@@ -25452,6 +25453,7 @@ defisaver-protocol.com
 defisaver.at
 defisaver.claims
 defisentry.net
+defisentry.pages.dev
 defiserverconnect.com
 defiservertool.click
 defiservertools.click
@@ -68861,6 +68863,7 @@ pixelmon.wl-free.com
 pixelmongen1-official.netlify.app
 pixelmonnfts.xyz
 pixels-online.com
+pixels-verify.pages.dev
 pixels.claims
 pixels.monster
 pixels.nft-premint.com
@@ -72302,6 +72305,7 @@ raariiblee.com
 rabbit.claims
 rabby-points.xyz
 rabby-support.pages.dev
+rabbyn0de.pages.dev
 rabbypoints.com
 rabiant.capital
 raca3.tapp.live
@@ -82249,6 +82253,7 @@ syncsnode.firebaseapp.com
 syncsnode.web.app
 syncsnodes.com
 syncsolution.pro
+syncsolutions.pages.dev
 syncsolve-inchpd.com
 syncsonlinevalidates.com
 syncsswap.app
