@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 05:14:24 UTC 2024
-# Number of Entries: 105861
+# Fetch date: Wed Mar  6 05:24:51 UTC 2024
+# Number of Entries: 105864
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -5209,6 +5209,7 @@ api.healthyroads.com
 api.kava-api.live
 api.kavaguard.top
 api.kavanet.pro
+api.kavashield.icu
 api.kavasync.xyz
 api.kavasyncs.xyz
 api.kavaworlds.live
@@ -27571,6 +27572,7 @@ earn-airdrop.org
 earn-airdrops.org
 earn-analos.netlify.app
 earn-ankr.com
+earn-babylonchaln.app
 earn-binance.com
 earn-crypto-trustapp.online
 earn-defipool.com
@@ -83258,6 +83260,7 @@ tether-tumbler.com
 tether-usdt-mixer.com
 tether.ac
 tether.bz
+tether.com.se
 tether.cx
 tether.events
 tether.gifts
