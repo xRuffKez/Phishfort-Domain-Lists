@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 03:01:32 UTC 2024
-# Number of Entries: 7712
+# Fetch date: Wed Mar  6 03:13:33 UTC 2024
+# Number of Entries: 7709
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -861,6 +861,7 @@ babygrok-ai.com
 babygrok-ai.top
 babyionchain.app
 babylon.trading
+babylonnchain.app
 babywif.network
 bac-swapcoins.web.app
 bac-swapp.web.app
@@ -3951,7 +3952,6 @@ metamaskmarket.net
 metamaskn.io
 metamaskofficial.online
 metamasksinfo-supportaccount.yincobase.shop
-metamasksio.life
 metamasksupportcenter.com
 metamasktoken.io
 metamasktoken.link
@@ -4263,6 +4263,7 @@ mystery-illuvium.io
 mystery-polygon.claims
 mystery-trust.net
 mystery.3webx.cc
+mysterybox28.vercel.app
 mysterybox32.vercel.app
 mysteryboxnow.vercel.app
 mysteryclaimsnft.vercel.app
@@ -4724,7 +4725,6 @@ pancakeswap.cc
 pancakeswap.click
 pancakeswap.dikecoin.com
 pancakeswap.godaddysites.com
-pancakeswap.gold
 pancakeswap.help
 pancakeswap.li
 pancakeswap.lt
@@ -4749,7 +4749,6 @@ pancakesweb.finance
 pancakeswop.web.app
 pancakeswp.github.io
 pancakeswwap.com
-pancakewarp.click
 pancakswaip.com
 pancakswap.finance
 pancaqeswap-earn.com
@@ -7433,7 +7432,6 @@ www.traderjoexyz.com.de
 www.travellucky.cc
 www.trustwalletdefi.icu
 www.tuckea.com
-www.uni-ammdefi.top
 www.useneuxs.org
 www.usenxeus.org
 www.v2-manta.network
@@ -7583,7 +7581,6 @@ y5tmtb.info
 yaler.info
 yasno-gov.pages.dev
 ycs-agoda.cc
-ydbentle.com
 yearn.deflab.top
 yearn.trastpad-airs.top
 yearn.trustpadeo.top
