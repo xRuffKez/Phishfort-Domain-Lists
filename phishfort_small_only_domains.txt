@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 05:24:00 UTC 2024
-# Number of Entries: 7717
+# Fetch date: Wed Mar  6 05:30:56 UTC 2024
+# Number of Entries: 7719
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -3821,6 +3821,7 @@ memekombat-api.pages.dev
 memekombat-server.pages.dev
 memekombat-staking.xyz
 memekombatio.live
+memeland-verify.web.app
 memelandcoin.vercel.app
 memelandeth.com
 memeuk.life
@@ -6533,6 +6534,7 @@ uniswap-blockchain-clone-ng.vercel.app
 uniswap-dao.com
 uniswap-exchange-site.web.app
 uniswap-exchange-uniswap.app
+uniswap-pools.web.app
 uniswap-uniswap.net
 uniswap-v2.info
 uniswap-v3-uniswap.com
