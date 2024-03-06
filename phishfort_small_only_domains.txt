@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 17:30:58 UTC 2024
-# Number of Entries: 7778
+# Fetch date: Wed Mar  6 17:40:55 UTC 2024
+# Number of Entries: 7781
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -643,7 +643,6 @@ applfgswap.one
 appliedmaterials-inc.com
 appliedmaterialventures.com
 applovin-jb.cc
-applovin-jbs.com
 applovin.admin608297838.com
 applovin.in
 applovintwap.com
@@ -1783,6 +1782,7 @@ dapp-vulcan.xyz
 dapp.radar.skin
 dappbay-bnbchain.net
 dappconnect-6w3.pages.dev
+dappdecentraswift.pages.dev
 dappinfo.xyz
 dappintegration.com
 dappkaavaa.netlify.app
@@ -5012,6 +5012,7 @@ pipz-group.com
 pixals.xyz
 pixel-lands.com
 pixelmon-mint.com
+pixels-verify.pages.dev
 pixelsairdrop.com
 pixelsapp-play.xyz
 pixelscoin.com
@@ -5299,6 +5300,7 @@ r20.rs6.net
 r5eccrcz80ermzl.stellmsofts.xyz
 rabby-points.xyz
 rabby-support.pages.dev
+rabbyn0de.pages.dev
 rabbypoints.com
 raca3.tapp.live
 radar-dapp.dev
@@ -6261,6 +6263,7 @@ syncprotocols.pagen.dev
 syncsactivate.firebaseapp.com
 syncsactivate.web.app
 syncshot.pages.dev
+syncsolutions.pages.dev
 syncsolve-inchpd.com
 syncsswap.app
 syncswap-exchange.events
