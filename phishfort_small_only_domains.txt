@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 06:25:42 UTC 2024
-# Number of Entries: 7740
+# Fetch date: Wed Mar  6 06:32:11 UTC 2024
+# Number of Entries: 7742
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -4687,6 +4687,7 @@ pacificmanta.vercel.app
 pacificparadigm.org
 pacmoon.cash
 pacmoon.games
+pacnoon.co
 padchain-gpt.org
 padsync.pages.dev
 paidnetwork.app
@@ -4784,6 +4785,7 @@ pandora-connect.network
 pandora-drop.com
 pandora-eligibility.com
 pandora-launchpad.com
+pandoraerc.xyz
 pandoschi.xyz
 pandoshi-d.pages.dev
 pandoshi.net
