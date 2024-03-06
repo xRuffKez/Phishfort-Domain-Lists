@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 17:41:59 UTC 2024
-# Number of Entries: 105936
+# Fetch date: Wed Mar  6 17:51:42 UTC 2024
+# Number of Entries: 105940
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -73069,6 +73069,7 @@ rectificationsync.xyz
 rectificationwal.online
 rectificationwallets.com
 rectificationweb.com
+rectifier-sync.pages.dev
 rectifier.buzz
 rectifier.online
 rectifierchannel.com
@@ -81224,6 +81225,7 @@ supportwebdefi.com
 supportyobit.net
 supra-nft.com
 supraoracle.xyz
+suprasync.pages.dev
 supratoken.xyz
 supremeinteriors.co.ke
 supremekong.after-mint.xyz
@@ -87666,6 +87668,7 @@ updatedexserver.net
 updateinfocoinbase.servehttp.com
 updatemetamask.net
 updatemetemask.com
+updatenow.pages.dev
 updateopensea.com
 updateronin.com
 updates-chain.link
@@ -88516,6 +88519,7 @@ validatebridge.herokuapp.com
 validatebridge.xyz
 validatecashbox.com
 validatechainapi.net
+validatechains.pages.dev
 validatecollab.land
 validateconnect.net
 validated-sync.com
