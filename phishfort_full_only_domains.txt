@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 04:24:30 UTC 2024
-# Number of Entries: 105858
+# Fetch date: Wed Mar  6 04:32:02 UTC 2024
+# Number of Entries: 105860
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3249,6 +3249,7 @@ air.altcoins-drop.top
 air.dropshunter.world
 air.stake3.net
 air.trustpad-coin.top
+air2-blast.xyz
 air628.com
 airbipad.com
 airbirturm.foundation
@@ -62101,6 +62102,7 @@ paal-ai.io
 paalai-stakingdapp.live
 paalai.airdrop.cfd
 paalai.in
+paalbeta-ai.app
 paalbeta-launchpad.app
 paalmind.com
 paalpool.xyz
