@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 08:25:17 UTC 2024
+# Fetch date: Wed Mar  6 08:31:59 UTC 2024
 # Number of Entries: 7752
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1067,6 +1067,7 @@ blastpoints.app
 blastreward.eu
 blastscore.xyz
 blastt.io
+blasttup.top
 blendao.xyz
 blendswaps.xyz
 blinkblock.site
@@ -2363,7 +2364,6 @@ extendedpublickeyactivation.pages.dev
 extension.chrome.uniswapwallet.live
 extserum.site
 ezcalibur.com
-f0fozvn18.ukit.me
 f89badf5.7acd740c665c9b25ec20d877.workers.dev
 f930fi.info
 facet-swap.com
@@ -4115,6 +4115,7 @@ mint.cokeazukicanvas.com
 mint.cyberzduck.lol
 mint.deadapez.lol
 mint.duckzclub.tech
+mint.lamavox.wtf
 mint.scrllpunkdis.icu
 mint.scrollbi.biz
 mint.scrollbi.xyz
@@ -5295,7 +5296,6 @@ raffleopnsea.com
 raffleusdc.com
 rainbow.mt-gox.site
 rainbow.trading
-rajapack-systems.de
 raksfifthavenue.com
 ranbuny.com.au
 randomecoin-ads.eu
