@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 06:41:50 UTC 2024
+# Fetch date: Wed Mar  6 06:51:51 UTC 2024
 # Number of Entries: 105886
 
 0-metemask.com
@@ -18028,7 +18028,6 @@ coinbase-walletdefi.com
 coinbase-walltvip.net
 coinbase-wesupports.servequake.com
 coinbase-xmas.com
-coinbase-zendesk.com
 coinbase.aa-gg.com
 coinbase.acc-authy.com
 coinbase.account-updatesc.com
@@ -43432,6 +43431,7 @@ link.conect-access.com
 link.gatekava.xyz
 link.kava-api.live
 link.kavaprotect.com
+link.kavashield.help
 link.kavaverse.one
 link.kavaworlds.top
 link.kavaxyz.pro
