@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 06:14:33 UTC 2024
-# Number of Entries: 7738
+# Fetch date: Wed Mar  6 06:25:42 UTC 2024
+# Number of Entries: 7740
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -918,6 +918,7 @@ befilabs.foundation
 bellaprotocol.cloud.augusttarget.online
 beltsmania.com
 benbutterfield.co.uk
+bendado.xyz
 benddoa.xyz
 bendogsolana.top
 benefits-blast.com
@@ -984,6 +985,7 @@ binance-0x51bd6a810bd083c4bab4834a90411c62d04456ce.gunhay.vn
 binance.t-co.pro
 binancebusdairdrop2024.com
 binansce.com
+bingbongs-zoras.com
 binnance.app
 biogreenasia.com
 biraxy.xyz
