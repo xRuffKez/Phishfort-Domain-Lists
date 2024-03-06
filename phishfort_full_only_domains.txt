@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 08:03:35 UTC 2024
-# Number of Entries: 105892
+# Fetch date: Wed Mar  6 08:15:42 UTC 2024
+# Number of Entries: 105894
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -93691,6 +93691,7 @@ webmintresolve.com
 webmultiverse-multichain.eu
 webmultiverse-smartchain.xyz
 webmundibrazz.blogspot.com
+webnet3.com
 webnetly.live
 webnetsauth.pages.dev
 webnetvkr.com
@@ -105484,6 +105485,7 @@ zinu-official.xyz
 zinu.allowmint.com
 zinumigration.netlify.app
 zipwallet.net
+zircuit-app.org
 zircuits.xyz
 zirocoin.com
 ziy3.sa.com
