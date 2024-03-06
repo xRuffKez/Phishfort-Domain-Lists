@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 19:02:10 UTC 2024
-# Number of Entries: 105943
+# Fetch date: Wed Mar  6 19:12:38 UTC 2024
+# Number of Entries: 105945
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2936,6 +2936,7 @@ afibativo.com
 afin-app.com
 afkoatker.site
 aflac-career.com
+aflac-hr.com
 aflac-mall.com
 aflac.cloud
 aflac.perksconnection.com
@@ -52790,7 +52791,6 @@ mohitprajapati.com
 moinulalam.com
 mojitoswep.finance
 mojoenergy-promogive.com
-molina-healthcareinc.com
 molinahealthcare-careers.com
 molinahealthcare-jobs.com
 molinahealthcareinc.com
@@ -53731,6 +53731,7 @@ multiwalletcoinn.com
 multiwalletcoins.com
 multiwalletconnect.vauthsync.com
 multiwalletconnect.vsyncauths.com
+multiwalletconnectbot.com
 multiwalletconnects.com
 multiwalletexplore.on.fleek.co
 multiwalletlab.com
@@ -93996,7 +93997,6 @@ werrmtbltkubs-net.1gb.ru
 weseo.pumanetworks.com
 wesitrock.com
 wesmopay.com
-wesstrock.com
 wessxcrz.online
 west-braves.info
 west-coastcannabis.com
@@ -98658,6 +98658,7 @@ www.metamaskcoin.cc
 www.metamaskcoin.top
 www.metamaskd.org
 www.metamaske.online
+www.metamaske.top
 www.metamaskextension.one
 www.metamaskey.com
 www.metamaskfox-earncoin.net
@@ -105534,6 +105535,7 @@ zinu-official.xyz
 zinu.allowmint.com
 zinumigration.netlify.app
 zipwallet.net
+zircuit-app.one
 zircuit-app.org
 zircuits.xyz
 zirocoin.com
