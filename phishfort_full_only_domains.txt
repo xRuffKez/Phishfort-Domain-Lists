@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 05:24:51 UTC 2024
-# Number of Entries: 105864
+# Fetch date: Wed Mar  6 05:31:57 UTC 2024
+# Number of Entries: 105866
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -47877,6 +47877,7 @@ memeland-nfts.com
 memeland-potatoz.com
 memeland-register.com
 memeland-thecaptainz.com
+memeland-verify.web.app
 memeland-whitelist.xyz
 memeland.click
 memeland.enlist.site
@@ -86734,6 +86735,7 @@ uniswap-org.com
 uniswap-org.ddns.net
 uniswap-org.vercel.app
 uniswap-platform.com
+uniswap-pools.web.app
 uniswap-port.com
 uniswap-portal.com
 uniswap-pos.biz
