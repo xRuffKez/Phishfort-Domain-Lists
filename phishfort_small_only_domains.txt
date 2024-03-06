@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar  5 23:50:59 UTC 2024
-# Number of Entries: 7718
+# Fetch date: Wed Mar  6 00:03:27 UTC 2024
+# Number of Entries: 7719
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -120,6 +120,7 @@
 8lab-d254.earherbat.workers.dev
 912091730.pages.dev
 9aa542c7.c817588e7585f833a0bc52c8.workers.dev
+9af68e44.4d9aa11f0cc24373ec9d6295.workers.dev
 9e6e51d6-1af4-46ae-b583-dc84ea67ef6c-00-16rc48b4ompks.kirk.replit.dev
 9ebank.github.io
 9inchswap.com
