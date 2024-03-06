@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 09:14:43 UTC 2024
-# Number of Entries: 105899
+# Fetch date: Wed Mar  6 09:22:39 UTC 2024
+# Number of Entries: 105903
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3367,6 +3367,7 @@ airdrop-hex.com
 airdrop-hucapitalltd.pages.dev
 airdrop-id.com
 airdrop-iguverse.com
+airdrop-info.lol
 airdrop-injective.icu
 airdrop-injective.top
 airdrop-iotex.io
@@ -38025,6 +38026,7 @@ humaankind.shop
 humanresourcebenefits.com
 humanssecures.com
 humanxpert.com
+humminglinkgg.world
 hundredacresnyc.com
 hungehealth.com
 hungerdoge-promogive.com
@@ -40406,6 +40408,7 @@ journeymantle.one
 journeys.coolcatsnft.studio
 joybamq1.zzux.com
 joycegenari.com
+joyouslinkew.world
 joysonseafety.com
 jp-metamask.org
 jp-pancakeswap.net
@@ -58253,6 +58256,7 @@ neomcareers.cloud
 neomcareers.life
 neomonlines.info
 neomprojects-ksa.net
+neomsuppliers.net
 neon-animals.world
 neon.ftidfast.xyz
 neon.reconnects-web3.com
