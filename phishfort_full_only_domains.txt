@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 20:31:57 UTC 2024
-# Number of Entries: 105946
+# Fetch date: Wed Mar  6 20:41:41 UTC 2024
+# Number of Entries: 105948
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -89279,6 +89279,7 @@ vibeth-vvip.com
 vicpromo.com
 victorgarcia.blog
 victoria-event.xyz
+victorianwoodsstudio.com
 victoriassecret-nft.xyz
 victoriassecretnft.top
 victoriassecretnft.xyz
@@ -93998,6 +93999,7 @@ werrmtbltkubs-net.1gb.ru
 weseo.pumanetworks.com
 wesitrock.com
 wesmopay.com
+wesstrock.com
 wessxcrz.online
 west-braves.info
 west-coastcannabis.com
