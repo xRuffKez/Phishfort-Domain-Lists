@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 17:24:15 UTC 2024
-# Number of Entries: 105928
+# Fetch date: Wed Mar  6 17:32:02 UTC 2024
+# Number of Entries: 105931
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2936,7 +2936,6 @@ afibativo.com
 afin-app.com
 afkoatker.site
 aflac-career.com
-aflac-hr.com
 aflac-mall.com
 aflac.cloud
 aflac.perksconnection.com
@@ -24046,6 +24045,7 @@ dappwalletfixs.netlify.app
 dappwalletlink.com
 dappwalletme.com
 dappwalletnode.com.ng
+dappwalletnode.pages.dev
 dappwalletnode.web.app
 dappwalletprotector.monsterapeclub-mint.online
 dappwalletprotocol.rf.gd
@@ -33380,6 +33380,7 @@ formulir.site
 forniturepulice.it
 fortemag.com
 fortes.life
+fortewebklap.pages.dev
 fortexwallet.com
 forthmindas.online
 fortistk.com
@@ -81682,6 +81683,7 @@ swiftcoolpps.com
 swiftdappaffix.sbs
 swiftdappextension.com
 swiftdappnode.com
+swiftdapppad.pages.dev
 swiftdappsco.online
 swiftdappweb.pages.dev
 swiftfix.link
@@ -93662,6 +93664,7 @@ weblink-bsc.com
 weblinkdefi.com
 weblinkdefi.online
 weblinkerconnect.live
+weblinknode.firebaseapp.com
 weblinknode.web.app
 weblinknodeapp.web.app
 weblinkprotocol.pages.dev
