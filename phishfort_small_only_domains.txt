@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 03:13:33 UTC 2024
-# Number of Entries: 7709
+# Fetch date: Wed Mar  6 03:22:29 UTC 2024
+# Number of Entries: 7711
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -717,6 +717,7 @@ arbitrum.tr1onex.top
 arbitrum.trustpadeo.top
 arbitrum.trustpados.top
 arbitrum.xtrustpad-events.top
+arbitrumbridge.web3app.vip
 arbitrumdistribution.org
 arbitrumfix.pages.dev
 arbitrumname.net
@@ -4403,6 +4404,7 @@ nft-reward.pages.dev
 nft-routerprotocol.com
 nft-saitamatoken.com
 nft-sidusheroes.com
+nft-starknet-project.vercel.app
 nft-swellnetwork.io
 nft-trade.xyz
 nft-virtua.com
