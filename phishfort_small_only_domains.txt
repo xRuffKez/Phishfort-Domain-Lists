@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 07:40:51 UTC 2024
-# Number of Entries: 7747
+# Fetch date: Wed Mar  6 07:50:41 UTC 2024
+# Number of Entries: 7748
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -7496,6 +7496,7 @@ www.wikser.com
 www.windy.network
 www.wirdaw.com
 www.wow-earn.online
+www.wregul.com
 www.www-agodaa.site
 www.wwwdymension.xyz
 www.wwwframe.xyz
