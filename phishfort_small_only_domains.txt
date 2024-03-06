@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 16:40:56 UTC 2024
-# Number of Entries: 7777
+# Fetch date: Wed Mar  6 16:50:57 UTC 2024
+# Number of Entries: 7776
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -1706,7 +1706,6 @@ cronus-airdrop.info
 croptyloanhub.com
 crpytoundeads.com
 crtoadznew.com
-cruptodistribution.online
 crv.fi
 crypto-communities.com
 crypto-community.org
