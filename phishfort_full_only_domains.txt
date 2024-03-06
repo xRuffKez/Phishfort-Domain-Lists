@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar  5 23:51:58 UTC 2024
+# Fetch date: Wed Mar  6 00:09:07 UTC 2024
 # Number of Entries: 105851
 
 0-metemask.com
@@ -1540,6 +1540,7 @@
 99pancakes.help
 99x.clubs-mint.pdma.live
 9aa542c7.c817588e7585f833a0bc52c8.workers.dev
+9af68e44.4d9aa11f0cc24373ec9d6295.workers.dev
 9b3ff.free-mintwl.com
 9bitcoin.xyz
 9caramel.info
@@ -7097,7 +7098,6 @@ arbiitrum.foundation
 arbination.site
 arbinauts.in
 arbinu.app
-arbinu.co
 arbinu.io
 arbinu.uno
 arbinucoin.vercel.app
