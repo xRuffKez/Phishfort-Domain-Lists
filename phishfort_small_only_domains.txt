@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 07:50:41 UTC 2024
-# Number of Entries: 7748
+# Fetch date: Wed Mar  6 08:02:14 UTC 2024
+# Number of Entries: 7750
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -4282,6 +4282,7 @@ mystery-illuvium.io
 mystery-polygon.claims
 mystery-trust.net
 mystery.3webx.cc
+mysterybox11.vercel.app
 mysterybox28.vercel.app
 mysterybox32.vercel.app
 mysteryboxnow.vercel.app
@@ -4499,6 +4500,7 @@ nolaisadog.com
 nolbody.com
 nomlswlap.tech
 nonceordiperceptive.pages.dev
+nootcoin.fun
 nooxnft.app
 nooxnft.org
 nordson.vn
