@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 08:25:58 UTC 2024
-# Number of Entries: 105895
+# Fetch date: Wed Mar  6 08:33:19 UTC 2024
+# Number of Entries: 105897
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -12585,6 +12585,7 @@ blastreward.eu
 blastrio.xyz
 blastscore.xyz
 blastt.io
+blasttup.top
 blats.io
 blav.s3o98.com
 blcckchian.com
@@ -52244,6 +52245,7 @@ mint.fractai.is
 mint.gutterpunks.co
 mint.iensprotocoi.xyz
 mint.imaginaryoness.com
+mint.lamavox.wtf
 mint.liquidity.claim.skuylivining.xyz
 mint.madmemberpass.com
 mint.mafiamonkey.xyz
