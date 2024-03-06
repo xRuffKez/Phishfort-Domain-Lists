@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 21:30:51 UTC 2024
-# Number of Entries: 7789
+# Fetch date: Wed Mar  6 21:40:53 UTC 2024
+# Number of Entries: 7788
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -552,7 +552,6 @@ app-metamsak-io-conditionapp.netlify.app
 app-metis.io
 app-moonhq.com
 app-os-mo-sis.org
-app-osmosis-zone.com
 app-pandora.com
 app-paxosgold.com
 app-pendle.financial
