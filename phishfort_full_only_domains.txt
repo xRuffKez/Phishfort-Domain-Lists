@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 05:52:09 UTC 2024
-# Number of Entries: 105872
+# Fetch date: Wed Mar  6 06:02:47 UTC 2024
+# Number of Entries: 105874
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17293,6 +17293,7 @@ claimslinea.com
 claimslink.app
 claimsmart-layer.net
 claimsmatic.com
+claimsmemekombat.air-drop.dev
 claimsolana.bar
 claimsolanagift.com
 claimsolanagift.net
@@ -27573,6 +27574,7 @@ earn-airdrop.org
 earn-airdrops.org
 earn-analos.netlify.app
 earn-ankr.com
+earn-babylonchain.fund
 earn-babylonchaln.app
 earn-binance.com
 earn-crypto-trustapp.online
