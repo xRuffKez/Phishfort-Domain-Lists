@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 07:01:22 UTC 2024
-# Number of Entries: 7746
+# Fetch date: Wed Mar  6 07:13:20 UTC 2024
+# Number of Entries: 7747
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -3291,6 +3291,7 @@ ledger-start.info
 ledger-wallet-ledger.net
 ledger.quilodge.com
 ledgerlive-app.online
+ledsgerwallet.com
 legder-live.app-web3.com.co
 legder.live-app.com.co
 legendemill.com
@@ -3952,6 +3953,7 @@ metamaskapp.store
 metamaskarb.com
 metamaskb.icu
 metamaskclaim.io
+metamaskclaims.io
 metamaskclaims.net
 metamaskclaimtoken.com
 metamaskcoin.io
@@ -4334,7 +4336,6 @@ neomcareers.cloud
 neomcareers.life
 neomonlines.info
 neomprojects-ksa.net
-neomsuppliers.net
 neotokyohq.pro
 net-drop.netlify.app
 netnftframe.com
