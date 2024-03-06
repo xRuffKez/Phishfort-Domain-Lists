@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 21:03:08 UTC 2024
-# Number of Entries: 105951
+# Fetch date: Wed Mar  6 21:14:10 UTC 2024
+# Number of Entries: 105953
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2941,6 +2941,7 @@ aflac-hr.com
 aflac-mall.com
 aflac.cloud
 aflac.perksconnection.com
+aflac.socialports.com
 aflacareer.com
 aflacglobal.com
 aflacinsurancebroker.com
@@ -89427,6 +89428,7 @@ vitinhmxc.vn
 vivaclassic-promogive.com
 vividearth.com
 vivinlt.com
+vivintflorida.com
 vivity.quest
 vivnvt.com
 vixozenpoll.online
