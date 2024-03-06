@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 19:01:08 UTC 2024
-# Number of Entries: 7787
+# Fetch date: Wed Mar  6 19:12:05 UTC 2024
+# Number of Entries: 7786
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -188,6 +188,7 @@ aethergaming.store
 aexpertlover.com
 affiliateagoda.com
 affixresolve.pages.dev
+aflac-hr.com
 aflacglobal.com
 ag-jup.com
 agent-nulik.org
@@ -2037,7 +2038,6 @@ distribute-hbar.com
 distribute-woo.xyz
 distributed-ice.app
 distribution-blast.com
-distribution-layerzero.xyz
 distribution-manta.events
 distribution-metis.com
 distribution-pondcoin.com
@@ -2340,7 +2340,6 @@ events-pancakeswap.finance
 events-pandora.com
 events-polkadot.network
 events-portalgaming.com
-events-pythnetwork.com
 events-taiko.xyz
 eventspancakeswap.finance
 eventxtoken.network
@@ -4182,7 +4181,6 @@ moduler.network
 moeamask.com
 mogcoin-xyz.vercel.app
 mogcoin.rewardshare.info
-molina-healthcareinc.com
 molinahealthcare-careers.com
 mollytoken.com
 momentsbycandles.com
@@ -7033,7 +7031,6 @@ whitelistings-wormhole.com
 whitelistrabby.pages.dev
 whitelists-redstone.com
 whitelists-roninchain.com
-whitelists-tokens.net
 whsir.io
 wigggin.com
 wild.gift
@@ -7346,6 +7343,7 @@ www.metamaskai.top
 www.metamaskai.xyz
 www.metamaskarb.com
 www.metamaskcion.com
+www.metamaske.top
 www.metamasks.info
 www.metamasksupportcenter.com
 www.metamcvk.com
@@ -7711,6 +7709,7 @@ zhunihaoyun.info
 zignaly.q58h2p.com
 zigzagfi.live
 zimlndustries.com
+zircuit-app.one
 zircuit-app.org
 zircuits.xyz
 zjvslnnrkw.olep0.com
