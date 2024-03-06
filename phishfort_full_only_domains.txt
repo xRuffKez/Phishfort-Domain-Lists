@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 09:31:55 UTC 2024
-# Number of Entries: 105903
+# Fetch date: Wed Mar  6 09:42:01 UTC 2024
+# Number of Entries: 105907
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -26064,6 +26064,7 @@ dexstatuschain.com
 dexsuperdoge.pages.dev
 dexsv500.top
 dexswap.network
+dexsynage.web.app
 dexsync.net
 dexsync.pages.dev
 dexsynchrminset.com
@@ -40883,6 +40884,7 @@ kelpdao.fun
 kelpdao.live
 kelpdao.lol
 kelpdao.pro
+kelpdaostoken.xyz
 kelpdeo.xyz
 keltakbal.site
 kenbert.site
@@ -58104,6 +58106,7 @@ nanataku.inmint.io
 nanduspromedia.com
 nano-wallets.com
 nanoapebsc.com
+nanogatesphere.info
 nanohub-0n1force.com
 nanopassnft.co
 nanosychroinitializeds.com
@@ -58567,6 +58570,7 @@ newsmetamesk.com
 newsmetamesks.com
 newsouthwire.com
 newspecialsoffers.online
+newsupport.alkhaleej.com.sa
 newsystemresolve.live
 newtesla2023.io
 newtherewallet.com
@@ -62647,6 +62651,7 @@ pancake-swap.tech
 pancake-swap.trade
 pancake-swape.com
 pancake-swapfinance.pages.dev
+pancake-swapfinances.pages.dev
 pancake-swapi.web.app
 pancake-swapp.com
 pancake-swapp.finance
@@ -89346,7 +89351,6 @@ visitlinea.com
 visltsugartown.com
 vistashopee.com
 visualadvocacystrategies.com
-visualize-check.art
 vit-ethx.top
 vitadao.claims
 vitainu.art
