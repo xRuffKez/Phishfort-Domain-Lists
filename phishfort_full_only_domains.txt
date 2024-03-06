@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 17:14:37 UTC 2024
+# Fetch date: Wed Mar  6 17:24:15 UTC 2024
 # Number of Entries: 105928
 
 0-metemask.com
@@ -40995,6 +40995,7 @@ kidcalledbeasts.com
 kidex.market
 kidsofthapocalypse.store
 kidtings.com
+kier-careers.co.uk
 kiilabears.com
 kikidas81.com
 kiliancolin.com
@@ -76695,7 +76696,6 @@ seositesworld.online
 seotrooper.com
 seoulstars-nft.com
 sependella.site
-sepolia.eu
 sept-apps.pancakeswape.finance
 sept-outlook.pancakeswape.finance
 sept-www.apps.pancakeswape.finance
