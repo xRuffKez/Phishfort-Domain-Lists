@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 17:40:55 UTC 2024
-# Number of Entries: 7781
+# Fetch date: Wed Mar  6 17:50:44 UTC 2024
+# Number of Entries: 7786
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -1946,6 +1946,7 @@ defiproject.info
 defiprovider.net
 defisaver.at
 defisentry.net
+defisentry.pages.dev
 defisrhino.net
 defitrader-coin.io
 defiwebchains.org
@@ -5404,6 +5405,7 @@ reconnectto.org
 rect-c0nnrtc.pages.dev
 rect-fixdapps.pages.dev
 rectificationdapps.onrender.com
+rectifier-sync.pages.dev
 rectifierprotocol.com
 rectifytrust.com
 rectifywallet.42web.io
@@ -6204,6 +6206,7 @@ support-walletrestoration.pages.dev
 support.pixelmon.tech
 supportmetamask-io.ddnss.eu
 supraoracle.xyz
+suprasync.pages.dev
 supratoken.xyz
 surrealogeek.com
 survey-arbitrium.com
@@ -6615,6 +6618,7 @@ unstoppablex.domains
 uonllineprofilleconnectderma.dynamic-dns.net
 update-metamask.pages.dev
 updatedexserver.net
+updatenow.pages.dev
 updates-metamask.pages.dev
 uphatwcth.com
 url-shortener.me
@@ -6667,6 +6671,7 @@ v3singularity.net
 v53xw-sqaaa-aaaad-qf42a-cai.icp0.io
 vader-protocol.xyz
 vailddapps.pages.dev
+validatechains.pages.dev
 validatedwallet.com
 validationpi.web.app
 validator-solscan.org
