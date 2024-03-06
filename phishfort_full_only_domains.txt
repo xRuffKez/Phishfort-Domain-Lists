@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 02:08:15 UTC 2024
-# Number of Entries: 105855
+# Fetch date: Wed Mar  6 02:19:19 UTC 2024
+# Number of Entries: 105854
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -57701,7 +57701,6 @@ mynodeswallet.online
 mynymcu.beget.tech
 myob.business
 myob.finance
-myob.network
 myofferonlinecheck.xyz
 myoknawell.com
 myomonero.com
@@ -83413,7 +83412,6 @@ thebakerynft.com
 thebankcbk.online
 thebastards.nft-premint.com
 thebaycompany-ca.com
-thebaysc.com
 thebestnft.gq
 thebey-ca.claimy.club
 thebey-ca.offerfun.club
@@ -96782,6 +96780,7 @@ www.cs-gonnonieytrade.top
 www.cs-gonnonieytrade.xyz
 www.cs-skinstrade-money-go.top
 www.cs.shallwemeetup.com
+www.csagoda.com
 www.csgo-meta.com
 www.csgo2-trmoney.world
 www.csgoroll-app.life
