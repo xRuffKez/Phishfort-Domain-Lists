@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 15:31:01 UTC 2024
-# Number of Entries: 7772
+# Fetch date: Wed Mar  6 15:40:42 UTC 2024
+# Number of Entries: 7773
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -892,6 +892,7 @@ balancer-je8.pages.dev
 balancer-web3.xyz
 balst.io
 bananangun.app
+bancontact.pay-startauth.com
 bang-blast.io
 bankinging.com
 bankless-claims.net
