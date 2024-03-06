@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 09:01:13 UTC 2024
-# Number of Entries: 7754
+# Fetch date: Wed Mar  6 09:13:41 UTC 2024
+# Number of Entries: 7758
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -261,6 +261,7 @@ airdrop-defi.online
 airdrop-earn.com
 airdrop-farcana.com
 airdrop-gomble.app
+airdrop-info.lol
 airdrop-injective.icu
 airdrop-injective.top
 airdrop-jup.one
@@ -2831,6 +2832,7 @@ hub-injective.app
 hub-maker.org
 hubsoasys.games
 hubuoasys-games.com
+humminglinkgg.world
 hwy407etr.com
 hxsn.xyz
 hydro-protocol.xyz
@@ -3035,6 +3037,7 @@ jointoexposed.com
 joinweb-3.com
 jokewoods.maryboye.tv
 journeymantle.one
+joyouslinkew.world
 joysonseafety.com
 jpzhgw.sbs
 jrobotics.com
@@ -4338,6 +4341,7 @@ neomcareers.cloud
 neomcareers.life
 neomonlines.info
 neomprojects-ksa.net
+neomsuppliers.net
 neotokyohq.pro
 net-drop.netlify.app
 netnftframe.com
