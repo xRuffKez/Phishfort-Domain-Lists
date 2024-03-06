@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 02:16:02 UTC 2024
-# Number of Entries: 7719
+# Fetch date: Wed Mar  6 02:25:03 UTC 2024
+# Number of Entries: 7712
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -1953,7 +1953,6 @@ deskauthnode.xyz
 deskmainnetsynch.com
 detma-secure.insystdetmaa.in
 detma.online
-detmassagoverst.com
 detmauibenefits.org
 dev-c2usdt.pantheonsite.io
 dev-dese-mo-gov.pantheonsite.io
@@ -4250,7 +4249,6 @@ mynewmont.us
 mynewmontbonk.com
 myob.business
 myob.finance
-myob.network
 myria-game.com
 myrianewmigration.pro
 myrmourneco.org
@@ -4851,7 +4849,6 @@ paxfulproblems.com
 paxfult.com
 paxfulteams.com
 paxoinx.com
-paxos-gold.org
 paxos-network.com
 paxos-okta.com
 paxos-token.org
@@ -5074,7 +5071,6 @@ prismafinance.app
 private-degenape.com
 privateequitydepartment.com
 pro-collab.land
-pro-maxex.com
 pro-zetachain.com
 procch.net
 procchfx.com
@@ -5875,7 +5871,6 @@ sltarlcnetdrop.pw
 smaarhtmaiigrathhe.com
 smahtconhtraact.com
 smanbi.shop
-smardwhitelistdexcrypt.pro
 smart-dapp.onrender.com
 smart-edu-co.online
 smart-layer-claim.net
@@ -6291,7 +6286,6 @@ the-one-staking.cc
 the-one-staking.com
 theabcroofing.com
 thebaycompany-ca.com
-thebaysc.com
 thecouragedoog.live
 theemiraetesgroup.com
 theemiratesgroupae.com
@@ -6495,7 +6489,6 @@ ufalmassuissat.com
 ufgw.top
 uhcdapp-apply-srv-eligible.glitch.me
 uhcrecruit.com
-ui-online.cyclic.app
 uidetmabenefits.org
 uimassbenefts.org
 uiredofmassucherndy.com
@@ -7085,7 +7078,6 @@ www.asx-genten.com
 www.asx-gsncq.top
 www.asx-idn.com
 www.asx-panrg.top
-www.asx-tsesa.top
 www.asxcions.com
 www.asxidn.com
 www.ator.claimfree.xyz
@@ -7138,6 +7130,7 @@ www.consorcioempreswebs.info
 www.cosmicchronica.xyz
 www.cpcalendars.imap.api.mail.pancakeswaps.org
 www.cryptopreneur.community
+www.csagoda.com
 www.cudos.site
 www.dappbrowser.info
 www.dappmainnetnode.com
