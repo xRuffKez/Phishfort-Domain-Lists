@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 10:25:12 UTC 2024
-# Number of Entries: 105907
+# Fetch date: Wed Mar  6 10:32:56 UTC 2024
+# Number of Entries: 105909
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -57723,6 +57723,7 @@ mynodeswallet.online
 mynymcu.beget.tech
 myob.business
 myob.finance
+myob.network
 myofferonlinecheck.xyz
 myoknawell.com
 myomonero.com
@@ -98642,6 +98643,7 @@ www.metamaskrecovry.com
 www.metamasks-drop.com
 www.metamasks.app
 www.metamasks.blog-update.com
+www.metamasks.info
 www.metamaskssdf.com
 www.metamasksupportcenter.com
 www.metamaskswallets.com
