@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 04:15:08 UTC 2024
-# Number of Entries: 105856
+# Fetch date: Wed Mar  6 04:24:30 UTC 2024
+# Number of Entries: 105858
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1401,6 +1401,7 @@
 5vvwwuniswap.top
 5vwwuniswap.top
 5ybqdy.nmoamult.com
+6-chess.online
 6-collab-land.pro.1-collab-land.pro
 6-paxful.com
 60k10ljco1mzkjb.amazon.wiki.pancakeswape.finance
@@ -96297,6 +96298,7 @@ www.caspa-network.xyz
 www.cathartesnft.com
 www.cazuo.net
 www.cbplustrade.com
+www.cbrevokedapp.org
 www.cbridge-celer-network.online
 www.cbridge-explorer.com
 www.cbridge-netwerk.com
