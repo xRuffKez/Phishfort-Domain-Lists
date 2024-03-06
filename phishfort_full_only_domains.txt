@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 18:15:34 UTC 2024
-# Number of Entries: 105940
+# Fetch date: Wed Mar  6 18:25:29 UTC 2024
+# Number of Entries: 105943
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -38845,6 +38845,7 @@ imap.twitter-events22.com
 imatoken.icu
 imatoken.net.cn
 imboutapparel.com
+imcoelecsac.com
 imcoinbaserb.com
 imcoinbaserd.com
 imctoken-promogive.com
@@ -71359,6 +71360,7 @@ protocol-fix.org
 protocol-lens.com
 protocol-lens2.xyz
 protocol-lensxyz.com
+protocol-mainnet-sync.web.app
 protocol-metavault.com
 protocol-nearwallet.blogspot.com
 protocol-node.pages.dev
@@ -71565,6 +71567,7 @@ ptok.live
 ptrade-paxful.com
 ptsupamratbk.com
 ptt97.com
+pub-0186f027c154484fbcbeb90161ab83cf.r2.dev
 pub-04d374bc3c5846c5b2be121fb89a8304.r2.dev
 pub-07de391a022d4da1becd7ab6f6ac5b08.r2.dev
 pub-0cfe3415fa8c4bf1a3062aea01c52f88.r2.dev
