@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 11:52:00 UTC 2024
-# Number of Entries: 105912
+# Fetch date: Wed Mar  6 12:04:21 UTC 2024
+# Number of Entries: 105913
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -76027,6 +76027,7 @@ seatsuntse.netlify.app
 sebaequity.com
 sebastianbehar.com
 sebatrust.sethia.co.in
+sebavip.com
 sebiltv.com.tr
 sebm-1usr.info
 sec-tool.net
