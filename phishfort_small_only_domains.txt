@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 04:13:57 UTC 2024
-# Number of Entries: 7710
+# Fetch date: Wed Mar  6 04:23:34 UTC 2024
+# Number of Entries: 7711
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -106,6 +106,7 @@
 5f8d9eb3.d10f05e59e81e2f9cfa61b7e.workers.dev
 5ninja-cup.com
 5raydium.sbs
+6-chess.online
 63352955.b1b41177a5690aba217097d9.workers.dev
 63d5829e-10dfb4e7.viewdocumentw.click
 65c929ede29cb759e486af81--rainbow-choux-6218fe.netlify.app
@@ -4882,7 +4883,6 @@ pcylccity.com
 pcylocity.com
 pcyloclty.com
 pdugyworld.com
-pea.lz-th.cc
 pea.zxco.cc
 peapodsfinance.app
 peapodsfinanceweb.com
@@ -7114,6 +7114,7 @@ www.butterfieldoffshore.com
 www.bybit-award.io
 www.cake-reward.shop
 www.cakes-reward.xyz
+www.cbrevokedapp.org
 www.celerswap.top
 www.chain-cross.link
 www.chainbugs.dev
