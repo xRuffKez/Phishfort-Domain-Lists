@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 12:15:15 UTC 2024
-# Number of Entries: 7770
+# Fetch date: Wed Mar  6 12:28:17 UTC 2024
+# Number of Entries: 7775
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -156,6 +156,7 @@ abict.net
 aboldrevolution.com
 abosslab.com
 abracadebra.money
+academy.topbundalle.com
 acahealthinsure.com
 accept-farcana.com
 access.roninchain.app
@@ -452,6 +453,7 @@ amlsecure.org
 amlwallet.online
 amlzero.com
 amplifylevel.webcloner.net
+an.intelectui.online
 an.myudetma.online
 analos-claim.netlify.app
 analos-kohl.vercel.app
@@ -2450,6 +2452,7 @@ flokiairdrop.top
 flokibox.vip
 flokicoinairdrop.com
 flokievent.netlify.app
+flokii.xyz
 flowerand7.xyz
 fluffy-hotteok-b5b58b.netlify.app
 fluxfinance.app
@@ -3009,6 +3012,7 @@ joblessassistanceportal.net
 join-aofverse.com
 join-befilabs.com
 join-collabland-sync.net
+join-etherfi.work
 join-galxe.com
 join-gitcoin.xyz
 join-jup.app
@@ -4625,6 +4629,7 @@ opensea.io.in
 opensea.lc
 openseaclaimnfts.com
 openseanft.one
+openseap1.vercel.app
 openseapo.vercel.app
 openseapr-claim-rose.vercel.app
 openseapro-claims.vercel.app
