@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 14:23:29 UTC 2024
-# Number of Entries: 7770
+# Fetch date: Wed Mar  6 14:30:56 UTC 2024
+# Number of Entries: 7773
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -1183,6 +1183,7 @@ brldgeharmone.org
 brldgemantle.com
 brldgmantle.com
 brrc20.pro
+brustolkmasschendrst.com
 btc-etftoken.web.app
 btcetf-token.net
 btcetftoken.launch-pad.site
@@ -2716,6 +2717,7 @@ gorilladefi-io.web.app
 gotravel-united.com
 grab-farcanacom.pages.dev
 grab-zetachain.com
+grandomaster.com
 grapepubliczk.org
 graphtoken.net
 graybarz.com
@@ -4875,6 +4877,7 @@ paulmulleracademico.com
 pavillionconstruction.com
 pax-f.netlify.app
 paxful-clo.com
+paxful-web.com
 paxful.business
 paxful.payment-offer.com
 paxful78291047.com.ng
