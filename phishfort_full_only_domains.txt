@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 12:16:38 UTC 2024
-# Number of Entries: 105913
+# Fetch date: Wed Mar  6 12:31:21 UTC 2024
+# Number of Entries: 105919
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2247,6 +2247,7 @@ academy-giveaway.com
 academy.farm.com.sa
 academy.pancakeswasap.one
 academy.ppancakeswap.info
+academy.topbundalle.com
 acader.site
 acahealthinsure.com
 acaia.in.net
@@ -4660,6 +4661,7 @@ an-app-magiceden.blogspot.com
 an-metamesk.com
 an-metamessk.com
 an-mettmask.com
+an.intelectui.online
 an.myudetma.online
 anadolsun.site
 analos-claim.netlify.app
@@ -33195,6 +33197,7 @@ flokielon-giveaway.com
 flokievent.netlify.app
 flokifam-promogive.com
 flokigiving.com
+flokii.xyz
 flokiinu-drop.pro
 flokiinu-promogive.com
 flokiinu.digital
@@ -40260,6 +40263,7 @@ join-dimensionals.com
 join-efinity.org
 join-era.org
 join-eth-promotion.ethereum-giveaway.net
+join-etherfi.work
 join-floki.xyz
 join-ftm.net
 join-gala.com
@@ -61256,6 +61260,7 @@ openseaofficial.io
 openseaon.com
 openseaor.com
 openseaos.com
+openseap1.vercel.app
 openseaplus.net
 openseapo.vercel.app
 openseapr-claim-rose.vercel.app
@@ -70868,6 +70873,7 @@ preferbehavioral.com
 prefertoken.com
 prehost86.pancakeswape.finance
 prelanding.pages.dev
+prelaunch.aidrip.xyz
 premierholdingsltd.com
 premint-adidas.com
 premint-app.online
