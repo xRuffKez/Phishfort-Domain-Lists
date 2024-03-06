@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 10:24:22 UTC 2024
-# Number of Entries: 7763
+# Fetch date: Wed Mar  6 10:32:17 UTC 2024
+# Number of Entries: 7765
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -4275,6 +4275,7 @@ mynewmont.us
 mynewmontbonk.com
 myob.business
 myob.finance
+myob.network
 myria-game.com
 myrianewmigration.pro
 myrmourneco.org
@@ -7324,6 +7325,7 @@ www.metamaskai.top
 www.metamaskai.xyz
 www.metamaskarb.com
 www.metamaskcion.com
+www.metamasks.info
 www.metamasksupportcenter.com
 www.metamcvk.com
 www.metemeak.io
