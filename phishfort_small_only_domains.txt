@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 20:30:44 UTC 2024
-# Number of Entries: 7786
+# Fetch date: Wed Mar  6 20:40:44 UTC 2024
+# Number of Entries: 7787
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -6740,6 +6740,7 @@ vertexprotocol.top
 vesting-port3.io
 vhvhgv.pages.dev
 viacripto.com
+victorianwoodsstudio.com
 vietnamtiktok.com
 vietnamtiktok.shop
 view.lamz-group.life
