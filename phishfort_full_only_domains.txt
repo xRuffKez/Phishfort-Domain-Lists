@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 03:02:52 UTC 2024
-# Number of Entries: 105853
+# Fetch date: Wed Mar  6 03:14:43 UTC 2024
+# Number of Entries: 105854
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -57806,6 +57806,7 @@ mysterybox-binance.com
 mysterybox-live.net
 mysterybox-nft.com
 mysterybox.cf
+mysterybox28.vercel.app
 mysterybox32.vercel.app
 mysteryboxnow.vercel.app
 mysteryclaimsnft.vercel.app
