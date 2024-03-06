@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 14:40:55 UTC 2024
+# Fetch date: Wed Mar  6 14:51:03 UTC 2024
 # Number of Entries: 7773
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3462,7 +3462,6 @@ m.auditoriumignition.top
 m.cdzhjzx.com
 m.dscd888.com
 m.dzsqc.com
-m.ecoblymdqkdcy.com
 m.eq-energyplan-india.com
 m.equinor-india.com
 m.hongcsx.cn
@@ -7257,6 +7256,7 @@ www.get-metis.com
 www.getben.xyz
 www.git.home.hostmaster.coingecko.hatsuqat.com
 www.gitlab.auth.root.dappradar.is
+www.globalpaymentsyttww.com
 www.globalpaymentsytww.com
 www.goaldigerz.com
 www.gomining.site
