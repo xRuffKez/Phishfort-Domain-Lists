@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 16:34:31 UTC 2024
-# Number of Entries: 105925
+# Fetch date: Wed Mar  6 16:41:48 UTC 2024
+# Number of Entries: 105928
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -41625,6 +41625,7 @@ kucoinwallet.xyz
 kucroin.com
 kucrypto.net
 kudomachi.giveaway-mint.com
+kuduips.com
 kuengznft.com
 kueoin.com
 kufrox.com
@@ -81730,6 +81731,7 @@ swipeswap.io
 swirebit.com
 swissgoldtrading.shop
 swissswifttoken.club
+swistonjewellers.com
 switch-paxful.pro
 switch-rectifier.netlify.app
 switch.synyswaps.io
@@ -90807,6 +90809,7 @@ wallet.synwalletvalidation.com
 wallet.terezor.io
 wallet.terzcr.com
 wallet.thetatoken.trade
+wallet.ton-kepeer.com
 wallet.trczor.com
 wallet.trezcr.com
 wallet.trezor-io.co
