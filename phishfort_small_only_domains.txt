@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 08:14:26 UTC 2024
-# Number of Entries: 7750
+# Fetch date: Wed Mar  6 08:25:17 UTC 2024
+# Number of Entries: 7752
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -4382,6 +4382,7 @@ newwhitelistdex.pages.dev
 newwhitelistradar.pages.dev
 nexes.live
 nexis-network.live
+nexisnetwork.xyz
 nextgenfintech.lat
 nfclaimopensea.vercel.app
 nfgrex1.pro
@@ -7675,6 +7676,7 @@ zhunihaoyun.info
 zignaly.q58h2p.com
 zigzagfi.live
 zimlndustries.com
+zircuit-app.org
 zircuits.xyz
 zjvslnnrkw.olep0.com
 zk-beam.org
