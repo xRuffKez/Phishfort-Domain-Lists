@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 08:41:41 UTC 2024
-# Number of Entries: 105897
+# Fetch date: Wed Mar  6 08:51:50 UTC 2024
+# Number of Entries: 105899
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -39672,6 +39672,7 @@ invite-linea.com
 invite-manta.com
 invite-okx.com
 invite-pacmoon.xyz
+invite-pepe.com
 invite-roninchain.com
 invite-starknet.org
 invite-sui.com
@@ -90682,6 +90683,7 @@ wallet.near-network.org
 wallet.near-network.website
 wallet.nnymonero.com
 wallet.nnynnonero.com
+wallet.orb-crypto.com
 wallet.ordinals.tezosapp.live
 wallet.outrightchain.live
 wallet.palygon-tehcnoiagy.com
