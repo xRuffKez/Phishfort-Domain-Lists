@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 14:13:05 UTC 2024
-# Number of Entries: 7775
+# Fetch date: Wed Mar  6 14:23:29 UTC 2024
+# Number of Entries: 7770
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -2098,7 +2098,6 @@ dsr4w.pages.dev
 dtechdatacorp.com
 duegaigh.buzz
 duke-florence-finance.co
-dulcie.vip
 dumalomas.com
 durexwalletbridge.co.za
 dutysyncdapp.pages.dev
@@ -2301,7 +2300,6 @@ etherugases.xyz
 ethfi.global
 ethgases.xyz
 ethgasrefund.net
-ethhlh.com
 ethibainu.network
 ethmetamask.com
 ethnft.app
@@ -2545,7 +2543,6 @@ fun.cosmicpets.info
 funairdrop.fun
 funairdrop.online
 funairdrop.vip
-funairdrop.xyz
 funkapez.com
 fusestaking.app
 fusionist.trading
@@ -3779,7 +3776,6 @@ masslottery.lotteryvault.net
 masslottery.online
 masslouilionusma.com
 massonline.mprofile.org
-masssccaradd.com
 massuiprofilelogin.onrender.com
 master-brain.com
 mastersrewind.com
@@ -4318,7 +4314,6 @@ myuionlinedettmadma.com
 myuionlinedettmadma.info
 myuionlineedetmadma.info
 myuionlineedetmadma.net
-myuionlineedettmadmu.info
 myuionlinneedettmadmu.com
 myuionlinneedettmadmu.net
 myuionlinneedettmadmu.org
@@ -4576,7 +4571,6 @@ on-407etr.com
 on-chainfix.com
 on1force.web.app
 onbean.network
-onchain-ai.online
 onchain-api.onrender.com
 onchainmonkeys.shop
 onchainmonkeys.tech
@@ -4919,6 +4913,7 @@ payment-etr407.com
 payment407etr.com
 payments-407etr.com
 payoutinfomation.us-mia-1.linodeobjects.com
+payrollfrommyhel.com
 paywithpicoinnetwork.com
 pcpgxr.top
 pcs-cakexdefi.com
