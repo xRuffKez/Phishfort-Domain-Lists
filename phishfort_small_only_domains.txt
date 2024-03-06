@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 20:40:44 UTC 2024
-# Number of Entries: 7787
+# Fetch date: Wed Mar  6 20:50:47 UTC 2024
+# Number of Entries: 7786
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -6781,7 +6781,6 @@ vskyn.com
 vulcanforged-claim.com
 vult.codefinesse.com
 vveb3-vvallete-apa.top
-vveb3-vvallete-ape.top
 vvebexx.co
 vww.monzgroups.cc
 vww.raczgroups.xyz
