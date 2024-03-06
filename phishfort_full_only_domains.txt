@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 05:41:42 UTC 2024
-# Number of Entries: 105868
+# Fetch date: Wed Mar  6 05:52:09 UTC 2024
+# Number of Entries: 105872
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -7869,6 +7869,7 @@ asset-collab.land
 asset-connect.org
 asset-erc-20-token.com
 asset-sync.site
+asset-validation.info
 asset-verify.org
 assetaccess.site
 assetauthenticate.net
@@ -73195,6 +73196,7 @@ refunds-multichain.com
 refunds-multichain.net
 refuteadverse.xyz
 reg-dym.xyz
+reg-etherfi.app
 reg-jup.com
 reg-linea.build
 reg-looksrare.org
@@ -87544,6 +87546,7 @@ unstoppabledomains.me
 unstoppabledomains.metaducks.com.ru
 unstoppabledomains.mobi
 unstoppabledomains.promo
+unstoppableweb.digital
 unstoppablex.domains
 unswap.site
 unswapp.org
@@ -102231,6 +102234,7 @@ x-erc20.com
 x-ethereum.com
 x-gives.blogspot.com
 x-launcher.eu
+x-launches.com
 x-musk.fun
 x-pad.top
 x-padio.top
