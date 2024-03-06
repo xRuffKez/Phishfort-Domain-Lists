@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 18:14:18 UTC 2024
-# Number of Entries: 7786
+# Fetch date: Wed Mar  6 18:24:36 UTC 2024
+# Number of Entries: 7787
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -160,7 +160,6 @@ academy.topbundalle.com
 acahealthinsure.com
 accept-farcana.com
 access.roninchain.app
-accmyska.com
 account-407etr.com
 accountrevive.pages.dev
 accountsportal.net
@@ -5145,6 +5144,7 @@ protect-solana.xyz
 protect-wallet.io
 protectsolana.shop
 protocol-carv.nl
+protocol-mainnet-sync.web.app
 protocol-node.pages.dev
 protocol-wallet.pages.dev
 protocolframe.net
@@ -5159,6 +5159,7 @@ proximus-recovery.be
 psgyh.top
 psychome.co
 ptlclaim.xyz
+pub-0186f027c154484fbcbeb90161ab83cf.r2.dev
 pub-07de391a022d4da1becd7ab6f6ac5b08.r2.dev
 pub-17e2d2e910694763a8cb5ff43c671f14.r2.dev
 pub-1c497a63b4ea4d20835eafbe23631624.r2.dev
