@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 05:40:45 UTC 2024
-# Number of Entries: 7720
+# Fetch date: Wed Mar  6 05:51:06 UTC 2024
+# Number of Entries: 7725
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -769,6 +769,7 @@ arweave-upload-rho.vercel.app
 ascendcoin.net
 aserolanarcissashop.com
 asolgift.com
+asset-validation.info
 assets-collabland.com
 assiestwebcadbot.tech
 astar-network.com-t.co
@@ -4663,6 +4664,7 @@ paalai.airdrop.cfd
 paalbeta-ai.app
 paalbeta-launchpad.app
 paalmind.com
+paalmint.com
 paalpool.xyz
 pacific-bridge-manta-network.cyou
 pacific-bridge-manta.cyou
@@ -5377,6 +5379,7 @@ refreshingsiqnaccoount.com
 refund-agoda.com
 refund.shidoprotocols.com
 reg-dym.xyz
+reg-etherfi.app
 reg-jup.com
 reg-linea.build
 reg-metis.io
@@ -6561,6 +6564,7 @@ unstoppabledomains.games
 unstoppabledomains.me
 unstoppabledomains.metaducks.com.ru
 unstoppabledomains.mobi
+unstoppableweb.digital
 unstoppablex.domains
 uonllineprofilleconnectderma.dynamic-dns.net
 update-metamask.pages.dev
@@ -7495,6 +7499,7 @@ wwwns1.smtp.old.newpardigm-manta.network
 wwwwarm.xyz
 x-altlayer.com
 x-launcher.eu
+x-launches.com
 x-revoke.cash
 x-woo.net
 xai-claim.netlify.app
