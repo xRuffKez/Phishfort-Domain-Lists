@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 06:26:31 UTC 2024
+# Fetch date: Wed Mar  6 06:33:57 UTC 2024
 # Number of Entries: 105887
 
 0-metemask.com
@@ -3487,7 +3487,6 @@ airdrop-traitsniper.top
 airdrop-treasure.com
 airdrop-trezor-eth.accesng.com
 airdrop-trias.com
-airdrop-trust.com
 airdrop-trustpad.io
 airdrop-trustwallet.io
 airdrop-ubx.com
@@ -11455,7 +11454,6 @@ binance.com7816623.gq
 binance.com87654897.ml
 binance.com986213.ga
 binance.com987574.ml
-binance.cricket
 binance.date
 binance.delivery
 binance.dexmx.site
@@ -62207,6 +62205,7 @@ pacnakewsap.finance
 pacnakswap.com
 pacncakenswap.com
 pacnekeswap.com
+pacnoon.co
 padariapaodeleitebitkubb.blogspot.com
 padchain-gpt.org
 pads.freedrps.top
@@ -66259,6 +66258,7 @@ pandora-drop.com
 pandora-eligibility.com
 pandora-launchpad.com
 pandora-sales.pancakeswapunlocks.online
+pandoraerc.xyz
 pandoschi.xyz
 pandoshi-d.pages.dev
 pandoshi.net
