@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 08:02:14 UTC 2024
+# Fetch date: Wed Mar  6 08:14:26 UTC 2024
 # Number of Entries: 7750
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4273,7 +4273,6 @@ myrianewmigration.pro
 myrmourneco.org
 myro-airdrop.xyz
 myrobase.com
-myromother-get-5esqx.netlify.app
 myselfio.xyz
 mysofinance.net
 mystery-axieinfinity.claims
@@ -6927,6 +6926,7 @@ webmail.staging.io.1inch.help
 webmainnet.net
 webmultiverse-multichain.eu
 webmultiverse-smartchain.xyz
+webnet3.com
 webonlinez.ru.com
 webonlinez.sa.com
 webonlinjes.za.com
