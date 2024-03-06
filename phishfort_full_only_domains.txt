@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 14:24:03 UTC 2024
-# Number of Entries: 105919
+# Fetch date: Wed Mar  6 14:31:55 UTC 2024
+# Number of Entries: 105921
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -14248,6 +14248,7 @@ bruh-pills.xyz
 bruhbears.xyz
 brunettewallstreet.com
 brunkowcheese.com
+brustolkmasschendrst.com
 brute-walletconnect.com
 brw20.com
 bryantroll.com
@@ -36684,6 +36685,7 @@ granary-finance.com
 grandairfares.com
 grandapegang-mint.com
 granddesignvr.com
+grandomaster.com
 grandpa-apecc.freemiting.cyou
 grandpaapes.netlify.app
 grant-finance-program.org
