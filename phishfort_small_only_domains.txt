@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 16:33:11 UTC 2024
-# Number of Entries: 7775
+# Fetch date: Wed Mar  6 16:40:56 UTC 2024
+# Number of Entries: 7777
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -3184,6 +3184,7 @@ kryptexx.com
 ksaneomcareers.top
 kstmple.pages.dev
 ktogaza.pro
+kuduips.com
 kushflyusa.com
 kwool.ap-south-1.linodeobjects.com
 kyc.ledger-online.net
@@ -4915,7 +4916,6 @@ payment-407etr.com
 payment-etr407.com
 payment407etr.com
 payments-407etr.com
-payoutinfomation.us-mia-1.linodeobjects.com
 payrollfrommyhel.com
 paywithpicoinnetwork.com
 pcpgxr.top
@@ -6245,6 +6245,7 @@ swiftsynced.pages.dev
 swiftsyncrectify.pages.dev
 swiftwallet.pages.dev
 swiissworld.net
+swistonjewellers.com
 swop.ink
 sxb5f.info
 sync3kavva.netlify.app
@@ -6807,6 +6808,7 @@ wallet.launchpadxy.xyz
 wallet.mulltiversx.com
 wallet.orb-crypto.com
 wallet.ordinals.tezosapp.live
+wallet.ton-kepeer.com
 wallet.zkflre.io
 wallet7.vercel.app
 walletapp.samouraifinance.live
