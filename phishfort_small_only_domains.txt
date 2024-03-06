@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 05:30:56 UTC 2024
-# Number of Entries: 7719
+# Fetch date: Wed Mar  6 05:40:45 UTC 2024
+# Number of Entries: 7720
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -4658,6 +4658,7 @@ oz-repcacoin.ru
 ozon-giv.officialpage2024.shop
 p1290.trustsamco.online
 paal-ai.io
+paalai-beta.app
 paalai.airdrop.cfd
 paalbeta-ai.app
 paalbeta-launchpad.app
