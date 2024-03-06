@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 20:41:41 UTC 2024
-# Number of Entries: 105948
+# Fetch date: Wed Mar  6 20:51:43 UTC 2024
+# Number of Entries: 105950
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -145,6 +145,7 @@
 1-metemask.com
 1-myetherwallet.com
 1-myetherwallet.info
+1.globalpaymentsyttww.com
 1.globalpaymentsytww.com
 1000-rewards.com
 1000-usd.xyz
@@ -52792,6 +52793,7 @@ mohitprajapati.com
 moinulalam.com
 mojitoswep.finance
 mojoenergy-promogive.com
+molina-healthcareinc.com
 molinahealthcare-careers.com
 molinahealthcare-jobs.com
 molinahealthcareinc.com
