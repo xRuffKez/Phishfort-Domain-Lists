@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 17:23:40 UTC 2024
-# Number of Entries: 7775
+# Fetch date: Wed Mar  6 17:30:58 UTC 2024
+# Number of Entries: 7778
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -189,7 +189,6 @@ aethergaming.store
 aexpertlover.com
 affiliateagoda.com
 affixresolve.pages.dev
-aflac-hr.com
 aflacglobal.com
 ag-jup.com
 agent-nulik.org
@@ -1848,6 +1847,7 @@ dappswalletsnode.web.app
 dappsync-apw.pages.dev
 dapptest-mindnetwork.firebaseapp.com
 dapptest-mindnetwork.web.app
+dappwalletnode.pages.dev
 dappweb.vercel.app
 dapradar.eu
 dapraddar.com
@@ -2472,6 +2472,7 @@ forexinvest-start.com
 form-agooda.com
 form4tw.com
 formulir.site
+fortewebklap.pages.dev
 foundarb.xyz
 fox-dao.web.app
 fragnantinglev.life
@@ -6236,6 +6237,7 @@ swiftappmigration.pages.dev
 swiftappsauth.pages.dev
 swiftathblocks.pages.dev
 swiftchainsrectify.pages.dev
+swiftdapppad.pages.dev
 swiftdappweb.pages.dev
 swiftnestperceptiveath.pro
 swiftnodesresolve.pages.dev
@@ -6940,6 +6942,7 @@ webfixrpc.online
 webgraph.live
 webguardprotocol.xyz
 webizpay.com
+weblinknode.firebaseapp.com
 weblinknode.web.app
 weblinknodeapp.web.app
 webmail.arab-bkplc.com
