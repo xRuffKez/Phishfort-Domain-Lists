@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 11:31:10 UTC 2024
-# Number of Entries: 7767
+# Fetch date: Wed Mar  6 11:41:07 UTC 2024
+# Number of Entries: 7769
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -1038,6 +1038,7 @@ blackrockfund.xyz
 blackwomenwhorv.com
 blackyfantom.pro
 blanchefashions.shop
+blast-airdrop-io.site
 blast-airdrops.xyz
 blast-app.world
 blast-bf1.pages.dev
@@ -3521,6 +3522,7 @@ mailinfosec.info
 main-decentralised.pages.dev
 main-decentralized.pages.dev
 main-makerdao.com
+maindexapp.pages.dev
 mainnet-dymension.com
 mainnet-lineabuild.pages.dev
 mainnet-node.vercel.app
