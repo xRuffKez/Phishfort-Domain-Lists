@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 06:33:57 UTC 2024
-# Number of Entries: 105887
+# Fetch date: Wed Mar  6 06:41:50 UTC 2024
+# Number of Entries: 105886
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -57713,7 +57713,6 @@ mynodeswallet.online
 mynymcu.beget.tech
 myob.business
 myob.finance
-myob.network
 myofferonlinecheck.xyz
 myoknawell.com
 myomonero.com
@@ -75011,6 +75010,7 @@ rrinvestmentgrp.com
 rriyetherewallet.com
 rrlyetherwallet.com
 rroketpool-swap.online
+rroninchain.com
 rrr1145666.xyz
 rrryehlerewvallet.com
 rrryethereswallet.com
@@ -82536,7 +82536,6 @@ taiketsu.mint-launch.art
 taiko.airdmint.com
 taiko.io-c.org
 taiko.org-t.co
-taikopunks.com
 taikoxyz.com
 taiwannew.net
 taiyoil.web.app
