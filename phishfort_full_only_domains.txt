@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 02:51:55 UTC 2024
-# Number of Entries: 105854
+# Fetch date: Wed Mar  6 03:02:52 UTC 2024
+# Number of Entries: 105853
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -231,7 +231,6 @@
 1coinbase.com
 1coinmarketcap.site
 1coinswap.com
-1cosmos.io
 1cryptowallet.net
 1d4f0331-eb63-4d85-9d57-7dacc20bff64-00-3t07qm8fsr0w5.janeway.replit.dev
 1dayapproveloans.ink
@@ -9814,6 +9813,7 @@ babygrok-ai.top
 babyinch.app
 babyionchain.app
 babylon.trading
+babylonnchain.app
 babymetamask.com
 babymetamasks.com
 babymutantapeyachtclub.com
@@ -26407,7 +26407,6 @@ directmergedappslinkup.com
 directorysmartapp.pro
 directoryuniversalfix.pro
 directpay-paxful.com
-directresolutionserver.pro
 directsupplys1.com
 directsyncserver.pro
 directvalidator.com
