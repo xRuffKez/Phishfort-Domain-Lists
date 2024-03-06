@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 20:50:47 UTC 2024
-# Number of Entries: 7786
+# Fetch date: Wed Mar  6 21:01:04 UTC 2024
+# Number of Entries: 7787
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -20,6 +20,7 @@
 1-inch.network
 1-inch.xyz
 1-lnch.com
+1.globalpaymentsyttww.com
 1.globalpaymentsytww.com
 123-bti.pages.dev
 162814-coinbase.com
@@ -1973,7 +1974,6 @@ deskauthnode.xyz
 deskmainnetsynch.com
 detma-secure.insystdetmaa.in
 detma.online
-detmauibenefits.org
 dev-c2usdt.pantheonsite.io
 dev-dese-mo-gov.pantheonsite.io
 dev-the-metamask-support.pantheonsite.io
@@ -2458,6 +2458,7 @@ fluxfinance.app
 flxedfloat.pages.dev
 flyemirates.space
 flyemiratescareer.com
+flyemiratesonline.com
 flyingtogether.website
 flyunitedworld.com
 fnx-marketrade.com
@@ -4182,6 +4183,7 @@ moduler.network
 moeamask.com
 mogcoin-xyz.vercel.app
 mogcoin.rewardshare.info
+molina-healthcareinc.com
 molinahealthcare-careers.com
 mollytoken.com
 momentsbycandles.com
@@ -5298,7 +5300,6 @@ qzptx.choncisev.ru
 r114.usdt6188.top
 r125.usdt6188.top
 r20.rs6.net
-r5eccrcz80ermzl.stellmsofts.xyz
 rabby-points.xyz
 rabby-support.pages.dev
 rabbyn0de.pages.dev
