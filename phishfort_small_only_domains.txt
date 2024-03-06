@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 08:41:03 UTC 2024
-# Number of Entries: 7752
+# Fetch date: Wed Mar  6 08:50:53 UTC 2024
+# Number of Entries: 7754
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -2948,6 +2948,7 @@ invcheck.sbs
 investmetlife.com
 invite-manta.com
 invite-pacmoon.xyz
+invite-pepe.com
 invite-starknet.org
 invite-sui.com
 invoice-407etr.com
@@ -6786,6 +6787,7 @@ wallet-virtual.net
 wallet-vulcan.xyz
 wallet.launchpadxy.xyz
 wallet.mulltiversx.com
+wallet.orb-crypto.com
 wallet.ordinals.tezosapp.live
 wallet.zkflre.io
 wallet7.vercel.app
