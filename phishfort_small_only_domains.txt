@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 04:30:54 UTC 2024
-# Number of Entries: 7713
+# Fetch date: Wed Mar  6 04:40:52 UTC 2024
+# Number of Entries: 7714
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -6215,6 +6215,7 @@ syncshot.pages.dev
 syncsolve-inchpd.com
 syncsswap.app
 syncswap-exchange.events
+syncswap.cldsxm.com
 syncswap.cloudscom.xyz
 syncswap.day
 syncswap.limited
