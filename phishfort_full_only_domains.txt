@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 06:02:47 UTC 2024
-# Number of Entries: 105874
+# Fetch date: Wed Mar  6 06:15:36 UTC 2024
+# Number of Entries: 105885
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -10734,6 +10734,7 @@ bencompstore.top
 benddao-web.com
 benddaonfts.com
 benddaostake.com
+benddoa.xyz
 bendogsolana.top
 bendoteth.com
 benefits-aave.com
@@ -17015,6 +17016,7 @@ claim.validations.tk
 claim.wallet-liquid.com
 claim.wallstmeme.live
 claim.wallstmmemmes.com
+claim.wallstretmemes.app
 claim.wbtccoin.org
 claim.wen.ag
 claim.xn--optimsm-ffb.net
@@ -41530,6 +41532,7 @@ kromatika-finance.xyz
 kronmeta-official-website.pages.dev
 krowfund.network
 krowtenoowtroppus.live
+krroma.network
 krushinews18.com
 kryoss.net
 krypt2.org
@@ -45713,6 +45716,7 @@ mafara.info
 mafia-animals.nft-premint.com
 mafia-animals.web3fast.net
 mafia-bank.xyz
+magamemecoin.cash
 magcednsolana.blogspot.com
 magento.pancakeswasap.one
 maggiceden.io
@@ -57709,6 +57713,7 @@ mynodeswallet.online
 mynymcu.beget.tech
 myob.business
 myob.finance
+myob.network
 myofferonlinecheck.xyz
 myoknawell.com
 myomonero.com
@@ -61246,6 +61251,7 @@ openseapro.org
 openseapro3claim.vercel.app
 openseapro55.vercel.app
 openseaproject-nft.vercel.app
+openseaproject82.vercel.app
 openseapromo.com
 openseaprotect.com
 openseaprotocol.com
@@ -73180,6 +73186,7 @@ refund-multichain.net
 refund-othersidemeta.xyz
 refund.mutanthapeprime.io
 refund.shidoprotocols.com
+refund.wallstretmemes.app
 refundclaim.net
 refundcoin.claims
 refundcoin.click
@@ -73205,6 +73212,7 @@ reg-looksrare.org
 reg-metis.io
 reg-nibiru.app
 reg-pandora.network
+reg-shido.app
 reg-woo.org
 regainaccess-to-dashboard.top
 regardingdefi.com
@@ -77212,6 +77220,7 @@ shidc.io
 shido-34p.pages.dev
 shido.rewardprogram.tech
 shido.tco-c.xyz
+shidoapp.work
 shielded-chain.com
 shienbr.com
 shiftersnft.io
@@ -84129,6 +84138,7 @@ token-gram.org
 token-hashgenerator.help
 token-helpline.com
 token-hex.net
+token-illuvium.com
 token-im-simtoken.site
 token-im.cc
 token-im66.com
@@ -93211,6 +93221,7 @@ web3-worldcoin.org
 web3-zapper.com
 web3-zksync.xyz
 web3.app
+web3.app-in-box.com
 web3.ca
 web3.center
 web3.direcdapps.com
