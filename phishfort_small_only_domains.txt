@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 00:44:36 UTC 2024
+# Fetch date: Wed Mar  6 01:12:30 UTC 2024
 # Number of Entries: 7719
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1024,7 +1024,6 @@ bitverablockverse.pages.dev
 biz.walconvis.xyz
 bks-at.com
 blackrockfund.xyz
-blackstoneten.com
 blackwomenwhorv.com
 blackyfantom.pro
 blanchefashions.shop
@@ -2157,7 +2156,6 @@ easyfixwallets.pages.dev
 ebay-666.com
 ebay-888.com
 ebayshop-us.com
-ecgpe.com
 echelon.gift
 ecocryptoworld.pro
 ecoglobalconnectvista.online
@@ -3391,6 +3389,7 @@ llamaswap.pages.dev
 lmeow.pw
 lnftclick.vercel.app
 lnjective.trading
+lnsgroup.net
 lnsulet.com
 lntrac-funds-instnat.digital
 lntrac-web-mobile.digital
@@ -6292,6 +6291,7 @@ the-one-staking.cc
 the-one-staking.com
 theabcroofing.com
 thebaycompany-ca.com
+thebaysc.com
 thecouragedoog.live
 theemiraetesgroup.com
 theemiratesgroupae.com
@@ -7084,7 +7084,6 @@ www.asx-coin.com
 www.asx-genten.com
 www.asx-gsncq.top
 www.asx-idn.com
-www.asx-mvebs.top
 www.asx-panrg.top
 www.asx-tsesa.top
 www.asxcions.com
@@ -7317,6 +7316,7 @@ www.notkem.com
 www.o2-login.info
 www.ondo-finance.info
 www.openseaclaimdropbox.com
+www.optbtcv.com
 www.optenvos.com
 www.optgous.com
 www.optorgo.com
