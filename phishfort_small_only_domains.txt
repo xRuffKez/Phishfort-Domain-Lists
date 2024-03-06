@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 05:13:16 UTC 2024
-# Number of Entries: 7714
+# Fetch date: Wed Mar  6 05:24:00 UTC 2024
+# Number of Entries: 7717
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -499,6 +499,7 @@ api.alpha.superset.ethshapella.com
 api.kava-api.live
 api.kavaguard.top
 api.kavanet.pro
+api.kavashield.icu
 api.kavasync.xyz
 api.kavasyncs.xyz
 api.kavaworlds.live
@@ -2123,6 +2124,7 @@ earlyadopterdegen.com
 earlyadopterfarmer.com
 earlyadopterhodler.com
 earn-analos.netlify.app
+earn-babylonchaln.app
 earn-defipool.com
 earn-dmail.com
 earn-drop.asia
@@ -6279,6 +6281,7 @@ testnets-reform.com
 testrunner111.pages.dev
 testrunner222.pages.dev
 testrunner333.pages.dev
+tether.com.se
 tether.is
 tetherlaupad.com
 tethermetamask.com
