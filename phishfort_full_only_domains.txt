@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 06:51:51 UTC 2024
-# Number of Entries: 105886
+# Fetch date: Wed Mar  6 07:02:43 UTC 2024
+# Number of Entries: 105888
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6614,6 +6614,7 @@ appmainnetservers.net
 appmainnetverify.com
 appmainrectify.com
 appmainsync.com
+appmangrove.exchange
 appmantradao.com
 appmav.site
 appmee6.com
@@ -10559,7 +10560,6 @@ bd-coinbase.com
 bdc20.com
 bdcoin.website
 bdctrust.com
-bdfl.wkzq.vip
 bdg20.com
 bdinamce.com
 bdk20.com
@@ -62205,6 +62205,8 @@ pacnakswap.com
 pacncakenswap.com
 pacnekeswap.com
 pacnoon.co
+pacnoon.net
+pacnoon.org
 padariapaodeleitebitkubb.blogspot.com
 padchain-gpt.org
 pads.freedrps.top
