@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 06:40:41 UTC 2024
-# Number of Entries: 7742
+# Fetch date: Wed Mar  6 06:50:43 UTC 2024
+# Number of Entries: 7743
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -3363,6 +3363,7 @@ link-vulcan.xyz
 link.gatekava.xyz
 link.kava-api.live
 link.kavaprotect.com
+link.kavashield.help
 link.kavaverse.one
 link.kavaworlds.top
 link.kavaxyz.pro
@@ -4264,7 +4265,6 @@ mynewmont.us
 mynewmontbonk.com
 myob.business
 myob.finance
-myob.network
 myria-game.com
 myrianewmigration.pro
 myrmourneco.org
@@ -5640,6 +5640,7 @@ rpchubnode.com
 rpcmodifier.com
 rrbxhe.top
 rrevoke.cash
+rroninchain.com
 rsmopt.com
 rsmtop.com
 rsr.gift
