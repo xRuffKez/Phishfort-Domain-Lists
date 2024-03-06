@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 05:51:06 UTC 2024
-# Number of Entries: 7725
+# Fetch date: Wed Mar  6 06:01:22 UTC 2024
+# Number of Entries: 7727
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -1455,6 +1455,7 @@ claims-metis.io
 claims-usdt.org
 claims.mantatokens.com
 claimsmart-layer.net
+claimsmemekombat.air-drop.dev
 claimstargate.com
 claimstrk.fun
 claimstrk.today
@@ -2125,6 +2126,7 @@ earlyadopterdegen.com
 earlyadopterfarmer.com
 earlyadopterhodler.com
 earn-analos.netlify.app
+earn-babylonchain.fund
 earn-babylonchaln.app
 earn-defipool.com
 earn-dmail.com
