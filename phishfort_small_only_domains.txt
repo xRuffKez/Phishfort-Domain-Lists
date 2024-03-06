@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar  6 15:50:59 UTC 2024
-# Number of Entries: 7773
+# Fetch date: Wed Mar  6 16:01:32 UTC 2024
+# Number of Entries: 7774
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -1357,6 +1357,7 @@ ciscojobsapply.com
 ciscojobsform.com
 ciscosystemsinc.online
 citions.vercel.app
+city-index.net
 cityindex-china.com
 cksurf.com
 cksurf.onelink.me
