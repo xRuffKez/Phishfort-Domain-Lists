@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 14:31:53 UTC 2024
-# Number of Entries: 105975
+# Fetch date: Thu Mar  7 14:41:43 UTC 2024
+# Number of Entries: 105977
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -25551,6 +25551,7 @@ defixrectify.live
 defiyield-pro.com
 defiyieldmining.com
 defj-kjngdooms.com
+deflexseax.xyz
 deflkingdom.live
 defllllama.com
 deflokmant.site
@@ -36230,6 +36231,7 @@ gl-havaspro.com
 gl-paxfulcoinbase.com
 gl-rsmopt.com
 glaberkantonalbank.com.opticsea.org
+glacierdivisons.pics
 glaconbtk.blogspot.com
 gladius.im
 gladius.ws
