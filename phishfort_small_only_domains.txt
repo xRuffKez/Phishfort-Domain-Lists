@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 20:22:03 UTC 2024
-# Number of Entries: 7778
+# Fetch date: Thu Mar  7 20:31:09 UTC 2024
+# Number of Entries: 7777
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -2667,7 +2667,6 @@ gl-havasapp.com
 gl-havaspro.com
 gl-rsmopt.com
 glaberkantonalbank.com.opticsea.org
-glacierdivisons.pics
 glhfers.xyz
 global-blockchain-4159.com
 global.onlineyshire-uk.com
@@ -7297,7 +7296,6 @@ www.layer-3.xyz
 www.lethid.com
 www.lexofsteel.com
 www.liniometa.com
-www.linkenfx.com
 www.lite.a.covv.site
 www.live-tiktok.shop
 www.login.verificationpaxful.info
@@ -7331,6 +7329,7 @@ www.metamaskai.top
 www.metamaskai.xyz
 www.metamaskarb.com
 www.metamaskcion.com
+www.metamaske.com.cn
 www.metamaske.top
 www.metamasks.info
 www.metamasksupportcenter.com
