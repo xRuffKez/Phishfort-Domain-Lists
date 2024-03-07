@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 16:31:50 UTC 2024
-# Number of Entries: 7768
+# Fetch date: Thu Mar  7 16:40:44 UTC 2024
+# Number of Entries: 7765
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -28,7 +28,6 @@
 189f40034be7a.fnnpron.nl
 191glkil7mb.irwd2wa.su
 1d4f0331-eb63-4d85-9d57-7dacc20bff64-00-3t07qm8fsr0w5.janeway.replit.dev
-1frags.com
 1icnh.com
 1ido-fi.github.io
 1incgh.io
@@ -5607,7 +5606,6 @@ rhinodao.app
 riboutlaw.top
 righteousforever.com
 righteousoforever.com
-ripple-airdrop.net
 ripplelimited-ceo.com
 ripplelimited-event.info
 rmrk-migration.site
@@ -6602,7 +6600,6 @@ update-metamask.pages.dev
 updatedexserver.net
 updatenow.pages.dev
 updates-metamask.pages.dev
-uphatwcth.com
 url-shortener.me
 url7923.marsello.io
 us-coinmarketcap.com
