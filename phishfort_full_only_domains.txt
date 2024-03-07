@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 07:41:44 UTC 2024
-# Number of Entries: 105965
+# Fetch date: Thu Mar  7 07:52:03 UTC 2024
+# Number of Entries: 105967
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -46950,6 +46950,7 @@ manyfaces.net.au
 manzta.network
 maokmspk.org
 maonster17.com
+maplestorysuniverse.io
 mapp.ttalk-bbs.com
 maqiceden-jo.com
 maqiceden.web.app
@@ -87336,6 +87337,7 @@ uniswapv2v1.org
 uniswapv3-amm.com
 uniswapv3.art
 uniswapv3lp.com
+uniswapv4-pool-waitlist.web.app
 uniswapv4.org
 uniswapv4.top
 uniswapvault.com
