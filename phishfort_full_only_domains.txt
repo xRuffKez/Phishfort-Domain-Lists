@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 06:15:58 UTC 2024
-# Number of Entries: 105962
+# Fetch date: Thu Mar  7 06:25:54 UTC 2024
+# Number of Entries: 105963
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -73984,6 +73984,7 @@ revokecash.network
 revokecash.pro
 revokecash.ruok.org
 revokecash.services
+revokecash.store
 revokecash.tools
 revokecash.top
 revokecash.vip
