@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 09:01:04 UTC 2024
-# Number of Entries: 7784
+# Fetch date: Thu Mar  7 09:13:03 UTC 2024
+# Number of Entries: 7785
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -4714,6 +4714,7 @@ palestran15.pages.dev
 palmai-techi.vercel.app
 pambopandoshi.site
 pan-cake.xyz
+pan-team3.com
 panacakeswap.tech
 pancackeswap-claim.web.app
 pancackeswap-fiannce.com
