@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 19:40:40 UTC 2024
-# Number of Entries: 7774
+# Fetch date: Thu Mar  7 19:50:48 UTC 2024
+# Number of Entries: 7775
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -7349,6 +7349,7 @@ www.mwallet8.com
 www.my43.icu
 www.myetherwallet.cm
 www.mynorway.net
+www.mypepsico.live
 www.mypethooligengame.com
 www.nasxcoins.com
 www.negrom.com
