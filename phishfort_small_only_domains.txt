@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 11:40:53 UTC 2024
-# Number of Entries: 7785
+# Fetch date: Thu Mar  7 11:51:04 UTC 2024
+# Number of Entries: 7778
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -489,7 +489,6 @@ apeswap.us
 apetarminal.pro
 apeteirminal.app
 apeterminal.link
-api-coliab-land.github.io
 api-collabland.land
 api-collabland.net
 api-collabland.web.app
@@ -691,6 +690,7 @@ arabbplc-ae.com
 arabi.page.link
 arabiconnect.activiteweb.center
 arabiconnect.smartradx.com
+aramex-delivery.me
 aramexame.com
 aramexservicevktb.world
 aramx-bahrain.yiff.fi
@@ -1278,7 +1278,6 @@ celastise.io
 celastise.net
 celatis.digital
 celatis.paperhand.fi
-celestia-modular.xyz
 celestia-network.com
 celestia-projects.net
 celestia.chain-spn.com
@@ -1565,7 +1564,6 @@ collab-land.lol
 collab-landbot-secure.com
 collab-lander.com
 collab-safety.xyz
-collab-secured.land
 collab-verification.land
 collab-verify.io
 collab.land-satoshivm.com
@@ -1715,7 +1713,6 @@ crypto.monszgrp.xyz
 crypto.pepzgroup.biz
 crypto.wormscommunity.xyz
 crypto11.bep666.top
-crypto14.bep666.top
 cryptohopperclaim.com
 cryptoinfosec.net
 cryptomaxapp.com
@@ -1823,7 +1820,6 @@ dapps-sync.vercel.app
 dapps-web3-connect.in
 dapps.toolsynchr.online
 dappsapi.pages.dev
-dappsbrowser.netfy.app
 dappscoinstats.pages.dev
 dappsconnectapp.pages.dev
 dappsconnects.vercel.app
@@ -1896,7 +1892,6 @@ decentralize.metis.wb3u.xyz
 decentralized-dapp.com
 decentralized-point.info
 decentralizedautofix.com
-decentralizeddapps.netlify.app
 decentralizedprotocolapp.web.app
 decentrausdchartfil.pages.dev
 decentrazerofusion.pages.dev
@@ -2212,6 +2207,7 @@ emiratedistributions.online
 emirates-procurement.com
 emirates-suppleirs.online
 emirates-tickets.com
+emirates.airfareuk.co.uk
 emirates.flightse.co
 emiratesairlines.info
 emiratesgroup.online
@@ -2597,7 +2593,6 @@ gedprefeituraimbituva.com.br
 gemg.vercel.app
 gemlink.xyz
 gempad-app.xyz
-gems-ideas.com
 generalmotorsplanta.com
 generalplanta.com
 genesis-dymension.xyz
@@ -4389,6 +4384,7 @@ newparadigms.manta-networks.org
 newparadiqm-manta.network
 newporkcoin.pages.dev
 newprovisionschainlink.org
+newsupport.alkhaleej.com.sa
 newtradedex.pages.dev
 newtresures-manta.network
 newwhitelistdex.pages.dev
@@ -4649,7 +4645,6 @@ opsecc.software
 optic-bridge.com
 optics-bridge.xyz
 optimism-events.com
-optimism-lo.news
 optimism-mode.network
 optimism-survey.com
 optimism.airdrops-claiming.cc
@@ -4723,6 +4718,7 @@ pancaikeswap.finance
 pancakaswaps.com
 pancake-finance.net
 pancake-frontend-29e48ga31-chefilip.vercel.app
+pancake-frontend-flznr5rp3-chefilip.vercel.app
 pancake-ifo.pages.dev
 pancake-swap-v3.tech
 pancake-swap.club
@@ -5168,7 +5164,6 @@ pub-85b87193f4154021895964b1f361f7ba.r2.dev
 pub-c7119d8cef5d4359861e1426cf37c62c.r2.dev
 pub-e9989cc0d26d4a2f9e7017c197e26310.r2.dev
 pub-ef521178253943d19f4991b34907623f.r2.dev
-pudgy.fi
 pudgymythic.xyz
 pudgypenguines.com
 puffer-2a0.pages.dev
@@ -5648,6 +5643,7 @@ roninchain.app
 roninchain.cc
 roninchain.wtf
 roninchaln.com
+roninnchain.com
 roninwallet-login4.godaddysites.com
 ronninwallet.godaddysites.com
 roomfollow.xyz
@@ -6599,7 +6595,6 @@ united-airlinne.com
 united-healthcare-services.com
 unitedairlinedeliveryagency.com
 unitedairlines-vn.com
-universalresolution.tech
 unlbots.trading
 unllswap.org
 unniswapp.com
@@ -6710,11 +6705,9 @@ verification-collabland.com
 verification-collabland.xyz
 verification-discord.com
 verification-discord.icu
-verificatlon.land
 verificheck.com
 verified-portalgaming.pages.dev
 verify-assets.xyz
-verify-collab.com
 verify-collab.info
 verify-collab.net
 verify-collabland.org
