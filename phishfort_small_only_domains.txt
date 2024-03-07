@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 13:40:54 UTC 2024
-# Number of Entries: 7780
+# Fetch date: Thu Mar  7 13:51:10 UTC 2024
+# Number of Entries: 7777
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -823,7 +823,6 @@ autofix-node.pages.dev
 autorestore.pages.dev
 autovalidateblockchain.com
 avalance-airdrop.com
-avalanche.trcderjoexyz.com
 avalaunches.app
 avalchain-bridge.com
 avantiengineering.org
@@ -3078,7 +3077,6 @@ jup222.com
 jup333.com
 jup444.com
 jupag.xyz
-jupaidrop.top
 jupairdrop.com
 jupangel.sbs
 jupcases.xyz
@@ -7581,7 +7579,6 @@ xmas.claims
 xmrwallet.top
 xn--1nch-vpa.io
 xn--arbtrum-tfb.com
-xn--fixdfloat-2ib.com
 xn--fixedflaot-k8a.com
 xn--fixedflaot-xub.com
 xn--fixedflat-cm7d.com
