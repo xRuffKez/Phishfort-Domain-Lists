@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 05:02:30 UTC 2024
-# Number of Entries: 105957
+# Fetch date: Thu Mar  7 05:14:23 UTC 2024
+# Number of Entries: 105959
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -16607,6 +16607,7 @@ claim-digitoadsworld.pages.dev
 claim-dogecoin.net
 claim-doodies.app
 claim-doodles.xyz
+claim-dookeydash.com
 claim-dorkcoin.gay
 claim-dragon.web.app
 claim-drops.top
@@ -22736,6 +22737,7 @@ dapp.walletauthfix.com
 dapp.walletauthprotect.com
 dapp.web-revoke.cash
 dapp.webvalidauth.com
+dapp.zkmll.systems
 dapp247fix.live
 dapp36.giveme-nft.xyz
 dapp37.giveme-nft.xyz
