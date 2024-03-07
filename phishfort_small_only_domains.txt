@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 03:51:08 UTC 2024
+# Fetch date: Thu Mar  7 04:01:22 UTC 2024
 # Number of Entries: 7781
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1222,6 +1222,7 @@ cafaland.com
 caga-eth.web.app
 caiwdgn.org
 cake-defiweb3.com
+cake-distribution.net
 cake-pie.org
 cake-pies.org
 cake-rewards.online
@@ -2209,7 +2210,6 @@ emiraetes.online
 emirateairlines.net
 emiratedistributions.online
 emirates-procurement.com
-emirates-skycargo.uk
 emirates-suppleirs.online
 emirates-tickets.com
 emiratesairlines.info
