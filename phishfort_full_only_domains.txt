@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 18:15:20 UTC 2024
+# Fetch date: Thu Mar  7 18:25:08 UTC 2024
 # Number of Entries: 105999
 
 0-metemask.com
@@ -46132,6 +46132,7 @@ mail.optimisrn.foundation
 mail.os-revoke.com
 mail.pancakeswap.seattleshrimpsmeet.com
 mail.pancakeswapflnance.com
+mail.panckswap.com
 mail.paxful-bitcoin.com
 mail.paxful-bitcoins.com
 mail.paxful-btc.com
@@ -53188,7 +53189,6 @@ mothz.art
 motion-com-us.org
 motion-industries.co
 motion-industries.info
-motion-lnds.com
 motion-lndustries.com
 motionlndustries.com
 motnnnskwaltlet.godaddysites.com
