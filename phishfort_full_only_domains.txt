@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 15:32:02 UTC 2024
-# Number of Entries: 105981
+# Fetch date: Thu Mar  7 15:41:45 UTC 2024
+# Number of Entries: 105992
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -8429,6 +8429,7 @@ authrectify.pages.dev
 authresolve.com
 authresolvefix.pages.dev
 authrestoreaccess.help
+auths-mylogn.com
 auths.cehecbalaene.com
 authsecure-coinbaseinfo.com
 authsecwellsfargo10.ddns.us
@@ -47605,6 +47606,7 @@ me-trustpad.com
 me.fareflow.xyz
 me.truefair.xyz
 me.winter-scarves.com
+me9.us
 mealsbsc-promogive.com
 meamtaskex.top
 mean.sadwing.za.com
@@ -52487,6 +52489,7 @@ miyazaki-promogive.com
 miyetherwallet.com
 miyetherwallet.pw
 mizu.web3fast.net
+mj3.us
 mjeherwallet.com
 mjetherwalet.com
 mjetherwattet.com
@@ -54411,6 +54414,7 @@ myeclientsidewallet.com
 myecoconnect.biz
 myecterwallet.com
 myectherwallet.com
+myedds.com
 myedefisolutions.com
 myedherwallet.com
 myedtherwallet.com
@@ -57883,6 +57887,7 @@ mysticsofficial.xyz
 mystisland.io
 mystiwealth.biggy50.com.ng
 mystoresetup.xyz
+mysupbenefits.com
 mysuperpayroll.com
 mysupport-nnetannask.xyz
 mysynclive.com
@@ -59072,6 +59077,7 @@ ngstruart.info
 ngstruart.org
 ngstruart.pro
 ni-bltkiub.1gb.ru
+ni8.us
 nibc-dashboard.nl
 nibc-fr.com
 nibc-gestion.com
@@ -59778,6 +59784,7 @@ nvidiatechnologies.com
 nw-bridgebnb.com
 nw-swordofblood.com
 nw.xlzzdn.com
+nw6.us
 nwphysician.mesoforhair
 nwstate.vercel.app
 nxconnector.tk
@@ -67633,6 +67640,7 @@ paygiveaway.com
 paylccity.com
 paylink.fun.augusttarget.online
 paylocity-login.com
+paylocity-sso.com
 paylocity.click
 paylocity.sa.com
 paylocity.za.com
@@ -67717,6 +67725,7 @@ pcsdf-mining.com
 pcsfarm-v3.com
 pcshelpdesk.co
 pcwdf-hkteam.com
+pcyiocity.com
 pcylccity.com
 pcylocity.com
 pcyloclty.com
@@ -72045,6 +72054,7 @@ qfssecuritybackup.com
 qfssecvault.com
 qfstpconnect.io
 qfsworldassestsledger.com
+qg7.us
 qgl3g7z.cn
 qi.business-doggie.life
 qickbtc.com
@@ -102568,6 +102578,7 @@ xkxw.fjtcdp.com
 xkxw.ruiansheng.com
 xl-airdrops.top
 xl-crypt.top
+xl9.us
 xlauncher-app.com
 xlblogz.blogspot.com
 xlbullycoin.pro
