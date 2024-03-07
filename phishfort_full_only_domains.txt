@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 20:02:38 UTC 2024
-# Number of Entries: 106003
+# Fetch date: Thu Mar  7 20:14:33 UTC 2024
+# Number of Entries: 106005
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -739,6 +739,7 @@
 1inchv2.com
 1inchv4.fi
 1inchv5.fi
+1inchwallet.app
 1inchweb3.com
 1inchworld.icu
 1inchworld.tech
@@ -24776,6 +24777,7 @@ decentralizeddapp.com
 decentralizeddapp.pages.dev
 decentralizeddappchain.com
 decentralizeddapps.com
+decentralizeddapps.myvnc.com
 decentralizeddapps.netlify.app
 decentralizedebug.pages.dev
 decentralizederrorapp.live
@@ -27968,7 +27970,6 @@ efficiencytrue.com
 effulgent-phoenix.netlify.app
 effulgent-tulumba-e12a0a.netlify.app
 efinance.com
-efinance.powerappsportals.com
 efinity-io.claims
 efinity-io.events
 efiriumgiveaway.tk
@@ -95264,6 +95265,7 @@ www.1inchnatwork.net
 www.1inchnetworkmirror.com
 www.1inchnetworkofficial.com
 www.1inchnetworkswaps.com
+www.1inchwallet.app
 www.1incn.org
 www.1inech.exchange
 www.1lnch-lab.xyz
@@ -98776,7 +98778,6 @@ www.metawalletapp.store
 www.metawalletss.com
 www.metaxmask.org
 www.metemeak.io
-www.metemnsk.io
 www.methmantle.xyz
 www.metis-bridge-network.com
 www.metis-bridgel.com
@@ -105449,6 +105450,7 @@ zeriontracker.co
 zeriontracker.com
 zeriontracker.org
 zeriontrade.io
+zerionu.com
 zerionw.com
 zerionwallet.com
 zerionwallet.netlify.app
