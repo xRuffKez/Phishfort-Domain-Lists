@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 18:32:03 UTC 2024
-# Number of Entries: 105999
+# Fetch date: Thu Mar  7 18:41:42 UTC 2024
+# Number of Entries: 105998
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -15087,6 +15087,7 @@ cakeswap.network
 cakeswap.pro
 cakeswapl.com
 cakeswaps.com
+cakeswp.app
 caketoken.net
 cakevalidation.finance
 cakevalidations.finance
@@ -28930,11 +28931,9 @@ epay-paxful.com
 epayments-paxful.com
 epbhs.net
 epce.edu.pe
-ephbs.top
 epher.top
 ephiu.top
 ephjx.top
-ephma.top
 ephna.top
 ephvl.top
 ephvv.top
@@ -38874,6 +38873,7 @@ img.agodavip6.com
 img.agodavip7.com
 img.m.api.blog.api.mail.pancakeswaps.org
 img.pancakeswape.finance
+img.vncoolpay.com
 imgo.cf
 imgonly.tk
 imhtoken.xyz
@@ -47341,6 +47341,7 @@ matemasks.xyz
 matemaskv.com
 matemaskwalle.godaddysites.com
 matemaskwallet.godaddysites.com
+matemsak.biz
 matemsak.net
 materialistic-dark-flute.glitch.me
 matermask.com
@@ -87914,7 +87915,6 @@ usdc-sol.com
 usdc-swap.com
 usdc-token.org
 usdc-twitter.com
-usdc-uniswap.org
 usdc-voucher.org
 usdc-wallet.net
 usdc-x.com
@@ -98800,7 +98800,6 @@ www.mhetherwallet.com
 www.mhyetherwallet.com
 www.miadescadiamonds.com
 www.microstrategy-give.com
-www.mieswap.xyz
 www.migration-claim-paal.live
 www.migration-mixtoearn.com
 www.millenniumfinancialconsultant.com
