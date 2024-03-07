@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 18:30:55 UTC 2024
-# Number of Entries: 7768
+# Fetch date: Thu Mar  7 18:40:44 UTC 2024
+# Number of Entries: 7770
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -1235,6 +1235,7 @@ cakes-reward.xyz
 cakespie.net
 cakespie.org
 cakeswap.me
+cakeswp.app
 calestis.info
 call-center-agoda.online
 camaroterj-ticketm.online
@@ -2874,6 +2875,7 @@ illuviumpassairdrops.com
 illuviumrewards.io
 illuviumweb3.com
 img.m.api.blog.api.mail.pancakeswaps.org
+img.vncoolpay.com
 immutable.defi-community.com
 immutablle.me
 impactivecreator.com
@@ -3771,6 +3773,7 @@ mastersrewind.com
 matemank.io
 matemask.cc
 matemaske.com
+matemsak.biz
 matr1xkuku.org
 matrica-two.vercel.app
 matrica-verify.com
@@ -7331,7 +7334,6 @@ www.metemnsk.io
 www.methmantle.xyz
 www.metispool.xyz
 www.metomask.ru
-www.mieswap.xyz
 www.migration-mixtoearn.com
 www.moacverse.xyz
 www.mode.networkapp.hu54.com
