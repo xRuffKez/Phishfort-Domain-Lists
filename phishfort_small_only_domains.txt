@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 19:30:48 UTC 2024
-# Number of Entries: 7770
+# Fetch date: Thu Mar  7 19:40:40 UTC 2024
+# Number of Entries: 7774
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -127,6 +127,7 @@
 9pirateara.ru.com
 9x9231xxchoked.online
 a407info.com
+a4doconlinautoreloads.com
 a9714.top
 aa.digger518.top
 aatranferinc.com
@@ -884,6 +885,7 @@ balancer-exchange.io
 balancer-je8.pages.dev
 balancer-web3.xyz
 balst.io
+banana-roninchain.app
 bananangun.app
 bancontact.pay-startauth.com
 bancontact.startauth-pay.com
@@ -3314,6 +3316,7 @@ lfg-jup-claims.pages.dev
 lfg-jup.app
 lfg-jup.io
 lfg-up.icu
+libertyfinancial.xyz
 lido-dist.firebaseapp.com
 lido-dist.web.app
 lido-fi.digital
@@ -3413,7 +3416,6 @@ localethereum.xn--node
 login-cisco.tech
 login-frame.xyz
 login-metamaskwallet.ddnss.eu
-login.cw1.ir
 login.frame-airdrop.xyz
 login.microsoftonlineportal.ppp-gov.online
 login.myob.ink
@@ -3729,6 +3731,7 @@ marketcap-coins.com
 marketpalcestatus.com
 marketpharmacy.com
 marketplace-listings.com
+marketplace-offers.io
 marketplacestatus.com
 marloon.net
 marlosmasslovst.com
@@ -6235,6 +6238,7 @@ swiissworld.net
 swistonjewellers.com
 swop.ink
 sxb5f.info
+sync-multichain.in.net
 sync3kavva.netlify.app
 syncappauth.pages.dev
 syncapprectify.pages.dev
@@ -6730,7 +6734,6 @@ view.wormmap.xyz
 vikingglobal.linejoinus.com
 villageorockstar.com
 viplatii.online
-vipmoodys.com
 virginmoneynetwork.com
 virtua.gift
 virtualsecrets.org
@@ -7487,6 +7490,7 @@ www.traderjoexyz.com.de
 www.travellucky.cc
 www.trustwalletdefi.icu
 www.tuckea.com
+www.unitedaircareers.com
 www.useneuxs.org
 www.usenxeus.org
 www.v2-manta.network
