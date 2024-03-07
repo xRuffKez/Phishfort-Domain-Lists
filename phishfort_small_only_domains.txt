@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 15:22:20 UTC 2024
-# Number of Entries: 7757
+# Fetch date: Thu Mar  7 15:31:15 UTC 2024
+# Number of Entries: 7759
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -4325,6 +4325,7 @@ napaautoparts.store
 nationaltrust-org.uk
 nauts.bitezgroup.com
 nbm5xi.top
+nd8.us
 near.drop-fund.top
 nearraffle.com
 neom-property.com
@@ -6510,6 +6511,7 @@ tsa135.com
 tsakeland.com
 tsuka.gift
 ttkkoopp888.com
+tu3.us
 tuckeracousstical.com
 tulip-app.one
 tvl-chain.link
