@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 22:24:27 UTC 2024
-# Number of Entries: 106009
+# Fetch date: Thu Mar  7 22:31:55 UTC 2024
+# Number of Entries: 106010
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -97620,6 +97620,7 @@ www.fudelijiancai.com
 www.fulteh.com
 www.funairdrop.xyz
 www.fundseedify.com
+www.fungible-token.laag.site
 www.funwonderful.life
 www.furarivip.click
 www.future-astar.com
