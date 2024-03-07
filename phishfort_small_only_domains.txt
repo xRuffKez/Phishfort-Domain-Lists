@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 23:01:13 UTC 2024
+# Fetch date: Thu Mar  7 23:14:00 UTC 2024
 # Number of Entries: 7785
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2010,7 +2010,7 @@ digimetamask.com
 digital.free-zetachain.online
 digitalchevrolebr.com
 digitaldapp.pages.dev
-digitalsec.my.psx.net
+digitalsec.mypsx.net
 digitdef.com
 digitoads.cc
 dintransac.org
@@ -3358,6 +3358,7 @@ lineadapps.xyz
 lineadrop.org
 lineadrop.pages.dev
 linealayerbank.pages.dev
+linear-dapps.top
 lineas.top
 lineascan.shop
 lineatokens.com
@@ -5093,7 +5094,6 @@ portfolio-my-walles.com
 portfolio-my-walletzz.com
 portfolio-verification.com
 portfoliometamask.com
-portjoint.com
 portlacoin.xyz
 portofilio-meta-mask-dapps.185-253-219-62.cprapid.com
 powermattion.com
