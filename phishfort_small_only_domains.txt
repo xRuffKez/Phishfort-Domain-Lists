@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 15:31:15 UTC 2024
-# Number of Entries: 7759
+# Fetch date: Thu Mar  7 15:40:46 UTC 2024
+# Number of Entries: 7766
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -812,6 +812,7 @@ auth.staing.ramper.xyz
 authenticatorjoin.cc
 authenticpeninsula.top
 authradarbridge.com
+auths-mylogn.com
 authwalletsolutiiondappether.com
 authweb3sv.tk
 autismlearningpartners.systemupdates.org
@@ -1756,8 +1757,6 @@ dalarnas.site
 dalarnas.website
 dama.or.tz
 danceanatolia.com
-dao-cellframe.net
-dao-metis.com
 dao-radiant.capital
 daoprotocol.pages.dev
 daosystems.pages.dev
@@ -1910,8 +1909,6 @@ defi-dymension.pages.dev
 defi-eth.store
 defi-finance.web.app
 defi-id.app
-defi-liquid.com
-defi-liquid.net
 defi-manta.pages.dev
 defi-pendle.fi
 defi-read.web.app
@@ -3807,6 +3804,7 @@ mducksspace.com
 mduresources.mamawannago.com
 me.fareflow.xyz
 me.truefair.xyz
+me9.us
 meatmesk.com
 mediapudgypenguins.com
 medidata-mobile.com
@@ -4143,6 +4141,7 @@ missions-sharpnel.com
 missions-zksync.com
 mitofinance.fi
 mitratokped.com
+mj3.us
 mm-redirect.com
 mmakerdao.com
 mndntwrk.org
@@ -4255,6 +4254,7 @@ my-listings-97781.net
 my-swap.xyz
 my.templ.cc
 mycastcrewssaw.com
+myedds.com
 myether.exchange
 myethertools.web.app
 myetherwallet.ph
@@ -4293,6 +4293,7 @@ mysterynfts.vercel.app
 mysteryopn.vercel.app
 mysticmonoliths.org
 mystiwealth.biggy50.com.ng
+mysupbenefits.com
 mysuperpayroll.com
 myteam-defi3.com
 mytr.rxi.app
@@ -4456,6 +4457,7 @@ nftsprogifts.vercel.app
 nftsteth.com
 nfum-spa.eu-west-2.elasticbeanstalk.com
 ngstruart.pro
+ni8.us
 nibiairdrop.net
 nibidrop.com
 nibiru.uk
@@ -4511,6 +4513,7 @@ numboost.ru
 nusuk.site
 nusukbaitullahint.id
 nusukroadshow.com
+nw6.us
 ny9.us
 o2-cert.com
 o2-kundenverwaltung.info
@@ -4892,6 +4895,7 @@ paycoins24.com
 paylccity.com
 paylink.fun.augusttarget.online
 paylocity-login.com
+paylocity-sso.com
 payment-407etr.com
 payment-etr407.com
 payment407etr.com
@@ -4904,6 +4908,7 @@ pcs-defistakev3.com
 pcs.payflowtoken.com
 pcsfarm-v3.com
 pcwdf-hkteam.com
+pcyiocity.com
 pcylccity.com
 pcylocity.com
 pcyloclty.com
@@ -5230,6 +5235,7 @@ pythnetwork.services-claim.pro
 pythnetwork.services-claiming.codes
 pythnetwork.services-claiming.one
 pytlh-network.one
+qg7.us
 qna3.io
 qna3.sbs
 qnt.defihubs.top
@@ -7552,6 +7558,7 @@ xindingjzwx.com
 xion-bonusblock.space
 xion.bonusblock.in
 xionbonusblock.io
+xl9.us
 xlauncher-app.com
 xlbullycoin.pro
 xmas-analos.org
