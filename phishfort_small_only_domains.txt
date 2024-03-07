@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 22:40:57 UTC 2024
-# Number of Entries: 7784
+# Fetch date: Thu Mar  7 22:51:06 UTC 2024
+# Number of Entries: 7785
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -2442,6 +2442,7 @@ float-fixed.com
 floki-claim.vercel.app
 floki-tokens.net
 floki.promo
+floki.x10.bz
 flokiairdop.com
 flokiairdrop.top
 flokibox.vip
