@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 23:40:47 UTC 2024
-# Number of Entries: 7786
+# Fetch date: Thu Mar  7 23:50:52 UTC 2024
+# Number of Entries: 7787
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -99,7 +99,6 @@
 407on.com
 407web-etr.com
 40f9cbde.634e4ed6dabf4fea38da4da1.workers.dev
-4de192bb.d6c1924f22b82c8daa243716.workers.dev
 4g5g544g54g5.pages.dev
 4ooh.top
 4raydium.sbs
@@ -6198,6 +6197,7 @@ support-cch.com
 support-manta.pages.dev
 support-pancakeswaps.pages.dev
 support-walletrestoration.pages.dev
+support.pankecswaqfiannce.com
 support.pixelmon.tech
 supportmetamask-io.ddnss.eu
 supraoracle.xyz
@@ -7711,6 +7711,7 @@ zigzagfi.live
 zimlndustries.com
 zircuit-app.one
 zircuit-app.org
+zircuitprotocol.xyz
 zircuits.xyz
 zjvslnnrkw.olep0.com
 zk-beam.org
