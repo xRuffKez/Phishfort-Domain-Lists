@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 05:31:58 UTC 2024
-# Number of Entries: 105961
+# Fetch date: Thu Mar  7 05:42:05 UTC 2024
+# Number of Entries: 105962
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -28499,6 +28499,7 @@ emirates-suppliers.online
 emirates-tickets.com
 emirates.airlinevault.uk
 emirates.dev.get-myesim.com
+emirates.flightse.co
 emirates.tvlinc.com
 emiratesae.online
 emiratesair.net
