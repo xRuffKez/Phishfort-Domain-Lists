@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 00:02:44 UTC 2024
-# Number of Entries: 7788
+# Fetch date: Thu Mar  7 00:19:22 UTC 2024
+# Number of Entries: 7785
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -104,7 +104,6 @@
 4raydium.sbs
 4tyqoaktqb.numirmilap.tech
 4xqry.cc
-5f8d9eb3.d10f05e59e81e2f9cfa61b7e.workers.dev
 5ninja-cup.com
 5raydium.sbs
 6-chess.online
@@ -3356,7 +3355,6 @@ lifefitness.si
 light-asset.ltd
 lilpudgys-mint.com
 linae-parks.com
-linea-builder.com
 linea-consensys.world
 linea-layerfinance.com
 linea-park.com
@@ -3967,7 +3965,6 @@ metamaskarb.com
 metamaskb.icu
 metamaskclaim.io
 metamaskclaims.io
-metamaskclaims.net
 metamaskclaimtoken.com
 metamaskcoin.io
 metamaskcrypto.com
@@ -6210,7 +6207,6 @@ suprasync.pages.dev
 supratoken.xyz
 surrealogeek.com
 survey-arbitrium.com
-survey-arbitrum.info
 survey-zksync.org
 susdc.dev
 sushi-swapsushi.github.io
@@ -6278,6 +6274,7 @@ syncswapxyz.in
 syncvalidator.firebaseapp.com
 syncwebsolution.com
 syncxolution-inchpd.com
+syneosbiocareer.com
 syngswap.github.io
 synnex.vip
 systemvaults.tech
