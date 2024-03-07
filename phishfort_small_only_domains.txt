@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 11:51:04 UTC 2024
+# Fetch date: Thu Mar  7 12:01:39 UTC 2024
 # Number of Entries: 7778
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -889,6 +889,7 @@ balancer-web3.xyz
 balst.io
 bananangun.app
 bancontact.pay-startauth.com
+bancontact.startauth-pay.com
 bang-blast.io
 bankinging.com
 bankless-claims.net
@@ -6091,7 +6092,6 @@ stargate-app.pages.dev
 stargate-finance.app
 stargate.finance.kli.gg
 stargate.gifts
-stargatedex.org
 stargategold.trading
 stark-event.com
 starkclaim.pro
