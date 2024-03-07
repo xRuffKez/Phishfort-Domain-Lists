@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 19:32:02 UTC 2024
-# Number of Entries: 105998
+# Fetch date: Thu Mar  7 19:41:48 UTC 2024
+# Number of Entries: 106002
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1610,6 +1610,7 @@ a345ed38.a5b51347fdce9c532c8be622.workers.dev
 a3dcbc9b-f67b20ca.dio-int.com
 a407info.com
 a47.verifycontract.info
+a4doconlinautoreloads.com
 a68.net
 a68web.com
 a6hyt6wdpt.advenuityr.store
@@ -10266,6 +10267,7 @@ bambaks.site
 bamlamp.site
 banana-gun.net
 banana-pass.xyz
+banana-roninchain.app
 banana.dex-drop.online
 bananagun.co
 bananagun.icu
@@ -43118,6 +43120,7 @@ libertyfcu.redirectme.net
 libertyfcualerts.cc
 libertyfcualerts.online
 libertyfcusupp0rts.info
+libertyfinancial.xyz
 libertyjaxx.live
 libertyssfcu.xyz
 libo.fi
@@ -43146,7 +43149,6 @@ lido-dashboard.com
 lido-dist.firebaseapp.com
 lido-dist.web.app
 lido-drop.com
-lido-drops.com
 lido-earn.com
 lido-eth.web.app
 lido-ethereum.com
@@ -44781,7 +44783,6 @@ login.coinbasesupportscenterid.com
 login.coinbasesupportsid.com
 login.coinbasewalletsupport.com
 login.coinbasewalletsupports.com
-login.cw1.ir
 login.fraend.net
 login.frame-airdrop.xyz
 login.lblockhcoin.com
@@ -47045,6 +47046,7 @@ marketplace-blurr.com
 marketplace-fb.com
 marketplace-listings.com
 marketplace-nft.site
+marketplace-offers.io
 marketplace-openseaio.com
 marketplace.axeieinfinity.com
 marketplace.axieeinnfinity.com
@@ -68660,7 +68662,6 @@ phentttum_walllatte.godaddysites.com
 phentum-waailut.godaddysites.com
 phetom-waelet.godaddysites.com
 pheytm-awaaiolt.godaddysites.com
-phf.btcethp.com
 phhaltumwalaate.godaddysites.com
 phhant00mwallet.godaddysites.com
 phhantomwalet.godaddysites.com
@@ -81931,6 +81932,7 @@ sync-mainnet.online
 sync-mainnet.org
 sync-milkywayex.finance
 sync-multichain.com
+sync-multichain.in.net
 sync-node.xyz
 sync-on-the-go.com
 sync-opensea.co
@@ -99258,6 +99260,7 @@ www.mynearwalet.com
 www.mynewaccesspoocoin-app.tk
 www.mynorway.net
 www.myopedia.com
+www.mypepsico.live
 www.mypethooligengame.com
 www.myretherwallet.cc
 www.myrlherwallet.com
@@ -101630,6 +101633,7 @@ www.uniswaps.markets
 www.uniswaps.tech
 www.united-aiirlines.com
 www.united.flightsbookinginfo.com
+www.unitedaircareers.com
 www.unitedphonenumber.com
 www.unitedreservationsnumber.com
 www.universalfoodsqatar.com
