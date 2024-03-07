@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 17:01:21 UTC 2024
-# Number of Entries: 7765
+# Fetch date: Thu Mar  7 17:13:56 UTC 2024
+# Number of Entries: 7769
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -4026,6 +4026,7 @@ metlifevip.com
 metmaskt.com
 metmsakconditionweb3.netlify.app
 metnmask.io
+metnmaskn.io
 metoamask.com
 metomaska.com
 metsafnmaske.azurewebsites.net
@@ -5826,7 +5827,6 @@ shlba-3.live
 shopvibe.shop
 shrap-token.app
 shrapnei-whitelist.com
-shrapnei.com
 shrapneil.com
 shrapnel-2024.com
 shrapnel-whitelist.com
@@ -6257,7 +6257,9 @@ syncswapxyz.in
 syncvalidator.firebaseapp.com
 syncwebsolution.com
 syncxolution-inchpd.com
+syneosbio.com
 syneosbiocareer.com
+syneoscareer.com
 syngswap.github.io
 synnex.vip
 systemvaults.tech
@@ -6780,6 +6782,7 @@ wagmiblast.xyz
 wagmigames8765.live
 waitlist-altlayer.io
 waitlist-shrapnel.com
+waletsconets.pages.dev
 wallemartoneycarts.com
 wallet--connect.pages.dev
 wallet-balancer.website
@@ -7325,6 +7328,7 @@ www.metamasks.info
 www.metamasksupportcenter.com
 www.metamcvk.com
 www.metemeak.io
+www.metemnsk.io
 www.methmantle.xyz
 www.metispool.xyz
 www.metomask.ru
