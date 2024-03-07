@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 20:22:43 UTC 2024
-# Number of Entries: 106005
+# Fetch date: Thu Mar  7 20:32:27 UTC 2024
+# Number of Entries: 106004
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -36234,7 +36234,6 @@ gl-havaspro.com
 gl-paxfulcoinbase.com
 gl-rsmopt.com
 glaberkantonalbank.com.opticsea.org
-glacierdivisons.pics
 glaconbtk.blogspot.com
 gladius.im
 gladius.ws
@@ -50556,7 +50555,6 @@ metamasklogin.extninfo.com
 metamasklogin.oxuin.us
 metamasklogin.ru
 metamasklogin1.godaddysites.com
-metamaskloginn.educatorpages.com
 metamasklogino.com
 metamasklogins.com
 metamasklogjh.com
@@ -98712,6 +98710,7 @@ www.metamaskcion.com
 www.metamaskcoin.cc
 www.metamaskcoin.top
 www.metamaskd.org
+www.metamaske.com.cn
 www.metamaske.online
 www.metamaske.top
 www.metamaskextension.one
