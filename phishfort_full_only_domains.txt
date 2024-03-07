@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 16:33:00 UTC 2024
-# Number of Entries: 105994
+# Fetch date: Thu Mar  7 16:41:43 UTC 2024
+# Number of Entries: 105993
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -28936,7 +28936,6 @@ ephiu.top
 ephjx.top
 ephma.top
 ephna.top
-ephpk.top
 ephvl.top
 ephvv.top
 epikprotocol-migration.site
