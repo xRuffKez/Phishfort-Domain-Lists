@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 20:40:48 UTC 2024
-# Number of Entries: 7776
+# Fetch date: Thu Mar  7 20:50:46 UTC 2024
+# Number of Entries: 7777
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -3940,6 +3940,7 @@ metamask.imtoken.hk.cn
 metamask.io.circletokenhub.com
 metamask.io.in
 metamask.itoken.cool
+metamask.je
 metamask.land
 metamask.lat
 metamask.managementcommunity.pro
