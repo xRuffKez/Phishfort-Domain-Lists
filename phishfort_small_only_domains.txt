@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 07:01:23 UTC 2024
-# Number of Entries: 7780
+# Fetch date: Thu Mar  7 07:12:36 UTC 2024
+# Number of Entries: 7781
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -13,6 +13,7 @@
 0pensea-click.vercel.app
 0penseamystery.vercel.app
 0penseapro-click.vercel.app
+0x4ee15erf903e2634abe0e.com
 0xjcgmkskey941zulaa4pz.host
 0xprotocol.site
 1-88y.pages.dev
