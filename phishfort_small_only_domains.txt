@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 05:01:13 UTC 2024
-# Number of Entries: 7781
+# Fetch date: Thu Mar  7 05:12:54 UTC 2024
+# Number of Entries: 7780
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -1373,6 +1373,7 @@ claim-cake.web.app
 claim-chaln.link
 claim-dacat-dapp.live
 claim-dapps.pages.dev
+claim-dookeydash.com
 claim-dragon.web.app
 claim-dubbz.com
 claim-es.com
@@ -1390,7 +1391,6 @@ claim-marinadefinance.com
 claim-me.me
 claim-metis.com
 claim-myrothedog.com
-claim-paal.com
 claim-pacmon.xyz
 claim-palmai.tech
 claim-pancakaswap.web.app
@@ -1780,6 +1780,7 @@ dapp-starter-1s2gz5hbg-dunghd.vercel.app
 dapp-starter-ju06cb1h2-dunghd.vercel.app
 dapp-vulcan.xyz
 dapp.radar.skin
+dapp.zkmll.systems
 dappbay-bnbchain.net
 dappconnect-6w3.pages.dev
 dappdecentraswift.pages.dev
@@ -4646,7 +4647,6 @@ opnsreapro.vercel.app
 opsecc.software
 optic-bridge.com
 optics-bridge.xyz
-optimism-dao.com
 optimism-events.com
 optimism-lo.news
 optimism-mode.network
@@ -7049,7 +7049,6 @@ woofibit.space
 wordpress-162668-decentralizedapp.cloudclusters.net
 workforcenow.adp.returnlite.com
 workforcenowadp.org
-workinagoda.com
 world-circleone.com
 world-manta-network.com
 worldbusinessexpert.com
