@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 09:02:25 UTC 2024
-# Number of Entries: 105969
+# Fetch date: Thu Mar  7 09:14:16 UTC 2024
+# Number of Entries: 105970
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -62429,6 +62429,7 @@ pan-cakeswap.github.io
 pan-cakeswap.net
 pan-cakeswap.org
 pan-cakeswaps.org
+pan-team3.com
 pan.cakeswap.info
 pan.cakeswap.me
 pan.nbnig.com
