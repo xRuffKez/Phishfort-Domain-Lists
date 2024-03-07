@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 14:40:49 UTC 2024
-# Number of Entries: 7758
+# Fetch date: Thu Mar  7 14:50:51 UTC 2024
+# Number of Entries: 7759
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -6634,6 +6634,7 @@ usemexus.org
 ushark-portal.com
 ustaylorshop.com
 uwv475.com
+uzmanplatform.com
 v1-vlaunch.com
 v2-pancake.pages.dev
 v2.stakewise-finance.com
