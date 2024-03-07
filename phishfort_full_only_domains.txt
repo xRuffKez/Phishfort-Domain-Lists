@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 07:13:47 UTC 2024
-# Number of Entries: 105964
+# Fetch date: Thu Mar  7 07:21:54 UTC 2024
+# Number of Entries: 105965
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -61553,6 +61553,7 @@ opqensea.org
 oprainvestment.info
 oprensea.com
 opretrobadge.com
+ops-drop.live
 opsecc.software
 opsensea-web3.com
 opsensea.io
