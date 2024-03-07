@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 14:41:43 UTC 2024
-# Number of Entries: 105977
+# Fetch date: Thu Mar  7 14:51:41 UTC 2024
+# Number of Entries: 105978
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -88300,6 +88300,7 @@ ux-www.dev.pancakeswape.finance
 uyhybuygu7ytgt7yug.pages.dev
 uyjm9i.com
 uykusman.site
+uzmanplatform.com
 v-gala-games.blogspot.com
 v-wallet-graph.cf
 v-ystarcu.com
