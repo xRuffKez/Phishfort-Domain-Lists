@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 20:01:11 UTC 2024
-# Number of Entries: 7776
+# Fetch date: Thu Mar  7 20:13:29 UTC 2024
+# Number of Entries: 7777
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -54,6 +54,7 @@
 1inchpool.com
 1inchs.pages.dev
 1inchv4.fi
+1inchwallet.app
 1inchweb3.com
 1incjh.io
 1innch.digital
@@ -1891,6 +1892,7 @@ decentralize.metis.wb3u.xyz
 decentralized-dapp.com
 decentralized-point.info
 decentralizedautofix.com
+decentralizeddapps.myvnc.com
 decentralizedprotocolapp.web.app
 decentrausdchartfil.pages.dev
 decentrazerofusion.pages.dev
@@ -2175,7 +2177,6 @@ eelcb.com
 eepatriot.com
 eesee.co
 eesee.trading
-efinance.powerappsportals.com
 eform-agoda.com
 egrowmax.com
 egtokenmigrate.app
@@ -7083,6 +7084,7 @@ www-pinksale.com
 www-safe-global.info
 www.0xprotocol.site
 www.1inchfinance.com
+www.1inchwallet.app
 www.1lnchfinance.io
 www.1raydium.sbs
 www.247liveoptiontrades.com
@@ -7334,7 +7336,6 @@ www.metamasks.info
 www.metamasksupportcenter.com
 www.metamcvk.com
 www.metemeak.io
-www.metemnsk.io
 www.methmantle.xyz
 www.metispool.xyz
 www.metomask.ru
