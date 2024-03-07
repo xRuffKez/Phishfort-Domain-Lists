@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 22:23:42 UTC 2024
-# Number of Entries: 7783
+# Fetch date: Thu Mar  7 22:30:59 UTC 2024
+# Number of Entries: 7784
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -7250,6 +7250,7 @@ www.frixedfloat.com
 www.frmae.xyz
 www.fulteh.com
 www.funairdrop.xyz
+www.fungible-token.laag.site
 www.funwonderful.life
 www.furarivip.click
 www.gala-games-7qx.com
