@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 23:02:34 UTC 2024
+# Fetch date: Thu Mar  7 23:15:15 UTC 2024
 # Number of Entries: 106010
 
 0-metemask.com
@@ -26361,7 +26361,7 @@ digitalpro-apps.com
 digitalpro-tools.com
 digitalrectification.com
 digitalsafewallets.com
-digitalsec.my.psx.net
+digitalsec.mypsx.net
 digitalsmart-pad.buzz
 digitalsupportdesk.info
 digitalsynchub.space
@@ -43436,6 +43436,7 @@ lineamainnets.com
 lineapepe.xyz
 lineapp.icu
 linear-app.tech
+linear-dapps.top
 lineas.top
 lineasbuild.com
 lineascan.shop
@@ -67918,7 +67919,6 @@ pepe.expert
 pepe.gift
 pepe.gifts
 pepe.holdings
-pepe.jadwatoday.com
 pepe.reiquote.com
 pepe.wf
 pepe2-airdrop.xyz
