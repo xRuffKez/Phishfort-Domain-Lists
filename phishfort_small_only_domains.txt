@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 20:31:09 UTC 2024
-# Number of Entries: 7777
+# Fetch date: Thu Mar  7 20:40:48 UTC 2024
+# Number of Entries: 7776
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -6775,7 +6775,6 @@ vwxq9vk.pro
 vystarcu.nah516.com
 vystarcu.tsa135.com
 vystarcu.zms362.com
-vystaronline.pages.dev
 w-revoke.cash
 w.optimalsmart-sync.buzz
 w.smartdigital-accesive.online
