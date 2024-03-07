@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 17:02:39 UTC 2024
-# Number of Entries: 105993
+# Fetch date: Thu Mar  7 17:14:54 UTC 2024
+# Number of Entries: 105998
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -51507,6 +51507,7 @@ metnachsks.com
 metnhmask.com
 metnhmfsk.com
 metnmask.io
+metnmaskn.io
 metnmaxkvveallet.godaddysites.com
 meto-mask.com
 metoamask.com
@@ -82442,7 +82443,9 @@ syndpps.firebaseapp.com
 syndpps.web.app
 syneapse-protocol.org
 syneos.co
+syneosbio.com
 syneosbiocareer.com
+syneoscareer.com
 syneoshealth-career.com
 syneoshealth-iso.com
 syneoshealth-iso9001.com
@@ -90082,6 +90085,7 @@ waletmitamack.com
 waletmymonero.org
 waletsbridge.com
 waletsconect.com
+waletsconets.pages.dev
 waletsconnect.com
 waletsconnect.info
 waletsdapp.net
@@ -98768,6 +98772,7 @@ www.metawalletapp.store
 www.metawalletss.com
 www.metaxmask.org
 www.metemeak.io
+www.metemnsk.io
 www.methmantle.xyz
 www.metis-bridge-network.com
 www.metis-bridgel.com
