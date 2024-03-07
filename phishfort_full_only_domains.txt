@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 19:51:47 UTC 2024
-# Number of Entries: 106002
+# Fetch date: Thu Mar  7 20:02:38 UTC 2024
+# Number of Entries: 106003
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -48242,6 +48242,7 @@ meta-restore.pages.dev
 meta-restoreweb.pages.dev
 meta-retrieval.io
 meta-reward.com
+meta-safelogin.com
 meta-sea.club
 meta-servers-online.com
 meta-servicenr4882320.net
