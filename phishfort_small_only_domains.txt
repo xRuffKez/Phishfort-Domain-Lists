@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 12:39:25 UTC 2024
-# Number of Entries: 7779
+# Fetch date: Thu Mar  7 12:48:08 UTC 2024
+# Number of Entries: 7780
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -6295,6 +6295,7 @@ tataconsultants.com
 taurus-eth.vip
 taylorusmerch.com
 tdecu-support.info
+tdserv.com
 tdsynnxe.com
 techcgp.com
 tectonic.flnance.web3-ap.cfd
