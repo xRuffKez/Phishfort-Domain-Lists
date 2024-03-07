@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 15:22:52 UTC 2024
-# Number of Entries: 105979
+# Fetch date: Thu Mar  7 15:32:02 UTC 2024
+# Number of Entries: 105981
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -58221,6 +58221,7 @@ nbrave.com
 ncashtoken.org
 nd-allnodes.com
 nd0x.com
+nd8.us
 ndaysaudicard.pages.dev
 ndcorrection.webs-apps.online
 ndexdeibotz.xyz
@@ -86039,6 +86040,7 @@ ttoonft.to-minting.com
 ttrntech.com
 ttrxtrx.blogspot.com
 ttxex.xyz
+tu3.us
 tu7.io
 tubbycatsnft.xyz
 tubig.co
