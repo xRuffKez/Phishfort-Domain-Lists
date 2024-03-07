@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 08:50:51 UTC 2024
+# Fetch date: Thu Mar  7 09:01:04 UTC 2024
 # Number of Entries: 7784
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -148,7 +148,6 @@ aave.trustspads.top
 aavenetwork.org
 aaveshiba.top
 aavve.eu
-aavve.nz
 aavve.org
 abacoin.website
 abbie.sa.com
@@ -1504,6 +1503,7 @@ co-insauhgdsadhij.com
 co-tbtcasojdhgsa.com
 co.defi.network
 co.llab-land.com
+co.llab-land.icu
 co.llab-verify.xyz
 co.llabz.land
 codefi.ws
@@ -2597,6 +2597,7 @@ gedprefeituraimbituva.com.br
 gemg.vercel.app
 gemlink.xyz
 gempad-app.xyz
+gems-ideas.com
 generalmotorsplanta.com
 generalplanta.com
 genesis-dymension.xyz
@@ -2721,7 +2722,6 @@ grandomaster.com
 grapepubliczk.org
 graphtoken.net
 graybarz.com
-grayscale.trading
 greencorp.online
 grendot.online
 grit-finance.com
@@ -4389,7 +4389,6 @@ newparadigms.manta-networks.org
 newparadiqm-manta.network
 newporkcoin.pages.dev
 newprovisionschainlink.org
-newsupport.alkhaleej.com.sa
 newtradedex.pages.dev
 newtresures-manta.network
 newwhitelistdex.pages.dev
@@ -7524,6 +7523,7 @@ www.wallstmemes.mobi
 www.web.dapps-auth.live
 www.web.multichains-connect.com
 www.web.resolvebugvvalidly.org
+www.web3mwi.com
 www.whm.elasticsearch-uat.arb-chain.com
 www.wikser.com
 www.windy.network
