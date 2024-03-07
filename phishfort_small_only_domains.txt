@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 03:01:09 UTC 2024
-# Number of Entries: 7785
+# Fetch date: Thu Mar  7 03:13:20 UTC 2024
+# Number of Entries: 7780
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -108,7 +108,6 @@
 5raydium.sbs
 6-chess.online
 63352955.b1b41177a5690aba217097d9.workers.dev
-63d5829e-10dfb4e7.viewdocumentw.click
 65c929ede29cb759e486af81--rainbow-choux-6218fe.netlify.app
 685463.sa.com
 68pw3690.pw
@@ -532,7 +531,6 @@ app-bridge.manta-pacific.fi
 app-bsquared.network
 app-bungeeee.exchange
 app-cadinu.xyz
-app-de.fi
 app-ethena.xyz
 app-ether-fi.pages.dev
 app-fredenergy.pages.dev
@@ -4283,7 +4281,6 @@ myob.finance
 myob.network
 myria-game.com
 myrianewmigration.pro
-myrmourneco.org
 myro-airdrop.xyz
 myrobase.com
 myselfio.xyz
@@ -4716,6 +4713,7 @@ palestran15.pages.dev
 palmai-techi.vercel.app
 pambopandoshi.site
 pan-cake.xyz
+panacakeswap.tech
 pancackeswap-claim.web.app
 pancackeswap-fiannce.com
 pancackeswap-fniance.com
@@ -5383,7 +5381,6 @@ re-voke.cash
 reachedoutseveral.com
 realio.fi
 realio.gift
-realioapp-network.com
 realioapp.com
 realiogift.org
 realraydium.xyz
@@ -6254,7 +6251,6 @@ syncappauth.pages.dev
 syncapprectify.pages.dev
 syncconnectdapp.xyz
 syncedapps.pages.dev
-synchronizerzone.com
 synckavva.netlify.app
 syncndeffiz.line.pm
 syncpool.xyz
@@ -6852,7 +6848,6 @@ wap.kinetu.com.cn
 wap.uu-whatsapp.com
 waprcast.com
 wasabimixer.com
-washington-posts.com
 washingtonposts.info
 waves-opensea.com
 wbtc-portal.com
