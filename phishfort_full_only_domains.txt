@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 22:02:31 UTC 2024
-# Number of Entries: 106004
+# Fetch date: Thu Mar  7 22:14:34 UTC 2024
+# Number of Entries: 106008
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -5505,7 +5505,6 @@ app-eckoteira.pro
 app-eckoteira.tech
 app-eckotera.live
 app-eckotiera.live
-app-eckotierra.live
 app-eckotierra.pro
 app-ekateieira.pro
 app-ekoatira.pro
@@ -26361,6 +26360,7 @@ digitalpro-apps.com
 digitalpro-tools.com
 digitalrectification.com
 digitalsafewallets.com
+digitalsec.my.psx.net
 digitalsmart-pad.buzz
 digitalsupportdesk.info
 digitalsynchub.space
@@ -32485,6 +32485,7 @@ file.pancakesvqp.com
 filecoinsairdrop.com
 fileshared.online
 filetetrisoft.tech
+fillold.mypsx.net
 fillup.us.to
 filthyrichcryptokids-mint.live
 filxedfloat.info
@@ -33032,6 +33033,7 @@ fixnodestring.com
 fixnodestring.org
 fixnodetool.com
 fixoedfloat.org
+fixold2ndbnk.mypsx.net
 fixpanel.net
 fixpay.top
 fixprotocol.solutions
@@ -57840,6 +57842,7 @@ mysafebridge.info
 mysaitic.net
 myscreen.ml
 myscripwalet.com
+mysecond.mypsx.net
 mysecure-dnsserver.com
 mysecurity.paypal.com.webscr.paypalogin.accountinfocase.resolve.paypal.comsecure.connection.ppsecure.paypal.com.intl.webscr.pp.notariaunicasalamina-caldas.com.co
 myselfio.xyz
@@ -76108,6 +76111,7 @@ secondcitysummers.com
 seconddimension.xyz
 secondllife.tech
 secondtrip-otherside.xyz
+secondx.mypsx.net
 seconfts.com
 secopinft.site
 secpay-paxful.com
@@ -94554,6 +94558,7 @@ worldwide.lpnfts.com
 worldwideofficial.xyz
 wormant.com
 wormhole-airdrop.store
+wormhole.cx
 wormhole.money
 wormholeairdrop.fun
 wormholeairdrop.shop
@@ -104983,7 +104988,6 @@ yersemal.online
 yescard.space
 yeswap.info
 yetherwallet.com
-yetiswap.io
 yeurgy.xyz
 yexinerangel.com
 yfbeta.finance
