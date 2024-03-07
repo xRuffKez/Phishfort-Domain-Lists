@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 23:41:41 UTC 2024
-# Number of Entries: 106012
+# Fetch date: Thu Mar  7 23:51:45 UTC 2024
+# Number of Entries: 106014
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -81178,6 +81178,7 @@ support.pancakeswape.finance
 support.pancakeswaps.it
 support.pancakeswasap.one
 support.pancokeswap.com
+support.pankecswaqfiannce.com
 support.pixelmon.tech
 support.syncalldapps.pro
 support.universaldefidomain.io
@@ -105604,6 +105605,7 @@ zinumigration.netlify.app
 zipwallet.net
 zircuit-app.one
 zircuit-app.org
+zircuitprotocol.xyz
 zircuits.xyz
 zirocoin.com
 ziy3.sa.com
