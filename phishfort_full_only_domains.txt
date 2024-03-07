@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 22:14:34 UTC 2024
-# Number of Entries: 106008
+# Fetch date: Thu Mar  7 22:24:27 UTC 2024
+# Number of Entries: 106009
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -16730,6 +16730,7 @@ claim-okaybears.com
 claim-opensea.vip
 claim-openseapro.com
 claim-opnx.com
+claim-opsecs.net
 claim-optimism.app
 claim-optimism.com
 claim-optimism.online
