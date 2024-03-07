@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 20:41:46 UTC 2024
+# Fetch date: Thu Mar  7 20:51:50 UTC 2024
 # Number of Entries: 106004
 
 0-metemask.com
@@ -32068,7 +32068,6 @@ factor.money
 factsync.pages.dev
 faderae.top
 fadestoro.top
-faeblworld.xyz
 fahq.web3-airdrop.net
 fahsnxjnms63cb16425a863.winkaros.ru
 fail-metemask.com
@@ -49833,6 +49832,7 @@ metamask.iwtoken.cn
 metamask.ixoraeducation.com
 metamask.jajawprinters.com
 metamask.jatra-app.infinityfreeapp.com
+metamask.je
 metamask.journalrmc.com
 metamask.kaizenprint.ie
 metamask.kaweila.top
