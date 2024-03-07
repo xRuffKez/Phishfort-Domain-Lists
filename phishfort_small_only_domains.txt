@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 14:30:58 UTC 2024
-# Number of Entries: 7777
+# Fetch date: Thu Mar  7 14:40:49 UTC 2024
+# Number of Entries: 7758
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -449,7 +449,6 @@ amlcrypto.world
 amljumper.com
 amlsecure.org
 amlwallet.online
-amlzero.com
 amplifylevel.webcloner.net
 an.intelectui.online
 an.myudetma.online
@@ -654,7 +653,6 @@ apprestakefinance.com
 approved-received.pages.dev
 approvenode.pages.dev
 apps-aevo.xyz
-apps-defi.com
 apps-eigenlayer.com
 apps-intercessor.live
 apps.multichainspro.com
@@ -1162,7 +1160,6 @@ brc20.su
 bridgarbltrum.com
 bridge-a3vigrfjd-pancakeswap.vercel.app
 bridge-manta.network
-bridge-metal-exchange.com
 bridge-modenet.work
 bridge-optics.app
 bridge.blockscape.ink
@@ -1945,6 +1942,7 @@ defisentry.pages.dev
 defisrhino.net
 defitrader-coin.io
 defiwebchains.org
+deflexseax.xyz
 defuny.cc
 defuny.vip
 degen-claim.netlify.app
@@ -2093,7 +2091,6 @@ dsr4w.pages.dev
 dtechdatacorp.com
 duegaigh.buzz
 duke-florence-finance.co
-dumalomas.com
 durexwalletbridge.co.za
 dutysyncdapp.pages.dev
 dws-team-vs.de
@@ -2538,7 +2535,6 @@ fullmoonbird-next.vercel.app
 fullproda.site
 fun.cosmicpets.info
 funairdrop.fun
-funairdrop.online
 funairdrop.vip
 funkapez.com
 fusestaking.app
@@ -2671,6 +2667,7 @@ gl-havasapp.com
 gl-havaspro.com
 gl-rsmopt.com
 glaberkantonalbank.com.opticsea.org
+glacierdivisons.pics
 glhfers.xyz
 global-blockchain-4159.com
 global.onlineyshire-uk.com
@@ -2863,7 +2860,6 @@ identity.sandbox.tymebank.ngenius-payments.com
 idex-crypto.vip
 idypians.xyz
 iexeces.app
-iggmvmijoboap.com
 igxegift.com
 ilayeir3.xyz
 ilfinity.io
@@ -3263,7 +3259,6 @@ layerszero.pics
 layerxpub-rectification.pages.dev
 layerzero-ad.com
 layerzero-finance.space
-layerzero-networks.net
 layerzero-superverse.com
 layerzero.web.app
 layerzeroclaims.xyz
@@ -4311,7 +4306,6 @@ myuionlineedetmadma.info
 myuionlineedetmadma.net
 myuionlinneedettmadmu.com
 myuionlinneedettmadmu.net
-myuionlinneedettmadmu.org
 mywalletexodus.com
 na2-docusign-net-envelope-office365-auth.us-southeast-1.linodeobjects.com
 na3-docusign-auth-office365.us-lax-1.linodeobjects.com
@@ -4402,20 +4396,15 @@ nfpromptsio.vercel.app
 nfpromt.co
 nfsatoshicom.pages.dev
 nft-2clicks.vercel.app
-nft-caw.com
 nft-clickclaims.vercel.app
 nft-clickgrab.vercel.app
 nft-creso.com
 nft-decent.app
 nft-g-opensea.vercel.app
-nft-gnosis.com
-nft-golem.com
-nft-grok.com
 nft-hedgies.com
 nft-jup.app
 nft-makerdao.com
 nft-offers.com
-nft-olas.com
 nft-open-one.vercel.app
 nft-opense.vercel.app
 nft-opensea0.vercel.app
@@ -4423,17 +4412,12 @@ nft-openseas.vercel.app
 nft-openseaz.vercel.app
 nft-openseazone.vercel.app
 nft-opesea.vercel.app
-nft-optimustoken.com
 nft-projects-sand.vercel.app
-nft-radixdlt.com
 nft-reward.pages.dev
-nft-routerprotocol.com
-nft-saitamatoken.com
 nft-sidusheroes.com
 nft-starknet-project.vercel.app
 nft-swellnetwork.io
 nft-trade.xyz
-nft-virtua.com
 nft-win.pages.dev
 nft.azukl.biz
 nft.diet
@@ -4958,7 +4942,6 @@ pepsisco.com
 per-empower.com
 perceptiveorbsyscaga.pages.dev
 perdashboard.online
-perfect-bridge-exchange.com
 perfectcheckgift.com
 perks-pepe.com
 perpnft.xyz
@@ -6532,12 +6515,10 @@ tuckeracousstical.com
 tulip-app.one
 tvl-chain.link
 twilio-hr.com
-twisterlawq.website
 twolandstoken.live
 twt.multipuds.top
 txtopguntx.com
 tyzxf.pages.dev
-uaisdetimistic.com
 udefi.ueth.cc
 ufalmassuissat.com
 ufgw.top
