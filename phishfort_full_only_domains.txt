@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 05:14:23 UTC 2024
-# Number of Entries: 105959
+# Fetch date: Thu Mar  7 05:24:05 UTC 2024
+# Number of Entries: 105960
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -76013,6 +76013,7 @@ sdge-medical-baseline-application.com
 sdigital-mainethub.live
 sdn2sumberejo.sch
 sea-airdrop.org
+sea-claim.live
 sea-gives.art
 sea-list.com
 sea-nft.store
