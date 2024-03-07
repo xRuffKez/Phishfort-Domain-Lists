@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 18:14:09 UTC 2024
-# Number of Entries: 7770
+# Fetch date: Thu Mar  7 18:24:16 UTC 2024
+# Number of Entries: 7768
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -2635,7 +2635,6 @@ getcodesolutions.com
 geth.claims
 getmanta.network
 getmidjourney.tech
-getmoodopv.com
 getpyth.app
 getrewards.life
 gets.dappsradars.online
@@ -3502,6 +3501,7 @@ mail.layerszero.pics
 mail.lendingtree.website
 mail.magpiexyz.live
 mail.maverickdao.net
+mail.panckswap.com
 mail.revokewallets.cash
 mail.swapsnet.com
 mail046.mlsend.com
@@ -4162,7 +4162,6 @@ modenet.work
 modenetwork.io
 modenetwork.netlify.app
 moderator.ltd
-modifierlongitudinal.top
 modulares.icu
 modulef.com
 moduler.network
@@ -4194,7 +4193,6 @@ moshcuoss.com
 mot-qatargov.net
 motion-industries.co
 motion-industries.info
-motion-lnds.com
 motion-lndustries.com
 motionlndustries.com
 moz-dia-meviplota.com
