@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 23:23:52 UTC 2024
-# Number of Entries: 106011
+# Fetch date: Thu Mar  7 23:31:55 UTC 2024
+# Number of Entries: 106012
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -73250,6 +73250,7 @@ reepz.web3-airdrop.net
 reether.store
 reevoke.cash
 reewelprotocol.com
+reference.mypsx.net
 refereum-ico.eu
 refereum-token.com
 refereum.com.erc-20.claims
