@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 11:41:54 UTC 2024
-# Number of Entries: 105970
+# Fetch date: Thu Mar  7 11:52:03 UTC 2024
+# Number of Entries: 105973
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -7005,6 +7005,7 @@ aragon.im
 aragon.web3-airdrop.net
 aragongift.live
 aragonproject.io
+aramex-delivery.me
 aramexame.com
 aramexcourier.com
 aramexservicevktb.world
@@ -28499,6 +28500,7 @@ emirates-skycargo.uk
 emirates-suppleirs.online
 emirates-suppliers.online
 emirates-tickets.com
+emirates.airfareuk.co.uk
 emirates.airlinevault.uk
 emirates.dev.get-myesim.com
 emirates.flightse.co
@@ -35037,7 +35039,6 @@ gemlygg.com
 gemnationalschool-barsha.com
 gempad-app.xyz
 gemrewards.xyz
-gems-ideas.com
 gemscambridgeinternationalschlae.com
 gemsetnft-free.xyz
 gemsntionalschool-barsha.com
@@ -58601,6 +58602,7 @@ newsmetamesk.com
 newsmetamesks.com
 newsouthwire.com
 newspecialsoffers.online
+newsupport.alkhaleej.com.sa
 newsystemresolve.live
 newtesla2023.io
 newtherewallet.com
@@ -74835,6 +74837,7 @@ roninhelpdesk.com
 ronininfinity.com
 roninl.space
 roninn-wallet.github.io
+roninnchain.com
 roninnetwork-livechat.com
 roninnetwork-livechats.com
 roninnetwork.support
