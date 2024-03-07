@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 15:41:45 UTC 2024
-# Number of Entries: 105992
+# Fetch date: Thu Mar  7 15:51:53 UTC 2024
+# Number of Entries: 105993
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -11184,6 +11184,7 @@ bilinance.org
 bilkub.com
 bilkub.web.app
 bill-407etr.com
+bill-tel.com
 bill407etrca.com
 billfold.help
 billgates.capital
