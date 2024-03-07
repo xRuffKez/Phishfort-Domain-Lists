@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 15:13:51 UTC 2024
-# Number of Entries: 7759
+# Fetch date: Thu Mar  7 15:22:20 UTC 2024
+# Number of Entries: 7757
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -4510,6 +4510,7 @@ numboost.ru
 nusuk.site
 nusukbaitullahint.id
 nusukroadshow.com
+ny9.us
 o2-cert.com
 o2-kundenverwaltung.info
 o2online-service.de
@@ -5262,7 +5263,6 @@ queuedappsync.pages.dev
 quickdirectoryfilchart.pages.dev
 quickfiend.com
 quickswap-exchange.gifts
-quickswap-exchanges.com
 quickswap-io.events
 quickswapio.news
 quicksyncdapps.pages.dev
@@ -6172,7 +6172,6 @@ super-fans.tech
 super-julio.free-mint.page
 superclaim-defi.com
 superclaims-defi.com
-superiorvisionplans.com
 suport-cch.com
 support-407etr.com
 support-cch.com
@@ -6558,7 +6557,6 @@ unisatindexnodes.com
 unisatwalletextension.com
 unisvap-v3.github.io
 uniswap-blockchain-clone-ng.vercel.app
-uniswap-dao.com
 uniswap-exchange-site.web.app
 uniswap-exchange-uniswap.app
 uniswap-org.vercel.app
@@ -7635,7 +7633,6 @@ yearn.xbits.top
 yexinerangel.com
 ygbu.mypi.co
 yieldtribal.top
-yo9.email
 yogapetz.gift
 yogapetz.well3.live
 yoo.why-u-talking-w-me-like-that-nigga.com
@@ -7649,6 +7646,7 @@ ypredict-ai.app
 ypredict-ai.site
 ypredict-app.pages.dev
 yqmln.top
+yu9.us
 yuvrajproductions.com
 z9a5rlx4jj.whosaginay.tech
 zanshin.ro
