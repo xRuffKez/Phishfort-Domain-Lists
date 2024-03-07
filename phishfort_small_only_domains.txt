@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar  7 06:14:29 UTC 2024
-# Number of Entries: 7783
+# Fetch date: Thu Mar  7 06:25:09 UTC 2024
+# Number of Entries: 7781
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -223,7 +223,6 @@ agodajob.com
 agodaonline.com
 agodapay.info
 agodatikethotelcom.masukmobilee.de
-agodawork.com
 agodaycs.com
 ahora-ingres-aca.netlify.app
 ai-decentraldapp.pages.dev
@@ -1735,7 +1734,6 @@ csagodaonline.masukmobilee.de
 csfellon.ru
 csl-behring.eu
 csl-seqirus.com
-cslprivate.co.uk
 cthulhu.in
 ctt.fullpays.site
 cubeexchange.co
@@ -4447,7 +4445,6 @@ nft.pepzgroup.biz
 nft.wormscommunity.com
 nft.wormscommunity.xyz
 nftairdropclub.com
-nftbless.com
 nftcircle.xyz
 nftclaimclick.vercel.app
 nftclaimsopen.vercel.app
@@ -5548,6 +5545,7 @@ revokeca.xyz
 revokecash-web3.org
 revokecash.cash
 revokecash.network
+revokecash.store
 revokecashe.com
 revokecashh.pages.dev
 revokecashn.com
