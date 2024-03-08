@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 12:16:21 UTC 2024
-# Number of Entries: 106025
+# Fetch date: Fri Mar  8 12:30:41 UTC 2024
+# Number of Entries: 106026
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -40453,6 +40453,7 @@ journeys.coolcatsnft.studio
 joybamq1.zzux.com
 joycegenari.com
 joyouslinkew.world
+joyprimeshowworld.world
 joysonseafety.com
 jp-metamask.org
 jp-pancakeswap.net
