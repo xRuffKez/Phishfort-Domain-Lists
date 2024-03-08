@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 22:14:48 UTC 2024
-# Number of Entries: 106044
+# Fetch date: Fri Mar  8 22:25:17 UTC 2024
+# Number of Entries: 106045
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -46809,6 +46809,7 @@ manta-network.zone
 manta-networks.mom
 manta-newparadigm.com
 manta-newpardigm.com
+manta-paciffic.online
 manta-pacific.github.io
 manta-pacificnetwork.com
 manta-participate.com
