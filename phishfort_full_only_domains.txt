@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 14:52:08 UTC 2024
+# Fetch date: Fri Mar  8 15:02:40 UTC 2024
 # Number of Entries: 106030
 
 0-metemask.com
@@ -44800,7 +44800,6 @@ login.coinbasesupportscenterid.com
 login.coinbasesupportsid.com
 login.coinbasewalletsupport.com
 login.coinbasewalletsupports.com
-login.cw1.ir
 login.fraend.net
 login.frame-airdrop.xyz
 login.lblockhcoin.com
@@ -100058,6 +100057,7 @@ www.pencakefistaking.com
 www.pendle.io
 www.pendlee.com
 www.penguinkarts.xyz
+www.penguinrandomshouse.com
 www.peocotn.com
 www.pepacoinairtoday.info
 www.pepe-20.online
