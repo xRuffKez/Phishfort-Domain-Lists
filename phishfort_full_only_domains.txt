@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 23:14:59 UTC 2024
-# Number of Entries: 106054
+# Fetch date: Fri Mar  8 23:23:18 UTC 2024
+# Number of Entries: 106056
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -11,6 +11,7 @@
 0120tt.com
 023772d9.859c0391d7bc0f161af864a7.workers.dev
 02ip.ru
+02nat.mypsx.net
 035sy.com
 050439a3-fea7-4142-b935-6d17e8ac2d95-2e06f435.uddlab.com
 07e96d43-381a-46a3-9c16-6daf97213efc.co
@@ -24893,6 +24894,7 @@ decimoconnect.com
 decipherwallets.info
 decktxidlobe.com
 declarativegarlic.top
+decline1.dvrcam.info
 decline87255-coinbase.com
 declivetrex.com
 decnetarland.org
