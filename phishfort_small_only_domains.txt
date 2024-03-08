@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 23:01:27 UTC 2024
-# Number of Entries: 7801
+# Fetch date: Fri Mar  8 23:13:49 UTC 2024
+# Number of Entries: 7808
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -313,6 +313,7 @@ airdrop.modenetwork.xyz
 airdrop.orbiterfinancial.com
 airdrop.rest
 airdrop.sleepleessai.net
+airdrop.starheros.community
 airdrop.starkparticipate.com
 airdrop.teleportdao.su
 airdrop.wld.dev
@@ -352,6 +353,7 @@ airdropzkfair.top
 airhopper-review.com
 airhopper-reviews.com
 airhopperreviews.com
+airjetfly.online.swiftplumbingsolutions.online
 airmexc.life
 airnetframe.com
 airnftframe.com
@@ -1359,6 +1361,7 @@ ciscojobsapply.com
 ciscojobsform.com
 ciscosystemsinc.online
 citions.vercel.app
+cittyindex.com
 city-index.net
 cityindex-china.com
 cksurf.com
@@ -2032,6 +2035,7 @@ discord.kavanet.xyz
 discord.kavasync.xyz
 discord.kavaxyz.top
 discover-manta.network
+disneypinacle.click
 distibution-metis.io
 distribute-hbar.com
 distribute-woo.xyz
@@ -2056,7 +2060,9 @@ documentation-lybra.finance
 dodoeex.cc
 dogpad-financee.netlify.app
 dogwifbox.vip
+dogwifcoin.live
 dogwifcoin.trading
+dogwifcoln.site
 dojoencryption.com
 dojoswap.org
 domabnb.design
@@ -2986,6 +2992,7 @@ j2gkzzu.top
 j6nypr752.ukit.me
 jackfermin.com
 jade-melba-55acae.netlify.app
+jamesthurmankahn.com
 jane-ai.com
 jane-ai.net
 january-distribution.xyz
@@ -5366,7 +5373,6 @@ raydium.pics
 raydium.rest
 raydium.sbs
 raydium.trading
-raydium.xyz
 raydiumnet.work
 raydiumpool.xyz
 raydiums.buzz
@@ -6501,6 +6507,7 @@ transfer24p2p.ru
 trastpud-air.top
 trastumanvst.com
 travalaai.live
+travel.quickflightbooking.online
 travelfly-united.com
 treasure.events
 treasure.gl
