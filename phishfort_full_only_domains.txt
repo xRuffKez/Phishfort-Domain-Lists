@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 05:51:55 UTC 2024
-# Number of Entries: 106030
+# Fetch date: Fri Mar  8 06:02:51 UTC 2024
+# Number of Entries: 106025
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -45640,7 +45640,6 @@ m-etamask.io
 m-ftx.com
 m-imtokem.net
 m-lng.top
-m-mask.top
 m-mfinance.com
 m-paxful.com
 m-poloniex-support.com
@@ -49204,7 +49203,6 @@ metamask.chat
 metamask.china-okx.icu
 metamask.ci
 metamask.cirii.co
-metamask.city
 metamask.claiming-free.live
 metamask.claims
 metamask.claimtokens.fun
@@ -49921,7 +49919,6 @@ metamask.mx
 metamask.myairdrop.online
 metamask.myvnc.com
 metamask.mywaytocrypto.com
-metamask.name
 metamask.navy
 metamask.net.co
 metamask.net.do
@@ -50033,7 +50030,6 @@ metamask.siratmedia.com
 metamask.siterubix.com
 metamask.ski
 metamask.smithonians.smithydao.lol
-metamask.so
 metamask.social
 metamask.softonic.comm.tracara.co.uk
 metamask.software
@@ -59804,6 +59800,7 @@ nvidia.drivers.saldemariscal.com.br
 nvidiacenter.com
 nvidiacontrolpanel.net
 nvidiacontrolpanelwin.com
+nvidiaint.shop
 nvidiamall.vip
 nvidiastore.net
 nvidiatechnologies.com
@@ -63522,7 +63519,6 @@ pancakeswap-finence.com
 pancakeswap-finnance.com
 pancakeswap-finnance.org
 pancakeswap-firmware.online
-pancakeswap-firrance.com
 pancakeswap-fjinance.com
 pancakeswap-flinacne.com
 pancakeswap-flnance.biz
@@ -86802,7 +86798,6 @@ uniswap-ecosystem.space
 uniswap-entirety.casa
 uniswap-entirety.top
 uniswap-envenom.club
-uniswap-erc20.com
 uniswap-eth-drop.org
 uniswap-eth.com
 uniswap-eth.net
