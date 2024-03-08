@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 00:03:27 UTC 2024
+# Fetch date: Fri Mar  8 00:24:01 UTC 2024
 # Number of Entries: 7787
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2226,6 +2226,7 @@ en.pushdstore.xyz
 en.sonikapp.live
 en.swiftauthresolve.com
 en407etr.com
+enchor-roofs.com
 encryted-api-f3w.pages.dev
 eng-inj.net
 eng-injective.com
@@ -2437,6 +2438,7 @@ fkuinu.tech
 fl-firm.com
 flareairdrop.vercel.app
 flashdigi.site
+floadfixed.com
 float-fixed.com
 floki-claim.vercel.app
 floki-tokens.net
@@ -2527,7 +2529,6 @@ freesync.pages.dev
 freshairdrop-website.live
 freshkingcrabs.com
 from-agoda.site.pro
-frontier-fly.com
 ftp.raydiums.motorcycles
 ftp.tiktide.com
 ftx-e49.pages.dev
@@ -4750,7 +4751,6 @@ pancakesvop.com
 pancakeswao.finance
 pancakeswap-airdop.com
 pancakeswap-connect.xyz
-pancakeswap-drop.finance
 pancakeswap-exchange-testnet.netlify.app
 pancakeswap-exchange.mom
 pancakeswap-finance.mom
