@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 04:42:02 UTC 2024
-# Number of Entries: 106027
+# Fetch date: Fri Mar  8 04:51:52 UTC 2024
+# Number of Entries: 106028
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -45640,6 +45640,7 @@ m-etamask.io
 m-ftx.com
 m-imtokem.net
 m-lng.top
+m-mask.top
 m-mfinance.com
 m-paxful.com
 m-poloniex-support.com
