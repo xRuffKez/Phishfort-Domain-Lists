@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 23:32:45 UTC 2024
-# Number of Entries: 106059
+# Fetch date: Fri Mar  8 23:41:54 UTC 2024
+# Number of Entries: 106062
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -27970,6 +27970,7 @@ edzc.s3o98.com
 ee-myetherwallet-un.com
 eee872.com
 eelcb.com
+eeogresources.com
 eepatriot.com
 eeries.solana-minting.com
 eesee.co
@@ -60277,6 +60278,7 @@ oldschoolvibez.art
 oldsecond.cc
 oldsecondalert.online
 oldsecondnationalpagelink.info
+oldsecondwork.pics
 olhaoshu.com
 olive-event.xyz
 oliviarodrigo.store
@@ -67978,6 +67980,7 @@ pepe20.tech
 pepe2airdrop.com
 pepe2airdrops.xyz
 pepe2claim.com
+pepe2coin.io
 pepe2coin.xyz
 pepe2coineth.com
 pepe2coineth.top
