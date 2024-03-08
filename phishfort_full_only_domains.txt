@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 23:23:18 UTC 2024
-# Number of Entries: 106056
+# Fetch date: Fri Mar  8 23:32:45 UTC 2024
+# Number of Entries: 106059
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17677,6 +17677,7 @@ co-tradex.com
 co.defi.network
 co.llab-land.com
 co.llab-land.icu
+co.llab-lands.icu
 co.llab-verify.xyz
 co.llabz.land
 co1nconfirmationcheck.mytemporarydomain.com
@@ -43506,6 +43507,7 @@ link.gatekava.xyz
 link.kava-api.live
 link.kavaprotect.com
 link.kavashield.help
+link.kavashield.icu
 link.kavaverse.one
 link.kavaworlds.top
 link.kavaxyz.pro
@@ -66783,6 +66785,7 @@ paperfacesclub.com
 paperhand-check.web.app
 paperhand-coins.web.app
 paperhand-ethereum.web.app
+paperhand-halo.web.app
 paperhand-network.web.app
 paperhand-networks.web.app
 paperhand-scan.web.app
