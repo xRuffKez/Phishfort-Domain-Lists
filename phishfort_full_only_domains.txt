@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 19:41:53 UTC 2024
-# Number of Entries: 106042
+# Fetch date: Fri Mar  8 19:52:00 UTC 2024
+# Number of Entries: 106043
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -51775,6 +51775,7 @@ meytherwellet.net
 meythrewellet.com
 meythrowallet.com
 mfa-authenticator.com
+mfa-expiration-notification-authservices2fa.us-ord-1.linodeobjects.com
 mfacebook-help-300317487599303.web.app
 mfcsons.com
 mfers-claim.art
