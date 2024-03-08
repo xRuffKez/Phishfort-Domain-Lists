@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 02:51:53 UTC 2024
-# Number of Entries: 106025
+# Fetch date: Fri Mar  8 03:02:33 UTC 2024
+# Number of Entries: 106027
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -21899,6 +21899,7 @@ cs2blast.ru
 cs2lounge.club
 cs2polygonx.top
 cs4market.ru
+csagoda.co
 csagodaonline.masukmobilee.de
 cscs-app-money.one
 cscs.wiki
@@ -44796,6 +44797,7 @@ login.coinbasesupportscenterid.com
 login.coinbasesupportsid.com
 login.coinbasewalletsupport.com
 login.coinbasewalletsupports.com
+login.cw1.ir
 login.fraend.net
 login.frame-airdrop.xyz
 login.lblockhcoin.com
