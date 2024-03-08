@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 22:13:41 UTC 2024
-# Number of Entries: 7800
+# Fetch date: Fri Mar  8 22:24:14 UTC 2024
+# Number of Entries: 7801
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -3617,6 +3617,7 @@ manta-network.zone
 manta-networks.mom
 manta-newparadigm.com
 manta-newpardigm.com
+manta-paciffic.online
 manta-pacific.github.io
 manta-pacificnetwork.com
 manta-participate.com
