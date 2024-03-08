@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 02:50:53 UTC 2024
-# Number of Entries: 7797
+# Fetch date: Fri Mar  8 03:01:09 UTC 2024
+# Number of Entries: 7799
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -1734,6 +1734,7 @@ cryptowrapped.cc
 crystalfiles.ru
 cs2-blast.com
 cs2polygonx.top
+csagoda.co
 csagodaonline.masukmobilee.de
 csfellon.ru
 csl-behring.eu
@@ -3429,6 +3430,7 @@ localethereum.xn--node
 login-cisco.tech
 login-frame.xyz
 login-metamaskwallet.ddnss.eu
+login.cw1.ir
 login.frame-airdrop.xyz
 login.microsoftonlineportal.ppp-gov.online
 login.myob.ink
