@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 06:14:12 UTC 2024
-# Number of Entries: 7798
+# Fetch date: Fri Mar  8 06:24:34 UTC 2024
+# Number of Entries: 7802
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -202,6 +202,7 @@ agoda-formulir.prioritas-24hours.com
 agoda-hotel.com
 agoda-jp.com
 agoda-jp.vip
+agoda-jps.com
 agoda.host
 agoda.ib-web.online
 agoda.partner-extranet.life
@@ -3046,6 +3047,7 @@ jokewoods.maryboye.tv
 journeymantle.one
 joyouslinkew.world
 joysonseafety.com
+jpagod.com
 jpzhgw.sbs
 jrobotics.com
 jrt8fm.pro
@@ -5491,6 +5493,7 @@ render.gift
 rendernetwork.support
 renderprotocol.org
 renord.netlify.app
+resolutionpanel.pages.dev
 resolve-captcha.com
 resolver-paneldapp.com
 resolverfinance.com
@@ -7181,6 +7184,7 @@ www.borchy.com
 www.botlun.com
 www.bridgermk.app
 www.bridgermkr.app
+www.brothernz.com
 www.bscpad-launchpad.live
 www.buhgeexhange.com
 www.bumrof.com
