@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 01:12:32 UTC 2024
-# Number of Entries: 7791
+# Fetch date: Fri Mar  8 01:35:12 UTC 2024
+# Number of Entries: 7795
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -1606,6 +1606,7 @@ collabsecurity.land
 collad-land.me
 collateralnetworks.pages.dev
 collbalnand.pages.dev
+colleb-verify.xyz
 collect-chain.link
 collect-wenwencoin.com
 collection-satoshivm.io
@@ -1758,6 +1759,7 @@ d3-shib.app
 d394f31195472c.net
 d7bjeie8jevolt5j.pdqptpohlhxle6.ru
 da2m088c.site
+dadawgs.tech
 daki.sjn0e.com
 dalarnas.site
 dalarnas.website
@@ -2319,6 +2321,7 @@ event-flashprotocol.xyz
 event-grayscale.com
 event-lidofinance.com
 event-pandora.community
+event-realios.com
 event-web3usdlt.com
 event-woo.co
 event.aircointrustpad.top
@@ -4367,6 +4370,7 @@ network-manta.com
 network-manta.net
 network-strk.org
 network.airdrops-manta.it
+network.app--jito.network
 networks-rnanta.com
 new-bid.org
 new-farcana.com
