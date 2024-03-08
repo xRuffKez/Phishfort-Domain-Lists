@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 23:41:54 UTC 2024
-# Number of Entries: 106062
+# Fetch date: Fri Mar  8 23:51:41 UTC 2024
+# Number of Entries: 106063
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -33182,6 +33182,7 @@ flightbookingreservation.online
 flightbookplus.com
 flightcops.com
 flightpasstickets.com
+flightreservations.xyz
 flights-ticketbooking.com
 flights-united.getflyreservation.com
 flightsfriendly.com
