@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 14:31:53 UTC 2024
-# Number of Entries: 106028
+# Fetch date: Fri Mar  8 14:41:53 UTC 2024
+# Number of Entries: 106029
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -32408,6 +32408,7 @@ ff18.info
 ff18.io
 ff9.info
 ff9.io
+fffcu.de
 fffttxx5.com
 ffinbank.herokuapp.com
 ffixedffloat.com
