@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 21:40:42 UTC 2024
-# Number of Entries: 7803
+# Fetch date: Fri Mar  8 21:50:53 UTC 2024
+# Number of Entries: 7797
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -1352,7 +1352,6 @@ ciel-tower.goldpillars.ae
 cieltower.net
 cirle.top
 cirsaccess.com
-ciscoconnecctt.com
 ciscoinvetments.com
 ciscojobsapply.com
 ciscojobsform.com
@@ -1792,7 +1791,6 @@ dappintegration.com
 dappkaavaa.netlify.app
 dapplaunchpad.live
 dappmainhub.pages.dev
-dappmigratechain.com
 dappmobilewallet.com
 dapppaxos.co
 dapprad.net
@@ -3260,7 +3258,6 @@ layer-3.cyou
 layer-network.com
 layer-swap.xyz
 layer-zera.top
-layer-zero-tokens.vercel.app
 layer-zero.mom
 layer2-metis.io
 layer3.byethost5.com
@@ -3747,6 +3744,7 @@ maplestorysuniverse.io
 marchigue.cl
 marginfi-drop.netlify.app
 marinadefinance.claims
+market-place-bids.com
 marketcap-coins.com
 marketpalcestatus.com
 marketpharmacy.com
@@ -6148,7 +6146,6 @@ start-wen.com
 steaam.umb.market
 steady-creponne-871786.netlify.app
 steam.dotaworkshops.com
-steam.poweredstoreskin.com
 steam.umb.market
 steamcommujity.com
 steamcommunitc.com
@@ -7227,7 +7224,6 @@ www.deelancewin.com
 www.dianwifi.cc
 www.drop.box-cdn.com
 www.dropmanta.com
-www.duvtre.com
 www.eaglan.com
 www.earn-drop.club
 www.eigen-layer.sale
@@ -7368,7 +7364,6 @@ www.moacverse.xyz
 www.mode.networkapp.hu54.com
 www.moderatorpaxfultrade.com
 www.moodysec.cc
-www.muiwky.com
 www.multichain-web.de
 www.multiversechainx.com
 www.mwallet8.com
@@ -7551,7 +7546,6 @@ www.wwwdymension.xyz
 www.wwwframe.xyz
 www.x-swap.link
 www.xai.moe
-www.ximlew.com
 www.xn--fixdfloat-d4a.com
 www.xn--fixedflaot-f0b.com
 www.xn--fxedfloaf-g5a.com
