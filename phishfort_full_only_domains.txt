@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 17:51:42 UTC 2024
+# Fetch date: Fri Mar  8 18:02:55 UTC 2024
 # Number of Entries: 106038
 
 0-metemask.com
@@ -3892,6 +3892,7 @@ airreservationtrip.com
 airs-wallets.com
 airspad.top
 airstack.net
+airstyleart.co.uk
 airsupp.za.com
 airsupport.za.com
 airswap.in
@@ -76136,7 +76137,6 @@ secondcitysummers.com
 seconddimension.xyz
 secondllife.tech
 secondtrip-otherside.xyz
-secondx.mypsx.net
 seconfts.com
 secopinft.site
 secpay-paxful.com
