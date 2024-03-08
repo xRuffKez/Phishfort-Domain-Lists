@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 00:46:03 UTC 2024
-# Number of Entries: 106018
+# Fetch date: Fri Mar  8 01:15:11 UTC 2024
+# Number of Entries: 106021
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -14756,6 +14756,7 @@ build-121.com
 build-balancer.com
 build-dev.pancakeswape.finance
 build.acalax.network
+build.astarlabs.org
 buildahealthierlifestyle.com
 builder.pancakeswape.finance
 builderallwppro.com
@@ -46896,6 +46897,7 @@ mantastake.com
 mantatech.network
 mantatoken.top
 mantawallet.zoholandingpage.com
+mantax.pages.dev
 mantaz.network
 mantcnetwcrk.com
 mantda.network
@@ -52990,6 +52992,7 @@ moonbeam.presale.fund
 moonbeamapi.app
 moonbeamc.foundation
 moonbeamm.online
+moonbeams-web.com
 moonbeamstaking.com
 moonbeamsupport.com
 moonbeamunlock.com
