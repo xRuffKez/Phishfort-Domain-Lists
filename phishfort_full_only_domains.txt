@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 15:23:11 UTC 2024
-# Number of Entries: 106030
+# Fetch date: Fri Mar  8 15:32:36 UTC 2024
+# Number of Entries: 106032
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -74971,6 +74971,7 @@ roninweb.org
 roninwebapp.com
 roninwollatelog.godaddysites.com
 roniwallet.xyz
+ronlnchaiin.top
 ronlnchain.com
 ronnilog.azurewebsites.net
 ronninwallet.godaddysites.com
@@ -100092,6 +100093,7 @@ www.perpetualprotocolfast.com
 www.perppprotocol.com
 www.perps-wasabi.xyz
 www.perpswasabi.xyz
+www.personalles-accesoscolombia.online
 www.pet2099.org
 www.petaswap.demo.dapprex.com
 www.pge-cbk.com
