@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 01:15:11 UTC 2024
-# Number of Entries: 106021
+# Fetch date: Fri Mar  8 01:35:46 UTC 2024
+# Number of Entries: 106025
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -18153,7 +18153,6 @@ coinbase.xha888.com
 coinbase.xm-login2.com
 coinbase.yuyuhopamazon.com
 coinbase03.com
-coinbase0verify.dynamic-dns.net
 coinbase12.info
 coinbase247.com
 coinbase2x.online
@@ -19600,6 +19599,7 @@ collaplanb.cc
 collaqland.cc
 collateralnetworks.pages.dev
 collbalnand.pages.dev
+colleb-verify.xyz
 collebland.app
 collect-adidas.shop
 collect-adidas.store
@@ -22364,6 +22364,7 @@ dackieofficial.live
 dackofficcommynit.com
 dacontral-gomes.com
 dadake.site
+dadawgs.tech
 dadcake.app
 daddi.cloud
 daddydb-promogive.com
@@ -31279,6 +31280,7 @@ event-pancakeswap.finance-uagfinklsdiocopzpnz.top
 event-pandora.community
 event-pepe.com
 event-piratechain.xyz
+event-realios.com
 event-ripple.live
 event-spaceid.site
 event-staratlas.com
@@ -39345,6 +39347,7 @@ injectives.pics
 injectives.world
 injektive.info
 injektive.mom
+inkonbtc.app
 inlienikgadeder.tk
 inlogin.metamask.skyliteconsulting.com
 inmaculada.edu.ec
@@ -58420,6 +58423,7 @@ network-strk.org
 network-sui.io
 network-unlock.com
 network.airdrops-manta.it
+network.app--jito.network
 network.know-customer.info
 network.know-my-costumer.top
 network.kyc-help.info
