@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 07:31:54 UTC 2024
-# Number of Entries: 106029
+# Fetch date: Fri Mar  8 07:41:54 UTC 2024
+# Number of Entries: 106030
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -95480,6 +95480,7 @@ www.airtellotterywinners.com
 www.airtelwinner.com
 www.airticket4fly.com
 www.airtm-app2.iceiy.com
+www.airtm.services
 www.airtm.us
 www.ait-claim.com
 www.ait.gift
