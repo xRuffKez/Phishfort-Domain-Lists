@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 15:51:05 UTC 2024
+# Fetch date: Fri Mar  8 16:01:16 UTC 2024
 # Number of Entries: 7804
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -26,6 +26,7 @@
 123-bti.pages.dev
 162814-coinbase.com
 189f40034be7a.fnnpron.nl
+18f5384d.chriswsteele.com
 191glkil7mb.irwd2wa.su
 1d4f0331-eb63-4d85-9d57-7dacc20bff64-00-3t07qm8fsr0w5.janeway.replit.dev
 1icnh.com
@@ -5679,7 +5680,6 @@ rpcchainfix.net
 rpcdebug-extensiondapps.pages.dev
 rpchubnode.com
 rpclistinfo.netlify.app
-rpcmodifier.com
 rrbxhe.top
 rrevoke.cash
 rroninchain.com
