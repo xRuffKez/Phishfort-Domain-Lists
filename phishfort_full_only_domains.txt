@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 00:24:37 UTC 2024
-# Number of Entries: 106016
+# Fetch date: Fri Mar  8 00:46:03 UTC 2024
+# Number of Entries: 106018
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -8316,6 +8316,7 @@ auth.tokensprotocol.live
 auth.walletconect.net
 auth.wp-sports.com
 auth0-vystar.web.app
+auth0discord-collab.world
 auth24sec.com
 authappresolve.pages.dev
 authappsolvedapps.com
@@ -36239,6 +36240,7 @@ gl-havaspro.com
 gl-paxfulcoinbase.com
 gl-rsmopt.com
 glaberkantonalbank.com.opticsea.org
+glacierdivisons.pics
 glaconbtk.blogspot.com
 gladius.im
 gladius.ws
