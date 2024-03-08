@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 22:02:43 UTC 2024
-# Number of Entries: 106042
+# Fetch date: Fri Mar  8 22:14:48 UTC 2024
+# Number of Entries: 106044
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -12601,6 +12601,7 @@ blastingv2.com
 blastio.group
 blastio.ink
 blastl2.dev
+blastoffs.eu
 blastpoints.app
 blastreward.eu
 blastrio.xyz
@@ -101077,6 +101078,7 @@ www.smartlayer-claims.net
 www.smartlivechain.com
 www.smartrectifydapp.com
 www.smartsheet.cfd
+www.smartweb3.live
 www.smatterentries.org
 www.smipleswap.ws
 www.smudge.money.nyanmemecoin.xyz
