@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 06:02:51 UTC 2024
-# Number of Entries: 106025
+# Fetch date: Fri Mar  8 06:15:26 UTC 2024
+# Number of Entries: 106024
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17761,7 +17761,6 @@ coimngecko.click
 coimngecko.link
 coin-affixs.com
 coin-apes.com
-coin-aptos.com
 coin-ba-s-e2fa.com
 coin-base.events
 coin-base.org.cn
