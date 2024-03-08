@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 21:41:54 UTC 2024
-# Number of Entries: 106043
+# Fetch date: Fri Mar  8 21:51:44 UTC 2024
+# Number of Entries: 106042
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -16433,7 +16433,6 @@ ciscoanyconnect.org
 ciscoapp.store
 ciscoapp.us
 ciscoav.com
-ciscoconnecctt.com
 ciscocyberhub.ydreams.global
 ciscoinstructions.com
 ciscoinvetments.com
@@ -23035,7 +23034,6 @@ dappmanager.io
 dappmaster.xyz
 dappmasternode.com
 dappmigraion.com
-dappmigratechain.com
 dappmigration.com
 dappmigration.org
 dappmobileconnect.com
@@ -47027,6 +47025,7 @@ market-looksrare.org
 market-moto.blogspot.com
 market-opensea.net
 market-pixelvault.net
+market-place-bids.com
 market-place.best
 market.immutable-x.fun
 market.pancakesvqp.com
