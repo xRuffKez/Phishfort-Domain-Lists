@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 23:02:50 UTC 2024
-# Number of Entries: 106046
+# Fetch date: Fri Mar  8 23:14:59 UTC 2024
+# Number of Entries: 106054
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3649,6 +3649,7 @@ airdrop.solsea.in
 airdrop.solseo.eu
 airdrop.solseo.io
 airdrop.sonm.link
+airdrop.starheros.community
 airdrop.starkparticipate.com
 airdrop.su
 airdrop.sui-labs.com
@@ -3856,6 +3857,7 @@ airhopper-review.com
 airhopper-reviews.com
 airhopperreviews.com
 airidrop.xyz
+airjetfly.online.swiftplumbingsolutions.online
 airjunctions.com
 airlaunch.info
 airlaunchpad.app
@@ -16463,6 +16465,7 @@ citizenbankonline466.longmusic.com
 citizensoftajigen.about-presales.com
 citizensogalaxy-com.mint-site.live
 citrix.pancakeswape.finance
+cittyindex.com
 city-index.co
 city-index.net
 citydao-freemint.xyz
@@ -26496,6 +26499,7 @@ discover-spaceid.com
 disgextension.com
 disgustevasive.top
 disneynft.xyz
+disneypinacle.click
 dispatchweekly.com
 dispersed.delivery
 disputemask.com
@@ -26796,7 +26800,9 @@ dogrukazanc.site
 dogruyer.store
 dogsofelon-promogive.com
 dogwifbox.vip
+dogwifcoin.live
 dogwifcoin.trading
+dogwifcoln.site
 dogx.dog
 doiusesushiswaporpancakeswillhelpwithcrypto.com
 dojo.gift
@@ -40024,6 +40030,7 @@ jailedbayc.xyz
 jajanbaso.com
 jak-nft.xyz
 jaknft.nfts-premint.xyz
+jamesthurmankahn.com
 jamiemalpass.co.uk
 jancrypto.blogspot.com
 jane-ai.com
@@ -85119,6 +85126,7 @@ travala.live
 travalaai.live
 travalacoom.xyz
 travaux.fr.fo
+travel.quickflightbooking.online
 travelflig.com
 travelflightairlines.com
 travelfly-united.com
