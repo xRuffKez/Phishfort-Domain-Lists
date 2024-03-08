@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 19:40:52 UTC 2024
-# Number of Entries: 7800
+# Fetch date: Fri Mar  8 19:50:56 UTC 2024
+# Number of Entries: 7803
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -83,6 +83,7 @@
 2r1.nhvw4is.ru
 2raydium.sbs
 3000usdt.xyz
+32f79d9c.7cdb6f3702a09bbbd3afc136.workers.dev
 35pw0978.pw
 3denergysolution.com
 3ebank.github.io
@@ -4063,6 +4064,7 @@ metumasklgio.github.io
 metzhgofk.com
 mew-wallet.net
 mewwallet.cc
+mfa-expiration-notification-authservices2fa.us-ord-1.linodeobjects.com
 mfi.expert
 mfidao.club
 mfidex.space
@@ -4987,6 +4989,7 @@ persistent.com.es
 persistentsystems.in
 personajourney.trading
 perurhealth.com
+peryourhealth.be
 peryourhealth.org
 petsversegames.sale
 petsversegames.site
