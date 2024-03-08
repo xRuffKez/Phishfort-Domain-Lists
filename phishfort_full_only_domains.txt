@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 11:51:50 UTC 2024
-# Number of Entries: 106030
+# Fetch date: Fri Mar  8 12:03:27 UTC 2024
+# Number of Entries: 106025
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -11480,7 +11480,6 @@ binance.ethdeal.info
 binance.ethereuml.xyz
 binance.exchange2018.support
 binance.fan
-binance.fit
 binance.jerseyexchange.site
 binance.jerseytrade.icu
 binance.launch-usa.net
@@ -25014,7 +25013,6 @@ defi-bnb-bridge.com
 defi-bull.com
 defi-c.com
 defi-cbmex.org
-defi-cbmex.win
 defi-centre.com
 defi-chainlink.com
 defi-chainrectifier.com
@@ -45392,7 +45390,7 @@ lovcalbitcoins.com
 love-addicted-girls.xyz
 love-matic.com
 love.iclaims.xyz
-lovecoprint.com
+lovecoprinttestelnur.com
 lovehate.site
 lovehateini.com
 lovehateinu-claim.com
@@ -51194,7 +51192,6 @@ metarace.win
 metarebelz.xyz
 metarestore.tech
 metarestore.vercel.app
-metareward.top
 metarimnft.com
 metarkil.com
 metarlmask.com
@@ -89586,7 +89583,6 @@ vps-9a389611.vps.ovh.ca
 vps-zap1081667-1.zap-srv.com
 vps91141.hostwindsdns.com
 vpunxrf00.urest.org
-vpvalidationprocess.com
 vqyq3gh0lq3khv7.elb-host86.pancakeswape.finance
 vr-galagames-app.com
 vr-metamessk.com
@@ -90163,7 +90159,6 @@ wallappsync.com
 wallat-authentiicator.square.site
 wallat-magicedenioapp.blogspot.com
 wallat-polygon.com
-wallat-synchronizatiiom.square.site
 wallat-synchronizatiion.square.site
 wallat-synchronization-fix.square.site
 wallat-synchronization-fixx.square.site
