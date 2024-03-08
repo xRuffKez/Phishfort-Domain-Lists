@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 17:50:41 UTC 2024
-# Number of Entries: 7806
+# Fetch date: Fri Mar  8 18:01:25 UTC 2024
+# Number of Entries: 7804
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -355,6 +355,7 @@ airhopperreviews.com
 airmexc.life
 airnetframe.com
 airnftframe.com
+airstyleart.co.uk
 airswaps.io
 airtm-9.com
 airtm-buss-pro.netlify.app
@@ -2473,7 +2474,6 @@ fnx-marketrade.com
 foolz.sellpass.io
 foomclub.net
 footballeminence.top
-fordcavite.dearbornmotors.com
 foresamagovi.com
 foreverozeal.com
 forex-com.holu.workers.dev
@@ -2706,7 +2706,6 @@ gnosisappsafe.azurewebsites.net
 go-pyth.network
 go.ator-dashboard.com
 go.stakewise-finance.com
-go2bank.goonline.space
 gocleanersgo.com
 godaddy-ens.domains
 gold-bet.de
@@ -5786,7 +5785,6 @@ seatoken-airdrop.com
 seatsent.com
 sebavip.com
 secondllife.tech
-secondx.mypsx.net
 secure-collabland-bot.com
 secure-retry-connecting.alphakreed.com
 secure-user-connect.net
