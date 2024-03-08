@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 00:44:37 UTC 2024
-# Number of Entries: 7788
+# Fetch date: Fri Mar  8 01:12:32 UTC 2024
+# Number of Entries: 7791
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -1193,6 +1193,7 @@ btsemarket.cc
 btsemarket.top
 buddyal.pro
 build-121.com
+build.astarlabs.org
 buildtheenterprise.org
 buildweb3.icu
 buildweb3dev.xyz
@@ -3708,6 +3709,7 @@ mantastake.com
 mantatech.network
 mantatoken.top
 mantawallet.zoholandingpage.com
+mantax.pages.dev
 mantaz.network
 mantcnetwcrk.com
 mantda.network
@@ -4201,6 +4203,7 @@ moombeam.top
 moon-beam.network
 moonapp.one
 moonbeamm.online
+moonbeams-web.com
 mooniswapco.com
 moonsama.tech
 moonwel.finance
