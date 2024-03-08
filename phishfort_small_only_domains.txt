@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 00:24:01 UTC 2024
-# Number of Entries: 7787
+# Fetch date: Fri Mar  8 00:44:37 UTC 2024
+# Number of Entries: 7788
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -809,6 +809,7 @@ auth-gala.games
 auth.meta-syncs.com
 auth.redapps.icu
 auth.staing.ramper.xyz
+auth0discord-collab.world
 authenticatorjoin.cc
 authenticpeninsula.top
 authradarbridge.com
@@ -2672,6 +2673,7 @@ gl-havasapp.com
 gl-havaspro.com
 gl-rsmopt.com
 glaberkantonalbank.com.opticsea.org
+glacierdivisons.pics
 glhfers.xyz
 global-blockchain-4159.com
 global.onlineyshire-uk.com
@@ -6957,7 +6959,6 @@ webonlinez.sa.com
 webonlinjes.za.com
 webonlinses.za.com
 webonlinws.sa.com
-webrectifyauth.pages.dev
 websolverdapp.pages.dev
 webtxid.pages.dev
 weedcurrency.online
