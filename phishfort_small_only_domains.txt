@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 23:30:55 UTC 2024
-# Number of Entries: 7812
+# Fetch date: Fri Mar  8 23:40:43 UTC 2024
+# Number of Entries: 7815
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2187,6 +2187,7 @@ ecoglobalconnectvista.online
 economisteveningreptile.xyz
 educalaguna.gob.mx
 eelcb.com
+eeogresources.com
 eepatriot.com
 eesee.co
 eesee.trading
@@ -4583,6 +4584,7 @@ olas.finance
 old-alpacafinance.site
 old.alpha.superset.ethshapella.com
 oldsecondnationalpagelink.info
+oldsecondwork.pics
 olympus-dao.finance
 olympus.gift
 omasgovst.com
@@ -4974,6 +4976,7 @@ pepe-v2.link
 pepe2.click
 pepe2.xcoindrop.top
 pepe20-vip.web.app
+pepe2coin.io
 pepe2event.netlify.app
 pepeairdrop.live
 pepeairdrop.world
