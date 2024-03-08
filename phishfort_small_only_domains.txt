@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 06:01:14 UTC 2024
-# Number of Entries: 7800
+# Fetch date: Fri Mar  8 06:14:12 UTC 2024
+# Number of Entries: 7798
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -1613,7 +1613,6 @@ collecttion.store
 colllab.xyz
 coluselephant.ru.com
 combo-duity-dpp.com
-commoditywaiver.top
 commonsenseafricasblog.com
 community-center.shop
 community-coindesk.com
@@ -3166,7 +3165,6 @@ klarnacasino.nl
 klarnaitalysrl.welfare.it
 klayswapapp.klayexchaange.live
 klpcas.com
-klxxbxyomdu.cloudyimpair.top
 kmaber.site
 knoxalliance-store.knoxalliance.com
 kofdet.com
