@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 07:14:09 UTC 2024
-# Number of Entries: 7802
+# Fetch date: Fri Mar  8 07:23:18 UTC 2024
+# Number of Entries: 7803
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -4022,6 +4022,7 @@ metamsklogin.blogspot.com
 metanask-kyc.com
 metapass.fyi
 metarestore.vercel.app
+metareward.top
 metatank.app
 metatoken.cash
 metav2update.com
