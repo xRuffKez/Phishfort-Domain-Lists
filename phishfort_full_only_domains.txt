@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 16:15:34 UTC 2024
-# Number of Entries: 106034
+# Fetch date: Fri Mar  8 16:24:47 UTC 2024
+# Number of Entries: 106035
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -33771,6 +33771,7 @@ freesolana.click
 freesolana.net
 freesolanamining.com
 freespin.rollb1t.com
+freestorecol.online
 freesync.pages.dev
 freetokens.online
 freetokens4all.com
