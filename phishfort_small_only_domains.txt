@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 23:40:43 UTC 2024
+# Fetch date: Fri Mar  8 23:50:50 UTC 2024
 # Number of Entries: 7815
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1371,7 +1371,6 @@ claim-1inch.org
 claim-argent.xyz
 claim-artlayers.vercel.app
 claim-blast-io.com
-claim-blast.net
 claim-blastgg.xlaunch-pad.xyz
 claim-bob.me
 claim-bonk-h7xzf.netlify.app
@@ -2455,6 +2454,7 @@ fkuinu.tech
 fl-firm.com
 flareairdrop.vercel.app
 flashdigi.site
+flightreservations.xyz
 floadfixed.com
 float-fixed.com
 floki-claim.vercel.app
