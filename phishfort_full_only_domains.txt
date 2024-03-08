@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 04:24:34 UTC 2024
-# Number of Entries: 106026
+# Fetch date: Fri Mar  8 04:31:58 UTC 2024
+# Number of Entries: 106027
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -27983,6 +27983,7 @@ efkerant.site
 efkonkents.site
 eform-agoda.com
 efretem.store
+efwefwef-6io.pages.dev
 eg2.sharapovafrance.com
 eggdistill.cn
 eggsclaim.com
