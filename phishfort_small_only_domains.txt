@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 14:01:10 UTC 2024
+# Fetch date: Fri Mar  8 14:13:25 UTC 2024
 # Number of Entries: 7803
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2737,6 +2737,7 @@ grt.t-wallets.top
 grt.trustpados.top
 grt.xcoindrop.top
 gsbglobal.co
+gslaterapp.com
 gt-ai.org
 gt-ai.xyz
 gt-protocol.trading
@@ -3773,7 +3774,6 @@ maskofficial.link
 maskofficial.xyz
 masktoken.cash
 masktokens.com
-maslinkagov.com
 mass-gov.dta-connect-hhs.com
 mass.govdtaconnecthhs.com
 massachendristr.com
@@ -7244,7 +7244,6 @@ www.ethereumdrop.com
 www.ethereumrefund.com
 www.ethfi.farm
 www.ethgasrefund.com
-www.ethhla.com
 www.ethrmarketplace.com
 www.event-metis.io
 www.event-xai.games
@@ -7361,6 +7360,7 @@ www.metamasks.info
 www.metamasksupportcenter.com
 www.metamcvk.com
 www.metemeak.io
+www.metemnsk.io
 www.methmantle.xyz
 www.metispool.xyz
 www.metomask.ru
