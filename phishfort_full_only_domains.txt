@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 19:32:03 UTC 2024
-# Number of Entries: 106038
+# Fetch date: Fri Mar  8 19:41:53 UTC 2024
+# Number of Entries: 106042
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1134,6 +1134,7 @@
 30yearold.com
 313663.com
 321998dc83451dfa7d497e5b9e10b3bf.surf
+32f79d9c.7cdb6f3702a09bbbd3afc136.workers.dev
 32redsport.info
 32sep4zjypnqt7mawsvzszkcu4gekpuisveoufogzrrq.dfntr.online
 33333myetherwallet.site
@@ -44806,6 +44807,7 @@ login.coinbasesupportscenterid.com
 login.coinbasesupportsid.com
 login.coinbasewalletsupport.com
 login.coinbasewalletsupports.com
+login.cw1.ir
 login.fraend.net
 login.frame-airdrop.xyz
 login.lblockhcoin.com
@@ -68179,6 +68181,7 @@ perstbek.store
 perucotiza.com
 perurest.com
 perurhealth.com
+peryourhealth.be
 peryourhealth.org
 pescadosdaftx.blogspot.com
 petaversenetwork.cloud
@@ -76137,6 +76140,7 @@ secondcitysummers.com
 seconddimension.xyz
 secondllife.tech
 secondtrip-otherside.xyz
+secondx.mypsx.net
 seconfts.com
 secopinft.site
 secpay-paxful.com
