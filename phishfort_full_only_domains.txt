@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 14:03:24 UTC 2024
-# Number of Entries: 106026
+# Fetch date: Fri Mar  8 14:15:10 UTC 2024
+# Number of Entries: 106028
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -36841,6 +36841,7 @@ gruppoab-it.com
 gruzovyespecavtovesy.online
 gsbglobal.co
 gsbtest.com
+gslaterapp.com
 gsmbskoekf4hfxv.www.beta-openselling.pancakeswasap.one
 gsnfts.com
 gsr-andrade.wcollins.microsoft.passwordupdate.licsurat.in
@@ -98799,6 +98800,7 @@ www.metawalletapp.store
 www.metawalletss.com
 www.metaxmask.org
 www.metemeak.io
+www.metemnsk.io
 www.methmantle.xyz
 www.metis-bridge-network.com
 www.metis-bridgel.com
