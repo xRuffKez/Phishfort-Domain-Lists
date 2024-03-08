@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 00:09:00 UTC 2024
-# Number of Entries: 106014
+# Fetch date: Fri Mar  8 00:24:37 UTC 2024
+# Number of Entries: 106016
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -28666,6 +28666,7 @@ enardrop.io
 enardrops.io
 enc-paxful.com
 encelken.site
+enchor-roofs.com
 encobitex.com
 encontrarall.xyz
 encoreofficial.com
@@ -33175,6 +33176,7 @@ flixedflaoat.com
 flixedfloaot.com
 flixedfloat.site
 flnance.pancakesiwap.com
+floadfixed.com
 floaroma.net
 float-fixed.com
 floatfixed.site
