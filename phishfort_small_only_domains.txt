@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 14:40:57 UTC 2024
-# Number of Entries: 7803
+# Fetch date: Fri Mar  8 14:51:05 UTC 2024
+# Number of Entries: 7805
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -334,6 +334,7 @@ airdropmantanet.org
 airdropmantanetchain.net
 airdropmantapacific.net
 airdropmantatoken.com
+airdropmetamask.xyz
 airdropmexcnews.top
 airdropofpepe.com
 airdrops-altlayer.io
@@ -2403,6 +2404,7 @@ feosz.info
 feraniumyard.com
 festivalfomaric-dla.com
 feverowarrior.com
+fffcu.de
 fi-woo-org.vercel.app
 fibersync.pages.dev
 fidelityadvancedsaving.com
