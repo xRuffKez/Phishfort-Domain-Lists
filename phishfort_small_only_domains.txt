@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 16:40:42 UTC 2024
-# Number of Entries: 7806
+# Fetch date: Fri Mar  8 16:50:44 UTC 2024
+# Number of Entries: 7804
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -802,7 +802,6 @@ atomsolana.live
 ator-io.live
 atorio.news
 atorprotocol.co
-atozdestinos.com.br
 audius.gift
 audiuspool.com
 aura-finance.news
@@ -5044,7 +5043,6 @@ plaguz-group.lol
 plagz-club.com
 planet-zksync.nfts2.me
 planetsrefi.airdrop.cfd
-planta-gm.com
 plantageneral.com
 plantagmsanluis.com
 plantagmseminuevos.com.mx
@@ -6561,7 +6559,6 @@ tvl-chain.link
 twilio-hr.com
 twolandstoken.live
 twt.multipuds.top
-txtopguntx.com
 tyzxf.pages.dev
 udefi.ueth.cc
 ufalmassuissat.com
@@ -6752,6 +6749,7 @@ vermillion-chebakia-72b023.netlify.app
 versity-token.finance
 vertexprotocol.events
 vertexprotocol.top
+vertiv.dns.cz
 vesting-port3.io
 vhvhgv.pages.dev
 viacripto.com
