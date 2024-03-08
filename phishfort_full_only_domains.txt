@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 01:55:19 UTC 2024
+# Fetch date: Fri Mar  8 02:07:35 UTC 2024
 # Number of Entries: 106025
 
 0-metemask.com
@@ -21032,6 +21032,7 @@ creatureworld.whitelist-giveaway.com
 creatureworld.ybnfts.com
 creatureworldnft.xyz
 creditcoin.club
+creepezco.com
 creepyclownsclub.com
 creepyworld.lucky-drop.fun
 creepz.tech
@@ -53921,7 +53922,6 @@ musk2xd.com
 musk2xe.cc
 musk2xeth.cc
 musk2xm.com
-musk2xo.com
 musk2xp.com
 musk2xr.cc
 musk2xr.com
