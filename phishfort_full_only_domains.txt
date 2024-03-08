@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 15:52:02 UTC 2024
-# Number of Entries: 106032
+# Fetch date: Fri Mar  8 16:03:07 UTC 2024
+# Number of Entries: 106033
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -210,6 +210,7 @@
 185-81-114-144.plesk.page
 188.128.202.35.bc.googleusercontent.com
 189f40034be7a.fnnpron.nl
+18f5384d.chriswsteele.com
 18jgrebskg.ru
 18newsindia.com
 19-inch.com
