@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 15:22:32 UTC 2024
-# Number of Entries: 7805
+# Fetch date: Fri Mar  8 15:30:59 UTC 2024
+# Number of Entries: 7804
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -2763,7 +2763,6 @@ hamstrcoin.com
 hannaanderssonkids.com
 happyskellies.com
 happytake.tknewz.com
-haus-alpenrose.com
 havas-aso.com
 havasmax.com
 havastpro.com
@@ -5665,6 +5664,7 @@ roninchain.wtf
 roninchaln.com
 roninnchain.com
 roninwallet-login4.godaddysites.com
+ronlnchaiin.top
 ronninwallet.godaddysites.com
 roomfollow.xyz
 roomgrade.org
@@ -6793,7 +6793,6 @@ vrbo9k.com
 vskyn.com
 vulcanforged-claim.com
 vult.codefinesse.com
-vveb3-vvallete-apa.top
 vvebexx.co
 vww.monzgroups.cc
 vww.raczgroups.xyz
