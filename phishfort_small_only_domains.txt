@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 14:51:05 UTC 2024
+# Fetch date: Fri Mar  8 15:01:22 UTC 2024
 # Number of Entries: 7805
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3433,7 +3433,6 @@ localethereum.xn--node
 login-cisco.tech
 login-frame.xyz
 login-metamaskwallet.ddnss.eu
-login.cw1.ir
 login.frame-airdrop.xyz
 login.microsoftonlineportal.ppp-gov.online
 login.myob.ink
@@ -7427,6 +7426,7 @@ www.pea.oe-th.com
 www.pea.or-th.com
 www.pea.ou-th.com
 www.pemanagement.org
+www.penguinrandomshouse.com
 www.pepacoinairtoday.info
 www.pepechain.info
 www.pepeoncrack.fun
