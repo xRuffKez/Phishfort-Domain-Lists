@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 22:41:56 UTC 2024
-# Number of Entries: 106045
+# Fetch date: Fri Mar  8 22:51:57 UTC 2024
+# Number of Entries: 106046
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -7951,6 +7951,7 @@ assignix.com
 assisstedwebdapp.com
 assist-support.pages.dev
 assistdesk.xyz
+assisted-hy.com
 assistedwebdapp.com
 associate-joejo.com
 astar-apps--pr936-feat-au-implement-wa-wg88bbcj.firebaseapp.com
@@ -26367,7 +26368,6 @@ digitalpro-apps.com
 digitalpro-tools.com
 digitalrectification.com
 digitalsafewallets.com
-digitalsec.mypsx.net
 digitalsmart-pad.buzz
 digitalsupportdesk.info
 digitalsynchub.space
@@ -76035,6 +76035,7 @@ scopebtc.com
 scoreencrypt.com
 scorencrypt.com
 scorpion-casino.shop
+scottyystheai.xyz
 scotyttheai.pro
 scovcadi.tk
 scretnetwork.com
