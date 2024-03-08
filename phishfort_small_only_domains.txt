@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 22:40:53 UTC 2024
+# Fetch date: Fri Mar  8 22:50:54 UTC 2024
 # Number of Entries: 7801
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -773,6 +773,7 @@ asolgift.com
 asset-validation.info
 assets-collabland.com
 assiestwebcadbot.tech
+assisted-hy.com
 astar-network.com-t.co
 astarlabs.com-t.co
 astroakashvani.com
@@ -1990,7 +1991,6 @@ dexautomate.web.app
 dexcoms.com
 dexgatedirectory.pages.dev
 dexpcsintergal.com
-dexrstool.net
 dexscieener.com
 dexsuperdoge.pages.dev
 dexsynage.web.app
@@ -2014,7 +2014,6 @@ digicamforums.com
 digital.free-zetachain.online
 digitalchevrolebr.com
 digitaldapp.pages.dev
-digitalsec.mypsx.net
 digitdef.com
 digitoads.cc
 dintransac.org
@@ -5769,6 +5768,7 @@ scjdwb.cfd
 sckaniopiorte.top
 sconectsmartplusoficial.store
 scorpion-casino.shop
+scottyystheai.xyz
 scotyttheai.pro
 scroll-reward.com
 scroll-swap-web.vercel.app
