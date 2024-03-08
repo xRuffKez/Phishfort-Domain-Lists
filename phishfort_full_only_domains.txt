@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 21:51:44 UTC 2024
+# Fetch date: Fri Mar  8 22:02:43 UTC 2024
 # Number of Entries: 106042
 
 0-metemask.com
@@ -87480,7 +87480,6 @@ unitedairlines-vn.com
 unitedairlines.onlinereservationbooking.com
 unitedairlinesbookaticket.businessawhileandyesterday.shop
 unitedairlinesbookaticket.shop
-unitedairlinescustomerservicenumber.blogspot.com
 unitedairlinesonline.live
 unitedairlinexpress.com
 unitedarlins.com
@@ -99188,6 +99187,7 @@ www.myetherwallets.info
 www.myetherwallets.ru
 www.myetherwallets.somee.com
 www.myetherwalletse.cc
+www.myetherwalletta.org
 www.myetherwalletu.cc
 www.myetherwalletu.com
 www.myetherwalletu.org
