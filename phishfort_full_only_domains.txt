@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 04:15:15 UTC 2024
-# Number of Entries: 106027
+# Fetch date: Fri Mar  8 04:24:34 UTC 2024
+# Number of Entries: 106026
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -26299,7 +26299,6 @@ digidaingaku.com
 digidalgaku.net
 digietoads.com
 digiitoads.world
-digimetamask.com
 digiminer.io
 digiminers0-free.xyz
 digipenguins.net
@@ -75065,6 +75064,7 @@ rpcchainfix.net
 rpcconfiguration.com
 rpcdebug-extensiondapps.pages.dev
 rpchubnode.com
+rpclistinfo.netlify.app
 rpcmodifier.com
 rpcnode-fix.com
 rpcnodedebug.com
@@ -80789,7 +80789,6 @@ sts-genetec-33e4af7a.glcvkruathoorueac.com
 sttakegamble.com
 sttakeqamble.com
 sttaratlas.com
-sttargatee.finance
 sttation-terra.com
 stteamcommunity.com
 stteris.com
