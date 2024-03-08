@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 06:15:26 UTC 2024
-# Number of Entries: 106024
+# Fetch date: Fri Mar  8 06:25:17 UTC 2024
+# Number of Entries: 106028
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2994,6 +2994,7 @@ agoda-hotel.com
 agoda-info.com
 agoda-jp.com
 agoda-jp.vip
+agoda-jps.com
 agoda-mba.com
 agoda-not.com
 agoda-partner.club
@@ -40457,6 +40458,7 @@ joyouslinkew.world
 joysonseafety.com
 jp-metamask.org
 jp-pancakeswap.net
+jpagod.com
 jpancakesewap.me
 jpancke-swap.net
 jpawinu-promogive.com
@@ -73635,6 +73637,7 @@ resolbinan.shop
 resolevedapps.live
 resolution-mainnet.live
 resolution-mainnets.live
+resolutionpanel.pages.dev
 resolutionsync.link
 resolutionvalidationet.link
 resolvbinanreg.monster
@@ -96294,6 +96297,7 @@ www.bridgesynapsefi.com
 www.bridgesynapseprotocol.com
 www.brisavaidosa.com
 www.bronzetanning.co
+www.brothernz.com
 www.browserdappwallets.com
 www.brw20.com
 www.bsc-airdrops.biz
