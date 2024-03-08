@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 17:03:25 UTC 2024
-# Number of Entries: 106036
+# Fetch date: Fri Mar  8 17:14:22 UTC 2024
+# Number of Entries: 106038
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -16431,6 +16431,7 @@ ciscoanyconnect.org
 ciscoapp.store
 ciscoapp.us
 ciscoav.com
+ciscoconnecctt.com
 ciscocyberhub.ydreams.global
 ciscoinstructions.com
 ciscoinvetments.com
@@ -38889,6 +38890,7 @@ imetamask.org
 imftoken.xyz
 img.agodavip6.com
 img.agodavip7.com
+img.coolpayvn.com
 img.m.api.blog.api.mail.pancakeswaps.org
 img.pancakeswape.finance
 img.vncoolpay.com
