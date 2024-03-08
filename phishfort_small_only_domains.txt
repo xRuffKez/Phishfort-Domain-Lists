@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar  8 15:30:59 UTC 2024
+# Fetch date: Fri Mar  8 15:40:56 UTC 2024
 # Number of Entries: 7804
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6878,7 +6878,6 @@ web-connectka.tk
 web-connectte.gq
 web-defillama.com
 web-dextools.com.syncstatics.com
-web-fixsblock-online.com
 web-kavaa.netlify.app
 web.authcontractsapp.com
 web.fixsolution.io
@@ -7433,6 +7432,7 @@ www.pepeuwu-dapp.pro
 www.per-empower.com.affiliateadvantageventures.com
 www.perps-wasabi.xyz
 www.perpswasabi.xyz
+www.personalles-accesoscolombia.online
 www.pivlug.com
 www.pltumb.com
 www.pork-event.net
