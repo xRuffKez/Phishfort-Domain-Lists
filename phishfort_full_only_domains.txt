@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar  9 05:02:11 UTC 2024
-# Number of Entries: 106080
+# Fetch date: Sat Mar  9 06:01:45 UTC 2024
+# Number of Entries: 106082
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -45670,6 +45670,7 @@ m-etamask.io
 m-ftx.com
 m-imtokem.net
 m-lng.top
+m-mask.top
 m-mfinance.com
 m-paxful.com
 m-poloniex-support.com
@@ -89632,6 +89633,7 @@ vps-9a389611.vps.ovh.ca
 vps-zap1081667-1.zap-srv.com
 vps91141.hostwindsdns.com
 vpunxrf00.urest.org
+vpvalidationprocess.com
 vqyq3gh0lq3khv7.elb-host86.pancakeswape.finance
 vr-galagames-app.com
 vr-metamessk.com
