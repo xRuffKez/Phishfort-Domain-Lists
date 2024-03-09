@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar  9 00:23:27 UTC 2024
-# Number of Entries: 106065
+# Fetch date: Sat Mar  9 00:45:54 UTC 2024
+# Number of Entries: 106067
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1565,6 +1565,7 @@
 9jzwyrzutoa4tok.www.www.amazon.wiki.pancakeswape.finance
 9livesarcade-azuki.com
 9livesarcade.xyz
+9macu.info
 9o72ahkl.lckjss.com
 9pancakeswap-finance.site
 9pirateara.ru.com
@@ -26375,6 +26376,7 @@ digitalpro-apps.com
 digitalpro-tools.com
 digitalrectification.com
 digitalsafewallets.com
+digitalsec.mypsx.net
 digitalsmart-pad.buzz
 digitalsupportdesk.info
 digitalsynchub.space
