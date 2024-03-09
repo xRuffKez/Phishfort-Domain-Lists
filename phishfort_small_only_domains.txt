@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar  9 02:03:46 UTC 2024
-# Number of Entries: 7821
+# Fetch date: Sat Mar  9 02:14:09 UTC 2024
+# Number of Entries: 7822
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2048,6 +2048,7 @@ distributed-ice.app
 distribution-blast.com
 distribution-manta.events
 distribution-metis.com
+distribution-pancakeswap.xyz
 distribution-pondcoin.com
 distribution-shido.com
 diversitechs.com
