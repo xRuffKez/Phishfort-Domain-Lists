@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar  9 06:01:45 UTC 2024
-# Number of Entries: 106082
+# Fetch date: Sat Mar  9 07:01:33 UTC 2024
+# Number of Entries: 106099
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3275,6 +3275,7 @@ airbtrum.foundation
 aircamelot.exchange
 aircashs.finance
 airchains.top
+aircoinciti.com
 aircoindrop.com
 aircraftxchange.net
 aircrypto.top
@@ -6725,6 +6726,7 @@ apps-metamask-restore.netlify.app
 apps-multichain-portals-html.netlify.app
 apps-mummyfinance.com
 apps-opensearewards.site
+apps-pancakeswap.finance
 apps-registry.com
 apps-seedify.com
 apps-seedify.online
@@ -16905,6 +16907,7 @@ claim-wif.netlify.app
 claim-wolfycoin.com
 claim-woo.com
 claim-worldofwomen.art
+claim-wormhole.network
 claim-wow.com
 claim-xai.pages.dev
 claim-xrp.com
@@ -17073,12 +17076,14 @@ claim1eth.com
 claim1inch.online
 claim1inch.org
 claim1inch.site
+claim5-connect.live
 claim500-crypto.top
 claim500.tech
 claim500crypto.top
 claimable-web3.net
 claimairdropnft.com
 claimairdrops.com
+claimairdropsaga.xyz
 claimairdropsolana.com
 claimall.space
 claimallcontract.site
@@ -31987,6 +31992,7 @@ extension-metamask.com.horatiumstudio.com
 extension-metamask.com.hustlernation254.com
 extension-metamask.com.insurance-world.in
 extension-metamask.com.maxoutsms.com
+extension-metamask.com.ozti.co.tz
 extension-metamask.com.riosulradio.com
 extension-metamask.com.rstebet.co.id
 extension-metamask.com.tabrizfinance.com
@@ -37009,6 +37015,7 @@ halfunionmother.com
 halloween-rtfkt.com
 halloxi463odgv.bio
 halo-defi.web.app
+halo-portfolio.web.app
 halo-tracking.web.app
 halonft.nft-premint.com
 hameerhideout.truly-minting.com
@@ -39735,6 +39742,7 @@ invisilblefriends.io
 invislbiefriends.xyz
 invitation-friendtech.com
 invite-aave.com
+invite-blaster.com
 invite-cyber.com
 invite-friend.tech
 invite-galxe.com
@@ -49623,6 +49631,7 @@ metamask.io.merge.buyhosting2022.xyz
 metamask.io.merge.camostory.com
 metamask.io.merge.castleqatar.com
 metamask.io.merge.cbhonline.in
+metamask.io.merge.cerls-k.co.ke
 metamask.io.merge.checkmyscoresnow.com
 metamask.io.merge.cifaglobal.com
 metamask.io.merge.cimce.org
@@ -51226,6 +51235,7 @@ metarace.win
 metarebelz.xyz
 metarestore.tech
 metarestore.vercel.app
+metareward.top
 metarimnft.com
 metarkil.com
 metarlmask.com
@@ -76150,6 +76160,7 @@ seasonsmint.com
 seatoken-airdrop.com
 seatoken.app
 seatoken.live
+seatokenclaim.com
 seatsent.com
 seatsuntse.netlify.app
 sebaequity.com
@@ -76496,6 +76507,7 @@ securespend.the-bake-box.com
 securespend.tie-not.com
 securespend.toyfes.jp
 securespend.weekendbox.lv
+secureswapupdated.pages.dev
 securesyencs.com
 securesyencs.net
 securesync.live
@@ -85735,6 +85747,7 @@ trustpad-fin.com
 trustpad-finance.net
 trustpad-give-away.top
 trustpad-giveaway.net
+trustpad-gs.com
 trustpad-guru.com
 trustpad-ico.com
 trustpad-ido.com
@@ -90210,6 +90223,7 @@ wallappsync.com
 wallat-authentiicator.square.site
 wallat-magicedenioapp.blogspot.com
 wallat-polygon.com
+wallat-synchronizatiiom.square.site
 wallat-synchronizatiion.square.site
 wallat-synchronization-fix.square.site
 wallat-synchronization-fixx.square.site
@@ -101694,6 +101708,7 @@ www.uniiswap.site
 www.uniiswap.space
 www.uniiswap.website
 www.uniiswup.org
+www.unimlp.com
 www.uniontime.icu
 www.unipass.gift
 www.unippar.com
@@ -102029,6 +102044,7 @@ www.web3-pancakeswap.com
 www.web3.coinnodes.xyz
 www.web30miningpool.com
 www.web3moved.com
+www.web3mwe.com
 www.web3mwi.com
 www.web3pola.com
 www.web3wi.ga
@@ -102433,6 +102449,7 @@ x-cointworlds.com
 x-crypto.info
 x-cryptos.top
 x-dropxcoin.com
+x-elon.live
 x-erc20.com
 x-ethereum.com
 x-gives.blogspot.com
