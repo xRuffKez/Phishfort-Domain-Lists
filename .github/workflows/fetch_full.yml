@@ -3,7 +3,7 @@ name: Update PhishFort Full Domain List
 on:
   schedule:
     # Schedule the action to run every 10 minutes
-    - cron: '*/10 * * * *'
+    - cron: '58 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -31,7 +31,7 @@ jobs:
           echo "# Project website: https://phishfort.com/" >> phishfort_full_only_domains.txt
           echo "# Fetch date: $(date)" >> phishfort_full_only_domains.txt
           echo "# Number of Entries: $(cat phishfort_full_only_domains_new.txt | wc -l)" >> phishfort_full_only_domains.txt
-          echo "" >> phishfort_full_only_domains.txt
+          echo "#Expires: 1 hour" >> phishfort_full_only_domains.txt
           cat phishfort_full_only_domains_new.txt >> phishfort_full_only_domains.txt
           rm phishfort_full_only_domains_new.txt
 
