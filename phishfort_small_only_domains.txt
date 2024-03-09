@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar  9 00:02:54 UTC 2024
-# Number of Entries: 7815
+# Fetch date: Sat Mar  9 00:22:49 UTC 2024
+# Number of Entries: 7816
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1356,6 +1356,7 @@ ciel-tower.goldpillars.ae
 cieltower.net
 cirle.top
 cirsaccess.com
+ciscoconnecctt.com
 ciscoinvetments.com
 ciscojobsapply.com
 ciscojobsform.com
@@ -3380,7 +3381,6 @@ lineadrop.pages.dev
 linealayerbank.pages.dev
 linear-dapps.top
 lineas.top
-lineascan.shop
 lineatokens.com
 lineaxskin.com
 linjective.com
@@ -5003,6 +5003,7 @@ persistentsystems.in
 personajourney.trading
 perurhealth.com
 peryourhealth.be
+peryourhealth.blog
 peryourhealth.org
 petsversegames.sale
 petsversegames.site
