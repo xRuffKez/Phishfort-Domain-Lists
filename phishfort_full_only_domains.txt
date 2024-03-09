@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar  9 14:01:32 UTC 2024
-# Number of Entries: 106100
+# Fetch date: Sat Mar  9 15:01:52 UTC 2024
+# Number of Entries: 106114
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6450,6 +6450,7 @@ app.yetifinance.top
 app.yoroiwebwallet.com
 app.yourcryptocare.xyz
 app.zapper-app.space
+app.zenomedequipment.com
 app.zerion.com.co
 app.zerion.org.in
 app.zerion.page
@@ -7299,6 +7300,7 @@ arbitrumbulls.live
 arbitrumchain.net
 arbitrumchain.org
 arbitrumclaim.net
+arbitrumclaims.net
 arbitrumcoin.io
 arbitrumdistribution.org
 arbitrumdrop.click
@@ -23051,6 +23053,7 @@ dappmanager.io
 dappmaster.xyz
 dappmasternode.com
 dappmigraion.com
+dappmigratechain.com
 dappmigration.com
 dappmigration.org
 dappmobileconnect.com
@@ -26469,6 +26472,7 @@ directmergedappslinkup.com
 directorysmartapp.pro
 directoryuniversalfix.pro
 directpay-paxful.com
+directresolutionserver.pro
 directsupplys1.com
 directsyncserver.pro
 directvalidator.com
@@ -28965,6 +28969,7 @@ epay-paxful.com
 epayments-paxful.com
 epbhs.net
 epce.edu.pe
+ephbs.top
 epher.top
 ephiu.top
 ephjx.top
@@ -35430,6 +35435,7 @@ getfree-neo.blogspot.com
 getfreebitcoin.network
 getfreeethhh.blogspot.com
 getgift.tech
+getgrass-check.com
 geth-ethereum.org
 geth.claims
 gethealer.com
@@ -36362,6 +36368,7 @@ gmfinancialjobs.com
 gmfinancialservice.com
 gmfstoken.com
 gmmexico.com.mx
+gmn.dvrcam.info
 gmnomemines.com
 gmoneyclaim.netlify.app
 gmpnol.info
@@ -43802,6 +43809,7 @@ live-link.live
 live-litecoin.online
 live-mantas.com
 live-metamask_loogi-in.godaddysites.com
+live-metemask.com
 live-mint.opensea-minting.com
 live-nft-mint.com
 live-optimism.info
@@ -50613,6 +50621,7 @@ metamasklogin.extninfo.com
 metamasklogin.oxuin.us
 metamasklogin.ru
 metamasklogin1.godaddysites.com
+metamaskloginn.educatorpages.com
 metamasklogino.com
 metamasklogins.com
 metamasklogjh.com
@@ -51452,6 +51461,7 @@ metemasks.xyz
 metemaskt.icu
 metemaskwiullrt.godaddysites.com
 metemaxe.com
+metemesk.io
 metemesks.io
 metemnsk.io
 metempyrion-foundation.com
@@ -73199,6 +73209,7 @@ rectify-dapps.com
 rectify-dapps.netlify.app
 rectify-issuefix.buzz
 rectify-metaspace.com
+rectify-noder.epizy.com
 rectify-portfolio.online
 rectify-smartprotocol.live
 rectify.space
@@ -76642,6 +76653,7 @@ seedify.io-web3.ink
 seedify.launchpad.farm
 seedify.luanchpad.fund
 seedify.me
+seedify.nl
 seedify.nym.me
 seedify.page
 seedify.pl
@@ -80848,6 +80860,7 @@ sts-genetec-33e4af7a.glcvkruathoorueac.com
 sttakegamble.com
 sttakeqamble.com
 sttaratlas.com
+sttargatee.finance
 sttation-terra.com
 stteamcommunity.com
 stteris.com
@@ -94091,6 +94104,7 @@ wemndgid-official.top
 wen-arbitrum.net
 wen-farcana.com
 wen-jup.app
+wen-jupiter.onchain-airdrop.com
 wen-metamask.com
 wen-wencoin.com
 wen.meme
