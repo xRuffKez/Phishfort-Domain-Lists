@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar  9 14:02:08 UTC 2024
-# Number of Entries: 7837
+# Fetch date: Sat Mar  9 15:02:31 UTC 2024
+# Number of Entries: 7841
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -627,6 +627,7 @@ app.unsiwap.us
 app.unsiwap.us.com
 app.walletguard.cloud
 app.xn--1nch-qpa.io
+app.zenomedequipment.com
 app.zkdxio.xyz
 app.zkeztrade.com
 app1inch.org
@@ -727,6 +728,7 @@ arbitrum.trustpadeo.top
 arbitrum.trustpados.top
 arbitrum.xtrustpad-events.top
 arbitrumbridge.web3app.vip
+arbitrumclaims.net
 arbitrumdistribution.org
 arbitrumfix.pages.dev
 arbitrumname.net
@@ -1803,6 +1805,7 @@ dappintegration.com
 dappkaavaa.netlify.app
 dapplaunchpad.live
 dappmainhub.pages.dev
+dappmigratechain.com
 dappmobilewallet.com
 dapppaxos.co
 dapprad.net
@@ -2564,7 +2567,6 @@ fubotvroku.com
 fudsolana.org
 fujimitsudynamic.com
 fullmoonbird-next.vercel.app
-fullproda.site
 fun.cosmicpets.info
 funairdrop.fun
 funairdrop.vip
@@ -2667,6 +2669,7 @@ get.zkfarmir.xyz
 getbcb.app
 getbonked.net
 getcodesolutions.com
+getgrass-check.com
 geth.claims
 getmanta.network
 getmidjourney.tech
@@ -2712,6 +2715,7 @@ gm-generalmotors.com
 gmesolana.com
 gmfinancialcareers.com
 gmfinancialjobs.com
+gmn.dvrcam.info
 gmpnol.info
 gmvendorbillinginterest.com
 gmws.eu
@@ -6266,7 +6270,6 @@ sw-syncswap.com
 swancrypto.net
 swap-defilama.com
 swap-nft.pages.dev
-swap-qbert.vip
 swap-raydium.io
 swap-revoke.cash
 swap.pancake.us.com
@@ -7013,6 +7016,7 @@ weli3.xyz
 welovetheart.optinnism.com
 wen-farcana.com
 wen-jup.app
+wen-jupiter.onchain-airdrop.com
 wen-wencoin.com
 wen.meme
 wencoin.gg
