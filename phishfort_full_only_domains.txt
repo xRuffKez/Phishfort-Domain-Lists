@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar  9 01:33:10 UTC 2024
-# Number of Entries: 106067
+# Fetch date: Sat Mar  9 01:52:00 UTC 2024
+# Number of Entries: 106074
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3152,6 +3152,7 @@ aiarbdoge.in
 aib-banking-support.com
 aib-loginalert.com
 aib-mobilebanking-auth.com
+aibaoinsurance.com
 aibb.claims
 aibemarle.com
 aibloggertools.com
@@ -11489,6 +11490,7 @@ binance.ethdeal.info
 binance.ethereuml.xyz
 binance.exchange2018.support
 binance.fan
+binance.iconworld.tech
 binance.jerseyexchange.site
 binance.jerseytrade.icu
 binance.launch-usa.net
@@ -40528,6 +40530,7 @@ juiceswap.finance
 juicy-opikeses.org.ua
 julianar.site
 julieannehoover.com
+julswap.co
 jumper-exchange.live
 jumper-exchange.org
 jumper.capital
@@ -70687,6 +70690,7 @@ portalbridgefast.com
 portalcoin.cc
 portalcoin.cfd
 portaldrop.io
+portaldrop.net
 portalfix.online
 portalgaming.events
 portalgaming.vip
@@ -84273,6 +84277,7 @@ token-arkham.com
 token-axielnfinity.com
 token-beam.com
 token-berachain.com
+token-blast.com
 token-blur.io
 token-bonus.live
 token-bulksender.net
@@ -87504,6 +87509,7 @@ unitedairlines-vn.com
 unitedairlines.onlinereservationbooking.com
 unitedairlinesbookaticket.businessawhileandyesterday.shop
 unitedairlinesbookaticket.shop
+unitedairlinescustomerservicenumber.blogspot.com
 unitedairlinesonline.live
 unitedairlinexpress.com
 unitedarlins.com
@@ -105154,6 +105160,7 @@ you-get-nothing.xyz
 you-trip.ru
 youboxes.netlify.app
 youcanswap.info
+youcoin.info
 yougetnothin.gift
 yougotmised-mint.pdma.live
 youla.ord36472.ru
