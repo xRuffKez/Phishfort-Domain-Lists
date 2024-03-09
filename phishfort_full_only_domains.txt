@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar  9 19:01:34 UTC 2024
-# Number of Entries: 106115
+# Fetch date: Sat Mar  9 20:01:34 UTC 2024
+# Number of Entries: 106119
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17413,6 +17413,7 @@ clarkconstructions.us
 clarkconstructionusa.com
 clarkconstruvction.com
 clarkcontrvction.com
+clarkcorstruction.com
 clarkincorporation.com
 clarkscontractors.com
 classicetherwallt.com
@@ -34809,6 +34810,7 @@ galxe-nftearth.net
 galxe-pass.com
 galxe-v2.com
 galxe.at
+galxe.co.bz
 galxe.com.pt
 galxe.comv6.app
 galxe.de.com
@@ -66849,6 +66851,7 @@ paperhouseminer.com
 paperland.com.ar
 paperrhands.com
 papetokens.com
+papetokenss.com
 papgreekstake.icu
 paplol.com
 pappradar.com
@@ -70653,6 +70656,7 @@ porloneix1.domen-hosting.org
 porloniex.com
 porloniex1.domen-hosting.org
 porlygon.com
+porpport.ink
 porsch.vipairdrop.xyz
 porsche-911-web3.netlify.app
 porsche-allowlist.xyz
