@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar  9 06:02:13 UTC 2024
-# Number of Entries: 7827
+# Fetch date: Sat Mar  9 07:02:08 UTC 2024
+# Number of Entries: 7841
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -246,6 +246,7 @@ air-linea.build
 air-satoshivm.io
 air.trustpad-coin.top
 air2-blast.xyz
+aircoinciti.com
 airdop-walletconnect.pages.dev
 airdrop--manta.network
 airdrop-alt-layer.com
@@ -660,6 +661,7 @@ approvenode.pages.dev
 apps-aevo.xyz
 apps-eigenlayer.com
 apps-intercessor.live
+apps-pancakeswap.finance
 apps.multichainspro.com
 apps.nodeprotocols.com
 appsbtc.vip
@@ -1421,6 +1423,7 @@ claim-vyperprotocol.com
 claim-wen.army
 claim-wenwen.com
 claim-wif.netlify.app
+claim-wormhole.network
 claim-xai.pages.dev
 claim-your-mask-tokens-withmetamask-airdrop.fi-liikennesakkoo.net
 claim-zetachain.xyz
@@ -1458,6 +1461,8 @@ claim.zeta.chain.wb3ox.xyz
 claim.zetachain.wb3s.xyz
 claim.zetachain.wb3u.xyz
 claim.zkskull.com
+claim5-connect.live
+claimairdropsaga.xyz
 claimbonk.xyz
 claimdrop.laag.site
 claimdymension.xyz
@@ -2770,6 +2775,7 @@ hajj-nusuk.foundation
 hajjdomestic-sa.info
 halfunionmother.com
 halo-defi.web.app
+halo-portfolio.web.app
 halo-tracking.web.app
 hamster-coin.org
 hamstrcoin.com
@@ -2971,6 +2977,7 @@ intothebluemanta.xyz
 inu.guimeme.xyz
 invcheck.sbs
 investmetlife.com
+invite-blaster.com
 invite-manta.com
 invite-pacmoon.xyz
 invite-pepe.com
@@ -4042,6 +4049,7 @@ metamsklogin.blogspot.com
 metanask-kyc.com
 metapass.fyi
 metarestore.vercel.app
+metareward.top
 metatank.app
 metatoken.cash
 metav2update.com
@@ -5805,6 +5813,7 @@ searchdrop.app
 season1-nobody.com
 season1-zetachain.com
 seatoken-airdrop.com
+seatokenclaim.com
 seatsent.com
 sebavip.com
 secondllife.tech
@@ -5822,6 +5831,7 @@ securedmainnetconnect.pages.dev
 securemainnetpad.xyz
 securenetsync.pages.dev
 secures-verify-connects.vercel.app
+secureswapupdated.pages.dev
 secureupdradelive.nl
 securewalletapp.xyz
 securewebdapp.pages.dev
@@ -6561,6 +6571,7 @@ trust2024.xyz
 trustdrops.xyz
 trustfloki.netlify.app
 trustpad-cv.com
+trustpad-gs.com
 trustwall.azurewebsites.net
 trustwall.xyz
 trustwallet-support.com
@@ -7542,6 +7553,7 @@ www.traderjoexyz.com.de
 www.travellucky.cc
 www.trustwalletdefi.icu
 www.tuckea.com
+www.unimlp.com
 www.unitedaircareers.com
 www.useneuxs.org
 www.usenxeus.org
@@ -7564,6 +7576,7 @@ www.wallstmemes.mobi
 www.web.dapps-auth.live
 www.web.multichains-connect.com
 www.web.resolvebugvvalidly.org
+www.web3mwe.com
 www.web3mwi.com
 www.whm.elasticsearch-uat.arb-chain.com
 www.wikser.com
@@ -7594,6 +7607,7 @@ wwwmakerdao.com
 wwwns1.smtp.old.newpardigm-manta.network
 wwwwarm.xyz
 x-altlayer.com
+x-elon.live
 x-launcher.eu
 x-launches.com
 x-revoke.cash
