@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar  9 19:02:14 UTC 2024
+# Fetch date: Sat Mar  9 20:02:10 UTC 2024
 # Number of Entries: 7841
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -908,7 +908,6 @@ barleyapp.finance
 barnbridge.pro
 bartellers.com
 base-named.org
-basename.in
 baseswaap.top
 baseswapp.network
 battlemaneki.com
@@ -1492,6 +1491,7 @@ claimvoucher2.glitch.me
 claimwif.com
 clanostreet.com
 clarkconstruvction.com
+clarkcorstruction.com
 classicsanctuary.com
 clearanceshops.top
 clestia.org
@@ -2584,6 +2584,7 @@ gain-manta.pages.dev
 gala-games.io
 gala-games.org
 galaxy-digital.io
+galxe.co.bz
 galxe.pl
 galxe.pm
 galxe.re
@@ -3028,7 +3029,6 @@ jerrybeers.com
 jggbbestforyou.com
 jggo.mypi.co
 jiitonetwork.com
-jito-airdrop.pages.dev
 jito-bonus.com
 jito-drop.com
 jitocoins-network.com
@@ -4707,7 +4707,6 @@ oravblox.com
 orbexpro.com
 orchai.live
 ordbridge.app
-ordistokens.xyz
 ordiswapfi.pro
 ordiswaps.com
 ordivalifusion.pages.dev
@@ -4898,6 +4897,7 @@ paperholders-networks.web.app
 paperholding-ethereum.web.app
 paperrhands.com
 papetokens.com
+papetokenss.com
 para.xcoindrop.top
 paradigm-manta.network
 paradigmclaims.vercel.app
@@ -5119,12 +5119,12 @@ porfoliougrademetaz.com
 porkcoin-airdrop.com
 porkcoin.wtf
 porlfoliomelamack.com
+porpport.ink
 porshe-taycan.nfts2.me
 portal-dymension.xyz
 portal-presale.web.app
 portal.dymension.wb3i.xyz
 portal.sandbox.tymebank.ngenius-payments.com
-portalcoin.cc
 portalcoin.cfd
 portaldrop.io
 portaldrop.net
