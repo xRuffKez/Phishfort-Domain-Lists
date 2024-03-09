@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar  9 17:01:49 UTC 2024
-# Number of Entries: 106114
+# Fetch date: Sat Mar  9 18:01:55 UTC 2024
+# Number of Entries: 106115
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -105063,6 +105063,7 @@ yecoin.in
 yellewcurd.online
 yellow-card-investment.jimdosite.com
 yellow-card-trading.jimdosite.com
+yellow-card.co.uk
 yellow-card.online
 yellowcard-app.com
 yellowcard-trades.com
