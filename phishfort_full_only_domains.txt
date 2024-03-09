@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar  9 21:01:27 UTC 2024
-# Number of Entries: 106119
+# Fetch date: Sat Mar  9 22:01:47 UTC 2024
+# Number of Entries: 106122
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -12599,6 +12599,7 @@ blast-io.pro
 blast-l2.club
 blast-l2.dev
 blast-majors.com
+blast-newsletter.com
 blast-stage.icu
 blast.connected-web3.net
 blast.dropapp.pro
@@ -30325,6 +30326,7 @@ etherewallet.org
 etherfast.eu
 etherfaucet.tech
 etherfi.finance
+etherfi.one
 etherflyer.com.claim-tokens-erc-20.com
 etherfree.info
 etherfree.org
@@ -34810,7 +34812,6 @@ galxe-nftearth.net
 galxe-pass.com
 galxe-v2.com
 galxe.at
-galxe.co.bz
 galxe.com.pt
 galxe.comv6.app
 galxe.de.com
@@ -51075,7 +51076,6 @@ metamates.pro
 metamatk.com
 metamaverify.com
 metamax.ir
-metamaxk.io
 metamaxk.net
 metamaxkwalleltx.godaddysites.com
 metamaxsupport.com
@@ -52179,6 +52179,7 @@ mining985.co
 mining997.com
 mining998.co
 miningbase.cloud
+miningcloud.vip
 miningexpbrt.com
 miningmarketpro.com
 miningpool18.com
@@ -76111,6 +76112,7 @@ scrollco.in
 scrollcoin.gift
 scrolldrop.org
 scrolli.io
+scrolli.space
 scrolllayer.com
 scrolllayerbank.pages.dev
 scrollzkp-drop.com
@@ -80393,6 +80395,7 @@ startup.za.com
 startupmooniswap.com
 stash-invest.com
 statapk.com
+stately-froyo-8d0a93.netlify.app
 statemaxxduapoxui.com
 statemogov.com
 static.181.139.75.5.clients.your-server.de
@@ -80461,6 +80464,7 @@ steamcommunity.umb.market
 steamcommunity.world
 steamcommunityb.ru
 steamcommunityf.com
+steamcommunityskintradeoffermadito.com
 steamcommunitytradeoffertomdito.com
 steamcommunityviwo.top
 steamcommunitywoxe.top
@@ -101146,7 +101150,6 @@ www.smartlayer-claim.net
 www.smartlayer-claims.com
 www.smartlayer-claims.net
 www.smartlivechain.com
-www.smartrectifydapp.com
 www.smartsheet.cfd
 www.smartweb3.live
 www.smatterentries.org
