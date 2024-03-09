@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar  9 03:01:38 UTC 2024
-# Number of Entries: 106076
+# Fetch date: Sat Mar  9 04:01:40 UTC 2024
+# Number of Entries: 106078
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -63082,6 +63082,7 @@ pancakesswap.global
 pancakesswap.godaddysites.com
 pancakesswap.host
 pancakesswap.info
+pancakesswap.io
 pancakesswap.link
 pancakesswap.network
 pancakesswap.one
@@ -66372,6 +66373,7 @@ pandajewel.premint-wl.tech
 pandajewel.premint.store
 pandaq-mint.net
 pandauniversenft.vip
+pandefi.co
 pandemica.online
 pandezlab.com
 pandhosi.top
