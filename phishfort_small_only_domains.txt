@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar  9 01:32:45 UTC 2024
-# Number of Entries: 7818
+# Fetch date: Sat Mar  9 01:51:51 UTC 2024
+# Number of Entries: 7821
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -60,7 +60,6 @@
 1inchweb3.com
 1incjh.io
 1innch.digital
-1licn.top
 1lnch-claim.com
 1lnch.network
 1oilakj.top
@@ -235,6 +234,7 @@ ai-smartdecentrelised.pages.dev
 ai-smartfixdecentralised.pages.dev
 ai.cosmicpet.cc
 aiaegis.xyz
+aibaoinsurance.com
 aicoinex-amm.com
 aidexw.com
 aigentx.gift
@@ -990,6 +990,7 @@ bill407etrca.com
 billionalr.com
 bimance-airdop.org
 binance-0x51bd6a810bd083c4bab4834a90411c62d04456ce.gunhay.vn
+binance.iconworld.tech
 binance.t-co.pro
 binancebusdairdrop2024.com
 binansce.com
@@ -3073,6 +3074,7 @@ jtontwrk.com
 ju-catdets-space.vercel.app
 juiceboxmoney.xyz
 juicejest.cfd
+julswap.co
 jumper-exchange.live
 jumper-exchange.org
 jumper.capital
@@ -5112,6 +5114,7 @@ portal.sandbox.tymebank.ngenius-payments.com
 portalcoin.cc
 portalcoin.cfd
 portaldrop.io
+portaldrop.net
 portalgaming.vip
 portallgaming.space
 portals-game.web.app
@@ -6462,6 +6465,7 @@ tokeensyu.cloud
 token-airdop.org
 token-beam.com
 token-berachain.com
+token-blast.com
 token-entangle.com
 token-illuvium.com
 token-mainnetdapp.com
@@ -6889,7 +6893,6 @@ wdymcrypto-migration.app
 wdymdapp.pages.dev
 wealth365g.vip
 web-4w4zabtw9.pancake.run
-web-blocks-core-fix.com
 web-connectka.tk
 web-connectte.gq
 web-defillama.com
@@ -7692,10 +7695,10 @@ yexinerangel.com
 ygbu.mypi.co
 yieldtribal.top
 yo9.email
-yogapetz.gift
 yogapetz.well3.live
 yoo.why-u-talking-w-me-like-that-nigga.com
 you-trip.ru
+youcoin.info
 yours.wtf
 youthfigurei.xyz
 youthindia.co.in
