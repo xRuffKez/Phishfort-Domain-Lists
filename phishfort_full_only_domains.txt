@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar  9 00:08:21 UTC 2024
-# Number of Entries: 106063
+# Fetch date: Sat Mar  9 00:23:27 UTC 2024
+# Number of Entries: 106065
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -16438,6 +16438,7 @@ ciscoanyconnect.org
 ciscoapp.store
 ciscoapp.us
 ciscoav.com
+ciscoconnecctt.com
 ciscocyberhub.ydreams.global
 ciscoinstructions.com
 ciscoinvetments.com
@@ -68200,6 +68201,7 @@ perucotiza.com
 perurest.com
 perurhealth.com
 peryourhealth.be
+peryourhealth.blog
 peryourhealth.org
 pescadosdaftx.blogspot.com
 petaversenetwork.cloud
