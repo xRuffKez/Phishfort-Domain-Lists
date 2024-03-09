@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar  9 04:02:11 UTC 2024
-# Number of Entries: 7824
+# Fetch date: Sat Mar  9 05:02:48 UTC 2024
+# Number of Entries: 7826
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -5215,6 +5215,7 @@ pulsebitclaim.live
 pulsex-wallet.com
 pulsex.pages.dev
 pulsexapp.io
+puncakeswap-finance.org
 punkbits-airdrop.xyz
 punkbits.org
 punkbits.xyz
@@ -6263,6 +6264,7 @@ swap-raydium.io
 swap-revoke.cash
 swap.pancake.us.com
 swap.pancake.us.org
+swapcake.cc
 swapify.exchange
 swapnftdefi.online
 swappanca1a.store
