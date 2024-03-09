@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar  9 21:02:02 UTC 2024
-# Number of Entries: 7841
+# Fetch date: Sat Mar  9 22:02:25 UTC 2024
+# Number of Entries: 7848
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -364,6 +364,7 @@ airswaps.io
 airtm-9.com
 airtm-buss-pro.netlify.app
 airtm-ingrese-aqui.com
+airtm.com.br
 airtm.help
 airtm07.com
 airtm0o.com
@@ -1065,6 +1066,7 @@ blast-io.pro
 blast-l2.club
 blast-l2.dev
 blast-majors.com
+blast-newsletter.com
 blast-stage.icu
 blast.dropapp.pro
 blast.eventairdrop.com
@@ -2311,6 +2313,7 @@ ethereumorg.com
 ethereumx.cc
 ethereumxfee.com
 etherfi.finance
+etherfi.one
 ethergases.com
 etherium.trading
 ethers-foundation.io
@@ -2584,7 +2587,6 @@ gain-manta.pages.dev
 gala-games.io
 gala-games.org
 galaxy-digital.io
-galxe.co.bz
 galxe.pl
 galxe.pm
 galxe.re
@@ -4151,6 +4153,7 @@ minepro.fit
 minetrix.app
 minhacontachevrolet-sf.com
 mining113.com
+miningcloud.vip
 minipepe-coins.com
 minnimi.com.ua
 minswap.azurewebsites.net
@@ -4550,6 +4553,7 @@ nolaisadog.com
 nolbody.com
 nomlswlap.tech
 nonceordiperceptive.pages.dev
+noones.es
 nootcoin.fun
 nooxnft.app
 nooxnft.org
@@ -5806,6 +5810,7 @@ scotyttheai.pro
 scroll-reward.com
 scroll-swap-web.vercel.app
 scrolldrop.org
+scrolli.space
 scrolllayerbank.pages.dev
 sdb-trk.0ybq.info
 sea-claim.live
@@ -6180,6 +6185,7 @@ starkynet.com
 starlight-finance.com
 starlknet.shop
 start-wen.com
+stately-froyo-8d0a93.netlify.app
 steaam.umb.market
 steady-creponne-871786.netlify.app
 steam.dotaworkshops.com
@@ -6187,6 +6193,7 @@ steam.umb.market
 steamcommujity.com
 steamcommunitc.com
 steamcommunity.umb.market
+steamcommunityskintradeoffermadito.com
 steamcommuxity.com
 steancomrnunity.com
 stellaswap.com-v3.sbs
