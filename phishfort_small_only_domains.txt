@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar  9 12:02:30 UTC 2024
-# Number of Entries: 7841
+# Fetch date: Sat Mar  9 13:02:06 UTC 2024
+# Number of Entries: 7836
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1441,7 +1441,6 @@ claim.foundation-layerzero.xyz
 claim.get-ton.com
 claim.ifizgroup.xyz
 claim.layerzero-foundation.pro
-claim.layerzero-foundation.website
 claim.layerzero-free.live
 claim.layerzero-free.website
 claim.layerzero-tokens.online
@@ -2017,7 +2016,6 @@ dgigame-rewardsclaim.pages.dev
 dhk6y.cc
 diag-bracco.com
 diamond-magiceden.network
-diamondcoinstrade.com
 diamondhands-ethereum.web.app
 dianarise.com
 difficultsniff.top
@@ -3858,7 +3856,6 @@ mediapudgypenguins.com
 medidata-mobile.com
 mee6-connect.xyz
 mee6appeals.xyz
-meebits.pw
 meebits.store
 mefamask.com
 mehrleseninformieren.com
@@ -4724,7 +4721,6 @@ oxleverage.xyz
 oz-repcacoin.ru
 ozon-giv.officialpage2024.shop
 p1290.trustsamco.online
-paal-ai.io
 paalai-beta.app
 paalai.airdrop.cfd
 paalbeta-ai.app
@@ -6187,7 +6183,6 @@ steamcommujity.com
 steamcommunitc.com
 steamcommunity.umb.market
 steamcommuxity.com
-steamxpanel.com
 steancomrnunity.com
 stellaswap.com-v3.sbs
 stepnboxx.netlify.app
