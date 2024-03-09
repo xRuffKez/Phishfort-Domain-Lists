@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar  9 13:01:32 UTC 2024
-# Number of Entries: 106099
+# Fetch date: Sat Mar  9 14:01:32 UTC 2024
+# Number of Entries: 106100
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6008,6 +6008,7 @@ app.airtm10.com
 app.airtm11.com
 app.airtm12.com
 app.airtm2.com
+app.airtm31.com
 app.airtm5.com
 app.airtm7.com
 app.airtms.com
