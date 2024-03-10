@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 10 18:02:12 UTC 2024
-# Number of Entries: 7859
+# Fetch date: Sun Mar 10 19:02:09 UTC 2024
+# Number of Entries: 7872
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -746,6 +746,7 @@ arbnames.app
 arc-ai.net
 arc8.games
 arcanedexairdrop.netlify.app
+archetives.com
 arenal-es.shop
 arenal-outlet.shop
 arenal-outlet.vip
@@ -1067,6 +1068,7 @@ blast-invite.xyz
 blast-io.pro
 blast-l2.club
 blast-l2.dev
+blast-layer.web.app
 blast-majors.com
 blast-newsletter.com
 blast-stage.icu
@@ -1406,6 +1408,7 @@ claim-me.me
 claim-metis.com
 claim-myrothedog.com
 claim-opsecs.net
+claim-paals.com
 claim-pacmon.xyz
 claim-palmai.tech
 claim-pancakaswap.web.app
@@ -3334,6 +3337,7 @@ ledger-start.cc
 ledger-start.info
 ledger-wallet-ledger.net
 ledger.quilodge.com
+ledgerhnet.gotdns.ch
 ledgerlive-app.online
 ledsgerwallet.com
 legder-live.app-web3.com.co
@@ -3536,6 +3540,7 @@ magpiexyz.in
 magpiexyz.xyz
 magpiiexyz.cyou
 magplexyz.site
+magppiexyz.com
 mahta-hetworks.com
 mahta-networks.com
 mahto-network.com
@@ -3560,6 +3565,7 @@ main-decentralised.pages.dev
 main-decentralized.pages.dev
 main-makerdao.com
 maindexapp.pages.dev
+mainnet-blaster.com
 mainnet-dymension.com
 mainnet-lineabuild.pages.dev
 mainnet-node.vercel.app
@@ -3794,6 +3800,7 @@ mask.gift
 maskairdrop.link
 maskbymetamask.com
 maskbymetamask.io
+maskclaim.top
 maskclaims.info
 maskclaims.io
 maskcoin.pages.dev
@@ -3947,6 +3954,7 @@ metamask-app24-kyc.com
 metamask-auth.io
 metamask-c.com
 metamask-chain.pages.dev
+metamask-connect.ddns.net
 metamask-dapp.pages.dev
 metamask-dapps.pages.dev
 metamask-debug.pages.dev
@@ -4029,6 +4037,7 @@ metamasktoken.org
 metamasktokens.com
 metamasktokens.io
 metamaskusan.azurewebsites.net
+metamaskv.net
 metamaskv2.pages.dev
 metamaskvalidation.sensoryworks.com
 metamaskwallet.pages.dev
@@ -4625,6 +4634,7 @@ onlinedetma.org
 onlinedetma.za.com
 onlinenode.pages.dev
 onlinesgpon.cc
+onlyhordes.com
 onlysaitachain.migration.rxi.app
 onno-vaultdapp.click
 onschain.live
@@ -4767,6 +4777,7 @@ pancake-finance.net
 pancake-frontend-29e48ga31-chefilip.vercel.app
 pancake-frontend-flznr5rp3-chefilip.vercel.app
 pancake-ifo.pages.dev
+pancake-magpiexyz.pages.dev
 pancake-swap-v3.tech
 pancake-swap.club
 pancake-swap.net
@@ -4833,6 +4844,7 @@ pancakeswaps-finance.org
 pancakeswaps-finnance.com
 pancakeswaps.org
 pancakeswaptrade.org
+pancakeswapv3.net
 pancakeswapv5.claims
 pancakesweb.finance
 pancakeswop.web.app
@@ -4867,6 +4879,7 @@ pandosshi.xyz
 pangolin-x.com
 panoshidaapsintegration.netlify.app
 pansakecwap.xyz
+pape-tokens.org
 papecoin.eu
 papecoins.eu
 paper-hand.web.app
@@ -5520,6 +5533,7 @@ registration-zetachain.com
 registry-linea.build
 registry-monad.xyz
 rehapp.xyz
+reiki-web3go.xyz
 rektcoineth.org
 rektfilprompt.pages.dev
 rektfrog.com
@@ -6187,7 +6201,6 @@ starkware.life
 starkynet.com
 starlight-finance.com
 starlknet.shop
-starplumbingelectrical.com
 start-wen.com
 stately-froyo-8d0a93.netlify.app
 steaam.umb.market
