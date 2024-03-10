@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 10 19:01:30 UTC 2024
-# Number of Entries: 106151
+# Fetch date: Sun Mar 10 20:01:43 UTC 2024
+# Number of Entries: 106153
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -27403,6 +27403,7 @@ duke-florence-finance.co
 duken.im
 duklokner.site
 dulcetgarden-promogive.com
+dulcie.vip
 dumalomas.com
 dumb1.com
 dumbak.site
@@ -100826,6 +100827,7 @@ www.revokeapproval.info
 www.revokecash.chainsj.com
 www.revokecash.finance
 www.revokecash.io
+www.revokecash.store
 www.revokecoin.live
 www.revokesync.net
 www.revokethe.cash
