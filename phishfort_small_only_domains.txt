@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 10 09:02:08 UTC 2024
-# Number of Entries: 7849
+# Fetch date: Sun Mar 10 10:02:07 UTC 2024
+# Number of Entries: 7853
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4031,6 +4031,7 @@ metamasktoken.org
 metamasktokens.com
 metamasktokens.io
 metamaskusan.azurewebsites.net
+metamaskv.net
 metamaskv2.pages.dev
 metamaskvalidation.sensoryworks.com
 metamaskwallet.pages.dev
@@ -4805,6 +4806,7 @@ pancakeswap-finance.mom
 pancakeswap-financee.netlify.app
 pancakeswap-finnance.com
 pancakeswap-finnance.org
+pancakeswap-flnance.com
 pancakeswap-fniance.com
 pancakeswap-pancakeswap.com
 pancakeswap-pancakeswap.net
@@ -4942,6 +4944,7 @@ paxfulp2p.com
 paxfulproblems.com
 paxfult.com
 paxfulteams.com
+paxfulvn.com
 paxoinx.com
 paxos-network.com
 paxos-okta.com
@@ -7648,6 +7651,7 @@ xmas.claims
 xmrwallet.top
 xn--1nch-vpa.io
 xn--arbtrum-tfb.com
+xn--fixedfaot-wpbe.com
 xn--fixedflaot-k8a.com
 xn--fixedflaot-xub.com
 xn--fixedflat-cm7d.com
