@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 10 17:02:03 UTC 2024
-# Number of Entries: 7860
+# Fetch date: Sun Mar 10 18:02:12 UTC 2024
+# Number of Entries: 7859
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -746,7 +746,6 @@ arbnames.app
 arc-ai.net
 arc8.games
 arcanedexairdrop.netlify.app
-archetives.com
 arenal-es.shop
 arenal-outlet.shop
 arenal-outlet.vip
@@ -1287,7 +1286,6 @@ cbreholdings.com
 cbrepartners.com
 cbrevoke.org
 cchgroupfx.com
-ccqqxhn.cn
 cdek.avito.avito.avito.pancakeswap.reid4deeds.com
 cdn.cdn.secure.pancakefiance.org
 cdn1conectionspoint2point12mayresultinotthefolw.pixelmon.tech
@@ -6630,6 +6628,7 @@ umassuigovst.com
 umusic-digital.com
 umusic-pub.com
 un5gmtkzgj4ewmq43w.myob.best
+unapatches.com
 unclaimeddrops.link-claiming.xyz
 unfi-mall.vip
 unfi.cc
