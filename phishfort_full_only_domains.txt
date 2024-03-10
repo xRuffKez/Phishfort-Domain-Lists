@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 10 17:01:53 UTC 2024
-# Number of Entries: 106139
+# Fetch date: Sun Mar 10 18:01:39 UTC 2024
+# Number of Entries: 106140
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -7469,7 +7469,6 @@ arch-way-connect.com
 arch-way-connection.com
 archamintelligence.pw
 archemnft.com
-archetives.com
 archieneko.fwnfts.com
 archieneko.xyz
 archipeiago.art
@@ -60596,6 +60595,7 @@ onlwallcone.blogspot.com
 onlyalt-wallet.com
 onlyappsauthenpoint.online
 onlydice.xyz
+onlyhordes.com
 onlyinnofixboard.live
 onlyintermeritapps.netlify.app
 onlymigrator-access.online
@@ -86565,6 +86565,7 @@ un2app.com
 un5gmtkzgj4ewmq43w.myob.best
 unacersawme.com
 unaisiwalplog.azurewebsites.net
+unapatches.com
 unblockedaccount.b0tnet.com
 unbn.online
 unboxedmetaverse.com
