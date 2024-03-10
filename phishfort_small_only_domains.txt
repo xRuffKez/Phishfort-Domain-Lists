@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 10 16:02:11 UTC 2024
-# Number of Entries: 7853
+# Fetch date: Sun Mar 10 17:02:03 UTC 2024
+# Number of Entries: 7860
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4691,6 +4691,7 @@ opeseapro.vercel.app
 opnseaboxed.vercel.app
 opnsreapro.vercel.app
 ops-drop.live
+opsecai-claim.com
 opsecc.software
 optic-bridge.com
 optics-bridge.xyz
@@ -5148,7 +5149,6 @@ portfolio-metamask-io.org
 portfolio-metamask.app
 portfolio-my-backyp.com
 portfolio-my-metas.com
-portfolio-my-walles.com
 portfolio-my-walletzz.com
 portfolio-verification.com
 portfoliometamask.com
@@ -6182,6 +6182,7 @@ starknetairdrop.pages.dev
 starknetcliam.click
 starknetfond.com
 starknetone.life
+starknetweb3.com
 starkrewards.xyz
 starksdrop.eu
 starkware.life
@@ -6530,6 +6531,7 @@ tornova.cash
 totalwine-sale.shop
 tournament-pudgypenguins.com
 touzhai.cn
+track-web3.online
 tracking.airtm20.com
 tracking.give5-airtm.com
 tracomservices.com
@@ -6660,6 +6662,7 @@ uniswap.web3-x.org
 uniswaps-revoke.cash
 uniswaptreasury.site
 uniswapv-3.github.io
+uniswapv3.online
 uniswapv4-pool-waitlist.web.app
 united-airlinne.com
 united-healthcare-services.com
@@ -6774,6 +6777,8 @@ verification-collabland.com
 verification-collabland.xyz
 verification-discord.com
 verification-discord.icu
+verification.pancakeswapfinancee.net
+verification.pancakeswapunlock.com
 verificheck.com
 verified-portalgaming.pages.dev
 verify-assets.xyz
@@ -6907,6 +6912,7 @@ wallstmemesrewards.com
 wallstrewards.site
 walmat.sbs
 wamr.xyz
+wandatree.co.uk
 wap.cdzhjzx.com
 wap.janalt-tech.com
 wap.js-xlh.com
@@ -6945,6 +6951,7 @@ web3-connectsj.gq
 web3-cyptoo.com
 web3-ethereum.info
 web3-kaavva.netlify.app
+web3-modenetwork.org
 web3-phantom.com
 web3-phantom.net
 web3-portfolio.pro
