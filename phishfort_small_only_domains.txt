@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 10 07:02:17 UTC 2024
-# Number of Entries: 7848
+# Fetch date: Sun Mar 10 08:02:11 UTC 2024
+# Number of Entries: 7847
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -182,6 +182,7 @@ admin.booking-login.com
 adp-vantage.com
 adpunily.azurewebsites.net
 adslauncher.eu
+advancelobstarhifi.pages.dev
 aenchantedcamp.com
 aerodrom.flnance.web3-l2.cfd
 aethergaming.store
@@ -1304,7 +1305,6 @@ celiestia.org
 cellframenetwork.com
 cellnextelecomservice.com
 cellnextelecomservice.in
-celoapps.org
 celowallet.finance
 celtis.fi
 celtise.fi
@@ -1614,6 +1614,7 @@ collabland.boo
 collabland.bz
 collabland.cfd
 collabland.pm
+collabland.role-guard.com
 collabland.wf
 collabland.wtf
 collablandconnect.xyz
@@ -2376,7 +2377,6 @@ evolverlnc.com
 evrenode.org
 evrrec.com
 exampleee-site.online
-excelgig.online.tiasbera.in
 exchange-apex.org
 exchange-fastex.life
 exchangepancakeswap.workers.dev
@@ -2587,6 +2587,7 @@ gain-manta.pages.dev
 gala-games.io
 gala-games.org
 galaxy-digital.io
+galxe.co.bz
 galxe.pl
 galxe.pm
 galxe.re
@@ -3203,6 +3204,7 @@ knoxalliance-store.knoxalliance.com
 kofdet.com
 kohafil.com
 kontak.cs-a-g-o-d-a.com
+kpnmg.net
 kpsodemainnet.pages.dev
 kraken-airdrop.pro
 kraken-airdrop.site
@@ -3383,7 +3385,6 @@ lidostake.dev
 lidostakecoin.com
 lidostaking-btu.pages.dev
 lifefitness.si
-light-asset.ltd
 lilpudgys-mint.com
 linae-parks.com
 linea-consensys.world
@@ -3544,7 +3545,6 @@ mail.arab-bkplc.com
 mail.bankofamericafrauds.com
 mail.cpcalendars.gitlab.mail.pancakefiance.org
 mail.ethxgas.com
-mail.excelgig.online
 mail.iinfo.mysynology.net
 mail.layerszero.pics
 mail.lendingtree.website
@@ -3834,7 +3834,6 @@ matricas.xyz
 matricaworld.com
 matriica.vercel.app
 matrika.vercel.app
-mau-cbre.com
 mav.xyz-swap-sweth-rsweth.rxi.app
 maverickdao.net
 mavia-1bv.pages.dev
@@ -5018,6 +5017,7 @@ perdashboard.online
 perfectcheckgift.com
 perks-pepe.com
 perpnft.xyz
+perponschainrewards.pages.dev
 pers-daviplata.webcindario.com
 persistent.com.es
 persistentsystems.in
@@ -7767,7 +7767,6 @@ zetaclaim.pages.dev
 zetaswap.cm
 zetawil.com
 zhunihaoyun.info
-zignaly.q58h2p.com
 zigzagfi.live
 zimlndustries.com
 zircuit-app.one
