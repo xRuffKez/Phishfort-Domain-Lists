@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 10 14:02:10 UTC 2024
-# Number of Entries: 106129
+# Fetch date: Sun Mar 10 15:01:52 UTC 2024
+# Number of Entries: 106124
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -7468,6 +7468,7 @@ arch-way-connect.com
 arch-way-connection.com
 archamintelligence.pw
 archemnft.com
+archetives.com
 archieneko.fwnfts.com
 archieneko.xyz
 archipeiago.art
@@ -32689,7 +32690,6 @@ fivestarrecharge.online
 fix-02.serveuser.com
 fix-blockchain.com
 fix-encrypt.online
-fix-error.org
 fix-exchange.org
 fix-initialize.netlify.app
 fix-mainnetchains.com
@@ -36358,7 +36358,6 @@ glveaway-metamasks-assets.networksapp.hstn.me
 glveaway-metamasks-assetsset.networksapp.hstn.me
 glveaways-ethereums-metamasks-io.is-best.net
 glveaways-ethereums-trustswallet-com.html-5.me
-glveaways-metamasks-assets.000.pe
 glveaways-metamasks-lo.html-5.me
 glybit.com
 gm-com.cf
@@ -43375,7 +43374,6 @@ lifeparallel.app
 lifeprojectweb.com
 lifi.website
 liftedcontract.com
-light-asset.ltd
 lightblockcalibrator.com
 lightchainio.live
 lightdapp.com
@@ -50360,7 +50358,6 @@ metamaskauthentication.com
 metamaskauthentication.in
 metamaskauthkyc0.ns01.us
 metamaskauthkyco.ns01.us
-metamaskauthorization.amazingohosting.com
 metamaskauthorization.in
 metamaskautorestore.pages.dev
 metamaskb.com
@@ -50881,7 +50878,6 @@ metamaskusdt.net
 metamaskusdt.org
 metamaskv.cc
 metamaskv.com
-metamaskv.net
 metamaskv1.com
 metamaskv2.com
 metamaskv2.io
@@ -91491,7 +91487,6 @@ walletconnectbot.net
 walletconnectbot.online
 walletconnectbots.com
 walletconnectbots.org
-walletconnectbridge.com
 walletconnectcf.cf
 walletconnectchain.com
 walletconnectchainweb.com
