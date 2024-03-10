@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 10 08:01:46 UTC 2024
-# Number of Entries: 106123
+# Fetch date: Sun Mar 10 09:01:28 UTC 2024
+# Number of Entries: 106124
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -63147,6 +63147,7 @@ pancakesva.shop
 pancakesva.today
 pancakesva.top
 pancakesvaap-finance.com
+pancakesvap-app.github.io
 pancakesvap-franchise.com
 pancakesvap-holding.com
 pancakesvap-invest.com
