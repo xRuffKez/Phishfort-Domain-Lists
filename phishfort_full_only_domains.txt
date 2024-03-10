@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 10 16:01:54 UTC 2024
-# Number of Entries: 106131
+# Fetch date: Sun Mar 10 17:01:53 UTC 2024
+# Number of Entries: 106139
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -61656,6 +61656,7 @@ oprainvestment.info
 oprensea.com
 opretrobadge.com
 ops-drop.live
+opsecai-claim.com
 opsecc.software
 opsensea-web3.com
 opsensea.io
@@ -80327,6 +80328,7 @@ starknetl.xyz
 starknetnft.store
 starknetone.life
 starknett.site
+starknetweb3.com
 starkquant.com
 starkrewards.xyz
 starkrnet.com
@@ -84983,6 +84985,7 @@ trabeils.com
 trac.stqkegamble.com
 tracernft.xyz
 traceybaptiste.com
+track-web3.online
 track-zapperfi.com
 track.findingpackagedhi.info
 track1inch.com
@@ -87477,6 +87480,7 @@ uniswapv2v1.network
 uniswapv2v1.org
 uniswapv3-amm.com
 uniswapv3.art
+uniswapv3.online
 uniswapv3lp.com
 uniswapv4-pool-waitlist.web.app
 uniswapv4.org
@@ -89183,6 +89187,8 @@ verification-web.pages.dev
 verification.coinbase-supportredit-carmail.thuongnhanv.admin.orderonline.id
 verification.fun
 verification.ltda
+verification.pancakeswapfinancee.net
+verification.pancakeswapunlock.com
 verification.unicrypt.host
 verificationadultwork.com
 verificationauthority.top
@@ -92960,6 +92966,7 @@ wanchainfoundation.org
 wanchainfunding.org
 wanchainltd.org
 wanchains.org
+wandatree.co.uk
 wanderversenft.xyz
 wandupdate.live
 wang.txeiwb.bar
@@ -93386,6 +93393,7 @@ web3-live.io
 web3-mainnet.net
 web3-metamaskd.com
 web3-mint.live
+web3-modenetwork.org
 web3-multichain-dapp.xyz
 web3-multiverse.dappz.one
 web3-nftpad.com
