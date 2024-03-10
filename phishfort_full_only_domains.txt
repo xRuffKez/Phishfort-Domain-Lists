@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 10 15:01:52 UTC 2024
-# Number of Entries: 106124
+# Fetch date: Sun Mar 10 16:01:54 UTC 2024
+# Number of Entries: 106131
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6210,6 +6210,7 @@ app.metamask1.kred
 app.metamaskio.cn
 app.metamaskio.live
 app.metamaskio.network
+app.moonbeam-web.com
 app.moonbeam.link
 app.moonllet.io
 app.multchain.xyz
@@ -10273,6 +10274,7 @@ ballgoals.info
 ballqncer.com
 ballygang.live
 balmainbarbie.xyz
+balova-amsterdam.nl
 balprice.com
 balprice.org
 balqncer.com
@@ -15424,6 +15426,7 @@ cbase-pro.com
 cbcswap.pages.dev
 cbengine.comytvweb.com
 cbfeb953b53417d5.net
+cbgyf.pages.dev
 cbitsol.com
 cbiuaee.com
 cblre.com
@@ -25902,6 +25905,7 @@ dev4.properwebseo.com
 deva.cl
 devalleyz.org
 devamina.site
+devapp.pages.dev
 devbince.bolfirsatlar.com
 devc0n.org
 devcolab.live
@@ -26606,6 +26610,7 @@ dlimarket.com
 dllbank.1gb.ru
 dlll.longviewweather.com
 dlmshop.vip
+dlogdapp.pages.dev
 dloodles.app
 dloodles.com
 dloodlies.com
@@ -80353,6 +80358,7 @@ starlofficial.xyz
 starlproject.claims
 starltoken.com
 starotlas.co
+starplumbingelectrical.com
 starpunksupport.online
 starrgatee.finance
 starsareana.com
@@ -83648,6 +83654,7 @@ thebitheroes.com
 thebitkisa.live
 thebitnad.com
 thebitqtapp.com
+theblueskytrading.com
 thebonkcoin.com
 thebonkcoin.vercel.app
 theboredapesaudis.xyz
