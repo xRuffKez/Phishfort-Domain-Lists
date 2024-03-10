@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 10 18:01:39 UTC 2024
-# Number of Entries: 106140
+# Fetch date: Sun Mar 10 19:01:30 UTC 2024
+# Number of Entries: 106151
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -7469,6 +7469,7 @@ arch-way-connect.com
 arch-way-connection.com
 archamintelligence.pw
 archemnft.com
+archetives.com
 archieneko.fwnfts.com
 archieneko.xyz
 archipeiago.art
@@ -12601,6 +12602,7 @@ blast-invite.xyz
 blast-io.pro
 blast-l2.club
 blast-l2.dev
+blast-layer.web.app
 blast-majors.com
 blast-newsletter.com
 blast-stage.icu
@@ -16768,6 +16770,7 @@ claim-orca.info
 claim-otherdeed.land
 claim-othersidemeta.xyz
 claim-paal.com
+claim-paals.com
 claim-pacmon.xyz
 claim-pad.com
 claim-palmai.tech
@@ -42795,6 +42798,7 @@ ledgerconnect.stream
 ledgerextension.link
 ledgergive.com
 ledgerhalving.com
+ledgerhnet.gotdns.ch
 ledgerl.ive-start.com
 ledgerlive-app.online
 ledgerlive-ledger.com
@@ -46053,6 +46057,7 @@ magpiexyz.xyz
 magpiexyzz.com
 magpiiexyz.cyou
 magplexyz.site
+magppiexyz.com
 magrittechecks.meta-shop.xyz
 magzem.com
 mahadevent.com
@@ -46422,6 +46427,7 @@ mainlinvalidate.com
 mainmobilerectify.co
 mainmobilerectify.live
 mainnentconnect.io
+mainnet-blaster.com
 mainnet-blur.io
 mainnet-bridges.com
 mainnet-chains.com
@@ -47266,6 +47272,7 @@ maskairdrops.com
 maskappnofsupport.ddnss.ch
 maskbymetamask.com
 maskbymetamask.io
+maskclaim.top
 maskclaims.info
 maskclaims.io
 maskcoin.pages.dev
@@ -48743,6 +48750,7 @@ metamask-community.dynv6.net
 metamask-compliance.com
 metamask-connect.add-all.site
 metamask-connect.com
+metamask-connect.ddns.net
 metamask-connect.link
 metamask-connect.live
 metamask-connect.net
@@ -49913,7 +49921,6 @@ metamask.kaizenprint.ie
 metamask.kaweila.top
 metamask.kiwi
 metamask.koleryazilim.com
-metamask.kyc.45-88-108-231.plesk.page
 metamask.kyc4you.io
 metamask.kz
 metamask.laconfianzacoop.com
@@ -50882,6 +50889,7 @@ metamaskusdt.net
 metamaskusdt.org
 metamaskv.cc
 metamaskv.com
+metamaskv.net
 metamaskv1.com
 metamaskv2.com
 metamaskv2.io
@@ -62749,6 +62757,7 @@ pancake-frontend3.pages.dev
 pancake-ichi.finance
 pancake-ifo.pages.dev
 pancake-june.pro
+pancake-magpiexyz.pages.dev
 pancake-oxbull.finance
 pancake-pump.com
 pancake-qnt.com
@@ -65549,6 +65558,7 @@ pancakeswapv3.com
 pancakeswapv3.finance
 pancakeswapv3.info
 pancakeswapv3.me
+pancakeswapv3.net
 pancakeswapv3.org
 pancakeswapv3.site
 pancakeswapv5.claims
@@ -66818,6 +66828,7 @@ paontuamxuollate.godaddysites.com
 paooacoer-app.zsenletvahol.cf
 pape-coin.com
 pape-coins.com
+pape-tokens.org
 papecoin.eu
 papecoins.eu
 papelariabara-mg.blogspot.com
@@ -73527,6 +73538,7 @@ regulatednfts.xyz
 regulisukersbags.gq
 rehapp.xyz
 reiembalagensonline.blogspot.com
+reiki-web3go.xyz
 reimburse-multichain.com
 reinitiate.space
 reintegratedapp.com
@@ -80360,7 +80372,6 @@ starlofficial.xyz
 starlproject.claims
 starltoken.com
 starotlas.co
-starplumbingelectrical.com
 starpunksupport.online
 starrgatee.finance
 starsareana.com
