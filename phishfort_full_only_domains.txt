@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 10 09:01:28 UTC 2024
-# Number of Entries: 106124
+# Fetch date: Sun Mar 10 10:01:33 UTC 2024
+# Number of Entries: 106129
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -5695,6 +5695,7 @@ app-pancake-swap.com
 app-pancake-swap.com.mx
 app-pancake-swap.finance
 app-pancakes.org
+app-pancakesvap.github.io
 app-pancakesvvap.org
 app-pancakeswap-exchange.com
 app-pancakeswap-exchange.finance
@@ -50880,6 +50881,7 @@ metamaskusdt.net
 metamaskusdt.org
 metamaskv.cc
 metamaskv.com
+metamaskv.net
 metamaskv1.com
 metamaskv2.com
 metamaskv2.io
@@ -63584,6 +63586,7 @@ pancakeswap-firmware.online
 pancakeswap-fjinance.com
 pancakeswap-flinacne.com
 pancakeswap-flnance.biz
+pancakeswap-flnance.com
 pancakeswap-flnance.net
 pancakeswap-flnance.org
 pancakeswap-flnance.the-mosf-popular.online
@@ -67606,6 +67609,7 @@ paxfulverify.website
 paxfulviet.com
 paxfulviet.thanh.a2hosted.com
 paxfulview.com
+paxfulvn.com
 paxfulwallets.com
 paxfulwalllet.com
 paxfulweb.com
@@ -103272,6 +103276,7 @@ xn--fidenaproject-74c.com
 xn--fixdfloat-23a.com
 xn--fixdfloat-2ib.com
 xn--fixdfloat-iib.com
+xn--fixedfaot-wpbe.com
 xn--fixedflaot-k8a.com
 xn--fixedflaot-xub.com
 xn--fixedflat-cm7d.com
