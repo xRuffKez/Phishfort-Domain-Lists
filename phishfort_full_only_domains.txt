@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 10 07:01:49 UTC 2024
-# Number of Entries: 106122
+# Fetch date: Sun Mar 10 08:01:46 UTC 2024
+# Number of Entries: 106123
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2862,6 +2862,7 @@ advancebridge.best
 advancecrypto.xyz
 advancednftsolutions.com
 advancedpolkadot.com
+advancelobstarhifi.pages.dev
 advancetool.org
 adventinternationals.com
 adventinternatoinal.com
@@ -7289,7 +7290,6 @@ arbitrum2023.com
 arbitrum3.site
 arbitrumairdrop.info
 arbitrumairdrop.io
-arbitrumairdrop.net
 arbitrumairdrop.website
 arbitrumairdrops.net
 arbitrumarb.org
@@ -19500,6 +19500,7 @@ collabland.land
 collabland.ml
 collabland.network
 collabland.pm
+collabland.role-guard.com
 collabland.team
 collabland.tel
 collabland.web3claim.app
@@ -27918,7 +27919,6 @@ ecoterra-presaie.com
 ecoterra-presale.app
 ecoterra-presale.com
 ecoterra-presale.dev
-ecoterra-presale.tech
 ecoterra-presalle.com
 ecoterra-recycle.com
 ecoterra-sale.com
@@ -34812,6 +34812,7 @@ galxe-nftearth.net
 galxe-pass.com
 galxe-v2.com
 galxe.at
+galxe.co.bz
 galxe.com.pt
 galxe.comv6.app
 galxe.de.com
@@ -41334,6 +41335,7 @@ kpmg-llp.ai
 kpmg.gconciencia.com
 kpmg.seemauniverse.no
 kpmgamericas.com
+kpnmg.net
 kpolazs.com
 kpp4.sa.com
 kpr-verse.com
@@ -47345,7 +47347,6 @@ master-brain.com
 master.pancakesvqp.com
 master3drpg.com
 masterclicsolutions.com
-mastercoin.top
 mastermeatsqa.com
 mastermindlogisticsltd.com
 mastersrewind.com
@@ -68219,6 +68220,7 @@ pernimt.com
 perpetualprotocol.app
 perpetualprotocolofficial.click
 perpnft.xyz
+perponschainrewards.pages.dev
 perpstech.com
 pers-daviplata.webcindario.com
 persistent.com.es
@@ -86719,7 +86721,6 @@ uniiswaap.org
 uniiswap.site
 uniiswap.space
 uniiswap.website
-uniiswapexchange.com
 uniiswapp.com
 uniiswapp.org
 uniitiqgen.buzz
