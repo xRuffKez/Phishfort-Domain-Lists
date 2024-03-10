@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 10 15:02:01 UTC 2024
-# Number of Entries: 7848
+# Fetch date: Sun Mar 10 16:02:11 UTC 2024
+# Number of Entries: 7853
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -175,7 +175,6 @@ acompletesecrets.com
 across-bridge.net
 acrosss-bridge.xyz
 active-supp-ort-meta.netlify.app
-activiteweb.center
 acva-centr.online
 adailypath.com
 admin.booking-login.com
@@ -617,6 +616,7 @@ app.financeglobal.trade
 app.formbot.com
 app.kiloex-airdrop.com
 app.kinzaxk-group.com
+app.moonbeam-web.com
 app.pomerdoge.live
 app.raticswap.xyz
 app.refundcoinstake.com
@@ -698,7 +698,6 @@ arab-bkplc.com
 arab.reactive-online.com
 arabbplc-ae.com
 arabi.page.link
-arabiconnect.activiteweb.center
 arabiconnect.smartradx.com
 aramex-delivery.me
 aramexame.com
@@ -898,6 +897,7 @@ balahcer.fi
 balancer-exchange.io
 balancer-je8.pages.dev
 balancer-web3.xyz
+balova-amsterdam.nl
 balst.io
 banana-roninchain.app
 bananangun.app
@@ -1280,6 +1280,7 @@ caspers.network
 caw.gift
 cb-mex.net
 cbfeb953b53417d5.net
+cbgyf.pages.dev
 cblre.com
 cbrecbre.com
 cbreholdings.com
@@ -1994,6 +1995,7 @@ dev-c2usdt.pantheonsite.io
 dev-dese-mo-gov.pantheonsite.io
 dev-the-metamask-support.pantheonsite.io
 dev.lyncdiscover.img.elasticsearch-uat.arb-chain.com
+devapp.pages.dev
 devdapps.pages.dev
 devfixpanel.com
 devicaeccess.co.uk
@@ -2060,6 +2062,7 @@ distribution-pancakeswap.xyz
 distribution-pondcoin.com
 distribution-shido.com
 diversitechs.com
+dlogdapp.pages.dev
 dmail-airdrop.org
 dmail.news
 dmmltt0.info
@@ -6185,6 +6188,7 @@ starkware.life
 starkynet.com
 starlight-finance.com
 starlknet.shop
+starplumbingelectrical.com
 start-wen.com
 stately-froyo-8d0a93.netlify.app
 steaam.umb.market
@@ -6404,6 +6408,7 @@ the-one-staking.cc
 the-one-staking.com
 theabcroofing.com
 thebaycompany-ca.com
+theblueskytrading.com
 thecouragedoog.live
 theemiraetesgroup.com
 theemiratesgroupae.com
