@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 10 14:02:43 UTC 2024
-# Number of Entries: 7853
+# Fetch date: Sun Mar 10 15:02:01 UTC 2024
+# Number of Entries: 7848
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -747,6 +747,7 @@ arbnames.app
 arc-ai.net
 arc8.games
 arcanedexairdrop.netlify.app
+archetives.com
 arenal-es.shop
 arenal-outlet.shop
 arenal-outlet.vip
@@ -1340,7 +1341,6 @@ chamath-x2.live
 champion-tactic.com
 championstactics.app
 changelly.plus
-charterescalate.top
 cheat-space.com
 check-defi.com
 check.wenser.e2p.xyz
@@ -1733,7 +1733,6 @@ crypto-escort.com
 crypto-payments.xyz
 crypto-starknets.com
 crypto.met-group.xyz
-crypto.monszgrp.xyz
 crypto.pepzgroup.biz
 crypto.wormscommunity.xyz
 crypto11.bep666.top
@@ -1757,7 +1756,6 @@ csagodaonline.masukmobilee.de
 csfellon.ru
 csl-behring.eu
 csl-seqirus.com
-cthulhu.in
 ctt.fullpays.site
 cubeexchange.co
 cucmmins.com
@@ -2860,7 +2858,6 @@ hr-adp.com
 hswblp.info
 ht52ik.top
 https-loading.site
-hub-aofverse.com
 hub-injective-bke.pages.dev
 hub-injective-network.web.app
 hub-injective.app
@@ -4031,7 +4028,6 @@ metamasktoken.org
 metamasktokens.com
 metamasktokens.io
 metamaskusan.azurewebsites.net
-metamaskv.net
 metamaskv2.pages.dev
 metamaskvalidation.sensoryworks.com
 metamaskwallet.pages.dev
@@ -7676,7 +7672,6 @@ xn--fxadfloat-05a.com
 xn--fxadfloat-vpb.com
 xn--fxdlfloat-c4a6b.com
 xn--fxedfiloat-xub.com
-xn--fxedflaot-g5a.org
 xn--fxedflaot-vpb.net
 xn--fxedflaots-68a.com
 xn--fxedflaots-k8a.com
