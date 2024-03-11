@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 14:02:10 UTC 2024
-# Number of Entries: 7903
+# Fetch date: Mon Mar 11 15:02:59 UTC 2024
+# Number of Entries: 7905
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1309,6 +1309,7 @@ cellnextelecomservice.com
 cellnextelecomservice.in
 celowallet.finance
 celtise.fi
+centerjobless.online
 centralpoultryprocessingscoltd.com
 centralseedandchem.co.nz
 ceoltis.com
@@ -2024,7 +2025,6 @@ dhk6y.cc
 diag-bracco.com
 diamond-magiceden.network
 diamondhands-ethereum.web.app
-dianarise.com
 difficultsniff.top
 digicamforums.com
 digital.free-zetachain.online
@@ -3374,6 +3374,7 @@ lfg-jup.app
 lfg-jup.io
 lfg-up.icu
 libertyfinancial.xyz
+libertyfinancials.xyz
 lido-dist.firebaseapp.com
 lido-dist.web.app
 lido-fi.digital
@@ -4385,7 +4386,6 @@ myuionlinedeetmadma.com
 myuionlinedeetmadma.info
 myuionlinedettmadma.com
 myuionlinedettmadma.info
-myuionlineedetmadma.info
 myuionlineedetmadma.net
 myuionlinneedettmadmu.com
 myuionlinneedettmadmu.net
@@ -4600,6 +4600,7 @@ nusukroadshow.com
 nvidiaint.shop
 nw6.us
 ny9.us
+nyurbanonli.com
 o2-cert.com
 o2-kundenverwaltung.info
 o2online-service.de
@@ -6891,6 +6892,7 @@ vvebexx.co
 vww.monzgroups.cc
 vww.raczgroups.xyz
 vwxq9vk.pro
+vy.starrcooporate.com
 vystarcu.nah516.com
 vystarcu.tsa135.com
 vystarcu.zms362.com
