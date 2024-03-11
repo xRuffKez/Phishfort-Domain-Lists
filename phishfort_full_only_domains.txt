@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 06:01:56 UTC 2024
-# Number of Entries: 106182
+# Fetch date: Mon Mar 11 07:01:50 UTC 2024
+# Number of Entries: 106189
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -27604,6 +27604,7 @@ e-gift-cardbalance.com
 e-gives.blogspot.com
 e-ledger.live
 e-ledgerlive.com
+e-linea.com
 e-mainpad.netlify.app
 e-metamask-io.com
 e-metamask.insectum.at
@@ -47571,6 +47572,7 @@ mavia-claim.top
 mavia-game.xyz
 mavia-home.com
 mavia-web3.org
+mavia.cc
 mavia.land
 mavia.pages.dev
 mavia.web3-airdrop.net
@@ -58744,6 +58746,7 @@ nexglobalexchange.com
 nexis-network.live
 nexisnetwork.xyz
 nexivllc.com
+nexo-event.com
 nexo-fx.com
 nexomastercard.com
 nexon-app.com
@@ -66462,6 +66465,7 @@ panecake-a9eda.web.app
 panecakeswap.com
 panecakeswap.finance
 panecakeswap.financial
+panecakeswapv3.com
 paneicakeswap.net
 panekeiswaps.top
 panekeswape.com
@@ -73469,6 +73473,7 @@ register-killabears.com
 register-klubx.com
 register-layerzero-events.com
 register-lens.xyz
+register-lineabuild.com
 register-mavprotocol.com
 register-mavprotocol.net
 register-meebits.com
@@ -93319,6 +93324,7 @@ web.road-to-nft.fun
 web.siteai.site
 web.solvedapp.org
 web.sso-telegram.org
+web.stakefish.app
 web.supportsolution.live
 web.sync-connect.net
 web.syncappwallet.site
@@ -98735,6 +98741,7 @@ www.matprima-pa.com
 www.matr1x.shop
 www.maverickdao.org
 www.mavia.comapp.hu54.com
+www.mavia.lc
 www.mavias.club
 www.mavla.xyz
 www.mavxyz.pro
