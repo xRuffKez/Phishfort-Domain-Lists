@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 10:02:12 UTC 2024
-# Number of Entries: 7916
+# Fetch date: Mon Mar 11 11:02:09 UTC 2024
+# Number of Entries: 7910
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -130,13 +130,11 @@
 a407info.com
 a4doconlinautoreloads.com
 a9714.top
-aa.digger518.top
 aark.finance
 aatranferinc.com
 aave-aave.lt
 aave-finance.net
 aave-gifts.com
-aave-governance.pages.dev
 aave-token.net
 aave.airscointrustpad.top
 aave.freedrops.top
@@ -201,6 +199,7 @@ agoda-88.vip
 agoda-com.com
 agoda-formulir.prioritas-24hours.com
 agoda-hotel.com
+agoda-jp.cc
 agoda-jp.com
 agoda-jp.vip
 agoda-jps.com
@@ -996,7 +995,6 @@ bigestcontests.com
 bikeannex.top
 bilet-emirates.ru
 bill-407etr.com
-bill-tel.com
 bill407etrca.com
 billionalr.com
 bimance-airdop.org
@@ -1304,7 +1302,6 @@ celatis.paperhand.fi
 celestia-network.com
 celestia-projects.net
 celestia.chain-spn.com
-celestia.run
 celestiagenesis.org
 celestialabs.dev
 celestias-free.org
@@ -1614,7 +1611,6 @@ collabland-join.net
 collabland-members.net
 collabland-safety.net
 collabland-security.net
-collabland-sync.com
 collabland-verification.xyz
 collabland-verify.co
 collabland-wallets.com
@@ -1658,7 +1654,6 @@ conf-collab.land
 confirmed-collab.land
 confulxnetwork.info
 connect-arbitrum.io
-connect-collab.pages.dev
 connect-collabland.app
 connect-collabs.com
 connect-dymension.xyz
@@ -1894,6 +1889,7 @@ davipse.info
 davitahealthcarepartners.com
 daviviendaportal.webcindario.com
 dbrsco.net
+dbrsco.org
 dbrsfds.com
 dbrsfxs.com
 dbrsleader.net
@@ -4144,7 +4140,6 @@ migrate-houdiniswap.com
 migrate-memedefiv2.icu
 migrate-memedefiv2.xyz
 migrate-produceai.xyz
-migrate-singularitydao.ai
 migrate-smol-su.online
 migrate-troll.run
 migrateassetspro.online
@@ -5036,7 +5031,6 @@ pengsolana.co
 pengsolana.org
 penguinrandomhouseglobal.com
 penguinrandomhouseofficial.com
-pepe-airdrop.live
 pepe-awards.com
 pepe-team.com
 pepe-v2.link
@@ -5054,6 +5048,7 @@ pepecoin.lol
 pepecoin2.net
 pepevip.is
 pepezhunt.xyz
+pepsi8.com
 pepsicol.com
 pepsicopostmixtraining.com
 pepsicovip.com
@@ -5395,7 +5390,6 @@ quicksynced.pages.dev
 quicksystemicexplorer.co
 quickupdateexplorer.co
 quikswap.io
-r114.usdt6188.top
 r125.usdt6188.top
 r20.rs6.net
 rabby-points.xyz
@@ -6314,7 +6308,6 @@ support-walletrestoration.pages.dev
 support.pankecswaqfiannce.com
 support.pixelmon.tech
 supportmetamask-io.ddnss.eu
-supraoracle.xyz
 suprasync.pages.dev
 supratoken.xyz
 surrealogeek.com
@@ -6857,6 +6850,7 @@ vertexprotocol.events
 vertexprotocol.top
 vertiv.dns.cz
 vesting-port3.io
+vfipaxos.org
 vhvhgv.pages.dev
 viacripto.com
 victorianwoodsstudio.com
