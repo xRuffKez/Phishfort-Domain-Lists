@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 07:02:20 UTC 2024
-# Number of Entries: 7900
+# Fetch date: Mon Mar 11 08:02:53 UTC 2024
+# Number of Entries: 7916
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -487,6 +487,7 @@ apecoin-aidrop-claim.codeanyapp.com
 apecoin-airdrop-claim-pooldrop.codeanyapp.com
 apecoin-drop.web.app
 apecoin-llc.com
+apecoin-pass.com
 apecoin-web3.com
 apenft-poloniex.com
 apes-coinz-claim.com
@@ -573,6 +574,7 @@ app-sheesha.pages.dev
 app-starknet.io
 app-superverse.com
 app-susa.exchange
+app-thruster.finance
 app-tokenlon.com
 app-ubeswap.vercel.app
 app-velvet.capital
@@ -1632,6 +1634,7 @@ collad-land.me
 collateralnetworks.pages.dev
 collbalnand.pages.dev
 colleb-verify.xyz
+collect-blast.com
 collect-chain.link
 collect-wenwencoin.com
 collection-satoshivm.io
@@ -2579,6 +2582,7 @@ fuadazzad.net
 fubo.planupgrade.online
 fubotvroku.com
 fudsolana.org
+fuelnetwork-register.vercel.app
 fujimitsudynamic.com
 fullmoonbird-next.vercel.app
 fun.cosmicpets.info
@@ -2685,6 +2689,7 @@ getbcb.app
 getbonked.net
 getcodesolutions.com
 getgrass-check.com
+getgrass-collect.com
 geth.claims
 getmanta.network
 getmidjourney.tech
@@ -2915,7 +2920,9 @@ ilie.zerion.biz
 ilionosima.com
 illivium-network.com
 illivium-techsupport.com
+illuvium-community.com
 illuvium-community.sbs
+illuvium-connect.com
 illuvium-mint-beta.online
 illuvium.gift
 illuvium.io-claim.world
@@ -3389,6 +3396,7 @@ lido-rewards.pages.dev
 lido-staking.pages.dev
 lido.fi-swaps.app
 lido227277.pages.dev
+lidocrypto.fi
 lidodrops.info
 lidoe.azurewebsites.net
 lidof.net
@@ -3417,6 +3425,7 @@ lineaxskin.com
 linjective.com
 link-eligible.com
 link-medium.top
+link-networks.net
 link-portal.app
 link-vulcan.xyz
 link.gatekava.xyz
@@ -3491,6 +3500,7 @@ looksrare-id.org
 looksraredrop.com
 loongavax.com
 loopringlabs.online
+lootynetwork.org
 lottery.ridottowin.online
 lovecoprinttestelnur.com
 lqeth.com
@@ -4224,7 +4234,6 @@ mm-redirect.com
 mmakerdao.com
 mndntwrk.org
 mo7l9.top
-mobily-mygate.azurewebsites.net
 moboxlabs.org
 moboxlabs.xyz
 mocaverse.zone
@@ -4366,6 +4375,7 @@ mysterybox28.vercel.app
 mysterybox287.vercel.app
 mysterybox32.vercel.app
 mysterybox75.vercel.app
+mysterybox882.vercel.app
 mysteryboxnow.vercel.app
 mysteryclaim74.vercel.app
 mysteryclaimsnft.vercel.app
@@ -4548,6 +4558,7 @@ nibiruairdrops.life
 nibirudrop.top
 nibiruprojectdrop.xyz
 nibiry-app.top
+niburufi-registers-verify.vercel.app
 nisaconert.top
 nisaconert.vip
 nisaconvert.vip
@@ -5016,6 +5027,7 @@ peapodsfinanceweb.com
 peapodsstake.finance
 pearswap.xyz
 pemanagement.net
+pendle-flnance.net
 pendle.claims
 pendle.farm
 pendlenetwork.com
@@ -5125,6 +5137,7 @@ platform-tycoon.xyz
 play-gamer.com
 play-pixelsapp.xyz
 play-shrapnel.com
+playbux.info
 playbuxdrop.xyz
 playember-57a.pages.dev
 playmartbefore.com
@@ -5272,6 +5285,7 @@ punkbits.org
 punkbits.xyz
 pushd.mainnetpro.com
 pussyfinancial.live
+pvth-network.com
 pwsign.com
 pwtradeco.com
 pwxskm.cfd
@@ -6200,6 +6214,7 @@ starkclaim.pro
 starkclaim.services
 starkdistribution.net
 starkenet.space
+starkexka.com
 starknet-airdrop.events
 starknet-airdrops.io
 starknet-claim.io
@@ -7157,6 +7172,7 @@ woofibit.space
 wordpress-162668-decentralizedapp.cloudclusters.net
 workforcenow.adp.returnlite.com
 workforcenowadp.org
+world-blast.com
 world-circleone.com
 world-manta-network.com
 worldbusinessexpert.com
