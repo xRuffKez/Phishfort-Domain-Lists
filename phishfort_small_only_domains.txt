@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 00:07:32 UTC 2024
-# Number of Entries: 7874
+# Fetch date: Mon Mar 11 01:23:04 UTC 2024
+# Number of Entries: 7872
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3038,7 +3038,6 @@ jiitonetwork.com
 jito-bonus.com
 jito-drop.com
 jitocoins-network.com
-jitodrop.com
 jitodrop.net
 jitonetwork.su
 jjup.ag
@@ -5619,6 +5618,7 @@ revokecash.store
 revokecashe.com
 revokecashh.pages.dev
 revokecashn.com
+revokecashv2.xyz
 revokee.cash
 revokee.digital
 revokefunds.com
@@ -6093,6 +6093,7 @@ sparkcircuit.shop
 sparkfi.app
 sparkfi.net
 sparkfi.org
+sparkfi.tech
 sparkfinance.fi
 sparklend.fi
 sparkly-peony-f76556.netlify.app
@@ -6190,7 +6191,6 @@ starknet.cointon.org
 starknet.metawineth.space
 starknet.press
 starknet.sk
-starknet.strk-now.com
 starknetairdrop.pages.dev
 starknetcliam.click
 starknetfond.com
@@ -6209,7 +6209,6 @@ steady-creponne-871786.netlify.app
 steam.dotaworkshops.com
 steam.umb.market
 steamcommujity.com
-steamcommunitc.com
 steamcommunity.umb.market
 steamcommunityskintradeoffermadito.com
 steamcommuxity.com
@@ -6233,7 +6232,6 @@ stretto-celsius-network.com
 stride-zone.vercel.app
 strive.serwerdwg.pl
 strk-coin.xyz
-strk-glveaway.com
 strk-whitelists.space
 strkclaim.space
 strkclaims.com
