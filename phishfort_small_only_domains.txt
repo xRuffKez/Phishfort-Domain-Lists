@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 06:02:41 UTC 2024
-# Number of Entries: 7893
+# Fetch date: Mon Mar 11 07:02:20 UTC 2024
+# Number of Entries: 7900
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2156,6 +2156,7 @@ dynamix-alu.com
 dyppius.org
 dyvmemsion.xyz
 e-ledgerlive.com
+e-linea.com
 e-node.pages.dev
 e09c801d297f807b.net
 e4d600ab9141b7a9859511c77e63b9b3.com
@@ -3856,6 +3857,7 @@ mavia-airdrop.club
 mavia-claim.top
 mavia-home.com
 mavia-web3.org
+mavia.cc
 mavia.land
 mavia.pages.dev
 mavia.website
@@ -4467,6 +4469,7 @@ newwhitelistradar.pages.dev
 nexes.live
 nexis-network.live
 nexisnetwork.xyz
+nexo-event.com
 nextgenfintech.lat
 nfclaimopensea.vercel.app
 nfgrex1.pro
@@ -4890,6 +4893,7 @@ pandoshie.site
 pandosi-presale.store
 pandosi.pro
 pandosshi.xyz
+panecakeswapv3.com
 pangolin-x.com
 panoshidaapsintegration.netlify.app
 pansakecwap.xyz
@@ -5090,6 +5094,7 @@ phumtoewallat.godaddysites.com
 pinkbird.fail
 pinksale-app.com
 pioneernerd.com
+pipsyl.top
 pipz-group.com
 pixals.xyz
 pixel-lands.com
@@ -5510,6 +5515,7 @@ regdioneprotocol.com
 registarzuki.com
 register-dop.com
 register-layerzero-events.com
+register-lineabuild.com
 register-metis.io
 register-optimism.org
 register-orderly.network
@@ -7426,6 +7432,7 @@ www.masimjaya.com
 www.matprima-pa.com
 www.maverickdao.org
 www.mavia.comapp.hu54.com
+www.mavia.lc
 www.mavias.club
 www.mavla.xyz
 www.mehrlesenachrichten.com
