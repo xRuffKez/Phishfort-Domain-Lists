@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 01:22:29 UTC 2024
-# Number of Entries: 106155
+# Fetch date: Mon Mar 11 02:07:38 UTC 2024
+# Number of Entries: 106156
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -39451,6 +39451,7 @@ installmetamask.shop
 instaminingpool.com
 instanbtc.site
 instanes.site
+instant-bravet.info
 instant-ethaway.com
 instant-ether.com
 instant-integration.io
