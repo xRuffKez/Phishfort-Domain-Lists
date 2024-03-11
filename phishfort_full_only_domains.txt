@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 18:01:58 UTC 2024
-# Number of Entries: 106224
+# Fetch date: Mon Mar 11 19:02:20 UTC 2024
+# Number of Entries: 106225
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -100279,6 +100279,7 @@ www.perpswasabi.xyz
 www.personalles-accesoscolombia.online
 www.pet2099.org
 www.petaswap.demo.dapprex.com
+www.pfizer.i.ng.sba-sales.com.ng
 www.pge-cbk.com
 www.phanrtom.app
 www.phantom-extension.co
