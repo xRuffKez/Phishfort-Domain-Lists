@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 05:02:27 UTC 2024
-# Number of Entries: 7883
+# Fetch date: Mon Mar 11 06:02:41 UTC 2024
+# Number of Entries: 7893
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -533,6 +533,7 @@ app-apyether.org
 app-axeinifnity.com
 app-balancer.pages.dev
 app-benqi.online
+app-betafinance.org
 app-bridge.manta-pacific.fi
 app-bsquared.network
 app-bungeeee.exchange
@@ -1452,6 +1453,7 @@ claim.layerzero-free.live
 claim.layerzero-free.website
 claim.layerzero-tokens.online
 claim.memetrumpmaga.com
+claim.memskombat.site
 claim.metacadeco.live
 claim.nf-prompt.xyz
 claim.paalai.mobi
@@ -2087,6 +2089,7 @@ dojoencryption.com
 dojoswap.org
 domabnb.design
 domains-nzy.pages.dev
+dop-io.web.app
 dopamine-dop.com
 dopamine-dop.org
 dopaminedop.pages.dev
@@ -3051,6 +3054,7 @@ joblessassistanceportal.net
 join-aofverse.com
 join-befilabs.com
 join-collabland-sync.net
+join-etherfi.com
 join-etherfi.work
 join-galxe.com
 join-gitcoin.xyz
@@ -3216,6 +3220,7 @@ kpsodemainnet.pages.dev
 kraken-airdrop.pro
 kraken-airdrop.site
 kraken-airdrop.xyz
+kraken-site-darknet1.com
 krakenencoin.com
 kresko-airdrop.com
 kroma.events
@@ -3896,6 +3901,7 @@ memekombatio.live
 memeland-verify.web.app
 memelandcoin.vercel.app
 memelandeth.com
+memes-kombats.web.app
 memeuk.life
 memevibz.com
 memzcn-club.com
@@ -4359,6 +4365,7 @@ mysterybox287.vercel.app
 mysterybox32.vercel.app
 mysterybox75.vercel.app
 mysteryboxnow.vercel.app
+mysteryclaim74.vercel.app
 mysteryclaimsnft.vercel.app
 mysteryclicksclaim1.vercel.app
 mysteryclicksnft.vercel.app
@@ -5812,6 +5819,7 @@ satoshinew123.pages.dev
 satoshisvm.network
 satoshivm-app.io
 satoshivm-bonus.com
+satoshivm-finance.com
 satoshivm-launch.network
 satoshivm.cc
 satoshivm.communltiy.com
@@ -6573,6 +6581,7 @@ trastumanvst.com
 travalaai.live
 travel.quickflightbooking.online
 travelfly-united.com
+travelistik.de
 treasure.events
 treasure.gl
 treasure.gs
@@ -6961,6 +6970,7 @@ web.pancake.run
 web.paxful-coin.cc
 web.resolvebugvvalidly.org
 web.siteai.site
+web.stakefish.app
 web.sync-connect.net
 web.universaldefi-rectifier.com
 web3-bitget.pages.dev
