@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 15:02:59 UTC 2024
+# Fetch date: Mon Mar 11 16:02:19 UTC 2024
 # Number of Entries: 7905
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1320,7 +1320,6 @@ chain-link.ru
 chain-linklabs.live
 chain-linknetwork.io
 chain-strk.com
-chain.blocksystem.network
 chainbugs.org
 chainflip.team
 chaingpt-ai.org
@@ -3602,7 +3601,6 @@ makerdoa.com
 makerfoundation.github.io
 makertoken.net
 makesmytrip.online
-malogdet.com
 mamtaairdropevent.net
 mamtabluerewards.com
 mamtabluerewards.net
@@ -4461,6 +4459,7 @@ newparadigms.manta-networks.org
 newparadiqm-manta.network
 newporkcoin.pages.dev
 newprovisionschainlink.org
+newsupport.alkhaleej.com.sa
 newtradedex.pages.dev
 newtresures-manta.network
 newwhitelistdex.pages.dev
@@ -5639,6 +5638,7 @@ revokecash-web3.org
 revokecash.cash
 revokecash.network
 revokecash.store
+revokecash.us
 revokecashe.com
 revokecashh.pages.dev
 revokecashn.com
@@ -6649,7 +6649,6 @@ twilio-hr.com
 twolandstoken.live
 twt.multipuds.top
 tyzxf.pages.dev
-udefi.ueth.cc
 ufalmassuissat.com
 ufgw.top
 uhcdapp-apply-srv-eligible.glitch.me
@@ -7556,6 +7555,7 @@ www.revoke-wallet.com
 www.revoke-wallet.net
 www.revoke.expert
 www.revokecash.store
+www.revokecash.us
 www.revokewallets.cash
 www.revsharepalmai.com
 www.reward-wenwen.com
