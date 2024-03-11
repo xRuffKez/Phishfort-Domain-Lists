@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 05:01:53 UTC 2024
-# Number of Entries: 106173
+# Fetch date: Mon Mar 11 06:01:56 UTC 2024
+# Number of Entries: 106182
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -5453,6 +5453,7 @@ app-beefy.finance
 app-beefyr.finance
 app-benqi.online
 app-bestdappfixes.online
+app-betafinance.org
 app-biokript.com
 app-bitkub.com
 app-bitkubchain.github.io
@@ -17029,6 +17030,7 @@ claim.linea-build.net
 claim.llens.xyz
 claim.manatoken.net
 claim.memetrumpmaga.com
+claim.memskombat.site
 claim.metacadeco.live
 claim.mint-tokens.shop
 claim.nf-prompt.xyz
@@ -26981,6 +26983,7 @@ dooplicater.com
 dooplicator.store
 dooplicators.net
 doortechqr.netlify.app
+dop-io.web.app
 dopamine-dop.com
 dopamine-dop.org
 dopaminedop.pages.dev
@@ -40366,6 +40369,7 @@ join-dimensionals.com
 join-efinity.org
 join-era.org
 join-eth-promotion.ethereum-giveaway.net
+join-etherfi.com
 join-etherfi.work
 join-floki.xyz
 join-ftm.net
@@ -41437,6 +41441,7 @@ kraken-protocol.com
 kraken-pt-br.com
 kraken-sigin.com.ru
 kraken-sign-ln.com
+kraken-site-darknet1.com
 kraken-staking.com
 kraken-studio.com
 kraken-tf.xyz
@@ -48054,6 +48059,7 @@ mememetaverse.xyz
 mememshivmask.azurewebsites.net
 memenft.com
 memerkombat.org
+memes-kombats.web.app
 memes.wlstreet-sale.cloud
 memes6529.xyz
 memesailors.xyz
@@ -57975,6 +57981,7 @@ mysterybox287.vercel.app
 mysterybox32.vercel.app
 mysterybox75.vercel.app
 mysteryboxnow.vercel.app
+mysteryclaim74.vercel.app
 mysteryclaimsnft.vercel.app
 mysteryclicksclaim1.vercel.app
 mysteryclicksnft.vercel.app
@@ -75989,6 +75996,7 @@ satoshiverse.mint-starts.com
 satoshiverse.truly-minting.com
 satoshivm-app.io
 satoshivm-bonus.com
+satoshivm-finance.com
 satoshivm-launch.network
 satoshivm.cc
 satoshivm.communltiy.com
@@ -85232,6 +85240,7 @@ travel.quickflightbooking.online
 travelflig.com
 travelflightairlines.com
 travelfly-united.com
+travelistik.de
 travelobay.com
 travelpotters.com
 travelskyways.com
