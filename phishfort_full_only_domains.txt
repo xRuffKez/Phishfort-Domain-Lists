@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 03:01:49 UTC 2024
-# Number of Entries: 106157
+# Fetch date: Mon Mar 11 04:02:03 UTC 2024
+# Number of Entries: 106161
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -29079,6 +29079,7 @@ erderes.site
 eregister-supplier.online
 eregister-suppliers.online
 erevoke.cash
+ericaleite.com
 erjewelry.ir
 ernfi.xyz
 erp.pancakeswasap.one
@@ -39368,6 +39369,7 @@ ingresar.aqui.daviplata11.liveblog365.com
 ingresarr.aqui.04.liveblog365.com
 ingreseaquii.webcindario.com
 ingreseeaquii.webcindario.com
+ingresobienvnido.cloud
 ingressa-dvipta.webcindario.com
 inibalunbit.tk
 inicidaaavihn.webcindario.com
@@ -54307,6 +54309,7 @@ myaetherwallet.com
 myaetherwallet.org
 myaetherwellat.com
 myairdrop.net
+myairdrops.org
 myakawallet.com
 myalertsthree-secure-site.com
 myamonero.com
@@ -88319,6 +88322,7 @@ usdtminings.ink
 usdtminings.me
 usdtpos.net
 usdtreward.com
+usdtreward.info
 usdtreward.xyz
 usdtrun.com
 usdtstable.com
