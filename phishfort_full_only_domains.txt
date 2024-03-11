@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 14:01:37 UTC 2024
-# Number of Entries: 106214
+# Fetch date: Mon Mar 11 15:02:49 UTC 2024
+# Number of Entries: 106217
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -15628,6 +15628,7 @@ centenepunchoutsite.sandbox.bamkounified.com
 centeneusa.com
 center-meta-io.com
 center-metamesk.com
+centerjobless.online
 centerr-metame.com
 centerry.com
 centmant.site
@@ -17382,7 +17383,6 @@ claimtether-rewards.rf.gd
 claimthememe.com
 claimtoken.live
 claimtokenauth.com
-claimtokenn.com
 claimton.com
 claimtrumx.xyz
 claimu.xyz
@@ -43220,6 +43220,7 @@ libertyfcualerts.cc
 libertyfcualerts.online
 libertyfcusupp0rts.info
 libertyfinancial.xyz
+libertyfinancials.xyz
 libertyjaxx.live
 libertyssfcu.xyz
 libo.fi
@@ -59944,6 +59945,7 @@ nyolings.shop
 nyolings.wl-spots.com
 nyollings.io
 nyu4n5.piiy.net
+nyurbanonli.com
 nzfbxfel.top
 o-shein.ru
 o-trustpad.com
@@ -89930,6 +89932,7 @@ vwwwmetamas.top
 vwxq9vk.pro
 vxeth.com
 vy-secureus.dns04.com
+vy.starrcooporate.com
 vy.vyss.is-by.us
 vycs.stretfrenh.ddnss.eu
 vyft.steifhar.ezua.com
