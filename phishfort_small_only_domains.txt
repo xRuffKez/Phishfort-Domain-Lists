@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 16:02:19 UTC 2024
+# Fetch date: Mon Mar 11 17:02:20 UTC 2024
 # Number of Entries: 7905
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4056,6 +4056,7 @@ metamaskvalidation.sensoryworks.com
 metamaskwallet.pages.dev
 metamaskweb3.net
 metamaskxtension.github.io
+metamaskz.ink
 metamassk.cc
 metamasx.xyz
 metamcsk.cc
@@ -5945,7 +5946,6 @@ shrap-token.app
 shrapnei-whitelist.com
 shrapneil.com
 shrapnel-2024.com
-shrapnel-whitelist.com
 shrapnel-whitelists.com
 shrapnel.store
 sideshift.art
