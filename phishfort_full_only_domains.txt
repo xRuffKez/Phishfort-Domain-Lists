@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 19:02:20 UTC 2024
-# Number of Entries: 106225
+# Fetch date: Mon Mar 11 20:01:54 UTC 2024
+# Number of Entries: 106226
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -74378,6 +74378,7 @@ rewards-dappradar.com
 rewards-decentraland.org
 rewards-degods.com
 rewards-efinity.xyz
+rewards-emirates.com
 rewards-galagames.com
 rewards-graphtoken.com
 rewards-holders-erc20-tokens.com
