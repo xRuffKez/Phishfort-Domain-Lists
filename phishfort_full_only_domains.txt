@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 04:02:03 UTC 2024
-# Number of Entries: 106161
+# Fetch date: Mon Mar 11 05:01:53 UTC 2024
+# Number of Entries: 106173
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1663,6 +1663,7 @@ aapks.com
 aappgalagames-pagehome.com
 aarb-claim.info
 aarb-reward.xyz
+aark.finance
 aarkdigital.io
 aatranferinc.com
 aavadrop.com
@@ -4331,6 +4332,7 @@ alpackafinance.org
 alpad.tech
 alpakafinance.org
 alpha-bank.me
+alpha-fetch.com
 alpha-gardeners.web3-airdrop.net
 alpha-giveaway.com
 alpha-looksrare.org
@@ -6212,6 +6214,7 @@ app.metamaskio.live
 app.metamaskio.network
 app.moonbeam-web.com
 app.moonbeam.link
+app.moonbeamer-swap.com
 app.moonllet.io
 app.multchain.xyz
 app.multichain.org.tr
@@ -17443,6 +17446,7 @@ clchlegal.com
 clchllp.com
 clchplegalllp.com
 cldinvest.io
+cldss.xyz
 cleaningservicesusa.com
 cleanpainting.us
 clear-error-activation.com
@@ -17539,6 +17543,7 @@ cliffordchance.pro
 cliffordchancecorp.com
 cliffordchancegroup.uk
 cliffordchancegroups.com
+cliffordchancelaw.net
 cliffordchancelawlegal.com
 cliffordchancelawllp.com
 cliffordchancelegal.com
@@ -27731,6 +27736,7 @@ earni.fo
 earni.vip
 earnidrop.io
 earnifinance.xyz
+earningdrop.dev
 earnis.app
 earnnerairdrops.org
 earnpadeairdrops.org
@@ -57965,7 +57971,9 @@ mysterybox-nft.com
 mysterybox.cf
 mysterybox11.vercel.app
 mysterybox28.vercel.app
+mysterybox287.vercel.app
 mysterybox32.vercel.app
+mysterybox75.vercel.app
 mysteryboxnow.vercel.app
 mysteryclaimsnft.vercel.app
 mysteryclicksclaim1.vercel.app
@@ -67674,6 +67682,7 @@ paxos.gift
 paxosapp.com
 paxosbounty.com
 paxosest.com
+paxosestm.com
 paxosgold.net
 paxosgold.org
 paxosgold.us
@@ -69343,6 +69352,7 @@ poirtusjkh.xyz
 poiygon.com
 poiyhedra.net
 pokadots.com
+pokarswaps.space
 pokastarter.live
 pokemon-nft.top
 pokemon-official.xyz
@@ -75079,6 +75089,7 @@ roomfollow.xyz
 roomgrade.org
 roomlab-web3modal.vercel.app
 rooniinnweb.com
+rooninchain.com
 rootprocedure-fix.org
 rootroop.nft-premint.com
 rootroop.webs-mint.com
@@ -81658,6 +81669,7 @@ swalletconnect.com
 swampverse.live
 swampverse.net
 swanbay.dip.vn
+swanchain-register-opennow.vercel.app
 swancrypto.net
 swap-acceses.blogspot.com
 swap-access.online
