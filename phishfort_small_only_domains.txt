@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 11:02:09 UTC 2024
-# Number of Entries: 7910
+# Fetch date: Mon Mar 11 12:02:55 UTC 2024
+# Number of Entries: 7906
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -698,7 +698,6 @@ apyeth.solutions
 apygate.rpctool.net
 ar-ship.eu
 arab-bkplc.com
-arab.reactive-online.com
 arabbplc-ae.com
 arabi.page.link
 arabiconnect.smartradx.com
@@ -760,7 +759,6 @@ arenales-outlet.shop
 arenaloutlets.shop
 arenalsale.shop
 arenalsamplesale.shop
-arihantroofings.com
 arjcontabil.com
 arkhamintelligence.gift
 arkm.air-trastpad.top
@@ -995,6 +993,7 @@ bigestcontests.com
 bikeannex.top
 bilet-emirates.ru
 bill-407etr.com
+bill-tel.com
 bill407etrca.com
 billionalr.com
 bimance-airdop.org
@@ -1833,7 +1832,6 @@ dappradar.qa
 dappradar.so
 dappradar.team
 dappradar.tel
-dappradar.today
 dappradar.vip
 dappradar.works
 dappradardrop.com
@@ -5051,7 +5049,6 @@ pepezhunt.xyz
 pepsi8.com
 pepsicol.com
 pepsicopostmixtraining.com
-pepsicovip.com
 pepsisco.com
 per-empower.com
 perceptiveorbsyscaga.pages.dev
@@ -7706,7 +7703,6 @@ xmas-analos.org
 xmas-bonk.com
 xmas-monkedao.com
 xmas.claims
-xmrwallet.top
 xn--1nch-vpa.io
 xn--arbtrum-tfb.com
 xn--fixedfaot-wpbe.com
