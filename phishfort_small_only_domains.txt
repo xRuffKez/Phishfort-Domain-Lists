@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 02:08:13 UTC 2024
-# Number of Entries: 7873
+# Fetch date: Mon Mar 11 03:02:17 UTC 2024
+# Number of Entries: 7869
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -48,7 +48,6 @@
 1inch.web3connect.mom
 1inchcode.newfinancialmarketworld.com
 1inchcoin.com
-1inchdrop.info
 1inche.top
 1inchfinance.com
 1inchnetwork156.net
@@ -480,7 +479,6 @@ animalia.trading
 animalias.events
 anowplunge.com
 ap-paymentreceipts.com
-ape-coin.club
 ape-pylh.network
 ape.airscointrustpad.top
 apecoin-aidrop-claim.codeanyapp.com
@@ -2276,7 +2274,6 @@ enter-pendle.network
 enter-treasure.trading
 enter-wormhole.network
 enter-zerion.io
-entrancetocryptocurrency.com
 enudeekc.one
 eonexvip.com
 eonian.live
@@ -3398,7 +3395,6 @@ lineaabuild.com
 lineabridge.build
 lineabuiid.com
 lineadapps.xyz
-lineadrop.org
 lineadrop.pages.dev
 linealayerbank.pages.dev
 linear-dapps.top
@@ -7224,7 +7220,6 @@ www.asx-genten.com
 www.asx-gsncq.top
 www.asx-idn.com
 www.asx-panrg.top
-www.asxcions.com
 www.asxidn.com
 www.ator.claimfree.xyz
 www.avito.pay.pancakeswap.reid4deeds.com
@@ -7599,6 +7594,7 @@ www.verify-collab-land.com
 www.verify-collabland.com
 www.verify-collabland.xyz
 www.verify.aits.tech
+www.vip-asx.com
 www.vippaxos.com
 www.vlaunch.org
 www.vopiow.com
