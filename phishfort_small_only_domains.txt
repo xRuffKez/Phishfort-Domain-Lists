@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 12:02:55 UTC 2024
-# Number of Entries: 7906
+# Fetch date: Mon Mar 11 13:02:12 UTC 2024
+# Number of Entries: 7907
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -5775,6 +5775,7 @@ rubic-exchange.life
 rubytechnology360.com
 rukmaidental.com
 rvoke.cash
+rx-nt.duckdns.org
 rz7wjw.info
 s-app-reaktivieren.su
 s-pookyswap.org
