@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 13:02:12 UTC 2024
-# Number of Entries: 7907
+# Fetch date: Mon Mar 11 14:02:10 UTC 2024
+# Number of Entries: 7903
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -678,6 +678,7 @@ appssafe.global
 appsuperform.xyz
 appsuperverse.org
 appsweb-server.pages.dev
+appsweb-server787.pages.dev
 appsyncsmartversal.pro
 apptokenmint.com
 appvirtuals.webcindario.com
@@ -1132,7 +1133,6 @@ bomkxmas.com
 bondexapp.network
 boner-get.netlify.app
 bonk-drop.com
-bonk-ecc.pages.dev
 bonk-premium.web.app
 bonk-token.xyz
 bonk.claims
@@ -1294,7 +1294,6 @@ cdn.cdn.secure.pancakefiance.org
 cdn1conectionspoint2point12mayresultinotthefolw.pixelmon.tech
 cdzhjzx.com
 cealtis.fail
-celastise.io
 celastise.net
 celatis.digital
 celatis.paperhand.fi
@@ -1309,7 +1308,6 @@ cellframenetwork.com
 cellnextelecomservice.com
 cellnextelecomservice.in
 celowallet.finance
-celtis.fi
 celtise.fi
 centralpoultryprocessingscoltd.com
 centralseedandchem.co.nz
@@ -1890,7 +1888,6 @@ dbrsco.net
 dbrsco.org
 dbrsfds.com
 dbrsfxs.com
-dbrsleader.net
 dbrspty.com
 de-fi.events
 deafah.in
@@ -2215,6 +2212,7 @@ eesee.trading
 eform-agoda.com
 efwefwef-6io.pages.dev
 egrowmax.com
+egrtht.pages.dev
 egtokenmigrate.app
 ehajj.ph
 eigenilayer.com
@@ -2378,6 +2376,7 @@ eventxtoken.network
 evercoreassets.com
 evercorecapitalgroup.com
 evercorefinance.com
+evernode-airdrop.com
 everyconnects.com
 evm-monad.xyz
 evm-rectificationhub.onrender.com
@@ -2862,7 +2861,6 @@ hopexchange.top
 hopper-rating.com
 hostilityaristocrat.top
 housexysounds.com
-hoybentle.com
 hpths777inu.org
 hqq0a7e.info
 hr-adp.com
@@ -4318,7 +4316,6 @@ multiplier-manta.network
 multiplier.aitsprotcol.com
 multiswaps.org
 multiverse-us94.onrender.com
-multiversedapp.pages.dev
 multiwalletexplore.on.fleek.co
 multiwalletsystem.web.app
 murphygroupltd.co.uk
@@ -4464,7 +4461,6 @@ newparadigms.manta-networks.org
 newparadiqm-manta.network
 newporkcoin.pages.dev
 newprovisionschainlink.org
-newsupport.alkhaleej.com.sa
 newtradedex.pages.dev
 newtresures-manta.network
 newwhitelistdex.pages.dev
@@ -5150,7 +5146,6 @@ pokarswaps.space
 pol.zcadk.cn
 poligonka-steking.top
 poloniex-assets.com
-poloniex-invitationtrading.com
 poncakeswap.finance
 pond0x.trading
 pond0xtreasury.com
@@ -6463,6 +6458,7 @@ theoportal.com
 thepepe20.com
 thesolmirage.rxi.app
 theta-date.com
+thetabugs.pages.dev
 thisisatest2.com
 thisisatest999.com
 thorchain.xbits.top
