@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 02:07:38 UTC 2024
-# Number of Entries: 106156
+# Fetch date: Mon Mar 11 03:01:49 UTC 2024
+# Number of Entries: 106157
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -101903,6 +101903,7 @@ www.vintage-metherwallet.co
 www.vintage-mietherwallet.co
 www.vintagemyetherwallet.com
 www.vintaqe-myetherwallet.com
+www.vip-asx.com
 www.vippaxos.com
 www.vircomem.ro
 www.vizagvanta.com
