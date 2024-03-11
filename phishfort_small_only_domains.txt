@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 04:02:38 UTC 2024
-# Number of Entries: 7874
+# Fetch date: Mon Mar 11 05:02:27 UTC 2024
+# Number of Entries: 7883
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -131,6 +131,7 @@ a407info.com
 a4doconlinautoreloads.com
 a9714.top
 aa.digger518.top
+aark.finance
 aatranferinc.com
 aave-aave.lt
 aave-finance.net
@@ -397,6 +398,7 @@ allocation-satoshivm.com
 allocation-satoshivm.pages.dev
 alp.local-user.com
 alp.systemupdates.org
+alpha-fetch.com
 alphatrace.pro
 alphatrace.tech
 alphnet.online
@@ -615,6 +617,7 @@ app.formbot.com
 app.kiloex-airdrop.com
 app.kinzaxk-group.com
 app.moonbeam-web.com
+app.moonbeamer-swap.com
 app.pomerdoge.live
 app.raticswap.xyz
 app.refundcoinstake.com
@@ -1442,7 +1445,6 @@ claim.cibzdackz.xyz
 claim.cybzducks.lol
 claim.dydxexchang.com
 claim.dymensionall.club
-claim.foundation-layerzero.xyz
 claim.get-ton.com
 claim.ifizgroup.xyz
 claim.layerzero-foundation.pro
@@ -1496,6 +1498,7 @@ clanostreet.com
 clarkconstruvction.com
 clarkcorstruction.com
 classicsanctuary.com
+cldss.xyz
 clearanceshops.top
 clestia.org
 cliamsolana.c3mongtho.edu.vn
@@ -1510,6 +1513,7 @@ clifford-chance.financial
 clifford-chance.holdings
 clifford-chance.investments
 cliffordchance.pro
+cliffordchancelaw.net
 clintexmigration.tech
 cliqueop.com
 clmjup.xyz
@@ -2184,6 +2188,7 @@ earndroq.net
 earned-linea.com
 earni-fi.net
 earnifinance.xyz
+earningdrop.dev
 earnis.app
 earns-drop.net
 earns-drop.org
@@ -4350,7 +4355,9 @@ mystery-trust.net
 mystery.3webx.cc
 mysterybox11.vercel.app
 mysterybox28.vercel.app
+mysterybox287.vercel.app
 mysterybox32.vercel.app
+mysterybox75.vercel.app
 mysteryboxnow.vercel.app
 mysteryclaimsnft.vercel.app
 mysteryclicksclaim1.vercel.app
@@ -4963,6 +4970,7 @@ paxos-token.org
 paxos-trades.com
 paxos-zendesk.com
 paxos.gift
+paxosestm.com
 paxosiys.com
 paxoskop.com
 paxosogt.com
@@ -5121,6 +5129,7 @@ pocloudcentral.crm.powerobjects.net
 pointosleek.com
 poiygon.com
 poiyhedra.net
+pokarswaps.space
 pol.zcadk.cn
 poligonka-steking.top
 poloniex-assets.com
@@ -5723,6 +5732,7 @@ ronlnchaiin.top
 ronninwallet.godaddysites.com
 roomfollow.xyz
 roomgrade.org
+rooninchain.com
 rosefashion.com.bd
 round2-wenwencoin.com
 route.claims
@@ -6072,7 +6082,6 @@ solmigrate.com
 solsea.dev
 soltrading-bots.web.app
 solutiondesk.live
-solve-trust.pages.dev
 solwl-saga.web.app
 sonae.sale
 sonikchain.pages.dev
@@ -6291,6 +6300,7 @@ sushiswap-sushi.app
 sushiswap.lt
 sushlswap.github.io
 sw-syncswap.com
+swanchain-register-opennow.vercel.app
 swancrypto.net
 swap-defilama.com
 swap-nft.pages.dev
@@ -6390,7 +6400,6 @@ tensor-samurai.io
 tensor.credit
 tensorians.site
 tensorsamurai.space
-term.hedgeinvest.net
 terra-airdrop.onrender.com
 terra-claim.xyz
 terra-v2.re
