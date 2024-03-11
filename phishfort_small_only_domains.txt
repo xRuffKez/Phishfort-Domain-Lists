@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 01:23:04 UTC 2024
-# Number of Entries: 7872
+# Fetch date: Mon Mar 11 02:08:13 UTC 2024
+# Number of Entries: 7873
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2960,6 +2960,7 @@ injektive.mom
 inkonbtc.app
 inmsgdetorg.in
 instadapp.app
+instant-bravet.info
 instant-stake.com
 insure-defi.org.cogwise-app.com
 integratebitchainfix.pages.dev
