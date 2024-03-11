@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 20:01:54 UTC 2024
-# Number of Entries: 106226
+# Fetch date: Mon Mar 11 21:01:28 UTC 2024
+# Number of Entries: 106229
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -20772,6 +20772,7 @@ corporate-paxful.com
 corporate.1ad57c82849f8d3f9adfade422e59be0.authorize-paxful.com
 corporate.dashboard-paxful.com
 corporativojohnson.com
+corporativolear.com
 correct.zealtm.group
 correctbot.com
 correction-network.live
@@ -68306,6 +68307,7 @@ perurest.com
 perurhealth.com
 peryourhealth.be
 peryourhealth.blog
+peryourhealth.us
 pescadosdaftx.blogspot.com
 petaversenetwork.cloud
 petchicletepetshop.com.br
@@ -81887,6 +81889,7 @@ sweepwidget.comflxeadfloat.com
 sweet-zuccutto-855aba.netlify.app
 sweetooth.wl-now.com
 sweetppie.info
+sweetwater.fun
 sweetwatermusic.shop
 sweetyswap.online
 swensonwallet-protocol.boobiesandbabies.com
