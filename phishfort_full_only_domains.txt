@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 12:02:14 UTC 2024
-# Number of Entries: 106210
+# Fetch date: Mon Mar 11 13:01:39 UTC 2024
+# Number of Entries: 106211
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -75429,6 +75429,7 @@ rworld-p2e.com
 rworldp2e.com
 rwvconstruction.com
 rwvoke.cash
+rx-nt.duckdns.org
 rxcran-promogive.com
 rxdappsmainnet.online
 ry.elegiac.site
