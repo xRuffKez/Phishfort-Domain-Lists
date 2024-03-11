@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 17:02:20 UTC 2024
-# Number of Entries: 7905
+# Fetch date: Mon Mar 11 18:02:39 UTC 2024
+# Number of Entries: 7906
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -701,7 +701,6 @@ ar-ship.eu
 arab-bkplc.com
 arabbplc-ae.com
 arabi.page.link
-arabiconnect.smartradx.com
 aramex-delivery.me
 aramexame.com
 aramexservicevktb.world
@@ -1700,7 +1699,6 @@ convexfinance.io
 coqinu.app
 cornerdrop.org
 corporativojohnson.com
-corporativolear.com
 cosmipets.xyz
 coti.xcoindrop.top
 counseloreloft.com
@@ -4051,6 +4049,7 @@ metamasktokens.com
 metamasktokens.io
 metamaskusan.azurewebsites.net
 metamaskv.net
+metamaskv.org
 metamaskv2.pages.dev
 metamaskvalidation.sensoryworks.com
 metamaskwallet.pages.dev
@@ -4268,6 +4267,7 @@ moonwel.finance
 morlton.net
 moshcuoss.com
 mot-qatargov.net
+motion-iind.com
 motion-industries.co
 motion-industries.info
 motion-lndustries.com
@@ -4736,6 +4736,7 @@ oraclegarden.network
 oraidex.online
 oravblox.com
 orbexpro.com
+orbiter.financial
 orchai.live
 ordbridge.app
 ordiswapfi.pro
@@ -5061,7 +5062,6 @@ personajourney.trading
 perurhealth.com
 peryourhealth.be
 peryourhealth.blog
-peryourhealth.org
 petsversegames.sale
 petsversegames.site
 pewall.live
@@ -5678,7 +5678,6 @@ reward.shib-memu.com
 rewardclaimable.glitch.me
 rewarding-strk.network
 rewarding-zks.pics
-rewardpaalai.net
 rewardpancakeswap.finance
 rewards-circle.com
 rewards-dappradar.com
@@ -6361,6 +6360,7 @@ syncpool.xyz
 syncprotocols.pagen.dev
 syncsactivate.firebaseapp.com
 syncsactivate.web.app
+syncsdapp.com
 syncshot.pages.dev
 syncsolutions.pages.dev
 syncsolve-inchpd.com
@@ -6843,6 +6843,7 @@ versity-token.finance
 vertexprotocol.events
 vertexprotocol.top
 vertiv.dns.cz
+vertiv.jifang365.com
 vesting-port3.io
 vfipaxos.org
 vhvhgv.pages.dev
