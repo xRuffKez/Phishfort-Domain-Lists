@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 03:02:17 UTC 2024
-# Number of Entries: 7869
+# Fetch date: Mon Mar 11 04:02:38 UTC 2024
+# Number of Entries: 7874
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2287,6 +2287,7 @@ equinor-ind.net
 era-zskync.net
 eransdrop.eu
 erc-wintermute.org
+ericaleite.com
 ernfi.xyz
 errorsync.pages.dev
 erydgred.umb.market
@@ -2940,6 +2941,7 @@ ingb.online
 inggroupe1logen.blogspot.com
 ingonlineb.com
 ingres-ficohs-ahora.netlify.app
+ingresobienvnido.cloud
 inj-space.com
 injective-network-en.web.app
 injective-networks.web.app
@@ -4315,6 +4317,7 @@ my-listings-95571.net
 my-listings-97781.net
 my-swap.xyz
 my.templ.cc
+myairdrops.org
 mycastcrewssaw.com
 myedds.com
 myether.exchange
@@ -5112,6 +5115,7 @@ plnksale.financial
 plxels.xyz
 pmjvggq.icu
 pmthakkarassociates.com
+pncakeswap.com
 pntom-wallet.github.io
 pocloudcentral.crm.powerobjects.net
 pointosleek.com
@@ -6728,6 +6732,7 @@ usdt.is
 usdt.wine
 usdtairdrop.com
 usdtclaims.co
+usdtreward.info
 usdtuab.com
 usemexus.org
 ushark-portal.com
