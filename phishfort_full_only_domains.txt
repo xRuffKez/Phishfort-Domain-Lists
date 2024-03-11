@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 13:01:39 UTC 2024
-# Number of Entries: 106211
+# Fetch date: Mon Mar 11 14:01:37 UTC 2024
+# Number of Entries: 106214
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6831,6 +6831,7 @@ appsw2.com
 appswalletconnects.com
 appswapsushie.net
 appsweb-server.pages.dev
+appsweb-server787.pages.dev
 appsweb-servers.online
 appswiftauth.site
 appsynapsebridge.com
@@ -28048,6 +28049,7 @@ eglencesine.site
 eglenceyegel.site
 egroterra.tech
 egrowmax.com
+egrtht.pages.dev
 egtokenmigrate.app
 eguzkilorelogistic.com
 egyptsky.net
@@ -31472,6 +31474,7 @@ everex.cash.events-erc-20.com
 everfin.co
 evergreentoken-promogive.com
 evermoonhold.com
+evernode-airdrop.com
 everrise.token-defi-airdrop.com
 everrisehome.com
 everscale-ecosystem.com
@@ -58737,7 +58740,6 @@ newsmetamesk.com
 newsmetamesks.com
 newsouthwire.com
 newspecialsoffers.online
-newsupport.alkhaleej.com.sa
 newsystemresolve.live
 newtesla2023.io
 newtherewallet.com
@@ -84004,6 +84006,7 @@ thesushiswaps.com
 theswiftsyncs.com
 thesynchronizer.live
 theta-date.com
+thetabugs.pages.dev
 thetalib.com
 thetamainnet.site
 thetamainnetaccess.org
