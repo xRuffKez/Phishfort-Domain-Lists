@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 07:01:50 UTC 2024
-# Number of Entries: 106189
+# Fetch date: Mon Mar 11 08:02:06 UTC 2024
+# Number of Entries: 106206
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4966,6 +4966,7 @@ apecoin-labs.com
 apecoin-live.xyz
 apecoin-llc.com
 apecoin-mdvmn.com
+apecoin-pass.com
 apecoin-privacy.com
 apecoin-rewards.link
 apecoin-terms.com
@@ -5825,6 +5826,7 @@ app-sysmainnet.com
 app-tectonic.space
 app-tectonic.store
 app-tectonic.website
+app-thruster.finance
 app-tokenlon.com
 app-tokenpanackeswap.com
 app-tomb.com
@@ -19642,6 +19644,7 @@ colleb-verify.xyz
 collebland.app
 collect-adidas.shop
 collect-adidas.store
+collect-blast.com
 collect-chain.link
 collect-eth.com
 collect-ethaway.com
@@ -34395,6 +34398,7 @@ fudnft.site
 fudsolana.org
 fuel-network.net
 fuelinjectorservices.com.au
+fuelnetwork-register.vercel.app
 fujimitsudynamic.com
 fujinfts.com
 fuktlamp.site
@@ -35460,6 +35464,7 @@ getfreebitcoin.network
 getfreeethhh.blogspot.com
 getgift.tech
 getgrass-check.com
+getgrass-collect.com
 geth-ethereum.org
 geth.claims
 gethealer.com
@@ -38823,7 +38828,9 @@ illogicsnft.live
 illuiumx.com
 illuminati.win-mint.com
 illuvidexilluvium.com
+illuvium-community.com
 illuvium-community.sbs
+illuvium-connect.com
 illuvium-mint-beta.online
 illuvium-nft.store
 illuvium-openbeta.com
@@ -43317,6 +43324,7 @@ lidoaward.com
 lidoawards.com
 lidoclaimeth.web.app
 lidoclaimnow.web.app
+lidocrypto.fi
 lidodefi.app
 lidodefi.org
 lidodex.net
@@ -43544,6 +43552,7 @@ link-drop.net
 link-eligible.com
 link-junonetworkvalidate.live
 link-medium.top
+link-networks.net
 link-paxful.info
 link-portal.app
 link-protocol.com
@@ -45361,6 +45370,7 @@ loot-realms.xyz
 loot.nft-premint.com
 lootbox-hytopia.com
 lootit.fun
+lootynetwork.org
 loouksrare.com
 loouksrares.com
 loouksrares.net
@@ -57982,6 +57992,7 @@ mysterybox28.vercel.app
 mysterybox287.vercel.app
 mysterybox32.vercel.app
 mysterybox75.vercel.app
+mysterybox882.vercel.app
 mysteryboxnow.vercel.app
 mysteryclaim74.vercel.app
 mysteryclaimsnft.vercel.app
@@ -59204,6 +59215,7 @@ nibiruairdrops.life
 nibirudrop.top
 nibiruprojectdrop.xyz
 nibiry-app.top
+niburufi-registers-verify.vercel.app
 niceihash.com
 nicelhash.com
 nicenhash.space
@@ -67942,6 +67954,7 @@ pencsvrep.com
 pencsvup.com
 pendiefinance.com
 pendle-air.com
+pendle-flnance.net
 pendle-rewards.finance
 pendle.claims
 pendle.farm
@@ -69188,6 +69201,7 @@ play.zkacin.org
 playafar.giveaway-mint.com
 playboyrabbitars-mint.art
 playboysofficial.xyz
+playbux.info
 playbuxdrop.xyz
 playcrystal.io
 playdaysaustralia.com.au
@@ -72034,6 +72048,7 @@ puxful.org
 puyntemxolate.godaddysites.com
 pvhantumwolate.godaddysites.com
 pvnhuamwoulate.godaddysites.com
+pvth-network.com
 pwalletconnect.com
 pwanthmkovt.godaddysites.com
 pwanthunmolaate.godaddysites.com
@@ -80316,6 +80331,7 @@ starkdex.net
 starkdistribution.net
 starkdrop.online
 starkenet.space
+starkexka.com
 starkflghter.pro
 starkgate-alpha.com
 starkgate-bridge.com
@@ -94637,6 +94653,7 @@ workonminworld.com
 workpaxfus.com
 worksagoda.com
 world-adidos.com
+world-blast.com
 world-circleone.com
 world-coih.com
 world-coin.pro
