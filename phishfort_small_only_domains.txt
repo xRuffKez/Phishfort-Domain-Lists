@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 13:02:05 UTC 2024
-# Number of Entries: 7980
+# Fetch date: Tue Mar 12 14:02:09 UTC 2024
+# Number of Entries: 7977
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4795,7 +4795,6 @@ osmosis-zone.mom
 otcsea.app
 otsea.gift
 outildecisionregimederetraitesunchemical.ca
-ovuncguclu54919.adwl.best
 oxleverage.xyz
 oz-repcacoin.ru
 ozon-giv.officialpage2024.shop
@@ -4978,7 +4977,6 @@ paperholders-net.web.app
 paperholders-networks.web.app
 paperholding-ethereum.web.app
 paperrhands.com
-papetokens.com
 papetokenss.com
 para.xcoindrop.top
 paradigm-manta.network
@@ -7452,7 +7450,6 @@ www.help.issueresolve.org
 www.holdblur.foundation
 www.iayerzero-claim.net
 www.ibkrixs.vip
-www.ibkrusp.vip
 www.idcapps.life
 www.idexs.vip
 www.ifdgl.com
