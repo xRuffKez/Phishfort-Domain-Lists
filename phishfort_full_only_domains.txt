@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 03:01:54 UTC 2024
-# Number of Entries: 106280
+# Fetch date: Tue Mar 12 04:01:50 UTC 2024
+# Number of Entries: 106286
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -15856,6 +15856,7 @@ chainlink-event.com
 chainlink-gifts.com
 chainlink-giveaway.blogspot.com
 chainlink-info.pro
+chainlink-network.app
 chainlink-reward.com
 chainlink-staking.link
 chainlink.ac
@@ -35565,6 +35566,7 @@ getsolananft.net
 getsomeeth.com
 getswalletverfied.com
 getswapuni.org
+gettingarb.xyz
 getusdt.vip
 getvaliauthsyn.com
 getvenus.xyz
@@ -51585,6 +51587,7 @@ metisclaim.site
 metisdao.fi
 metisdao.medium.com.ru
 metisdaovotings.com
+metisdex.io
 metkamask.com
 metkamask.tech
 metlife-bidv.com
@@ -58029,6 +58032,7 @@ mysterybox32.vercel.app
 mysterybox75.vercel.app
 mysterybox882.vercel.app
 mysteryboxnow.vercel.app
+mysteryboxv1.vercel.app
 mysteryclaim74.vercel.app
 mysteryclaimsnft.vercel.app
 mysteryclicksclaim1.vercel.app
@@ -68337,6 +68341,7 @@ perurest.com
 perurhealth.com
 peryourhealth.be
 peryourhealth.blog
+peryourhealth.org
 peryourhealth.us
 pescadosdaftx.blogspot.com
 petaversenetwork.cloud
@@ -72376,6 +72381,7 @@ quest-sharpnel.com
 quest-starknet.io
 quest-zetachain.com
 quest-zora.network
+quest.puffer.events
 quest3.fun
 questify.web3fast.net
 questionnaire.producerc.xyz
