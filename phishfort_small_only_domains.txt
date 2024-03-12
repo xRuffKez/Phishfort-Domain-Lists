@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 19:02:04 UTC 2024
-# Number of Entries: 7965
+# Fetch date: Tue Mar 12 20:02:12 UTC 2024
+# Number of Entries: 7939
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1127,7 +1127,6 @@ blurprotocol.us
 blust.io
 blz-group.com
 blzt-community.com
-blzt-group.xyz
 bnbair.org
 bnbchain.coinsdraw.io
 bnbgift.org
@@ -1502,7 +1501,6 @@ claims-usdt.org
 claims.mantatokens.com
 claimsmart-layer.net
 claimsmemekombat.air-drop.dev
-claimstargate.com
 claimstrk.fun
 claimstrk.today
 claimstrk.xyz
@@ -1655,7 +1653,6 @@ community-cryptos.org
 community-dappradar.com
 community-saga.xyz
 community-sol.xyz
-communitypudgypenguins.com
 compound-labs.xyz
 compoundtrades.net
 con-wall-3web.pages.dev
@@ -1857,7 +1854,6 @@ dapps.toolsynchr.online
 dappsapi.pages.dev
 dappscoinstats.pages.dev
 dappsconnectapp.pages.dev
-dappsconnects.vercel.app
 dappscorrections.pages.dev
 dappsdropclaim.com
 dappsfixerweb.42web.io
@@ -1948,7 +1944,6 @@ defi-altlayer.com
 defi-altlayer.pages.dev
 defi-binances.cc
 defi-dymension.pages.dev
-defi-eth.store
 defi-finance.web.app
 defi-id.app
 defi-manta.pages.dev
@@ -2585,6 +2580,7 @@ freesync.pages.dev
 freshairdrop-website.live
 freshkingcrabs.com
 from-agoda.site.pro
+fsafeds.sa.com
 ftp.raydiums.motorcycles
 ftp.tiktide.com
 ftx-e49.pages.dev
@@ -2750,6 +2746,7 @@ gmfinancialcareers.com
 gmfinancialjobs.com
 gmn.dvrcam.info
 gmpnol.info
+gmvendorbillinginterest.com
 gmws.eu
 gmxx.org
 gnosis.gift
@@ -2902,7 +2899,6 @@ hyperspace-pythrewards.app
 hyperspace-pythrewards.net
 hyperspace-pythrewards.org
 hypnoticbrass.net
-hytopia-claim.com
 i6jkg.cc
 ia-genetec.plantarfasciitisdoctorstlouis.com
 iavhru.cc
@@ -3338,15 +3334,11 @@ layernetwork.ink
 layerszero.pics
 layerxpub-rectification.pages.dev
 layerzero-ad.com
-layerzero-finance.space
 layerzero-superverse.com
-layerzero.web.app
 layerzeroclaims.xyz
-layerzerolab.pro
 layerzeronetworks.org
 layerzeroscan.vercel.app
 layerzerotiime.shop
-layerzeroweb.com
 layler3.xyz
 layorzeronetwork.com
 layrocvisions.com
@@ -3369,7 +3361,6 @@ ledger-live-ledger.org
 ledger-start.cc
 ledger-start.info
 ledger-wallet-ledger.net
-ledger.quilodge.com
 ledgerhnet.gotdns.ch
 ledgerlive-app.online
 ledgers.support
@@ -3904,7 +3895,6 @@ me.fareflow.xyz
 me.truefair.xyz
 me9.us
 meatmesk.com
-mediapudgypenguins.com
 medidata-mobile.com
 mee6-connect.xyz
 mee6appeals.xyz
@@ -4214,7 +4204,6 @@ mint-nft.co
 mint-satoshivm.io
 mint-usdc.web.app
 mint-xai.com
-mint.aperun.run
 mint.bitienatz.lol
 mint.bitzclub.com
 mint.blaszt-group.cc
@@ -4435,7 +4424,6 @@ nakamigos-cloaks.art
 namadachain.app
 namairdrop.xyz
 nanogatesphere.info
-nansenportfolio.live
 napaauto.shop
 napaautoparts.store
 nationaltrust-org.uk
@@ -4529,7 +4517,6 @@ nft-opense.vercel.app
 nft-opensea0.vercel.app
 nft-openseas.vercel.app
 nft-openseaz.vercel.app
-nft-openseazone.vercel.app
 nft-opesea.vercel.app
 nft-projects-sand.vercel.app
 nft-reward.pages.dev
@@ -4556,7 +4543,6 @@ nftdropgems.online
 nftkey.web3app.space
 nftlink.vercel.app
 nftmantanetwork.com
-nftopensea-proj.vercel.app
 nftopenseaclaim.vercel.app
 nftopenseas.vercel.app
 nftprojects-claim.vercel.app
@@ -4720,7 +4706,6 @@ opensea-exclu.com
 opensea-io.pages.dev
 opensea-listings.com
 opensea-minting.com
-opensea-nftsnow.vercel.app
 opensea-proclaim.vercel.app
 opensea-pronfts.vercel.app
 opensea-xmasbox.com
@@ -4732,7 +4717,6 @@ openseanft.one
 openseap1.vercel.app
 openseapo.vercel.app
 openseapr-claim-rose.vercel.app
-openseapro-claims.vercel.app
 openseapro-clickc.vercel.app
 openseapro3claim.vercel.app
 openseapro55.vercel.app
@@ -5047,7 +5031,6 @@ pcyiocity.com
 pcylccity.com
 pcylocity.com
 pcyloclty.com
-pdugyworld.com
 pea.zxco.cc
 peapodsfinance.app
 peapodsfinanceweb.com
@@ -5563,7 +5546,6 @@ reg-woo.org
 regdioneprotocol.com
 registarzuki.com
 register-dop.com
-register-layerzero-events.com
 register-lineabuild.com
 register-metis.io
 register-optimism.org
@@ -5579,7 +5561,6 @@ register-starknet-io.com
 register-syncus.com
 register-traderjoexyz.com
 register-wenwencoin.com
-register-worldcoin.com
 register-yuliverse.app
 register-zksync.net
 registration-ator.com
@@ -5598,7 +5579,6 @@ registration-linea.com
 registration-manta.network
 registration-mixmob.io
 registration-pixels.xyz
-registration-stark.com
 registration-superverse.com
 registration-wehavenohandle.com
 registration-zero.network
@@ -6027,7 +6007,6 @@ signup-openfabric.com
 signup-orderly.network
 signup-portal.com
 signup-portalcoin.com
-signup-pudgyspenguins.com
 signup-rabbit.com
 signup-shido.io
 signup-starheroes.com
@@ -6052,7 +6031,6 @@ simplepairingapp.com
 simpletestmultiversechainx.eu
 simplife.life
 simpsoncoin.org
-sinbad.vip
 singularitydao.app
 siteai.site
 sitemap.newpardigm-manta.network
@@ -6620,7 +6598,6 @@ tornado.foundation
 tornadocash.vn
 tornova.cash
 totalwine-sale.shop
-tournament-pudgypenguins.com
 touzhai.cn
 track-web3.online
 tracking.airtm20.com
@@ -7012,7 +6989,6 @@ wap.js-xlh.com
 wap.kinetu.com.cn
 wap.uu-whatsapp.com
 waprcast.com
-wasabimixer.com
 washingtonposts.info
 waves-opensea.com
 wbtc-portal.com
@@ -7190,7 +7166,6 @@ whitelistings-wormhole.com
 whitelistrabby.pages.dev
 whitelists-redstone.com
 whitelists-roninchain.com
-whsir.io
 wigggin.com
 wild.gift
 windowsbackuprecovery.com
@@ -7219,8 +7194,6 @@ world-circleone.com
 world-manta-network.com
 worldbusinessexpert.com
 worldcoin-airdrop.net
-worldcoin-event.org
-worldcoin-events.org
 worldcoin-token.org
 worldfruitforest.world
 worldgeowayw.world
@@ -7398,6 +7371,7 @@ www.ethrmarketplace.com
 www.event-metis.io
 www.event-xai.games
 www.evm-monad.xyz
+www.evoypremium.com.br
 www.faq-legal.com
 www.fastmining.pro
 www.fegtokenmigrate.com
