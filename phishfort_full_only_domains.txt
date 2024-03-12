@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 15:01:33 UTC 2024
-# Number of Entries: 106324
+# Fetch date: Tue Mar 12 16:02:24 UTC 2024
+# Number of Entries: 106326
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -39757,6 +39757,7 @@ intotheblue-manta.net
 intothebluemanta.net
 intothebluemanta.org
 intothebluemanta.xyz
+intraconline-instantly.live
 intractlinea.io
 intral-node.pages.dev
 intranet.ipuncakeswap.org
@@ -60148,6 +60149,7 @@ oexchain.io
 ofdfgfucjgtuq2t.shared-www.mx2.pancakeswape.finance
 oferonrain.web.app
 ofertachevro.com
+ofertaschev.com
 off5th.saksoff5thz.com
 off5th.shop
 off5thsale.shop
