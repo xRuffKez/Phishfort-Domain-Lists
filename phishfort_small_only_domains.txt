@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 05:03:01 UTC 2024
-# Number of Entries: 7943
+# Fetch date: Tue Mar 12 06:02:48 UTC 2024
+# Number of Entries: 7944
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -822,6 +822,7 @@ aura-migration.live
 auroravortex.org
 auth-gala.games
 auth-galagames-io.com
+auth-games-galas.online
 auth.meta-syncs.com
 auth.redapps.icu
 auth.staing.ramper.xyz
@@ -1710,6 +1711,7 @@ cow-swap.app
 cow-swap.org
 cow.trading
 cowitechnical.com
+cowswap.app
 cozartweb.com
 cozymeta.com
 cpcalendars.imap.api.mail.pancakeswaps.org
@@ -2940,6 +2942,7 @@ impactivecreator.com
 import-meta.io
 impostorsland.xyz
 imsvf.cc
+imtoken-qw.pro
 imx.airdrop.cfd
 imxcoin.eu
 in.scrll-club.cc
@@ -6417,7 +6420,6 @@ t528.com
 t5nv5.cc
 tabsync.pages.dev
 tahodistribution.com
-taichinhbidv.online
 taifalemarat.company.site
 taiko.io-c.org
 taiko.org-t.co
@@ -6580,7 +6582,6 @@ tokensairdrops.com
 tokensfree2024.com
 tokensight.vip
 toll.a407info.com
-tollgroup.com.karaokemaine.com
 tolls-407express.com
 tomandgerimail.com
 tombmigration.com
