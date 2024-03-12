@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 00:04:58 UTC 2024
-# Number of Entries: 106242
+# Fetch date: Tue Mar 12 01:21:22 UTC 2024
+# Number of Entries: 106261
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2896,6 +2896,7 @@ aethergaming.store
 aethpromogive.com
 aeve-app.com
 aeve.top
+aevoxyz.live
 aexiyinfity.com
 aexpertlover.com
 af-coinbase.com
@@ -8047,6 +8048,7 @@ asxinfinity.org
 asxinfinitypromo.com
 asxmagicformula.com
 asxportal.com.au
+asxstockexchange.com
 asxtermrtg.top
 asxtermtradings.com
 asxtoday.com
@@ -11080,6 +11082,7 @@ biconomy-promogive.com
 biconomy.web3fast.net
 bicswap.top
 bid-emirateflightcatering.com
+bid-offer.org
 bidentoken-promogive.com
 bidfoul.cn
 bidv.top
@@ -13955,6 +13958,7 @@ bovexchange.com
 bowdao.net
 box-manta.network
 box-nftlive.com
+box-nftmint.web.app
 box-rewards.com
 box.live-web3.net
 boxcatplanet.live
@@ -14938,6 +14942,7 @@ buy-paxful.com
 buy-tamadoge.live
 buy.btcetf.network
 buy.pomerdoge.live
+buy.scottyai.org
 buy1bigeyes.space
 buy1inch.org
 buy1s-bigeyes.com
@@ -15217,6 +15222,7 @@ cancel-txid-1bcgtqqythbkp2-wallet.com
 cancel-txid-1bcgtqqythbkp2f-wallet.com
 cancel286138-binance-com.web.app
 cancelar-ahora.webcindario.com
+cancelar5-cambio.webcindario.com
 cancelpymt07meritrust.site
 canceltrade.click
 cancelyourtrade.click
@@ -26843,6 +26849,7 @@ dogpadfinance.com
 dogrukazanc.site
 dogruyer.store
 dogsofelon-promogive.com
+dogswapdex.netlify.app
 dogwifbox.vip
 dogwifcoin.live
 dogwifcoin.trading
@@ -35639,6 +35646,7 @@ gift-lumens-stellar.org
 gift-pond0x.com
 gift-porkcoin.com
 gift-promo.wz.cz
+gift-puffer.com
 gift-today.website
 gift-token-events.mywebcommunity.org
 gift-wallet-stellar.org
@@ -44766,6 +44774,7 @@ loggsin_maskemeetha.godaddysites.com
 loghost.pancakesvqp.com
 loghouses-woodcraft.com
 logicnetwork.tech
+login--blockgames.com
 login-3commas.com
 login-account.app
 login-agoda.com
@@ -58988,6 +58997,7 @@ nftclaim.live
 nftclaim.net
 nftclaim.org
 nftclaimclick.vercel.app
+nftclaimopen3.vercel.app
 nftclaimsopen.vercel.app
 nftcloudshop.com
 nftcollab.land
@@ -62047,6 +62057,7 @@ org-protocol-airdrop.com
 org-site-v3-defi.pro
 org-swap-pool.site
 org-ubeswaps.com
+orgnlt.me
 ori-colection.net
 ori-curated.art
 orientarias.za.com
@@ -72513,6 +72524,7 @@ raariiblee.com
 rabbit.claims
 rabby-points.xyz
 rabby-support.pages.dev
+rabby.ai
 rabbyn0de.pages.dev
 rabbypoints.com
 rabiant.capital
@@ -73074,6 +73086,7 @@ rdr1.freethadrop.com
 rdrblock.com
 rdrtg.com
 rdx.vercel.app
+rdxshoes.click
 re-authenticate-walletbot.com
 re-nekdo.men
 re-synchronized.com
@@ -73144,6 +73157,7 @@ reauthenticator.online
 reauthenticator.tech
 reauthwallet.com
 rebase.web3fast.net
+rebby.io
 rebeccasokol.com
 rebelbofs.com
 rebelbots.cyou
@@ -74195,6 +74209,7 @@ revokecashhofficial.com
 revokecashn.com
 revokecashofficial.com
 revokecashsafe.xyz
+revokecashv2.com
 revokecashv2.xyz
 revokecesh.online
 revokechain.com
@@ -75546,6 +75561,7 @@ s7w0ymu.top
 s8fpy.hldszhg.com
 sa-petrorabigh.com
 saacoin.com
+saaksoff5th.com
 saas.globalsyncwallet.top
 saas.pancakeswasap.one
 sabacwarrior-promogive.com
@@ -75583,6 +75599,7 @@ safe-metamask.com
 safe-mint.sbs
 safe-mm.xyz
 safe-nfts-io.safe-swap.exchange
+safe-nodebrigde.online
 safe-panel.com
 safe-paxful.com
 safe-protocol.com
@@ -75836,8 +75853,8 @@ saksoff5th-online.shop
 saksoff5th-store.shop
 saksoff5th-stores.shop
 saksoff5th-us.shop
+saksoff5th.love
 saksoff5th.online
-saksoff5th.store
 saksoff5th.vip
 saksoff5thboool.top
 saksoff5thdeals.com
@@ -76180,6 +76197,7 @@ scopebtc.com
 scoreencrypt.com
 scorencrypt.com
 scorpion-casino.shop
+scottytheai-en.web.app
 scottyystheai.xyz
 scotyttheai.pro
 scovcadi.tk
@@ -93520,6 +93538,7 @@ web3-roninwallet.com
 web3-rpc-fix.online
 web3-shibainu.com
 web3-shibainu.net
+web3-solflare.com
 web3-support.com
 web3-syntaxx.com
 web3-traffic.xyz
