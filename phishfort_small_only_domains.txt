@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 01:21:57 UTC 2024
-# Number of Entries: 7918
+# Fetch date: Tue Mar 12 02:07:01 UTC 2024
+# Number of Entries: 7935
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -722,6 +722,7 @@ arbination.site
 arbinucoin.vercel.app
 arbitrrum-bridge.com
 arbitrum-air.icu
+arbitrum-reward.xyz
 arbitrum-submit.com
 arbitrum-survey.co
 arbitrum-survey.net
@@ -820,6 +821,7 @@ aura-finance.news
 aura-migration.live
 auroravortex.org
 auth-gala.games
+auth-galagames-io.com
 auth.meta-syncs.com
 auth.redapps.icu
 auth.staing.ramper.xyz
@@ -1074,8 +1076,10 @@ blast-newsletter.com
 blast-stage.icu
 blast.dropapp.pro
 blast.eventairdrop.com
+blastambient.finance
 blastcoi.com
 blastdrop.store
+blastdrop.world
 blasterscore.io
 blastingv2.com
 blastio.group
@@ -1382,6 +1386,7 @@ claim-argent.xyz
 claim-artlayers.vercel.app
 claim-blast-io.com
 claim-blastgg.xlaunch-pad.xyz
+claim-block.com
 claim-bob.me
 claim-bonk-h7xzf.netlify.app
 claim-bonk.cfd
@@ -1903,6 +1908,7 @@ debug-multichain.pages.dev
 debugdecentralize.pages.dev
 debugdeconnec.pages.dev
 decentracoreton.pages.dev
+decentralands.vip
 decentralize-metis.app
 decentralize.metis.wb3s.xyz
 decentralize.metis.wb3u.xyz
@@ -2035,6 +2041,7 @@ discord-support.info
 discord.connectkava.one
 discord.kava-api.live
 discord.kava-api.one
+discord.kavaguard.link
 discord.kavaguard.one
 discord.kavaguard.top
 discord.kavanet.live
@@ -3051,6 +3058,7 @@ jkyr.pro
 joblessassistanceportal.net
 join-aofverse.com
 join-befilabs.com
+join-blockgames.com
 join-blockgames.xyz
 join-collabland-sync.net
 join-etherfi.com
@@ -3346,13 +3354,13 @@ ledger-wallet-ledger.net
 ledger.quilodge.com
 ledgerhnet.gotdns.ch
 ledgerlive-app.online
+ledgers.support
 ledsgerwallet.com
 legder-live.app-web3.com.co
 legder.live-app.com.co
 legendemill.com
 legooogl.xyz
 lenanet.work
-lending-tree-9f14d.web.app
 lending-tree-month-1-d12f2.web.app
 lendingtree.website
 lendingtreeincusa.com
@@ -3420,6 +3428,7 @@ link-portal.app
 link-vulcan.xyz
 link.gatekava.xyz
 link.kava-api.live
+link.kavaguard.support
 link.kavaprotect.com
 link.kavashield.help
 link.kavashield.icu
@@ -3566,6 +3575,7 @@ mail.lendingtree.website
 mail.magpiexyz.live
 mail.maverickdao.net
 mail.panckswap.com
+mail.pepegift.lol
 mail.revokewallets.cash
 mail.swapsnet.com
 mail046.mlsend.com
@@ -3864,6 +3874,7 @@ mavia.website
 mavia.work
 maviagames.network
 maviagames.xyz
+maviiaa.com
 maylucenaa.com
 mcf.promo
 mdexcloudapp.xyz
@@ -4717,6 +4728,7 @@ opnsreapro.vercel.app
 ops-drop.live
 opsecai-claim.com
 opsecc.software
+opsecloud.com
 optic-bridge.com
 optics-bridge.xyz
 optimism-events.com
@@ -5258,6 +5270,7 @@ pub-ef521178253943d19f4991b34907623f.r2.dev
 pudgymythic.xyz
 pudgypenguines.com
 puffer-2a0.pages.dev
+puffer-quesst.info
 puffer.pages.dev
 pull-750.mavis-hub.axieinfinity.services
 pulse-chainbridge.vercel.app
@@ -5342,6 +5355,7 @@ pytlh-network.one
 qg7.us
 qna3.io
 qna3.sbs
+qna3token.net
 qnt.defihubs.top
 qnt.infinitedrops.top
 qorpos.world
@@ -5538,6 +5552,7 @@ register-yuliverse.app
 register-zksync.net
 registration-ator.com
 registration-ator.io
+registration-basedbrett.com
 registration-blast.io
 registration-blockgames.com
 registration-bounce.com
@@ -6904,11 +6919,11 @@ vystarcu.tsa135.com
 vystarcu.zms362.com
 w-revoke.cash
 w.optimalsmart-sync.buzz
-w.smartdigital-accesive.online
 w.smartprotocol-pad.online
 w.swiftdappchain.net
 w1117.usdt6188.top
 w5fowfv5tj.tobamicama.tech
+wabanetworks.com
 wagmi-ethereum.com
 wagmiblast.xyz
 wagmigames8765.live
@@ -7448,6 +7463,8 @@ www.masimjaya.com
 www.matprima-pa.com
 www.maverickdao.org
 www.mavia.comapp.hu54.com
+www.mavia.comapp.yaya6.com
+www.mavia.la
 www.mavia.lc
 www.mavias.club
 www.mavla.xyz
