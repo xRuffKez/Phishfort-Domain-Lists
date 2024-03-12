@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 10:01:35 UTC 2024
-# Number of Entries: 106312
+# Fetch date: Tue Mar 12 11:01:33 UTC 2024
+# Number of Entries: 106317
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -228,6 +228,7 @@
 1block-official.xyz
 1blockofficial.xyz
 1bndsjss.ru
+1cancelar-cambio.webcindario.com
 1chaincrypto.com
 1cinh.exchange
 1claimeth.one
@@ -15234,6 +15235,7 @@ cancel-txid-1bcgtqqythbkp2-wallet.com
 cancel-txid-1bcgtqqythbkp2f-wallet.com
 cancel286138-binance-com.web.app
 cancelar-ahora.webcindario.com
+cancelar1-cambio.webcindario.com
 cancelar5-cambio.webcindario.com
 cancelpymt07meritrust.site
 canceltrade.click
@@ -33662,6 +33664,7 @@ fplutility.com
 fpundation.app
 fr-ledger.com
 fr-sheinshop.site
+fr-worldcoin.web.app
 fr-zennland.com
 fr0g-group.lol
 fractalproctol.online
@@ -82965,6 +82968,7 @@ tansekinft.live
 tantortman.site
 tantw.buzz
 tanzaniaguideadventures.com
+taob-ai.com
 taodan2014.com
 taoken.im
 taormina-fourseasons.com
@@ -94593,6 +94597,7 @@ wj44d3kw80gufz2.www.beta-openselling.pancakeswasap.one
 wjfx.com
 wjzx.jihuocheng.com
 wkjyd.top
+wkkuail.vip
 wkmesirow.top
 wksy.one
 wl-azuki.com
