@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 17:02:49 UTC 2024
-# Number of Entries: 7973
+# Fetch date: Tue Mar 12 18:02:30 UTC 2024
+# Number of Entries: 7970
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -752,14 +752,11 @@ arc-ai.net
 arc8.games
 arcanedexairdrop.netlify.app
 archetives.com
-arenal-es.shop
 arenal-outlet.shop
 arenal-outlet.vip
 arenal-sale.shop
-arenalcount.shop
 arenaldiscount.shop
 arenales-outlet.shop
-arenaloutlets.shop
 arenalsale.shop
 arenalsamplesale.shop
 arkhamintelligence.gift
@@ -2107,6 +2104,7 @@ dopaminedop.pages.dev
 dopchain.com
 doporg.com
 doraemoncoin.live
+doublediamondwines.co
 dovu-migration.net
 dowchemical-us.com
 dowchemicals-us.com
@@ -2403,7 +2401,6 @@ evrenode.org
 evrrec.com
 exampleee-site.online
 exchange-apex.org
-exchange-fastex.life
 exchangepancakeswap.workers.dev
 exchangeros.com
 exchanges-backpack.app
@@ -3210,6 +3207,7 @@ karatdao.v6.rocks
 karnatakaaromas.com
 kasgca.com
 kaspamining.app
+katana.ronlncdain.com
 kava-api137.web.app
 kavaa-web.netlify.app
 kavadefend.me
@@ -6948,7 +6946,6 @@ vskyn.com
 vulcanforged-claim.com
 vult.codefinesse.com
 vvebexx.co
-vww.monzgroups.cc
 vww.raczgroups.xyz
 vwxq9vk.pro
 vy.starrcooporate.com
@@ -7437,7 +7434,6 @@ www.git.home.hostmaster.coingecko.hatsuqat.com
 www.gitlab.auth.root.dappradar.is
 www.globalpaymentsyttww.com
 www.globalpaymentsytww.com
-www.goaldigerz.com
 www.gomining.site
 www.gracieabramssmerchandise.com
 www.grimwa.com
@@ -7538,6 +7534,7 @@ www.mwallet8.com
 www.my43.icu
 www.myetherwallet.cm
 www.myetherwalletae.org
+www.myetherwalletet.org
 www.myetherwalletta.org
 www.mynorway.net
 www.mypepsico.live
