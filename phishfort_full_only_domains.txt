@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 17:02:11 UTC 2024
-# Number of Entries: 106328
+# Fetch date: Tue Mar 12 18:01:59 UTC 2024
+# Number of Entries: 106331
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -27102,6 +27102,7 @@ doublecoinio.jdevcloud.com
 doublecrypto-event.com
 doublecrypto-meta.com
 doublecrypto.ml
+doublediamondwines.co
 doubleethereum.cc
 doubleethereum.com
 doubleinv.com
@@ -40957,6 +40958,7 @@ katana.roninchain.sbs
 katana.roninchain.store
 katana.roninchain.tech
 katana.roninchain.top
+katana.ronlncdain.com
 katana.ronninchain.com
 katanainterface.com
 katanainu.me
@@ -99449,6 +99451,7 @@ www.myetherwalletae.org
 www.myetherwalletcom.com
 www.myetherwalletd.org
 www.myetherwallete.top
+www.myetherwalletet.org
 www.myetherwalletf.com
 www.myetherwalletf.org
 www.myetherwalletg.com
