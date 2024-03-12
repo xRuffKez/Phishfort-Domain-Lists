@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 15:02:11 UTC 2024
+# Fetch date: Tue Mar 12 16:03:02 UTC 2024
 # Number of Entries: 7974
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2140,7 +2140,6 @@ duegaigh.buzz
 duke-florence-finance.co
 dulcie.vip
 durexwalletbridge.co.za
-dutysyncdapp.pages.dev
 dws-team-vs.de
 dydx-exchange.events
 dydx.cc
@@ -3019,6 +3018,7 @@ intotheblue-manta.net
 intothebluemanta.net
 intothebluemanta.org
 intothebluemanta.xyz
+intraconline-instantly.live
 inu.guimeme.xyz
 invcheck.sbs
 investmetlife.com
@@ -4164,7 +4164,6 @@ microsoftedge.pancakeswap.finance.expolorer.im
 midnightimpromptu.top
 migrate-aeggs.pro
 migrate-dapp.pro
-migrate-defi.live
 migrate-fix.pages.dev
 migrate-hedron.com
 migrate-houdiniswap.com
@@ -4654,6 +4653,7 @@ ocmtoys.xyz
 octonodedapp.pages.dev
 oeth.cash
 ofertachevro.com
+ofertaschev.com
 off5th.saksoff5thz.com
 offer-rarible.com
 offers-opensae-io.codeanyapp.com
