@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 00:07:06 UTC 2024
-# Number of Entries: 7902
+# Fetch date: Tue Mar 12 01:21:57 UTC 2024
+# Number of Entries: 7918
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -183,6 +183,7 @@ advancelobstarhifi.pages.dev
 aenchantedcamp.com
 aerodrom.flnance.web3-l2.cfd
 aethergaming.store
+aevoxyz.live
 aexpertlover.com
 affiliateagoda.com
 affixresolve.pages.dev
@@ -795,6 +796,7 @@ asx.mobi
 asxcoinbr.com
 asxcoincm.com
 asxcoinco.com
+asxstockexchange.com
 asxvips.com
 atariku.site
 atexchange.tech
@@ -952,6 +954,7 @@ beta-opensea.com
 biasts.me
 bibangblast.pages.dev
 bicswap.top
+bid-offer.org
 biennvnido.com
 big-bang-blast.fun
 big-bang-blast.press
@@ -1164,6 +1167,7 @@ bouy-plateforme-digitale.online
 bouyguesiptv.fr
 box-manta.network
 box-nftlive.com
+box-nftmint.web.app
 boxes-manta.network
 bozo.trading
 bpxtoken.network
@@ -1219,6 +1223,7 @@ burnmua.build
 butterfieldtechnology.com
 buy.btcetf.network
 buy.pomerdoge.live
+buy.scottyai.org
 buy1inch.org
 buybonk.co
 buzz-bsquared.store
@@ -1260,6 +1265,7 @@ camelot.exchange.pe
 camelot.magpiexyz.io.wallet-connect.site
 camelot.magpiexyz.io.web-3.li
 camshowsrecorded.com
+cancelar5-cambio.webcindario.com
 caoltis.cc
 capsule-zskync.net
 captainj-dao.vercel.app
@@ -2063,6 +2069,7 @@ document-microsoft-onedrive-file.github.io
 documentation-lybra.finance
 dodoeex.cc
 dogpad-financee.netlify.app
+dogswapdex.netlify.app
 dogwifbox.vip
 dogwifcoin.live
 dogwifcoin.trading
@@ -2688,6 +2695,7 @@ gift-dydx.net
 gift-hex.com
 gift-jup.app
 gift-porkcoin.com
+gift-puffer.com
 giftmanta.net
 giftsteam.ru
 give.manta.center
@@ -3461,6 +3469,7 @@ lntrac-web-mobile.digital
 loadingpayappsession0a9c0a9c0a910a9c0.pages.dev
 lobster-market.com
 localethereum.xn--node
+login--blockgames.com
 login-cisco.tech
 login-frame.xyz
 login-metamaskwallet.ddnss.eu
@@ -4502,6 +4511,7 @@ nft.wormscommunity.xyz
 nftairdropclub.com
 nftcircle.xyz
 nftclaimclick.vercel.app
+nftclaimopen3.vercel.app
 nftclaimsopen.vercel.app
 nftcollectionframe.com
 nftdrop.world
@@ -4541,7 +4551,6 @@ nibiry-app.top
 niburufi-registers-verify.vercel.app
 nisaconert.top
 nisaconert.vip
-nisaconvert.vip
 njdianarise.com
 njmvdu.pro
 nkjs0.ru.com
@@ -4593,7 +4602,6 @@ nyurbanonli.com
 o2-cert.com
 o2-kundenverwaltung.info
 o2online-service.de
-oamp.vercel.app
 oasisprotocols.org
 ob-app.com
 ocbre.com
@@ -4733,6 +4741,7 @@ ordiswaps.com
 ordivalifusion.pages.dev
 ordizkweb.com
 org-networks.site
+orgnlt.me
 origintracdappcom.com
 orivium.trading
 osaiccareers.com
@@ -5376,6 +5385,7 @@ r125.usdt6188.top
 r20.rs6.net
 rabby-points.xyz
 rabby-support.pages.dev
+rabby.ai
 rabbyn0de.pages.dev
 rabbypoints.com
 raca3.tapp.live
@@ -5455,6 +5465,7 @@ rayidium.com
 rayzonfinance.com
 raze-drops.top
 rdx.vercel.app
+rdxshoes.click
 re-voke.cash
 reachedoutseveral.com
 realio.fi
@@ -5463,6 +5474,7 @@ realioapp.com
 realiogift.org
 realraydium.xyz
 realtyexcellence.com
+rebby.io
 rebirthcreepz.com
 receive-jup.app
 receive-orivium.io
@@ -5633,6 +5645,7 @@ revokecash.us
 revokecashe.com
 revokecashh.pages.dev
 revokecashn.com
+revokecashv2.com
 revokecashv2.xyz
 revokee.cash
 revokee.digital
@@ -5768,8 +5781,10 @@ s-app-reaktivieren.su
 s-pookyswap.org
 s0ra.info
 s7w0ymu.top
+saaksoff5th.com
 sadreta.click
 safe-apps.global
+safe-nodebrigde.online
 safeaccess-meta.com
 safegnosis.co
 safeguard-meta.com
@@ -5785,7 +5800,7 @@ saiyansdrop.com
 saks.boutique
 saks5.store
 saksoff.sakskoesad.com
-saksoff5th.store
+saksoff5th.love
 saksoff5thboool.top
 saksoff5thf.com
 saksoff5thkppltpj.com
@@ -5840,6 +5855,7 @@ scjdwb.cfd
 sckaniopiorte.top
 sconectsmartplusoficial.store
 scorpion-casino.shop
+scottytheai-en.web.app
 scottyystheai.xyz
 scotyttheai.pro
 scroll-reward.com
@@ -6528,7 +6544,6 @@ token-entangle.com
 token-illuvium.com
 token-mainnetdapp.com
 token-port3.com
-token-revoke.cash
 token-theblock.co
 token.strks-rocket.club
 tokenmask.io
@@ -6992,6 +7007,7 @@ web3-portfolio.pro
 web3-raydium.com
 web3-ronin.com
 web3-roninchain.com
+web3-solflare.com
 web3-traffic.xyz
 web3-uniswap-uniswap.com
 web3-zapper.com
