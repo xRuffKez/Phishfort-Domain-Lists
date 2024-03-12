@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 06:02:10 UTC 2024
-# Number of Entries: 106291
+# Fetch date: Tue Mar 12 07:01:53 UTC 2024
+# Number of Entries: 106300
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -9817,7 +9817,6 @@ babycatgirl-promogive.com
 babycheemsinu-promogive.com
 babycl.netlify.app
 babydegods.com
-babydg2.org
 babydodobsc.com
 babydogceoin.top
 babydoge-claim.com
@@ -12634,6 +12633,7 @@ blastingv2.com
 blastio.group
 blastio.ink
 blastl2.dev
+blastof.eu
 blastoffs.eu
 blastpoints.app
 blastreward.eu
@@ -15013,6 +15013,7 @@ byopiills.xyz
 byopillsnft.xyz
 byrdie.site
 byss163.website
+bytedog.pro
 bytenext.medium.com.ru
 bytetrade.io
 bytombit.com
@@ -16976,6 +16977,7 @@ claim.bitetfs.net
 claim.boredapesfest.com
 claim.bttc20.com
 claim.calvarie.online
+claim.celatisx.top
 claim.chainlinktoken.org
 claim.chainngpt.com
 claim.cibzdackz.xyz
@@ -17656,6 +17658,7 @@ cloudwebhosts.com
 clover-dapps.site
 clowallet.network
 clrcle.cloud
+clrscr.net
 club-degods.com
 club-mdvmm.xyz
 club-pudgypenguins.com
@@ -48692,6 +48695,8 @@ metamark.site
 metamas.one
 metamasak-wallet.godaddysites.com
 metamasak.cc
+metamasbdfbcbs.com
+metamasbdfbcv.com
 metamasc-apps.com
 metamasc.io
 metamasc.net
@@ -54454,6 +54459,7 @@ mycollabland.com
 mycollabsyncer.com
 mycomm-renew.com
 mycomm-review.com
+mycommunityportal.site
 myconnectdapps.com
 myconnectsdapp.online
 myconnectwallect.com
@@ -58032,6 +58038,8 @@ mysterybox11.vercel.app
 mysterybox28.vercel.app
 mysterybox287.vercel.app
 mysterybox32.vercel.app
+mysterybox433.vercel.app
+mysterybox55.vercel.app
 mysterybox75.vercel.app
 mysterybox882.vercel.app
 mysteryboxnow.vercel.app
@@ -58966,6 +58974,7 @@ nft-worldofwomen.com
 nft-worlds.top
 nft.azukl.biz
 nft.bnbfrog.top
+nft.cologne
 nft.diet
 nft.ezdoge.net
 nft.fhirfly.io
@@ -59256,6 +59265,7 @@ nibidrop.com
 nibiru.uk
 nibiruairdrops.life
 nibirudrop.top
+nibiruioairdrop.xyz
 nibiruprojectdrop.xyz
 nibiry-app.top
 niburufi-registers-verify.vercel.app
@@ -59763,7 +59773,6 @@ nosilence.xyz
 nostalgia.ybnfts.com
 nostalgic-fermat.194-127-193-110.plesk.page
 notabot.pro
-notall.eshost.com.ar
 notallwallet.ml
 notamutantproject.com
 notanothermodsnob.com
@@ -68051,7 +68060,6 @@ pepe-claim.org
 pepe-claim.pro
 pepe-claim.shop
 pepe-claims.com
-pepe-coin.fun
 pepe-coin.icu
 pepe-coin.lol
 pepe-coin.us
@@ -68343,7 +68351,9 @@ perucotiza.com
 perurest.com
 perurhealth.com
 peryourhealth.be
+peryourhealth.biz
 peryourhealth.blog
+peryourhealth.cyu
 peryourhealth.org
 peryourhealth.us
 pescadosdaftx.blogspot.com
@@ -71114,7 +71124,6 @@ pre-mint.org
 pre-prod.appqala.games
 preazuki.art
 predesigns.shop
-preemint.com
 preferbehavioral.com
 prefertoken.com
 prehost86.pancakeswape.finance
@@ -71905,6 +71914,7 @@ puff-verse.netlify.app
 puffcakeswap.finance
 puffer-2a0.pages.dev
 puffer-quesst.info
+puffer-quest-app.info
 puffer.pages.dev
 pugdypengiuns.com
 pugdypenguin.com
@@ -103324,7 +103334,6 @@ xn--conbas-xva87a.com
 xn--conbase-8ya.com
 xn--conbase-hza.com
 xn--conbase-pza.com
-xn--conbase-sfb.com
 xn--condes-8bb1661d.com
 xn--condesk-0ya.com
 xn--condesk-gw4c.com
