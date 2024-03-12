@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 16:03:02 UTC 2024
-# Number of Entries: 7974
+# Fetch date: Tue Mar 12 17:02:49 UTC 2024
+# Number of Entries: 7973
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2886,6 +2886,7 @@ hopper-rating.com
 hostilityaristocrat.top
 housexysounds.com
 hpths777inu.org
+hpwhmw10itwo.xyz
 hqq0a7e.info
 hr-adp.com
 hswblp.info
@@ -3866,7 +3867,6 @@ masslottery.lotteryvault.net
 masslottery.online
 masslouilionusma.com
 massonline.mprofile.org
-massuiprofilelogin.onrender.com
 master-brain.com
 mastersrewind.com
 matemank.io
@@ -4592,7 +4592,6 @@ nibiry-app.top
 niburufi-registers-verify.vercel.app
 nisaconert.top
 nisaconert.vip
-njdianarise.com
 njmvdu.pro
 nkjs0.ru.com
 nnapplic-app.com
@@ -4685,6 +4684,7 @@ onchainmonkeys.shop
 onchainmonkeys.tech
 onchainrevoke.com
 onearbitrum.checkterms.com
+ongcmumbaihigh.in
 ongoing-jup.app
 onlineapply.world
 onlinedetma.online
@@ -5162,7 +5162,6 @@ plaguz-group.lol
 plagz-club.com
 planet-zksync.nfts2.me
 planetsrefi.airdrop.cfd
-plantageneral.com
 plantagmsanluis.com
 plantagmseminuevos.com.mx
 plantagmsilao.com.mx
