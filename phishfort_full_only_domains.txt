@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 22:01:32 UTC 2024
-# Number of Entries: 106333
+# Fetch date: Tue Mar 12 23:02:12 UTC 2024
+# Number of Entries: 106335
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6025,6 +6025,7 @@ app.airtm7.com
 app.airtms.com
 app.ajrtm.cam
 app.allbridge.site
+app.allocations-vanarchain.com
 app.alpaca-finance.org
 app.alpacafinanc.org
 app.altlayer-web3.com
@@ -94466,6 +94467,7 @@ whitelisting-wormhole.com
 whitelistings-wormhole.com
 whitelistmint.shop
 whitelistrabby.pages.dev
+whitelists-getblockgame.com
 whitelists-makerdao.com
 whitelists-redstone.com
 whitelists-roninchain.com
