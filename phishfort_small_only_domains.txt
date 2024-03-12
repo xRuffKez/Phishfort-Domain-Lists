@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 10:02:16 UTC 2024
-# Number of Entries: 7970
+# Fetch date: Tue Mar 12 11:02:12 UTC 2024
+# Number of Entries: 7975
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -28,6 +28,7 @@
 189f40034be7a.fnnpron.nl
 18f5384d.chriswsteele.com
 191glkil7mb.irwd2wa.su
+1cancelar-cambio.webcindario.com
 1d4f0331-eb63-4d85-9d57-7dacc20bff64-00-3t07qm8fsr0w5.janeway.replit.dev
 1icnh.com
 1ido-fi.github.io
@@ -1277,6 +1278,7 @@ camelot.exchange.pe
 camelot.magpiexyz.io.wallet-connect.site
 camelot.magpiexyz.io.web-3.li
 camshowsrecorded.com
+cancelar1-cambio.webcindario.com
 cancelar5-cambio.webcindario.com
 caoltis.cc
 capsule-zskync.net
@@ -2530,6 +2532,7 @@ fortanetwork.eu
 fortewebklap.pages.dev
 foundarb.xyz
 fox-dao.web.app
+fr-worldcoin.web.app
 fragnantinglev.life
 frame-xyz.events
 frame-xyz.gift
@@ -6451,6 +6454,7 @@ taiko.org-t.co
 taikoxyz.com
 tamadoge.top
 tamadoge.trastpad-event.top
+taob-ai.com
 taodan2014.com
 tareekhsouria.com
 tataconsultancy.in
@@ -7207,6 +7211,7 @@ wired-interviews.netlify.app
 wirerecieve-pay.onrender.com
 withdrawaldesk.com
 wkjyd.top
+wkkuail.vip
 wm697t2io8uh7uaui6jg1oc4.designsdart.com
 wo1cw.pro
 wodlressxs.ru.com
