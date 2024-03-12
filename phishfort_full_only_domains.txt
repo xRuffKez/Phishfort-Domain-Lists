@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 23:01:33 UTC 2024
-# Number of Entries: 106229
+# Fetch date: Tue Mar 12 00:04:58 UTC 2024
+# Number of Entries: 106242
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -5687,7 +5687,6 @@ app-openseo.io
 app-opensia.com
 app-oplimism.io
 app-oppensea.com
-app-optimism.bond
 app-optimism.cc
 app-optimism.com
 app-optimism.ltd
@@ -15908,6 +15907,7 @@ chainlistnetwork.tech
 chainlitst.link
 chainlizst.org
 chainllink.click
+chainlsiit.com
 chainlyist.pw
 chainmatrixlink.xyz
 chainmigration.org
@@ -31308,6 +31308,7 @@ event-ada.info
 event-arbitrum.net
 event-arbitrum.org
 event-axieinfinity.xyz
+event-blockgames.com
 event-blur.site
 event-chainlink.org
 event-chiliz.xyz
@@ -31380,6 +31381,7 @@ event.nicepad.top
 event.rewardcoin.top
 event.shibatoken.space
 event.stariink.net
+event.stockcoin.top
 event.xfinespad.top
 event2022.org
 event2btc.org
@@ -38806,6 +38808,7 @@ ikilimuhtem.site
 ikit.technology
 iklar.mx
 ikogwelimited.com
+iktrjrfusah.icu
 ikyberswap.com
 ilangod.com
 ilayeir3.xyz
@@ -40357,6 +40360,7 @@ join-base.com
 join-base.xyz
 join-befilabs.com
 join-blast.io
+join-blockgames.xyz
 join-blur.com
 join-blur.in
 join-blur.io
@@ -46857,6 +46861,7 @@ mannamarkets.com
 manntetmamask-walle.azurewebsites.net
 manpta.network
 manranetwcrk.com
+mant-app.com
 manta-6om.pages.dev
 manta-aidrop.network
 manta-air.xyz
@@ -60016,6 +60021,7 @@ obx-bridge.pages.dev
 oc-digital.com
 ocaenprotocols.com
 ocalbitcoins.ru
+ocbre.com
 occult.nft-premint.com
 occultnft.xyz
 ocdpool.xyz
@@ -73172,6 +73178,7 @@ receive-orivium.io
 receive-paxful.com
 receive-paxful.com.offer-paxful.com
 receive-zetachaincom.pages.dev
+receive.pilxeisgame.xyz
 receive.zro-claiming.pro
 receiveethfree.cx
 receiveethpromo.cx
@@ -98357,6 +98364,10 @@ www.interactivebrokers.vip
 www.interactweb3apps.net
 www.interdigitalba.com
 www.interdigitalbc.com
+www.interdigitaldf.com
+www.interdigitaldfe.com
+www.interdigitaler.com
+www.interdigitalker.com
 www.interdigitaltba.com
 www.invisiblefriendsmintnft.com
 www.io-explor.us
@@ -99347,6 +99358,7 @@ www.myetherwallet3.com
 www.myetherwallet5.com
 www.myetherwallet6.com
 www.myetherwalleta.net
+www.myetherwalletae.org
 www.myetherwalletcom.com
 www.myetherwalletd.org
 www.myetherwallete.top
@@ -105957,6 +105969,7 @@ zksylnc.com
 zksymc.github.io
 zksyn-io.xyz
 zksyn-seedifa.fund
+zksynapse.network
 zksync-2023.com
 zksync-2023.net
 zksync-ai.com
