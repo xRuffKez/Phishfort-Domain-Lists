@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 11:02:12 UTC 2024
-# Number of Entries: 7975
+# Fetch date: Tue Mar 12 12:02:54 UTC 2024
+# Number of Entries: 7980
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -802,6 +802,7 @@ asxstockexchange.com
 asxvips.com
 atariku.site
 atexchange.tech
+atf.mkwk.one
 atlaeyer-stake.top
 atlaeyer-staker.top
 atlaeyers-check.top
@@ -2512,6 +2513,7 @@ flowerand7.xyz
 fluffy-hotteok-b5b58b.netlify.app
 fluxfinance.app
 flxedfloat.pages.dev
+flyemirates.cloud
 flyemirates.space
 flyemiratescareer.com
 flyemiratesonline.com
@@ -3546,7 +3548,6 @@ m.cdzhjzx.com
 m.dscd888.com
 m.dzsqc.com
 m.eq-energyplan-india.com
-m.equinor-india.com
 m.hongcsx.cn
 m.janalt-tech.com
 m.js-xlh.com
@@ -3988,6 +3989,7 @@ metamainnetfix.netlify.app
 metamank.io
 metamaok.cn
 metamaok.com
+metamasbdfbcbs.com
 metamasc-apps.com
 metamask-2.com
 metamask-3.com
@@ -5309,6 +5311,7 @@ puffer-quesst.info
 puffer-quest-app.info
 puffer.pages.dev
 pull-750.mavis-hub.axieinfinity.services
+pulse-bridge.app
 pulse-chainbridge.vercel.app
 pulsebitclaim.live
 pulsex-wallet.com
@@ -6255,6 +6258,7 @@ stardefyloomfil.pages.dev
 stardexairdrop.com
 stargate-app.pages.dev
 stargate-finance.app
+stargate-finance.io
 stargate.finance.kli.gg
 stargate.gifts
 stargategold.trading
@@ -6441,6 +6445,7 @@ syneosbio.com
 syneosbiocareer.com
 syneoscareer.com
 syngswap.github.io
+synthetixreward.com
 systemvaults.tech
 szyllfgzsd.doralellox.tech
 t.co-lyw32ad7i85.com
