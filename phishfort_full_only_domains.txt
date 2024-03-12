@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 07:01:53 UTC 2024
-# Number of Entries: 106300
+# Fetch date: Tue Mar 12 08:01:59 UTC 2024
+# Number of Entries: 106314
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3191,6 +3191,7 @@ aidogechain.pages.dev
 aidogecoin.net
 aidogecoin.org
 aidogecoin.vip
+aidogedrop.org
 aidogee.com
 aidoges.com
 aidoges.eu
@@ -5827,6 +5828,7 @@ app-sysmainnet.com
 app-tectonic.space
 app-tectonic.store
 app-tectonic.website
+app-thruster-finance.aadhyaca.com
 app-thruster.finance
 app-tokenlon.com
 app-tokenpanackeswap.com
@@ -10424,6 +10426,7 @@ base.link3.su
 baseairdrop.xyz
 basebitcoin.org
 basebotnft.com
+basebrett.xyz
 basebridge.io
 basebridge.win
 basecb.com
@@ -10437,6 +10440,7 @@ based-af-nft.xyz
 based-at.com
 basedaf-nft.xyz
 basedbalancer.pages.dev
+basedbrett.xyz
 basedghouls.claims
 basedlghouls.com
 basedrop.net
@@ -10559,6 +10563,7 @@ bbb.ahyoo.buzz
 bbcoin.website
 bbexpro.xyz
 bbin.maadu.xyz
+bbl-get.com
 bbndapp.com
 bbnkonline.com
 bbonmarket.com
@@ -21961,6 +21966,7 @@ cs2lounge.club
 cs2polygonx.top
 cs4market.ru
 csagoda.co
+csagoda.store
 csagodaonline.masukmobilee.de
 cscs-app-money.one
 cscs.wiki
@@ -28113,6 +28119,7 @@ eiementals-azuki.com
 eigeinlayner.xyz
 eigen-layer.com
 eigen-layer.idvenezia.com
+eigen-layer.live
 eigenilayer.com
 eigenlaver.magpiexyz.site
 eigenlayer-presale.xyz
@@ -33496,6 +33503,7 @@ formulaprz.live
 formulgid.pro
 formulir.site
 forniturepulice.it
+fortanetwork.eu
 fortemag.com
 fortes.life
 fortewebklap.pages.dev
@@ -34995,6 +35003,7 @@ gas-claim-oitgz.github.io
 gas-claim-teomf.github.io
 gas-ethereum.com
 gas-guzzlers-official.netlify.app
+gas-lido.com
 gas-refund.pics
 gas-refund.sbs
 gasfeecal.com
@@ -43344,6 +43353,7 @@ lido.gg
 lido.gives
 lido.giving
 lido.land
+lido.liquid.inverni.us
 lido.openpads.top
 lido.pm
 lido.quest
@@ -43468,6 +43478,7 @@ lilheroesnftmint.com
 lilithswap.com
 lilkami-nft.netlify.app
 lilluvium.com
+lilostake.lol
 lilpudg-pudgypenguins.com
 lilpudgy.live
 lilpudgys-mint.com
@@ -44950,7 +44961,9 @@ login.xn--bockcha-eza81eld.com
 login.xn--bockchain-0e5h.com
 login.xn--bockchaln-vpb.com
 login.zcsync.space
+login1-blockgames.xyz
 login1.metemask.today
+login2-blockgames.xyz
 loginbinance-com.umbler.net
 logingalagames-io.blogspot.com
 loginlgalagames.blogspot.com
@@ -106006,6 +106019,7 @@ zksinc.github.io
 zksiync.com
 zkskull.com
 zkslabsfoundation.com
+zksnp.network
 zksnyc-era.xyz
 zksnyc.app
 zksnyk.com
