@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 03:02:30 UTC 2024
-# Number of Entries: 7935
+# Fetch date: Tue Mar 12 04:02:21 UTC 2024
+# Number of Entries: 7941
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1331,6 +1331,7 @@ chaingpt-ai.org
 chaingpt-web3airdrop.net
 chainlabsv2.org
 chainlink-drop.com
+chainlink-network.app
 chainlink.us.to
 chainlinkairdropweb3.org
 chainlinklabsv2.com
@@ -2693,6 +2694,7 @@ getpyth.app
 getrewards.life
 gets.dappsradars.online
 getshib.io
+gettingarb.xyz
 getvenus.xyz
 gfe3ox.csb.app
 ghnrryfd.umb.market
@@ -4105,6 +4107,7 @@ metis.gifts
 metisclaim.site
 metisdao.fi
 metisdaovotings.com
+metisdex.io
 metlife.spicus.com
 metlife.trigmainc.com
 metlifeconsumerservicesinc.store
@@ -4378,6 +4381,7 @@ mysterybox32.vercel.app
 mysterybox75.vercel.app
 mysterybox882.vercel.app
 mysteryboxnow.vercel.app
+mysteryboxv1.vercel.app
 mysteryclaim74.vercel.app
 mysteryclaimsnft.vercel.app
 mysteryclicksclaim1.vercel.app
@@ -5072,6 +5076,7 @@ personajourney.trading
 perurhealth.com
 peryourhealth.be
 peryourhealth.blog
+peryourhealth.org
 peryourhealth.us
 petsversegames.sale
 petsversegames.site
@@ -5373,6 +5378,7 @@ quest-sharpnel.com
 quest-starknet.io
 quest-zetachain.com
 quest-zora.network
+quest.puffer.events
 quests-defi.trade
 quests-dymension.network
 quests-dymension.xyz
