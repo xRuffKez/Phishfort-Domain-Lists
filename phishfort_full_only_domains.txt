@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 09:01:54 UTC 2024
-# Number of Entries: 106313
+# Fetch date: Tue Mar 12 10:01:35 UTC 2024
+# Number of Entries: 106312
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1244,6 +1244,7 @@
 4424242t4r--habilitar00.repl.co
 44332myetherwallet.site
 443pod.com
+444444-ai9.pages.dev
 444eth.ml
 45.142.182.135
 4568ab26-4004d2f5.masjidassunnahmamuju.com
@@ -28306,7 +28307,6 @@ elon-gets.com
 elon-gets.org
 elon-gift.club
 elon-gift.com
-elon-gift.info
 elon-gift.space
 elon-gifting.website
 elon-gifts.com
@@ -59328,7 +59328,6 @@ niftyleague.nft-premint.com
 niftypertal.xyz
 niftyportal.lives-minting.com
 niftytailors.club
-nightbird.ai
 nightbirdsnfts.com
 nightodknifes.za.com
 nightofknifws.sa.com
@@ -62910,6 +62909,7 @@ pancake-swaps.exchange
 pancake-swaps.finance
 pancake-swaps.live
 pancake-swaps.online
+pancake-swaps.org
 pancake-swaps.site
 pancake-swaptokens.com
 pancake-swep.com
@@ -104927,7 +104927,6 @@ xoaplasz.com
 xooju.com
 xoudwq.cfd
 xox-exe.github.io
-xoxo.community
 xp-claim.top
 xpad-drop.top
 xpat.tk
