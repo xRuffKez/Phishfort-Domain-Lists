@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 04:01:50 UTC 2024
-# Number of Entries: 106286
+# Fetch date: Tue Mar 12 05:02:26 UTC 2024
+# Number of Entries: 106288
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -75877,6 +75877,7 @@ saksoff5th-stores.shop
 saksoff5th-us.shop
 saksoff5th.love
 saksoff5th.online
+saksoff5th.store
 saksoff5th.vip
 saksoff5thboool.top
 saksoff5thdeals.com
@@ -75949,6 +75950,7 @@ samkent.site
 samoraiwalletapp.com
 samoyed-mint.web.app
 samoyed.netlify.app
+sample.ecsa.com
 samptlenk.site
 sampx8y.info
 samsenrt.site
