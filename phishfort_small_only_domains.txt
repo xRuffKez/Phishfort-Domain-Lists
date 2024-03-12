@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 07:02:12 UTC 2024
-# Number of Entries: 7958
+# Fetch date: Tue Mar 12 08:02:39 UTC 2024
+# Number of Entries: 7973
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -236,6 +236,7 @@ aiaegis.xyz
 aibaoinsurance.com
 aicoinex-amm.com
 aidexw.com
+aidogedrop.org
 aigentx.gift
 aione-lab.pro
 aipadmainnet.network
@@ -574,6 +575,7 @@ app-sheesha.pages.dev
 app-starknet.io
 app-superverse.com
 app-susa.exchange
+app-thruster-finance.aadhyaca.com
 app-thruster.finance
 app-tokenlon.com
 app-ubeswap.vercel.app
@@ -914,6 +916,8 @@ barleyapp.finance
 barnbridge.pro
 bartellers.com
 base-named.org
+basebrett.xyz
+basedbrett.xyz
 baseswaap.top
 baseswapp.network
 battlemaneki.com
@@ -924,9 +928,11 @@ baycx-bape.com
 bazename.lol
 bbb.ahyoo.buzz
 bbexpro.xyz
+bbl-get.com
 bbsyncs.pages.dev
 bckrockgbtc.com
 bcr20.xyz
+beanzoff.com
 bebopscan.xyz
 beefydefi.sbs
 befilab.com
@@ -1760,6 +1766,7 @@ crystalfiles.ru
 cs2-blast.com
 cs2polygonx.top
 csagoda.co
+csagoda.store
 csagodaonline.masukmobilee.de
 csfellon.ru
 csl-behring.eu
@@ -2224,6 +2231,7 @@ egrowmax.com
 egrtht.pages.dev
 egtokenmigrate.app
 ehajj.ph
+eigen-layer.live
 eigenilayer.com
 eigenlaver.magpiexyz.site
 eigenpie.saydbaeaumca.xyz
@@ -2519,6 +2527,7 @@ forexinvest-start.com
 form-agooda.com
 form4tw.com
 formulir.site
+fortanetwork.eu
 fortewebklap.pages.dev
 foundarb.xyz
 fox-dao.web.app
@@ -2636,6 +2645,7 @@ gas-claim-mwhcu.github.io
 gas-claim-oitgz.github.io
 gas-claim-teomf.github.io
 gas-ethereum.com
+gas-lido.com
 gasfeecal.com
 gate-io-gate.org
 gayjoygo.com
@@ -3402,6 +3412,7 @@ lido-reward.org
 lido-rewards.pages.dev
 lido-staking.pages.dev
 lido.fi-swaps.app
+lido.liquid.inverni.us
 lido227277.pages.dev
 lidocrypto.fi
 lidodrops.info
@@ -3414,6 +3425,7 @@ lidostake.dev
 lidostakecoin.com
 lidostaking-btu.pages.dev
 lifefitness.si
+lilostake.lol
 lilpudgys-mint.com
 linae-parks.com
 linea-consensys.world
@@ -3497,6 +3509,8 @@ login.microsoftonlineportal.ppp-gov.online
 login.myob.ink
 login.ordinalsapp.live
 login.wapstore.duckdns.org
+login1-blockgames.xyz
+login2-blockgames.xyz
 loginw2c.com
 lohinmicrokkient.xyz
 lololol888.xyz
@@ -7925,6 +7939,7 @@ zkshield.blog
 zksinc.github.io
 zkskull.com
 zkslabsfoundation.com
+zksnp.network
 zksrewardsclaim.net
 zksycn.net
 zksymc.github.io
