@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 18:01:59 UTC 2024
+# Fetch date: Tue Mar 12 19:01:27 UTC 2024
 # Number of Entries: 106331
 #Expires: 1 hour
 0-metemask.com
@@ -36453,7 +36453,6 @@ gmt-client-review-hf-remove-b8a8rv.gmt.yuca.digital
 gmt-client-review-hotfix-nft-8ips22.gmt.yuca.digital
 gmt-token.online
 gmtcoinmeta.com
-gmvendorbillinginterest.com
 gmvinpin.com
 gmws.eu
 gmx-connect.com
@@ -94854,6 +94853,7 @@ worldwide.lpnfts.com
 worldwideofficial.xyz
 wormant.com
 wormhole-airdrop.store
+wormhole-drops.live
 wormhole.cx
 wormhole.money
 wormholeairdrop.fun
@@ -96040,6 +96040,7 @@ www.app-zapprer.com
 www.app-zksync-com.xyz
 www.app-zyberswapw.site
 www.app.1ichn.io
+www.app.defi-connect.xyz
 www.app.fixappsync.site
 www.app.kraken-protocol.com
 www.app.kraken-staking.com
@@ -97710,7 +97711,6 @@ www.evilpcpecoin.com
 www.evilpepesoin.com
 www.evm-monad.xyz
 www.evmos-network.org
-www.evoypremium.com.br
 www.ewalletretrieval.live
 www.ewlilpepe.com
 www.ewtherdo.tk
