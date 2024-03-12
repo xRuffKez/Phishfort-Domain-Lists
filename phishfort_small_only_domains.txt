@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 14:02:09 UTC 2024
-# Number of Entries: 7977
+# Fetch date: Tue Mar 12 15:02:11 UTC 2024
+# Number of Entries: 7974
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1997,7 +1997,6 @@ demension.life
 demo9969.infinityfreeapp.com
 denelse.com
 denshaven.com
-depictionunfold.top
 deplimigration.dev
 descontoschevro.com
 descontosgm.com
@@ -3554,7 +3553,6 @@ m.js-xlh.com
 m.kinetu.com.cn
 m.modishcoupons.com
 m.nlsgoi.cfd
-m.provemultilateral.top
 m.shrininow.com
 m.stylishcoupons.com
 m.tiktide.com
@@ -5069,6 +5067,7 @@ pengsolana.co
 pengsolana.org
 penguinrandomhouseglobal.com
 penguinrandomhouseofficial.com
+penguinrandomhouseworldwide.com
 pepe-awards.com
 pepe-team.com
 pepe-v2.link
@@ -5765,7 +5764,6 @@ rezeptfrei.shop
 rezoprotocol.com
 rfw4sdsklb.woorobaher.tech
 rhhrpka.pro
-rhino-fi.events
 rhino-fi.gift
 rhinodao.app
 riboutlaw.top
@@ -7612,7 +7610,6 @@ www.portolbridge.org
 www.practisea.com
 www.provisionstrk.xyz
 www.pudgyworld.shop
-www.qbdkqw.com
 www.quimec.com
 www.quopi2.com
 www.reaper.farmm.towerfish.tw
