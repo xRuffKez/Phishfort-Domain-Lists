@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 20:02:12 UTC 2024
-# Number of Entries: 7939
+# Fetch date: Tue Mar 12 21:02:08 UTC 2024
+# Number of Entries: 7937
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -5190,7 +5190,6 @@ porshe-taycan.nfts2.me
 portal-dymension.xyz
 portal-presale.web.app
 portal.dymension.wb3i.xyz
-portal.sandbox.tymebank.ngenius-payments.com
 portalcoin.cfd
 portaldrop.io
 portaldrop.net
@@ -6267,7 +6266,6 @@ start-wen.com
 stately-froyo-8d0a93.netlify.app
 steaam.umb.market
 steady-creponne-871786.netlify.app
-steam.dotaworkshops.com
 steam.umb.market
 steamcommujity.com
 steamcommunity.umb.market
