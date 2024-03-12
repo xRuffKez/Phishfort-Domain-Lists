@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 09:02:31 UTC 2024
-# Number of Entries: 7968
+# Fetch date: Tue Mar 12 10:02:16 UTC 2024
+# Number of Entries: 7970
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -98,6 +98,7 @@
 407on.com
 407web-etr.com
 40f9cbde.634e4ed6dabf4fea38da4da1.workers.dev
+444444-ai9.pages.dev
 4g5g544g54g5.pages.dev
 4ooh.top
 4raydium.sbs
@@ -4841,6 +4842,7 @@ pancake-swapfinance.pages.dev
 pancake-swapfinances.pages.dev
 pancake-swapi.web.app
 pancake-swapp.github.io
+pancake-swaps.org
 pancake.albert.vip
 pancake.fniu.dev
 pancake.magpiexyz.io.nework.live
