@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 06:02:48 UTC 2024
-# Number of Entries: 7944
+# Fetch date: Tue Mar 12 07:02:12 UTC 2024
+# Number of Entries: 7958
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1086,6 +1086,7 @@ blastingv2.com
 blastio.group
 blastio.ink
 blastl2.dev
+blastof.eu
 blastoffs.eu
 blastpoints.app
 blastreward.eu
@@ -1235,6 +1236,7 @@ buzz-bsquared.store
 buzz.bsquareed.online
 bvrefe.pages.dev
 bybit-gift.space
+bytedog.pro
 bzname-service.com
 c118.usdt6188.top
 c7ed7c0a-a3f0-4a62-9092-b1bb34dc0ec4-00-2hhxxwsgft7jv.janeway.replit.dev
@@ -1446,6 +1448,7 @@ claim.app-layerzero.pro
 claim.arkhamfinance.xyz
 claim.beefmeme.xyz
 claim.bitetfs.net
+claim.celatisx.top
 claim.chainngpt.com
 claim.cibzdackz.xyz
 claim.cybzducks.lol
@@ -1527,6 +1530,7 @@ clmjup.xyz
 clmtaiko.xyz
 cloudinry.net
 cloudwebhosts.com
+clrscr.net
 cm-dap.online
 cmlink.xyz
 cnahngenow.com
@@ -3969,6 +3973,8 @@ metamainnetfix.netlify.app
 metamank.io
 metamaok.cn
 metamaok.com
+metamasbdfbcbs.com
+metamasbdfbcv.com
 metamasc-apps.com
 metamask-2.com
 metamask-3.com
@@ -4348,6 +4354,7 @@ my-swap.xyz
 my.templ.cc
 myairdrops.org
 mycastcrewssaw.com
+mycommunityportal.site
 myedds.com
 myether.exchange
 myethertools.web.app
@@ -4381,6 +4388,8 @@ mysterybox11.vercel.app
 mysterybox28.vercel.app
 mysterybox287.vercel.app
 mysterybox32.vercel.app
+mysterybox433.vercel.app
+mysterybox55.vercel.app
 mysterybox75.vercel.app
 mysterybox882.vercel.app
 mysteryboxnow.vercel.app
@@ -4522,6 +4531,7 @@ nft-swellnetwork.io
 nft-trade.xyz
 nft-win.pages.dev
 nft.azukl.biz
+nft.cologne
 nft.diet
 nft.pepzgroup.biz
 nft.wormscommunity.com
@@ -4564,6 +4574,7 @@ nibidrop.com
 nibiru.uk
 nibiruairdrops.life
 nibirudrop.top
+nibiruioairdrop.xyz
 nibiruprojectdrop.xyz
 nibiry-app.top
 niburufi-registers-verify.vercel.app
@@ -5078,7 +5089,9 @@ persistentsystems.in
 personajourney.trading
 perurhealth.com
 peryourhealth.be
+peryourhealth.biz
 peryourhealth.blog
+peryourhealth.cyu
 peryourhealth.org
 peryourhealth.us
 petsversegames.sale
@@ -5279,6 +5292,7 @@ pudgymythic.xyz
 pudgypenguines.com
 puffer-2a0.pages.dev
 puffer-quesst.info
+puffer-quest-app.info
 puffer.pages.dev
 pull-750.mavis-hub.axieinfinity.services
 pulse-chainbridge.vercel.app
