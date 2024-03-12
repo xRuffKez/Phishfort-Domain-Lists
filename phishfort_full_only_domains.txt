@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 16:02:24 UTC 2024
-# Number of Entries: 106326
+# Fetch date: Tue Mar 12 17:02:11 UTC 2024
+# Number of Entries: 106328
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -38071,6 +38071,7 @@ hoybentle.com
 hpos10i.xyz
 hpths777inu.org
 hptoken.top
+hpwhmw10itwo.xyz
 hqfzjt.lfdtz04.com
 hqq0a7e.info
 hr-adp.com
@@ -60607,6 +60608,7 @@ oneworldnation.winsmint.com
 ongaia.net
 ongawaterswitch.com.au
 ongcindia-gas.com
+ongcmumbaihigh.in
 ongoing-jup.app
 oniforce.cloud
 oniforce.xyz
