@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 08:01:59 UTC 2024
-# Number of Entries: 106314
+# Fetch date: Tue Mar 12 09:01:54 UTC 2024
+# Number of Entries: 106313
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2842,7 +2842,6 @@ adobo.finance
 adoptheedong.io
 adoring-heyrovsky-2d1534.netlify.app
 adp-magiceden.lojaintegrada.com.br
-adp-vantage.com
 adpunily.azurewebsites.net
 adrianperezjr.com
 adrop.id
@@ -12954,6 +12953,7 @@ blockfieldanalysis.net
 blockfieldsanalysis.net
 blockfipro.com
 blockfixresolvepro.com
+blockgames-registration.com
 blockgames.livedropp.com
 blockhaine.blogspot.com
 blockhasha.com
@@ -48708,8 +48708,6 @@ metamark.site
 metamas.one
 metamasak-wallet.godaddysites.com
 metamasak.cc
-metamasbdfbcbs.com
-metamasbdfbcv.com
 metamasc-apps.com
 metamasc.io
 metamasc.net
@@ -75488,6 +75486,7 @@ rumblekongleague.nft-premint.com
 rumblekongleague.web3fast.net
 rumbleracingstar.web3-airdrop.net
 rumblerzfight.club
+runjokab.wpenginepowered.com
 runnenxwaallxtz.godaddysites.com
 runnerlands.pw
 runonflux.xyz
