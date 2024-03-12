@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 01:21:22 UTC 2024
-# Number of Entries: 106261
+# Fetch date: Tue Mar 12 02:06:28 UTC 2024
+# Number of Entries: 106280
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -7250,6 +7250,7 @@ arbitrum-nova.top
 arbitrum-one.net
 arbitrum-present.com
 arbitrum-project.com
+arbitrum-reward.xyz
 arbitrum-rewards.com
 arbitrum-store.com
 arbitrum-submit.com
@@ -8290,6 +8291,7 @@ auth-defi.live
 auth-dkb-sourc2364657.misecure.com
 auth-fix.pages.dev
 auth-gala.games
+auth-galagames-io.com
 auth-glthub.com
 auth-gmx.io
 auth-googiemal.ml
@@ -12619,10 +12621,12 @@ blast-stage.icu
 blast.connected-web3.net
 blast.dropapp.pro
 blast.eventairdrop.com
+blastambient.finance
 blastclaim.network
 blastcoi.com
 blastdrop.network
 blastdrop.store
+blastdrop.world
 blaste-io.com
 blasterscore.io
 blastingv2.com
@@ -16594,6 +16598,7 @@ claim-bitgert.net
 claim-blast-io.com
 claim-blast.net
 claim-blastgg.xlaunch-pad.xyz
+claim-block.com
 claim-blur.co
 claim-blur.com
 claim-blur.live
@@ -24732,6 +24737,7 @@ decentraland.wl-giveaway.com
 decentralandgame.fun
 decentralandgame.pw
 decentralands.tech
+decentralands.vip
 decentralard.org
 decentralchainhost.website
 decentralead.live
@@ -26527,6 +26533,7 @@ discord-support.info
 discord.connectkava.one
 discord.kava-api.live
 discord.kava-api.one
+discord.kavaguard.link
 discord.kavaguard.one
 discord.kavaguard.top
 discord.kavanet.live
@@ -40368,6 +40375,7 @@ join-base.com
 join-base.xyz
 join-befilabs.com
 join-blast.io
+join-blockgames.com
 join-blockgames.xyz
 join-blur.com
 join-blur.in
@@ -42871,6 +42879,7 @@ ledgerrlivess.org
 ledgers-live.com
 ledgers-live.org
 ledgers.network
+ledgers.support
 ledgersconnects.co
 ledgersetup.org
 ledgerslive.org
@@ -43586,6 +43595,7 @@ link-whitelist.com
 link.conect-access.com
 link.gatekava.xyz
 link.kava-api.live
+link.kavaguard.support
 link.kavaprotect.com
 link.kavashield.help
 link.kavashield.icu
@@ -46269,6 +46279,7 @@ mail.paxfuldisputemoderators.com
 mail.paxfuldisputesmoderator.com
 mail.paxfulmarket.com
 mail.paxsecurity-paxful.com
+mail.pepegift.lol
 mail.phantomm.app
 mail.polismetis.io
 mail.pool-interface.site
@@ -47610,6 +47621,7 @@ mavia.website
 mavia.work
 maviagames.network
 maviagames.xyz
+maviiaa.com
 mavis-service.company
 mavis.roninchain.company
 mavishub.axie-service.com
@@ -61727,6 +61739,7 @@ opretrobadge.com
 ops-drop.live
 opsecai-claim.com
 opsecc.software
+opsecloud.com
 opsensea-web3.com
 opsensea.io
 opsnsea.io
@@ -71883,6 +71896,7 @@ pudypenquins.world
 puff-verse.netlify.app
 puffcakeswap.finance
 puffer-2a0.pages.dev
+puffer-quesst.info
 puffer.pages.dev
 pugdypengiuns.com
 pugdypenguin.com
@@ -72254,6 +72268,7 @@ qlink-ico.com
 qmm-group.com
 qna3.io
 qna3.sbs
+qna3token.net
 qnt.defihubs.top
 qnt.infinitedrops.top
 qobllmtown.wtf
@@ -73578,6 +73593,7 @@ registration-apefest.com
 registration-arbitrum.xyz
 registration-ator.com
 registration-ator.io
+registration-basedbrett.com
 registration-blast.io
 registration-blockgames.com
 registration-blur.io
@@ -90207,6 +90223,7 @@ wa1let.xn--mmonero-v2a.com
 wa1let.xn--mymnero-c1a.com
 wa1let.xn--mymnero-n0a.com
 wab-synchronise.com
+wabanetworks.com
 wabicoin.co
 wabisaabinft.xyz
 wabitoken.com
@@ -98809,6 +98826,8 @@ www.matprima-pa.com
 www.matr1x.shop
 www.maverickdao.org
 www.mavia.comapp.hu54.com
+www.mavia.comapp.yaya6.com
+www.mavia.la
 www.mavia.lc
 www.mavias.club
 www.mavla.xyz
