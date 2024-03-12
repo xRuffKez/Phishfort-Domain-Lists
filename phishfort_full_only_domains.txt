@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 11:01:33 UTC 2024
-# Number of Entries: 106317
+# Fetch date: Tue Mar 12 12:02:08 UTC 2024
+# Number of Entries: 106323
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -8088,6 +8088,7 @@ atencionparati.edavivienda.repl.co
 atendimentchevrolet.cloud
 ateranda.top
 atexchange.tech
+atf.mkwk.one
 athen-vystarc.web.app
 atikotrade.com
 atimicwallet.io
@@ -33412,6 +33413,7 @@ fly-frontiier.com
 fly-promo.online
 flybitex.com
 flydaddys.com
+flyemirates.cloud
 flyemirates.space
 flyemiratescareer.com
 flyemiratesonline.com
@@ -48711,6 +48713,7 @@ metamark.site
 metamas.one
 metamasak-wallet.godaddysites.com
 metamasak.cc
+metamasbdfbcbs.com
 metamasc-apps.com
 metamasc.io
 metamasc.net
@@ -71945,6 +71948,7 @@ puleschain.com
 pull-750.mavis-hub.axieinfinity.services
 pulpapt.site
 pulsartoken-giveaway.com
+pulse-bridge.app
 pulse-bridge.co
 pulse-chainbridge.vercel.app
 pulse.dappcrate.com
@@ -80363,6 +80367,7 @@ stargate-edo.pages.dev
 stargate-event.net
 stargate-finance.app
 stargate-finance.in
+stargate-finance.io
 stargate-finance.requests-web3-bounty.online
 stargate-finance.website
 stargate-finance.xyz
@@ -82783,6 +82788,7 @@ synthetixcoin.com
 synthetixfinance.info
 synthetixio.com
 synthetixprotocol.org
+synthetixreward.com
 synthetlx.com
 synthetxi.io
 synthswallet.com
