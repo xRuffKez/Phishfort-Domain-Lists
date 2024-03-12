@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 11 23:02:12 UTC 2024
-# Number of Entries: 7906
+# Fetch date: Tue Mar 12 00:07:06 UTC 2024
+# Number of Entries: 7902
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -790,7 +790,6 @@ astroakashvani.com
 asuccessfulgarage.com
 asx-martdeskeia.com
 asx-tsdkgt.com
-asx-vip.com
 asx.center
 asx.mobi
 asxcoinbr.com
@@ -870,7 +869,6 @@ axsiesinfinity.com
 azarlegal.com
 azukiairdrop.netlify.app
 aîrtm.com
-b4xwdsgsup.islannel.sbs
 ba.inletuta.online
 babydogswap.com.web-app3.cfd
 babygrok-ai.com
@@ -907,7 +905,6 @@ bang-blast.io
 bankinging.com
 bankless-claims.net
 banklessdrop.coinsupportlive.com
-bankofamericaescrowservice.com
 barleyapp.finance
 barnbridge.pro
 bartellers.com
@@ -1327,6 +1324,7 @@ chainlink-drop.com
 chainlink.us.to
 chainlinkairdropweb3.org
 chainlinklabsv2.com
+chainlsiit.com
 chainmulticoin.pages.dev
 chains.authsyncontracts.com
 chainsextension.com
@@ -1531,7 +1529,6 @@ codefi.ws
 codeflick.site
 codexchain.org
 codexlabs.xyz
-coi9ngecko.com
 coiappresolve.pages.dev
 coiauthapp.pages.dev
 coiiabland.net
@@ -1551,10 +1548,6 @@ coinbsc.com
 coinchanger.live
 coindappfixes.pages.dev
 coindas.top
-coingeck9.com
-coingeckk.com
-coingecmo.com
-coingecoko.com
 coinlaunchpad.netlify.app
 coinmarketcap-app-auth.web.app
 coinmarketcap-auth-web.web.app
@@ -1670,7 +1663,6 @@ connect.nghire.com
 connect.watchkava.xyz
 connect1038.lol
 connectapeterminal.io
-connectdappfix.pages.dev
 connectdappsuniverse.click
 connectextension.info
 connectionesupply.com
@@ -1688,7 +1680,6 @@ consensys-verification.com
 consensys.web3-provide.com
 consensysclaim.com
 consorciochevroletmd.com.br
-contact.featture.click
 contarctdrop.pages.dev
 contractclaim.netlify.app
 convert-dgcoin.com
@@ -2341,6 +2332,7 @@ ethyourgas.com
 etr-407-payment.com
 etr407.ca
 evaultbuzzfix.com
+event-blockgames.com
 event-etf.com
 event-faccana.com
 event-flashprotocol.xyz
@@ -2357,6 +2349,7 @@ event.chainspads.top
 event.coinbpad.top
 event.farcanaofficial.com
 event.rewardcoin.top
+event.stockcoin.top
 event.xfinespad.top
 eventfarcana-airdrop.vercel.app
 events-altlayer.com
@@ -2902,6 +2895,7 @@ idex-crypto.vip
 idypians.xyz
 iexeces.app
 igxegift.com
+iktrjrfusah.icu
 ilayeir3.xyz
 ilfinity.io
 ilie.zerion.biz
@@ -3049,6 +3043,7 @@ jkyr.pro
 joblessassistanceportal.net
 join-aofverse.com
 join-befilabs.com
+join-blockgames.xyz
 join-collabland-sync.net
 join-etherfi.com
 join-etherfi.work
@@ -3117,7 +3112,6 @@ jup-start.com
 jup-test-46s.pages.dev
 jup.claims
 jup.red
-jup.to
 jup005.com
 jup111.com
 jup12.com
@@ -3620,6 +3614,7 @@ manlla.network
 manmta.network
 manpta.network
 manranetwcrk.com
+mant-app.com
 manta-6om.pages.dev
 manta-aidrop.network
 manta-air.xyz
@@ -3862,7 +3857,6 @@ maviagames.network
 maviagames.xyz
 maylucenaa.com
 mcf.promo
-mcrccd.org
 mdexcloudapp.xyz
 mdtp.rhknt.ru
 mducksspace.com
@@ -4548,7 +4542,6 @@ niburufi-registers-verify.vercel.app
 nisaconert.top
 nisaconert.vip
 nisaconvert.vip
-nisacrypto.vip
 njdianarise.com
 njmvdu.pro
 nkjs0.ru.com
@@ -4589,7 +4582,6 @@ notcoin.host
 nowoplunge.com
 npaautocare.com
 npaautocare.zouxiaodong.workers.dev
-npovver.com
 numboost.ru
 nusuk.site
 nusukbaitullahint.id
@@ -4604,6 +4596,7 @@ o2online-service.de
 oamp.vercel.app
 oasisprotocols.org
 ob-app.com
+ocbre.com
 ocdpool.xyz
 oceantoken.net
 ocmordinals.xyz
@@ -4725,7 +4718,6 @@ optimism.airdrops-claiming.cc
 optimism.claim-airdrop.pro
 optimism.io-op-claim.top
 optimism4.com
-optionvail.net
 optiver2.com
 optiveronline.com
 optivertradeoptions.com
@@ -5187,7 +5179,6 @@ portfoliometamask.com
 portlacoin.xyz
 portofilio-meta-mask-dapps.185-253-219-62.cprapid.com
 powermattion.com
-ppbentle.com
 prayerforjamal.com
 pre-ico.live
 preferbehavioral.com
@@ -5476,6 +5467,7 @@ rebirthcreepz.com
 receive-jup.app
 receive-orivium.io
 receive-zetachaincom.pages.dev
+receive.pilxeisgame.xyz
 receivemask.io
 receivemetamask.com
 receiveusdc.com
@@ -7042,7 +7034,6 @@ web3nexa.com
 web3nodeconnection.org
 web3pancakeswap.com
 web3resolve.pages.dev
-web3resolvepage.pages.dev
 web3resolvepage.tech
 web3sushiwap.com
 web3sy.top
@@ -7395,6 +7386,10 @@ www.img.m.api.blog.api.mail.pancakeswaps.org
 www.imtoken-im.team
 www.interdigitalba.com
 www.interdigitalbc.com
+www.interdigitaldf.com
+www.interdigitaldfe.com
+www.interdigitaler.com
+www.interdigitalker.com
 www.interdigitaltba.com
 www.ixspool.xyz
 www.jamiod.com
@@ -7471,6 +7466,7 @@ www.multiversechainx.com
 www.mwallet8.com
 www.my43.icu
 www.myetherwallet.cm
+www.myetherwalletae.org
 www.myetherwalletta.org
 www.mynorway.net
 www.mypepsico.live
@@ -7832,7 +7828,6 @@ zircuit-app.one
 zircuit-app.org
 zircuitprotocol.xyz
 zircuits.xyz
-zjvslnnrkw.olep0.com
 zk-beam.org
 zk-bemd.app
 zk-bemd.org
@@ -7877,6 +7872,7 @@ zkslabsfoundation.com
 zksrewardsclaim.net
 zksycn.net
 zksymc.github.io
+zksynapse.network
 zksync-airdrop.mooo.com
 zksync-airdrop.one
 zksync-bridge.world
