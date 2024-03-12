@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 22:02:07 UTC 2024
-# Number of Entries: 7937
+# Fetch date: Tue Mar 12 23:02:45 UTC 2024
+# Number of Entries: 7925
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -604,6 +604,7 @@ app.airtm31.com
 app.airtm5.com
 app.airtm7.com
 app.airtms.com
+app.allocations-vanarchain.com
 app.altlayer-web3.com
 app.authsyncontracts.com
 app.baseswapp.network
@@ -693,7 +694,6 @@ apt.500-web3.top
 apt.drop-fund.top
 aptclaim.net
 aptos-7eo.pages.dev
-aptos-network.pw
 aptos.trusthubs.top
 aptosfoundation.info
 aptosfundation.com
@@ -1039,7 +1039,6 @@ bitkubb.lockchain.net
 bitkubbloc.kchain.net
 bitkubblockch.ain.net
 bitkubs.com
-bitpapa.trading
 bitpay.com.de
 bitpulseportal.com
 bitrextrades.xyz
@@ -1292,7 +1291,6 @@ cases-blockfi.com
 cases-stretto-com.net
 caspers.network
 caw.gift
-cb-mex.net
 cbfeb953b53417d5.net
 cbgyf.pages.dev
 cblre.com
@@ -1739,7 +1737,6 @@ crtoadznew.com
 crv.fi
 crypto-communities.com
 crypto-community.org
-crypto-escort.com
 crypto-payments.xyz
 crypto-starknets.com
 crypto.met-group.xyz
@@ -1779,7 +1776,6 @@ cyberdogecoin.org
 cyberdogecoin.top
 cyberkongz.pro
 cyberx-staging.vercel.app
-cyberz-dck.club
 cyberz-dck.com
 cyberz-dck.xyz
 d.stonexdmffh.top
@@ -3061,7 +3057,6 @@ jenpower.net
 jerrybeers.com
 jggbbestforyou.com
 jggo.mypi.co
-jiitonetwork.com
 jito-bonus.com
 jito-drop.com
 jitocoins-network.com
@@ -3809,7 +3804,6 @@ manzta.network
 maokmspk.org
 maplestorysuniverse.io
 marchigue.cl
-marginfi-drop.netlify.app
 marinadefinance.claims
 market-place-bids.com
 marketcap-coins.com
@@ -4327,8 +4321,6 @@ multicoinsystem.web.app
 multidapps.app
 multidappsnetwork.com
 multidappsrectification.pages.dev
-multihub-connection.com
-multihubconnection.com
 multinoderesolve.pages.dev
 multinodetech.xyz
 multiplier-bitstable.finance
@@ -4638,7 +4630,6 @@ ofertaschev.com
 off5th.saksoff5thz.com
 offer-rarible.com
 offers-opensae-io.codeanyapp.com
-officesturdy.top
 official-dappradar.com
 officialphantom.com
 officineimmagine.it
@@ -5273,7 +5264,6 @@ pub-17e2d2e910694763a8cb5ff43c671f14.r2.dev
 pub-1c497a63b4ea4d20835eafbe23631624.r2.dev
 pub-2eef0dd9364d4248b298f5e4c6db0eb4.r2.dev
 pub-306b361010174008ab5773c839617c85.r2.dev
-pub-494a6033e65c4242a7370986f32557a1.r2.dev
 pub-85b87193f4154021895964b1f361f7ba.r2.dev
 pub-c7119d8cef5d4359861e1426cf37c62c.r2.dev
 pub-e9989cc0d26d4a2f9e7017c197e26310.r2.dev
@@ -5738,7 +5728,6 @@ rezeptfrei.shop
 rezoprotocol.com
 rfw4sdsklb.woorobaher.tech
 rhhrpka.pro
-rhino-fi.gift
 rhinodao.app
 riboutlaw.top
 righteousforever.com
@@ -6247,7 +6236,6 @@ starknet-now.network
 starknet-now.pics
 starknet-pro.icu
 starknet-reward.network
-starknet.cointon.org
 starknet.metawineth.space
 starknet.press
 starknet.sk
@@ -6413,7 +6401,6 @@ syneoscareer.com
 syngswap.github.io
 synthetixreward.com
 systemvaults.tech
-szyllfgzsd.doralellox.tech
 t.co-lyw32ad7i85.com
 t528.com
 t5nv5.cc
@@ -7162,6 +7149,7 @@ whitelist-woo.pages.dev
 whitelisting-wormhole.com
 whitelistings-wormhole.com
 whitelistrabby.pages.dev
+whitelists-getblockgame.com
 whitelists-redstone.com
 whitelists-roninchain.com
 wigggin.com
