@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 05:02:26 UTC 2024
-# Number of Entries: 106288
+# Fetch date: Tue Mar 12 06:02:10 UTC 2024
+# Number of Entries: 106291
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -8292,6 +8292,7 @@ auth-dkb-sourc2364657.misecure.com
 auth-fix.pages.dev
 auth-gala.games
 auth-galagames-io.com
+auth-games-galas.online
 auth-glthub.com
 auth-gmx.io
 auth-googiemal.ml
@@ -20897,6 +20898,7 @@ cowrabuilders.com.au
 cowsswap.io
 cowswap-dashboard.com
 cowswap-token.exchange
+cowswap.app
 cowswap.finance
 cowswap.io
 cowswap.online
@@ -39111,6 +39113,7 @@ imtoken-p9.xyz
 imtoken-pro.info
 imtoken-pro.io
 imtoken-q8.com
+imtoken-qw.pro
 imtoken-safe.com
 imtoken-sib.site
 imtoken-sib.xyz
