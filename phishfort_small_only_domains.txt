@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 08:02:39 UTC 2024
-# Number of Entries: 7973
+# Fetch date: Tue Mar 12 09:02:31 UTC 2024
+# Number of Entries: 7968
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -15,7 +15,6 @@
 0penseamystery.vercel.app
 0penseapro-click.vercel.app
 0x4ee15erf903e2634abe0e.com
-0xjcgmkskey941zulaa4pz.host
 0xprotocol.site
 1-88y.pages.dev
 1-inch.asia
@@ -176,7 +175,6 @@ active-supp-ort-meta.netlify.app
 acva-centr.online
 adailypath.com
 admin.booking-login.com
-adp-vantage.com
 adpunily.azurewebsites.net
 adslauncher.eu
 advancelobstarhifi.pages.dev
@@ -703,7 +701,6 @@ apygate.rpctool.net
 ar-ship.eu
 arab-bkplc.com
 arabbplc-ae.com
-arabi.page.link
 aramex-delivery.me
 aramexame.com
 aramexservicevktb.world
@@ -1111,6 +1108,7 @@ blockchain-issues-resolv.netlify.app
 blockchain-node-beta.vercel.app
 blockchainbets.netlify.app
 blockchaindapp-dri.pages.dev
+blockgames-registration.com
 blocknodechains.com
 blocknonc.firebaseapp.com
 blocknonc.web.app
@@ -3225,7 +3223,6 @@ keyst-one.com
 kfusl.com
 kgatn.pro
 kier-careers.co.uk
-killaverse.eu
 kimimart.com
 kingroofing.com
 kitty-inu-dao.com
@@ -3987,8 +3984,6 @@ metamainnetfix.netlify.app
 metamank.io
 metamaok.cn
 metamaok.com
-metamasbdfbcbs.com
-metamasbdfbcv.com
 metamasc-apps.com
 metamask-2.com
 metamask-3.com
@@ -5826,6 +5821,7 @@ rtfktforge.pro
 rubic-exchange.life
 rubytechnology360.com
 rukmaidental.com
+runjokab.wpenginepowered.com
 rvoke.cash
 rx-nt.duckdns.org
 rz7wjw.info
@@ -6440,7 +6436,6 @@ syneosbio.com
 syneosbiocareer.com
 syneoscareer.com
 syngswap.github.io
-synnex.vip
 systemvaults.tech
 szyllfgzsd.doralellox.tech
 t.co-lyw32ad7i85.com
