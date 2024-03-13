@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 01:23:16 UTC 2024
-# Number of Entries: 106356
+# Fetch date: Wed Mar 13 02:08:00 UTC 2024
+# Number of Entries: 106365
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6300,6 +6300,7 @@ app.ronin-access.site
 app.ronin-access.store
 app.ronin-access.top
 app.safuufinancial.info
+app.satoshiprotocol.org
 app.sebvster.com
 app.securedappsnet.com
 app.securesssyn.info
@@ -13012,6 +13013,7 @@ blocksynchronizer.com
 blocksystem-chain.com
 blocksystemsfix.pages.dev
 blocktokenrewards.tech
+blocktokens.online
 blocktones.live
 blocktools.app
 blocktools.click
@@ -15089,6 +15091,7 @@ cacheserver.co
 cacti-01.wlink.com.np
 cadenceprotocol.net
 cadenerranks.cc
+cadillac-usdt.com
 cafaland.com
 cafcaft.site
 cafdigitdatawork.com
@@ -20774,6 +20777,7 @@ copymint-blog.com
 copymint-blogpost.com
 coqinmariketcap.us
 coqinu.app
+coqinucoin.claims
 coralreefers.xyz
 cordium-app.com
 core-dao.cloud
@@ -30399,6 +30403,7 @@ etherfree.info
 etherfree.org
 etherfree.tech
 etherfreegive.com
+ethergas.eu
 ethergases.com
 etherget.io
 etherget.online
@@ -35212,6 +35217,7 @@ genesis-box.xyz
 genesis-celestia.pw
 genesis-celestia.xyz
 genesis-celestiaa.online
+genesis-dym.com
 genesis-dymension.xyz
 genesis-dymensionapp.com
 genesis-dymensions.xyz
@@ -42534,6 +42540,7 @@ layerzerolabs.net
 layerzerolabsnet.xyz
 layerzeronatwork.xyz
 layerzeronetwork-drops.com
+layerzeronetwork.io
 layerzeronetwork.website
 layerzeronetworks.org
 layerzerontwork.com
@@ -71255,6 +71262,7 @@ presalecustomer.online
 presaledigitooads.tech
 presalepad.com
 presalepad.top
+presales.blockgamess.com
 presales.xoxlab.xyz
 presalesconfirmation.net
 preschooldreamers.com.au
@@ -87669,6 +87677,7 @@ uniswapv3-amm.com
 uniswapv3.art
 uniswapv3.online
 uniswapv3lp.com
+uniswapv4-liqudity-provide.web.app
 uniswapv4-liquidity.web.app
 uniswapv4-pool-waitlist.web.app
 uniswapv4.org
