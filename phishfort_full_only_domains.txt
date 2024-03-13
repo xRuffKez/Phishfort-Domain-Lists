@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 02:08:00 UTC 2024
-# Number of Entries: 106365
+# Fetch date: Wed Mar 13 03:01:39 UTC 2024
+# Number of Entries: 106388
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1666,6 +1666,7 @@ aappgalagames-pagehome.com
 aarb-claim.info
 aarb-reward.xyz
 aark.finance
+aark.pm
 aarkdigital.io
 aatranferinc.com
 aavadrop.com
@@ -3530,6 +3531,7 @@ airdrop-walletapp.pages.dev
 airdrop-walletconnect.kyc-regulations.info
 airdrop-weway.com
 airdrop-worldcoin.com
+airdrop-wtoken.com
 airdrop-zeroiand.xyz
 airdrop-zerolend.app
 airdrop-zerolend.network
@@ -3595,6 +3597,7 @@ airdrop.com.de
 airdrop.consenyslabs.net
 airdrop.credit
 airdrop.cryptspools.com
+airdrop.debank-token.com
 airdrop.debank.vc
 airdrop.dedepepekiiler.com
 airdrop.dexcoins.top
@@ -9792,6 +9795,7 @@ b24.medianation.ru
 b2b.pancakeswape.finance
 b2b.pancakeswasap.one
 b2qh.everythings4rent.com
+b2xb.pro
 b40d9440.90257743f86d9260ea5a8bbd.workers.dev
 b4grifyo45uuqds.03-www.host25.pancakeswape.finance
 b4nekl.site
@@ -15568,6 +15572,7 @@ celatis.tools
 celatis.xyz
 celebration-binance.netlify.com
 celebration-eth.com
+celebrators.pk
 celeista.org
 celendarhalf.top
 celephaisofficial.xyz
@@ -16179,6 +16184,7 @@ checkdbonline.xyz
 checkdepth.org
 checkdot-promogive.com
 checker-looksrare.site
+checker-whole.app
 checkiing-id.live
 checkmyoffers.xyz
 checknft.art
@@ -32124,6 +32130,7 @@ extserum.cloud
 extserum.site
 exudoswa11et.com
 exwo.online
+exxon-limited.lol
 exxplorerprotocol.online
 exxtemnsion-chromme-onlines.com
 exybbk.work
@@ -32163,6 +32170,7 @@ f2pool-mining.net
 f2pool.live
 f2poolmining.net
 f2pools.cc
+f47jx6.pro
 f7ftb98uihy878t67r.com
 f89badf5.7acd740c665c9b25ec20d877.workers.dev
 f8toi9.whcwzs.com
@@ -35227,6 +35235,7 @@ genesis-x-ads.com
 genesis.dymansion.xyz
 genesis.dymensjon.xyz
 genesis.dymenstion.xyz
+genesis.dynmension.xyz
 genesisapiens.xyz
 genesisblockapp.com
 genesisbox-doodles.app
@@ -40718,6 +40727,7 @@ jupiters-web3.app
 jupiters-web3.net
 jupiters-web3.org
 jupjup.lat
+jupjup8.com
 juppbox.biz
 juppbox.vip
 juppboxes.app
@@ -43007,6 +43017,7 @@ legrconnect.com
 legregi.site
 leimar0.blogspot.com
 leinea.online
+leisureglob.com
 lekha.net
 lelazaer.site
 lelectrum.com
@@ -47664,6 +47675,7 @@ mavia-home.com
 mavia-web3.org
 mavia.cc
 mavia.land
+mavia.lc
 mavia.pages.dev
 mavia.web3-airdrop.net
 mavia.website
@@ -48087,6 +48099,7 @@ memecoin.web3-collection.com
 memecoin.web3-request.com
 memecoin.web3claim.tech
 memecoin.web3claimers.com
+memecoin.ws
 memecoin.yt
 memecoin69.com
 memecoinb.com
@@ -48278,6 +48291,7 @@ meritsync-presalestoken.com
 merkle-root.com
 merkle.cash
 merlin-chain.com
+merlin.meson.fi
 merlinchain.network
 merlinlayer.app
 mermeskobrots.com
@@ -52054,6 +52068,7 @@ migrate-elongatetoken.com
 migrate-feg.com
 migrate-fegtoken.com
 migrate-fegtoken.live
+migrate-firsttensor.shop
 migrate-fix.pages.dev
 migrate-fqs.pages.dev
 migrate-hedron.com
@@ -53378,6 +53393,7 @@ morlton.net
 morning.planetough.best
 morningmoonvillage.space
 morningstarinvt.com
+morossnet.xyz
 morpheuscommunity.net
 morphtoken.co
 moshcuoss.com
@@ -59304,6 +59320,7 @@ nibc-nv.com
 nibcbanks.nl
 nibiairdrop.net
 nibidrop.com
+nibiru-eligiblity.com
 nibiru.uk
 nibiruairdrops.life
 nibirudrop.top
@@ -62618,6 +62635,7 @@ pallcakeswap.finance
 pallcekeswap.cloud
 pallkaceswep.finance
 pallkakesvvep-api.com
+palmai-tech.web.app
 palmai-techi.vercel.app
 palmako.site
 palmpositive.com.au
@@ -74060,6 +74078,7 @@ rethlp.com
 retik-finance.pages.dev
 retik.app
 retikapp.xyz
+retikclaim.web.app
 retinabd.org
 retlik.com
 retratandoimagens.com
@@ -81923,6 +81942,7 @@ swapcurve.fun
 swapdaffix.store
 swapdaoconnect.com
 swapdex.tokens-aword.com
+swapdly.javaswap.io
 swape-pancakee.godaddysites.com
 swapepoocoine.blogspot.com
 swapexbase.com
@@ -88253,6 +88273,7 @@ usdcapp.org
 usdcaward.com
 usdcbalance.com
 usdcbonus.com
+usdcbonus.io
 usdcbonus.net
 usdcclaims.com
 usdccoin-base.com
@@ -94964,6 +94985,7 @@ wt1kom.org
 wt1koms.com
 wt1koms.org
 wtfgoblin.xyz
+wtoken-claim.com
 wtrx.vip
 wtullet.com
 wu-ftx.com
@@ -105850,6 +105872,7 @@ zeropad.top
 zeropointstudios.xyz
 zerosea-nft.com
 zerosea.org
+zerounibaseslp.pages.dev
 zeroxgakuen.truly-minting.com
 zerrion.co
 zerrion.net
