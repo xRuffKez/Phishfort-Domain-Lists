@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 03:02:10 UTC 2024
-# Number of Entries: 7962
+# Fetch date: Wed Mar 13 04:02:45 UTC 2024
+# Number of Entries: 7969
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -510,6 +510,7 @@ api-rectifynode.pages.dev
 api-verification-sofa.pages.dev
 api.alpha.superset.ethshapella.com
 api.kava-api.live
+api.kavaglobal.one
 api.kavaguard.top
 api.kavanet.pro
 api.kavashield.icu
@@ -1087,6 +1088,7 @@ blast-newsletter.com
 blast-stage.icu
 blast.dropapp.pro
 blast.eventairdrop.com
+blast2l.com
 blastambient.finance
 blastcoi.com
 blastdrop.store
@@ -1749,6 +1751,7 @@ crtoadznew.com
 crv.fi
 crypto-communities.com
 crypto-community.org
+crypto-farm-trust.com
 crypto-payments.xyz
 crypto-starknets.com
 crypto.met-group.xyz
@@ -1807,6 +1810,7 @@ daoprotocol.pages.dev
 daosystems.pages.dev
 dap-radar.com
 dapi.re
+dapp-aicontract.com
 dapp-altlayer.io
 dapp-mainnet-sync.web.app
 dapp-node.vercel.app
@@ -5190,6 +5194,7 @@ poiyhedra.net
 pokarswaps.space
 pol.zcadk.cn
 poligonka-steking.top
+polkadex.online
 poloniex-assets.com
 poncakeswap.finance
 pond0x.trading
@@ -5979,6 +5984,7 @@ shiabrams.netlify.app
 shib-token.com.babydoge.io
 shiba-3.web.app
 shiba-token.net
+shiba-tokens.best
 shiba.free-500.top
 shiba2.xyz
 shibafree.com
@@ -7475,6 +7481,7 @@ www.live-tiktok.shop
 www.login.verificationpaxful.info
 www.lottomaticagamingportal-gamenet.it
 www.loyaltyprogramframe.com
+www.m.qna3-app.com
 www.mag-pie.xyz
 www.magpiexyz.click
 www.mail.cpcalendars.gitlab.mail.pancakefiance.org
@@ -7659,7 +7666,7 @@ www.staging.home.hostmaster.coingecko.hatsuqat.com
 www.staging2.optumspecialtyin.com
 www.stakeyearn.fi
 www.stakingritestream.io
-www.surnty.com
+www.swap-omax.pro
 www.swisroger.net
 www.syncodapps.online
 www.synth-swap.io
