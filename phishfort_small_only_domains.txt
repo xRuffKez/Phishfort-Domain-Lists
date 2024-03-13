@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 22:02:10 UTC 2024
+# Fetch date: Wed Mar 13 23:02:23 UTC 2024
 # Number of Entries: 7963
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -389,6 +389,7 @@ allianceblock-io.events
 allin1.cx
 allliq.site
 allocate-starknet.com
+allocation-getgrass.com
 allocation-jup.trading
 allocation-pixels.com
 allocation-roninchain.com
@@ -5175,7 +5176,6 @@ plantajohnsoncontrols.com
 platform-tycoon.xyz
 play-gamer.com
 play-pixelsapp.xyz
-play-shrapnel.com
 playbux.info
 playbuxdrop.xyz
 playember-57a.pages.dev
