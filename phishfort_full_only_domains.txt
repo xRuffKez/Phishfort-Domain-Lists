@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 23:02:12 UTC 2024
-# Number of Entries: 106335
+# Fetch date: Wed Mar 13 00:05:09 UTC 2024
+# Number of Entries: 106341
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -5526,6 +5526,7 @@ app-eckoteira.tech
 app-eckotera.live
 app-eckotiera.live
 app-eckotierra.pro
+app-eclipse.xyz
 app-ekateieira.pro
 app-ekoatira.pro
 app-ethena.xyz
@@ -6025,6 +6026,7 @@ app.airtm7.com
 app.airtms.com
 app.ajrtm.cam
 app.allbridge.site
+app.allocations-chihuahua.com
 app.allocations-vanarchain.com
 app.alpaca-finance.org
 app.alpacafinanc.org
@@ -7808,6 +7810,7 @@ as.xmobi.app
 as7tlqsacdzry52.www.ecommerce.pancakeswape.finance
 asacanelbrazzz.blogspot.com
 asacear.site
+asals.info
 asapmetamask.dedyn.io
 asaptrips.com
 asbath.store
@@ -10827,6 +10830,7 @@ beraberkazan.store
 berachain.legal
 berachain.web3-qr.org
 berachain.wins-mint.com
+berachainairdrop.com
 berachains.com
 berachian.one
 berchian.one
@@ -59409,6 +59413,7 @@ njwc.ah-care.com
 nk-authcoinbase.com
 nkbihfbeogaeaobhlefnkodbefgpgknn.com
 nkbihfbeogaeaoehlefnkodbefgpgkmn.cc
+nkbihfbeogaeaoehlefnkodbefgpgknn.metamaskk.skyhighfirstclass.com.ng
 nkftransporte.com
 nkjs0.ru.com
 nkn-token.io
@@ -86727,6 +86732,7 @@ umuco-mint.xyz
 umusic-digital.com
 umusic-pub.com
 umusic.co.in
+umusiceu.com
 umusicpublishinggroup.com
 umwltt.work
 umxpc.strovesqu.ru
