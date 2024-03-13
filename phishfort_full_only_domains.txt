@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 06:01:57 UTC 2024
-# Number of Entries: 106396
+# Fetch date: Wed Mar 13 07:01:36 UTC 2024
+# Number of Entries: 106400
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -26392,6 +26392,7 @@ digidaingaku.com
 digidalgaku.net
 digietoads.com
 digiitoads.world
+digimetamask.com
 digiminer.io
 digiminers0-free.xyz
 digipenguins.net
@@ -42926,6 +42927,7 @@ ledgernanos.online
 ledgerofficial.xyz
 ledgerpromo.live
 ledgerr.live
+ledgerreclaim.com
 ledgerrecovery.com
 ledgerrlive.com
 ledgerrlive.org
@@ -53195,6 +53197,7 @@ moonbeamapi.app
 moonbeamc.foundation
 moonbeamm.online
 moonbeams-web.com
+moonbeams-web3.com
 moonbeamstaking.com
 moonbeamsupport.com
 moonbeamunlock.com
@@ -59326,6 +59329,7 @@ nibiru.uk
 nibiruairdrops.life
 nibirudrop.top
 nibiruioairdrop.xyz
+nibirun-web3.com
 nibiruprojectdrop.xyz
 nibiry-app.top
 niburufi-registers-verify.vercel.app
