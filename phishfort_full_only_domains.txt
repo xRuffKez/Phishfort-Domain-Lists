@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 20:01:53 UTC 2024
-# Number of Entries: 106439
+# Fetch date: Wed Mar 13 21:01:28 UTC 2024
+# Number of Entries: 106442
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4421,6 +4421,7 @@ alshayagroupa.com
 alshayagroupa.net
 alshayagroupae.company.site
 alshayagroupk-s.company.site
+alshayagroupom.company.site
 alshayagroupuae.com
 alshayagroupuae.company.site
 alshayakuwait.com
@@ -44991,7 +44992,6 @@ login.coinbasesupportscenterid.com
 login.coinbasesupportsid.com
 login.coinbasewalletsupport.com
 login.coinbasewalletsupports.com
-login.cw1.ir
 login.fraend.net
 login.frame-airdrop.xyz
 login.lblockhcoin.com
@@ -67945,6 +67945,7 @@ paylocity.sa.com
 paylocity.za.com
 paylocityapis.com
 payloo.city
+paylooity.com
 paym-paxful.com
 payment-407etr.com
 payment-ethereum.online
@@ -83111,6 +83112,7 @@ taurus-eth.vip
 tavaressinformaticabrazz.blogspot.com
 tavsonat.site
 tawkbridge.online
+tawuniya.online-link.net
 taxclerence.gq
 taxclerenceo.ga
 taxi.pancakeswasap.one
@@ -94699,6 +94701,7 @@ withsupportaids.com
 wiw-ftx.com
 wizdemshare.com
 wizfairllc.com
+wizink.cartoespt-app.online
 wizverse.io
 wizzair-com.com
 wizzardking.com
