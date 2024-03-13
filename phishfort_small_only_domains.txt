@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 09:03:11 UTC 2024
-# Number of Entries: 7955
+# Fetch date: Wed Mar 13 10:02:21 UTC 2024
+# Number of Entries: 7953
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1282,7 +1282,6 @@ camelot.magpiexyz.io.web-3.li
 camshowsrecorded.com
 cancelar1-cambio.webcindario.com
 cancelar5-cambio.webcindario.com
-caoltis.cc
 capsule-zskync.net
 captainj-dao.vercel.app
 caraji.com
@@ -1532,6 +1531,7 @@ clickopenboxnft.vercel.app
 client.plataformainteractivebrokers.com
 clifardchancegroups.com
 cliffardchance.com
+clifford-chance-llp.com
 clifford-chance.accountant
 clifford-chance.financial
 clifford-chance.holdings
@@ -2468,6 +2468,7 @@ finance-decrypt.com
 finceptur.com
 fireblocks-sso.com
 fireblocks.nodeorigins.com
+fireblockscrypto.com
 first-braved.info
 fitness-solution24.de
 fix.errorsolution.org
@@ -3040,7 +3041,6 @@ invoices-407etr.com
 io-dex.tools
 io-ultra-net.vercel.app
 io.velodromefinance.network
-ioqmmfl22.ukit.me
 iotmodysbln.com
 ipgroup-lnc.com
 iptv.skin
@@ -3436,7 +3436,6 @@ linae-parks.com
 linea-consensys.world
 linea-layerfinance.com
 linea-park.com
-lineaabuild.com
 lineabridge.build
 lineabuiid.com
 lineadapps.xyz
@@ -4163,7 +4162,6 @@ mfidex.space
 mftx.pro
 mgfryjd.pages.dev
 mh-pharma.com
-mi.raczgroups.club
 micro3.app
 microsfrategy.com
 microsoft-verify.ofisuu.com
