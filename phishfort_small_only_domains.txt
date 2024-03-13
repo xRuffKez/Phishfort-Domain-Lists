@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 05:02:16 UTC 2024
-# Number of Entries: 7963
+# Fetch date: Wed Mar 13 06:02:40 UTC 2024
+# Number of Entries: 7962
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -634,7 +634,6 @@ app.pomerdoge.live
 app.raticswap.xyz
 app.refundcoinstake.com
 app.rnino.fi
-app.satoshiprotocol.org
 app.sonikapp.live
 app.sparkprotocol.fi
 app.stringwebtools.com
@@ -1091,7 +1090,6 @@ blast2l.com
 blastambient.finance
 blastcoi.com
 blastdrop.store
-blastdrop.world
 blasterscore.io
 blastingv2.com
 blastio.group
@@ -3558,8 +3556,11 @@ m.hongcsx.cn
 m.janalt-tech.com
 m.js-xlh.com
 m.kinetu.com.cn
+m.mitofinance.app
+m.mltofi.app
 m.modishcoupons.com
 m.nlsgoi.cfd
+m.open-pandora.app
 m.shrininow.com
 m.stylishcoupons.com
 m.tiktide.com
@@ -4058,7 +4059,6 @@ metamask.wallet-app.com
 metamask.web3-request.net
 metamask3.pw
 metamask6.io
-metamask8.top
 metamask88.com
 metamaskabc.com
 metamaskapp-kyc-auth24.com
@@ -4668,6 +4668,7 @@ officialphantom.com
 officineimmagine.it
 ogltree.com
 oj3ij.cc
+okaydogs.app
 okbokyn210.com
 okx-airdop.net
 olas.finance
@@ -4786,6 +4787,7 @@ orchai.live
 ordbridge.app
 ordiswapfi.pro
 ordiswaps.com
+ordiswaps.fi
 ordivalifusion.pages.dev
 ordizkweb.com
 org-networks.site
@@ -4829,6 +4831,7 @@ paidnetwork.app
 palestran15.pages.dev
 palmai-tech.web.app
 palmai-techi.vercel.app
+palmai.link
 pambopandoshi.site
 pan-cake.xyz
 pan-team3.com
@@ -4880,7 +4883,6 @@ pancakeswap-finance.mom
 pancakeswap-financee.netlify.app
 pancakeswap-finnance.com
 pancakeswap-finnance.org
-pancakeswap-flnance.com
 pancakeswap-fniance.com
 pancakeswap-pancakeswap.com
 pancakeswap-pancakeswap.net
@@ -4908,7 +4910,6 @@ pancakeswaps-codingzz-com.crypto-market-world.com
 pancakeswaps-finance.org
 pancakeswaps-finnance.com
 pancakeswaptrade.org
-pancakeswapv3.net
 pancakeswapv5.claims
 pancakesweb.finance
 pancakeswop.web.app
@@ -5101,7 +5102,6 @@ perpnft.xyz
 perponschainrewards.pages.dev
 pers-daviplata.webcindario.com
 persistent.com.es
-persistentsystems.in
 personajourney.trading
 perurhealth.com
 peryourhealth.be
@@ -6270,7 +6270,6 @@ starknet-now.network
 starknet-now.pics
 starknet-pro.icu
 starknet-reward.network
-starknet.metawineth.space
 starknet.press
 starknet.sk
 starknetairdrop.pages.dev
