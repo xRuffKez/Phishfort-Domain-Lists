@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 10:01:56 UTC 2024
-# Number of Entries: 106410
+# Fetch date: Wed Mar 13 11:01:35 UTC 2024
+# Number of Entries: 106411
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -40275,6 +40275,7 @@ jhfjmyetherwallet.site
 jhghjg.xyz
 jhxdjhgvj.scarexpedition.top
 jianime.nft-premint.xyz
+jiashengtrader.com
 jiashengzh.com
 jibreltoken.in
 jicontrolsnc.com
