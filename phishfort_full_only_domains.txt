@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 22:01:33 UTC 2024
-# Number of Entries: 106445
+# Fetch date: Wed Mar 13 23:01:46 UTC 2024
+# Number of Entries: 106443
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4269,6 +4269,7 @@ allnodeschains.com
 allnodesdaps.com
 allnodeupdate.com
 allocate-starknet.com
+allocation-getgrass.com
 allocation-jup.trading
 allocation-layerzero.network
 allocation-pixels.com
@@ -76123,7 +76124,6 @@ sandbox.pancakeswape.finance
 sandbox.registeres.xyz
 sandbox.tiffanynft.co
 sandbox.us.org
-sandbox.web3-claiming.com
 sandbox.web3fast.net
 sandbox.web3for.com
 sandboxclaim.top
@@ -79672,7 +79672,6 @@ spaceid.connect-claiming.icu
 spaceid.intrasat.net
 spaceid.io-eth.com
 spaceid.it
-spaceid.pre-sale.live
 spaceidairdrop.org
 spaceidprotocol-airdrops.com
 spaceids-airdrop.com
@@ -83660,7 +83659,6 @@ test.daodrop.space
 test.ethmd.org
 test.events.pancakeswape.finance
 test.exchnage.pancakeswape.finance
-test.fulviomenegozzo.com
 test.host121.pancakeswape.finance
 test.host36.pancakeswape.finance
 test.httpsxn--aptos-qfd.com
