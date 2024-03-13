@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 03:01:39 UTC 2024
-# Number of Entries: 106388
+# Fetch date: Wed Mar 13 04:02:11 UTC 2024
+# Number of Entries: 106396
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -5238,6 +5238,7 @@ api.dapp4u.live
 api.exchangespancakeswaps.net
 api.healthyroads.com
 api.kava-api.live
+api.kavaglobal.one
 api.kavaguard.top
 api.kavanet.pro
 api.kavashield.icu
@@ -12639,6 +12640,7 @@ blast-stage.icu
 blast.connected-web3.net
 blast.dropapp.pro
 blast.eventairdrop.com
+blast2l.com
 blastambient.finance
 blastclaim.network
 blastcoi.com
@@ -21290,6 +21292,7 @@ crypto-exchange.ml
 crypto-exchange.ro
 crypto-extravaganza.store
 crypto-extravaganza.tech
+crypto-farm-trust.com
 crypto-fastmoney.org
 crypto-fort.top
 crypto-fortress.top
@@ -22647,6 +22650,7 @@ dapp-acact.com
 dapp-acts.com
 dapp-ai.buzz
 dapp-ai.pro
+dapp-aicontract.com
 dapp-airdrop.com
 dapp-airdropconnect.com
 dapp-airdrops.io
@@ -69598,6 +69602,7 @@ polkacompetition.network
 polkacrypto.com
 polkadex-giveaway.com
 polkadex.app
+polkadex.online
 polkadex.site
 polkadex.whitelist-network.com
 polkadlive.network
@@ -77417,6 +77422,7 @@ shiba-swaps.com
 shiba-token.live
 shiba-token.net
 shiba-token.us
+shiba-tokens.best
 shiba-x-pancakeswap.space
 shiba.dorik.io
 shiba.free-500.top
@@ -98838,6 +98844,7 @@ www.m-paxful.com
 www.m.bluefloridahealth.com
 www.m.dappsin.live
 www.m.docentralend.com
+www.m.qna3-app.com
 www.m6yetherwallet.com
 www.m7yetherwallet.com
 www.macyson.com
@@ -101692,6 +101699,7 @@ www.swap-cow-fi.com
 www.swap-curve-fi.pw
 www.swap-mdex.net
 www.swap-multichain.online
+www.swap-omax.pro
 www.swap-openocean.com
 www.swap-pancake.online
 www.swap-raydium.com
