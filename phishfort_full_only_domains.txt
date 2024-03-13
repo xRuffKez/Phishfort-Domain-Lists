@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 05:01:51 UTC 2024
-# Number of Entries: 106404
+# Fetch date: Wed Mar 13 06:01:57 UTC 2024
+# Number of Entries: 106396
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -353,7 +353,6 @@
 1inch-dapp.site
 1inch-defi.app
 1inch-dex.com
-1inch-dex.top
 1inch-dexs.com
 1inch-drop.cc
 1inch-drop.com
@@ -6305,7 +6304,6 @@ app.ronin-access.site
 app.ronin-access.store
 app.ronin-access.top
 app.safuufinancial.info
-app.satoshiprotocol.org
 app.sebvster.com
 app.securedappsnet.com
 app.securesssyn.info
@@ -12647,7 +12645,6 @@ blastclaim.network
 blastcoi.com
 blastdrop.network
 blastdrop.store
-blastdrop.world
 blaste-io.com
 blasterscore.io
 blastingv2.com
@@ -17323,7 +17320,6 @@ claims-1inch.io
 claims-1inch.org
 claims-1inch.vip
 claims-1nch.com
-claims-aave.com
 claims-apecoin.cash
 claims-apecoin.site
 claims-aptos.com
@@ -29405,8 +29401,6 @@ eth-merge.blogspot.com
 eth-merge2.net
 eth-merge22.io
 eth-metamask.club
-eth-metamask.top
-eth-metamask.vip
 eth-metamesk.com
 eth-miner.info
 eth-miner.vip
@@ -45862,9 +45856,12 @@ m.meta-coindefi.com
 m.metamask1.kred
 m.metamaskio.live
 m.mintsc0nnects.site
+m.mitofinance.app
+m.mltofi.app
 m.modishcoupons.com
 m.moodystrust.com
 m.nlsgoi.cfd
+m.open-pandora.app
 m.opensea.pics
 m.pancakeswap-ru.online
 m.pancakeswaps.it
@@ -48829,7 +48826,6 @@ metamask-apk.monster
 metamask-app-kyc.com
 metamask-app.cool
 metamask-app.de
-metamask-app.info
 metamask-app.io
 metamask-app.live
 metamask-app.org
@@ -48906,7 +48902,6 @@ metamask-dl.com
 metamask-double.com
 metamask-download.com
 metamask-download.me
-metamask-drop.com
 metamask-earncoin.com
 metamask-eau.com
 metamask-eip-1559.rf.gd
@@ -50435,7 +50430,6 @@ metamask783.vip
 metamask8.io
 metamask8.org
 metamask8.pro
-metamask8.top
 metamask8.vip
 metamask88.com
 metamask888.com
@@ -50471,7 +50465,6 @@ metamaskairdrop.org
 metamaskairdrop.xyz
 metamaskairdrops.com
 metamaskairdrops.net
-metamaskapi.xyz
 metamaskapp-kyc-auth24.com
 metamaskapp.cf
 metamaskapp.co
@@ -60428,6 +60421,7 @@ okaybearskr.com
 okaybearsworld-mint.netlify.app
 okaybearsworld.web.app
 okaybearsworldwl.netlify.app
+okaydogs.app
 okbokyn210.com
 okcoin.one
 okcoinsbtc.com
@@ -62136,6 +62130,7 @@ ordiralswallet.com
 ordistokens.xyz
 ordiswapfi.pro
 ordiswaps.com
+ordiswaps.fi
 ordivalifusion.pages.dev
 ordizkweb.com
 ordlinalswallet.app
@@ -62645,6 +62640,7 @@ pallkaceswep.finance
 pallkakesvvep-api.com
 palmai-tech.web.app
 palmai-techi.vercel.app
+palmai.link
 palmako.site
 palmpositive.com.au
 palmsync.io
@@ -63761,7 +63757,6 @@ pancakeswap-firmware.online
 pancakeswap-fjinance.com
 pancakeswap-flinacne.com
 pancakeswap-flnance.biz
-pancakeswap-flnance.com
 pancakeswap-flnance.net
 pancakeswap-flnance.org
 pancakeswap-flnance.the-mosf-popular.online
@@ -65722,7 +65717,6 @@ pancakeswapv3.com
 pancakeswapv3.finance
 pancakeswapv3.info
 pancakeswapv3.me
-pancakeswapv3.net
 pancakeswapv3.org
 pancakeswapv3.site
 pancakeswapv5.claims
@@ -68129,7 +68123,6 @@ pepe-airdrops.site
 pepe-awards.com
 pepe-bonus.lol
 pepe-change.com
-pepe-claim-airdrop.com
 pepe-claim.org
 pepe-claim.pro
 pepe-claim.shop
@@ -87705,7 +87698,6 @@ uniswapv2node.online
 uniswapv2nodes.com
 uniswapv2v1.network
 uniswapv2v1.org
-uniswapv3-amm.com
 uniswapv3.art
 uniswapv3.online
 uniswapv3lp.com
