@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 21:02:08 UTC 2024
-# Number of Entries: 7960
+# Fetch date: Wed Mar 13 22:02:10 UTC 2024
+# Number of Entries: 7963
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2812,6 +2812,7 @@ guild-zksync.io
 guitarsbyfender.com
 gunitswiftcommunityswap.com
 gwabagu.pages.dev
+gzfd4.cc
 h407etr.com
 h5.517kuku.com
 h5.newscryptoio.com
@@ -4245,6 +4246,7 @@ mint.stonlix.cc
 mint.stonlix.club
 mint.stonrost.xyz
 mint.suithefrensi.biz
+mintchain.pro
 mintify.trading
 mintlayermigration.org
 mintnobody.online
@@ -5043,7 +5045,6 @@ paylccity.com
 paylink.fun.augusttarget.online
 paylocity-login.com
 paylocity-sso.com
-paylooity.com
 payment-407etr.com
 payment-etr407.com
 payment407etr.com
@@ -5389,6 +5390,7 @@ pythnetwork.services-claim.pro
 pythnetwork.services-claiming.codes
 pythnetwork.services-claiming.one
 pytlh-network.one
+qbit-rewards.com
 qg7.us
 qna3.io
 qna3.sbs
@@ -6509,6 +6511,7 @@ thepepe20.com
 thesolmirage.rxi.app
 theta-date.com
 thetabugs.pages.dev
+thewallstmemes.info
 thisisatest2.com
 thisisatest999.com
 tia-project.com
