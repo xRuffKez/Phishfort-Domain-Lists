@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 07:02:05 UTC 2024
-# Number of Entries: 7951
+# Fetch date: Wed Mar 13 08:02:32 UTC 2024
+# Number of Entries: 7955
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1427,6 +1427,7 @@ claim-marinadefinance.com
 claim-me.me
 claim-metis.com
 claim-myrothedog.com
+claim-nibiru.top
 claim-opensea.com
 claim-opsecs.net
 claim-paals.com
@@ -1442,6 +1443,7 @@ claim-portalcoin.xyz
 claim-qanplatform.net
 claim-qanplatform.online
 claim-raidy.space
+claim-realio.net
 claim-retik-finiaces.web.app
 claim-starknet.top
 claim-steth.com
@@ -1502,8 +1504,10 @@ claimmetamask.com
 claimopeaseamysterydrop.com
 claimopenseaairdrop.com
 claimpancakeswap.finance
+claimpandoshi.com
 claimportal.foundation
 claims-metis.io
+claims-realios.com
 claims-usdt.org
 claims.mantatokens.com
 claimsmart-layer.net
@@ -1715,7 +1719,6 @@ coqinucoin.claims
 cornerdrop.org
 corporativojohnson.com
 corporativolear.com
-cosmipets.xyz
 coti.xcoindrop.top
 counseloreloft.com
 cov.us-mia-1.linodeobjects.com
@@ -4048,6 +4051,7 @@ metamask.je
 metamask.land
 metamask.lat
 metamask.managementcommunity.pro
+metamask.nodelinks.net
 metamask.ss3.app
 metamask.today
 metamask.wallet-app.com
@@ -4485,7 +4489,6 @@ new.babbara.xyz
 new.farepath.club
 new.kinzxkclub.xyz
 new.pepzpartners.cc
-new.plaguz-groups.icu
 new.popeysm.lol
 new.popeysm.xyz
 new.scrll-group.xyz
@@ -4880,6 +4883,7 @@ pancakeswap-finance.mom
 pancakeswap-financee.netlify.app
 pancakeswap-finnance.com
 pancakeswap-finnance.org
+pancakeswap-flnance.com
 pancakeswap-fniance.com
 pancakeswap-pancakeswap.com
 pancakeswap-pancakeswap.net
@@ -4907,6 +4911,7 @@ pancakeswaps-codingzz-com.crypto-market-world.com
 pancakeswaps-finance.org
 pancakeswaps-finnance.com
 pancakeswaptrade.org
+pancakeswapv3.net
 pancakeswapv5.claims
 pancakesweb.finance
 pancakeswop.web.app
@@ -5946,7 +5951,6 @@ seedlfy.netlify.app
 seifmoon.pro
 seiyans-nft.com
 selfsync-dapp.com
-selortis.net
 senecanillwork.com
 sentry.xalgames.xyz
 sentryxai.claimtokens.live
