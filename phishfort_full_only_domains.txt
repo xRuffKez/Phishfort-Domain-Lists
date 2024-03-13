@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 18:01:37 UTC 2024
-# Number of Entries: 106426
+# Fetch date: Wed Mar 13 19:01:40 UTC 2024
+# Number of Entries: 106431
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -11233,6 +11233,7 @@ bikesonline.shop
 bikingeth.com
 bikinifinance-promogive.com
 bikkub.web.app
+bikramind.com
 bikub.net
 bilet-emirates.ru
 bilinance.org
@@ -13057,6 +13058,7 @@ blog-metamask.com
 blog-metamask.io
 blog-ripple.com
 blog-staratlas.com
+blog.868631.xyz
 blog.account.pancakeswasap.one
 blog.apefesthk.com
 blog.beta.pancakeswasap.one
@@ -17582,6 +17584,7 @@ clifford-chance.finance
 clifford-chance.financial
 clifford-chance.holdings
 clifford-chance.investments
+clifford-chance.miami
 clifford-chancelaw.com
 clifford-chancelegal.com
 clifford-chancellegal.com
@@ -37303,6 +37306,7 @@ he3xc.com
 healerwallet.com
 healinghippies.xyz
 healthcheck.com
+healthequity.comy.sa.com
 healthnews18.com
 healthsafeid-optum.com
 healthylifestyleforever.com
@@ -52059,6 +52063,7 @@ microsoft-verify.ofisuu.com
 microsoftedge.pancakeswap.finance.expolorer.im
 microtestdigitalagency.host
 micrstf.online
+mid-american-energy.customersupports.network
 midamerican-energy.com
 midamericanenergyservice.com
 midamericansenergy.com
@@ -59989,7 +59994,6 @@ nuetheriumllet.com
 nufi.ctmgga.com
 nugley.com.au
 nuigurumi.xyz
-nullingerfreemint.xyz
 nullingermintpass.xyz
 numboost.ru
 numerai-token.com
@@ -102174,6 +102178,7 @@ www.vintaqe-myetherwallet.com
 www.vip-asx.com
 www.vippaxos.com
 www.vircomem.ro
+www.virtualsafetysolutions.net
 www.vizagvanta.com
 www.vlaunch.org
 www.vlcplayer.info
