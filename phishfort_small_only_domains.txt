@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 00:07:23 UTC 2024
-# Number of Entries: 7923
+# Fetch date: Wed Mar 13 01:23:47 UTC 2024
+# Number of Entries: 7931
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -191,6 +191,7 @@ aflac.socialports.com
 aflacglobal.com
 ag-jup.com
 agent-nulik.org
+ageofgods.eu
 agic.link
 agixreward.xyz
 agnidex.com
@@ -641,7 +642,6 @@ app.xn--1nch-qpa.io
 app.zenomedequipment.com
 app.zkdxio.xyz
 app.zkeztrade.com
-app1inch.org
 appaloe.capital
 apparrakis.finance
 appbalancer.finance
@@ -1290,6 +1290,7 @@ careersformneomsa.top
 carlsberggroup.in
 carlsbergpromo.amcn.in
 carv-protocol.com
+carvnprotocol.com
 cases-blockfi.com
 cases-stretto-com.net
 caspers.network
@@ -1421,6 +1422,7 @@ claim-marinadefinance.com
 claim-me.me
 claim-metis.com
 claim-myrothedog.com
+claim-opensea.com
 claim-opsecs.net
 claim-paals.com
 claim-pacmon.xyz
@@ -2604,6 +2606,7 @@ gahiett.com
 gain-manta.pages.dev
 gala-games.io
 gala-games.org
+galagames-6nj.com
 galaxy-digital.io
 galxe.co.bz
 galxe.pl
@@ -2811,6 +2814,7 @@ hamstrcoin.com
 hannaanderssonkids.com
 happyskellies.com
 happytake.tknewz.com
+hashbnb.com
 havas-aso.com
 havasmax.com
 havastpro.com
@@ -3859,6 +3863,7 @@ matrica-verify.com
 matrica.cc
 matrica.vip
 matricaapp.com
+matricaclaim.eu
 matricas.xyz
 matricaworld.com
 matriica.vercel.app
@@ -3888,6 +3893,7 @@ me.fareflow.xyz
 me.truefair.xyz
 me9.us
 meatmesk.com
+mediaflex.live
 medidata-mobile.com
 mee6-connect.xyz
 mee6appeals.xyz
@@ -4188,6 +4194,7 @@ mining113.com
 miningcloud.vip
 minipepe-coins.com
 minnimi.com.ua
+minootv.com
 minswap.azurewebsites.net
 mint-brewriders.com
 mint-lilpudgys.xyz
@@ -4714,6 +4721,7 @@ openseaproject-nft.vercel.app
 openseaproject65.vercel.app
 openseaproject82.vercel.app
 openseaproject83.vercel.app
+openseaprojectnft.vercel.app
 opensearbox.vercel.app
 openseas-pro.vercel.app
 openseclicks.vercel.app
@@ -4807,7 +4815,6 @@ pancake-frontend-29e48ga31-chefilip.vercel.app
 pancake-frontend-flznr5rp3-chefilip.vercel.app
 pancake-ifo.pages.dev
 pancake-magpiexyz.pages.dev
-pancake-swap-v3.tech
 pancake-swap.club
 pancake-swap.net
 pancake-swapfinance.pages.dev
@@ -4872,7 +4879,6 @@ pancakeswapreward.finance
 pancakeswaps-codingzz-com.crypto-market-world.com
 pancakeswaps-finance.org
 pancakeswaps-finnance.com
-pancakeswaps.org
 pancakeswaptrade.org
 pancakeswapv3.net
 pancakeswapv5.claims
@@ -5571,6 +5577,7 @@ registration-superverse.com
 registration-wehavenohandle.com
 registration-zero.network
 registration-zetachain.com
+registry-blockgames.com
 registry-linea.build
 registry-monad.xyz
 rehapp.xyz
@@ -6480,7 +6487,6 @@ theta-date.com
 thetabugs.pages.dev
 thisisatest2.com
 thisisatest999.com
-thorchain.xbits.top
 tia-project.com
 tiacelestia.org
 tiaderjoexyz.com
@@ -6717,6 +6723,7 @@ uniswaps-revoke.cash
 uniswaptreasury.site
 uniswapv-3.github.io
 uniswapv3.online
+uniswapv4-liquidity.web.app
 uniswapv4-pool-waitlist.web.app
 united-healthcare-services.com
 unitedairlinedeliveryagency.com
@@ -7013,6 +7020,7 @@ web3-portfolio.pro
 web3-raydium.com
 web3-ronin.com
 web3-roninchain.com
+web3-shibaswap.xyz
 web3-solflare.com
 web3-traffic.xyz
 web3-uniswap-uniswap.com
@@ -7022,6 +7030,8 @@ web3.direcdapps.com
 web3.iamversed.xyz
 web3.kavaprotect.com
 web3.mavia.team
+web30trusta.com
+web30trustor.com
 web38888.com
 web39999.com
 web3airdrop.lat
@@ -7059,6 +7069,7 @@ web3resolve.pages.dev
 web3resolvepage.tech
 web3sushiwap.com
 web3sy.top
+web3trubtc.cc
 web3world.pages.dev
 webappnode.com
 webappresolve.pages.dev
@@ -7197,7 +7208,6 @@ wufis.com
 wverycaxqw6urqwpchk.mxy9ink.ru
 wvw.jucrina.club
 wvw.linefraction.xyz
-wvw.monzgroups.xyz
 wvw.pepzgroup.biz
 ww-connect-dappradar.com
 ww-revoke.cash
@@ -7360,7 +7370,6 @@ www.evoypremium.com.br
 www.faq-legal.com
 www.fastmining.pro
 www.fegtokenmigrate.com
-www.fixedflaott.com.de
 www.fixedtflaot.com
 www.fixetdfloat.com
 www.fixetfloat.com
@@ -7550,7 +7559,6 @@ www.perpswasabi.xyz
 www.personalles-accesoscolombia.online
 www.pfizer.i.ng.sba-sales.com.ng
 www.pivlug.com
-www.pltumb.com
 www.pork-event.net
 www.portal-ait.tech
 www.portfolio-my-walletzz.com
