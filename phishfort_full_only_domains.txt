@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 07:01:36 UTC 2024
-# Number of Entries: 106400
+# Fetch date: Wed Mar 13 08:01:51 UTC 2024
+# Number of Entries: 106408
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -16798,6 +16798,7 @@ claim-nft.com
 claim-nft.online
 claim-nft.xyz
 claim-nfts.xyz
+claim-nibiru.top
 claim-nouns.wtf
 claim-now.me
 claim-nowgift.com
@@ -16871,6 +16872,7 @@ claim-quai.net
 claim-quant.network
 claim-raft.xyz
 claim-raidy.space
+claim-realio.net
 claim-reflectionreward.one
 claim-renga.com
 claim-renga.racing
@@ -17272,6 +17274,7 @@ claimopenseaairdrop.com
 claimoptimism.xyz
 claimorbeonprotocol.online
 claimpancakeswap.finance
+claimpandoshi.com
 claimpepe.auction
 claimpepe.capital
 claimpepe.click
@@ -17357,6 +17360,7 @@ claims-pikamoon.online
 claims-pond0x.com
 claims-pond0x.net
 claims-pyusd.com
+claims-realios.com
 claims-ripple.app
 claims-ripple.com
 claims-rocketpool.net
@@ -29402,6 +29406,8 @@ eth-merge.blogspot.com
 eth-merge2.net
 eth-merge22.io
 eth-metamask.club
+eth-metamask.top
+eth-metamask.vip
 eth-metamesk.com
 eth-miner.info
 eth-miner.vip
@@ -63761,6 +63767,7 @@ pancakeswap-firmware.online
 pancakeswap-fjinance.com
 pancakeswap-flinacne.com
 pancakeswap-flnance.biz
+pancakeswap-flnance.com
 pancakeswap-flnance.net
 pancakeswap-flnance.org
 pancakeswap-flnance.the-mosf-popular.online
@@ -65721,6 +65728,7 @@ pancakeswapv3.com
 pancakeswapv3.finance
 pancakeswapv3.info
 pancakeswapv3.me
+pancakeswapv3.net
 pancakeswapv3.org
 pancakeswapv3.site
 pancakeswapv5.claims
