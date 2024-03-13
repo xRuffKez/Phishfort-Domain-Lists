@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 06:02:40 UTC 2024
-# Number of Entries: 7962
+# Fetch date: Wed Mar 13 07:02:05 UTC 2024
+# Number of Entries: 7951
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -394,7 +394,6 @@ allin1.cx
 allliq.site
 allocate-starknet.com
 allocation-jup.trading
-allocation-layerzero.network
 allocation-pixels.com
 allocation-roninchain.com
 allocation-satoshivm.com
@@ -703,7 +702,6 @@ aptos.trusthubs.top
 aptosfoundation.info
 aptosfundation.com
 apts-project.com
-apyeth.solutions
 apygate.rpctool.net
 ar-ship.eu
 arab-bkplc.com
@@ -736,7 +734,6 @@ arbitrum-surveys.com
 arbitrum.devilinu.com
 arbitrum.reward-apps.com
 arbitrum.tr1onex.top
-arbitrum.trustpadeo.top
 arbitrum.trustpados.top
 arbitrum.xtrustpad-events.top
 arbitrumbridge.web3app.vip
@@ -2043,6 +2040,7 @@ diamond-magiceden.network
 diamondhands-ethereum.web.app
 difficultsniff.top
 digicamforums.com
+digimetamask.com
 digital.free-zetachain.online
 digitalchevrolebr.com
 digitaldapp.pages.dev
@@ -2764,7 +2762,6 @@ gmn.dvrcam.info
 gmpnol.info
 gmvendorbillinginterest.com
 gmws.eu
-gmxx.org
 gnosis.gift
 gnosisappsafe.azurewebsites.net
 go-pyth.network
@@ -2773,7 +2770,6 @@ go.stakewise-finance.com
 gocleanersgo.com
 godaddy-ens.domains
 gold-bet.de
-gold-paxos.net
 gold.asiainteractivebrokers.com
 goldcloudglobal.world
 goldsolana.org
@@ -2903,7 +2899,6 @@ ht52ik.top
 https-loading.site
 hub-injective-bke.pages.dev
 hub-injective-network.web.app
-hub-injective.app
 hub-maker.org
 hubsoasys.games
 hubuoasys-games.com
@@ -3093,7 +3088,6 @@ join-collabland-sync.net
 join-etherfi.com
 join-etherfi.work
 join-galxe.com
-join-gitcoin.xyz
 join-jup.app
 join-mantanetwork.com
 join-mickeycoin.com
@@ -3380,6 +3374,7 @@ ledger-start.info
 ledger-wallet-ledger.net
 ledgerhnet.gotdns.ch
 ledgerlive-app.online
+ledgerreclaim.com
 ledgers.support
 ledsgerwallet.com
 legder-live.app-web3.com.co
@@ -4306,6 +4301,7 @@ moon-beam.network
 moonapp.one
 moonbeamm.online
 moonbeams-web.com
+moonbeams-web3.com
 mooniswapco.com
 moonsama.tech
 moonwel.finance
@@ -4593,6 +4589,7 @@ nibiru.uk
 nibiruairdrops.life
 nibirudrop.top
 nibiruioairdrop.xyz
+nibirun-web3.com
 nibiruprojectdrop.xyz
 nibiry-app.top
 niburufi-registers-verify.vercel.app
@@ -5161,7 +5158,6 @@ pknma-ciaaa-aaaad-qdxtq-cai.raw.icp0.io
 pl.xpiym.shop
 pl.zkndv.club
 plag-club.com
-plaguz-group.lol
 plagz-club.com
 planet-zksync.nfts2.me
 planetsrefi.airdrop.cfd
@@ -5519,7 +5515,6 @@ rdx.vercel.app
 rdxshoes.click
 re-voke.cash
 reachedoutseveral.com
-realio.fi
 realio.gift
 realioapp.com
 realiogift.org
@@ -5595,7 +5590,6 @@ registration-defi.com
 registration-defi.trade
 registration-fantom.network
 registration-jup.ag
-registration-layerzero.network
 registration-layrzero.claims
 registration-linea.com
 registration-manta.network
@@ -5621,7 +5615,6 @@ renasantbank.cc
 rend.igital.live
 render.gift
 rendernetwork.support
-renderprotocol.org
 renord.netlify.app
 resolutionpanel.pages.dev
 resolve-captcha.com
@@ -5979,7 +5972,6 @@ shi-do.x--t.co
 shiabrams.netlify.app
 shib-token.com.babydoge.io
 shiba-3.web.app
-shiba-token.net
 shiba-tokens.best
 shiba.free-500.top
 shiba2.xyz
@@ -6033,7 +6025,6 @@ signup-portalcoin.com
 signup-rabbit.com
 signup-shido.io
 signup-starheroes.com
-signup-stark-io.com
 signup-starknet.com
 signup-starknet.io
 signup-starsarena.com
@@ -6159,7 +6150,6 @@ sonae.sale
 sonikchain.pages.dev
 sophon-registrations.com
 soundbridge.click
-space.inij.org
 space.skillizgroup.club
 space.skillizgroup.xyz
 spaceid.claiming-link.live
@@ -6248,7 +6238,6 @@ starcheckapp.com
 stardefyloomfil.pages.dev
 stardexairdrop.com
 stargate-app.pages.dev
-stargate-finance.app
 stargate-finance.io
 stargate.finance.kli.gg
 stargate.gifts
