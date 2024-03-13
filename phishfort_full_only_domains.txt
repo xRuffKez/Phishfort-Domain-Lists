@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 04:02:11 UTC 2024
-# Number of Entries: 106396
+# Fetch date: Wed Mar 13 05:01:51 UTC 2024
+# Number of Entries: 106404
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -5724,6 +5724,7 @@ app-pancakeswapi.imendeavoringcom.com
 app-pancakeswaps.com
 app-pandora.com
 app-parallel-fi.netlify.app
+app-parcl.site
 app-paxful.com
 app-paxful58.com
 app-paxosgold.com
@@ -28149,6 +28150,7 @@ eigen-layer.idvenezia.com
 eigen-layer.live
 eigenilayer.com
 eigenlaver.magpiexyz.site
+eigenlayer-airdrop.claims
 eigenlayer-presale.xyz
 eigenlayer.0x-auth.xyz
 eigenlayer.connects-web3.org
@@ -52487,6 +52489,7 @@ mint.akidcalledbeats.com
 mint.alphadogs.run
 mint.alphakongclub.co
 mint.aperun.run
+mint.apps-looty.com
 mint.based-af.org
 mint.bitienatz.lol
 mint.bitzclub.com
@@ -59325,6 +59328,7 @@ nibcbanks.nl
 nibiairdrop.net
 nibidrop.com
 nibiru-eligiblity.com
+nibiru-reward.com
 nibiru.uk
 nibiruairdrops.life
 nibirudrop.top
@@ -67016,6 +67020,7 @@ paperhands-ethereum.web.app
 paperhands-holders.web.app
 paperhands-network.web.app
 paperhands-networks.web.app
+paperhands-projects.web.app
 paperhold-eth.web.app
 paperhold-ethereum.web.app
 paperhold-net.web.app
@@ -72847,6 +72852,7 @@ rarible-nft.co
 rarible-np.com
 rarible-web.com
 rarible.fan
+rarible.quest
 rarible.team
 rarible.tokens-aword.com
 rarible.wallett.exchange
@@ -88315,6 +88321,7 @@ usdcreward.org
 usdcreward.xyz
 usdcscan.com
 usdcstable.net
+usdctip.net
 usdctoken-airdrop.com
 usdcup.org
 usdcupdate.com
@@ -99028,6 +99035,7 @@ www.metamask-wallet.ajshamji.com
 www.metamask-wallet.ru
 www.metamask-walletmarkettv.com
 www.metamask-yeing.com
+www.metamask.best
 www.metamask.cash
 www.metamask.city
 www.metamask.click
