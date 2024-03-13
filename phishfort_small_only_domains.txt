@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 19:02:21 UTC 2024
-# Number of Entries: 7956
+# Fetch date: Wed Mar 13 20:02:06 UTC 2024
+# Number of Entries: 7960
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -372,6 +372,7 @@ airtm9.com
 airtrackmate.com
 airusd.xyz
 aitchain.in
+ajbell-mall.com.ng.swift-pay.site
 akamserrvis.de
 akeydistrict.com
 aknanalofiq.com
@@ -1788,7 +1789,6 @@ cyberdogecoin.org
 cyberdogecoin.top
 cyberkongz.pro
 cyberx-staging.vercel.app
-cyberz-dck.com
 cyberz-dck.xyz
 d.stonexdmffh.top
 d.stonexgkkof.top
@@ -2045,7 +2045,6 @@ difficultsniff.top
 digicamforums.com
 digimetamask.com
 digital.free-zetachain.online
-digitalchevrolebr.com
 digitaldapp.pages.dev
 digitalsec.mypsx.net
 digitdef.com
@@ -4388,7 +4387,6 @@ myfirstproject.pages.dev
 myjuppy-box.com
 myjuppy-box.trade
 mymetazvirify.com
-myneogrouq.org
 mynewmont.net
 mynewmont.us
 mynewmontbonk.com
@@ -4478,6 +4476,7 @@ network-manta.net
 network.airdrops-manta.it
 network.app--jito.network
 networks-rnanta.com
+nevadaspower.customercare.network
 new-bid.org
 new-farcana.com
 new-lineabuild.pages.dev
@@ -4643,6 +4642,7 @@ numboost.ru
 nusuk.site
 nusukbaitullahint.id
 nusukroadshow.com
+nvenergy.customersupports.network
 nvidiaint.shop
 nw6.us
 ny9.us
@@ -4992,6 +4992,7 @@ parallel-fi.vercel.app
 parclllimited.com
 parentalatlas.top
 parloroquick.com
+partenariat-bouygues-telecom-entreprises.fr
 participate-zks.net
 participate-zks.org
 particle-network.com
@@ -5000,6 +5001,7 @@ partners-zerolend.com
 partnership-ait.com
 partnershlp-satoshivm.com
 partnerwithequinor.com
+parurhealth.com
 pass-vulcan.xyz
 passes.top
 paulmulleracademico.com
@@ -5147,7 +5149,6 @@ pinkbird.fail
 pinksale-app.com
 pioneernerd.com
 pipsyl.top
-pipz-group.com
 pixals.xyz
 pixel-lands.com
 pixelmon-mint.com
@@ -7248,6 +7249,7 @@ www-app-1inch.com
 www-eigenlayer.xyz
 www-jumper.exchange
 www-jumpers.exchange
+www-peryourhealth.com
 www-pinksale.com
 www-safe-global.info
 www.0xprotocol.site
@@ -7263,6 +7265,7 @@ www.a407etr.com
 www.ab-earn.xyz
 www.account.coinbrack.com
 www.account.verificationpaxful.info
+www.agodaycs.net
 www.agrtech.tech
 www.ahikec.com
 www.ahtuar.com
@@ -7340,6 +7343,7 @@ www.cbrevokedapp.org
 www.celerswap.top
 www.chain-cross.link
 www.chainbugs.dev
+www.cizw4jh.tribunaledinola.net
 www.claim-mai.xyz
 www.claim-seda.site
 www.claim-topg.com
