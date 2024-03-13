@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 18:02:16 UTC 2024
-# Number of Entries: 7950
+# Fetch date: Wed Mar 13 19:02:21 UTC 2024
+# Number of Entries: 7956
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -996,6 +996,7 @@ bigbangdrop.website
 bigbangdrop.xyz
 bigestcontests.com
 bikeannex.top
+bikramind.com
 bilet-emirates.ru
 bill-407etr.com
 bill-tel.com
@@ -1113,6 +1114,7 @@ blocknonc.firebaseapp.com
 blocknonc.web.app
 blocktokens.online
 blockunification.asders.icu
+blog.868631.xyz
 blog.trustsamco.store
 blsat.io
 blst-reg.app
@@ -1533,6 +1535,7 @@ clifford-chance.finance
 clifford-chance.financial
 clifford-chance.holdings
 clifford-chance.investments
+clifford-chance.miami
 cliffordchance.pro
 cliffordchancelaw.net
 clintexmigration.tech
@@ -2832,6 +2835,7 @@ havastpro.com
 hca-healthcare.com
 hdi6v.pro
 healthcheck.com
+healthequity.comy.sa.com
 heatherleelarioni.me
 heatocrazed.com
 heddies.vercel.app
@@ -4166,6 +4170,7 @@ micro3.app
 microsfrategy.com
 microsoft-verify.ofisuu.com
 microsoftedge.pancakeswap.finance.expolorer.im
+mid-american-energy.customersupports.network
 midnightimpromptu.top
 migrate-aeggs.pro
 migrate-dapp.pro
@@ -7677,6 +7682,7 @@ www.verify-collabland.xyz
 www.verify.aits.tech
 www.vip-asx.com
 www.vippaxos.com
+www.virtualsafetysolutions.net
 www.vlaunch.org
 www.vopiow.com
 www.vpn-revoke.com
