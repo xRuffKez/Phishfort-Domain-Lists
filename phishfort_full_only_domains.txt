@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 17:01:46 UTC 2024
-# Number of Entries: 106424
+# Fetch date: Wed Mar 13 18:01:37 UTC 2024
+# Number of Entries: 106426
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -39739,6 +39739,7 @@ interactivebrokjers.com
 interactivebrokrers.com
 interactivebrolkers.com
 interactivecfds.com
+interactivehkvip.com
 interactivetradepro.com
 interactuivebrokers.com
 interadtivebrokers.com
@@ -72408,6 +72409,7 @@ qrcunigen.com
 qrgeneratorextension.live
 qrintegration-net.ml
 qrma.cn
+qtnkpaxos.net
 qtopiia.com
 qtqk8.daeyanglawyer.com
 qtum-token.com
