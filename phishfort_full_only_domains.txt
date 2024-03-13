@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 14:01:36 UTC 2024
-# Number of Entries: 106412
+# Fetch date: Wed Mar 13 15:02:02 UTC 2024
+# Number of Entries: 106423
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -15757,6 +15757,7 @@ chacinlink.click
 chaetaevi.org
 chahlist.org
 chahnlist.us
+chaibenefitmassimui.com
 chaienlist.com
 chaih.link
 chaiinlink-network.live
@@ -24512,6 +24513,7 @@ dealershipjiobp.cngpumpdealership.net
 dealershipjiobp.com
 dealersjiobp.com
 dealgas.ai
+dealsync.pages.dev
 dealzmart.co
 deapy.org
 dearn-detection.com
@@ -38223,6 +38225,7 @@ hungerdoge-promogive.com
 hungertoken-promogive.com
 hungryghost.to
 hunlhn.work
+hunnerdimental.com
 huntdrops.com
 huntercrypto.pro
 hunterdoge-promogive.com
@@ -39250,6 +39253,7 @@ imutableimx.com
 imutoken.top
 imwallet01.top
 imx-bridge-omi-connect.com
+imx-news.com
 imx.airdrop.cfd
 imxcoin.eu
 imyetherbonus.com
@@ -40399,6 +40403,7 @@ jnkitsolutions.com
 joancornella-fwenclub.com
 job-adastragrp.com
 job-kpmg.com
+joblessassistancenetwork.com
 joblessassistanceportal.net
 jobs-adastragrp.com
 jobs-teleperformance.com
@@ -47479,6 +47484,7 @@ masslottery.online
 masslouilionusma.com
 massloustvc.com
 massonline.mprofile.org
+massposos.com
 masssccaradd.com
 masssosatgo.com
 massuiprofilelogin.onrender.com
@@ -54516,6 +54522,7 @@ mycfherwallet.com
 mychaincollectibles.com
 mychainlink.org
 mychatsystem.live
+mychendimasslor.com
 mychtervvallet.com
 mychterwallet.com
 mychterwellet.com
@@ -63457,6 +63464,7 @@ pancakeswaap.online
 pancakeswaap.pw
 pancakeswaap.site
 pancakeswaap.xyz
+pancakeswaapfinance.net
 pancakeswaapp.com
 pancakeswaapp.financial
 pancakeswaaps.com
@@ -74293,6 +74301,7 @@ revokeca.com
 revokeca.sh
 revokeca.xyz
 revokecash-hxl.pages.dev
+revokecash-portal.pages.dev
 revokecash-v2.com
 revokecash-web3.org
 revokecash.app
@@ -74526,6 +74535,7 @@ rewards-decentraland.org
 rewards-degods.com
 rewards-efinity.xyz
 rewards-emirates.com
+rewards-ether.com
 rewards-galagames.com
 rewards-graphtoken.com
 rewards-holders-erc20-tokens.com
@@ -93800,6 +93810,7 @@ web3defiesdapps.live
 web3defiexplorer.com
 web3defiproject.com
 web3dexconnect.com
+web3dropmetask.com
 web3errorfix.com
 web3et.gq
 web3firmware.pages.dev
