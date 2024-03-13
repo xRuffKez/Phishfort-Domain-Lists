@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 16:01:40 UTC 2024
+# Fetch date: Wed Mar 13 17:01:46 UTC 2024
 # Number of Entries: 106424
 #Expires: 1 hour
 0-metemask.com
@@ -5889,6 +5889,7 @@ app-uniswap.site
 app-uniswap.top
 app-uniswap.work
 app-uniswap.xyz
+app-uniswaps.com
 app-uniswaps.org
 app-uniswapv3.org
 app-uniswup.org
@@ -19561,6 +19562,7 @@ collabland.connectify-web3.com
 collabland.dev
 collabland.group
 collabland.info
+collabland.interact-guard.com
 collabland.io
 collabland.la
 collabland.land
@@ -29065,7 +29067,6 @@ ephiu.top
 ephjx.top
 ephna.top
 ephvl.top
-ephvv.top
 epikprotocol-migration.site
 epikstaking.com
 episodedecember.top
@@ -29742,7 +29743,6 @@ ethdefi.homes
 ethdefi.run
 ethdefi.wiki
 ethdefi20.com
-ethdefivip.cc
 ethdefiwin.info
 ethdefiwin.vip
 ethdf.com
@@ -41231,7 +41231,6 @@ kiloexairdrop.com
 kiman.club
 kimikazs.blogspot.com
 kimimart.com
-kimraimi.com
 kimyoungfung.com
 kin-crowdsale.com
 kin-klk.com
@@ -43821,6 +43820,7 @@ liquidloanswhitelist.tech
 liquids-ethereum.com
 liquidstacking-rocketpool.com
 liquidstaking-eth2.net
+liquidsync.pages.dev
 liquity-defi.com
 liquity.gift
 lirbit.com
@@ -48078,7 +48078,6 @@ mematrade.com
 mematsmsuk-log.azurewebsites.net
 memayes.com
 memb-unv100993.com
-member-thesevensofficial.com
 member.kingsenglish.edu.lk
 member.nada.org.np
 memberdatacollab.com
@@ -98917,6 +98916,7 @@ www.makeirdao.space
 www.makemyvacationonline.com
 www.makerdao-dapp.online
 www.makerdao-governance-dashboard.com
+www.makerdaodai.site
 www.makerdaov.site
 www.makerdaov2.xyz
 www.maltagamingstore.com
