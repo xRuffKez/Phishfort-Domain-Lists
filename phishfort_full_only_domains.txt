@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 21:01:28 UTC 2024
-# Number of Entries: 106442
+# Fetch date: Wed Mar 13 22:01:33 UTC 2024
+# Number of Entries: 106445
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -37095,6 +37095,7 @@ gyroprotocol.com
 gyvseguros.com
 gzc.celbration.com
 gzc.hbcinternat.com
+gzfd4.cc
 gzmathkjhgrhq79.secretsoutlook.pancakeswape.finance
 gzmathkjhgrhq79.www.secretswww.outlook.pancakeswape.finance
 gzxzck.com
@@ -52577,6 +52578,7 @@ mintbattleslayers.xyz
 mintbff.com
 mintbot.art
 mintbroadside.com
+mintchain.pro
 mintcitrus.xyz
 mintcollab.com.mint-nftfree.com
 mintconnect.online
@@ -67945,7 +67947,6 @@ paylocity.sa.com
 paylocity.za.com
 paylocityapis.com
 payloo.city
-paylooity.com
 paym-paxful.com
 payment-407etr.com
 payment-ethereum.online
@@ -72348,6 +72349,7 @@ qauntstamp.com
 qauntstanp.com
 qaz.bnb6688.top
 qb-86.com
+qbit-rewards.com
 qbqynb.cyou
 qcxdapps.com
 qcyy.fraylecasadevall.com
@@ -84267,6 +84269,7 @@ thewallethelpdesk.com
 thewallethub.com
 thewalletlink.com
 thewalletsconnectapp.com
+thewallstmemes.info
 thewashington-post.com
 thewashington-post.facilidadgozoygloria.com
 thewashingtonpost.live.dream.website
