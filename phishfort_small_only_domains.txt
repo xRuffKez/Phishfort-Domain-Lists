@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 13:02:07 UTC 2024
-# Number of Entries: 7950
+# Fetch date: Wed Mar 13 14:02:07 UTC 2024
+# Number of Entries: 7946
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -118,7 +118,6 @@
 8fi70.xoynq.ru
 8lab-d254.earherbat.workers.dev
 912091730.pages.dev
-9aa542c7.c817588e7585f833a0bc52c8.workers.dev
 9af68e44.4d9aa11f0cc24373ec9d6295.workers.dev
 9e6e51d6-1af4-46ae-b583-dc84ea67ef6c-00-16rc48b4ompks.kirk.replit.dev
 9ebank.github.io
@@ -172,7 +171,6 @@ acompletesecrets.com
 across-bridge.net
 acrosss-bridge.xyz
 active-supp-ort-meta.netlify.app
-acva-centr.online
 adailypath.com
 admin.booking-login.com
 adpunily.azurewebsites.net
@@ -1288,7 +1286,6 @@ cardahoysgame.com
 cardano-stake-pool-cologne.com
 career-ecolab.com
 careersformneomsa.top
-carlsberggroup.in
 carlsbergpromo.amcn.in
 carv-protocol.com
 carvnprotocol.com
@@ -1532,6 +1529,7 @@ clifardchancegroups.com
 cliffardchance.com
 clifford-chance-llp.com
 clifford-chance.accountant
+clifford-chance.finance
 clifford-chance.financial
 clifford-chance.holdings
 clifford-chance.investments
@@ -6928,7 +6926,6 @@ vskyn.com
 vulcanforged-claim.com
 vult.codefinesse.com
 vvebexx.co
-vww.raczgroups.xyz
 vwxq9vk.pro
 vy.starrcooporate.com
 vystarcu.nah516.com
@@ -7637,7 +7634,6 @@ www.smartweb3.live
 www.snapshot-multibit.com
 www.soilend.com
 www.somanetwork.live
-www.sonae.sale
 www.spacetradegloballlc.biz
 www.spatco.shop
 www.sporemashrm.top
