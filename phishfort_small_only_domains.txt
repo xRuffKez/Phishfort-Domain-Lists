@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 17:02:08 UTC 2024
-# Number of Entries: 7951
+# Fetch date: Wed Mar 13 18:02:16 UTC 2024
+# Number of Entries: 7950
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3014,6 +3014,7 @@ inter-chains-bridge.com
 interacsecurepayments.com
 interactivebroker.org
 interactivebrokers.store
+interactivehkvip.com
 interactivetradepro.com
 interdigitalbot.com
 interdigitalopt.com
@@ -3236,7 +3237,6 @@ kimimart.com
 kingroofing.com
 kitty-inu-dao.com
 kkyphtf0fbvl.ftntpk6ubbx4sk.ru
-klarna.4hosting2.4ourclient.com
 klarnacasino.nl
 klarnaitalysrl.welfare.it
 klayswapapp.klayexchaange.live
@@ -4797,7 +4797,6 @@ otcsea.app
 otsea.gift
 outildecisionregimederetraitesunchemical.ca
 oxleverage.xyz
-oz-repcacoin.ru
 ozon-giv.officialpage2024.shop
 p1290.trustsamco.online
 paalai-beta.app
@@ -5395,6 +5394,7 @@ qorpos.world
 qpcuxbi.pro
 qq5v9zjc.top
 qrayber.com
+qtnkpaxos.net
 quantix.vercel.app
 quantumaiservice.org
 quantumcats.trading
@@ -7446,7 +7446,6 @@ www.jympurexhange.org
 www.kenetix.finance
 www.kercuf.com
 www.kinetx.finance
-www.klarnakundenschutz.com
 www.kriya-finance.cyou
 www.kriya-finance.tech
 www.kroift.com
