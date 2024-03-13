@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 04:02:45 UTC 2024
-# Number of Entries: 7969
+# Fetch date: Wed Mar 13 05:02:16 UTC 2024
+# Number of Entries: 7963
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -65,7 +65,6 @@
 1raydium.sbs
 1yo.jd1k0i5.ru
 2-fa-metmask.io
-2.0-de.fi
 2000usdc.net
 2000usdt.net
 2024gmcsilverado.website
@@ -565,6 +564,7 @@ app-moonhq.com
 app-os-mo-sis.org
 app-pancakesvap.github.io
 app-pandora.com
+app-parcl.site
 app-paxosgold.com
 app-pendle.financial
 app-planetrefi.com
@@ -856,7 +856,6 @@ avax-gains.xyz
 avax-swap.com
 avax.pm
 avaxdrop.org
-aviabilet-emirates.ru
 avito.pay.pancakeswap.reid4deeds.com
 awareorealm.com
 awesomestrawberry.za.com
@@ -2238,6 +2237,7 @@ ehajj.ph
 eigen-layer.live
 eigenilayer.com
 eigenlaver.magpiexyz.site
+eigenlayer-airdrop.claims
 eigenpie.saydbaeaumca.xyz
 ekudo.org
 electrum.app.electrumconnect.site
@@ -3084,7 +3084,6 @@ jito-bonus.com
 jito-drop.com
 jitocoins-network.com
 jitodrop.net
-jitonetwork.su
 jjup.ag
 jkyr.pro
 joblessassistanceportal.net
@@ -4229,6 +4228,7 @@ mint-nft.co
 mint-satoshivm.io
 mint-usdc.web.app
 mint-xai.com
+mint.apps-looty.com
 mint.bitienatz.lol
 mint.bitzclub.com
 mint.blaszt-group.cc
@@ -4473,7 +4473,6 @@ network-altlayer.com
 network-dymension.com
 network-manta.com
 network-manta.net
-network-strk.org
 network.airdrops-manta.it
 network.app--jito.network
 networks-rnanta.com
@@ -4534,7 +4533,6 @@ nft-decent.app
 nft-g-opensea.vercel.app
 nft-hedgies.com
 nft-jup.app
-nft-makerdao.com
 nft-offers.com
 nft-open-one.vercel.app
 nft-opense.vercel.app
@@ -4590,6 +4588,7 @@ ni8.us
 nibiairdrop.net
 nibidrop.com
 nibiru-eligiblity.com
+nibiru-reward.com
 nibiru.uk
 nibiruairdrops.life
 nibirudrop.top
@@ -4947,7 +4946,6 @@ panoshidaapsintegration.netlify.app
 pansakecwap.xyz
 pape-tokens.org
 papecoin.eu
-papecoins.eu
 paper-hand.web.app
 paper-hold.web.app
 paper-holders.web.app
@@ -4968,6 +4966,7 @@ paperhands-ethereum.web.app
 paperhands-holders.web.app
 paperhands-network.web.app
 paperhands-networks.web.app
+paperhands-projects.web.app
 paperhold-eth.web.app
 paperhold-ethereum.web.app
 paperhold-net.web.app
@@ -5205,7 +5204,6 @@ poocoin-bsc-app.com
 poolstarter.net
 pop3.www.api.swell-network.io
 popsync.pages.dev
-populareexperiment.com
 porallll.pages.dev
 porfoliougrademetaz.com
 porkcoin-airdrop.com
@@ -5330,8 +5328,6 @@ pwxskm.cfd
 pxlivewebsite.onrender.com
 pyro-nft-vercel.pages.dev
 pyrthdex.com
-pyth-protocol.space
-pyth-protocol.tech
 pyth-web3.org
 pyth.party
 pytha.network
@@ -5461,6 +5457,7 @@ ranbuny.com.au
 randomecoin-ads.eu
 randomecoins.com
 rarible-web.com
+rarible.quest
 rarity-dapps.online
 rarityauth.online
 ratefairdoor.com
@@ -5673,7 +5670,6 @@ revoke-unibot.com
 revoke-wallet.com
 revoke-wallet.net
 revoke-web.xyz
-revoke.blog
 revoke.casa
 revoke.digital
 revoke.expert
@@ -6163,7 +6159,6 @@ sonae.sale
 sonikchain.pages.dev
 sophon-registrations.com
 soundbridge.click
-space.inij.app
 space.inij.org
 space.skillizgroup.club
 space.skillizgroup.xyz
@@ -6667,7 +6662,6 @@ tron-claim.top
 tron.sync-rectifier.com
 tronado.cash
 tronbonus-promotion.com
-tropez.tech
 troubleshootwallets.com
 trsutwallexension.godaddysites.com
 truebit.gift
@@ -6802,6 +6796,7 @@ usdcevent.com
 usdcevent.us
 usdcollect.com
 usdcpayout.com
+usdctip.net
 usdevent.com
 usdmint.co
 usdonbsc.tech
@@ -7321,7 +7316,6 @@ www.axieinfinity-global.com
 www.axiemarketplace.lol
 www.azukieelements.site
 www.bainxu.com
-www.banjec.com
 www.bckrockgbtc.com
 www.bcr20.xyz
 www.big-x-drops.top
@@ -7391,7 +7385,6 @@ www.eigenlaver.magpiexyz.site
 www.eligibility-wenwencoin.com
 www.eligible-porkcoin.com
 www.en.redash.production.winkdrop.net
-www.eprnyg.com
 www.etepool.xyz
 www.ethena.finance
 www.ethereumdrop.com
@@ -7506,6 +7499,7 @@ www.mehrlesenachrichten.com
 www.meta0096.com
 www.meta2842.com
 www.metamask-mining.com
+www.metamask.best
 www.metamask12.pro
 www.metamask88.com
 www.metamaskaa.com
