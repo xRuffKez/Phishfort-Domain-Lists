@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 19:01:40 UTC 2024
-# Number of Entries: 106431
+# Fetch date: Wed Mar 13 20:01:53 UTC 2024
+# Number of Entries: 106439
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3966,6 +3966,7 @@ aitspad.top
 aiweb-decentralized.pages.dev
 aixoinfinity.com
 aj-pad.com
+ajbell-mall.com.ng.swift-pay.site
 ajbellsipp.co.uk
 ajiocarts.com
 ajiokart.com
@@ -58708,6 +58709,7 @@ neutralquickauths.pro
 neutraluiverse.shop
 neutraquicksauths.net
 neutrasquickauths.org
+nevadaspower.customercare.network
 nevbatmkul.site
 neverfeartruth.this-mint.xyz
 nevnop.nl
@@ -60021,6 +60023,7 @@ nusukroadshow.com
 nutsplay.xyz
 nv3cjcrlmqdyejc.www.beta-openselling.pancakeswasap.one
 nvavid.com
+nvenergy.customersupports.network
 nvidia-bios-editor.com
 nvidia-bios-editor.ru
 nvidia-control-panel-app.com
@@ -67151,6 +67154,7 @@ parrcakeswap.com
 parrcakeswap.finance
 parsec.gift
 parsecs.finance
+partenariat-bouygues-telecom-entreprises.fr
 partenariat-metamask.com
 participate-zks.net
 participate-zks.org
@@ -67178,6 +67182,7 @@ partybite.blogspot.com
 partyhat.live-mint.net
 partyicons.web3fast.net
 partypaymentdtl.com
+parurhealth.com
 parxful.com
 paseh.site
 pasful.xyz
@@ -95559,6 +95564,7 @@ www-paxful.com
 www-paymydoctor.com
 www-pencekde.com
 www-pencekke.com
+www-peryourhealth.com
 www-pesc-gala-app-games.blogspot.com
 www-pinksale.com
 www-pocooin.online
@@ -95802,6 +95808,7 @@ www.agodasg.com
 www.agodatechnical.com
 www.agodavip.com
 www.agodaworks.com
+www.agodaycs.net
 www.agricagroup.net
 www.agrtech.tech
 www.ahdssolar.com
@@ -96900,6 +96907,7 @@ www.citimt4.com
 www.citizenbankonline111.moneyhome.biz
 www.citrix.pancakeswape.finance
 www.citynationai.com
+www.cizw4jh.tribunaledinola.net
 www.ckaibo.life
 www.claim-1inch.xyz
 www.claim-azuki.co
