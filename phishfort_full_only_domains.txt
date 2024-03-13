@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 00:05:09 UTC 2024
-# Number of Entries: 106341
+# Fetch date: Wed Mar 13 01:23:16 UTC 2024
+# Number of Entries: 106356
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2979,6 +2979,7 @@ agd7777.com
 agent-nulik.org
 agent.bit-bank.jp
 agent.uniswapper.top
+ageofgods.eu
 agerara.info
 ageth.cc
 ageth.org
@@ -15371,6 +15372,7 @@ cartoon.lifeform.ink
 cartoonsofficial.xyz
 carv-protocol.com
 carvaolis.blogspot.com
+carvnprotocol.com
 casabrazz.blogspot.com
 casadebolos-bolos.blogspot.com
 casadoventomgsf.blogspot.com
@@ -16792,6 +16794,7 @@ claim-now.me
 claim-nowgift.com
 claim-octavia.net
 claim-okaybears.com
+claim-opensea.com
 claim-opensea.vip
 claim-openseapro.com
 claim-opnx.com
@@ -34801,6 +34804,7 @@ galagamees-ts.blogspot.com
 galagameis.xyz
 galagamers-1eth-high-p.blogspot.com
 galagames-0q.blogspot.com
+galagames-6nj.com
 galagames-a-app.blogspot.com
 galagames-account.blogspot.com
 galagames-acess1-mk.blogspot.com
@@ -37179,6 +37183,7 @@ hasbullanft.xyz
 hasbullapencilnft.live
 hash-pack.com
 hash.uniswap.team
+hashbnb.com
 hashboss001.live
 hashbridge.org
 hashflow.ca
@@ -47590,6 +47595,7 @@ matrica-verify.com
 matrica.cc
 matrica.vip
 matricaapp.com
+matricaclaim.eu
 matricaonline.com
 matricas.xyz
 matricaworld.com
@@ -47803,6 +47809,7 @@ mechminds.nft-premint.com
 medacoin-promogive.com
 medeum-airdrop-news.com
 mediaeyenft-promogive.com
+mediaflex.live
 mediapudgypenguins.com
 medicalchian.com
 medicaltech.ru.com
@@ -52327,6 +52334,7 @@ minitabe.com
 minnconnect.herokuapp.com
 minnesotamolddoctor.com
 minnimi.com.ua
+minootv.com
 minswap.azurewebsites.net
 minswap.info
 minswap.space
@@ -61525,6 +61533,7 @@ openseaproject-nft.vercel.app
 openseaproject65.vercel.app
 openseaproject82.vercel.app
 openseaproject83.vercel.app
+openseaprojectnft.vercel.app
 openseapromo.com
 openseaprotect.com
 openseaprotocol.com
@@ -73665,6 +73674,7 @@ registration-wehavenohandle.com
 registration-zero.network
 registration-zetachain.com
 registration-zkgold.net
+registry-blockgames.com
 registry-linea.build
 registry-monad.xyz
 registry.walletbackup.co
@@ -87659,6 +87669,7 @@ uniswapv3-amm.com
 uniswapv3.art
 uniswapv3.online
 uniswapv3lp.com
+uniswapv4-liquidity.web.app
 uniswapv4-pool-waitlist.web.app
 uniswapv4.org
 uniswapv4.top
@@ -93612,6 +93623,7 @@ web3-roninwallet.com
 web3-rpc-fix.online
 web3-shibainu.com
 web3-shibainu.net
+web3-shibaswap.xyz
 web3-solflare.com
 web3-support.com
 web3-syntaxx.com
@@ -93651,6 +93663,8 @@ web30defi.org
 web30defi.vip
 web30miningpool.com
 web30reward.com
+web30trusta.com
+web30trustor.com
 web30wethdefi.com
 web38888.com
 web39999.com
@@ -93827,6 +93841,7 @@ web3synchronize.netlify.app
 web3syncronize.net
 web3taskon.click
 web3tc.tk
+web3trubtc.cc
 web3validate.com
 web3validate.netlify.app
 web3validation.com
