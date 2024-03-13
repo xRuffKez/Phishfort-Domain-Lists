@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 20:02:06 UTC 2024
+# Fetch date: Wed Mar 13 21:02:08 UTC 2024
 # Number of Entries: 7960
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -406,6 +406,7 @@ alshayae.shop
 alshayagroup-ae.company.site
 alshayagroupae.company.site
 alshayagroupk-s.company.site
+alshayagroupom.company.site
 alshayastore.com
 alshayeagroup.com
 alt-layers.com
@@ -765,13 +766,11 @@ armadorasanluis.com
 arockstarnightmare.com
 arolielshc.com
 arraklls.flnance.web3-ap.cfd
-art-blocks.io
 art-blocks.site
 art-drop.io
 art-ross.io
 artblocks-official.com
 artblocks.cx
-artblucks.io
 artegiron.co
 artsblock.xyz
 artyfactgame.vercel.app
@@ -3509,7 +3508,6 @@ login--blockgames.com
 login-cisco.tech
 login-frame.xyz
 login-metamaskwallet.ddnss.eu
-login.cw1.ir
 login.frame-airdrop.xyz
 login.microsoftonlineportal.ppp-gov.online
 login.myob.ink
@@ -5045,6 +5043,7 @@ paylccity.com
 paylink.fun.augusttarget.online
 paylocity-login.com
 paylocity-sso.com
+paylooity.com
 payment-407etr.com
 payment-etr407.com
 payment407etr.com
@@ -6448,6 +6447,7 @@ tareekhsouria.com
 tataconsultancy.in
 tataconsultants.com
 taurus-eth.vip
+tawuniya.online-link.net
 tdecu-support.info
 tdserv.com
 tdsynnxe.com
@@ -7198,6 +7198,7 @@ winusdt.top
 wired-interviews.netlify.app
 wirerecieve-pay.onrender.com
 withdrawaldesk.com
+wizink.cartoespt-app.online
 wkjyd.top
 wkkuail.vip
 wm697t2io8uh7uaui6jg1oc4.designsdart.com
@@ -7318,7 +7319,6 @@ www.big-x-drops.top
 www.birdeye.exchange
 www.birdeye.markets
 www.birdeye.trade
-www.bitexabc.com
 www.bitoptr.com
 www.bitoptvex.com
 www.bitrockpool.xyz
