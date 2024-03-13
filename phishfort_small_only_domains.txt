@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 14:02:07 UTC 2024
-# Number of Entries: 7946
+# Fetch date: Wed Mar 13 17:02:08 UTC 2024
+# Number of Entries: 7951
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -55,6 +55,7 @@
 1inchpool.com
 1inchv4.fi
 1inchwallet.app
+1inchwallet.org
 1inchweb3.com
 1incjh.io
 1innch.digital
@@ -90,7 +91,6 @@
 407-etr.com
 407etr-clients.com
 407etr-info.com
-407etr-payment.com
 407etr-tolls.com
 407etrinfo.com
 407express-tollroute.com
@@ -115,7 +115,6 @@
 7ihg.cc
 7x7gx.pro
 8866651.za.com
-8fi70.xoynq.ru
 8lab-d254.earherbat.workers.dev
 912091730.pages.dev
 9af68e44.4d9aa11f0cc24373ec9d6295.workers.dev
@@ -182,7 +181,6 @@ aethergaming.store
 aevoxyz.live
 aexpertlover.com
 affiliateagoda.com
-affixresolve.pages.dev
 aflac-hr.com
 aflac.socialports.com
 aflacglobal.com
@@ -580,6 +578,7 @@ app-thruster-finance.aadhyaca.com
 app-thruster.finance
 app-tokenlon.com
 app-ubeswap.vercel.app
+app-uniswaps.com
 app-velvet.capital
 app-venus.io
 app-vulcan.org
@@ -1328,6 +1327,7 @@ centralseedandchem.co.nz
 ceoltis.com
 cfd.interactivebrokers.group
 chahlist.org
+chaibenefitmassimui.com
 chain-link.pro
 chain-link.ru
 chain-linklabs.live
@@ -1589,7 +1589,6 @@ coins.tr1onex.top
 coinsquarelogin.com
 cointiger-airdrop.com
 cointiply-claim.com
-cointraker.net
 coinversenetwork.site
 coinzgroup.org
 colabland.bond
@@ -1632,6 +1631,7 @@ collabland.api-role.land
 collabland.boo
 collabland.bz
 collabland.cfd
+collabland.interact-guard.com
 collabland.pm
 collabland.role-guard.com
 collabland.wf
@@ -1801,7 +1801,6 @@ dama.or.tz
 danceanatolia.com
 dao-radiant.capital
 daoprotocol.pages.dev
-daosystems.pages.dev
 dap-radar.com
 dapi.re
 dapp-aicontract.com
@@ -1906,6 +1905,7 @@ dbrsfxs.com
 dbrspty.com
 de-fi.events
 deafah.in
+dealsync.pages.dev
 debanhk.github.io
 debank-badge.com
 debank-claim.com
@@ -2656,7 +2656,6 @@ gas-lido.com
 gasfeecal.com
 gate-io-gate.org
 gayjoygo.com
-gci-capitalindo.com
 gcko.org
 gedprefeituraimbituva.com.br
 gemg.vercel.app
@@ -2788,7 +2787,6 @@ grab-farcanacom.pages.dev
 grab-zetachain.com
 grandomaster.com
 grapepubliczk.org
-graphtoken.net
 graybarz.com
 greencorp.online
 grendot.online
@@ -2904,6 +2902,7 @@ hub-maker.org
 hubsoasys.games
 hubuoasys-games.com
 humminglinkgg.world
+hunnerdimental.com
 hwy407etr.com
 hxsn.xyz
 hydro-protocol.xyz
@@ -2963,6 +2962,7 @@ import-meta.io
 impostorsland.xyz
 imsvf.cc
 imtoken-qw.pro
+imx-news.com
 imx.airdrop.cfd
 imxcoin.eu
 in.scrll-club.cc
@@ -3079,6 +3079,7 @@ jitocoins-network.com
 jitodrop.net
 jjup.ag
 jkyr.pro
+joblessassistancenetwork.com
 joblessassistanceportal.net
 join-aofverse.com
 join-befilabs.com
@@ -3470,6 +3471,7 @@ liquidetherv2.com
 liquiditypools-uniswap.com
 liquidloanswhitelist.tech
 liquids-ethereum.com
+liquidsync.pages.dev
 liquity.gift
 list-jup.app
 list-jup.space
@@ -3867,6 +3869,7 @@ masslottery.lotteryvault.net
 masslottery.online
 masslouilionusma.com
 massonline.mprofile.org
+massposos.com
 master-brain.com
 mastersrewind.com
 matemank.io
@@ -4369,6 +4372,7 @@ my-swap.xyz
 my.templ.cc
 myairdrops.org
 mycastcrewssaw.com
+mychendimasslor.com
 mycommunityportal.site
 myedds.com
 myether.exchange
@@ -4425,7 +4429,6 @@ myuiionlinedetmadma.info
 myuimapay.online
 myuionlinedeetmadma.com
 myuionlinedeetmadma.info
-myuionlinedettmadma.com
 myuionlinedettmadma.info
 myuionlineedetmadma.net
 myuionlinneedettmadmu.com
@@ -4595,7 +4598,6 @@ nisaconert.vip
 njmvdu.pro
 nkbihfbeogaeaoehlefnkodbefgpgknn.metamaskk.skyhighfirstclass.com.ng
 nkjs0.ru.com
-nnapplic-app.com
 nnetamasks.io
 nnetannask.io
 nnpiapplic-app.xyz
@@ -4868,6 +4870,7 @@ pancakesswap.pages.dev
 pancakesvap-app.github.io
 pancakesvap.finance.us.org
 pancakesvop.com
+pancakeswaapfinance.net
 pancakeswao.finance
 pancakeswap-airdop.com
 pancakeswap-connect.xyz
@@ -5679,6 +5682,7 @@ revokeapp.tech
 revokeassets.com
 revokeca.com
 revokeca.xyz
+revokecash-portal.pages.dev
 revokecash-web3.org
 revokecash.cash
 revokecash.network
@@ -5727,8 +5731,8 @@ rewardpancakeswap.finance
 rewards-circle.com
 rewards-dappradar.com
 rewards-emirates.com
+rewards-ether.com
 rewards-galagames.com
-rewards-graphtoken.com
 rewards-mantanetwork.com
 rewards-mantapacific.net
 rewards-mantle.com
@@ -6350,7 +6354,6 @@ survey-zksync.org
 susdc.dev
 sushi-swapsushi.github.io
 sushi.gifts
-sushi.svvap.us.com
 sushipwap.github.io
 sushiswap-sushi.app
 sushiswap.lt
@@ -7069,6 +7072,7 @@ web3defi352.top
 web3defi495.top
 web3defi7.top
 web3defi96.top
+web3dropmetask.com
 web3fixauthenticator.pages.dev
 web3inbx.com
 web3kaava.netlify.app
@@ -7464,6 +7468,7 @@ www.magpiexyz.click
 www.mail.cpcalendars.gitlab.mail.pancakefiance.org
 www.mailer.paxfulonline.com
 www.mainnet-portal.com
+www.makerdaodai.site
 www.mamtanetworkbonus.com
 www.manta-pacific.app
 www.manta.christmas
