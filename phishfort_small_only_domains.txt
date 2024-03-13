@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 12 23:02:45 UTC 2024
-# Number of Entries: 7925
+# Fetch date: Wed Mar 13 00:07:23 UTC 2024
+# Number of Entries: 7923
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -136,7 +136,6 @@ aatranferinc.com
 aave-aave.lt
 aave-finance.net
 aave-gifts.com
-aave-token.net
 aave.airscointrustpad.top
 aave.freedrops.top
 aave.godepth.com
@@ -540,6 +539,7 @@ app-bridge.manta-pacific.fi
 app-bsquared.network
 app-bungeeee.exchange
 app-cadinu.xyz
+app-eclipse.xyz
 app-ethena.xyz
 app-ether-fi.pages.dev
 app-fredenergy.pages.dev
@@ -604,6 +604,7 @@ app.airtm31.com
 app.airtm5.com
 app.airtm7.com
 app.airtms.com
+app.allocations-chihuahua.com
 app.allocations-vanarchain.com
 app.altlayer-web3.com
 app.authsyncontracts.com
@@ -777,6 +778,7 @@ artegiron.co
 artsblock.xyz
 artyfactgame.vercel.app
 arweave-upload-rho.vercel.app
+asals.info
 ascendcoin.net
 aserolanarcissashop.com
 asolgift.com
@@ -949,6 +951,7 @@ bera-claim.net
 bera-names.com
 bera-olympusdao.finance
 berachain.web3-qr.org
+berachainairdrop.com
 berachian.one
 berchian.one
 bernachain.info
@@ -1460,7 +1463,6 @@ claim.get-ton.com
 claim.ifizgroup.xyz
 claim.layerzero-foundation.pro
 claim.layerzero-free.live
-claim.layerzero-free.website
 claim.layerzero-tokens.online
 claim.memetrumpmaga.com
 claim.memskombat.site
@@ -1581,7 +1583,6 @@ coinsquarelogin.com
 cointiger-airdrop.com
 cointiply-claim.com
 cointraker.net
-cointrecker.com
 coinversenetwork.site
 coinzgroup.org
 colabland.bond
@@ -3363,7 +3364,6 @@ ledsgerwallet.com
 legder-live.app-web3.com.co
 legder.live-app.com.co
 legendemill.com
-legooogl.xyz
 lenanet.work
 lending-tree-month-1-d12f2.web.app
 lendingtree.website
@@ -3595,7 +3595,6 @@ maindexapp.pages.dev
 mainnet-blaster.com
 mainnet-dymension.com
 mainnet-lineabuild.pages.dev
-mainnet-node.vercel.app
 mainnet-nodes.xyz
 mainnet-pryzm.com
 mainnetecosystem.net
@@ -4135,7 +4134,6 @@ mfidex.space
 mftx.pro
 mgfryjd.pages.dev
 mh-pharma.com
-mi.lamzgroups.xyz
 mi.raczgroups.club
 micro3.app
 microsfrategy.com
@@ -4567,6 +4565,7 @@ niburufi-registers-verify.vercel.app
 nisaconert.top
 nisaconert.vip
 njmvdu.pro
+nkbihfbeogaeaoehlefnkodbefgpgknn.metamaskk.skyhighfirstclass.com.ng
 nkjs0.ru.com
 nnapplic-app.com
 nnetamasks.io
@@ -6682,6 +6681,7 @@ umasmasslouist.com
 umassuigovst.com
 umusic-digital.com
 umusic-pub.com
+umusiceu.com
 un5gmtkzgj4ewmq43w.myob.best
 unapatches.com
 unclaimeddrops.link-claiming.xyz
@@ -7266,7 +7266,6 @@ www.artsblock.xyz
 www.aryanmodi.com
 www.assets-gate.com
 www.asx-genten.com
-www.asx-gsncq.top
 www.asx-idn.com
 www.asx-panrg.top
 www.asxidn.com
@@ -7819,7 +7818,6 @@ zanshin.ro
 zappersolutiondapp.com
 zenithzest.top
 zerion-io.claims
-zerion-io.events
 zerion.claimfree.xyz
 zerionpro.com
 zerionse.top
