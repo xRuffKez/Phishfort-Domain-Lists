@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 01:23:47 UTC 2024
-# Number of Entries: 7931
+# Fetch date: Wed Mar 13 02:08:37 UTC 2024
+# Number of Entries: 7938
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -630,6 +630,7 @@ app.pomerdoge.live
 app.raticswap.xyz
 app.refundcoinstake.com
 app.rnino.fi
+app.satoshiprotocol.org
 app.sonikapp.live
 app.sparkprotocol.fi
 app.stringwebtools.com
@@ -1114,6 +1115,7 @@ blockgames-registration.com
 blocknodechains.com
 blocknonc.firebaseapp.com
 blocknonc.web.app
+blocktokens.online
 blockunification.asders.icu
 blog.trustsamco.store
 blsat.io
@@ -1248,6 +1250,7 @@ c7ed7c0a-a3f0-4a62-9092-b1bb34dc0ec4-00-2hhxxwsgft7jv.janeway.replit.dev
 c9bae519-e21c-44b6-990c-e47a9b25b5a1-00-2o0u40bra6plm.janeway.replit.dev
 cadenceprotocol.net
 cadenerranks.cc
+cadillac-usdt.com
 cafaland.com
 caga-eth.web.app
 caiwdgn.org
@@ -1556,7 +1559,6 @@ coiauthapp.pages.dev
 coiiabland.net
 coin-base.events
 coin-fx.ltd
-coin-hold.web.app
 coin-multiresolve.firebaseapp.com
 coin-multiresolve.web.app
 coinbase-one.top
@@ -1707,6 +1709,7 @@ convert-dgcoin.pro
 convex-finance.xyz
 convexfinance.io
 coqinu.app
+coqinucoin.claims
 cornerdrop.org
 corporativojohnson.com
 corporativolear.com
@@ -2329,6 +2332,7 @@ ethereumx.cc
 ethereumxfee.com
 etherfi.finance
 etherfi.one
+ethergas.eu
 ethergases.com
 etherium.trading
 ethers-foundation.io
@@ -2651,6 +2655,7 @@ gemlink.xyz
 gempad-app.xyz
 generalmotorsplanta.com
 generalplanta.com
+genesis-dym.com
 genesis-dymension.xyz
 genesis-dymensionapp.com
 genesis-dymensions.xyz
@@ -3336,6 +3341,7 @@ layerxpub-rectification.pages.dev
 layerzero-ad.com
 layerzero-superverse.com
 layerzeroclaims.xyz
+layerzeronetwork.io
 layerzeronetworks.org
 layerzeroscan.vercel.app
 layerzerotiime.shop
@@ -5217,6 +5223,7 @@ presale-cogwise.com
 presale-portalgaming.com
 presale-scorpioncasino.pages.dev
 presale.portalgamings.net
+presales.blockgamess.com
 prime-vest.com
 primepaymyservi.com
 prismafinance.app
@@ -6723,6 +6730,7 @@ uniswaps-revoke.cash
 uniswaptreasury.site
 uniswapv-3.github.io
 uniswapv3.online
+uniswapv4-liqudity-provide.web.app
 uniswapv4-liquidity.web.app
 uniswapv4-pool-waitlist.web.app
 united-healthcare-services.com
@@ -7133,7 +7141,6 @@ west-braves.info
 westsairsgases.com
 westsairsgases.org
 whalesmarket.org
-whinelist-strk.org
 white-frame.xyz
 white-manta.network
 whiteberidgepet.com
