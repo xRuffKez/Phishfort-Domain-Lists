@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 11:03:01 UTC 2024
-# Number of Entries: 7952
+# Fetch date: Wed Mar 13 12:03:36 UTC 2024
+# Number of Entries: 7950
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -53,7 +53,6 @@
 1inchnetwork156.net
 1inchnetwork2024.net
 1inchpool.com
-1inchs.pages.dev
 1inchv4.fi
 1inchwallet.app
 1inchweb3.com
@@ -6509,7 +6508,6 @@ tia-project.com
 tiacelestia.org
 tiaderjoexyz.com
 tias-celestia.net
-tias-celestia.org
 tias-giveaways.net
 tidex.icu
 tifi-airdrop.com
