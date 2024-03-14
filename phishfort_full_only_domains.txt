@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 06:01:57 UTC 2024
-# Number of Entries: 106482
+# Fetch date: Thu Mar 14 07:02:21 UTC 2024
+# Number of Entries: 106485
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -47722,6 +47722,7 @@ mavia-claim.top
 mavia-game.xyz
 mavia-home.com
 mavia-web3.org
+mavia.bz
 mavia.cc
 mavia.land
 mavia.lc
@@ -68256,6 +68257,7 @@ pepe20-vip.web.app
 pepe20.cc
 pepe20.me
 pepe20.tech
+pepe20token.com
 pepe2airdrop.com
 pepe2airdrops.xyz
 pepe2claim.com
@@ -76314,6 +76316,7 @@ sbpautomation.com
 sbs303.xyz
 scaleswap.medium.com.ru
 scalling-fees.org
+scallop-airdrop-claim.com
 scam-snfifer.io
 scam-sniffer.com
 scam-sniffer.io
@@ -83389,6 +83392,7 @@ terium.info
 terium.pw
 term.hedgeinvest.net
 termaket.site
+terminal-befilabs.com
 terminalconnect.com
 termo.buysender.online
 termo.pickyourbuy.online
@@ -83962,7 +83966,6 @@ thechillgame.com
 theciscoanyengage.net
 thecockpunchgame.xyz
 thecodepunk.netlify.app
-thecoinfinder.xyz
 thecoinfix.live
 thecointip.net
 thecointip.org
@@ -87774,6 +87777,7 @@ uniswapv3.online
 uniswapv3lp.com
 uniswapv4-liqudity-provide.web.app
 uniswapv4-liquidity.web.app
+uniswapv4-pool-choosing.web.app
 uniswapv4-pool-waitlist.web.app
 uniswapv4.org
 uniswapv4.top
@@ -106475,7 +106479,6 @@ zyberswap.news
 zyberswap.pro
 zyberswapp.shop
 zyderswap.top
-zyksync.com
 zynecoin.io.connected-myet.herwallet.com
 zyns.com
 zypdo.com
