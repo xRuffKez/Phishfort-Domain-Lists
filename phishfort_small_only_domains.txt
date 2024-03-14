@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 05:02:13 UTC 2024
-# Number of Entries: 8018
+# Fetch date: Thu Mar 14 06:02:35 UTC 2024
+# Number of Entries: 8016
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2912,6 +2912,7 @@ home.truefair.xyz
 homeoptivermobile12.com
 hopexchange.top
 hopper-rating.com
+hopper.travsrv.com
 hostilityaristocrat.top
 housexysounds.com
 hpths777inu.org
@@ -4809,7 +4810,6 @@ optimism.airdrops-claiming.cc
 optimism.claim-airdrop.pro
 optimism.io-op-claim.top
 optimism4.com
-optiver2.com
 optiveronline.com
 optivertradeoptions.com
 oraclegarden.network
@@ -5293,7 +5293,6 @@ pro-collab.land
 pro-zetachain.com
 procch.net
 procchfx.com
-procurementsregistration.online
 prof1111.pages.dev
 profit-dydx.com
 profrags.com
@@ -6644,6 +6643,7 @@ tokensfree2024.com
 tokensight.vip
 toll.a407info.com
 tolls-407express.com
+tollvest.org
 tomandgerimail.com
 tombmigration.com
 ton.org-community.info
@@ -7202,7 +7202,6 @@ wenwendrop.com
 wenwenofficial.com
 wepad.web3mirror.io
 wer34.pages.dev
-were-braved.info
 wesmopay.com
 wessxcrz.online
 west-braves.info
@@ -7487,7 +7486,6 @@ www.holdblur.foundation
 www.iayerzero-claim.net
 www.ibkrixs.vip
 www.idcapps.life
-www.idexs.vip
 www.ifdgl.com
 www.imap.home.hostmaster.coingecko.hatsuqat.com
 www.img.m.api.blog.api.mail.pancakeswaps.org
