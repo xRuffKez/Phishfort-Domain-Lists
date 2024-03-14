@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 21:02:04 UTC 2024
-# Number of Entries: 8001
+# Fetch date: Thu Mar 14 22:02:12 UTC 2024
+# Number of Entries: 7988
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1257,7 +1257,6 @@ cadenerranks.cc
 cadillac-usdt.com
 cafaland.com
 caga-eth.web.app
-caiwdgn.org
 cake-defiweb3.com
 cake-distribution.net
 cake-pie.org
@@ -1320,7 +1319,6 @@ celestia-network.com
 celestia-projects.net
 celestia.chain-spn.com
 celestialabs.dev
-celestias-free.org
 celiestia.org
 cellframenetwork.com
 cellnextelecomservice.com
@@ -1763,7 +1761,6 @@ crypto.wormscommunity.xyz
 crypto11.bep666.top
 cryptohopperclaim.com
 cryptoinfosec.net
-cryptomaxapp.com
 cryptopepedrops.com
 cryptopro.vip
 cryptorank.web3-platform.com
@@ -1838,7 +1835,6 @@ dapppaxos.co
 dapprad.net
 dappradaar.net
 dappradar-claim.com
-dappradar-governance.com
 dappradar-token.com
 dappradar.ac
 dappradar.co.com
@@ -2001,7 +1997,6 @@ degen-claim.netlify.app
 degenapez.club
 degods-wormhole.com
 deillama.top
-dejitarutsukadapp.pages.dev
 delmetamask.onrender.com
 demarkoizi.org
 demension.life
@@ -2451,7 +2446,6 @@ farming-taiko.org-c.co
 farmingusd.org
 farmlayerai.xyz
 farwul.com
-fashionbbagshop.shop
 fastauthewalletethersync.com
 fastdevmigrathaslite.pro
 fatehelpsthebrave.com
@@ -2620,7 +2614,6 @@ fudsolana.org
 fuelnetwork-register.vercel.app
 fujimitsudynamic.com
 fullmoonbird-next.vercel.app
-fun.cosmicpets.info
 funairdrop.fun
 funairdrop.vip
 funkapez.com
@@ -2825,7 +2818,6 @@ gt-protocol.trading
 gtmmypayroll.com
 gtoswapportal.pages.dev
 gtprotocol.net
-guild-zksync.io
 guitarsbyfender.com
 gunitswiftcommunityswap.com
 gwabagu.pages.dev
@@ -3169,7 +3161,6 @@ jup-e.com
 jup-evm.com
 jup-start.com
 jup-test-46s.pages.dev
-jup.claims
 jup.red
 jup005.com
 jup111.com
@@ -5885,7 +5876,6 @@ saksoff5th.love
 saksoff5th.store
 saksoff5thboool.top
 saksoff5thf.com
-saksoff5thkppltpj.com
 saksoff5thnu.com
 saksoff5tho.com
 saksoff5thw.com
@@ -6105,7 +6095,6 @@ slavic402wws.com
 sleeplessai.dev
 sleeplessai.presale-ico.org
 slgnup-dymension.com
-sltarkdrop.site
 sltarkdrop.website
 sltarlcnetdrop.pw
 smaarhtmaiigrathhe.com
@@ -6338,7 +6327,6 @@ stonexkr.com
 stonexx.club
 stonexx.net
 store17830.associazionechien.org
-stormechamp.com
 stretto-celsius-network.com
 stride-zone.vercel.app
 strive.serwerdwg.pl
@@ -6637,7 +6625,6 @@ ton.org-newyear.fun
 ton.x-wallet.top
 tool-orb.web.app
 top-satoshivm.io
-topchancesnow.com
 topprice-line.com
 torenado.cash
 tornado.foundation
