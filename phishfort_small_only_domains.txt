@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 01:22:22 UTC 2024
-# Number of Entries: 7985
+# Fetch date: Thu Mar 14 02:07:14 UTC 2024
+# Number of Entries: 7988
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -5280,6 +5280,7 @@ projectnetsolution.com
 projectnft-xi.vercel.app
 projopensea.vercel.app
 projwctclaim.vercel.app
+prokccin.com
 promochevro.com
 promotg.fun
 prompt-0x216.xyz
@@ -5695,7 +5696,6 @@ revoke.markets
 revoke.page
 revoke.run
 revoke.tech
-revoke.tips
 revokeapp.info
 revokeapp.net
 revokeapp.tech
@@ -5737,6 +5737,7 @@ reward-1inch.com
 reward-altlayer.io
 reward-memecoin.com
 reward-optimism.io
+reward-paalai.finance
 reward-satoshivm.com
 reward-strk.network
 reward-wenwen.com
@@ -6313,6 +6314,7 @@ stepnboxx.netlify.app
 stepstaking.app
 stethers.com
 stethlido.win
+stethpool.xyz
 stethshiba.top
 stip-radiantcapital.com
 stockmetrictraders.com
@@ -7852,6 +7854,7 @@ yearn.deflab.top
 yearn.trastpad-airs.top
 yearn.trustpadeo.top
 yearn.xbits.top
+yelds-protocol.xyz
 yellow-card.co.uk
 yexinerangel.com
 ygbu.mypi.co
