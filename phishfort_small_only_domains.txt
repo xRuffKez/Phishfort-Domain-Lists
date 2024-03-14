@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 23:02:23 UTC 2024
-# Number of Entries: 7963
+# Fetch date: Thu Mar 14 00:07:15 UTC 2024
+# Number of Entries: 7969
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1310,7 +1310,6 @@ cdzhjzx.com
 cealtis.fail
 celastise.net
 celatis.digital
-celatis.paperhand.fi
 celebrators.pk
 celestia-network.com
 celestia-projects.net
@@ -1557,6 +1556,7 @@ co.llab-land.icu
 co.llab-lands.icu
 co.llab-verify.xyz
 co.llabz.land
+co11ab-1and.com
 codefi.ws
 codeflick.site
 codexchain.org
@@ -3931,6 +3931,7 @@ meleadash.com
 melstroy.by
 memayes.com
 members-kcchamber.com
+memebevy.shop
 memecoin.rocks
 memecoin.ws
 memecoinz.xyz
@@ -4055,7 +4056,6 @@ metamask.lat
 metamask.managementcommunity.pro
 metamask.nodelinks.net
 metamask.ss3.app
-metamask.today
 metamask.wallet-app.com
 metamask.web3-request.net
 metamask3.pw
@@ -4566,6 +4566,7 @@ nftdropgems.online
 nftkey.web3app.space
 nftlink.vercel.app
 nftmantanetwork.com
+nftmint.paaltoken.com
 nftopenseaclaim.vercel.app
 nftopenseas.vercel.app
 nftprojects-claim.vercel.app
@@ -5421,6 +5422,7 @@ quests-dymenslon.network
 quests-injective.com
 quests-multibits.com
 quests-particle.network
+quests-sharpnel.com
 quests-superverse.com
 quests-treasure.trading
 quests-zora.network
@@ -6006,6 +6008,7 @@ shrapnei-whitelist.com
 shrapneil.com
 shrapnel-2024.com
 shrapnel-whitelists.com
+shrapnel.cloud
 shrapnel.store
 sideshift.art
 sidus.gift
@@ -6728,6 +6731,7 @@ unibots.trading
 unicswap.io
 unifi-protocol-dao.pro-cryptopad.tech
 uniglobecapitals.com
+unilend-v2mainnetnetwork.org
 unipolycoin.network
 unis-wap.net
 unisat-io-five.vercel.app
@@ -7856,6 +7860,7 @@ z9a5rlx4jj.whosaginay.tech
 zanshin.ro
 zappersolutiondapp.com
 zenithzest.top
+zens-web3.com
 zerion-io.claims
 zerion.claimfree.xyz
 zerionpro.com
@@ -7949,6 +7954,7 @@ zksync-rewards.org
 zksync-survey.co
 zksync-survey.net
 zksync.line.pm
+zksync.nirbhik.com
 zksync.token-claim.cc
 zksync2024.com
 zksyncera.app
