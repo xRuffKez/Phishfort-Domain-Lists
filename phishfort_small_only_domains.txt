@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 11:02:07 UTC 2024
+# Fetch date: Thu Mar 14 12:03:19 UTC 2024
 # Number of Entries: 8002
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1150,7 +1150,6 @@ boltbot.eu
 bomkxmas.com
 bondexapp.network
 boner-get.netlify.app
-bonk-drop.com
 bonk-premium.web.app
 bonk-token.xyz
 bonk.claims
@@ -2462,6 +2461,7 @@ fatehelpsthebrave.com
 favoriteocircus.com
 fcstone.dsar.privally.io
 fcstonekr.pro
+fcstonekr.xyz
 fedex.fullpays.site
 feereturn.xyz
 feereturns.xyz
@@ -4077,6 +4077,7 @@ metamask.land
 metamask.lat
 metamask.managementcommunity.pro
 metamask.nodelinks.net
+metamask.so
 metamask.ss3.app
 metamask.wallet-app.com
 metamask.web3-request.net
@@ -4338,7 +4339,6 @@ moonbeams-web3.com
 mooniswapco.com
 moonsama.tech
 moonwel.finance
-morlton.net
 morossnet.xyz
 moshcuoss.com
 mot-qatargov.net
