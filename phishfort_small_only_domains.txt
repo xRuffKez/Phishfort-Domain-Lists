@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 07:03:00 UTC 2024
-# Number of Entries: 8021
+# Fetch date: Thu Mar 14 08:02:45 UTC 2024
+# Number of Entries: 8022
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -314,6 +314,7 @@ airdrop.mfi.expert
 airdrop.modenetwork.xyz
 airdrop.nibiru-web3.com
 airdrop.orbiterfinancial.com
+airdrop.reportwisely.shop
 airdrop.rest
 airdrop.sleepleessai.net
 airdrop.starheros.community
@@ -816,7 +817,6 @@ atltayer-reward.top
 atmexchange.org
 atom.trasthub.top
 atomsolana.live
-ator-io.live
 atorio.news
 atorprotocol.co
 audius.gift
@@ -1907,6 +1907,7 @@ dashboard-synthetix.net
 dashboard.alt.enterprises
 dashboard.plxeis.xyz
 dashboardpixels.xyz
+dashbprd-charli3.live
 dashliquid.com
 data-trustwallet.com
 davi.pse-ssl.win
@@ -7254,7 +7255,6 @@ winusdt.top
 wired-interviews.netlify.app
 wirerecieve-pay.onrender.com
 withdrawaldesk.com
-wizink.cartoespt-app.online
 wkjyd.top
 wkkuail.vip
 wm697t2io8uh7uaui6jg1oc4.designsdart.com
@@ -7348,6 +7348,7 @@ www.app-milkyway.zone
 www.app-rhino.com
 www.app-wasabi.xyz
 www.app.defi-connect.xyz
+www.app.trust-reward.live
 www.appscallop.io
 www.appstride.zone
 www.appwallstmemes.pro
