@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 16:02:18 UTC 2024
-# Number of Entries: 8001
+# Fetch date: Thu Mar 14 17:02:49 UTC 2024
+# Number of Entries: 8006
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2610,6 +2610,7 @@ freesync.pages.dev
 freshairdrop-website.live
 freshkingcrabs.com
 from-agoda.site.pro
+fsafeds.comt.sa.com
 ftp.raydiums.motorcycles
 ftx-e49.pages.dev
 fuadazzad.net
@@ -4305,6 +4306,7 @@ modenet.work
 modenetwork.io
 modenetwork.netlify.app
 moderator.ltd
+modhr.org
 modulares.icu
 modulef.com
 moduler.network
@@ -5078,6 +5080,7 @@ payment407etr.com
 payments-407etr.com
 payrollfrommyhel.com
 paywithpicoinnetwork.com
+pc.dbrslimited.com
 pcpgxr.top
 pcs-cakexdefi.com
 pcs-defistakev3.com
@@ -6733,7 +6736,6 @@ ufgw.top
 uhcdapp-apply-srv-eligible.glitch.me
 uhcrecruit.com
 uidetmabenefits.org
-uimassbenefts.org
 uiredofmassucherndy.com
 ujp.ag
 uk-applovinlife.com
@@ -7043,6 +7045,7 @@ wap.js-xlh.com
 wap.kinetu.com.cn
 wap.uu-whatsapp.com
 waprcast.com
+washingtonpost.in
 washingtonposts.info
 waves-opensea.com
 wbtc-portal.com
@@ -7270,6 +7273,7 @@ wrevoke.cash
 wsm-token-migration.netlify.app
 wswap.live
 wtoken-claim.com
+wtokenevent.app
 wufis.com
 wverycaxqw6urqwpchk.mxy9ink.ru
 wvw.jucrina.club
@@ -7471,6 +7475,7 @@ www.gracieabramssmerchandise.com
 www.grimwa.com
 www.hashpackegd.com
 www.hashpacksqa.com
+www.hellofurther.pro
 www.help.issueresolve.org
 www.holdblur.foundation
 www.iayerzero-claim.net
