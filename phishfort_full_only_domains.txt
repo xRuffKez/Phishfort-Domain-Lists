@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 17:01:44 UTC 2024
-# Number of Entries: 106490
+# Fetch date: Thu Mar 14 18:02:03 UTC 2024
+# Number of Entries: 106493
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -24491,6 +24491,7 @@ dcwebc-farelogix.online
 dcwsynesecure.com
 dd.kwss.vip
 dddddhh.site
+dddow.com
 ddebahk.com
 ddeswer.site
 ddexbit.com
@@ -34015,6 +34016,7 @@ frutizbeach.space
 frvcommunity.com
 fs.pancakesvqp.com
 fsafeds.comt.sa.com
+fsafeds.sa.com
 fsclng.com
 fspoiq.s3o98.com
 fsport-cs.ru
@@ -81053,6 +81055,7 @@ stonexfinancial.pro
 stonexgroup.us
 stonexgroupinc.com
 stonexgroups.com
+stonexkr.com
 stonexpros.com
 stonexstrade.com
 stonextrade.com
