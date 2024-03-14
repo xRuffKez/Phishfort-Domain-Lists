@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 00:05:08 UTC 2024
-# Number of Entries: 106448
+# Fetch date: Thu Mar 14 01:21:48 UTC 2024
+# Number of Entries: 106454
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3634,6 +3634,7 @@ airdrop.mintvese.live
 airdrop.modenetwork.xyz
 airdrop.mogicedan.eu
 airdrop.mogiceden.nu
+airdrop.nibiru-web3.com
 airdrop.nocovid19.finance
 airdrop.optimism-foundation.com
 airdrop.optimism-labs.com
@@ -5618,6 +5619,7 @@ app-hvmtl.com
 app-impti.com
 app-issuefix.pages.dev
 app-jito.com
+app-juilce.finance
 app-kaspanet.com
 app-kava.com
 app-keplr.live
@@ -7172,7 +7174,6 @@ arbiscane.shop
 arbismarts.com
 arbismarts.thenekos.net
 arbispad.com
-arbitarun.com
 arbitdrop.com
 arbitdrop.net
 arbitirum.net
@@ -12641,6 +12642,7 @@ blast-l2.dev
 blast-layer.web.app
 blast-majors.com
 blast-newsletter.com
+blast-protocol.xyz
 blast-stage.icu
 blast.connected-web3.net
 blast.dropapp.pro
@@ -13784,7 +13786,6 @@ bored-ape-reincarnated.netlify.app
 bored-ape.info
 bored-ape.us
 bored-milady.web3fast.net
-bored-wojak.com
 boredaapeyachtcclub.xyz
 boredalpeyc.xyz
 boredape-fifa.com
@@ -15011,6 +15012,7 @@ bvgroupcos.com
 bvlgari.buzz
 bvrefe.pages.dev
 bvu6p.ljwltg.com
+bvuvs.info
 bvvvvvw-metamas.top
 bvvvwv-metamas.top
 bvyd.fvyler.isa-geek.com
@@ -17138,7 +17140,6 @@ claim.xn--optmism-tfb.net
 claim.xn--optmsm-yvab.net
 claim.zerionclaim.com
 claim.zeta.chain.wb3ox.xyz
-claim.zetachain.top
 claim.zetachain.vip
 claim.zetachain.wb3s.xyz
 claim.zetachain.wb3u.xyz
@@ -21750,7 +21751,6 @@ cryptopads-pro.com
 cryptopanel.net
 cryptopentest.com
 cryptopepedrops.com
-cryptopepesnfts.com
 cryptopgts.com
 cryptophunks.web3fast.net
 cryptophunksnft.xyz
@@ -33515,6 +33515,7 @@ forevercollab.land
 foreverozeal.com
 forex-com.holu.workers.dev
 forexetoro.com
+forexgcoin-5.com
 forexinvest-start.com
 forgefoxfinance.com
 forging-rtfkt.com
@@ -48658,7 +48659,6 @@ metaherouniverse.freemint-airdrop.com
 metaherouniverse.livenow-nfts.com
 metahmask.pro
 metahmasks.com
-metaidrops.com
 metaiimassk.azurewebsites.net
 metaiimsk_us_wallut.godaddysites.com
 metaim-ask-wilatl.godaddysites.com
@@ -53594,6 +53594,7 @@ muktijuso-korea.com
 mulakasakks.ru
 mulitstore-launchpads.pages.dev
 mullenfx.com
+mulltibits.sbs
 mulsubs.org
 mult-bitforesline.blogspot.com
 multchain.cn.com
@@ -62139,6 +62140,7 @@ order.pancakeswaps.it
 order.pancakeswasap.one
 order.pancakeswep.info
 order.pancakeswwap.info
+ordiboardfusion.pages.dev
 ordiinalswallet.com
 ordinal-ape.com
 ordinal-apes.com
@@ -62153,7 +62155,6 @@ ordinalmonkeys.site
 ordinalodyssey.net
 ordinalpepe.info
 ordinalpunks-mint.com
-ordinals-apes.com
 ordinals-club.web3fast.net
 ordinalsazuki.com
 ordinalsbubbles.space
@@ -62359,7 +62360,6 @@ outerring-bonus.online
 outildecisionregimederetraitesunchemical.ca
 outkast.live
 outland.wl-giveaway.com
-outlawszuki.com
 outletshein.cl
 outletsouthwire.com
 outlook.pancakeswape.finance
@@ -67053,6 +67053,7 @@ paperhands-holders.web.app
 paperhands-network.web.app
 paperhands-networks.web.app
 paperhands-projects.web.app
+paperhands-wallet.web.app
 paperhold-eth.web.app
 paperhold-ethereum.web.app
 paperhold-net.web.app
@@ -67951,6 +67952,7 @@ paylocity.sa.com
 paylocity.za.com
 paylocityapis.com
 payloo.city
+paylooity.com
 paym-paxful.com
 payment-407etr.com
 payment-ethereum.online
@@ -73712,8 +73714,10 @@ register-xen.com
 register-xen.org
 register-yuliverse.app
 register-zksync.net
+register.befislabs.events
 register.ftxglobalex.com
 register.ftxproexchange.com
+register.pengonsol.xyz
 register.xn--boredapeyachtcub-ywc.com
 register.zollo.io
 registersandbox.xyz
@@ -74637,6 +74641,7 @@ rhino-fi.events
 rhino-fi.gift
 rhinocrypt.com
 rhinodao.app
+rhodium.live
 rhre.cl
 ri-sse.com
 riacho-tintas.blogspot.com
@@ -76145,6 +76150,7 @@ sandiegosleepandtmjcenter.com
 sandorff.netlify.app
 sandoxs-game.o-me.site
 sandoxs.game-a.site
+sandraallain.com
 sandwork.fun
 sanftcollection.xyz
 sanitarymilitancy.top
@@ -77862,6 +77868,7 @@ signup-ancient8.games
 signup-apecoin.com
 signup-apeterminal.com
 signup-ator.com
+signup-bera.net
 signup-bounce.com
 signup-brc20.com
 signup-collabland.com
@@ -79695,7 +79702,6 @@ spaceridersxyz.com
 spaces-fi.xyz
 spaces-id.fans
 spacesfi.xyz
-spaceshibasofficial.com
 spaceskellies.net
 spacesynfx.com
 spacetesla.info
@@ -81234,7 +81240,6 @@ sui-network.app
 sui-network.bar
 sui-network.io
 sui-network.mom
-sui-network.net
 sui-network.xyz
 sui-networke.com
 sui-networks.org
@@ -83899,7 +83904,6 @@ theautorepairer.net
 theaxielnfinity.com
 theaxosunion.us
 thebakery.cc
-thebakerynft.com
 thebankcbk.online
 thebastards.nft-premint.com
 thebaycompany-ca.com
@@ -94509,6 +94513,7 @@ white-manta.network
 whiteberidgepet.com
 whitehearts.web3-airdrop.net
 whiteholefinance.web3-airdrop.net
+whitel-probablynothing.net
 whitel-syncus.com
 whitelist-aave.com
 whitelist-aerbitrum.com
@@ -103057,6 +103062,7 @@ xmr-qr-code-generator.com
 xmr-wallet.com
 xmrqrcode.com
 xmrwallet.top
+xmxx.btcethl.vip
 xn----3u6ew01a8par64awja94zdossvaw18a.com
 xn----itbjab7adkacocegb9etd2c.xn--p1ai
 xn----op1f3n88t21bx74alndeta.net
@@ -105050,7 +105056,6 @@ xn--zksnc-sva.net
 xn--zksyc-c8a.com
 xn--zksyc-o8a.com
 xn--zksyn-2ra.com
-xn--zksyn-kxa.com
 xn--zkync-kdb.com
 xn--zsync-o5a.com
 xn--zuki-zna.com
@@ -105782,6 +105787,7 @@ zenland-app.xyz
 zenogakki.live
 zenoverwatch.com
 zenprolocol.com
+zens-web3.com
 zenshein.com
 zepe.io
 zepe.vip
