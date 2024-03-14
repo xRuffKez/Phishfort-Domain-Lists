@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 02:07:14 UTC 2024
-# Number of Entries: 7988
+# Fetch date: Thu Mar 14 03:02:20 UTC 2024
+# Number of Entries: 7991
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -499,6 +499,7 @@ apeswap.us
 apetarminal.pro
 apeteirminal.app
 apeterminal.link
+apexexchenge.com
 api-collabland.land
 api-collabland.net
 api-collabland.web.app
@@ -1807,6 +1808,7 @@ dalarnas.website
 dama.or.tz
 danceanatolia.com
 dao-radiant.capital
+daomaker.bond
 daoprotocol.pages.dev
 dap-radar.com
 dapi.re
@@ -2319,6 +2321,7 @@ ernfi.xyz
 errorsync.pages.dev
 erydgred.umb.market
 esenpay.com
+etfevent2024.com
 eth-amg.top
 eth-calculator.xyz
 eth-che.cyou
@@ -3411,6 +3414,7 @@ lfg-jup.io
 lfg-up.icu
 libertyfinancial.xyz
 libertyfinancials.xyz
+lido-airdrop.app
 lido-dist.firebaseapp.com
 lido-dist.web.app
 lido-fi.digital
@@ -3587,7 +3591,6 @@ magiclyeden.app
 magicsquare.pages.dev
 magicsquares.io
 magnetoinfinite.com
-magpie-xyz.claims
 magpie-xyz.com
 magpie-xyz.gift
 magpiesxyz.site
@@ -4302,6 +4305,7 @@ momentsbycandles.com
 monerom.uk
 monerosharpversa.pages.dev
 moneypak-activate.com
+monkedao.one
 monkesnft.xyz
 monney-penny.net
 monta-network.com
@@ -4670,6 +4674,7 @@ oeth.cash
 ofertachevro.com
 ofertaschev.com
 off5th.saksoff5thz.com
+offer-marketplace.io
 offer-rarible.com
 offers-opensae-io.codeanyapp.com
 official-dappradar.com
@@ -4829,6 +4834,7 @@ pacific-manta.network
 pacificbridge.xyz
 pacificmanta.vercel.app
 pacificparadigm.org
+pacificswap.app
 pacmoon.cash
 pacmoon.games
 pacnoon.co
@@ -4855,7 +4861,6 @@ pancake-frontend-29e48ga31-chefilip.vercel.app
 pancake-frontend-flznr5rp3-chefilip.vercel.app
 pancake-ifo.pages.dev
 pancake-magpiexyz.pages.dev
-pancake-swap.club
 pancake-swap.net
 pancake-swapfinance.pages.dev
 pancake-swapfinances.pages.dev
@@ -6125,7 +6130,6 @@ smartmigratez.com
 smartnoderevoke.pages.dev
 smartnoncebase.pages.dev
 smartrectification.pages.dev
-smartreviseconnect.pages.dev
 smartreviseprotocol.pages.dev
 smartreviseweb.pages.dev
 smartsheets.site
@@ -6237,6 +6241,7 @@ stake-lidofit.net
 stake-manta.network
 stake-official-online.com
 stake-rewarb.com
+stake-tish.com
 stake-us.in.net
 stake-us.in.net.mammonmarketing.com
 stake-xai.games
@@ -7721,7 +7726,6 @@ www.web.dapps-auth.live
 www.web.multichains-connect.com
 www.web.resolvebugvvalidly.org
 www.web3mwe.com
-www.web3mwi.com
 www.whm.elasticsearch-uat.arb-chain.com
 www.wikser.com
 www.windy.network
@@ -7880,7 +7884,6 @@ zanshin.ro
 zappersolutiondapp.com
 zenithzest.top
 zens-web3.com
-zerion-io.claims
 zerion.claimfree.xyz
 zerionpro.com
 zerionse.top
