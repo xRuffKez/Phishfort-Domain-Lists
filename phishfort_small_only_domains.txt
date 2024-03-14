@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 10:02:14 UTC 2024
-# Number of Entries: 8001
+# Fetch date: Thu Mar 14 11:02:07 UTC 2024
+# Number of Entries: 8002
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -198,6 +198,7 @@ agoda-com.com
 agoda-formulir.prioritas-24hours.com
 agoda-hotel.com
 agoda-jp.cc
+agoda-jp.co
 agoda-jp.com
 agoda-jp.vip
 agoda-jp.xyz
@@ -2052,7 +2053,6 @@ dhk6y.cc
 diag-bracco.com
 diamond-magiceden.network
 diamondhands-ethereum.web.app
-difficultsniff.top
 digicamforums.com
 digimetamask.com
 digital.free-zetachain.online
@@ -2125,6 +2125,7 @@ doublediamondwines.co
 dovu-migration.net
 dowchemical-us.com
 dowchemicals-us.com
+dowunitedstatesusa.com
 dppsradar.pages.dev
 dpsyncresolve.netlify.app
 drac24.ethdrop.xyz
@@ -2460,6 +2461,7 @@ fastdevmigrathaslite.pro
 fatehelpsthebrave.com
 favoriteocircus.com
 fcstone.dsar.privally.io
+fcstonekr.pro
 fedex.fullpays.site
 feereturn.xyz
 feereturns.xyz
@@ -7990,7 +7992,6 @@ zksync.nirbhik.com
 zksync.token-claim.cc
 zksync2024.com
 zksyncera.app
-zksynkpepe.com
 zksynoc.github.io
 zksynq.github.io
 zombiekilla.xyz
