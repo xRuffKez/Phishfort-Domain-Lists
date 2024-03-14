@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 05:01:38 UTC 2024
+# Fetch date: Thu Mar 14 06:01:57 UTC 2024
 # Number of Entries: 106482
 # Expires: 1 hour
 0-metemask.com
@@ -32480,7 +32480,6 @@ fegmigration.live
 fegmigrations.live
 fegmigrator.live
 fegrectifyissue.buzz
-fegrectifyissue.live
 fegsmartsolution.buzz
 fegstokens.com
 fegtoken.in
@@ -38043,6 +38042,7 @@ hopiumswap.com
 hopl.exchange
 hopn.exchange
 hopper-rating.com
+hopper.travsrv.com
 hopperinc.org
 hopperltd.com
 hopprotocol.sale
@@ -77948,7 +77948,6 @@ silver-monstera-c958a3.netlify.app
 silverbacktoken.live
 silvercreeksupplys.com
 silvertechsolutions.net
-silvertimefung.com
 sim-academy.org
 simauner.site
 simbaexchange.web3fast.net
@@ -85056,6 +85055,7 @@ tolllgroup.com
 tolls-407express.com
 tollsgroup.com
 tolltrackingweb.com
+tollvest.org
 toly.vip
 tomadoge.one
 tomandgerimail.com
