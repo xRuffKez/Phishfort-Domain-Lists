@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 22:02:12 UTC 2024
-# Number of Entries: 7988
+# Fetch date: Thu Mar 14 23:02:29 UTC 2024
+# Number of Entries: 7994
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -150,7 +150,6 @@ aavve.org
 abacoin.website
 abbie.sa.com
 abict.net
-aboldrevolution.com
 abosslab.com
 abracadebra.money
 abspaurill.com
@@ -841,6 +840,7 @@ authweb3sv.tk
 autismlearningpartners.systemupdates.org
 auto-financiamiento.online
 autoassetsvalidation.xyz
+autodiscover.aflacsinc.com
 autofix-node.pages.dev
 autorestore.pages.dev
 autovalidateblockchain.com
@@ -1049,7 +1049,6 @@ bitpulseportal.com
 bitrextrades.xyz
 bitrgbnetwork.com
 bitrock-app.com
-bitrys.com
 bitsgapmis.com
 bitstable-finance.pages.dev
 bittechsolutionz.online
@@ -1481,6 +1480,7 @@ claim.paalai.mobi
 claim.padgy.xyz
 claim.renqapp.live
 claim.retikapps.com
+claim.smogxtoken.com
 claim.sonikapp.live
 claim.spazecommune.com
 claim.spongeonerc.com
@@ -2531,6 +2531,7 @@ flyemiratesonline.com
 flyingtogether.website
 flyunitedworld.com
 fnx-marketrade.com
+foeziwo.pro
 foolz.sellpass.io
 foomclub.net
 footballeminence.top
@@ -2629,6 +2630,7 @@ gain-manta.pages.dev
 gala-games.io
 gala-games.org
 galagames-6nj.com
+galaxies.mantasnetworks.app
 galaxy-digital.io
 galxe.co.bz
 galxe.pl
@@ -3007,6 +3009,7 @@ injektive.info
 injektive.mom
 inkonbtc.app
 inmsgdetorg.in
+inspireaj.com
 instadapp.app
 instant-bravet.info
 instant-stake.com
@@ -7060,6 +7063,7 @@ web3-connectsj.gq
 web3-cyptoo.com
 web3-ethereum.info
 web3-kaavva.netlify.app
+web3-manta.pages.dev
 web3-modenetwork.org
 web3-phantom.com
 web3-phantom.net
@@ -7067,6 +7071,7 @@ web3-portfolio.pro
 web3-raydium.com
 web3-ronin.com
 web3-roninchain.com
+web3-shibaswap.com
 web3-shibaswap.xyz
 web3-solflare.com
 web3-traffic.xyz
@@ -7276,6 +7281,7 @@ www-app-1inch.com
 www-eigenlayer.xyz
 www-jumper.exchange
 www-jumpers.exchange
+www-orbiter.xyz
 www-peryourhealth.com
 www-pinksale.com
 www-safe-global.info
@@ -7836,7 +7842,6 @@ xn--ssetdsh-9wad.com
 xn--zcr743ah35a.com
 xoudwq.cfd
 xpaydappbnb.click
-xpoinc.co
 xpubactivationprotocol.pages.dev
 xpubprotocol.pages.dev
 xpubweb-rectify.pages.dev
@@ -7917,6 +7922,7 @@ zk-beam.org
 zk-bemd.app
 zk-bemd.org
 zk-dashboard.net
+zk-era.co
 zk-look.org
 zk-manta.network
 zk-skaling.org
