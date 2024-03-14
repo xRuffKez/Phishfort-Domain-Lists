@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 09:01:36 UTC 2024
-# Number of Entries: 106488
+# Fetch date: Thu Mar 14 10:01:58 UTC 2024
+# Number of Entries: 106474
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -14601,10 +14601,6 @@ btc5588.co
 btc5667.com
 btc5668.com
 btc5k.com
-btc8011.com
-btc8022.com
-btc8088.com
-btc8099.com
 btc8228.com
 btc8288.com
 btc8338.com
@@ -14612,7 +14608,6 @@ btc8558.com
 btc8668.com
 btc8778.com
 btc8887.com
-btc9066.com
 btc9119.com
 btc9229.com
 btc9339.com
@@ -17158,7 +17153,6 @@ claim1inch.online
 claim1inch.org
 claim1inch.site
 claim5-connect.live
-claim500-crypto.top
 claim500.tech
 claim500crypto.top
 claimable-web3.net
@@ -35041,9 +35035,7 @@ gapofficial.xyz
 garage.hv-mtls.com
 garbage-dapp.click
 garbage-friends.io
-garbage-frlend.art
 garbage-frlend.eu
-garbage-frlends.com
 garbagefriends.app
 garbageuniverse.fun
 garbageuniversity.app
@@ -48926,7 +48918,6 @@ metamask-community.dynv6.net
 metamask-compliance.com
 metamask-connect.add-all.site
 metamask-connect.com
-metamask-connect.ddns.net
 metamask-connect.link
 metamask-connect.live
 metamask-connect.net
@@ -53534,7 +53525,6 @@ mryetherewulet.pro
 mryetherwallet.com
 ms-boost.org
 ms-ceo.org
-ms-coinbase.xyz
 ms-metamessk.com
 ms-today.org
 ms.ftx.cl
@@ -62174,7 +62164,6 @@ ordinalbored.com
 ordinalcheckspepe.online
 ordinaldoodles.live
 ordinaldrops.org
-ordinalminer.com
 ordinalmonkeys.site
 ordinalodyssey.net
 ordinalpepe.info
@@ -69260,7 +69249,6 @@ pjhantom.app
 pjhnatonwalcvt.godaddysites.com
 pkinksle.com
 pkm.uajy.ac.id
-pknma-ciaaa-aaaad-qdxtq-cai.raw.ic0.app
 pknma-ciaaa-aaaad-qdxtq-cai.raw.icp0.io
 pkswap.co
 pkzn.net
@@ -74550,7 +74538,6 @@ reward.shein.ca-win.com
 reward.shib-memu.com
 reward3.club
 reward3.xyz
-rewardapp123.xyz
 rewardapps.xyz
 rewardbat.org
 rewardclaimable.glitch.me
@@ -80062,7 +80049,6 @@ stable7.net
 stablebounty.com
 stablecircle.com
 stablecoinchain.io
-stablecoinlimited.com
 stablefixprotocol.online
 stablefund.live
 stablefund.net
@@ -85315,7 +85301,6 @@ tradeai-bridge.vercel.app
 tradeassets.ltd
 tradeberry.org
 tradecentral.fun
-tradecoinsfx.org
 tradeconnection.net
 tradecurve-io.com
 tradedao-mig.click
@@ -94743,6 +94728,7 @@ withsupportaids.com
 wiw-ftx.com
 wizdemshare.com
 wizfairllc.com
+wizink.cartoespt-app.online
 wizverse.io
 wizzair-com.com
 wizzardking.com
