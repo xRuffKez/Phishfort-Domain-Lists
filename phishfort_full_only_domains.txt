@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 10:01:58 UTC 2024
-# Number of Entries: 106474
+# Fetch date: Thu Mar 14 11:01:26 UTC 2024
+# Number of Entries: 106473
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3005,8 +3005,10 @@ agoda-hk-booking.com
 agoda-hotel.com
 agoda-info.com
 agoda-jp.cc
+agoda-jp.co
 agoda-jp.com
 agoda-jp.vip
+agoda-jp.xyz
 agoda-jps.com
 agoda-mba.com
 agoda-not.com
@@ -10271,7 +10273,6 @@ balancerfi-protocol.com
 balancerfi.net
 balancerfi.org
 balancerfi.pages.dev
-balancerfi.signin-user.com
 balancerfi.top
 balancerfi.us
 balancerfinance.org
@@ -11401,7 +11402,6 @@ binance-giveaway.com
 binance-giveaway.firebaseapp.com
 binance-giveaway.heavenlytunes.co.za
 binance-giveaway.rashanwalaa.pk
-binance-giveaway.webcindario.com
 binance-giveawaypromo.banance.xyz
 binance-giveaways.com
 binance-giveeth.online
@@ -12845,14 +12845,12 @@ blockchain-wallets.tk
 blockchain-walletsync.com
 blockchain.bc0a8a19-f13a-4159-9817-5e98d9b467fd.com
 blockchain.com.avatardialler.com
-blockchain.com.walletsupport.co
 blockchain.info.rekllama.com
 blockchain.lcgiin.com
 blockchain.lcgin.com
 blockchain.llogin.co
 blockchain.logirn.com
 blockchain.openwalletservices.company
-blockchain.walletsupport.co
 blockchain.wallletuserconect.company
 blockchain1-wallet.com
 blockchain5th.com
@@ -27191,6 +27189,7 @@ download.pancakeswasap.one
 download.protoporiaucy.com
 downloadbitcoinmx.xyz
 downtownspokanehotels.com
+dowunitedstatesusa.com
 doxxed-promogive.com
 dpay-paxful.com
 dpcsm.today
@@ -29592,7 +29591,6 @@ eth20-qnt.com
 eth20-ray.com
 eth20-usdc.com
 eth20-wbtc.com
-eth20-web.com
 eth20-weth.com
 eth20.org
 eth2018.ethtoeth.com
@@ -32448,6 +32446,7 @@ fckit.live
 fcmetanft.com
 fcpandamen.com
 fcstone.dsar.privally.io
+fcstonekr.pro
 fd.eagerly.site
 fderedgo.top
 fdfdmaqb.beget.tech
