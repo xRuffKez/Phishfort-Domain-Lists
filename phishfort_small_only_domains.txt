@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 17:02:49 UTC 2024
-# Number of Entries: 8006
+# Fetch date: Thu Mar 14 18:02:37 UTC 2024
+# Number of Entries: 8007
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1915,6 +1915,7 @@ dbrsco.org
 dbrsfds.com
 dbrsfxs.com
 dbrspty.com
+dddow.com
 de-fi.events
 deafah.in
 dealsync.pages.dev
@@ -2611,6 +2612,7 @@ freshairdrop-website.live
 freshkingcrabs.com
 from-agoda.site.pro
 fsafeds.comt.sa.com
+fsafeds.sa.com
 ftp.raydiums.motorcycles
 ftx-e49.pages.dev
 fuadazzad.net
@@ -2628,7 +2630,6 @@ fusestaking.app
 fusionist.trading
 fusioxn-finance.com
 fx0qlmo.cc
-fíxedflaot.net
 fïxedlfloat.com
 g2os0.pro
 g5-airtm.com
@@ -3928,7 +3929,6 @@ maviiaa.com
 maylucenaa.com
 mcf.promo
 mdexcloudapp.xyz
-mdtp.rhknt.ru
 mducksspace.com
 mduresources.mamawannago.com
 me.fareflow.xyz
@@ -6339,6 +6339,7 @@ stonedr.xyz
 stonesolsteveaustin.com
 stonex.markets
 stonex12.com
+stonexkr.com
 stonexx.club
 stonexx.net
 store17830.associazionechien.org
