@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 00:07:15 UTC 2024
-# Number of Entries: 7969
+# Fetch date: Thu Mar 14 01:22:22 UTC 2024
+# Number of Entries: 7985
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -310,6 +310,7 @@ airdrop.everyworld.one
 airdrop.manto.network
 airdrop.mfi.expert
 airdrop.modenetwork.xyz
+airdrop.nibiru-web3.com
 airdrop.orbiterfinancial.com
 airdrop.rest
 airdrop.sleepleessai.net
@@ -546,6 +547,7 @@ app-ether-fi.pages.dev
 app-fredenergy.pages.dev
 app-fusionx.com
 app-jito.com
+app-juilce.finance
 app-kaspanet.com
 app-kava.com
 app-keplr.live
@@ -1078,6 +1080,7 @@ blast-l2.dev
 blast-layer.web.app
 blast-majors.com
 blast-newsletter.com
+blast-protocol.xyz
 blast-stage.icu
 blast.dropapp.pro
 blast.eventairdrop.com
@@ -1241,6 +1244,7 @@ buybonk.co
 buzz-bsquared.store
 buzz.bsquareed.online
 bvrefe.pages.dev
+bvuvs.info
 bybit-gift.space
 bytedog.pro
 bzname-service.com
@@ -2529,6 +2533,7 @@ footballeminence.top
 foresamagovi.com
 foreverozeal.com
 forex-com.holu.workers.dev
+forexgcoin-5.com
 forexinvest-start.com
 form-agooda.com
 form4tw.com
@@ -4330,6 +4335,7 @@ msprogram.biz
 mtaskx.com
 mtvrs-neotokyo.codes
 muitamask-login.blogspot.com
+mulltibits.sbs
 multchain.net
 multi-chain-connect.xyz
 multi-factor-authentication.online
@@ -4788,6 +4794,7 @@ orbexpro.com
 orbiter.financial
 orchai.live
 ordbridge.app
+ordiboardfusion.pages.dev
 ordiswapfi.pro
 ordiswaps.com
 ordiswaps.fi
@@ -4973,6 +4980,7 @@ paperhands-holders.web.app
 paperhands-network.web.app
 paperhands-networks.web.app
 paperhands-projects.web.app
+paperhands-wallet.web.app
 paperhold-eth.web.app
 paperhold-ethereum.web.app
 paperhold-net.web.app
@@ -5047,6 +5055,7 @@ paylccity.com
 paylink.fun.augusttarget.online
 paylocity-login.com
 paylocity-sso.com
+paylooity.com
 payment-407etr.com
 payment-etr407.com
 payment407etr.com
@@ -5591,6 +5600,8 @@ register-traderjoexyz.com
 register-wenwencoin.com
 register-yuliverse.app
 register-zksync.net
+register.befislabs.events
+register.pengonsol.xyz
 registration-ator.com
 registration-ator.io
 registration-basedbrett.com
@@ -5768,6 +5779,7 @@ rezoprotocol.com
 rfw4sdsklb.woorobaher.tech
 rhhrpka.pro
 rhinodao.app
+rhodium.live
 riboutlaw.top
 righteousforever.com
 righteousoforever.com
@@ -5879,6 +5891,7 @@ samuraiaward.info
 san-swap.com
 sanabilprint.com
 sand-bakery.org
+sandraallain.com
 sanswap.com
 saqa-cases.app
 saqaboxes.trade
@@ -6020,6 +6033,7 @@ signup-ait.tech
 signup-ancient8.games
 signup-apeterminal.com
 signup-ator.com
+signup-bera.net
 signup-bounce.com
 signup-brc20.com
 signup-collabland.com
@@ -7168,6 +7182,7 @@ whalesmarket.org
 white-frame.xyz
 white-manta.network
 whiteberidgepet.com
+whitel-probablynothing.net
 whitel-syncus.com
 whitelist-altlayer.com
 whitelist-altlayerom.pages.dev
@@ -7763,6 +7778,7 @@ xmas-analos.org
 xmas-bonk.com
 xmas-monkedao.com
 xmas.claims
+xmxx.btcethl.vip
 xn--1nch-vpa.io
 xn--arbtrum-tfb.com
 xn--fixedfaot-wpbe.com
