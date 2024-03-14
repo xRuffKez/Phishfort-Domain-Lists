@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 04:02:15 UTC 2024
-# Number of Entries: 8016
+# Fetch date: Thu Mar 14 05:02:13 UTC 2024
+# Number of Entries: 8018
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -828,7 +828,6 @@ auth-galagames-io.com
 auth-games-galas.online
 auth.meta-syncs.com
 auth.redapps.icu
-auth.staing.ramper.xyz
 auth0discord-collab.world
 authenticatorjoin.cc
 authenticpeninsula.top
@@ -1240,6 +1239,7 @@ bungeeswap.exchange
 burakalpaslan.cc
 burnedfii.com
 burnmua.build
+bursapimapen.com
 butterfieldtechnology.com
 buy.btcetf.network
 buy.pomerdoge.live
@@ -3532,6 +3532,7 @@ login--blockgames.com
 login-cisco.tech
 login-frame.xyz
 login-metamaskwallet.ddnss.eu
+login.cw1.ir
 login.frame-airdrop.xyz
 login.microsoftonlineportal.ppp-gov.online
 login.myob.ink
@@ -4203,6 +4204,7 @@ migrate-hedron.com
 migrate-houdiniswap.com
 migrate-memedefiv2.icu
 migrate-memedefiv2.xyz
+migrate-my-xidar.site
 migrate-produceai.xyz
 migrate-sappyseals.online
 migrate-smol-su.online
