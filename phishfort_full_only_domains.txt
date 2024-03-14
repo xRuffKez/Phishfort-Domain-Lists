@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 13:01:34 UTC 2024
-# Number of Entries: 106472
+# Fetch date: Thu Mar 14 14:01:33 UTC 2024
+# Number of Entries: 106475
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2243,6 +2243,7 @@ abritum.com
 absappdynamics.com
 absentlxy.click
 abso.site
+abspaurill.com
 abstractgobblers.art
 abstractnouveau.live
 abstsmentglances.com
@@ -25781,6 +25782,7 @@ deluxepluxwallet.com
 delysium.nft-premint.com
 delysium.pro
 delysium.web3fast.net
+demarkoizi.org
 demen-heroes.cloud
 demension.life
 demkolanme.site
@@ -27160,6 +27162,7 @@ dourdarcels.co
 dourdarcelsnft.live
 doutron.com
 dovu-migration.net
+dow-amercas.com
 dow-chemicals.net
 dowchemical-us.com
 dowchemicalcompanysa.com
