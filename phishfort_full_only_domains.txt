@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 15:01:39 UTC 2024
-# Number of Entries: 106476
+# Fetch date: Thu Mar 14 16:01:53 UTC 2024
+# Number of Entries: 106482
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3536,6 +3536,7 @@ airdrop-walletapp.pages.dev
 airdrop-walletconnect.kyc-regulations.info
 airdrop-weway.com
 airdrop-worldcoin.com
+airdrop-wormhole.vercel.app
 airdrop-wtoken.com
 airdrop-zeroiand.xyz
 airdrop-zerolend.app
@@ -22585,6 +22586,7 @@ dao-vela.org
 dao-velodromefinance.org
 dao.zksyn.org
 daoapprestore.com
+daoblender.xyz
 daobridgescore.tech
 daochains.site
 daoclaimaave.com
@@ -34012,7 +34014,6 @@ frustpad.com
 frutizbeach.space
 frvcommunity.com
 fs.pancakesvqp.com
-fsafeds.sa.com
 fsclng.com
 fspoiq.s3o98.com
 fsport-cs.ru
@@ -45920,6 +45921,7 @@ m.steamcomnniuty.ru
 m.stonex-super.top
 m.stonex-vip.com
 m.stylishcoupons.com
+m.teck-invest.com
 m.tiktide.com
 m.tokensvalidate.live
 m.usdt.ooo
@@ -46855,6 +46857,7 @@ make2x.org
 makeirdao.site
 makeirdao.space
 makeitintowallet2022metamask.work.gd
+makepayment-407etr.com
 maker-dai.com
 maker-dai.net
 maker-dao.net
@@ -58469,6 +58472,7 @@ nationaltelesolution.in
 nationaltrust-org.uk
 native-metamask-io-2.cf
 native-metamask-io-2.ga
+nativevalidationupdate.co
 natpet.store
 natsek.online
 nattieboro.com
@@ -67362,6 +67366,7 @@ paxful-click.com
 paxful-client.pro
 paxful-clo.com
 paxful-cls.com
+paxful-club.com
 paxful-coin.com
 paxful-coin.net
 paxful-com-login.oauth-deriv-binary.website
@@ -69063,6 +69068,7 @@ phontomwullct.godaddysites.com
 phontouwaolet.godaddysites.com
 phontyamxolatte.godaddysites.com
 photos.pancakesvqp.com
+phountom.xyz
 phoutomwallet.godaddysites.com
 phpm.ru
 phpmyadmin.1inch.fusiondim.com
