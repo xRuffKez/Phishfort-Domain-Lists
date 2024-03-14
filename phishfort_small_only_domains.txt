@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 06:02:35 UTC 2024
-# Number of Entries: 8016
+# Fetch date: Thu Mar 14 07:03:00 UTC 2024
+# Number of Entries: 8021
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -127,6 +127,7 @@
 a407info.com
 a4doconlinautoreloads.com
 a9714.top
+aark.cc
 aark.finance
 aark.pm
 aatranferinc.com
@@ -892,7 +893,6 @@ badge-chain.link
 badges-altlayer.io
 badges-chain.link
 badges-chainlink.com
-badideaai.help
 bafkreiagunr2sbunsmqb7eaoa5x5qeonkicuthxuoq3rzyy3s775dzknie.ipfs.dweb.link
 bafybeianm7lllm6v2rpyuah5gzsh22gxfikab5ie3xei6f2n3ngfvsx524.ipfs.dweb.link
 bafybeicdv6wvyuhybvf3htmdkcpp7scfw7wq65syuimtv3mslcqhohogla.ipfs.cf-ipfs.com
@@ -1736,6 +1736,7 @@ cov.us-mia-1.linodeobjects.com
 cow-swap.app
 cow-swap.org
 cow.trading
+cowchange.com
 cowitechnical.com
 cowswap.app
 cozartweb.com
@@ -3922,6 +3923,7 @@ mavia-airdrop.club
 mavia-claim.top
 mavia-home.com
 mavia-web3.org
+mavia.bz
 mavia.cc
 mavia.land
 mavia.lc
@@ -5119,6 +5121,7 @@ pepe-v2.link
 pepe2.click
 pepe2.xcoindrop.top
 pepe20-vip.web.app
+pepe20token.com
 pepe2coin.io
 pepe2event.netlify.app
 pepeairdrop.live
@@ -5940,6 +5943,7 @@ sautikenya.com
 sawfnd.top
 sawox.com
 scalling-fees.org
+scallop-airdrop-claim.com
 scansairdrops.ca
 scapemania.live
 scapemania.sale
@@ -6510,6 +6514,7 @@ tensor-samurai.io
 tensor.credit
 tensorians.site
 tensorsamurai.space
+terminal-befilabs.com
 terra-airdrop.onrender.com
 terra-claim.xyz
 terra-v2.re
@@ -6518,7 +6523,6 @@ terra.ong
 terradrop.net
 tesdt56n.pages.dev
 tesla-coingrabs.vercel.app
-test.daodrop.space
 test.saf9gti25klom8xz79iyn2s.xyz
 test3123123132.pages.dev
 testdomainstesting2.com
@@ -6795,6 +6799,7 @@ uniswapv-3.github.io
 uniswapv3.online
 uniswapv4-liqudity-provide.web.app
 uniswapv4-liquidity.web.app
+uniswapv4-pool-choosing.web.app
 uniswapv4-pool-waitlist.web.app
 united-healthcare-services.com
 unitedairlinedeliveryagency.com
