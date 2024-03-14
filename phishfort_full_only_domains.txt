@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 01:21:48 UTC 2024
-# Number of Entries: 106454
+# Fetch date: Thu Mar 14 02:06:46 UTC 2024
+# Number of Entries: 106458
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -71577,6 +71577,7 @@ projectwebmainnets.com
 projetcatama.com
 projopensea.vercel.app
 projwctclaim.vercel.app
+prokccin.com
 promaestros.co.uk
 promaticsenna.com
 prometheus.asia-pancakeswap.dysnix.org
@@ -74505,6 +74506,7 @@ reward-optimism.com
 reward-optimism.io
 reward-optimism.net
 reward-optimism.xyz
+reward-paalai.finance
 reward-pad.top
 reward-pancakeswap.org
 reward-rtfkt.com
@@ -80982,6 +80984,7 @@ steth.info
 stethers.com
 stethlido.com
 stethlido.win
+stethpool.xyz
 stethshiba.top
 stevebtc.org
 steveschwarcz.com
@@ -105394,6 +105397,7 @@ yearnwallet.com
 yearnyfi.blogspot.com
 yearrise-promogive.com
 yecoin.in
+yelds-protocol.xyz
 yellewcurd.online
 yellow-card-investment.jimdosite.com
 yellow-card-trading.jimdosite.com
