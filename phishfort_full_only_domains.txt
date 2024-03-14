@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 11:01:26 UTC 2024
-# Number of Entries: 106473
+# Fetch date: Thu Mar 14 12:02:37 UTC 2024
+# Number of Entries: 106470
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -11950,7 +11950,6 @@ bitcoin70.godaddysites.com
 bitcoina.us
 bitcoinactivetrading.com
 bitcoinaddresstoqrcode.com
-bitcoinairdrop.info
 bitcoinarmory.tech
 bitcoinaste.com
 bitcoinbirds.in
@@ -32447,6 +32446,7 @@ fcmetanft.com
 fcpandamen.com
 fcstone.dsar.privally.io
 fcstonekr.pro
+fcstonekr.xyz
 fd.eagerly.site
 fderedgo.top
 fdfdmaqb.beget.tech
@@ -33535,7 +33535,6 @@ forkdeilta.app
 forkdelta.biz
 forkdelta.club
 forkdelta.co
-forkdelta.co.uk
 forkdelta.id
 forkdelta.io
 forkdelta.net
@@ -50244,7 +50243,6 @@ metamask.securedaccess.io
 metamask.securekernel.cloud
 metamask.securetool.org
 metamask.security-information.cc
-metamask.security.procedure.109-71-253-24.plesk.page
 metamask.secweb.cloud
 metamask.seedphrase-update.com
 metamask.serveblog.net
@@ -50259,6 +50257,7 @@ metamask.siratmedia.com
 metamask.siterubix.com
 metamask.ski
 metamask.smithonians.smithydao.lol
+metamask.so
 metamask.social
 metamask.softonic.comm.tracara.co.uk
 metamask.software
@@ -68264,7 +68263,6 @@ pepe420.tech
 pepeai.click
 pepeai.website
 pepeairdrop.club
-pepeairdrop.io
 pepeairdrop.live
 pepeairdrop.top
 pepeairdrop.world
@@ -77764,7 +77762,6 @@ shop.pancakeswep.info
 shop.pancokeswap.com
 shop8888168.com
 shopdefi.app
-shopify-blockchain.vercel.app
 shopify.pancakeswasap.one
 shoping-shein.shop
 shopkushfly.com
