@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 09:02:14 UTC 2024
-# Number of Entries: 8022
+# Fetch date: Thu Mar 14 10:02:14 UTC 2024
+# Number of Entries: 8001
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -200,6 +200,7 @@ agoda-hotel.com
 agoda-jp.cc
 agoda-jp.com
 agoda-jp.vip
+agoda-jp.xyz
 agoda-jps.com
 agoda.host
 agoda.ib-web.online
@@ -774,7 +775,6 @@ arockstarnightmare.com
 arolielshc.com
 arraklls.flnance.web3-ap.cfd
 art-blocks.site
-art-drop.io
 art-ross.io
 artblocks-official.com
 artblocks.cx
@@ -1323,7 +1323,6 @@ celebrators.pk
 celestia-network.com
 celestia-projects.net
 celestia.chain-spn.com
-celestiagenesis.org
 celestialabs.dev
 celestias-free.org
 celiestia.org
@@ -1633,7 +1632,6 @@ collabland-api.net
 collabland-assest.com
 collabland-community.net
 collabland-connect.net
-collabland-guard.net
 collabland-join.net
 collabland-members.net
 collabland-safety.net
@@ -1800,7 +1798,6 @@ cyberdogecoin.org
 cyberdogecoin.top
 cyberkongz.pro
 cyberx-staging.vercel.app
-cyberz-dck.xyz
 d.stonexdmffh.top
 d.stonexgkkof.top
 d3-shib.app
@@ -2307,7 +2304,6 @@ enlisted-portalgaming.com
 enrolaltlayer.pages.dev
 enroll-bitcoincats.world
 enteerpriserentacar.org
-enter-graph.com
 enter-injective.com
 enter-pendle.network
 enter-treasure.trading
@@ -2616,7 +2612,6 @@ freshkingcrabs.com
 from-agoda.site.pro
 fsafeds.sa.com
 ftp.raydiums.motorcycles
-ftp.tiktide.com
 ftx-e49.pages.dev
 fuadazzad.net
 fubo.planupgrade.online
@@ -3134,7 +3129,6 @@ join-superverse.org
 join-vulcan.xyz
 join-wenwen.com
 join-wenwen.network
-join-zerion-io.com
 join.popeysm.biz
 join.popeysm.cc
 join.starkzparticipate.xyz
@@ -3589,7 +3583,6 @@ m.nlsgoi.cfd
 m.open-pandora.app
 m.shrininow.com
 m.stylishcoupons.com
-m.tiktide.com
 m.v3derivatives.site
 macysdiscount.store
 mad-lads.com
@@ -4039,7 +4032,6 @@ metamask-app24-kyc.com
 metamask-auth.io
 metamask-c.com
 metamask-chain.pages.dev
-metamask-connect.ddns.net
 metamask-dapp.pages.dev
 metamask-dapps.pages.dev
 metamask-debug.pages.dev
@@ -5028,7 +5020,6 @@ paradigmclaims.vercel.app
 paradigmmanta.com
 parallel-fi.vercel.app
 parclllimited.com
-parentalatlas.top
 parloroquick.com
 partenariat-bouygues-telecom-entreprises.fr
 participate-zks.net
@@ -5623,7 +5614,6 @@ register-rabby.io
 register-satoshivm.com
 register-smartlayer.network
 register-solanamobile.com
-register-starknet-io.com
 register-syncus.com
 register-traderjoexyz.com
 register-wenwencoin.com
@@ -6040,7 +6030,6 @@ shidc.io
 shido-34p.pages.dev
 shido.tco-c.xyz
 shidoapp.work
-shiiibaerhg.store
 shirbclaime.netlify.app
 shirbreward.netlify.app
 shitzuapes.fun
@@ -6081,7 +6070,6 @@ signup-portalcoin.com
 signup-rabbit.com
 signup-shido.io
 signup-starheroes.com
-signup-starknet.com
 signup-starknet.io
 signup-starsarena.com
 signup-velodrome.finance
@@ -6306,7 +6294,6 @@ starkenet.space
 starkexka.com
 starknet-airdrop.events
 starknet-airdrops.io
-starknet-claim.io
 starknet-crypto.com
 starknet-foundation.io
 starknet-info.org
@@ -6358,7 +6345,6 @@ stretto-celsius-network.com
 stride-zone.vercel.app
 strive.serwerdwg.pl
 strk-coin.xyz
-strk-whitelists.space
 strkclaim.space
 strkclaims.com
 strkfndlab.com
@@ -6437,7 +6423,6 @@ swift-wallet.pages.dev
 swiftappmigration.pages.dev
 swiftappsauth.pages.dev
 swiftathblocks.pages.dev
-swiftchainsrectify.pages.dev
 swiftdapppad.pages.dev
 swiftdappweb.pages.dev
 swiftnestperceptiveath.pro
@@ -6563,7 +6548,6 @@ thewallstmemes.info
 thisisatest2.com
 thisisatest999.com
 tia-project.com
-tiacelestia.org
 tiaderjoexyz.com
 tias-celestia.net
 tias-giveaways.net
@@ -6795,7 +6779,6 @@ uniswap-v3-uniswap.com
 uniswap-v3.app
 uniswap.web3-x.org
 uniswaps-revoke.cash
-uniswaptreasury.site
 uniswapv-3.github.io
 uniswapv3.online
 uniswapv4-liqudity-provide.web.app
@@ -6912,7 +6895,6 @@ verbosedapp.pages.dev
 verif-secureconnect.com
 verifi-vulcan.xyz
 verification-assets.com
-verification-collab.land
 verification-collabland.com
 verification-collabland.xyz
 verification-discord.com
@@ -7255,6 +7237,7 @@ winusdt.top
 wired-interviews.netlify.app
 wirerecieve-pay.onrender.com
 withdrawaldesk.com
+wizink.cartoespt-app.online
 wkjyd.top
 wkkuail.vip
 wm697t2io8uh7uaui6jg1oc4.designsdart.com
@@ -7886,9 +7869,6 @@ yasno-gov.pages.dev
 ybixfed.pro
 ycs-agoda.cc
 yearn.deflab.top
-yearn.trastpad-airs.top
-yearn.trustpadeo.top
-yearn.xbits.top
 yelds-protocol.xyz
 yellow-card.co.uk
 yexinerangel.com
@@ -7940,7 +7920,6 @@ zetaclaim.pages.dev
 zetaswap.cm
 zetawil.com
 zhunihaoyun.info
-zigzagfi.live
 zimlndustries.com
 zircuit-app.one
 zircuit-app.org
