@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 07:02:21 UTC 2024
-# Number of Entries: 106485
+# Fetch date: Thu Mar 14 08:02:02 UTC 2024
+# Number of Entries: 106488
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1665,6 +1665,7 @@ aapks.com
 aappgalagames-pagehome.com
 aarb-claim.info
 aarb-reward.xyz
+aark.cc
 aark.finance
 aark.pm
 aarkdigital.io
@@ -3654,6 +3655,7 @@ airdrop.oxalus.dev.xantus.dev
 airdrop.pe-pe.vip
 airdrop.pepe-coin.bz
 airdrop.pyths.foundation
+airdrop.reportwisely.shop
 airdrop.rest
 airdrop.salanart.eu
 airdrop.sleepleessai.net
@@ -20945,6 +20947,7 @@ cow-swap.app
 cow-swap.org
 cow-swap.pro
 cow.trading
+cowchange.com
 cowerx.site
 cowitechnical.com
 cowrabuilders.com.au
@@ -21270,7 +21273,6 @@ cryptexcore.com
 cryptexplatform.com
 cryptflag.com
 cryptfundz.com
-cryptgete.com
 cryptgpt.pro
 cryptgrowx.com
 crypthyperapp.online
@@ -24342,6 +24344,7 @@ dashboard.plxeis.xyz
 dashboard0xprotocol.com
 dashboardcrocbot.farm
 dashboardpixels.xyz
+dashbprd-charli3.live
 dashcoinminer.space
 dashfb2.metemask.today
 dashing-reindeer.10web.site
@@ -94740,7 +94743,6 @@ withsupportaids.com
 wiw-ftx.com
 wizdemshare.com
 wizfairllc.com
-wizink.cartoespt-app.online
 wizverse.io
 wizzair-com.com
 wizzardking.com
@@ -96187,6 +96189,7 @@ www.app.fixappsync.site
 www.app.kraken-protocol.com
 www.app.kraken-staking.com
 www.app.pegaxy-nftgame.com
+www.app.trust-reward.live
 www.app.uniswap.org-claim-airdrop.com
 www.app.walletconnectapi.site
 www.app1inch.xyz
