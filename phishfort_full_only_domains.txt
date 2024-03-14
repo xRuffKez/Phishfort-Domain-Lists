@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 22:01:36 UTC 2024
-# Number of Entries: 106491
+# Fetch date: Thu Mar 14 23:01:49 UTC 2024
+# Number of Entries: 106500
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -8616,6 +8616,7 @@ autodappsvalidator.com
 autodebugfix.com
 autodebugmodulerpc.pages.dev
 autodebugpath.live
+autodiscover.aflacsinc.com
 autodiscover.app-pancakeswap-exchange.finance
 autodiscover.b-pancakeswap.finance
 autodiscover.cerberuspricelive.pancakeswaptoken.com
@@ -17112,6 +17113,7 @@ claim.safepaycoins.com
 claim.safethemoon.com
 claim.secure-layerzero.network
 claim.seedity.fun
+claim.smogxtoken.com
 claim.sonikapp.live
 claim.sonikcoin.network
 claim.spazecommune.com
@@ -33491,6 +33493,7 @@ foambtc.com
 focalize-app.pages.dev
 fodg.girlth.live
 fodyem.com
+foeziwo.pro
 foindation.app
 foinlife.top
 foken.im
@@ -34900,6 +34903,7 @@ galatea.rs
 galaxe-airdrop.com
 galaxe.click
 galaxgames.net
+galaxies.mantasnetworks.app
 galaxis.bond
 galaxy-dapinx.store
 galaxy-digital.io
@@ -39561,6 +39565,7 @@ insidesolana.com
 insigniaswap.finance
 inslde.com
 inslogprotocol.com
+inspireaj.com
 instadapp.app
 instadapp.lol
 instadapp.net
@@ -93698,6 +93703,7 @@ web3-lens.xyz
 web3-lido.fi
 web3-live.io
 web3-mainnet.net
+web3-manta.pages.dev
 web3-metamaskd.com
 web3-mint.live
 web3-modenetwork.org
@@ -93736,6 +93742,7 @@ web3-roninwallet.com
 web3-rpc-fix.online
 web3-shibainu.com
 web3-shibainu.net
+web3-shibaswap.com
 web3-shibaswap.xyz
 web3-solflare.com
 web3-support.com
@@ -95591,6 +95598,7 @@ www-opensea.serveirc.com
 www-opensee.io
 www-openseea.io
 www-openzea-app.xyz
+www-orbiter.xyz
 www-pancake-swap.com
 www-pancakesvvap.com
 www-pancakeswap-finance.org
@@ -106091,6 +106099,7 @@ zk-bemd.app
 zk-bemd.org
 zk-coins.com
 zk-dashboard.net
+zk-era.co
 zk-eth.net
 zk-evm.portallera-bridge.cloud
 zk-look.org
