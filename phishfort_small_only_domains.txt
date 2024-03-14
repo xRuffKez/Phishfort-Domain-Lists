@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 12:03:19 UTC 2024
+# Fetch date: Thu Mar 14 13:02:10 UTC 2024
 # Number of Entries: 8002
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4942,7 +4942,6 @@ pancakeswapreward.finance
 pancakeswaps-codingzz-com.crypto-market-world.com
 pancakeswaps-finance.org
 pancakeswaps-finnance.com
-pancakeswaptrade.org
 pancakeswapv3.net
 pancakeswapv5.claims
 pancakesweb.finance
@@ -6339,6 +6338,7 @@ stockmetrictraders.com
 stonedr.xyz
 stonesolsteveaustin.com
 stonex.markets
+stonex12.com
 stonexx.club
 stonexx.net
 store17830.associazionechien.org
