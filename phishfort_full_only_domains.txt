@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 13 23:01:46 UTC 2024
-# Number of Entries: 106443
+# Fetch date: Thu Mar 14 00:05:08 UTC 2024
+# Number of Entries: 106448
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17768,6 +17768,7 @@ co.llab-land.icu
 co.llab-lands.icu
 co.llab-verify.xyz
 co.llabz.land
+co11ab-1and.com
 co1nconfirmationcheck.mytemporarydomain.com
 co369.info
 coachnft.xyz
@@ -48103,6 +48104,7 @@ meme-coin.icu
 meme-coins.online
 meme-drop.org
 meme-eth.org
+memebevy.shop
 memeckombat.com
 memeckombat.org
 memeckombats.org
@@ -59191,6 +59193,7 @@ nftmetasupport.com
 nftminer.fun
 nftmint-live.com
 nftmint.finance
+nftmint.paaltoken.com
 nftmintarea.com
 nftmintonauthenticate.net
 nftmintvalidation.com
@@ -68434,7 +68437,6 @@ perminft.xyz
 permission.get-flashloan.com
 permissions-revoke.com
 pernimt.com
-perpetualprotocol.app
 perpetualprotocolofficial.click
 perpnft.xyz
 perponschainrewards.pages.dev
@@ -72516,6 +72518,7 @@ quests-memecoin.com
 quests-multibits.com
 quests-particle.network
 quests-rtfkt.com
+quests-sharpnel.com
 quests-superverse.com
 quests-tabi.lol
 quests-treasure.trading
@@ -77766,6 +77769,7 @@ shrapnel-2024.com
 shrapnel-whitelist.com
 shrapnel-whitelists.com
 shrapnel.airdrop-minting.com
+shrapnel.cloud
 shrapnel.live
 shrapnel.mintyoursnft.net
 shrapnel.nft-premint.com
@@ -87002,6 +87006,7 @@ unikswap.space
 unikswap.website
 unikswaps.pro
 unikswaps.space
+unilend-v2mainnetnetwork.org
 unilendv2finance.com
 unileverprocurement-be.com
 unilp.app
@@ -88770,7 +88775,6 @@ v2-app-aave.com
 v2-arbitrum.com
 v2-biswap.com
 v2-debank.com
-v2-defisaver.com
 v2-eth.com
 v2-lens.xyz
 v2-lido.cc
@@ -106249,6 +106253,7 @@ zksync.kc0btp.com
 zksync.line.pm
 zksync.link-claim.network
 zksync.mirror-web3.site
+zksync.nirbhik.com
 zksync.orbitqr.finance
 zksync.parts
 zksync.popcaseshop.com
