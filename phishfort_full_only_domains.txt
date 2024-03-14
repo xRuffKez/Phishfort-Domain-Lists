@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 14:01:33 UTC 2024
-# Number of Entries: 106475
+# Fetch date: Thu Mar 14 15:01:39 UTC 2024
+# Number of Entries: 106476
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -72246,6 +72246,7 @@ pwsign.com
 pwtradeco.com
 pwxskm.cfd
 pxantanwuallte.godaddysites.com
+pxffsite.web.app
 pxful.ml
 pxlivewebsite.onrender.com
 pxn-phantom.com
