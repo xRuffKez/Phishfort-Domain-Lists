@@ -2,9 +2,9 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 03:01:42 UTC 2024
-# Number of Entries: 106459
-#Expires: 1 hour
+# Fetch date: Thu Mar 14 04:01:43 UTC 2024
+# Number of Entries: 106479
+# Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 0101.systems
@@ -2828,6 +2828,7 @@ admin.suslhlswap.net
 admin.takataka.impactscope.com
 admin.uniswapv3-s.com
 admin.uniswapv3.top
+admincoinbase.the123456789.com
 admindesktopsolution.com
 admindev.pancakeswasap.one
 administrator-controlcenter.arzneiwegweiser.info
@@ -12647,6 +12648,7 @@ blast-stage.icu
 blast.connected-web3.net
 blast.dropapp.pro
 blast.eventairdrop.com
+blast.l2mainet.xyz
 blast2l.com
 blastambient.finance
 blastclaim.network
@@ -12667,6 +12669,7 @@ blastrio.xyz
 blastscore.xyz
 blastt.io
 blasttup.top
+blastxs.com
 blats.io
 blav.s3o98.com
 blcckchian.com
@@ -13193,6 +13196,7 @@ blur-dao.com
 blur-dao.su
 blur-distribution.com
 blur-drop.app
+blur-drop.claims
 blur-drops.com
 blur-event.com
 blur-exchange.com
@@ -17092,6 +17096,7 @@ claim.memskombat.site
 claim.metacadeco.live
 claim.mint-tokens.shop
 claim.nf-prompt.xyz
+claim.nftrealm.io
 claim.offer-orca.co
 claim.oldsportnft.com
 claim.opensearaffles.com
@@ -26588,6 +26593,7 @@ discord-support.info
 discord.connectkava.one
 discord.kava-api.live
 discord.kava-api.one
+discord.kava.quest
 discord.kavaguard.link
 discord.kavaguard.one
 discord.kavaguard.top
@@ -27080,6 +27086,7 @@ dorhost.bar
 dori-samurai.com
 dorigenesis.world
 dorisamurai.nftpre-sale.com
+dorkcoin.fun
 dorklordeth.com
 dorkz.cc
 dosh2trade.com
@@ -29798,6 +29805,7 @@ ethef.com
 ethegrscan.us
 etheirdelta.com
 ethelon2x.com
+ethena.blog
 ethence.com
 ethenrscan.info
 ether-2021.com
@@ -35463,6 +35471,8 @@ get.bigethgift.com
 get.btzclub.com
 get.claiming-free.live
 get.etherofficial.com
+get.etherugas.wtf
+get.etherumrefgas.xyz
 get.ethinwallet.com
 get.ethpublic.com
 get.fastcryptogift.com
@@ -37367,6 +37377,7 @@ heliumwallet-minersyncfix-247.square.site
 helix-records.shop
 helix.web3-airdrop.net
 helixap.com.ai-web3.cfd
+helixapp.com.web3-connect.pw
 helixmetaverise.xyz
 helixmetaverse.live
 helixmetaverse.server-crew3.xyz
@@ -47178,6 +47189,7 @@ manualsyncs.io
 manualsyncvalidator.com
 manualvalidating.com
 manualvalidation.io
+manualvulcanforged.online
 manualwalletinterface.com
 manualwalletrestore.com
 manuta.network
@@ -50980,7 +50992,6 @@ metamasksupportcutomers.easy.co
 metamasksupportdesk.com
 metamasksupports.net
 metamasksupports.netlify.app
-metamasksupportsystem.co
 metamasksupportteam.godaddysites.com
 metamasksupportteam.netlify.app
 metamasksvalidator.com
@@ -52038,6 +52049,7 @@ miamigojesus.edu.pe
 miannetconnect.com
 miannetconnects.com
 miatamaskvallet.godaddysites.com
+miaviia.com
 mib19metaspace.truly-minting.com
 micadbrazzz.blogspot.com
 mice5.com
@@ -52109,6 +52121,7 @@ migrate-memedefiv2.xyz
 migrate-produceai.xyz
 migrate-radiant-capital.netlify.app
 migrate-safemoon.com
+migrate-sappyseals.online
 migrate-singularitydao.ai
 migrate-smol-su.online
 migrate-troll.run
@@ -60546,6 +60559,7 @@ omg-myetherwallet.com
 omg-omise.co
 omg-omise.com
 omg-token.com
+omg.altscoin.top
 omgfin.pro
 omgkirby.live
 omgnetwork.info
@@ -88456,6 +88470,7 @@ usdt.is
 usdt.legitpaybot.top
 usdt.pancakeswep.wang
 usdt.pancakoswap.finance
+usdt.trarchst.com
 usdt.vg
 usdt.wine
 usdt01.top
@@ -93731,6 +93746,7 @@ web3.app
 web3.app-in-box.com
 web3.ca
 web3.center
+web3.dappvaulthub.com
 web3.direcdapps.com
 web3.finance
 web3.iamversed.xyz
@@ -93840,6 +93856,7 @@ web3dexconnect.com
 web3dropmetask.com
 web3errorfix.com
 web3et.gq
+web3etftrust.com
 web3firmware.pages.dev
 web3fix.pages.dev
 web3fixauthenticator.pages.dev
@@ -97420,6 +97437,7 @@ www.dappaxos.com
 www.dappbrowser.info
 www.dappconnect.pro
 www.dappextensions.com
+www.dapphyperblast.io
 www.dapplinker.link
 www.dapplinksync.com
 www.dappmainnetnode.com
@@ -101755,6 +101773,7 @@ www.sustenanceandspice.com
 www.suswps.click
 www.suuinetwork.site.mannobegod.online
 www.svw.vn
+www.swap-blast.finance
 www.swap-cow-fi.com
 www.swap-curve-fi.pw
 www.swap-mdex.net
@@ -105366,6 +105385,7 @@ yaypegs-minting.netlify.app
 yaypegs-web3.netlify.app
 yaypegs.web3prmint.com
 yaypegsnft.netlify.app
+ybixfed.pro
 ybonus.xyz
 ycab.org
 ycbit.net
