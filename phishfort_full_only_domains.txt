@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 21:01:47 UTC 2024
-# Number of Entries: 106492
+# Fetch date: Thu Mar 14 22:01:36 UTC 2024
+# Number of Entries: 106491
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -76042,7 +76042,6 @@ saksoff5th.vip
 saksoff5thboool.top
 saksoff5thdeals.com
 saksoff5thf.com
-saksoff5thkppltpj.com
 saksoff5thmall.com
 saksoff5thmall.top
 saksoff5thnu.com
