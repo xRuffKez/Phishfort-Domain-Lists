@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 12:02:37 UTC 2024
-# Number of Entries: 106470
+# Fetch date: Thu Mar 14 13:01:34 UTC 2024
+# Number of Entries: 106472
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -76833,6 +76833,7 @@ securewallect-connectauth.live
 securewallet.finance
 securewallet.pages.dev
 securewalletapp.xyz
+securewalletconnect.com
 securewalletconnect.comassets.xyz
 securewalletconnect.info
 securewalletconnection.xyz
@@ -81033,6 +81034,7 @@ stonex-payments.eu
 stonex-payments.net
 stonex-shareholding.com
 stonex.markets
+stonex12.com
 stonexfinancial.ltd
 stonexfinancial.pro
 stonexgroup.us
