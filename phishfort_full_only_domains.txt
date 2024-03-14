@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 16:01:53 UTC 2024
-# Number of Entries: 106482
+# Fetch date: Thu Mar 14 17:01:44 UTC 2024
+# Number of Entries: 106490
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -34014,6 +34014,7 @@ frustpad.com
 frutizbeach.space
 frvcommunity.com
 fs.pancakesvqp.com
+fsafeds.comt.sa.com
 fsclng.com
 fspoiq.s3o98.com
 fsport-cs.ru
@@ -53049,6 +53050,7 @@ modernistnft.minting-list.com
 modernkidsociety.com
 modernrabbits.xyz
 modest-yalow.192-3-122-179.plesk.page
+modhr.org
 modifierlongitudinal.top
 modostance.xyz
 modulares.icu
@@ -68021,6 +68023,7 @@ pb8d5v1hyjs0.njhmfno.ru
 pbfysocial.com
 pbistakevalidation.com
 pc.dbrsleader.cc
+pc.dbrslimited.com
 pc.theinteractivebrokers.com
 pc825000398.asia
 pcairframe.com
@@ -85643,6 +85646,7 @@ tridoknigeria.com.ng
 triezor.io
 trillionairethugs.dqnfts.com
 trimaax.us
+trinet.za.com
 triniity-health.org
 trinity-token.com
 trinitybelieversbuilder.org
@@ -87043,6 +87047,7 @@ unilswap.org
 unilswup.org
 unimanager.app
 unimerg.com
+uninashitesati.net
 unincorrect.xyz
 uninqen.buzz
 uninswaps.pro
@@ -93297,6 +93302,7 @@ washington-posts.com
 washingtonpost.asia
 washingtonpost.careers
 washingtonpost.com.cz03149.tw1.ru
+washingtonpost.in
 washingtonpost.ltd
 washingtonpost.pm
 washingtonpost.team
@@ -95067,6 +95073,7 @@ wt1koms.com
 wt1koms.org
 wtfgoblin.xyz
 wtoken-claim.com
+wtokenevent.app
 wtrx.vip
 wtullet.com
 wu-ftx.com
@@ -98379,6 +98386,7 @@ www.hashpacksqa.com
 www.hashtlow.site
 www.heanse.com
 www.hellobanl-mob.site
+www.hellofurther.pro
 www.help.issueresolve.org
 www.help.pancakeswape.finance
 www.helpcenter-opensea.io
