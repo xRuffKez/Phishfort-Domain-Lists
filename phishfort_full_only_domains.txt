@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 02:06:46 UTC 2024
-# Number of Entries: 106458
+# Fetch date: Thu Mar 14 03:01:42 UTC 2024
+# Number of Entries: 106459
 #Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3860,7 +3860,6 @@ airdropzkfair.top
 airdrp-pad.top
 airearning.cash
 airearning.com
-airein.xyz
 aireinnft.xyz
 airesolution.live
 aireth.today
@@ -5180,6 +5179,7 @@ apex-predator-nft.xyz
 apexearner.com
 apexexchange-help.com
 apexexchange-security.com
+apexexchenge.com
 apexglobnftltd.com
 apexminersfx.com
 apexmintsgrid.com
@@ -22600,6 +22600,7 @@ daomaker-home.com
 daomaker-info.com
 daomaker-nodes.site
 daomaker.ai
+daomaker.bond
 daomaker.claiming-web3.com
 daomaker.click
 daomaker.com.mx
@@ -29254,6 +29255,7 @@ eternalgirl-promogive.com
 eternalpepe.com
 eterzero.org
 etf-uniswap.pages.dev
+etfevent2024.com
 etga.top
 eth-1defi.com
 eth-1inch.info
@@ -29419,8 +29421,6 @@ eth-merge.blogspot.com
 eth-merge2.net
 eth-merge22.io
 eth-metamask.club
-eth-metamask.top
-eth-metamask.vip
 eth-metamesk.com
 eth-miner.info
 eth-miner.vip
@@ -43347,6 +43347,7 @@ lida.finance
 lidex.pw
 lidio.online
 lido-40a.pages.dev
+lido-airdrop.app
 lido-claim.net
 lido-claims.tech
 lido-dashboard.com
@@ -45661,6 +45662,7 @@ lpancakeswaps.com
 lpancakeswp.finceacsesce.com.pagedemo.co
 lpbalancer.com
 lpcalbitcoins.com
+lpfi1.cc
 lphacentaurikid-free.xyz
 lphacentaurikid2-free.xyz
 lphacentaurikida1-free.xyz
@@ -49367,7 +49369,6 @@ metamask.actionrequiredth.com
 metamask.activatewallet.net
 metamask.agency
 metamask.airdrop.basedfinance.live
-metamask.airdrop.claims
 metamask.airdrops.claims
 metamask.airdrops.tech
 metamask.albina.roger.coffee
@@ -53146,6 +53147,7 @@ monkainft.xyz
 monkcoin.tech
 monke-claims.com
 monke-claims.com.kwengfacefr.com
+monkedao.one
 monkeez.in
 monkepass.xyz
 monkesnft.xyz
@@ -60241,6 +60243,7 @@ offchainlabs.org
 offchainnode-websupport.org
 offchainrectification.com
 offchainsupport.xyz
+offer-marketplace.io
 offer-pax.online
 offer-paxful.com
 offer-paxfull.com
@@ -62010,7 +62013,6 @@ optimusm.io
 option-paxful.com
 optionvail.net
 optism-found.com
-optismfn.com
 optitoadz.com
 optiver.co.kr
 optiver2.com
@@ -62533,6 +62535,7 @@ pacificdapps.live
 pacificethereum.com
 pacificmanta.vercel.app
 pacificparadigm.org
+pacificswap.app
 pack-blur.io
 pack-celorivan.icu
 pack-reward.com
@@ -76823,7 +76826,6 @@ securewallect-connectauth.live
 securewallet.finance
 securewallet.pages.dev
 securewalletapp.xyz
-securewalletconnect.com
 securewalletconnect.comassets.xyz
 securewalletconnect.info
 securewalletconnection.xyz
@@ -80163,6 +80165,7 @@ stake-quant.com
 stake-rewarb.com
 stake-seedify.com
 stake-staderlabs.com
+stake-tish.com
 stake-us.in.net
 stake-us.in.net.mammonmarketing.com
 stake-vaiotai.com
@@ -83599,7 +83602,6 @@ teslalive.page.link
 teslalive23.io
 teslamain.io
 teslamake.io
-teslamining.ltd
 teslamusk-promo.info
 teslamusk.group
 teslamusk.info
@@ -102398,7 +102400,6 @@ www.web3.coinnodes.xyz
 www.web30miningpool.com
 www.web3moved.com
 www.web3mwe.com
-www.web3mwi.com
 www.web3pola.com
 www.web3wi.ga
 www.webappnode.com
