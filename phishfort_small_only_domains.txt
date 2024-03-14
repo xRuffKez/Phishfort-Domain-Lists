@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 15:02:08 UTC 2024
-# Number of Entries: 7997
+# Fetch date: Thu Mar 14 16:02:18 UTC 2024
+# Number of Entries: 8001
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -292,6 +292,7 @@ airdrop-rarible.net
 airdrop-starknet.info
 airdrop-starknet.live
 airdrop-wallet-connect.sa9afa.com
+airdrop-wormhole.vercel.app
 airdrop-wtoken.com
 airdrop-zeroiand.xyz
 airdrop-zerolend.app
@@ -767,7 +768,6 @@ arenal-outlet.vip
 arenal-sale.shop
 arenaldiscount.shop
 arenales-outlet.shop
-arenalsale.shop
 arenalsamplesale.shop
 arkhamintelligence.gift
 arkm.air-trastpad.top
@@ -941,7 +941,6 @@ befilab.com
 befilabs.foundation
 bellaprotocol.cloud.augusttarget.online
 beltsmania.com
-benbutterfield.co.uk
 bendado.xyz
 benddoa.xyz
 bendogsolana.top
@@ -1239,7 +1238,6 @@ burakalpaslan.cc
 burnedfii.com
 burnmua.build
 bursapimapen.com
-butterfieldtechnology.com
 buy.btcetf.network
 buy.pomerdoge.live
 buy.scottyai.org
@@ -1810,6 +1808,7 @@ dalarnas.website
 dama.or.tz
 danceanatolia.com
 dao-radiant.capital
+daoblender.xyz
 daomaker.bond
 daoprotocol.pages.dev
 dap-radar.com
@@ -2611,7 +2610,6 @@ freesync.pages.dev
 freshairdrop-website.live
 freshkingcrabs.com
 from-agoda.site.pro
-fsafeds.sa.com
 ftp.raydiums.motorcycles
 ftx-e49.pages.dev
 fuadazzad.net
@@ -3580,6 +3578,7 @@ m.nlsgoi.cfd
 m.open-pandora.app
 m.shrininow.com
 m.stylishcoupons.com
+m.teck-invest.com
 m.v3derivatives.site
 macysdiscount.store
 mad-lads.com
@@ -3643,6 +3642,7 @@ mainnets.vercel.app
 mainnetserver.site
 maintaincedojoswap.click
 maiva-hero.top
+makepayment-407etr.com
 maker-dao.net
 maker-fnd.net
 maker-spark.claims
@@ -4455,7 +4455,6 @@ myuiionlinedetmadma.info
 myuimapay.online
 myuionlinedeetmadma.com
 myuionlinedeetmadma.info
-myuionlinedettmadma.info
 myuionlineedetmadma.net
 myuionlinneedettmadmu.com
 myuionlinneedettmadmu.net
@@ -4474,6 +4473,7 @@ nanogatesphere.info
 napaauto.shop
 napaautoparts.store
 nationaltrust-org.uk
+nativevalidationupdate.co
 nauts.bitezgroup.com
 nbm5xi.top
 nd8.us
@@ -4628,7 +4628,6 @@ nkbihfbeogaeaoehlefnkodbefgpgknn.metamaskk.skyhighfirstclass.com.ng
 nkjs0.ru.com
 nnetamasks.io
 nnetannask.io
-nnpiapplic-app.xyz
 nnttn.cn
 nobody-raffle.com
 nobodynft.trading
@@ -4895,6 +4894,7 @@ pancakes-swap.com
 pancakes-swap.finance
 pancakesawpifnance.com
 pancakesswap.finance
+pancakesswap.info
 pancakesswap.io
 pancakesswap.pages.dev
 pancakesvap-app.github.io
@@ -5033,6 +5033,7 @@ paulmulleracademico.com
 pavillionconstruction.com
 pax-f.netlify.app
 paxful-clo.com
+paxful-club.com
 paxful-web.com
 paxful.business
 paxful.payment-offer.com
@@ -5166,6 +5167,7 @@ phantomwallte.com
 phantomzwalllet.godaddysites.com
 phantuumwaleet.godaddysites.com
 phone.tkd
+phountom.xyz
 phrasedataprotect.com
 phtm-distribution.co
 phtm-distribution.com
@@ -6684,6 +6686,7 @@ trestleprotocol.net
 trezorsuite-web3.com
 tribeemajesty.com
 trimaax.us
+trinet.za.com
 trippletradingteam.com
 tron-claim.top
 tron.sync-rectifier.com
@@ -6759,6 +6762,7 @@ unicswap.io
 unifi-protocol-dao.pro-cryptopad.tech
 uniglobecapitals.com
 unilend-v2mainnetnetwork.org
+uninashitesati.net
 unipolycoin.network
 unis-wap.net
 unisat-io-five.vercel.app
