@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 13:02:10 UTC 2024
-# Number of Entries: 8002
+# Fetch date: Thu Mar 14 14:02:11 UTC 2024
+# Number of Entries: 7996
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -153,6 +153,7 @@ abict.net
 aboldrevolution.com
 abosslab.com
 abracadebra.money
+abspaurill.com
 academy.topbundalle.com
 acahealthinsure.com
 accept-farcana.com
@@ -1080,7 +1081,6 @@ blast-io.pro
 blast-l2.club
 blast-l2.dev
 blast-layer.web.app
-blast-majors.com
 blast-newsletter.com
 blast-protocol.xyz
 blast-stage.icu
@@ -1094,7 +1094,6 @@ blastdrop.store
 blasterscore.io
 blastingv2.com
 blastio.group
-blastio.ink
 blastl2.dev
 blastof.eu
 blastoffs.eu
@@ -2005,6 +2004,7 @@ degods-wormhole.com
 deillama.top
 dejitarutsukadapp.pages.dev
 delmetamask.onrender.com
+demarkoizi.org
 demension.life
 demo9969.infinityfreeapp.com
 denelse.com
@@ -2122,6 +2122,7 @@ doraemoncoin.live
 dorkcoin.fun
 doublediamondwines.co
 dovu-migration.net
+dow-amercas.com
 dowchemical-us.com
 dowchemicals-us.com
 dowunitedstatesusa.com
@@ -2226,8 +2227,6 @@ easrndrop.net
 easydocgestao.com.br
 easyfixwallet.pages.dev
 easyfixwallets.pages.dev
-ebay-666.com
-ebay-888.com
 ebayshop-us.com
 echelon.gift
 ecocryptoworld.pro
@@ -2849,8 +2848,6 @@ happyskellies.com
 happytake.tknewz.com
 hashbnb.com
 havas-aso.com
-havasmax.com
-havastpro.com
 hca-healthcare.com
 hdi6v.pro
 healthcheck.com
@@ -2949,7 +2946,6 @@ ibllcr.com
 ibllcy.com
 icologin.online
 icologin.site
-icologin.top
 icologin.vip
 iconotice.fun
 identicalentail.top
@@ -3488,7 +3484,6 @@ link3.hair
 link3.web3-manager.com
 linkhub.vip
 liquid-stake.com
-liquidation-chainlink.com
 liquideth.world
 liquidether.org
 liquidether.rip
@@ -5246,7 +5241,6 @@ porlfoliomelamack.com
 porpport.ink
 porshe-taycan.nfts2.me
 portal-dymension.xyz
-portal-presale.web.app
 portal.dymension.wb3i.xyz
 portalcoin.cfd
 portaldrop.io
