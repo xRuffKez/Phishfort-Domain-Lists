@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 03:02:20 UTC 2024
-# Number of Entries: 7991
+# Fetch date: Thu Mar 14 04:02:15 UTC 2024
+# Number of Entries: 8016
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -172,6 +172,7 @@ acrosss-bridge.xyz
 active-supp-ort-meta.netlify.app
 adailypath.com
 admin.booking-login.com
+admincoinbase.the123456789.com
 adpunily.azurewebsites.net
 adslauncher.eu
 advancelobstarhifi.pages.dev
@@ -1085,6 +1086,7 @@ blast-protocol.xyz
 blast-stage.icu
 blast.dropapp.pro
 blast.eventairdrop.com
+blast.l2mainet.xyz
 blast2l.com
 blastambient.finance
 blastcoi.com
@@ -1101,6 +1103,7 @@ blastreward.eu
 blastscore.xyz
 blastt.io
 blasttup.top
+blastxs.com
 blendao.xyz
 blendswaps.xyz
 blinkblock.site
@@ -1126,6 +1129,7 @@ blst-reg.app
 bltkub-kyc.web.app
 bluefishing.buzz
 blueprints.fi
+blur-drop.claims
 blur-season-3-airdrop.pages.dev
 blurairdrop.pages.dev
 blurioo.github.io
@@ -1479,6 +1483,7 @@ claim.memetrumpmaga.com
 claim.memskombat.site
 claim.metacadeco.live
 claim.nf-prompt.xyz
+claim.nftrealm.io
 claim.paalai.mobi
 claim.padgy.xyz
 claim.renqapp.live
@@ -1860,6 +1865,7 @@ dappradardrop.com
 dappradare.eu
 dappradd.com
 dappradhub.com
+dapps-0auth.net
 dapps-fixed.pages.dev
 dapps-radar.pages.dev
 dapps-sync.vercel.app
@@ -2063,6 +2069,7 @@ discord-support.info
 discord.connectkava.one
 discord.kava-api.live
 discord.kava-api.one
+discord.kava.quest
 discord.kavaguard.link
 discord.kavaguard.one
 discord.kavaguard.top
@@ -2114,6 +2121,7 @@ dopaminedop.pages.dev
 dopchain.com
 doporg.com
 doraemoncoin.live
+dorkcoin.fun
 doublediamondwines.co
 dovu-migration.net
 dowchemical-us.com
@@ -2308,6 +2316,7 @@ eonexvip.com
 eonian.live
 eopenimports.com
 epbhs.net
+epic-ae.online
 epikstaking.com
 eportal-suppliers.online
 epplicstand.top
@@ -2333,6 +2342,7 @@ eth-yieldfarming.org
 eth2.foundation
 eth20app.live
 ethdrop.xyz
+ethena.blog
 ether-web3.com
 etheregas.xyz
 etheremgas.xyz
@@ -2713,6 +2723,8 @@ get-starknet.io
 get-wormhole.com
 get.basnaming.xyz
 get.btzclub.com
+get.etherugas.wtf
+get.etherumrefgas.xyz
 get.personalzomb.xyz
 get.wormscommunity.com
 get.zkfarmir.xyz
@@ -2850,6 +2862,7 @@ heddies.vercel.app
 hekaderiadssfresacrema.angelj2816.repl.co
 helio-money.cyou
 helixap.com.ai-web3.cfd
+helixapp.com.web3-connect.pw
 hellothisisatest.com
 help-407-etr.com
 help-407etr.com
@@ -3541,6 +3554,7 @@ loopringlabs.online
 lootynetwork.org
 lottery.ridottowin.online
 lovecoprinttestelnur.com
+lpfi1.cc
 lqeth.com
 lrt-eigenlayer.xyz
 lsd-mainnet-address-spoofing.netlify.app
@@ -3828,6 +3842,7 @@ manto-networks.com
 manual-metarestore.pages.dev
 manual-restore.pages.dev
 manualmetarestore-39f.pages.dev
+manualvulcanforged.online
 manuta.network
 manvta.network
 manxta.network
@@ -4173,6 +4188,7 @@ mfidex.space
 mftx.pro
 mgfryjd.pages.dev
 mh-pharma.com
+miaviia.com
 micro3.app
 microsfrategy.com
 microsoft-verify.ofisuu.com
@@ -4188,6 +4204,7 @@ migrate-houdiniswap.com
 migrate-memedefiv2.icu
 migrate-memedefiv2.xyz
 migrate-produceai.xyz
+migrate-sappyseals.online
 migrate-smol-su.online
 migrate-troll.run
 migrateassetspro.online
@@ -4695,6 +4712,7 @@ olympus.gift
 omasgovst.com
 omega.sc-stake.com
 omegaenergy.co
+omg.altscoin.top
 omni-claim.netlify.app
 on-407etr.com
 on-chainfix.com
@@ -6830,6 +6848,7 @@ usdt-payback.net.futurevest.com.au
 usdt-pool.vip
 usdt-v2.com
 usdt.is
+usdt.trarchst.com
 usdt.wine
 usdtairdrop.com
 usdtclaims.co
@@ -7078,6 +7097,7 @@ web3-traffic.xyz
 web3-uniswap-uniswap.com
 web3-zapper.com
 web3.app-in-box.com
+web3.dappvaulthub.com
 web3.direcdapps.com
 web3.iamversed.xyz
 web3.kavaprotect.com
@@ -7107,6 +7127,7 @@ web3defi495.top
 web3defi7.top
 web3defi96.top
 web3dropmetask.com
+web3etftrust.com
 web3fixauthenticator.pages.dev
 web3inbx.com
 web3kaava.netlify.app
@@ -7321,6 +7342,7 @@ www.app-milkyway.zone
 www.app-rhino.com
 www.app-wasabi.xyz
 www.app.defi-connect.xyz
+www.appscallop.io
 www.appstride.zone
 www.appwallstmemes.pro
 www.appymesco.online
@@ -7390,6 +7412,7 @@ www.cryptopreneur.community
 www.csagoda.com
 www.cudos.site
 www.dappbrowser.info
+www.dapphyperblast.io
 www.dappmainnetnode.com
 www.dappsdebugger.net
 www.dappsresolver.com
@@ -7685,6 +7708,7 @@ www.staging.home.hostmaster.coingecko.hatsuqat.com
 www.staging2.optumspecialtyin.com
 www.stakeyearn.fi
 www.stakingritestream.io
+www.swap-blast.finance
 www.swap-omax.pro
 www.swisroger.net
 www.syncodapps.online
@@ -7853,6 +7877,7 @@ y2srob.info
 y5tmtb.info
 yaler.info
 yasno-gov.pages.dev
+ybixfed.pro
 ycs-agoda.cc
 yearn.deflab.top
 yearn.trastpad-airs.top
