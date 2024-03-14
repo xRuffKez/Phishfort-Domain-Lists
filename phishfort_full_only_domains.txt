@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 04:01:43 UTC 2024
-# Number of Entries: 106479
+# Fetch date: Thu Mar 14 05:01:38 UTC 2024
+# Number of Entries: 106482
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -14909,6 +14909,7 @@ burnkcennie.com
 burnkennycoin.live
 burnmua.build
 bursakanas.store
+bursapimapen.com
 burtkan.site
 burtmant.site
 busd.genesisfarm.money
@@ -23280,6 +23281,7 @@ dapprotocols.online
 dapprotocolwallet.xyz
 dapprudar.com
 dappruder.com
+dapps-0auth.net
 dapps-access.net
 dapps-access.online
 dapps-activate.net
@@ -29082,6 +29084,7 @@ ephiu.top
 ephjx.top
 ephna.top
 ephvl.top
+epic-ae.online
 epikprotocol-migration.site
 epikstaking.com
 episodedecember.top
@@ -30717,7 +30720,6 @@ ethgive.credit
 ethgive.github.io
 ethgive.global
 ethgive.info
-ethgive.kissr.com
 ethgive.me
 ethgive.net
 ethgive.online
@@ -45008,6 +45010,7 @@ login.coinbasesupportscenterid.com
 login.coinbasesupportsid.com
 login.coinbasewalletsupport.com
 login.coinbasewalletsupports.com
+login.cw1.ir
 login.fraend.net
 login.frame-airdrop.xyz
 login.lblockhcoin.com
@@ -52118,6 +52121,7 @@ migrate-makerdao.com
 migrate-makerdao.online
 migrate-memedefiv2.icu
 migrate-memedefiv2.xyz
+migrate-my-xidar.site
 migrate-produceai.xyz
 migrate-radiant-capital.netlify.app
 migrate-safemoon.com
@@ -62277,7 +62281,6 @@ otc-frontend-hlpv6j8nb-metaverse-ventures.vercel.app
 otc.ftx.com.ht
 otcethereum.com
 otcex-investment.com
-otchive.io
 otcsea.app
 otheirsides.com
 otheisde-wallet.xyz
@@ -96228,6 +96231,7 @@ www.apps.intactinsurance.com.waa.com.admissionsthinker.com
 www.apps.kraken-staking.com
 www.apps.monbeam.network
 www.apps.pancakeswape.finance
+www.appscallop.io
 www.appseedifyfund.net
 www.appsgala-game-s.cf
 www.appsgala-game-s.ga
@@ -103831,7 +103835,6 @@ xn--ledgr-esa.com
 xn--ledgr-f61b.com
 xn--ledgr-ksa.com
 xn--ledgr-lza.com
-xn--ledgr-m0a.com
 xn--ledgr-md1b.com
 xn--ledgr-q51b.com
 xn--ledgr-s71b.com
