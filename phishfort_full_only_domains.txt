@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 18:02:03 UTC 2024
-# Number of Entries: 106493
+# Fetch date: Thu Mar 14 19:01:31 UTC 2024
+# Number of Entries: 106492
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -43522,7 +43522,6 @@ lienea.online
 lifbit.com
 lifefitness-sale.com
 lifefitness.email
-lifefitness.si
 lifefitnesscareers.com
 lifefitnesshr.com
 lifeguidedapp.net
