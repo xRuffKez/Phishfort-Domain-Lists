@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 07:02:28 UTC 2024
-# Number of Entries: 8039
+# Fetch date: Fri Mar 15 08:02:45 UTC 2024
+# Number of Entries: 8059
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -200,6 +200,7 @@ agoda-jp.cc
 agoda-jp.co
 agoda-jp.com
 agoda-jp.vip
+agoda-jp.xyz
 agoda-jps.com
 agoda.host
 agoda.ib-web.online
@@ -223,6 +224,7 @@ agodaonline.com
 agodapay.info
 agodatikethotelcom.masukmobilee.de
 agodaycs.com
+agveah.cc
 ahora-ingres-aca.netlify.app
 ai-decentraldapp.pages.dev
 ai-smadecentrelized.pages.dev
@@ -2140,6 +2142,7 @@ drake-bonus.pro
 drakosol.com
 dreamotrust.com
 drili.me
+drip-networkcommunity.org
 drop-apeterminal.com
 drop-celestias.xyz
 drop-ether.fi
@@ -2192,6 +2195,7 @@ e-node.pages.dev
 e09c801d297f807b.net
 e4d600ab9141b7a9859511c77e63b9b3.com
 e4mu.pro
+e4utbp2.cc
 e5adf83e1ec816dedd6d593a3a565d65.com
 early-blast.app
 early-blasts.app
@@ -2264,6 +2268,7 @@ elgenlayerz.xyz
 elgenllayer.xyz
 eligibility-wenwencoin.com
 eligible-chaln.link
+elite-bit.net
 elitesiteat.com
 elitesiteaz.com
 elitetory.com
@@ -2816,6 +2821,8 @@ grab-farcanacom.pages.dev
 grab-zetachain.com
 grandomaster.com
 grapepubliczk.org
+graviex-defi.club
+graviex-defi.xyz
 graybarz.com
 greenbitcoin-en.web.app
 greencorp.online
@@ -3243,6 +3250,7 @@ karatdao.v6.rocks
 karnatakaaromas.com
 kasgca.com
 kaspamining.app
+katana-ronchain.com
 katana.ronlncdain.com
 kava-api137.web.app
 kavaa-web.netlify.app
@@ -4026,6 +4034,7 @@ metamank.io
 metamaok.cn
 metamaok.com
 metamasbdfbcbs.com
+metamasbdfbcv.com
 metamasc-apps.com
 metamask-2.com
 metamask-3.com
@@ -4398,6 +4407,7 @@ multiwalletexplore.on.fleek.co
 multiwalletsystem.web.app
 murphygroupltd.co.uk
 musicyandex.ru
+mutantboxnft.com
 muxstakingapp.network
 mwallet8.com
 mx-collabland.pages.dev
@@ -4779,6 +4789,7 @@ opensea.io.in
 opensea.lc
 openseaclaimnfts.com
 openseanft.one
+openseanft0.vercel.app
 openseap1.vercel.app
 openseapo.vercel.app
 openseapr-claim-rose.vercel.app
@@ -4956,6 +4967,7 @@ pancakeswaps-codingzz-com.crypto-market-world.com
 pancakeswaps-finance.org
 pancakeswaps-finnance.com
 pancakeswapv3.net
+pancakeswapv4.com
 pancakeswapv5.claims
 pancakesweb.finance
 pancakeswop.web.app
@@ -5245,6 +5257,7 @@ poiyhedra.net
 pokarswaps.space
 pol.zcadk.cn
 poligonka-steking.top
+polkabridge-network.org
 polkadex.online
 poloniex-assets.com
 poncakeswap.finance
@@ -5615,6 +5628,7 @@ reg-linea.build
 reg-metis.io
 reg-nibiru.app
 reg-pandora.network
+reg-shib.com
 reg-shido.app
 reg-woo.org
 regdioneprotocol.com
@@ -5841,6 +5855,7 @@ rockketpool.github.io
 roinen-wallit.godaddysites.com
 rolldym.app
 rolluper.pro
+ronienchaim.com
 ronin-chain.app
 ronin-chain.com
 ronin-wallets.godaddysites.com
@@ -6115,6 +6130,7 @@ simpsoncoin.org
 singularitydao.app
 siteai.site
 sitemap.newpardigm-manta.network
+sk8pes.world
 skasoff5th01.com
 skasoff5th02.com
 skasoff5th03.com
@@ -6682,6 +6698,7 @@ traderjoaxyz.com
 traderjoe.events
 traderjoeixyz.com
 traderjoexyz.com.de
+traderjoeyxz.app
 tradeviewtoken.xyz
 tradinglabs.app
 trafalpo-maniar.com
@@ -6890,6 +6907,7 @@ v53xw-sqaaa-aaaad-qf42a-cai.icp0.io
 vailddapps.pages.dev
 validatechains.pages.dev
 validatedwallet.com
+validaten0de.pages.dev
 validationpi.web.app
 validator-solscan.org
 valikane.com
@@ -7887,6 +7905,7 @@ xpaydappbnb.click
 xpubactivationprotocol.pages.dev
 xpubprotocol.pages.dev
 xpubweb-rectify.pages.dev
+xr7j5v.pro
 xrp-drop.web.app
 xrp.excopad.top
 xrpbonus-promo.com
@@ -7908,6 +7927,7 @@ yelds-protocol.xyz
 yellow-card.co.uk
 yexinerangel.com
 ygbu.mypi.co
+yieldmagnet.app
 yieldtribal.top
 yo9.email
 yogapetz.well3.live
