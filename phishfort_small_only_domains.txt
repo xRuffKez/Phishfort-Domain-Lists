@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 05:02:12 UTC 2024
-# Number of Entries: 8026
+# Fetch date: Fri Mar 15 06:02:32 UTC 2024
+# Number of Entries: 8031
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -263,6 +263,7 @@ airdrop-defi.online
 airdrop-earn.com
 airdrop-farcana.com
 airdrop-gomble.app
+airdrop-gomble.digital
 airdrop-info.lol
 airdrop-injective.icu
 airdrop-injective.top
@@ -1148,6 +1149,7 @@ bol.mxmfk.club
 boltbot.eu
 bomkxmas.com
 bondexapp.network
+bonelp.com
 boner-get.netlify.app
 bonk-premium.web.app
 bonk-token.xyz
@@ -2002,7 +2004,6 @@ deflexseax.xyz
 defuny.cc
 defuny.vip
 degen-claim.netlify.app
-degenapez.club
 degods-wormhole.com
 deillama.top
 delmetamask.onrender.com
@@ -2684,6 +2685,7 @@ gemlink.xyz
 gempad-app.xyz
 generalmotorsplanta.com
 generalplanta.com
+genesis-dem.xyz
 genesis-dym.com
 genesis-dymension.xyz
 genesis-dymensionapp.com
@@ -2708,6 +2710,7 @@ get-bolk.netlify.app
 get-bonk-tjem.vercel.app
 get-bonk.vercel.app
 get-dmail.app
+get-entangle.com
 get-jup.app
 get-link.tech
 get-mantanetwork.xyz
@@ -2771,7 +2774,6 @@ glacierdivisons.pics
 glhfers.xyz
 global-blockchain-4159.com
 global.onlineyshire-uk.com
-globalalliedfinance.com
 globalfundsserver.com
 globalgoldcloudworld.world
 globalpayment.online
@@ -3531,7 +3533,6 @@ login-metamaskwallet.ddnss.eu
 login.cw1.ir
 login.frame-airdrop.xyz
 login.microsoftonlineportal.ppp-gov.online
-login.myob.ink
 login.ordinalsapp.live
 login.wapstore.duckdns.org
 login1-blockgames.xyz
@@ -3970,9 +3971,7 @@ memelandcoin.vercel.app
 memelandeth.com
 memes-kombats.web.app
 memeskombats.online
-memeuk.life
 memevibz.com
-memzcn-club.com
 merc404.xyz
 merchantsmoe.com
 merckway.com
@@ -4516,6 +4515,7 @@ new-porkcoin.com
 new-principal.solucionti.cl
 new-pyth.network
 new.babbara.xyz
+new.blockchainbets-vault.com
 new.farepath.club
 new.kinzxkclub.xyz
 new.pepzpartners.cc
@@ -4665,6 +4665,7 @@ notcoin.art
 notcoin.gift
 notcoin.global
 notcoin.host
+notionalfinance.org
 nowoplunge.com
 npaautocare.com
 npaautocare.zouxiaodong.workers.dev
@@ -4767,6 +4768,7 @@ opensea-minting.com
 opensea-proclaim.vercel.app
 opensea-pronfts.vercel.app
 opensea-xmasbox.com
+opensea.app
 opensea.i-o.eth.co
 opensea.io.in
 opensea.lc
@@ -4843,6 +4845,7 @@ paalbeta-launchpad.app
 paalmind.com
 paalmint.com
 paalpool.xyz
+pac-sol.com
 pacific-bridge-manta-network.cyou
 pacific-bridge-manta.cyou
 pacific-bridge.manta.nework.live
@@ -5715,7 +5718,6 @@ revoke-unibot.com
 revoke-wallet.com
 revoke-wallet.net
 revoke-web.xyz
-revoke.casa
 revoke.digital
 revoke.expert
 revoke.host
@@ -5826,6 +5828,7 @@ rocket-pool-rocket.com
 rocketpool-migrating.net
 rocketpool.liquidityus.net
 rocketpool.org
+rocketpool.pro
 rocketpool.xlaunchpad.live
 rocketpooul.org
 rockketpool.github.io
@@ -6177,6 +6180,7 @@ snapshot-defi.com
 snapshot-defi.xyz
 snapshot-hydroprotocol.com
 snapshot-particle.network
+snapshot-syncswap.com
 snapshot-zksync.io
 snapshots-quai.network
 snapshots-wormhole.xyz
@@ -7387,6 +7391,7 @@ www.bitoptr.com
 www.bitoptvex.com
 www.bitrockpool.xyz
 www.bittrexx.net
+www.blockchainbets-vault.com
 www.blur.com.ru
 www.bonkinu.co
 www.bonkmassol.online
