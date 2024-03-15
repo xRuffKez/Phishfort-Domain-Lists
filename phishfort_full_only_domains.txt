@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 15:01:45 UTC 2024
-# Number of Entries: 106593
+# Fetch date: Fri Mar 15 16:01:50 UTC 2024
+# Number of Entries: 106595
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -24460,6 +24460,7 @@ davivienda.empresaswep.cc
 davivienda.portallempressas.net
 davivienda.portalweb1.repl.co
 daviviendahn.webcindario.com
+daviviendainforma.zya.me
 daviviendaportal.webcindario.com
 daviviendasecure.portaldavi1.repl.co
 davivihnasd1.webcindario.com
@@ -69590,7 +69591,6 @@ pocketbookswap.com
 pocketvalidate.com
 pockoin-logln.blogspot.com
 pockoln-logln.blogspot.com
-pocloudcentral.crm.powerobjects.net
 pocoiin.com
 pocoinns.com
 poconoshotels.com
@@ -96245,6 +96245,7 @@ www.app-openocean.com
 www.app-opensia.com
 www.app-optimism.online
 www.app-pangolinexchange.com
+www.app-personalles-wps.cc
 www.app-phantomwallet.com
 www.app-pocloin.cloud
 www.app-pocloin.info
@@ -97338,6 +97339,7 @@ www.collect-opensea.com
 www.collectibles-opensea.com
 www.collections-opensea.com
 www.collectt-galagames.com
+www.colloky.online
 www.comma-update-service.com
 www.community-metamask.unitedorphanage.org
 www.community-update.net
