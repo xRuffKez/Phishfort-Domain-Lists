@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 10:02:17 UTC 2024
-# Number of Entries: 8059
+# Fetch date: Fri Mar 15 11:02:11 UTC 2024
+# Number of Entries: 8063
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -199,6 +199,7 @@ agoda-hotel.com
 agoda-jp.cc
 agoda-jp.co
 agoda-jp.com
+agoda-jp.site
 agoda-jp.vip
 agoda-jp.xyz
 agoda-jps.com
@@ -5225,7 +5226,6 @@ pknma-ciaaa-aaaad-qdxtq-cai.raw.icp0.io
 pl.xpiym.shop
 pl.zkndv.club
 plag-club.com
-plagz-club.com
 planet-zksync.nfts2.me
 planetsrefi.airdrop.cfd
 plantagmsanluis.com
@@ -7089,6 +7089,7 @@ wap.janalt-tech.com
 wap.js-xlh.com
 wap.kinetu.com.cn
 wap.uu-whatsapp.com
+wapprecktconnt.pages.dev
 waprcast.com
 washingtonpost.in
 washingtonposts.info
@@ -7321,6 +7322,7 @@ wsm-token-migration.netlify.app
 wswap.live
 wtoken-claim.com
 wtokenevent.app
+wub6y7o.pro
 wufis.com
 wverycaxqw6urqwpchk.mxy9ink.ru
 wvw.jucrina.club
@@ -7844,6 +7846,7 @@ xindingjzwx.com
 xion-bonusblock.space
 xion.bonusblock.in
 xionbonusblock.io
+xkpc.pro
 xl9.us
 xlauncher-app.com
 xlbullycoin.pro
@@ -7929,6 +7932,7 @@ yexinerangel.com
 ygbu.mypi.co
 yieldmagnet.app
 yieldtribal.top
+ykwzj.pro
 yo9.email
 yogapetz.well3.live
 yoo.why-u-talking-w-me-like-that-nigga.com
