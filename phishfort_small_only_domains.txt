@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 00:07:06 UTC 2024
+# Fetch date: Fri Mar 15 01:22:55 UTC 2024
 # Number of Entries: 8006
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2183,6 +2183,7 @@ e09c801d297f807b.net
 e4d600ab9141b7a9859511c77e63b9b3.com
 e4mu.pro
 e5adf83e1ec816dedd6d593a3a565d65.com
+early-blasts.app
 earlyadopterdegen.com
 earlyadopterfarmer.com
 earlyadopterhodler.com
@@ -2988,7 +2989,6 @@ inaraequinix.ae
 incentives-pyth.network
 incsribe.app
 infosa.net
-infura-api.com
 ing-autorizza-cliente.it
 ing-de-acces.com
 ing-onlines.pages.dev
@@ -3152,6 +3152,7 @@ juiceboxmoney.xyz
 juicejest.cfd
 julswap.co
 jumper-exchange.live
+jumper-exchange.network
 jumper-exchange.org
 jumper.capital
 jumper.exchangee.net
@@ -3182,7 +3183,6 @@ jupairdrop.com
 jupangel.sbs
 jupcases.xyz
 jupclaim.org
-jupdrop.site
 jupdrop66.com
 juphsgw.sbs
 jupit-eth.com
@@ -5323,7 +5323,6 @@ proximus-re.was-systems.com
 proximus-recovery.be
 psgyh.top
 psychome.co
-ptlclaim.xyz
 pub-0186f027c154484fbcbeb90161ab83cf.r2.dev
 pub-17e2d2e910694763a8cb5ff43c671f14.r2.dev
 pub-1c497a63b4ea4d20835eafbe23631624.r2.dev
@@ -6859,7 +6858,6 @@ v3.stakewise-finance.com
 v3everrise.app
 v3singularity.net
 v53xw-sqaaa-aaaad-qf42a-cai.icp0.io
-vader-protocol.xyz
 vailddapps.pages.dev
 validatechains.pages.dev
 validatedwallet.com
@@ -7897,6 +7895,8 @@ yu9.us
 yuvrajproductions.com
 z9a5rlx4jj.whosaginay.tech
 zanshin.ro
+zapper-frontend-next-h5ht7yy42-zapper-fi.vercel.app
+zapper-frontend-next-ikph34jsv-zapper-fi.vercel.app
 zappersolutiondapp.com
 zenithzest.top
 zens-web3.com
