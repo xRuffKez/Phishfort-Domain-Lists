@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 04:02:01 UTC 2024
-# Number of Entries: 106537
+# Fetch date: Fri Mar 15 05:01:36 UTC 2024
+# Number of Entries: 106542
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -5440,6 +5440,7 @@ app-alpacafiinance.org
 app-alpacafinance.org
 app-altlayer.io
 app-amulet-amuverse.pages.dev
+app-angle.money
 app-anyswap.com
 app-anywap.exchange
 app-apecoin.com
@@ -48245,6 +48246,7 @@ memes6529.xyz
 memesailors.xyz
 memescoin.org
 memesinator.com
+memeskombats.online
 memetic.digital
 memetokens.space
 memeuk.life
@@ -62819,6 +62821,7 @@ panakekvap.club
 panakesvap.top
 panakezwapnow.online
 panarescwap.finance
+panasonic-in.com
 panbalnu.tech
 panc.akeswap.com
 panc.akeswap.finance
@@ -76072,6 +76075,7 @@ saksoff5th.vip
 saksoff5thboool.top
 saksoff5thdeals.com
 saksoff5thf.com
+saksoff5thkppltpj.com
 saksoff5thmall.com
 saksoff5thmall.top
 saksoff5thnu.com
@@ -76092,6 +76096,7 @@ saksoff5thstore.top
 saksoff5thvip.com
 saksoff5thw.com
 saksoff5thx.com
+saksoff5thyyppl.top
 saksoff5thz.com
 saksofff-55th.com
 saksoffs.shop
