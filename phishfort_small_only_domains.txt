@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 02:08:04 UTC 2024
-# Number of Entries: 8010
+# Fetch date: Fri Mar 15 03:02:11 UTC 2024
+# Number of Entries: 8014
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -200,7 +200,6 @@ agoda-jp.cc
 agoda-jp.co
 agoda-jp.com
 agoda-jp.vip
-agoda-jp.xyz
 agoda-jps.com
 agoda.host
 agoda.ib-web.online
@@ -1135,6 +1134,7 @@ blurprotocol.us
 blust.io
 blz-group.com
 blzt-community.com
+bnb-crypto.xyz
 bnbair.org
 bnbchain.coinsdraw.io
 bnbgift.org
@@ -2182,6 +2182,7 @@ e09c801d297f807b.net
 e4d600ab9141b7a9859511c77e63b9b3.com
 e4mu.pro
 e5adf83e1ec816dedd6d593a3a565d65.com
+early-blast.app
 early-blasts.app
 earlyadopterdegen.com
 earlyadopterfarmer.com
@@ -3584,6 +3585,7 @@ maekrdao.com
 magamemecoin.cash
 maggpiexyz.cyou
 maggpiexyz.xyz
+magic-ball.nfts2.me
 magic-eden-wallet.net
 magic-square.info
 magic-square.org
@@ -4328,7 +4330,6 @@ moonapp.one
 moonbeamm.online
 moonbeams-web.com
 moonbeams-web3.com
-mooniswapco.com
 moonsama.tech
 moonwel.finance
 morossnet.xyz
@@ -4546,6 +4547,7 @@ nfpromptsio.vercel.app
 nfpromt.co
 nfsatoshicom.pages.dev
 nft-2clicks.vercel.app
+nft-balancer.fi
 nft-clickclaims.vercel.app
 nft-clickgrab.vercel.app
 nft-creso.com
@@ -5218,6 +5220,7 @@ pmthakkarassociates.com
 pncakeswap.com
 pntom-wallet.github.io
 pocloudcentral.crm.powerobjects.net
+pogbl.top
 pointosleek.com
 poiygon.com
 poiyhedra.net
@@ -5514,7 +5517,6 @@ raydium.app
 raydium.boats
 raydium.buzz
 raydium.cfd
-raydium.club
 raydium.dev
 raydium.fun
 raydium.homes
@@ -5944,6 +5946,7 @@ scjdwb.cfd
 sckaniopiorte.top
 sconectsmartplusoficial.store
 scorpion-casino.shop
+scotlytheais.club
 scottytheai-en.web.app
 scottyystheai.xyz
 scotyttheai.pro
@@ -6789,6 +6792,7 @@ uniswapv4-pool-waitlist.web.app
 united-healthcare-services.com
 unitedairlinedeliveryagency.com
 unitedairlines-vn.com
+unknownbasenfts2.me
 unlbots.trading
 unllswap.org
 unniswapp.com
