@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 11:02:11 UTC 2024
-# Number of Entries: 8063
+# Fetch date: Fri Mar 15 12:02:55 UTC 2024
+# Number of Entries: 8059
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -231,7 +231,6 @@ ai-decentraldapp.pages.dev
 ai-smadecentrelized.pages.dev
 ai-smartdecentrelised.pages.dev
 ai-smartfixdecentralised.pages.dev
-ai.cosmicpet.cc
 aiaegis.xyz
 aibaoinsurance.com
 aicoinex-amm.com
@@ -1188,6 +1187,7 @@ bots-collabland.pages.dev
 bottlepay.freedim.com.ua
 bouguesteleom.fr
 bouy-plateforme-digitale.online
+bouyguesgroups.com
 bouyguesiptv.fr
 box-manta.network
 box-nftlive.com
@@ -1327,7 +1327,6 @@ celestia-network.com
 celestia-projects.net
 celestia.chain-spn.com
 celestialabs.dev
-celiestia.org
 cellframenetwork.com
 cellnextelecomservice.com
 cellnextelecomservice.in
@@ -3944,7 +3943,6 @@ maviagames.network
 maviagames.xyz
 maviiaa.com
 maylucenaa.com
-mcf.promo
 mdexcloudapp.xyz
 mducksspace.com
 mduresources.mamawannago.com
@@ -4239,7 +4237,6 @@ migration-kondux.pro
 migration-pirb.tech
 migration-psyoploy.pro
 migration-singularitydao.com
-migration-wagmigamesapp.pro
 migration-wdymcrypto.app
 migration-wolverinu.pro
 migration-x7.pro
@@ -6800,7 +6797,6 @@ uni.pro-coins.top
 uni.trustcoin.top
 unibots.trading
 unicswap.io
-unifi-protocol-dao.pro-cryptopad.tech
 uniglobecapitals.com
 unilend-v2mainnetnetwork.org
 uninashitesati.net
@@ -6856,7 +6852,6 @@ url-shortener.me
 url7923.marsello.io
 us-coinmarketcap.com
 us-robihood.com
-us.catz-groups.xyz
 us4f.cc
 usa5starshop.com
 usaseoseller.com
@@ -7660,6 +7655,7 @@ www.pacificc-manta.network
 www.paidnetworkstaking.com
 www.pancakeswap-v3.com
 www.pancakeswapreward.finance
+www.pancakeswapv3.xyz
 www.pandoras-build.com
 www.pandoshi.net.bakery-swap.com
 www.paradigmagbi.ru
