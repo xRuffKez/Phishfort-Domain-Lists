@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 22:03:26 UTC 2024
-# Number of Entries: 8048
+# Fetch date: Fri Mar 15 23:02:03 UTC 2024
+# Number of Entries: 8059
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -471,6 +471,7 @@ amlwallet.online
 amplifylevel.webcloner.net
 an.intelectui.online
 an.myudetma.online
+analayze.orb-crypto.com
 analos-claim.netlify.app
 analos-kohl.vercel.app
 analos-meme.site
@@ -695,6 +696,7 @@ apps-pancakeswap.finance
 apps.multichainspro.com
 apps.nodeprotocols.com
 appsbtc.vip
+appserversdex.network
 appsintercessor-server.live
 appssafe.global
 appsuperform.xyz
@@ -850,6 +852,7 @@ autodiscover.aflacsinc.com
 autofix-node.pages.dev
 autorestore.pages.dev
 autovalidateblockchain.com
+autovalidateweb3.pages.dev
 avalance-airdrop.com
 avalaunches.app
 avalchain-bridge.com
@@ -2695,7 +2698,6 @@ gemg.vercel.app
 gemlink.xyz
 gempad-app.xyz
 generalmotorsplanta.com
-generalplanta.com
 genesis-dem.xyz
 genesis-dym.com
 genesis-dymension.xyz
@@ -2861,6 +2863,7 @@ halo-portfolio.web.app
 halo-tracking.web.app
 hamster-coin.org
 hamstrcoin.com
+handshakehns.web.app
 hannaanderssonkids.com
 happyskellies.com
 happytake.tknewz.com
@@ -3035,6 +3038,7 @@ injektive.info
 injektive.mom
 inkonbtc.app
 inmsgdetorg.in
+inspace-token.network
 inspireaj.com
 instadapp.app
 instant-bravet.info
@@ -3982,6 +3986,7 @@ memes-kombats.web.app
 memeskombats.online
 memevibz.com
 merc404.xyz
+merchantserviceadvisers.com
 merchantsmoe.com
 merckway.com
 mergeappsevers.pages.dev
@@ -4976,6 +4981,7 @@ panceksawap.finance
 panckakeswap.finance
 panckeswaps.com
 panckswap.com
+pandefi.cc
 pandefi.co
 pandhosi.top
 pandohsi.website
@@ -5121,7 +5127,6 @@ peapodsfinance.app
 peapodsfinanceweb.com
 peapodsstake.finance
 pearswap.xyz
-pemanagement.net
 pendle-flnance.net
 pendle.claims
 pendle.farm
@@ -5203,6 +5208,7 @@ phtm.app
 phtms.app
 phtomwalet.azurewebsites.net
 phumtoewallat.godaddysites.com
+pichainmall.com.ng
 pinkbird.fail
 pinksale-app.com
 pioneernerd.com
@@ -5830,6 +5836,7 @@ righteousforever.com
 righteousoforever.com
 ripplelimited-ceo.com
 ripplelimited-event.info
+ritual-registers-livebetaopens.vercel.app
 rmrk-migration.site
 rnanta-live.com
 rnanta-token.com
@@ -5986,6 +5993,7 @@ scrolllayerbank.pages.dev
 sdb-trk.0ybq.info
 sea-claim.live
 sea-list.com
+seapro.tech
 searchdrop.app
 season1-nobody.com
 season1-zetachain.com
@@ -6039,6 +6047,7 @@ serviciosetingcoconsorcio.net
 sewllnetwork.io
 sfccrcc.shop
 shardeumorg.vercel.app
+shdw-get-o5yed.netlify.app
 shein3.com
 shelldao.net
 sherapnel.com
@@ -6408,6 +6417,7 @@ super-fans.tech
 super-julio.free-mint.page
 superclaim-defi.com
 superclaims-defi.com
+superformxyz-rpcdebug.pages.dev
 suport-cch.com
 support-407etr.com
 support-cch.com
@@ -7045,7 +7055,6 @@ walletapplink.xyz
 walletconnect-applicationprogram-interface.pages.dev
 walletconnect-com.vercel.app
 walletconnect-dapps.pages.dev
-walletconnect.app.dapps.im
 walletconnect.pages.dev
 walletconnectai.pages.dev
 walletconnectio.vercel.app
@@ -7574,6 +7583,7 @@ www.mavia.lc
 www.mavias.club
 www.mavla.xyz
 www.mehrlesenachrichten.com
+www.meta.pika.asia
 www.meta0096.com
 www.meta2842.com
 www.metamask-mining.com
@@ -7636,6 +7646,7 @@ www.orblut.com
 www.ordibridge.xyz
 www.organiconetexas.com
 www.orivium.dev
+www.osais.app
 www.osmmosis.xyz
 www.osmossis.club
 www.osmosssis.org
