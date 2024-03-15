@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 10:01:39 UTC 2024
-# Number of Entries: 106582
+# Fetch date: Fri Mar 15 11:01:34 UTC 2024
+# Number of Entries: 106587
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3008,6 +3008,7 @@ agoda-info.com
 agoda-jp.cc
 agoda-jp.co
 agoda-jp.com
+agoda-jp.site
 agoda-jp.vip
 agoda-jp.xyz
 agoda-jps.com
@@ -93366,6 +93367,7 @@ wap.the-meta.xyz
 wap.trczor.com
 wap.uu-whatsapp.com
 wapp.lnl-lawfirm.net
+wapprecktconnt.pages.dev
 wappsauthentify.com
 wappsautosync.net
 waprcast.com
@@ -95162,6 +95164,7 @@ wtrx.vip
 wtullet.com
 wu-ftx.com
 wuawuaspizza.com
+wub6y7o.pro
 wufis.com
 wupeex.com
 wurldcupapes.com
@@ -103150,6 +103153,7 @@ xisux.top
 xjaoz.com
 xjzx.xdztq.com
 xkk666.vip
+xkpc.pro
 xkxw.fjtcdp.com
 xkxw.ruiansheng.com
 xl-airdrops.top
@@ -105596,6 +105600,7 @@ yiodatoken.club
 yip.su
 yk764339532236.homeunix.com
 ykerala.com
+ykwzj.pro
 ylide-otc-paraswap.pages.dev
 ylpydg3ryks5p8v.wallet.sergiy.top
 ymaxgadgetz.com
