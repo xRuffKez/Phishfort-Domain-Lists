@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 11:01:34 UTC 2024
-# Number of Entries: 106587
+# Fetch date: Fri Mar 15 12:02:07 UTC 2024
+# Number of Entries: 106589
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -14000,6 +14000,7 @@ bountyxrp.blogspot.am
 bountyxrp.blogspot.com
 bour.io
 bouy-plateforme-digitale.online
+bouyguesgroups.com
 bouyguesiptv.fr
 bov-ex.com
 bovbit.com
@@ -100385,6 +100386,7 @@ www.pancakeswapsniper.com
 www.pancakeswapsniperbotmempool.com
 www.pancakeswapstoken.live
 www.pancakeswapswallet.com
+www.pancakeswapv3.xyz
 www.pancakeswapwalletconnectsv2.space
 www.pancakeswapwallets-online.com
 www.pancakeswapwalletsweb.net
