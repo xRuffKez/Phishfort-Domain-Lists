@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 15:02:22 UTC 2024
-# Number of Entries: 8055
+# Fetch date: Fri Mar 15 16:03:19 UTC 2024
+# Number of Entries: 8053
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1335,7 +1335,6 @@ centerjobless.online
 centralpoultryprocessingscoltd.com
 centralseedandchem.co.nz
 ceoltis.com
-cfd.interactivebrokers.group
 chahlist.org
 chaibenefitmassimui.com
 chain-link.pro
@@ -1916,6 +1915,7 @@ davi.pse-ssl.win
 daviplataportal.webcindario.com
 davipse.info
 davitahealthcarepartners.com
+daviviendainforma.zya.me
 daviviendaportal.webcindario.com
 dbrsco.net
 dbrsco.org
@@ -2803,7 +2803,6 @@ go.stakewise-finance.com
 gocleanersgo.com
 godaddy-ens.domains
 gold-bet.de
-gold.asiainteractivebrokers.com
 goldcloudglobal.world
 goldsolana.org
 golem.gift
@@ -5243,7 +5242,6 @@ pmjvggq.icu
 pmthakkarassociates.com
 pncakeswap.com
 pntom-wallet.github.io
-pocloudcentral.crm.powerobjects.net
 pogbl.top
 pointosleek.com
 poiygon.com
@@ -6131,7 +6129,6 @@ skasoff5th03.com
 skellieschristmas.com
 sklpool.site
 sksidg.com
-skspaze-group.com
 skyborneslegacy.com
 skybridgedynamics.xyz
 skymavis-axie.com
@@ -6454,7 +6451,6 @@ sweet-zuccutto-855aba.netlify.app
 sweetwater.fun
 swfitblocksresolve.pages.dev
 swift-wallet.pages.dev
-swiftappmigration.pages.dev
 swiftappsauth.pages.dev
 swiftathblocks.pages.dev
 swiftdapppad.pages.dev
@@ -7375,6 +7371,7 @@ www.app-ait.net
 www.app-ethena.finance
 www.app-ether.com
 www.app-milkyway.zone
+www.app-personalles-wps.cc
 www.app-rhino.com
 www.app-wasabi.xyz
 www.app.defi-connect.xyz
@@ -7443,6 +7440,7 @@ www.clients-407etr.com
 www.codefinity.de
 www.coinbase-fogexter.top
 www.collab-award.io
+www.colloky.online
 www.consorcioempreswebs.info
 www.cosmicchronica.xyz
 www.cpcalendars.imap.api.mail.pancakeswaps.org
