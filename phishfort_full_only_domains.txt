@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 22:01:52 UTC 2024
-# Number of Entries: 106605
+# Fetch date: Fri Mar 15 23:01:53 UTC 2024
+# Number of Entries: 106618
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4707,6 +4707,7 @@ an-mettmask.com
 an.intelectui.online
 an.myudetma.online
 anadolsun.site
+analayze.orb-crypto.com
 analos-claim.netlify.app
 analos-kohl.vercel.app
 analos-meme.site
@@ -6820,6 +6821,7 @@ appsconnectme.online
 appscryptconnect.com
 appsdb.info
 appsecurenode.com
+appserversdex.network
 appshiba-swap.com
 appshiberswapp.xyz
 appsintercessor-server.live
@@ -8695,6 +8697,7 @@ autovalidatechain.com
 autovalidateconections.online
 autovalidatenow.online
 autovalidatewalletconnect.com
+autovalidateweb3.pages.dev
 autovalidation.tech
 autovalidationwalletconnect.com
 autovalidator.online
@@ -21785,7 +21788,6 @@ cryptopod-next.net
 cryptoprize.in
 cryptopro.vip
 cryptopromo.justsharedthis.info
-cryptopromo.kissr.com
 cryptoprotection.app
 cryptoprudential.org
 cryptopugsociety.com
@@ -37214,6 +37216,7 @@ handle.lensc.xyz
 handle.lensr.xyz
 handle.lensx.xyz
 handshake-protocol.org
+handshakehns.web.app
 handshakeroad.com
 handyfix.co.nz
 hangarmotosbraz.blogspot.com
@@ -39606,6 +39609,7 @@ insidesolana.com
 insigniaswap.finance
 inslde.com
 inslogprotocol.com
+inspace-token.network
 inspireaj.com
 instadapp.app
 instadapp.lol
@@ -48328,6 +48332,7 @@ mercedes-benz-nft.top
 mercedesnft.xyz
 merch-azuki.com
 merchant-paxful.com
+merchantserviceadvisers.com
 merchantsmoe.com
 merck-co.com
 merck-information.com
@@ -66699,6 +66704,7 @@ pandajewel.premint-wl.tech
 pandajewel.premint.store
 pandaq-mint.net
 pandauniversenft.vip
+pandefi.cc
 pandefi.co
 pandemica.online
 pandezlab.com
@@ -69190,6 +69196,7 @@ piancakeswap.website
 piaxuil.com
 piblockchainnet.com
 pibrowser.stakeforpioneers.browserpioneers.com
+pichainmall.com.ng
 picklee.finance
 pickorrick.org
 piconfirm.com
@@ -74906,6 +74913,7 @@ riskofsuspension-metamask.io
 ritan.sexy
 riteaid-tek.com
 riteserviceapp.com
+ritual-registers-livebetaopens.vercel.app
 riubit.com
 rivbit.com
 rivermen.nft-premint.com
@@ -76531,6 +76539,7 @@ seamore.truly-minting.com
 seapad.web3fast.net
 seaport-update.com
 seaport-upgrade-contract.com
+seapro.tech
 search-debank.com
 search-paxful.com
 search.kraken.gdn
@@ -77446,6 +77455,7 @@ shawvnc.com
 shbasociaclub.site
 shbibasswap.us
 shbtok.network
+shdw-get-o5yed.netlify.app
 shearman-sterling.co.uk
 shearsman.org
 sheboxes.netlify.app
@@ -81506,6 +81516,7 @@ superecharge.com
 superfarms.site
 superfatapesnft.xyz
 superfix.live
+superformxyz-rpcdebug.pages.dev
 superful-mint.xyz
 superful.dropfree.xyz
 superful.nfts-premint.xyz
@@ -99181,6 +99192,7 @@ www.meta-masck.live
 www.meta-mask.club
 www.meta-mask.co
 www.meta-online-services.help
+www.meta.pika.asia
 www.meta0096.com
 www.meta096.com
 www.meta2842.com
@@ -100169,6 +100181,7 @@ www.ordinfinance.com
 www.organiconetexas.com
 www.orivium.dev
 www.os-revoke.com
+www.osais.app
 www.oscarssportsgrill.com
 www.osmmosis.xyz
 www.osmosis-connect.com
