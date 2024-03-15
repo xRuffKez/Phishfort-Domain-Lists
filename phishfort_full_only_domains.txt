@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 13:01:31 UTC 2024
-# Number of Entries: 106589
+# Fetch date: Fri Mar 15 14:01:36 UTC 2024
+# Number of Entries: 106591
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4059,6 +4059,7 @@ albemarle.devindex.net
 albemarle6.com
 albemarlevip.com
 albemarne.com
+albersafewayst.com
 albertsons-hexamethylenamine.pages.dev
 alcabones.io
 alccoaching.org
@@ -32833,6 +32834,7 @@ fix-encrypt.online
 fix-exchange.org
 fix-initialize.netlify.app
 fix-mainnetchains.com
+fix-metamask.pages.dev
 fix-mysyncapp.netlify.app
 fix-nodebug.pages.dev
 fix-rpc.com
