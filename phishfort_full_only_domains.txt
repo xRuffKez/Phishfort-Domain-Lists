@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 07:01:55 UTC 2024
-# Number of Entries: 106563
+# Fetch date: Fri Mar 15 08:02:08 UTC 2024
+# Number of Entries: 106582
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3009,6 +3009,7 @@ agoda-jp.cc
 agoda-jp.co
 agoda-jp.com
 agoda-jp.vip
+agoda-jp.xyz
 agoda-jps.com
 agoda-mba.com
 agoda-not.com
@@ -3121,6 +3122,7 @@ agriculturea.com
 agrlvestshipping.com
 agroblockchain.live
 aguamineraloc.blogspot.com
+agveah.cc
 ah-coinbase.com
 ahardworkingman.nft-premint.com
 ahauuhy21.ukit.me
@@ -7186,6 +7188,7 @@ arbiscane.shop
 arbismarts.com
 arbismarts.thenekos.net
 arbispad.com
+arbitarun.com
 arbitdrop.com
 arbitdrop.net
 arbitirum.net
@@ -27275,6 +27278,7 @@ drip-community.near-import.cam
 drip-network.io
 drip-network.life
 drip-network.world
+drip-networkcommunity.org
 drip.comrnunity.co
 dripbot-command.online
 dripcommunity.press
@@ -27741,6 +27745,7 @@ e3c01d47-32d5-417d-86a5-6484412fd477.htmlpasta.com
 e4cnft.first-presale.com
 e4d600ab9141b7a9859511c77e63b9b3.com
 e4mu.pro
+e4utbp2.cc
 e5adf83e1ec816dedd6d593a3a565d65.com
 e6ls3e.org
 e9bb59.mxxauthen.ru
@@ -28325,6 +28330,7 @@ eligible-chaln.link
 eligible-circle.com
 eligible-pancakeswap.finance
 eligible-uni.org
+elite-bit.net
 elite888-ico.com
 elitebody.com.br
 elitecryptoassets.com
@@ -36929,6 +36935,8 @@ graphbridge.live
 graphlinq.rewardsprogram.tech
 graphtoken.net
 grassetti.mint-airdrop.com
+graviex-defi.club
+graviex-defi.xyz
 gravitative-discrep.netlify.app
 graybacanada.com
 graybarrs.com
@@ -41033,6 +41041,7 @@ katana-chain.com
 katana-dex.com
 katana-interface.com
 katana-interface.net
+katana-ronchain.com
 katana-roninchain.com
 katana-roninchain.fun
 katana-roninchain.net
@@ -61622,6 +61631,7 @@ openseanft.one
 openseanft.sale
 openseanft.site
 openseanft.tools
+openseanft0.vercel.app
 openseanft2.com
 openseanftairdrop.com
 openseanftairdrop.icu
@@ -65822,6 +65832,7 @@ pancakeswapv3.me
 pancakeswapv3.net
 pancakeswapv3.org
 pancakeswapv3.site
+pancakeswapv4.com
 pancakeswapv5.claims
 pancakeswapvac.com
 pancakeswapverify.com
@@ -69699,6 +69710,7 @@ polkabeam.org
 polkabonus.com
 polkabot.network
 polkabridge-giveaway.com
+polkabridge-network.org
 polkabridge.xyz
 polkabtc.app
 polkacenter.com
@@ -73696,6 +73708,7 @@ reg-looksrare.org
 reg-metis.io
 reg-nibiru.app
 reg-pandora.network
+reg-shib.com
 reg-shido.app
 reg-woo.org
 regainaccess-to-dashboard.top
@@ -75146,6 +75159,7 @@ ronaldonft.online
 ronghemenhu.zpbeilou.com
 ronichain.com
 ronichain.com.runinchain.com
+ronienchaim.com
 roniin-wallett.godaddysites.com
 ronim-walletmoney-xy.com
 ronimchain.com
@@ -78131,6 +78145,7 @@ siubit.com
 siyabongaeheri.live
 sjrtp-proxy.marketopreview.com
 sjxxsb.imaimac.com
+sk8pes.world
 skaddenllp.com
 skaddens.com
 skadern.com
@@ -85434,6 +85449,7 @@ traderjoexyz.online
 traderjoexyz.web3-airdrop.net
 traderjoexyzc.com
 traderjoexyzz.biz
+traderjoeyxz.app
 tradernjoe.com
 tradersmarket.co
 traderynix.com
@@ -89079,6 +89095,7 @@ validatemycrypt.online
 validatemywallet.live
 validatemywallet.online
 validatemywalletservice.com
+validaten0de.pages.dev
 validatenftholdings.com
 validatenfts.tech
 validatenode.tech
@@ -105197,6 +105214,7 @@ xq2.bsqkg.com
 xqjs.gdborneol.com
 xquietth.xyz
 xr-claims.top
+xr7j5v.pro
 xreators.crew3.xyz
 xres.org
 xrimerfa.com
@@ -105569,6 +105587,7 @@ yieldgild.xyz
 yieldguild.online
 yieldguildgame.com
 yieldguildgames.web3-airdrop.net
+yieldmagnet.app
 yieldrobots.app
 yieldtribal.top
 yifistake.finance
