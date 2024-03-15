@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 01:22:28 UTC 2024
-# Number of Entries: 106518
+# Fetch date: Fri Mar 15 02:07:36 UTC 2024
+# Number of Entries: 106524
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -63361,6 +63361,7 @@ pancakesswap.org
 pancakesswap.pages.dev
 pancakesswap.site
 pancakesswap.space
+pancakesswap.xyz
 pancakesswapconnect.digital
 pancakesswapdesk.online
 pancakesswape.com
@@ -74247,6 +74248,7 @@ revoje.cash
 revojke.cash
 revok.cash
 revok.info
+revok.online
 revok.site
 revoka.cash
 revokacash.online
@@ -83899,6 +83901,7 @@ the-cryptosoft-pro.com
 the-dubailifestyle-pro.com
 the-ether.pro
 the-ethereum-code-2.com
+the-ethereum-trader-app.net
 the-flow.net
 the-goda.xyz
 the-graph.org
@@ -87474,6 +87477,7 @@ uniswap.nom.co
 uniswap.nuanchansoft.llc
 uniswap.one
 uniswap.onl
+uniswap.op-com0516.xyz
 uniswap.openwallet.dev
 uniswap.orc-get-access.com
 uniswap.org-defi-v3.net
@@ -90151,6 +90155,7 @@ vwvexodus.com
 vwvv-ftx.com
 vwvw-bitkub.com
 vwvw-kraken.com
+vww-1inch.com
 vww-alpacafinance.top
 vww-alpacafinancse.top
 vww-bitget.com
@@ -105747,6 +105752,7 @@ zapper-defi.xyz
 zapper-fi.co
 zapper-fi.shop
 zapper-frontend-next-2ifxmb4ma-zapper-fi.vercel.app
+zapper-frontend-next-6zj2ju3qm-zapper-fi.vercel.app
 zapper-frontend-next-h5ht7yy42-zapper-fi.vercel.app
 zapper-frontend-next-ikph34jsv-zapper-fi.vercel.app
 zapper-internet.com
