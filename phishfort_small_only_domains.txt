@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 13:02:08 UTC 2024
-# Number of Entries: 8059
+# Fetch date: Fri Mar 15 14:03:07 UTC 2024
+# Number of Entries: 8057
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -161,7 +161,6 @@ accountrevive.pages.dev
 accountsportal.net
 accountsvalidator.com
 acefusionist.network
-acefusionist.top
 achieflocker.com
 achieve-altlayer.io
 achieve-altlayer.pages.dev
@@ -386,6 +385,7 @@ akamserrvis.de
 akeydistrict.com
 aknanalofiq.com
 albemarle-albemarle.onlinemailmicrosotfvalidation.com
+albersafewayst.com
 aleo.claim-app.pro
 algogold.com
 alienform-migrate.pro
@@ -1862,7 +1862,6 @@ dappradar.mom
 dappradar.qa
 dappradar.so
 dappradar.team
-dappradar.tel
 dappradar.vip
 dappradar.works
 dappradardrop.com
@@ -2497,6 +2496,7 @@ fireblocks.nodeorigins.com
 fireblockscrypto.com
 first-braved.info
 fitness-solution24.de
+fix-metamask.pages.dev
 fix.errorsolution.org
 fixadfloat.com
 fixbugmigrate.pages.dev
@@ -3545,7 +3545,6 @@ login-metamaskwallet.ddnss.eu
 login.cw1.ir
 login.frame-airdrop.xyz
 login.microsoftonlineportal.ppp-gov.online
-login.ordinalsapp.live
 login.wapstore.duckdns.org
 login1-blockgames.xyz
 login2-blockgames.xyz
@@ -7895,7 +7894,6 @@ xn--fxedftloat-k8a.com
 xn--fxedlflaot-k8a.com
 xn--od5b1rm17a.com
 xn--raribe-t9a.com
-xn--revokecsh-c3a.com
 xn--rustwallet-gyd.com
 xn--ssetdsh-9wad.com
 xn--zcr743ah35a.com
