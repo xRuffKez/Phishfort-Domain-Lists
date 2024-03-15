@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 00:04:51 UTC 2024
-# Number of Entries: 106515
+# Fetch date: Fri Mar 15 01:22:28 UTC 2024
+# Number of Entries: 106518
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -8391,7 +8391,6 @@ authconnect-dapp.netlify.app
 authconnect.dev
 authconnect.org
 authconnect.pages.dev
-authcontractsync.pages.dev
 authdapps-connect.org
 authdapps.live
 authdappsync.com
@@ -27741,6 +27740,7 @@ eanrdrops.com
 eanrdrops.io
 eaquamards.blogspot.com
 earessioni.live
+early-blasts.app
 early-chain.link
 early-ventures.com
 earlyadopterdegen.com
@@ -40712,6 +40712,7 @@ julianar.site
 julieannehoover.com
 julswap.co
 jumper-exchange.live
+jumper-exchange.network
 jumper-exchange.org
 jumper.capital
 jumper.exchangee.net
@@ -105746,6 +105747,8 @@ zapper-defi.xyz
 zapper-fi.co
 zapper-fi.shop
 zapper-frontend-next-2ifxmb4ma-zapper-fi.vercel.app
+zapper-frontend-next-h5ht7yy42-zapper-fi.vercel.app
+zapper-frontend-next-ikph34jsv-zapper-fi.vercel.app
 zapper-internet.com
 zapper-login-ac.com
 zapper-wallet.com
