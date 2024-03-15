@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 06:01:55 UTC 2024
-# Number of Entries: 106552
+# Fetch date: Fri Mar 15 07:01:55 UTC 2024
+# Number of Entries: 106563
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6305,6 +6305,7 @@ app.polygon2bridge.com
 app.polygonc.technology
 app.pomerdoge.live
 app.pool-1inch.io
+app.prisrnafinance.com
 app.pulsiex.com
 app.questn.org
 app.radant.capital
@@ -22017,6 +22018,7 @@ cs2lounge.club
 cs2polygonx.top
 cs4market.ru
 csagoda.co
+csagoda.my.id
 csagoda.store
 csagodaonline.masukmobilee.de
 cscs-app-money.one
@@ -23951,6 +23953,7 @@ dappssyncconnect.xyz
 dappssyncdirect.com
 dappssynch.win
 dappssynchronizer.online
+dappstaking.net
 dappstalks.com
 dappstations.firebaseapp.com
 dappstech.online
@@ -25203,6 +25206,7 @@ defi-inxs.com
 defi-k.com
 defi-kingdoms.net
 defi-kjingdooms.com
+defi-kraken.com
 defi-l.com
 defi-lama.com
 defi-landchains.com
@@ -36947,6 +36951,7 @@ green-haze-3357.on.fleek.co
 greenapp.ltd
 greenbeli.su
 greenben-promogive.com
+greenbitcoin-en.web.app
 greenchartbsc.com
 greenclot.com
 greencorp.online
@@ -48831,6 +48836,7 @@ metamas.one
 metamasak-wallet.godaddysites.com
 metamasak.cc
 metamasbdfbcbs.com
+metamasbdfbcv.com
 metamasc-apps.com
 metamasc.io
 metamasc.net
@@ -51850,6 +51856,7 @@ metronometoken.io
 metropoly.web3fast.net
 metrovalidate.live
 metroverseblackout.xyz
+metrsamasknig.azurewebsites.net
 mets-applicat.top
 metsafnmaske.azurewebsites.net
 metsamask-home.com
@@ -54323,6 +54330,7 @@ mutant-hound.com
 mutantapesplanet.com
 mutantazuki.com
 mutantboi.org
+mutantboxnft.com
 mutantcartel.mpnfts.com
 mutantcartel.ytnfts.com
 mutantcollars.com
@@ -62265,6 +62273,7 @@ orionprotocol.app
 orionprotocol.org
 orisunewa.com
 orivium.trading
+orlandoplasmacenters.com
 orpensea.com
 orsam.site
 orthator.com
@@ -84200,6 +84209,7 @@ thepepe20.com
 thepicaroons.xyz
 theplague.the-premint.xyz
 theplague.wpnfts.com
+theplasmacenter.info
 thepokerpro.web3fast.net
 thepolkadot.io
 thepolkadot.online
@@ -90005,6 +90015,7 @@ vote-ambire.org
 vote-ambires.com
 vote-ambires.org
 vote.biast.support
+votebnbchain.pages.dev
 votefork.com
 votemarketstakedao.org
 vouch-2e7832.netlify.app
