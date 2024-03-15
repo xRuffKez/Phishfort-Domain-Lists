@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 23:02:29 UTC 2024
-# Number of Entries: 7994
+# Fetch date: Fri Mar 15 00:07:06 UTC 2024
+# Number of Entries: 8006
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -253,6 +253,7 @@ airdrop-alt-layer.com
 airdrop-altlayer-claim.vercel.app
 airdrop-altlayer-io.vercel.app
 airdrop-amulet.xyz
+airdrop-angle.money
 airdrop-arkham.com
 airdrop-atlayer.io
 airdrop-blast.network
@@ -490,6 +491,7 @@ anowplunge.com
 ap-paymentreceipts.com
 ape-pylh.network
 ape.airscointrustpad.top
+apechainreload.com
 apecoin-aidrop-claim.codeanyapp.com
 apecoin-airdrop-claim-pooldrop.codeanyapp.com
 apecoin-drop.web.app
@@ -1456,7 +1458,6 @@ claim-xai.pages.dev
 claim-your-mask-tokens-withmetamask-airdrop.fi-liikennesakkoo.net
 claim-zetachain.xyz
 claim.aavelp.com
-claim.app-layerzero.pro
 claim.arkhamfinance.xyz
 claim.beefmeme.xyz
 claim.bitetfs.net
@@ -1806,6 +1807,7 @@ danceanatolia.com
 dao-radiant.capital
 daoblender.xyz
 daomaker.bond
+daomaker.my.id
 daoprotocol.pages.dev
 dap-radar.com
 dapi.re
@@ -1911,6 +1913,7 @@ dbrsfds.com
 dbrsfxs.com
 dbrspty.com
 dddow.com
+dddx.cnxunkewang.vip
 de-fi.events
 deafah.in
 dealsync.pages.dev
@@ -2416,6 +2419,7 @@ exchange-apex.org
 exchangepancakeswap.workers.dev
 exchangeros.com
 exchanges-backpack.app
+exclusive-blast.com
 expertelover.com
 exploitrevoke.com
 exploits-revoke.com
@@ -2982,6 +2986,7 @@ in.scrll-club.cc
 inaallert.com
 inaraequinix.ae
 incentives-pyth.network
+incsribe.app
 infosa.net
 infura-api.com
 ing-autorizza-cliente.it
@@ -3057,6 +3062,7 @@ ipgroup-lnc.com
 iptv.skin
 iqz2.sa.com
 ireth.rnag.site
+islamiccoin.network
 islandrecords.co
 issuesdefi.xyz
 issuesfixed.website
@@ -3550,6 +3556,7 @@ lv.zgroupmint.com
 lwve.top
 lxp-linea.build
 lybrafinance.live
+lybriaflnance.xyz
 m-ducksstudio.com
 m-mask.top
 m-usdt.xyz
@@ -3983,6 +3990,7 @@ meta-safelogin.com
 meta2fa.io
 metaamsskk-wallet.godaddysites.com
 metabbcmask.com
+metabolt.io
 metacoin-participate.com
 metacoin.digital
 metacoincrypto.online
@@ -5193,6 +5201,7 @@ plantagmsanluis.com
 plantagmseminuevos.com.mx
 plantagmsilao.com.mx
 plantajohnsoncontrols.com
+platform-blast.com
 platform-tycoon.xyz
 play-gamer.com
 play-pixelsapp.xyz
@@ -5641,12 +5650,14 @@ rektfrog.com
 rektnow.com
 reloadsula.pages.dev
 reloadsyncpages.xyz
+remarkable-queijadas-77facb.netlify.app
 remotenodesauth.pages.dev
 renasantbank.cc
 rend.igital.live
 render.gift
 rendernetwork.support
 renord.netlify.app
+renzo-protocols.com
 resolutionpanel.pages.dev
 resolve-captcha.com
 resolver-paneldapp.com
@@ -5920,6 +5931,7 @@ satoshivms.network
 satoshivn.io
 satroport.fi
 sautikenya.com
+savmtoken.net
 sawfnd.top
 sawox.com
 scalling-fees.org
@@ -6800,6 +6812,7 @@ url7923.marsello.io
 us-coinmarketcap.com
 us-robihood.com
 us.catz-groups.xyz
+us4f.cc
 usa5starshop.com
 usaseoseller.com
 usatexasunigiri.com
@@ -6946,6 +6959,7 @@ vmfla7a.pro
 vmsatoshi.io
 vocal-kataifi-5e514d.netlify.app
 vodoo.trade.web3-ap.cfd
+vofj.pro
 voltagenodefix.com
 vormassuinst.com
 vote-ambire.org
@@ -6997,7 +7011,6 @@ wallet.zkflre.io
 wallet7.vercel.app
 walletapp.samouraifinance.live
 walletapplink.xyz
-walletconnact.netlify.app
 walletconnect-applicationprogram-interface.pages.dev
 walletconnect-com.vercel.app
 walletconnect-dapps.pages.dev
@@ -7483,7 +7496,6 @@ www.interdigitaltba.com
 www.ixspool.xyz
 www.jamiod.com
 www.jingruijx.com
-www.jograd.com
 www.jompyc.com
 www.jutsunft.com.soillabs.app
 www.jympurexhange.org
