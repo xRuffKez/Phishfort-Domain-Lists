@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 20:01:51 UTC 2024
-# Number of Entries: 106599
+# Fetch date: Fri Mar 15 21:01:51 UTC 2024
+# Number of Entries: 106603
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -12604,6 +12604,7 @@ bkexcapital.com
 bking-promogive.com
 bklementen.site
 bks-at.com
+bks-partsners.com
 bkubweb0-com.1gb.ru
 bl-galagames-online.blogspot.com
 bl0ckchain.netlify.app
@@ -28023,6 +28024,7 @@ ecommerce.pancakeswasap.one
 econextrade.online
 economicoin.net
 economisteveningreptile.xyz
+econopure.com.vn
 ecoratter.tech
 ecoretra.com
 ecorretra.online
@@ -67945,6 +67947,7 @@ paxofferonline.online
 paxoinx.com
 paxonlinerates.online
 paxos-bounty.com
+paxos-eth.com
 paxos-gold.org
 paxos-network.com
 paxos-okta.com
@@ -90034,6 +90037,7 @@ voltairdropgame.com
 voltconnector.com
 voltinu-migrated.live
 volunt.cruzroja.edu.do
+volvotrucksinc.us
 vop-emailevents.ml
 vormassuinst.com
 vortexgid.click
