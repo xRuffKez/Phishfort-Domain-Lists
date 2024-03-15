@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 17:02:16 UTC 2024
+# Fetch date: Fri Mar 15 18:03:31 UTC 2024
 # Number of Entries: 8049
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1557,6 +1557,7 @@ cloudwebhosts.com
 clrscr.net
 cm-dap.online
 cmlink.xyz
+cmtzconstructionllc.com
 cnahngenow.com
 co-insauhgdsadhij.com
 co-tbtcasojdhgsa.com
@@ -4997,7 +4998,6 @@ pangolin-x.com
 panoshidaapsintegration.netlify.app
 pansakecwap.xyz
 pape-tokens.org
-papecoin.eu
 paper-hand.web.app
 paper-hold.web.app
 paper-holders.web.app
@@ -5092,6 +5092,7 @@ paybyplatema.website
 paycoins24.com
 paylccity.com
 paylink.fun.augusttarget.online
+paylocily.com
 paylocity-login.com
 paylocity-sso.com
 paylooity.com
@@ -5150,6 +5151,7 @@ pepsi8.com
 pepsicol.com
 pepsicopostmixtraining.com
 pepsisco.com
+per-empower.com
 perceptiveorbsyscaga.pages.dev
 perdashboard.online
 perfectcheckgift.com
@@ -6765,7 +6767,6 @@ uidetmabenefits.org
 uiredofmassucherndy.com
 ujp.ag
 uk-applovinlife.com
-ukvisas-service.lv
 ulonlinedetma.org
 ultra-prismafinance.com
 ultrasmartcoinsolution.xyz
@@ -6816,7 +6817,6 @@ uniswapv4-pool-choosing.web.app
 uniswapv4-pool-waitlist.web.app
 united-healthcare-services.com
 unitedairlinedeliveryagency.com
-unitedairlines-vn.com
 unitycryptotrading.com
 unknownbasenfts2.me
 unlbots.trading
@@ -7230,7 +7230,6 @@ wer34.pages.dev
 wesmopay.com
 wessxcrz.online
 west-braves.info
-westsairsgases.com
 westsairsgases.org
 whalesmarket.org
 white-frame.xyz
@@ -7645,6 +7644,7 @@ www.pacific-manta-network.org
 www.pacificc-manta.network
 www.paidnetworkstaking.com
 www.pancakeswap-v3.com
+www.pancakeswapairdrop.com
 www.pancakeswapreward.finance
 www.pancakeswapv3.xyz
 www.pandoras-build.com
