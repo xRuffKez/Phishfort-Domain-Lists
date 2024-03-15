@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 14:01:36 UTC 2024
-# Number of Entries: 106591
+# Fetch date: Fri Mar 15 15:01:45 UTC 2024
+# Number of Entries: 106593
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -25372,6 +25372,7 @@ defibugfix.com
 defibulls.org
 deficake-web3.com
 deficentralnode.com
+defichain-rewards.pages.dev
 defichain-solutions.com
 defichainalert.net
 defichainhub.com
@@ -65286,6 +65287,7 @@ pancakeswapable.com
 pancakeswapacctsync.finance
 pancakeswapair.finance
 pancakeswapairdrop-event.finance
+pancakeswapairdrop.com
 pancakeswapairdrop.info
 pancakeswapairdrop.me
 pancakeswapairdrop.net
