@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 05:01:36 UTC 2024
-# Number of Entries: 106542
+# Fetch date: Fri Mar 15 06:01:55 UTC 2024
+# Number of Entries: 106552
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3388,6 +3388,7 @@ airdrop-genie.xyz
 airdrop-gift.website
 airdrop-giveaway.xyz
 airdrop-gomble.app
+airdrop-gomble.digital
 airdrop-gpt.com
 airdrop-hex.com
 airdrop-hucapitalltd.pages.dev
@@ -13632,6 +13633,7 @@ bondfold.help
 bondinvest.site
 bone-airdrops.org
 boneclaims.com
+bonelp.com
 boner-get.netlify.app
 bonereward.tech
 bonereward.top
@@ -35271,6 +35273,7 @@ genesis-box.xyz
 genesis-celestia.pw
 genesis-celestia.xyz
 genesis-celestiaa.online
+genesis-dem.xyz
 genesis-dym.com
 genesis-dymension.xyz
 genesis-dymensionapp.com
@@ -35387,6 +35390,7 @@ get-crypto.tech
 get-curve.com
 get-dmail.app
 get-dot.me
+get-entangle.com
 get-eth-binance.com
 get-eth-free.com
 get-eth-now.com
@@ -58804,6 +58808,7 @@ new-trusttwallet.com
 new-unlock.github.io
 new-wasallelylog.azurewebsites.net
 new.babbara.xyz
+new.blockchainbets-vault.com
 new.farepath.club
 new.joss-home.com
 new.kinzxkclub.xyz
@@ -59956,6 +59961,7 @@ notion-wind.com
 notion.notion-products.com
 notion.tps-dev.com
 notionalfinance-v2.org
+notionalfinance.org
 notionmarketing.su
 notions-download.site
 notions-download.tech
@@ -62545,6 +62551,7 @@ pablogomezsolis.com
 pabloslol.wtf
 pabncakeswap.com
 pabncakeswap.finance
+pac-sol.com
 pac10-online.com
 pacaekswap.finance
 pacake-swap.online
@@ -75056,6 +75063,7 @@ rocketpool.money
 rocketpool.one
 rocketpool.org
 rocketpool.party
+rocketpool.pro
 rocketpool.web3-airdrop.net
 rocketpool.ws
 rocketpool.xlaunchpad.live
@@ -78824,6 +78832,7 @@ snapshot-defi.xyz
 snapshot-hydroprotocol.com
 snapshot-invisiblefriends.com
 snapshot-particle.network
+snapshot-syncswap.com
 snapshot-zksync.io
 snapshot.pepesui.ceo
 snapshots-quai.network
@@ -96622,6 +96631,7 @@ www.block2node.live
 www.blockchain-c-care.com
 www.blockchain.ssl-coin-base.com
 www.blockchain.walletwhitelister.com
+www.blockchainbets-vault.com
 www.blockchainnode-protocol.com
 www.blockchainnode.live
 www.blockchainrpciwebfix.com
