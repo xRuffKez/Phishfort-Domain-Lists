@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 14:03:07 UTC 2024
-# Number of Entries: 8057
+# Fetch date: Fri Mar 15 15:02:22 UTC 2024
+# Number of Entries: 8055
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1139,7 +1139,6 @@ blurnftgroup.com
 blurprotocol.us
 blust.io
 blz-group.com
-blzt-community.com
 bnb-crypto.xyz
 bnbair.org
 bnbchain.coinsdraw.io
@@ -1984,6 +1983,7 @@ defi3tech.com
 defiaave.net
 defibulls.org
 deficake-web3.com
+defichain-rewards.pages.dev
 defidydx.app
 defifix.pages.dev
 defihug.online
@@ -3872,7 +3872,6 @@ marketplace-listings.com
 marketplace-offers.io
 marketplacestatus.com
 marloon.net
-marlosmasslovst.com
 marnta.network
 masa-ek1.pages.dev
 masa-finance.com
@@ -4472,8 +4471,6 @@ myuiionlinedetmadma.info
 myuimapay.online
 myuionlinedeetmadma.com
 myuionlinedeetmadma.info
-myuionlineedetmadma.net
-myuionlinneedettmadmu.com
 myuionlinneedettmadmu.net
 mywalletexodus.com
 na2-docusign-net-envelope-office365-auth.us-southeast-1.linodeobjects.com
@@ -4952,6 +4949,7 @@ pancakeswap.lt
 pancakeswap.quest
 pancakeswap.systeme.io
 pancakeswapairdrop-event.finance
+pancakeswapairdrop.com
 pancakeswapairdropevent.finance
 pancakeswapfinance-gg3.pages.dev
 pancakeswapfinances.pages.dev
