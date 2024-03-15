@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 14 23:01:49 UTC 2024
-# Number of Entries: 106500
+# Fetch date: Fri Mar 15 00:04:51 UTC 2024
+# Number of Entries: 106515
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3310,6 +3310,7 @@ airdrop-altava.com
 airdrop-altlayer-claim.vercel.app
 airdrop-altlayer-io.vercel.app
 airdrop-amulet.xyz
+airdrop-angle.money
 airdrop-ape.com
 airdrop-arbitrum.club
 airdrop-arbitrum.com
@@ -4958,6 +4959,7 @@ apeawards.com
 apeboard-defi.com
 apeboardhome.com
 apec0in.cc
+apechainreload.com
 apeclaim.click
 apeclaim.online
 apeclaim.site
@@ -22611,6 +22613,7 @@ daomaker.com.mx
 daomaker.connecting-web3.net
 daomaker.connects-web3.com
 daomaker.es
+daomaker.my.id
 daomaker.network
 daomaker.pm
 daomaker.tax
@@ -24494,6 +24497,7 @@ dcwsynesecure.com
 dd.kwss.vip
 dddddhh.site
 dddow.com
+dddx.cnxunkewang.vip
 ddebahk.com
 ddeswer.site
 ddexbit.com
@@ -31853,6 +31857,7 @@ excharge.1dex.io
 exchnage.pancakeswape.finance
 exchngedebank.1gb.ru
 excitedoncrypto.com
+exclusive-blast.com
 exclusivefashionbd.com
 exclusiveking.tk
 excodus.cf
@@ -39339,6 +39344,7 @@ incomesharks.finance
 incomm.corp.ath.oepensese.store
 incomm.internal.group.faspal-upson.com
 incomm.support.index.exm-roni.com
+incsribe.app
 incwalletvalidates.net
 ind.millemniumbcp-pt.com
 indadax.com
@@ -40084,6 +40090,7 @@ ishiba.org
 isiv.edu.ar
 isjit.leahe.net
 iskra.web3fast.net
+islamiccoin.network
 islandrecords.co
 ismetamask.io
 ismetok.site
@@ -45839,6 +45846,7 @@ lybrafinance-info.com
 lybrafinance.live
 lybrafinancefl.com
 lybras.finance
+lybriaflnance.xyz
 lydiahelps.com
 lyetherwallet.com
 lynodes.com
@@ -48563,6 +48571,7 @@ metablazeapp.com
 metablazetoken.site
 metabnttyhntrs.xyz
 metabntyhntrs.new-mint.com
+metabolt.io
 metabountyhunters.fun
 metabountyhunters.nft-premint.com
 metabrewsociety.mint-airdrop.com
@@ -69320,6 +69329,7 @@ plataforma-consorcio.online
 plataforma-consorcio.site
 platform-arkham-intelligence.com
 platform-bitmex.com
+platform-blast.com
 platform-give.com
 platform-juno-digital-pj-helfen.blogspot.com
 platform-official-auth.zoholandingpage.com
@@ -73855,6 +73865,7 @@ relloans.online
 reloaddefibsc.com
 reloadsula.pages.dev
 reloadsyncpages.xyz
+remarkable-queijadas-77facb.netlify.app
 rematesgm.com
 rematic-promogive.com
 rembolsar.daviplatamobile.repl.co
@@ -73925,6 +73936,7 @@ renq-cloud.com
 renq-token.com
 renwen.yongwudi.net
 renzelnavarro.com
+renzo-protocols.com
 reobit.com
 reoke.cash
 repairvault.onrender.com
@@ -76288,6 +76300,7 @@ saveshields.com
 savetoken.org
 saveukr.org
 savkini.shop
+savmtoken.net
 savvy-payments.com
 sawfnd.top
 sawox.com
@@ -88274,6 +88287,7 @@ us.shein.win
 us.sheinpro.site
 us.sheinpro.top
 us.usheim668.com
+us4f.cc
 us_metamask-wallet.godaddysites.com
 us_wallletx_phamton.godaddysites.com
 usa-circle.net
@@ -89939,6 +89953,7 @@ vocal-kataifi-5e514d.netlify.app
 vociemail.azurefd.net
 vodkya.netlify.app
 vodoo.trade.web3-ap.cfd
+vofj.pro
 voicemanagerwebex.com.br
 voiders-world-free.xyz
 voiders.nft-premint.com
