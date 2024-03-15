@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 21:01:51 UTC 2024
-# Number of Entries: 106603
+# Fetch date: Fri Mar 15 22:01:52 UTC 2024
+# Number of Entries: 106605
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -13580,6 +13580,7 @@ bobo.claims
 bobocoin.gift
 bobonmens.site
 bobothebear.idrops.art
+bobotokenhub.top
 bobs.finance
 bobu-azuki.xyz
 bobuazuki.xyz
@@ -51554,6 +51555,7 @@ metasupportz.xyz
 metasverfieds.com
 metaswap-connect.org
 metaswap-exchange.org
+metaswap-frontend.vercel.app
 metaswap-rewards.org
 metaswap.dev
 metaswapapp.com
@@ -67307,6 +67309,7 @@ password-update-coinbase.com
 pastafariancoin.loyaltybonus.tech
 pasvil.com
 patchmymeta.com
+patcoin.xyz
 patekphilippe-nft.com
 patekphilippenft.pages.dev
 patekphilippeofficial.xyz
@@ -72884,7 +72887,6 @@ rajapack-systems.de
 rajkicks.com
 rajt.store
 rakbank-login.1inchsamplestrip.com
-raksfifthavenue.com
 rakuten-analysis.com
 rakuten-assign.com
 rakuten-senna.com
@@ -103221,6 +103223,7 @@ xn--1nch-exchange-wib.com
 xn--1nch-qya.exchange
 xn--1nch-vpa.com
 xn--1nch-vpa.io
+xn--1nh-3la2a.com
 xn--1nh-3la7a.exchange
 xn--1nh-7pa2p.com
 xn--1nh-rma5n.com
@@ -105910,7 +105913,6 @@ zelenina-hrbek.cz
 zelensky-coin.org
 zelis.us
 zelle-paxful.com
-zellerscanada.ca
 zelrion.io
 zelwallet.com
 zen-smartgives.space
