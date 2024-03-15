@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 21:01:59 UTC 2024
-# Number of Entries: 8044
+# Fetch date: Fri Mar 15 22:03:26 UTC 2024
+# Number of Entries: 8048
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1148,6 +1148,7 @@ bnbminer-finance.onrender.com
 bncoparticlar-apps.systeme.io
 bnk-claim.com
 boba.x2drop.top
+bobotokenhub.top
 bol.mxmfk.club
 boltbot.eu
 bomkxmas.com
@@ -4151,6 +4152,7 @@ metanask-kyc.com
 metapass.fyi
 metarestore.vercel.app
 metareward.top
+metaswap-frontend.vercel.app
 metatank.app
 metatoken.cash
 metav2update.com
@@ -4903,6 +4905,7 @@ pancake.magpiexyz.io.nework.live
 pancake.svap.org.in
 pancake.svap.us.com
 pancake888.com
+pancakedrop.com
 pancakeeswap.com
 pancakeeswap.finance
 pancakefiance.org
@@ -5050,6 +5053,7 @@ partnerwithequinor.com
 parurhealth.com
 pass-vulcan.xyz
 passes.top
+patcoin.xyz
 paulmulleracademico.com
 pavillionconstruction.com
 pax-f.netlify.app
@@ -5074,6 +5078,7 @@ paxfult.com
 paxfulteams.com
 paxfulvn.com
 paxoinx.com
+paxos-eth.com
 paxos-network.com
 paxos-okta.com
 paxos-token.org
@@ -5509,7 +5514,6 @@ raffleopnsea.com
 raffleusdc.com
 rainbow.mt-gox.site
 rainbow.trading
-raksfifthavenue.com
 ranbuny.com.au
 randomecoin-ads.eu
 randomecoins.com
@@ -6707,7 +6711,6 @@ treasury-seedify.tech
 treasury.roninschains.com
 tredarjoesxyz.com
 tredarsjoexyz.com
-trederjoexyz.com
 trekki1-2ao7ciwr8-scgllr.vercel.app
 trestleprotocol.net
 trezorsuite-web3.com
@@ -7838,6 +7841,7 @@ xmas-monkedao.com
 xmas.claims
 xmxx.btcethl.vip
 xn--1nch-vpa.io
+xn--1nh-3la2a.com
 xn--arbtrum-tfb.com
 xn--fixedfaot-wpbe.com
 xn--fixedflaot-k8a.com
