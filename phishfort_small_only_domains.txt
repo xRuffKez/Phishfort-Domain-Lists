@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 06:02:32 UTC 2024
-# Number of Entries: 8031
+# Fetch date: Fri Mar 15 07:02:28 UTC 2024
+# Number of Entries: 8039
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -641,6 +641,7 @@ app.kinzaxk-group.com
 app.moonbeam-web.com
 app.moonbeamer-swap.com
 app.pomerdoge.live
+app.prisrnafinance.com
 app.raticswap.xyz
 app.refundcoinstake.com
 app.rnino.fi
@@ -1782,6 +1783,7 @@ crystalfiles.ru
 cs2-blast.com
 cs2polygonx.top
 csagoda.co
+csagoda.my.id
 csagoda.store
 csagodaonline.masukmobilee.de
 csfellon.ru
@@ -1889,6 +1891,7 @@ dappsradar.lc
 dappsradar.page.link
 dappssolution.pages.dev
 dappsswarm.com
+dappstaking.net
 dappswalletsnode.firebaseapp.com
 dappswalletsnode.web.app
 dappsync-apw.pages.dev
@@ -1970,6 +1973,7 @@ defi-binances.cc
 defi-dymension.pages.dev
 defi-finance.web.app
 defi-id.app
+defi-kraken.com
 defi-manta.pages.dev
 defi-pendle.fi
 defi-read.web.app
@@ -2310,7 +2314,6 @@ enter-injective.com
 enter-pendle.network
 enter-treasure.trading
 enter-wormhole.network
-enter-zerion.io
 enudeekc.one
 eonexvip.com
 eonian.live
@@ -2814,6 +2817,7 @@ grab-zetachain.com
 grandomaster.com
 grapepubliczk.org
 graybarz.com
+greenbitcoin-en.web.app
 greencorp.online
 grendot.online
 grit-finance.com
@@ -4174,6 +4178,7 @@ metnmask.io
 metnmaskn.io
 metoamask.com
 metomaska.com
+metrsamasknig.azurewebsites.net
 metsafnmaske.azurewebsites.net
 metsfghmaskus.azurewebsites.net
 metsk.app
@@ -4829,6 +4834,7 @@ org-networks.site
 orgnlt.me
 origintracdappcom.com
 orivium.trading
+orlandoplasmacenters.com
 osaiccareers.com
 osmmossiss-zone.org
 osmosis-zone.mom
@@ -6559,6 +6565,7 @@ themask.claims
 themodenetwork.com
 theoportal.com
 thepepe20.com
+theplasmacenter.info
 thesolmirage.rxi.app
 theta-date.com
 thetabugs.pages.dev
@@ -6986,6 +6993,7 @@ vote-ambire.org
 vote-ambires.com
 vote-ambires.org
 vote.biast.support
+votebnbchain.pages.dev
 votemarketstakedao.org
 vpn-revoke.com
 vpunxrf00.urest.org
