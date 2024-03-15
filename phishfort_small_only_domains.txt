@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 04:02:37 UTC 2024
-# Number of Entries: 8021
+# Fetch date: Fri Mar 15 05:02:12 UTC 2024
+# Number of Entries: 8026
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -539,6 +539,7 @@ app-1inch.pages.dev
 app-ait.pages.dev
 app-altlayer.io
 app-amulet-amuverse.pages.dev
+app-angle.money
 app-apyether.org
 app-axeinifnity.com
 app-balancer.pages.dev
@@ -3968,6 +3969,7 @@ memeland-verify.web.app
 memelandcoin.vercel.app
 memelandeth.com
 memes-kombats.web.app
+memeskombats.online
 memeuk.life
 memevibz.com
 memzcn-club.com
@@ -4867,6 +4869,7 @@ pambopandoshi.site
 pan-cake.xyz
 pan-team3.com
 panacakeswap.tech
+panasonic-in.com
 pancackeswap-claim.web.app
 pancackeswap-fiannce.com
 pancackeswap-fniance.com
@@ -5897,10 +5900,12 @@ saksoff5th.love
 saksoff5th.store
 saksoff5thboool.top
 saksoff5thf.com
+saksoff5thkppltpj.com
 saksoff5thnu.com
 saksoff5tho.com
 saksoff5thw.com
 saksoff5thx.com
+saksoff5thyyppl.top
 saksoff5thz.com
 sale-webverse.com
 sale.metazcoin.tech
