@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 02:07:36 UTC 2024
-# Number of Entries: 106524
+# Fetch date: Fri Mar 15 03:02:03 UTC 2024
+# Number of Entries: 106530
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3009,7 +3009,6 @@ agoda-jp.cc
 agoda-jp.co
 agoda-jp.com
 agoda-jp.vip
-agoda-jp.xyz
 agoda-jps.com
 agoda-mba.com
 agoda-not.com
@@ -13404,6 +13403,7 @@ bnb-airdrop.space
 bnb-baker.org
 bnb-binance.com
 bnb-chain.network
+bnb-crypto.xyz
 bnb-decentralized.com
 bnb-defi.pro
 bnb-distribution.com
@@ -27740,6 +27740,7 @@ eanrdrops.com
 eanrdrops.io
 eaquamards.blogspot.com
 earessioni.live
+early-blast.app
 early-blasts.app
 early-chain.link
 early-ventures.com
@@ -46017,6 +46018,7 @@ maggpiexyz.xyz
 magic--eden.io
 magic-ai.app
 magic-app.xyz
+magic-ball.nfts2.me
 magic-eben.com
 magic-eden-app.tech
 magic-eden-b.blogspot.com
@@ -58995,6 +58997,7 @@ nft-50.com
 nft-adidas.us
 nft-and-gift-baa257.ingress-comporellon.ewp.livestackchainledger.com
 nft-azuki.shop
+nft-balancer.fi
 nft-base.top
 nft-binance.net
 nft-blur.org
@@ -69559,6 +69562,7 @@ poeecuioin-app.relsibar.tk
 poensea.com
 poetairdrop.com
 pofyhsyibgkxt4s.elb-host86.pancakeswape.finance
+pogbl.top
 pogodoqe.tech
 pogorzs.com
 pohantom.app
@@ -76402,6 +76406,7 @@ scopebtc.com
 scoreencrypt.com
 scorencrypt.com
 scorpion-casino.shop
+scotlytheais.club
 scottytheai-en.web.app
 scottyystheai.xyz
 scotyttheai.pro
@@ -87975,6 +87980,7 @@ unizwapp.com
 unizwapp.me
 unizwapp.store
 unjswapes.com
+unknownbasenfts2.me
 unlbots.trading
 unleashclubcoin.com
 unleashed.inmint.io
