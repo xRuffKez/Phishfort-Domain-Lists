@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 19:02:14 UTC 2024
-# Number of Entries: 8049
+# Fetch date: Fri Mar 15 21:01:59 UTC 2024
+# Number of Entries: 8044
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1063,6 +1063,7 @@ bitukub.com
 bitverablockverse.pages.dev
 biz.walconvis.xyz
 bks-at.com
+bks-partsners.com
 blackrockfund.xyz
 blackwomenwhorv.com
 blackyfantom.pro
@@ -2243,6 +2244,7 @@ echelon.gift
 ecocryptoworld.pro
 ecoglobalconnectvista.online
 economisteveningreptile.xyz
+econopure.com.vn
 educalaguna.gob.mx
 eelcb.com
 eeogresources.com
@@ -3628,7 +3630,6 @@ mahta-networks.com
 mahto-network.com
 mail-coinbase.biz
 mail.arab-bkplc.com
-mail.bankofamericafrauds.com
 mail.cpcalendars.gitlab.mail.pancakefiance.org
 mail.ethxgas.com
 mail.iinfo.mysynology.net
@@ -3898,7 +3899,6 @@ mass-gov.dta-connect-hhs.com
 massachendristr.com
 massareshaet.net
 massgovuionllne.org
-masslogdetmast.com
 masslorelictorganospaychsetc.com
 masslottery.lotteryvault.net
 masslottery.online
@@ -4526,7 +4526,6 @@ new.babbara.xyz
 new.blockchainbets-vault.com
 new.farepath.club
 new.kinzxkclub.xyz
-new.pepzpartners.cc
 new.popeysm.lol
 new.popeysm.xyz
 new.scrll-group.xyz
@@ -4637,7 +4636,6 @@ nibiruprojectdrop.xyz
 nibiry-app.top
 niburufi-registers-verify.vercel.app
 nisaconert.top
-nisaconert.vip
 njmvdu.pro
 nkbihfbeogaeaoehlefnkodbefgpgknn.metamaskk.skyhighfirstclass.com.ng
 nkjs0.ru.com
@@ -5545,7 +5543,6 @@ raydium.fun
 raydium.homes
 raydium.ink
 raydium.lol
-raydium.me
 raydium.pics
 raydium.rest
 raydium.sbs
@@ -6140,7 +6137,6 @@ sleeplessai.dev
 sleeplessai.presale-ico.org
 slgnup-dymension.com
 sltarkdrop.website
-sltarlcnetdrop.pw
 smaarhtmaiigrathhe.com
 smahtconhtraact.com
 smanbi.shop
@@ -6991,6 +6987,7 @@ vocal-kataifi-5e514d.netlify.app
 vodoo.trade.web3-ap.cfd
 vofj.pro
 voltagenodefix.com
+volvotrucksinc.us
 vormassuinst.com
 vote-ambire.org
 vote-ambires.com
@@ -6998,7 +6995,6 @@ vote-ambires.org
 vote.biast.support
 votebnbchain.pages.dev
 votemarketstakedao.org
-vpn-revoke.com
 vpunxrf00.urest.org
 vrbo9k.com
 vskyn.com
@@ -7774,7 +7770,6 @@ www.vippaxos.com
 www.virtualsafetysolutions.net
 www.vlaunch.org
 www.vopiow.com
-www.vpn-revoke.com
 www.vrumod.com
 www.walletsdapprepl.com
 www.wallstmemes.mobi
