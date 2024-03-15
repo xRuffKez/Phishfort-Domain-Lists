@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 03:02:11 UTC 2024
-# Number of Entries: 8014
+# Fetch date: Fri Mar 15 04:02:37 UTC 2024
+# Number of Entries: 8021
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -549,6 +549,7 @@ app-bsquared.network
 app-bungeeee.exchange
 app-cadinu.xyz
 app-eclipse.xyz
+app-eignenlayer.xyz
 app-ethena.xyz
 app-ether-fi.pages.dev
 app-fredenergy.pages.dev
@@ -1398,6 +1399,7 @@ clailmreward.xyz
 claim-1inch.org
 claim-argent.xyz
 claim-artlayers.vercel.app
+claim-binance.net
 claim-blast-io.com
 claim-blastgg.xlaunch-pad.xyz
 claim-block.com
@@ -1471,6 +1473,7 @@ claim.ifizgroup.xyz
 claim.layerzero-foundation.pro
 claim.layerzero-free.live
 claim.layerzero-tokens.online
+claim.memeskombats.online
 claim.memetrumpmaga.com
 claim.memskombat.site
 claim.metacadeco.live
@@ -1769,6 +1772,8 @@ cryptos-rnantas.com
 cryptosaylor.net
 cryptotech.pages.dev
 cryptoundeeds.com
+cryptovipweb30.com
+cryptovipweb30.top
 cryptowrapped.cc
 crystalfiles.ru
 cs2-blast.com
@@ -2800,6 +2805,7 @@ goodj.top
 goodsdao.web.app
 gorilladefi-io.web.app
 gotravel-united.com
+gq26v.pro
 grab-farcanacom.pages.dev
 grab-zetachain.com
 grandomaster.com
@@ -6792,6 +6798,7 @@ uniswapv4-pool-waitlist.web.app
 united-healthcare-services.com
 unitedairlinedeliveryagency.com
 unitedairlines-vn.com
+unitycryptotrading.com
 unknownbasenfts2.me
 unlbots.trading
 unllswap.org
