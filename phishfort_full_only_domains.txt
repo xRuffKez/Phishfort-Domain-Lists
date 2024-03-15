@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 03:02:03 UTC 2024
-# Number of Entries: 106530
+# Fetch date: Fri Mar 15 04:02:01 UTC 2024
+# Number of Entries: 106537
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -5544,6 +5544,7 @@ app-eckotera.live
 app-eckotiera.live
 app-eckotierra.pro
 app-eclipse.xyz
+app-eignenlayer.xyz
 app-ekateieira.pro
 app-ekoatira.pro
 app-ethena.xyz
@@ -16635,6 +16636,7 @@ claim-bigeyescoin.pages.dev
 claim-bigseyes.space
 claim-binance-pepe.info
 claim-binance.com
+claim-binance.net
 claim-bitgert.net
 claim-blast-io.com
 claim-blast.net
@@ -17090,6 +17092,7 @@ claim.lidonetwork.app
 claim.linea-build.net
 claim.llens.xyz
 claim.manatoken.net
+claim.memeskombats.online
 claim.memetrumpmaga.com
 claim.memskombat.site
 claim.metacadeco.live
@@ -21889,6 +21892,8 @@ cryptousd.host
 cryptovalidator.live
 cryptovalidator.org
 cryptoverse-token.sale
+cryptovipweb30.com
+cryptovipweb30.top
 cryptovitalik.s3-us-west-1.amazonaws.com
 cryptovoxels-free.xyz
 cryptowaifusnft.io
@@ -36861,6 +36866,7 @@ gptcoinai.co
 gptcoinai.com
 gptcrypto.net
 gq.poocooin.me
+gq26v.pro
 grab-btc.com
 grab-eth.com
 grab-farcanacom.pages.dev
@@ -87929,6 +87935,7 @@ unitsgen.buzz
 unitsup.cloud
 unitswap.finance
 unitwap.walettscon.cloud
+unitycryptotrading.com
 unitydrops.top
 uniunic.com
 uniunic.org
