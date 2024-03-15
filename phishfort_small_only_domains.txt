@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 01:22:55 UTC 2024
-# Number of Entries: 8006
+# Fetch date: Fri Mar 15 02:08:04 UTC 2024
+# Number of Entries: 8010
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -43,7 +43,6 @@
 1inch.fi
 1inch.fyi
 1inch.magicksquare.com
-1inch.mom
 1inch.space
 1inch.web3connect.mom
 1inchcode.newfinancialmarketworld.com
@@ -2271,7 +2270,6 @@ emirates.airfareuk.co.uk
 emirates.flightse.co
 emiratesairlines.info
 emiratesgroup.online
-emiratesgroupae.com
 emiratesholiday.net
 emiratesvacationspackages.com
 emiretes-airline.online
@@ -4896,6 +4894,7 @@ pancakesswap.finance
 pancakesswap.info
 pancakesswap.io
 pancakesswap.pages.dev
+pancakesswap.xyz
 pancakesvap-app.github.io
 pancakesvap.finance.us.org
 pancakesvop.com
@@ -5683,6 +5682,7 @@ reviewdocnow.com
 revioke.xyz
 revise.cash
 revok.info
+revok.online
 revok.site
 revokcashq.com
 revokcashue.com
@@ -6523,6 +6523,7 @@ tethermetamask.com
 tetherusdt.shop
 tgl-me.ru
 thdefiant.co.com
+the-ethereum-trader-app.net
 the-lido.info
 the-one-staking.cc
 the-one-staking.com
@@ -6776,6 +6777,7 @@ uniswap-uniswap.net
 uniswap-v2.info
 uniswap-v3-uniswap.com
 uniswap-v3.app
+uniswap.op-com0516.xyz
 uniswap.web3-x.org
 uniswaps-revoke.cash
 uniswapv-3.github.io
@@ -6972,6 +6974,7 @@ vskyn.com
 vulcanforged-claim.com
 vult.codefinesse.com
 vvebexx.co
+vww-1inch.com
 vwxq9vk.pro
 vy.starrcooporate.com
 vystarcu.nah516.com
@@ -7895,6 +7898,7 @@ yu9.us
 yuvrajproductions.com
 z9a5rlx4jj.whosaginay.tech
 zanshin.ro
+zapper-frontend-next-6zj2ju3qm-zapper-fi.vercel.app
 zapper-frontend-next-h5ht7yy42-zapper-fi.vercel.app
 zapper-frontend-next-ikph34jsv-zapper-fi.vercel.app
 zappersolutiondapp.com
