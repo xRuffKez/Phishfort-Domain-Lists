@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 17:01:40 UTC 2024
-# Number of Entries: 106595
+# Fetch date: Fri Mar 15 18:02:03 UTC 2024
+# Number of Entries: 106599
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17749,6 +17749,7 @@ cmppsexkhzuvcbkrdytbef6x8faprsbpoporxwukwkko.hssh.online
 cms.pancakeswape.finance
 cms.pancokeswap.com
 cmt.erpeth.cc
+cmtzconstructionllc.com
 cn-metamask.cc
 cn-metamask.in
 cn-metamask.io
@@ -68029,6 +68030,7 @@ paygemini.blogspot.com
 paygiveaway.com
 paylccity.com
 paylink.fun.augusttarget.online
+paylocily.com
 paylocity-login.com
 paylocity-sso.com
 paylocity.click
@@ -68500,6 +68502,7 @@ pepswap.network
 peptok.site
 pepunks.app
 pepz-group.lol
+per-empower.com
 peralesam.online
 perceptiveorbsyscaga.pages.dev
 perdashboard.online
@@ -100356,6 +100359,7 @@ www.pancakeswap.walletsconnectadmin.net
 www.pancakeswap.works
 www.pancakeswapable.com
 www.pancakeswapair.finance
+www.pancakeswapairdrop.com
 www.pancakeswapandroidapp.com
 www.pancakeswapapp.com
 www.pancakeswapclaims.com
