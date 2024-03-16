@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 16 05:02:27 UTC 2024
-# Number of Entries: 8088
+# Fetch date: Sat Mar 16 06:02:22 UTC 2024
+# Number of Entries: 8087
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1052,6 +1052,7 @@ bitilandos.com
 bitinaut.top
 bitinteractivebrokers.org
 bitkub-airdrop.com
+bitkub.fafa855casino.com
 bitkubb.lockchain.net
 bitkubbloc.kchain.net
 bitkubblockch.ain.net
@@ -6718,7 +6719,6 @@ tracking.give5-airtm.com
 tracomservices.com
 tradedao-mig.click
 tradeogre-web.site
-traderjoaxyz.com
 traderjoe.events
 traderjoeixyz.com
 traderjoexyz.com.de
@@ -7779,6 +7779,7 @@ www.staging.chat.login.fixedfloat.pw
 www.staging.home.hostmaster.coingecko.hatsuqat.com
 www.staging2.optumspecialtyin.com
 www.stakeyearn.fi
+www.staking-eigenpie-magpiexyz.77clube.com
 www.stakingritestream.io
 www.swap-blast.finance
 www.swap-omax.pro
@@ -7791,7 +7792,6 @@ www.tiktok8.bond
 www.tiktokmall-th.com
 www.toshithecat.org
 www.tpadv2.dev
-www.traderjoaxyz.com
 www.traderjoexyz.com.de
 www.travellucky.cc
 www.trustwalletdefi.icu
@@ -7897,7 +7897,6 @@ xn--fixedfoad-vub.com
 xn--fixedfoat-0pb.com
 xn--fixedfoat-vub.net
 xn--fixedfoat-vub.org
-xn--fixefloat-8fb.net
 xn--fixelfloat-ckb.com
 xn--flixefloat-dkb.com
 xn--flxedfloat-78a.com
