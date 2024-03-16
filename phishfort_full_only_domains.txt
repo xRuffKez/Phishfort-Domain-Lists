@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 16 01:20:54 UTC 2024
-# Number of Entries: 106634
+# Fetch date: Sat Mar 16 02:06:33 UTC 2024
+# Number of Entries: 106650
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1498,6 +1498,7 @@
 7vvvwwmetams.top
 7wvwvvuniswap.top
 7x7gx.pro
+7xfwglj.cc
 8-collab-land.pro.1-collab-land.pro
 811c6338.aa7a82058237000860386781.workers.dev
 8452783472364-profile-update-unitedairlinesemployee.pages.dev
@@ -3215,6 +3216,7 @@ aidrop.gg
 aidropopensea.com
 aidrops.gg
 aidsupport.rf.gd
+aiearni.com
 aifetch.xyz
 aigenius.tech
 aigentx.gift
@@ -7220,6 +7222,7 @@ arbitrum-airdrop.netlify.app
 arbitrum-airdrop.org
 arbitrum-airdrop.site
 arbitrum-airdrop.top
+arbitrum-airdrop2023.com
 arbitrum-airdrops.com
 arbitrum-bonus.com
 arbitrum-bridge.icu
@@ -14900,6 +14903,7 @@ bunnybuddy.co
 bunnygirl-promogive.com
 bunscake-promogive.com
 buntant.site
+bups.pro
 buradanaksen.site
 buradankazan.site
 buradanyuksel.club
@@ -15574,6 +15578,7 @@ cdnsfiles.com
 cdtiun.com
 cdzhjzx.com
 ce.crypto-eth.site
+ce1s1us.network
 cealtis.co
 cealtis.fail
 cealtis.money
@@ -15587,6 +15592,7 @@ cegeka.sol30.nl
 cei0x69af81e73a73b40adf4f3d4223cd9b1ece623074.website
 ceiatis.com
 ceie.guangdongidc.net
+ceislus.network
 cek-bitly3.xyz
 cek-infobitly2.xyz
 cektopt.site
@@ -15672,6 +15678,7 @@ celoswap.space
 celowalet.com
 celowalet.net
 celowallet.finance
+cels1us.network
 celsa-holdings.com
 celsestia.com
 celsius-ico.network
@@ -32215,6 +32222,7 @@ ezdeficoin.com
 ezeedemo.com
 ezekcllub.xyz
 ezekclub.net
+ezkalibur.com.web3-connect.pw
 ezoterka.com
 ezu-nft.com
 ezu-nft.xyz
@@ -32226,6 +32234,7 @@ f-galagames-apps-s.blogspot.com
 f.61688.biz
 f.pancakesvqp.finance
 f.pancakesvvqp.finance
+f0d0fc.cc
 f0fozvn18.ukit.me
 f0undation.app
 f0urseas0ns.com
@@ -39614,6 +39623,7 @@ insigniaswap.finance
 inslde.com
 inslogprotocol.com
 inspace-token.network
+inspect-crypto.web.app
 inspireaj.com
 instadapp.app
 instadapp.lol
@@ -46292,6 +46302,7 @@ mahto-network.com
 mai.claims
 maiarwebwallets.com
 maidenmax.com
+mail-celsius.network
 mail-coinbase.biz
 mail-metamask.com
 mail-opensea.com
@@ -62525,6 +62536,7 @@ p.paxfulvp.com
 p.polygonstakings.site
 p.rockeycouriers.com
 p00c0ins.atspace.co.uk
+p00lsguard.xyz
 p0lkadot.network
 p0lygon.com.acesso-longs.cf
 p0nd0x.com
@@ -68291,6 +68303,7 @@ pepe-giveaway.com
 pepe-kid.fun
 pepe-launch.top
 pepe-memecoins.com
+pepe-now.network
 pepe-receive.pw
 pepe-rewards.net
 pepe-rewards.pro
@@ -70282,6 +70295,7 @@ polroniex.com
 pols-airdrop.com
 polsyrgon.pw
 poltender.za.com
+polupokespics.rosamonddunlop665.workers.dev
 poluygon.pw
 polvgonwallet.com
 polwygon.com
@@ -73199,6 +73213,7 @@ raydium.icu
 raydium.in
 raydium.ink
 raydium.li
+raydium.lo.web3-connect.pw
 raydium.lol
 raydium.me
 raydium.mobi
@@ -97761,6 +97776,7 @@ www.deribitproi.com
 www.details-paxful.com
 www.detma.top
 www.dev-avigate.restore-vault.my.id
+www.dex-bitconnect.lol
 www.dexap-bogged.shop
 www.dexguru-page.click
 www.dexi-guru-news.fun
