@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 16 14:01:32 UTC 2024
+# Fetch date: Sat Mar 16 15:01:36 UTC 2024
 # Number of Entries: 106655
 # Expires: 1 hour
 0-metemask.com
@@ -29093,7 +29093,6 @@ eos.ac
 eos.web3fast.net
 eosauthorithy.com
 eosauthorithy.info
-eosauthority-accountpolicy.omastral.org
 eosauthority-kyc.com
 eosauthority.bitballoon.com
 eosauthority.com.globatalent.network
@@ -42990,7 +42989,6 @@ ledger.live-downloads.com
 ledger.live-secure.app
 ledger.live-starts.com
 ledger.ltda
-ledger.media
 ledger.org.pl
 ledger.quilodge.com
 ledger.report
@@ -72917,6 +72915,7 @@ rajapack-systems.de
 rajkicks.com
 rajt.store
 rakbank-login.1inchsamplestrip.com
+raksfifthavenue.com
 rakuten-analysis.com
 rakuten-assign.com
 rakuten-senna.com
@@ -84143,6 +84142,7 @@ theelon.org
 theelonx.org
 theemiraetesgroup.com
 theemirategroup.com
+theemirategroups.com
 theemiratesgroupae.com
 theemiratesgroups.com
 theemiratesgroupuae.com
