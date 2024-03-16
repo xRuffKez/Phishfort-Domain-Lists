@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 16 18:02:02 UTC 2024
-# Number of Entries: 106657
+# Fetch date: Sat Mar 16 19:01:29 UTC 2024
+# Number of Entries: 106659
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3119,6 +3119,7 @@ agodawealth.com
 agodawork.com
 agodaworkbench.com
 agodaycs.com
+agodaycs.org
 agodscore2023.top
 agregator.ml
 agriculturea.com
@@ -37384,6 +37385,7 @@ healerwallet.com
 healinghippies.xyz
 healthcheck.com
 healthequity.comy.sa.com
+healthequity.za.com
 healthnews18.com
 healthsafeid-optum.com
 healthylifestyleforever.com
@@ -84059,6 +84061,7 @@ thebakery.cc
 thebankcbk.online
 thebastards.nft-premint.com
 thebaycompany-ca.com
+thebaysc.com
 thebestnft.gq
 thebey-ca.claimy.club
 thebey-ca.offerfun.club
@@ -87185,7 +87188,6 @@ uninswaps.pro
 uniocean.org
 unionfinance.org
 unioninvestmentsfx.com
-unioverse.premint-wl.pro
 unipad.top
 unipass.gift
 unipilot-promogive.com
