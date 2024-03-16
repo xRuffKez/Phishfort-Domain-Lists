@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 16 01:21:26 UTC 2024
-# Number of Entries: 8075
+# Fetch date: Sat Mar 16 02:06:53 UTC 2024
+# Number of Entries: 8089
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -113,6 +113,7 @@
 7ihg.cc
 7kdgw.pro
 7x7gx.pro
+7xfwglj.cc
 8866651.za.com
 8lab-d254.earherbat.workers.dev
 912091730.pages.dev
@@ -235,6 +236,7 @@ aibaoinsurance.com
 aicoinex-amm.com
 aidexw.com
 aidogedrop.org
+aiearni.com
 aigentx.gift
 aione-lab.pro
 aipadmainnet.network
@@ -744,6 +746,7 @@ arbination.site
 arbinucoin.vercel.app
 arbitrrum-bridge.com
 arbitrum-air.icu
+arbitrum-airdrop2023.com
 arbitrum-reward.xyz
 arbitrum-submit.com
 arbitrum-survey.co
@@ -788,7 +791,6 @@ arraklls.flnance.web3-ap.cfd
 art-blocks.site
 art-ross.io
 artblocks-official.com
-artblocks.cx
 artegiron.co
 artsblock.xyz
 artyfactgame.vercel.app
@@ -1247,6 +1249,7 @@ bullsandbearsstore.com
 bullsandblock.com
 bullsync.pages.dev
 bungeeswap.exchange
+bups.pro
 burakalpaslan.cc
 burnedfii.com
 burnmua.build
@@ -1325,7 +1328,9 @@ cdek.avito.avito.avito.pancakeswap.reid4deeds.com
 cdn.cdn.secure.pancakefiance.org
 cdn1conectionspoint2point12mayresultinotthefolw.pixelmon.tech
 cdzhjzx.com
+ce1s1us.network
 cealtis.fail
+ceislus.network
 celastise.net
 celatis.digital
 celebrators.pk
@@ -1337,6 +1342,7 @@ cellframenetwork.com
 cellnextelecomservice.com
 cellnextelecomservice.in
 celowallet.finance
+cels1us.network
 celtise.fi
 centerjobless.online
 centralpoultryprocessingscoltd.com
@@ -2453,6 +2459,8 @@ extension.chrome.uniswapwallet.live
 extserum.site
 exxon-limited.lol
 ezcalibur.com
+ezkalibur.com.web3-connect.pw
+f0d0fc.cc
 f47jx6.pro
 f89badf5.7acd740c665c9b25ec20d877.workers.dev
 f930fi.info
@@ -3042,6 +3050,7 @@ injektive.mom
 inkonbtc.app
 inmsgdetorg.in
 inspace-token.network
+inspect-crypto.web.app
 inspireaj.com
 instadapp.app
 instant-bravet.info
@@ -3638,6 +3647,7 @@ magppiexyz.com
 mahta-hetworks.com
 mahta-networks.com
 mahto-network.com
+mail-celsius.network
 mail-coinbase.biz
 mail.arab-bkplc.com
 mail.cpcalendars.gitlab.mail.pancakefiance.org
@@ -4063,7 +4073,6 @@ metamask-extensions.pages.dev
 metamask-fix.pages.dev
 metamask-fixweb.pages.dev
 metamask-kyc.com
-metamask-login.com
 metamask-mask.com
 metamask-mining.com
 metamask-polygon-airdrop.digital
@@ -4858,6 +4867,7 @@ outildecisionregimederetraitesunchemical.ca
 ownrwallet.online
 oxleverage.xyz
 ozon-giv.officialpage2024.shop
+p00lsguard.xyz
 p1290.trustsamco.online
 paalai-beta.app
 paalai.airdrop.cfd
@@ -5144,6 +5154,7 @@ penguinrandomhouseglobal.com
 penguinrandomhouseofficial.com
 penguinrandomhouseworldwide.com
 pepe-awards.com
+pepe-now.network
 pepe-team.com
 pepe-v2.link
 pepe2.click
@@ -5268,6 +5279,7 @@ poligonka-steking.top
 polkabridge-network.org
 polkadex.online
 poloniex-assets.com
+polupokespics.rosamonddunlop665.workers.dev
 poncakeswap.finance
 pond0x.trading
 pond0xtreasury.com
@@ -5558,6 +5570,7 @@ raydium.dev
 raydium.fun
 raydium.homes
 raydium.ink
+raydium.lo.web3-connect.pw
 raydium.lol
 raydium.pics
 raydium.rest
@@ -7479,6 +7492,7 @@ www.debenhams-ae.com
 www.decentralize-metis.com
 www.decntralnd.one
 www.deelancewin.com
+www.dex-bitconnect.lol
 www.dianwifi.cc
 www.drop.box-cdn.com
 www.dropmanta.com
