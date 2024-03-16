@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 16 03:01:39 UTC 2024
-# Number of Entries: 106652
+# Fetch date: Sat Mar 16 04:01:54 UTC 2024
+# Number of Entries: 106654
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -67695,6 +67695,7 @@ paxful.gamesbazar24.com
 paxful.gq
 paxful.hopto.org
 paxful.ink
+paxful.instenpay.com
 paxful.int.tt
 paxful.ke
 paxful.legal
@@ -100555,6 +100556,7 @@ www.paxful.com.yhtf.xyz
 www.paxful.cryptomecca.com
 www.paxful.epayment.trade
 www.paxful.fund
+www.paxful.instenpay.com
 www.paxful.legal
 www.paxful.payment.legal
 www.paxful.plus
