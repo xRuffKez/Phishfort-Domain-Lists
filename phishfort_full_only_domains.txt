@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 16 05:01:31 UTC 2024
-# Number of Entries: 106654
+# Fetch date: Sat Mar 16 06:01:46 UTC 2024
+# Number of Entries: 106656
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -12222,6 +12222,7 @@ bitkub.club
 bitkub.cyou
 bitkub.digitalhub.co.th
 bitkub.dotbitcoin.com
+bitkub.fafa855casino.com
 bitkub.fdxs.one
 bitkub.ga
 bitkub.homes
@@ -101837,6 +101838,7 @@ www.stakevenus.com
 www.stakeyearn.fi
 www.staking-bififinance.com
 www.staking-daomaker.website
+www.staking-eigenpie-magpiexyz.77clube.com
 www.staking-hex.net
 www.staking-lido.net
 www.staking-mummyfinance.com
