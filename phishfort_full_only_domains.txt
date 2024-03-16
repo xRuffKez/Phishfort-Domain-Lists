@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 16 00:04:46 UTC 2024
-# Number of Entries: 106619
+# Fetch date: Sat Mar 16 01:20:54 UTC 2024
+# Number of Entries: 106634
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6164,7 +6164,9 @@ app.ens-domainrs.net
 app.eth2stake.org
 app.ethactivity.net
 app.ethastake.com
+app.etheir.fi
 app.etherealstake.com
+app.etherfi.us
 app.ethgas-refund.com
 app.evmosswap.com
 app.exodus.com.alexandertechnique-montreal.com
@@ -21910,6 +21912,7 @@ cryptovalidator.org
 cryptoverse-token.sale
 cryptovipweb30.com
 cryptovipweb30.top
+cryptovipweb30.vip
 cryptovitalik.s3-us-west-1.amazonaws.com
 cryptovoxels-free.xyz
 cryptowaifusnft.io
@@ -27780,6 +27783,7 @@ earn-airdrops.org
 earn-analos.netlify.app
 earn-ankr.com
 earn-babylonchain.fund
+earn-babylonchain.net
 earn-babylonchaln.app
 earn-binance.com
 earn-crypto-trustapp.online
@@ -53683,6 +53687,7 @@ multchain.cn.com
 multchain.net
 multchain.online
 multchainvalidator.com
+multgates.com
 multi-activenode.online
 multi-app-dapp.com
 multi-assetwallet.com
@@ -62486,6 +62491,7 @@ owls-wtf.art
 owlsnft-mint.com
 ownerdao.web.app
 owners-verify.com
+ownrwallet.online
 ox737295377329953nnf9932msa99932.com
 oxbent.site
 oxford-porcelanas.blogspot.com
@@ -76372,6 +76378,7 @@ saveshields.com
 savetoken.org
 saveukr.org
 savkini.shop
+savm-app.net
 savmtoken.net
 savvy-payments.com
 sawfnd.top
@@ -76471,6 +76478,7 @@ scopebtc.com
 scoreencrypt.com
 scorencrypt.com
 scorpion-casino.shop
+scotltytheai.xyz
 scotlytheais.club
 scottytheai-en.web.app
 scottyystheai.xyz
@@ -77574,6 +77582,7 @@ shiba-3.web.app
 shiba-acessoo.blogspot.com
 shiba-acessooo.blogspot.com
 shiba-airdrop.top
+shiba-bet.com
 shiba-bone.com
 shiba-claims.com
 shiba-claims.net
@@ -82646,6 +82655,7 @@ synchronizedcollab.com
 synchronizeddigitalcoin.net
 synchronizedefi.com
 synchronizernode.org
+synchronizerpanel.com
 synchronizerzone.com
 synchronizeserv.com
 synchronizetrustwallet.com
@@ -84435,6 +84445,7 @@ thisjwus.cf
 thisportail-meta.com
 thomasp851-free.xyz
 thomasp853-free.xyz
+thor-fi.io
 thoracic-tungsten-cereal.glitch.me
 thorchain-app.com
 thorchain-org.com
@@ -90032,6 +90043,7 @@ vmetamask.com
 vmfla7a.pro
 vmr-gala-app-games.blogspot.com
 vmsatoshi.io
+vncrypto.cc
 vnmod.net
 vnxymiigrattiiontechliveweb.homes
 vocal-kataifi-5e514d.netlify.app
@@ -93492,6 +93504,7 @@ wcencrypt.online
 wchainmins.com
 wcinc.online
 wcj0esig.pnjz.ru
+wclaiming.net
 wclive.dapswaps.site
 wclivedapafix.com
 wcmlvegraph.com
@@ -95107,6 +95120,7 @@ worldwide.lpnfts.com
 worldwideofficial.xyz
 wormant.com
 wormhole-airdrop.store
+wormhole-dev.netlify.app
 wormhole-drops.live
 wormhole.cx
 wormhole.money
@@ -99043,6 +99057,7 @@ www.lslgj.com
 www.ltdo-fl.com
 www.luasrap.tech
 www.luckybblock.com
+www.luckywin.x10.bz
 www.luxorvip.cc
 www.lwibqbx-cgp-4.tk
 www.lx810.com
