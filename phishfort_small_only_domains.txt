@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 23:02:03 UTC 2024
-# Number of Entries: 8059
+# Fetch date: Sat Mar 16 00:06:53 UTC 2024
+# Number of Entries: 8063
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -112,6 +112,7 @@
 6ueir.cc
 70356134-1e65-4f60-94ee-18e6fc220ac1-00-qed3v4c7t0e6.spock.replit.dev
 7ihg.cc
+7kdgw.pro
 7x7gx.pro
 8866651.za.com
 8lab-d254.earherbat.workers.dev
@@ -3080,6 +3081,7 @@ invite-sui.com
 invoice-407etr.com
 invoices-407etr.com
 io-dex.tools
+io-net.pages.dev
 io-ultra-net.vercel.app
 io.velodromefinance.network
 iotmodysbln.com
@@ -3576,6 +3578,7 @@ lsd-mainnet-address-spoofing.netlify.app
 lst-eigenlayer.xyz
 lunc.space
 luxury-dusk-92886b.netlify.app
+luxurybooms.com
 lv.zgroupmint.com
 lwve.top
 lxp-linea.build
@@ -5931,6 +5934,7 @@ saksoff5thw.com
 saksoff5thx.com
 saksoff5thyyppl.top
 saksoff5thz.com
+sakssaks.com
 sale-webverse.com
 sale.metazcoin.tech
 sale.metcoinpublic.xyz
@@ -5946,7 +5950,6 @@ samuraiaward.info
 san-swap.com
 sanabilprint.com
 sand-bakery.org
-sandraallain.com
 sanswap.com
 saqa-cases.app
 saqaboxes.trade
@@ -6192,6 +6195,7 @@ smmsiteusa.com
 smogsolana.com
 smogtokens.vip
 smogtokens.xyz
+smogxtoken.com
 smoogtoken.shop
 smuhg.cc
 snap-dioneprotocol.com
@@ -7025,6 +7029,7 @@ w.optimalsmart-sync.buzz
 w.smartprotocol-pad.online
 w.swiftdappchain.net
 w1117.usdt6188.top
+w40y.pro
 w5fowfv5tj.tobamicama.tech
 wabanetworks.com
 wagmi-ethereum.com
@@ -7850,7 +7855,6 @@ xmas-analos.org
 xmas-bonk.com
 xmas-monkedao.com
 xmas.claims
-xmxx.btcethl.vip
 xn--1nch-vpa.io
 xn--1nh-3la2a.com
 xn--arbtrum-tfb.com
