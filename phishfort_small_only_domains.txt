@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 16 14:02:05 UTC 2024
-# Number of Entries: 8081
+# Fetch date: Sat Mar 16 15:02:15 UTC 2024
+# Number of Entries: 8082
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3285,7 +3285,6 @@ kelpdeo.xyz
 keplrsync.web.app
 keungz.space
 keyst-one.com
-kfusl.com
 kgatn.pro
 kier-careers.co.uk
 kimimart.com
@@ -5535,6 +5534,7 @@ raffleopnsea.com
 raffleusdc.com
 rainbow.mt-gox.site
 rainbow.trading
+raksfifthavenue.com
 ranbuny.com.au
 randomecoin-ads.eu
 randomecoins.com
@@ -6593,6 +6593,7 @@ thebaycompany-ca.com
 theblueskytrading.com
 thecouragedoog.live
 theemiraetesgroup.com
+theemirategroups.com
 theemiratesgroupae.com
 theemiratesgroupuae.com
 theemiriatesgroupae.com
