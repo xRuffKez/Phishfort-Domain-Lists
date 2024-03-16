@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 16 09:02:03 UTC 2024
-# Number of Entries: 8087
+# Fetch date: Sat Mar 16 10:02:05 UTC 2024
+# Number of Entries: 8081
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1146,7 +1146,6 @@ blurioo.github.io
 blurnftgroup.com
 blurprotocol.us
 blust.io
-blz-group.com
 bnb-crypto.xyz
 bnbair.org
 bnbchain.coinsdraw.io
@@ -2503,7 +2502,6 @@ fffcu.de
 fi-woo-org.vercel.app
 fibersync.pages.dev
 fidelityadvancedsaving.com
-fiercecoalition.top
 figure-distribution.com
 fillold.mypsx.net
 finance-decrypt.com
@@ -4972,7 +4970,6 @@ pancakeswapairdrop-event.finance
 pancakeswapairdrop.com
 pancakeswapairdropevent.finance
 pancakeswapfinance-gg3.pages.dev
-pancakeswapfinances.pages.dev
 pancakeswaph.github.io
 pancakeswapp.finance
 pancakeswapper.online
@@ -6720,7 +6717,6 @@ tracomservices.com
 tradedao-mig.click
 tradeogre-web.site
 traderjoe.events
-traderjoeixyz.com
 traderjoexyz.com.de
 traderjoeyxz.app
 tradeviewtoken.xyz
@@ -7437,7 +7433,6 @@ www.birdeye.trade
 www.bitoptr.com
 www.bitoptvex.com
 www.bitrockpool.xyz
-www.bittrexx.net
 www.blockchainbets-vault.com
 www.blur.com.ru
 www.bonkinu.co
@@ -7983,7 +7978,6 @@ zenithzest.top
 zens-web3.com
 zerion.claimfree.xyz
 zerionpro.com
-zerionse.top
 zerionsuzki.pages.dev
 zerionu.com
 zero-claim.netlify.app
