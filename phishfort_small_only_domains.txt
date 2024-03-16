@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 16 00:06:53 UTC 2024
-# Number of Entries: 8063
+# Fetch date: Sat Mar 16 01:21:26 UTC 2024
+# Number of Entries: 8075
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -43,7 +43,6 @@
 1inch.fi
 1inch.fyi
 1inch.magicksquare.com
-1inch.space
 1inch.web3connect.mom
 1inchcode.newfinancialmarketworld.com
 1inchcoin.com
@@ -636,6 +635,8 @@ app.claims-richquack.com
 app.cosensys.io
 app.defi-origin.com
 app.earn-swellnetwork.com
+app.etheir.fi
+app.etherfi.us
 app.ethgas-refund.com
 app.farmersonly.fi
 app.financeglobal.trade
@@ -1414,7 +1415,6 @@ claim-blast-io.com
 claim-blastgg.xlaunch-pad.xyz
 claim-block.com
 claim-bob.me
-claim-bonk-h7xzf.netlify.app
 claim-bonk.cfd
 claim-cake.web.app
 claim-chaln.link
@@ -1784,6 +1784,7 @@ cryptotech.pages.dev
 cryptoundeeds.com
 cryptovipweb30.com
 cryptovipweb30.top
+cryptovipweb30.vip
 cryptowrapped.cc
 crystalfiles.ru
 cs2-blast.com
@@ -2209,6 +2210,7 @@ earlyadopterfarmer.com
 earlyadopterhodler.com
 earn-analos.netlify.app
 earn-babylonchain.fund
+earn-babylonchain.net
 earn-babylonchaln.app
 earn-defipool.com
 earn-dmail.com
@@ -4113,10 +4115,8 @@ metamaskclaims.io
 metamaskclaimtoken.com
 metamaskcoin.io
 metamaskcrypto.com
-metamaskdefi.online
 metamaske.com.cn
 metamasked.org
-metamaskexchange.xyz
 metamaskinvest.com
 metamaskit.com
 metamasklabs.cloud
@@ -4342,6 +4342,7 @@ mollytoken.com
 momentsbycandles.com
 monerom.uk
 monerosharpversa.pages.dev
+monerotumbler.io
 moneypak-activate.com
 monkedao.one
 monkesnft.xyz
@@ -4377,6 +4378,7 @@ mtvrs-neotokyo.codes
 muitamask-login.blogspot.com
 mulltibits.sbs
 multchain.net
+multgates.com
 multi-chain-connect.xyz
 multi-factor-authentication.online
 multi-trustpade.site
@@ -4853,6 +4855,7 @@ osmosis-zone.mom
 otcsea.app
 otsea.gift
 outildecisionregimederetraitesunchemical.ca
+ownrwallet.online
 oxleverage.xyz
 ozon-giv.officialpage2024.shop
 p1290.trustsamco.online
@@ -5970,6 +5973,7 @@ satoshivms.network
 satoshivn.io
 satroport.fi
 sautikenya.com
+savm-app.net
 savmtoken.net
 sawfnd.top
 sawox.com
@@ -5984,6 +5988,7 @@ scjdwb.cfd
 sckaniopiorte.top
 sconectsmartplusoficial.store
 scorpion-casino.shop
+scotltytheai.xyz
 scotlytheais.club
 scottytheai-en.web.app
 scottyystheai.xyz
@@ -6059,6 +6064,7 @@ shi-do.x--t.co
 shiabrams.netlify.app
 shib-token.com.babydoge.io
 shiba-3.web.app
+shiba-bet.com
 shiba-tokens.best
 shiba.free-500.top
 shiba2.xyz
@@ -6483,6 +6489,7 @@ syncappauth.pages.dev
 syncapprectify.pages.dev
 syncconnectdapp.xyz
 syncedapps.pages.dev
+synchronizerpanel.com
 synckavva.netlify.app
 syncndeffiz.line.pm
 syncpool.xyz
@@ -6591,6 +6598,7 @@ thetabugs.pages.dev
 thewallstmemes.info
 thisisatest2.com
 thisisatest999.com
+thor-fi.io
 tia-project.com
 tiaderjoexyz.com
 tias-celestia.net
@@ -7000,6 +7008,7 @@ visitlinea.com
 vivintflorida.com
 vmfla7a.pro
 vmsatoshi.io
+vncrypto.cc
 vocal-kataifi-5e514d.netlify.app
 vodoo.trade.web3-ap.cfd
 vofj.pro
@@ -7094,6 +7103,7 @@ washingtonposts.info
 waves-opensea.com
 wbtc-portal.com
 wcj0esig.pnjz.ru
+wclaiming.net
 wdymcrypto-migration.app
 wdymdapp.pages.dev
 wealth365g.vip
@@ -7309,6 +7319,7 @@ worldfruitforest.world
 worldgeowayw.world
 worldtvmobile.com
 wormhole-airdrop.store
+wormhole-dev.netlify.app
 wormhole-drops.live
 wormhole.cx
 wormholeairdrop.fun
@@ -7565,6 +7576,7 @@ www.live-tiktok.shop
 www.login.verificationpaxful.info
 www.lottomaticagamingportal-gamenet.it
 www.loyaltyprogramframe.com
+www.luckywin.x10.bz
 www.m.qna3-app.com
 www.mag-pie.xyz
 www.magpiexyz.click
