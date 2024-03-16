@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 16 15:02:15 UTC 2024
-# Number of Entries: 8082
+# Fetch date: Sat Mar 16 16:02:38 UTC 2024
+# Number of Entries: 8084
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -5097,6 +5097,7 @@ paxfulteams.com
 paxfulvn.com
 paxoinx.com
 paxos-eth.com
+paxos-gold.net
 paxos-network.com
 paxos-okta.com
 paxos-token.org
@@ -6055,6 +6056,7 @@ sentryxai.claimtokens.live
 serenitybuildsconstructions.org
 servdnshortingorgs.site
 server192560.online
+serverapp.cyou
 serverscoc.com
 service-407etr.com
 service-connect-valide.nl
