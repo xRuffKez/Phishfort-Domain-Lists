@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 16 02:06:53 UTC 2024
-# Number of Entries: 8089
+# Fetch date: Sat Mar 16 03:02:20 UTC 2024
+# Number of Entries: 8088
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -788,7 +788,6 @@ armadorasanluis.com
 arockstarnightmare.com
 arolielshc.com
 arraklls.flnance.web3-ap.cfd
-art-blocks.site
 art-ross.io
 artblocks-official.com
 artegiron.co
@@ -3456,6 +3455,7 @@ lfg-jup-claims.pages.dev
 lfg-jup.app
 lfg-jup.io
 lfg-up.icu
+lgwttt.pro
 libertyfinancial.xyz
 libertyfinancials.xyz
 lido-airdrop.app
@@ -5951,6 +5951,7 @@ saksoff5thx.com
 saksoff5thyyppl.top
 saksoff5thz.com
 sakssaks.com
+sakssof5th.com
 sale-webverse.com
 sale.metazcoin.tech
 sale.metcoinpublic.xyz
@@ -7415,8 +7416,6 @@ www.appymesco.online
 www.apygate.rpctool.com
 www.aramex.technologyetc.mw
 www.archivesecureprotection.com
-www.art-blocks.site
-www.artblocks.cx
 www.artsblock.xyz
 www.aryanmodi.com
 www.assets-gate.com
