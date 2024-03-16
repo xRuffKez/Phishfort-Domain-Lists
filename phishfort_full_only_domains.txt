@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 15 23:01:53 UTC 2024
-# Number of Entries: 106618
+# Fetch date: Sat Mar 16 00:04:46 UTC 2024
+# Number of Entries: 106619
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1488,6 +1488,7 @@
 7hdaj8tokvg7i5h.www.septlaravel.pancakeswape.finance
 7hg98g7h8yuh.pages.dev
 7ihg.cc
+7kdgw.pro
 7ksync.net
 7luxnft.with-presales.com
 7pancakeswap-finance.site
@@ -23738,7 +23739,6 @@ dappsinterface.com
 dappsinvest.com
 dappsissuesfixup.com
 dappsissuestech.com
-dappslaunch.com
 dappslauncher.com
 dappslauncher.org
 dappsledger.net
@@ -39988,6 +39988,7 @@ io-metamask.serveirc.com
 io-metamask.sytes.net
 io-metamesk.com
 io-metawallet.com
+io-net.pages.dev
 io-nkbihabeogacaoehlefnkodbffgpgknn.top
 io-opensea.cc
 io-opensea.com
@@ -45870,6 +45871,7 @@ luxi3.xyz
 luxon.web3fast.net
 luxoshi.org
 luxury-dusk-92886b.netlify.app
+luxurybooms.com
 luzios.com
 lv.zgroupmint.com
 lvcidia.live
@@ -52467,7 +52469,6 @@ minnimi.com.ua
 minootv.com
 minswap.azurewebsites.net
 minswap.info
-minswap.space
 mint-6529.io
 mint-adidas.app
 mint-adidas.art
@@ -76154,6 +76155,7 @@ saksoff5thz.com
 saksofff-55th.com
 saksoffs.shop
 saksoffshop.com
+sakssaks.com
 sakuraneko-promogive.com
 sal-mining.tools
 salahart.com
@@ -76262,7 +76264,6 @@ sandiegosleepandtmjcenter.com
 sandorff.netlify.app
 sandoxs-game.o-me.site
 sandoxs.game-a.site
-sandraallain.com
 sandwork.fun
 sanftcollection.xyz
 sanitarymilitancy.top
@@ -78853,6 +78854,7 @@ smmsiteusa.com
 smogsolana.com
 smogtokens.vip
 smogtokens.xyz
+smogxtoken.com
 smokerpepe.fun
 smokeworldtempe.com
 smolverse2-free.xyz
@@ -79942,7 +79944,6 @@ speedycrm.pancakeswap-cryplo.com
 speedycrm.xn--zksnc-iy1b.com
 speedycrm.zksync-claim.io
 speedyfix.netlify.app
-speedyfix.online
 speedyissue-fix.live
 speedylendingtree.com
 sperk.fi
@@ -90499,6 +90500,7 @@ w3swap-fi.com
 w3swap-finance.com
 w3wallte.link
 w3wellte.link
+w40y.pro
 w4imvbgrk9yh.brtmakina.com
 w5fowfv5tj.tobamicama.tech
 w7.com.au
@@ -103219,7 +103221,6 @@ xmr-qr-code-generator.com
 xmr-wallet.com
 xmrqrcode.com
 xmrwallet.top
-xmxx.btcethl.vip
 xn----3u6ew01a8par64awja94zdossvaw18a.com
 xn----itbjab7adkacocegb9etd2c.xn--p1ai
 xn----op1f3n88t21bx74alndeta.net
