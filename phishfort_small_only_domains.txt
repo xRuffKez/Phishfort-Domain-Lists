@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 16 18:02:11 UTC 2024
-# Number of Entries: 8084
+# Fetch date: Sat Mar 16 19:02:01 UTC 2024
+# Number of Entries: 8083
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -225,6 +225,7 @@ agodaonline.com
 agodapay.info
 agodatikethotelcom.masukmobilee.de
 agodaycs.com
+agodaycs.org
 agveah.cc
 ahora-ingres-aca.netlify.app
 ai-decentraldapp.pages.dev
@@ -1163,7 +1164,6 @@ bonelp.com
 boner-get.netlify.app
 bonk-premium.web.app
 bonk-token.xyz
-bonk.claims
 bonk.dropdefi.top
 bonk.stringstool.org
 bonkanniversary.com
@@ -2517,7 +2517,6 @@ fixadfloat.com
 fixbugmigrate.pages.dev
 fixdapps-dip.pages.dev
 fixedfioat.icu
-fixedfloat.ru
 fixedfloat.win
 fixedfłoad.com
 fixedtloat.com
@@ -2882,6 +2881,7 @@ hca-healthcare.com
 hdi6v.pro
 healthcheck.com
 healthequity.comy.sa.com
+healthequity.za.com
 heatherleelarioni.me
 heatocrazed.com
 heddies.vercel.app
@@ -4354,7 +4354,6 @@ monkesnft.xyz
 monney-penny.net
 monta-network.com
 monte.cards
-monumentdweller.top
 mooar.top
 moombeam.top
 moon-beam.network
@@ -6592,6 +6591,7 @@ the-one-staking.cc
 the-one-staking.com
 theabcroofing.com
 thebaycompany-ca.com
+thebaysc.com
 theblueskytrading.com
 thecouragedoog.live
 theemiraetesgroup.com
@@ -7983,7 +7983,6 @@ zerion.claimfree.xyz
 zerionpro.com
 zerionsuzki.pages.dev
 zerionu.com
-zero-claim.netlify.app
 zero-lend.app
 zeroiand.xyz
 zerolend.app
