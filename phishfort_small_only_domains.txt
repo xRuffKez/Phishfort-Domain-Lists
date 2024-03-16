@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 16 03:02:20 UTC 2024
+# Fetch date: Sat Mar 16 04:02:30 UTC 2024
 # Number of Entries: 8088
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4083,8 +4083,6 @@ metamask-restorehome.cryptobase.ng
 metamask-restoreteam.com
 metamask-rewards.site
 metamask-sg.site
-metamask-support.com
-metamask-support.com.binance-contact.com
 metamask-verfiy.diaitologostopouza.gr
 metamask-verse.pages.dev
 metamask-wallet-main.pages.dev
@@ -5083,6 +5081,7 @@ paxful-clo.com
 paxful-club.com
 paxful-web.com
 paxful.business
+paxful.instenpay.com
 paxful.payment-offer.com
 paxful78291047.com.ng
 paxfula.com
@@ -7690,6 +7689,7 @@ www.pancakeswapv3.xyz
 www.pandoras-build.com
 www.pandoshi.net.bakery-swap.com
 www.paradigmagbi.ru
+www.paxful.instenpay.com
 www.paxfulmoderater.com
 www.paxfulteams.com
 www.pcs-farmv3.com
