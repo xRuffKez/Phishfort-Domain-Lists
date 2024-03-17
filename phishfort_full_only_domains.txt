@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 17 18:01:42 UTC 2024
-# Number of Entries: 106667
+# Fetch date: Sun Mar 17 19:01:32 UTC 2024
+# Number of Entries: 106671
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -37391,6 +37391,7 @@ he3xc.com
 healerwallet.com
 healinghippies.xyz
 healthcheck.com
+healthequity.comru.za.com
 healthequity.comy.sa.com
 healthequity.za.com
 healthnews18.com
@@ -60557,6 +60558,7 @@ oiceanarts.online
 oicinjury.org
 oidex.market
 oiejdidke.top
+oinkeonsol.online
 oinkoinkclub.com
 oiptmsim.io
 oj.yqodr.proyectocorazon.org
@@ -67981,7 +67983,9 @@ paxofferonline.com
 paxofferonline.online
 paxoinx.com
 paxonlinerates.online
+paxos-app.com
 paxos-bounty.com
+paxos-club.com
 paxos-eth.com
 paxos-gold.net
 paxos-gold.org
