@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 17 20:02:13 UTC 2024
-# Number of Entries: 8050
+# Fetch date: Sun Mar 17 21:02:08 UTC 2024
+# Number of Entries: 8048
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -540,6 +540,7 @@ apisyncdapp.live
 apisynchronizer.live
 apkdownload.com
 apn.com.np
+apnasecure.com
 app-1inch.pages.dev
 app-ait.pages.dev
 app-altlayer.io
@@ -2525,7 +2526,6 @@ fixetdflot.com
 fixetflaot.com
 fixetflloat.com
 fixiedfloat.pro
-fixnodestring.org
 fixold2ndbnk.mypsx.net
 fixsbusiness.mx
 fixsedfloat.com
@@ -2816,7 +2816,6 @@ golem.gift
 goltaa.com
 gomble-gmm.xyz
 gombles.games
-gondeart.cloud
 gondi.loan
 goodj.top
 goodsdao.web.app
@@ -3014,7 +3013,6 @@ imxcoin.eu
 in.scrll-club.cc
 inaallert.com
 inaraequinix.ae
-incentives-pyth.network
 incsribe.app
 infosa.net
 ing-autorizza-cliente.it
