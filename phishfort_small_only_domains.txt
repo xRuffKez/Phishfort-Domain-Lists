@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 17 16:02:19 UTC 2024
-# Number of Entries: 8046
+# Fetch date: Sun Mar 17 17:02:25 UTC 2024
+# Number of Entries: 8047
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4433,6 +4433,7 @@ mynewmontbonk.com
 myob.business
 myob.finance
 myob.network
+mypivalidations.com
 myria-game.com
 myrianewmigration.pro
 myro-airdrop.xyz
