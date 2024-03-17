@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 17 20:01:36 UTC 2024
-# Number of Entries: 106672
+# Fetch date: Sun Mar 17 21:01:36 UTC 2024
+# Number of Entries: 106673
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -5372,6 +5372,7 @@ apl.wowoviolinamazon.com
 aplgala-cg.games
 aplsushhwap.blogspot.com
 apn.com.np
+apnasecure.com
 apocalyptic-apes.co
 apocalypticapes.web-minting.com
 apocalypticapesnft.xyz
