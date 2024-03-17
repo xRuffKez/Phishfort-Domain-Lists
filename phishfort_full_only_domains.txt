@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 17 14:01:38 UTC 2024
-# Number of Entries: 106654
+# Fetch date: Sun Mar 17 15:01:30 UTC 2024
+# Number of Entries: 106659
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2350,6 +2350,7 @@ access-sushi.online
 access-sushiusd.men
 access-swap.online
 access-to-wallet-balancer-exchange.info
+access.bdc.support
 access.eth-access.com
 access.ethsupply.com
 access.roninchain.app
@@ -6306,6 +6307,7 @@ app.pancakeswasap.one
 app.pancakeswep-finance.com
 app.pancaksewap.fninace.verify-assets.ru
 app.pancokeswap.com
+app.parallelfl.network
 app.pegaxy-nftgame.com
 app.play-staratlas.website
 app.polkadot.trade
@@ -6318,6 +6320,7 @@ app.pomerdoge.live
 app.pool-1inch.io
 app.prisrnafinance.com
 app.pulsiex.com
+app.qirtm.com
 app.questn.org
 app.radant.capital
 app.raticswap.xyz
@@ -13641,6 +13644,7 @@ bombcoin.space
 bombcrypto.net
 bombcrypto.space
 bombcryptoes.com
+bomeonsol.xyz
 bomkxmas.com
 bomlbcrypto.net
 bomscoin.com
@@ -84144,6 +84148,7 @@ theemiraetesgroup.com
 theemirategroup.com
 theemirategroups.com
 theemiratesgroupae.com
+theemiratesgroupae.online
 theemiratesgroups.com
 theemiratesgroupuae.com
 theemiriatesgroupae.com
