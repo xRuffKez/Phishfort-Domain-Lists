@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 17 14:02:11 UTC 2024
+# Fetch date: Sun Mar 17 15:02:04 UTC 2024
 # Number of Entries: 8042
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -156,6 +156,7 @@ abspaurill.com
 academy.topbundalle.com
 acahealthinsure.com
 accept-farcana.com
+access.bdc.support
 access.roninchain.app
 account-407etr.com
 accountrevive.pages.dev
@@ -643,8 +644,10 @@ app.kiloex-airdrop.com
 app.kinzaxk-group.com
 app.moonbeam-web.com
 app.moonbeamer-swap.com
+app.parallelfl.network
 app.pomerdoge.live
 app.prisrnafinance.com
+app.qirtm.com
 app.raticswap.xyz
 app.refundcoinstake.com
 app.rnino.fi
@@ -1152,6 +1155,7 @@ boba.x2drop.top
 bobotokenhub.top
 bol.mxmfk.club
 boltbot.eu
+bomeonsol.xyz
 bomkxmas.com
 bondexapp.network
 bonelp.com
@@ -3258,7 +3262,6 @@ kasgca.com
 kaspamining.app
 katana-ronchain.com
 katana.ronlncdain.com
-kava-api137.web.app
 kavaa-web.netlify.app
 kavadefend.me
 kcs-airdrop.com
@@ -4324,7 +4327,6 @@ mogcoin-xyz.vercel.app
 mogcoin.rewardshare.info
 molina-healthcareinc.com
 molinahealthcare-careers.com
-mollytoken.com
 momentsbycandles.com
 monerom.uk
 monerosharpversa.pages.dev
@@ -6387,7 +6389,6 @@ subqueryfoundation-claim.vercel.app
 subsquid.network
 sueta777.pages.dev
 sui-airdrop.one
-sui-foundation.xyz
 sui-global.com
 sui-network.mom
 sui.trusthubs.top
@@ -6566,6 +6567,7 @@ thecouragedoog.live
 theemiraetesgroup.com
 theemirategroups.com
 theemiratesgroupae.com
+theemiratesgroupae.online
 theemiratesgroupuae.com
 theemiriatesgroupae.com
 theemiriatesgroupuae.com
@@ -6816,7 +6818,6 @@ unitedairlinedeliveryagency.com
 unitycryptotrading.com
 unknownbasenfts2.me
 unlbots.trading
-unllswap.org
 unniswapp.com
 unpacknft1.pages.dev
 unsiwap.app-swap.us.org
@@ -7562,7 +7563,6 @@ www.mantanetworks.info
 www.mantanntework.xyz
 www.marnta.network
 www.masimjaya.com
-www.matprima-pa.com
 www.maverickdao.org
 www.mavia.comapp.hu54.com
 www.mavia.comapp.yaya6.com
