@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 17 22:02:27 UTC 2024
+# Fetch date: Sun Mar 17 23:02:11 UTC 2024
 # Number of Entries: 8048
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1494,6 +1494,7 @@ claim.nf-prompt.xyz
 claim.nftrealm.io
 claim.paalai.mobi
 claim.padgy.xyz
+claim.pancakeswap.cfd
 claim.renqapp.live
 claim.retikapps.com
 claim.smogxtoken.com
@@ -6183,7 +6184,6 @@ smartreviseprotocol.pages.dev
 smartreviseweb.pages.dev
 smartsheets.site
 smarttdappfix.pages.dev
-smartunibasedex.pages.dev
 smartwebmultiverse.eu
 smiley-token.network
 smithbrotherrsconstruction.com
