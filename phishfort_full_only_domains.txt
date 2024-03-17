@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 17 11:01:35 UTC 2024
-# Number of Entries: 106659
+# Fetch date: Sun Mar 17 12:02:58 UTC 2024
+# Number of Entries: 106654
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -45787,6 +45787,7 @@ lthememecoin.net
 lthememecoins.com
 ltswap.club
 ltzx.tianqiao120.com
+lubrizolcorp.cn
 lucalbitcoins.com
 lucalbltcoins.com
 lucid-nft.org
@@ -49171,7 +49172,6 @@ metamask-logln.com
 metamask-mainnet.tokens-reward.org
 metamask-mask.com
 metamask-metamask.io
-metamask-mine.com
 metamask-mining.com
 metamask-mintnft.biz
 metamask-mm.com
@@ -50354,7 +50354,6 @@ metamask.stapn.website
 metamask.starch-solution.com
 metamask.stream
 metamask.supply
-metamask.support
 metamask.suspicious-sinoussi.34-92-30-20.plesk.page
 metamask.sx
 metamask.synctools.net
@@ -51248,7 +51247,6 @@ metamaskweb.org
 metamaskweb.store
 metamaskweb.tech
 metamaskweb.xyz
-metamaskweb3.net
 metamaskweb3.site
 metamaskweb3app.com
 metamaskweb3v6online.info
@@ -51712,7 +51710,6 @@ metemask.monster
 metemask.net
 metemask.one
 metemask.org
-metemask.pages.dev
 metemask.site
 metemask.vip
 metemasklagin.godaddysites.com
@@ -64091,7 +64088,6 @@ pancakeswap-wallet.com
 pancakeswap-wallet.dominiquejewellery.com
 pancakeswap-wallet.finance
 pancakeswap-wallet.online
-pancakeswap-wallet.pages.dev
 pancakeswap-web.com
 pancakeswap-web.tradlerjoexyz.net
 pancakeswap-web.us
@@ -65319,7 +65315,6 @@ pancakeswapable.com
 pancakeswapacctsync.finance
 pancakeswapair.finance
 pancakeswapairdrop-event.finance
-pancakeswapairdrop.com
 pancakeswapairdrop.info
 pancakeswapairdrop.me
 pancakeswapairdrop.net
