@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 17 19:01:32 UTC 2024
-# Number of Entries: 106671
+# Fetch date: Sun Mar 17 20:01:36 UTC 2024
+# Number of Entries: 106672
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -66335,6 +66335,7 @@ pancakswaps-tradeinvest.com
 pancakswaps-tradinginvest.com
 pancakswaps-transaction.com
 pancakswaps-venture.com
+pancakswapv3.com
 pancakswop-fi.com
 pancakswop.com
 pancakswops-assets.com
