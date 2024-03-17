@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 17 11:02:12 UTC 2024
-# Number of Entries: 8083
+# Fetch date: Sun Mar 17 12:03:39 UTC 2024
+# Number of Entries: 8042
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -261,7 +261,6 @@ airdrop-atlayer.io
 airdrop-blast.network
 airdrop-caga.web.app
 airdrop-chaln.link
-airdrop-claimer.com
 airdrop-de.fi
 airdrop-defi.online
 airdrop-earn.com
@@ -535,13 +534,11 @@ api15vulcan.com
 api32-altidentifier.com
 api8-vulcan.com
 apicollab.land
-apisweb3iw.gq
 apisweb3lg.cf
 apisyncdapp.live
 apisynchronizer.live
 apkdownload.com
 apn.com.np
-app-1inch.dev
 app-1inch.pages.dev
 app-ait.pages.dev
 app-altlayer.io
@@ -566,9 +563,7 @@ app-jito.com
 app-juilce.finance
 app-kaspanet.com
 app-kava.com
-app-keplr.live
 app-layerbank.finance
-app-lnjective.live
 app-mantle-networks.org
 app-mantle.site
 app-mdex.one
@@ -883,7 +878,6 @@ axiemarketplace.homes
 axiemarketplace.pics
 axiemarketplace.rest
 axiemarketplace.skin
-axienfinity.org
 axieorigin.in
 axs.ltd
 axsiesinfinity.com
@@ -1235,7 +1229,6 @@ btcetftoken.launch-pad.site
 btcminetrix.vercel.app
 btctokensfree.online
 btfxtrader.com
-btnautcommunity.com
 btsemarket.cc
 btsemarket.top
 buddyal.pro
@@ -1330,7 +1323,6 @@ cdzhjzx.com
 ce1s1us.network
 cealtis.fail
 ceislus.network
-celastise.net
 celatis.digital
 celebrators.pk
 celestia-network.com
@@ -1774,7 +1766,6 @@ crypto-farm-trust.com
 crypto-payments.xyz
 crypto-starknets.com
 crypto.met-group.xyz
-crypto.pepzgroup.biz
 crypto.wormscommunity.xyz
 crypto11.bep666.top
 cryptohopperclaim.com
@@ -1865,7 +1856,6 @@ dappradar.co.in
 dappradar.cx
 dappradar.ec
 dappradar.fun
-dappradar.group
 dappradar.is
 dappradar.land
 dappradar.mom
@@ -2622,7 +2612,6 @@ free-altlayers.com
 free-cryptos.net
 free-manta.com
 free-tias.com
-free-tokens.net
 free.bitiezcommune.xyz
 free.bitzgroup.xyz
 free.launch-layerzero.online
@@ -3326,7 +3315,6 @@ lackizhamsterz.com
 lakesldecontrols.com
 landverify.xyz
 largedrop.com
-lauggn.top
 laughcode.conohawing.com
 launch-berachain.com
 launch-dymension.com
@@ -3499,7 +3487,6 @@ lineatokens.com
 lineaxskin.com
 linjective.com
 link-eligible.com
-link-medium.top
 link-networks.net
 link-portal.app
 link-vulcan.xyz
@@ -3565,7 +3552,6 @@ login.microsoftonlineportal.ppp-gov.online
 login.wapstore.duckdns.org
 login1-blockgames.xyz
 login2-blockgames.xyz
-loginw2c.com
 lohinmicrokkient.xyz
 lololol888.xyz
 lomeptos.com
@@ -3585,6 +3571,7 @@ lqeth.com
 lrt-eigenlayer.xyz
 lsd-mainnet-address-spoofing.netlify.app
 lst-eigenlayer.xyz
+lubrizolcorp.cn
 lunc.space
 luxury-dusk-92886b.netlify.app
 luxurybooms.com
@@ -3686,7 +3673,6 @@ makeradao.com
 makerdaicoin.com
 makerdao-airdrop.pages.dev
 makerdao-governance-dashboard.com
-makerdao.pages.dev
 makerdoa.com
 makerfoundation.github.io
 makertoken.net
@@ -4035,7 +4021,6 @@ metadrop-us.com
 metadrop.cloud
 metadrop.dev
 metadrop.page
-metaducksinc.com
 metaexchange.dev
 metafix.vercel.app
 metaget.xyz
@@ -4144,7 +4129,6 @@ metamaskv.org
 metamaskv2.pages.dev
 metamaskvalidation.sensoryworks.com
 metamaskwallet.pages.dev
-metamaskweb3.net
 metamaskxtension.github.io
 metamaskz.ink
 metamassk.cc
@@ -4260,7 +4244,6 @@ miladyfumos.xyz
 milemartpure.com
 million-satoshivm.io
 million-satoshivmio.pages.dev
-min.plaguz-groups.lol
 mine-manta.network
 minecraft-playgo.ru
 minepro.fit
@@ -4282,7 +4265,6 @@ mint-xai.com
 mint.apps-looty.com
 mint.bitienatz.lol
 mint.bitzclub.com
-mint.blaszt-group.cc
 mint.cokeazukicanvas.com
 mint.cyberzduck.lol
 mint.deadapez.lol
@@ -4314,7 +4296,6 @@ missions-dymension.network
 missions-roninchain.com
 missions-sharpnel.com
 missions-zksync.com
-mitofinance.fi
 mitratokped.com
 mj3.us
 mm-redirect.com
@@ -4497,7 +4478,6 @@ naka-migos.net
 nakamigos-cloaks.app
 nakamigos-cloaks.art
 namadachain.app
-namairdrop.xyz
 nanogatesphere.info
 napaauto.shop
 napaautoparts.store
@@ -4603,7 +4583,6 @@ nft-win.pages.dev
 nft.azukl.biz
 nft.cologne
 nft.diet
-nft.pepzgroup.biz
 nft.wormscommunity.com
 nft.wormscommunity.xyz
 nftairdropclub.com
@@ -4965,7 +4944,6 @@ pancakeswap.lt
 pancakeswap.quest
 pancakeswap.systeme.io
 pancakeswapairdrop-event.finance
-pancakeswapairdrop.com
 pancakeswapairdropevent.finance
 pancakeswapfinance-gg3.pages.dev
 pancakeswaph.github.io
@@ -5241,7 +5219,6 @@ pkinksle.com
 pknma-ciaaa-aaaad-qdxtq-cai.raw.icp0.io
 pl.xpiym.shop
 pl.zkndv.club
-plag-club.com
 planet-zksync.nfts2.me
 planetsrefi.airdrop.cfd
 plantagmsanluis.com
@@ -5323,7 +5300,6 @@ premium.athene.network
 premiumtvstreamers.com
 presale-cogwise.com
 presale-scorpioncasino.pages.dev
-presale.portalgamings.net
 presales.blockgamess.com
 prime-vest.com
 primepaymyservi.com
@@ -5336,7 +5312,6 @@ procch.net
 procchfx.com
 prof1111.pages.dev
 profit-dydx.com
-profrags.com
 project-apt.com
 project-lucky-hamster.com
 project-manta.com
@@ -5598,7 +5573,6 @@ rayzonfinance.com
 raze-drops.top
 rdx.vercel.app
 rdxshoes.click
-re-voke.cash
 reachedoutseveral.com
 realio.gift
 realioapp.com
@@ -5616,7 +5590,6 @@ receivemetamask.com
 receiveusdc.com
 receptivegleam.top
 reckonmexico.com
-reclaim-nfttrader.io
 reconnectto.org
 rect-c0nnrtc.pages.dev
 rect-fixdapps.pages.dev
@@ -5708,7 +5681,6 @@ renzo-protocols.com
 resolutionpanel.pages.dev
 resolve-captcha.com
 resolver-paneldapp.com
-resolverfinance.com
 resolverhq.web.app
 resolverpanel.pages.dev
 resolverprotocol.pages.dev
@@ -5739,7 +5711,6 @@ revoke--cash.pages.dev
 revoke-algebra.com
 revoke-approvals.xyz
 revoke-approvals.xyz.polarmates.top
-revoke-asset.cash
 revoke-cash-i9n0pa5cx-lahana.vercel.app
 revoke-cash.cash
 revoke-cash.org
@@ -5763,7 +5734,6 @@ revoke.page
 revoke.run
 revoke.tech
 revokeapp.info
-revokeapp.net
 revokeapp.tech
 revokeassets.com
 revokeca.com
@@ -6349,7 +6319,6 @@ stargategold.trading
 stark-event.com
 starkclaim.pro
 starkclaim.services
-starkdistribution.net
 starkenet.space
 starkexka.com
 starknet-airdrop.events
@@ -6614,7 +6583,6 @@ thisisatest2.com
 thisisatest999.com
 thor-fi.io
 tia-project.com
-tiaderjoexyz.com
 tias-celestia.net
 tias-giveaways.net
 tidex.icu
@@ -6676,7 +6644,6 @@ tnsr-whitelist.com
 to.dataui.online
 to.uidista.online
 tokeensyu.cloud
-token-airdop.org
 token-beam.com
 token-berachain.com
 token-blast.com
@@ -6688,7 +6655,6 @@ token-theblock.co
 token.strks-rocket.club
 tokenmask.io
 tokenprojectrarity.site
-tokenproof.org
 tokenrevoke.cash
 tokens-rocketpool.net
 tokens-satoshivm.io
@@ -6720,7 +6686,6 @@ tracomservices.com
 tradedao-mig.click
 tradeogre-web.site
 traderjoe.events
-traderjoexyz.com.de
 traderjoeyxz.app
 tradeviewtoken.xyz
 tradinglabs.app
@@ -6729,7 +6694,6 @@ tramertoe.top
 tramsipublicidad.com
 transactionfair.site
 transfer24p2p.ru
-trastpud-air.top
 trastumanvst.com
 travalaai.live
 travel.quickflightbooking.online
@@ -6743,7 +6707,6 @@ treasuredao.rip
 treasury-radiant.com
 treasury-seedify.tech
 treasury.roninschains.com
-tredarjoesxyz.com
 tredarsjoexyz.com
 trekki1-2ao7ciwr8-scgllr.vercel.app
 trestleprotocol.net
@@ -6998,7 +6961,6 @@ viacripto.com
 victorianwoodsstudio.com
 vietnamtiktok.com
 vietnamtiktok.shop
-view.lamz-group.life
 view.wormmap.xyz
 vikingglobal.linejoinus.com
 villageorockstar.com
@@ -7347,7 +7309,6 @@ wufis.com
 wverycaxqw6urqwpchk.mxy9ink.ru
 wvw.jucrina.club
 wvw.linefraction.xyz
-wvw.pepzgroup.biz
 ww-connect-dappradar.com
 ww-revoke.cash
 ww.itbits-pro.com
@@ -7790,7 +7751,6 @@ www.tiktok8.bond
 www.tiktokmall-th.com
 www.toshithecat.org
 www.tpadv2.dev
-www.traderjoexyz.com.de
 www.travellucky.cc
 www.trustwalletdefi.icu
 www.tuckea.com
@@ -7895,7 +7855,6 @@ xn--fixedfoad-vub.com
 xn--fixedfoat-0pb.com
 xn--fixedfoat-vub.net
 xn--fixedfoat-vub.org
-xn--fixelfloat-ckb.com
 xn--flixefloat-dkb.com
 xn--flxedfloat-78a.com
 xn--flxedfloat-yub.com
