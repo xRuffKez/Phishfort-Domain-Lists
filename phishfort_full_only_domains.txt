@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 17 16:01:39 UTC 2024
-# Number of Entries: 106665
+# Fetch date: Sun Mar 17 17:01:49 UTC 2024
+# Number of Entries: 106667
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -58160,6 +58160,7 @@ mypethooligan.org
 mypethooligan.web3fast.net
 mypethooligan1-free.xyz
 mypethoolingan.xyz
+mypivalidations.com
 mypolygonwallet.com
 myportailmeta.com
 myportalmeta.com
@@ -79241,6 +79242,7 @@ solanaecosystems.com
 solanaelkton.com
 solanaenders.com
 solanaetoile.com
+solanaetoken.e-classes.pro
 solanaeuless.com
 solanaevent.info
 solanaeventairdrop.com
