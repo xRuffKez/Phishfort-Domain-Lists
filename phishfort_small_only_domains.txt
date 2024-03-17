@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 17 15:02:04 UTC 2024
-# Number of Entries: 8042
+# Fetch date: Sun Mar 17 16:02:19 UTC 2024
+# Number of Entries: 8046
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1291,6 +1291,7 @@ cakeswp.app
 calestis.info
 call-center-agoda.online
 camaroterj-ticketm.online
+cambridgetraders.com
 camel-e8m.pages.dev
 camelot.exchange.pe
 camelot.magpiexyz.io.wallet-connect.site
@@ -1887,7 +1888,6 @@ dappsfixerweb.42web.io
 dappshub.pages.dev
 dappsly.pages.dev
 dappsnodesauthenticator.com
-dappsocket.vercel.app
 dappsonar.pages.dev
 dappspacex.info
 dappspanelauth.pages.dev
@@ -2026,7 +2026,6 @@ denshaven.com
 deplimigration.dev
 descontoschevro.com
 descontosgm.com
-describegland.top
 descriptionconnect.onrender.com
 deskauthnode.xyz
 deskmainnetsynch.com
@@ -2347,6 +2346,7 @@ erydgred.umb.market
 esenpay.com
 etfevent2024.com
 eth-amg.top
+eth-bonus.net
 eth-calculator.xyz
 eth-che.cyou
 eth-denver.com
@@ -2361,6 +2361,7 @@ ethena.blog
 ether-web3.com
 etheregas.xyz
 etheremgas.xyz
+ethereum-events.tiiny.co
 ethereum-wpos.club
 ethereum.com.tr
 ethereumfees.xyz
@@ -3269,11 +3270,13 @@ kelpdaa.xyz
 kelpdao-claim.pages.dev
 kelpdao.app
 kelpdao.fun
+kelpdao.link
 kelpdao.live
 kelpdao.lol
 kelpdao.pro
 kelpdaostoken.xyz
 kelpdeo.xyz
+kelpdoasteke.org
 keplrsync.web.app
 keungz.space
 keyst-one.com
@@ -4435,7 +4438,6 @@ myrianewmigration.pro
 myro-airdrop.xyz
 myrobase.com
 mysecond.mypsx.net
-myselfio.xyz
 mysofinance.net
 mystery-axieinfinity.claims
 mystery-clicc.vercel.app
@@ -6209,6 +6211,7 @@ solana-claim.web.app
 solana-satoria.world
 solana.ag
 solana.laag.site
+solanaetoken.e-classes.pro
 solanaus.com
 solanawen.com
 solarmy.eu
@@ -7018,6 +7021,7 @@ w5fowfv5tj.tobamicama.tech
 wabanetworks.com
 wagmi-ethereum.com
 wagmiblast.xyz
+wagmidrop.com
 wagmigames8765.live
 waitlist-altlayer.io
 waitlist-shrapnel.com
