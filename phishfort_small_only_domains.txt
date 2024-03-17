@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 17 18:02:11 UTC 2024
-# Number of Entries: 8047
+# Fetch date: Sun Mar 17 19:02:03 UTC 2024
+# Number of Entries: 8049
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2874,6 +2874,7 @@ havas-aso.com
 hca-healthcare.com
 hdi6v.pro
 healthcheck.com
+healthequity.comru.za.com
 healthequity.comy.sa.com
 healthequity.za.com
 heatherleelarioni.me
@@ -4706,6 +4707,7 @@ official-dappradar.com
 officialphantom.com
 officineimmagine.it
 ogltree.com
+oinkeonsol.online
 oj3ij.cc
 okaydogs.app
 okbokyn210.com
@@ -5078,6 +5080,8 @@ paxfult.com
 paxfulteams.com
 paxfulvn.com
 paxoinx.com
+paxos-app.com
+paxos-club.com
 paxos-eth.com
 paxos-gold.net
 paxos-network.com
@@ -6713,7 +6717,6 @@ treasuredao.rip
 treasury-radiant.com
 treasury-seedify.tech
 treasury.roninschains.com
-tredarsjoexyz.com
 trekki1-2ao7ciwr8-scgllr.vercel.app
 trestleprotocol.net
 trezorsuite-web3.com
@@ -7283,7 +7286,6 @@ wm697t2io8uh7uaui6jg1oc4.designsdart.com
 wo1cw.pro
 wodlressxs.ru.com
 wojak.gifts
-wolvesdao.net
 woo-fi.vercel.app
 woofibit.space
 wordpress-162668-decentralizedapp.cloudclusters.net
