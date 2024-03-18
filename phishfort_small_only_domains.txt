@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 13:02:18 UTC 2024
-# Number of Entries: 8070
+# Fetch date: Mon Mar 18 14:03:20 UTC 2024
+# Number of Entries: 8074
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -156,6 +156,7 @@ abracadebra.money
 abspaurill.com
 academy.topbundalle.com
 acahealthinsure.com
+accboxi.com
 accept-farcana.com
 access.bdc.support
 access.roninchain.app
@@ -781,7 +782,6 @@ arenal-outlet.vip
 arenal-sale.shop
 arenaldiscount.shop
 arenales-outlet.shop
-arenalsamplesale.shop
 arkhamintelligence.gift
 arkm.air-trastpad.top
 arkm.t-wallets.top
@@ -1613,6 +1613,7 @@ coinmarketcap-login-web.web.app
 coinmetronet.live
 coinnbasealphaglobal-servapp.apexsolutionllc.com
 coinnode.online
+coinomize-mixer.pages.dev
 coinresearchlab.site
 coins-holders.web.app
 coins-rocketpool.net
@@ -3048,7 +3049,6 @@ injectives.world
 injektive.info
 injektive.mom
 inkonbtc.app
-inmsgdetorg.in
 inspace-token.network
 inspect-crypto.web.app
 inspireaj.com
@@ -3068,6 +3068,7 @@ intellixprotocol.app
 intellixstake.app
 inter-chains-bridge.com
 interacsecurepayments.com
+interactive-brokers.top
 interactivebroker.org
 interactivebrokers.store
 interactivehkvip.com
@@ -3140,6 +3141,7 @@ jjup.ag
 jkyr.pro
 joblessassistancenetwork.com
 joblessassistanceportal.net
+joblessconnect.net
 join-aofverse.com
 join-befilabs.com
 join-blockgames.com
@@ -3650,7 +3652,6 @@ mail-coinbase.biz
 mail.arab-bkplc.com
 mail.cpcalendars.gitlab.mail.pancakefiance.org
 mail.ethxgas.com
-mail.iinfo.mysynology.net
 mail.layerszero.pics
 mail.lendingtree.website
 mail.magpiexyz.live
@@ -3916,11 +3917,11 @@ masktokens.com
 mass-gov.dta-connect-hhs.com
 massachendristr.com
 massareshaet.net
+massgouidetma.org
 massgovuionllne.org
 masslorelictorganospaychsetc.com
 masslottery.lotteryvault.net
 masslottery.online
-masslouilionusma.com
 massonline.mprofile.org
 massposos.com
 master-brain.com
@@ -4432,6 +4433,7 @@ myethertools.web.app
 myetherwallet.ph
 myethmewallet.com
 myfirstproject.pages.dev
+mygoemployerthesaw.com
 myjuppy-box.com
 myjuppy-box.trade
 mymetazvirify.com
@@ -7598,6 +7600,7 @@ www.mavla.xyz
 www.mehrlesenachrichten.com
 www.meta.pika.asia
 www.meta0096.com
+www.meta009911.com
 www.meta2842.com
 www.metamask-mining.com
 www.metamask.best
@@ -7963,6 +7966,7 @@ zapper-frontend-next-6zj2ju3qm-zapper-fi.vercel.app
 zapper-frontend-next-h5ht7yy42-zapper-fi.vercel.app
 zapper-frontend-next-ikph34jsv-zapper-fi.vercel.app
 zappersolutiondapp.com
+zellerscanada.ca
 zenithzest.top
 zens-web3.com
 zerion.claimfree.xyz
