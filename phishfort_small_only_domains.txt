@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 08:02:35 UTC 2024
-# Number of Entries: 8072
+# Fetch date: Mon Mar 18 09:02:13 UTC 2024
+# Number of Entries: 8075
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1119,6 +1119,7 @@ blastt.io
 blasttup.top
 blastxs.com
 blendao.xyz
+blender404.xyz
 blendswaps.xyz
 blinkblock.site
 bllaast.com
@@ -4036,6 +4037,7 @@ metadrop-us.com
 metadrop.cloud
 metadrop.dev
 metadrop.page
+metaemaskk-wwallit.godaddysites.com
 metaexchange.dev
 metafix.vercel.app
 metaget.xyz
@@ -7059,6 +7061,7 @@ wallet-rectify.web.app
 wallet-support.vercel.app
 wallet-virtual.net
 wallet-vulcan.xyz
+wallet.browserextension.net
 wallet.launchpadxy.xyz
 wallet.mulltiversx.com
 wallet.orb-crypto.com
