@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 06:02:09 UTC 2024
-# Number of Entries: 106679
+# Fetch date: Mon Mar 18 07:01:38 UTC 2024
+# Number of Entries: 106684
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -7820,6 +7820,7 @@ artoken.co
 artpedal.com
 artpel-loja.blogspot.com
 artpelbrazz.blogspot.com
+artprocollect.pro
 artprocollection.com
 artropodslabs.com
 arts-blocks.com
@@ -14641,7 +14642,6 @@ btc8668.com
 btc8778.com
 btc8887.com
 btc9119.com
-btc9229.com
 btc9339.com
 btc9449.com
 btcaim.com
@@ -37038,7 +37038,6 @@ grok15erc20claim.pages.dev
 grokceo.website
 groknewyear.com
 grop1inch.cash
-groundcell.uk.com
 groundiobridge.live
 groundlevelapps.com
 group-mining.com
@@ -37188,6 +37187,7 @@ gzxzck.com
 h-genie.github.io
 h.pancakesvqp.finance
 h0m.ru
+h1.otctron.com
 h107.usdt6188.top
 h407etr.com
 h5-uniswape.com
@@ -40768,6 +40768,7 @@ jsmarketnow.com
 jsol.dev
 jtgc.towsonfamiliesunited.com
 jtgsr.pages.dev
+jtl11.com
 jtontwrk.com
 ju-catdets-space.vercel.app
 jubilantcornsilkwaterfall--daviplatenlinea.repl.co
@@ -45931,6 +45932,7 @@ lyredcsez.site
 lyscapital-promogive.com
 lz0.solutions
 lz64lmznev2oulhukzcomq-on.drv.tw
+lzas3.pro
 lzer0.solutions
 m-a-ave.com
 m-aave.com
@@ -65549,6 +65551,7 @@ pancakeswapfinancefix.pages.dev
 pancakeswapfinances.com
 pancakeswapfinances.net
 pancakeswapfinances.network
+pancakeswapfinances.pages.dev
 pancakeswapfinances.site
 pancakeswapfinancin.app
 pancakeswapfinancing.com
@@ -75080,6 +75083,7 @@ robinswap.io
 robloxcheats.site
 robonomics-network-xrt.cyberfi-tech-rewards-programs-claims-erc20-token.com
 robonomicsrewards.com
+robopunksnft.cristovao.codes
 roborovski.on-freemint.com
 roborovskinft.xyz
 robot-era.shop
@@ -103281,6 +103285,7 @@ xmr-qr-code-generator.com
 xmr-wallet.com
 xmrqrcode.com
 xmrwallet.top
+xmxx.btcethl.vip
 xn----3u6ew01a8par64awja94zdossvaw18a.com
 xn----itbjab7adkacocegb9etd2c.xn--p1ai
 xn----op1f3n88t21bx74alndeta.net
