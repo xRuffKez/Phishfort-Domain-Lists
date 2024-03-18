@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 05:03:12 UTC 2024
-# Number of Entries: 8049
+# Fetch date: Mon Mar 18 06:02:47 UTC 2024
+# Number of Entries: 8050
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1022,6 +1022,7 @@ binance-0x51bd6a810bd083c4bab4834a90411c62d04456ce.gunhay.vn
 binance.iconworld.tech
 binance.t-co.pro
 binancebusdairdrop2024.com
+binancnftcoin.com
 binansce.com
 bingbongs-zoras.com
 binnance.app
