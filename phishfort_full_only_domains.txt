@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 04:01:45 UTC 2024
-# Number of Entries: 106679
+# Fetch date: Mon Mar 18 05:01:40 UTC 2024
+# Number of Entries: 106678
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -37079,6 +37079,7 @@ gruppoab-it.com
 gruzovyespecavtovesy.online
 gsbglobal.co
 gsbtest.com
+gsj-technology.com
 gslaterapp.com
 gsmbskoekf4hfxv.www.beta-openselling.pancakeswasap.one
 gsnfts.com
@@ -85528,7 +85529,6 @@ traderjoexyz.online
 traderjoexyz.web3-airdrop.net
 traderjoexyzc.com
 traderjoexyzz.biz
-traderjoeyxz.app
 tradernjoe.com
 tradersmarket.co
 traderynix.com
@@ -87357,7 +87357,6 @@ uniswap-exchange.com
 uniswap-exchange.eu
 uniswap-exchange.info
 uniswap-exchange.network
-uniswap-exchange.org
 uniswap-exchange.repair
 uniswap-exchange.site
 uniswap-exchange.store
