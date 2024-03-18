@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 15:02:12 UTC 2024
-# Number of Entries: 8071
+# Fetch date: Mon Mar 18 16:02:39 UTC 2024
+# Number of Entries: 8072
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2112,6 +2112,7 @@ dlogdapp.pages.dev
 dmail-airdrop.org
 dmail.news
 dmmltt0.info
+dnaata.com
 docs-lybra.finance
 docs-lybra.network
 docs-lybras.trade
@@ -2989,7 +2990,6 @@ iktrjrfusah.icu
 ilayeir3.xyz
 ilfinity.io
 ilie.zerion.biz
-ilionosima.com
 illivium-network.com
 illivium-techsupport.com
 illuvium-community.com
@@ -3416,7 +3416,6 @@ ldofi-promos.com
 leadpeopleright.com
 leafdreamhomes.com
 leakhub.io
-learcorporativo.com
 learn-unibot.app
 learventa.com
 learventas.com
@@ -4369,6 +4368,7 @@ mrhcpayroll.local-user.com
 msgive.io
 msmax.vip
 msprogram.biz
+mtamskwalogs.azurewebsites.net
 mtaskx.com
 mtvrs-neotokyo.codes
 muitamask-login.blogspot.com
@@ -6090,7 +6090,6 @@ shlba-3.live
 shopvibe.shop
 shrap-token.app
 shrapnei-whitelist.com
-shrapneil.com
 shrapnel-2024.com
 shrapnel-whitelists.com
 shrapnel.cloud
@@ -6592,6 +6591,7 @@ theemiraetesgroup.com
 theemirategroups.com
 theemiratesgroupae.com
 theemiratesgroupae.online
+theemiratesgroups-ae.online
 theemiratesgroupuae.com
 theemiriatesgroup.online
 theemiriatesgroupae.com
@@ -6612,6 +6612,7 @@ thor-fi.io
 tia-project.com
 tias-celestia.net
 tias-giveaways.net
+ticket.universalprotocoldapp.io
 tidex.icu
 tifi-airdrop.com
 tikmallshop.cloud
@@ -6809,6 +6810,7 @@ uni.pro-coins.top
 uni.trustcoin.top
 unibots.trading
 unicswap.io
+unifiedprotocol.xyz
 uniglobecapitals.com
 unilend-v2mainnetnetwork.org
 uninashitesati.net
@@ -7815,7 +7817,6 @@ www.wwwdymension.xyz
 www.wwwframe.xyz
 www.x-swap.link
 www.xai.moe
-www.xn--fixdfloat-d4a.com
 www.xn--fixedflaot-f0b.com
 www.xn--fxedfloaf-g5a.com
 www.xnurik.com
