@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 07:01:38 UTC 2024
-# Number of Entries: 106684
+# Fetch date: Mon Mar 18 08:01:50 UTC 2024
+# Number of Entries: 106696
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1286,6 +1286,7 @@
 4tesla.pro
 4tesla.top
 4tyqoaktqb.numirmilap.tech
+4vcf.pro
 4vvuniswap.top
 4vvv-roninwallet.top
 4vvvv-roninwallet.top
@@ -10672,6 +10673,7 @@ bdtcc20.com
 bdzc.tfdcri.com
 be-coinbase.com
 be.onlinemast.online
+beacon-usdt.shop
 beaconchainrpc.com
 beaconcompany.pics
 beamerbridge-fi.com
@@ -13526,6 +13528,7 @@ bnbmarket.services
 bnbminer-finance.onrender.com
 bnbmining.org
 bnbmining66.com
+bnbminner.com
 bnbmise.dev
 bnbmoney.finance
 bnbmoney.org
@@ -16239,7 +16242,6 @@ checkmyoffers.xyz
 checknft.art
 checknfts.art
 checkout.pancakeswasap.one
-checkpunky.com
 checks-mint.art
 checks-pass.xyz
 checks-raffles.com
@@ -32200,6 +32202,7 @@ extensions.hnalkhedmad.com
 extensionsmeta.com
 extensionsrect.rf.gd
 extensiontoken.rf.gd
+externaldapp.com
 externalprotocol.com
 extessiomsx-add-chrrome-onlines.com
 extimeby.com
@@ -52364,6 +52367,7 @@ millenniums.in
 million-satoshivm.io
 million-satoshivmio.pages.dev
 millionairemaker-promogive.com
+miltamasklog.github.io
 miltonbot.io
 milykyswap.io
 milyonerzirvesi.com
@@ -59010,6 +59014,7 @@ newwhitelistdex.pages.dev
 newwhitelistradar.pages.dev
 newyearcrypto.blogspot.com
 newyetherwallet.com
+newyorkplasmacenters.info
 nexeraairdrop.com
 nexeradrop.com
 nexeraportal.com
@@ -59164,7 +59169,6 @@ nft-serverconnect.com
 nft-sidusheroes.com
 nft-solanart.space
 nft-spec.biz
-nft-staking-xi.vercel.app
 nft-staratlas.com
 nft-starknet-project.vercel.app
 nft-suped.web.app
@@ -65335,6 +65339,7 @@ pancakeswapable.com
 pancakeswapacctsync.finance
 pancakeswapair.finance
 pancakeswapairdrop-event.finance
+pancakeswapairdrop.com
 pancakeswapairdrop.info
 pancakeswapairdrop.me
 pancakeswapairdrop.net
@@ -67180,6 +67185,7 @@ paperhands-checker.web.app
 paperhands-coin.web.app
 paperhands-eth.web.app
 paperhands-ethereum.web.app
+paperhands-halo-stats.web.app
 paperhands-holders.web.app
 paperhands-network.web.app
 paperhands-networks.web.app
@@ -75607,6 +75613,7 @@ rrryehlerewvallet.com
 rrryethereswallet.com
 rrryetherwallet.com
 rrryetherwalllet.com
+rrspn.pro
 rrvoke.cash
 rryetherwallet.com
 rs-mettmask.com
@@ -82353,6 +82360,7 @@ swtest.ru
 swww-kraken.com
 sxb5f.info
 sxnc.pages.dev
+sxws.pro
 sxx6.sa.com
 sxy.cqcy567.com
 syanapsebridgeapp.com
@@ -83976,6 +83984,7 @@ tewz8b0ktmwq0alqi7u3.04jd0b0.ru
 texacon-verify-547fcd.bitballoon.com
 texacon.xn--mythrwallt-c7a86c5a.com
 texasdow.visual.com
+texasplasmacenters.info
 texturepunx.co
 texturepunx.world
 texturpunx.xyz
@@ -88464,7 +88473,6 @@ usd-reward.com
 usd-rewards.com
 usd-rewards.xyz
 usd-token.org
-usdbtc365.com
 usdc-airdrops24.com
 usdc-case.org
 usdc-circle.com
@@ -89080,6 +89088,7 @@ v5multibridgefixconnect.com
 v5myetherwallet.com
 v6.ethdifi20cy.com
 v70bowv4vx4adzc.shared-www.mx2.pancakeswape.finance
+v9si.cc
 va4zuzxs1soe7zo.nautilusoutlook.pancakeswape.finance
 va4zuzxs1soe7zo.www.nautiluswww.outlook.pancakeswape.finance
 vaa5.sa.com
@@ -97515,6 +97524,7 @@ www.creawearable.xyz
 www.creawearables.xyz
 www.crediblebd.net
 www.creditlens.emuladores-sraz.com
+www.creepz-rebirth.com
 www.crestores.com
 www.crm.wallet-guard.app
 www.crome-add-exstemsion-online.com
@@ -105283,6 +105293,7 @@ xn--zkync-kdb.com
 xn--zsync-o5a.com
 xn--zuki-zna.com
 xn-metamsk-en4c.com
+xn66ekl.pro
 xnmetamask.dedyn.io
 xnykdc.com
 xoaplasz.com
@@ -106364,6 +106375,7 @@ zklink.in
 zklink.live
 zkmave.space
 zkme.space
+zkmindversatile.pages.dev
 zkmoney.app
 zkmoney.mirror-web3.site
 zkmoney.org
