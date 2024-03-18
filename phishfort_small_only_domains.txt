@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 10:02:12 UTC 2024
-# Number of Entries: 8075
+# Fetch date: Mon Mar 18 11:02:05 UTC 2024
+# Number of Entries: 8068
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -536,7 +536,6 @@ api15vulcan.com
 api32-altidentifier.com
 api8-vulcan.com
 apicollab.land
-apisweb3lg.cf
 apisyncdapp.live
 apisynchronizer.live
 apkdownload.com
@@ -2075,7 +2074,6 @@ diag-bracco.com
 diamond-magiceden.network
 diamondhands-ethereum.web.app
 digicamforums.com
-digimetamask.com
 digital.free-zetachain.online
 digitaldapp.pages.dev
 digitalsec.mypsx.net
@@ -3612,11 +3610,9 @@ m.js-xlh.com
 m.kinetu.com.cn
 m.mitofinance.app
 m.mltofi.app
-m.modishcoupons.com
 m.nlsgoi.cfd
 m.open-pandora.app
 m.shrininow.com
-m.stylishcoupons.com
 m.teck-invest.com
 m.v3derivatives.site
 macysdiscount.store
@@ -4036,7 +4032,6 @@ metadollar.pro
 metadrop-us.com
 metadrop.cloud
 metadrop.dev
-metadrop.page
 metaemaskk-wwallit.godaddysites.com
 metaexchange.dev
 metafix.vercel.app
@@ -6020,7 +6015,6 @@ seatsent.com
 sebavip.com
 secondllife.tech
 secondx.mypsx.net
-secure-collabland-bot.com
 secure-retry-connecting.alphakreed.com
 secure-user-connect.net
 secure-verify-connects.vercel.app
@@ -6396,6 +6390,7 @@ stonesolsteveaustin.com
 stonex.markets
 stonex12.com
 stonexkr.com
+stonexkr.me
 stonexx.club
 stonexx.net
 store17830.associazionechien.org
@@ -7056,8 +7051,6 @@ wallet--connect.pages.dev
 wallet-balancer.website
 wallet-collabland.com
 wallet-extendedpublickey.pages.dev
-wallet-rectify.firebaseapp.com
-wallet-rectify.web.app
 wallet-support.vercel.app
 wallet-virtual.net
 wallet-vulcan.xyz
