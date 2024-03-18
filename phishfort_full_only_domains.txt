@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 00:05:47 UTC 2024
-# Number of Entries: 106674
+# Fetch date: Mon Mar 18 01:22:34 UTC 2024
+# Number of Entries: 106676
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -9076,6 +9076,7 @@ axieinfinity-bonus.com
 axieinfinity-bot.io
 axieinfinity-bot.shop
 axieinfinity-bot.site
+axieinfinity-com.com
 axieinfinity-com.sign-in-exchange.club
 axieinfinity-eclusive.online
 axieinfinity-event.com
@@ -74433,6 +74434,7 @@ revoke.markets
 revoke.money
 revoke.money.laso.cards
 revoke.page
+revoke.plus
 revoke.pm
 revoke.pro
 revoke.pw
