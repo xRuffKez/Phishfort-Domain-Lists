@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 06:02:47 UTC 2024
-# Number of Entries: 8050
+# Fetch date: Mon Mar 18 07:02:15 UTC 2024
+# Number of Entries: 8056
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -791,6 +791,7 @@ arraklls.flnance.web3-ap.cfd
 art-ross.io
 artblocks-official.com
 artegiron.co
+artprocollect.pro
 artsblock.xyz
 artyfactgame.vercel.app
 arweave-upload-rho.vercel.app
@@ -2855,6 +2856,7 @@ guitarsbyfender.com
 gunitswiftcommunityswap.com
 gwabagu.pages.dev
 gzfd4.cc
+h1.otctron.com
 h407etr.com
 h5.517kuku.com
 h5.newscryptoio.com
@@ -3177,6 +3179,7 @@ jrobotics.com
 jrt8fm.pro
 jsmarketnow.com
 jsol.dev
+jtl11.com
 jtontwrk.com
 ju-catdets-space.vercel.app
 juiceboxmoney.xyz
@@ -3587,6 +3590,7 @@ lwve.top
 lxp-linea.build
 lybrafinance.live
 lybriaflnance.xyz
+lzas3.pro
 m-ducksstudio.com
 m-mask.top
 m-usdt.xyz
@@ -3629,7 +3633,6 @@ magicsquare.pages.dev
 magicsquares.io
 magnetoinfinite.com
 magpie-xyz.com
-magpie-xyz.gift
 magpiesxyz.site
 magpiexyz.in
 magpiexyz.xyz
@@ -4952,6 +4955,7 @@ pancakeswap.systeme.io
 pancakeswapairdrop-event.finance
 pancakeswapairdropevent.finance
 pancakeswapfinance-gg3.pages.dev
+pancakeswapfinances.pages.dev
 pancakeswaph.github.io
 pancakeswapp.finance
 pancakeswapper.online
@@ -5839,6 +5843,7 @@ rnanta-live.com
 rnanta-token.com
 rnantaofflclal.com
 rnantas.network
+robopunksnft.cristovao.codes
 robots-farm.xyz
 rockelpool.net
 rocket-pool-rocket.com
@@ -7846,6 +7851,7 @@ xmas-analos.org
 xmas-bonk.com
 xmas-monkedao.com
 xmas.claims
+xmxx.btcethl.vip
 xn--1nch-vpa.io
 xn--1nh-3la2a.com
 xn--arbtrum-tfb.com
