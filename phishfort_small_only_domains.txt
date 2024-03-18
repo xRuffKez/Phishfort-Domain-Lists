@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 04:02:19 UTC 2024
-# Number of Entries: 8051
+# Fetch date: Mon Mar 18 05:03:12 UTC 2024
+# Number of Entries: 8049
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -814,7 +814,6 @@ asxcoinbr.com
 asxcoincm.com
 asxcoinco.com
 asxstockexchange.com
-asxvips.com
 atariku.site
 atexchange.tech
 atf.mkwk.one
@@ -2169,7 +2168,6 @@ dsr4w.pages.dev
 dtechdatacorp.com
 duegaigh.buzz
 duke-florence-finance.co
-dulcie.vip
 durexwalletbridge.co.za
 dws-team-vs.de
 dydx-exchange.events
@@ -2844,6 +2842,7 @@ grt.t-wallets.top
 grt.trustpados.top
 grt.xcoindrop.top
 gsbglobal.co
+gsj-technology.com
 gslaterapp.com
 gt-ai.org
 gt-ai.xyz
@@ -6698,7 +6697,6 @@ tracomservices.com
 tradedao-mig.click
 tradeogre-web.site
 traderjoe.events
-traderjoeyxz.app
 tradeviewtoken.xyz
 tradinglabs.app
 trafalpo-maniar.com
