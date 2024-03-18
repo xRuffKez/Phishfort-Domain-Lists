@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 10:01:36 UTC 2024
+# Fetch date: Mon Mar 18 11:01:29 UTC 2024
 # Number of Entries: 106700
 # Expires: 1 hour
 0-metemask.com
@@ -31416,7 +31416,6 @@ eubv.xyz
 eucv.xyz
 eucx.xyz
 eughdz.com
-eugq.xyz
 euhdf.top
 euhgi.top
 euhgp.top
@@ -81212,6 +81211,7 @@ stonexgroup.us
 stonexgroupinc.com
 stonexgroups.com
 stonexkr.com
+stonexkr.me
 stonexpros.com
 stonexstrade.com
 stonextrade.com
