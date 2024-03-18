@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 14:03:20 UTC 2024
-# Number of Entries: 8074
+# Fetch date: Mon Mar 18 15:02:12 UTC 2024
+# Number of Entries: 8071
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1413,8 +1413,6 @@ citions.vercel.app
 cittyindex.com
 city-index.net
 cityindex-china.com
-cksurf.com
-cksurf.onelink.me
 clailmreward.xyz
 claim-1inch.org
 claim-argent.xyz
@@ -2392,7 +2390,6 @@ ethfi.global
 ethgases.xyz
 ethgasrefund.net
 ethibainu.network
-ethmetamask.com
 ethnft.app
 ethorv.com
 ethpeg.com
@@ -4785,7 +4782,6 @@ opensea-listings.com
 opensea-minting.com
 opensea-proclaim.vercel.app
 opensea-pronfts.vercel.app
-opensea-xmasbox.com
 opensea.app
 opensea.i-o.eth.co
 opensea.io.in
@@ -4972,6 +4968,7 @@ pancakeswapreward.finance
 pancakeswaps-codingzz-com.crypto-market-world.com
 pancakeswaps-finance.org
 pancakeswaps-finnance.com
+pancakeswapunlock.com
 pancakeswapv3.net
 pancakeswapv4.com
 pancakeswapv5.claims
@@ -5313,7 +5310,6 @@ portfolio-verification.com
 portfoliometamask.com
 portlacoin.xyz
 portofilio-meta-mask-dapps.185-253-219-62.cprapid.com
-powermattion.com
 prayerforjamal.com
 pre-ico.live
 preferbehavioral.com
@@ -5723,6 +5719,7 @@ revcke.cash
 revenue-bitstable.finance
 revest-finance.com
 reviewdocnow.com
+reviews-airhopper.com
 revioke.xyz
 revise.cash
 revok.info
