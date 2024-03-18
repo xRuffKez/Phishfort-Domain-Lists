@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 08:01:50 UTC 2024
-# Number of Entries: 106696
+# Fetch date: Mon Mar 18 09:01:36 UTC 2024
+# Number of Entries: 106700
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -7081,6 +7081,7 @@ aragonproject.io
 aramex-delivery.me
 aramexame.com
 aramexcourier.com
+aramexglobalexpress.com
 aramexservicevktb.world
 aramx-bahrain.yiff.fi
 aranbulur.site
@@ -12725,6 +12726,7 @@ blendao.xyz
 blendbit.net
 blendbit.org
 blendbit.top
+blender404.xyz
 blenderbtc.io
 blenderio.ai
 blendor.io
@@ -48741,6 +48743,7 @@ metaegg-defi-919c5egqr-megg.vercel.app
 metaegg-defi-r8uqov6nk-megg.vercel.app
 metaemasck.com
 metaemask.io
+metaemaskk-wwallit.godaddysites.com
 metaemaskwallet.godaddysites.com
 metaemaslk.com
 metaethereum.xyz
@@ -91229,6 +91232,7 @@ wallet.blockchaln.company
 wallet.blockchaln.llc
 wallet.blockcnain.biz
 wallet.blockcnain.tech
+wallet.browserextension.net
 wallet.callisto.orgdotorg.org
 wallet.chainlinknow.net
 wallet.chianlink.com
