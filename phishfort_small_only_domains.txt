@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 18:02:18 UTC 2024
-# Number of Entries: 8070
+# Fetch date: Mon Mar 18 19:02:58 UTC 2024
+# Number of Entries: 8071
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -649,7 +649,6 @@ app.moonbeamer-swap.com
 app.parallelfl.network
 app.pomerdoge.live
 app.prisrnafinance.com
-app.qirtm.com
 app.raticswap.xyz
 app.refundcoinstake.com
 app.rnino.fi
@@ -1976,6 +1975,7 @@ deelanceair.co
 deelancebit.com
 deelancers.org
 deepcoin-trade.com
+defabuso.me
 defcoins.vip
 defellana.com
 defend.sentrykava.com
@@ -2107,7 +2107,6 @@ distribution-metis.com
 distribution-pancakeswap.xyz
 distribution-pondcoin.com
 distribution-shido.com
-diversitechs.com
 dlogdapp.pages.dev
 dmail-airdrop.org
 dmail.news
@@ -2885,6 +2884,7 @@ hdi6v.pro
 healthcheck.com
 healthequity.comru.za.com
 healthequity.comy.sa.com
+healthequity.live
 healthequity.za.com
 heatherleelarioni.me
 heatocrazed.com
@@ -2903,7 +2903,6 @@ help.fixingerror.io
 helpforuneployment.com
 helpinghandic.com
 helpmetamask.xyz
-hendersonglobal.net
 herafinance.live
 hex-distributions.com
 hex-multipliers.com
@@ -3416,6 +3415,7 @@ ldofi-promos.com
 leadpeopleright.com
 leafdreamhomes.com
 leakhub.io
+learcorporativo.com
 learn-unibot.app
 learventa.com
 learventas.com
@@ -3565,7 +3565,6 @@ login.microsoftonlineportal.ppp-gov.online
 login.wapstore.duckdns.org
 login1-blockgames.xyz
 login2-blockgames.xyz
-lohinmicrokkient.xyz
 lololol888.xyz
 lomeptos.com
 lookrere.org
@@ -5086,6 +5085,7 @@ paxfulintervenor.com
 paxfulmoderater.com
 paxfulonline.com
 paxfulp2p.com
+paxfulpay.com
 paxfulproblems.com
 paxfult.com
 paxfulteams.com
@@ -5528,6 +5528,7 @@ raffleopnsea.com
 raffleusdc.com
 rainbow.mt-gox.site
 rainbow.trading
+rainy.synology-ds.de
 raksfifthavenue.com
 ranbuny.com.au
 randomecoin-ads.eu
@@ -7200,6 +7201,7 @@ webappnode.com
 webappresolve.pages.dev
 webdapps.vercel.app
 webdebugdapp.pages.dev
+webex.com.test.webexarcor.arcorsa.myshn.net
 webex.net.cn
 webfixrpc.online
 webgraph.live
@@ -7254,7 +7256,6 @@ wer34.pages.dev
 wesmopay.com
 wessxcrz.online
 west-braves.info
-westsairsgases.org
 whalesmarket.org
 white-frame.xyz
 white-manta.network
