@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 12:02:48 UTC 2024
-# Number of Entries: 8069
+# Fetch date: Mon Mar 18 13:02:18 UTC 2024
+# Number of Entries: 8070
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2298,6 +2298,7 @@ emirates-tickets.com
 emirates.airfareuk.co.uk
 emirates.flightse.co
 emiratesairlines.info
+emiratescashreward.com
 emiratesgroup.online
 emiratesholiday.net
 emiratesvacationspackages.com
@@ -2978,7 +2979,6 @@ ibllcq.com
 ibllcr.com
 ibllcy.com
 icologin.online
-icologin.site
 icologin.vip
 iconotice.fun
 identicalentail.top
@@ -6563,6 +6563,7 @@ terra.ong
 terradrop.net
 tesdt56n.pages.dev
 tesla-coingrabs.vercel.app
+test-project-llfwf7bel-artemkk787-gmailcom.vercel.app
 test.saf9gti25klom8xz79iyn2s.xyz
 test3123123132.pages.dev
 testdomainstesting2.com
