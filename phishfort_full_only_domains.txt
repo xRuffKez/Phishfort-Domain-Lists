@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 12:02:06 UTC 2024
-# Number of Entries: 106701
+# Fetch date: Mon Mar 18 13:01:45 UTC 2024
+# Number of Entries: 106703
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -28725,6 +28725,7 @@ emiratesairlinehelpline1.educatorpages.com
 emiratesairlines.info
 emiratesairlines.ru
 emiratesairlinescompany.in.net
+emiratescashreward.com
 emiratescatering.com
 emiratesdistributions.com
 emiratesenterprise.com
@@ -83849,6 +83850,7 @@ test-exchange-pancake.pages.dev
 test-fdb-portal.nubill.com
 test-metamask.pages.dev
 test-polkadot.js.org
+test-project-llfwf7bel-artemkk787-gmailcom.vercel.app
 test.1inch.airdrop.live
 test.account.pancakeswape.finance
 test.b2b.pancakeswape.finance
