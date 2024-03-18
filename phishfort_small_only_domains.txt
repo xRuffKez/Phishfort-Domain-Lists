@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 22:02:10 UTC 2024
-# Number of Entries: 8071
+# Fetch date: Mon Mar 18 23:02:14 UTC 2024
+# Number of Entries: 8059
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1377,7 +1377,6 @@ chainzerioncliam.pages.dev
 chamasloustorgst.com
 chamath-x2.live
 champion-tactic.com
-championstactics.app
 changelly.plus
 cheat-space.com
 check-defi.com
@@ -2258,7 +2257,6 @@ econopure.com.vn
 educalaguna.gob.mx
 eelcb.com
 eeogresources.com
-eepatriot.com
 eesee.co
 eesee.trading
 eform-agoda.com
@@ -2499,7 +2497,6 @@ feiraochevro.com
 fenderuk.com
 feosz.info
 feraniumyard.com
-festivalfomaric-dla.com
 feverowarrior.com
 fffcu.de
 fi-woo-org.vercel.app
@@ -2649,7 +2646,6 @@ fudsolana.org
 fuelnetwork-register.vercel.app
 fujimitsudynamic.com
 fullmoonbird-next.vercel.app
-funairdrop.fun
 funairdrop.vip
 funkapez.com
 fusestaking.app
@@ -3181,7 +3177,6 @@ jpzhgw.sbs
 jrobotics.com
 jrt8fm.pro
 jsmarketnow.com
-jsol.dev
 jtl11.com
 jtontwrk.com
 ju-catdets-space.vercel.app
@@ -3270,6 +3265,7 @@ kasgca.com
 kaspamining.app
 katana-ronchain.com
 katana.ronlncdain.com
+katanaroninchain.shop
 kavaa-web.netlify.app
 kavadefend.me
 kcs-airdrop.com
@@ -3489,6 +3485,7 @@ linae-parks.com
 linea-consensys.world
 linea-layerfinance.com
 linea-park.com
+linea.baby
 lineabridge.build
 lineabuiid.com
 lineadapps.xyz
@@ -3972,7 +3969,6 @@ mehrleseninformieren.com
 mehrlesenzeitung.com
 melea.io
 meleadapp.com
-meleadash.com
 melstroy.by
 memayes.com
 members-kcchamber.com
@@ -5071,7 +5067,6 @@ pax-f.netlify.app
 paxful-clo.com
 paxful-club.com
 paxful-web.com
-paxful.business
 paxful.instenpay.com
 paxful.payment-offer.com
 paxful78291047.com.ng
@@ -5195,7 +5190,6 @@ peylocity.org
 pfantmwallet.godaddysites.com
 phanntm-walluut.godaddysites.com
 phanntomnwallet.com
-phansd.online
 phanss.online
 phant0m-wallet.github.io
 phantimp.xyz
@@ -5397,7 +5391,6 @@ pvth-network.com
 pwsign.com
 pwtradeco.com
 pwxskm.cfd
-pxffsite.web.app
 pxlivewebsite.onrender.com
 pyro-nft-vercel.pages.dev
 pyrthdex.com
@@ -7100,7 +7093,6 @@ wap.kinetu.com.cn
 wap.uu-whatsapp.com
 wapprecktconnt.pages.dev
 waprcast.com
-washingtonpost.in
 washingtonposts.info
 waves-opensea.com
 wbtc-portal.com
@@ -7253,7 +7245,6 @@ wenwendrop.com
 wenwenofficial.com
 wepad.web3mirror.io
 wer34.pages.dev
-wesmopay.com
 wessxcrz.online
 west-braves.info
 whalesmarket.org
@@ -7277,7 +7268,6 @@ whitelist-porkcoin.com
 whitelist-satoshivm.com
 whitelist-satoshivm.io
 whitelist-sillydragon.com
-whitelist-vate-fenx-90.shlnk.site
 whitelist-wenwencoin.com
 whitelist-woo.org
 whitelist-woo.pages.dev
@@ -7599,7 +7589,6 @@ www.mavias.club
 www.mavla.xyz
 www.mehrlesenachrichten.com
 www.meta.pika.asia
-www.meta0096.com
 www.meta009911.com
 www.meta2842.com
 www.metamask-mining.com
@@ -7645,7 +7634,6 @@ www.nigoet.com
 www.nikcos.com
 www.node-protocol.net
 www.node.authfxconnector.com
-www.noonesoffer.com
 www.norwegianlife.net
 www.notgal.com
 www.notkem.com
