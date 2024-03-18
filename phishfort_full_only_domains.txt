@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 02:07:01 UTC 2024
-# Number of Entries: 106676
+# Fetch date: Mon Mar 18 03:01:54 UTC 2024
+# Number of Entries: 106679
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -47261,6 +47261,7 @@ manualfix.xyz
 manuallfixsyncc.netlify.app
 manuallsync.xyz
 manualmetarestore-39f.pages.dev
+manualmigrate.online
 manualonline-sync.com
 manualrectifying.com
 manualrepair.site
@@ -73359,6 +73360,7 @@ rayzone-18.vercel.app
 rayzonfinance.com
 raze-drops.top
 razebit.com
+razz-dapp-omega.vercel.app
 rbcttbankt.com
 rbi-in.org
 rbitrum.com
@@ -84167,6 +84169,7 @@ theemiratesgroupae.com
 theemiratesgroupae.online
 theemiratesgroups.com
 theemiratesgroupuae.com
+theemiriatesgroup.online
 theemiriatesgroupae.com
 theemiriatesgroupuae.com
 theemriatesgroup.online
