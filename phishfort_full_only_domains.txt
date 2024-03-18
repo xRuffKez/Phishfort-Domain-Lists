@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 15:01:42 UTC 2024
-# Number of Entries: 106713
+# Fetch date: Mon Mar 18 16:02:01 UTC 2024
+# Number of Entries: 106717
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -26791,6 +26791,7 @@ dmiarket.com
 dmitricherniak1-free.xyz
 dmmltt0.info
 dna-otherside.xyz
+dnaata.com
 dnata.anyinspect.com.br
 dnatta.com
 dnmrket.com
@@ -42855,7 +42856,6 @@ leapwallet-io.com
 lear-corps-inc.com
 lear-corps.com
 lear.cloud
-learcorporativo.com
 learcorps.com
 learen.org
 learn-airdrop.click
@@ -53683,6 +53683,7 @@ mtaaamskkonline.work.gd
 mtaetammasks.azurewebsites.net
 mtamask.art
 mtamask.club
+mtamskwalogs.azurewebsites.net
 mtaskx.com
 mtaupdate.com
 mtc-ico.online
@@ -84196,6 +84197,7 @@ theemirategroup.com
 theemirategroups.com
 theemiratesgroupae.com
 theemiratesgroupae.online
+theemiratesgroups-ae.online
 theemiratesgroups.com
 theemiratesgroupuae.com
 theemiriatesgroup.online
@@ -84562,6 +84564,7 @@ ticket-porsche.com
 ticket-support.io
 ticket.cyberninjacoin.com
 ticket.elsumo.xyz
+ticket.universalprotocoldapp.io
 ticketbookingspot.com
 ticketchain.pages.dev
 ticketflyerflights.com
@@ -87178,6 +87181,7 @@ unifiedconnect.info
 unifieddecentralizedtools.site
 unifieddex.com
 unifiedonline.live
+unifiedprotocol.xyz
 unifiedsmartsync.live
 unifiedsmartsync.premiumvixer.com
 unifiedwalletsvalidation.com
