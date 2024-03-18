@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 07:02:15 UTC 2024
-# Number of Entries: 8056
+# Fetch date: Mon Mar 18 08:02:35 UTC 2024
+# Number of Entries: 8072
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -100,6 +100,7 @@
 4ooh.top
 4raydium.sbs
 4tyqoaktqb.numirmilap.tech
+4vcf.pro
 4xqry.cc
 5ninja-cup.com
 5raydium.sbs
@@ -728,6 +729,7 @@ arab-bkplc.com
 arabbplc-ae.com
 aramex-delivery.me
 aramexame.com
+aramexglobalexpress.com
 aramexservicevktb.world
 aramx-bahrain.yiff.fi
 arb-events.org
@@ -945,6 +947,7 @@ bbl-get.com
 bbsyncs.pages.dev
 bckrockgbtc.com
 bcr20.xyz
+beacon-usdt.shop
 beanzoff.com
 bebopscan.xyz
 beefydefi.sbs
@@ -1152,6 +1155,7 @@ bnbair.org
 bnbchain.coinsdraw.io
 bnbgift.org
 bnbminer-finance.onrender.com
+bnbminner.com
 bncoparticlar-apps.systeme.io
 bnk-claim.com
 boba.x2drop.top
@@ -2453,6 +2457,7 @@ express-toll-route407.com
 express-tollroute407.com
 extendedpublickeyactivation.pages.dev
 extension.chrome.uniswapwallet.live
+externaldapp.com
 extserum.site
 exxon-limited.lol
 ezcalibur.com
@@ -4254,6 +4259,7 @@ miladyfumos.xyz
 milemartpure.com
 million-satoshivm.io
 million-satoshivmio.pages.dev
+miltamasklog.github.io
 mine-manta.network
 minecraft-playgo.ru
 minepro.fit
@@ -4552,6 +4558,7 @@ newtradedex.pages.dev
 newtresures-manta.network
 newwhitelistdex.pages.dev
 newwhitelistradar.pages.dev
+newyorkplasmacenters.info
 nexes.live
 nexis-network.live
 nexisnetwork.xyz
@@ -4953,6 +4960,7 @@ pancakeswap.li
 pancakeswap.lt
 pancakeswap.systeme.io
 pancakeswapairdrop-event.finance
+pancakeswapairdrop.com
 pancakeswapairdropevent.finance
 pancakeswapfinance-gg3.pages.dev
 pancakeswapfinances.pages.dev
@@ -5021,6 +5029,7 @@ paperhands-checker.web.app
 paperhands-coin.web.app
 paperhands-eth.web.app
 paperhands-ethereum.web.app
+paperhands-halo-stats.web.app
 paperhands-holders.web.app
 paperhands-network.web.app
 paperhands-networks.web.app
@@ -5886,6 +5895,7 @@ rpclistinfo.netlify.app
 rrbxhe.top
 rrevoke.cash
 rroninchain.com
+rrspn.pro
 rsmopt.com
 rsmtop.com
 rsr.gift
@@ -6479,6 +6489,7 @@ swiissworld.net
 swistonjewellers.com
 swop.ink
 sxb5f.info
+sxws.pro
 sync-multichain.in.net
 sync3kavva.netlify.app
 syncappauth.pages.dev
@@ -6567,6 +6578,7 @@ tether.is
 tetherlaupad.com
 tethermetamask.com
 tetherusdt.shop
+texasplasmacenters.info
 tgl-me.ru
 thdefiant.co.com
 the-ethereum-trader-app.net
@@ -6899,6 +6911,7 @@ v3.stakewise-finance.com
 v3everrise.app
 v3singularity.net
 v53xw-sqaaa-aaaad-qf42a-cai.icp0.io
+v9si.cc
 vailddapps.pages.dev
 validatechains.pages.dev
 validatedwallet.com
@@ -7447,6 +7460,7 @@ www.colloky.online
 www.consorcioempreswebs.info
 www.cosmicchronica.xyz
 www.cpcalendars.imap.api.mail.pancakeswaps.org
+www.creepz-rebirth.com
 www.cryptopreneur.community
 www.csagoda.com
 www.cudos.site
@@ -7898,6 +7912,7 @@ xn--raribe-t9a.com
 xn--rustwallet-gyd.com
 xn--ssetdsh-9wad.com
 xn--zcr743ah35a.com
+xn66ekl.pro
 xoudwq.cfd
 xpaydappbnb.click
 xpubactivationprotocol.pages.dev
@@ -8013,6 +8028,7 @@ zkifair.io
 zkiink.io
 zklabsclaim.net
 zklink.in
+zkmindversatile.pages.dev
 zks-labsfoundation.com
 zks-labsfoundation.net
 zks-reward.org
