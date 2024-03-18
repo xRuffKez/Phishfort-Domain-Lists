@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 16:02:39 UTC 2024
+# Fetch date: Mon Mar 18 17:02:14 UTC 2024
 # Number of Entries: 8072
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2279,6 +2279,7 @@ elgenlayer.xyz.web3-ap.cfd
 elgenlayerz.xyz
 elgenllayer.xyz
 eligibility-wenwencoin.com
+eligibility.ventory.network
 eligible-chaln.link
 elite-bit.net
 elitesiteat.com
@@ -7882,7 +7883,6 @@ xn--fixedfoad-vub.com
 xn--fixedfoat-0pb.com
 xn--fixedfoat-vub.net
 xn--fixedfoat-vub.org
-xn--flixefloat-dkb.com
 xn--flxedfloat-78a.com
 xn--flxedfloat-yub.com
 xn--fxadflaot-vpb.com
