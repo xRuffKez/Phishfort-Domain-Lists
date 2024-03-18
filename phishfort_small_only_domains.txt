@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 02:07:30 UTC 2024
-# Number of Entries: 8049
+# Fetch date: Mon Mar 18 03:02:34 UTC 2024
+# Number of Entries: 8051
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3865,6 +3865,7 @@ manto-networks.com
 manual-metarestore.pages.dev
 manual-restore.pages.dev
 manualmetarestore-39f.pages.dev
+manualmigrate.online
 manualvulcanforged.online
 manuta.network
 manvta.network
@@ -3967,7 +3968,6 @@ mefamask.com
 mehrleseninformieren.com
 mehrlesenzeitung.com
 melea.io
-melea.news
 meleadapp.com
 meleadash.com
 melstroy.by
@@ -5580,6 +5580,7 @@ raydum.sbs
 rayidium.com
 rayzonfinance.com
 raze-drops.top
+razz-dapp-omega.vercel.app
 rdx.vercel.app
 rdxshoes.click
 reachedoutseveral.com
@@ -6577,6 +6578,7 @@ theemirategroups.com
 theemiratesgroupae.com
 theemiratesgroupae.online
 theemiratesgroupuae.com
+theemiriatesgroup.online
 theemiriatesgroupae.com
 theemiriatesgroupuae.com
 theemriatesgroup.online
