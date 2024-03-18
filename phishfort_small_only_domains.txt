@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 17:02:14 UTC 2024
-# Number of Entries: 8072
+# Fetch date: Mon Mar 18 18:02:18 UTC 2024
+# Number of Entries: 8070
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3117,7 +3117,6 @@ jamesthurmankahn.com
 jane-ai.com
 jane-ai.net
 january-distribution.xyz
-janushendeosonn.tokyo
 janushenderson.agenciastatus.com.br
 jasmy.x-trastpad.top
 jazzy-puffpuff-8f1eac.netlify.app
@@ -3964,6 +3963,7 @@ me.truefair.xyz
 me9.us
 meatmesk.com
 mediaflex.live
+medialink.ie
 medidata-mobile.com
 mee6-connect.xyz
 mee6appeals.xyz
@@ -6917,7 +6917,6 @@ vailddapps.pages.dev
 validatechains.pages.dev
 validatedwallet.com
 validaten0de.pages.dev
-validationpi.web.app
 validator-solscan.org
 valikane.com
 valilake.com
@@ -7882,7 +7881,6 @@ xn--fixedflot-hdb.com
 xn--fixedfoad-vub.com
 xn--fixedfoat-0pb.com
 xn--fixedfoat-vub.net
-xn--fixedfoat-vub.org
 xn--flxedfloat-78a.com
 xn--flxedfloat-yub.com
 xn--fxadflaot-vpb.com
