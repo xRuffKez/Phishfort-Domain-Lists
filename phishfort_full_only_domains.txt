@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 18 22:01:31 UTC 2024
-# Number of Entries: 106724
+# Fetch date: Mon Mar 18 23:01:48 UTC 2024
+# Number of Entries: 106725
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -41132,6 +41132,7 @@ katanaronin.com
 katanaronin.online
 katanaroninchain.live
 katanaroninchain.org
+katanaroninchain.shop
 katanaroninchain.site
 katanaroninchains.com
 katanaroninchainswap.online
@@ -43704,6 +43705,7 @@ linea-park.com
 linea-pass.com
 linea-protocol.online
 linea.axelar.pro
+linea.baby
 linea.bridge-web3.com
 linea.claims
 linea.connectweb3.org
@@ -64127,6 +64129,7 @@ pancakeswap-wallet.com
 pancakeswap-wallet.dominiquejewellery.com
 pancakeswap-wallet.finance
 pancakeswap-wallet.online
+pancakeswap-wallet.pages.dev
 pancakeswap-web.com
 pancakeswap-web.tradlerjoexyz.net
 pancakeswap-web.us
@@ -72402,7 +72405,6 @@ pwsign.com
 pwtradeco.com
 pwxskm.cfd
 pxantanwuallte.godaddysites.com
-pxffsite.web.app
 pxful.ml
 pxlivewebsite.onrender.com
 pxn-phantom.com
@@ -93505,7 +93507,6 @@ washington-posts.com
 washingtonpost.asia
 washingtonpost.careers
 washingtonpost.com.cz03149.tw1.ru
-washingtonpost.in
 washingtonpost.ltd
 washingtonpost.pm
 washingtonpost.team
