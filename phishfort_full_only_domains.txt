@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 22:01:33 UTC 2024
-# Number of Entries: 106803
+# Fetch date: Tue Mar 19 23:01:38 UTC 2024
+# Number of Entries: 106804
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -53832,6 +53832,7 @@ multi-trustpade.com
 multi-trustpade.net
 multi-trustpade.pro
 multi-trustpade.site
+multi-trustpades.cc
 multi-trustpads.com
 multi-trustpads.io
 multi-trustpads.net
