@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 09:02:12 UTC 2024
-# Number of Entries: 8079
+# Fetch date: Tue Mar 19 11:02:25 UTC 2024
+# Number of Entries: 8078
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1269,7 +1269,6 @@ bvrefe.pages.dev
 bvuvs.info
 bybit-gift.space
 bytedog.pro
-bzname-service.com
 c7ed7c0a-a3f0-4a62-9092-b1bb34dc0ec4-00-2hhxxwsgft7jv.janeway.replit.dev
 c9bae519-e21c-44b6-990c-e47a9b25b5a1-00-2o0u40bra6plm.janeway.replit.dev
 cadenceprotocol.net
@@ -2157,6 +2156,7 @@ drakosol.com
 dreamotrust.com
 drili.me
 drip-networkcommunity.org
+drive-document-file-2024.github.io
 drop-apeterminal.com
 drop-celestias.xyz
 drop-ether.fi
@@ -2982,7 +2982,6 @@ ibllcq.com
 ibllcr.com
 ibllcy.com
 icologin.online
-icologin.vip
 iconotice.fun
 identicalentail.top
 identity.sandbox.tymebank.ngenius-payments.com
@@ -6806,6 +6805,7 @@ umusic-pub.com
 umusiceu.com
 un5gmtkzgj4ewmq43w.myob.best
 unapatches.com
+unblock.pancakeswaapfinance.net
 unclaimeddrops.link-claiming.xyz
 unfi-mall.vip
 unfi.cc
@@ -6888,7 +6888,6 @@ usdcevent.us
 usdcollect.com
 usdcpayout.com
 usdctip.net
-usdevent.com
 usdmint.co
 usdonbsc.tech
 usdt-bonus.org
