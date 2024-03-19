@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 18:01:45 UTC 2024
-# Number of Entries: 106778
+# Fetch date: Tue Mar 19 19:02:25 UTC 2024
+# Number of Entries: 106784
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6326,6 +6326,7 @@ app.pomerdoge.live
 app.pool-1inch.io
 app.prisrnafinance.com
 app.pulsiex.com
+app.qirtm.com
 app.questn.org
 app.radant.capital
 app.raticswap.xyz
@@ -52024,6 +52025,7 @@ metttamaskwalleet.godaddysites.com
 metttamskwuillet.godaddysites.com
 metttimaskwalltet.godaddysites.com
 mettttamksaks.azurewebsites.net
+mettvcmaske.azurewebsites.net
 metuclogi.godaddysites.com
 metuimiskwalet.godaddysites.com
 metumasik-logiin.godaddysites.com
@@ -72441,6 +72443,7 @@ pwsign.com
 pwtradeco.com
 pwxskm.cfd
 pxantanwuallte.godaddysites.com
+pxffsite.web.app
 pxful.ml
 pxlivewebsite.onrender.com
 pxn-phantom.com
@@ -78877,6 +78880,7 @@ smartsheet.icinternal.com
 smartsheet.net.cn
 smartsheet.voklop.pro
 smartsheets.site
+smartsheetusa.team
 smartshet.com
 smartsoilutiontec.live
 smartsolliution.live
@@ -94749,6 +94753,7 @@ westfieldsgrp.com
 westlrock.com
 westminst.site
 westrock-test.compliancedesktop.com
+westrock-workwear.nl
 westrock.pro
 westrock.systemhaus.shop
 westrockb.com
@@ -96091,6 +96096,7 @@ www.addepar-web3.org
 www.advancedauth.website
 www.aegtecnoservice.it
 www.affixkawaiimainnet.com
+www.aflacalabamainsurance.online
 www.aflacchildhoodcancerfoundation.org
 www.aflacxvmlyr.com
 www.ag-galagames-app.com
