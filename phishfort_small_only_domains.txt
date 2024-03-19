@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 17:02:13 UTC 2024
-# Number of Entries: 8073
+# Fetch date: Tue Mar 19 18:02:14 UTC 2024
+# Number of Entries: 8075
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3568,6 +3568,7 @@ login--blockgames.com
 login-cisco.tech
 login-frame.xyz
 login-metamaskwallet.ddnss.eu
+login.cw1.ir
 login.frame-airdrop.xyz
 login.microsoftonlineportal.ppp-gov.online
 login.wapstore.duckdns.org
@@ -4510,6 +4511,7 @@ neomcareers.cloud
 neomcareers.life
 neomonlines.info
 neomprojects-ksa.net
+neomsuppliers.net
 neotokyohq.pro
 net-drop.netlify.app
 netnftframe.com
@@ -5106,6 +5108,7 @@ paxos-trades.com
 paxos-zendesk.com
 paxos.gift
 paxosestm.com
+paxosg.com
 paxosiys.com
 paxoskop.com
 paxosogt.com
@@ -6937,7 +6940,6 @@ vaultedvibes.online
 vaultscanner.com
 vdwdz.top
 vectorreserve.live
-veeeam.com
 velamigration.pro
 velocore.pages.dev
 velodrome-finance.app
