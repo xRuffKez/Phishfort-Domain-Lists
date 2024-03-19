@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 15:02:12 UTC 2024
-# Number of Entries: 8066
+# Fetch date: Tue Mar 19 16:02:18 UTC 2024
+# Number of Entries: 8068
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -844,7 +844,6 @@ auth.meta-syncs.com
 auth.redapps.icu
 auth0discord-collab.world
 authenticatorjoin.cc
-authenticpeninsula.top
 authradarbridge.com
 auths-mylogn.com
 authwalletsolutiiondappether.com
@@ -2886,6 +2885,7 @@ havas-aso.com
 hca-healthcare.com
 hdi6v.pro
 healthcheck.com
+healthequity.comru.sa.com
 healthequity.comru.za.com
 healthequity.comy.sa.com
 healthequity.live
@@ -4806,8 +4806,11 @@ openseeaclick.vercel.app
 openseek.xyz
 opensenft.vercel.app
 openseraffle.com
+opensesa.io
+opensrea.io
 openssea.org
 operenbox-javis-nyugens-projects.vercel.app
+opernsea.io
 opeseapro.vercel.app
 opnseaboxed.vercel.app
 opnsreapro.vercel.app
@@ -5088,7 +5091,6 @@ paxfulproblems.com
 paxfult.com
 paxfulteams.com
 paxfulvn.com
-paxoinx.com
 paxos-app.com
 paxos-club.com
 paxos-eth.com
@@ -6784,7 +6786,6 @@ ufalmassuissat.com
 ufgw.top
 uhcdapp-apply-srv-eligible.glitch.me
 uhcrecruit.com
-uidetmabenefits.org
 uiredofmassucherndy.com
 ujp.ag
 uk-applovinlife.com
@@ -7352,6 +7353,7 @@ www-orbiter.xyz
 www-peryourhealth.com
 www-safe-global.info
 www.0xprotocol.site
+www.1asxhkd.com
 www.1inchfinance.com
 www.1inchwallet.app
 www.1lnchfinance.io
