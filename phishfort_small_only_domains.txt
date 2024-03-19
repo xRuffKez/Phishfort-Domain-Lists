@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 07:02:19 UTC 2024
-# Number of Entries: 8076
+# Fetch date: Tue Mar 19 08:02:34 UTC 2024
+# Number of Entries: 8079
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1858,9 +1858,11 @@ dapplaunchpad.live
 dappmainhub.pages.dev
 dappmigratechain.com
 dappmobilewallet.com
+dappnetsfp.com
 dapppaxos.co
 dapprad.net
 dappradaar.net
+dappradar-ads-x.com
 dappradar-claim.com
 dappradar-token.com
 dappradar.ac
@@ -4169,6 +4171,7 @@ metaveersechaain.pro
 metaweb-import.pages.dev
 metawebfix-4.pages.dev
 metemask.cc
+metemesk-wallat.godaddysites.com
 metemesks.io
 metemnsk.io
 metenesk.io
