@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 12:03:17 UTC 2024
-# Number of Entries: 8074
+# Fetch date: Tue Mar 19 14:02:55 UTC 2024
+# Number of Entries: 8068
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -68,6 +68,7 @@
 2024gmcsilverado.website
 24397033.4d1df63187c716fb9bc6ff22.workers.dev
 26grbw.cc
+2acnmzzlink.webcindario.com
 2eth.org
 2fa-metamask.online.snackbarko.nl
 2fa-metamassk.com
@@ -154,7 +155,6 @@ abict.net
 abosslab.com
 abracadebra.money
 abspaurill.com
-abstra-v3.vercel.app
 academy.topbundalle.com
 acahealthinsure.com
 accboxi.com
@@ -780,7 +780,6 @@ archetives.com
 arenal-outlet.shop
 arenal-outlet.vip
 arenal-sale.shop
-arenaldiscount.shop
 arenales-outlet.shop
 areyoubullishsol.io
 arkhamintelligence.gift
@@ -1390,6 +1389,7 @@ chicenminer.xyz
 childporn.umb.market
 chillilo.co
 chimpzee-claim.pages.dev
+chndemarloonst.com
 chonky.claims
 chriscraft.shop
 christmas-pump.coins-pad.tech
@@ -1552,7 +1552,6 @@ clickopenboxnft.vercel.app
 client.plataformainteractivebrokers.com
 clifardchancegroups.com
 cliffardchance.com
-clifford-chance-llp.com
 clifford-chance.accountant
 clifford-chance.finance
 clifford-chance.financial
@@ -1926,7 +1925,9 @@ dashbprd-charli3.live
 dashliquid.com
 data-trustwallet.com
 davi.pse-ssl.win
+daviplatanotific.webcindario.com
 daviplataportal.webcindario.com
+daviplataseeg.webcindario.com
 davipse.info
 davitahealthcarepartners.com
 daviviendainforma.zya.me
@@ -2460,7 +2461,6 @@ express-tollroute407.com
 extendedpublickeyactivation.pages.dev
 extension.chrome.uniswapwallet.live
 externaldapp.com
-extserum.site
 exxon-limited.lol
 ezcalibur.com
 ezkalibur.com.web3-connect.pw
@@ -2850,6 +2850,7 @@ grt.altscoin.top
 grt.t-wallets.top
 grt.trustpados.top
 grt.xcoindrop.top
+grupo-virtual.webcindario.com
 gsbglobal.co
 gsj-technology.com
 gslaterapp.com
@@ -2869,6 +2870,7 @@ h5.517kuku.com
 h5.newscryptoio.com
 hajj-nusuk.foundation
 hajjdomestic-sa.info
+haleymasschendiovst.com
 halfunionmother.com
 halo-defi.web.app
 halo-portfolio.web.app
@@ -2908,6 +2910,7 @@ helpmetamask.xyz
 herafinance.live
 hex-distributions.com
 hex-multipliers.com
+highllght.com
 hippies-world.com
 hlbtn-company.ltd
 hntevent.com
@@ -3006,7 +3009,6 @@ illuviumpassairdrops.com
 illuviumrewards.io
 illuviumweb3.com
 img.coolpayvn.com
-img.m.api.blog.api.mail.pancakeswaps.org
 img.vncoolpay.com
 immutable.defi-community.com
 immutablle.me
@@ -3060,7 +3062,6 @@ integratedapps.pages.dev
 integratedchain.000.pe
 integratedfix.live
 integratedmultifix.pages.dev
-integratedsystemsconnect.com
 integratemultichainfix.pages.dev
 integrationvaults.com
 intellix-protocol.com
@@ -3140,6 +3141,7 @@ jkyr.pro
 joblessassistancenetwork.com
 joblessassistanceportal.net
 joblessconnect.net
+joblessconnect.org
 join-aofverse.com
 join-befilabs.com
 join-blockgames.com
@@ -3565,7 +3567,6 @@ login--blockgames.com
 login-cisco.tech
 login-frame.xyz
 login-metamaskwallet.ddnss.eu
-login.cw1.ir
 login.frame-airdrop.xyz
 login.microsoftonlineportal.ppp-gov.online
 login.wapstore.duckdns.org
@@ -4510,7 +4511,6 @@ neomcareers.cloud
 neomcareers.life
 neomonlines.info
 neomprojects-ksa.net
-neomsuppliers.net
 neotokyohq.pro
 net-drop.netlify.app
 netnftframe.com
@@ -5102,6 +5102,7 @@ paxos-token.org
 paxos-trades.com
 paxos-zendesk.com
 paxos.gift
+paxosestm.com
 paxosiys.com
 paxoskop.com
 paxosogt.com
@@ -5529,7 +5530,6 @@ rainbow.trading
 rainy.synology-ds.de
 raksfifthavenue.com
 ranbuny.com.au
-randombitcoins.com
 randomecoin-ads.eu
 randomecoins.com
 rarible-web.com
@@ -6287,7 +6287,6 @@ sprak.fi
 srmpool.xyz
 srtoos.com
 srxuznzcsy.nepialisen.tech
-ssh.imap.api.mail.pancakeswaps.org
 ssh.secure.secure.pancakefiance.org
 ssly.vip
 sspark.fi
@@ -6453,7 +6452,6 @@ sushi.gifts
 sushipwap.github.io
 sushiswap-sushi.app
 sushiswap.lt
-sushiswap.mom
 sushlswap.github.io
 sw-syncswap.com
 swanchain-register-opennow.vercel.app
@@ -6725,7 +6723,6 @@ tramertoe.top
 tramsipublicidad.com
 transactionfair.site
 transfer24p2p.ru
-trastumanvst.com
 travalaai.live
 travel.quickflightbooking.online
 travelfly-united.com
@@ -7103,6 +7100,7 @@ wap.kinetu.com.cn
 wap.uu-whatsapp.com
 wapprecktconnt.pages.dev
 waprcast.com
+washingtonpost.in
 washingtonposts.info
 waves-opensea.com
 wbtc-portal.com
@@ -7133,7 +7131,6 @@ web3-connectha.gq
 web3-connectix.cf
 web3-connectmi.tk
 web3-connectsj.gq
-web3-cyptoo.com
 web3-ethereum.info
 web3-kaavva.netlify.app
 web3-manta.pages.dev
@@ -7179,7 +7176,6 @@ web3defi07.top
 web3defi168.top
 web3defi352.top
 web3defi495.top
-web3defi7.top
 web3defi96.top
 web3dropmetask.com
 web3etftrust.com
@@ -7549,7 +7545,6 @@ www.ibkrixs.vip
 www.idcapps.life
 www.ifdgl.com
 www.imap.home.hostmaster.coingecko.hatsuqat.com
-www.img.m.api.blog.api.mail.pancakeswaps.org
 www.imtoken-im.team
 www.interdigitalba.com
 www.interdigitalbc.com
@@ -7764,7 +7759,6 @@ www.somanetwork.live
 www.spacetradegloballlc.biz
 www.spatco.shop
 www.sporemashrm.top
-www.ssh.imap.api.mail.pancakeswaps.org
 www.staging.chat.login.fixedfloat.pw
 www.staging.home.hostmaster.coingecko.hatsuqat.com
 www.staging2.optumspecialtyin.com
