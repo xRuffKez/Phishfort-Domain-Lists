@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 16:02:18 UTC 2024
-# Number of Entries: 8068
+# Fetch date: Tue Mar 19 17:02:13 UTC 2024
+# Number of Entries: 8073
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2380,6 +2380,7 @@ ethereumgasfee.com
 ethereumorg.com
 ethereumx.cc
 ethereumxfee.com
+etherfi-airdrop.com
 etherfi.finance
 etherfi.one
 ethergas.eu
@@ -2799,7 +2800,6 @@ global-blockchain-4159.com
 global.onlineyshire-uk.com
 globalfundsserver.com
 globalgoldcloudworld.world
-globalpayment.online
 globalpaymentsytww.com
 globalspp.top
 gm-generalmotors.com
@@ -2918,6 +2918,7 @@ hodl-check.web.app
 hodl-checker.web.app
 hold-manta.network
 holder-check.web.app
+holder-nexo.com
 holding-coins.web.app
 holesupplysignal.com
 holtec-international.ltd
@@ -3624,6 +3625,7 @@ macysdiscount.store
 mad-lads.com
 madnessoholy.com
 maekrdao.com
+magamemeccin.com
 magamemecoin.cash
 maggpiexyz.cyou
 maggpiexyz.xyz
@@ -4756,6 +4758,7 @@ ooderr.github.io
 op-earn.xyz
 op.coinslabs.top
 op.x500-drop.top
+opebnsea.io
 open-manta.network
 open-sea.systeme.io
 open-seaio.github.io
@@ -4768,6 +4771,7 @@ openmysteriesnft.vercel.app
 openmysterynft.vercel.app
 openoffersea.io
 openprojectmystery.vercel.app
+opensaea.io
 opensaebox.vercel.app
 opensaepro.com
 opensaepro.vercel.app
@@ -6429,6 +6433,7 @@ sunflower-landd.com
 sungrowameriicas.com
 super-fans.tech
 super-julio.free-mint.page
+superbraves.info
 superclaim-defi.com
 superclaims-defi.com
 superformxyz-rpcdebug.pages.dev
