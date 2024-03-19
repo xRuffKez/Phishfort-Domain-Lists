@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 13:02:37 UTC 2024
-# Number of Entries: 106770
+# Fetch date: Tue Mar 19 14:01:46 UTC 2024
+# Number of Entries: 106768
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1042,6 +1042,7 @@
 28344f5y.apppdyxail.top
 2908hnnywu3go6dnolow.rmnfpdy.ru
 29bmwshgapi.ru
+2acnmzzlink.webcindario.com
 2b3a2372-5410-4587-b9a8-eeca1c8b096c.htmlpasta.com
 2binance.com
 2binance.net
@@ -2247,7 +2248,6 @@ absappdynamics.com
 absentlxy.click
 abso.site
 abspaurill.com
-abstra-v3.vercel.app
 abstractgobblers.art
 abstractnouveau.live
 abstsmentglances.com
@@ -16370,6 +16370,7 @@ chipview.bond
 chirulabs.net
 chitcat.website
 chncllflegal.com
+chndemarloonst.com
 chochildrens.com
 chocwalk.com
 chodlasso.net
@@ -17635,7 +17636,6 @@ cliffchnclegal.com
 cliffchnlaw.com
 cliffchnllp.com
 cliffchnrecovery.com
-clifford-chance-llp.com
 clifford-chance-uk.co
 clifford-chance.accountant
 clifford-chance.finance
@@ -24487,8 +24487,10 @@ daviplata.co-to.link
 daviplata.mysucursalvirtual.us3er0357.go.yj.fr
 daviplata645.repl.co
 daviplata9.webcindario.com
+daviplatanotific.webcindario.com
 daviplataportal.webcindario.com
 daviplatas.cancelarcobro21.repl.co
+daviplataseeg.webcindario.com
 davipse.info
 daviseguridadon.webcindario.com
 davisim--revertirproces1.repl.co
@@ -32239,7 +32241,6 @@ extremephonecards.com
 extrustpad.com
 extserum.bio
 extserum.cloud
-extserum.site
 exudoswa11et.com
 exwo.online
 exxon-limited.lol
@@ -37099,6 +37100,7 @@ grumplertown.wtf
 grumpybears.sol-presales.com
 grumpypandaz.site
 grupo-santafe.com
+grupo-virtual.webcindario.com
 grupomedicalrj.blogspot.com
 grupotienex.co
 gruppoab-it.com
@@ -37244,6 +37246,7 @@ hajjdomestic-sa.info
 hakigiveaway.com
 halento.pw
 halessent.site
+haleymasschendiovst.com
 halfbaycd.live
 halfbit.cc
 halfhidiingnft.xyz
@@ -37754,6 +37757,7 @@ highbitc.com
 highchangebtc.com
 highcoin.net
 higherrisers.com
+highllght.com
 highrise.go-mint.xyz
 highriseland.com
 highskyft.com
@@ -39792,7 +39796,6 @@ integratedprotocols.org
 integratedrollcollab.online
 integratedsafetyadminapps.online
 integratedservers.online
-integratedsystemsconnect.com
 integratedtopapps.online
 integratedvalidation.com
 integratedvalidation.org
@@ -40542,6 +40545,7 @@ job-kpmg.com
 joblessassistancenetwork.com
 joblessassistanceportal.net
 joblessconnect.net
+joblessconnect.org
 jobs-adastragrp.com
 jobs-teleperformance.com
 jocbit.com
@@ -45131,7 +45135,6 @@ login.coinbasesupportscenterid.com
 login.coinbasesupportsid.com
 login.coinbasewalletsupport.com
 login.coinbasewalletsupports.com
-login.cw1.ir
 login.fraend.net
 login.frame-airdrop.xyz
 login.lblockhcoin.com
@@ -50338,7 +50341,6 @@ metamask.project.socjsc.com
 metamask.promo
 metamask.promotion-earn.site
 metamask.protocol-process.me
-metamask.psanda.co.za
 metamask.pw
 metamask.qa
 metamask.quarantine.wiki
@@ -58727,7 +58729,6 @@ neomcareers.cloud
 neomcareers.life
 neomonlines.info
 neomprojects-ksa.net
-neomsuppliers.net
 neon-animals.world
 neon.ftidfast.xyz
 neon.reconnects-web3.com
@@ -68061,6 +68062,7 @@ paxos.gift
 paxosapp.com
 paxosbounty.com
 paxosest.com
+paxosestm.com
 paxosgold.net
 paxosgold.org
 paxosgold.us
@@ -73015,7 +73017,6 @@ ramses.gifts
 ranbuny.com.au
 randburgplumbingservices.co.za
 randomarts.netlify.app
-randombitcoins.com
 randomecoin-ads.eu
 randomecoins.com
 randomix.org
@@ -82013,7 +82014,6 @@ sushiswap.club
 sushiswap.gq
 sushiswap.lt
 sushiswap.ml
-sushiswap.mom
 sushiswap.network
 sushiswap.news
 sushiswap.nz
@@ -93543,6 +93543,7 @@ washington-posts.com
 washingtonpost.asia
 washingtonpost.careers
 washingtonpost.com.cz03149.tw1.ru
+washingtonpost.in
 washingtonpost.ltd
 washingtonpost.pm
 washingtonpost.team
@@ -93908,7 +93909,6 @@ web3-connectyr.tk
 web3-connectyx.cf
 web3-connectzg.gq
 web3-connectzg.tk
-web3-cyptoo.com
 web3-dappmainnet.live
 web3-dapps-connect.on.fleek.co
 web3-dapps-pages-dev.netlify.app
@@ -94100,7 +94100,6 @@ web3defi07.top
 web3defi168.top
 web3defi352.top
 web3defi495.top
-web3defi7.top
 web3defi96.top
 web3defiesdapps.live
 web3defiexplorer.com
@@ -97672,7 +97671,6 @@ www.cvoingecko.link
 www.cwb-financial.com
 www.cwbca.com
 www.cyber-co-rewards.com
-www.cyber-connects.xyz
 www.cyber-kongz.xyz
 www.cyber-tmates.com
 www.cybersamurai.live
