@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 21:02:29 UTC 2024
-# Number of Entries: 8094
+# Fetch date: Tue Mar 19 22:02:11 UTC 2024
+# Number of Entries: 8096
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4089,6 +4089,7 @@ metamask-restorehome.cryptobase.ng
 metamask-restoreteam.com
 metamask-rewards.site
 metamask-sg.site
+metamask-updatextension.pages.dev
 metamask-verfiy.diaitologostopouza.gr
 metamask-verse.pages.dev
 metamask-wallet-main.pages.dev
@@ -5867,6 +5868,7 @@ rnanta-live.com
 rnanta-token.com
 rnantaofflclal.com
 rnantas.network
+roachcoin.in
 robopunksnft.cristovao.codes
 robots-farm.xyz
 rockelpool.net
