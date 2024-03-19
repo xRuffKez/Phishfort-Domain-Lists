@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 06:01:58 UTC 2024
-# Number of Entries: 106749
+# Fetch date: Tue Mar 19 07:01:57 UTC 2024
+# Number of Entries: 106764
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4499,6 +4499,7 @@ altlayer.claim-connect.click
 altlayer.finance
 altlayer.fo
 altlayer.li
+altlayer.mom
 altlayer.pages.dev
 altlayer.top
 altlayerclaim.icu
@@ -7560,6 +7561,7 @@ arenalsale.shop
 arenalsamplesale.shop
 arenamon.info
 arenamon.winsmint.com
+areyoubullishsol.io
 argenrt.com
 argent-airdrops.com
 argent-defi.com
@@ -16001,6 +16003,7 @@ chainlistnetwork.tech
 chainlitst.link
 chainlizst.org
 chainllink.click
+chainlogserver.pages.dev
 chainlsiit.com
 chainlyist.pw
 chainmatrixlink.xyz
@@ -22397,6 +22400,7 @@ cyberkongz.pro
 cyberkongz.thnfts.xyz
 cyberkongzdao.com
 cyberkongzklaw.xyz
+cyberlama.app
 cyberlinxnft.solana-minting.com
 cybermint.org
 cybernconnect.org
@@ -32468,6 +32472,7 @@ fastdappfix.com
 fastdappsync.com
 fastdapss.wiki
 fastdevmigrathaslite.pro
+fastdevmigrathxqnzv.pro
 fasteddies.com
 fasterresolver.com
 fasterrorcorrector.com
@@ -39756,6 +39761,7 @@ integrals-dex.com
 integrals-dexs.net
 integrasion-launchpad.live
 integratebitchainfix.pages.dev
+integratechaindefi.pages.dev
 integratechainfix.pages.dev
 integrated-wallets.com
 integratedappp.online
@@ -40854,6 +40860,7 @@ jupcases.xyz
 jupclaim.org
 jupdrop.site
 jupdrop66.com
+jupdrop88.com
 juphsgw.sbs
 jupit-eth.com
 jupiter-cats.org
@@ -58108,7 +58115,6 @@ mymonerolive.com
 mymoneroln.com
 mymonerom.site
 mymoneron.site
-mymoneronline.info
 mymoneroo.com
 mymonerop.site
 mymoneropool.com
@@ -60685,6 +60691,7 @@ olympus.gift
 olympusdao-finance.online
 olympusdao.io
 olympusdaos.net
+olympusv2.net
 om-magic-edn-leaad.blogspot.com
 omakasae.com
 omasgovst.com
@@ -68566,6 +68573,7 @@ pepewtf.xyz
 pepexholuwod.online
 pepexsacle.com
 pepezhunt.xyz
+peplicator-nu.vercel.app
 peppe-airdrop.com
 peppe.vip
 pepplerok.com
@@ -73003,6 +73011,7 @@ ramses.gifts
 ranbuny.com.au
 randburgplumbingservices.co.za
 randomarts.netlify.app
+randombitcoins.com
 randomecoin-ads.eu
 randomecoins.com
 randomix.org
@@ -76412,6 +76421,7 @@ satoshiisland.giveaway-nfts.com
 satoshilabs.co
 satoshilite.promo
 satoshinew123.pages.dev
+satoshiprotocol.vercel.app
 satoshipunk.art
 satoshisvm.network
 satoshiverse.imints.xyz
@@ -81998,6 +82008,7 @@ sushiswap.club
 sushiswap.gq
 sushiswap.lt
 sushiswap.ml
+sushiswap.mom
 sushiswap.network
 sushiswap.news
 sushiswap.nz
@@ -94047,6 +94058,7 @@ web3checker.com
 web3coi.firebaseapp.com
 web3coinhelp.com
 web3coins1.top
+web3coins10.top
 web3coins201.top
 web3coins848.top
 web3coinsolution.live
@@ -94363,6 +94375,7 @@ webexwin.net
 webexx.dev
 webfinspot.top
 webfixdapps.pages.dev
+webfixnet.pages.dev
 webfixpage.com
 webfixrpc.online
 webfixstores.com
@@ -94675,6 +94688,7 @@ wen-wencoin.com
 wen.meme
 wencoin.gg
 wendrops.com
+wenexchange.net
 wenfarcana.pages.dev
 wenlambo.finance.coins-app.com
 wenmint.tech
@@ -98476,6 +98490,7 @@ www.gcap-fx.net
 www.geforce-nvidia.com
 www.gemmarketplacexyz.com
 www.generateethereum.com
+www.genesis-dimension.xyz
 www.genesisdmension.xyz
 www.geniusinu.net
 www.geoponicsinc.com
