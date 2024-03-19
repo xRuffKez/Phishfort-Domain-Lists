@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 04:02:20 UTC 2024
-# Number of Entries: 8058
+# Fetch date: Tue Mar 19 05:02:16 UTC 2024
+# Number of Entries: 8054
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -198,6 +198,7 @@ agninetwork.xyz
 agoda-88.vip
 agoda-com.com
 agoda-formulir.prioritas-24hours.com
+agoda-global.pro
 agoda-hotel.com
 agoda-jp.cc
 agoda-jp.co
@@ -1267,7 +1268,6 @@ bvuvs.info
 bybit-gift.space
 bytedog.pro
 bzname-service.com
-c118.usdt6188.top
 c7ed7c0a-a3f0-4a62-9092-b1bb34dc0ec4-00-2hhxxwsgft7jv.janeway.replit.dev
 c9bae519-e21c-44b6-990c-e47a9b25b5a1-00-2o0u40bra6plm.janeway.replit.dev
 cadenceprotocol.net
@@ -1569,7 +1569,6 @@ clrscr.net
 cm-dap.online
 cmlink.xyz
 cmtzconstructionllc.com
-cnahngenow.com
 co-insauhgdsadhij.com
 co-tbtcasojdhgsa.com
 co.defi.network
@@ -2160,7 +2159,6 @@ drop.lfgjup.xyz
 dropairframe.com
 dropchecker.app
 dropnibiru.link
-drops-celestia.org
 drops-satoshivm.com
 dropsframenet.com
 dropusdt.com
@@ -2483,6 +2481,7 @@ farwul.com
 fastauthewalletethersync.com
 fastdevmigrathaslite.pro
 fatehelpsthebrave.com
+faucetsankoscan.io
 favoriteocircus.com
 fcstone.dsar.privally.io
 fcstonekr.pro
@@ -3407,6 +3406,7 @@ layrocvisions.com
 lazydemo.com
 lbast.io
 lbpacces.xyz
+lcfmusb.cc
 ldofi-promos.com
 leadpeopleright.com
 leafdreamhomes.com
@@ -3948,6 +3948,7 @@ mavia.website
 mavia.work
 maviagames.network
 maviagames.xyz
+maviia.build
 maviiaa.com
 maylucenaa.com
 mdexcloudapp.xyz
@@ -4101,7 +4102,6 @@ metamask88.com
 metamaskabc.com
 metamaskapp-kyc-auth24.com
 metamaskapp.space
-metamaskapp.store
 metamaskarb.com
 metamaskb.icu
 metamaskclaim.io
@@ -5050,7 +5050,6 @@ partenariat-bouygues-telecom-entreprises.fr
 participate-zks.net
 participate-zks.org
 particle-network.com
-partner-wido.li.quest
 partners-ait.tech
 partners-zerolend.com
 partnership-ait.com
@@ -5095,7 +5094,6 @@ paxos-token.org
 paxos-trades.com
 paxos-zendesk.com
 paxos.gift
-paxosestm.com
 paxosiys.com
 paxoskop.com
 paxosogt.com
@@ -5324,7 +5322,6 @@ procch.net
 procchfx.com
 prof1111.pages.dev
 profit-dydx.com
-project-apt.com
 project-lucky-hamster.com
 project-manta.com
 project-openseaclick.vercel.app
@@ -7905,7 +7902,6 @@ xpubweb-rectify.pages.dev
 xr7j5v.pro
 xrp-drop.web.app
 xrp.excopad.top
-xrpbonus-promo.com
 xrpcold.com
 xrplairdrop.sistema.edu.pe
 xrplimited-bonus.net
