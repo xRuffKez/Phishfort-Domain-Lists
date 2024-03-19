@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 15:01:35 UTC 2024
-# Number of Entries: 106769
+# Fetch date: Tue Mar 19 16:01:42 UTC 2024
+# Number of Entries: 106771
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -37425,6 +37425,7 @@ he3xc.com
 healerwallet.com
 healinghippies.xyz
 healthcheck.com
+healthequity.comru.sa.com
 healthequity.comru.za.com
 healthequity.comy.sa.com
 healthequity.live
@@ -95928,6 +95929,7 @@ www.0xprotocol-fi.com
 www.0xprotocol-stake.com
 www.0xprotocol.site
 www.100responsible.com
+www.1asxhkd.com
 www.1citynationalb.com
 www.1inameelionwatch.org
 www.1inch-airdrop.net
