@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 22:02:11 UTC 2024
-# Number of Entries: 8096
+# Fetch date: Tue Mar 19 23:02:14 UTC 2024
+# Number of Entries: 8097
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4391,6 +4391,7 @@ multgates.com
 multi-chain-connect.xyz
 multi-factor-authentication.online
 multi-trustpade.site
+multi-trustpades.cc
 multibit-exchange.com
 multibit.xyz
 multibitstaking.com
