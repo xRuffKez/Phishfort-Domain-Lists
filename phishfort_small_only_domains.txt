@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 03:02:12 UTC 2024
-# Number of Entries: 8061
+# Fetch date: Tue Mar 19 04:02:20 UTC 2024
+# Number of Entries: 8058
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -656,7 +656,6 @@ app.sonikapp.live
 app.sparkprotocol.fi
 app.stringwebtools.com
 app.swiftblockresolve.com
-app.unsiwap.org.uk
 app.unsiwap.us
 app.unsiwap.us.com
 app.walletguard.cloud
@@ -1361,7 +1360,6 @@ chain-strk.com
 chainbugs.org
 chainflip.team
 chaingpt-ai.org
-chaingpt-web3airdrop.net
 chainlabsv2.org
 chainlink-drop.com
 chainlink-network.app
@@ -3971,7 +3969,6 @@ mehrlesenzeitung.com
 melea.io
 meleadapp.com
 melstroy.by
-memayes.com
 members-kcchamber.com
 memebevy.shop
 memecoin.rocks
@@ -4973,6 +4970,7 @@ pancakeswop.web.app
 pancakeswp.github.io
 pancakeswwap.com
 pancakswaip.com
+pancakswap.fi
 pancakswap.finance
 pancakswapv3.com
 pancaqeswap-earn.com
@@ -7604,7 +7602,6 @@ www.metamaskcion.com
 www.metamaske.com.cn
 www.metamaske.top
 www.metamasks.info
-www.metamasksupportcenter.com
 www.metamcvk.com
 www.metemeak.io
 www.metemnsk.io
