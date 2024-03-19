@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 07:01:57 UTC 2024
-# Number of Entries: 106764
+# Fetch date: Tue Mar 19 09:02:03 UTC 2024
+# Number of Entries: 106767
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -23216,6 +23216,7 @@ dappn-wallets.com
 dappnetlify.com
 dappnetorks.com
 dappnetprotocol.com
+dappnetsfp.com
 dappnetsync.com
 dappnetworkactivation.net
 dappnetworkconnect.com
@@ -23264,6 +23265,7 @@ dappradanr.us
 dappradar-account.info
 dappradar-account.link
 dappradar-account.us
+dappradar-ads-x.com
 dappradar-claim.com
 dappradar-drops.com
 dappradar-governance.com
@@ -51775,6 +51777,7 @@ metemasks.xyz
 metemaskt.icu
 metemaskwiullrt.godaddysites.com
 metemaxe.com
+metemesk-wallat.godaddysites.com
 metemesk.io
 metemesks.io
 metemnsk.io
