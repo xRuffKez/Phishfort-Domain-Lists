@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 14:02:55 UTC 2024
-# Number of Entries: 8068
+# Fetch date: Tue Mar 19 15:02:12 UTC 2024
+# Number of Entries: 8066
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4216,7 +4216,6 @@ microsfrategy.com
 microsoft-verify.ofisuu.com
 microsoftedge.pancakeswap.finance.expolorer.im
 mid-american-energy.customersupports.network
-midnightimpromptu.top
 migrate-aeggs.pro
 migrate-dapp.pro
 migrate-firsttensor.shop
@@ -4481,8 +4480,6 @@ mytr.rxi.app
 myuiionlinedetmadma.info
 myuimapay.online
 myuionlinedeetmadma.com
-myuionlinedeetmadma.info
-myuionlinneedettmadmu.net
 mywalletexodus.com
 na2-docusign-net-envelope-office365-auth.us-southeast-1.linodeobjects.com
 na3-docusign-auth-office365.us-lax-1.linodeobjects.com
@@ -5714,6 +5711,7 @@ retikclaim.web.app
 retlik.com
 retratandoimagens.com
 retro.magicilyeden.io
+retyuiopjhfaxcvbnmjyrsatyuiiopllkhdsa.com
 revardthededtbox.online
 revardthededtbox.site
 revcke.cash
