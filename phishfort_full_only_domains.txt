@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 00:04:52 UTC 2024
-# Number of Entries: 106725
+# Fetch date: Tue Mar 19 01:22:19 UTC 2024
+# Number of Entries: 106729
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17455,6 +17455,7 @@ claimsei.io
 claimseth.com
 claimsftx.com
 claimshibonk.netlify.app
+claimshido.pages.dev
 claimshitcoin.com
 claimslinea.com
 claimslink.app
@@ -19037,6 +19038,7 @@ coinnwmarketcap.us
 coinogecko.link
 coinolux.com
 coinomarketcaap.us
+coinomize-app.pages.dev
 coinomize-mixer.pages.dev
 coinomn.com
 coinone365.io
@@ -41107,6 +41109,7 @@ katana-roninchain.online
 katana-roninchain.org
 katana-roninchain.shop
 katana-roninchain.site
+katana-roninchainn.shop
 katana-roninchainn.site
 katana-roninhcain.com
 katana.ronin-supports.com
@@ -58095,6 +58098,7 @@ mymonerolive.com
 mymoneroln.com
 mymonerom.site
 mymoneron.site
+mymoneronline.info
 mymoneroo.com
 mymonerop.site
 mymoneropool.com
