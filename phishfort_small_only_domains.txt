@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 20:02:34 UTC 2024
-# Number of Entries: 8080
+# Fetch date: Tue Mar 19 21:02:29 UTC 2024
+# Number of Entries: 8094
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -107,6 +107,7 @@
 5raydium.sbs
 6-chess.online
 63352955.b1b41177a5690aba217097d9.workers.dev
+63f3ed5a-a189-4792-b3ea-26687f69c894-00-p4dnzcb1f2va.riker.replit.dev
 65c929ede29cb759e486af81--rainbow-choux-6218fe.netlify.app
 685463.sa.com
 68pw3690.pw
@@ -887,6 +888,7 @@ axiemarketplace.skin
 axieorigin.in
 axs.ltd
 axsiesinfinity.com
+ayudas.help
 azarlegal.com
 azukiairdrop.netlify.app
 aîrtm.com
@@ -2976,6 +2978,8 @@ i6jkg.cc
 ia-genetec.plantarfasciitisdoctorstlouis.com
 iavhru.cc
 iayerzero-claim.net
+ibkrindia.com
+ibkrindia.xyz
 ibllce.com
 ibllces.com
 ibllcit.com
@@ -3244,6 +3248,7 @@ jupiters-web3.net
 jupiters-web3.org
 jupjup.lat
 jupjup8.com
+jupjup9.com
 juppbox.biz
 juppbox.vip
 juppboxes.app
@@ -4075,6 +4080,7 @@ metamask-fixweb.pages.dev
 metamask-kyc.com
 metamask-mask.com
 metamask-mining.com
+metamask-platform.codeanyapp.com
 metamask-polygon-airdrop.digital
 metamask-recovery.com
 metamask-redirect.com
@@ -5115,6 +5121,7 @@ paxosiys.com
 paxoskop.com
 paxosogt.com
 pay-407etr.com
+paybyklarna.de
 paybyplatema.pro
 paybyplatema.website
 paycoins24.com
@@ -6466,6 +6473,7 @@ sushiswap.lt
 sushlswap.github.io
 sw-syncswap.com
 swanchain-register-opennow.vercel.app
+swanchain.vercel.app
 swancrypto.net
 swap-defilama.com
 swap-nft.pages.dev
@@ -6928,6 +6936,7 @@ validatechains.pages.dev
 validatedwallet.com
 validaten0de.pages.dev
 validator-solscan.org
+validatorsync.net
 valikane.com
 valilake.com
 valimest.com
@@ -7079,6 +7088,7 @@ walletapplink.xyz
 walletconnect-applicationprogram-interface.pages.dev
 walletconnect-com.vercel.app
 walletconnect-dapps.pages.dev
+walletconnect.app-net.top
 walletconnect.pages.dev
 walletconnectai.pages.dev
 walletconnectio.vercel.app
@@ -7115,6 +7125,7 @@ waves-opensea.com
 wbtc-portal.com
 wcj0esig.pnjz.ru
 wclaiming.net
+wcryptoeslogins.azurewebsites.net
 wdymcrypto-migration.app
 wdymdapp.pages.dev
 wealth365g.vip
@@ -7164,6 +7175,7 @@ web3.kavaprotect.com
 web3.mavia.team
 web30trusta.com
 web30trustor.com
+web35-foundation.one
 web38888.com
 web39999.com
 web3airdrop.lat
@@ -7235,6 +7247,7 @@ webtxid.pages.dev
 weedcurrency.online
 welcometo-neotokyo.codes
 weli3.xyz
+wellingtoncolleges.org.uk
 welovetheart.optinnism.com
 wen-farcana.com
 wen-jup.app
@@ -7929,6 +7942,7 @@ xr7j5v.pro
 xrp-drop.web.app
 xrp.excopad.top
 xrpcold.com
+xrpepeofficial.com
 xrplairdrop.sistema.edu.pe
 xrplimited-bonus.net
 xtokenlaunch.com
