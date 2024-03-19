@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 00:07:20 UTC 2024
-# Number of Entries: 8059
+# Fetch date: Tue Mar 19 01:22:54 UTC 2024
+# Number of Entries: 8054
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1529,6 +1529,7 @@ claims-metis.io
 claims-realios.com
 claims-usdt.org
 claims.mantatokens.com
+claimshido.pages.dev
 claimsmart-layer.net
 claimsmemekombat.air-drop.dev
 claimstrk.fun
@@ -1538,7 +1539,6 @@ claimtrumx.xyz
 claimvoucher2.glitch.me
 claimwif.com
 clanostreet.com
-clarkconstruvction.com
 clarkcorstruction.com
 classicsanctuary.com
 cldss.xyz
@@ -1609,6 +1609,7 @@ coinmarketcap-login-web.web.app
 coinmetronet.live
 coinnbasealphaglobal-servapp.apexsolutionllc.com
 coinnode.online
+coinomize-app.pages.dev
 coinomize-mixer.pages.dev
 coinresearchlab.site
 coins-holders.web.app
@@ -3075,7 +3076,6 @@ intothebluemanta.org
 intothebluemanta.xyz
 intraconline-instantly.live
 inu.guimeme.xyz
-invcheck.sbs
 investmetlife.com
 invite-blaster.com
 invite-manta.com
@@ -3264,6 +3264,7 @@ karnatakaaromas.com
 kasgca.com
 kaspamining.app
 katana-ronchain.com
+katana-roninchainn.shop
 katana.ronlncdain.com
 katanaroninchain.shop
 kavaa-web.netlify.app
@@ -3629,7 +3630,6 @@ magiclyeden.app
 magicsquare.pages.dev
 magicsquares.io
 magnetoinfinite.com
-magpie-xyz.com
 magpiesxyz.site
 magpiexyz.in
 magpiexyz.xyz
@@ -4113,7 +4113,6 @@ metamaskcoin.io
 metamaskcrypto.com
 metamaske.com.cn
 metamasked.org
-metamaskinvest.com
 metamaskit.com
 metamasklabs.cloud
 metamaskmal.ru
@@ -4123,7 +4122,6 @@ metamaskn.io
 metamaskofficial.online
 metamasks.info
 metamasksinfo-supportaccount.yincobase.shop
-metamasksupportcenter.com
 metamasktoken.io
 metamasktoken.link
 metamasktoken.org
@@ -4430,6 +4428,7 @@ mygoemployerthesaw.com
 myjuppy-box.com
 myjuppy-box.trade
 mymetazvirify.com
+mymoneronline.info
 mynewmont.net
 mynewmont.us
 mynewmontbonk.com
@@ -4678,7 +4677,6 @@ notcoin.host
 notionalfinance.org
 nowoplunge.com
 npaautocare.com
-npaautocare.zouxiaodong.workers.dev
 numboost.ru
 nusuk.site
 nusukbaitullahint.id
@@ -5561,7 +5559,6 @@ raydium.pics
 raydium.rest
 raydium.sbs
 raydium.trading
-raydiumnet.work
 raydiumpool.xyz
 raydiums.buzz
 raydiums.io
@@ -5748,7 +5745,6 @@ revoke.markets
 revoke.page
 revoke.plus
 revoke.run
-revoke.tech
 revokeapp.info
 revokeapp.tech
 revokeassets.com
@@ -6086,7 +6082,6 @@ shopvibe.shop
 shrap-token.app
 shrapnei-whitelist.com
 shrapnel-2024.com
-shrapnel-whitelists.com
 shrapnel.cloud
 shrapnel.store
 sideshift.art
