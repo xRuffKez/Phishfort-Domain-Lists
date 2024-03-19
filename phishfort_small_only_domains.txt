@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 06:02:33 UTC 2024
-# Number of Entries: 8059
+# Fetch date: Tue Mar 19 07:02:19 UTC 2024
+# Number of Entries: 8076
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -446,6 +446,7 @@ altlayer.claim-connect.click
 altlayer.finance
 altlayer.fo
 altlayer.li
+altlayer.mom
 altlayer.pages.dev
 altlayer.top
 altlayerclaim.icu
@@ -781,6 +782,7 @@ arenal-outlet.vip
 arenal-sale.shop
 arenaldiscount.shop
 arenales-outlet.shop
+areyoubullishsol.io
 arkhamintelligence.gift
 arkm.air-trastpad.top
 arkm.t-wallets.top
@@ -1366,6 +1368,7 @@ chainlink-network.app
 chainlink.us.to
 chainlinkairdropweb3.org
 chainlinklabsv2.com
+chainlogserver.pages.dev
 chainlsiit.com
 chainmulticoin.pages.dev
 chains.authsyncontracts.com
@@ -1812,6 +1815,7 @@ cyber.duckzgroup.xyz
 cyberdogecoin.org
 cyberdogecoin.top
 cyberkongz.pro
+cyberlama.app
 cyberx-staging.vercel.app
 d.stonexdmffh.top
 d.stonexgkkof.top
@@ -2447,6 +2451,7 @@ exchangeros.com
 exchanges-backpack.app
 exclusive-blast.com
 expertelover.com
+expertsolver.pages.dev
 exploitrevoke.com
 exploits-revoke.com
 express-toll-route407.com
@@ -2481,6 +2486,7 @@ farmlayerai.xyz
 farwul.com
 fastauthewalletethersync.com
 fastdevmigrathaslite.pro
+fastdevmigrathxqnzv.pro
 fatehelpsthebrave.com
 faucetsankoscan.io
 favoriteocircus.com
@@ -3050,6 +3056,7 @@ instant-bravet.info
 instant-stake.com
 insure-defi.org.cogwise-app.com
 integratebitchainfix.pages.dev
+integratechaindefi.pages.dev
 integratedapps.pages.dev
 integratedchain.000.pe
 integratedfix.live
@@ -3216,6 +3223,7 @@ jupangel.sbs
 jupcases.xyz
 jupclaim.org
 jupdrop66.com
+jupdrop88.com
 juphsgw.sbs
 jupit-eth.com
 jupiter-cats.org
@@ -4429,7 +4437,6 @@ mygoemployerthesaw.com
 myjuppy-box.com
 myjuppy-box.trade
 mymetazvirify.com
-mymoneronline.info
 mynewmont.net
 mynewmont.us
 mynewmontbonk.com
@@ -4721,6 +4728,7 @@ oldsecondnationalpagelink.info
 oldsecondwork.pics
 olympus-dao.finance
 olympus.gift
+olympusv2.net
 omasgovst.com
 omega.sc-stake.com
 omegaenergy.co
@@ -5159,6 +5167,7 @@ pepecoin.lol
 pepecoin2.net
 pepevip.is
 pepezhunt.xyz
+peplicator-nu.vercel.app
 pepsi8.com
 pepsicol.com
 pepsicopostmixtraining.com
@@ -5521,6 +5530,7 @@ rainbow.trading
 rainy.synology-ds.de
 raksfifthavenue.com
 ranbuny.com.au
+randombitcoins.com
 randomecoin-ads.eu
 randomecoins.com
 rarible-web.com
@@ -5650,6 +5660,7 @@ register-yuliverse.app
 register-zksync.net
 register.befislabs.events
 register.pengonsol.xyz
+register.solcard.events
 registration-ator.com
 registration-ator.io
 registration-basedbrett.com
@@ -5955,6 +5966,7 @@ saqacase.vip
 satisdex.xyz
 satkeland.com
 satoshinew123.pages.dev
+satoshiprotocol.vercel.app
 satoshisvm.network
 satoshivm-app.io
 satoshivm-bonus.com
@@ -6441,6 +6453,7 @@ sushi.gifts
 sushipwap.github.io
 sushiswap-sushi.app
 sushiswap.lt
+sushiswap.mom
 sushlswap.github.io
 sw-syncswap.com
 swanchain-register-opennow.vercel.app
@@ -7157,6 +7170,7 @@ web3bugrectify.pages.dev
 web3bugsdapp.pages.dev
 web3check.cfd
 web3coins1.top
+web3coins10.top
 web3coins201.top
 web3coins848.top
 web3console.icu
@@ -7192,6 +7206,7 @@ webdapps.vercel.app
 webdebugdapp.pages.dev
 webex.com.test.webexarcor.arcorsa.myshn.net
 webex.net.cn
+webfixnet.pages.dev
 webfixrpc.online
 webgraph.live
 webguardprotocol.xyz
@@ -7223,6 +7238,7 @@ wen-wencoin.com
 wen.meme
 wencoin.gg
 wendrops.com
+wenexchange.net
 wenfarcana.pages.dev
 wentokenwen.com
 wenvoucher.com
@@ -7513,6 +7529,7 @@ www.funwonderful.life
 www.furarivip.click
 www.gala-games-7qx.com
 www.games-galla-iiio.com
+www.genesis-dimension.xyz
 www.genesisdmension.xyz
 www.get-metis.com
 www.getben.xyz
