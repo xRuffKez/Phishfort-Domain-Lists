@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 18:02:14 UTC 2024
-# Number of Entries: 8075
+# Fetch date: Tue Mar 19 19:02:41 UTC 2024
+# Number of Entries: 8078
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -651,6 +651,7 @@ app.moonbeamer-swap.com
 app.parallelfl.network
 app.pomerdoge.live
 app.prisrnafinance.com
+app.qirtm.com
 app.raticswap.xyz
 app.refundcoinstake.com
 app.rnino.fi
@@ -1820,7 +1821,6 @@ d394f31195472c.net
 d7bjeie8jevolt5j.pdqptpohlhxle6.ru
 da2m088c.site
 dadawgs.tech
-daki.sjn0e.com
 dalarnas.site
 dalarnas.website
 dama.or.tz
@@ -3926,6 +3926,7 @@ massgovuionllne.org
 masslorelictorganospaychsetc.com
 masslottery.lotteryvault.net
 masslottery.online
+massmutualcruelty.com
 massonline.mprofile.org
 massposos.com
 master-brain.com
@@ -4202,6 +4203,7 @@ metrsamasknig.azurewebsites.net
 metsafnmaske.azurewebsites.net
 metsfghmaskus.azurewebsites.net
 metsk.app
+mettvcmaske.azurewebsites.net
 metumasklgio.github.io
 metzhgofk.com
 mew-wallet.net
@@ -5403,6 +5405,7 @@ pvth-network.com
 pwsign.com
 pwtradeco.com
 pwxskm.cfd
+pxffsite.web.app
 pxlivewebsite.onrender.com
 pyro-nft-vercel.pages.dev
 pyrthdex.com
@@ -6099,7 +6102,6 @@ shirbreward.netlify.app
 shitzuapes.fun
 shlba-3.live
 shopvibe.shop
-shrap-token.app
 shrapnei-whitelist.com
 shrapnel-2024.com
 shrapnel.cloud
@@ -7262,6 +7264,7 @@ wepad.web3mirror.io
 wer34.pages.dev
 wessxcrz.online
 west-braves.info
+westrock-workwear.nl
 whalesmarket.org
 white-frame.xyz
 white-manta.network
@@ -7373,6 +7376,7 @@ www.a407etr.com
 www.ab-earn.xyz
 www.account.coinbrack.com
 www.account.verificationpaxful.info
+www.aflacalabamainsurance.online
 www.agodaycs.net
 www.agrtech.tech
 www.ahikec.com
@@ -7794,7 +7798,6 @@ www.v2-manta.network
 www.velocemeter.xyz
 www.velocimter.xyz
 www.venu.exchange
-www.verificadati-goldbet.it
 www.verify-collab-land.com
 www.verify-collabland.com
 www.verify-collabland.xyz
