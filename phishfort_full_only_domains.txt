@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 05:01:39 UTC 2024
-# Number of Entries: 106739
+# Fetch date: Tue Mar 19 06:01:58 UTC 2024
+# Number of Entries: 106749
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2247,6 +2247,7 @@ absappdynamics.com
 absentlxy.click
 abso.site
 abspaurill.com
+abstra-v3.vercel.app
 abstractgobblers.art
 abstractnouveau.live
 abstsmentglances.com
@@ -27533,6 +27534,7 @@ dtudao.com
 du1z2pl69.ukit.me
 dual-near.org
 dualcentralconnect.netlify.app
+dualdappsconnect.pages.dev
 duaonlinelog.com
 dubai-oilcorp.company
 dubaijobss.com
@@ -32117,6 +32119,7 @@ expecil.com
 expertcryptmine.com
 expertelover.com
 expertminingpools.com
+expertsolver.pages.dev
 expirebit.com
 explainthisbob.net
 exploit-revoke.cash
@@ -39780,6 +39783,7 @@ integratedprotocols.org
 integratedrollcollab.online
 integratedsafetyadminapps.online
 integratedservers.online
+integratedsystemsconnect.com
 integratedtopapps.online
 integratedvalidation.com
 integratedvalidation.org
@@ -60637,6 +60641,7 @@ okx-eth-pos.com
 okx-eth2com.com
 okx-eth2pos.com
 okx-tronweb3.com
+okx-usdt.cc
 okxcoinkk.org
 okxcwallet.com
 okxe-web3.com
@@ -73905,6 +73910,7 @@ register.befislabs.events
 register.ftxglobalex.com
 register.ftxproexchange.com
 register.pengonsol.xyz
+register.solcard.events
 register.xn--boredapeyachtcub-ywc.com
 register.zollo.io
 registersandbox.xyz
@@ -75595,6 +75601,7 @@ rpcnode-fix.com
 rpcnodedebug.com
 rpcnodefixer.com
 rpcnoderepair.com
+rpcnodesos.com
 rpconevalidator.app
 rpcrectify.live
 rpcrectify.us
@@ -77197,6 +77204,7 @@ sei-claim.com
 sei-claim.io
 sei-event.net
 sei-give.com
+sei-io.web.app
 sei-network.vip
 sei-reward.info
 sei-rewards.org
@@ -93440,6 +93448,7 @@ wallsynnodes.com
 wallsynnodes.net
 walltconct.com
 walltdapsync.info
+walltmetamask.com
 walltsfixedsauthe.com
 walltsmeme.com
 walltstmemes.com
@@ -96170,6 +96179,7 @@ www.amazonbalance.com
 www.amazonft.xyz
 www.amezcn.com
 www.amm-uni.com
+www.amswallet.cz
 www.amznpresale.io
 www.amzntokens.app
 www.an-mettmask.com
