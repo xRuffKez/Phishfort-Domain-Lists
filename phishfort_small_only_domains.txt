@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 05:02:16 UTC 2024
-# Number of Entries: 8054
+# Fetch date: Tue Mar 19 06:02:33 UTC 2024
+# Number of Entries: 8059
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -154,6 +154,7 @@ abict.net
 abosslab.com
 abracadebra.money
 abspaurill.com
+abstra-v3.vercel.app
 academy.topbundalle.com
 acahealthinsure.com
 accboxi.com
@@ -543,7 +544,6 @@ apisynchronizer.live
 apkdownload.com
 apn.com.np
 apnasecure.com
-app-1inch.pages.dev
 app-ait.pages.dev
 app-altlayer.io
 app-amulet-amuverse.pages.dev
@@ -2167,6 +2167,7 @@ dsadsadsadsaeq.pages.dev
 dsqconsulting.co.uk
 dsr4w.pages.dev
 dtechdatacorp.com
+dualdappsconnect.pages.dev
 duegaigh.buzz
 duke-florence-finance.co
 durexwalletbridge.co.za
@@ -3053,6 +3054,7 @@ integratedapps.pages.dev
 integratedchain.000.pe
 integratedfix.live
 integratedmultifix.pages.dev
+integratedsystemsconnect.com
 integratemultichainfix.pages.dev
 integrationvaults.com
 intellix-protocol.com
@@ -4436,7 +4438,6 @@ myob.finance
 myob.network
 mypivalidations.com
 myria-game.com
-myrianewmigration.pro
 myro-airdrop.xyz
 myrobase.com
 mysecond.mypsx.net
@@ -4712,6 +4713,7 @@ oj3ij.cc
 okaydogs.app
 okbokyn210.com
 okx-airdop.net
+okx-usdt.cc
 olas.finance
 old-alpacafinance.site
 old.alpha.superset.ethshapella.com
@@ -4938,7 +4940,6 @@ pancakeswap-flnance.com
 pancakeswap-fniance.com
 pancakeswap-pancakeswap.com
 pancakeswap-pancakeswap.net
-pancakeswap-pancakeswap.org
 pancakeswap.asia
 pancakeswap.cc
 pancakeswap.click
@@ -5878,6 +5879,7 @@ rpcchainfix.net
 rpcdebug-extensiondapps.pages.dev
 rpchubnode.com
 rpclistinfo.netlify.app
+rpcnodesos.com
 rrbxhe.top
 rrevoke.cash
 rroninchain.com
@@ -6027,6 +6029,7 @@ seedifyfund.co
 seedifyfunds.app
 seediify.site
 seedlfy.netlify.app
+sei-io.web.app
 seifmoon.pro
 seiyans-nft.com
 selfsync-dapp.com
@@ -7076,6 +7079,7 @@ walletweb3803.top
 walletxconnect.live
 wallstmemesrewards.com
 wallstrewards.site
+walltmetamask.com
 walmat.sbs
 wamr.xyz
 wandatree.co.uk
@@ -7367,6 +7371,7 @@ www.airtm.services
 www.allchainsfixer.site
 www.alshaya.great-site.net
 www.altliayer.xyz
+www.amswallet.cz
 www.aniarticles.com
 www.api05-collab.com
 www.app-ait.net
