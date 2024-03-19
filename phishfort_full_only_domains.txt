@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 04:01:42 UTC 2024
-# Number of Entries: 106737
+# Fetch date: Tue Mar 19 05:01:39 UTC 2024
+# Number of Entries: 106739
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3006,6 +3006,7 @@ agoda-com.com
 agoda-com.payoners.com
 agoda-elevate.com
 agoda-formulir.prioritas-24hours.com
+agoda-global.pro
 agoda-grow.com
 agoda-hk-booking.com
 agoda-hotel.com
@@ -32505,6 +32506,7 @@ fatnex.site
 fatpass.lucky-drop.xyz
 fatzukl.art
 faucetlists.ga
+faucetsankoscan.io
 fault-dapps.site
 favorable.top
 favoriteocircus.com
@@ -42791,6 +42793,7 @@ lcalbitcoins.ru
 lccalbltcoins.com
 lccalbtlcoins.com
 lcdptoken-promogive.com
+lcfmusb.cc
 lcgin-blockchian.com
 lcgin.com
 lcgin.xn--bcokchan-6ob9076e.com
@@ -47846,6 +47849,7 @@ mavia.website
 mavia.work
 maviagames.network
 maviagames.xyz
+maviia.build
 maviiaa.com
 mavis-service.company
 mavis.roninchain.company
@@ -67334,7 +67338,6 @@ partleiy.com
 partner-host57.pancakeswape.finance
 partner-matamask.com
 partner-metamask.com
-partner-wido.li.quest
 partner.pancakesvqp.com
 partner.pancakeswasap.one
 partners-ait.tech
@@ -68042,7 +68045,6 @@ paxos.gift
 paxosapp.com
 paxosbounty.com
 paxosest.com
-paxosestm.com
 paxosgold.net
 paxosgold.org
 paxosgold.us
