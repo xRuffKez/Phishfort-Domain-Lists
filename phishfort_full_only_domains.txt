@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 16:01:42 UTC 2024
-# Number of Entries: 106771
+# Fetch date: Tue Mar 19 17:01:36 UTC 2024
+# Number of Entries: 106775
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -30515,6 +30515,7 @@ ethereumzz.com
 etherewallet.org
 etherfast.eu
 etherfaucet.tech
+etherfi-airdrop.com
 etherfi.finance
 etherfi.one
 etherflyer.com.claim-tokens-erc-20.com
@@ -37966,6 +37967,7 @@ hold-manta.network
 holdane.com
 holdbuycoin.com
 holder-check.web.app
+holder-nexo.com
 holdercertify.com
 holders-airdrop-uniswap.org
 holders-collabland-verif.xyz
@@ -46123,6 +46125,7 @@ mafara.info
 mafia-animals.nft-premint.com
 mafia-animals.web3fast.net
 mafia-bank.xyz
+magamemeccin.com
 magamemecoin.cash
 magcednsolana.blogspot.com
 magento.pancakeswasap.one
@@ -81623,6 +81626,7 @@ superapesclub.us
 superapesclub.xyz
 superapesmint.org
 superbitcoin-blockchain.info
+superbraves.info
 superclaim-defi.com
 superclaims-defi.com
 supercreators.vip-freemint.com
