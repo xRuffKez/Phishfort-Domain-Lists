@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 21:01:56 UTC 2024
-# Number of Entries: 106801
+# Fetch date: Tue Mar 19 22:01:33 UTC 2024
+# Number of Entries: 106803
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -49396,6 +49396,7 @@ metamask-unlock.xyz
 metamask-update-v2.com
 metamask-update.iaibserang.ac.id
 metamask-updates.com
+metamask-updatextension.pages.dev
 metamask-upgrade.com
 metamask-us-en.com
 metamask-us_a-loogiin.godaddysites.com
@@ -75144,6 +75145,7 @@ rnyrnonero.top
 rnyuthevallet.xyz
 rnyuthevvallet.com
 rnyuthewallet.xyz
+roachcoin.in
 roadgridequipment.pw
 roal.com.py
 roastedbeef.io
