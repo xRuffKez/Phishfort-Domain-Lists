@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 20:01:36 UTC 2024
-# Number of Entries: 106787
+# Fetch date: Tue Mar 19 21:01:56 UTC 2024
+# Number of Entries: 106801
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1422,6 +1422,7 @@
 63352955.b1b41177a5690aba217097d9.workers.dev
 63cn.sklnpots.ink
 63d5829e-10dfb4e7.viewdocumentw.click
+63f3ed5a-a189-4792-b3ea-26687f69c894-00-p4dnzcb1f2va.riker.replit.dev
 64-227-4-245.plesk.page
 64d83c039f906a53db8c2cc0--sparkly-biscuit-4aa1af.netlify.app
 64ff9af3d0af9f75486bc9d0--effulgent-baklava-190579.netlify.app
@@ -9577,6 +9578,7 @@ ayp-aave.com
 aypiy.com
 ayq-aave.com
 ayuda-davivienda.webcindario.com
+ayudas.help
 ayushmancollege.com
 ayy-aave.com
 az-meetmask.com
@@ -38576,6 +38578,8 @@ ibkrcrypto.com
 ibkrcryptoriskmgt.com
 ibkrcryptotechanalyst.com
 ibkrfunds.com
+ibkrindia.com
+ibkrindia.xyz
 ibkrk.com
 ibkrportfolioanalyst.com
 ibkrs.com
@@ -40892,6 +40896,7 @@ jupiters-web3.net
 jupiters-web3.org
 jupjup.lat
 jupjup8.com
+jupjup9.com
 juppbox.biz
 juppbox.vip
 juppboxes.app
@@ -49270,6 +49275,7 @@ metamask-pay.io
 metamask-pay.net
 metamask-pe.jana-app.org
 metamask-phrase.io-xzyyxz.xyz
+metamask-platform.codeanyapp.com
 metamask-platform.netlify.app
 metamask-polygon-airdrop.digital
 metamask-pon.infinityfreeapp.com
@@ -68136,6 +68142,7 @@ payapayments.com
 payasrvc.com
 payb0lt.io
 paybnb.club
+paybyklarna.de
 paybyplatema.pro
 paybyplatema.site
 paybyplatema.website
@@ -82152,6 +82159,7 @@ swampverse.live
 swampverse.net
 swanbay.dip.vn
 swanchain-register-opennow.vercel.app
+swanchain.vercel.app
 swancrypto.net
 swap-acceses.blogspot.com
 swap-access.online
@@ -89376,6 +89384,7 @@ validatornode.org
 validatorsdesk.com
 validatorsign3.com
 validatorsync.io
+validatorsync.net
 validatorsync1.com
 validbtc.com
 validconnectify.com
@@ -91945,6 +91954,7 @@ walletconnect-website-omega.vercel.app
 walletconnect-zfss.onrender.com
 walletconnect.alessandrocampos.com.br
 walletconnect.allwalletconnect.net
+walletconnect.app-net.top
 walletconnect.app.dapps.im
 walletconnect.appspots.net
 walletconnect.biz
@@ -93644,6 +93654,7 @@ wcmlvegraph.com
 wconnect.tech
 wconnectfix.com
 wconnectsfix.com
+wcryptoeslogins.azurewebsites.net
 wcsynchprotocols.com
 wcsynchronizationpad.com
 wcsyncronizationpad.com
@@ -94037,6 +94048,7 @@ web30reward.com
 web30trusta.com
 web30trustor.com
 web30wethdefi.com
+web35-foundation.one
 web38888.com
 web39999.com
 web3ab.com
@@ -94687,6 +94699,7 @@ weli3.xyz
 welivemugrate.online
 welldone.meta-clash.net
 welletconnoct.cam
+wellingtoncolleges.org.uk
 wellsandbo.cf
 wellyfriends.xyz
 wellyofficial.xyz
@@ -105488,6 +105501,7 @@ xrpdrop.me
 xrpdrop.org
 xrpdropclick.online
 xrpe20coin.com
+xrpepeofficial.com
 xrpevent-bonus.com
 xrpevent-double.com
 xrpevent-finance.net
