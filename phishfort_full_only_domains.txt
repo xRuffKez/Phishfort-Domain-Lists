@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 19:02:25 UTC 2024
-# Number of Entries: 106784
+# Fetch date: Tue Mar 19 20:01:36 UTC 2024
+# Number of Entries: 106787
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -67883,6 +67883,7 @@ paxfulescrow.com
 paxfulex.com
 paxfulfe.com
 paxfulguide.com
+paxfulhack.site
 paxfulhelp.com
 paxfulhelpcenter.info
 paxfulhelpdesk.com
@@ -68071,6 +68072,7 @@ paxosapp.com
 paxosbounty.com
 paxosest.com
 paxosestm.com
+paxosevct.com
 paxosg.com
 paxosgold.net
 paxosgold.org
@@ -102431,6 +102433,7 @@ www.user-globalgnosisaf.xyz
 www.user-paxful.com
 www.user-pudgypen.xyz
 www.usersfreemints.click
+www.ustaylorsshop.com
 www.uvfkprp.top
 www.uwallet.com
 www.uwallets.live
