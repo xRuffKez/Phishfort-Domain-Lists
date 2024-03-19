@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 11:02:25 UTC 2024
-# Number of Entries: 8078
+# Fetch date: Tue Mar 19 12:03:17 UTC 2024
+# Number of Entries: 8074
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1755,7 +1755,6 @@ cowitechnical.com
 cowswap.app
 cozartweb.com
 cozymeta.com
-cpcalendars.imap.api.mail.pancakeswaps.org
 cpcontacts.euarabbank.com
 cpf-sponsoring.com
 crashout-casino.com
@@ -2574,7 +2573,6 @@ fnx-marketrade.com
 foeziwo.pro
 foolz.sellpass.io
 foomclub.net
-footballeminence.top
 foresamagovi.com
 foreverozeal.com
 forex-com.holu.workers.dev
@@ -4507,7 +4505,6 @@ nearraffle.com
 neom-property.com
 neom-staging.klues.ai
 neom-suppliers.com
-neom-suppliers.net
 neom.day
 neomcareers.cloud
 neomcareers.life
@@ -5838,6 +5835,7 @@ rewardspaalai.app
 rezeptfrei.shop
 rezoprotocol.com
 rfw4sdsklb.woorobaher.tech
+rgrdgddf.pages.dev
 rhhrpka.pro
 rhinodao.app
 rhodium.live
@@ -7468,7 +7466,6 @@ www.collab-award.io
 www.colloky.online
 www.consorcioempreswebs.info
 www.cosmicchronica.xyz
-www.cpcalendars.imap.api.mail.pancakeswaps.org
 www.creepz-rebirth.com
 www.cryptopreneur.community
 www.csagoda.com
@@ -7578,7 +7575,6 @@ www.l2-blast.io
 www.launchpad.sporess.pro
 www.layer-3.xyz
 www.lethid.com
-www.lexofsteel.com
 www.liniometa.com
 www.lite.a.covv.site
 www.live-tiktok.shop
