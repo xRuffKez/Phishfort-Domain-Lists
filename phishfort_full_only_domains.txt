@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 17:01:36 UTC 2024
-# Number of Entries: 106775
+# Fetch date: Tue Mar 19 18:01:45 UTC 2024
+# Number of Entries: 106778
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -45138,6 +45138,7 @@ login.coinbasesupportscenterid.com
 login.coinbasesupportsid.com
 login.coinbasewalletsupport.com
 login.coinbasewalletsupports.com
+login.cw1.ir
 login.fraend.net
 login.frame-airdrop.xyz
 login.lblockhcoin.com
@@ -58733,6 +58734,7 @@ neomcareers.cloud
 neomcareers.life
 neomonlines.info
 neomprojects-ksa.net
+neomsuppliers.net
 neon-animals.world
 neon.ftidfast.xyz
 neon.reconnects-web3.com
@@ -68067,6 +68069,7 @@ paxosapp.com
 paxosbounty.com
 paxosest.com
 paxosestm.com
+paxosg.com
 paxosgold.net
 paxosgold.org
 paxosgold.us
