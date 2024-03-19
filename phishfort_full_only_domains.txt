@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 10:02:02 UTC 2024
-# Number of Entries: 106767
+# Fetch date: Tue Mar 19 11:01:52 UTC 2024
+# Number of Entries: 106769
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -27334,6 +27334,7 @@ dripcommunity.press
 dripcommunity.tech
 dripcommunity.website
 drive-amdsoftware.life
+drive-document-file-2024.github.io
 drivez-giveaway.com
 drivrsnft1-free.xyz
 drjiclub.xyz
@@ -87082,6 +87083,7 @@ un5gmtkzgj4ewmq43w.myob.best
 unacersawme.com
 unaisiwalplog.azurewebsites.net
 unapatches.com
+unblock.pancakeswaapfinance.net
 unblockedaccount.b0tnet.com
 unbn.online
 unboxedmetaverse.com
