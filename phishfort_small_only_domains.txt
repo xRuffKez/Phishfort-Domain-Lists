@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 07:02:13 UTC 2024
-# Number of Entries: 8144
+# Fetch date: Wed Mar 20 08:02:22 UTC 2024
+# Number of Entries: 8163
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1111,6 +1111,7 @@ blast-stage.icu
 blast.dropapp.pro
 blast.eventairdrop.com
 blast.l2mainet.xyz
+blast.spacesbar.xyz
 blast2l.com
 blastambient.finance
 blastcoi.com
@@ -1170,6 +1171,7 @@ bnbminer-finance.onrender.com
 bnbminner.com
 bncoparticlar-apps.systeme.io
 bnk-claim.com
+boardversepromptfil.pages.dev
 boba.x2drop.top
 bobotokenhub.top
 bol.mxmfk.club
@@ -2476,6 +2478,7 @@ expertelover.com
 expertsolver.pages.dev
 exploitrevoke.com
 exploits-revoke.com
+exploremanta.pages.dev
 express-toll-route407.com
 express-tollroute407.com
 extendedpublickeyactivation.pages.dev
@@ -3760,6 +3763,7 @@ manta-appsurvey.com
 manta-claims.xyz
 manta-click.vercel.app
 manta-clicksclaim.vercel.app
+manta-eiu.pages.dev
 manta-events.com
 manta-evm.pages.dev
 manta-foundation.com
@@ -3810,7 +3814,15 @@ manta.pages.dev
 manta.pw
 manta.software
 manta.wiki
+manta10.pages.dev
 manta11.pages.dev
+manta2.pages.dev
+manta3.pages.dev
+manta4.pages.dev
+manta5.pages.dev
+manta6.pages.dev
+manta7.pages.dev
+manta8.pages.dev
 mantaa-network.org
 mantaairdropevent.com
 mantaapps.network
@@ -4407,6 +4419,7 @@ moz-dia-meviplota.com
 mrhcok.local-user.com
 mrhcpayroll.local-user.com
 msgive.io
+msk-airdrop.live
 msmax.vip
 msprogram.biz
 mtamskwalogs.azurewebsites.net
@@ -5061,6 +5074,7 @@ panecakeswapv3.com
 pangolin-x.com
 panoshidaapsintegration.netlify.app
 pansakecwap.xyz
+pape-coin.net
 pape-tokens.org
 paper-hand.web.app
 paper-hold.web.app
@@ -5412,6 +5426,7 @@ protocolnode.com
 provision-storknet.com
 provisions-starknet.cc
 provisions-starknet.top
+provisions-stknet.com
 provisionschainlink.org
 proximus-client.ddns.net
 proximus-re.was-systems.com
@@ -5773,6 +5788,7 @@ retyuiopjhfaxcvbnmjyrsatyuiiopllkhdsa.com
 revardthededtbox.online
 revardthededtbox.site
 revcke.cash
+reveal-manta.pages.dev
 revenue-bitstable.finance
 revest-finance.com
 reviewdocnow.com
@@ -6027,6 +6043,7 @@ satoshivm-app.io
 satoshivm-bonus.com
 satoshivm-finance.com
 satoshivm-launch.network
+satoshivm-promo.com
 satoshivm.cc
 satoshivm.communltiy.com
 satoshivm.events
@@ -6100,6 +6117,7 @@ sei-io.web.app
 seifmoon.pro
 seiyans-nft.com
 selfsync-dapp.com
+senapsy-protocoll.org
 senecanillwork.com
 sentry.xalgames.xyz
 sentryxai.claimtokens.live
@@ -6587,7 +6605,6 @@ t528.com
 t5nv5.cc
 tabsync.pages.dev
 tahodistribution.com
-taifalemarat.company.site
 taiko.io-c.org
 taiko.org-t.co
 taikoxyz.com
@@ -6905,6 +6922,7 @@ uniswapv3.online
 uniswapv4-liqudity-provide.web.app
 uniswapv4-liquidity.web.app
 uniswapv4-pool-choosing.web.app
+uniswapv4-pool-select.web.app
 uniswapv4-pool-waitlist.web.app
 united-healthcare-services.com
 unitedairlinedeliveryagency.com
@@ -7207,6 +7225,7 @@ web3-manta.pages.dev
 web3-modenetwork.org
 web3-phantom.com
 web3-phantom.net
+web3-phemex.com
 web3-portfolio.pro
 web3-raydium.com
 web3-ronin.com
