@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 13:02:12 UTC 2024
-# Number of Entries: 8163
+# Fetch date: Wed Mar 20 14:02:04 UTC 2024
+# Number of Entries: 8160
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3724,7 +3724,6 @@ maker-spark.claims
 makeradao.com
 makerdaicoin.com
 makerdao-airdrop.pages.dev
-makerdao-governance-dashboard.com
 makerdoa.com
 makerfoundation.github.io
 makertoken.net
@@ -6022,7 +6021,6 @@ sale.sonikapp.live
 sales.btcbscio.network
 sallybolderson.com
 salmonjourneys.com
-sample.ecsa.com
 sampx8y.info
 samurai-award.info
 samurai-nft.pro
@@ -6619,7 +6617,6 @@ tawuniya.online-link.net
 tdecu-support.info
 tdg7gr.pro
 tdserv.com
-tdsynnxe.com
 te-rra.cyou
 tectonic.flnance.web3-ap.cfd
 teechdata.com
