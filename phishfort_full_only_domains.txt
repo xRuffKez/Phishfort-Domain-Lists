@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 00:04:47 UTC 2024
-# Number of Entries: 106811
+# Fetch date: Wed Mar 20 01:22:05 UTC 2024
+# Number of Entries: 106817
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1819,6 +1819,7 @@ aave.app-com.gb.net
 aave.appscrypto.net
 aave.arnadoor.com
 aave.art
+aave.asia
 aave.best
 aave.blog
 aave.blue
@@ -37071,6 +37072,7 @@ grnomemines.com
 grok-coin.com
 grok15erc20claim.pages.dev
 grokceo.website
+grokcoinlab.xyz
 groknewyear.com
 grop1inch.cash
 groundiobridge.live
@@ -53857,6 +53859,7 @@ multibit-exchange.com
 multibit.app
 multibit.vip
 multibit.xyz
+multibitex.net
 multibitstaking.com
 multibitx.netlify.app
 multiblock-defipad.com
@@ -58140,6 +58143,7 @@ mymonerolive.com
 mymoneroln.com
 mymonerom.site
 mymoneron.site
+mymoneronline.info
 mymoneroo.com
 mymonerop.site
 mymoneropool.com
@@ -85353,6 +85357,7 @@ ton.org-newyear.fun
 ton.vu
 ton.x-wallet.top
 tonc0in.website
+tonclaim.online
 toncoin-event.com
 toncoin.cfd
 toncoin.eng-ton.org
@@ -103963,6 +103968,7 @@ xn--fixedfoat-0pb.com
 xn--fixedfoat-5k7d.com
 xn--fixedfoat-vub.net
 xn--fixedfoat-vub.org
+xn--fixedfoat-wpb.com
 xn--fixefloat-8fb.net
 xn--fixelfloat-ckb.com
 xn--flf-9na.world
