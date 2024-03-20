@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 04:01:59 UTC 2024
-# Number of Entries: 106843
+# Fetch date: Wed Mar 20 05:01:32 UTC 2024
+# Number of Entries: 106846
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4403,6 +4403,7 @@ alphakongsclub-freemint.xyz
 alphakongsclub.fun
 alphakongseclub.pro
 alphalinksolutions.vercel.app
+alphalobstarpal.pages.dev
 alphamailbrd1.com
 alphanft.online
 alphasharks.nft-premint.com
@@ -12739,6 +12740,7 @@ blendao.xyz
 blendbit.net
 blendbit.org
 blendbit.top
+blendcoin.org
 blender404.xyz
 blenderbtc.io
 blenderio.ai
@@ -19502,6 +19504,7 @@ collab-land.net
 collab-land.online
 collab-land.pw
 collab-land.top
+collab-land.x10.bz
 collab-landbot-secure.com
 collab-lander.com
 collab-landhelpdesk.com
@@ -40851,6 +40854,7 @@ jumper.markets
 jumper.trading
 jumper.web3-airdrop.net
 jumperexchange.space
+jumperexchange.xyz
 jumperexchenge.org
 jumpers-exchanges.xyz
 jumpers.trading
@@ -50710,7 +50714,6 @@ metamaskauthorization.in
 metamaskautorestore.pages.dev
 metamaskb.com
 metamaskb.icu
-metamaskb.io
 metamaskbackup.com
 metamaskbak.cc
 metamaskbali.com
@@ -68703,7 +68706,6 @@ perurhealth.com
 peryourhealth.be
 peryourhealth.biz
 peryourhealth.blog
-peryourhealth.cyu
 peryourhealth.org
 peryourhealth.us
 pescadosdaftx.blogspot.com
@@ -80904,6 +80906,7 @@ starlofficial.xyz
 starlproject.claims
 starltoken.com
 starotlas.co
+starplumbingelectrical.com
 starpunksupport.online
 starrgatee.finance
 starsareana.com
@@ -82360,6 +82363,7 @@ swdwd.etherget22.zone
 swdwd.ethers444.online
 sweans360.com
 sweat.bagenne.top
+sweatsync.pages.dev
 sweekswap.com
 sweepstakes708.godaddysites.com
 sweepswap.xyz
@@ -99407,7 +99411,6 @@ www.meta-mask.club
 www.meta-mask.co
 www.meta-online-services.help
 www.meta.pika.asia
-www.meta.wesbcex.com
 www.meta0096.com
 www.meta009911.com
 www.meta096.com
