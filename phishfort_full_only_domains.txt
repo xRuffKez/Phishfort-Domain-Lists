@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 02:06:50 UTC 2024
-# Number of Entries: 106828
+# Fetch date: Wed Mar 20 03:01:48 UTC 2024
+# Number of Entries: 106825
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3097,7 +3097,6 @@ agodamall-hk.com
 agodaonline.com
 agodapay.info
 agodapay.online
-agodapools.com
 agodapools.net
 agodapromote.com
 agodapurpose.com
@@ -8421,7 +8420,6 @@ authassets.live
 authbridge.xyz
 authchase05b.servebbs.com
 authcitizenbank.com
-authcollablands.live
 authconector.com
 authconnect-dapp.netlify.app
 authconnect.dev
@@ -22656,6 +22654,7 @@ dao-vela.org
 dao-velodromefinance.org
 dao.zksyn.org
 daoapprestore.com
+daoblend.xyz
 daoblender.xyz
 daobridgescore.tech
 daochains.site
@@ -43577,7 +43576,6 @@ lido.fit
 lido.gdn
 lido.gg
 lido.gives
-lido.giving
 lido.land
 lido.liquid.inverni.us
 lido.openpads.top
@@ -50435,7 +50433,6 @@ metamask.softonic.comm.tracara.co.uk
 metamask.software
 metamask.soy
 metamask.srl
-metamask.ss3.app
 metamask.stapn.website
 metamask.starch-solution.com
 metamask.stream
