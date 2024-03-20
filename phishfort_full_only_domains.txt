@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 16:02:45 UTC 2024
-# Number of Entries: 106875
+# Fetch date: Wed Mar 20 17:01:37 UTC 2024
+# Number of Entries: 106879
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -24550,6 +24550,7 @@ dbrsco.net
 dbrsco.org
 dbrscotd.com
 dbrsfds.com
+dbrsfin.com
 dbrsfx.cc
 dbrsfx.com
 dbrsfxs.com
@@ -39615,6 +39616,7 @@ infsec0.com
 infura-api.com
 infusionperu.com
 ing-autorizza-cliente.it
+ing-bank.info
 ing-daten.reverent-banach.185-237-15-118.plesk.page
 ing-de-acces.com
 ing-mein.nervous-edison.170-187-224-61.plesk.page
@@ -40577,6 +40579,7 @@ joancornella-fwenclub.com
 job-adastragrp.com
 job-kpmg.com
 joblessassistancenetwork.com
+joblessassistanceportal.com
 joblessassistanceportal.net
 joblessconnect.net
 joblessconnect.org
@@ -54680,6 +54683,7 @@ my6etherwallet.com
 my7etherwallet.com
 myab-shaw.com
 myaccessauth.com
+myaccountcat.com
 myaccounts.ulitey.com
 myacess-account.net
 myactivationapps.com
