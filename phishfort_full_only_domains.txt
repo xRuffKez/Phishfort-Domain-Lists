@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 19 23:01:38 UTC 2024
-# Number of Entries: 106804
+# Fetch date: Wed Mar 20 00:04:47 UTC 2024
+# Number of Entries: 106811
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -8168,6 +8168,7 @@ atlas.livegift.site
 atlas.rewards.ink
 atlas.tryfast.site
 atlas.visit.express
+atlas3io-prime-kongz.web.app
 atlastear.site
 atlastoken.io
 atlasx.myqnapcloud.com
@@ -14559,7 +14560,6 @@ bst-dexw3.com
 bsvprice.com
 bsvprice.org
 bsw-airdrop.com
-bswap-finance.web.app
 bswapdex.com
 bswapstoken.com
 bswaptoken.com
@@ -17202,6 +17202,7 @@ claim.zetachain.vip
 claim.zetachain.wb3s.xyz
 claim.zetachain.wb3u.xyz
 claim.zkskull.com
+claim.zksnyc.in
 claim0x.org
 claim1eth.com
 claim1inch.online
@@ -23125,6 +23126,7 @@ dappethereum.xyz
 dappethereum2.club
 dappethereum2.fun
 dappextension.com
+dappextension.info
 dappextensions.com
 dappfactoryvalidationconnect.online
 dappfastfix.live
@@ -29281,6 +29283,7 @@ errorwalletrectifer.netlify.app
 erselya.site
 ertamlek.online
 erydgred.umb.market
+erythkor.buzz
 esautodealer.com
 escocoin.xyz
 escolopedia.homes
@@ -35321,6 +35324,7 @@ gencotesto.com
 gendis.energia.misiones.gob.ar
 gene-sis.live
 genectec.com
+geneitec.com
 general-blockchain.com
 general-chain.link
 generalapproval.com
@@ -58314,6 +58318,7 @@ mysterybox75.vercel.app
 mysterybox882.vercel.app
 mysteryboxnow.vercel.app
 mysteryboxv1.vercel.app
+mysteryboxvp.vercel.app
 mysteryclaim74.vercel.app
 mysteryclaimsnft.vercel.app
 mysteryclicksclaim1.vercel.app
@@ -76294,7 +76299,6 @@ salanert.com
 saldias.net
 sale-azuki.app
 sale-azuki.com
-sale-dock.com
 sale-earn.com
 sale-ico.com
 sale-metagear.online
@@ -83418,6 +83422,7 @@ tde.zollo.io
 tdecu-support.info
 tdecunet.org
 tdex.market
+tdg7gr.pro
 tdlsynnex.com
 tdserv.com
 tdsynmex.com
@@ -85795,6 +85800,7 @@ trerzor.io
 tresoer.com
 tresthouses.cf
 trestleprotocol.net
+treszorwallest.azurewebsites.net
 treustewallet.com
 trevoke.cash
 trez0r.com
@@ -89656,6 +89662,7 @@ venom-network.com
 venom-wallet.com
 venom.cfd
 venom.mailinvite.org
+venomairdrop.vercel.app
 venomfinance.site
 venomfonduation.com
 venomfoundation.app
@@ -94049,7 +94056,6 @@ web30defi.vip
 web30miningpool.com
 web30reward.com
 web30trusta.com
-web30trustor.com
 web30wethdefi.com
 web35-foundation.one
 web38888.com
@@ -98793,6 +98799,7 @@ www.htttps-paxful.com
 www.hufkiw.top
 www.huobiltd.com
 www.huslnft.xyz
+www.hustlegenix.crd.mvu.mybluehost.me
 www.hvacperformanceinstitute.net
 www.hvmtl-forge.xyz
 www.hyggemarin.com
