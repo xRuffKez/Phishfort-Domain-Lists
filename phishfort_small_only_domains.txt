@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 16:03:12 UTC 2024
-# Number of Entries: 8160
+# Fetch date: Wed Mar 20 17:02:09 UTC 2024
+# Number of Entries: 8156
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -173,7 +173,6 @@ achieve-altlayer.io
 achieve-altlayer.pages.dev
 acleverblitz.com
 acompletesecrets.com
-across-bridge.net
 acrosss-bridge.xyz
 active-supp-ort-meta.netlify.app
 adailypath.com
@@ -1274,7 +1273,6 @@ buy.btcetf.network
 buy.pomerdoge.live
 buy.scottyai.org
 buy1inch.org
-buybonk.co
 buzz-bsquared.store
 buzz.bsquareed.online
 bvrefe.pages.dev
@@ -1790,7 +1788,6 @@ crtoadznew.com
 crv.fi
 crypto-communities.com
 crypto-farm-trust.com
-crypto-payments.xyz
 crypto-starknets.com
 crypto.met-group.xyz
 crypto.wormscommunity.xyz
@@ -1954,6 +1951,7 @@ daviviendaportal.webcindario.com
 dbrsco.net
 dbrsco.org
 dbrsfds.com
+dbrsfin.com
 dbrsfxs.com
 dbrspty.com
 dddow.com
@@ -3055,6 +3053,7 @@ inaraequinix.ae
 incsribe.app
 infosa.net
 ing-autorizza-cliente.it
+ing-bank.info
 ing-de-acces.com
 ing-onlines.pages.dev
 ing.es-operaciones.com
@@ -3169,6 +3168,7 @@ jitodrop.net
 jjup.ag
 jkyr.pro
 joblessassistancenetwork.com
+joblessassistanceportal.com
 joblessassistanceportal.net
 joblessconnect.net
 joblessconnect.org
@@ -3297,7 +3297,6 @@ kaijutoys.shop
 kameiot.exchange.web3-l2.cfd
 kamino.cc
 kandito.co.ke
-kapschintlb.com
 karatdao.eu
 karatdao.v6.rocks
 karnatakaaromas.com
@@ -3938,7 +3937,6 @@ marketpharmacy.com
 marketplace-listings.com
 marketplace-offers.io
 marketplacestatus.com
-marloon.net
 marnta.network
 masa-ek1.pages.dev
 masa-finance.com
@@ -4476,6 +4474,7 @@ my-listings-95571.net
 my-listings-97781.net
 my-swap.xyz
 my.templ.cc
+myaccountcat.com
 myairdrops.org
 mycastcrewssaw.com
 mychendimasslor.com
@@ -4534,7 +4533,6 @@ myteam-defi3.com
 mytr.rxi.app
 myuiionlinedetmadma.info
 myuimapay.online
-myuionlinedeetmadma.com
 mywalletexodus.com
 na2-docusign-net-envelope-office365-auth.us-southeast-1.linodeobjects.com
 na3-docusign-auth-office365.us-lax-1.linodeobjects.com
@@ -6484,7 +6482,6 @@ subqueryfoundation-claim.vercel.app
 subsquid.network
 sueta777.pages.dev
 sui-airdrop.one
-sui-global.com
 sui-network.mom
 sui.trusthubs.top
 sui.webs3drop.top
@@ -7278,7 +7275,6 @@ web3pancakeswap.com
 web3portal.com
 web3resolve.pages.dev
 web3resolvepage.tech
-web3sushiwap.com
 web3sy.top
 web3trubtc.cc
 web3world.pages.dev
