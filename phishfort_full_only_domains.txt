@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 21:01:33 UTC 2024
-# Number of Entries: 106887
+# Fetch date: Wed Mar 20 22:01:36 UTC 2024
+# Number of Entries: 106889
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -43908,6 +43908,7 @@ linknetwork.co
 linko-smartrectify.com
 linkp.io
 linkreward.app
+links-airtm.com
 links-arb.com
 links-bridge.live
 linksafe-secure.com
@@ -97199,6 +97200,7 @@ www.bumrof.com
 www.bunkrectify.live
 www.bunkvalidate.live
 www.bupp163.ink
+www.burakglobalfirm.com
 www.burn-kenny.tech
 www.butterfieldoffshore.com
 www.buzff163.ink
