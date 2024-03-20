@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 13:01:33 UTC 2024
-# Number of Entries: 106878
+# Fetch date: Wed Mar 20 14:01:49 UTC 2024
+# Number of Entries: 106875
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -47048,7 +47048,6 @@ makerdaicoin.com
 makerdao-airdrop.pages.dev
 makerdao-claim.com
 makerdao-dropcampaigns.com
-makerdao-governance-dashboard.com
 makerdao-info.com
 makerdao-network.makerdao.workers.dev
 makerdao-news.com
@@ -76381,7 +76380,6 @@ samkent.site
 samoraiwalletapp.com
 samoyed-mint.web.app
 samoyed.netlify.app
-sample.ecsa.com
 samptlenk.site
 sampx8y.info
 samsenrt.site
@@ -99341,7 +99339,6 @@ www.makeirdao.site
 www.makeirdao.space
 www.makemyvacationonline.com
 www.makerdao-dapp.online
-www.makerdao-governance-dashboard.com
 www.makerdaodai.site
 www.makerdaov.site
 www.makerdaov2.xyz
