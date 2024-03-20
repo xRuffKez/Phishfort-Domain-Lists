@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 10:01:36 UTC 2024
+# Fetch date: Wed Mar 20 11:01:34 UTC 2024
 # Number of Entries: 106877
 # Expires: 1 hour
 0-metemask.com
@@ -61027,7 +61027,6 @@ onlwallcone.blogspot.com
 onlyalt-wallet.com
 onlyappsauthenpoint.online
 onlydice.xyz
-onlyhordes.com
 onlyinnofixboard.live
 onlyintermeritapps.netlify.app
 onlymigrator-access.online
@@ -74531,6 +74530,7 @@ revoke-mdvmm.xyz
 revoke-moonbirds.com
 revoke-multichain.org
 revoke-now.cash
+revoke-paraswap.com
 revoke-permit2.cash
 revoke-security.net
 revoke-shido.pages.dev
