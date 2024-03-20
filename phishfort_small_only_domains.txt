@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 22:02:08 UTC 2024
-# Number of Entries: 8147
+# Fetch date: Wed Mar 20 23:02:21 UTC 2024
+# Number of Entries: 8140
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -838,7 +838,6 @@ atllayer-drop.top
 atltayer-reward.top
 atmexchange.org
 atom.trasthub.top
-atomsolana.live
 atorio.news
 atorprotocol.co
 audius.gift
@@ -1497,7 +1496,6 @@ claim.dymensionall.club
 claim.get-ton.com
 claim.ifizgroup.xyz
 claim.layerzero-foundation.pro
-claim.layerzero-free.live
 claim.layerzero-tokens.online
 claim.memeskombats.online
 claim.memetrumpmaga.com
@@ -1698,7 +1696,6 @@ community-coindesk.com
 community-cryptos.org
 community-dappradar.com
 community-saga.xyz
-community-sol.xyz
 compound-labs.xyz
 compoundtrades.net
 con-wall-3web.pages.dev
@@ -1730,7 +1727,6 @@ connect1038.lol
 connectapeterminal.io
 connectdappsuniverse.click
 connectextension.info
-connectionesupply.com
 connectionlog.pages.dev
 connectnetwork.lojavirtualnuvem.com.br
 connectorwallet.pages.dev
@@ -2466,7 +2462,6 @@ exchangepancakeswap.workers.dev
 exchangeros.com
 exchanges-backpack.app
 exclusive-blast.com
-expertelover.com
 expertsolver.pages.dev
 exploitrevoke.com
 exploits-revoke.com
@@ -3550,7 +3545,6 @@ link.kavaxyz.pro
 link3.cfd
 link3.hair
 link3.web3-manager.com
-linkhub.vip
 links-airtm.com
 liquid-stake.com
 liquideth.world
@@ -6805,7 +6799,6 @@ trekki1-2ao7ciwr8-scgllr.vercel.app
 trestleprotocol.net
 treszorwallest.azurewebsites.net
 trezorsuite-web3.com
-tribeemajesty.com
 trimaax.us
 trinet.za.com
 trippletradingteam.com
