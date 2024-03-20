@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 17:01:37 UTC 2024
-# Number of Entries: 106879
+# Fetch date: Wed Mar 20 18:02:07 UTC 2024
+# Number of Entries: 106881
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1477,6 +1477,7 @@
 7839859a-4d88-411a-9e8d-39d1e1b7369a.metemaxe.com
 78z68.app-mav.xyz
 79-141-165-217.plesk.page
+79.137.202.34.sslip.io
 79747e01aezxmeae5qka.0lcqa.ru
 7andi.top
 7andi.vip
@@ -49067,6 +49068,7 @@ metamask-apk.monster
 metamask-app-kyc.com
 metamask-app.cool
 metamask-app.de
+metamask-app.info
 metamask-app.io
 metamask-app.live
 metamask-app.org
