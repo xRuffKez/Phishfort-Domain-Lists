@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 05:01:32 UTC 2024
-# Number of Entries: 106846
+# Fetch date: Wed Mar 20 06:01:54 UTC 2024
+# Number of Entries: 106854
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3703,6 +3703,7 @@ airdrop.urniswap.org.ovrelord.xyz
 airdrop.wallstreetsmemes.io
 airdrop.wld.dev
 airdrop.work
+airdrop.wrlomhole.net
 airdrop.xn--aptosabs-xkb.com
 airdrop.xn--looksrre-4ya.com
 airdrop.yuliverse.net
@@ -37064,6 +37065,7 @@ greenfigures.dev
 greenhillstrade-fx.com
 greenlifeenergy-promogive.com
 greenpillnft.xyz
+greens-bitcoins.web.app
 greensdots.com
 greenvonline.com
 gremlins-promogive.com
@@ -53370,6 +53372,7 @@ monobtc.com
 monoloccos-nft.xyz
 monopolydrop.com
 monqmob.io
+monsprotocol.io
 monstainfinite-promogive.com
 monsterhouse-lefilm.com
 monsterlpad.com
@@ -60146,6 +60149,7 @@ now-ark.org
 now-ethers.com
 now-matamask.com
 now-metemask.com
+now.l3-mode.world
 now5000.com
 nowactiveoffer.online
 nowactiveonline.online
@@ -72167,6 +72171,7 @@ ptmp.eu-pancakeswap.dysnix.org
 ptnetnt.site
 ptok.live
 ptrade-paxful.com
+ptron.hk
 ptsupamratbk.com
 ptt97.com
 pub-0186f027c154484fbcbeb90161ab83cf.r2.dev
@@ -83040,6 +83045,7 @@ synctoapps.com
 synctoday.cc
 synctoolsdev.com
 synctrustedappscloud.online
+syncus-fi.app
 syncvaliation.link
 syncvalid.netlify.app
 syncvalid.xyz
@@ -106449,6 +106455,7 @@ zk-evm.portallera-bridge.cloud
 zk-look.org
 zk-manta.network
 zk-money.app
+zk-polyhedra.com
 zk-reward.com
 zk-skaling.org
 zk-sync-skalling.org
@@ -106529,6 +106536,7 @@ zkmoney.app
 zkmoney.mirror-web3.site
 zkmoney.org
 zkmoney.zone
+zkpolyhedra.net
 zks-allocation.org
 zks-labsfoundation.com
 zks-labsfoundation.net
