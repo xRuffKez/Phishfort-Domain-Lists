@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 05:02:06 UTC 2024
-# Number of Entries: 8134
+# Fetch date: Wed Mar 20 06:02:38 UTC 2024
+# Number of Entries: 8142
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -334,6 +334,7 @@ airdrop.starheros.community
 airdrop.starkparticipate.com
 airdrop.teleportdao.su
 airdrop.wld.dev
+airdrop.wrlomhole.net
 airdrop.yuliverse.net
 airdrop.zerolendd.xyz
 airdrop.zk-sync.io
@@ -364,7 +365,6 @@ airdrops-sei.web.app
 airdrops-zkfair.io
 airdrops.cyou
 airdropsaltlayer.pages.dev
-airdropslotmachine-dapp.com
 airdropsscan.com
 airdropz-altlayer.io
 airdropzkfair.top
@@ -2859,6 +2859,7 @@ graviex-defi.xyz
 graybarz.com
 greenbitcoin-en.web.app
 greencorp.online
+greens-bitcoins.web.app
 grendot.online
 grit-finance.com
 grok15erc20claim.pages.dev
@@ -3223,6 +3224,7 @@ jumper.capital
 jumper.exchangee.net
 jumper.markets
 jumper.trading
+jumperexchange.xyz
 jumperexchenge.org
 jumpers-exchanges.xyz
 jumpers.trading
@@ -4378,6 +4380,7 @@ moneypak-activate.com
 monkedao.one
 monkesnft.xyz
 monney-penny.net
+monsprotocol.io
 monta-network.com
 monte.cards
 mooar.top
@@ -4717,6 +4720,7 @@ notcoin.gift
 notcoin.global
 notcoin.host
 notionalfinance.org
+now.l3-mode.world
 nowoplunge.com
 npaautocare.com
 numboost.ru
@@ -5412,6 +5416,7 @@ proximus-re.was-systems.com
 proximus-recovery.be
 psgyh.top
 psychome.co
+ptron.hk
 pub-0186f027c154484fbcbeb90161ab83cf.r2.dev
 pub-17e2d2e910694763a8cb5ff43c671f14.r2.dev
 pub-1c497a63b4ea4d20835eafbe23631624.r2.dev
@@ -5952,7 +5957,6 @@ rtfkt.gifts
 rtfktforge.pro
 rubic-exchange.life
 rubytechnology360.com
-rukmaidental.com
 runjokab.wpenginepowered.com
 rvoke.cash
 rx-nt.duckdns.org
@@ -6417,6 +6421,7 @@ starkware.life
 starkynet.com
 starlight-finance.com
 starlknet.shop
+starplumbingelectrical.com
 start-wen.com
 stately-froyo-8d0a93.netlify.app
 steaam.umb.market
@@ -6565,6 +6570,7 @@ syncswap.cloudscom.xyz
 syncswap.day
 syncswap.limited
 syncswapxyz.in
+syncus-fi.app
 syncvalidator.firebaseapp.com
 syncwebsolution.com
 syncxolution-inchpd.com
@@ -8063,6 +8069,7 @@ zk-dashboard.net
 zk-era.co
 zk-look.org
 zk-manta.network
+zk-polyhedra.com
 zk-skaling.org
 zk-sync-skalling.org
 zk.fareflow.xyz
@@ -8090,6 +8097,7 @@ zkiink.io
 zklabsclaim.net
 zklink.in
 zkmindversatile.pages.dev
+zkpolyhedra.net
 zks-labsfoundation.com
 zks-labsfoundation.net
 zks-reward.org
