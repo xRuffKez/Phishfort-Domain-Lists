@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 09:02:37 UTC 2024
-# Number of Entries: 8163
+# Fetch date: Wed Mar 20 10:02:15 UTC 2024
+# Number of Entries: 8164
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2794,6 +2794,7 @@ getshib.io
 gettingarb.xyz
 getvenus.xyz
 gfe3ox.csb.app
+gftj7.pro
 ghnrryfd.umb.market
 ghostdag.site
 gift-altlayer.io
@@ -3579,6 +3580,7 @@ live-altlayer.io
 live-mantas.com
 live-satoshivm.io
 live-zetachain.com
+liveblocksrectify.pages.dev
 livefree-clestia.org
 livepersonatunitedairlin.amebaownd.com
 liverpoolmx.com
@@ -3709,6 +3711,7 @@ mainnet-dymension.com
 mainnet-lineabuild.pages.dev
 mainnet-nodes.xyz
 mainnet-pryzm.com
+mainnetdapps.site
 mainnetecosystem.net
 mainnetportal.org
 mainnets.vercel.app
@@ -4396,7 +4399,6 @@ monkesnft.xyz
 monney-penny.net
 monsprotocol.io
 monta-network.com
-monte.cards
 mooar.top
 moodinohzh.site
 moombeam.top
@@ -4449,7 +4451,6 @@ multichainbridge-dapp.onrender.com
 multichainnetwork.pages.dev
 multichainnode.onrender.com
 multichainprotocol.netlify.app
-multichainsresolve.pages.dev
 multichainweb.pages.dev
 multicoinsystem.web.app
 multidapps.app
@@ -5659,7 +5660,6 @@ raydum.sbs
 rayidium.com
 rayzonfinance.com
 raze-drops.top
-razz-dapp-omega.vercel.app
 rdx.vercel.app
 rdxshoes.click
 reachedoutseveral.com
@@ -7686,6 +7686,7 @@ www.marnta.network
 www.masimjaya.com
 www.maverickdao.org
 www.mavia.comapp.hu54.com
+www.mavia.comapp.kutten.net
 www.mavia.comapp.yaya6.com
 www.mavia.la
 www.mavia.lc
