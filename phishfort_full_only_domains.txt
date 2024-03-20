@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 03:01:48 UTC 2024
-# Number of Entries: 106825
+# Fetch date: Wed Mar 20 04:01:59 UTC 2024
+# Number of Entries: 106843
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3097,6 +3097,7 @@ agodamall-hk.com
 agodaonline.com
 agodapay.info
 agodapay.online
+agodapools.com
 agodapools.net
 agodapromote.com
 agodapurpose.com
@@ -11915,6 +11916,7 @@ bit-optiver.com
 bit-optiver.org
 bit-temp.com
 bit-thumb.com
+bit-venus.com
 bit-wall.com
 bit-z.ru
 bit20.org
@@ -13534,6 +13536,7 @@ bnbgive.info
 bnbgive.net
 bnbgiveme.com
 bnbgold.site
+bnbheibaie.quest
 bnbhold.net
 bnbillionaire.icu
 bnbkraken.com
@@ -14708,7 +14711,6 @@ btcgiran.com
 btcgive.kissr.com
 btcgiveaway.org
 btcgives.org
-btchaze.com
 btcjob.pw
 btclam.com
 btcldn.com
@@ -15544,6 +15546,7 @@ cbrcnt.com
 cbrecbre.com
 cbreholdings.com
 cbreimapp.com
+cbreinc.com
 cbrepartners.com
 cbrevoke.org
 cbridge-c.celer-bridge.network
@@ -17547,6 +17550,7 @@ clarkconstructionusa.com
 clarkconstruvction.com
 clarkcontrvction.com
 clarkcorstruction.com
+clarkgroup-us.co
 clarkincorporation.com
 clarkscontractors.com
 classicetherwallt.com
@@ -26059,6 +26063,7 @@ dev.ap.depend.com
 dev.axileinfinity.com
 dev.dechem.unideb.hu
 dev.fractionl.art
+dev.heliuswork.com
 dev.livevault.site
 dev.lyncdiscover.img.elasticsearch-uat.arb-chain.com
 dev.musk.airdrop.fund
@@ -28480,7 +28485,6 @@ elon-musk.life
 elon-musk.online
 elon-musk.prize1.repl.co
 elon-musk.promo
-elon-musk.site
 elon-musk.team
 elon-musk.xyz
 elon-official-giveaway.com
@@ -33541,6 +33545,7 @@ flufworld.wtf
 flufworldnft.io
 flufworldnft.xyz
 fluidswap.io
+flukeoutil.com
 fluralpha.get-mint.com
 flursalpha.xyz
 flutter.mykeyconfirm.online
@@ -38411,6 +38416,7 @@ hv-mtl.lol
 hvmoecjpxn.info
 hvmtl-forge.xyz
 hvpib.com
+hvqk.pro
 hvu24h.atacadista.site
 hvww-metams.top
 hvwwv-metamas.top
@@ -39815,6 +39821,7 @@ integratedprotocols.org
 integratedrollcollab.online
 integratedsafetyadminapps.online
 integratedservers.online
+integratedsystemsconnect.com
 integratedtopapps.online
 integratedvalidation.com
 integratedvalidation.org
@@ -43571,6 +43578,7 @@ lido.drops.su
 lido.en-us.io
 lido.family
 lido.fi-swaps.app
+lido.finance.fi.be-drv.com
 lido.finance.z-cdn.com
 lido.fit
 lido.gdn
@@ -50702,6 +50710,7 @@ metamaskauthorization.in
 metamaskautorestore.pages.dev
 metamaskb.com
 metamaskb.icu
+metamaskb.io
 metamaskbackup.com
 metamaskbak.cc
 metamaskbali.com
@@ -51603,6 +51612,7 @@ metarpg-nft.xyz
 metarun.finance
 metas-myverif.com
 metasafe.live
+metasafeguardportfolio.desmarkpremio.com
 metasafemoon-promogive.net
 metasamui.com
 metascan.network
@@ -77376,6 +77386,7 @@ seositesworld.online
 seotrooper.com
 seoulstars-nft.com
 sependella.site
+sepolia.eu
 sept-apps.pancakeswape.finance
 sept-outlook.pancakeswape.finance
 sept-www.apps.pancakeswape.finance
@@ -80431,6 +80442,7 @@ stake-pond0x.com
 stake-quant.com
 stake-rewarb.com
 stake-seedify.com
+stake-slerf.com
 stake-staderlabs.com
 stake-tish.com
 stake-us.in.net
@@ -82054,6 +82066,7 @@ sushiswap.club
 sushiswap.gq
 sushiswap.lt
 sushiswap.ml
+sushiswap.mom
 sushiswap.network
 sushiswap.news
 sushiswap.nz
@@ -83444,6 +83457,7 @@ tdsynnexlive.net
 tdsynnxe.com
 tdwmvifc.top
 tdxinsurance.com
+te-rra.cyou
 tea-rewards.com
 tea4diet.com
 team-away.xyz
@@ -93958,6 +93972,7 @@ web3-connectyr.tk
 web3-connectyx.cf
 web3-connectzg.gq
 web3-connectzg.tk
+web3-cyptoo.com
 web3-dappmainnet.live
 web3-dapps-connect.on.fleek.co
 web3-dapps-pages-dev.netlify.app
@@ -94148,6 +94163,7 @@ web3defi07.top
 web3defi168.top
 web3defi352.top
 web3defi495.top
+web3defi7.top
 web3defi96.top
 web3defiesdapps.live
 web3defiexplorer.com
@@ -94427,6 +94443,7 @@ webextensionsfix.tech
 webexwin.net
 webexx.dev
 webfinspot.top
+webfix-net.pages.dev
 webfixdapps.pages.dev
 webfixnet.pages.dev
 webfixpage.com
@@ -96622,6 +96639,7 @@ www.asx-coin-exchange.com
 www.asx-coin.com
 www.asx-danman.top
 www.asx-download.com
+www.asx-exs.com
 www.asx-genten.com
 www.asx-gsncq.top
 www.asx-ice.top
@@ -99389,6 +99407,7 @@ www.meta-mask.club
 www.meta-mask.co
 www.meta-online-services.help
 www.meta.pika.asia
+www.meta.wesbcex.com
 www.meta0096.com
 www.meta009911.com
 www.meta096.com
@@ -104100,7 +104119,6 @@ xn--krken-c51b.com
 xn--krken-n41b.com
 xn--krken-ucc.com
 xn--krken-xqa.crypptocomlogin.com
-xn--krken-yqa.com
 xn--krkn-6na9c.com
 xn--krkn-cta9976b.com
 xn--ksync-4hb.com
