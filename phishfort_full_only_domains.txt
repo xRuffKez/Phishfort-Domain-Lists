@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 20:02:00 UTC 2024
-# Number of Entries: 106881
+# Fetch date: Wed Mar 20 21:01:33 UTC 2024
+# Number of Entries: 106887
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -8093,6 +8093,7 @@ asx-market.com
 asx-martdeskeia.com
 asx-tsdkgt.com
 asx-vip.com
+asx.am
 asx.center
 asx.coinexsm.com
 asx.coinmaxs.com
@@ -37454,7 +37455,9 @@ he34a.ibarami.net
 he3xc.com
 healerwallet.com
 healinghippies.xyz
+health-equity.sa.com
 healthcheck.com
+healthequity.comlink.sa.com
 healthequity.comru.sa.com
 healthequity.comru.za.com
 healthequity.comy.sa.com
@@ -62766,6 +62769,7 @@ paceline.info
 pacemaker.nft-premint.com
 pacemakernft.com
 pacerealestatevt.com
+pacexel.com
 pacific-bridge-manta-network.cyou
 pacific-bridge-manta.cyou
 pacific-bridge.manta.nework.live
@@ -76386,6 +76390,7 @@ samkent.site
 samoraiwalletapp.com
 samoyed-mint.web.app
 samoyed.netlify.app
+sample.ecsa.com
 samptlenk.site
 sampx8y.info
 samsenrt.site
@@ -97241,6 +97246,7 @@ www.cash.revoke.icu
 www.cashspacex.com
 www.caspa-network.xyz
 www.cathartesnft.com
+www.catholicf-la.org
 www.cazuo.net
 www.cbplustrade.com
 www.cbrevokedapp.org
