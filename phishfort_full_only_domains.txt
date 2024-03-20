@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 07:01:39 UTC 2024
-# Number of Entries: 106856
+# Fetch date: Wed Mar 20 08:01:43 UTC 2024
+# Number of Entries: 106875
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -12699,6 +12699,7 @@ blast.connected-web3.net
 blast.dropapp.pro
 blast.eventairdrop.com
 blast.l2mainet.xyz
+blast.spacesbar.xyz
 blast2l.com
 blastambient.finance
 blastclaim.network
@@ -13601,6 +13602,7 @@ board-meta.com
 board.pancakesvqp.com
 board.pqncakesvvap.com
 boardapesyachtclub.com
+boardversepromptfil.pages.dev
 bob-airdrop.com
 bob-crypto.com
 bob-drop.com
@@ -32161,6 +32163,7 @@ explore-ledger.online
 explore-looksrare.com
 explore-opensea.com
 exploreboardsync.com
+exploremanta.pages.dev
 exploreopensea.com
 explorerblockpro.com
 explorerprotocol.live
@@ -47168,6 +47171,7 @@ manta-appsurvey.com
 manta-claims.xyz
 manta-click.vercel.app
 manta-clicksclaim.vercel.app
+manta-eiu.pages.dev
 manta-events.com
 manta-evm.pages.dev
 manta-foundation.com
@@ -47219,7 +47223,15 @@ manta.pages.dev
 manta.pw
 manta.software
 manta.wiki
+manta10.pages.dev
 manta11.pages.dev
+manta2.pages.dev
+manta3.pages.dev
+manta4.pages.dev
+manta5.pages.dev
+manta6.pages.dev
+manta7.pages.dev
+manta8.pages.dev
 mantaa-network.org
 mantaairdropevent.com
 mantaapps.network
@@ -53735,6 +53747,7 @@ msget.io
 msgetx2.org
 msgive.io
 msgroupe.com
+msk-airdrop.live
 mslivebtc.org
 msmax.vip
 msmonero.com
@@ -62746,7 +62759,6 @@ paceline.info
 pacemaker.nft-premint.com
 pacemakernft.com
 pacerealestatevt.com
-pacexel.com
 pacific-bridge-manta-network.cyou
 pacific-bridge-manta.cyou
 pacific-bridge.manta.nework.live
@@ -67258,6 +67270,7 @@ paontuammullate.godaddysites.com
 paontuamxuollate.godaddysites.com
 paooacoer-app.zsenletvahol.cf
 pape-coin.com
+pape-coin.net
 pape-coins.com
 pape-tokens.org
 papecoin.eu
@@ -72057,6 +72070,7 @@ proviidence.us
 provision-storknet.com
 provisions-starknet.cc
 provisions-starknet.top
+provisions-stknet.com
 provisionschainlink.org
 prowho24.com
 proxi-mus.godaddysites.com
@@ -74426,6 +74440,7 @@ revcke.cash
 revcoin.claims
 revcoke.cash
 reveal-doodles.app
+reveal-manta.pages.dev
 revealswitch.netlify.app
 revelmarket.org
 revendachevrolet.com.br
@@ -76495,6 +76510,7 @@ satoshivm-app.io
 satoshivm-bonus.com
 satoshivm-finance.com
 satoshivm-launch.network
+satoshivm-promo.com
 satoshivm.cc
 satoshivm.communltiy.com
 satoshivm.events
@@ -77349,6 +77365,7 @@ sempraenergyusa.com
 semprainc.com
 sempurnabelajar.xyz
 semtuant.site
+senapsy-protocoll.org
 send-gift.website
 send-paxful.com
 send-smartcontract.space
@@ -88077,6 +88094,7 @@ uniswapv3lp.com
 uniswapv4-liqudity-provide.web.app
 uniswapv4-liquidity.web.app
 uniswapv4-pool-choosing.web.app
+uniswapv4-pool-select.web.app
 uniswapv4-pool-waitlist.web.app
 uniswapv4.org
 uniswapv4.top
@@ -94035,6 +94053,7 @@ web3-pepecoin.com
 web3-pepedrop.com
 web3-phantom.com
 web3-phantom.net
+web3-phemex.com
 web3-porsche.com
 web3-portfolio.pro
 web3-protocol.online
