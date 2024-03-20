@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 10:02:15 UTC 2024
+# Fetch date: Wed Mar 20 11:02:02 UTC 2024
 # Number of Entries: 8164
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4806,7 +4806,6 @@ onlinedetma.org
 onlinedetma.za.com
 onlinenode.pages.dev
 onlinesgpon.cc
-onlyhordes.com
 onlysaitachain.migration.rxi.app
 onno-vaultdapp.click
 onschain.live
@@ -5811,6 +5810,7 @@ revoke-cash.top
 revoke-cash.xyz
 revoke-cassh.pages.dev
 revoke-now.cash
+revoke-paraswap.com
 revoke-security.net
 revoke-tips.com
 revoke-unibot.com
