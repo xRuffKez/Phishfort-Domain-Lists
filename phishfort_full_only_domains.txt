@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 01:22:05 UTC 2024
-# Number of Entries: 106817
+# Fetch date: Wed Mar 20 02:06:50 UTC 2024
+# Number of Entries: 106828
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4810,6 +4810,7 @@ angrypitbullclub.io
 angrypitbullclub.mint-freenft.com
 angvz.xyz
 anhound.store
+animalfarm3app.com
 animalia.trading
 animalias.events
 animazer-nft.com
@@ -6245,6 +6246,7 @@ app.linkcryptotoken.com
 app.liquidity-pool-uniswap.org
 app.log-venus.com
 app.lovelhotinu.co
+app.lumiwallet.live
 app.maerskkjsr.top
 app.magic-eden.vip
 app.magicceden-welcome-0sd.com
@@ -6358,6 +6360,7 @@ app.smartappslive.com
 app.smartercoiresolve.com
 app.smoothfunctionalguide.com
 app.solonarte.com
+app.solvsprotocol.com
 app.sonikapp.live
 app.spaceweb3.net
 app.sparkprotocol.fi
@@ -6946,6 +6949,7 @@ appz-dodoex.click
 appz-venus.click
 appzerion.com
 appzksync.com
+appzlink.com
 apq-i1cchio.com
 apr-vectorreserve.network
 apreth.com
@@ -17056,6 +17060,7 @@ claim-zksyncid.pro
 claim-zksyncid.xyz
 claim.aavelp.com
 claim.akidscalledbeats.com
+claim.altlayer.la
 claim.apeapes.com
 claim.app-layerzero.pro
 claim.app.uniswap.org-airdrop-3-5-eth.mint-v3-liquidity.site
@@ -35667,6 +35672,7 @@ getfreeethhh.blogspot.com
 getgift.tech
 getgrass-check.com
 getgrass-collect.com
+getgrass.cx
 geth-ethereum.org
 geth.claims
 gethealer.com
@@ -44361,6 +44367,7 @@ lnghome.top
 lnitbtc.com
 lnjective.trading
 lnpiaccess.drbirincioglu.com
+lnscribe.app
 lnsgroup.net
 lnslagram.com
 lnspro.site
@@ -54209,6 +54216,7 @@ mummy.gift
 mummyfinance-fi.com
 mummyfinance-go.com
 mummyfinancestaking.com
+mumucoin.org
 mun.web3fast.net
 mundodelibrosxyz.com
 munshihr.com
@@ -61184,6 +61192,7 @@ open-seedify.org
 open-soa.com
 open-sseae.site
 open-token.sale
+open-zkbridge.com
 openaea.io
 openai-airdrop.com
 openai-connect.io
@@ -62049,6 +62058,7 @@ opq-aave.com
 opqensea.org
 oprainvestment.info
 oprensea.com
+oprensea.io
 opretrobadge.com
 ops-drop.live
 opsecai-claim.com
@@ -86926,6 +86936,7 @@ ubex.us
 ubfdirects.com
 ubiqcoin.org
 ubitkub.web.app
+ubnr.cc
 ubro.space
 ubskscoin.com
 ubsteau.xyz
@@ -94060,7 +94071,6 @@ web30defi.org
 web30defi.vip
 web30miningpool.com
 web30reward.com
-web30trusta.com
 web30wethdefi.com
 web35-foundation.one
 web38888.com
@@ -106547,6 +106557,7 @@ zksyn-seedifa.fund
 zksynapse.network
 zksync-2023.com
 zksync-2023.net
+zksync-24.nfts2.me
 zksync-ai.com
 zksync-air2023.com
 zksync-airdrop.mooo.com
