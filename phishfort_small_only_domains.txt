@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 17:02:09 UTC 2024
+# Fetch date: Wed Mar 20 18:02:21 UTC 2024
 # Number of Entries: 8156
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -113,6 +113,7 @@
 68pw3690.pw
 6ueir.cc
 70356134-1e65-4f60-94ee-18e6fc220ac1-00-qed3v4c7t0e6.spock.replit.dev
+79.137.202.34.sslip.io
 7ihg.cc
 7kdgw.pro
 7x7gx.pro
@@ -1162,7 +1163,6 @@ blurprotocol.us
 blust.io
 bnb-crypto.xyz
 bnbair.org
-bnbchain.coinsdraw.io
 bnbgift.org
 bnbheibaie.quest
 bnbminer-finance.onrender.com
