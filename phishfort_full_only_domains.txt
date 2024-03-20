@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 09:01:54 UTC 2024
-# Number of Entries: 106875
+# Fetch date: Wed Mar 20 10:01:36 UTC 2024
+# Number of Entries: 106877
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -13358,7 +13358,6 @@ blurio-collections.com
 blurio-marketplace.com
 blurio.live
 blurioo.github.io
-blurioseason2.com
 blurl.io
 blurlo-app.com
 blurmarket.net
@@ -35786,6 +35785,7 @@ gfe3ox.csb.app
 gfhtra.mypi.co
 gfsmint.com
 gft-ray.web.app
+gftj7.pro
 gftx8.com
 gg-acess-account.blogspot.com
 gg-galagames-app-official-o.blogspot.com
@@ -44168,6 +44168,7 @@ liveappio.com
 liveapprestore.pages.dev
 livebinance.com
 livebitpurse.com
+liveblocksrectify.pages.dev
 liveboxes.netlify.app
 livebrigdewallet.site
 livechainsync.com
@@ -46854,6 +46855,7 @@ mainnetdapps-auth.net
 mainnetdapps-auth.org
 mainnetdapps.info
 mainnetdapps.online
+mainnetdapps.site
 mainnetdappsconnect.com
 mainnetdappsresolve.online
 mainnetdappwallets.com
@@ -73490,7 +73492,6 @@ rayzone-18.vercel.app
 rayzonfinance.com
 raze-drops.top
 razebit.com
-razz-dapp-omega.vercel.app
 rbcttbankt.com
 rbi-in.org
 rbitrum.com
@@ -99391,6 +99392,7 @@ www.matprima-pa.com
 www.matr1x.shop
 www.maverickdao.org
 www.mavia.comapp.hu54.com
+www.mavia.comapp.kutten.net
 www.mavia.comapp.yaya6.com
 www.mavia.la
 www.mavia.lc
