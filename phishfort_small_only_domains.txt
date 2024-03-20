@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 03:02:11 UTC 2024
-# Number of Entries: 8114
+# Fetch date: Wed Mar 20 04:02:22 UTC 2024
+# Number of Entries: 8132
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1045,6 +1045,7 @@ biscottiboyzca.com
 biswap-exchange.top
 bit-nvidia.com
 bit-optiver.org
+bit-venus.com
 bitcasino.pw
 bitcasino.rocks
 bitcoin-mine-trix.com
@@ -1161,6 +1162,7 @@ bnb-crypto.xyz
 bnbair.org
 bnbchain.coinsdraw.io
 bnbgift.org
+bnbheibaie.quest
 bnbminer-finance.onrender.com
 bnbminner.com
 bncoparticlar-apps.systeme.io
@@ -1331,6 +1333,7 @@ cbgyf.pages.dev
 cblre.com
 cbrecbre.com
 cbreholdings.com
+cbreinc.com
 cbrepartners.com
 cbrevoke.org
 cchgroupfx.com
@@ -1550,6 +1553,7 @@ claimvoucher2.glitch.me
 claimwif.com
 clanostreet.com
 clarkcorstruction.com
+clarkgroup-us.co
 classicsanctuary.com
 cldss.xyz
 clearanceshops.top
@@ -2054,6 +2058,7 @@ detma.online
 dev-c2usdt.pantheonsite.io
 dev-dese-mo-gov.pantheonsite.io
 dev-the-metamask-support.pantheonsite.io
+dev.heliuswork.com
 dev.lyncdiscover.img.elasticsearch-uat.arb-chain.com
 devapp.pages.dev
 devdapps.pages.dev
@@ -2296,7 +2301,6 @@ eligible-chaln.link
 elite-bit.net
 elitesiteat.com
 elitesiteaz.com
-elitetory.com
 elon-x.info
 em-suppliers.online
 email.consentt.click
@@ -2573,6 +2577,7 @@ flokievent.netlify.app
 flokii.xyz
 flowerand7.xyz
 fluffy-hotteok-b5b58b.netlify.app
+flukeoutil.com
 fluxfinance.app
 flxedfloat.pages.dev
 flyemirates.cloud
@@ -2976,6 +2981,7 @@ hubsoasys.games
 hubuoasys-games.com
 humminglinkgg.world
 hunnerdimental.com
+hvqk.pro
 hwy407etr.com
 hxsn.xyz
 hydro-protocol.xyz
@@ -3077,6 +3083,7 @@ integratedapps.pages.dev
 integratedchain.000.pe
 integratedfix.live
 integratedmultifix.pages.dev
+integratedsystemsconnect.com
 integratemultichainfix.pages.dev
 integrationvaults.com
 intellix-protocol.com
@@ -3493,6 +3500,7 @@ lido-reward.org
 lido-rewards.pages.dev
 lido-staking.pages.dev
 lido.fi-swaps.app
+lido.finance.fi.be-drv.com
 lido.liquid.inverni.us
 lido227277.pages.dev
 lidocrypto.fi
@@ -4133,6 +4141,7 @@ metamaskapp-kyc-auth24.com
 metamaskapp.space
 metamaskarb.com
 metamaskb.icu
+metamaskb.io
 metamaskclaim.io
 metamaskclaims.io
 metamaskclaimtoken.com
@@ -4180,6 +4189,7 @@ metanask-kyc.com
 metapass.fyi
 metarestore.vercel.app
 metareward.top
+metasafeguardportfolio.desmarkpremio.com
 metaswap-frontend.vercel.app
 metatank.app
 metatoken.cash
@@ -5929,7 +5939,6 @@ rpcdebug-extensiondapps.pages.dev
 rpchubnode.com
 rpclistinfo.netlify.app
 rpcnodesos.com
-rrbxhe.top
 rrevoke.cash
 rroninchain.com
 rrspn.pro
@@ -6086,6 +6095,7 @@ selfsync-dapp.com
 senecanillwork.com
 sentry.xalgames.xyz
 sentryxai.claimtokens.live
+sepolia.eu
 serenitybuildsconstructions.org
 servdnshortingorgs.site
 server192560.online
@@ -6343,6 +6353,7 @@ stake-lidofit.net
 stake-manta.network
 stake-official-online.com
 stake-rewarb.com
+stake-slerf.com
 stake-tish.com
 stake-us.in.net
 stake-us.in.net.mammonmarketing.com
@@ -6490,6 +6501,7 @@ sushi.gifts
 sushipwap.github.io
 sushiswap-sushi.app
 sushiswap.lt
+sushiswap.mom
 sushlswap.github.io
 sw-syncswap.com
 swanchain-register-opennow.vercel.app
@@ -6581,6 +6593,7 @@ tdecu-support.info
 tdg7gr.pro
 tdserv.com
 tdsynnxe.com
+te-rra.cyou
 tectonic.flnance.web3-ap.cfd
 teechdata.com
 tektekdunk.blogspot.com
@@ -7176,6 +7189,7 @@ web3-connectha.gq
 web3-connectix.cf
 web3-connectmi.tk
 web3-connectsj.gq
+web3-cyptoo.com
 web3-ethereum.info
 web3-kaavva.netlify.app
 web3-manta.pages.dev
@@ -7220,6 +7234,7 @@ web3defi07.top
 web3defi168.top
 web3defi352.top
 web3defi495.top
+web3defi7.top
 web3defi96.top
 web3dropmetask.com
 web3etftrust.com
@@ -7247,6 +7262,7 @@ webdapps.vercel.app
 webdebugdapp.pages.dev
 webex.com.test.webexarcor.arcorsa.myshn.net
 webex.net.cn
+webfix-net.pages.dev
 webfixnet.pages.dev
 webfixrpc.online
 webgraph.live
@@ -7453,6 +7469,7 @@ www.artsblock.xyz
 www.aryanmodi.com
 www.assets-gate.com
 www.asx-danman.top
+www.asx-exs.com
 www.asx-genten.com
 www.asx-ice.top
 www.asx-idn.com
@@ -7646,6 +7663,7 @@ www.mavias.club
 www.mavla.xyz
 www.mehrlesenachrichten.com
 www.meta.pika.asia
+www.meta.wesbcex.com
 www.meta009911.com
 www.meta2842.com
 www.metamask-mining.com
