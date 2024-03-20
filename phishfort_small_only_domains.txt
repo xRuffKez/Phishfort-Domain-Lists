@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 20:02:11 UTC 2024
-# Number of Entries: 8156
+# Fetch date: Wed Mar 20 21:02:13 UTC 2024
+# Number of Entries: 8149
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -819,6 +819,7 @@ astroakashvani.com
 asuccessfulgarage.com
 asx-martdeskeia.com
 asx-tsdkgt.com
+asx.am
 asx.center
 asx.mobi
 asxcoinbr.com
@@ -944,7 +945,6 @@ basedbrett.xyz
 baseswaap.top
 baseswapp.network
 battlemaneki.com
-baycare-patientportal.com
 baycarepatientportal.net
 baycarepatientportals.com
 baycx-bape.com
@@ -1031,7 +1031,6 @@ billionalr.com
 bimance-airdop.org
 binance-0x51bd6a810bd083c4bab4834a90411c62d04456ce.gunhay.vn
 binance.iconworld.tech
-binance.t-co.pro
 binancebusdairdrop2024.com
 binancnftcoin.com
 binansce.com
@@ -2262,7 +2261,6 @@ earned-linea.com
 earni-fi.net
 earnifinance.xyz
 earningdrop.dev
-earnis.app
 earns-drop.net
 earns-drop.org
 earnsdrop.net
@@ -2907,7 +2905,9 @@ hashbnb.com
 havas-aso.com
 hca-healthcare.com
 hdi6v.pro
+health-equity.sa.com
 healthcheck.com
+healthequity.comlink.sa.com
 healthequity.comru.sa.com
 healthequity.comru.za.com
 healthequity.comy.sa.com
@@ -3009,7 +3009,6 @@ ibllck.com
 ibllcq.com
 ibllcr.com
 ibllcy.com
-icologin.online
 iconotice.fun
 identicalentail.top
 identity.sandbox.tymebank.ngenius-payments.com
@@ -3899,7 +3898,6 @@ mantas-net.app
 mantasnetwork.net
 mantastake.com
 mantatech.network
-mantatoken.top
 mantawallet.zoholandingpage.com
 mantax.pages.dev
 mantaz.network
@@ -4734,7 +4732,6 @@ notcoin.host
 notionalfinance.org
 now.l3-mode.world
 nowoplunge.com
-npaautocare.com
 numboost.ru
 nusuk.site
 nusukbaitullahint.id
@@ -5464,7 +5461,6 @@ pwsign.com
 pwtradeco.com
 pwxskm.cfd
 pxffsite.web.app
-pxlivewebsite.onrender.com
 pyro-nft-vercel.pages.dev
 pyrthdex.com
 pyth-web3.org
@@ -6019,6 +6015,7 @@ sale.sonikapp.live
 sales.btcbscio.network
 sallybolderson.com
 salmonjourneys.com
+sample.ecsa.com
 sampx8y.info
 samurai-award.info
 samurai-nft.pro
@@ -6060,7 +6057,6 @@ scapemania.sale
 scburnet.okta.acmecorp.name
 scholarfundhub.com
 scjdwb.cfd
-sckaniopiorte.top
 sconectsmartplusoficial.store
 scorpion-casino.shop
 scotltytheai.xyz
@@ -6238,7 +6234,6 @@ smaarhtmaiigrathhe.com
 smahtconhtraact.com
 smanbi.shop
 smart-dapp.onrender.com
-smart-edu-co.online
 smart-layer-claim.net
 smart-walletconnect.pages.dev
 smart.guardiankava.com
@@ -6252,7 +6247,6 @@ smartdappconnect.com
 smartdappfix.pages.dev
 smartdappnodes.pages.dev
 smartdappsconnect.pages.dev
-smartdefiresolver.com
 smartiayer.io
 smartiayer.org
 smartinchcomp.pages.dev
@@ -6975,7 +6969,6 @@ usdt.wine
 usdtairdrop.com
 usdtclaims.co
 usdtreward.info
-usdtuab.com
 usemexus.org
 ushark-portal.com
 uwv475.com
@@ -7115,7 +7108,6 @@ vystarcu.zms362.com
 w-revoke.cash
 w.optimalsmart-sync.buzz
 w.smartprotocol-pad.online
-w.swiftdappchain.net
 w1117.usdt6188.top
 w40y.pro
 w5fowfv5tj.tobamicama.tech
@@ -7530,6 +7522,7 @@ www.butterfieldoffshore.com
 www.bybit-award.io
 www.cake-reward.shop
 www.cakes-reward.xyz
+www.catholicf-la.org
 www.cbrevokedapp.org
 www.celerswap.top
 www.chain-cross.link
