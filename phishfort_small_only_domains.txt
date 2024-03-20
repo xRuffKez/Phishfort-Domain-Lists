@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 01:22:31 UTC 2024
-# Number of Entries: 8104
+# Fetch date: Wed Mar 20 02:07:20 UTC 2024
+# Number of Entries: 8115
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -497,6 +497,7 @@ ancient-step-road.vercel.app
 andex.vercel.app
 angledao.app
 angledao.net
+animalfarm3app.com
 animalia.trading
 animalias.events
 anowplunge.com
@@ -648,6 +649,7 @@ app.financeglobal.trade
 app.formbot.com
 app.kiloex-airdrop.com
 app.kinzaxk-group.com
+app.lumiwallet.live
 app.moonbeam-web.com
 app.moonbeamer-swap.com
 app.parallelfl.network
@@ -657,6 +659,7 @@ app.qirtm.com
 app.raticswap.xyz
 app.refundcoinstake.com
 app.rnino.fi
+app.solvsprotocol.com
 app.sonikapp.live
 app.sparkprotocol.fi
 app.stringwebtools.com
@@ -716,6 +719,7 @@ apptokenmint.com
 appvirtuals.webcindario.com
 appweb3.site
 appymes-co.online
+appzlink.com
 apr-vectorreserve.network
 apt-project.com
 apt.500-web3.top
@@ -1478,6 +1482,7 @@ claim-xai.pages.dev
 claim-your-mask-tokens-withmetamask-airdrop.fi-liikennesakkoo.net
 claim-zetachain.xyz
 claim.aavelp.com
+claim.altlayer.la
 claim.arkhamfinance.xyz
 claim.beefmeme.xyz
 claim.bitetfs.net
@@ -2766,6 +2771,7 @@ getbonked.net
 getcodesolutions.com
 getgrass-check.com
 getgrass-collect.com
+getgrass.cx
 geth.claims
 getmanta.network
 getmidjourney.tech
@@ -3565,6 +3571,7 @@ llamaswap.pages.dev
 lmeow.pw
 lnftclick.vercel.app
 lnjective.trading
+lnscribe.app
 lnsgroup.net
 lnsulet.com
 lntrac-funds-instnat.digital
@@ -4427,6 +4434,7 @@ multiswaps.org
 multiverse-us94.onrender.com
 multiwalletexplore.on.fleek.co
 multiwalletsystem.web.app
+mumucoin.org
 murphygroupltd.co.uk
 musicyandex.ru
 mutantboxnft.com
@@ -4781,6 +4789,7 @@ open-manta.network
 open-sea.systeme.io
 open-seaio.github.io
 open-seasclick.vercel.app
+open-zkbridge.com
 openboxclaims.vercel.app
 openclickclaim.vercel.app
 openftclicks.vercel.app
@@ -4837,6 +4846,7 @@ opernsea.io
 opeseapro.vercel.app
 opnseaboxed.vercel.app
 opnsreapro.vercel.app
+oprensea.io
 ops-drop.live
 opsecai-claim.com
 opsecc.software
@@ -6815,6 +6825,7 @@ twilio-hr.com
 twolandstoken.live
 twt.multipuds.top
 tyzxf.pages.dev
+ubnr.cc
 ufalmassuissat.com
 ufgw.top
 uhcdapp-apply-srv-eligible.glitch.me
@@ -7188,7 +7199,6 @@ web3.direcdapps.com
 web3.iamversed.xyz
 web3.kavaprotect.com
 web3.mavia.team
-web30trusta.com
 web35-foundation.one
 web38888.com
 web39999.com
@@ -8075,6 +8085,7 @@ zksrewardsclaim.net
 zksycn.net
 zksymc.github.io
 zksynapse.network
+zksync-24.nfts2.me
 zksync-airdrop.mooo.com
 zksync-airdrop.one
 zksync-bridge.world
