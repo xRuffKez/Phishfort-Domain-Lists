@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 21:02:13 UTC 2024
-# Number of Entries: 8149
+# Fetch date: Wed Mar 20 22:02:08 UTC 2024
+# Number of Entries: 8147
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -34,7 +34,6 @@
 1ido-fi.github.io
 1incgh.io
 1inch-app.com
-1inch-app.pages.dev
 1inch-crypto.top
 1inch-io.app
 1inch-network.org
@@ -54,7 +53,6 @@
 1inchv4.fi
 1inchwallet.app
 1inchwallet.org
-1inchweb3.com
 1incjh.io
 1innch.digital
 1lnch-claim.com
@@ -2187,7 +2185,6 @@ dropsframenet.com
 dropusdt.com
 dropxmulti.top
 dsadsadsadsaeq.pages.dev
-dsqconsulting.co.uk
 dsr4w.pages.dev
 dtechdatacorp.com
 dualdappsconnect.pages.dev
@@ -3554,6 +3551,7 @@ link3.cfd
 link3.hair
 link3.web3-manager.com
 linkhub.vip
+links-airtm.com
 liquid-stake.com
 liquideth.world
 liquidether.org
@@ -6354,7 +6352,6 @@ ssh.secure.secure.pancakefiance.org
 ssly.vip
 sspark.fi
 stableusdc.com
-stack-node.pages.dev
 staekland.com
 staging.home.hostmaster.coingecko.hatsuqat.com
 staging.www1.nftcircle.xyz
@@ -7518,6 +7515,7 @@ www.brothernz.com
 www.bscpad-launchpad.live
 www.buhgeexhange.com
 www.bumrof.com
+www.burakglobalfirm.com
 www.butterfieldoffshore.com
 www.bybit-award.io
 www.cake-reward.shop
