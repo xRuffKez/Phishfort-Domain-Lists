@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 00:07:04 UTC 2024
-# Number of Entries: 8099
+# Fetch date: Wed Mar 20 01:22:31 UTC 2024
+# Number of Entries: 8104
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -138,6 +138,7 @@ aave-aave.lt
 aave-finance.net
 aave-gifts.com
 aave.airscointrustpad.top
+aave.asia
 aave.freedrops.top
 aave.godepth.com
 aave.laynch-pad.top
@@ -880,7 +881,6 @@ axiee-infinity.github.io
 axieinfinity-app.icu
 axieinfinity-birthday.com
 axieinfinity-com.com
-axieinfinity.kesug.com
 axiemarketplace.beauty
 axiemarketplace.homes
 axiemarketplace.pics
@@ -2848,6 +2848,7 @@ grendot.online
 grit-finance.com
 grok15erc20claim.pages.dev
 grokceo.website
+grokcoinlab.xyz
 groknewyear.com
 grt.altcoinspads.top
 grt.altscoin.top
@@ -4397,6 +4398,7 @@ multi-trustpade.site
 multi-trustpades.cc
 multibit-exchange.com
 multibit.xyz
+multibitex.net
 multibitstaking.com
 multibitx.netlify.app
 multiblocksauth.pages.dev
@@ -4451,6 +4453,7 @@ mygoemployerthesaw.com
 myjuppy-box.com
 myjuppy-box.trade
 mymetazvirify.com
+mymoneronline.info
 mynewmont.net
 mynewmont.us
 mynewmontbonk.com
@@ -4773,6 +4776,7 @@ op-earn.xyz
 op.coinslabs.top
 op.x500-drop.top
 opebnsea.io
+opemnsea.io
 open-manta.network
 open-sea.systeme.io
 open-seaio.github.io
@@ -4781,6 +4785,7 @@ openboxclaims.vercel.app
 openclickclaim.vercel.app
 openftclicks.vercel.app
 openkeyledger.com
+openmsea.io
 openmysteriesnft.vercel.app
 openmysterynft.vercel.app
 openoffersea.io
@@ -6726,6 +6731,7 @@ tombmigration.com
 ton.org-community.info
 ton.org-newyear.fun
 ton.x-wallet.top
+tonclaim.online
 tool-orb.web.app
 top-satoshivm.io
 topprice-line.com
@@ -7431,7 +7437,6 @@ www.app.trust-reward.live
 www.appscallop.io
 www.appstride.zone
 www.appwallstmemes.pro
-www.appymesco.online
 www.apygate.rpctool.com
 www.aramex.technologyetc.mw
 www.archivesecureprotection.com
@@ -7847,7 +7852,6 @@ www.x-swap.link
 www.xai.moe
 www.xn--fixedflaot-f0b.com
 www.xn--fxedfloaf-g5a.com
-www.xnurik.com
 www.xrpsolana.com
 www.ye32.icu
 www.ylouch.com
@@ -7909,6 +7913,7 @@ xn--fixedflot-hdb.com
 xn--fixedfoad-vub.com
 xn--fixedfoat-0pb.com
 xn--fixedfoat-vub.net
+xn--fixedfoat-wpb.com
 xn--flxedfloat-78a.com
 xn--flxedfloat-yub.com
 xn--fxadflaot-vpb.com
