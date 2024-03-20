@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 20 04:02:22 UTC 2024
-# Number of Entries: 8132
+# Fetch date: Wed Mar 20 05:02:06 UTC 2024
+# Number of Entries: 8134
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -364,6 +364,7 @@ airdrops-sei.web.app
 airdrops-zkfair.io
 airdrops.cyou
 airdropsaltlayer.pages.dev
+airdropslotmachine-dapp.com
 airdropsscan.com
 airdropz-altlayer.io
 airdropzkfair.top
@@ -416,6 +417,7 @@ allocation-satoshivm.pages.dev
 alp.local-user.com
 alp.systemupdates.org
 alpha-fetch.com
+alphalobstarpal.pages.dev
 alphatrace.pro
 alphatrace.tech
 alphnet.online
@@ -1126,6 +1128,7 @@ blastt.io
 blasttup.top
 blastxs.com
 blendao.xyz
+blendcoin.org
 blender404.xyz
 blendswaps.xyz
 blinkblock.site
@@ -1642,6 +1645,7 @@ collab-connect.pages.dev
 collab-connects.land
 collab-land-sync.net
 collab-land.lol
+collab-land.x10.bz
 collab-landbot-secure.com
 collab-lander.com
 collab-safety.xyz
@@ -4141,7 +4145,6 @@ metamaskapp-kyc-auth24.com
 metamaskapp.space
 metamaskarb.com
 metamaskb.icu
-metamaskb.io
 metamaskclaim.io
 metamaskclaims.io
 metamaskclaimtoken.com
@@ -5231,7 +5234,6 @@ perurhealth.com
 peryourhealth.be
 peryourhealth.biz
 peryourhealth.blog
-peryourhealth.cyu
 peryourhealth.org
 peryourhealth.us
 petsversegames.sale
@@ -6520,6 +6522,7 @@ swapnftdefi.online
 swappanca1a.store
 swappancake.wtf
 swaptoken1inch.org
+sweatsync.pages.dev
 sweepstakes708.godaddysites.com
 sweet-zuccutto-855aba.netlify.app
 sweetwater.fun
@@ -7663,7 +7666,6 @@ www.mavias.club
 www.mavla.xyz
 www.mehrlesenachrichten.com
 www.meta.pika.asia
-www.meta.wesbcex.com
 www.meta009911.com
 www.meta2842.com
 www.metamask-mining.com
