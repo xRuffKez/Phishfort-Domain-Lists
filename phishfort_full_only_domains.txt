@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 11:01:55 UTC 2024
-# Number of Entries: 106958
+# Fetch date: Thu Mar 21 12:02:11 UTC 2024
+# Number of Entries: 106959
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6332,7 +6332,6 @@ app.pomerdoge.live
 app.pool-1inch.io
 app.prisrnafinance.com
 app.pulsiex.com
-app.qirtm.com
 app.questn.org
 app.radant.capital
 app.raticswap.xyz
@@ -6657,6 +6656,7 @@ applex1.com
 applfgswap.one
 application-galagames.blogspot.com
 application-inch.info
+application-pancakeswaps.pages.dev
 application-send.info
 application.pancakeswasap.one
 application.web3to-connect.com
@@ -24564,6 +24564,7 @@ dbp.coinsbase8.com
 dbridgenode.netlify.app
 dbrsco.com
 dbrsco.net
+dbrsco.org
 dbrsfds.com
 dbrsfin.com
 dbrsfx.cc
@@ -40832,6 +40833,7 @@ joyprimeshowworld.world
 joysonseafety.com
 jp-metamask.org
 jp-pancakeswap.net
+jp.ib-fx7.com
 jpagod.com
 jpancakesewap.me
 jpancke-swap.net
@@ -78138,7 +78140,6 @@ shrapnel-2024.com
 shrapnel-whitelist.com
 shrapnel-whitelists.com
 shrapnel.airdrop-minting.com
-shrapnel.cloud
 shrapnel.live
 shrapnel.mintyoursnft.net
 shrapnel.nft-premint.com
