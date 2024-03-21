@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 13:02:37 UTC 2024
-# Number of Entries: 8169
+# Fetch date: Thu Mar 21 14:02:12 UTC 2024
+# Number of Entries: 8168
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -834,7 +834,6 @@ atlantic-manta.network
 atlas3io-prime-kongz.web.app
 atllayer-drop.top
 atltayer-reward.top
-atmexchange.org
 atom.trasthub.top
 atorio.news
 atorprotocol.co
@@ -1950,6 +1949,7 @@ daviviendainforma.zya.me
 daviviendaportal.webcindario.com
 dbrsco.net
 dbrsco.org
+dbrscotd.com
 dbrsfds.com
 dbrsfin.com
 dbrsfxs.com
@@ -2312,7 +2312,6 @@ emiraetes.online
 emirateairlines.net
 emiratedistributions.online
 emirates-procurement.com
-emirates-suppleirs.online
 emirates-tickets.com
 emirates.airfareuk.co.uk
 emirates.flightse.co
@@ -5131,6 +5130,7 @@ paradigmmanta.com
 parallel-fi.vercel.app
 parclllimited.com
 parloroquick.com
+partenariat-bouygues-telecom-entreprises.fr
 participate-zks.net
 participate-zks.org
 particle-network.com
@@ -7446,6 +7446,7 @@ wwesolana.com
 www-1inch-web.io
 www-1inch-web3.com
 www-1inch.top
+www-adpworkforcenow.com
 www-altlayer-io.top
 www-altlayer.top
 www-app-1inch.com
@@ -7503,7 +7504,6 @@ www.appscallop.io
 www.appstride.zone
 www.appwallstmemes.pro
 www.apygate.rpctool.com
-www.aramex.technologyetc.mw
 www.archivesecureprotection.com
 www.artsblock.xyz
 www.aryanmodi.com
@@ -7783,7 +7783,6 @@ www.paxfulteams.com
 www.pcs-farmv3.com
 www.pea-th.com
 www.pea.oe-th.com
-www.pea.ou-th.com
 www.pemanagement.org
 www.penguinrandomshouse.com
 www.pepacoinairtoday.info
