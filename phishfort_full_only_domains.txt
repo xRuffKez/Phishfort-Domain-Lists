@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 08:01:50 UTC 2024
-# Number of Entries: 106956
+# Fetch date: Thu Mar 21 09:02:02 UTC 2024
+# Number of Entries: 106962
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -43891,6 +43891,7 @@ link-whitelist.com
 link.conect-access.com
 link.gatekava.xyz
 link.kava-api.live
+link.kavaguard.digital
 link.kavaguard.support
 link.kavaprotect.com
 link.kavashield.help
@@ -46638,6 +46639,7 @@ mail.wallet-trezor.io
 mail.walletconnectnetworks.online
 mail.wallstmemes-world.com
 mail.web3-airdrop.net
+mail.xn--pncakeswap-3gb.com
 mail.xrp-ledger.org
 mail01.pancokeswap.com
 mail046.mlsend.com
@@ -68240,6 +68242,7 @@ pay.pay.kwid9.app-mav.xyz
 pay.pepsico.live
 pay.ru-pancakeswap.site
 pay.shop.pancakeswape.finance
+pay8-2v-9jkc4ukd3-ekontetevi-gmailcom.vercel.app
 payapayments.com
 payasrvc.com
 payb0lt.io
@@ -69554,6 +69557,7 @@ pjhantom.app
 pjhnatonwalcvt.godaddysites.com
 pkinksle.com
 pkm.uajy.ac.id
+pknma-ciaaa-aaaad-qdxtq-cai.raw.ic0.app
 pknma-ciaaa-aaaad-qdxtq-cai.raw.icp0.io
 pkswap.co
 pkzn.net
@@ -78653,6 +78657,7 @@ slx.kuaz.net
 sm.zqwk.cc
 smaarhtmaiigrathhe.com
 smahtconhtraact.com
+smainchain-1d1.pages.dev
 smainchain.pages.dev
 smallbros.live
 smallbrosnft.nft-premint.com
@@ -104124,6 +104129,7 @@ xn--fxedfiloat-xub.com
 xn--fxedflaot-g5a.com
 xn--fxedflaot-g5a.org
 xn--fxedflaot-vpb.net
+xn--fxedflaot-vpbc.com
 xn--fxedflaots-68a.com
 xn--fxedflaots-k8a.com
 xn--fxedflcoat-68a.com
