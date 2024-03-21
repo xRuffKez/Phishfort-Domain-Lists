@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 22:02:04 UTC 2024
-# Number of Entries: 8177
+# Fetch date: Thu Mar 21 23:02:12 UTC 2024
+# Number of Entries: 8173
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1362,7 +1362,6 @@ centralseedandchem.co.nz
 ceoltis.com
 chahlist.org
 chaibenefitmassimui.com
-chain-link.pro
 chain-link.ru
 chain-linklabs.live
 chain-linknetwork.io
@@ -2303,7 +2302,6 @@ elitesiteat.com
 elitesiteaz.com
 elon-x.info
 em-suppliers.online
-email.consentt.click
 emdeonmd.com
 eminentnoderestore.com
 emiraetes.online
@@ -4590,7 +4588,6 @@ nevadaspower.customercare.network
 new-bid.org
 new-farcana.com
 new-lineabuild.pages.dev
-new-mont.com
 new-neotokyo.com
 new-nibiru.com
 new-porkcoin.com
@@ -6971,7 +6968,6 @@ updates-metamask.pages.dev
 url-shortener.me
 url7923.marsello.io
 us-coinmarketcap.com
-us-robihood.com
 us4f.cc
 us_mettmsika_en_us3.godaddysites.com
 usa5starshop.com
