@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 02:08:41 UTC 2024
-# Number of Entries: 8140
+# Fetch date: Thu Mar 21 03:02:32 UTC 2024
+# Number of Entries: 8148
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -152,7 +152,6 @@ aavve.org
 abacoin.website
 abbie.sa.com
 abict.net
-abosslab.com
 abracadebra.money
 abspaurill.com
 academy.topbundalle.com
@@ -740,6 +739,7 @@ aramexservicevktb.world
 aramx-bahrain.yiff.fi
 arb-events.org
 arb.airpuds.top
+arb.claimscrypto.top
 arb.t-wallets.top
 arb.tpuds.top
 arb.tr1onex.top
@@ -893,6 +893,7 @@ axieorigin.in
 axs.ltd
 axsiesinfinity.com
 ayudas.help
+azabltkckub-com.blogspot.com
 azarlegal.com
 azukiairdrop.netlify.app
 aîrtm.com
@@ -1078,6 +1079,7 @@ bitverablockverse.pages.dev
 biz.walconvis.xyz
 bks-at.com
 bks-partsners.com
+blackrockbtc-etf.org
 blackrockfund.xyz
 blackwomenwhorv.com
 blackyfantom.pro
@@ -1208,6 +1210,7 @@ bouguesteleom.fr
 bouy-plateforme-digitale.online
 bouyguesgroups.com
 bouyguesiptv.fr
+bovr8d.cc
 box-manta.network
 box-nftlive.com
 box-nftmint.web.app
@@ -1373,6 +1376,7 @@ chainlink-network.app
 chainlink.us.to
 chainlinkairdropweb3.org
 chainlinklabsv2.com
+chainlinktreasury.net
 chainlogserver.pages.dev
 chainlsiit.com
 chainmulticoin.pages.dev
@@ -1523,6 +1527,7 @@ claimairdropsaga.xyz
 claimbonk.xyz
 claimdrop.laag.site
 claimdymension.xyz
+claimether.finance
 claimgala.org
 claiming.sonikapp.live
 claimjupiter.com
@@ -1599,6 +1604,7 @@ coin-base.events
 coin-fx.ltd
 coin-multiresolve.firebaseapp.com
 coin-multiresolve.web.app
+coin-qr.to
 coinbase-one.top
 coinbase-qr.net
 coinbase-verify-password-global.oxygeneapp.com
@@ -2664,7 +2670,6 @@ fuelnetwork-register.vercel.app
 fujimitsudynamic.com
 fullmoonbird-next.vercel.app
 funairdrop.vip
-funkapez.com
 fusestaking.app
 fusionist.trading
 fusioxn-finance.com
@@ -3506,6 +3511,7 @@ lido227277.pages.dev
 lidocrypto.fi
 lidodrops.info
 lidoe.azurewebsites.net
+lidoex.com
 lidof.net
 lidofi.trading
 lidoifi.github.io
@@ -4903,6 +4909,7 @@ orlandoplasmacenters.com
 osaiccareers.com
 osmmossiss-zone.org
 osmosis-zone.mom
+osmososis-zone.xyz
 otcsea.app
 otsea.gift
 outildecisionregimederetraitesunchemical.ca
@@ -5811,7 +5818,6 @@ revoke-web.xyz
 revoke.digital
 revoke.expert
 revoke.host
-revoke.icu
 revoke.ink
 revoke.markets
 revoke.page
@@ -6140,7 +6146,6 @@ shiba-bet.com
 shiba-tokens.best
 shiba.free-500.top
 shiba2.xyz
-shibafree.com
 shibainu.airdropnow.net
 shibariumwin.com
 shibcontestzone.com
@@ -6375,6 +6380,7 @@ stake.liquity.fi
 stake.nobodynfts.today
 stakeamnis.finance
 stakefloki.com
+stakeiand.com
 stakestone.mom
 stakestone.site
 stakewise.li
@@ -6477,6 +6483,7 @@ sui-network.mom
 sui.trusthubs.top
 sui.webs3drop.top
 suiexchange.online
+suimine.com
 suinetworks.cc
 suinetworks.ltd
 suiswap.tech
@@ -6893,6 +6900,7 @@ uniswap-exchange-site.web.app
 uniswap-exchange-uniswap.app
 uniswap-org.vercel.app
 uniswap-pools.web.app
+uniswap-staking-pools.web.app
 uniswap-uniswap.net
 uniswap-v2.info
 uniswap-v3-uniswap.com
