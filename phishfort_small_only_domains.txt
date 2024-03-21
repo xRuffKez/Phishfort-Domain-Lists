@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 00:07:38 UTC 2024
-# Number of Entries: 8140
+# Fetch date: Thu Mar 21 01:23:26 UTC 2024
+# Number of Entries: 8128
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -45,7 +45,6 @@
 1inch.web3connect.mom
 1inchcode.newfinancialmarketworld.com
 1inchcoin.com
-1inche.top
 1inchfinance.com
 1inchnetwork156.net
 1inchnetwork2024.net
@@ -686,7 +685,6 @@ appkiloex.io
 applecoin.one
 applefi.pro
 applfgswap.one
-appliedmaterialventures.com
 applovin.admin608297838.com
 applovin.in
 applovintwap.com
@@ -946,7 +944,6 @@ baycarepatientportal.net
 baycarepatientportals.com
 baycx-bape.com
 bazename.lol
-bbb.ahyoo.buzz
 bbexpro.xyz
 bbl-get.com
 bbsyncs.pages.dev
@@ -2527,6 +2524,7 @@ fireblocks-sso.com
 fireblocks.nodeorigins.com
 fireblockscrypto.com
 first-braved.info
+firstports.co.uk
 fitness-solution24.de
 fix-metamask.pages.dev
 fix.errorsolution.org
@@ -2677,7 +2675,6 @@ gala-games.io
 gala-games.org
 galagames-6nj.com
 galaxies.mantasnetworks.app
-galaxy-digital.io
 galxe.co.bz
 galxe.pl
 galxe.pm
@@ -3316,7 +3313,6 @@ keungz.space
 keyst-one.com
 kgatn.pro
 kier-careers.co.uk
-kimimart.com
 kingroofing.com
 kitty-inu-dao.com
 kkyphtf0fbvl.ftntpk6ubbx4sk.ru
@@ -3572,7 +3568,6 @@ live-zetachain.com
 liveblocksrectify.pages.dev
 livefree-clestia.org
 livepersonatunitedairlin.amebaownd.com
-liverpoolmx.com
 lives-manta.net
 ljective.trading
 llamaswap.pages.dev
@@ -4110,7 +4105,6 @@ metamask-mask.com
 metamask-mining.com
 metamask-platform.codeanyapp.com
 metamask-polygon-airdrop.digital
-metamask-recovery.com
 metamask-redirect.com
 metamask-redirects.com
 metamask-restorehome.cryptobase.ng
@@ -4478,6 +4472,7 @@ myfirstproject.pages.dev
 mygoemployerthesaw.com
 myjuppy-box.com
 myjuppy-box.trade
+mymetamasklogin.com
 mymetazvirify.com
 mymoneronline.info
 mynewmont.net
@@ -4504,6 +4499,7 @@ mysterybox287.vercel.app
 mysterybox32.vercel.app
 mysterybox433.vercel.app
 mysterybox55.vercel.app
+mysterybox673.vercel.app
 mysterybox75.vercel.app
 mysterybox882.vercel.app
 mysteryboxnow.vercel.app
@@ -5365,7 +5361,6 @@ portfolio-verification.com
 portfoliometamask.com
 portlacoin.xyz
 portofilio-meta-mask-dapps.185-253-219-62.cprapid.com
-prayerforjamal.com
 pre-ico.live
 preferbehavioral.com
 prelanding.pages.dev
@@ -6877,7 +6872,6 @@ uniglobecapitals.com
 unilend-v2mainnetnetwork.org
 uninashitesati.net
 unipolycoin.network
-unis-wap.net
 unisat-io-five.vercel.app
 unisatindexnodes.com
 unisatwalletextension.com
@@ -7553,7 +7547,6 @@ www.dex-bitconnect.lol
 www.dianwifi.cc
 www.drop.box-cdn.com
 www.dropmanta.com
-www.eaglan.com
 www.earn-drop.club
 www.eigen-layer.sale
 www.eigenlaver.magpiexyz.site
@@ -7603,7 +7596,6 @@ www.globalpaymentsyttww.com
 www.globalpaymentsytww.com
 www.gomining.site
 www.gracieabramssmerchandise.com
-www.grimwa.com
 www.hashpackegd.com
 www.hashpacksqa.com
 www.hellofurther.pro
@@ -7639,7 +7631,6 @@ www.l2-blast.io
 www.launchpad.sporess.pro
 www.layer-3.xyz
 www.lethid.com
-www.liniometa.com
 www.lite.a.covv.site
 www.live-tiktok.shop
 www.login.verificationpaxful.info
@@ -7710,12 +7701,10 @@ www.nasxcoins.com
 www.new-paradigmanta.network
 www.newparadigmamanta.network
 www.newparadigmmanat.network
-www.nigoet.com
 www.nikcos.com
 www.node-protocol.net
 www.node.authfxconnector.com
 www.norwegianlife.net
-www.notgal.com
 www.notkem.com
 www.o2-login.info
 www.ondo-finance.info
@@ -7774,7 +7763,6 @@ www.portolbridge.org
 www.practisea.com
 www.provisionstrk.xyz
 www.pudgyworld.shop
-www.quimec.com
 www.quopi2.com
 www.reaper.farmm.towerfish.tw
 www.recovermetawalletio.diviteca.com
@@ -7892,7 +7880,6 @@ www.ypredictai.xyz
 www.zerion-wallet.com
 www.zerion.claimfree.xyz
 www.zksync-protocols.com
-www.zrofiw.com
 wwwjup.ag
 wwwlouisianaworkst.com
 wwwmakerdao.com
@@ -7999,6 +7986,7 @@ yaler.info
 yasno-gov.pages.dev
 ybixfed.pro
 ycs-agoda.cc
+ycsextranetagoda.com
 yearn.deflab.top
 yelds-protocol.xyz
 yellow-card.co.uk
