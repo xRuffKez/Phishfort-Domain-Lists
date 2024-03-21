@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 15:02:04 UTC 2024
-# Number of Entries: 8173
+# Fetch date: Thu Mar 21 16:02:19 UTC 2024
+# Number of Entries: 8175
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1900,7 +1900,6 @@ dapps-radar.pages.dev
 dapps-sync.vercel.app
 dapps-web3-connect.in
 dapps.toolsynchr.online
-dapps.waletmate.online
 dappsapi.pages.dev
 dappscoinstats.pages.dev
 dappsconnectapp.pages.dev
@@ -5132,6 +5131,7 @@ paradigmmanta.com
 parallel-fi.vercel.app
 parclllimited.com
 parloroquick.com
+parriss2024.org
 partenariat-bouygues-telecom-entreprises.fr
 participate-zks.net
 participate-zks.org
@@ -5186,6 +5186,7 @@ paxosiys.com
 paxoskop.com
 paxosogt.com
 pay-407etr.com
+pay407etr.com
 pay8-2v-9jkc4ukd3-ekontetevi-gmailcom.vercel.app
 paybyklarna.de
 paybyplatema.pro
@@ -7118,6 +7119,7 @@ vormassuinst.com
 vote-ambire.org
 vote-ambires.com
 vote-ambires.org
+vote-makerdao.com
 vote.biast.support
 votebnbchain.pages.dev
 votemarketstakedao.org
