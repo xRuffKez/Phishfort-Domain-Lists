@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 15:01:53 UTC 2024
-# Number of Entries: 106968
+# Fetch date: Thu Mar 21 16:02:09 UTC 2024
+# Number of Entries: 106969
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -23587,7 +23587,6 @@ dapps.toolsynchr.online
 dapps.triliionairethugs.com
 dapps.v2-multibridge-tools.live
 dapps.verifiedsync.online
-dapps.waletmate.online
 dapps.web3-connect.org
 dapps.web3nodes.org
 dapps.web3solution.org
@@ -67465,6 +67464,7 @@ parradigm.xyz
 parradigmcenter.com
 parrcakeswap.com
 parrcakeswap.finance
+parriss2024.org
 parsec.gift
 parsecs.finance
 partenariat-bouygues-telecom-entreprises.fr
@@ -68245,6 +68245,7 @@ pay.pay.kwid9.app-mav.xyz
 pay.pepsico.live
 pay.ru-pancakeswap.site
 pay.shop.pancakeswape.finance
+pay407etr.com
 pay8-2v-9jkc4ukd3-ekontetevi-gmailcom.vercel.app
 payapayments.com
 payasrvc.com
@@ -90356,6 +90357,7 @@ vortexgid.click
 vote-ambire.org
 vote-ambires.com
 vote-ambires.org
+vote-makerdao.com
 vote.biast.support
 votebnbchain.pages.dev
 votefork.com
@@ -98650,7 +98652,6 @@ www.galaxypackagers.com
 www.galgagames-kj00.com
 www.galgames-app.ga
 www.galla-games.ga
-www.galla-games.store
 www.galla-gamessp.network
 www.gallaagameess.com
 www.gallaasgamessl.com
