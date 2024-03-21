@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 18:02:33 UTC 2024
-# Number of Entries: 8172
+# Fetch date: Thu Mar 21 19:02:52 UTC 2024
+# Number of Entries: 8175
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -368,6 +368,7 @@ airhopper-review.com
 airhopper-reviews.com
 airhopperreviews.com
 airjetfly.online.swiftplumbingsolutions.online
+airlinesmanagebooking.com
 airmexc.life
 airnetframe.com
 airnftframe.com
@@ -716,7 +717,6 @@ appsyncsmartversal.pro
 apptokenmint.com
 appvirtuals.webcindario.com
 appweb3.site
-appymes-co.online
 appzlink.com
 apr-vectorreserve.network
 apt-project.com
@@ -1594,7 +1594,6 @@ co.llab-verify.xyz
 co.llabz.land
 co11ab-1and.com
 codefi.ws
-codeflick.site
 codexchain.org
 codexlabs.xyz
 coiappresolve.pages.dev
@@ -3002,6 +3001,7 @@ iavhru.cc
 iayerzero-claim.net
 ibkrindia.com
 ibkrindia.xyz
+ibkrx.xyz
 ibllce.com
 ibllces.com
 ibllcit.com
@@ -4921,6 +4921,7 @@ orgnlt.me
 origintracdappcom.com
 orivium.trading
 orlandoplasmacenters.com
+osaic-wisconsin.com
 osaiccareers.com
 osmmossiss-zone.org
 osmosis-zone.mom
@@ -5592,6 +5593,7 @@ quickupdateexplorer.co
 quikswap.io
 r125.usdt6188.top
 r20.rs6.net
+rabbitx.reward-share.info
 rabby-points.xyz
 rabby-support.pages.dev
 rabby.ai
@@ -6180,6 +6182,7 @@ shlba-3.live
 shopvibe.shop
 shrapnei-whitelist.com
 shrapnel-2024.com
+shrapnel.cloud
 shrapnel.store
 shyg618.com
 sideshift.art
@@ -7503,6 +7506,7 @@ www.app-ethena.finance
 www.app-ether.com
 www.app-milkyway.zone
 www.app-personalles-wps.cc
+www.app-portal-wps-personas.cc
 www.app-rhino.com
 www.app-wasabi.xyz
 www.app.defi-connect.xyz
@@ -7926,7 +7930,6 @@ www.zerion-wallet.com
 www.zerion.claimfree.xyz
 www.zksync-protocols.com
 wwwjup.ag
-wwwlouisianaworkst.com
 wwwmakerdao.com
 wwwns1.smtp.old.newpardigm-manta.network
 wwwwarm.xyz
