@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 05:02:08 UTC 2024
-# Number of Entries: 106936
+# Fetch date: Thu Mar 21 06:01:46 UTC 2024
+# Number of Entries: 106942
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -30450,6 +30450,7 @@ ethereummerge.us
 ethereummine-jp.com
 ethereummine-jp.xyz
 ethereumminer.space
+ethereummixer.cc
 ethereummixing.com
 ethereummoneytoken.com
 ethereummonthlyreturns-net.pureix.com
@@ -35141,6 +35142,7 @@ games-pudgypenguins.com
 games-www-ac.blogspot.com
 gamesforaliving.web3-airdrop.net
 gamesgala.org
+gamesgalina.shop
 gamesmarket.place
 gamestaratlas.pw
 gamestops.xyz
@@ -45035,6 +45037,7 @@ loclbitcoins.website
 loclbitcoins.win
 loclbitscoins.com
 locoibitcoin.com
+locopepecoin.com
 locqalbitcoins.com
 locqlbitcoins.com
 locslbitcoins.club
@@ -83473,6 +83476,7 @@ tarot.bz
 tarscoin.net
 tascon.world
 tascon.xyz
+tasfinancial.co
 tashapayne.com
 task-on.cgwkenya.org
 task-on.xyz
@@ -94149,6 +94153,7 @@ web3.app
 web3.app-in-box.com
 web3.ca
 web3.center
+web3.da2a.net
 web3.dappvaulthub.com
 web3.direcdapps.com
 web3.finance
@@ -105954,6 +105959,7 @@ ymetherwallet.com
 ymfkc2foywgscoo.qn2j1h.ru
 ymnkinelatestreyemb.dedyn.io
 yn4ars45l69dujc3nwab.duzot8a.ru
+ynstbc.xyz.webplus7.a2hosted.com
 yo-channel.com
 yo9.email
 yoandefi.com
