@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 17:02:14 UTC 2024
-# Number of Entries: 8174
+# Fetch date: Thu Mar 21 18:02:33 UTC 2024
+# Number of Entries: 8172
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -154,6 +154,7 @@ abbie.sa.com
 abict.net
 abracadebra.money
 abspaurill.com
+academy.topbundalle.com
 acahealthinsure.com
 accboxi.com
 accept-farcana.com
@@ -428,7 +429,6 @@ alshayeagroup.com
 alt-layers.com
 alt-token.net
 altayerio.top
-altcoinchange.com
 altidentlfler.net
 altlaayer-io.top
 altlayer-airdrop.onrender.com
@@ -652,6 +652,7 @@ app.moonbeamer-swap.com
 app.parallelfl.network
 app.pomerdoge.live
 app.prisrnafinance.com
+app.qirtm.com
 app.raticswap.xyz
 app.refundcoinstake.com
 app.rnino.fi
@@ -1693,7 +1694,6 @@ collection-satoshivm.io
 collecttion.store
 colllab.xyz
 coluselephant.ru.com
-combo-duity-dpp.com
 commonsenseafricasblog.com
 community-center.shop
 community-coindesk.com
@@ -2610,7 +2610,6 @@ frame-xyz.events
 frame-xyz.gift
 frame.markets
 frame.money
-frame.trading
 frameairchaindrops.com
 frameassetchains.com
 frameassetchains.net
@@ -3709,6 +3708,7 @@ main-decentralised.pages.dev
 main-decentralized.pages.dev
 main-makerdao.com
 maindexapp.pages.dev
+mainfixchain.com
 mainnet-blaster.com
 mainnet-dymension.com
 mainnet-lineabuild.pages.dev
@@ -5173,6 +5173,7 @@ paxfulvn.com
 paxos-app.com
 paxos-club.com
 paxos-eth.com
+paxos-gold.net
 paxos-network.com
 paxos-okta.com
 paxos-token.org
@@ -5695,7 +5696,6 @@ reckonmexico.com
 reconnectto.org
 rect-c0nnrtc.pages.dev
 rect-fixdapps.pages.dev
-rectificationdapps.onrender.com
 rectifier-sync.pages.dev
 rectifierprotocol.com
 rectifytrust.com
@@ -6146,7 +6146,6 @@ service-connect-valide.nl
 service-sync.pages.dev
 servicecontrollnc.com
 servicepflege-kontoaktualisieren383266.codeanyapp.com
-servicioscoconsorcioempresas.com
 serviciosetingcoconsorcio.net
 sewllnetwork.io
 sfccrcc.shop
@@ -6943,6 +6942,7 @@ uniswapv4-pool-select.web.app
 uniswapv4-pool-waitlist.web.app
 united-healthcare-services.com
 unitedairlinedeliveryagency.com
+unitedhealthvip.com
 unitycryptotrading.com
 unknownbasenfts2.me
 unlbots.trading
@@ -7788,8 +7788,6 @@ www.paxful.instenpay.com
 www.paxfulmoderater.com
 www.paxfulteams.com
 www.pcs-farmv3.com
-www.pea-th.com
-www.pea.oe-th.com
 www.pemanagement.org
 www.penguinrandomshouse.com
 www.pepacoinairtoday.info
