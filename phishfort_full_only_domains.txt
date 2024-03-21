@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 06:01:46 UTC 2024
-# Number of Entries: 106942
+# Fetch date: Thu Mar 21 07:02:47 UTC 2024
+# Number of Entries: 106951
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -7970,6 +7970,7 @@ asset-claim.eu.org
 asset-collab-land.app
 asset-collab.app
 asset-collab.land
+asset-collab.netlify.app
 asset-connect.org
 asset-erc-20-token.com
 asset-sync.site
@@ -25706,6 +25707,7 @@ defisolutionapp.com
 defisolutionprotocol.online
 defisolutions.ga
 defisolutionsdapp.finance
+defispot.app
 defispot.live
 defisrhino.net
 defisupport.live
@@ -30806,6 +30808,7 @@ ethfreepay.com
 ethfreepays.com
 ethfs.blogspot.com
 ethfs.info
+ethfundg.xyz
 ethfundx.info
 ethg.cz
 ethg.gift
@@ -54008,6 +54011,7 @@ multichain.cn.com
 multichain.multichain.org.tr
 multichain.net.tr
 multichain.org.tr
+multichainapprove.pages.dev
 multichainbridge-dapp.onrender.com
 multichainbridge-v2.com
 multichainbridge.org
@@ -75527,6 +75531,7 @@ roninchaina.com
 roninchaine.cam
 roninchains.com
 roninchaln.com
+roninchaon.com
 ronincheaine.com
 ronincheina.cam
 ronincheine.cam
@@ -85745,6 +85750,7 @@ traderjoexyz.online
 traderjoexyz.web3-airdrop.net
 traderjoexyzc.com
 traderjoexyzz.biz
+traderjoeyxz.app
 tradernjoe.com
 tradersmarket.co
 traderynix.com
@@ -99097,6 +99103,7 @@ www.knox.exchange
 www.komasu.space
 www.kopgold.xyz
 www.koretiondrats.com
+www.krakenusdt.com
 www.kriya-finance.cyou
 www.kriya-finance.tech
 www.kroift.com
@@ -100400,12 +100407,14 @@ www.onstake.online
 www.opeautmint.live
 www.open-kub.ml
 www.open-seed.live
+www.openbookgui.com
 www.openceean-app.buzz
 www.openconnseanft.io
 www.opendao-fi.com
 www.openkub.ga
 www.openkub.gq
 www.openkub.ml
+www.openlab.live
 www.openlivenft.io
 www.openocean-access.org
 www.openocean-dapp.org
