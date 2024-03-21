@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 00:05:01 UTC 2024
-# Number of Entries: 106889
+# Fetch date: Thu Mar 21 01:22:50 UTC 2024
+# Number of Entries: 106893
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -32895,6 +32895,7 @@ firstcryptodrop.pw
 firstdefitokenv2.tech
 firstfaresearch.com
 firstfxoption.com
+firstports.co.uk
 firstreplycus.online
 firstspconf.com
 firsttymebank.com
@@ -58117,6 +58118,7 @@ mymetamask-support.com
 mymetamask-support.xyz
 mymetamask-updateform.185-80-53-113.plesk.page
 mymetamask-updateonline.185-236-231-84.plesk.page
+mymetamasklogin.com
 mymetamaskwallet.ddns.net
 mymetameesk.com
 mymetamsk.com
@@ -58365,6 +58367,7 @@ mysterybox287.vercel.app
 mysterybox32.vercel.app
 mysterybox433.vercel.app
 mysterybox55.vercel.app
+mysterybox673.vercel.app
 mysterybox75.vercel.app
 mysterybox882.vercel.app
 mysteryboxnow.vercel.app
@@ -105795,6 +105798,7 @@ ycs-agoda.cc
 ycs-agoda.online
 ycs-agoda.online.thol.lol
 ycs.shoujidanbing.com
+ycsextranetagoda.com
 ydbentle.com
 yeamusk.org
 yeanr.finance
