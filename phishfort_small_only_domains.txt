@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 08:02:33 UTC 2024
-# Number of Entries: 8184
+# Fetch date: Thu Mar 21 09:02:35 UTC 2024
+# Number of Entries: 8189
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3555,6 +3555,7 @@ link-portal.app
 link-vulcan.xyz
 link.gatekava.xyz
 link.kava-api.live
+link.kavaguard.digital
 link.kavaguard.support
 link.kavaprotect.com
 link.kavashield.help
@@ -3707,6 +3708,7 @@ mail.panckswap.com
 mail.pepegift.lol
 mail.revokewallets.cash
 mail.swapsnet.com
+mail.xn--pncakeswap-3gb.com
 mail046.mlsend.com
 mailclaimdmail.xyz
 mailer.paxfulonline.com
@@ -5190,6 +5192,7 @@ paxosiys.com
 paxoskop.com
 paxosogt.com
 pay-407etr.com
+pay8-2v-9jkc4ukd3-ekontetevi-gmailcom.vercel.app
 paybyklarna.de
 paybyplatema.pro
 paybyplatema.website
@@ -6256,6 +6259,7 @@ slgnup-dymension.com
 sltarkdrop.website
 smaarhtmaiigrathhe.com
 smahtconhtraact.com
+smainchain-1d1.pages.dev
 smanbi.shop
 smart-dapp.onrender.com
 smart-layer-claim.net
@@ -7998,6 +8002,7 @@ xn--fxadfloat-vpb.com
 xn--fxdlfloat-c4a6b.com
 xn--fxedfiloat-xub.com
 xn--fxedflaot-vpb.net
+xn--fxedflaot-vpbc.com
 xn--fxedflaots-68a.com
 xn--fxedflaots-k8a.com
 xn--fxedflcoat-68a.com
