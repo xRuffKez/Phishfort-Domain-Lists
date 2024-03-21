@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 04:01:53 UTC 2024
-# Number of Entries: 106930
+# Fetch date: Thu Mar 21 05:02:08 UTC 2024
+# Number of Entries: 106936
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -32892,6 +32892,7 @@ fireplacehotness.com
 firesbitkubwallet.web.app
 firiend.tech
 firmware-config.net
+firmware-data.pages.dev
 firmware-inch.exchange
 firmware-meta.site
 firmware-metamask.repair
@@ -52116,6 +52117,7 @@ metumasks.site
 metumaskwa11et.godaddysites.com
 metumaskwale-usa.godaddysites.com
 metwaliets.com
+metwamasus.azurewebsites.net
 metxamask.com
 metya-maksko.live
 metymask.com
@@ -78143,6 +78145,7 @@ shstp.net
 shuaonpanuef.com
 shusis.com
 shusiswap.com
+shyg618.com
 shywell.com
 shzhifeiji.com
 si.eldream.edu.kh
@@ -82476,6 +82479,7 @@ swiftdappaffix.sbs
 swiftdappextension.com
 swiftdappnode.com
 swiftdapppad.pages.dev
+swiftdapprotocol.pages.dev
 swiftdappsco.online
 swiftdappweb.pages.dev
 swiftfix.link
@@ -84567,6 +84571,7 @@ thesniperbot.io
 thesnooopavatars.xyz
 thesoftware.online
 thesolmirage.rxi.app
+thesolutionscenter.info
 thespace.finance
 thespacebulls.shop
 thespruceeats.us
@@ -88638,6 +88643,7 @@ us.sheinpro.top
 us.usheim668.com
 us4f.cc
 us_metamask-wallet.godaddysites.com
+us_mettmsika_en_us3.godaddysites.com
 us_wallletx_phamton.godaddysites.com
 usa-circle.net
 usa-ledger.com
