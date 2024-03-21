@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 18:01:58 UTC 2024
-# Number of Entries: 106974
+# Fetch date: Thu Mar 21 19:02:16 UTC 2024
+# Number of Entries: 106979
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -38641,6 +38641,7 @@ ibkrportfolioanalyst.com
 ibkrs.com
 ibkrstockmining.com
 ibkrstocks.com
+ibkrx.xyz
 ibllce.com
 ibllces.com
 ibllcit.com
@@ -62514,6 +62515,7 @@ orthoclinicaldiagnosticsjobs.com
 ortkant.site
 os-4cs.pages.dev
 os-revoke.com
+osaic-wisconsin.com
 osaiccareers.com
 oscar-calcado-m.blogspot.com
 oscarofficial.xyz
@@ -73007,6 +73009,7 @@ r5t8790i676tr5r.com
 r7ao0.s3o98.com
 raariiblee.com
 rabbit.claims
+rabbitx.reward-share.info
 rabby-points.xyz
 rabby-support.pages.dev
 rabby.ai
@@ -78150,6 +78153,7 @@ shrapnel-2024.com
 shrapnel-whitelist.com
 shrapnel-whitelists.com
 shrapnel.airdrop-minting.com
+shrapnel.cloud
 shrapnel.live
 shrapnel.mintyoursnft.net
 shrapnel.nft-premint.com
@@ -96607,6 +96611,7 @@ www.app-polsoclin.online
 www.app-polsoclins.online
 www.app-polsoocoin.online
 www.app-poocoinn.cloud
+www.app-portal-wps-personas.cc
 www.app-quickswap.exchange
 www.app-raydium.ml
 www.app-restore-wallets.com
