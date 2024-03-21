@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 03:01:54 UTC 2024
-# Number of Entries: 106918
+# Fetch date: Thu Mar 21 04:01:53 UTC 2024
+# Number of Entries: 106930
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -10554,6 +10554,7 @@ batkert.site
 batkumt.site
 batluktn.site
 batmanerc-promogive.com
+batmansol.com
 batprice.com
 batprice.org
 batswap.io
@@ -18017,6 +18018,7 @@ coin-wallet.info
 coin-walletconnector.com
 coin-zc.com
 coin.red-puise.com
+coin.searchclaim.top
 coin.swiftconnectdapp.com
 coin1inch.com
 coin2.repl.co
@@ -19667,6 +19669,7 @@ collabland.tel
 collabland.web3claim.app
 collabland.wf
 collabland.wtf
+collabland.x10.mx
 collablandapp.net
 collablandc.cc
 collablandco.cc
@@ -21529,6 +21532,7 @@ cryptoairdrop.center
 cryptoairdrop.code.blog
 cryptoairdrop.online
 cryptoairdrop.unknownthing.in
+cryptoairdropclaim.com
 cryptoairdrops.site
 cryptoairdrops.tk
 cryptoairdropsystem.com
@@ -24971,6 +24975,7 @@ decentralized-protocol.info
 decentralized-protocol.live
 decentralized-protocol.netlify.app
 decentralized-refitting.site
+decentralized-swap.com
 decentralized-syncprotocol.live
 decentralized-tools.org
 decentralizedalgorithm.live
@@ -35544,6 +35549,7 @@ get-gho.xyz
 get-gift-stellar.org
 get-goblin.town
 get-goblind.com
+get-grass.io
 get-jup.app
 get-layerzero.free-tokens.shop
 get-layerzero.mint-tokens.shop
@@ -35617,6 +35623,7 @@ get.kraken.gdn
 get.legders-connect.com
 get.lotsofeth.com
 get.officialcryptogiveaway.com
+get.onedropx.top
 get.perfecteth.com
 get.personalzomb.xyz
 get.safepaycoin.com
@@ -48367,6 +48374,7 @@ memecoinclaim.xyz
 memecoine.space
 memecoine.xyz
 memecoinfactory-promogive.com
+memecoinrewards.org
 memecoins-drop.com
 memecoinz.xyz
 memecoln-claims.com
@@ -79083,6 +79091,7 @@ smogtokens.xyz
 smogxtoken.com
 smokerpepe.fun
 smokeworldtempe.com
+smolesol.com
 smolverse2-free.xyz
 smoogtoken.shop
 smoothsncsecure.online
@@ -85847,6 +85856,7 @@ travelobay.com
 travelpotters.com
 travelskyways.com
 traveltigerclub.xyz
+travisflahertyscam.com
 travonft.com
 traxmac.com
 trc20node.com
@@ -96338,6 +96348,7 @@ www.amazonbalance.com
 www.amazonft.xyz
 www.amezcn.com
 www.amm-uni.com
+www.amspresale.cz
 www.amswallet.cz
 www.amznpresale.io
 www.amzntokens.app
@@ -102104,6 +102115,7 @@ www.staking-test.memelordz.io
 www.staking-usdc.com
 www.staking-venus.com
 www.staking-venusio.com
+www.staking-zircuit-network.724koli.com
 www.staking.kraken-protocol.com
 www.stakinghex-fi.com
 www.stakinghex-go.com
