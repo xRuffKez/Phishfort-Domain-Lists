@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 03:02:32 UTC 2024
-# Number of Entries: 8148
+# Fetch date: Thu Mar 21 04:03:18 UTC 2024
+# Number of Entries: 8159
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -942,6 +942,7 @@ basebrett.xyz
 basedbrett.xyz
 baseswaap.top
 baseswapp.network
+batmansol.com
 battlemaneki.com
 baycarepatientportal.net
 baycarepatientportals.com
@@ -1605,6 +1606,7 @@ coin-fx.ltd
 coin-multiresolve.firebaseapp.com
 coin-multiresolve.web.app
 coin-qr.to
+coin.searchclaim.top
 coinbase-one.top
 coinbase-qr.net
 coinbase-verify-password-global.oxygeneapp.com
@@ -1679,6 +1681,7 @@ collabland.pm
 collabland.role-guard.com
 collabland.wf
 collabland.wtf
+collabland.x10.mx
 collablandconnect.xyz
 collaboration-rainbow.me
 collabsconnects.land
@@ -1790,6 +1793,7 @@ crypto-starknets.com
 crypto.met-group.xyz
 crypto.wormscommunity.xyz
 crypto11.bep666.top
+cryptoairdropclaim.com
 cryptohopperclaim.com
 cryptoinfosec.net
 cryptopepedrops.com
@@ -1980,6 +1984,7 @@ decentralize.metis.wb3s.xyz
 decentralize.metis.wb3u.xyz
 decentralized-dapp.com
 decentralized-point.info
+decentralized-swap.com
 decentralizedautofix.com
 decentralizeddapps.myvnc.com
 decentralizedprotocolapp.web.app
@@ -2175,7 +2180,6 @@ drili.me
 drip-networkcommunity.org
 drive-document-file-2024.github.io
 drop-apeterminal.com
-drop-celestias.xyz
 drop-ether.fi
 drop-magic.com
 drop.lfgjup.xyz
@@ -2749,6 +2753,7 @@ get-blast.com
 get-bolk.netlify.app
 get-dmail.app
 get-entangle.com
+get-grass.io
 get-jup.app
 get-link.tech
 get-mantanetwork.xyz
@@ -2767,6 +2772,7 @@ get.basnaming.xyz
 get.btzclub.com
 get.etherugas.wtf
 get.etherumrefgas.xyz
+get.onedropx.top
 get.personalzomb.xyz
 get.wormscommunity.com
 get.zkfarmir.xyz
@@ -4000,6 +4006,7 @@ mavia.work
 maviagames.network
 maviagames.xyz
 maviia.build
+maviia.org
 maviiaa.com
 maylucenaa.com
 mdexcloudapp.xyz
@@ -4025,6 +4032,7 @@ members-kcchamber.com
 memebevy.shop
 memecoin.rocks
 memecoin.ws
+memecoinrewards.org
 memecoinz.xyz
 memedrop.eu
 memefarm.live
@@ -6274,6 +6282,7 @@ smogsolana.com
 smogtokens.vip
 smogtokens.xyz
 smogxtoken.com
+smolesol.com
 smoogtoken.shop
 smuhg.cc
 snap-dioneprotocol.com
@@ -6801,6 +6810,7 @@ travalaai.live
 travel.quickflightbooking.online
 travelfly-united.com
 travelistik.de
+travisflahertyscam.com
 treasure.events
 treasure.gl
 treasure.gs
@@ -7052,7 +7062,6 @@ verifypayoneer.com
 verifyvulcan.com
 vermillion-chebakia-72b023.netlify.app
 versity-token.finance
-vertexprotocol.events
 vertexprotocol.top
 vertiv.dns.cz
 vertiv.jifang365.com
@@ -7465,6 +7474,7 @@ www.airtm.services
 www.allchainsfixer.site
 www.alshaya.great-site.net
 www.altliayer.xyz
+www.amspresale.cz
 www.amswallet.cz
 www.aniarticles.com
 www.api05-collab.com
@@ -7841,6 +7851,7 @@ www.staging.home.hostmaster.coingecko.hatsuqat.com
 www.staging2.optumspecialtyin.com
 www.stakeyearn.fi
 www.staking-eigenpie-magpiexyz.77clube.com
+www.staking-zircuit-network.724koli.com
 www.stakingritestream.io
 www.swap-blast.finance
 www.swap-omax.pro
