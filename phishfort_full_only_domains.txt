@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 07:02:47 UTC 2024
-# Number of Entries: 106951
+# Fetch date: Thu Mar 21 08:01:50 UTC 2024
+# Number of Entries: 106956
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -16100,6 +16100,7 @@ chainsupports.netlify.app
 chainswallet.net
 chainswalletconnect.com
 chainswalletsdapp.com
+chainswap-airdrop-claim.pages.dev
 chainswap-ecomi.com
 chainswaper.com
 chainsync.biz
@@ -23586,6 +23587,7 @@ dapps.toolsynchr.online
 dapps.triliionairethugs.com
 dapps.v2-multibridge-tools.live
 dapps.verifiedsync.online
+dapps.waletmate.online
 dapps.web3-connect.org
 dapps.web3nodes.org
 dapps.web3solution.org
@@ -80257,6 +80259,7 @@ spok-earlyadopterhodler.com
 spok-earlyadopterinfluencer.com
 spokearlyadopter.xyz
 spoky-swap.com
+sponge-claim.online
 spongeev2.online
 spongev2.cfd
 spongevipv2.shop
@@ -87558,6 +87561,7 @@ uniswap-defi.casa
 uniswap-defi.com
 uniswap-defi.io
 uniswap-defi.org
+uniswap-defiapp.org
 uniswap-defitop.com
 uniswap-dex.com
 uniswap-discover.com
@@ -94016,6 +94020,7 @@ web3-arbitrum.info
 web3-arbitrum.site
 web3-azuki.net
 web3-bitget.pages.dev
+web3-bkex.top
 web3-block.vercel.app
 web3-board.org
 web3-bonus.online
