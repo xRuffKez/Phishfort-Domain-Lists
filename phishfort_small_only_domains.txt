@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 10:02:10 UTC 2024
-# Number of Entries: 8189
+# Fetch date: Thu Mar 21 12:02:52 UTC 2024
+# Number of Entries: 8169
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -154,7 +154,6 @@ abbie.sa.com
 abict.net
 abracadebra.money
 abspaurill.com
-academy.topbundalle.com
 acahealthinsure.com
 accboxi.com
 accept-farcana.com
@@ -653,7 +652,6 @@ app.moonbeamer-swap.com
 app.parallelfl.network
 app.pomerdoge.live
 app.prisrnafinance.com
-app.qirtm.com
 app.raticswap.xyz
 app.refundcoinstake.com
 app.rnino.fi
@@ -685,6 +683,7 @@ appkiloex.io
 applecoin.one
 applefi.pro
 applfgswap.one
+application-pancakeswaps.pages.dev
 applovin.admin608297838.com
 applovin.in
 applovintwap.com
@@ -758,7 +757,6 @@ arbitrum-airdrop2023.com
 arbitrum-reward.xyz
 arbitrum-submit.com
 arbitrum-survey.co
-arbitrum-survey.net
 arbitrum-surveys.com
 arbitrum.devilinu.com
 arbitrum.reward-apps.com
@@ -1167,7 +1165,6 @@ bnbheibaie.quest
 bnbminer-finance.onrender.com
 bnbminner.com
 bncoparticlar-apps.systeme.io
-bnk-claim.com
 boardversepromptfil.pages.dev
 boba.x2drop.top
 bobotokenhub.top
@@ -1316,6 +1313,7 @@ camshowsrecorded.com
 cancelar-ahorat.webcindario.com
 cancelar1-cambio.webcindario.com
 cancelar5-cambio.webcindario.com
+cancellationflights.com
 capsule-zskync.net
 captainj-dao.vercel.app
 caraji.com
@@ -1685,14 +1683,12 @@ collabland.wtf
 collabland.x10.mx
 collablandconnect.xyz
 collaboration-rainbow.me
-collabsconnects.land
 collabsecurity.land
 collad-land.me
 collateralnetworks.pages.dev
 collbalnand.pages.dev
 colleb-verify.xyz
 collect-blast.com
-collect-chain.link
 collect-wenwencoin.com
 collection-satoshivm.io
 collecttion.store
@@ -2075,7 +2071,6 @@ devfixpanel.com
 devicaeccess.co.uk
 devnet-dymension.com
 dex-migration.firebaseapp.com
-dex-migration.web.app
 dex-saitachain.pro
 dex-stargate.finance
 dex-tool-portal.live
@@ -2367,7 +2362,6 @@ eportal-suppliers.online
 epplicstand.top
 epriceshop02.cc
 equinor-ind.net
-era-zskync.net
 eransdrop.eu
 erc-wintermute.org
 ericaleite.com
@@ -2500,7 +2494,6 @@ familygraduation.com
 familylink-oracle.com
 familysavingamerica.pro
 fanciful-cat-81da50.netlify.app
-fancourier.fastway-getmoney.site
 faracster.xyz
 farcana-es2.pages.dev
 farcana.world
@@ -3220,6 +3213,7 @@ journeymantle.one
 joyouslinkew.world
 joyprimeshowworld.world
 joysonseafety.com
+jp.ib-fx7.com
 jpagod.com
 jpzhgw.sbs
 jrt8fm.pro
@@ -5137,7 +5131,6 @@ paradigmmanta.com
 parallel-fi.vercel.app
 parclllimited.com
 parloroquick.com
-partenariat-bouygues-telecom-entreprises.fr
 participate-zks.net
 participate-zks.org
 particle-network.com
@@ -5220,7 +5213,6 @@ pcyiocity.com
 pcylccity.com
 pcylocity.com
 pcyloclty.com
-pea.zxco.cc
 peapodsfinance.app
 peapodsfinanceweb.com
 peapodsstake.finance
@@ -6186,7 +6178,6 @@ shlba-3.live
 shopvibe.shop
 shrapnei-whitelist.com
 shrapnel-2024.com
-shrapnel.cloud
 shrapnel.store
 shyg618.com
 sideshift.art
@@ -6284,7 +6275,6 @@ smartlayer-drops.com
 smartlivemultiverseconnects.online
 smartmigratez.com
 smartnoderevoke.pages.dev
-smartnoncebase.pages.dev
 smartrectification.pages.dev
 smartreviseprotocol.pages.dev
 smartreviseweb.pages.dev
@@ -6450,7 +6440,6 @@ starknet-pro.icu
 starknet-reward.network
 starknet.press
 starknet.sk
-starknetairdrop.pages.dev
 starknetcliam.click
 starknetfond.com
 starknetone.life
@@ -7067,10 +7056,8 @@ verification.pancakeswapunlock.com
 verificheck.com
 verified-portalgaming.pages.dev
 verify-assets.xyz
-verify-collab.info
 verify-collab.net
 verify-collabland.org
-verify-collablands.com
 verify-kvxabot.pages.dev
 verify-matrica.vercel.app
 verify-vulcan.net
@@ -7224,7 +7211,6 @@ web-connectte.gq
 web-defillama.com
 web-dextools.com.syncstatics.com
 web-kavaa.netlify.app
-web.authcontractsapp.com
 web.fixsolution.io
 web.pancake.run
 web.paxful-coin.cc
@@ -7727,7 +7713,6 @@ www.metamask88.com
 www.metamaskaa.com
 www.metamaskai.top
 www.metamaskai.xyz
-www.metamaskarb.com
 www.metamaskcion.com
 www.metamaske.com.cn
 www.metamaske.top
@@ -7797,9 +7782,7 @@ www.paxfulmoderater.com
 www.paxfulteams.com
 www.pcs-farmv3.com
 www.pea-th.com
-www.pea.ex-th.com
 www.pea.oe-th.com
-www.pea.or-th.com
 www.pea.ou-th.com
 www.pemanagement.org
 www.penguinrandomshouse.com
@@ -8002,7 +7985,6 @@ xn--fxadfloat-vpb.com
 xn--fxdlfloat-c4a6b.com
 xn--fxedfiloat-xub.com
 xn--fxedflaot-vpb.net
-xn--fxedflaot-vpbc.com
 xn--fxedflaots-68a.com
 xn--fxedflaots-k8a.com
 xn--fxedflcoat-68a.com
@@ -8077,7 +8059,6 @@ zanshin.ro
 zapper-frontend-next-6zj2ju3qm-zapper-fi.vercel.app
 zapper-frontend-next-h5ht7yy42-zapper-fi.vercel.app
 zapper-frontend-next-ikph34jsv-zapper-fi.vercel.app
-zappersolutiondapp.com
 zellerscanada.ca
 zenithzest.top
 zens-web3.com
@@ -8173,7 +8154,6 @@ zksync-now.com
 zksync-quiz.com
 zksync-rewards.org
 zksync-survey.co
-zksync-survey.net
 zksync.line.pm
 zksync.nirbhik.com
 zksync.token-claim.cc
