@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 02:08:21 UTC 2024
-# Number of Entries: 106906
+# Fetch date: Thu Mar 21 03:01:54 UTC 2024
+# Number of Entries: 106918
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -7125,6 +7125,7 @@ arb-reward.net
 arb-rollup.xyz
 arb-skan.online
 arb.airpuds.top
+arb.claimscrypto.top
 arb.cryptoweb-3.com
 arb.foundation
 arb.t-wallets.top
@@ -12668,6 +12669,7 @@ blackmannetwork.com
 blackmetamask.com
 blacknativebeauty.com
 blacknodes.org
+blackrockbtc-etf.org
 blackrockfund.xyz
 blacksprut.com
 blackstation-puma.com
@@ -14054,6 +14056,7 @@ bouyguesiptv.fr
 bov-ex.com
 bovbit.com
 bovexchange.com
+bovr8d.cc
 bowdao.net
 box-manta.network
 box-nftlive.com
@@ -16002,6 +16005,7 @@ chainlinkstaking.tk
 chainlinktoken.info
 chainlinktoken.net
 chainlinktoken.org
+chainlinktreasury.net
 chainlinkvalidation.com
 chainlinwk.click
 chainlisrt.link
@@ -17297,6 +17301,7 @@ claimeth.org
 claimeth.top
 claimethairdrop.com
 claimether.com
+claimether.finance
 claimether.one
 claimethereum.org
 claimethers.org
@@ -17995,6 +18000,7 @@ coin-payments.net
 coin-pepe.fun
 coin-promos.com
 coin-pull.com
+coin-qr.to
 coin-restore.site
 coin-rewards.xyz
 coin-rollbit.web.app
@@ -43641,6 +43647,7 @@ lidoevent.com
 lidoevent.org
 lidoevent.vip
 lidoevents.fi
+lidoex.com
 lidof.net
 lidofi-dao.com
 lidofi-networks.com
@@ -47933,6 +47940,7 @@ mavia.work
 maviagames.network
 maviagames.xyz
 maviia.build
+maviia.org
 maviiaa.com
 mavis-service.company
 mavis.roninchain.company
@@ -62502,6 +62510,7 @@ osmosis.druzecouncil.com
 osmosis.liveioapps.com
 osmosis.sezenradyo.com
 osmosisdrop.com
+osmososis-zone.xyz
 ososis.zone
 ospensea.com
 ospenseanft.godaddysites.com
@@ -80548,6 +80557,7 @@ stakeggamble.com
 stakegqmble.com
 stakehelp.com
 stakehere-chain.link
+stakeiand.com
 stakeinfinity-axie.shop
 stakejoin.com
 stakelido-fi.com
@@ -81622,6 +81632,7 @@ suifren.xyz
 suifrens.site
 suiglobal.io
 suigoats.nft-premint.com
+suimine.com
 suiname.web3-promint.com
 suinetwork.company
 suinetworks.cc
@@ -87628,6 +87639,7 @@ uniswap-router.net
 uniswap-router.org
 uniswap-sign.com
 uniswap-sol.com
+uniswap-staking-pools.web.app
 uniswap-support.org
 uniswap-token.org
 uniswap-tools.com
