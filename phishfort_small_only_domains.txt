@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 14:02:12 UTC 2024
-# Number of Entries: 8168
+# Fetch date: Thu Mar 21 15:02:04 UTC 2024
+# Number of Entries: 8173
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3013,7 +3013,6 @@ ibllcr.com
 ibllcy.com
 iconotice.fun
 identicalentail.top
-identity.sandbox.tymebank.ngenius-payments.com
 idex-crypto.vip
 idypians.xyz
 iexeces.app
@@ -3208,6 +3207,7 @@ joinnewparadigm-mantanetwork.net
 jointoexposed.com
 joinweb-3.com
 jokewoods.maryboye.tv
+jorpost-new.top
 journeymantle.one
 joyouslinkew.world
 joyprimeshowworld.world
@@ -3945,6 +3945,7 @@ marketplacestatus.com
 marnta.network
 masa-ek1.pages.dev
 masa-finance.com
+masgouidetma.org
 mask-claim.com
 mask-metamask.io
 mask-token.claims
@@ -4545,6 +4546,7 @@ myteam-defi3.com
 mytr.rxi.app
 myuiionlinedetmadma.info
 myuimapay.online
+myverybenef.com
 mywalletexodus.com
 na2-docusign-net-envelope-office365-auth.us-southeast-1.linodeobjects.com
 na3-docusign-auth-office365.us-lax-1.linodeobjects.com
@@ -5171,7 +5173,6 @@ paxfulvn.com
 paxos-app.com
 paxos-club.com
 paxos-eth.com
-paxos-gold.net
 paxos-network.com
 paxos-okta.com
 paxos-token.org
@@ -5670,6 +5671,7 @@ raydum.sbs
 rayidium.com
 rayzonfinance.com
 raze-drops.top
+rbkm.sa.com
 rdx.vercel.app
 rdxshoes.click
 reachedoutseveral.com
@@ -6553,6 +6555,7 @@ swap.pancake.us.org
 swapcake.cc
 swapdly.javaswap.io
 swapify.exchange
+swapnet.pages.dev
 swapnftdefi.online
 swappanca1a.store
 swappancake.wtf
@@ -7042,6 +7045,7 @@ vendoruae.com
 venom-foudation.com
 venomairdrop.vercel.app
 venue.markets
+veolidetamast.com
 verasity-io.live
 verbosedapp.pages.dev
 verif-secureconnect.com
@@ -7459,6 +7463,7 @@ www-safe-global.info
 www.0xprotocol.site
 www.1asxhkd.com
 www.1inchfinance.com
+www.1inchrewards.com
 www.1inchwallet.app
 www.1lnchfinance.io
 www.1raydium.sbs
