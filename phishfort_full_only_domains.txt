@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 13:01:59 UTC 2024
-# Number of Entries: 106959
+# Fetch date: Thu Mar 21 14:01:43 UTC 2024
+# Number of Entries: 106962
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -24565,6 +24565,7 @@ dbridgenode.netlify.app
 dbrsco.com
 dbrsco.net
 dbrsco.org
+dbrscotd.com
 dbrsfds.com
 dbrsfin.com
 dbrsfx.cc
@@ -67463,6 +67464,7 @@ parrcakeswap.com
 parrcakeswap.finance
 parsec.gift
 parsecs.finance
+partenariat-bouygues-telecom-entreprises.fr
 partenariat-metamask.com
 participate-zks.net
 participate-zks.org
@@ -95756,6 +95758,7 @@ www-account-bitvavo.tk
 www-acesso-bit-90.blogspot.com
 www-acesso-bitkub-vip-2023.blogspot.com
 www-acessplatfom-nexo.blogspot.com
+www-adpworkforcenow.com
 www-altlayer-io.top
 www-altlayer.top
 www-anyswap.top
