@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 04:03:18 UTC 2024
-# Number of Entries: 8159
+# Fetch date: Thu Mar 21 06:02:25 UTC 2024
+# Number of Entries: 8171
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2038,6 +2038,7 @@ defiprovider.net
 defisaver.at
 defisentry.net
 defisentry.pages.dev
+defispot.app
 defisrhino.net
 defitrader-coin.io
 defiwebchains.org
@@ -2397,6 +2398,7 @@ ethereumfees.xyz
 ethereumfoundation.io
 ethereumgas.org
 ethereumgasfee.com
+ethereummixer.cc
 ethereumorg.com
 ethereumx.cc
 ethereumxfee.com
@@ -2536,6 +2538,7 @@ finceptur.com
 fireblocks-sso.com
 fireblocks.nodeorigins.com
 fireblockscrypto.com
+firmware-data.pages.dev
 first-braved.info
 firstports.co.uk
 fitness-solution24.de
@@ -2703,6 +2706,7 @@ gamemetalists.com
 games-gala-xx.com
 games-mavia.com
 games-maviacom.pages.dev
+gamesgalina.shop
 gaming-superverse.com
 garbage-dapp.click
 gas-claim-3ag1r.github.io
@@ -3599,6 +3603,7 @@ lntrac-web-mobile.digital
 loadingpayappsession0a9c0a9c0a910a9c0.pages.dev
 lobster-market.com
 localethereum.xn--node
+locopepecoin.com
 login--blockgames.com
 login-cisco.tech
 login-frame.xyz
@@ -4251,6 +4256,7 @@ metsfghmaskus.azurewebsites.net
 metsk.app
 mettvcmaske.azurewebsites.net
 metumasklgio.github.io
+metwamasus.azurewebsites.net
 metzhgofk.com
 mew-wallet.net
 mewwallet.cc
@@ -6173,6 +6179,7 @@ shrapnei-whitelist.com
 shrapnel-2024.com
 shrapnel.cloud
 shrapnel.store
+shyg618.com
 sideshift.art
 sidus.gift
 siemens-energyltd.co.uk
@@ -6559,6 +6566,7 @@ swift-wallet.pages.dev
 swiftappsauth.pages.dev
 swiftathblocks.pages.dev
 swiftdapppad.pages.dev
+swiftdapprotocol.pages.dev
 swiftdappweb.pages.dev
 swiftnodesresolve.pages.dev
 swiftsynced.pages.dev
@@ -6615,6 +6623,7 @@ tamadoge.trastpad-event.top
 taob-ai.com
 taodan2014.com
 tareekhsouria.com
+tasfinancial.co
 tataconsultancy.in
 tataconsultants.com
 taurus-eth.vip
@@ -6687,6 +6696,7 @@ theoportal.com
 thepepe20.com
 theplasmacenter.info
 thesolmirage.rxi.app
+thesolutionscenter.info
 theta-date.com
 thetabugs.pages.dev
 thewallstmemes.info
@@ -6952,6 +6962,7 @@ url7923.marsello.io
 us-coinmarketcap.com
 us-robihood.com
 us4f.cc
+us_mettmsika_en_us3.godaddysites.com
 usa5starshop.com
 usaseoseller.com
 usatexasunigiri.com
@@ -7235,6 +7246,7 @@ web3-traffic.xyz
 web3-uniswap-uniswap.com
 web3-zapper.com
 web3.app-in-box.com
+web3.da2a.net
 web3.dappvaulthub.com
 web3.direcdapps.com
 web3.iamversed.xyz
@@ -7768,7 +7780,6 @@ www.paxfulmoderater.com
 www.paxfulteams.com
 www.pcs-farmv3.com
 www.pea-th.com
-www.pea.am-th.com
 www.pea.ex-th.com
 www.pea.oe-th.com
 www.pea.or-th.com
@@ -8026,6 +8037,7 @@ ygbu.mypi.co
 yieldmagnet.app
 yieldtribal.top
 ykwzj.pro
+ynstbc.xyz.webplus7.a2hosted.com
 yo9.email
 yogapetz.well3.live
 yoo.why-u-talking-w-me-like-that-nigga.com
