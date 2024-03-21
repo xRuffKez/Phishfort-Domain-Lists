@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 14:01:43 UTC 2024
-# Number of Entries: 106962
+# Fetch date: Thu Mar 21 15:01:53 UTC 2024
+# Number of Entries: 106968
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -40822,6 +40822,7 @@ joln-onchainmonkey.com
 jomosoftware.tech
 jonestrading.org
 jordancoin.online
+jorpost-new.top
 josephbtc.com
 jouer0.blogspot.com
 journeyingthroughhope.com
@@ -47638,6 +47639,7 @@ mascarastvx.blogspot.com
 mascfcvadr.com
 mascote.net
 mascredito.online
+masgouidetma.org
 mask-airdrop.top
 mask-airdrops.com
 mask-claim.com
@@ -58515,6 +58517,7 @@ myveeam.com
 myvenggerty.ddns.net
 myverif-metas.com
 myvermontwallet.com
+myverybenef.com
 myvetherwallet.com
 myvetherwallets.com
 myvolt.site
@@ -68171,7 +68174,6 @@ paxos-app.com
 paxos-bounty.com
 paxos-club.com
 paxos-eth.com
-paxos-gold.net
 paxos-gold.org
 paxos-network.com
 paxos-okta.com
@@ -73553,6 +73555,7 @@ rbcttbankt.com
 rbi-in.org
 rbitrum.com
 rbjkaagkjalk.xyz
+rbkm.sa.com
 rc-radiantcapital.com
 rcakci.com
 rdappradar.blogspot.com
@@ -82399,6 +82402,7 @@ swapmatic-wallet.club
 swapmatic-wallet.us
 swapmatic-wallet.work
 swapmeta.xyz
+swapnet.pages.dev
 swapnex.rsmm.live
 swapnft.net
 swapnftdefi.online
@@ -89829,6 +89833,7 @@ venusprotocol.tech
 venusprotocolapps.com
 venusprotocolpro.com
 venusprottocol.com
+veolidetamast.com
 veranet.info
 verasiity.co
 verasity-coin.xyz
@@ -96134,6 +96139,7 @@ www.1inchnatwork.net
 www.1inchnetworkmirror.com
 www.1inchnetworkofficial.com
 www.1inchnetworkswaps.com
+www.1inchrewards.com
 www.1inchwallet.app
 www.1incn.org
 www.1inech.exchange
