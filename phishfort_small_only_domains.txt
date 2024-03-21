@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 01:23:26 UTC 2024
-# Number of Entries: 8128
+# Fetch date: Thu Mar 21 02:08:41 UTC 2024
+# Number of Entries: 8140
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -678,6 +678,7 @@ appdown.bovdl.com
 appe-mode.network
 appeigenlayer.xyz
 appethena.finance
+appfhruster.finance
 appfix.netlify.app
 appfrax.finance
 apphera.click
@@ -901,6 +902,7 @@ babydogswap.com.web-app3.cfd
 babygrok-ai.com
 babygrok-ai.top
 babyionchain.app
+babylon-registrationlive-pas.vercel.app
 babylon.trading
 babylonnchain.app
 babywif.network
@@ -2077,6 +2079,7 @@ dextools.io-wallet.app
 dextpool.xyz
 dfacows.net
 dfycy.com
+dg1ph.pro
 dgfggcc.site
 dgigame-rewardsclaim.pages.dev
 dhk6y.cc
@@ -3065,6 +3068,7 @@ injectives.world
 injektive.info
 injektive.mom
 inkonbtc.app
+innejd.pro
 inspace-token.network
 inspect-crypto.web.app
 inspireaj.com
@@ -3204,7 +3208,6 @@ jrt8fm.pro
 jsmarketnow.com
 jtl11.com
 jtontwrk.com
-ju-catdets-space.vercel.app
 juiceboxmoney.xyz
 juicejest.cfd
 julswap.co
@@ -3254,6 +3257,7 @@ jupiter-web.network
 jupiter-web3.net
 jupiter-web3.org
 jupiterairdrop.org
+jupitercatdet.com
 jupiterexchange.link
 jupiterlaunch.network
 jupiterproject.website
@@ -3466,6 +3470,7 @@ lendingtree.website
 lendingtreeincusa.com
 lendingtreellc.org
 lendingtreeusa.us
+lengthepengkiller.xyz
 lesfeesandgas.org
 lessfaesandgas.com
 lessfeeandgas.org
@@ -4510,6 +4515,7 @@ mysteryclaimsnft.vercel.app
 mysteryclicksclaim1.vercel.app
 mysteryclicksnft.vercel.app
 mysterynfts.vercel.app
+mysteryobox.vercel.app
 mysteryopn.vercel.app
 mysticmonoliths.org
 mystiwealth.biggy50.com.ng
@@ -4740,6 +4746,7 @@ oceantoken.net
 ocmordinals.xyz
 ocmtoys.xyz
 octonodedapp.pages.dev
+oea1g.pro
 oeth.cash
 ofertachevro.com
 ofertaschev.com
@@ -4901,6 +4908,7 @@ otsea.gift
 outildecisionregimederetraitesunchemical.ca
 ownrwallet.online
 oxleverage.xyz
+oxyppso.cc
 ozon-giv.officialpage2024.shop
 p00lsguard.xyz
 p1290.trustsamco.online
@@ -5260,6 +5268,7 @@ phantomwallets.xyz
 phantomwallte.com
 phantomzwalllet.godaddysites.com
 phantuumwaleet.godaddysites.com
+phoentexai.netlify.app
 phone.tkd
 phountom.xyz
 phrasedataprotect.com
@@ -5323,6 +5332,7 @@ polkabridge-network.org
 polkadex.online
 poloniex-assets.com
 polupokespics.rosamonddunlop665.workers.dev
+polyhedrazk.foundation
 poncakeswap.finance
 pond0x.trading
 pond0xtreasury.com
@@ -5760,6 +5770,7 @@ retik-finance.pages.dev
 retik.app
 retikapp.xyz
 retikclaim.web.app
+retikfinance.click
 retlik.com
 retratandoimagens.com
 retro.magicilyeden.io
@@ -6491,6 +6502,7 @@ support-pancakeswaps.pages.dev
 support-walletrestoration.pages.dev
 support.pankecswaqfiannce.com
 support.pixelmon.tech
+support.webdapps.pro
 supportmetamask-io.ddnss.eu
 suprasync.pages.dev
 supratoken.xyz
