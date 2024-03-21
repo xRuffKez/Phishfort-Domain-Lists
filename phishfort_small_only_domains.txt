@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 06:02:25 UTC 2024
-# Number of Entries: 8171
+# Fetch date: Thu Mar 21 08:02:33 UTC 2024
+# Number of Entries: 8184
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -806,6 +806,7 @@ asals.info
 ascendcoin.net
 aserolanarcissashop.com
 asolgift.com
+asset-collab.netlify.app
 asset-validation.info
 assets-collabland.com
 assiestwebcadbot.tech
@@ -1384,6 +1385,7 @@ chainmulticoin.pages.dev
 chains.authsyncontracts.com
 chainsextension.com
 chainsprotocol.com
+chainswap-airdrop-claim.pages.dev
 chainsyncapp.pages.dev
 chainzerioncliam.pages.dev
 chamasloustorgst.com
@@ -1499,7 +1501,6 @@ claim.dydxexchang.com
 claim.dymensionall.club
 claim.get-ton.com
 claim.ifizgroup.xyz
-claim.layerzero-foundation.pro
 claim.layerzero-tokens.online
 claim.memeskombats.online
 claim.memetrumpmaga.com
@@ -1904,6 +1905,7 @@ dapps-radar.pages.dev
 dapps-sync.vercel.app
 dapps-web3-connect.in
 dapps.toolsynchr.online
+dapps.waletmate.online
 dappsapi.pages.dev
 dappscoinstats.pages.dev
 dappsconnectapp.pages.dev
@@ -2413,6 +2415,7 @@ ethersclaim.org
 ethersupport.web.app
 etherugases.xyz
 ethfi.global
+ethfundg.xyz
 ethgases.xyz
 ethgasrefund.net
 ethibainu.network
@@ -4116,6 +4119,7 @@ metamask-app24-kyc.com
 metamask-auth.io
 metamask-c.com
 metamask-chain.pages.dev
+metamask-connect.com
 metamask-dapp.pages.dev
 metamask-dapps.pages.dev
 metamask-debug.pages.dev
@@ -4452,6 +4456,7 @@ multichain-rectifier.com
 multichain-web.de
 multichain-web.live
 multichain-web.pro
+multichainapprove.pages.dev
 multichainbridge-dapp.onrender.com
 multichainnetwork.pages.dev
 multichainnode.onrender.com
@@ -5956,6 +5961,7 @@ roninchain.app
 roninchain.cc
 roninchain.wtf
 roninchaln.com
+roninchaon.com
 roninnchain.com
 roninwallet-login4.godaddysites.com
 ronlnchaiin.top
@@ -6358,6 +6364,7 @@ spok-earlyadopterdegen.com
 spok-earlyadopterfarmer.net
 spok-earlyadopterhodler.com
 spok-earlyadopterinfluencer.com
+sponge-claim.online
 spongeev2.online
 spongev2.cfd
 spongevipv2.shop
@@ -6809,6 +6816,7 @@ tracomservices.com
 tradedao-mig.click
 tradeogre-web.site
 traderjoe.events
+traderjoeyxz.app
 tradeviewtoken.xyz
 tradinglabs.app
 trafalpo-maniar.com
@@ -6916,6 +6924,7 @@ unisatindexnodes.com
 unisatwalletextension.com
 unisvap-v3.github.io
 uniswap-blockchain-clone-ng.vercel.app
+uniswap-defiapp.org
 uniswap-exchange-site.web.app
 uniswap-exchange-uniswap.app
 uniswap-org.vercel.app
@@ -7221,6 +7230,7 @@ web.stakefish.app
 web.sync-connect.net
 web.universaldefi-rectifier.com
 web3-bitget.pages.dev
+web3-bkex.top
 web3-cakedefi.com
 web3-connectdc.gq
 web3-connectha.gq
@@ -7665,6 +7675,7 @@ www.jutsunft.com.soillabs.app
 www.jympurexhange.org
 www.kenetix.finance
 www.kinetx.finance
+www.krakenusdt.com
 www.kriya-finance.cyou
 www.kriya-finance.tech
 www.kroift.com
@@ -7750,6 +7761,8 @@ www.norwegianlife.net
 www.notkem.com
 www.o2-login.info
 www.ondo-finance.info
+www.openbookgui.com
+www.openlab.live
 www.openseaclaimdropbox.com
 www.optbtcv.com
 www.optenvos.com
