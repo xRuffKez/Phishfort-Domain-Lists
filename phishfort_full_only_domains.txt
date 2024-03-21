@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 10:01:39 UTC 2024
-# Number of Entries: 106962
+# Fetch date: Thu Mar 21 11:01:55 UTC 2024
+# Number of Entries: 106958
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2268,7 +2268,6 @@ academy-giveaway.com
 academy.farm.com.sa
 academy.pancakeswasap.one
 academy.ppancakeswap.info
-academy.topbundalle.com
 acader.site
 acahealthinsure.com
 acaia.in.net
@@ -15327,6 +15326,7 @@ cancelar-ahora.webcindario.com
 cancelar-ahorat.webcindario.com
 cancelar1-cambio.webcindario.com
 cancelar5-cambio.webcindario.com
+cancellationflights.com
 cancelpymt07meritrust.site
 canceltrade.click
 cancelyourtrade.click
@@ -24564,8 +24564,6 @@ dbp.coinsbase8.com
 dbridgenode.netlify.app
 dbrsco.com
 dbrsco.net
-dbrsco.org
-dbrscotd.com
 dbrsfds.com
 dbrsfin.com
 dbrsfx.cc
@@ -67463,7 +67461,6 @@ parrcakeswap.com
 parrcakeswap.finance
 parsec.gift
 parsecs.finance
-partenariat-bouygues-telecom-entreprises.fr
 partenariat-metamask.com
 participate-zks.net
 participate-zks.org
@@ -104129,7 +104126,6 @@ xn--fxedfiloat-xub.com
 xn--fxedflaot-g5a.com
 xn--fxedflaot-g5a.org
 xn--fxedflaot-vpb.net
-xn--fxedflaot-vpbc.com
 xn--fxedflaots-68a.com
 xn--fxedflaots-k8a.com
 xn--fxedflcoat-68a.com
