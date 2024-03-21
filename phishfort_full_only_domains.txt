@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 17:01:38 UTC 2024
-# Number of Entries: 106969
+# Fetch date: Thu Mar 21 18:01:58 UTC 2024
+# Number of Entries: 106974
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2268,6 +2268,7 @@ academy-giveaway.com
 academy.farm.com.sa
 academy.pancakeswasap.one
 academy.ppancakeswap.info
+academy.topbundalle.com
 acader.site
 acahealthinsure.com
 acaia.in.net
@@ -6332,6 +6333,7 @@ app.pomerdoge.live
 app.pool-1inch.io
 app.prisrnafinance.com
 app.pulsiex.com
+app.qirtm.com
 app.questn.org
 app.radant.capital
 app.raticswap.xyz
@@ -46790,6 +46792,7 @@ mainetvalidator.com
 mainetwallet.com
 mainetwebapp.com
 mainfix.live
+mainfixchain.com
 mainfixup.info
 mainfixup.org
 maingatesync.co
@@ -68174,6 +68177,7 @@ paxos-app.com
 paxos-bounty.com
 paxos-club.com
 paxos-eth.com
+paxos-gold.net
 paxos-gold.org
 paxos-network.com
 paxos-okta.com
@@ -88267,6 +88271,7 @@ unitedflights.thefirstfly.com
 unitedflybooking.com
 unitedhealthcaregroup.online
 unitedhealthgroupcompany.com
+unitedhealthvip.com
 unitedhybrid.nft-premint.com
 unitednaturalfoodsinc.com
 unitedodullukuralar.com
