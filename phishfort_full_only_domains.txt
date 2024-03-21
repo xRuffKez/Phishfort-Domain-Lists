@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 19:02:16 UTC 2024
-# Number of Entries: 106979
+# Fetch date: Thu Mar 21 20:02:01 UTC 2024
+# Number of Entries: 106982
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -8118,6 +8118,7 @@ asxinfinity.me
 asxinfinity.org
 asxinfinitypromo.com
 asxmagicformula.com
+asxmx.cc
 asxportal.com.au
 asxstockexchange.com
 asxtermrtg.top
@@ -53706,6 +53707,7 @@ motion-iind.com
 motion-industries.co
 motion-industries.info
 motion-lndustries.com
+motionindustries.info
 motionlndustries.com
 motnnnskwaltlet.godaddysites.com
 moto-br-loja.blogspot.com
@@ -84954,6 +84956,7 @@ tmknft.nft-premint.com
 tmoblle.co
 tmplogs-outlook.pancakeswape.finance
 tmrf-group.com
+tmtmoneyback.pages.dev
 tmweb.ru
 tmwr.pro
 tmxy.zgqmhymhw.com
