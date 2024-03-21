@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 21 01:22:50 UTC 2024
-# Number of Entries: 106893
+# Fetch date: Thu Mar 21 02:08:21 UTC 2024
+# Number of Entries: 106906
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6623,6 +6623,7 @@ appethena.finance
 appeuler.finance
 appevmos.online
 appextensionfixes.com
+appfhruster.finance
 appfix.netlify.app
 appfrax.finance
 appgaala.games
@@ -9930,6 +9931,7 @@ babygrok-ai.com
 babygrok-ai.top
 babyinch.app
 babyionchain.app
+babylon-registrationlive-pas.vercel.app
 babylon.trading
 babylonnchain.app
 babymetamask.com
@@ -26388,6 +26390,7 @@ dfxbridge.com
 dfycy.com
 dfyn-protocol.com
 dg12.duckdns.org
+dg1ph.pro
 dgarbha.com
 dgbemitan.xyz
 dgerguard.co
@@ -39686,6 +39689,7 @@ inmetatoken.com
 inmotion.udc.es
 inmsgdetorg.in
 inmtoken.top
+innejd.pro
 inner-www.internal.pancakeswape.finance
 innerdegens.wtf
 innevio.com
@@ -40922,6 +40926,7 @@ jupiter-web.network
 jupiter-web3.net
 jupiter-web3.org
 jupiterairdrop.org
+jupitercatdet.com
 jupiterexchange.events
 jupiterexchange.link
 jupiterlaunch.network
@@ -43267,6 +43272,7 @@ lendingtreeusa.online
 lendingtreeusa.us
 lendium.tech
 lendmarkfrinancial.com
+lengthepengkiller.xyz
 lenls.xyz
 leno.pro
 lens-2.xyz
@@ -58379,6 +58385,7 @@ mysteryclicksclaim1.vercel.app
 mysteryclicksnft.vercel.app
 mysterydropnft.com
 mysterynfts.vercel.app
+mysteryobox.vercel.app
 mysteryopn.vercel.app
 mystherwallet.com
 mysticalmasks.xyz
@@ -60462,6 +60469,7 @@ odogwuwebsite.com
 odos-protocol.org
 odyssey.center
 odyssey.plus
+oea1g.pro
 oeauuk.webwave.dev
 oeg-group.com
 oege.us.com
@@ -62654,6 +62662,7 @@ oxford-porcelanas.blogspot.com
 oxleverage.xyz
 oxocb.com
 oxy.dev
+oxyppso.cc
 oxzudos.dewiise.top
 oyetherwallet.com
 oymerlinbrazw.blogspot.com
@@ -69312,6 +69321,7 @@ phnymtmwalnt.godaddysites.com
 phoantmwallit.godaddysites.com
 phoatomwallit.godaddysites.com
 phoenixunity-promogive.com
+phoentexai.netlify.app
 phomtomwallut.godaddysites.com
 phon.walte.xyz
 phone.tkd
@@ -70674,6 +70684,7 @@ polygonxtech.com
 polygyontechology.com
 polygyonwallet.com
 polyhedra-network-connect.com
+polyhedrazk.foundation
 polyigonwl.site
 polyigonwl.space
 polyisland.io
@@ -74422,6 +74433,7 @@ retik-finance.pages.dev
 retik.app
 retikapp.xyz
 retikclaim.web.app
+retikfinance.click
 retinabd.org
 retlik.com
 retratandoimagens.com
@@ -81877,6 +81889,7 @@ support.syncalldapps.pro
 support.universaldefidomain.io
 support.update.account.coinbase.i2of.com
 support.walletconnect.care
+support.webdapps.pro
 support.xexchanges.info
 support01-coinbase.com
 support3.live
