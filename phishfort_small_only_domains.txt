@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 13:02:06 UTC 2024
-# Number of Entries: 8183
+# Fetch date: Fri Mar 22 14:02:15 UTC 2024
+# Number of Entries: 8189
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1271,6 +1271,7 @@ bvrefe.pages.dev
 bvuvs.info
 bybit-gift.space
 bytedog.pro
+c.qztaiwei.com
 c7ed7c0a-a3f0-4a62-9092-b1bb34dc0ec4-00-2hhxxwsgft7jv.janeway.replit.dev
 c9bae519-e21c-44b6-990c-e47a9b25b5a1-00-2o0u40bra6plm.janeway.replit.dev
 cadenceprotocol.net
@@ -2501,6 +2502,10 @@ fastdevmigrathxqnzv.pro
 fatehelpsthebrave.com
 faucetsankoscan.io
 fcstone.dsar.privally.io
+fcstone.one
+fcstone.plus
+fcstone.pw
+fcstone.tv
 fcstonekr.pro
 fcstonekr.xyz
 fcstonevip.com
@@ -2904,6 +2909,7 @@ havas-aso.com
 hca-healthcare.com
 hdi6v.pro
 health-equity.sa.com
+health-equity.za.com
 healthcheck.com
 healthequity.comlink.sa.com
 healthequity.comru.sa.com
@@ -3740,7 +3746,6 @@ managarservice.com
 manbta.network
 manda-network.com
 mandatory-multi-factor-authenticator.us-ord-1.linodeobjects.com
-mandg-underwriters-archive.treepl.co
 mandgportfolio.com
 mandta.network
 maneta.network
@@ -3943,7 +3948,6 @@ marketplacestatus.com
 marnta.network
 masa-ek1.pages.dev
 masa-finance.com
-masgouidetma.org
 mask-claim.com
 mask-metamask.io
 mask-token.claims
@@ -5301,6 +5305,7 @@ phantomwallets.xyz
 phantomwallte.com
 phantomzwalllet.godaddysites.com
 phantuumwaleet.godaddysites.com
+phasnw.xyz
 phoentexai.netlify.app
 phone.tkd
 phountom.xyz
@@ -6310,6 +6315,7 @@ snapshot-syncswap.com
 snapshot-zksync.io
 snapshots-quai.network
 snapshots-wormhole.xyz
+snexkr.com
 snowsniper.com
 snug-zetachain.com
 socalgaslogin.cz
