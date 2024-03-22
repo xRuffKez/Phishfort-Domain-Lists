@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 03:01:57 UTC 2024
-# Number of Entries: 107024
+# Fetch date: Fri Mar 22 04:01:42 UTC 2024
+# Number of Entries: 107029
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1424,6 +1424,7 @@
 63d5829e-10dfb4e7.viewdocumentw.click
 63f3ed5a-a189-4792-b3ea-26687f69c894-00-p4dnzcb1f2va.riker.replit.dev
 64-227-4-245.plesk.page
+64d6b52e708b802426d1c6c1--gorgeous-bublanina-8cc674.netlify.app
 64d83c039f906a53db8c2cc0--sparkly-biscuit-4aa1af.netlify.app
 64ff9af3d0af9f75486bc9d0--effulgent-baklava-190579.netlify.app
 6529nft.com
@@ -3061,7 +3062,6 @@ agoda360.com
 agoda555.com
 agoda6.com
 agoda66.com
-agoda666.com
 agoda7.cc
 agoda7.top
 agoda7.xyz
@@ -13139,6 +13139,7 @@ blog.curvefi.claims
 blog.decentralized-exchange.org
 blog.devnode.ng
 blog.events.pancakeswasap.one
+blog.firstflytravel.com
 blog.lido.army
 blog.mediumpromo.top
 blog.pancakeswape.finance
@@ -21362,6 +21363,7 @@ crypterium.world
 crypteriumplay.com
 crypteriumwalletapp.com
 cryptexbit.com
+cryptexchange.vip
 cryptexcore.com
 cryptexplatform.com
 cryptflag.com
@@ -27188,6 +27190,7 @@ dooplicater.com
 dooplicator.store
 dooplicators.net
 doortechqr.netlify.app
+dop-en.web.app
 dop-io.web.app
 dopamine-dop.com
 dopamine-dop.org
@@ -29081,6 +29084,7 @@ ensreward.net
 ensreward.space
 enstes.store
 ensynmuchains.live
+entangle-fi.org
 enteerpriserentacar.org
 enter-aave.com
 enter-aave.finance
@@ -103579,6 +103583,7 @@ xjaoz.com
 xjzx.xdztq.com
 xkk666.vip
 xkpc.pro
+xksl5.cc
 xkxw.fjtcdp.com
 xkxw.ruiansheng.com
 xl-airdrops.top
