@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 10:02:09 UTC 2024
-# Number of Entries: 8186
+# Fetch date: Fri Mar 22 12:03:11 UTC 2024
+# Number of Entries: 8183
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1036,7 +1036,6 @@ birdeye.trading
 biscottiboyzca.com
 biswap-exchange.top
 bit-nvidia.com
-bit-optiver.org
 bit-venus.com
 bitcasino.pw
 bitcasino.rocks
@@ -1158,7 +1157,6 @@ bnb-crypto.xyz
 bnbair.org
 bnbgift.org
 bnbheibaie.quest
-bnbminer-finance.onrender.com
 bnbminner.com
 bncoparticlar-apps.systeme.io
 boardversepromptfil.pages.dev
@@ -1749,7 +1747,6 @@ convert-dgcoin.com
 convert-dgcoin.pro
 convex-finance.xyz
 convexfinance.io
-coqinu.app
 coqinucoin.claims
 cornerdrop.org
 corporativojohnson.com
@@ -1793,7 +1790,6 @@ cryptohopperclaim.com
 cryptoinfosec.net
 cryptopepedrops.com
 cryptopro.vip
-cryptorank.web3-platform.com
 cryptos-giveways.net
 cryptos-rnantas.com
 cryptosaylor.net
@@ -3744,6 +3740,7 @@ managarservice.com
 manbta.network
 manda-network.com
 mandatory-multi-factor-authenticator.us-ord-1.linodeobjects.com
+mandg-underwriters-archive.treepl.co
 mandgportfolio.com
 mandta.network
 maneta.network
