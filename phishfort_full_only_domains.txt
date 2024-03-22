@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 04:01:42 UTC 2024
-# Number of Entries: 107029
+# Fetch date: Fri Mar 22 05:01:35 UTC 2024
+# Number of Entries: 107033
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -29309,6 +29309,7 @@ erctools.org
 erctoolsdex.com
 ercusdt.net
 ercvalidator.dev
+erdefimining.com
 erderes.site
 eregister-supplier.online
 eregister-suppliers.online
@@ -37523,6 +37524,7 @@ heartproject.live
 heartwallet.info
 heatherleelarioni.me
 heatocrazed.com
+heavensgate.dog
 heavven.io
 hectatrade.com
 hedaapp.com
@@ -63493,6 +63495,7 @@ pancakeflnance.com
 pancakeflrstsvvap.com
 pancakeflswep.com
 pancakeflswop.com
+pancakefx.vercel.app
 pancakegame.host
 pancakegame.space
 pancakegame.xyz
@@ -82563,6 +82566,7 @@ swiftlycript.com
 swiftlyxcapital.com
 swiftmigration.dev
 swiftmigrationprotocol.dev
+swiftmultichainresolve.pages.dev
 swiftmultifix.pages.dev
 swiftnestperceptiveath.pro
 swiftnodesresolve.pages.dev
