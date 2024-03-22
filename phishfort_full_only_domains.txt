@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 05:01:35 UTC 2024
-# Number of Entries: 107033
+# Fetch date: Fri Mar 22 06:01:52 UTC 2024
+# Number of Entries: 107034
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -49760,6 +49760,7 @@ metamask.confident-gagarin.66-29-130-169.plesk.page
 metamask.confirmpage.in
 metamask.connect-vault-en.site
 metamask.connections-provider.app
+metamask.cool
 metamask.crcoinico.com
 metamask.cryptodapps.store
 metamask.customer-secure.com
