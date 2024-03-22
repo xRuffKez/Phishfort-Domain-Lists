@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 03:02:37 UTC 2024
-# Number of Entries: 8179
+# Fetch date: Fri Mar 22 04:02:12 UTC 2024
+# Number of Entries: 8181
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -105,6 +105,7 @@
 6-chess.online
 63352955.b1b41177a5690aba217097d9.workers.dev
 63f3ed5a-a189-4792-b3ea-26687f69c894-00-p4dnzcb1f2va.riker.replit.dev
+64d6b52e708b802426d1c6c1--gorgeous-bublanina-8cc674.netlify.app
 6582a324d461b10392e58564--resonant-crumble-667584.netlify.app
 65c929ede29cb759e486af81--rainbow-choux-6218fe.netlify.app
 685463.sa.com
@@ -208,7 +209,6 @@ agoda.partner-extranet.life
 agoda.ycs-id.info
 agoda.ycs.my.id
 agoda360.com
-agoda66.com
 agoda88.cc
 agoda88.top
 agoda88.vip
@@ -1141,6 +1141,7 @@ blocknonc.web.app
 blocktokens.online
 blockunification.asders.icu
 blog.868631.xyz
+blog.firstflytravel.com
 blog.trustsamco.store
 blsat.io
 blst-reg.app
@@ -1780,6 +1781,7 @@ croptyloanhub.com
 crpytoundeads.com
 crtoadznew.com
 crv.fi
+cryptexchange.vip
 crypto-communities.com
 crypto-farm-trust.com
 crypto-starknets.com
@@ -2150,6 +2152,7 @@ dojoencryption.com
 dojoswap.org
 domabnb.design
 domains-nzy.pages.dev
+dop-en.web.app
 dop-io.web.app
 dopamine-dop.com
 dopamine-dop.org
@@ -2339,6 +2342,7 @@ enlist-dymension.xyz
 enlisted-portalgaming.com
 enrolaltlayer.pages.dev
 enroll-bitcoincats.world
+entangle-fi.org
 enteerpriserentacar.org
 enter-injective.com
 enter-pendle.network
@@ -5840,7 +5844,6 @@ revoke.expert
 revoke.host
 revoke.ink
 revoke.markets
-revoke.page
 revoke.plus
 revoke.run
 revokeapp.info
@@ -5851,7 +5854,6 @@ revokeca.xyz
 revokecash-portal.pages.dev
 revokecash-web3.org
 revokecash.cash
-revokecash.network
 revokecash.store
 revokecash.us
 revokecashe.com
@@ -6783,7 +6785,6 @@ token-theblock.co
 token.strks-rocket.club
 tokenmask.io
 tokenprojectrarity.site
-tokenrevoke.cash
 tokens-rocketpool.net
 tokens-satoshivm.io
 tokens-zk.link
@@ -7959,6 +7960,7 @@ xion-bonusblock.space
 xion.bonusblock.in
 xionbonusblock.io
 xkpc.pro
+xksl5.cc
 xl9.us
 xlauncher-app.com
 xlbullycoin.pro
