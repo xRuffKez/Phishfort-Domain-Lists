@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 19:02:07 UTC 2024
-# Number of Entries: 8186
+# Fetch date: Fri Mar 22 20:02:22 UTC 2024
+# Number of Entries: 8188
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -245,7 +245,6 @@ air-frame.xyz
 air-hoppersreview.com
 air-linea.build
 air-satoshivm.io
-air.trustpad-coin.top
 air2-blast.xyz
 aircoinciti.com
 airdop-walletconnect.pages.dev
@@ -472,6 +471,7 @@ amljumper.com
 amlsecure.org
 amlwallet.online
 amplifylevel.webcloner.net
+an.betiutima.online
 an.intelectui.online
 an.myudetma.online
 analayze.orb-crypto.com
@@ -2912,6 +2912,7 @@ hdi6v.pro
 health-equity.sa.com
 health-equity.za.com
 healthcheck.com
+healthequity.comja.sa.com
 healthequity.comlink.sa.com
 healthequity.comru.sa.com
 healthequity.comru.za.com
@@ -6383,6 +6384,7 @@ srxuznzcsy.nepialisen.tech
 ssh.secure.secure.pancakefiance.org
 ssly.vip
 sspark.fi
+st.betiutima.online
 stableusdc.com
 staekland.com
 staging.home.hostmaster.coingecko.hatsuqat.com
