@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 22:01:34 UTC 2024
-# Number of Entries: 107047
+# Fetch date: Fri Mar 22 23:01:56 UTC 2024
+# Number of Entries: 107046
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -76428,7 +76428,6 @@ saksoff5th-stores.shop
 saksoff5th-us.shop
 saksoff5th.love
 saksoff5th.online
-saksoff5th.store
 saksoff5th.vip
 saksoff5thboool.top
 saksoff5thdeals.com
@@ -78345,6 +78344,7 @@ sii.yongwudi.net
 siiiydragons.com
 siillydragon.io
 sikyisnsmacsdjicail.ru
+silent-arie.com
 silk.mint-launch.com
 silks.web3-airdrop.net
 silks.web3-premint.xyz
@@ -98378,7 +98378,6 @@ www.evilpcpecoin.com
 www.evilpepesoin.com
 www.evm-monad.xyz
 www.evmos-network.org
-www.evoypremium.com.br
 www.ewalletretrieval.live
 www.ewlilpepe.com
 www.ewtherdo.tk
