@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 13:01:34 UTC 2024
-# Number of Entries: 107034
+# Fetch date: Fri Mar 22 14:01:37 UTC 2024
+# Number of Entries: 107042
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3062,6 +3062,7 @@ agoda360.com
 agoda555.com
 agoda6.com
 agoda66.com
+agoda666.com
 agoda7.cc
 agoda7.top
 agoda7.xyz
@@ -15144,6 +15145,7 @@ c.ftx68.com
 c.ftxgroup01.com
 c.ftxgroup66.com
 c.ollab.land
+c.qztaiwei.com
 c013.com
 c0labland.com
 c0labland.io
@@ -32601,6 +32603,10 @@ fckit.live
 fcmetanft.com
 fcpandamen.com
 fcstone.dsar.privally.io
+fcstone.one
+fcstone.plus
+fcstone.pw
+fcstone.tv
 fcstonekr.pro
 fcstonekr.xyz
 fcstonevip.com
@@ -37504,6 +37510,7 @@ he3xc.com
 healerwallet.com
 healinghippies.xyz
 health-equity.sa.com
+health-equity.za.com
 healthcheck.com
 healthequity.comlink.sa.com
 healthequity.comru.sa.com
@@ -47196,7 +47203,6 @@ manbta.network
 manda-network.com
 mandatescheme.com
 mandatory-multi-factor-authenticator.us-ord-1.linodeobjects.com
-mandg-underwriters-archive.treepl.co
 mandgertyuh.sbs
 mandginvestmentlimited.com
 mandginvestments.org
@@ -47669,7 +47675,6 @@ mascarastvx.blogspot.com
 mascfcvadr.com
 mascote.net
 mascredito.online
-masgouidetma.org
 mask-airdrop.top
 mask-airdrops.com
 mask-claim.com
@@ -62857,6 +62862,7 @@ paceline.info
 pacemaker.nft-premint.com
 pacemakernft.com
 pacerealestatevt.com
+pacexel.com
 pacific-bridge-manta-network.cyou
 pacific-bridge-manta.cyou
 pacific-bridge.manta.nework.live
@@ -69309,6 +69315,7 @@ pharmanet.org.pl
 pharse-recovery-loremipsumdoolorsitametconsectet.cfd
 pharse-recovery-loremipsumdoolorsitametconsectet.sbs
 phartom.app
+phasnw.xyz
 phat0mwallet.godaddysites.com
 phat0mwalllet.godaddysites.com
 phatom.online
@@ -79204,6 +79211,7 @@ snegir-shop.ru
 snek-coin.web3fast.net
 snelieniata.com
 sneweasy.com
+snexkr.com
 snft-seedify.online
 snfts-seedify.online
 sningusali.info
