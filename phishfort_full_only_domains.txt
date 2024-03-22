@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 18:01:50 UTC 2024
+# Fetch date: Fri Mar 22 19:01:33 UTC 2024
 # Number of Entries: 107044
 # Expires: 1 hour
 0-metemask.com
@@ -15538,6 +15538,7 @@ catholicwebhost.com
 catsandwatches.mint-yours.com
 catsmarsvoyage.app
 catsmarsvoyage.art
+catworlo.com
 causecoins.net
 cavbdabenwqef.bandfrwqt4.repl.co
 cavcas.site
@@ -22121,7 +22122,6 @@ csagodaonline.masukmobilee.de
 cscs-app-money.one
 cscs.wiki
 csdot.money
-cse-syneoshealth.fr
 cservice.info
 csf8f1gn9bumuow.secretswww.outlook.pancakeswape.finance
 csfellon.ru
@@ -25911,6 +25911,7 @@ deluxepluxwallet.com
 delysium.nft-premint.com
 delysium.pro
 delysium.web3fast.net
+demarkoizi.com
 demarkoizi.org
 demen-heroes.cloud
 demension.life
@@ -76742,7 +76743,6 @@ scaptradings.com
 scatter-roninchain.com
 scatter-roninchain.net
 scbli.shop
-scburnet.okta.acmecorp.name
 sccir2.com
 sccunion.com
 sce-coinbase.com
