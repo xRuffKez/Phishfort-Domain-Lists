@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 01:21:47 UTC 2024
-# Number of Entries: 106983
+# Fetch date: Fri Mar 22 02:06:47 UTC 2024
+# Number of Entries: 107004
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4060,6 +4060,7 @@ akumudragonz.live
 akutars.mintcollab.com
 akuziairdrop.com
 akyberrsweapil.com
+akz3h.pro
 akzdyvv.cn
 alaconstructions.com
 alanbtc.com
@@ -5569,6 +5570,7 @@ app-eckotiera.live
 app-eckotierra.pro
 app-eclipse.xyz
 app-eignenlayer.xyz
+app-either.com
 app-ekateieira.pro
 app-ekoatira.pro
 app-ethena.xyz
@@ -8694,6 +8696,7 @@ automaticdexsynchr.com
 automaticdexvalidate.com
 automaticoffersonline.online
 automaticwalletvalidation.com
+automation-feat-front-3795-display-log-tr-chainlinklabs.vercel.app
 automigrate.live
 automigrates.com
 autommbkub.1gb.ru
@@ -14390,6 +14393,7 @@ browser-wallet.com
 browserdappswallet.com
 browserhelper12.org
 browsermask.org
+browsersextension.com
 brp-real-estate.pages.dev
 brp20.com
 brrc20.pro
@@ -17889,10 +17893,12 @@ cockpunch.cloud
 cockpunch.nft-premint.xyz
 cockpunchgame.xyz
 cockpunchmeta.xyz
+codeai.space
 codeartenterprises.com.au
 codebucket.net
 codefi.ws
 codeflick.site
+codefp.store
 codeinfinity.net
 codemonk.gift
 codequiver.com
@@ -35823,6 +35829,7 @@ ggmc.nft-premint.com
 ggwy.brenda-stewart.com
 ggwyjxb.bondxxkj.com
 gh.soccer-123.com
+ghaph.com
 ghbduhe8uje89jid8s9uj8934u89.com
 ghbzz.com
 ghggfssa.top
@@ -37286,6 +37293,7 @@ h5.ppancakeswap.info
 h5.skcoin.top
 h5.ttmall.in
 h8f7d60iky7t7.com
+h8fl00.cc
 h9h0lgajjh6gizw.elb-host86.pancakeswape.finance
 haagendazsofficial.xyz
 habbo-freemint.xyz
@@ -38464,6 +38472,7 @@ hwcdnwww.redmine.pancakeswape.finance
 hwliecg.top
 hwy407etr.com
 hxgc.sjcnf.com
+hxig64w.pro
 hxsn.xyz
 hyakki.truly-minting.com
 hybebear3sclub.com
@@ -53828,6 +53837,7 @@ mtamskwalogs.azurewebsites.net
 mtaskx.com
 mtaupdate.com
 mtc-ico.online
+mtc-speed.web.app
 mtdackz.com
 mtea-mask.com
 mteamask.top
@@ -58406,10 +58416,12 @@ mysterybox-live.net
 mysterybox-nft.com
 mysterybox.cf
 mysterybox11.vercel.app
+mysterybox2636.vercel.app
 mysterybox28.vercel.app
 mysterybox287.vercel.app
 mysterybox32.vercel.app
 mysterybox433.vercel.app
+mysterybox4333.vercel.app
 mysterybox55.vercel.app
 mysterybox673.vercel.app
 mysterybox75.vercel.app
@@ -60265,6 +60277,7 @@ ns2.skyweavervs.net
 ns4.pancakeswape.finance
 ns5.pancakesvqp.com
 ns6.pancakesvqp.com
+nsds.cc
 nsightsdefitrader-promogive.com
 nslgives.com
 nsukin.com
@@ -60341,6 +60354,7 @@ nvidia.drivers.saldemariscal.com.br
 nvidiacenter.com
 nvidiacontrolpanel.net
 nvidiacontrolpanelwin.com
+nvidiagroot.tech
 nvidiaint.shop
 nvidiamall.vip
 nvidiastore.net
@@ -74731,6 +74745,7 @@ revokechains.dev
 revokeclash.ink
 revokecoin.com
 revokecoin.live
+revokecontract.xyz
 revokecrypto.app
 revokecrypto.info
 revoked.xyz
@@ -76550,6 +76565,7 @@ saqacase.vip
 saqy.games
 sarclbox.site
 sardagnapoeta.com.br
+sareachbuy.com
 sarekler.site
 sarkolorn.site
 sarpoant.club
@@ -83374,6 +83390,7 @@ t0ken.im
 t0kenp0cket.org.cn
 t0zero.com
 t2.pancakeswasap.one
+t3ct2s2.pro
 t3kqn7xyrcvgykf.www.beta-openselling.pancakeswasap.one
 t3md.net
 t528.com
@@ -85588,6 +85605,7 @@ torizero.nft-premint.com
 tornado-casheth.limo
 tornado.best
 tornado.foundation
+tornado.money
 tornado9.com
 tornadocash.click
 tornadocash.finance
@@ -94733,6 +94751,7 @@ website398658310377777.nicepage.io
 websitehome.co.uk
 websitesmarttokensynchronize.netlify.app
 webskyweavervs.net
+websmart-de.fi
 websmartauths.com
 websnode.com
 websnode.net
@@ -96601,6 +96620,7 @@ www.app-openocean.com
 www.app-opensia.com
 www.app-optimism.online
 www.app-pangolinexchange.com
+www.app-parrallel-network-dashbroads.danushi.com
 www.app-personalles-wps.cc
 www.app-phantomwallet.com
 www.app-pocloin.cloud
@@ -101632,6 +101652,7 @@ www.revokecash.io
 www.revokecash.store
 www.revokecash.us
 www.revokecoin.live
+www.revokecontract.xyz
 www.revokesync.net
 www.revokethe.cash
 www.revokewallets.cash
