@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 19:01:33 UTC 2024
-# Number of Entries: 107044
+# Fetch date: Fri Mar 22 20:01:46 UTC 2024
+# Number of Entries: 107047
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4722,6 +4722,7 @@ an-app-magiceden.blogspot.com
 an-metamesk.com
 an-metamessk.com
 an-mettmask.com
+an.betiutima.online
 an.intelectui.online
 an.myudetma.online
 anadolsun.site
@@ -37515,6 +37516,7 @@ healinghippies.xyz
 health-equity.sa.com
 health-equity.za.com
 healthcheck.com
+healthequity.comja.sa.com
 healthequity.comlink.sa.com
 healthequity.comru.sa.com
 healthequity.comru.za.com
@@ -80463,6 +80465,7 @@ ssyncdapps.netlify.app
 st-immobilien-mannheim.de
 st-mettmask.com
 st-solaix.com
+st.betiutima.online
 st.localbitcoin.review
 sta-atla-coin.tech
 stable-algorithm.com
