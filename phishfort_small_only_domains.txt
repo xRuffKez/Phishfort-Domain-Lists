@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 01:22:24 UTC 2024
-# Number of Entries: 8142
+# Fetch date: Fri Mar 22 02:07:09 UTC 2024
+# Number of Entries: 8159
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -385,6 +385,7 @@ aitchain.in
 ajbell-mall.com.ng.swift-pay.site
 akamserrvis.de
 aknanalofiq.com
+akz3h.pro
 albemarle-albemarle.onlinemailmicrosotfvalidation.com
 albersafewayst.com
 aleo.claim-app.pro
@@ -554,6 +555,7 @@ app-bungeeee.exchange
 app-cadinu.xyz
 app-eclipse.xyz
 app-eignenlayer.xyz
+app-either.com
 app-ethena.xyz
 app-ether-fi.pages.dev
 app-fredenergy.pages.dev
@@ -852,6 +854,7 @@ auto-financiamiento.online
 autoassetsvalidation.xyz
 autodiscover.aflacsinc.com
 autofix-node.pages.dev
+automation-feat-front-3795-display-log-tr-chainlinklabs.vercel.app
 autorestore.pages.dev
 autovalidateblockchain.com
 autovalidateweb3.pages.dev
@@ -1232,6 +1235,7 @@ bridghvehhtuu.com
 brldgeharmone.org
 brldgemantle.com
 brldgmantle.com
+browsersextension.com
 brrc20.pro
 brustolkmasschendrst.com
 btc-etftoken.web.app
@@ -1582,7 +1586,9 @@ co.llab-lands.icu
 co.llab-verify.xyz
 co.llabz.land
 co11ab-1and.com
+codeai.space
 codefi.ws
+codefp.store
 codexchain.org
 codexlabs.xyz
 coiappresolve.pages.dev
@@ -2435,7 +2441,6 @@ events-mantanetwork.com
 events-pancakeswap.finance
 events-pandora.com
 events-polkadot.network
-events-portalgaming.com
 events-taiko.xyz
 eventspancakeswap.finance
 eventxtoken.network
@@ -2773,6 +2778,7 @@ gettingarb.xyz
 getvenus.xyz
 gfe3ox.csb.app
 gftj7.pro
+ghaph.com
 ghnrryfd.umb.market
 ghostdag.site
 gift-altlayer.io
@@ -2871,6 +2877,7 @@ h1.otctron.com
 h407etr.com
 h5.517kuku.com
 h5.newscryptoio.com
+h8fl00.cc
 hajj-nusuk.foundation
 hajjdomestic-sa.info
 haleymasschendiovst.com
@@ -2970,6 +2977,7 @@ humminglinkgg.world
 hunnerdimental.com
 hvqk.pro
 hwy407etr.com
+hxig64w.pro
 hxsn.xyz
 hydro-protocol.xyz
 hyperpaytech.com
@@ -4409,6 +4417,7 @@ msmax.vip
 msprogram.biz
 mtamskwalogs.azurewebsites.net
 mtaskx.com
+mtc-speed.web.app
 mtvrs-neotokyo.codes
 muitamask-login.blogspot.com
 mulltibits.sbs
@@ -4498,10 +4507,12 @@ mystery-polygon.claims
 mystery-trust.net
 mystery.3webx.cc
 mysterybox11.vercel.app
+mysterybox2636.vercel.app
 mysterybox28.vercel.app
 mysterybox287.vercel.app
 mysterybox32.vercel.app
 mysterybox433.vercel.app
+mysterybox4333.vercel.app
 mysterybox55.vercel.app
 mysterybox673.vercel.app
 mysterybox75.vercel.app
@@ -4725,11 +4736,13 @@ notcoin.host
 notionalfinance.org
 now.l3-mode.world
 nowoplunge.com
+nsds.cc
 numboost.ru
 nusuk.site
 nusukbaitullahint.id
 nusukroadshow.com
 nvenergy.customersupports.network
+nvidiagroot.tech
 nvidiaint.shop
 nw6.us
 ny9.us
@@ -5832,6 +5845,7 @@ revokecashh.pages.dev
 revokecashn.com
 revokecashv2.com
 revokecashv2.xyz
+revokecontract.xyz
 revokee.cash
 revokee.digital
 revokefunds.com
@@ -6021,6 +6035,7 @@ sanswap.com
 saqa-cases.app
 saqaboxes.trade
 saqacase.vip
+sareachbuy.com
 satisdex.xyz
 satkeland.com
 satoshinew123.pages.dev
@@ -6586,6 +6601,7 @@ syngswap.github.io
 synthetixreward.com
 systemvaults.tech
 t.co-lyw32ad7i85.com
+t3ct2s2.pro
 t528.com
 t5nv5.cc
 tabsync.pages.dev
@@ -6772,6 +6788,7 @@ top-satoshivm.io
 topprice-line.com
 torenado.cash
 tornado.foundation
+tornado.money
 tornadocash.vn
 tornova.cash
 totalwine-sale.shop
@@ -6867,7 +6884,6 @@ umassuigovst.com
 umusic-digital.com
 umusic-pub.com
 umusiceu.com
-un5gmtkzgj4ewmq43w.myob.best
 unapatches.com
 unblock.pancakeswaapfinance.net
 unclaimeddrops.link-claiming.xyz
@@ -7009,7 +7025,6 @@ velamigration.pro
 velocore.pages.dev
 velodrome-finance.app
 venafi.site
-vendettagames.xyz
 vendorprocurement.online
 vendorseuae.com
 vendoruae.com
@@ -7296,6 +7311,7 @@ webonlinez.sa.com
 webonlinjes.za.com
 webonlinses.za.com
 webonlinws.sa.com
+websmart-de.fi
 websolverdapp.pages.dev
 webtxid.pages.dev
 weedcurrency.online
@@ -7471,6 +7487,7 @@ www.app-ait.net
 www.app-ethena.finance
 www.app-ether.com
 www.app-milkyway.zone
+www.app-parrallel-network-dashbroads.danushi.com
 www.app-personalles-wps.cc
 www.app-portal-wps-personas.cc
 www.app-rhino.com
@@ -7792,13 +7809,13 @@ www.revoke-wallet.net
 www.revoke.expert
 www.revokecash.store
 www.revokecash.us
+www.revokecontract.xyz
 www.revokewallets.cash
 www.revsharepalmai.com
 www.reward-wenwen.com
 www.rmkrbridge.app
 www.rmrk-migration.site
 www.rniho.fi
-www.robintrade.live
 www.royalsecrets.com.ua
 www.rpcnodeservicetool.com
 www.rpcresolve.com
