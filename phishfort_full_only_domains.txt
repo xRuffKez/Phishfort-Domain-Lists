@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 00:05:07 UTC 2024
-# Number of Entries: 106982
+# Fetch date: Fri Mar 22 01:21:47 UTC 2024
+# Number of Entries: 106983
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -42512,6 +42512,7 @@ launchpad.seedify.stg.dev
 launchpad.seedify.usa.museum
 launchpad.seedify.zapto.xyz
 launchpad.seidify.fund
+launchpad.solhero.org
 launchpad.staking-ethereum2.org
 launchpad.staking114309-ethereum.org
 launchpad.staking114388-ethereum.org
@@ -84544,7 +84545,6 @@ thepepe20.com
 thepicaroons.xyz
 theplague.the-premint.xyz
 theplague.wpnfts.com
-theplasmacenter.info
 thepokerpro.web3fast.net
 thepolkadot.io
 thepolkadot.online
@@ -100439,6 +100439,7 @@ www.opeautmint.live
 www.open-kub.ml
 www.open-seed.live
 www.openbookgui.com
+www.openbookmarket.space
 www.openceean-app.buzz
 www.openconnseanft.io
 www.opendao-fi.com
