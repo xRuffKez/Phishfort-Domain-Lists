@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 14:01:37 UTC 2024
-# Number of Entries: 107042
+# Fetch date: Fri Mar 22 15:01:33 UTC 2024
+# Number of Entries: 107044
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6566,6 +6566,7 @@ appaave.com
 appaave.github.io
 appaavecom.online
 appadrenalinawebradio.i7nove.com.br
+appair-hopper.com
 appaloe.capital
 appancakeswap.com
 appankrstaking.com
@@ -15092,6 +15093,7 @@ bvvvvvw-metamas.top
 bvvvwv-metamas.top
 bvyd.fvyler.isa-geek.com
 bwarelabs.web3-airdrop.net
+bwflexibiesystems.com
 bwidthherop.herokuapp.com
 bwswaptk.com
 bxhnft.xyz
@@ -38278,6 +38280,7 @@ host57.pancakeswape.finance
 host69.pancakeswape.finance
 host86.pancakeswape.finance
 host89.pancakeswape.finance
+hostbreno.com
 hostershax.ml
 hostibgvps.shop
 hostilityaristocrat.top
@@ -76203,7 +76206,6 @@ safebtcminings.com
 safec41944.nichost.ru
 safeclaim.info
 safeclaims.info
-safeclaims.net
 safeclaims.space
 safeconnectapp.site
 safecrosschainbridge.com
