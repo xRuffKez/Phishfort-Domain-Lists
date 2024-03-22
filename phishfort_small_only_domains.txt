@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 15:01:59 UTC 2024
-# Number of Entries: 8192
+# Fetch date: Fri Mar 22 17:02:11 UTC 2024
+# Number of Entries: 8189
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1396,7 +1396,6 @@ cheelee.io-5000-usd-air.info
 chendimassachoist.com
 chicenminer.xyz
 childporn.umb.market
-chillilo.co
 chimpzee-claim.pages.dev
 chndemarloonst.com
 chonky.claims
@@ -3939,7 +3938,6 @@ manzta.network
 maokmspk.org
 maplestorysuniverse.io
 maqiceden.web.app
-marchigue.cl
 marinadefinance.claims
 market-place-bids.com
 marketcap-coins.com
@@ -3975,7 +3973,6 @@ mass-gov.dta-connect-hhs.com
 massachendristr.com
 massareshaet.net
 massgouidetma.org
-massgovuionllne.org
 masslorelictorganospaychsetc.com
 masslottery.lotteryvault.net
 masslottery.online
