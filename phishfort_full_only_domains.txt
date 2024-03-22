@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 11:01:57 UTC 2024
+# Fetch date: Fri Mar 22 12:02:01 UTC 2024
 # Number of Entries: 107034
 # Expires: 1 hour
 0-metemask.com
@@ -47196,6 +47196,7 @@ manbta.network
 manda-network.com
 mandatescheme.com
 mandatory-multi-factor-authenticator.us-ord-1.linodeobjects.com
+mandg-underwriters-archive.treepl.co
 mandgertyuh.sbs
 mandginvestmentlimited.com
 mandginvestments.org
@@ -62856,7 +62857,6 @@ paceline.info
 pacemaker.nft-premint.com
 pacemakernft.com
 pacerealestatevt.com
-pacexel.com
 pacific-bridge-manta-network.cyou
 pacific-bridge-manta.cyou
 pacific-bridge.manta.nework.live
