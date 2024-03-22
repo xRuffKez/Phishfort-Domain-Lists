@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 16:02:46 UTC 2024
+# Fetch date: Fri Mar 22 17:01:37 UTC 2024
 # Number of Entries: 107044
 # Expires: 1 hour
 0-metemask.com
