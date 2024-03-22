@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 14:02:15 UTC 2024
-# Number of Entries: 8189
+# Fetch date: Fri Mar 22 15:01:59 UTC 2024
+# Number of Entries: 8192
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -665,6 +665,7 @@ app.xn--1nch-qpa.io
 app.zenomedequipment.com
 app.zkdxio.xyz
 app.zkeztrade.com
+appair-hopper.com
 appaloe.capital
 apparrakis.finance
 appbalancer.finance
@@ -1269,6 +1270,7 @@ buzz-bsquared.store
 buzz.bsquareed.online
 bvrefe.pages.dev
 bvuvs.info
+bwflexibiesystems.com
 bybit-gift.space
 bytedog.pro
 c.qztaiwei.com
@@ -2975,6 +2977,7 @@ homeoptivermobile12.com
 hopexchange.top
 hopper-rating.com
 hopper.travsrv.com
+hostbreno.com
 hostilityaristocrat.top
 housexysounds.com
 hpths777inu.org
