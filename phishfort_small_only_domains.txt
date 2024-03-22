@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 22:02:03 UTC 2024
-# Number of Entries: 8188
+# Fetch date: Fri Mar 22 23:02:28 UTC 2024
+# Number of Entries: 8182
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2608,7 +2608,6 @@ fox-club.xyz
 fox-dao.web.app
 fr-worldcoin.web.app
 fragnantinglev.life
-frame-xyz.events
 frame-xyz.gift
 frame.markets
 frame.money
@@ -2695,7 +2694,6 @@ galxxe.github.io
 game-mavia.pages.dev
 game.wormscommunity.com
 gamee-snapshots.vercel.app
-gamefivip.beauty
 gamemetalist.com
 gamemetalists.com
 games-gala-xx.com
@@ -5310,7 +5308,6 @@ phoentexai.netlify.app
 phone.tkd
 phountom.xyz
 phrasedataprotect.com
-phtm-distribution.co
 phtm-distribution.com
 phtm.app
 phtms.app
@@ -5398,7 +5395,6 @@ portel-bridg.com
 portelbrldge.org
 portfolio-mask-mask-master-dedi285032.codeanyapp.com
 portfolio-metamask-io.org
-portfolio-metamask.app
 portfolio-my-backyp.com
 portfolio-my-metas.com
 portfolio-my-walletzz.com
@@ -6027,7 +6023,6 @@ saiyansdrop.com
 saks5.store
 saksoff.sakskoesad.com
 saksoff5th.love
-saksoff5th.store
 saksoff5thboool.top
 saksoff5thf.com
 saksoff5thkppltpj.com
@@ -6232,6 +6227,7 @@ signups-pixels.com
 signups-trias.org
 siiiydragons.com
 siillydragon.io
+silent-arie.com
 silver-monstera-c958a3.netlify.app
 simplenow.xyz
 simplepairingapp.com
@@ -7623,7 +7619,6 @@ www.ethrmarketplace.com
 www.event-metis.io
 www.event-xai.games
 www.evm-monad.xyz
-www.evoypremium.com.br
 www.faq-legal.com
 www.fastmining.pro
 www.fegtokenmigrate.com
@@ -8031,7 +8026,6 @@ xpubweb-rectify.pages.dev
 xr7j5v.pro
 xrp-drop.web.app
 xrp.excopad.top
-xrpcold.com
 xrpepeofficial.com
 xrplairdrop.sistema.edu.pe
 xrplimited-bonus.net
