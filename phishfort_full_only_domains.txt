@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 02:06:47 UTC 2024
-# Number of Entries: 107004
+# Fetch date: Fri Mar 22 03:01:57 UTC 2024
+# Number of Entries: 107024
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1427,6 +1427,7 @@
 64d83c039f906a53db8c2cc0--sparkly-biscuit-4aa1af.netlify.app
 64ff9af3d0af9f75486bc9d0--effulgent-baklava-190579.netlify.app
 6529nft.com
+6582a324d461b10392e58564--resonant-crumble-667584.netlify.app
 65c929ede29cb759e486af81--rainbow-choux-6218fe.netlify.app
 65e4v.schoolmacsupport.com
 6602c412-67f3-4725-92eb-5c2ebb2c6166.htmlpasta.com
@@ -14581,6 +14582,7 @@ bssccscan.com
 bssccsscan.com
 bssccsscann.com
 bsscscan.us
+bssmt.pro
 bst-dexw3.com
 bsvprice.com
 bsvprice.org
@@ -19459,6 +19461,7 @@ cojnbase.com
 cokbozganry.site
 cokinnmarketcap.us
 cokkalitem.site
+col.lobs.land
 col1ab.land
 cola-pepsi.com
 colab-land-secure.github.io
@@ -30566,6 +30569,7 @@ etherewallet.org
 etherfast.eu
 etherfaucet.tech
 etherfi-airdrop.com
+etherfi.digital
 etherfi.finance
 etherfi.one
 etherflyer.com.claim-tokens-erc-20.com
@@ -33491,6 +33495,7 @@ flokbaby.it
 floki-air.com
 floki-air.live
 floki-airdrop.vip
+floki-claim.net.qqhosting3.com
 floki-claim.vercel.app
 floki-community.com
 floki-drop.world
@@ -33524,6 +33529,7 @@ flokidrop.space
 flokielon-giveaway.com
 flokievent.netlify.app
 flokifam-promogive.com
+flokifii.com
 flokigiving.com
 flokii.xyz
 flokiinu-drop.pro
@@ -33847,6 +33853,7 @@ foursneasons.com
 foutrernis.com
 fovbit.com
 fowelcorrect.org
+fox-club.xyz
 fox-dao.web.app
 fox-inu.online
 fox-inu.site
@@ -35417,6 +35424,7 @@ genesis.dymansion.xyz
 genesis.dymensjon.xyz
 genesis.dymenstion.xyz
 genesis.dynmension.xyz
+genesis.puffsthedragon.xyz
 genesisapiens.xyz
 genesisblockapp.com
 genesisbox-doodles.app
@@ -46652,6 +46660,7 @@ mail.vipindodax.com
 mail.vsecurity-paxful.com
 mail.wallet-trezor.io
 mail.walletconnectnetworks.online
+mail.walletsdapp.com
 mail.wallstmemes-world.com
 mail.web3-airdrop.net
 mail.xn--pncakeswap-3gb.com
@@ -50807,6 +50816,7 @@ metamaskbsc.live
 metamaskbtc.monster
 metamaskc.cc
 metamaskc.com
+metamaskc.org
 metamaskc.top
 metamaskcan.xyz
 metamaskcanadawall.diskstation.eu
@@ -51612,6 +51622,7 @@ metamskmask-loggixn.godaddysites.com
 metamskswap.com
 metamsoft.tech
 metamsssk_waaalllat.godaddysites.com
+metamuaskingghlohgin.godaddysites.com
 metamusk.app-wallets.ml
 metamusk.art
 metamusk.club
@@ -60067,6 +60078,7 @@ nodesverification.net
 nodesyieldrobot.app
 nodesyieldrobot.com
 nodesync.live
+nodesync.vercel.app
 nodesyncdev.site
 nodesynconect.com
 nodetooldev.online
@@ -73955,6 +73967,7 @@ refund-agoda.com
 refund-alchemix.com
 refund-bitgert.net
 refund-eth.com
+refund-ethereum.org
 refund-multichain.com
 refund-multichain.net
 refund-othersidemeta.xyz
@@ -74056,6 +74069,7 @@ register-satoshivm.com
 register-scroll.com
 register-scroll.org
 register-smartlayer.network
+register-snap.com
 register-solanamobile.com
 register-starknet-io.com
 register-starknet.com
@@ -82330,8 +82344,10 @@ swap-cow.com
 swap-cow.site
 swap-curve-fi.pw
 swap-defilama.com
+swap-dev-git-fix-wc2-cowswap.vercel.app
 swap-dex.dexkit.app
 swap-frontend.pages.dev
+swap-jupiter.com
 swap-kiwi.ml
 swap-metamask.com
 swap-moon.com
@@ -100455,6 +100471,7 @@ www.onlinepncq.com
 www.onlinevalldator.com
 www.onlydapps.online
 www.onstake.online
+www.opbnb-friend3.xyz
 www.opeautmint.live
 www.open-kub.ml
 www.open-seed.live
@@ -102523,6 +102540,7 @@ www.trezor-suit.live
 www.tricurvefi.com
 www.tridentmarket.io
 www.trinityhealthcarebrookline.com
+www.triplewealthbuilders.com
 www.tripocost.com
 www.trippinsapetribe.xyz
 www.trippybeasts.com
@@ -104172,6 +104190,7 @@ xn--fxedfiloat-xub.com
 xn--fxedflaot-g5a.com
 xn--fxedflaot-g5a.org
 xn--fxedflaot-vpb.net
+xn--fxedflaot-vpbc.com
 xn--fxedflaots-68a.com
 xn--fxedflaots-k8a.com
 xn--fxedflcoat-68a.com
@@ -106907,6 +106926,7 @@ zkvsynk.com
 zkwallet.space
 zkyhomsync.com
 zkysync.xyz
+zmkl.systems
 zmy7ohll.zhzhongcheng.com
 zn--trezr-mua.com
 znbqks.s3o98.com
