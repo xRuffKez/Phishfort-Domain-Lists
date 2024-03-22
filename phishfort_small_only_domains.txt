@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 18:02:31 UTC 2024
-# Number of Entries: 8189
+# Fetch date: Fri Mar 22 19:02:07 UTC 2024
+# Number of Entries: 8186
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1307,7 +1307,6 @@ camel-e8m.pages.dev
 camelot.exchange.pe
 camelot.magpiexyz.io.wallet-connect.site
 camelot.magpiexyz.io.web-3.li
-camshowsrecorded.com
 cancelar-ahorat.webcindario.com
 cancelar1-cambio.webcindario.com
 cancelar5-cambio.webcindario.com
@@ -1325,6 +1324,7 @@ carvnprotocol.com
 cases-blockfi.com
 cases-stretto-com.net
 caspers.network
+catworlo.com
 caw.gift
 cbfeb953b53417d5.net
 cbgyf.pages.dev
@@ -2043,6 +2043,7 @@ degen-claim.netlify.app
 degods-wormhole.com
 deillama.top
 delmetamask.onrender.com
+demarkoizi.com
 demarkoizi.org
 demension.life
 demo9969.infinityfreeapp.com
@@ -2453,7 +2454,6 @@ eventspancakeswap.finance
 eventxtoken.network
 evercoreassets.com
 evercorecapitalgroup.com
-evercorefinance.com
 evernode-airdrop.com
 everyconnects.com
 evm-monad.xyz
@@ -4716,7 +4716,6 @@ nibirun-web3.com
 nibiruprojectdrop.xyz
 nibiry-app.top
 niburufi-registers-verify.vercel.app
-nisaconert.top
 njmvdu.pro
 nkbihfbeogaeaoehlefnkodbefgpgknn.metamaskk.skyhighfirstclass.com.ng
 nkjs0.ru.com
@@ -6085,7 +6084,6 @@ scallop-airdrop-claim.com
 scansairdrops.ca
 scapemania.live
 scapemania.sale
-scburnet.okta.acmecorp.name
 scholarfundhub.com
 scjdwb.cfd
 sconectsmartplusoficial.store
@@ -7371,7 +7369,6 @@ wenwendrop.com
 wenwenofficial.com
 wepad.web3mirror.io
 wer34.pages.dev
-wessxcrz.online
 west-braves.info
 westrock-workwear.nl
 whalesmarket.org
