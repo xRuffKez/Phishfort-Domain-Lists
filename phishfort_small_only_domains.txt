@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 02:07:09 UTC 2024
-# Number of Entries: 8159
+# Fetch date: Fri Mar 22 03:02:37 UTC 2024
+# Number of Entries: 8179
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -105,6 +105,7 @@
 6-chess.online
 63352955.b1b41177a5690aba217097d9.workers.dev
 63f3ed5a-a189-4792-b3ea-26687f69c894-00-p4dnzcb1f2va.riker.replit.dev
+6582a324d461b10392e58564--resonant-crumble-667584.netlify.app
 65c929ede29cb759e486af81--rainbow-choux-6218fe.netlify.app
 685463.sa.com
 68pw3690.pw
@@ -1238,6 +1239,7 @@ brldgmantle.com
 browsersextension.com
 brrc20.pro
 brustolkmasschendrst.com
+bssmt.pro
 btc-etftoken.web.app
 btcetf-token.net
 btcetftoken.launch-pad.site
@@ -1629,6 +1631,7 @@ cointiger-airdrop.com
 cointiply-claim.com
 coinversenetwork.site
 coinzgroup.org
+col.lobs.land
 colabland.bond
 colabllandsyncapp.com
 colabllandsyncapps.com
@@ -2389,6 +2392,7 @@ ethereumorg.com
 ethereumx.cc
 ethereumxfee.com
 etherfi-airdrop.com
+etherfi.digital
 etherfi.finance
 etherfi.one
 ethergas.eu
@@ -2555,6 +2559,7 @@ flashdigi.site
 flightreservations.xyz
 floadfixed.com
 float-fixed.com
+floki-claim.net.qqhosting3.com
 floki-claim.vercel.app
 floki-tokens.net
 floki.promo
@@ -2564,6 +2569,7 @@ flokiairdrop.top
 flokibox.vip
 flokicoinairdrop.com
 flokievent.netlify.app
+flokifii.com
 flokii.xyz
 flowerand7.xyz
 fluffy-hotteok-b5b58b.netlify.app
@@ -2591,6 +2597,7 @@ formulir.site
 fortanetwork.eu
 fortewebklap.pages.dev
 foundarb.xyz
+fox-club.xyz
 fox-dao.web.app
 fr-worldcoin.web.app
 fragnantinglev.life
@@ -2725,6 +2732,7 @@ genesis.dymansion.xyz
 genesis.dymensjon.xyz
 genesis.dymenstion.xyz
 genesis.dynmension.xyz
+genesis.puffsthedragon.xyz
 genesisdems.com
 genesisdimension.xyz
 genesisdymension.com
@@ -3686,6 +3694,7 @@ mail.panckswap.com
 mail.pepegift.lol
 mail.revokewallets.cash
 mail.swapsnet.com
+mail.walletsdapp.com
 mail.xn--pncakeswap-3gb.com
 mail046.mlsend.com
 mailclaimdmail.xyz
@@ -4153,6 +4162,7 @@ metamaskapp-kyc-auth24.com
 metamaskapp.space
 metamaskarb.com
 metamaskb.icu
+metamaskc.org
 metamaskclaim.io
 metamaskclaims.io
 metamaskclaimtoken.com
@@ -4196,6 +4206,7 @@ metamsak-update-secure-info.netlify.app
 metamsk.org
 metamskaskse.azurewebsites.net
 metamsklogin.blogspot.com
+metamuaskingghlohgin.godaddysites.com
 metanask-kyc.com
 metapass.fyi
 metarestore.vercel.app
@@ -4716,6 +4727,7 @@ noderesolver.io
 noderevive.com
 nodeschain.net
 nodesrectification.com
+nodesync.vercel.app
 nodevalidation.pages.dev
 nolaisadog.com
 nolbody.com
@@ -5698,6 +5710,7 @@ reewelprotocol.com
 reference.mypsx.net
 refreshingsiqnaccoount.com
 refund-agoda.com
+refund-ethereum.org
 refund.shidoprotocols.com
 refund.wallstretmemes.app
 reg-dym.xyz
@@ -5723,6 +5736,7 @@ register-qubic.org
 register-rabby.io
 register-satoshivm.com
 register-smartlayer.network
+register-snap.com
 register-solanamobile.com
 register-syncus.com
 register-traderjoexyz.com
@@ -6534,6 +6548,8 @@ swanchain-register-opennow.vercel.app
 swanchain.vercel.app
 swancrypto.net
 swap-defilama.com
+swap-dev-git-fix-wc2-cowswap.vercel.app
+swap-jupiter.com
 swap-nft.pages.dev
 swap-raydium.io
 swap-revoke.cash
@@ -7744,6 +7760,7 @@ www.norwegianlife.net
 www.notkem.com
 www.o2-login.info
 www.ondo-finance.info
+www.opbnb-friend3.xyz
 www.openbookgui.com
 www.openbookmarket.space
 www.openlab.live
@@ -7868,6 +7885,7 @@ www.tiktokmall-th.com
 www.toshithecat.org
 www.tpadv2.dev
 www.travellucky.cc
+www.triplewealthbuilders.com
 www.trustwalletdefi.icu
 www.unimlp.com
 www.unitedaircareers.com
@@ -7975,6 +7993,7 @@ xn--fxadfloat-vpb.com
 xn--fxdlfloat-c4a6b.com
 xn--fxedfiloat-xub.com
 xn--fxedflaot-vpb.net
+xn--fxedflaot-vpbc.com
 xn--fxedflaots-68a.com
 xn--fxedflaots-k8a.com
 xn--fxedflcoat-68a.com
@@ -8151,6 +8170,7 @@ zksync2024.com
 zksyncera.app
 zksynoc.github.io
 zksynq.github.io
+zmkl.systems
 zombiekilla.xyz
 zonaconsorcioempresa.online
 zookeeper.bountyprogram.tech
