@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 04:02:12 UTC 2024
-# Number of Entries: 8181
+# Fetch date: Fri Mar 22 05:02:11 UTC 2024
+# Number of Entries: 8186
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1425,6 +1425,7 @@ clailmreward.xyz
 claim-1inch.org
 claim-argent.xyz
 claim-artlayers.vercel.app
+claim-bigeyes.network
 claim-binance.net
 claim-blast-io.com
 claim-blastgg.xlaunch-pad.xyz
@@ -2361,6 +2362,7 @@ epriceshop02.cc
 equinor-ind.net
 eransdrop.eu
 erc-wintermute.org
+erdefimining.com
 ericaleite.com
 ernfi.xyz
 errorsync.pages.dev
@@ -2916,6 +2918,7 @@ healthequity.live
 healthequity.za.com
 heatherleelarioni.me
 heatocrazed.com
+heavensgate.dog
 heddies.vercel.app
 hekaderiadssfresacrema.angelj2816.repl.co
 helio-money.cyou
@@ -5003,6 +5006,7 @@ pancakedrop.com
 pancakeeswap.com
 pancakeeswap.finance
 pancakefiance.org
+pancakefx.vercel.app
 pancakelp.org
 pancakelps.org
 pancakeprotectors.pages.dev
@@ -6576,6 +6580,7 @@ swiftathblocks.pages.dev
 swiftdapppad.pages.dev
 swiftdapprotocol.pages.dev
 swiftdappweb.pages.dev
+swiftmultichainresolve.pages.dev
 swiftnodesresolve.pages.dev
 swiftsynced.pages.dev
 swiftsyncrectify.pages.dev
