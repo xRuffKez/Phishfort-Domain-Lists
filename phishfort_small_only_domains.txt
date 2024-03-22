@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 00:07:19 UTC 2024
-# Number of Entries: 8173
+# Fetch date: Fri Mar 22 01:22:24 UTC 2024
+# Number of Entries: 8142
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -168,21 +168,16 @@ acefusionist.network
 achieflocker.com
 achieve-altlayer.io
 achieve-altlayer.pages.dev
-acleverblitz.com
-acompletesecrets.com
 acrosss-bridge.xyz
 active-supp-ort-meta.netlify.app
-adailypath.com
 admin.booking-login.com
 admincoinbase.the123456789.com
 adpunily.azurewebsites.net
 adslauncher.eu
 advancelobstarhifi.pages.dev
-aenchantedcamp.com
 aerodrom.flnance.web3-l2.cfd
 aethergaming.store
 aevoxyz.live
-aexpertlover.com
 affiliateagoda.com
 aflac-hr.com
 aflac.socialports.com
@@ -389,7 +384,6 @@ airusd.xyz
 aitchain.in
 ajbell-mall.com.ng.swift-pay.site
 akamserrvis.de
-akeydistrict.com
 aknanalofiq.com
 albemarle-albemarle.onlinemailmicrosotfvalidation.com
 albersafewayst.com
@@ -397,7 +391,6 @@ aleo.claim-app.pro
 algogold.com
 alienform-migrate.pro
 alienswape.shop
-alighttricks.com
 all-support.pages.dev
 all-supports.pages.dev
 allenanna.com
@@ -791,7 +784,6 @@ arkhamintelligence.gift
 arkm.air-trastpad.top
 arkm.t-wallets.top
 armadorasanluis.com
-arockstarnightmare.com
 arolielshc.com
 arraklls.flnance.web3-ap.cfd
 art-ross.io
@@ -1191,7 +1183,6 @@ bonuses-defi.network
 bonuses-manta.network
 bookaflightwithunitedairlines.statuspage.io
 booking.ro-plato.online
-boomboompromos.com
 boomlandgames.netlify.app
 booster-manta.network
 bootoken.vip
@@ -1554,7 +1545,6 @@ claimwif.com
 clanostreet.com
 clarkcorstruction.com
 clarkgroup-us.co
-classicsanctuary.com
 cldss.xyz
 clearanceshops.top
 clestia.org
@@ -2170,7 +2160,6 @@ dpsyncresolve.netlify.app
 drac24.ethdrop.xyz
 drake-bonus.pro
 drakosol.com
-dreamotrust.com
 drili.me
 drip-networkcommunity.org
 drive-document-file-2024.github.io
@@ -2484,8 +2473,6 @@ f89badf5.7acd740c665c9b25ec20d877.workers.dev
 f930fi.info
 facet-swap.com
 factsync.pages.dev
-fallsupplydrop.com
-familygraduation.com
 familylink-oracle.com
 familysavingamerica.pro
 fanciful-cat-81da50.netlify.app
@@ -2503,7 +2490,6 @@ fastdevmigrathaslite.pro
 fastdevmigrathxqnzv.pro
 fatehelpsthebrave.com
 faucetsankoscan.io
-favoriteocircus.com
 fcstone.dsar.privally.io
 fcstonekr.pro
 fcstonekr.xyz
@@ -2888,7 +2874,6 @@ h5.newscryptoio.com
 hajj-nusuk.foundation
 hajjdomestic-sa.info
 haleymasschendiovst.com
-halfunionmother.com
 halo-defi.web.app
 halo-portfolio.web.app
 halo-tracking.web.app
@@ -2940,7 +2925,6 @@ hold-manta.network
 holder-check.web.app
 holder-nexo.com
 holding-coins.web.app
-holesupplysignal.com
 holtec-international.ltd
 home-aave.net
 home-ocean.net
@@ -3402,6 +3386,7 @@ launchpad-sharpnel.com
 launchpad-starknet.top
 launchpad.register-trias.one
 launchpad.seedify.link
+launchpad.solhero.org
 launchpadangle.net
 launchpaddapp.eu
 launchpads-opti.com
@@ -3448,7 +3433,6 @@ lbpacces.xyz
 lcfmusb.cc
 ldofi-promos.com
 leadpeopleright.com
-leafdreamhomes.com
 leakhub.io
 learcorporativo.com
 learn-unibot.app
@@ -3469,7 +3453,6 @@ ledgers.support
 ledsgerwallet.com
 legder-live.app-web3.com.co
 legder.live-app.com.co
-legendemill.com
 leisureglob.com
 lenanet.work
 lending-tree-month-1-d12f2.web.app
@@ -3655,7 +3638,6 @@ m.open-pandora.app
 m.shrininow.com
 m.teck-invest.com
 m.v3derivatives.site
-macysdiscount.store
 mad-lads.com
 madnessoholy.com
 maekrdao.com
@@ -3669,7 +3651,6 @@ magic-square.info
 magic-square.org
 magiceden-rewards.netlify.app
 magicedens.space
-magicianomission.com
 magiciorewards.com
 magiclyeden.app
 magicsquare.pages.dev
@@ -3974,7 +3955,6 @@ masslottery.online
 massonline.mprofile.org
 massposos.com
 master-brain.com
-mastersrewind.com
 matemank.io
 matemask.cc
 matemaske.com
@@ -5304,7 +5284,6 @@ phumtoewallat.godaddysites.com
 pichainmall.com.ng
 pinkbird.fail
 pinksale-app.com
-pioneernerd.com
 pipsyl.top
 pixals.xyz
 pixel-lands.com
@@ -5334,7 +5313,6 @@ play-pixelsapp.xyz
 playbux.info
 playbuxdrop.xyz
 playember-57a.pages.dev
-playmartbefore.com
 playpixles.com
 playzkasino.net
 plgeubet.com
@@ -5345,7 +5323,6 @@ pmthakkarassociates.com
 pncakeswap.com
 pntom-wallet.github.io
 pogbl.top
-pointosleek.com
 poiygon.com
 poiyhedra.net
 pokarswaps.space
@@ -5580,7 +5557,6 @@ quests-zora.network
 quests-zora.trading
 queuedappsync.pages.dev
 quickdirectoryfilchart.pages.dev
-quickfiend.com
 quickswap-exchange.gifts
 quickswap-io.events
 quickswapio.news
@@ -5926,8 +5902,6 @@ rhhrpka.pro
 rhinodao.app
 rhodium.live
 riboutlaw.top
-righteousforever.com
-righteousoforever.com
 ripplelimited-ceo.com
 ripplelimited-event.info
 ritual-registers-livebetaopens.vercel.app
@@ -6014,7 +5988,6 @@ saitachain-migration.pages.dev
 saitama.gift
 saitapro.vercel.app
 saiyansdrop.com
-saks.boutique
 saks5.store
 saksoff.sakskoesad.com
 saksoff5th.love
@@ -6036,7 +6009,6 @@ sale.metcoinpublic.xyz
 sale.sonikapp.live
 sales.btcbscio.network
 sallybolderson.com
-salmonjourneys.com
 sample.ecsa.com
 sampx8y.info
 samurai-award.info
@@ -6264,7 +6236,6 @@ smartauthrectify.pages.dev
 smartautodebuglive.firebaseapp.com
 smartautodebuglive.web.app
 smartbaseverse.pro
-smartcityreport.com
 smartdappconnect.com
 smartdappfix.pages.dev
 smartdappnodes.pages.dev
@@ -6696,9 +6667,7 @@ theemiriatesgroupuae.com
 theemriatesgroup.online
 themask.claims
 themodenetwork.com
-theoportal.com
 thepepe20.com
-theplasmacenter.info
 thesolmirage.rxi.app
 thesolutionscenter.info
 theta-date.com
@@ -7091,7 +7060,6 @@ vietnamtiktok.com
 vietnamtiktok.shop
 view.wormmap.xyz
 vikingglobal.linejoinus.com
-villageorockstar.com
 viplatii.online
 virginmoneynetwork.com
 virtua.gift
@@ -7760,6 +7728,7 @@ www.notkem.com
 www.o2-login.info
 www.ondo-finance.info
 www.openbookgui.com
+www.openbookmarket.space
 www.openlab.live
 www.openseaclaimdropbox.com
 www.optbtcv.com
