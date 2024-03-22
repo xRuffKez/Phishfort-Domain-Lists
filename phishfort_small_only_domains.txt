@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 22 05:02:11 UTC 2024
+# Fetch date: Fri Mar 22 06:02:29 UTC 2024
 # Number of Entries: 8186
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -820,7 +820,6 @@ asxcoinco.com
 asxmx.cc
 asxstockexchange.com
 atariku.site
-atexchange.tech
 atf.mkwk.one
 atlaeyer-stake.top
 atlaeyer-staker.top
@@ -4145,6 +4144,7 @@ metamask.2fareset.com
 metamask.baby
 metamask.balances.cfd
 metamask.claims
+metamask.cool
 metamask.firsthfb.com
 metamask.grsrc.com
 metamask.i98.xyz
