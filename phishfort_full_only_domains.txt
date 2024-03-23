@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 23 19:01:30 UTC 2024
+# Fetch date: Sat Mar 23 20:01:48 UTC 2024
 # Number of Entries: 107055
 # Expires: 1 hour
 0-metemask.com
@@ -65778,7 +65778,6 @@ pancakeswapfinancefix.pages.dev
 pancakeswapfinances.com
 pancakeswapfinances.net
 pancakeswapfinances.network
-pancakeswapfinances.pages.dev
 pancakeswapfinances.site
 pancakeswapfinancin.app
 pancakeswapfinancing.com
@@ -76750,6 +76749,7 @@ scaptradings.com
 scatter-roninchain.com
 scatter-roninchain.net
 scbli.shop
+scburnet.okta.acmecorp.name
 sccir2.com
 sccunion.com
 sce-coinbase.com
@@ -84132,7 +84132,6 @@ test-exchange-pancake.pages.dev
 test-fdb-portal.nubill.com
 test-metamask.pages.dev
 test-polkadot.js.org
-test-project-llfwf7bel-artemkk787-gmailcom.vercel.app
 test.1inch.airdrop.live
 test.account.pancakeswape.finance
 test.b2b.pancakeswape.finance
@@ -87323,7 +87322,6 @@ un5gmtkzgj4ewmq43w.myob.best
 unacersawme.com
 unaisiwalplog.azurewebsites.net
 unapatches.com
-unblock.pancakeswaapfinance.net
 unblockedaccount.b0tnet.com
 unbn.online
 unboxedmetaverse.com
@@ -99133,6 +99131,7 @@ www.interdigitaldfe.com
 www.interdigitaler.com
 www.interdigitalker.com
 www.interdigitaltba.com
+www.investment-fdholdings.com
 www.invisiblefriendsmintnft.com
 www.io-explor.us
 www.io-harmonybridge.com
@@ -101827,6 +101826,7 @@ www.sber.sberbank.kwid9.app-mav.xyz
 www.sberbank.kwid9.app-mav.xyz
 www.sberbank.sber.kwid9.app-mav.xyz
 www.sbp.softechdigital.info
+www.sbtpgs.com
 www.schoolsfirst-fcu.online
 www.screenport.top
 www.scretnetwork.com
