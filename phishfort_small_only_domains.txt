@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 23 02:07:46 UTC 2024
-# Number of Entries: 8171
+# Fetch date: Sat Mar 23 03:02:27 UTC 2024
+# Number of Entries: 8173
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -940,7 +940,6 @@ batmansol.com
 battlemaneki.com
 baycarepatientportal.net
 baycarepatientportals.com
-baycx-bape.com
 bazename.lol
 bbexpro.xyz
 bbl-get.com
@@ -971,6 +970,7 @@ berachian.one
 berchian.one
 bernachain.info
 berrachain.shop
+beshealtahq.website
 bestchnage.com
 bestweightlist.com
 bet-flag.it
@@ -3944,6 +3944,7 @@ marketplacestatus.com
 marnta.network
 masa-ek1.pages.dev
 masa-finance.com
+masgouidetma.org
 mask-claim.com
 mask-metamask.io
 mask-token.claims
@@ -4393,6 +4394,7 @@ mogcoin.rewardshare.info
 molina-healthcareinc.com
 molinahealthcare-careers.com
 momentsbycandles.com
+mondoffices.com
 monerom.uk
 monerosharpversa.pages.dev
 monerotumbler.io
@@ -5479,6 +5481,7 @@ punkbits.xyz
 pushd.mainnetpro.com
 pussyfinancial.live
 pvth-network.com
+pwe-limited.com
 pwsign.com
 pwtradeco.com
 pwxskm.cfd
@@ -6249,7 +6252,6 @@ sltarkdrop.website
 smaarhtmaiigrathhe.com
 smahtconhtraact.com
 smainchain-1d1.pages.dev
-smanbi.shop
 smart-dapp.onrender.com
 smart-layer-claim.net
 smart-walletconnect.pages.dev
@@ -7667,6 +7669,7 @@ www.jutsunft.com.soillabs.app
 www.jympurexhange.org
 www.kenetix.finance
 www.kinetx.finance
+www.kmjm.shop
 www.krakenusdt.com
 www.kriya-finance.cyou
 www.kriya-finance.tech
@@ -7713,7 +7716,6 @@ www.metamask.best
 www.metamask12.pro
 www.metamask88.com
 www.metamaskaa.com
-www.metamaskai.top
 www.metamaskai.xyz
 www.metamaskcion.com
 www.metamaske.com.cn
