@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 23 09:01:39 UTC 2024
-# Number of Entries: 107051
+# Fetch date: Sat Mar 23 10:02:01 UTC 2024
+# Number of Entries: 107055
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -67051,6 +67051,7 @@ pankacesvap.com
 pankaceswap-finance.com
 pankaceswap.online
 pankaceswap.org.kz
+pankaceswap.tech
 pankaceswap.world
 pankaceswap.xyz
 pankaceswapes.finance
@@ -76439,6 +76440,7 @@ saksoff5thf.com
 saksoff5thkppltpj.com
 saksoff5thmall.com
 saksoff5thmall.top
+saksoff5thnns.com
 saksoff5thnu.com
 saksoff5tho.com
 saksoff5thonline.com
@@ -84604,6 +84606,7 @@ thepepe20.com
 thepicaroons.xyz
 theplague.the-premint.xyz
 theplague.wpnfts.com
+theplasmacenter.info
 thepokerpro.web3fast.net
 thepolkadot.io
 thepolkadot.online
@@ -90543,6 +90546,7 @@ vvchecks.live
 vvchecks.org
 vveb3-vvallete-apa.top
 vveb3-vvallete-ape.top
+vvebaply-vvall-io.top
 vvebexx.co
 vvfy.sftah.cechire.com
 vvlinksonline.top
