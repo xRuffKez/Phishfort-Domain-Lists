@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 23 02:07:21 UTC 2024
-# Number of Entries: 107046
+# Fetch date: Sat Mar 23 03:01:50 UTC 2024
+# Number of Entries: 107051
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -10925,6 +10925,7 @@ berserkinu-promogive.com
 bertask.online
 beseco.finance
 besetchange.org.ru
+beshealtahq.website
 besnmatn.site
 besrchange.ru
 besrtchange.ru
@@ -47681,6 +47682,7 @@ mascarastvx.blogspot.com
 mascfcvadr.com
 mascote.net
 mascredito.online
+masgouidetma.org
 mask-airdrop.top
 mask-airdrops.com
 mask-claim.com
@@ -53386,6 +53388,7 @@ monbeam.network
 monbirds.fun
 monday-arbitrum.com
 monder-shop.click
+mondoffices.com
 monea-scn.web.app
 monereo.ru
 monerio.ru
@@ -72616,6 +72619,7 @@ pwawallet-fantom.network
 pwawallet-fantom.online
 pwawallet-fantom.pw
 pwawallet-fantomweb.network
+pwe-limited.com
 pwrestling.com
 pwsign.com
 pwtradeco.com
@@ -99187,6 +99191,7 @@ www.klarnakundenschutz.com
 www.klesntpcsolapur.com
 www.klimadapp.com
 www.kmetamaskverification.duckdns.org
+www.kmjm.shop
 www.knox.exchange
 www.komasu.space
 www.kopgold.xyz
