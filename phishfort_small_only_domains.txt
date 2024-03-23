@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 23 09:02:13 UTC 2024
-# Number of Entries: 8173
+# Fetch date: Sat Mar 23 10:02:40 UTC 2024
+# Number of Entries: 8174
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2606,7 +2606,6 @@ fr-worldcoin.web.app
 fragnantinglev.life
 frame-xyz.gift
 frame.markets
-frame.money
 frameairchaindrops.com
 frameassetchains.com
 frameassetchains.net
@@ -5091,6 +5090,7 @@ pandosi.pro
 pandosshi.xyz
 panecakeswapv3.com
 pangolin-x.com
+pankaceswap.tech
 panoshidaapsintegration.netlify.app
 pansakecwap.xyz
 pape-coin.net
@@ -6020,6 +6020,7 @@ saksoff5th.love
 saksoff5thboool.top
 saksoff5thf.com
 saksoff5thkppltpj.com
+saksoff5thnns.com
 saksoff5thnu.com
 saksoff5tho.com
 saksoff5thw.com
@@ -6214,7 +6215,6 @@ signup-velodrome.finance
 signup-zkfair.io
 signups-apeterminal.com
 signups-befilabs.com
-signups-layerzero.com
 signups-on1force.com
 signups-pandora.build
 signups-pixels.com
@@ -6615,7 +6615,6 @@ syneoscareer.com
 syngswap.github.io
 synthetixreward.com
 systemvaults.tech
-t.co-lyw32ad7i85.com
 t3ct2s2.pro
 t528.com
 t5nv5.cc
@@ -6699,6 +6698,7 @@ theemriatesgroup.online
 themask.claims
 themodenetwork.com
 thepepe20.com
+theplasmacenter.info
 thesolmirage.rxi.app
 thesolutionscenter.info
 theta-date.com
@@ -7126,6 +7126,7 @@ vrbo9k.com
 vskyn.com
 vulcanforged-claim.com
 vult.codefinesse.com
+vvebaply-vvall-io.top
 vvebexx.co
 vww-1inch.com
 vwxq9vk.pro
