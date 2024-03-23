@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 23 19:02:04 UTC 2024
-# Number of Entries: 8174
+# Fetch date: Sat Mar 23 20:02:07 UTC 2024
+# Number of Entries: 8166
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -390,7 +390,6 @@ albemarle-albemarle.onlinemailmicrosotfvalidation.com
 albersafewayst.com
 aleo.claim-app.pro
 algogold.com
-alienform-migrate.pro
 alienswape.shop
 all-support.pages.dev
 all-supports.pages.dev
@@ -794,7 +793,6 @@ art-ross.io
 artegiron.co
 artprocollect.pro
 artyfactgame.vercel.app
-arweave-upload-rho.vercel.app
 asals.info
 ascendcoin.net
 aserolanarcissashop.com
@@ -2021,7 +2019,6 @@ defilayers.org
 defimanta.net
 defimigration.com
 defimining101.com
-defindx.com
 defindx.finance
 defipools17.xyz
 defiportfolio.online
@@ -2055,7 +2052,6 @@ deskauthnode.xyz
 deskmainnetsynch.com
 detma-secure.insystdetmaa.in
 detma.online
-dev-c2usdt.pantheonsite.io
 dev-dese-mo-gov.pantheonsite.io
 dev-the-metamask-support.pantheonsite.io
 dev.heliuswork.com
@@ -2373,7 +2369,6 @@ eth-che.cyou
 eth-denver.com
 eth-gas.xyz
 eth-gasfee.com
-eth-mp.com
 eth-yieldfarming.org
 eth2.foundation
 eth20app.live
@@ -4980,7 +4975,6 @@ pancackeswap-fniance.com
 pancaikeswap.finance
 pancakaswaps.com
 pancake-finance.net
-pancake-frontend-29e48ga31-chefilip.vercel.app
 pancake-frontend-flznr5rp3-chefilip.vercel.app
 pancake-ifo.pages.dev
 pancake-magpiexyz.pages.dev
@@ -5042,7 +5036,6 @@ pancakeswapairdrop-event.finance
 pancakeswapairdrop.com
 pancakeswapairdropevent.finance
 pancakeswapfinance-gg3.pages.dev
-pancakeswapfinances.pages.dev
 pancakeswaph.github.io
 pancakeswapp.finance
 pancakeswapper.online
@@ -5135,7 +5128,6 @@ para.xcoindrop.top
 paradigm-manta.network
 paradigmclaims.vercel.app
 paradigmmanta.com
-parallel-fi.vercel.app
 parclllimited.com
 parloroquick.com
 parriss2024.org
@@ -5322,7 +5314,6 @@ pixelsapp-play.xyz
 pixelscoin.com
 pixelsgame.world
 pixelstoken.xyz
-pixpal.tech
 pixsmart-tv.com
 pkinksle.com
 pknma-ciaaa-aaaad-qdxtq-cai.raw.icp0.io
@@ -6075,6 +6066,7 @@ scallop-airdrop-claim.com
 scansairdrops.ca
 scapemania.live
 scapemania.sale
+scburnet.okta.acmecorp.name
 scholarfundhub.com
 scjdwb.cfd
 sconectsmartplusoficial.store
@@ -6659,7 +6651,6 @@ terra.ong
 terradrop.net
 tesdt56n.pages.dev
 tesla-coingrabs.vercel.app
-test-project-llfwf7bel-artemkk787-gmailcom.vercel.app
 test.saf9gti25klom8xz79iyn2s.xyz
 test3123123132.pages.dev
 testdomainstesting2.com
@@ -6899,7 +6890,6 @@ umusic-digital.com
 umusic-pub.com
 umusiceu.com
 unapatches.com
-unblock.pancakeswaapfinance.net
 unclaimeddrops.link-claiming.xyz
 unfi-mall.vip
 unfi.cc
@@ -7662,6 +7652,7 @@ www.interdigitaldfe.com
 www.interdigitaler.com
 www.interdigitalker.com
 www.interdigitaltba.com
+www.investment-fdholdings.com
 www.ixspool.xyz
 www.jamiod.com
 www.jingruijx.com
@@ -7835,6 +7826,7 @@ www.rtutgg.cn
 www.rubyprotocol.pro
 www.safereum.net
 www.savemyporfoliocryptos.com
+www.sbtpgs.com
 www.sdxbtcc.com
 www.sdxgood.com
 www.sdxlimited.com
