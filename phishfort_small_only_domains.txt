@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 23 00:07:12 UTC 2024
-# Number of Entries: 8182
+# Fetch date: Sat Mar 23 01:21:29 UTC 2024
+# Number of Entries: 8171
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -791,10 +791,8 @@ armadorasanluis.com
 arolielshc.com
 arraklls.flnance.web3-ap.cfd
 art-ross.io
-artblocks-official.com
 artegiron.co
 artprocollect.pro
-artsblock.xyz
 artyfactgame.vercel.app
 arweave-upload-rho.vercel.app
 asals.info
@@ -2433,11 +2431,9 @@ event-pandora.community
 event-realios.com
 event-web3usdlt.com
 event-woo.co
-event.aircointrustpad.top
 event.airpud.top
 event.c0inspad.top
 event.chainspads.top
-event.coinbpad.top
 event.farcanaofficial.com
 event.rewardcoin.top
 event.stockcoin.top
@@ -4167,7 +4163,6 @@ metamask88.com
 metamaskabc.com
 metamaskapp-kyc-auth24.com
 metamaskapp.space
-metamaskarb.com
 metamaskb.icu
 metamaskc.org
 metamaskclaim.io
@@ -4701,7 +4696,6 @@ nftsclicks.vercel.app
 nftsprogifts.vercel.app
 nftsteth.com
 nfum-spa.eu-west-2.elasticbeanstalk.com
-ngstruart.pro
 ni8.us
 nibiairdrop.net
 nibidrop.com
@@ -5810,7 +5804,6 @@ retro.magicilyeden.io
 retyuiopjhfaxcvbnmjyrsatyuiiopllkhdsa.com
 revardthededtbox.online
 revardthededtbox.site
-revcke.cash
 reveal-manta.pages.dev
 revenue-bitstable.finance
 revest-finance.com
@@ -5833,7 +5826,6 @@ revoke-cash.org
 revoke-cash.top
 revoke-cash.xyz
 revoke-cassh.pages.dev
-revoke-now.cash
 revoke-paraswap.com
 revoke-security.net
 revoke-tips.com
@@ -5858,7 +5850,6 @@ revokecash-web3.org
 revokecash.cash
 revokecash.store
 revokecash.us
-revokecashe.com
 revokecashh.pages.dev
 revokecashn.com
 revokecashv2.com
@@ -7370,7 +7361,6 @@ wer34.pages.dev
 west-braves.info
 westrock-workwear.nl
 whalesmarket.org
-white-frame.xyz
 white-manta.network
 whiteberidgepet.com
 whitel-probablynothing.net
@@ -7519,7 +7509,6 @@ www.appstride.zone
 www.appwallstmemes.pro
 www.apygate.rpctool.com
 www.archivesecureprotection.com
-www.artsblock.xyz
 www.aryanmodi.com
 www.assets-gate.com
 www.asx-danman.top
