@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 24 05:02:54 UTC 2024
-# Number of Entries: 8166
+# Fetch date: Sun Mar 24 06:02:37 UTC 2024
+# Number of Entries: 8155
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -396,7 +396,6 @@ all-supports.pages.dev
 allenanna.com
 allianceblock-io.events
 allin1.cx
-allliq.site
 allocate-starknet.com
 allocation-getgrass.com
 allocation-jup.trading
@@ -474,7 +473,6 @@ an.betiutima.online
 an.intelectui.online
 an.myudetma.online
 analayze.orb-crypto.com
-analos-claim.netlify.app
 analos-kohl.vercel.app
 analos-meme.site
 analos-wr2zn.netlify.app
@@ -560,7 +558,6 @@ app-ethena.xyz
 app-ether-fi.pages.dev
 app-fredenergy.pages.dev
 app-fusionx.com
-app-jito.com
 app-juilce.finance
 app-kaspanet.com
 app-kava.com
@@ -1105,7 +1102,6 @@ blastcoi.com
 blastdrop.store
 blasterscore.io
 blastingv2.com
-blastio.group
 blastl2.dev
 blastof.eu
 blastoffs.eu
@@ -2531,7 +2527,6 @@ fix.errorsolution.org
 fixadfloat.com
 fixbugmigrate.pages.dev
 fixdapps-dip.pages.dev
-fixedfioat.icu
 fixedfloat.win
 fixedfłoad.com
 fixedtloat.com
@@ -3733,7 +3728,6 @@ mamtabluerewards.net
 mamtanetworkairdrop.net
 mamtanetworkbonus.com
 mamtanetworkbonus.net
-managarservice.com
 manbta.network
 manda-network.com
 mandatory-multi-factor-authenticator.us-ord-1.linodeobjects.com
@@ -4133,7 +4127,6 @@ metamask-wallet-main.pages.dev
 metamask-wallet.pro
 metamask.2fareset.com
 metamask.baby
-metamask.balances.cfd
 metamask.claims
 metamask.cool
 metamask.firsthfb.com
@@ -5382,8 +5375,6 @@ portel-bridg.com
 portelbrldge.org
 portfolio-mask-mask-master-dedi285032.codeanyapp.com
 portfolio-metamask-io.org
-portfolio-my-backyp.com
-portfolio-my-metas.com
 portfolio-my-walletzz.com
 portfolio-verification.com
 portfoliometamask.com
@@ -5776,7 +5767,6 @@ renasantbank.cc
 rend.igital.live
 render.gift
 rendernetwork.support
-renord.netlify.app
 renzo-protocols.com
 resolutionpanel.pages.dev
 resolve-captcha.com
@@ -6008,6 +5998,7 @@ saiyansdrop.com
 saks5.store
 saksoff.sakskoesad.com
 saksoff5th.love
+saksoff5th.store
 saksoff5thboool.top
 saksoff5thf.com
 saksoff5thkppltpj.com
@@ -7825,7 +7816,6 @@ www.rpcresolve.com
 www.rtutgg.cn
 www.rubyprotocol.pro
 www.safereum.net
-www.savemyporfoliocryptos.com
 www.sbtpgs.com
 www.sdxbtcc.com
 www.sdxgood.com
@@ -7983,7 +7973,6 @@ xn--fxedfiloat-xub.com
 xn--fxedflaot-vpb.net
 xn--fxedflaot-vpbc.com
 xn--fxedflaots-68a.com
-xn--fxedflaots-k8a.com
 xn--fxedflcoat-68a.com
 xn--fxedflioat-xub.com
 xn--fxedfllaot-k8a.com
