@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 24 07:01:34 UTC 2024
-# Number of Entries: 107056
+# Fetch date: Sun Mar 24 08:02:03 UTC 2024
+# Number of Entries: 107057
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -71461,6 +71461,7 @@ post-atsupport.com
 post-binance.com
 post-courier.com
 post-lieferung.at
+post-malone.store
 post-tech.info
 post-tech.one
 post.ag.cogicoer.com
