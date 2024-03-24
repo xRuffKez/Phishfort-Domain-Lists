@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 24 18:02:36 UTC 2024
-# Number of Entries: 8160
+# Fetch date: Sun Mar 24 19:02:21 UTC 2024
+# Number of Entries: 8145
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -409,7 +409,6 @@ alpha-fetch.com
 alphalobstarpal.pages.dev
 alphatrace.pro
 alphatrace.tech
-alphnet.online
 alshaya-group-ae.company.site
 alshaya-group-ua.company.site
 alshayae.shop
@@ -722,7 +721,6 @@ aptosfoundation.info
 aptosfundation.com
 apts-project.com
 apygate.rpctool.net
-ar-ship.eu
 arab-bkplc.com
 arabbplc-ae.com
 aramex-delivery.me
@@ -1838,7 +1836,6 @@ dap-radar.com
 dapi.re
 dapp-aicontract.com
 dapp-altlayer.io
-dapp-mainnet-sync.web.app
 dapp-node.vercel.app
 dapp-pendle.finance
 dapp-resolver.pages.dev
@@ -2083,7 +2080,6 @@ dhk6y.cc
 diag-bracco.com
 diamond-magiceden.network
 diamondhands-ethereum.web.app
-digicamforums.com
 digital.free-zetachain.online
 digitaldapp.pages.dev
 digitalsec.mypsx.net
@@ -2429,7 +2425,6 @@ event.chainspads.top
 event.farcanaofficial.com
 event.rewardcoin.top
 event.stockcoin.top
-event.xfinespad.top
 eventfarcana-airdrop.vercel.app
 events-altlayer.com
 events-befilabs.com
@@ -2634,7 +2629,6 @@ free-manta.com
 free-tias.com
 free.bitiezcommune.xyz
 free.bitzgroup.xyz
-free.launch-layerzero.online
 free.layerzero-claiming.website
 free.mugalife.digital
 free.personalzomb.xyz
@@ -4622,7 +4616,6 @@ nfclaimopensea.vercel.app
 nfgrex1.pro
 nfprompt-io.web.app
 nfprompt.click
-nfprompt.org
 nfpromptairdrop.netlify.app
 nfpromptsio.vercel.app
 nfpromt.co
@@ -5378,7 +5371,6 @@ portel-bridg.com
 portelbrldge.org
 portfolio-mask-mask-master-dedi285032.codeanyapp.com
 portfolio-metamask-io.org
-portfolio-my-walletzz.com
 portfolio-verification.com
 portfoliometamask.com
 portlacoin.xyz
@@ -5772,6 +5764,7 @@ rend.igital.live
 render.gift
 rendernetwork.support
 renzo-protocols.com
+research.rada.gov-ua.ru
 resolutionpanel.pages.dev
 resolve-captcha.com
 resolver-paneldapp.com
@@ -6449,7 +6442,6 @@ steamcommunity.umb.market
 steamcommunityskintradeoffermadito.com
 steamcommuxity.com
 steancomrnunity.com
-stellaswap.com-v3.sbs
 stepnboxx.netlify.app
 stepstaking.app
 stethers.com
@@ -6618,7 +6610,6 @@ tareekhsouria.com
 tasfinancial.co
 tataconsultancy.in
 tataconsultants.com
-taurus-eth.vip
 tawuniya.online-link.net
 tdecu-support.info
 tdg7gr.pro
@@ -6756,7 +6747,6 @@ tmwr.pro
 tnsr-whitelist.com
 to.dataui.online
 to.uidista.online
-tokeensyu.cloud
 token-beam.com
 token-berachain.com
 token-blast.com
@@ -7017,7 +7007,6 @@ valuableohelper.com
 vanar.trading
 vanarchaiin.com
 vaultedvibes.online
-vaultscanner.com
 vdwdz.top
 vectorreserve.live
 velamigration.pro
@@ -7359,7 +7348,6 @@ whitelist-cellmates.com
 whitelist-creepz.com
 whitelist-farcana.com
 whitelist-joingrapes.com
-whitelist-manta.network
 whitelist-parcl.com
 whitelist-personajourney.co
 whitelist-planetrefi.xyz
@@ -7788,8 +7776,6 @@ www.personalles-accesoscolombia.online
 www.pfizer.i.ng.sba-sales.com.ng
 www.pork-event.net
 www.portal-ait.tech
-www.portfolio-my-walletzz.com
-www.portfolio-my-wallez.com.portfolio-my-walletzz.com
 www.portfoliometamask.com
 www.portolbridge.org
 www.practisea.com
@@ -8054,7 +8040,6 @@ zenithzest.top
 zens-web3.com
 zerion.claimfree.xyz
 zerionpro.com
-zerionsuzki.pages.dev
 zerionu.com
 zero-lend.app
 zeroiand.xyz
