@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 24 08:02:41 UTC 2024
-# Number of Entries: 8157
+# Fetch date: Sun Mar 24 09:02:34 UTC 2024
+# Number of Entries: 8158
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1695,6 +1695,7 @@ compoundtrades.net
 con-wall-3web.pages.dev
 conbea4.dream.press
 conf-collab.land
+conferencesglobal.org
 confirmed-collab.land
 confulxnetwork.info
 connect-arbitrum.io
