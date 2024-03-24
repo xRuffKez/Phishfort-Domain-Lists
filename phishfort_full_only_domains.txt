@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 24 10:01:48 UTC 2024
-# Number of Entries: 107059
+# Fetch date: Sun Mar 24 11:01:55 UTC 2024
+# Number of Entries: 107061
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -69326,6 +69326,7 @@ pharmanet.org.pl
 pharse-recovery-loremipsumdoolorsitametconsectet.cfd
 pharse-recovery-loremipsumdoolorsitametconsectet.sbs
 phartom.app
+phasnr.online
 phasnw.xyz
 phat0mwallet.godaddysites.com
 phat0mwalllet.godaddysites.com
@@ -98388,6 +98389,7 @@ www.evilpcpecoin.com
 www.evilpepesoin.com
 www.evm-monad.xyz
 www.evmos-network.org
+www.evoypremium.com.br
 www.ewalletretrieval.live
 www.ewlilpepe.com
 www.ewtherdo.tk
