@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 24 18:01:57 UTC 2024
-# Number of Entries: 107061
+# Fetch date: Sun Mar 24 19:01:41 UTC 2024
+# Number of Entries: 107056
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -5656,7 +5656,6 @@ app-hope.exchange
 app-hvmtl.com
 app-impti.com
 app-issuefix.pages.dev
-app-jito.com
 app-juilce.finance
 app-kaspanet.com
 app-kava.com
@@ -15660,7 +15659,6 @@ celamultichaindapp.com
 celastise.io
 celastise.net
 celatis.cc
-celatis.com
 celatis.digital
 celatis.paperhand.fi
 celatis.tech
@@ -33516,7 +33514,6 @@ floki-claim.net.qqhosting3.com
 floki-claim.vercel.app
 floki-community.com
 floki-drop.world
-floki-drop.xyz
 floki-eth.com
 floki-join.com
 floki-token.app
@@ -74296,7 +74293,6 @@ reninchaina.cam
 reninchaino.cam
 rennga.xyz
 renodepad.net
-renord.netlify.app
 renproject-token.sale
 renq-cloud.com
 renq-token.com
@@ -74335,6 +74331,7 @@ resaley.site
 resawde.site
 resbkonline.com
 rescue-ai.netlify.app
+research.rada.gov-ua.ru
 reseaucl0.com
 reseolveprotocols.com
 reservation-team.com
@@ -78572,7 +78569,6 @@ sky-maviis.com
 sky-mavis.ru
 sky.ronin-support.org
 skybornegenesis.art
-skybornegenesismint.com
 skyborneslegacy.com
 skybridgedynamics.xyz
 skycargos.com
@@ -83592,7 +83588,6 @@ tate-tesla.com
 tatecobra.net
 tatolcoin.com
 taunetwork.frnfts.com
-taurus-eth.vip
 tavaressinformaticabrazz.blogspot.com
 tavsonat.site
 tawkbridge.online
