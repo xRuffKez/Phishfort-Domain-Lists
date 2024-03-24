@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 24 20:01:35 UTC 2024
-# Number of Entries: 107056
+# Fetch date: Sun Mar 24 21:01:44 UTC 2024
+# Number of Entries: 107058
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -33633,6 +33633,7 @@ fly-promo.online
 flybitex.com
 flydaddys.com
 flyemirates.cloud
+flyemirates.my.id
 flyemirates.space
 flyemiratescareer.com
 flyemiratesonline.com
@@ -37512,6 +37513,7 @@ he34a.ibarami.net
 he3xc.com
 healerwallet.com
 healinghippies.xyz
+health-equity.click
 health-equity.sa.com
 health-equity.za.com
 healthcheck.com
