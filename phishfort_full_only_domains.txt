@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 14:01:35 UTC 2024
+# Fetch date: Mon Mar 25 15:01:34 UTC 2024
 # Number of Entries: 107095
 # Expires: 1 hour
 0-metemask.com
@@ -27362,6 +27362,7 @@ dpts.it
 dqaa6s.s3o98.com
 dqsh2trade.com
 dquickswap.com
+dr.com
 drac24.ethdrop.xyz
 dragondeeznft.xyz
 dragonfish.cyou
@@ -52554,7 +52555,6 @@ miladyfumo.tech
 miladyfumos.xyz
 miladymaker-mint.com
 miladymaker.cx
-miladymaker.pro
 miladymaker.top
 miladymakerr.com
 miladyrvsp.net
