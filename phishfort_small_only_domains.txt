@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 05:02:11 UTC 2024
-# Number of Entries: 8152
+# Fetch date: Mon Mar 25 06:02:46 UTC 2024
+# Number of Entries: 8159
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -102,6 +102,7 @@
 4xqry.cc
 5ninja-cup.com
 5raydium.sbs
+5yq1h.pro
 6-chess.online
 63352955.b1b41177a5690aba217097d9.workers.dev
 63f3ed5a-a189-4792-b3ea-26687f69c894-00-p4dnzcb1f2va.riker.replit.dev
@@ -121,6 +122,7 @@
 8lab-d254.earherbat.workers.dev
 912091730.pages.dev
 9af68e44.4d9aa11f0cc24373ec9d6295.workers.dev
+9afhjs.cc
 9e6e51d6-1af4-46ae-b583-dc84ea67ef6c-00-16rc48b4ompks.kirk.replit.dev
 9ebank.github.io
 9inchswap.com
@@ -939,6 +941,7 @@ bbl-get.com
 bbsyncs.pages.dev
 bckrockgbtc.com
 bcr20.xyz
+bdb7.cc
 beacon-usdt.shop
 beanzoff.com
 beefydefi.sbs
@@ -2357,6 +2360,7 @@ eth-bonus.net
 eth-calculator.xyz
 eth-che.cyou
 eth-denver.com
+eth-ensdao.net
 eth-gas.xyz
 eth-gasfee.com
 eth-yieldfarming.org
@@ -2787,6 +2791,7 @@ giveaway-manta.network
 giveaway-neotokyo.codes
 givesaiyans.com
 gjehw.cfd
+gjkf.pro
 gl-elitesiteat.com
 gl-elitesiteaz.com
 gl-havasapp.com
@@ -3618,6 +3623,7 @@ lunc.space
 luxury-dusk-92886b.netlify.app
 luxurybooms.com
 lv.zgroupmint.com
+lvrmjm.pro
 lwve.top
 lxp-linea.build
 lybrafinance.live
@@ -5808,7 +5814,6 @@ revoke-approvals.xyz.polarmates.top
 revoke-cash-i9n0pa5cx-lahana.vercel.app
 revoke-cash.cash
 revoke-cash.org
-revoke-cash.top
 revoke-cash.xyz
 revoke-cassh.pages.dev
 revoke-paraswap.com
@@ -6307,6 +6312,7 @@ soldrop.pages.dev
 solflareweb.com
 sollfare.com
 solmigrate.com
+sols-meta.web.app
 solsea.dev
 soltrading-bots.web.app
 solutiondesk.live
@@ -6422,6 +6428,7 @@ starknet-launch.com
 starknet-now.network
 starknet-now.pics
 starknet-pro.icu
+starknet-program.xyz
 starknet-reward.network
 starknet.press
 starknet.sk
@@ -6862,6 +6869,7 @@ tvl-chain.link
 twilio-hr.com
 twolandstoken.live
 twt.multipuds.top
+txaq.cc
 tyzxf.pages.dev
 ubnr.cc
 ufalmassuissat.com
@@ -7410,7 +7418,6 @@ wormhole.cx
 wormholeairdrop.fun
 wormholeairdrop.shop
 wormholew.top
-wrevoke.cash
 wsm-token-migration.netlify.app
 wswap.live
 wtoken-claim.com
