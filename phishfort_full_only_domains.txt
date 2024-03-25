@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 10:01:38 UTC 2024
-# Number of Entries: 107092
+# Fetch date: Mon Mar 25 11:01:57 UTC 2024
+# Number of Entries: 107093
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -68334,6 +68334,7 @@ payapayments.com
 payasrvc.com
 payb0lt.io
 paybnb.club
+paybnb.top
 paybyklarna.de
 paybyplatema.pro
 paybyplatema.site
