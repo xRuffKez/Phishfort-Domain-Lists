@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 16:01:53 UTC 2024
-# Number of Entries: 107093
+# Fetch date: Mon Mar 25 17:01:38 UTC 2024
+# Number of Entries: 107103
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2333,6 +2333,7 @@ acceptium.online
 acceptoffer.xyz
 acceptoffers.xyz
 acceptofferxs.xyz
+accepts-lnterweb.life
 accesdapps.web.app
 acceso-proteger-cuenta-davivienda.eduardomaniatic.repl.co
 accespoints-cdo102.terrabites.cc
@@ -14031,6 +14032,7 @@ bosotokyo.xyz
 boss-beauties.xyz
 bossbeaautiesnft.xyz
 bossbeauties-freemint.xyz
+bostonglobemediapr.com
 bot-collab-land.com
 bot-info.cc
 bot-sync.online
@@ -15659,6 +15661,7 @@ ceie.guangdongidc.net
 ceislus.network
 cek-bitly3.xyz
 cek-infobitly2.xyz
+cekiliis.com
 cektopt.site
 cekulandi.site
 celamultichaindapp.com
@@ -32679,6 +32682,7 @@ fenderuk.com
 fenixfinance.net
 fenixlab.xyz
 fentbent.site
+fenterpriseonline.net
 feogflddo.top
 feosz.info
 feoverse.vip
@@ -32967,6 +32971,7 @@ fishpoole.com
 fiskchain.vercel.app
 fistdao.app
 fitgpt.web3-airdrop.net
+fitness-seven.com
 fitnessfiends.co
 fitnessfiends.web3-airdrop.net
 fiuff.world
@@ -37018,6 +37023,7 @@ governance-mav.tech
 governance-openocean.com
 governance.aave-protocol.network
 govkuwait.com
+govs.sa.com
 govssc.edu.bd
 gowincoin.com
 goxtrade.com
@@ -40537,6 +40543,7 @@ jhfjmyetherwallet.site
 jhghjg.xyz
 jhxdjhgvj.scarexpedition.top
 jianime.nft-premint.xyz
+jiashengint.cn
 jiashengtrader.com
 jiashengzh.com
 jibreltoken.in
@@ -40920,8 +40927,11 @@ jrsu.com.br
 jrt8fm.pro
 js.mnfiihanse.com
 jsjt-ins.com
+jsjtgroup.cn
+jsjtrading.com
 jsmarketnow.com
 jsol.dev
+jsoq9.cn
 jtgc.towsonfamiliesunited.com
 jtgsr.pages.dev
 jtl11.com
@@ -45271,7 +45281,6 @@ login.coinbasesupportscenterid.com
 login.coinbasesupportsid.com
 login.coinbasewalletsupport.com
 login.coinbasewalletsupports.com
-login.cw1.ir
 login.fraend.net
 login.frame-airdrop.xyz
 login.lblockhcoin.com
@@ -67540,6 +67549,7 @@ parity.pl
 parity.site
 parityblockchain.com
 parityex.com
+parknationalkgt.pics
 parlayp.net
 parloroquick.com
 parncaike-swap.finance
@@ -72853,6 +72863,7 @@ qrcunigen.com
 qrgeneratorextension.live
 qrintegration-net.ml
 qrma.cn
+qt5872.xyz
 qtnkpaxos.net
 qtopiia.com
 qtqk8.daeyanglawyer.com
@@ -73787,7 +73798,6 @@ rechargejio.lagoo.in
 reckonmexico.com
 reclaim-coinbase.com
 reclaim-nfttrader.io
-recofund.com
 recognitionaward.link
 recohyp.ziui.ru
 recoke.cash
