@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 10:02:17 UTC 2024
+# Fetch date: Mon Mar 25 12:03:13 UTC 2024
 # Number of Entries: 8159
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -102,6 +102,7 @@
 4xqry.cc
 5ninja-cup.com
 5raydium.sbs
+5thavenue-fashion.be
 5yq1h.pro
 6-chess.online
 63352955.b1b41177a5690aba217097d9.workers.dev
@@ -2388,6 +2389,7 @@ etherfi.one
 ethergas.eu
 ethergases.com
 etherium.trading
+ethermegas.org
 ethers-foundation.io
 ethersclaim.org
 ethersupport.web.app
@@ -3652,7 +3654,6 @@ magamemeccin.com
 magamemecoin.cash
 maggpiexyz.cyou
 maggpiexyz.xyz
-magic-ball.nfts2.me
 magic-eden-wallet.net
 magic-square.info
 magic-square.org
@@ -4026,6 +4027,7 @@ memefarm.live
 memefarming.fun
 memefighter.top
 memekombat-api.pages.dev
+memekombat-def.web.app
 memekombat-server.pages.dev
 memekombat-staking.xyz
 memekombatio.live
@@ -4052,7 +4054,6 @@ meskk.app
 met-mask-usa-wallet.godaddysites.com
 meta-kyc-activations.io
 meta-mask-login-webaccess-rewoyal611554508.codeanyapp.com
-meta-mask.trade
 meta-neotokyo.com
 meta-redirect.com
 meta-restore.pages.dev
@@ -5439,7 +5440,6 @@ provisionschainlink.org
 proximus-client.ddns.net
 proximus-re.was-systems.com
 proximus-recovery.be
-psgyh.top
 psychome.co
 ptron.hk
 pub-0186f027c154484fbcbeb90161ab83cf.r2.dev
