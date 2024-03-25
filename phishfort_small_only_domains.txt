@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 16:02:24 UTC 2024
-# Number of Entries: 8161
+# Fetch date: Mon Mar 25 17:02:18 UTC 2024
+# Number of Entries: 8165
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -163,6 +163,7 @@ academy.topbundalle.com
 acahealthinsure.com
 accboxi.com
 accept-farcana.com
+accepts-lnterweb.life
 access.bdc.support
 access.roninchain.app
 account-407etr.com
@@ -605,7 +606,6 @@ app.1inch.fo
 app.1inch.lc
 app.1insh.io
 app.1lnch.mom
-app.1nch.co
 app.9inchio.com
 app.airrtm.com
 app.airtm-7.com
@@ -1186,6 +1186,7 @@ borgverse.app
 borovik.foundation
 borroefinnance.web.app
 boson-faucet.pages.dev
+bostonglobemediapr.com
 bot-collab-land.com
 bot.kavaworlds.xyz
 bots-collabland.pages.dev
@@ -1197,7 +1198,6 @@ bouyguesiptv.fr
 bovr8d.cc
 box-nftlive.com
 box-nftmint.web.app
-boxes-manta.network
 bozo.trading
 bpxtoken.network
 brailex.com
@@ -1332,6 +1332,7 @@ cdzhjzx.com
 ce1s1us.network
 cealtis.fail
 ceislus.network
+cekiliis.com
 celatis.digital
 celebrators.pk
 celestia-network.com
@@ -1390,7 +1391,6 @@ chimpzee-claim.pages.dev
 chndemarloonst.com
 chonky.claims
 chriscraft.shop
-christmas-pump.coins-pad.tech
 chrome.pancakeswap.finance.multichains.live
 chronoforgedeed.xyz
 chronoforgenft.com
@@ -2501,6 +2501,7 @@ fees-407etr.com
 feimoney.app
 feiraochevro.com
 fenderuk.com
+fenterpriseonline.net
 feosz.info
 feraniumyard.com
 feverowarrior.com
@@ -2518,6 +2519,7 @@ fireblockscrypto.com
 firmware-data.pages.dev
 first-braved.info
 firstports.co.uk
+fitness-seven.com
 fix-metamask.pages.dev
 fix.errorsolution.org
 fixadfloat.com
@@ -2831,6 +2833,7 @@ goodj.top
 goodsdao.web.app
 gorilladefi-io.web.app
 gotravel-united.com
+govs.sa.com
 gq26v.pro
 grab-farcanacom.pages.dev
 grab-zetachain.com
@@ -3147,6 +3150,7 @@ jenpower.net
 jerrybeers.com
 jggbbestforyou.com
 jggo.mypi.co
+jiashengint.cn
 jiashengtrader.com
 jito-bonus.com
 jito-drop.com
@@ -3202,7 +3206,10 @@ jp.ib-fx7.com
 jpagod.com
 jpzhgw.sbs
 jrt8fm.pro
+jsjtgroup.cn
+jsjtrading.com
 jsmarketnow.com
+jsoq9.cn
 jtl11.com
 jtontwrk.com
 juiceboxmoney.xyz
@@ -3398,7 +3405,6 @@ launchpadangle.net
 launchpaddapp.eu
 launchpads-opti.com
 launchpads-satoshivm.io
-launchpadsprotocol.pages.dev
 launchpadsxyz.site
 launchs-inscribe.com
 launchs-pads.app
@@ -3591,7 +3597,6 @@ login--blockgames.com
 login-cisco.tech
 login-frame.xyz
 login-metamaskwallet.ddnss.eu
-login.cw1.ir
 login.frame-airdrop.xyz
 login.microsoftonlineportal.ppp-gov.online
 login.wapstore.duckdns.org
@@ -4321,7 +4326,6 @@ mint-usdc.web.app
 mint-xai.com
 mint.apps-looty.com
 mint.bitienatz.lol
-mint.bitzclub.com
 mint.cokeazukicanvas.com
 mint.cyberzduck.lol
 mint.deadapez.lol
@@ -5130,6 +5134,7 @@ paradigm-manta.network
 paradigmclaims.vercel.app
 paradigmmanta.com
 parclllimited.com
+parknationalkgt.pics
 parloroquick.com
 parriss2024.org
 partenariat-bouygues-telecom-entreprises.fr
@@ -5550,6 +5555,7 @@ qorpos.world
 qpcuxbi.pro
 qq5v9zjc.top
 qrayber.com
+qt5872.xyz
 qtnkpaxos.net
 quantix.vercel.app
 quantumaiservice.org
@@ -5773,7 +5779,6 @@ reloadsyncpages.xyz
 remarkable-queijadas-77facb.netlify.app
 remotenodesauth.pages.dev
 renasantbank.cc
-rend.igital.live
 render.gift
 rendernetwork.support
 renzo-protocols.com
@@ -7437,7 +7442,6 @@ ww.itbits-pro.com
 wwarm.xyz
 wwe-envivo.com
 wwesolana.com
-www-1inch-web.io
 www-1inch-web3.com
 www-1inch.top
 www-adpworkforcenow.com
