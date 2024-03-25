@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 12:03:13 UTC 2024
-# Number of Entries: 8159
+# Fetch date: Mon Mar 25 13:02:10 UTC 2024
+# Number of Entries: 8157
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1160,7 +1160,6 @@ bobotokenhub.top
 bol.mxmfk.club
 boltbot.eu
 bomeonsol.xyz
-bomkxmas.com
 bondexapp.network
 bonelp.com
 bonk-premium.web.app
@@ -3921,7 +3920,6 @@ maplestorysuniverse.io
 maqiceden.web.app
 marinadefinance.claims
 market-place-bids.com
-market.jo-i.org
 marketcap-coins.com
 marketpalcestatus.com
 marketpharmacy.com
@@ -4802,6 +4800,7 @@ onchain-api.onrender.com
 onchainmonkeys.shop
 onchainmonkeys.tech
 onchainrevoke.com
+oneamerica.icu
 onearbitrum.checkterms.com
 ongcmumbaihigh.in
 ongoing-jup.app
@@ -5756,7 +5755,6 @@ registration-mixmob.io
 registration-pixels.xyz
 registration-superverse.com
 registration-wehavenohandle.com
-registration-zero.network
 registration-zetachain.com
 registry-blockgames.com
 registry-linea.build
