@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 04:02:28 UTC 2024
-# Number of Entries: 8141
+# Fetch date: Mon Mar 25 05:02:11 UTC 2024
+# Number of Entries: 8152
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -877,6 +877,8 @@ axiemarketplace.skin
 axieorigin.in
 axs.ltd
 axsiesinfinity.com
+axstokenhub.com
+axstokenlab.top
 ayudas.help
 azabltkckub-com.blogspot.com
 azarlegal.com
@@ -1109,6 +1111,7 @@ blastxs.com
 blendao.xyz
 blendcoin.org
 blender404.xyz
+blendrrnetwork.org
 blendswaps.xyz
 blinkblock.site
 bllaast.com
@@ -2879,6 +2882,7 @@ happyskellies.com
 happytake.tknewz.com
 hashbnb.com
 havas-aso.com
+hbar-distribution.com
 hca-healthcare.com
 hdi6v.pro
 health-equity.click
@@ -3266,6 +3270,7 @@ jupptrullo.cc
 juppy-box.com
 juppyapps.com
 juppycases.trade
+juppystart.app
 jupqq.com
 juprr.com
 jups.io
@@ -3338,6 +3343,7 @@ kwool.ap-south-1.linodeobjects.com
 kyc.ledger-online.net
 l-s-co-il.com
 l1cloudhaut.com
+l2-blast.buzz
 l2-blast.io
 labs.pixelmon.tech
 lackizhamsterz.com
@@ -4140,6 +4146,7 @@ metamask88.com
 metamaskabc.com
 metamaskapp-kyc-auth24.com
 metamaskapp.space
+metamaskarticle.com
 metamaskb.icu
 metamaskc.org
 metamaskclaim.io
@@ -4425,6 +4432,7 @@ multibitex.net
 multibitstaking.com
 multibitx.netlify.app
 multiblocksauth.pages.dev
+multichain-auth.netlify.app
 multichain-dappconnect.netlify.app
 multichain-evm.pages.dev
 multichain-rectifier.com
@@ -6327,6 +6335,7 @@ sparkly-peony-f76556.netlify.app
 sparkprotocol.fi
 speedylendingtree.com
 sperk.fi
+spl20-top.web.app
 spok-earlyadopterbuilder.com
 spok-earlyadopterchad.com
 spok-earlyadoptercollector.net
@@ -6841,6 +6850,7 @@ trx-swap-0n.online
 try.starkzparticipate.com
 try.zparkgroup.com
 tryaml.com
+tryingfixedxl.pages.dev
 tsa135.com
 tsakeland.com
 tsuka.gift
@@ -7333,6 +7343,7 @@ wer34.pages.dev
 west-braves.info
 westrock-workwear.nl
 whalesmarket.org
+wheelerr.shop
 white-manta.network
 whiteberidgepet.com
 whitel-probablynothing.net
@@ -7422,6 +7433,7 @@ www-adpworkforcenow.com
 www-altlayer-io.top
 www-altlayer.top
 www-app-1inch.com
+www-delfilama.com
 www-eigenlayer.xyz
 www-jumper.exchange
 www-jumpers.exchange
@@ -8025,7 +8037,6 @@ ypredict-ai.site
 ypredict-app.pages.dev
 yqmln.top
 yu9.us
-yuvrajproductions.com
 z9a5rlx4jj.whosaginay.tech
 zanshin.ro
 zapper-frontend-next-6zj2ju3qm-zapper-fi.vercel.app
