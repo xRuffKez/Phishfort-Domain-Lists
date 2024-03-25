@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 03:01:52 UTC 2024
-# Number of Entries: 107059
+# Fetch date: Mon Mar 25 04:01:51 UTC 2024
+# Number of Entries: 107065
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4468,6 +4468,7 @@ alt-flnance.com
 alt-layers.com
 alt-phantam.com
 alt-token.net
+alt-zerolend.xyz
 altava-giveaway.com
 altava.cpnfts.com
 altavagroup.xyz
@@ -22718,6 +22719,7 @@ daomaker.bond
 daomaker.claiming-web3.com
 daomaker.click
 daomaker.com.mx
+daomaker.company
 daomaker.connecting-web3.net
 daomaker.connects-web3.com
 daomaker.es
@@ -28316,6 +28318,7 @@ eigen-layer.live
 eigenilayer.com
 eigenlaver.magpiexyz.site
 eigenlayer-airdrop.claims
+eigenlayer-app-magpie-eigenpie-staking.kemi-g.com
 eigenlayer-presale.xyz
 eigenlayer.0x-auth.xyz
 eigenlayer.connects-web3.org
@@ -53959,6 +53962,7 @@ multi-rectifier.com
 multi-signature.org
 multi-signatures.com
 multi-smarterverseapp.pro
+multi-smartworthyappverse.org
 multi-sync-wc.online
 multi-syncsecure.com
 multi-trustpad.cc
@@ -54271,6 +54275,7 @@ multisyncsecure.com
 multisynctool.com
 multisynctools.com
 multisynlinkeds.com
+multisystemcoinwallet.web.app
 multisystemsolutions.com
 multitele-verse-dapp.com
 multitilchain.com
@@ -64351,6 +64356,7 @@ pancakeswap.academy
 pancakeswap.acsnl.com
 pancakeswap.agency
 pancakeswap.aid.pl
+pancakeswap.airdrop-cake-v3.com
 pancakeswap.airdrop-claim-rewards.com
 pancakeswap.airdrop-holders-stake.com
 pancakeswap.airdrop-limited.com
