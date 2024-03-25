@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 17:02:18 UTC 2024
-# Number of Entries: 8165
+# Fetch date: Mon Mar 25 18:02:28 UTC 2024
+# Number of Entries: 8167
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1815,6 +1815,7 @@ cyberlama.app
 cyberx-staging.vercel.app
 d.stonexdmffh.top
 d.stonexgkkof.top
+d0cusiqn.hottern.click
 d3-shib.app
 d394f31195472c.net
 d7bjeie8jevolt5j.pdqptpohlhxle6.ru
@@ -5262,6 +5263,7 @@ pepsicopostmixtraining.com
 pepsisco.com
 per-empower.com
 per-empower.com.affiliateadvantageventures.com
+peraxel.com
 perceptiveorbsyscaga.pages.dev
 perdashboard.online
 perfectcheckgift.com
