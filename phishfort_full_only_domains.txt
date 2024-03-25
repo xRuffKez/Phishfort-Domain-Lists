@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 15:01:34 UTC 2024
-# Number of Entries: 107095
+# Fetch date: Mon Mar 25 16:01:53 UTC 2024
+# Number of Entries: 107093
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -12168,7 +12168,6 @@ bitgert.claimweb3.xyz
 bitgert.online
 bitgert.run
 bitgert.swap.defi-token.my.id
-bitgerts.live
 bitget-exchange.tk
 bitgetproep.com
 bitgetwallett.com
@@ -32968,7 +32967,6 @@ fishpoole.com
 fiskchain.vercel.app
 fistdao.app
 fitgpt.web3-airdrop.net
-fitness-solution24.de
 fitnessfiends.co
 fitnessfiends.web3-airdrop.net
 fiuff.world
@@ -48763,6 +48761,7 @@ meta-mask.prizze-holder.site
 meta-mask.prizzecoin.site
 meta-mask.prizzholder.space
 meta-mask.tech
+meta-mask.trade
 meta-mask.vip
 meta-mask.world
 meta-maskconnect.webstarts.com
@@ -62384,6 +62383,8 @@ option-paxful.com
 optionvail.net
 optism-found.com
 optitoadz.com
+optiver-vip.com
+optiver-vipapp.vip
 optiver.co.kr
 optiver2.com
 optiverex.com
@@ -80078,7 +80079,6 @@ soporte.pancakeswasap.one
 soporteconsorcio-empresas.site
 soportedaviplata.webcindario.com
 soportevt.grupoinmotion.com
-sostineskl.lt
 sotana-network.com
 sotkant.site
 souilz.com
@@ -86987,7 +86987,6 @@ tupbit.com
 tuqv1b293.ukit.me
 turbo-claim.xyz
 turboswap.store
-turbotoad.org
 turbotoadsnft.web3-airdrop.net
 turinaviationgroup.com
 turjishairlines.com
@@ -106819,7 +106818,6 @@ zksyhcs.online
 zksylnc.com
 zksymc.github.io
 zksyn-io.xyz
-zksyn-seedifa.fund
 zksynapse.network
 zksync-2023.com
 zksync-2023.net
