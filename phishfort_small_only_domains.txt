@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 09:02:29 UTC 2024
-# Number of Entries: 8157
+# Fetch date: Mon Mar 25 10:02:17 UTC 2024
+# Number of Entries: 8159
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3920,6 +3920,7 @@ maplestorysuniverse.io
 maqiceden.web.app
 marinadefinance.claims
 market-place-bids.com
+market.jo-i.org
 marketcap-coins.com
 marketpalcestatus.com
 marketpharmacy.com
@@ -5185,6 +5186,7 @@ paxosogt.com
 pay-407etr.com
 pay407etr.com
 pay8-2v-9jkc4ukd3-ekontetevi-gmailcom.vercel.app
+paybnb.top
 paybyklarna.de
 paybyplatema.pro
 paybyplatema.website
