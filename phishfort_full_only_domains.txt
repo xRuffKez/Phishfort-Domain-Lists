@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 05:01:36 UTC 2024
-# Number of Entries: 107077
+# Fetch date: Mon Mar 25 06:02:07 UTC 2024
+# Number of Entries: 107086
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1411,6 +1411,7 @@
 5vvwwuniswap.top
 5vwwuniswap.top
 5ybqdy.nmoamult.com
+5yq1h.pro
 6-chess.online
 6-collab-land.pro.1-collab-land.pro
 6-paxful.com
@@ -1557,6 +1558,7 @@
 99x.clubs-mint.pdma.live
 9aa542c7.c817588e7585f833a0bc52c8.workers.dev
 9af68e44.4d9aa11f0cc24373ec9d6295.workers.dev
+9afhjs.cc
 9b3ff.free-mintwl.com
 9bitcoin.xyz
 9caramel.info
@@ -10691,6 +10693,7 @@ bcsminer.com
 bcwt6ozxt9.mazetalaei.ir
 bd-bitfinex.com
 bd-coinbase.com
+bdb7.cc
 bdc20.com
 bdcoin.website
 bdctrust.com
@@ -29502,6 +29505,7 @@ eth-double.info
 eth-drop.club
 eth-drop.com
 eth-drop.io
+eth-ensdao.net
 eth-ethereum-mixer.org
 eth-event.biz
 eth-event.com
@@ -36583,6 +36587,7 @@ giwe-trustpad.top
 gjehw.cfd
 gjjlc.snow521.com
 gjjlyhzc.jt3000.com
+gjkf.pro
 gjs.jsgoodjx.com
 gjvvo.com
 gkieservicemigration.site
@@ -46080,6 +46085,7 @@ lvcidia.live
 lvcidia.spot-freemint.com
 lvlogisticscorp.com
 lvmhnft.xyz
+lvrmjm.pro
 lwe-group.com
 lwve.top
 lx.s3o98.com
@@ -79943,6 +79949,7 @@ solpokeball.xyz
 solpokemon.click
 solpro.online
 solrazr.club
+sols-meta.web.app
 solscan.biz
 solscan.bz
 solscan.fr
@@ -81027,6 +81034,7 @@ starknet-now.network
 starknet-now.pics
 starknet-official.tech
 starknet-pro.icu
+starknet-program.xyz
 starknet-reward.network
 starknet-sale.co
 starknet.cointon.org
@@ -87072,6 +87080,7 @@ twtlabz.space
 twtloan.com
 twtpadx.top
 txa-aso.com
+txaq.cc
 txcointeam2.vip
 txcryptoa.xyz
 txcryptoss.xyz
