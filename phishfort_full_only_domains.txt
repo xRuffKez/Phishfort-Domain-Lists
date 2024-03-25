@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 06:02:07 UTC 2024
-# Number of Entries: 107086
+# Fetch date: Mon Mar 25 07:01:42 UTC 2024
+# Number of Entries: 107089
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -54692,6 +54692,7 @@ mx01.pancokeswap.com
 mx1.pancakesvqp.com
 mx1.pancokeswap.com
 mx2.pancokeswap.com
+mxap.cc
 mxc-encryption.pages.dev
 mxc.web3authenticatehub.digital
 mxetherwallet.com
@@ -63333,6 +63334,7 @@ pancake-shiba.space
 pancake-staking.com
 pancake-super.com
 pancake-svvap-spot.com
+pancake-swap-airdrop.com
 pancake-swap-crypto.com
 pancake-swap-drop.pro
 pancake-swap-finance-v2.com
@@ -84227,6 +84229,7 @@ tether-bonus.com
 tether-bot.buzz
 tether-bot.life
 tether-bot.one
+tether-claim-usdt.online
 tether-claim.com
 tether-claim.online
 tether-defi.info
