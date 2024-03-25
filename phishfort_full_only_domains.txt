@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 12:02:00 UTC 2024
-# Number of Entries: 107093
+# Fetch date: Mon Mar 25 13:01:37 UTC 2024
+# Number of Entries: 107092
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -47532,7 +47532,6 @@ market-pixelvault.net
 market-place-bids.com
 market-place.best
 market.immutable-x.fun
-market.jo-i.org
 market.pancakesvqp.com
 market.placeaxieinfinity.co
 market.placeaxieinfinity.net
@@ -61017,6 +61016,7 @@ one-inch.xyz
 one-inch2023.pro
 one-keis.ru
 one.advance-refund.info
+oneamerica.icu
 oneamericaltcpartners.com
 oneamericasecuritiesinc.com
 onearbitrum.checkterms.com
@@ -92758,7 +92758,6 @@ walleterrorsupport.com
 walletes-avax.com
 walletesconnect.co.uk
 walleteth.top
-walletether.net
 walletevalidate.info
 walletexodus.com
 walletexodus.pro
