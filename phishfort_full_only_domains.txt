@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 13:01:37 UTC 2024
-# Number of Entries: 107092
+# Fetch date: Mon Mar 25 14:01:35 UTC 2024
+# Number of Entries: 107095
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -26068,6 +26068,7 @@ detmassagoverst.com
 detmauibenefits.org
 detmauimass.org
 detme.org
+detnmama.com
 detoprotoco.online
 detoprotoco.pro
 detuima.org
@@ -47200,6 +47201,7 @@ malbsbltkubs-net.1gb.ru
 malkafrga.site
 mall2022.com
 malogdet.com
+mamasuimestmaorgst.com
 mamtaairdropevent.net
 mamtabluerewards.com
 mamtabluerewards.net
@@ -52703,6 +52705,7 @@ minipepe.run
 minipepe.top
 minipepe.work
 minipepecoin.com
+ministerstwosprawiedliwosci.com
 miniswwap.store
 minitabe.com
 minnconnect.herokuapp.com
@@ -87178,6 +87181,7 @@ udsc-cliamreward.com
 uedc-promogive.com
 uefa-reward.com
 uelifesciences.in
+ueplestaret.com
 ueswap.cloud
 ueth.pw
 ueuyyeyjehgetygbh0-wy563hbhsdhvte-gvdsgs.ey-gsh-839hj-sh73bdu8-ns627.repl.co
@@ -97640,7 +97644,6 @@ www.coingdecko.us
 www.coingeacko.link
 www.coingebcko.click
 www.coingeccko.us
-www.coingeciko.pro
 www.coingeckbo.us
 www.coingeckeo.us
 www.coingeckko.us
