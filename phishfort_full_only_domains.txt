@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 11:01:57 UTC 2024
+# Fetch date: Mon Mar 25 12:02:00 UTC 2024
 # Number of Entries: 107093
 # Expires: 1 hour
 0-metemask.com
@@ -1402,6 +1402,7 @@
 5raydium.sbs
 5roeh2dm9tgpqgtlhs27.vlh3.ru
 5sssz8bxghgibjroiqdn.w3w13x8.ru
+5thavenue-fashion.be
 5thavenuesale-shoes.shop
 5twmjfo.mazetalaei.ir
 5vvv-roninwallet.top
@@ -30644,6 +30645,7 @@ etherland.live
 etherlscan.link
 ethermail.claims
 etherme.pw
+ethermegas.org
 ethermerge-x2.com
 ethermerge.tech
 ethermine-airdrop.com
@@ -33806,7 +33808,6 @@ foundation.de
 foundation.dxdy.live
 foundation.fit
 foundation.info
-foundation.ink
 foundation.live
 foundation.ml
 foundation.net
@@ -41080,6 +41081,7 @@ jy25v.texasdrama.com
 jyb.stamsya.com
 jydftx.com
 jyetherwallet.com
+jysm.mkwk.vip
 jysn7.kisj.net
 jyw.aviortransafrica.com
 jyw.univ-q.com
@@ -46269,7 +46271,6 @@ maggpiexyz.xyz
 magic--eden.io
 magic-ai.app
 magic-app.xyz
-magic-ball.nfts2.me
 magic-eben.com
 magic-eden-app.tech
 magic-eden-b.blogspot.com
@@ -48459,6 +48460,7 @@ memefarming.fun
 memefighter.top
 memeiand.co
 memekombat-api.pages.dev
+memekombat-def.web.app
 memekombat-server.pages.dev
 memekombat-staking.xyz
 memekombat.trastpad.today
@@ -48759,7 +48761,6 @@ meta-mask.prizze-holder.site
 meta-mask.prizzecoin.site
 meta-mask.prizzholder.space
 meta-mask.tech
-meta-mask.trade
 meta-mask.vip
 meta-mask.world
 meta-maskconnect.webstarts.com
@@ -72260,7 +72261,6 @@ psecured-paxful.com
 psecurity-paxful.com
 psegenergy.support
 psetinkeri.live
-psgyh.top
 psncakeswap.finance
 pssd.id
 pssd.world
