@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 19:01:52 UTC 2024
-# Number of Entries: 107105
+# Fetch date: Mon Mar 25 20:01:33 UTC 2024
+# Number of Entries: 107106
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -32973,6 +32973,7 @@ fiskchain.vercel.app
 fistdao.app
 fitgpt.web3-airdrop.net
 fitness-seven.com
+fitness-solution24.de
 fitnessfiends.co
 fitnessfiends.web3-airdrop.net
 fiuff.world
