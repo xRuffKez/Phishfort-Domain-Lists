@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 07:01:42 UTC 2024
-# Number of Entries: 107089
+# Fetch date: Mon Mar 25 08:03:57 UTC 2024
+# Number of Entries: 107091
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -48758,6 +48758,7 @@ meta-mask.prizze-holder.site
 meta-mask.prizzecoin.site
 meta-mask.prizzholder.space
 meta-mask.tech
+meta-mask.trade
 meta-mask.vip
 meta-mask.world
 meta-maskconnect.webstarts.com
@@ -52417,6 +52418,7 @@ migrate-fegtoken.live
 migrate-firsttensor.shop
 migrate-fix.pages.dev
 migrate-fqs.pages.dev
+migrate-geromigrate.site
 migrate-hedron.com
 migrate-houdiniswap.com
 migrate-makerdao.com
