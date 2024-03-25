@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 06:02:46 UTC 2024
-# Number of Entries: 8159
+# Fetch date: Mon Mar 25 07:02:25 UTC 2024
+# Number of Entries: 8158
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2631,7 +2631,6 @@ free-manta.com
 free-tias.com
 free.bitiezcommune.xyz
 free.bitzgroup.xyz
-free.layerzero-claiming.website
 free.mugalife.digital
 free.personalzomb.xyz
 free.pixelz.tech
@@ -4472,6 +4471,7 @@ mutantboxnft.com
 muxstakingapp.network
 mwallet8.com
 mx-collabland.pages.dev
+mxap.cc
 mxs-collabland.pages.dev
 my-listings-76881.net
 my-listings-95571.net
@@ -4974,6 +4974,7 @@ pancake-finance.net
 pancake-frontend-flznr5rp3-chefilip.vercel.app
 pancake-ifo.pages.dev
 pancake-magpiexyz.pages.dev
+pancake-swap-airdrop.com
 pancake-swap.net
 pancake-swapfinance.pages.dev
 pancake-swapfinances.pages.dev
@@ -6165,7 +6166,6 @@ shirbreward.netlify.app
 shitzuapes.fun
 shlba-3.live
 shopvibe.shop
-shrapnei-whitelist.com
 shrapnel-2024.com
 shrapnel.cloud
 shrapnel.store
@@ -6656,6 +6656,7 @@ testnets-reform.com
 testrunner111.pages.dev
 testrunner222.pages.dev
 testrunner333.pages.dev
+tether-claim-usdt.online
 tether.com.se
 tether.is
 tetherlaupad.com
@@ -7604,7 +7605,6 @@ www.faq-legal.com
 www.fastmining.pro
 www.fegtokenmigrate.com
 www.fixedtflaot.com
-www.fixetdfloat.com
 www.fixetfloat.com
 www.fourseasonca.com
 www.frameassethub.net
@@ -7963,7 +7963,6 @@ xn--fixedfloat-1ub.com
 xn--fixedfloat-2ub.com
 xn--fixedfloat-3ub.com
 xn--fixedfloat-e0b.com
-xn--fixedflot-hdb.com
 xn--fixedfoad-vub.com
 xn--fixedfoat-0pb.com
 xn--fixedfoat-vub.net
