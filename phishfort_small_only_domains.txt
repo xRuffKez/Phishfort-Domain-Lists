@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 24 23:02:22 UTC 2024
-# Number of Entries: 8147
+# Fetch date: Mon Mar 25 00:07:59 UTC 2024
+# Number of Entries: 8140
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -172,7 +172,6 @@ achieve-altlayer.io
 achieve-altlayer.pages.dev
 acrosss-bridge.xyz
 active-supp-ort-meta.netlify.app
-admin.booking-login.com
 admincoinbase.the123456789.com
 adpunily.azurewebsites.net
 adslauncher.eu
@@ -637,7 +636,6 @@ app.farmersonly.fi
 app.financeglobal.trade
 app.formbot.com
 app.kiloex-airdrop.com
-app.kinzaxk-group.com
 app.lumiwallet.live
 app.moonbeam-web.com
 app.moonbeamer-swap.com
@@ -1448,7 +1446,6 @@ claim-opensea.com
 claim-opsecs.net
 claim-paals.com
 claim-pacmon.xyz
-claim-palmai.tech
 claim-pancakaswap.web.app
 claim-pancakeswap.web.app
 claim-pancakeswep.web.app
@@ -2069,7 +2066,6 @@ dexsynage.web.app
 dextoolhub.com
 dextools.bz
 dextools.events
-dextools.io-wallet.app
 dextpool.xyz
 dfacows.net
 dfycy.com
@@ -2835,7 +2831,6 @@ gq26v.pro
 grab-farcanacom.pages.dev
 grab-zetachain.com
 grandomaster.com
-grapepubliczk.org
 graviex-defi.club
 graviex-defi.xyz
 graybarz.com
@@ -2933,7 +2928,6 @@ holding-coins.web.app
 holtec-international.ltd
 home-aave.net
 home-ocean.net
-home-repair-tucson.com
 home.brickmark.club
 home.earnclout.com
 home.itsearn.biz
@@ -6415,7 +6409,6 @@ starknet-airdrop.events
 starknet-airdrops.io
 starknet-crypto.com
 starknet-foundation.io
-starknet-info.org
 starknet-launch.com
 starknet-now.network
 starknet-now.pics
