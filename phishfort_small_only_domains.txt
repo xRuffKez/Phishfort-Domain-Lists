@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 20:02:13 UTC 2024
-# Number of Entries: 8168
+# Fetch date: Mon Mar 25 21:02:04 UTC 2024
+# Number of Entries: 8167
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1753,7 +1753,6 @@ cowitechnical.com
 cowswap.app
 cozartweb.com
 cozymeta.com
-cpcontacts.euarabbank.com
 cpf-sponsoring.com
 crashout-casino.com
 crashout.run
