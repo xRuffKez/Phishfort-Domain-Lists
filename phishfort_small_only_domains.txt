@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 21:02:04 UTC 2024
-# Number of Entries: 8167
+# Fetch date: Mon Mar 25 22:02:09 UTC 2024
+# Number of Entries: 8166
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -478,7 +478,6 @@ analayze.orb-crypto.com
 analos-kohl.vercel.app
 analos-meme.site
 analos-wr2zn.netlify.app
-analos.app
 analos.cc
 analos.events
 analos.insure
@@ -3598,6 +3597,7 @@ login--blockgames.com
 login-cisco.tech
 login-frame.xyz
 login-metamaskwallet.ddnss.eu
+login.cw1.ir
 login.frame-airdrop.xyz
 login.microsoftonlineportal.ppp-gov.online
 login.wapstore.duckdns.org
@@ -4130,7 +4130,6 @@ metamask-verfiy.diaitologostopouza.gr
 metamask-verse.pages.dev
 metamask-wallet-main.pages.dev
 metamask-wallet.pro
-metamask.2fareset.com
 metamask.baby
 metamask.claims
 metamask.cool
