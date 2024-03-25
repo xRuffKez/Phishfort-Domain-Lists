@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 02:08:25 UTC 2024
-# Number of Entries: 107058
+# Fetch date: Mon Mar 25 03:01:52 UTC 2024
+# Number of Entries: 107059
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3040,7 +3040,6 @@ agoda.conferm.online
 agoda.d-loade.top
 agoda.fun
 agoda.gologonow.website
-agoda.host
 agoda.ib-web.online
 agoda.icu
 agoda.lovestoblog.com
@@ -42599,6 +42598,7 @@ launchx2.space
 laundapps-connect.us
 laundchpad.xyz
 launnchh.netlify.app
+laurentian-verif.com
 lava-lnt.com
 lavabird-promogive.com
 lawwehd.com
@@ -96848,6 +96848,7 @@ www.asx-supervip-exchange.com
 www.asx-tenkend.com
 www.asx-trading.top
 www.asx-tsesa.top
+www.asx-vips.com
 www.asx-vvip-exchange.com
 www.asxcion.com
 www.asxcions.com
