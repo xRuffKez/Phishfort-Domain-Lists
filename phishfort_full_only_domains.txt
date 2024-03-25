@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 04:01:51 UTC 2024
-# Number of Entries: 107065
+# Fetch date: Mon Mar 25 05:01:36 UTC 2024
+# Number of Entries: 107077
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -9576,6 +9576,8 @@ axsinfinnity-axiie.online
 axsmarketplace.cam
 axsmarketplace.co
 axsronin-infinity.shop
+axstokenhub.com
+axstokenlab.top
 axsx-axieinfinity.shop
 axtnjmkoe75rjdj.www.beta-openselling.pancakeswasap.one
 axxieinfinity.com
@@ -12764,6 +12766,7 @@ blender404.xyz
 blenderbtc.io
 blenderio.ai
 blendor.io
+blendrrnetwork.org
 blendswaps.xyz
 blerbit.com
 bleuzelle.com
@@ -37494,6 +37497,7 @@ hayleypobar.com.au
 hazermint.com
 haziragel.site
 hazirsangel.store
+hbar-distribution.com
 hbbsnp.cyou
 hbhongkong.com
 hbintlonline.com
@@ -41011,6 +41015,7 @@ jupptrullo.cc
 juppy-box.com
 juppyapps.com
 juppycases.trade
+juppystart.app
 jupqq.com
 juprr.com
 jups.io
@@ -42294,6 +42299,7 @@ l1cloudhaut.com
 l1inch.com
 l1nch.exchange
 l1xpresale.com
+l2-blast.buzz
 l2-blast.io
 l2racesupremacy.com
 l3-rollups.xyz
@@ -50813,6 +50819,7 @@ metamaskapp5.com
 metamaskapp6.com
 metamaskapply.ddns.net
 metamaskarb.com
+metamaskarticle.com
 metamaskaskdlasd.cam
 metamaskattach.org
 metamaskauthentication.amazingohosting.com
@@ -54020,6 +54027,7 @@ multibridggedapps.com
 multibriidgedapps.com
 multicaixasnete-mg.blogspot.com
 multichain-app.xyz
+multichain-auth.netlify.app
 multichain-authenticator.pages.dev
 multichain-beta.com
 multichain-beta.net
@@ -80329,6 +80337,7 @@ spiritswap.tech
 spiritswaps.com
 spk-makerdao.com
 spl-20-dao.web.app
+spl20-top.web.app
 splashcoin-promogive.net
 splendid-peacock.com
 splendorous-kringle-27ac38.netlify.app
@@ -86861,6 +86870,7 @@ try.starkzparticipate.com
 try.zparkgroup.com
 tryaml.com
 tryfriend.tech
+tryingfixedxl.pages.dev
 tsa135.com
 tsai.com.au
 tsakeland.com
@@ -95039,6 +95049,7 @@ whatsinmycryptowallet.com
 whatthefluff.lol
 wheelagoda.com
 wheelclubpro.online
+wheelerr.shop
 whelps.io
 wheremyvansgo.live
 whinelist-strk.org
@@ -95924,6 +95935,7 @@ www-debank.trade
 www-debank.xyz
 www-debankk.blogspot.com
 www-defilama.com.de
+www-delfilama.com
 www-derlblt-contact.blogspot.com
 www-desktop-ledger.com
 www-dextools.com
