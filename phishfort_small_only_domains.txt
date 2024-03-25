@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 07:02:25 UTC 2024
-# Number of Entries: 8158
+# Fetch date: Mon Mar 25 08:04:22 UTC 2024
+# Number of Entries: 8157
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2345,7 +2345,6 @@ eportal-suppliers.online
 epplicstand.top
 epriceshop02.cc
 equinor-ind.net
-eransdrop.eu
 erc-wintermute.org
 erdefimining.com
 ericaleite.com
@@ -3549,7 +3548,6 @@ link3.hair
 link3.web3-manager.com
 links-airtm.com
 liquid-stake.com
-liquideth.world
 liquidether.org
 liquidether.rip
 liquidetherv2.com
@@ -3613,7 +3611,6 @@ lootynetwork.org
 lottery.ridottowin.online
 lovecoprinttestelnur.com
 lpfi1.cc
-lqeth.com
 lrt-eigenlayer.xyz
 lsd-mainnet-address-spoofing.netlify.app
 lst-eigenlayer.xyz
@@ -4054,6 +4051,7 @@ meskk.app
 met-mask-usa-wallet.godaddysites.com
 meta-kyc-activations.io
 meta-mask-login-webaccess-rewoyal611554508.codeanyapp.com
+meta-mask.trade
 meta-neotokyo.com
 meta-redirect.com
 meta-restore.pages.dev
@@ -4264,6 +4262,7 @@ migrate-aeggs.pro
 migrate-dapp.pro
 migrate-firsttensor.shop
 migrate-fix.pages.dev
+migrate-geromigrate.site
 migrate-hedron.com
 migrate-houdiniswap.com
 migrate-memedefiv2.icu
