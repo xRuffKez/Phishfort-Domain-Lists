@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 03:02:25 UTC 2024
-# Number of Entries: 8136
+# Fetch date: Mon Mar 25 04:02:28 UTC 2024
+# Number of Entries: 8141
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -418,6 +418,7 @@ alshayastore.com
 alshayeagroup.com
 alt-layers.com
 alt-token.net
+alt-zerolend.xyz
 altayerio.top
 altidentlfler.net
 altlaayer-io.top
@@ -1823,6 +1824,7 @@ dao-radiant.capital
 daoblend.xyz
 daoblender.xyz
 daomaker.bond
+daomaker.company
 daomaker.my.id
 daoprotocol.pages.dev
 dap-radar.com
@@ -2266,6 +2268,7 @@ eigen-layer.live
 eigenilayer.com
 eigenlaver.magpiexyz.site
 eigenlayer-airdrop.claims
+eigenlayer-app-magpie-eigenpie-staking.kemi-g.com
 eigenpie.saydbaeaumca.xyz
 ekudo.org
 electrum.app.electrumconnect.site
@@ -4413,6 +4416,7 @@ multchain.net
 multgates.com
 multi-chain-connect.xyz
 multi-factor-authentication.online
+multi-smartworthyappverse.org
 multi-trustpade.site
 multi-trustpades.cc
 multibit-exchange.com
@@ -4443,6 +4447,7 @@ multiplier-bitstable.finance
 multiplier-manta.network
 multiplier.aitsprotcol.com
 multiswaps.org
+multisystemcoinwallet.web.app
 multiverse-us94.onrender.com
 multiwalletexplore.on.fleek.co
 multiwalletsystem.web.app
