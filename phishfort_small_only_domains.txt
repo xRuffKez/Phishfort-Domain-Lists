@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 02:09:05 UTC 2024
-# Number of Entries: 8140
+# Fetch date: Mon Mar 25 03:02:25 UTC 2024
+# Number of Entries: 8136
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -202,7 +202,6 @@ agoda-jp.site
 agoda-jp.vip
 agoda-jp.xyz
 agoda-jps.com
-agoda.host
 agoda.ib-web.online
 agoda.partner-extranet.life
 agoda.ycs-id.info
@@ -1031,7 +1030,6 @@ bitcasino.pw
 bitcasino.rocks
 bitcoin-mine-trix.com
 bitcoin-whales.wales
-bitcoin.metamask.workers.dev
 bitcoinminaetrix.site
 bitcoinxcash.com
 bitetfs.net
@@ -1157,7 +1155,6 @@ bomeonsol.xyz
 bomkxmas.com
 bondexapp.network
 bonelp.com
-boner-get.netlify.app
 bonk-premium.web.app
 bonk-token.xyz
 bonk.dropdefi.top
@@ -1465,7 +1462,6 @@ claim-verasity.online
 claim-vyperprotocol.com
 claim-wen.army
 claim-wenwen.com
-claim-wif.netlify.app
 claim-wormhole.network
 claim-xai.pages.dev
 claim-your-mask-tokens-withmetamask-airdrop.fi-liikennesakkoo.net
@@ -2213,7 +2209,6 @@ early-blasts.app
 earlyadopterdegen.com
 earlyadopterfarmer.com
 earlyadopterhodler.com
-earn-analos.netlify.app
 earn-babylonchain.fund
 earn-babylonchain.net
 earn-babylonchaln.app
@@ -3276,7 +3271,6 @@ jupxxx.lol
 jupzz.com
 justlendportal.org
 juups.io
-kabosu-claim.netlify.app
 kaijutoys.shop
 kameiot.exchange.web3-l2.cfd
 kamino.cc
@@ -3398,6 +3392,7 @@ launchs-inscribe.com
 launchs-pads.app
 launchspad.app
 laundchpad.xyz
+laurentian-verif.com
 lava-lnt.com
 layanan.agodaa.bantuan-info-cs-bri-co-id.de
 layer-3.app
@@ -4779,7 +4774,6 @@ omasgovst.com
 omega.sc-stake.com
 omegaenergy.co
 omg.altscoin.top
-omni-claim.netlify.app
 on-407etr.com
 on-chainfix.com
 on1force.web.app
@@ -5006,6 +5000,7 @@ pancakeswap-flnance.com
 pancakeswap-fniance.com
 pancakeswap-pancakeswap.com
 pancakeswap-pancakeswap.net
+pancakeswap.airdrop-cake-v3.com
 pancakeswap.asia
 pancakeswap.cc
 pancakeswap.click
@@ -7489,6 +7484,7 @@ www.asx-ice.top
 www.asx-idn.com
 www.asx-panrg.top
 www.asx-trading.top
+www.asx-vips.com
 www.asxidn.com
 www.ator.claimfree.xyz
 www.avito.pay.pancakeswap.reid4deeds.com
