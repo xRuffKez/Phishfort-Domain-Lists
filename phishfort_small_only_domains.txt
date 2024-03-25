@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 15:02:32 UTC 2024
-# Number of Entries: 8159
+# Fetch date: Mon Mar 25 16:02:24 UTC 2024
+# Number of Entries: 8161
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2518,7 +2518,6 @@ fireblockscrypto.com
 firmware-data.pages.dev
 first-braved.info
 firstports.co.uk
-fitness-solution24.de
 fix-metamask.pages.dev
 fix.errorsolution.org
 fixadfloat.com
@@ -4053,6 +4052,7 @@ meskk.app
 met-mask-usa-wallet.godaddysites.com
 meta-kyc-activations.io
 meta-mask-login-webaccess-rewoyal611554508.codeanyapp.com
+meta-mask.trade
 meta-neotokyo.com
 meta-redirect.com
 meta-restore.pages.dev
@@ -4897,6 +4897,8 @@ optimism.airdrops-claiming.cc
 optimism.claim-airdrop.pro
 optimism.io-op-claim.top
 optimism4.com
+optiver-vip.com
+optiver-vipapp.vip
 optiveronline.com
 optivertradeoptions.com
 oraclegarden.network
