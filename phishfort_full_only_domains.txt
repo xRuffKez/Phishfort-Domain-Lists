@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Mar 25 17:01:38 UTC 2024
-# Number of Entries: 107103
+# Fetch date: Mon Mar 25 18:01:51 UTC 2024
+# Number of Entries: 107105
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -22533,6 +22533,7 @@ d.stonexdmffh.top
 d.stonexgkkof.top
 d.xn--scord-m4a.com
 d006109287-fg27820-2071f1.netlify.app
+d0cusiqn.hottern.click
 d15yrdwpe4ks3f.cloudfront.net
 d1a79aimx73yka.cloudfront.net
 d2-vote.com
@@ -68840,6 +68841,7 @@ pepz-group.lol
 per-empower.com
 per-empower.com.affiliateadvantageventures.com
 peralesam.online
+peraxel.com
 perceptiveorbsyscaga.pages.dev
 perdashboard.online
 perdetech.tk
