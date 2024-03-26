@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 03:01:34 UTC 2024
-# Number of Entries: 107108
+# Fetch date: Tue Mar 26 04:01:53 UTC 2024
+# Number of Entries: 107113
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -60829,6 +60829,7 @@ oj.yqodr.proyectocorazon.org
 oj3ij.cc
 ojetoken-promogive.com
 ojeymc.shop
+ojinalf.com
 okaisworld.xyz
 okax.shop
 okaybears.gifts
@@ -76470,6 +76471,7 @@ saksfifthavenueus.com
 saksfifthavenueusa.shop
 saksfifthavenueysl.com
 saksfifthavenuezone.com
+saksof5th.club
 saksoff-55th.com
 saksoff.sakskoesad.com
 saksoff.saksoff5ths.com
@@ -76479,6 +76481,8 @@ saksoff5th-online.shop
 saksoff5th-store.shop
 saksoff5th-stores.shop
 saksoff5th-us.shop
+saksoff5th-us1.com
+saksoff5th.love
 saksoff5th.online
 saksoff5th.store
 saksoff5th.vip
@@ -76488,6 +76492,7 @@ saksoff5thf.com
 saksoff5thkppltpj.com
 saksoff5thmall.com
 saksoff5thmall.top
+saksoff5thnn-us.com
 saksoff5thnns.com
 saksoff5thnu.com
 saksoff5tho.com
