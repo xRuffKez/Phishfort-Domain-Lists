@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 10:02:31 UTC 2024
-# Number of Entries: 8185
+# Fetch date: Tue Mar 26 11:03:01 UTC 2024
+# Number of Entries: 8196
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1097,7 +1097,6 @@ blast-l2.dev
 blast-layer.web.app
 blast-newsletter.com
 blast-protocol.xyz
-blast-stage.icu
 blast.dropapp.pro
 blast.eventairdrop.com
 blast.l2mainet.xyz
@@ -2378,6 +2377,11 @@ eth-yieldfarming.org
 eth2.foundation
 eth20app.live
 ethdrop.xyz
+ethena-ddg.pages.dev
+ethena-dwm.pages.dev
+ethena-mining.pages.dev
+ethena-pool.pages.dev
+ethena-solutions.pages.dev
 ethena.blog
 ether-web3.com
 etheregas.xyz
@@ -3766,6 +3770,7 @@ mant-app.com
 manta-6om.pages.dev
 manta-aidrop.network
 manta-air.xyz
+manta-airdrop.7eel.com
 manta-airdrop.mobi
 manta-airdrop.org
 manta-airdrops.network
@@ -3815,6 +3820,7 @@ manta-token.com
 manta-treasury.com
 manta-wallets.xyz
 manta-xi.vercel.app
+manta.claimw.xyz
 manta.gives
 manta.hair
 manta.layerbank.cc
@@ -4387,6 +4393,7 @@ mode-network.top
 mode-network.web3-apps.com
 mode.web3-apply.com
 modealrdrop.com
+modechain.pages.dev
 modenet.work
 modenetwork.io
 modenetwork.netlify.app
@@ -4465,6 +4472,7 @@ multichain-web.live
 multichain-web.pro
 multichainapprove.pages.dev
 multichainbridge-dapp.onrender.com
+multichained.pages.dev
 multichainnetwork.pages.dev
 multichainnode.onrender.com
 multichainprotocol.netlify.app
@@ -4672,7 +4680,6 @@ nft-starknet-project.vercel.app
 nft-swellnetwork.io
 nft-trade.xyz
 nft-win.pages.dev
-nft.azukl.biz
 nft.cologne
 nft.diet
 nft.wormscommunity.com
@@ -4721,6 +4728,7 @@ nibirun-web3.com
 nibiruprojectdrop.xyz
 nibiry-app.top
 niburufi-registers-verify.vercel.app
+nim-claim.network
 njmvdu.pro
 nkbihfbeogaeaoehlefnkodbefgpgknn.metamaskk.skyhighfirstclass.com.ng
 nkjs0.ru.com
@@ -5008,6 +5016,7 @@ pancake.fniu.dev
 pancake.magpiexyz.io.nework.live
 pancake.svap.org.in
 pancake.svap.us.com
+pancake.swap.primaprofits.com
 pancake888.com
 pancakedrop.com
 pancakeeswap.com
@@ -5284,7 +5293,6 @@ perks-pepe.com
 perpnft.xyz
 perponschainrewards.pages.dev
 pers-daviplata.webcindario.com
-persistent.com.es
 personajourney.trading
 perurhealth.com
 peryourhealth.be
@@ -5298,6 +5306,7 @@ pewall.live
 peylocity.net
 peylocity.org
 pfantmwallet.godaddysites.com
+pgenztokenclaim.pages.dev
 phanntm-walluut.godaddysites.com
 phanntomnwallet.com
 phanss.online
@@ -5709,6 +5718,7 @@ receiveusdc.com
 receptivegleam.top
 reckonmexico.com
 reconnectto.org
+recoveryportal.pages.dev
 rect-c0nnrtc.pages.dev
 rect-fixdapps.pages.dev
 rectifier-sync.pages.dev
@@ -6882,6 +6892,7 @@ trx-swap-0n.online
 try.starkzparticipate.com
 try.zparkgroup.com
 tryaml.com
+tryingffixedd.pages.dev
 tryingfixedxl.pages.dev
 tsa135.com
 tsakeland.com
