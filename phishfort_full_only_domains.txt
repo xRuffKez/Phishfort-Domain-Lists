@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 16:01:57 UTC 2024
-# Number of Entries: 107162
+# Fetch date: Tue Mar 26 17:01:31 UTC 2024
+# Number of Entries: 107166
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -35512,6 +35512,7 @@ genopets.teraformseed.me
 genoverde.com
 genoverse.bio
 genoverse.top
+genpartstore.com
 genptc.com
 genscripteth.go.yo.fr
 gensea.io
@@ -37377,6 +37378,7 @@ haitwik.com
 hajj-nusuk.foundation
 hajjdomestic-sa.info
 hakigiveaway.com
+halefiuamamalst.com
 halento.pw
 halessent.site
 halestramasslost.com
@@ -62609,6 +62611,7 @@ org-protocol-airdrop.com
 org-site-v3-defi.pro
 org-swap-pool.site
 org-ubeswaps.com
+orgderma.com
 orgnlt.me
 ori-colection.net
 ori-curated.art
@@ -77509,6 +77512,7 @@ seguridad-numero-ya.liveblog365.com
 seguritydecuenta.webcindario.com
 segurometlife.com
 segurosmetlifemexico.com.mx
+segurototal2024.com
 sehrkort.club
 sei-airdrop.io
 sei-airdrop.org
