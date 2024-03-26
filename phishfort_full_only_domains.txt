@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 18:02:05 UTC 2024
-# Number of Entries: 107169
+# Fetch date: Tue Mar 26 19:01:24 UTC 2024
+# Number of Entries: 107171
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -52066,6 +52066,7 @@ metlifeinvests.com
 metlifeinvests.com.xenofunds.live
 metlifeperinsurance.com
 metlifeperteinsu.com
+metliferecruitment.com
 metlifesegurosmexico.com.mx
 metlifetrade.com
 metlifevip.com
@@ -78800,6 +78801,7 @@ slimroyale.com
 slingshot.claims
 slingtoken.com
 slipjam.co.za
+slitty.me
 slivtutfull.site
 sllngshotfinance.com
 slmmarketingdigital.com
