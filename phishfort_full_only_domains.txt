@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 08:02:06 UTC 2024
-# Number of Entries: 107130
+# Fetch date: Tue Mar 26 09:01:43 UTC 2024
+# Number of Entries: 107128
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -33629,7 +33629,6 @@ flufworld.wtf
 flufworldnft.io
 flufworldnft.xyz
 fluidswap.io
-flukeoutil.com
 fluralpha.get-mint.com
 flursalpha.xyz
 flutter.mykeyconfirm.online
@@ -67577,7 +67576,6 @@ parradigm.xyz
 parradigmcenter.com
 parrcakeswap.com
 parrcakeswap.finance
-parriss2024.org
 parsec.gift
 parsecs.finance
 partenariat-bouygues-telecom-entreprises.fr
