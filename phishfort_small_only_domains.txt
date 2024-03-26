@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 01:22:40 UTC 2024
-# Number of Entries: 8166
+# Fetch date: Tue Mar 26 02:07:23 UTC 2024
+# Number of Entries: 8157
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -206,6 +206,7 @@ agoda-jp.site
 agoda-jp.vip
 agoda-jp.xyz
 agoda-jps.com
+agoda.host
 agoda.ib-web.online
 agoda.partner-extranet.life
 agoda.ycs-id.info
@@ -477,12 +478,9 @@ an.myudetma.online
 analayze.orb-crypto.com
 analos-kohl.vercel.app
 analos-meme.site
-analos-wr2zn.netlify.app
 analos.cc
 analos.events
 analos.insure
-analos.site
-analosmem.io
 analyse-trades.web.app
 ancient-step-road.vercel.app
 andex.vercel.app
@@ -3525,6 +3523,7 @@ linea-consensys.world
 linea-layerfinance.com
 linea-park.com
 linea.baby
+lineablobs.com
 lineabridge.build
 lineabuiid.com
 lineadapps.xyz
@@ -4239,7 +4238,6 @@ metmsakconditionweb3.netlify.app
 metnmask.io
 metnmaskn.io
 metoamask.com
-metomaska.com
 metrsamasknig.azurewebsites.net
 metsafnmaske.azurewebsites.net
 metsfghmaskus.azurewebsites.net
@@ -5018,7 +5016,6 @@ pancakeswao.finance
 pancakeswap-airdop.com
 pancakeswap-connect.xyz
 pancakeswap-exchange-testnet.netlify.app
-pancakeswap-exchange.mom
 pancakeswap-finance.mom
 pancakeswap-financee.netlify.app
 pancakeswap-finnance.com
@@ -5265,7 +5262,6 @@ per-empower.com.affiliateadvantageventures.com
 peraxel.com
 perceptiveorbsyscaga.pages.dev
 perdashboard.online
-perfectcheckgift.com
 perks-pepe.com
 perpnft.xyz
 perponschainrewards.pages.dev
@@ -5292,7 +5288,6 @@ phantimp.xyz
 phantjum.xyz
 phantom-protocol.com
 phantom-webservice.online
-phantom.gift
 phantomm-ewallett.godaddysites.com
 phantomtoken.app
 phantomwaalet.godaddysites.com
@@ -5660,11 +5655,9 @@ raydiums.io
 raydiums.pages.dev
 raydiumswap.com
 raydiumtoken.io
-raydiun.top
 raydiym.com
 raydlum.ink
 raydlum.net
-raydlum.top
 raydlumvy.com
 raydrium.io
 raydrop.live
@@ -6012,7 +6005,6 @@ saitapro.vercel.app
 saiyansdrop.com
 saks5.store
 saksoff.sakskoesad.com
-saksoff5th.love
 saksoff5th.store
 saksoff5thboool.top
 saksoff5thf.com
@@ -6612,7 +6604,6 @@ syneosbiocareer.com
 syneoscareer.com
 syngswap.github.io
 synthetixreward.com
-systemvaults.tech
 t3ct2s2.pro
 t528.com
 t5nv5.cc
