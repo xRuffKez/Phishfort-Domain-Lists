@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 11:03:01 UTC 2024
-# Number of Entries: 8196
+# Fetch date: Tue Mar 26 12:03:48 UTC 2024
+# Number of Entries: 8198
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1729,6 +1729,7 @@ connect.nghire.com
 connect.watchkava.xyz
 connect1038.lol
 connectapeterminal.io
+connectdappresolve.pages.dev
 connectdappsuniverse.click
 connectextension.info
 connectionlog.pages.dev
@@ -6106,6 +6107,7 @@ scorpion-casino.shop
 scotltytheai.xyz
 scotlytheais.club
 scottytheai-en.web.app
+scottyxai.com
 scottyystheai.xyz
 scotyttheai.pro
 scroll-reward.com
