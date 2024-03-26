@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 16:02:32 UTC 2024
-# Number of Entries: 8199
+# Fetch date: Tue Mar 26 17:02:08 UTC 2024
+# Number of Entries: 8201
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -176,7 +176,6 @@ achieve-altlayer.pages.dev
 acrosss-bridge.xyz
 active-supp-ort-meta.netlify.app
 admincoinbase.the123456789.com
-adpunily.azurewebsites.net
 adslauncher.eu
 advancelobstarhifi.pages.dev
 aerodrom.flnance.web3-l2.cfd
@@ -2740,6 +2739,7 @@ genesisdems.com
 genesisdimension.xyz
 genesisdymension.com
 genesisroll.com
+genpartstore.com
 gensis-dymension.xyz
 geosatelites.com
 gesit-logistik.com
@@ -2893,6 +2893,7 @@ h5.newscryptoio.com
 h8fl00.cc
 hajj-nusuk.foundation
 hajjdomestic-sa.info
+halefiuamamalst.com
 halestramasslost.com
 haleymasschendiovst.com
 halo-defi.web.app
@@ -4944,6 +4945,7 @@ ordiswaps.fi
 ordivalifusion.pages.dev
 ordizkweb.com
 org-networks.site
+orgderma.com
 orgnlt.me
 origintracdappcom.com
 orivium.trading
@@ -6150,6 +6152,7 @@ seedifyfund.co
 seedifyfunds.app
 seediify.site
 seedlfy.netlify.app
+segurototal2024.com
 sei-io.web.app
 seifmoon.pro
 seiyans-nft.com
@@ -6844,7 +6847,6 @@ tradeviewtoken.xyz
 tradinglabs.app
 trafalpo-maniar.com
 tramertoe.top
-tramsipublicidad.com
 transactionfair.site
 transfer24p2p.ru
 travalaai.live
