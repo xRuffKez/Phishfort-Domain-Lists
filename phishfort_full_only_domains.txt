@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 15:01:32 UTC 2024
-# Number of Entries: 107161
+# Fetch date: Tue Mar 26 16:01:57 UTC 2024
+# Number of Entries: 107162
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -85542,6 +85542,7 @@ tokenswapsync.com
 tokensync-connect.com
 tokensync-node.com
 tokensync.org
+tokensynced.pages.dev
 tokensyncer.com
 tokensyncer.xyz
 tokensyncernode.com
