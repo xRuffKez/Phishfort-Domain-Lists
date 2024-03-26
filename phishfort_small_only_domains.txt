@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 03:02:08 UTC 2024
-# Number of Entries: 8157
+# Fetch date: Tue Mar 26 04:02:32 UTC 2024
+# Number of Entries: 8162
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4779,6 +4779,7 @@ officineimmagine.it
 ogltree.com
 oinkeonsol.online
 oj3ij.cc
+ojinalf.com
 okaydogs.app
 okbokyn210.com
 okx-airdop.net
@@ -6004,11 +6005,15 @@ saitama.gift
 saitapro.vercel.app
 saiyansdrop.com
 saks5.store
+saksof5th.club
 saksoff.sakskoesad.com
+saksoff5th-us1.com
+saksoff5th.love
 saksoff5th.store
 saksoff5thboool.top
 saksoff5thf.com
 saksoff5thkppltpj.com
+saksoff5thnn-us.com
 saksoff5thnns.com
 saksoff5thnu.com
 saksoff5tho.com
