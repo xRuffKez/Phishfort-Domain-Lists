@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 13:02:06 UTC 2024
-# Number of Entries: 8198
+# Fetch date: Tue Mar 26 14:02:22 UTC 2024
+# Number of Entries: 8197
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -210,7 +210,6 @@ agoda.ib-web.online
 agoda.partner-extranet.life
 agoda.ycs-id.info
 agoda.ycs.my.id
-agoda360.com
 agoda88.cc
 agoda88.top
 agoda88.vip
@@ -854,6 +853,7 @@ autodiscover.aflacsinc.com
 autofix-node.pages.dev
 automation-feat-front-3795-display-log-tr-chainlinklabs.vercel.app
 autorestore.pages.dev
+autotecc.pages.dev
 autovalidateblockchain.com
 autovalidateweb3.pages.dev
 avalance-airdrop.com
@@ -1820,7 +1820,6 @@ custom-fender.com
 cwboffshoreonl.com
 cwboffshoreonline.com
 cwrestorevercelapp.com
-cyber.duckzgroup.xyz
 cyberdogecoin.org
 cyberdogecoin.top
 cyberkongz.pro
@@ -2025,7 +2024,6 @@ defilayers.org
 defimanta.net
 defimigration.com
 defimining101.com
-defindx.finance
 defipools17.xyz
 defiportfolio.online
 defiproject.info
@@ -3368,6 +3366,7 @@ ktogaza.pro
 kuduips.com
 kushflyusa.com
 kwool.ap-south-1.linodeobjects.com
+kwsnl.com
 kyc.ledger-online.net
 l-s-co-il.com
 l1cloudhaut.com
@@ -3599,6 +3598,7 @@ liveblocksrectify.pages.dev
 livefree-clestia.org
 livepersonatunitedairlin.amebaownd.com
 lives-manta.net
+livetecreset.pages.dev
 ljective.trading
 llamaswap.pages.dev
 lmeow.pw
@@ -4351,7 +4351,6 @@ mint.bitienatz.lol
 mint.cokeazukicanvas.com
 mint.cyberzduck.lol
 mint.deadapez.lol
-mint.duckzclub.tech
 mint.lamavox.wtf
 mint.scrllpunkdis.icu
 mint.scrollbi.biz
@@ -4622,7 +4621,6 @@ new-pyth.network
 new.babbara.xyz
 new.blockchainbets-vault.com
 new.farepath.club
-new.kinzxkclub.xyz
 new.popeysm.lol
 new.popeysm.xyz
 new.scrll-group.xyz
@@ -6541,6 +6539,7 @@ sunflower-landd.com
 sungrowameriicas.com
 super-fans.tech
 super-julio.free-mint.page
+super-migration.com
 superbraves.info
 superclaim-defi.com
 superclaims-defi.com
