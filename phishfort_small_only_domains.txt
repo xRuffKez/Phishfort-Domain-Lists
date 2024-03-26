@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 09:02:20 UTC 2024
-# Number of Entries: 8177
+# Fetch date: Tue Mar 26 10:02:31 UTC 2024
+# Number of Entries: 8185
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -229,6 +229,7 @@ agodaycs.com
 agodaycs.org
 agveah.cc
 ahora-ingres-aca.netlify.app
+ai-dapp.pages.dev
 ai-decentraldapp.pages.dev
 ai-smadecentrelized.pages.dev
 ai-smartdecentrelised.pages.dev
@@ -294,7 +295,9 @@ airdrop-rarible.net
 airdrop-starknet.info
 airdrop-starknet.live
 airdrop-wallet-connect.sa9afa.com
+airdrop-wormhole.firebaseapp.com
 airdrop-wormhole.vercel.app
+airdrop-wormhole.web.app
 airdrop-wtoken.com
 airdrop-zeroiand.xyz
 airdrop-zerolend.app
@@ -336,6 +339,8 @@ airdropclaim.live
 airdropclaimdev.netlify.app
 airdropframechain.com
 airdroplooksrare.org
+airdropmainnetprotocol.firebaseapp.com
+airdropmainnetprotocol.web.app
 airdropmanta.top
 airdropmanta.xyz
 airdropmantachain.com
@@ -359,6 +364,8 @@ airdrops-zkfair.io
 airdrops.cyou
 airdropsaltlayer.pages.dev
 airdropsscan.com
+airdropvalidate.firebaseapp.com
+airdropvalidate.web.app
 airdropz-altlayer.io
 airdropzkfair.top
 airhopper-review.com
@@ -395,6 +402,7 @@ algogold.com
 alienswape.shop
 all-support.pages.dev
 all-supports.pages.dev
+all4whitelisted.pages.dev
 allenanna.com
 allianceblock-io.events
 allin1.cx
@@ -1642,6 +1650,7 @@ collab-lander.com
 collab-safety.xyz
 collab-verification.land
 collab-verify.io
+collab.bot-community.com
 collab.land-satoshivm.com
 collab.land-verifeds.com
 collab.landsecure-bot.com
@@ -4915,7 +4924,6 @@ optivertradeoptions.com
 oraclegarden.network
 oraidex.online
 oravblox.com
-orbexpro.com
 orbiter.financial
 orchai.live
 ordbridge.app
