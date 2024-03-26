@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 17:02:08 UTC 2024
-# Number of Entries: 8201
+# Fetch date: Tue Mar 26 18:02:44 UTC 2024
+# Number of Entries: 8200
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1283,8 +1283,8 @@ cake-pies.org
 cake-rewards.online
 cake.5degrees.io
 cakedefi-web3.com
-cakedefi.top
 cakedpie.net
+cakekoreanswap.site
 cakelottery.finance
 cakelottery.online
 cakepie-whitelist.xyz
@@ -3108,6 +3108,7 @@ intellixprotocol.app
 intellixstake.app
 inter-chains-bridge.com
 interacsecurepayments.com
+interactive-brokers.group
 interactive-brokers.top
 interactivebroker.org
 interactivebrokers.store
@@ -3121,7 +3122,6 @@ intothebluemanta.net
 intothebluemanta.org
 intothebluemanta.xyz
 intraconline-instantly.live
-inu.guimeme.xyz
 investmetlife.com
 invite-blaster.com
 invite-manta.com
@@ -4990,6 +4990,7 @@ pacnoon.org
 padchain-gpt.org
 padsync.pages.dev
 paidnetwork.app
+pair-explorerzerion0i.pages.dev
 palestran15.pages.dev
 palmai-tech.web.app
 palmai-techi.vercel.app
@@ -5332,7 +5333,6 @@ phoentexai.netlify.app
 phone.tkd
 phountom.xyz
 phrasedataprotect.com
-phtm-distribution.com
 phtm.app
 phtms.app
 phtomwalet.azurewebsites.net
@@ -6172,7 +6172,6 @@ service-connect-valide.nl
 service-sync.pages.dev
 servicecontrollnc.com
 servicepflege-kontoaktualisieren383266.codeanyapp.com
-serviciosetingcoconsorcio.net
 sewllnetwork.io
 sfccrcc.shop
 shardeumorg.vercel.app
