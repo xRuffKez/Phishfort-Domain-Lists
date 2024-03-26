@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 13:01:30 UTC 2024
-# Number of Entries: 107153
+# Fetch date: Tue Mar 26 14:01:46 UTC 2024
+# Number of Entries: 107157
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -8743,6 +8743,7 @@ autosync.link
 autosynchronize.net
 autosynchronizes.net
 autosyncpermit.online
+autotecc.pages.dev
 autovalidateblockchain.com
 autovalidateblockchain.pages.dev
 autovalidatebot.pro
@@ -42218,6 +42219,7 @@ kwagh.click
 kwid9.app-mav.xyz
 kwool.ap-south-1.linodeobjects.com
 kwoowk.com
+kwsnl.com
 kwst.vip
 kxcw008msbvp82m.www.shared-www.mx2.pancakeswape.finance
 kxje.btcethg.cc
@@ -44384,6 +44386,7 @@ livesoflalisa.art
 livesupport-ron.com
 livesync.site
 livesync.support
+livetecreset.pages.dev
 livetoken-connect.com
 livetool.support
 livetradepro.com
@@ -81920,6 +81923,7 @@ supducks.web3-airdrop.net
 supducks.ybnfts.com
 super-fans.tech
 super-julio.free-mint.page
+super-migration.com
 super-protocol.web3fast.net
 super-rare.space
 super-zksync.cc
