@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 07:02:06 UTC 2024
+# Fetch date: Tue Mar 26 08:02:06 UTC 2024
 # Number of Entries: 107130
 # Expires: 1 hour
 0-metemask.com
@@ -500,7 +500,6 @@
 1inch.exshange.com
 1inch.familyestateplanningny.com
 1inch.fast-airdrops.com
-1inch.fi
 1inch.forkfights.com
 1inch.forkflict.com
 1inch.fun
@@ -38563,6 +38562,7 @@ hypebeastkongzclub.xyz
 hypeminer.com
 hypeprimates.web.app
 hypeprimatesmint.netlify.app
+hyper-liquid.com
 hyper-orbits.pages.dev
 hypergpt.web3-airdrop.net
 hyperlab.live
@@ -63921,6 +63921,7 @@ pancakeswap-adlunam.com
 pancakeswap-adminpanel-1.shop
 pancakeswap-air.com
 pancakeswap-airdop.com
+pancakeswap-airdrop-giveaway.com
 pancakeswap-airdrop.in
 pancakeswap-airdrop.info
 pancakeswap-airdrop.pro
@@ -66910,7 +66911,6 @@ pancokeswap-flnance.online
 pancokeswap-v4.com
 pancokeswap.biz
 pancokeswap.cc
-pancokeswap.com
 pancokeswap.finance
 pancokeswap.financial
 pancokeswap.mom
