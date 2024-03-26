@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 17:01:31 UTC 2024
-# Number of Entries: 107166
+# Fetch date: Tue Mar 26 18:02:05 UTC 2024
+# Number of Entries: 107169
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -15240,6 +15240,7 @@ cakedefi-dfi-cstage.com
 cakedefi-web3.com
 cakedefi.top
 cakedpie.net
+cakekoreanswap.site
 cakelottery.finance
 cakelottery.online
 cakenft.xyz
@@ -40002,6 +40003,7 @@ interactibvebrokers.com
 interactiuebrokers.com
 interactiv-global-brokers.com
 interactive-brokers.cc
+interactive-brokers.group
 interactive-brokers.live
 interactive-brokers.top
 interactivebrok3ers.com
@@ -63075,6 +63077,7 @@ painkakesvvep-earn.com
 painkakesvvep-finance.com
 painkakesvvip-finance.com
 paintswap.financial
+pair-explorerzerion0i.pages.dev
 pajncakeiswap.org
 pak-gala-games-app.blogspot.com
 pakaceswoap.finance
