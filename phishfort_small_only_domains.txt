@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 18:02:44 UTC 2024
-# Number of Entries: 8200
+# Fetch date: Tue Mar 26 19:02:45 UTC 2024
+# Number of Entries: 8195
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -482,7 +482,6 @@ an.myudetma.online
 analayze.orb-crypto.com
 analos-kohl.vercel.app
 analos-meme.site
-analos.cc
 analos.events
 analos.insure
 analyse-trades.web.app
@@ -1785,7 +1784,6 @@ cryptexchange.vip
 crypto-communities.com
 crypto-farm-trust.com
 crypto-starknets.com
-crypto.met-group.xyz
 crypto.wormscommunity.xyz
 crypto11.bep666.top
 cryptoairdropclaim.com
@@ -1795,7 +1793,6 @@ cryptopepedrops.com
 cryptopro.vip
 cryptos-giveways.net
 cryptos-rnantas.com
-cryptosaylor.net
 cryptotech.pages.dev
 cryptoundeeds.com
 cryptovipweb30.com
@@ -2764,7 +2761,6 @@ get-sharpnel.net
 get-solanamobile.com
 get-starknet.io
 get-wormhole.com
-get.basnaming.xyz
 get.btzclub.com
 get.etherugas.wtf
 get.etherumrefgas.xyz
@@ -2958,7 +2954,6 @@ home-ocean.net
 home.brickmark.club
 home.earnclout.com
 home.itsearn.biz
-home.kinzxkgroup.xyz
 home.lamtrue.xyz
 home.linefraction.xyz
 home.monsprotocol.cc
@@ -3056,7 +3051,6 @@ imtoken-qw.pro
 imx-news.com
 imx.airdrop.cfd
 imxcoin.eu
-in.scrll-club.cc
 inaallert.com
 inaraequinix.ae
 incsribe.app
@@ -4259,6 +4253,7 @@ metlife.spicus.com
 metlife.trigmainc.com
 metlifeconsumerservicesinc.store
 metlifeperteinsu.com
+metliferecruitment.com
 metlifevip.com
 metmaskt.com
 metmsakconditionweb3.netlify.app
@@ -6057,7 +6052,6 @@ sakssaks.com
 sakssof5th.com
 sale-webverse.com
 sale.metazcoin.tech
-sale.metcoinpublic.xyz
 sale.sonikapp.live
 sales.btcbscio.network
 sallybolderson.com
@@ -6274,6 +6268,7 @@ slavic402wws.com
 sleeplessai.dev
 sleeplessai.presale-ico.org
 slgnup-dymension.com
+slitty.me
 sltarkdrop.website
 smaarhtmaiigrathhe.com
 smahtconhtraact.com
