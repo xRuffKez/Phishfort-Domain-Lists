@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 08:02:44 UTC 2024
-# Number of Entries: 8181
+# Fetch date: Tue Mar 26 09:02:20 UTC 2024
+# Number of Entries: 8177
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1987,7 +1987,6 @@ deelancebit.com
 deelancers.org
 deepcoin-trade.com
 defabuso.me
-defcoins.vip
 defellana.com
 defend.sentrykava.com
 defi-airdrops.web.app
@@ -2303,7 +2302,6 @@ emirates-procurement.com
 emirates-tickets.com
 emirates.airfareuk.co.uk
 emirates.flightse.co
-emiratesairlines.info
 emiratescashreward.com
 emiratesgroup.online
 emiratesholiday.net
@@ -2570,7 +2568,6 @@ flokifii.com
 flokii.xyz
 flowerand7.xyz
 fluffy-hotteok-b5b58b.netlify.app
-flukeoutil.com
 fluxfinance.app
 flxedfloat.pages.dev
 flyemirates.cloud
@@ -5147,7 +5144,6 @@ paradigmmanta.com
 parclllimited.com
 parknationalkgt.pics
 parloroquick.com
-parriss2024.org
 partenariat-bouygues-telecom-entreprises.fr
 participate-zks.net
 participate-zks.org
