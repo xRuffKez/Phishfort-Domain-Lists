@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 14:02:22 UTC 2024
-# Number of Entries: 8197
+# Fetch date: Tue Mar 26 15:02:18 UTC 2024
+# Number of Entries: 8198
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -391,7 +391,6 @@ airtrackmate.com
 airusd.xyz
 aitchain.in
 ajbell-mall.com.ng.swift-pay.site
-akamserrvis.de
 aknanalofiq.com
 akz3h.pro
 albemarle-albemarle.onlinemailmicrosotfvalidation.com
@@ -1054,6 +1053,7 @@ bitilandos.com
 bitinaut.top
 bitinteractivebrokers.org
 bitkub-airdrop.com
+bitkub-th.vip
 bitkub.fafa855casino.com
 bitkubb.lockchain.net
 bitkubbloc.kchain.net
@@ -1926,6 +1926,7 @@ dappwalletnode.pages.dev
 dappweb.vercel.app
 dapradar.eu
 dapraddar.com
+dapsecure.reslveprotcapp.com
 daqwpa8.top
 dasfy3345fsd.pages.dev
 dash-pepe.com
@@ -2819,6 +2820,7 @@ global-blockchain-4159.com
 global.onlineyshire-uk.com
 globalfundsserver.com
 globalgoldcloudworld.world
+globalpaymentsvtw.com
 globalpaymentsytww.com
 globalspp.top
 gm-generalmotors.com
@@ -2891,6 +2893,7 @@ h5.newscryptoio.com
 h8fl00.cc
 hajj-nusuk.foundation
 hajjdomestic-sa.info
+halestramasslost.com
 haleymasschendiovst.com
 halo-defi.web.app
 halo-portfolio.web.app
@@ -5714,7 +5717,6 @@ receive.pilxeisgame.xyz
 receivemask.io
 receivemetamask.com
 receiveusdc.com
-receptivegleam.top
 reckonmexico.com
 reconnectto.org
 recoveryportal.pages.dev
@@ -6099,7 +6101,6 @@ scapemania.live
 scapemania.sale
 scburnet.okta.acmecorp.name
 scholarfundhub.com
-scjdwb.cfd
 sconectsmartplusoficial.store
 scorpion-casino.shop
 scotltytheai.xyz
