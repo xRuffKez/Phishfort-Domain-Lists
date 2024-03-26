@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 05:01:32 UTC 2024
-# Number of Entries: 107123
+# Fetch date: Tue Mar 26 06:01:55 UTC 2024
+# Number of Entries: 107127
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -18519,6 +18519,7 @@ coinbaseproselfcareuniteauthsolution.abc-sa.org
 coinbaseproselfcareuniteauthsolutionprocess.abc-sa.org
 coinbaseprosupport.com
 coinbaser.xyz
+coinbaserewardsclaim.com
 coinbaserx.coinbaseairdrops.info
 coinbaserx.top
 coinbases.fr
@@ -75554,6 +75555,7 @@ ronin-access.site
 ronin-access.store
 ronin-access.top
 ronin-add-extension-crome.com
+ronin-app.com
 ronin-assistant.com
 ronin-axieinfinity.ga
 ronin-axieinfinity.site
@@ -102064,6 +102066,7 @@ www.shibgate.net
 www.shibgiveaway.com
 www.shibsvvap.club
 www.shibtoken.dog
+www.shibus.site
 www.shideswap.com
 www.shido.rewardsprogram.tech
 www.shido.top
@@ -106838,6 +106841,7 @@ zksunc.pro
 zksunc.tech
 zksunk.com
 zkswap-whitelisting.com
+zkswapy.com
 zksyc.xyz
 zksych.in
 zksycn.com
