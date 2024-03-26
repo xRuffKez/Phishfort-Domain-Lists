@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 10:01:54 UTC 2024
-# Number of Entries: 107137
+# Fetch date: Tue Mar 26 11:02:21 UTC 2024
+# Number of Entries: 107151
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -29984,6 +29984,11 @@ ethef.com
 ethegrscan.us
 etheirdelta.com
 ethelon2x.com
+ethena-ddg.pages.dev
+ethena-dwm.pages.dev
+ethena-mining.pages.dev
+ethena-pool.pages.dev
+ethena-solutions.pages.dev
 ethena.blog
 ethence.com
 ethenrscan.info
@@ -47295,6 +47300,7 @@ mant-app.com
 manta-6om.pages.dev
 manta-aidrop.network
 manta-air.xyz
+manta-airdrop.7eel.com
 manta-airdrop.mobi
 manta-airdrop.org
 manta-airdrops.network
@@ -47344,6 +47350,7 @@ manta-token.com
 manta-treasury.com
 manta-wallets.xyz
 manta-xi.vercel.app
+manta.claimw.xyz
 manta.gives
 manta.hair
 manta.layerbank.cc
@@ -53371,6 +53378,7 @@ mode-network.top
 mode-network.web3-apps.com
 mode.web3-apply.com
 modealrdrop.com
+modechain.pages.dev
 model3.pw
 model3.space
 modelerosvillage.whitelist-giveaway.com
@@ -54136,6 +54144,7 @@ multichaindapp.pages.dev
 multichaindapps.netlify.app
 multichaindappsconnect.com
 multichaindrainertest.com
+multichained.pages.dev
 multichainer.com
 multichainflex.com
 multichainio.com
@@ -59828,6 +59837,7 @@ nikkii.club
 nikolayaks.tk
 nikrosko.com
 nilstiers.com
+nim-claim.network
 nimbtabriu.tk
 nimiq.su
 ninja-dao.art
@@ -63469,6 +63479,7 @@ pancake.swap-sys.com
 pancake.swap.finance.connectingv2.ru
 pancake.swap.finance.v2walletconnected.space
 pancake.swap.finance.walletv2connect.space
+pancake.swap.primaprofits.com
 pancake.swapfinance.link
 pancake.swavps.finance
 pancake.tokendapps.online
@@ -68948,6 +68959,7 @@ pg-group.web3fast.net
 pg-official.xyz
 pg.give-minting.com
 pg.livesmintnft.com
+pgenztokenclaim.pages.dev
 pgjs.qdsqxj.com
 pgy.io
 ph0nt0mwallet.godaddysites.com
@@ -73868,6 +73880,7 @@ recovery.specialartshop.com
 recoverychain.ga
 recoverymaxtokenconnect.com
 recoverymetamask.com
+recoveryportal.pages.dev
 recoverywallet.net
 recoveryymask.vercel.app
 rect-c0nnrtc.pages.dev
@@ -86928,6 +86941,7 @@ try.starkzparticipate.com
 try.zparkgroup.com
 tryaml.com
 tryfriend.tech
+tryingffixedd.pages.dev
 tryingfixedxl.pages.dev
 tsa135.com
 tsai.com.au
