@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 15:02:18 UTC 2024
-# Number of Entries: 8198
+# Fetch date: Tue Mar 26 16:02:32 UTC 2024
+# Number of Entries: 8199
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -6812,6 +6812,7 @@ tokens-zk.link
 tokensairdrops.com
 tokensfree2024.com
 tokensight.vip
+tokensynced.pages.dev
 toll.a407info.com
 tolls-407express.com
 tollvest.org
