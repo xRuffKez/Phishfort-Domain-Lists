@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 01:22:01 UTC 2024
-# Number of Entries: 107107
+# Fetch date: Tue Mar 26 02:06:52 UTC 2024
+# Number of Entries: 107108
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3044,6 +3044,7 @@ agoda.conferm.online
 agoda.d-loade.top
 agoda.fun
 agoda.gologonow.website
+agoda.host
 agoda.ib-web.online
 agoda.icu
 agoda.lovestoblog.com
@@ -43889,6 +43890,7 @@ linea.linkweb-3.com
 linea6.net
 lineaabuild.com
 lineaairdrop.com
+lineablobs.com
 lineabridge.build
 lineabsc.xyz
 lineabuiid.com
@@ -76477,7 +76479,6 @@ saksoff5th-online.shop
 saksoff5th-store.shop
 saksoff5th-stores.shop
 saksoff5th-us.shop
-saksoff5th.love
 saksoff5th.online
 saksoff5th.store
 saksoff5th.vip
