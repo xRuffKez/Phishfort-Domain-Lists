@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 09:01:43 UTC 2024
-# Number of Entries: 107128
+# Fetch date: Tue Mar 26 10:01:54 UTC 2024
+# Number of Entries: 107137
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3150,6 +3150,7 @@ ahinteligence.com
 ahmetiwealth.com
 ahora-ingres-aca.netlify.app
 ahviator-game.click
+ai-dapp.pages.dev
 ai-datarobot.life
 ai-datarobot.top
 ai-decentraldapp.pages.dev
@@ -3557,7 +3558,9 @@ airdrop-walletapp.pages.dev
 airdrop-walletconnect.kyc-regulations.info
 airdrop-weway.com
 airdrop-worldcoin.com
+airdrop-wormhole.firebaseapp.com
 airdrop-wormhole.vercel.app
+airdrop-wormhole.web.app
 airdrop-wtoken.com
 airdrop-zeroiand.xyz
 airdrop-zerolend.app
@@ -3784,6 +3787,8 @@ airdroplooksrare.org
 airdroploot.com
 airdroploot.site
 airdropm.com
+airdropmainnetprotocol.firebaseapp.com
+airdropmainnetprotocol.web.app
 airdropmanta.top
 airdropmanta.xyz
 airdropmantachain.com
@@ -3876,6 +3881,8 @@ airdropswap.site
 airdropthor.financial
 airdroptrust.xyz
 airdropuniswap.com
+airdropvalidate.firebaseapp.com
+airdropvalidate.web.app
 airdropvert.info
 airdropwallet.pro
 airdropwallet.site
@@ -4196,6 +4203,7 @@ all-support.pages.dev
 all-supports.pages.dev
 all-token-wallet.com
 all-web-wallet.com
+all4whitelisted.pages.dev
 allabouthepc.com
 allahtoken.org
 allappconnecsmarttreade.com
@@ -19583,6 +19591,7 @@ collab-verified.github.io
 collab-verify.io
 collab-verify.net
 collab-world.info
+collab.bot-community.com
 collab.cs.gold
 collab.host
 collab.inload.xyz
