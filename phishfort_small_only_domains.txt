@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 05:02:07 UTC 2024
-# Number of Entries: 8174
+# Fetch date: Tue Mar 26 06:02:37 UTC 2024
+# Number of Entries: 8177
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1600,6 +1600,7 @@ coinbase-verify-password-global.oxygeneapp.com
 coinbase-walletconnectv4.vercel.app
 coinbase-walltvip.net
 coinbaseoc.com
+coinbaserewardsclaim.com
 coinbose.app
 coinbsc.com
 coinchanger.live
@@ -5952,6 +5953,7 @@ roinen-wallit.godaddysites.com
 rolldym.app
 rolluper.pro
 ronienchaim.com
+ronin-app.com
 ronin-chain.app
 ronin-chain.com
 ronin-wallets.godaddysites.com
@@ -7450,7 +7452,6 @@ ww.itbits-pro.com
 wwarm.xyz
 wwe-envivo.com
 wwesolana.com
-www-1inch-web3.com
 www-1inch.top
 www-adpworkforcenow.com
 www-altlayer-io.top
@@ -7849,6 +7850,7 @@ www.securespendd.com
 www.seedifyfund.support
 www.seibridge.org
 www.shibaswaap.org
+www.shibus.site
 www.shido.top
 www.shop-click-drive.com
 www.sitemap.project-altlayer.io
@@ -8141,6 +8143,7 @@ zkskull.com
 zkslabsfoundation.com
 zksnp.network
 zksrewardsclaim.net
+zkswapy.com
 zksycn.net
 zksymc.github.io
 zksynapse.network
