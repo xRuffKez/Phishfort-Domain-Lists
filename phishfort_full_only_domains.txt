@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 11:02:21 UTC 2024
-# Number of Entries: 107151
+# Fetch date: Tue Mar 26 12:02:13 UTC 2024
+# Number of Entries: 107153
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -20394,6 +20394,7 @@ connectdapper.com
 connectdappfix.org
 connectdappfix.pages.dev
 connectdapphubs.com
+connectdappresolve.pages.dev
 connectdapps-chain.com
 connectdapps.io
 connectdapps.website
@@ -76872,6 +76873,7 @@ scorpion-casino.shop
 scotltytheai.xyz
 scotlytheais.club
 scottytheai-en.web.app
+scottyxai.com
 scottyystheai.xyz
 scotyttheai.pro
 scovcadi.tk
