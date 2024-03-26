@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 06:02:37 UTC 2024
-# Number of Entries: 8177
+# Fetch date: Tue Mar 26 07:02:40 UTC 2024
+# Number of Entries: 8180
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1391,6 +1391,7 @@ childporn.umb.market
 chimpzee-claim.pages.dev
 chndemarloonst.com
 chonky.claims
+choupettesolana.com
 chriscraft.shop
 chrome.pancakeswap.finance.multichains.live
 chronoforgedeed.xyz
@@ -5349,6 +5350,7 @@ play-pixelsapp.xyz
 playbux.info
 playbuxdrop.xyz
 playember-57a.pages.dev
+playmunchables.app
 playpixles.com
 playzkasino.net
 plgeubet.com
@@ -7683,6 +7685,7 @@ www.kriya-finance.tech
 www.kroift.com
 www.kumelt.com
 www.l2-blast.io
+www.latoken-exchange.com
 www.launchpad.sporess.pro
 www.layer-3.xyz
 www.lethid.com
