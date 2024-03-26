@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 04:01:53 UTC 2024
-# Number of Entries: 107113
+# Fetch date: Tue Mar 26 05:01:32 UTC 2024
+# Number of Entries: 107123
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6589,6 +6589,7 @@ appbunnyswap.web.app
 appc-galagames.blogspot.com
 appcisco.com
 appcisco.us
+appcitadelswap.xyz
 appcoachs.cn
 appcoinsproject.com
 appcoinstoken.org
@@ -10044,6 +10045,7 @@ bafkreicgdecf2xiqlsemop3pema5u36ju2xkq3oomfv3vf6ra6vvei62ge.ipfs.dweb.link
 bafkreichwiorgyndjkuim53nhx2xblg6gmfmt2tspjby5anqjprkof46oq.ipfs.dweb.link
 bafybeiaext5ppayfcygodwawlxpjesqcsscs3dcadocrmff7i5jmicssee.ipfs.dweb.link
 bafybeianm7lllm6v2rpyuah5gzsh22gxfikab5ie3xei6f2n3ngfvsx524.ipfs.dweb.link
+bafybeiaqyixakyqz7ywj3o6yeug5bsxp5fro6s55uh32j4mmhrdrjgsluq.ipfs.dweb.link
 bafybeiawj5y4uwhd5rgnrrffpragzbuozce77j2tamo6hqvnw5hasharje.ipfs.dweb.link
 bafybeib36jiaortimj6anwuopbgs2gps4r5yewpxzou7yo5ovgrxcaquyi.ipfs.cf-ipfs.com
 bafybeib36jiaortimj6anwuopbgs2gps4r5yewpxzou7yo5ovgrxcaquyi.ipfs.dweb.link
@@ -14988,6 +14990,7 @@ burnedfii.com
 burningwars.xyz
 burnkcennie.com
 burnkennycoin.live
+burnmintopensea.firebaseapp.com
 burnmua.build
 bursakanas.store
 bursapimapen.com
@@ -15229,6 +15232,7 @@ cakedefi-web3.com
 cakedefi.top
 cakedpie.net
 cakelottery.finance
+cakelottery.online
 cakenft.xyz
 cakepad.org
 cakepie-whitelist.xyz
@@ -17515,7 +17519,6 @@ claimseth.com
 claimsftx.com
 claimshibonk.netlify.app
 claimshido.pages.dev
-claimshitcoin.com
 claimslinea.com
 claimslink.app
 claimsmart-layer.net
@@ -18097,6 +18100,7 @@ coinbase-alertnotice.duckdns.org
 coinbase-alertverify.duckdns.org
 coinbase-alertwithdrawl.duckdns.org
 coinbase-app.ga
+coinbase-ashen.vercel.app
 coinbase-assist.com
 coinbase-authenticator.com
 coinbase-authomatic.myddns.me
@@ -18107,6 +18111,7 @@ coinbase-authset.myftp.org
 coinbase-authsx.myddns.me
 coinbase-authverify.servehttp.com
 coinbase-bitcoin.tech
+coinbase-blush.vercel.app
 coinbase-bonus.net
 coinbase-btc.top
 coinbase-btcairdrop.top
@@ -18793,6 +18798,7 @@ coingecko.win
 coingecko.work
 coingecko.xenapponazure.com
 coingeckoevent.com
+coingeckokyc.kycregulatory.com
 coingeckokyc.kycsregulatory.com
 coingeckoreward.fun
 coingeckoreward.life
@@ -24334,7 +24340,6 @@ dappwalletvalidation.com
 dappwalletvalidator.com
 dappwalletvault.com
 dappwalllett.live
-dappwconnect.com
 dappwctsoftconnect.com
 dappweb.live
 dappweb.vercel.app
@@ -43852,6 +43857,7 @@ linar-fi.cloud
 linch.app
 linch.network
 lindaikejisocial.com
+lindonft.us
 line-blockchain.xyz
 line-crypto.com
 linea-app.services-web3-claiming.xyz
@@ -52484,6 +52490,7 @@ migratetov2finalcoin.xyz
 migratev2contract.live
 migratev2walconnect.link
 migratev3makerdao.online
+migratexend-finance.vercel.app
 migratiionislivenowmigratetov2here.xyz
 migratingfromv1tov2livenow.xyz
 migratingmetov2livvve.xyz
@@ -67447,6 +67454,7 @@ paperhand-ethereum.web.app
 paperhand-halo.web.app
 paperhand-network.web.app
 paperhand-networks.web.app
+paperhand-profit-tracker.web.app
 paperhand-scan.web.app
 paperhanded-check.web.app
 paperhanded-coins.web.app
@@ -79411,6 +79419,7 @@ solana-minting.com
 solana-pdl.com
 solana-portal.org
 solana-promo.com
+solana-promo.info
 solana-promo.org
 solana-ring.online
 solana-safe.site
@@ -99412,6 +99421,7 @@ www.lidostakingstart.com
 www.lidostakingxyz.com
 www.lidu-fi.com
 www.lifechangingmoney.hamai.online
+www.lifi.promo
 www.lightdapp.com
 www.lightdapp.live
 www.liink3.com
