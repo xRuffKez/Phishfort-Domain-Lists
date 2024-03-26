@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Mar 26 04:02:32 UTC 2024
-# Number of Entries: 8162
+# Fetch date: Tue Mar 26 05:02:07 UTC 2024
+# Number of Entries: 8174
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -662,6 +662,7 @@ appair-hopper.com
 appaloe.capital
 apparrakis.finance
 appbalancer.finance
+appcitadelswap.xyz
 appdaomaker.com
 appdown.bovdl.com
 appe-mode.network
@@ -904,6 +905,7 @@ badges-chain.link
 badges-chainlink.com
 bafkreiagunr2sbunsmqb7eaoa5x5qeonkicuthxuoq3rzyy3s775dzknie.ipfs.dweb.link
 bafybeianm7lllm6v2rpyuah5gzsh22gxfikab5ie3xei6f2n3ngfvsx524.ipfs.dweb.link
+bafybeiaqyixakyqz7ywj3o6yeug5bsxp5fro6s55uh32j4mmhrdrjgsluq.ipfs.dweb.link
 bafybeicdv6wvyuhybvf3htmdkcpp7scfw7wq65syuimtv3mslcqhohogla.ipfs.cf-ipfs.com
 bag-holding.web.app
 bakerswap.trading
@@ -1247,6 +1249,7 @@ bungeeswap.exchange
 bups.pro
 burakalpaslan.cc
 burnedfii.com
+burnmintopensea.firebaseapp.com
 burnmua.build
 bursapimapen.com
 buy.btcetf.network
@@ -1278,6 +1281,7 @@ cakedefi-web3.com
 cakedefi.top
 cakedpie.net
 cakelottery.finance
+cakelottery.online
 cakepie-whitelist.xyz
 cakepies-web3.app
 cakepiexyz.pages.dev
@@ -1588,6 +1592,8 @@ coin-multiresolve.firebaseapp.com
 coin-multiresolve.web.app
 coin-qr.to
 coin.searchclaim.top
+coinbase-ashen.vercel.app
+coinbase-blush.vercel.app
 coinbase-one.top
 coinbase-qr.net
 coinbase-verify-password-global.oxygeneapp.com
@@ -1599,6 +1605,7 @@ coinbsc.com
 coinchanger.live
 coindappfixes.pages.dev
 coindas.top
+coingeckokyc.kycregulatory.com
 coinlaunchpad.netlify.app
 coinmarketcap-app-auth.web.app
 coinmarketcap-auth-web.web.app
@@ -3519,6 +3526,7 @@ lidostaking-btu.pages.dev
 lilostake.lol
 lilpudgys-mint.com
 linae-parks.com
+lindonft.us
 linea-consensys.world
 linea-layerfinance.com
 linea-park.com
@@ -4279,6 +4287,7 @@ migrateassetspro.online
 migratedappy.link
 migratemaincz.com
 migratestaderlabs.com
+migratexend-finance.vercel.app
 migration-0xnude.com
 migration-bitcointry.tech
 migration-captaininu.pro
@@ -5100,6 +5109,7 @@ paperhand-ethereum.web.app
 paperhand-halo.web.app
 paperhand-network.web.app
 paperhand-networks.web.app
+paperhand-profit-tracker.web.app
 paperhand-scan.web.app
 paperhanded-check.web.app
 paperhanded-coins.web.app
@@ -6304,6 +6314,7 @@ socalgaslogin.cz
 soflarewebextension.com
 softnote.xyz
 solana-claim.web.app
+solana-promo.info
 solana-satoria.world
 solana.ag
 solana.laag.site
@@ -7674,6 +7685,7 @@ www.l2-blast.io
 www.launchpad.sporess.pro
 www.layer-3.xyz
 www.lethid.com
+www.lifi.promo
 www.lite.a.covv.site
 www.live-tiktok.shop
 www.login.verificationpaxful.info
