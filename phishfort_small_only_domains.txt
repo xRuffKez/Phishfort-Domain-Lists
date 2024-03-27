@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 00:07:12 UTC 2024
-# Number of Entries: 8197
+# Fetch date: Wed Mar 27 01:23:08 UTC 2024
+# Number of Entries: 8180
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -146,7 +146,6 @@ aave.godepth.com
 aave.laynch-pad.top
 aave.limited
 aave.liquidity.org.pl
-aave.lt
 aave.supply
 aave.trustspads.top
 aavenetwork.org
@@ -482,7 +481,6 @@ an.myudetma.online
 analayze.orb-crypto.com
 analos-kohl.vercel.app
 analos-meme.site
-analos.events
 analos.insure
 analyse-trades.web.app
 ancient-step-road.vercel.app
@@ -592,7 +590,6 @@ app-superverse.com
 app-susa.exchange
 app-thruster-finance.aadhyaca.com
 app-thruster.finance
-app-tokenlon.com
 app-ubeswap.vercel.app
 app-uniswaps.com
 app-velvet.capital
@@ -937,7 +934,6 @@ baseswaap.top
 baseswapp.network
 batmansol.com
 baycarepatientportal.net
-baycarepatientportals.com
 bazename.lol
 bbexpro.xyz
 bbl-get.com
@@ -1170,7 +1166,6 @@ bonk.dropdefi.top
 bonk.stringstool.org
 bonkanniversary.com
 bonkcoin.netlify.app
-bonkget.com
 bonus-defi.network
 bonus-hex.com
 bonus-injective.com
@@ -1883,7 +1878,6 @@ dappradar.mom
 dappradar.qa
 dappradar.so
 dappradar.team
-dappradar.vip
 dappradar.works
 dappradardrop.com
 dappradare.eu
@@ -2081,7 +2075,6 @@ dextpool.xyz
 dfacows.net
 dfycy.com
 dg1ph.pro
-dgfggcc.site
 dgigame-rewardsclaim.pages.dev
 dhk6y.cc
 diag-bracco.com
@@ -4170,7 +4163,6 @@ metamask.so
 metamask.wallet-app.com
 metamask.web3-request.net
 metamask3.pw
-metamask6.io
 metamask88.com
 metamaskabc.com
 metamaskapp-kyc-auth24.com
@@ -4493,6 +4485,7 @@ multiwalletsystem.web.app
 mumucoin.org
 murphygroupltd.co.uk
 musicyandex.ru
+muskswap.pages.dev
 mutantboxnft.com
 muxstakingapp.network
 mwallet8.com
@@ -4578,7 +4571,6 @@ nabla-finance-week4testnetlive.vercel.app
 naka-migos.net
 nakamigos-cloaks.app
 nakamigos-cloaks.art
-namadachain.app
 nanogatesphere.info
 napaauto.shop
 napaautoparts.store
@@ -4743,7 +4735,6 @@ nodechains.pages.dev
 nodemonkeys.events
 noderesolver.io
 noderevive.com
-nodeschain.net
 nodesrectification.com
 nodesync.vercel.app
 nodevalidation.pages.dev
@@ -6561,7 +6552,6 @@ survey-zksync.org
 susdc.dev
 sushi-swapsushi.github.io
 sushi.gifts
-sushipwap.github.io
 sushiswap-sushi.app
 sushiswap.lt
 sushiswap.mom
@@ -6628,7 +6618,6 @@ syncsswap.app
 syncswap.cldsxm.com
 syncswap.cloudscom.xyz
 syncswap.day
-syncswap.limited
 syncswapxyz.in
 syncus-fi.app
 syncvalidator.firebaseapp.com
@@ -6966,7 +6955,6 @@ uniswapv4-liquidity.web.app
 uniswapv4-pool-choosing.web.app
 uniswapv4-pool-select.web.app
 uniswapv4-pool-waitlist.web.app
-united-healthcare-services.com
 unitedairlinedeliveryagency.com
 unitedhealthvip.com
 unitycryptotrading.com
@@ -7324,7 +7312,6 @@ web3resolvepage.tech
 web3sy.top
 web3trubtc.cc
 web3world.pages.dev
-webappnode.com
 webappresolve.pages.dev
 webdapps.vercel.app
 webdebugdapp.pages.dev
@@ -7573,7 +7560,6 @@ www.bridgermkr.app
 www.brothernz.com
 www.bscpad-launchpad.live
 www.buhgeexhange.com
-www.bumrof.com
 www.burakglobalfirm.com
 www.butterfieldoffshore.com
 www.bybit-award.io
@@ -7583,7 +7569,6 @@ www.catholicf-la.org
 www.cbrevokedapp.org
 www.celerswap.top
 www.chain-cross.link
-www.chainbugs.dev
 www.cizw4jh.tribunaledinola.net
 www.claim-mai.xyz
 www.claim-seda.site
@@ -7779,7 +7764,6 @@ www.nikcos.com
 www.node-protocol.net
 www.node.authfxconnector.com
 www.norwegianlife.net
-www.notkem.com
 www.o2-login.info
 www.ondo-finance.info
 www.opbnb-friend3.xyz
@@ -7936,7 +7920,6 @@ www.web3mwe.com
 www.whm.elasticsearch-uat.arb-chain.com
 www.wikser.com
 www.windy.network
-www.wirdaw.com
 www.wow-earn.online
 www.wregul.com
 www.www-agodaa.site
