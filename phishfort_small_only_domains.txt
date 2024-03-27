@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 20:02:31 UTC 2024
-# Number of Entries: 8121
+# Fetch date: Wed Mar 27 21:02:17 UTC 2024
+# Number of Entries: 8118
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -70,7 +70,6 @@
 2fa-metamassk.com
 2factor-activation.io
 2faprotector.com
-2get0x.xyz
 2ham.pro
 2r.ijkl1.ru
 2r1.nhvw4is.ru
@@ -1002,6 +1001,7 @@ bigestcontests.com
 bikramind.com
 bilet-emirates.ru
 bill-407etr.com
+bill-tel.com
 bill407etrca.com
 billionalr.com
 billmelinda.online
@@ -2558,7 +2558,6 @@ flyemiratescareer.com
 flyemiratesonline.com
 flyingtogether.website
 flyunitedworld.com
-fnx-marketrade.com
 foeziwo.pro
 foolz.sellpass.io
 foresamagovi.com
@@ -2785,7 +2784,6 @@ glhfers.xyz
 global.onlineyshire-uk.com
 globalfundsserver.com
 globalgoldcloudworld.world
-globalpaymentsvtw.com
 globalpaymentsytww.com
 globalshoptiktok.co
 globalspp.top
@@ -4112,6 +4110,7 @@ metamask.baby
 metamask.claims
 metamask.cool
 metamask.firsthfb.com
+metamask.fit
 metamask.grsrc.com
 metamask.i98.xyz
 metamask.ig6s.com
@@ -4890,7 +4889,6 @@ ordiswaps.com
 ordiswaps.fi
 ordivalifusion.pages.dev
 ordizkweb.com
-orgderma.com
 orgnlt.me
 origintracdappcom.com
 orivium.trading
@@ -5181,7 +5179,6 @@ paylink.fun.augusttarget.online
 paylocily.com
 paylocity-login.com
 paylocity-sso.com
-paylooity.com
 payment-407etr.com
 payment-etr407.com
 payment407etr.com
@@ -6093,6 +6090,7 @@ seediify.site
 seedlfy.netlify.app
 segurototal2024.com
 sei-io.web.app
+seicoingeckolearnandearn.pages.dev
 seifmoon.pro
 seiyans-nft.com
 selfsync-dapp.com
@@ -6475,7 +6473,6 @@ sunchemicals.us
 sunchemicalsgroup.org
 sundropfortron.com
 sunflower-landd.com
-sungrowameriicas.com
 super-fans.tech
 super-julio.free-mint.page
 super-migration.com
