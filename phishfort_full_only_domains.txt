@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 06:02:04 UTC 2024
-# Number of Entries: 107189
+# Fetch date: Wed Mar 27 07:01:47 UTC 2024
+# Number of Entries: 107194
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2905,6 +2905,7 @@ aerodrom.flnance.web3-l2.cfd
 aerodromaa.finance
 aerodrome.capital
 aeropax.xyz
+aerordome.finance
 aeshcozpignv.com
 aesiroieolprioipesitomase4.ml
 aestheticheart.com
@@ -10053,6 +10054,7 @@ bafkreichwiorgyndjkuim53nhx2xblg6gmfmt2tspjby5anqjprkof46oq.ipfs.dweb.link
 bafybeiaext5ppayfcygodwawlxpjesqcsscs3dcadocrmff7i5jmicssee.ipfs.dweb.link
 bafybeianm7lllm6v2rpyuah5gzsh22gxfikab5ie3xei6f2n3ngfvsx524.ipfs.dweb.link
 bafybeiaqyixakyqz7ywj3o6yeug5bsxp5fro6s55uh32j4mmhrdrjgsluq.ipfs.dweb.link
+bafybeiar2pi2heiwfhdlbrulhqyy5oen5k2xx767xss7d5slu5rt3tdpia.ipfs.dweb.link
 bafybeiawj5y4uwhd5rgnrrffpragzbuozce77j2tamo6hqvnw5hasharje.ipfs.dweb.link
 bafybeib36jiaortimj6anwuopbgs2gps4r5yewpxzou7yo5ovgrxcaquyi.ipfs.cf-ipfs.com
 bafybeib36jiaortimj6anwuopbgs2gps4r5yewpxzou7yo5ovgrxcaquyi.ipfs.dweb.link
@@ -18054,6 +18056,7 @@ coin-solutions.cc
 coin-solutions.netlify.app
 coin-squad.com
 coin-swap.finance
+coin-swap.global
 coin-sync-web.xyz
 coin-wallet-connecct.com
 coin-wallet.info
@@ -28360,6 +28363,7 @@ eigenlayer.pro
 eigenlayer.stakingweb3.com
 eigenlayer.tech
 eigenlayerr-presale.xyz
+eigenlayers.club
 eigenlayers.us
 eigennlayer.com
 eigenpie.saydbaeaumca.xyz
@@ -40710,7 +40714,6 @@ joblessassistanceportal.net
 joblessconnect.net
 joblessconnect.org
 jobs-adastragrp.com
-jobs-teleperformance.com
 jocbit.com
 joejoassociate.com
 joerogan.fund
@@ -69718,6 +69721,7 @@ pixelvaults.com
 pixlverse.live
 pixpal.tech
 pixsmart-tv.com
+pixxelnft.eu
 piyasanineniyisi.online
 pizwallet.com
 pizzaobaldinidostavka.site
@@ -71471,6 +71475,7 @@ portaltokenfix.com
 portaltruwallets.xyz
 portalxclaims-n22n.in
 portel-bridg.com
+portelbridges.org
 portelbrldge.org
 portfo1io-metamask.com
 portfolio-blur.io
