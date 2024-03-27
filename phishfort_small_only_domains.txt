@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 12:02:58 UTC 2024
-# Number of Entries: 8127
+# Fetch date: Wed Mar 27 13:02:14 UTC 2024
+# Number of Entries: 8121
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -641,7 +641,6 @@ app.raticswap.xyz
 app.refundcoinstake.com
 app.rnino.fi
 app.solvsprotocol.com
-app.sonikapp.live
 app.sparkprotocol.fi
 app.stringwebtools.com
 app.unsiwap.us
@@ -1292,7 +1291,6 @@ capsule-zskync.net
 captainj-dao.vercel.app
 caraji.com
 cardahoysgame.com
-cardano-stake-pool-cologne.com
 career-ecolab.com
 careersformneomsa.top
 carlsbergpromo.amcn.in
@@ -1500,7 +1498,6 @@ claimdrop.laag.site
 claimdymension.xyz
 claimether.finance
 claimgala.org
-claiming.sonikapp.live
 claimjupiter.com
 claimmask.com
 claimmetadrop.nl
@@ -2072,6 +2069,7 @@ dintransac.org
 dioneprotocol.tech
 dioneprotocol.trading
 dioneprotocols.online
+direct.swmhector.shop
 discord-support.info
 discord.connectkava.one
 discord.kava-api.live
@@ -2289,7 +2287,6 @@ emploeemygochek.com
 empowerpersonalasset.com
 en-suiswap.net
 en-web3fix.pages.dev
-en.btcetf.network
 en.coifixupresolver.com
 en.ingaccessbn.com
 en.pushdstore.xyz
@@ -2342,7 +2339,6 @@ eth-gas.xyz
 eth-gasfee.com
 eth-yieldfarming.org
 eth2.foundation
-eth20app.live
 ethdrop.xyz
 ethena-ddg.pages.dev
 ethena-dwm.pages.dev
@@ -2789,6 +2785,7 @@ globalfundsserver.com
 globalgoldcloudworld.world
 globalpaymentsvtw.com
 globalpaymentsytww.com
+globalshoptiktok.co
 globalspp.top
 gm-generalmotors.com
 gmesolana.com
@@ -3096,7 +3093,6 @@ invite-starknet.org
 invite-sui.com
 invoice-407etr.com
 invoices-407etr.com
-io-dex.tools
 io-net.pages.dev
 io-ultra-net.vercel.app
 iotmodysbln.com
@@ -3606,7 +3602,6 @@ lv.zgroupmint.com
 lvrmjm.pro
 lwve.top
 lxp-linea.build
-lybrafinance.live
 lybriaflnance.xyz
 lzas3.pro
 m-mask.top
@@ -6007,7 +6002,6 @@ sakssaks.com
 sakssof5th.com
 sale-webverse.com
 sale.metazcoin.tech
-sales.btcbscio.network
 sallybolderson.com
 sample.ecsa.com
 sampx8y.info
@@ -6149,6 +6143,7 @@ shirbclaime.netlify.app
 shirbreward.netlify.app
 shitzuapes.fun
 shlba-3.live
+shoptiktok.club
 shopvibe.shop
 shrapnel-2024.com
 shrapnel.cloud
@@ -6712,6 +6707,7 @@ tiktokfw.com
 tiktokhelpcenter.com.tr
 tiktokjm.com
 tiktoklive.co
+tiktokmall01.com
 tiktokmalli.shop
 tiktokorders.vip
 tiktokreviews.xyz
@@ -7122,11 +7118,9 @@ wallet.browserextension.net
 wallet.launchpadxy.xyz
 wallet.mulltiversx.com
 wallet.orb-crypto.com
-wallet.ordinals.tezosapp.live
 wallet.ton-kepeer.com
 wallet.zkflre.io
 wallet7.vercel.app
-walletapp.samouraifinance.live
 walletapplink.xyz
 walletconnect-applicationprogram-interface.pages.dev
 walletconnect-com.vercel.app
