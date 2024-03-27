@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 01:23:08 UTC 2024
-# Number of Entries: 8180
+# Fetch date: Wed Mar 27 02:07:42 UTC 2024
+# Number of Entries: 8181
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2227,7 +2227,6 @@ earn-drop.asia
 earn-drop.club
 earn-drop.info
 earn-drop.live
-earn-drop.org
 earn-drop.pro
 earn-drops.cc
 earndro.pm
@@ -2249,7 +2248,6 @@ earningdrop.dev
 earns-drop.net
 earns-drop.org
 earnsdrop.net
-easrndrop.eu
 easrndrop.net
 easydocgestao.com.br
 easyfixwallet.pages.dev
@@ -2426,7 +2424,6 @@ event-realios.com
 event-web3usdlt.com
 event-woo.co
 event.airpud.top
-event.c0inspad.top
 event.chainspads.top
 event.farcanaofficial.com
 event.rewardcoin.top
@@ -2452,6 +2449,7 @@ evrenode.org
 evrrec.com
 exampleee-site.online
 exchange-apex.org
+exchangecode.online
 exchangepancakeswap.workers.dev
 exchangeros.com
 exchanges-backpack.app
@@ -3538,6 +3536,7 @@ linea.baby
 lineablobs.com
 lineabridge.build
 lineabuiid.com
+lineadapp.com
 lineadapps.xyz
 lineadrop.pages.dev
 linealayerbank.pages.dev
@@ -4628,6 +4627,7 @@ newparadigms.manta-networks.org
 newparadiqm-manta.network
 newporkcoin.pages.dev
 newprovisionschainlink.org
+news.crypinfotoday12.info
 newsupport.alkhaleej.com.sa
 newtradedex.pages.dev
 newtresures-manta.network
@@ -5207,6 +5207,7 @@ paxosg.com
 paxosiys.com
 paxoskop.com
 paxosogt.com
+paxxful.live
 pay-407etr.com
 pay407etr.com
 pay8-2v-9jkc4ukd3-ekontetevi-gmailcom.vercel.app
@@ -5966,6 +5967,7 @@ ronin-chain.com
 ronin-wallets.godaddysites.com
 roninchain.app
 roninchain.cc
+roninchain.cloud
 roninchain.wtf
 roninchaln.com
 roninchaon.com
@@ -6054,7 +6056,6 @@ samurai-nft.pro
 samuraiaward.info
 san-swap.com
 sanabilprint.com
-sand-bakery.org
 sanswap.com
 saqa-cases.app
 saqaboxes.trade
