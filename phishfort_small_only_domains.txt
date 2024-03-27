@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 16:02:38 UTC 2024
-# Number of Entries: 8125
+# Fetch date: Wed Mar 27 18:02:17 UTC 2024
+# Number of Entries: 8121
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -480,7 +480,6 @@ an.intelectui.online
 an.myudetma.online
 analayze.orb-crypto.com
 analos-kohl.vercel.app
-analos-meme.site
 analos.insure
 analyse-trades.web.app
 ancient-step-road.vercel.app
@@ -1188,7 +1187,6 @@ box-nftmint.web.app
 bozo.trading
 bpxtoken.network
 brailex.com
-branch52.com
 brarve.com
 brave-blog.mylviajes.com.ve
 brave-browser-win.net
@@ -2023,6 +2021,7 @@ demo9969.infinityfreeapp.com
 denelse.com
 denshaven.com
 deplimigration.dev
+desblq-davi.waw.pl
 descontoschevro.com
 descontosgm.com
 descriptionconnect.onrender.com
@@ -3137,6 +3136,7 @@ jito-bonus.com
 jito-drop.com
 jitocoins-network.com
 jitodrop.net
+jizzx.b4t.to
 jjup.ag
 jkyr.pro
 joblessassistancenetwork.com
@@ -4573,7 +4573,6 @@ new.blockchainbets-vault.com
 new.farepath.club
 new.popeysm.lol
 new.popeysm.xyz
-new.scrll-group.xyz
 new.stonlix.club
 new.stonlix.xyz
 new.suithefrensi.xyz
@@ -4890,7 +4889,6 @@ ordiswaps.com
 ordiswaps.fi
 ordivalifusion.pages.dev
 ordizkweb.com
-org-networks.site
 orgderma.com
 orgnlt.me
 origintracdappcom.com
@@ -5232,7 +5230,6 @@ pepechainx.com
 pepecoin.lol
 pepecoin2.net
 pepevip.is
-pepezhunt.xyz
 peplicator-nu.vercel.app
 pepsi8.com
 pepsicol.com
@@ -5253,7 +5250,6 @@ peryourhealth.be
 peryourhealth.biz
 peryourhealth.blog
 peryourhealth.org
-peryourhealth.us
 petsversegames.sale
 petsversegames.site
 peylocity.net
@@ -5427,7 +5423,6 @@ proximus-recovery.be
 psychome.co
 ptron.hk
 pub-0186f027c154484fbcbeb90161ab83cf.r2.dev
-pub-17e2d2e910694763a8cb5ff43c671f14.r2.dev
 pub-1c497a63b4ea4d20835eafbe23631624.r2.dev
 pub-2eef0dd9364d4248b298f5e4c6db0eb4.r2.dev
 pub-306b361010174008ab5773c839617c85.r2.dev
@@ -5562,7 +5557,6 @@ queuedappsync.pages.dev
 quickdirectoryfilchart.pages.dev
 quickswap-exchange.gifts
 quickswap-io.events
-quickswapio.news
 quicksyncdapps.pages.dev
 quicksynced.pages.dev
 quicksystemicexplorer.co
@@ -6302,7 +6296,6 @@ solwl-saga.web.app
 sonikchain.pages.dev
 sophon-registrations.com
 soundbridge.click
-space.skillizgroup.club
 space.skillizgroup.xyz
 spaceid.claiming-link.live
 spaceid.connect-claiming.icu
@@ -7697,9 +7690,12 @@ www.multichain-web.de
 www.multiversechainx.com
 www.mwallet8.com
 www.my43.icu
+www.myetherwallest.org
 www.myetherwallet.cm
 www.myetherwalletae.org
+www.myetherwalletat.org
 www.myetherwalletet.org
+www.myetherwalletia.org
 www.myetherwalletta.org
 www.mynorway.net
 www.mypepsico.live
