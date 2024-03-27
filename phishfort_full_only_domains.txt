@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 09:01:54 UTC 2024
+# Fetch date: Wed Mar 27 10:01:51 UTC 2024
 # Number of Entries: 107194
 # Expires: 1 hour
 0-metemask.com
@@ -77001,7 +77001,6 @@ seatsuntse.netlify.app
 sebaequity.com
 sebastianbehar.com
 sebatrust.sethia.co.in
-sebavip.com
 sebiltv.com.tr
 sebm-1usr.info
 sec-tool.net
@@ -84259,6 +84258,7 @@ test-exchange-pancake.pages.dev
 test-fdb-portal.nubill.com
 test-metamask.pages.dev
 test-polkadot.js.org
+test-project-llfwf7bel-artemkk787-gmailcom.vercel.app
 test.1inch.airdrop.live
 test.account.pancakeswape.finance
 test.b2b.pancakeswape.finance
