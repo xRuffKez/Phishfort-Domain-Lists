@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 17:01:57 UTC 2024
-# Number of Entries: 107201
+# Fetch date: Wed Mar 27 18:02:05 UTC 2024
+# Number of Entries: 107203
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -26016,6 +26016,7 @@ derkeo7dvqe2x.cloudfront.net
 deronery.com
 des.eddglobalmining.com
 desarts.mint-site.live
+desblq-davi.waw.pl
 descentral.fun
 descentx.com
 descobrindoaveracidade.com.br
@@ -68954,7 +68955,6 @@ peryourhealth.be
 peryourhealth.biz
 peryourhealth.blog
 peryourhealth.org
-peryourhealth.us
 pescadosdaftx.blogspot.com
 petaversenetwork.cloud
 petchicletepetshop.com.br
@@ -100277,6 +100277,7 @@ www.myetherwallet5.com
 www.myetherwallet6.com
 www.myetherwalleta.net
 www.myetherwalletae.org
+www.myetherwalletat.org
 www.myetherwalletcom.com
 www.myetherwalletd.org
 www.myetherwallete.top
@@ -100285,6 +100286,7 @@ www.myetherwalletf.com
 www.myetherwalletf.org
 www.myetherwalletg.com
 www.myetherwalleth.com
+www.myetherwalletia.org
 www.myetherwalletio.cc
 www.myetherwalletm.com
 www.myetherwalletm.top
