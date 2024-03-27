@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 15:02:13 UTC 2024
+# Fetch date: Wed Mar 27 16:02:38 UTC 2024
 # Number of Entries: 8125
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -859,6 +859,7 @@ axiee-infinity.github.io
 axieinfinity-app.icu
 axieinfinity-birthday.com
 axieinfinity-com.com
+axieinfinity-rewards.com
 axielnfinity.pages.dev
 axiemarketplace.beauty
 axiemarketplace.homes
@@ -3573,7 +3574,6 @@ login--blockgames.com
 login-cisco.tech
 login-frame.xyz
 login-metamaskwallet.ddnss.eu
-login.cw1.ir
 login.frame-airdrop.xyz
 login.microsoftonlineportal.ppp-gov.online
 login.wapstore.duckdns.org
