@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 12:02:13 UTC 2024
-# Number of Entries: 107195
+# Fetch date: Wed Mar 27 13:01:36 UTC 2024
+# Number of Entries: 107191
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4406,7 +4406,6 @@ alphacapital-defi.xyz
 alphacentaurikid.wl-sale.xyz
 alphachainconnect.com
 alphadoggg.fwnfts.com
-alphaearning.com
 alphafinance.biz
 alphagang.gm-nfts.com
 alphagang.live
@@ -4761,7 +4760,6 @@ anatanft.web3fast.net
 anatolyevent.com
 anatomia.co
 anatomic-ape.netlify.app
-anatomy00ts.com
 anchoeprotoccol.com
 anchorprotocol.online
 anchorprotocolapp.info
@@ -10296,7 +10294,6 @@ balancer-appr.click
 balancer-appw.click
 balancer-connect.fi
 balancer-dev36.8adm.com
-balancer-exchange.com
 balancer-exchange.io
 balancer-fi-app.com
 balancer-fi.cf
@@ -26731,6 +26728,7 @@ direct-cwbanking.online
 direct-cwbanklng.online
 direct-paxful.com
 direct-sync.net
+direct.swmhector.shop
 directlineengg.com
 directmergedappslinkup.com
 directorysmartapp.pro
@@ -29738,7 +29736,6 @@ eth.fulcrum.plus
 eth.getforge.io
 eth.gift
 eth.gxfc8.com
-eth.hn
 eth.infonet.io
 eth.khaivn.vn
 eth.kissr.com
@@ -36699,6 +36696,7 @@ globalpaymentsytww.com
 globalsafetyprotection.com
 globalsconnect.com
 globalsecuredaddress.com
+globalshoptiktok.co
 globalspp.top
 globalsyncwallet.top
 globalteamsuppliesbelgium.live
@@ -42235,7 +42233,6 @@ kwid9.app-mav.xyz
 kwool.ap-south-1.linodeobjects.com
 kwoowk.com
 kwsnl.com
-kwst.vip
 kxcw008msbvp82m.www.shared-www.mx2.pancakeswape.finance
 kxje.btcethg.cc
 kxucoinleogin.godaddysites.com
@@ -58805,7 +58802,6 @@ nakamigosv2.com
 nakamigoz.xyz
 nakamigs.com
 nakamiigos.com
-nakamlgos.io
 nakamlgos.online
 nakamlgos.org
 nakamotofreaks.com
@@ -73471,7 +73467,6 @@ ravokecash.org
 raw.www.outlook.pancakeswape.finance
 rawefdsr.sbs
 rawr-connect-o1xpbgvbt-zetaequis.vercel.app
-rawr-connect-ouye8l4ws-zetaequis.vercel.app
 raxful.com
 ray-alpha.net
 ray-defi.gift
@@ -76737,7 +76732,6 @@ sating.org
 satisdex.xyz
 satkeland.com
 satoexchange.net
-satomigos.com
 satortoken-promogive.com
 satosh-island.com
 satoshi-giveaway.org
@@ -78319,6 +78313,7 @@ shopping988.vip
 shoppingcgz.com
 shopspizdec.com
 shopstyle.alex8118.workers.dev
+shoptiktok.club
 shopvibe.shop
 shopzoro.co.uk
 short-process.app
@@ -85049,6 +85044,7 @@ tiktokfw.com
 tiktokhelpcenter.com.tr
 tiktokjm.com
 tiktoklive.co
+tiktokmall01.com
 tiktokmalli.shop
 tiktokorders.vip
 tiktokreviews.xyz
