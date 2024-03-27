@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 14:01:29 UTC 2024
-# Number of Entries: 107191
+# Fetch date: Wed Mar 27 15:01:35 UTC 2024
+# Number of Entries: 107200
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -9344,6 +9344,7 @@ axielnfinitiy.online
 axielnfinity-season3.com
 axielnfinity.app
 axielnfinity.co.in
+axielnfinity.pages.dev
 axielnfinity.top
 axielnfinlty.site
 axielnfinlty.uno
@@ -14147,6 +14148,7 @@ brainlessspikes.wins-mint.com
 brainpromo.info
 brainsdrop.xyz
 brainslum.web3-airdrop.net
+branch52.com
 branchconnect.pages.dev
 branchwallets.com
 brandforlessegy.com
@@ -21143,6 +21145,7 @@ cpanel.coinbasex.top
 cpanel.dapps-revoke.com
 cpanel.ethpaperwallet.net
 cpanel.legaltrades-paxful.com
+cpanel.metamaskarticle.com
 cpanel.metamasksign.com
 cpanel.myethaewallet.com
 cpanel.myethearwellet.com
@@ -23478,7 +23481,6 @@ dapps-fixed.pages.dev
 dapps-fixes.tech
 dapps-fixing.com
 dapps-fixings.com
-dapps-fixprotocol.xyz
 dapps-integrate.app
 dapps-integration.com
 dapps-integration.org
@@ -41200,6 +41202,7 @@ kamazlocker.com
 kambetyom.site
 kambontg.site
 kameiot.exchange.web3-l2.cfd
+kamino-financec.one
 kamino.cc
 kamisafe-pro.xyz
 kamnes.com
@@ -43961,6 +43964,7 @@ lineapepe.xyz
 lineapp.icu
 linear-app.tech
 linear-dapps.top
+linears.finance
 lineas.top
 lineasbuild.com
 lineascan.shop
@@ -46663,6 +46667,7 @@ mail.maverickdao.net
 mail.medpace.weborik.com
 mail.mestedfung.digital
 mail.metamask-airdrops.org
+mail.metamaskarticle.com
 mail.metamasksign.com
 mail.metamasktr.com.tr
 mail.moderatorspaxful.com
@@ -49189,6 +49194,7 @@ metamask-3.top
 metamask-5yw.pages.dev
 metamask-6b5.pages.dev
 metamask-76x.pages.dev
+metamask-831.pages.dev
 metamask-a.com
 metamask-a.infinityfreeapp.com
 metamask-a.mpong.space
@@ -53389,6 +53395,7 @@ mocaverse.world
 mocaverse.zone
 mocaverses.xyz
 moceissxe.blogspot.com
+mod.bc8kwz7u.com
 modadasemana.fun
 modafemininbr.com
 modde.network
@@ -94715,6 +94722,7 @@ webdisk.ethpaperwallet.net
 webdisk.localcryptos.com.co
 webdisk.metamask-airdrop.net
 webdisk.metamask-airdrops.org
+webdisk.metamaskarticle.com
 webdisk.metamasksign.com
 webdisk.mvetherwallet.ml
 webdisk.myetherwailet.cf
@@ -99835,6 +99843,7 @@ www.metamaskaa.com
 www.metamaskai.top
 www.metamaskai.xyz
 www.metamaskarb.com
+www.metamaskarticle.com
 www.metamaskbom.com
 www.metamaskcion.com
 www.metamaskcoin.cc
