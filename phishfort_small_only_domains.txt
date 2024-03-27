@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 04:02:35 UTC 2024
-# Number of Entries: 8179
+# Fetch date: Wed Mar 27 05:03:05 UTC 2024
+# Number of Entries: 8154
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -144,7 +144,6 @@ aave.asia
 aave.freedrops.top
 aave.godepth.com
 aave.laynch-pad.top
-aave.limited
 aave.liquidity.org.pl
 aave.supply
 aave.trustspads.top
@@ -862,7 +861,6 @@ avax-swap.com
 avax.pm
 avaxdrop.org
 avito.pay.pancakeswap.reid4deeds.com
-awareorealm.com
 awesomestrawberry.za.com
 awrm.xyz
 axie.valimrocha.workers.dev
@@ -1010,7 +1008,6 @@ bigestcontests.com
 bikramind.com
 bilet-emirates.ru
 bill-407etr.com
-bill-tel.com
 bill407etrca.com
 billionalr.com
 bimance-airdop.org
@@ -1051,7 +1048,6 @@ bitkub.fafa855casino.com
 bitkubb.lockchain.net
 bitkubbloc.kchain.net
 bitkubblockch.ain.net
-bitkubs.com
 bitpay.com.de
 bitpulseportal.com
 bitrextrades.xyz
@@ -1741,7 +1737,6 @@ consorciochevroletmd.com.br
 contarctdrop.pages.dev
 contractclaim.netlify.app
 convert-dgcoin.com
-convert-dgcoin.pro
 convex-finance.xyz
 convexfinance.io
 coqinucoin.claims
@@ -1895,6 +1890,7 @@ dappscorrections.pages.dev
 dappsdropclaim.com
 dappsfixerweb.42web.io
 dappshub.pages.dev
+dappslog.vercel.app
 dappsly.pages.dev
 dappsnodesauthenticator.com
 dappsonar.pages.dev
@@ -1953,7 +1949,6 @@ debank-claim.com
 debank-claimable.net
 debank-web3.web.app
 debank.es
-debank.limited
 debank.svap.org.in
 debank.trustpado.com
 debnhaimes.company.site
@@ -2384,6 +2379,7 @@ ethereumorg.com
 ethereumx.cc
 ethereumxfee.com
 etherfi-airdrop.com
+etherfi.click
 etherfi.digital
 etherfi.finance
 etherfi.one
@@ -2580,7 +2576,6 @@ flyunitedworld.com
 fnx-marketrade.com
 foeziwo.pro
 foolz.sellpass.io
-foomclub.net
 foresamagovi.com
 foreverozeal.com
 forex-com.holu.workers.dev
@@ -2702,7 +2697,6 @@ gas-claim-teomf.github.io
 gas-ethereum.com
 gas-lido.com
 gasfeecal.com
-gate-io-gate.org
 gayjoygo.com
 gcko.org
 gedprefeituraimbituva.com.br
@@ -2967,7 +2961,6 @@ hopper.travsrv.com
 hostbreno.com
 hostilityaristocrat.top
 housexysounds.com
-hpths777inu.org
 hpwhmw10itwo.xyz
 hqq0a7e.info
 hr-adp.com
@@ -3458,20 +3451,12 @@ learcorporativo.com
 learn-unibot.app
 learventa.com
 learventas.com
-ledger-live-app.biz
-ledger-live-desktop-app.org
-ledger-live-download-ledger.org
-ledger-live-ledger.com
-ledger-live-ledger.org
-ledger-start.cc
-ledger-start.info
 ledger-wallet-ledger.net
 ledgerhnet.gotdns.ch
 ledgerlive-app.online
 ledgerreclaim.com
 ledgers.support
 ledsgerwallet.com
-legder-live.app-web3.com.co
 legder.live-app.com.co
 leisureglob.com
 lenanet.work
@@ -3620,6 +3605,7 @@ looksrare-d1x.pages.dev
 looksrare-drop.su
 looksrare-id.org
 looksraredrop.com
+looksrarenft.info
 loongavax.com
 loopringlabs.online
 lootynetwork.org
@@ -4301,11 +4287,9 @@ migration-dypius.pro
 migration-ferrumnetwork.pro
 migration-kondux.pro
 migration-pirb.tech
-migration-psyoploy.pro
 migration-singularitydao.com
 migration-wdymcrypto.app
 migration-wolverinu.pro
-migration-x7.pro
 migration-x7.xyz
 migration.ot-sea.com
 migrationmetagalaxyland.website
@@ -4316,7 +4300,6 @@ million-satoshivm.io
 million-satoshivmio.pages.dev
 miltamasklog.github.io
 mine-manta.network
-minecraft-playgo.ru
 minepro.fit
 minetrix.app
 minhacontachevrolet-sf.com
@@ -6093,6 +6076,7 @@ sconectsmartplusoficial.store
 scorpion-casino.shop
 scotltytheai.xyz
 scotlytheais.club
+scotty-theais.web.app
 scottytheai-en.web.app
 scottyxai.com
 scottyystheai.xyz
@@ -6247,7 +6231,6 @@ sk8pes.world
 skasoff5th01.com
 skasoff5th02.com
 skasoff5th03.com
-skellieschristmas.com
 sklpool.site
 sksidg.com
 skyborneslegacy.com
@@ -6410,7 +6393,6 @@ stake-tish.com
 stake-us.in.net
 stake-us.in.net.mammonmarketing.com
 stake-xai.games
-stake.liquity.fi
 stake.nobodynfts.today
 stakeamnis.finance
 stakefloki.com
@@ -6553,7 +6535,6 @@ susdc.dev
 sushi-swapsushi.github.io
 sushi.gifts
 sushiswap-sushi.app
-sushiswap.lt
 sushiswap.mom
 sushlswap.github.io
 sw-syncswap.com
@@ -6602,6 +6583,7 @@ sync3kavva.netlify.app
 syncappauth.pages.dev
 syncapprectify.pages.dev
 syncconnectdapp.xyz
+syncdappbrowser.web.app
 syncedapps.pages.dev
 synchronizerpanel.com
 synckavva.netlify.app
@@ -6937,14 +6919,9 @@ unisvap-v3.github.io
 uniswap-blockchain-clone-ng.vercel.app
 uniswap-defiapp.org
 uniswap-exchange-site.web.app
-uniswap-exchange-uniswap.app
 uniswap-org.vercel.app
 uniswap-pools.web.app
 uniswap-staking-pools.web.app
-uniswap-uniswap.net
-uniswap-v2.info
-uniswap-v3-uniswap.com
-uniswap-v3.app
 uniswap.op-com0516.xyz
 uniswap.web3-x.org
 uniswaps-revoke.cash
@@ -7518,7 +7495,6 @@ www.app.defi-connect.xyz
 www.app.trust-reward.live
 www.appscallop.io
 www.appstride.zone
-www.appwallstmemes.pro
 www.apygate.rpctool.com
 www.archivesecureprotection.com
 www.aryanmodi.com
@@ -7842,7 +7818,6 @@ www.rpcnodeservicetool.com
 www.rpcresolve.com
 www.rtutgg.cn
 www.rubyprotocol.pro
-www.safereum.net
 www.sbtpgs.com
 www.sdxbtcc.com
 www.sdxgood.com
