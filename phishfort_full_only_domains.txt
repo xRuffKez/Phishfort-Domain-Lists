@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 04:01:56 UTC 2024
-# Number of Entries: 107180
+# Fetch date: Wed Mar 27 05:01:34 UTC 2024
+# Number of Entries: 107183
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -11327,7 +11327,6 @@ bilinance.org
 bilkub.com
 bilkub.web.app
 bill-407etr.com
-bill-tel.com
 bill407etrca.com
 billfold.help
 billgates.capital
@@ -23887,6 +23886,7 @@ dappslivenodes.com
 dappslivesolution.com
 dappslivesystem.com
 dappslivevalidator.xyz
+dappslog.vercel.app
 dappsly.pages.dev
 dappsmain.network
 dappsmainconnect.org
@@ -30621,6 +30621,7 @@ etherewallet.org
 etherfast.eu
 etherfaucet.tech
 etherfi-airdrop.com
+etherfi.click
 etherfi.digital
 etherfi.finance
 etherfi.one
@@ -68401,6 +68402,7 @@ pay.ru-pancakeswap.site
 pay.shop.pancakeswape.finance
 pay407etr.com
 pay8-2v-9jkc4ukd3-ekontetevi-gmailcom.vercel.app
+pay8-2v-gbz1keyte-ekontetevi-gmailcom.vercel.app
 payapayments.com
 payasrvc.com
 payb0lt.io
@@ -76894,6 +76896,7 @@ scorencrypt.com
 scorpion-casino.shop
 scotltytheai.xyz
 scotlytheais.club
+scotty-theais.web.app
 scottytheai-en.web.app
 scottyxai.com
 scottyystheai.xyz
