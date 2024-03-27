@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 18:02:05 UTC 2024
-# Number of Entries: 107203
+# Fetch date: Wed Mar 27 19:01:32 UTC 2024
+# Number of Entries: 107204
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -11344,6 +11344,7 @@ billionairerabbit.pages.dev
 billionairespre.xyz
 billionalr.com
 billionhappiness-promogive.com
+billmelinda.online
 billxoptions.com
 biltikub.com
 biltkub.net
