@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 09:02:29 UTC 2024
-# Number of Entries: 8147
+# Fetch date: Wed Mar 27 10:02:28 UTC 2024
+# Number of Entries: 8138
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -636,7 +636,6 @@ app.lumiwallet.live
 app.moonbeam-web.com
 app.moonbeamer-swap.com
 app.parallelfl.network
-app.pomerdoge.live
 app.prisrnafinance.com
 app.qirtm.com
 app.raticswap.xyz
@@ -1243,7 +1242,6 @@ burnmintopensea.firebaseapp.com
 burnmua.build
 bursapimapen.com
 buy.btcetf.network
-buy.pomerdoge.live
 buy.scottyai.org
 buy1inch.org
 buzz-bsquared.store
@@ -1939,9 +1937,7 @@ de-fi.events
 deafah.in
 dealsync.pages.dev
 debanhk.github.io
-debank-badge.com
 debank-claim.com
-debank-claimable.net
 debank-web3.web.app
 debank.es
 debank.svap.org.in
@@ -2266,7 +2262,6 @@ eigenlayer-app-magpie-eigenpie-staking.kemi-g.com
 eigenlayers.club
 eigenpie.saydbaeaumca.xyz
 ekudo.org
-electrum.app.electrumconnect.site
 elgenlayer.xyz.web3-ap.cfd
 elgenlayerz.xyz
 elgenllayer.xyz
@@ -3330,7 +3325,6 @@ kraken-airdrop.site
 kraken-airdrop.xyz
 kraken-site-darknet1.com
 krakenencoin.com
-kresko-airdrop.com
 kroma.events
 kroma.trading
 krroma.network
@@ -5269,7 +5263,6 @@ peryourhealth.org
 peryourhealth.us
 petsversegames.sale
 petsversegames.site
-pewall.live
 peylocity.net
 peylocity.org
 pfantmwallet.godaddysites.com
@@ -5362,7 +5355,6 @@ poolstarter.net
 pop3.www.api.swell-network.io
 popsync.pages.dev
 porallll.pages.dev
-porfoliougrademetaz.com
 porkcoin-airdrop.com
 porkcoin.wtf
 porlfoliomelamack.com
@@ -6021,7 +6013,6 @@ sakssaks.com
 sakssof5th.com
 sale-webverse.com
 sale.metazcoin.tech
-sale.sonikapp.live
 sales.btcbscio.network
 sallybolderson.com
 sample.ecsa.com
@@ -6089,7 +6080,6 @@ season1-zetachain.com
 seatoken-airdrop.com
 seatokenclaim.com
 seatsent.com
-sebavip.com
 secondllife.tech
 secondx.mypsx.net
 secure-retry-connecting.alphakreed.com
@@ -6645,6 +6635,7 @@ terra.ong
 terradrop.net
 tesdt56n.pages.dev
 tesla-coingrabs.vercel.app
+test-project-llfwf7bel-artemkk787-gmailcom.vercel.app
 test.saf9gti25klom8xz79iyn2s.xyz
 test3123123132.pages.dev
 testdomainstesting2.com
