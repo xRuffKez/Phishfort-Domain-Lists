@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 06:02:41 UTC 2024
-# Number of Entries: 8144
+# Fetch date: Wed Mar 27 07:02:27 UTC 2024
+# Number of Entries: 8147
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -177,6 +177,7 @@ admincoinbase.the123456789.com
 adslauncher.eu
 advancelobstarhifi.pages.dev
 aerodrom.flnance.web3-l2.cfd
+aerordome.finance
 aethergaming.store
 aevoxyz.live
 affiliateagoda.com
@@ -898,6 +899,7 @@ badges-chainlink.com
 bafkreiagunr2sbunsmqb7eaoa5x5qeonkicuthxuoq3rzyy3s775dzknie.ipfs.dweb.link
 bafybeianm7lllm6v2rpyuah5gzsh22gxfikab5ie3xei6f2n3ngfvsx524.ipfs.dweb.link
 bafybeiaqyixakyqz7ywj3o6yeug5bsxp5fro6s55uh32j4mmhrdrjgsluq.ipfs.dweb.link
+bafybeiar2pi2heiwfhdlbrulhqyy5oen5k2xx767xss7d5slu5rt3tdpia.ipfs.dweb.link
 bafybeicdv6wvyuhybvf3htmdkcpp7scfw7wq65syuimtv3mslcqhohogla.ipfs.cf-ipfs.com
 bafybeihbzllhmou7v2n5voxg3ldvflwmzzqwnb4zc4kani4onqpdj2gb7m.ipfs.dweb.link
 bag-holding.web.app
@@ -1578,6 +1580,7 @@ coin-fx.ltd
 coin-multiresolve.firebaseapp.com
 coin-multiresolve.web.app
 coin-qr.to
+coin-swap.global
 coin.searchclaim.top
 coinbase-ashen.vercel.app
 coinbase-blush.vercel.app
@@ -2260,6 +2263,7 @@ eigenilayer.com
 eigenlaver.magpiexyz.site
 eigenlayer-airdrop.claims
 eigenlayer-app-magpie-eigenpie-staking.kemi-g.com
+eigenlayers.club
 eigenpie.saydbaeaumca.xyz
 ekudo.org
 electrum.app.electrumconnect.site
@@ -3440,7 +3444,6 @@ learcorporativo.com
 learn-unibot.app
 learventa.com
 learventas.com
-ledger-wallet-ledger.net
 ledgerhnet.gotdns.ch
 ledgerlive-app.online
 ledgerreclaim.com
@@ -5310,6 +5313,7 @@ pixelscoin.com
 pixelsgame.world
 pixelstoken.xyz
 pixsmart-tv.com
+pixxelnft.eu
 pkinksle.com
 pknma-ciaaa-aaaad-qdxtq-cai.raw.icp0.io
 pl.xpiym.shop
@@ -5354,7 +5358,6 @@ pond0x.trading
 pond0xtreasury.com
 ponke-claim.netlify.app
 ponke.online
-poocoin-bsc-app.com
 poolstarter.net
 pop3.www.api.swell-network.io
 popsync.pages.dev
@@ -5376,6 +5379,7 @@ portals-game.web.app
 portals-networks.web.app
 portalsbridg.com
 portel-bridg.com
+portelbridges.org
 portelbrldge.org
 portfolio-mask-mask-master-dedi285032.codeanyapp.com
 portfolio-metamask-io.org
@@ -6296,7 +6300,6 @@ soflarewebextension.com
 softnote.xyz
 solana-claim.web.app
 solana-promo.info
-solana-satoria.world
 solana.ag
 solana.laag.site
 solanaetoken.e-classes.pro
