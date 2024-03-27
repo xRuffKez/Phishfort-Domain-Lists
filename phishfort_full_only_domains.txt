@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 15:01:35 UTC 2024
+# Fetch date: Wed Mar 27 16:02:01 UTC 2024
 # Number of Entries: 107200
 # Expires: 1 hour
 0-metemask.com
@@ -9138,6 +9138,7 @@ axieinfinity-meta.land
 axieinfinity-meta.net
 axieinfinity-official.com
 axieinfinity-pr.com
+axieinfinity-rewards.com
 axieinfinity-rewardsair.com
 axieinfinity-ronin.shop
 axieinfinity-stake.com
@@ -45327,7 +45328,6 @@ login.coinbasesupportscenterid.com
 login.coinbasesupportsid.com
 login.coinbasewalletsupport.com
 login.coinbasewalletsupports.com
-login.cw1.ir
 login.fraend.net
 login.frame-airdrop.xyz
 login.lblockhcoin.com
