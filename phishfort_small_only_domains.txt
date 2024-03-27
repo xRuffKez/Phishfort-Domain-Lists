@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 10:02:28 UTC 2024
-# Number of Entries: 8138
+# Fetch date: Wed Mar 27 11:02:14 UTC 2024
+# Number of Entries: 8127
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -618,7 +618,6 @@ app.airtms.com
 app.allocations-chihuahua.com
 app.allocations-vanarchain.com
 app.altlayer-web3.com
-app.authsyncontracts.com
 app.blastclaim.com
 app.blockchainrepository.xyz
 app.claims-richquack.com
@@ -818,7 +817,6 @@ atom.trasthub.top
 atorio.news
 atorprotocol.co
 audius.gift
-audiuspool.com
 aura-finance.news
 aura-migration.live
 auroravortex.org
@@ -896,6 +894,7 @@ badges-altlayer.io
 badges-chain.link
 badges-chainlink.com
 bafkreiagunr2sbunsmqb7eaoa5x5qeonkicuthxuoq3rzyy3s775dzknie.ipfs.dweb.link
+bafybeiacdlff4jtqcufouraliealwkunukjhozwiy7mdojmsq45xzswlri.ipfs.dweb.link
 bafybeianm7lllm6v2rpyuah5gzsh22gxfikab5ie3xei6f2n3ngfvsx524.ipfs.dweb.link
 bafybeiaqyixakyqz7ywj3o6yeug5bsxp5fro6s55uh32j4mmhrdrjgsluq.ipfs.dweb.link
 bafybeiar2pi2heiwfhdlbrulhqyy5oen5k2xx767xss7d5slu5rt3tdpia.ipfs.dweb.link
@@ -1241,7 +1240,6 @@ burnedfii.com
 burnmintopensea.firebaseapp.com
 burnmua.build
 bursapimapen.com
-buy.btcetf.network
 buy.scottyai.org
 buy1inch.org
 buzz-bsquared.store
@@ -3312,7 +3310,6 @@ kitty-inu-dao.com
 kkyphtf0fbvl.ftntpk6ubbx4sk.ru
 klarnacasino.nl
 klarnaitalysrl.welfare.it
-klayswapapp.klayexchaange.live
 kmaber.site
 knoxalliance-store.knoxalliance.com
 kofdet.com
@@ -4144,7 +4141,6 @@ metamaskclaimtoken.com
 metamaskcoin.io
 metamaskcrypto.com
 metamaske.com.cn
-metamasked.org
 metamaskit.com
 metamasklabs.cloud
 metamaskmal.ru
@@ -4535,8 +4531,6 @@ na3-docusign-office365.us-sea-1.linodeobjects.com
 nabla-amm.fi
 nabla-finance-week4testnetlive.vercel.app
 naka-migos.net
-nakamigos-cloaks.app
-nakamigos-cloaks.art
 nanogatesphere.info
 napaauto.shop
 napaautoparts.store
@@ -6840,10 +6834,6 @@ trustwallet-support.com
 trustwallets.pages.dev
 trustweb3.pages.dev
 trustwl.xyz
-trx-swap-0g.online
-trx-swap-0i.online
-trx-swap-0k.online
-trx-swap-0n.online
 try.starkzparticipate.com
 try.zparkgroup.com
 tryaml.com
@@ -6963,7 +6953,6 @@ usdmint.co
 usdonbsc.tech
 usdt-bonus.org
 usdt-drop.top
-usdt-nft.com
 usdt-payback.com
 usdt-payback.net.futurevest.com.au
 usdt-pool.vip
