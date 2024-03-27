@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 21:01:57 UTC 2024
+# Fetch date: Wed Mar 27 22:01:33 UTC 2024
 # Number of Entries: 107203
 # Expires: 1 hour
 0-metemask.com
@@ -36696,7 +36696,6 @@ globalpantera.com
 globalpay-paxful.com
 globalpayment.online
 globalpaymentserver.com
-globalpaymentsvtw.com
 globalpaymentsytww.com
 globalsafetyprotection.com
 globalsconnect.com
@@ -77556,6 +77555,7 @@ sei.land
 sei.sale
 seiamp-spenn-koiff.yolasite.com
 seiclaims.com
+seicoingeckolearnandearn.pages.dev
 seifmoon.pro
 seiizgroup.tech
 seiizgroup.xyz
