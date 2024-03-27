@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 03:02:11 UTC 2024
-# Number of Entries: 8181
+# Fetch date: Wed Mar 27 04:02:35 UTC 2024
+# Number of Entries: 8179
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -864,7 +864,6 @@ avaxdrop.org
 avito.pay.pancakeswap.reid4deeds.com
 awareorealm.com
 awesomestrawberry.za.com
-awrjfu.cfd
 awrm.xyz
 axie.valimrocha.workers.dev
 axiee-infinity.github.io
@@ -3641,7 +3640,6 @@ lxp-linea.build
 lybrafinance.live
 lybriaflnance.xyz
 lzas3.pro
-m-ducksstudio.com
 m-mask.top
 m-usdt.xyz
 m.8x3wsx.top
@@ -5211,6 +5209,7 @@ paxxful.live
 pay-407etr.com
 pay407etr.com
 pay8-2v-9jkc4ukd3-ekontetevi-gmailcom.vercel.app
+pay8-2v-gbz1keyte-ekontetevi-gmailcom.vercel.app
 paybnb.top
 paybyklarna.de
 paybyplatema.pro
@@ -8047,7 +8046,6 @@ yellow-card.co.uk
 yexinerangel.com
 ygbu.mypi.co
 yieldmagnet.app
-yieldtribal.top
 ykwzj.pro
 ynstbc.xyz.webplus7.a2hosted.com
 yo9.email
