@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 05:03:05 UTC 2024
-# Number of Entries: 8154
+# Fetch date: Wed Mar 27 06:02:41 UTC 2024
+# Number of Entries: 8144
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -602,7 +602,6 @@ app.1inch.fo
 app.1inch.lc
 app.1insh.io
 app.1lnch.mom
-app.9inchio.com
 app.airrtm.com
 app.airtm-7.com
 app.airtm-8.com
@@ -619,11 +618,8 @@ app.allocations-chihuahua.com
 app.allocations-vanarchain.com
 app.altlayer-web3.com
 app.authsyncontracts.com
-app.baseswapp.network
 app.blastclaim.com
 app.blockchainrepository.xyz
-app.btcbscio.network
-app.btcetf.network
 app.claims-richquack.com
 app.cosensys.io
 app.defi-origin.com
@@ -649,13 +645,11 @@ app.solvsprotocol.com
 app.sonikapp.live
 app.sparkprotocol.fi
 app.stringwebtools.com
-app.swiftblockresolve.com
 app.unsiwap.us
 app.unsiwap.us.com
 app.walletguard.cloud
 app.xn--1nch-qpa.io
 app.zenomedequipment.com
-app.zkdxio.xyz
 app.zkeztrade.com
 appair-hopper.com
 appaloe.capital
@@ -905,6 +899,7 @@ bafkreiagunr2sbunsmqb7eaoa5x5qeonkicuthxuoq3rzyy3s775dzknie.ipfs.dweb.link
 bafybeianm7lllm6v2rpyuah5gzsh22gxfikab5ie3xei6f2n3ngfvsx524.ipfs.dweb.link
 bafybeiaqyixakyqz7ywj3o6yeug5bsxp5fro6s55uh32j4mmhrdrjgsluq.ipfs.dweb.link
 bafybeicdv6wvyuhybvf3htmdkcpp7scfw7wq65syuimtv3mslcqhohogla.ipfs.cf-ipfs.com
+bafybeihbzllhmou7v2n5voxg3ldvflwmzzqwnb4zc4kani4onqpdj2gb7m.ipfs.dweb.link
 bag-holding.web.app
 bakerswap.trading
 balahcer.fi
@@ -928,7 +923,6 @@ base-named.org
 basebrett.xyz
 basedbrett.xyz
 baseswaap.top
-baseswapp.network
 batmansol.com
 baycarepatientportal.net
 bazename.lol
@@ -1363,7 +1357,6 @@ chainlinktreasury.net
 chainlogserver.pages.dev
 chainlsiit.com
 chainmulticoin.pages.dev
-chains.authsyncontracts.com
 chainsextension.com
 chainsprotocol.com
 chainswap-airdrop-claim.pages.dev
@@ -1493,7 +1486,6 @@ claim.pancakeswap.cfd
 claim.renqapp.live
 claim.retikapps.com
 claim.smogxtoken.com
-claim.sonikapp.live
 claim.spazecommune.com
 claim.spongeonerc.com
 claim.wallstretmemes.app
@@ -2300,13 +2292,10 @@ emploeemygochek.com
 empowerpersonalasset.com
 en-suiswap.net
 en-web3fix.pages.dev
-en.authsyncontracts.com
 en.btcetf.network
 en.coifixupresolver.com
 en.ingaccessbn.com
 en.pushdstore.xyz
-en.sonikapp.live
-en.swiftauthresolve.com
 en407etr.com
 enchor-roofs.com
 encryted-api-f3w.pages.dev
@@ -3025,6 +3014,7 @@ illuviumrewards.io
 illuviumweb3.com
 img.coolpayvn.com
 img.vncoolpay.com
+immutabie.co
 immutable.defi-community.com
 immutablle.me
 impactivecreator.com
@@ -3112,7 +3102,6 @@ invoices-407etr.com
 io-dex.tools
 io-net.pages.dev
 io-ultra-net.vercel.app
-io.velodromefinance.network
 iotmodysbln.com
 ipgroup-lnc.com
 iptv.skin
@@ -4030,7 +4019,6 @@ memekombat-api.pages.dev
 memekombat-def.web.app
 memekombat-server.pages.dev
 memekombat-staking.xyz
-memekombatio.live
 memeland-verify.web.app
 memelandcoin.vercel.app
 memelandeth.com
@@ -4379,6 +4367,7 @@ mogcoin.rewardshare.info
 molina-healthcareinc.com
 molinahealthcare-careers.com
 momentsbycandles.com
+monad--chain.com
 mondoffices.com
 monerom.uk
 monerosharpversa.pages.dev
@@ -4812,7 +4801,6 @@ onlinenode.pages.dev
 onlinesgpon.cc
 onlysaitachain.migration.rxi.app
 onno-vaultdapp.click
-onschain.live
 ontario407etr.com
 ooderr.github.io
 op-earn.xyz
@@ -4900,6 +4888,7 @@ optiver-vipapp.vip
 optiveronline.com
 optivertradeoptions.com
 oraclegarden.network
+oragraf.com
 oraidex.online
 oravblox.com
 orbiter.financial
@@ -5353,6 +5342,7 @@ poiygon.com
 poiyhedra.net
 pokarswaps.space
 pol.zcadk.cn
+polarbearsnft.top
 poligonka-steking.top
 polkabridge-network.org
 polkadex.online
@@ -5903,7 +5893,6 @@ rewards-tether.xyz
 rewards-wenwencoin.com
 rewards.carrbify.com
 rewards.hillfun.club
-rewards.multibitweb.com
 rewards.otsea.capital
 rewards.retik.app
 rewards.xn--ldo-rma.finance
@@ -6833,6 +6822,7 @@ trestleprotocol.net
 treszorwallest.azurewebsites.net
 trezorsuite-web3.com
 trimaax.us
+trindadeadvocacia.com
 trinet.za.com
 trippletradingteam.com
 tron-claim.top
