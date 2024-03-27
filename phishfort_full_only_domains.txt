@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 01:22:24 UTC 2024
-# Number of Entries: 107175
+# Fetch date: Wed Mar 27 02:07:15 UTC 2024
+# Number of Entries: 107180
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -32007,6 +32007,7 @@ exchange2016.com
 exchange68.com
 exchangeauthority1031.com
 exchangebtc.site
+exchangecode.online
 exchangeconnect.art
 exchangecroissantswap.finance
 exchangedefi-shine.com
@@ -43942,6 +43943,7 @@ lineabuilds.org
 lineabuilds.xyz
 lineabulid.com
 lineaclaims.com
+lineadapp.com
 lineadapps.com
 lineadapps.xyz
 lineadrop.org
@@ -59268,6 +59270,7 @@ news-tesla.online
 news-xrp.live
 news.binance-app.org
 news.binannce.net
+news.crypinfotoday12.info
 news.ethereum-wallet.net
 news.unicornhunter.io
 news18.biolela.com
@@ -68369,6 +68372,7 @@ paxufl.com
 paxufully.com
 paxuntamcolate.godaddysites.com
 paxxful-env.xyub9gu3hw.us-east-2.elasticbeanstalk.com
+paxxful.live
 paxxfull.co
 paxxfull.com
 paxxfull.shop
@@ -75688,6 +75692,7 @@ roninchain.app
 roninchain.bond
 roninchain.cc
 roninchain.click
+roninchain.cloud
 roninchain.drop-event.top
 roninchain.fun
 roninchain.gq
