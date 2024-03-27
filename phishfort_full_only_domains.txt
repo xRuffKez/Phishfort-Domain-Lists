@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 16:02:01 UTC 2024
-# Number of Entries: 107200
+# Fetch date: Wed Mar 27 17:01:57 UTC 2024
+# Number of Entries: 107201
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -14149,7 +14149,6 @@ brainlessspikes.wins-mint.com
 brainpromo.info
 brainsdrop.xyz
 brainslum.web3-airdrop.net
-branch52.com
 branchconnect.pages.dev
 branchwallets.com
 brandforlessegy.com
@@ -40689,6 +40688,7 @@ jitodrop.net
 jitonetwork.su
 jitterycaterpillar.build067.wpsandbox.app
 jiuxingmach888.com
+jizzx.b4t.to
 jjccii.com
 jjk.caitwk.vip
 jjmyxy.lxy01.com
@@ -100241,6 +100241,7 @@ www.myetherwalleg.com
 www.myetherwalleh.com
 www.myetherwallert.com
 www.myetherwallest.com
+www.myetherwallest.org
 www.myetherwallet-coin.top
 www.myetherwallet-hydrogen.top
 www.myetherwallet-logiin.com
