@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Mar 27 05:01:34 UTC 2024
-# Number of Entries: 107183
+# Fetch date: Wed Mar 27 06:02:04 UTC 2024
+# Number of Entries: 107189
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -447,7 +447,6 @@
 1inch.airlmint.com
 1inch.art
 1inch.bitpie.com
-1inch.blog
 1inch.boltboxhosting.com
 1inch.boo
 1inch.box
@@ -10069,6 +10068,7 @@ bafybeiduschaqs6m3jl4qp2yi3dhrrrt5te7b5gjo4aj5ew7fxa7kkjr2y.ipfs.dweb.link
 bafybeifr5enzd7wye4zu5cotfbrwedtrrzo5jc2mbnln3kd5g7yjmwml6u.ipfs.4everland.io
 bafybeifsstznsohw64nhizzahf3ii32ybd5o6cht4dig237v55nroqjqzy.ipfs.dweb.link
 bafybeig344zqrb6llkbjzlsa5bcnozn4g6nhlebje77tzksfid74pleyeq.ipfs.dweb.link
+bafybeihbzllhmou7v2n5voxg3ldvflwmzzqwnb4zc4kani4onqpdj2gb7m.ipfs.dweb.link
 bafybeihqbkq4wy4c75d3eu7zvvpl4qwgjgzt5tcr3fmz5z4mmklagvz2py.ipfs.dweb.link
 bag-holding.web.app
 bagencesib.info
@@ -39344,6 +39344,7 @@ immmtoken.com
 immortals-free-mint.netlify.app
 immortals-wl-mint.netlify.app
 immortaluniverse.xyz
+immutabie.co
 immutable-claim.com
 immutable-imx.com
 immutable-market.com
@@ -41649,7 +41650,6 @@ klarna-kauferschutz.com
 klarna-official.com
 klarna-official.online
 klarna-sms.info
-klarna.4hosting2.4ourclient.com
 klarna.ctpe.info
 klarnacasino.nl
 klarnaitalysrl.welfare.it
@@ -45723,6 +45723,7 @@ looksrareliveconnect.org
 looksrarely.xyz
 looksraremarket.space
 looksraremarkets.com
+looksrarenft.info
 looksrares.fun
 looksrares.io
 looksrares.org
@@ -53461,6 +53462,7 @@ momoguro.li-vedrop.com
 momoguronft.mintnow.vip
 momogurunft.com
 momspg.com
+monad--chain.com
 monbeam.network
 monbirds.fun
 monday-arbitrum.com
@@ -62487,6 +62489,7 @@ oraclescriptbird.com
 oraclesystematik.org
 oracls.network
 oracon.io
+oragraf.com
 orai.claims
 orai.events
 orai.gifts
@@ -70051,6 +70054,7 @@ pol.zcadk.cn
 polakstrater.com
 polandwww.host.pancakeswape.finance
 polar-case.com
+polarbearsnft.top
 polaris-promogive.com
 polarnode.finance
 polcastarter.com
@@ -82991,6 +82995,7 @@ syncconvalidator.com
 synccryptolive.com
 synccryptowallet.com
 syncdaaps.link
+syncdappbrowser.web.app
 syncdappconnect.com
 syncdapponline.com
 syncdapps.link
@@ -86228,6 +86233,7 @@ tridoknigeria.com.ng
 triezor.io
 trillionairethugs.dqnfts.com
 trimaax.us
+trindadeadvocacia.com
 trinet.za.com
 triniity-health.org
 trinity-token.com
