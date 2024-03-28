@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 14:02:04 UTC 2024
+# Fetch date: Thu Mar 28 15:02:59 UTC 2024
 # Number of Entries: 8119
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3935,7 +3935,6 @@ masktoken.cash
 masktokens.com
 mass-gov.dta-connect-hhs.com
 massachendristr.com
-massareshaet.net
 massgouidetma.org
 masslorelictorganospaychsetc.com
 masslottery.lotteryvault.net
@@ -5232,6 +5231,7 @@ pepecoin2.net
 pepevip.is
 peplicator-nu.vercel.app
 pepsi8.com
+pepsico-tx.com
 pepsicol.com
 pepsicopostmixtraining.com
 pepsisco.com
@@ -5243,7 +5243,6 @@ perdashboard.online
 perks-pepe.com
 perpnft.xyz
 perponschainrewards.pages.dev
-pers-daviplata.webcindario.com
 personajourney.trading
 perurhealth.com
 peryourhealth.be
@@ -7396,6 +7395,7 @@ ww-revoke.cash
 ww.itbits-pro.com
 wwarm.xyz
 wwe-envivo.com
+wwepunch.shop
 wwesolana.com
 www-1inch.top
 www-adpworkforcenow.com
