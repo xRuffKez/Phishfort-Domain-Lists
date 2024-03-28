@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 18:01:45 UTC 2024
-# Number of Entries: 107222
+# Fetch date: Thu Mar 28 19:01:23 UTC 2024
+# Number of Entries: 107219
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -47203,6 +47203,7 @@ makeitintowallet2022metamask.work.gd
 makepayment-407etr.com
 maker-dai.com
 maker-dai.net
+maker-dao.life
 maker-dao.net
 maker-dao.online
 maker-doa.com
@@ -58300,7 +58301,6 @@ mymenero.com
 mymeta-app.com
 mymetaaverify.com
 mymetamas.us
-mymetamask-clientarea.185-236-231-227.plesk.page
 mymetamask-onlineupdate.185-80-53-115.plesk.page
 mymetamask-overview.79-141-164-138.plesk.page
 mymetamask-overviewpage.185-117-91-145.plesk.page
@@ -81599,7 +81599,6 @@ stockmarketlabfx.net
 stockmartinc.com
 stockmetrictraders.com
 stocks.millenniumcapital-hnc.com
-stoic-stonebraker.109-71-253-24.plesk.page
 stokholfixxer.com
 stoksaga.com
 stomatology.ycdzybk.com
@@ -83480,7 +83479,6 @@ synscapp.com
 synslabs.firebaseapp.com
 synslabs.web.app
 synspad.firebaseapp.com
-synspad.web.app
 synssmartdapps.live
 syntethix.io
 synthesis-syn.com
@@ -85271,7 +85269,6 @@ token-selfkey.org
 token-sets.com
 token-sets.org
 token-shibainu.com
-token-shibainu.net
 token-support.net
 token-sync.org
 token-syncer.com
