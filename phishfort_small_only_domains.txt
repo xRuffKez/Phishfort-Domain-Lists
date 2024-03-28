@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 15:02:59 UTC 2024
-# Number of Entries: 8119
+# Fetch date: Thu Mar 28 16:02:41 UTC 2024
+# Number of Entries: 8118
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -769,7 +769,6 @@ arkhamintelligence.gift
 arkm.air-trastpad.top
 arkm.t-wallets.top
 armadorasanluis.com
-arolielshc.com
 arraklls.flnance.web3-ap.cfd
 art-ross.io
 artegiron.co
@@ -853,6 +852,7 @@ awesomestrawberry.za.com
 awrm.xyz
 axie.valimrocha.workers.dev
 axiee-infinity.github.io
+axieinfinitiy.com
 axieinfinity-birthday.com
 axieinfinity-com.com
 axieinfinity-rewards.com
@@ -2501,7 +2501,6 @@ fireblockscrypto.com
 firmware-data.pages.dev
 first-braved.info
 firstports.co.uk
-fitness-seven.com
 fitness-solution24.de
 fix-metamask.pages.dev
 fix.errorsolution.org
@@ -4207,7 +4206,6 @@ metisdao.fi
 metisdaovotings.com
 metisdex.io
 metlife.spicus.com
-metlife.trigmainc.com
 metlifeconsumerservicesinc.store
 metlifeperteinsu.com
 metliferecruitment.com
@@ -4557,6 +4555,7 @@ network-altlayer.com
 network-dymension.com
 network-manta.com
 network-manta.net
+network-metamask.com
 network.airdrops-manta.it
 network.app--jito.network
 networks-rnanta.com
