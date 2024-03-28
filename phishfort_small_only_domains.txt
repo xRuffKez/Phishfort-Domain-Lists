@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 04:02:28 UTC 2024
-# Number of Entries: 8118
+# Fetch date: Thu Mar 28 05:02:14 UTC 2024
+# Number of Entries: 8115
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -488,7 +488,6 @@ angledao.net
 animalfarm3app.com
 animalia.trading
 animalias.events
-anowplunge.com
 ap-paymentreceipts.com
 ape-pylh.network
 ape.airscointrustpad.top
@@ -1129,6 +1128,7 @@ blst-reg.app
 bltkub-kyc.web.app
 bluefishing.buzz
 blueprints.fi
+blueseanice.com
 blur-drop.claims
 blur-season-3-airdrop.pages.dev
 blurairdrop.pages.dev
@@ -3653,7 +3653,6 @@ mahto-network.com
 mail-celsius.network
 mail-coinbase.biz
 mail.arab-bkplc.com
-mail.cpcalendars.gitlab.mail.pancakefiance.org
 mail.ethxgas.com
 mail.layerszero.pics
 mail.lendingtree.website
@@ -4223,7 +4222,6 @@ mettvcmaske.azurewebsites.net
 metumasklgio.github.io
 metwamasus.azurewebsites.net
 metzhgofk.com
-mew-wallet.net
 mewwallet.cc
 mfa-expiration-notification-authservices2fa.us-ord-1.linodeobjects.com
 mfi.expert
@@ -5179,6 +5177,7 @@ paylink.fun.augusttarget.online
 paylocily.com
 paylocity-login.com
 paylocity-sso.com
+paylooity.com
 payment-407etr.com
 payment-etr407.com
 payment407etr.com
@@ -5265,7 +5264,6 @@ phantom-webservice.online
 phantomm-ewallett.godaddysites.com
 phantomtoken.app
 phantomwaalet.godaddysites.com
-phantomwallets.xyz
 phantomwallte.com
 phantomzwalllet.godaddysites.com
 phantuumwaleet.godaddysites.com
@@ -5976,7 +5974,6 @@ saitachain-migration.pages.dev
 saitama.gift
 saitapro.vercel.app
 saiyansdrop.com
-saks5.store
 saksof5th.club
 saksoff.sakskoesad.com
 saksoff5th-us1.com
@@ -7165,6 +7162,7 @@ web-connectte.gq
 web-defillama.com
 web-dextools.com.syncstatics.com
 web-kavaa.netlify.app
+web-metamesklogin.uteach.io
 web.fixsolution.io
 web.pancake.run
 web.paxful-coin.cc
@@ -7638,7 +7636,6 @@ www.luckywin.x10.bz
 www.m.qna3-app.com
 www.mag-pie.xyz
 www.magpiexyz.click
-www.mail.cpcalendars.gitlab.mail.pancakefiance.org
 www.mailer.paxfulonline.com
 www.mainnet-portal.com
 www.makerdaodai.site
