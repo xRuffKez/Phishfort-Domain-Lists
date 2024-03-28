@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 08:02:46 UTC 2024
-# Number of Entries: 8120
+# Fetch date: Thu Mar 28 09:03:22 UTC 2024
+# Number of Entries: 8118
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -167,7 +167,6 @@ accountrevive.pages.dev
 accountsportal.net
 accountsvalidator.com
 acefusionist.network
-achieflocker.com
 achieve-altlayer.io
 achieve-altlayer.pages.dev
 acrosss-bridge.xyz
@@ -555,6 +554,7 @@ app-ethena.xyz
 app-ether-fi.pages.dev
 app-fredenergy.pages.dev
 app-fusionx.com
+app-gala-games-wallet.com
 app-juilce.finance
 app-kaspanet.com
 app-kava.com
@@ -1001,7 +1001,6 @@ bigestcontests.com
 bikramind.com
 bilet-emirates.ru
 bill-407etr.com
-bill-tel.com
 bill407etrca.com
 billionalr.com
 billmelinda.online
@@ -7872,7 +7871,6 @@ www.xn--fixedflaot-f0b.com
 www.xrpsolana.com
 www.ylouch.com
 www.ypredictai.xyz
-www.zerion-wallet.com
 www.zerion.claimfree.xyz
 www.zksync-protocols.com
 wwwjup.ag
