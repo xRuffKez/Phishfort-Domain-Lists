@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 19:01:23 UTC 2024
-# Number of Entries: 107219
+# Fetch date: Thu Mar 28 20:01:55 UTC 2024
+# Number of Entries: 107214
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -12829,7 +12829,6 @@ bloccksync.live
 bloccwallets.com
 blochchai.info
 blochchaim.info
-blocichain.com
 blocickchain.com
 blocikchair.info
 block-chain-id.joomla.com
@@ -19462,7 +19461,6 @@ coinxgecko.info
 coinxgecko.link
 coinxhash.com
 coinxkeep.com
-coinxonse.com
 coinxpaddrop.com
 coinxpads.top
 coinxubne.com
@@ -24806,7 +24804,6 @@ debqnk.com
 debqnnk.com
 debridge-finance.org
 debridgefi.com
-debtor-ftx.com
 debts-collections.com
 debug-metamask.pages.dev
 debug-multichain.pages.dev
@@ -56792,7 +56789,6 @@ myetherwallet.imamat
 myetherwallet.imdb
 myetherwallet.immo
 myetherwallet.import-tokens.com
-myetherwallet.in
 myetherwallet.industries
 myetherwallet.infiniti
 myetherwallet.info
@@ -65510,6 +65506,7 @@ pancakeswap.love
 pancakeswap.lt
 pancakeswap.ltd
 pancakeswap.manualrectification.live
+pancakeswap.market
 pancakeswap.masterapp.live
 pancakeswap.me
 pancakeswap.medium.comm.drfernandosilveira.com.br
@@ -85741,7 +85738,6 @@ toolsync.live
 top-binance.com
 top-coinbase.com
 top-deals.pro
-top-discord.com
 top-ethereum.com
 top-ethereum.info
 top-ethereum.net
@@ -100215,7 +100211,6 @@ www.myetherqwallet.com
 www.myetherraltet.com
 www.myethersallet.com
 www.myetherswalet.com
-www.myetherswallet.com
 www.myetherswallet.org
 www.myethertwallet.com
 www.myetheruimwallet.com
@@ -100302,6 +100297,7 @@ www.myetherwalletf.org
 www.myetherwalletg.com
 www.myetherwalleth.com
 www.myetherwalletia.org
+www.myetherwalletie.com
 www.myetherwalletio.cc
 www.myetherwalletm.com
 www.myetherwalletm.top
@@ -102089,7 +102085,6 @@ www.seedjfly.top
 www.seedofy.fund
 www.seedoify.fund
 www.seedpify.fund
-www.seedsify.fund
 www.seedufiy.fund
 www.seedufy.fund
 www.seeduify-fund.com
