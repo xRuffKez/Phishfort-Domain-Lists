@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 14:01:35 UTC 2024
-# Number of Entries: 107217
+# Fetch date: Thu Mar 28 15:02:44 UTC 2024
+# Number of Entries: 107219
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -68898,6 +68898,7 @@ pepsi8.com
 pepsi9.com
 pepsi965.com
 pepsico-inc.net
+pepsico-tx.com
 pepsico.bssaapp.com
 pepsico.mercadocalidadagencias.com
 pepsico.responsibledisclosure.com
@@ -95879,6 +95880,7 @@ wwefanhop.com
 wwegames.online
 wwenft.org
 wwepk.com
+wwepunch.shop
 wwereplicabelts.com
 wweroyalrumble.org
 wweshop.cl
