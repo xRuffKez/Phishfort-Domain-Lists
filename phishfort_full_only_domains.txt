@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 22:01:36 UTC 2024
-# Number of Entries: 107214
+# Fetch date: Thu Mar 28 23:01:36 UTC 2024
+# Number of Entries: 107207
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -30021,7 +30021,6 @@ ether-bonus.net
 ether-claim.com
 ether-claim.net
 ether-claim.org
-ether-claims.com
 ether-coinbase.com
 ether-contest.com
 ether-delta.com
@@ -40025,6 +40024,7 @@ interactivebrokerintl.com
 interactivebrokers-invest.com
 interactivebrokers-investment.com
 interactivebrokers.app
+interactivebrokers.backqxghjpro.com
 interactivebrokers.group
 interactivebrokers.ink
 interactivebrokers.live
@@ -40038,6 +40038,8 @@ interactivebrokerslit.com
 interactivebrokersll.com
 interactivebrokersllcs.com
 interactivebrokerslp.com
+interactivebrokersrle.com
+interactivebrokersrue.com
 interactivebrokersx.com
 interactivebrokerz.com
 interactivebrokjers.com
@@ -61631,7 +61633,6 @@ opensea-decentralizedwallet.com
 opensea-defi.com
 opensea-doc.rf.gd
 opensea-drop.pages.dev
-opensea-drop.xyz
 opensea-event.io
 opensea-event.su
 opensea-exclu.com
@@ -85238,7 +85239,6 @@ token-helpline.com
 token-hex.net
 token-illuvium.com
 token-im-simtoken.site
-token-im.cc
 token-im66.com
 token-inch.com
 token-lnch.com
@@ -90636,7 +90636,6 @@ vtystarsline.online
 vuinllagift.com
 vulcam.xyz
 vulcan-airdrop.xyz
-vulcan-bot.net
 vulcan-forged.xyz
 vulcan.bio
 vulcan.bz
@@ -90648,14 +90647,8 @@ vulcan.pm
 vulcan.tel
 vulcan.tf
 vulcan.wtf
-vulcanapp.net
-vulcanapp.org
-vulcanapp.wtf
-vulcanapps.net
 vulcanauth.wtf
 vulcanauthentication.com
-vulcanauthentication.net
-vulcanbot.app
 vulcanbot.net
 vulcanbot.wtf
 vulcanforged-claim.com
