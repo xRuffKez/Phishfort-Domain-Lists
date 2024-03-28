@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 19:02:03 UTC 2024
+# Fetch date: Thu Mar 28 20:02:19 UTC 2024
 # Number of Entries: 8115
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3944,7 +3944,6 @@ matemsak.biz
 matr1xkuku.org
 matrica-two.vercel.app
 matrica-verify.com
-matrica.cc
 matrica.vip
 matricaapp.com
 matricaclaim.eu
@@ -7690,6 +7689,7 @@ www.myetherwalletae.org
 www.myetherwalletat.org
 www.myetherwalletet.org
 www.myetherwalletia.org
+www.myetherwalletie.com
 www.myetherwalletta.org
 www.mynorway.net
 www.mypepsico.live
