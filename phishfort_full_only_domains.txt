@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 07:01:55 UTC 2024
-# Number of Entries: 107206
+# Fetch date: Thu Mar 28 08:02:03 UTC 2024
+# Number of Entries: 107210
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -10525,6 +10525,7 @@ base.link3.su
 baseairdrop.xyz
 basebitcoin.org
 basebotnft.com
+basebrett.lol
 basebrett.xyz
 basebridge.io
 basebridge.win
@@ -29133,6 +29134,7 @@ ensono-uk.com
 ensreward.net
 ensreward.space
 enstes.store
+enstoken.net
 ensynmuchains.live
 entangle-fi.org
 enteerpriserentacar.org
@@ -41665,6 +41667,7 @@ klarnacasino.nl
 klarnaitalysrl.welfare.it
 klarnapay.eu
 klarnapay.to
+klarnapayment.de
 klayswapapp.klayexchaange.live
 klaytn.web3-airdrop.net
 kldiscovery.works
@@ -48474,6 +48477,7 @@ memcoln.org
 meme-bag.shop
 meme-bob.com
 meme-coin.cash
+meme-coin.click
 meme-coin.icu
 meme-coins.online
 meme-drop.org
