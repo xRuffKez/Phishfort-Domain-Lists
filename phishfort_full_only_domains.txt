@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 08:02:03 UTC 2024
+# Fetch date: Thu Mar 28 09:02:02 UTC 2024
 # Number of Entries: 107210
 # Expires: 1 hour
 0-metemask.com
@@ -5623,6 +5623,7 @@ app-gala-games-t.blogspot.com
 app-gala-games-to-world.blogspot.com
 app-gala-games-u.com
 app-gala-games-wallet.blogspot.com
+app-gala-games-wallet.com
 app-gala-games-y.blogspot.com
 app-gala.com
 app-galaa-online-g.com
@@ -11330,7 +11331,6 @@ bilinance.org
 bilkub.com
 bilkub.web.app
 bill-407etr.com
-bill-tel.com
 bill407etrca.com
 billfold.help
 billgates.capital
