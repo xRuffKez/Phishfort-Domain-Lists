@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 09:02:02 UTC 2024
-# Number of Entries: 107210
+# Fetch date: Thu Mar 28 10:01:51 UTC 2024
+# Number of Entries: 107212
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -48616,6 +48616,7 @@ mepelas.online
 meqwallet.com
 meraki-labs.net
 meraki.ee
+merative.site
 merc404.xyz
 mercaatox.com
 mercado-bitcoins-login.com
@@ -98936,6 +98937,7 @@ www.giveaway-mydefipet.com
 www.giveaways-trustwallets.appnetwork.eu.org
 www.globalconnectsynch.org
 www.globalmetamask.com
+www.globalpaymentsvtw.com
 www.globalpaymentsyttww.com
 www.globalpaymentsytww.com
 www.gm-socrates.com
