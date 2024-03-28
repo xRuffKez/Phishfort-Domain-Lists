@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 04:01:51 UTC 2024
-# Number of Entries: 107203
+# Fetch date: Thu Mar 28 05:01:39 UTC 2024
+# Number of Entries: 107205
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -13249,6 +13249,7 @@ bluemoon-gmx.com
 bluemove.web3fast.net
 blueprints.fi
 blueridgebarbershop.com
+blueseanice.com
 bluesparrow-claims-rewards-erc20-token.my.id
 bluesync.nl
 bluewalletapp.com
@@ -68440,6 +68441,7 @@ paylocity.sa.com
 paylocity.za.com
 paylocityapis.com
 payloo.city
+paylooity.com
 paym-paxful.com
 payment-407etr.com
 payment-ethereum.online
@@ -76477,7 +76479,6 @@ saks-off5th.shop
 saks-off5th.top
 saks-off5thonline.shop
 saks.boutique
-saks5.store
 saks5thavenue.top
 saks5thavenuemall-us.com
 saks5thavenuemall-us.top
@@ -94114,6 +94115,7 @@ web-metamask.io
 web-metamask.net
 web-metamask.online
 web-metamask.site
+web-metamesklogin.uteach.io
 web-moneero.com
 web-multichain.pages.dev
 web-mymonero.com
