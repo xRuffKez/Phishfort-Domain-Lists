@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 09:03:22 UTC 2024
-# Number of Entries: 8118
+# Fetch date: Thu Mar 28 10:02:05 UTC 2024
+# Number of Entries: 8120
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4019,6 +4019,7 @@ memelandeth.com
 memes-kombats.web.app
 memeskombats.online
 memevibz.com
+merative.site
 merc404.xyz
 merchantserviceadvisers.com
 merchantsmoe.com
@@ -7586,6 +7587,7 @@ www.get-metis.com
 www.getben.xyz
 www.git.home.hostmaster.coingecko.hatsuqat.com
 www.gitlab.auth.root.dappradar.is
+www.globalpaymentsvtw.com
 www.globalpaymentsyttww.com
 www.globalpaymentsytww.com
 www.gomining.site
