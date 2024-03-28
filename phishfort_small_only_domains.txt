@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 07:02:33 UTC 2024
-# Number of Entries: 8116
+# Fetch date: Thu Mar 28 08:02:46 UTC 2024
+# Number of Entries: 8120
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -918,6 +918,7 @@ barleyapp.finance
 barnbridge.pro
 bartellers.com
 base-named.org
+basebrett.lol
 basebrett.xyz
 basedbrett.xyz
 baseswaap.top
@@ -2306,6 +2307,7 @@ enlist-dymension.xyz
 enlisted-portalgaming.com
 enrolaltlayer.pages.dev
 enroll-bitcoincats.world
+enstoken.net
 entangle-fi.org
 enteerpriserentacar.org
 enter-injective.com
@@ -3308,6 +3310,7 @@ kitty-inu-dao.com
 kkyphtf0fbvl.ftntpk6ubbx4sk.ru
 klarnacasino.nl
 klarnaitalysrl.welfare.it
+klarnapayment.de
 kmaber.site
 knoxalliance-store.knoxalliance.com
 kofdet.com
@@ -3997,6 +4000,7 @@ melea.io
 meleadapp.com
 melstroy.by
 members-kcchamber.com
+meme-coin.click
 memebevy.shop
 memecoin.rocks
 memecoin.ws
