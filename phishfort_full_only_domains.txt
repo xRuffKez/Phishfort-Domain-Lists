@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 06:01:57 UTC 2024
+# Fetch date: Thu Mar 28 07:01:55 UTC 2024
 # Number of Entries: 107206
 # Expires: 1 hour
 0-metemask.com
@@ -94116,7 +94116,6 @@ web-metamask.io
 web-metamask.net
 web-metamask.online
 web-metamask.site
-web-metamesklogin.uteach.io
 web-moneero.com
 web-multichain.pages.dev
 web-mymonero.com
@@ -103549,6 +103548,7 @@ x-woo.net
 x-worldcoin.online
 x-worldcoin.space
 x-worldcoint.com
+x01e8b2d6cbc38.anondns.net
 x0384-open-sea-recover.com
 x1000shibclaim.info
 x10eth.com
