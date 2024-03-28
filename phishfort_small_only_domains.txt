@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 22:02:11 UTC 2024
-# Number of Entries: 8115
+# Fetch date: Thu Mar 28 23:02:33 UTC 2024
+# Number of Entries: 8113
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -481,7 +481,6 @@ analayze.orb-crypto.com
 analos-kohl.vercel.app
 analos.insure
 analyse-trades.web.app
-ancient-step-road.vercel.app
 andex.vercel.app
 angledao.app
 angledao.net
@@ -1335,7 +1334,6 @@ centralseedandchem.co.nz
 ceoltis.com
 chahlist.org
 chaibenefitmassimui.com
-chain-link.ru
 chain-linklabs.live
 chain-linknetwork.io
 chain-strk.com
@@ -1468,7 +1466,6 @@ claim.dydxexchang.com
 claim.dymensionall.club
 claim.get-ton.com
 claim.ifizgroup.xyz
-claim.layerzero-tokens.online
 claim.memeskombats.online
 claim.memetrumpmaga.com
 claim.memskombat.site
@@ -3067,7 +3064,10 @@ interacsecurepayments.com
 interactive-brokers.group
 interactive-brokers.top
 interactivebroker.org
+interactivebrokers.backqxghjpro.com
 interactivebrokers.store
+interactivebrokersrle.com
+interactivebrokersrue.com
 interactivehkvip.com
 interactivetradepro.com
 interdigitalbot.com
@@ -6467,7 +6467,6 @@ sunchemicalgroup.com
 sunchemicals.us
 sunchemicalsgroup.org
 sundropfortron.com
-sunflower-landd.com
 super-fans.tech
 super-julio.free-mint.page
 super-migration.com
@@ -7950,7 +7949,6 @@ xn--fxedlflaot-k8a.com
 xn--od5b1rm17a.com
 xn--raribe-t9a.com
 xn--rustwallet-gyd.com
-xn--ssetdsh-9wad.com
 xn--zcr743ah35a.com
 xn66ekl.pro
 xoudwq.cfd
