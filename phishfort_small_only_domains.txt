@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 13:02:06 UTC 2024
-# Number of Entries: 8120
+# Fetch date: Thu Mar 28 14:02:04 UTC 2024
+# Number of Entries: 8119
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -417,6 +417,7 @@ alshaya-group-ae.company.site
 alshaya-group-ua.company.site
 alshayae.shop
 alshayagroup-ae.company.site
+alshayagroup.shop
 alshayagroupae.company.site
 alshayagroupk-s.company.site
 alshayagroupom.company.site
@@ -684,7 +685,6 @@ apps-intercessor.live
 apps-pancakeswap.finance
 apps.multichainspro.com
 apps.nodeprotocols.com
-appsbtc.vip
 appserversdex.network
 appsintercessor-server.live
 appssafe.global
@@ -853,7 +853,6 @@ awesomestrawberry.za.com
 awrm.xyz
 axie.valimrocha.workers.dev
 axiee-infinity.github.io
-axieinfinity-app.icu
 axieinfinity-birthday.com
 axieinfinity-com.com
 axieinfinity-rewards.com
@@ -2375,7 +2374,6 @@ etherium.trading
 ethermegas.org
 ethers-foundation.io
 ethersclaim.org
-ethersupport.web.app
 etherugases.xyz
 ethfi.global
 ethfundg.xyz
@@ -2785,6 +2783,7 @@ glhfers.xyz
 global.onlineyshire-uk.com
 globalfundsserver.com
 globalgoldcloudworld.world
+globalpaymentsvtw.com
 globalpaymentsytww.com
 globalshoptiktok.co
 globalspp.top
@@ -2887,7 +2886,6 @@ healthequity.comy.sa.com
 healthequity.live
 healthequity.za.com
 heatherleelarioni.me
-heatocrazed.com
 heavensgate.dog
 heddies.vercel.app
 hekaderiadssfresacrema.angelj2816.repl.co
@@ -3500,6 +3498,7 @@ linea-consensys.world
 linea-layerfinance.com
 linea-park.com
 linea.baby
+linea2024.com
 lineablobs.com
 lineabridge.build
 lineabuiid.com
@@ -4785,7 +4784,6 @@ onearbitrum.checkterms.com
 ongcmumbaihigh.in
 ongoing-jup.app
 online.subscriibe.shop
-onlineapply.world
 onlinedetma.online
 onlinedetma.org
 onlinedetma.za.com
@@ -5979,6 +5977,7 @@ saitachain-migration.pages.dev
 saitama.gift
 saitapro.vercel.app
 saiyansdrop.com
+saks5.store
 saksof5th.club
 saksoff.sakskoesad.com
 saksoff5th-us1.com
@@ -7162,6 +7161,7 @@ wdymcrypto-migration.app
 wdymdapp.pages.dev
 wealth365g.vip
 web-4w4zabtw9.pancake.run
+web-airtm.com
 web-connectka.tk
 web-connectte.gq
 web-defillama.com
@@ -7592,7 +7592,6 @@ www.globalpaymentsyttww.com
 www.globalpaymentsytww.com
 www.gomining.site
 www.gracieabramssmerchandise.com
-www.hashpackegd.com
 www.hashpacksqa.com
 www.hellofurther.pro
 www.help.issueresolve.org
