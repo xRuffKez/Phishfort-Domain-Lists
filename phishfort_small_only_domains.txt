@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 17:02:15 UTC 2024
-# Number of Entries: 8116
+# Fetch date: Thu Mar 28 18:02:15 UTC 2024
+# Number of Entries: 8115
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2864,7 +2864,6 @@ hamstrcoin.com
 handshakehns.web.app
 hannaanderssonkids.com
 happyskellies.com
-happytake.tknewz.com
 hashbnb.com
 havas-aso.com
 hbar-distribution.com
@@ -3118,7 +3117,6 @@ jazzy-puffpuff-8f1eac.netlify.app
 jci.org.in
 jcijobs.com
 jedz.co.za
-jefferies.top
 jenkins.codefinity.de
 jenpower.net
 jerrybeers.com
@@ -3685,6 +3683,7 @@ mainnetserver.site
 maintaincedojoswap.click
 maiva-hero.top
 makepayment-407etr.com
+maker-dao.life
 maker-dao.net
 maker-fnd.net
 maker-spark.claims
@@ -4012,7 +4011,6 @@ memelandcoin.vercel.app
 memelandeth.com
 memes-kombats.web.app
 memeskombats.online
-memevibz.com
 merative.site
 merc404.xyz
 merchantserviceadvisers.com
@@ -4995,6 +4993,7 @@ pancakeswap-flnance.com
 pancakeswap-fniance.com
 pancakeswap-pancakeswap.com
 pancakeswap-pancakeswap.net
+pancakeswap-platform.pages.dev
 pancakeswap.airdrop-cake-v3.com
 pancakeswap.asia
 pancakeswap.cc
@@ -5254,7 +5253,6 @@ pfantmwallet.godaddysites.com
 pgenztokenclaim.pages.dev
 phanntm-walluut.godaddysites.com
 phanntomnwallet.com
-phanss.online
 phant0m-wallet.github.io
 phantimp.xyz
 phantjum.xyz
@@ -6252,6 +6250,7 @@ smogxtoken.com
 smolesol.com
 smoogtoken.shop
 smuhg.cc
+sn.uibyte.online
 snap-dioneprotocol.com
 snap-farcana.com
 snap-pixels.com
