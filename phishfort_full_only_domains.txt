@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 05:01:39 UTC 2024
-# Number of Entries: 107205
+# Fetch date: Thu Mar 28 06:01:57 UTC 2024
+# Number of Entries: 107206
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -40719,6 +40719,7 @@ joblessassistanceportal.net
 joblessconnect.net
 joblessconnect.org
 jobs-adastragrp.com
+jobs-teleperformance.com
 jocbit.com
 joejoassociate.com
 joerogan.fund
