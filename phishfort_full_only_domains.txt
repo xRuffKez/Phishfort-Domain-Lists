@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 17:01:39 UTC 2024
-# Number of Entries: 107221
+# Fetch date: Thu Mar 28 18:01:45 UTC 2024
+# Number of Entries: 107222
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -47306,6 +47306,7 @@ mandgtrustlimited.com
 mandgvehicledetails.online
 mandibahauddintradersllc.com
 mandirikabelindo.com
+mandkhome.co.jp
 mandta.network
 maneta.network
 maneyalsen.store
@@ -49843,7 +49844,6 @@ metamask.com-zxy.xyz
 metamask.com.4523544325432.bar
 metamask.com.app1s.xyz
 metamask.com.do
-metamask.com.franclimwines.co.za
 metamask.com.graphicssystemsa.com
 metamask.com.legal-warning.me
 metamask.com.loadapps.site
@@ -50706,7 +50706,6 @@ metamask.wallet-viewer.mint.store
 metamask.wallet.holder-tokens-rewards.com
 metamask.wallet.klaytntoken.com
 metamask.wallet.recovery.185-100-87-154.plesk.page
-metamask.wallet.recovery.45-88-108-231.plesk.page
 metamask.wallet.recovery.45-93-248-121.plesk.page
 metamask.wallet.recovery.91-218-65-223.plesk.page
 metamask.walletconectsync.com
@@ -64376,6 +64375,7 @@ pancakeswap-pancakeswap.org
 pancakeswap-pas.tech
 pancakeswap-pc.com
 pancakeswap-platform.com
+pancakeswap-platform.pages.dev
 pancakeswap-platform.space
 pancakeswap-platform.website
 pancakeswap-polit.tech
@@ -79332,6 +79332,7 @@ smtp394.com
 smudgedrop.com
 smuhg.cc
 smxncjs.com
+sn.uibyte.online
 snafuapewagmipunks.com
 snakesnft-promogive.com
 snap-dioneprotocol.com
