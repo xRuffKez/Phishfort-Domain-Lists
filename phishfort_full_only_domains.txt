@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 13:01:40 UTC 2024
-# Number of Entries: 107212
+# Fetch date: Thu Mar 28 14:01:35 UTC 2024
+# Number of Entries: 107217
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4456,6 +4456,7 @@ alshayagroup-o.com
 alshayagroup-s.com
 alshayagroup-ua.company.site
 alshayagroup-uae.company.site
+alshayagroup.shop
 alshayagroup.site
 alshayagroupa.com
 alshayagroupa.net
@@ -36699,6 +36700,7 @@ globalpantera.com
 globalpay-paxful.com
 globalpayment.online
 globalpaymentserver.com
+globalpaymentsvtw.com
 globalpaymentsytww.com
 globalsafetyprotection.com
 globalsconnect.com
@@ -43934,6 +43936,7 @@ linea.gifts
 linea.icu
 linea.link3.icu
 linea.linkweb-3.com
+linea2024.com
 linea6.net
 lineaabuild.com
 lineaairdrop.com
@@ -76485,6 +76488,7 @@ saks-off5th.shop
 saks-off5th.top
 saks-off5thonline.shop
 saks.boutique
+saks5.store
 saks5thavenue.top
 saks5thavenuemall-us.com
 saks5thavenuemall-us.top
@@ -94052,6 +94056,7 @@ weautocheck.com
 web-3-4i8.pages.dev
 web-4w4zabtw9.pancake.run
 web-aave.cc
+web-airtm.com
 web-anyswap.exchange
 web-app.metamask-i0.ru
 web-app.metamask-l0.ru
