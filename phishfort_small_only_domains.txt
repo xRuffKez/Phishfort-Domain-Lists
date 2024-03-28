@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 16:02:41 UTC 2024
-# Number of Entries: 8118
+# Fetch date: Thu Mar 28 17:02:15 UTC 2024
+# Number of Entries: 8116
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1325,7 +1325,6 @@ celestia-projects.net
 celestia.chain-spn.com
 celestialabs.dev
 cellframenetwork.com
-cellnextelecomservice.com
 cellnextelecomservice.in
 celowallet.finance
 cels1us.network
@@ -2519,7 +2518,6 @@ fixetdflloat.com
 fixetdflot.com
 fixetflaot.com
 fixetflloat.com
-fixiedfloat.pro
 fixold2ndbnk.mypsx.net
 fixsbusiness.mx
 fixsedfloat.com
@@ -2785,7 +2783,6 @@ globalgoldcloudworld.world
 globalpaymentsvtw.com
 globalpaymentsytww.com
 globalshoptiktok.co
-globalspp.top
 gm-generalmotors.com
 gmesolana.com
 gmfinancialcareers.com
@@ -5007,6 +5004,7 @@ pancakeswap.godaddysites.com
 pancakeswap.help
 pancakeswap.li
 pancakeswap.lt
+pancakeswap.sipf.cc
 pancakeswap.systeme.io
 pancakeswapairdrop-event.finance
 pancakeswapairdrop.com
