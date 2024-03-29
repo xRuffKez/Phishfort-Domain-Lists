@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 14:01:52 UTC 2024
-# Number of Entries: 107262
+# Fetch date: Fri Mar 29 15:01:55 UTC 2024
+# Number of Entries: 107266
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -9089,6 +9089,7 @@ axieinfinily.store
 axieinfinit.ml
 axieinfinitcy.com
 axieinfinite.net
+axieinfinite.xyz
 axieinfiniti.website
 axieinfinities.com
 axieinfinities.net
@@ -37603,7 +37604,6 @@ healthequity.comlink.sa.com
 healthequity.comru.sa.com
 healthequity.comru.za.com
 healthequity.comy.sa.com
-healthequity.live
 healthequity.za.com
 healthnews18.com
 healthsafeid-optum.com
@@ -47259,6 +47259,8 @@ makerdao.redeem.bz
 makerdao.redeem.fund
 makerdao.tools
 makerdao.web3fast.net
+makerdaobnb.online
+makerdaobsc.online
 makerdaop.online
 makerdaop.shop
 makerdaop.store
@@ -74815,6 +74817,7 @@ revoke-cashr.org
 revoke-caslh.com
 revoke-cassh.pages.dev
 revoke-control.com
+revoke-eth.xyz
 revoke-exploit.com
 revoke-lido.pages.dev
 revoke-mdvmm.xyz
@@ -75005,6 +75008,7 @@ revoketokens.com
 revoketokens.io
 revoketokens.net
 revoketokens.xyz
+revokeu.cash
 revokew.cash
 revokewallet.cash
 revokewallet.info
