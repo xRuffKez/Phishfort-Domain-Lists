@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 11:02:55 UTC 2024
-# Number of Entries: 8160
+# Fetch date: Fri Mar 29 12:03:09 UTC 2024
+# Number of Entries: 8162
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -204,6 +204,7 @@ agoda-jps.com
 agoda.host
 agoda.ib-web.online
 agoda.partner-extranet.life
+agoda.weboffer7181.com
 agoda.ycs-id.info
 agoda.ycs.my.id
 agoda88.cc
@@ -1676,7 +1677,6 @@ collection-satoshivm.io
 collecttion.store
 colllab.xyz
 coluselephant.ru.com
-commonsenseafricasblog.com
 community-center.shop
 community-coindesk.com
 community-cryptos.org
@@ -4919,6 +4919,7 @@ osmososis-zone.xyz
 otcsea.app
 otsea.gift
 outildecisionregimederetraitesunchemical.ca
+overrik.com
 ownrwallet.online
 oxleverage.xyz
 oxyppso.cc
@@ -5398,6 +5399,7 @@ premiumtvstreamers.com
 presale-cogwise.com
 presale-metropoly.com
 presale-scorpioncasino.pages.dev
+presale-x.com
 presales.blockgamess.com
 prime-vest.com
 primepaymyservi.com
@@ -5815,6 +5817,7 @@ revoke-cash.org
 revoke-cash.xyz
 revoke-cassh.pages.dev
 revoke-paraswap.com
+revoke-realio.com
 revoke-security.net
 revoke-tips.com
 revoke-unibot.com
@@ -6903,7 +6906,6 @@ uni-swap-v4.web.app
 uni.mrr7.za.com
 uni.pro-coins.top
 uni.trustcoin.top
-unibots.trading
 unicswap.io
 unifiedprotocol.xyz
 uniglobecapitals.com
@@ -7520,6 +7522,7 @@ www.axieinfinity-global.com
 www.axiemarketplace.lol
 www.azukieelements.site
 www.bainxu.com
+www.baoninpingan.com
 www.bckrockgbtc.com
 www.bcr20.xyz
 www.big-x-drops.top
@@ -8062,7 +8065,6 @@ zerolend.trading
 zerolend.xyz.guildx.id
 zerolends.top
 zerollend.one
-zeronewyear.com
 zerounibaseslp.pages.dev
 zeta-chain.net
 zeta-chain.pages.dev
