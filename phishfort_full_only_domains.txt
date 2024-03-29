@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 07:02:41 UTC 2024
-# Number of Entries: 107257
+# Fetch date: Fri Mar 29 08:01:54 UTC 2024
+# Number of Entries: 107260
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -10508,6 +10508,7 @@ barcodesincs.com
 barcorr-barcos.com
 bardy-protocol.com
 barkscoffe.de
+barlettapontoonboats.asia
 barleyapp.finance
 barnbridge.pro
 barrybtc.org
@@ -53631,6 +53632,7 @@ moodysplus.com
 moodystrust.com
 moodystrust.online
 moodysvip.com
+mooky-io.com
 moolah-monkeys.vercel.app
 moombeam.top
 moomeeo.com
@@ -96652,6 +96654,7 @@ www.amezcn.com
 www.amm-uni.com
 www.amspresale.cz
 www.amswallet.cz
+www.amz998.com
 www.amznpresale.io
 www.amzntokens.app
 www.an-mettmask.com
