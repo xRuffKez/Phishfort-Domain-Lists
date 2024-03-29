@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 06:02:25 UTC 2024
-# Number of Entries: 8156
+# Fetch date: Fri Mar 29 07:03:12 UTC 2024
+# Number of Entries: 8158
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1380,7 +1380,6 @@ childporn.umb.market
 chimpzee-claim.pages.dev
 chimpzee-io.com
 chndemarloonst.com
-chonky.claims
 choupettesolana.com
 chriscraft.shop
 chrome.pancakeswap.finance.multichains.live
@@ -3678,6 +3677,7 @@ mail.metamaskarticle.com
 mail.panckswap.com
 mail.pepegift.lol
 mail.revokewallets.cash
+mail.startest.duckdns.org
 mail.swapsnet.com
 mail.walletsdapp.com
 mail.xn--pncakeswap-3gb.com
@@ -4968,6 +4968,7 @@ pancake-finance.net
 pancake-frontend-flznr5rp3-chefilip.vercel.app
 pancake-ifo.pages.dev
 pancake-magpiexyz.pages.dev
+pancake-stake.pages.dev
 pancake-swap-airdrop.com
 pancake-swap.net
 pancake-swapfinance.pages.dev
@@ -6238,6 +6239,7 @@ skywardsglobal.com
 slavic402wws.com
 sleeplessai.dev
 sleeplessai.presale-ico.org
+slerfrewards.net
 slgnup-dymension.com
 slitty.me
 sltarkdrop.website
