@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 12:03:09 UTC 2024
-# Number of Entries: 8162
+# Fetch date: Fri Mar 29 13:02:36 UTC 2024
+# Number of Entries: 8161
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2289,7 +2289,6 @@ emiraetes.online
 emirateairlines.net
 emiratedistributions.online
 emirates-procurement.com
-emirates-tickets.com
 emirates.airfareuk.co.uk
 emirates.flightse.co
 emiratescashreward.com
@@ -2515,6 +2514,7 @@ fireblockscrypto.com
 firmware-data.pages.dev
 first-braved.info
 firstports.co.uk
+fitness-seven.com
 fitness-solution24.de
 fix-metamask.pages.dev
 fix.errorsolution.org
@@ -7435,7 +7435,6 @@ wvw.jucrina.club
 wvw.linefraction.xyz
 ww-connect-dappradar.com
 ww-revoke.cash
-ww.itbits-pro.com
 wwarm.xyz
 wwe-envivo.com
 wwepunch.shop
