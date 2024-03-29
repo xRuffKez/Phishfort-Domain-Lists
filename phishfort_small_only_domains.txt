@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 00:07:36 UTC 2024
-# Number of Entries: 8116
+# Fetch date: Fri Mar 29 01:22:53 UTC 2024
+# Number of Entries: 8154
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -915,6 +915,7 @@ banklessdrop.coinsupportlive.com
 barleyapp.finance
 barnbridge.pro
 bartellers.com
+base-kyc.com
 base-named.org
 basebrett.lol
 basebrett.xyz
@@ -1003,6 +1004,7 @@ bill407etrca.com
 billionalr.com
 billmelinda.online
 bimance-airdop.org
+binamce.com.prizes.claims
 binance-0x51bd6a810bd083c4bab4834a90411c62d04456ce.gunhay.vn
 binance.iconworld.tech
 binancebusdairdrop2024.com
@@ -1023,6 +1025,7 @@ bitcasino.pw
 bitcasino.rocks
 bitcoin-mine-trix.com
 bitcoin-whales.wales
+bitcoinevent.net
 bitcoinminaetrix.site
 bitcoinxcash.com
 bitetfs.net
@@ -1097,6 +1100,7 @@ blastscore.xyz
 blastt.io
 blasttup.top
 blastxs.com
+blazetokeen.com
 blendao.xyz
 blendcoin.org
 blender404.xyz
@@ -1135,6 +1139,7 @@ blurnftgroup.com
 blurprotocol.us
 blust.io
 bnb-crypto.xyz
+bnb.mosmining.life
 bnbair.org
 bnbgift.org
 bnbheibaie.quest
@@ -1193,6 +1198,7 @@ bravebrowserdl.online
 brc20.su
 bridgarbltrum.com
 bridge-a3vigrfjd-pancakeswap.vercel.app
+bridge-exodus.app
 bridge-manta.network
 bridge-modenet.work
 bridge-optics.app
@@ -1228,6 +1234,7 @@ build.astarlabs.org
 buildtheenterprise.org
 buildweb3.icu
 buildweb3dev.xyz
+bullpepes.net
 bullsandbearsstore.com
 bullsandblock.com
 bullsync.pages.dev
@@ -1370,6 +1377,7 @@ chendimassachoist.com
 chicenminer.xyz
 childporn.umb.market
 chimpzee-claim.pages.dev
+chimpzee-io.com
 chndemarloonst.com
 chonky.claims
 choupettesolana.com
@@ -1414,6 +1422,7 @@ claim-dubbz.com
 claim-es.com
 claim-ether.fi
 claim-galagames.com
+claim-gift-card.xyz
 claim-guac.live
 claim-guildofguardians.com
 claim-inj.com
@@ -1756,6 +1765,7 @@ crpytoundeads.com
 crtoadznew.com
 crv.fi
 cryptexchange.vip
+crypto-circle.online
 crypto-communities.com
 crypto-farm-trust.com
 crypto-starknets.com
@@ -1764,6 +1774,7 @@ crypto11.bep666.top
 cryptoairdropclaim.com
 cryptohopperclaim.com
 cryptoinfosec.net
+cryptopanthernft.com
 cryptopepedrops.com
 cryptopro.vip
 cryptos-giveways.net
@@ -1791,6 +1802,7 @@ custom-fender.com
 cwboffshoreonl.com
 cwboffshoreonline.com
 cwrestorevercelapp.com
+cyber-connecting.com
 cyberdogecoin.org
 cyberdogecoin.top
 cyberkongz.pro
@@ -2108,6 +2120,7 @@ docu.ax9j.com
 document-microsoft-onedrive-file.github.io
 documentation-lybra.finance
 dodoeex.cc
+dogetti-io.com
 dogpad-financee.netlify.app
 dogswapdex.netlify.app
 dogwifbox.vip
@@ -2292,6 +2305,7 @@ en.pushdstore.xyz
 en407etr.com
 enchor-roofs.com
 encryted-api-f3w.pages.dev
+energywweb.com
 eng-inj.net
 eng-injective.com
 eng-injective.net
@@ -2448,6 +2462,7 @@ f89badf5.7acd740c665c9b25ec20d877.workers.dev
 f930fi.info
 facet-swap.com
 factsync.pages.dev
+fadaindigitals.com
 familylink-oracle.com
 familysavingamerica.pro
 fanciful-cat-81da50.netlify.app
@@ -3107,6 +3122,7 @@ iykapp.xyz
 izumis.finance
 j2gkzzu.top
 j6nypr752.ukit.me
+jaaxx-walleet.xyz
 jade-melba-55acae.netlify.app
 jamesthurmankahn.com
 jane-ai.com
@@ -3588,6 +3604,7 @@ loopringlabs.online
 lootynetwork.org
 lottery.ridottowin.online
 lovecoprinttestelnur.com
+lovehatte.com
 lpfi1.cc
 lrt-eigenlayer.xyz
 lsd-mainnet-address-spoofing.netlify.app
@@ -3596,7 +3613,6 @@ lubrizolcorp.cn
 lunc.space
 luxury-dusk-92886b.netlify.app
 luxurybooms.com
-lv.zgroupmint.com
 lvrmjm.pro
 lwve.top
 lxp-linea.build
@@ -4503,6 +4519,7 @@ mysteryboxnow.vercel.app
 mysteryboxv1.vercel.app
 mysteryboxvp.vercel.app
 mysteryclaim74.vercel.app
+mysteryclaims9.vercel.app
 mysteryclaimsnft.vercel.app
 mysteryclicksclaim1.vercel.app
 mysteryclicksnft.vercel.app
@@ -4593,6 +4610,7 @@ nexis-network.live
 nexisnetwork.xyz
 nexo-event.com
 nextgenfintech.lat
+nextmoon.website
 nfclaimopensea.vercel.app
 nfgrex1.pro
 nfprompt-io.web.app
@@ -4995,6 +5013,7 @@ pancakeswap-fniance.com
 pancakeswap-pancakeswap.com
 pancakeswap-pancakeswap.net
 pancakeswap-platform.pages.dev
+pancakeswap-v2.com
 pancakeswap.airdrop-cake-v3.com
 pancakeswap.asia
 pancakeswap.cc
@@ -5024,6 +5043,7 @@ pancakeswapv4.com
 pancakeswapv5.claims
 pancakesweb.finance
 pancakeswop.web.app
+pancakesworldve.com
 pancakeswp.github.io
 pancakeswwap.com
 pancakswaip.com
@@ -5061,6 +5081,7 @@ pankaceswap.tech
 panoshidaapsintegration.netlify.app
 pansakecwap.xyz
 pape-coin.net
+pape-sales.com
 pape-tokens.org
 paper-hand.web.app
 paper-hold.web.app
@@ -5334,6 +5355,7 @@ pond0x.trading
 pond0xtreasury.com
 ponke-claim.netlify.app
 ponke.online
+poocoin.me
 poolstarter.net
 pop3.www.api.swell-network.io
 popsync.pages.dev
@@ -5369,6 +5391,7 @@ prelanding.pages.dev
 premium.athene.network
 premiumtvstreamers.com
 presale-cogwise.com
+presale-metropoly.com
 presale-scorpioncasino.pages.dev
 presales.blockgamess.com
 prime-vest.com
@@ -5867,6 +5890,7 @@ rewards-solanamobile.com
 rewards-taiko.com
 rewards-tether.xyz
 rewards-wenwencoin.com
+rewards.biaster-swap.com
 rewards.carrbify.com
 rewards.hillfun.club
 rewards.otsea.capital
@@ -5943,12 +5967,14 @@ rrspn.pro
 rsmopt.com
 rsmtop.com
 rsr.gift
+rtfkt-animus2.com
 rtfkt-giveaway.com
 rtfkt.gifts
 rtfktforge.pro
 rubic-exchange.life
 rubytechnology360.com
 runjokab.wpenginepowered.com
+ruthlessalpha.online
 rvoke.cash
 rx-nt.duckdns.org
 rz7wjw.info
@@ -6002,6 +6028,7 @@ samuraiaward.info
 san-swap.com
 sanabilprint.com
 sanswap.com
+sappyseals-claims.com
 saqa-cases.app
 saqaboxes.trade
 saqacase.vip
@@ -6106,6 +6133,7 @@ service-connect-valide.nl
 service-sync.pages.dev
 servicecontrollnc.com
 servicepflege-kontoaktualisieren383266.codeanyapp.com
+ses-bitcoin.com
 sewllnetwork.io
 sfccrcc.shop
 shardeumorg.vercel.app
@@ -6251,6 +6279,7 @@ smogtokens.xyz
 smogxtoken.com
 smolesol.com
 smoogtoken.shop
+sms-accs.ru
 smuhg.cc
 sn.uibyte.online
 snap-dioneprotocol.com
@@ -6323,6 +6352,7 @@ spok-earlyadopterhodler.com
 spok-earlyadopterinfluencer.com
 sponge-claim.online
 spongeev2.online
+spongetokenv2.onrender.com
 spongev2.cfd
 spongevipv2.shop
 spongtoken.live
@@ -6664,6 +6694,7 @@ thisisatest2.com
 thisisatest999.com
 thor-fi.io
 tia-project.com
+tianzhende.com
 tias-celestia.net
 tias-giveaways.net
 ticket.universalprotocoldapp.io
@@ -6812,6 +6843,7 @@ trust-airdrop.xyz
 trust2024.xyz
 trustdrops.xyz
 trustfloki.netlify.app
+trustfund-finance.com
 trustpad-cv.com
 trustpad-gs.com
 trustwall.azurewebsites.net
@@ -6884,6 +6916,7 @@ uniswap-pools.web.app
 uniswap-staking-pools.web.app
 uniswap.op-com0516.xyz
 uniswap.web3-x.org
+uniswaplpart.com
 uniswaps-revoke.cash
 uniswapv-3.github.io
 uniswapv3.online
@@ -6916,12 +6949,14 @@ updatenow.pages.dev
 updates-metamask.pages.dev
 url-shortener.me
 url7923.marsello.io
+us-bittrex.com
 us-coinmarketcap.com
 us4f.cc
 us_mettmsika_en_us3.godaddysites.com
 usa5starshop.com
 usaseoseller.com
 usatexasunigiri.com
+usbalances.com
 usdc-claimback.online
 usdc-gift.top
 usdc-r9kaq.github.io
@@ -6991,6 +7026,7 @@ vendorprocurement.online
 vendorseuae.com
 vendoruae.com
 venom-foudation.com
+venom-whitelist.com
 venomairdrop.vercel.app
 venue.markets
 veolidetamast.com
@@ -7215,6 +7251,7 @@ web3app-connect.xyz
 web3app.space
 web3bugrectify.pages.dev
 web3bugsdapp.pages.dev
+web3c0nnect.info
 web3check.cfd
 web3coins1.top
 web3coins10.top
@@ -7232,6 +7269,7 @@ web3dropmetask.com
 web3etftrust.com
 web3fixauthenticator.pages.dev
 web3inbx.com
+web3instantpay.xyz
 web3kaava.netlify.app
 web3launchpad.netlify.app
 web3love03.top
