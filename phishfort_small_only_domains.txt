@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 07:03:12 UTC 2024
-# Number of Entries: 8158
+# Fetch date: Fri Mar 29 08:02:40 UTC 2024
+# Number of Entries: 8160
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -913,6 +913,7 @@ bang-blast.io
 bankinging.com
 bankless-claims.net
 banklessdrop.coinsupportlive.com
+barlettapontoonboats.asia
 barleyapp.finance
 barnbridge.pro
 bartellers.com
@@ -4385,6 +4386,7 @@ monsprotocol.io
 monta-network.com
 mooar.top
 moodinohzh.site
+mooky-io.com
 moombeam.top
 moon-beam.network
 moonapp.one
