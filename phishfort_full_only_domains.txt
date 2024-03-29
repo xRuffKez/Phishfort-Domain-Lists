@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 13:01:46 UTC 2024
-# Number of Entries: 107267
+# Fetch date: Fri Mar 29 14:01:52 UTC 2024
+# Number of Entries: 107262
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2451,7 +2451,6 @@ accountresolvesdapps.firebaseapp.com
 accountresolvesdapps.web.app
 accountrestores.app
 accountresult.site
-accountreverifycoinbase.info
 accountrevive.pages.dev
 accounts-binance-log-in.com
 accounts-bitpanda.web.app
@@ -2599,7 +2598,6 @@ acs287.gateway197.online
 acsponline.live
 acte.now.sh
 action-details.com
-actionconfirmationcoinbase.info
 activacionstracash.info
 activaicionesregistrosenlineaper.com
 activate-collab.land
@@ -11337,6 +11335,7 @@ bilinance.org
 bilkub.com
 bilkub.web.app
 bill-407etr.com
+bill-tel.com
 bill407etrca.com
 billfold.help
 billgates.capital
@@ -20972,7 +20971,6 @@ corectionsbot.net
 coredaeo.com
 coredaio.com
 coredao.in
-coredao.to
 coredaosprize.online
 coreprotocol.live
 coresets.online
@@ -49777,7 +49775,6 @@ metamask.22ceshi.com
 metamask.247ces.com
 metamask.2fareset.com
 metamask.404exist.com
-metamask.404exist.net
 metamask.546245.shop
 metamask.5pbtiqc.cn
 metamask.ac
@@ -50054,7 +50051,6 @@ metamask.io-chrome.com
 metamask.io-claim.page
 metamask.io-connect.app
 metamask.io-dapp.com
-metamask.io-defi-web3-dapps-and-nfts.dommespace.com.br
 metamask.io-defi-web3-dapps-and-nfts.eugeneareahomevalue.com
 metamask.io-defi-web3-dapps-and-nfts.io-7.grandfreios.com.br
 metamask.io-defi-web3-dapps-and-nfts.io-77.grandfreios.com.br
@@ -69003,6 +68999,7 @@ peryourhealth.be
 peryourhealth.biz
 peryourhealth.blog
 peryourhealth.org
+peryourhealth.us
 pescadosdaftx.blogspot.com
 petaversenetwork.cloud
 petchicletepetshop.com.br
@@ -85752,6 +85749,7 @@ toncoin-event.com
 toncoin.cfd
 toncoin.eng-ton.org
 toncoln.me
+tonevecher.com
 tongram.me
 tongramico.com
 tonight.sadwing.za.com
@@ -88150,7 +88148,6 @@ uniswap.samvitello.com
 uniswap.school
 uniswap.services
 uniswap.si
-uniswap.sihigo.infvpn.osnovanie-osman.ru
 uniswap.sihigo.infwww.vpn.osnovanie-osman.ru
 uniswap.social
 uniswap.software
@@ -88222,7 +88219,6 @@ uniswapbuybot.com
 uniswapbz.xyz
 uniswapc.net
 uniswapcapital.co
-uniswapcasino.com
 uniswapcent.com
 uniswapclaim.store
 uniswapclassic.com
@@ -96126,7 +96122,6 @@ www-eigenlayer.xyz
 www-elt-gala-app-games.blogspot.com
 www-enigma.co
 www-epp-gala-games-app.blogspot.com
-www-ethereum.com
 www-etherscan.com
 www-etiquetaunica-solanart.blogspot.com
 www-exodus-wallet.tenbygolf.info
