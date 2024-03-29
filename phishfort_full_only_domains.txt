@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 16:01:43 UTC 2024
-# Number of Entries: 107269
+# Fetch date: Fri Mar 29 17:01:37 UTC 2024
+# Number of Entries: 107270
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -70107,6 +70107,7 @@ pokerbox.io
 pokerprotocol.bio
 pokerprotocol.pro
 pokrotmant.site
+pol.ahyxi.club
 pol.ygon.technology
 pol.zcadk.cn
 polakstrater.com
