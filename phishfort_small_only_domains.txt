@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 17:02:03 UTC 2024
-# Number of Entries: 8168
+# Fetch date: Fri Mar 29 18:02:22 UTC 2024
+# Number of Entries: 8165
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1437,7 +1437,6 @@ claim-jup.ag
 claim-kimbo.com
 claim-loopring.org
 claim-marinadefinance.com
-claim-me.me
 claim-metis.com
 claim-myrothedog.com
 claim-nibiru.top
@@ -1797,7 +1796,6 @@ csagoda.co
 csagoda.my.id
 csagoda.store
 csagodaonline.masukmobilee.de
-csfellon.ru
 csl-behring.eu
 csl-seqirus.com
 ctt.fullpays.site
@@ -2420,7 +2418,6 @@ event-web3usdlt.com
 event-woo.co
 event.airpud.top
 event.chainspads.top
-event.farcanaofficial.com
 event.rewardcoin.top
 event.stockcoin.top
 eventfarcana-airdrop.vercel.app
@@ -2787,7 +2784,6 @@ give5-airtm.com
 giveaway-manta.network
 giveaway-neotokyo.codes
 givesaiyans.com
-gjehw.cfd
 gjkf.pro
 gl-elitesiteat.com
 gl-elitesiteaz.com
@@ -6236,6 +6232,7 @@ singularitydao.app
 siteai.site
 sitemap.newpardigm-manta.network
 sk8pes.world
+skaddenlawfirm.com
 skasoff5th01.com
 skasoff5th02.com
 skasoff5th03.com
