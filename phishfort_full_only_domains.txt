@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 12:01:57 UTC 2024
-# Number of Entries: 107266
+# Fetch date: Fri Mar 29 13:01:46 UTC 2024
+# Number of Entries: 107267
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -24377,6 +24377,7 @@ dappwalletvalidation.com
 dappwalletvalidator.com
 dappwalletvault.com
 dappwalllett.live
+dappwconnect.com
 dappwctsoftconnect.com
 dappweb.live
 dappweb.vercel.app
@@ -30801,7 +30802,6 @@ etherscanft.com
 etherscanner.ml
 etherscans.net
 etherscard.com
-etherscarn.com
 etherscarn.link
 etherscarn.us
 etherscatn.link
@@ -33029,6 +33029,7 @@ fishpoole.com
 fiskchain.vercel.app
 fistdao.app
 fitgpt.web3-airdrop.net
+fitness-seven.com
 fitness-solution24.de
 fitnessfiends.co
 fitnessfiends.web3-airdrop.net
