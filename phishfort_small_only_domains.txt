@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 16:02:20 UTC 2024
-# Number of Entries: 8169
+# Fetch date: Fri Mar 29 17:02:03 UTC 2024
+# Number of Entries: 8168
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4425,7 +4425,6 @@ mulltibits.sbs
 multchain.net
 multgates.com
 multi-chain-connect.xyz
-multi-factor-authentication.online
 multi-smartworthyappverse.org
 multi-trustpade.site
 multi-trustpades.cc
@@ -5008,7 +5007,6 @@ pancakesswap.io
 pancakesswap.pages.dev
 pancakesswap.xyz
 pancakesvap-app.github.io
-pancakesvap.finance.us.org
 pancakesvop.com
 pancakeswaapfinance.net
 pancakeswao.finance
@@ -5354,6 +5352,7 @@ pogbl.top
 poiygon.com
 poiyhedra.net
 pokarswaps.space
+pol.ahyxi.club
 pol.zcadk.cn
 polarbearsnft.top
 poligonka-steking.top
