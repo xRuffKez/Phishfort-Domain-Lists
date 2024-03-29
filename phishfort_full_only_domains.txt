@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 05:01:52 UTC 2024
-# Number of Entries: 107253
+# Fetch date: Fri Mar 29 06:01:48 UTC 2024
+# Number of Entries: 107254
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -26378,6 +26378,7 @@ dexplatform.net
 dexprofoundchain.org
 dexproject.netlify.app
 dexprotocol.online
+dexprotocolchain.io
 dexprotocolserver.net
 dexqguru.link
 dexrectification.com
