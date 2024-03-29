@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 04:02:25 UTC 2024
-# Number of Entries: 8158
+# Fetch date: Fri Mar 29 05:02:27 UTC 2024
+# Number of Entries: 8155
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3206,7 +3206,6 @@ jsoq9.cn
 jtl11.com
 jtontwrk.com
 juiceboxmoney.xyz
-juicejest.cfd
 julswap.co
 jumper-exchange.live
 jumper-exchange.network
@@ -3943,7 +3942,6 @@ maskclaims.io
 maskcoin.pages.dev
 maskcoins.claims
 maskdropmetamask.com
-maskofficial.claims
 maskofficial.link
 maskofficial.xyz
 masktoken.cash
@@ -7950,7 +7948,6 @@ xlbullycoin.pro
 xmas-analos.org
 xmas-bonk.com
 xmas-monkedao.com
-xmas.claims
 xmxx.btcethl.vip
 xn--1nch-vpa.io
 xn--1nh-3la2a.com
