@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 01:22:53 UTC 2024
-# Number of Entries: 8154
+# Fetch date: Fri Mar 29 02:07:36 UTC 2024
+# Number of Entries: 8158
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -814,6 +814,7 @@ audius.gift
 aura-finance.news
 aura-migration.live
 auroravortex.org
+auth-checkx.com
 auth-gala.games
 auth-galagames-io.com
 auth-games-galas.online
@@ -2689,6 +2690,7 @@ gas-claim-oitgz.github.io
 gas-claim-teomf.github.io
 gas-ethereum.com
 gas-lido.com
+gas.ethereuz.xyz
 gasfeecal.com
 gayjoygo.com
 gcko.org
@@ -3470,6 +3472,7 @@ lfg-jup-claims.pages.dev
 lfg-jup.app
 lfg-jup.io
 lfg-up.icu
+lguywl.top
 lgwttt.pro
 libertyfinancial.xyz
 libertyfinancials.xyz
@@ -4478,6 +4481,7 @@ myedds.com
 myether.exchange
 myethertools.web.app
 myetherwallet.ph
+myetherwalletie.com
 myethmewallet.com
 myfirstproject.pages.dev
 mygoemployerthesaw.com
