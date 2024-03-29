@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 22:01:37 UTC 2024
-# Number of Entries: 107272
+# Fetch date: Fri Mar 29 23:01:52 UTC 2024
+# Number of Entries: 107276
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -16877,6 +16877,7 @@ claim-hedera.com
 claim-here.com
 claim-hex.com
 claim-hex.xyz
+claim-hidden-airdrop.xyz
 claim-houbi.com
 claim-imaginaryones.com
 claim-indexcoop.net
@@ -64227,6 +64228,7 @@ pancakeswap-finance.home-platform.lat
 pancakeswap-finance.host
 pancakeswap-finance.icu
 pancakeswap-finance.ieeetamu.org
+pancakeswap-finance.info
 pancakeswap-finance.ink.pancakeswap-flnance.org
 pancakeswap-finance.io
 pancakeswap-finance.io.pancakeswap-flnance.org
@@ -75402,6 +75404,7 @@ riverstoneknobs.com
 riverviewofwaddingtonmotel.com
 rivetzintl.org
 riyalprotocol.xyz
+rizmonkey.com
 rjiproject.com
 rkfkt.com
 rktfkt.com
@@ -76942,6 +76945,7 @@ sce.team
 scex.rocks
 schain-defiint.org
 schizoposters.nft-premint.com
+schlimited.com
 scholarfundhub.com
 schoolmegamart.com
 schoolsfirstfcu-assistme.com
