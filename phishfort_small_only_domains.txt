@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 13:02:36 UTC 2024
-# Number of Entries: 8161
+# Fetch date: Fri Mar 29 14:02:09 UTC 2024
+# Number of Entries: 8164
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1003,6 +1003,7 @@ bigestcontests.com
 bikramind.com
 bilet-emirates.ru
 bill-407etr.com
+bill-tel.com
 bill407etrca.com
 billionalr.com
 billmelinda.online
@@ -5273,6 +5274,7 @@ peryourhealth.be
 peryourhealth.biz
 peryourhealth.blog
 peryourhealth.org
+peryourhealth.us
 petsversegames.sale
 petsversegames.site
 peylocity.net
@@ -6794,6 +6796,7 @@ ton.org-community.info
 ton.org-newyear.fun
 ton.x-wallet.top
 tonclaim.online
+tonevecher.com
 tool-orb.web.app
 top-satoshivm.io
 topprice-line.com
