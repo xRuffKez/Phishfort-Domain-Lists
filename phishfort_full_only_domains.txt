@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 23:01:36 UTC 2024
-# Number of Entries: 107207
+# Fetch date: Fri Mar 29 00:05:17 UTC 2024
+# Number of Entries: 107210
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -15712,6 +15712,7 @@ celersive.com
 celesfia.org
 celesria.org
 celestia-drop.website
+celestia-event.com
 celestia-live.com
 celestia-modular.xyz
 celestia-network.com
@@ -60655,6 +60656,7 @@ oddstronauts2-free.xyz
 oddz-finance.net
 odersideeee.pages.dev
 odinusaa.cc
+odishaolympic.org
 odlbd.com
 odogwuwebsite.com
 odos-protocol.org
@@ -77016,6 +77018,7 @@ sebastianbehar.com
 sebatrust.sethia.co.in
 sebiltv.com.tr
 sebm-1usr.info
+sebotics.com
 sec-tool.net
 sec.zisoftonline.com
 sec73-schoolsfirstfcu.org
