@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 18:02:22 UTC 2024
-# Number of Entries: 8165
+# Fetch date: Fri Mar 29 19:02:05 UTC 2024
+# Number of Entries: 8166
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1299,6 +1299,7 @@ cancelar-ahorat.webcindario.com
 cancelar1-cambio.webcindario.com
 cancelar5-cambio.webcindario.com
 cancellationflights.com
+capcutforpc.store
 capsule-zskync.net
 captainj-dao.vercel.app
 caraji.com
