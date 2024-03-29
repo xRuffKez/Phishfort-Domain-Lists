@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 15:01:55 UTC 2024
-# Number of Entries: 107266
+# Fetch date: Fri Mar 29 16:01:43 UTC 2024
+# Number of Entries: 107269
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -13594,6 +13594,7 @@ bnbheibaie.quest
 bnbhold.net
 bnbillionaire.icu
 bnbkraken.com
+bnbmakerdao.online
 bnbmarket.services
 bnbminer-finance.onrender.com
 bnbmining.org
@@ -19371,6 +19372,7 @@ coinsvmarketcap.us
 coinsvortexnft.com
 coinswallet.info
 coinswgecko.link
+coinswiftresolve.web.app
 coinswp.exchange
 coinsync.online
 coinsync.site
@@ -47259,6 +47261,7 @@ makerdao.redeem.bz
 makerdao.redeem.fund
 makerdao.tools
 makerdao.web3fast.net
+makerdaobep.online
 makerdaobnb.online
 makerdaobsc.online
 makerdaop.online
