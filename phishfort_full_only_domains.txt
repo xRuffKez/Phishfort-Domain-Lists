@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 06:01:48 UTC 2024
-# Number of Entries: 107254
+# Fetch date: Fri Mar 29 07:02:41 UTC 2024
+# Number of Entries: 107257
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -46763,6 +46763,7 @@ mail.revokewallets.cash
 mail.slingshoot.finance
 mail.staging.chat.login.fixedfloat.pw
 mail.stakesteth.app
+mail.startest.duckdns.org
 mail.strettonft.com
 mail.stu.timewisetaxis.com
 mail.supra-nft.com
@@ -63446,6 +63447,7 @@ pancake-rookie.pages.dev
 pancake-sand.com
 pancake-sawp.com
 pancake-shiba.space
+pancake-stake.pages.dev
 pancake-staking.com
 pancake-super.com
 pancake-svvap-spot.com
@@ -78861,6 +78863,7 @@ sleeplessai.dev
 sleeplessai.presale-ico.org
 sleepyraffle.live
 sleratlas.com
+slerfrewards.net
 slgnup-dymension.com
 slickcitynft.truly-minting.com
 slilbariun.com
