@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 14:02:09 UTC 2024
-# Number of Entries: 8164
+# Fetch date: Fri Mar 29 15:02:33 UTC 2024
+# Number of Entries: 8168
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -853,6 +853,7 @@ awesomestrawberry.za.com
 awrm.xyz
 axie.valimrocha.workers.dev
 axiee-infinity.github.io
+axieinfinite.xyz
 axieinfinitiy.com
 axieinfinity-birthday.com
 axieinfinity-com.com
@@ -2895,7 +2896,6 @@ healthequity.comlink.sa.com
 healthequity.comru.sa.com
 healthequity.comru.za.com
 healthequity.comy.sa.com
-healthequity.live
 healthequity.za.com
 heatherleelarioni.me
 heavensgate.dog
@@ -3712,6 +3712,8 @@ maker-spark.claims
 makeradao.com
 makerdaicoin.com
 makerdao-airdrop.pages.dev
+makerdaobnb.online
+makerdaobsc.online
 makerdoa.com
 makerfoundation.github.io
 makertoken.net
@@ -5818,6 +5820,7 @@ revoke-cash.cash
 revoke-cash.org
 revoke-cash.xyz
 revoke-cassh.pages.dev
+revoke-eth.xyz
 revoke-paraswap.com
 revoke-realio.com
 revoke-security.net
@@ -5859,6 +5862,7 @@ revokeprotocol.com
 revokes-cash.xyz
 revoketoken.org
 revoketokens.app
+revokeu.cash
 revokewallets.cash
 revokje.cash
 revshare-access.pages.dev
