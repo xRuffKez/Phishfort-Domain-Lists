@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Mar 28 23:02:33 UTC 2024
-# Number of Entries: 8113
+# Fetch date: Fri Mar 29 00:07:36 UTC 2024
+# Number of Entries: 8116
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1319,6 +1319,7 @@ ceislus.network
 cekiliis.com
 celatis.digital
 celebrators.pk
+celestia-event.com
 celestia-network.com
 celestia-projects.net
 celestia.chain-spn.com
@@ -4732,6 +4733,7 @@ oceantoken.net
 ocmordinals.xyz
 ocmtoys.xyz
 octonodedapp.pages.dev
+odishaolympic.org
 oea1g.pro
 oeth.cash
 ofertachevro.com
@@ -6057,6 +6059,7 @@ season1-zetachain.com
 seatoken-airdrop.com
 seatokenclaim.com
 seatsent.com
+sebotics.com
 secondllife.tech
 secondx.mypsx.net
 secure-retry-connecting.alphakreed.com
