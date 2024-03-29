@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 01:22:21 UTC 2024
-# Number of Entries: 107249
+# Fetch date: Fri Mar 29 02:06:57 UTC 2024
+# Number of Entries: 107253
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -8372,6 +8372,7 @@ autenticqr.com
 auth-aritm.mehribanamin.com
 auth-bitikub.com
 auth-bitkub.com
+auth-checkx.com
 auth-coinbase.net
 auth-collabland.com
 auth-config.pages.dev
@@ -29965,6 +29966,7 @@ ethdefi.homes
 ethdefi.run
 ethdefi.wiki
 ethdefi20.com
+ethdefivip.cc
 ethdefiwin.info
 ethdefiwin.vip
 ethdf.com
@@ -35304,6 +35306,7 @@ gas-guzzlers-official.netlify.app
 gas-lido.com
 gas-refund.pics
 gas-refund.sbs
+gas.ethereuz.xyz
 gasfeecal.com
 gashawk.xyz
 gaslinessocalgas.com
@@ -43642,6 +43645,7 @@ lgb.laqwealth.com
 lgb.mlnts.com
 lghmail.org
 lgn-gala-games--yo.blogspot.com
+lguywl.top
 lgwttt.pro
 lgynz9t0rms7b70.bot.pancakeswasap.one
 lhcmining.com
