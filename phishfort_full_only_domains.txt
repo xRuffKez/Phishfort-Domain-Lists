@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 11:02:18 UTC 2024
-# Number of Entries: 107260
+# Fetch date: Fri Mar 29 12:01:57 UTC 2024
+# Number of Entries: 107266
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3052,6 +3052,7 @@ agoda.resew-r.world
 agoda.shop
 agoda.take-t.top
 agoda.u-resew.cfd
+agoda.weboffer7181.com
 agoda.ycs-id.info
 agoda.ycs.my.id
 agoda007.cn
@@ -58845,6 +58846,7 @@ nakamigosv2.com
 nakamigoz.xyz
 nakamigs.com
 nakamiigos.com
+nakamlgos.io
 nakamlgos.online
 nakamlgos.org
 nakamotofreaks.com
@@ -62862,6 +62864,7 @@ overlord-nft.xyz
 overlord.fast-freemint.com
 overlord.web3-airdrop.net
 overlordverse.xyz
+overrik.com
 overtechent.co.ke
 overviewbitbukml.atwebpages.com
 oviendooreal.com
@@ -71866,6 +71869,7 @@ presale-portalgaming.com
 presale-rebels.art
 presale-robotera.info
 presale-scorpioncasino.pages.dev
+presale-x.com
 presale-ypredict.com
 presale.getmyethers.net
 presale.portalgamings.net
@@ -74821,6 +74825,7 @@ revoke-multichain.org
 revoke-now.cash
 revoke-paraswap.com
 revoke-permit2.cash
+revoke-realio.com
 revoke-security.net
 revoke-shido.pages.dev
 revoke-tips.com
@@ -97178,6 +97183,7 @@ www.bancornetwork-fi.com
 www.bancornetworkhome.com
 www.banjec.com
 www.bank-sinarmas.de
+www.baoninpingan.com
 www.bapprador.com
 www.bar-paxful.website
 www.barb.website
