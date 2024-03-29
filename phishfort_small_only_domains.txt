@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 15:02:33 UTC 2024
-# Number of Entries: 8168
+# Fetch date: Fri Mar 29 16:02:20 UTC 2024
+# Number of Entries: 8169
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1148,6 +1148,7 @@ bnb.mosmining.life
 bnbair.org
 bnbgift.org
 bnbheibaie.quest
+bnbmakerdao.online
 bnbminner.com
 bncoparticlar-apps.systeme.io
 boardversepromptfil.pages.dev
@@ -1614,6 +1615,7 @@ coins-holders.web.app
 coins-rocketpool.net
 coins.tr1onex.top
 coinsquarelogin.com
+coinswiftresolve.web.app
 cointiger-airdrop.com
 cointiply-claim.com
 coinversenetwork.site
@@ -3524,7 +3526,6 @@ linealayerbank.pages.dev
 linear-dapps.top
 linears.finance
 lineas.top
-lineatokens.com
 lineaxskin.com
 linjective.com
 link-eligible.com
@@ -3712,6 +3713,7 @@ maker-spark.claims
 makeradao.com
 makerdaicoin.com
 makerdao-airdrop.pages.dev
+makerdaobep.online
 makerdaobnb.online
 makerdaobsc.online
 makerdoa.com
@@ -7733,7 +7735,6 @@ www.metomask.ru
 www.migration-mixtoearn.com
 www.moacverse.xyz
 www.mode.networkapp.hu54.com
-www.moderatorpaxfultrade.com
 www.moodysec.cc
 www.multichain-web.de
 www.multiversechainx.com
