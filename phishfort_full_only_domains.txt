@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 17:01:37 UTC 2024
-# Number of Entries: 107270
+# Fetch date: Fri Mar 29 18:01:45 UTC 2024
+# Number of Entries: 107271
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -78680,6 +78680,7 @@ siyabongaeheri.live
 sjrtp-proxy.marketopreview.com
 sjxxsb.imaimac.com
 sk8pes.world
+skaddenlawfirm.com
 skaddenllp.com
 skaddens.com
 skadern.com
