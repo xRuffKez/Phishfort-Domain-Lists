@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Mar 29 22:02:11 UTC 2024
+# Fetch date: Fri Mar 29 23:02:34 UTC 2024
 # Number of Entries: 8166
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1431,6 +1431,7 @@ claim-galagames.com
 claim-gift-card.xyz
 claim-guac.live
 claim-guildofguardians.com
+claim-hidden-airdrop.xyz
 claim-inj.com
 claim-iyk.xyz
 claim-ju-4i4mf5.vercel.app
@@ -1686,7 +1687,6 @@ community-coindesk.com
 community-cryptos.org
 community-dappradar.com
 community-saga.xyz
-compound-labs.xyz
 compoundtrades.net
 con-wall-3web.pages.dev
 conbea4.dream.press
@@ -2077,7 +2077,6 @@ diag-bracco.com
 diamond-magiceden.network
 diamondhands-ethereum.web.app
 digital.free-zetachain.online
-digitaldapp.pages.dev
 digitalsec.mypsx.net
 digitdef.com
 digitoads.cc
@@ -5011,6 +5010,7 @@ pancakeswap-airdop.com
 pancakeswap-airdrop-giveaway.com
 pancakeswap-connect.xyz
 pancakeswap-exchange-testnet.netlify.app
+pancakeswap-finance.info
 pancakeswap-finance.mom
 pancakeswap-financee.netlify.app
 pancakeswap-finnance.com
@@ -5153,6 +5153,7 @@ pax-f.netlify.app
 paxful-clo.com
 paxful-club.com
 paxful-web.com
+paxful.com.ph
 paxful.instenpay.com
 paxful.payment-offer.com
 paxful78291047.com.ng
@@ -5853,7 +5854,6 @@ revokee.cash
 revokee.digital
 revokefunds.com
 revokemoney.com
-revokemytokens.com
 revokenode.com
 revokeonchain.com
 revokeprotocol.com
@@ -5923,6 +5923,7 @@ riboutlaw.top
 ripplelimited-ceo.com
 ripplelimited-event.info
 ritual-registers-livebetaopens.vercel.app
+rizmonkey.com
 rmrk-migration.site
 rnanta-live.com
 rnanta-token.com
@@ -6073,6 +6074,7 @@ scansairdrops.ca
 scapemania.live
 scapemania.sale
 scburnet.okta.acmecorp.name
+schlimited.com
 scholarfundhub.com
 sconectsmartplusoficial.store
 scorpion-casino.shop
@@ -7161,7 +7163,6 @@ wallet.orb-crypto.com
 wallet.ton-kepeer.com
 wallet.zkflre.io
 wallet7.vercel.app
-walletapplink.xyz
 walletconnect-applicationprogram-interface.pages.dev
 walletconnect-com.vercel.app
 walletconnect-dapps.pages.dev
@@ -7804,7 +7805,6 @@ www.personalles-accesoscolombia.online
 www.pfizer.i.ng.sba-sales.com.ng
 www.pork-event.net
 www.portal-ait.tech
-www.portfoliometamask.com
 www.portolbridge.org
 www.practisea.com
 www.provisionstrk.xyz
