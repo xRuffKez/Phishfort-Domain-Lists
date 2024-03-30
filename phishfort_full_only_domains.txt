@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 30 10:02:00 UTC 2024
-# Number of Entries: 107239
+# Fetch date: Sat Mar 30 11:02:14 UTC 2024
+# Number of Entries: 107242
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -96721,6 +96721,7 @@ www.apggalaagammes.com
 www.api.myadmin.1inch.fusiondim.com
 www.api05-collab.com
 www.apisweb3ea.ml
+www.apk20.com
 www.apk4now.com
 www.apkturbo.com
 www.aplgala-cg.games
@@ -98382,6 +98383,7 @@ www.drops-niftygateway.com
 www.drops-pancakeswap.com
 www.drpharmacy.in
 www.dscscan.com
+www.du.uibits.online
 www.dubaibornapes.com
 www.dubaivacancy.ae
 www.duolingo.wiki
@@ -100497,6 +100499,7 @@ www.newactiveonline.online
 www.newactivepaxonline.online
 www.newapestake.online
 www.newfixingmanager.com
+www.newmontvip.com
 www.newofferactive.online
 www.newonlineactive.online
 www.newpanswap.co
