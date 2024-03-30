@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 30 02:05:21 UTC 2024
-# Number of Entries: 107282
+# Fetch date: Sat Mar 30 03:01:41 UTC 2024
+# Number of Entries: 107273
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -7724,7 +7724,6 @@ arkjuly.net
 arkjust.info
 arkjust.net
 arkm.air-trastpad.top
-arkm.coinredir.top
 arkm.dexfinpad.top
 arkm.egdrops.top
 arkm.t-wallets.top
@@ -16878,7 +16877,6 @@ claim-hedera.com
 claim-here.com
 claim-hex.com
 claim-hex.xyz
-claim-hidden-airdrop.xyz
 claim-houbi.com
 claim-imaginaryones.com
 claim-indexcoop.net
@@ -37609,6 +37607,7 @@ healthequity.comlink.sa.com
 healthequity.comru.sa.com
 healthequity.comru.za.com
 healthequity.comy.sa.com
+healthequity.live
 healthequity.za.com
 healthnews18.com
 healthsafeid-optum.com
@@ -45512,7 +45511,6 @@ lokcalbitcoins.com
 lokifsprid.top
 loklbitcoins.com
 lokosrare.org
-loksrar.com
 loksrare.site
 loksrares.org
 loksrereewelcomi.org
@@ -47798,7 +47796,6 @@ martingerry.xyz
 marvinueth.com
 marziaakther.com
 mas-vog.net
-masa-airdrop.com
 masa-ek1.pages.dev
 masa-finance.com
 mascarastvx.blogspot.com
@@ -64231,7 +64228,6 @@ pancakeswap-finance.home-platform.lat
 pancakeswap-finance.host
 pancakeswap-finance.icu
 pancakeswap-finance.ieeetamu.org
-pancakeswap-finance.info
 pancakeswap-finance.ink.pancakeswap-flnance.org
 pancakeswap-finance.io
 pancakeswap-finance.io.pancakeswap-flnance.org
@@ -75407,7 +75403,6 @@ riverstoneknobs.com
 riverviewofwaddingtonmotel.com
 rivetzintl.org
 riyalprotocol.xyz
-rizmonkey.com
 rjiproject.com
 rkfkt.com
 rktfkt.com
@@ -76947,9 +76942,7 @@ sce.energy
 sce.team
 scex.rocks
 schain-defiint.org
-schasb.com
 schizoposters.nft-premint.com
-schlimited.com
 scholarfundhub.com
 schoolmegamart.com
 schoolsfirstfcu-assistme.com
@@ -80784,7 +80777,6 @@ stake-infinity.com
 stake-infintyaxie.shop
 stake-injective.com
 stake-jup.com
-stake-lid0.com
 stake-lido.io
 stake-lido.nl
 stake-lido.web.app
@@ -99782,7 +99774,6 @@ www.mavia.comapp.kutten.net
 www.mavia.comapp.yaya6.com
 www.mavia.la
 www.mavia.lc
-www.maviaairdrop.com
 www.mavias.club
 www.mavla.xyz
 www.mavxyz.pro
