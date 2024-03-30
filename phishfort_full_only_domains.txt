@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 30 22:01:41 UTC 2024
-# Number of Entries: 107246
+# Fetch date: Sat Mar 30 23:01:48 UTC 2024
+# Number of Entries: 107229
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -470,7 +470,6 @@
 1inch.cryptx.world
 1inch.cyou
 1inch.danngol.com
-1inch.de.com
 1inch.defiairdrops.net
 1inch.digital
 1inch.dispersed.works
@@ -488,7 +487,6 @@
 1inch.exchange.colegiohuitakafusa.com
 1inch.exchange.crlegal.com.co
 1inch.exchange.io
-1inch.exchange.lineikata.eu
 1inch.exchange.nanohub.in
 1inch.exchange.silenzze.com
 1inch.exchange.smartlifefoundation.org
@@ -4926,7 +4924,6 @@ anywap.org
 ao-panda.com
 aocl-bd.com
 aoconn.co
-aoddp.com
 aoi.freemint-vip.com
 aoki-hack.psyop.org
 aonchange.com
@@ -5227,7 +5224,6 @@ apexexchange-help.com
 apexexchange-security.com
 apexexchenge.com
 apexglobnftltd.com
-apexminersfx.com
 apexmintsgrid.com
 apexnetworks.site
 apexone.online
@@ -5926,7 +5922,6 @@ app-uniswap.com.kz
 app-uniswap.exchange
 app-uniswap.finance
 app-uniswap.icu
-app-uniswap.in
 app-uniswap.io
 app-uniswap.money
 app-uniswap.org-exchange-swap-liquidity.site
@@ -14781,7 +14776,6 @@ btcmixer.tech
 btcms.us
 btcmusk.net
 btcmusk.org
-btcmusk2x.com
 btcmust.com
 btcofficial.info
 btcoin-bank.com
@@ -18343,7 +18337,6 @@ coinbase.company
 coinbase.comsignin.autos
 coinbase.deposit-allow.com
 coinbase.droppages.com
-coinbase.earnfreecrypto.deals
 coinbase.fans
 coinbase.fund
 coinbase.gift
@@ -21584,7 +21577,6 @@ crypto4base.cf
 crypto4base.tk
 crypto500claim.top
 crypto6x.tk
-crypto888.live
 crypto888.mint-freenfts.com
 cryptoaddwallet.com
 cryptoadz-freemint.xyz
@@ -26939,7 +26931,6 @@ doamokor.com
 dobbys.mint-now.co
 dobies.top
 doc-explication.com
-doc-metamask.rf.gd
 doc-polygonnetwork.org
 doc-tornadocash.com
 docai.science
@@ -28362,7 +28353,6 @@ ehtscan.explorir.com
 ehtscan.io-explorer.us
 ehtscan.lognin.us
 ei.dappsc0nnects.xyz
-eiementals-azuki.com
 eigeinlayner.xyz
 eigen-layer.com
 eigen-layer.idvenezia.com
@@ -37589,7 +37579,6 @@ health-equity.click
 health-equity.sa.com
 health-equity.za.com
 healthcheck.com
-healthequity.comja.sa.com
 healthequity.comlink.sa.com
 healthequity.comru.sa.com
 healthequity.comru.za.com
@@ -49335,7 +49324,6 @@ metamask-debug.pages.dev
 metamask-desk.netlify.app
 metamask-desktop.com
 metamask-desktop.su
-metamask-dg.rf.gd
 metamask-dl.com
 metamask-double.com
 metamask-download.com
@@ -49816,7 +49804,6 @@ metamask.browser-extansion.xyz
 metamask.buzz
 metamask.bytshare.com
 metamask.bz
-metamask.ca
 metamask.cafe
 metamask.cam
 metamask.capital
@@ -84856,7 +84843,6 @@ thestockmarketcoin.xyz
 thestratos-air.com
 thesummoning-mdvmm.xyz
 thesushiswap.com
-thesushiswap.xyz
 thesushiswaps.com
 theswiftsyncs.com
 thesynchronizer.live
@@ -85842,7 +85828,6 @@ torneopepsico.com
 tornova.cash
 toros-finance.com
 torproject.clinicadolce.com
-tortoken.io
 toruslinks.netlify.app
 torustool.com
 torustools.com
@@ -86945,7 +86930,6 @@ trustwalleten.com
 trustwalletes.com
 trustwalletgift.com
 trustwalletgift.link
-trustwalletgiveaway.rf.gd
 trustwallethelpdesk.com
 trustwallethub.com
 trustwallethud.xyz
@@ -97527,7 +97511,6 @@ www.buffy169.com
 www.buffzz163.com
 www.bufk163.com
 www.bufs63.ink
-www.buhgeexhange.com
 www.bumrof.com
 www.bunkrectify.live
 www.bunkvalidate.live
