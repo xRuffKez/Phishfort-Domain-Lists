@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 30 00:06:58 UTC 2024
-# Number of Entries: 8166
+# Fetch date: Sat Mar 30 01:21:17 UTC 2024
+# Number of Entries: 8168
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -767,6 +767,7 @@ arenales-outlet.shop
 areyoubullishsol.io
 arkhamintelligence.gift
 arkm.air-trastpad.top
+arkm.coinredir.top
 arkm.t-wallets.top
 armadorasanluis.com
 arraklls.flnance.web3-ap.cfd
@@ -3592,6 +3593,7 @@ login.microsoftonlineportal.ppp-gov.online
 login.wapstore.duckdns.org
 login1-blockgames.xyz
 login2-blockgames.xyz
+loksrar.com
 lololol888.xyz
 lookrere.org
 looks-rare-raffle.info
@@ -3927,6 +3929,7 @@ marketplace-listings.com
 marketplace-offers.io
 marketplacestatus.com
 marnta.network
+masa-airdrop.com
 masa-ek1.pages.dev
 masa-finance.com
 masgouidetma.org
@@ -3943,7 +3946,6 @@ maskclaim.top
 maskclaims.info
 maskclaims.io
 maskcoin.pages.dev
-maskcoins.claims
 maskdropmetamask.com
 maskofficial.link
 maskofficial.xyz
@@ -4123,7 +4125,6 @@ metamask-verse.pages.dev
 metamask-wallet-main.pages.dev
 metamask-wallet.pro
 metamask.baby
-metamask.claims
 metamask.cool
 metamask.firsthfb.com
 metamask.fit
@@ -5803,7 +5804,6 @@ revenue-bitstable.finance
 revest-finance.com
 reviewdocnow.com
 reviews-airhopper.com
-revioke.xyz
 revise.cash
 revok.info
 revok.online
@@ -6074,6 +6074,7 @@ scansairdrops.ca
 scapemania.live
 scapemania.sale
 scburnet.okta.acmecorp.name
+schasb.com
 schlimited.com
 scholarfundhub.com
 sconectsmartplusoficial.store
@@ -6394,6 +6395,7 @@ stake-chainlink.finance
 stake-gtprotocol.com
 stake-injective.com
 stake-jup.com
+stake-lid0.com
 stake-manta.network
 stake-official-online.com
 stake-rewarb.com
@@ -6422,7 +6424,6 @@ staking-wftrw.github.io
 staking-xai.network
 staking.app-bitrock.com
 staking.routerprotocols.net
-staratlaslabs.com
 starcheckapp.com
 stardefyloomfil.pages.dev
 stardexairdrop.com
@@ -7707,6 +7708,7 @@ www.mavia.comapp.kutten.net
 www.mavia.comapp.yaya6.com
 www.mavia.la
 www.mavia.lc
+www.maviaairdrop.com
 www.mavias.club
 www.mavla.xyz
 www.mehrlesenachrichten.com
