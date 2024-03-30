@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 30 07:02:10 UTC 2024
-# Number of Entries: 8121
+# Fetch date: Sat Mar 30 08:03:25 UTC 2024
+# Number of Entries: 8124
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -422,6 +422,7 @@ alshayagroup.shop
 alshayagroupae.company.site
 alshayagroupk-s.company.site
 alshayagroupom.company.site
+alshayamegastore.com
 alshayastore.com
 alshayeagroup.com
 alt-layers.com
@@ -2530,6 +2531,7 @@ flashdigi.site
 flightreservations.xyz
 floadfixed.com
 float-fixed.com
+flojet.com.vn
 floki-claim.net.qqhosting3.com
 floki-claim.vercel.app
 floki-tokens.net
@@ -3570,6 +3572,7 @@ login--blockgames.com
 login-cisco.tech
 login-frame.xyz
 login-metamaskwallet.ddnss.eu
+login.cw1.ir
 login.frame-airdrop.xyz
 login.microsoftonlineportal.ppp-gov.online
 login.wapstore.duckdns.org
