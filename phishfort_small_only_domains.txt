@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 30 02:05:52 UTC 2024
-# Number of Entries: 8168
+# Fetch date: Sat Mar 30 03:02:50 UTC 2024
+# Number of Entries: 8158
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -767,7 +767,6 @@ arenales-outlet.shop
 areyoubullishsol.io
 arkhamintelligence.gift
 arkm.air-trastpad.top
-arkm.coinredir.top
 arkm.t-wallets.top
 armadorasanluis.com
 arraklls.flnance.web3-ap.cfd
@@ -1432,7 +1431,6 @@ claim-galagames.com
 claim-gift-card.xyz
 claim-guac.live
 claim-guildofguardians.com
-claim-hidden-airdrop.xyz
 claim-inj.com
 claim-iyk.xyz
 claim-ju-4i4mf5.vercel.app
@@ -2895,6 +2893,7 @@ healthequity.comlink.sa.com
 healthequity.comru.sa.com
 healthequity.comru.za.com
 healthequity.comy.sa.com
+healthequity.live
 healthequity.za.com
 heatherleelarioni.me
 heavensgate.dog
@@ -3593,7 +3592,6 @@ login.microsoftonlineportal.ppp-gov.online
 login.wapstore.duckdns.org
 login1-blockgames.xyz
 login2-blockgames.xyz
-loksrar.com
 lololol888.xyz
 lookrere.org
 looks-rare-raffle.info
@@ -3929,7 +3927,6 @@ marketplace-listings.com
 marketplace-offers.io
 marketplacestatus.com
 marnta.network
-masa-airdrop.com
 masa-ek1.pages.dev
 masa-finance.com
 masgouidetma.org
@@ -5011,7 +5008,6 @@ pancakeswap-airdop.com
 pancakeswap-airdrop-giveaway.com
 pancakeswap-connect.xyz
 pancakeswap-exchange-testnet.netlify.app
-pancakeswap-finance.info
 pancakeswap-finance.mom
 pancakeswap-financee.netlify.app
 pancakeswap-finnance.com
@@ -5154,7 +5150,6 @@ pax-f.netlify.app
 paxful-clo.com
 paxful-club.com
 paxful-web.com
-paxful.com.ph
 paxful.instenpay.com
 paxful.payment-offer.com
 paxful78291047.com.ng
@@ -5923,7 +5918,6 @@ riboutlaw.top
 ripplelimited-ceo.com
 ripplelimited-event.info
 ritual-registers-livebetaopens.vercel.app
-rizmonkey.com
 rmrk-migration.site
 rnanta-live.com
 rnanta-token.com
@@ -6074,8 +6068,6 @@ scansairdrops.ca
 scapemania.live
 scapemania.sale
 scburnet.okta.acmecorp.name
-schasb.com
-schlimited.com
 scholarfundhub.com
 sconectsmartplusoficial.store
 scorpion-casino.shop
@@ -6395,7 +6387,6 @@ stake-chainlink.finance
 stake-gtprotocol.com
 stake-injective.com
 stake-jup.com
-stake-lid0.com
 stake-manta.network
 stake-official-online.com
 stake-rewarb.com
@@ -7708,7 +7699,6 @@ www.mavia.comapp.kutten.net
 www.mavia.comapp.yaya6.com
 www.mavia.la
 www.mavia.lc
-www.maviaairdrop.com
 www.mavias.club
 www.mavla.xyz
 www.mehrlesenachrichten.com
