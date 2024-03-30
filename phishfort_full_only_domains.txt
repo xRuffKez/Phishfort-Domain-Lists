@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 30 13:01:47 UTC 2024
-# Number of Entries: 107242
+# Fetch date: Sat Mar 30 14:01:42 UTC 2024
+# Number of Entries: 107246
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2827,6 +2827,7 @@ admin.addepar-crypto.com
 admin.booking-login.com
 admin.idex-ico.info
 admin.lcryptos.com
+admin.makerdao.top
 admin.metamaskio.net
 admin.onlinesoftstore.shop
 admin.pancakesvqp.com
@@ -63535,6 +63536,7 @@ pancake.magpiexyz.io.nework.live
 pancake.metachaln.com
 pancake.pages.dev
 pancake.pancakesvvapp.com
+pancake.saaedal.com
 pancake.svap.org.in
 pancake.svap.us.com
 pancake.swap-sys.com
@@ -63802,6 +63804,7 @@ pancakesswap.ga
 pancakesswap.global
 pancakesswap.godaddysites.com
 pancakesswap.host
+pancakesswap.in
 pancakesswap.info
 pancakesswap.io
 pancakesswap.link
@@ -68548,6 +68551,7 @@ pcrivnote.com
 pcs-arb.nhancv.com
 pcs-cakexdefi.com
 pcs-defistakev3.com
+pcs-myteam.com
 pcs.payflowtoken.com
 pcsdf-mining.com
 pcsfarm-v3.com
