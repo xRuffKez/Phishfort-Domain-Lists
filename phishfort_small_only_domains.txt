@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 30 06:02:14 UTC 2024
-# Number of Entries: 8119
+# Fetch date: Sat Mar 30 07:02:10 UTC 2024
+# Number of Entries: 8121
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -530,6 +530,7 @@ api15vulcan.com
 api32-altidentifier.com
 api8-vulcan.com
 apicollab.land
+apid.tiktokcz.com
 apisyncdapp.live
 apisynchronizer.live
 apkdownload.com
@@ -3302,6 +3303,7 @@ kkyphtf0fbvl.ftntpk6ubbx4sk.ru
 klarnacasino.nl
 klarnaitalysrl.welfare.it
 klarnapayment.de
+klarnasecure.com
 kmaber.site
 knoxalliance-store.knoxalliance.com
 kofdet.com
