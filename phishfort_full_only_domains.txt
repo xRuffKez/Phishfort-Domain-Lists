@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 30 01:20:45 UTC 2024
-# Number of Entries: 107276
+# Fetch date: Sat Mar 30 02:05:21 UTC 2024
+# Number of Entries: 107282
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -7724,6 +7724,7 @@ arkjuly.net
 arkjust.info
 arkjust.net
 arkm.air-trastpad.top
+arkm.coinredir.top
 arkm.dexfinpad.top
 arkm.egdrops.top
 arkm.t-wallets.top
@@ -45511,6 +45512,7 @@ lokcalbitcoins.com
 lokifsprid.top
 loklbitcoins.com
 lokosrare.org
+loksrar.com
 loksrare.site
 loksrares.org
 loksrereewelcomi.org
@@ -47796,6 +47798,7 @@ martingerry.xyz
 marvinueth.com
 marziaakther.com
 mas-vog.net
+masa-airdrop.com
 masa-ek1.pages.dev
 masa-finance.com
 mascarastvx.blogspot.com
@@ -76944,6 +76947,7 @@ sce.energy
 sce.team
 scex.rocks
 schain-defiint.org
+schasb.com
 schizoposters.nft-premint.com
 schlimited.com
 scholarfundhub.com
@@ -80780,6 +80784,7 @@ stake-infinity.com
 stake-infintyaxie.shop
 stake-injective.com
 stake-jup.com
+stake-lid0.com
 stake-lido.io
 stake-lido.nl
 stake-lido.web.app
@@ -99777,6 +99782,7 @@ www.mavia.comapp.kutten.net
 www.mavia.comapp.yaya6.com
 www.mavia.la
 www.mavia.lc
+www.maviaairdrop.com
 www.mavias.club
 www.mavla.xyz
 www.mavxyz.pro
