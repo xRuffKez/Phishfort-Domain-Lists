@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 30 13:02:22 UTC 2024
-# Number of Entries: 8128
+# Fetch date: Sat Mar 30 14:02:18 UTC 2024
+# Number of Entries: 8131
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -171,6 +171,7 @@ achieve-altlayer.io
 achieve-altlayer.pages.dev
 acrosss-bridge.xyz
 active-supp-ort-meta.netlify.app
+admin.makerdao.top
 admincoinbase.the123456789.com
 adslauncher.eu
 advancelobstarhifi.pages.dev
@@ -4967,6 +4968,7 @@ pancake-swaps.org
 pancake.albert.vip
 pancake.fniu.dev
 pancake.magpiexyz.io.nework.live
+pancake.saaedal.com
 pancake.svap.org.in
 pancake.svap.us.com
 pancake.swap.primaprofits.com
@@ -4983,6 +4985,7 @@ pancakes-swap.com
 pancakes-swap.finance
 pancakesawpifnance.com
 pancakesswap.finance
+pancakesswap.in
 pancakesswap.info
 pancakesswap.io
 pancakesswap.pages.dev
@@ -5194,6 +5197,7 @@ pc.dbrslimited.com
 pcpgxr.top
 pcs-cakexdefi.com
 pcs-defistakev3.com
+pcs-myteam.com
 pcs.payflowtoken.com
 pcsfarm-v3.com
 pcwdf-hkteam.com
@@ -7842,7 +7846,6 @@ www.tiktok8.bond
 www.tiktokmall-th.com
 www.toshithecat.org
 www.tpadv2.dev
-www.travellucky.cc
 www.triplewealthbuilders.com
 www.trustwalletdefi.icu
 www.unimlp.com
