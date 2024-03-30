@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 30 07:01:33 UTC 2024
-# Number of Entries: 107235
+# Fetch date: Sat Mar 30 08:01:54 UTC 2024
+# Number of Entries: 107237
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4465,6 +4465,7 @@ alshayagroupom.company.site
 alshayagroupuae.com
 alshayagroupuae.company.site
 alshayakuwait.com
+alshayamegastore.com
 alshayaperfum.company.site
 alshayaperfume.com
 alshayaperfumes.net
@@ -33567,6 +33568,7 @@ flodapps-rpc.online
 flodappsprotocol.online
 flogit.io
 flohm.com
+flojet.com.vn
 flokbaby.it
 floki-air.com
 floki-air.live
