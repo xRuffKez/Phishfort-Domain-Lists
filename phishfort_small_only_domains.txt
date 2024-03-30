@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 30 22:02:06 UTC 2024
-# Number of Entries: 8131
+# Fetch date: Sat Mar 30 23:02:26 UTC 2024
+# Number of Entries: 8115
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -144,7 +144,6 @@ aave.freedrops.top
 aave.godepth.com
 aave.laynch-pad.top
 aave.liquidity.org.pl
-aave.supply
 aave.trustspads.top
 aavenetwork.org
 aaveshiba.top
@@ -2435,7 +2434,6 @@ exchangeros.com
 exchanges-backpack.app
 exclusive-blast.com
 expertsolver.pages.dev
-exploitrevoke.com
 exploits-revoke.com
 exploremanta.pages.dev
 express-toll-route407.com
@@ -2554,10 +2552,8 @@ flxedfloat.pages.dev
 flyemirates.cloud
 flyemirates.my.id
 flyemirates.space
-flyemiratescareer.com
 flyemiratesonline.com
 flyingtogether.website
-flyunitedworld.com
 foeziwo.pro
 foolz.sellpass.io
 foresamagovi.com
@@ -2812,7 +2808,6 @@ gondi.loan
 goodj.top
 goodsdao.web.app
 gorilladefi-io.web.app
-gotravel-united.com
 govs.sa.com
 gq26v.pro
 grab-farcanacom.pages.dev
@@ -2876,7 +2871,6 @@ health-equity.click
 health-equity.sa.com
 health-equity.za.com
 healthcheck.com
-healthequity.comja.sa.com
 healthequity.comlink.sa.com
 healthequity.comru.sa.com
 healthequity.comru.za.com
@@ -3009,7 +3003,6 @@ immutabie.co
 immutable.defi-community.com
 immutablle.me
 impactivecreator.com
-import-meta.io
 impostorsland.xyz
 imsvf.cc
 imtoken-qw.pro
@@ -3438,7 +3431,6 @@ ledgerlive-app.online
 ledgerreclaim.com
 ledgers.support
 ledsgerwallet.com
-legder.live-app.com.co
 leisureglob.com
 lenanet.work
 lending-tree-month-1-d12f2.web.app
@@ -3662,7 +3654,6 @@ mail.maverickdao.net
 mail.metamaskarticle.com
 mail.panckswap.com
 mail.pepegift.lol
-mail.revokewallets.cash
 mail.startest.duckdns.org
 mail.swapsnet.com
 mail.walletsdapp.com
@@ -4079,7 +4070,6 @@ metamask-api.pages.dev
 metamask-app-kyc.com
 metamask-app.cool
 metamask-app.pages.dev
-metamask-app.ru
 metamask-app24-kyc.com
 metamask-auth.io
 metamask-c.com
@@ -4260,7 +4250,6 @@ migratestaderlabs.com
 migratexend-finance.vercel.app
 migration-0xnude.com
 migration-bitcointry.tech
-migration-captaininu.pro
 migration-cuminu.pro
 migration-darwinia.net
 migration-defrogs.com
@@ -4781,7 +4770,6 @@ onbean.network
 onchain-api.onrender.com
 onchainmonkeys.shop
 onchainmonkeys.tech
-onchainrevoke.com
 oneamerica.icu
 onearbitrum.checkterms.com
 ongcmumbaihigh.in
@@ -5008,7 +4996,6 @@ pancakeswap-pancakeswap.com
 pancakeswap-pancakeswap.net
 pancakeswap-platform.pages.dev
 pancakeswap.airdrop-cake-v3.com
-pancakeswap.asia
 pancakeswap.cc
 pancakeswap.click
 pancakeswap.dikecoin.com
@@ -5835,8 +5822,6 @@ revokee.digital
 revokefunds.com
 revokemoney.com
 revokenode.com
-revokeonchain.com
-revokeprotocol.com
 revokes-cash.xyz
 revoketoken.org
 revoketokens.app
@@ -7513,7 +7498,6 @@ www.bridgermk.app
 www.bridgermkr.app
 www.brothernz.com
 www.bscpad-launchpad.live
-www.buhgeexhange.com
 www.burakglobalfirm.com
 www.butterfieldoffshore.com
 www.bybit-award.io
