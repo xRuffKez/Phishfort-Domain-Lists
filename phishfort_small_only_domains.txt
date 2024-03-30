@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 30 04:02:33 UTC 2024
-# Number of Entries: 8117
+# Fetch date: Sat Mar 30 05:02:00 UTC 2024
+# Number of Entries: 8119
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4038,6 +4038,7 @@ meta-safelogin.com
 meta2fa.io
 metaamsskk-wallet.godaddysites.com
 metabbcmask.com
+metabmasskus.azurewebsites.net
 metabolt.io
 metacoin-participate.com
 metacoin.digital
@@ -4157,6 +4158,7 @@ metamaskwallet.pages.dev
 metamaskxtension.github.io
 metamaskz.ink
 metamassk.cc
+metamasusak.azurewebsites.net
 metamasx.xyz
 metamcsk.cc
 metamcsk.io
