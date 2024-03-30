@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 30 10:02:20 UTC 2024
-# Number of Entries: 8125
+# Fetch date: Sat Mar 30 11:02:45 UTC 2024
+# Number of Entries: 8128
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -7454,6 +7454,7 @@ www.amswallet.cz
 www.amz998.com
 www.aniarticles.com
 www.api05-collab.com
+www.apk20.com
 www.app-ait.net
 www.app-ethena.finance
 www.app-ether.com
@@ -7553,6 +7554,7 @@ www.dex-bitconnect.lol
 www.dianwifi.cc
 www.drop.box-cdn.com
 www.dropmanta.com
+www.du.uibits.online
 www.earn-drop.club
 www.eigen-layer.sale
 www.eigenlaver.magpiexyz.site
@@ -7710,6 +7712,7 @@ www.mypepsico.live
 www.mypethooligengame.com
 www.nasxcoins.com
 www.new-paradigmanta.network
+www.newmontvip.com
 www.newparadigmamanta.network
 www.newparadigmmanat.network
 www.nikcos.com
