@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Mar 30 06:01:36 UTC 2024
-# Number of Entries: 107233
+# Fetch date: Sat Mar 30 07:01:33 UTC 2024
+# Number of Entries: 107235
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -5337,6 +5337,7 @@ apiconnectcollab.land
 apiconnectd.com
 apiconnectwallet.com
 apicontractgearnd.com
+apid.tiktokcz.com
 apidexresolve.io
 apidocs.www.outlook.pancakeswape.finance
 apiens-freemint.xyz
@@ -41676,6 +41677,7 @@ klarnaitalysrl.welfare.it
 klarnapay.eu
 klarnapay.to
 klarnapayment.de
+klarnasecure.com
 klayswapapp.klayexchaange.live
 klaytn.web3-airdrop.net
 kldiscovery.works
