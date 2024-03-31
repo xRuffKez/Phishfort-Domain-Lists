@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 22:02:25 UTC 2024
-# Number of Entries: 8195
+# Fetch date: Sun Mar 31 23:02:37 UTC 2024
+# Number of Entries: 8198
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -86,7 +86,6 @@
 407-etr.com
 407etr-clients.com
 407etr-info.com
-407etr-tolls.com
 407etrinfo.com
 407express-tollroute.com
 407on.com
@@ -809,6 +808,7 @@ asxcoincm.com
 asxcoinco.com
 asxmx.cc
 asxstockexchange.com
+asxxdvv.asxmm.org
 atariku.site
 atf.mkwk.one
 atlaeyer-stake.top
@@ -1960,7 +1960,6 @@ dealsync.pages.dev
 debanhk.github.io
 debank-claim.com
 debank-web3.web.app
-debank.es
 debank.svap.org.in
 debank.trustpado.com
 debnhaimes.company.site
@@ -2651,6 +2650,7 @@ freesync.pages.dev
 freshairdrop-website.live
 freshkingcrabs.com
 from-agoda.site.pro
+fsafeds.comet.sa.com
 fsafeds.comt.sa.com
 fsafeds.sa.com
 ftp.raydiums.motorcycles
@@ -2908,6 +2908,7 @@ healthequity.comru.sa.com
 healthequity.comru.za.com
 healthequity.comy.sa.com
 healthequity.live
+healthequity.one
 healthequity.za.com
 heatherleelarioni.me
 heavensgate.dog
@@ -6205,6 +6206,7 @@ shoptiktok.club
 shopvibe.shop
 shrapnel-2024.com
 shrapnel.cloud
+shrapnel.life
 shrapnel.store
 shyg618.com
 sideshift.art
@@ -7671,6 +7673,7 @@ www.globalpaymentsytww.com
 www.gomining.site
 www.gracieabramssmerchandise.com
 www.hashpacksqa.com
+www.healthequitylogin.org
 www.hellofurther.pro
 www.help.issueresolve.org
 www.holdblur.foundation
