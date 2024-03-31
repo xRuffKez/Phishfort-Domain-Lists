@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 12:02:12 UTC 2024
-# Number of Entries: 107275
+# Fetch date: Sun Mar 31 13:01:47 UTC 2024
+# Number of Entries: 107278
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3420,6 +3420,7 @@ airdrop-iguverse.com
 airdrop-info.lol
 airdrop-injective.icu
 airdrop-injective.top
+airdrop-ionet.vercel.app
 airdrop-iotex.io
 airdrop-jup.one
 airdrop-jup.vip
@@ -70949,6 +70950,7 @@ polygonxtech.com
 polygyontechology.com
 polygyonwallet.com
 polyhedra-network-connect.com
+polyhedra-network.pro
 polyhedra-network.vercel.app
 polyhedrazk.foundation
 polyigonwl.site
@@ -72264,6 +72266,7 @@ protectsolana.shop
 protectwalletfix.com
 protgenzets.com
 protocol-aave.org
+protocol-apex.com
 protocol-atlendis.com
 protocol-auth.vercel.app
 protocol-carv.nl
