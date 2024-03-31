@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 01:27:02 UTC 2024
+# Fetch date: Sun Mar 31 02:10:35 UTC 2024
 # Number of Entries: 8115
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -737,7 +737,6 @@ arbitrum-air.icu
 arbitrum-airdrop2023.com
 arbitrum-reward.xyz
 arbitrum-submit.com
-arbitrum-survey.co
 arbitrum-surveys.com
 arbitrum.devilinu.com
 arbitrum.reward-apps.com
@@ -920,7 +919,6 @@ barlettapontoonboats.asia
 barleyapp.finance
 barnbridge.pro
 bartellers.com
-base-named.org
 basebrett.lol
 basebrett.xyz
 basedbrett.xyz
@@ -1323,7 +1321,6 @@ cdn.cdn.secure.pancakefiance.org
 cdn1conectionspoint2point12mayresultinotthefolw.pixelmon.tech
 cdzhjzx.com
 ce1s1us.network
-cealtis.fail
 ceislus.network
 cekiliis.com
 celatis.digital
@@ -1360,6 +1357,7 @@ chainlinktreasury.net
 chainlogserver.pages.dev
 chainlsiit.com
 chainmulticoin.pages.dev
+chains-optimism.com
 chainsextension.com
 chainsprotocol.com
 chainswap-airdrop-claim.pages.dev
@@ -1866,7 +1864,6 @@ dappradar.team
 dappradar.works
 dappradardrop.com
 dappradare.eu
-dappradd.com
 dappradhub.com
 dapps-0auth.net
 dapps-fixed.pages.dev
@@ -2404,7 +2401,6 @@ event-realios.com
 event-web3usdlt.com
 event-woo.co
 event.airpud.top
-event.chainspads.top
 event.rewardcoin.top
 event.stockcoin.top
 eventfarcana-airdrop.vercel.app
@@ -2685,6 +2681,7 @@ gemlink.xyz
 gempad-app.xyz
 geneitec.com
 generalmotorsplanta.com
+genesis-dem.eu
 genesis-dem.xyz
 genesis-dym.com
 genesis-dymension.xyz
@@ -4872,6 +4869,7 @@ oraclegarden.network
 oragraf.com
 oraidex.online
 oravblox.com
+orb-wallets.web.app
 orbiter.financial
 orchai.live
 ordbridge.app
@@ -5755,6 +5753,7 @@ resolverprotocol.pages.dev
 restake-fi.xyz
 restake-keelpdao.xyz
 restoremetaweb.pages.dev
+retik-finance-en.web.app
 retik-finance.pages.dev
 retik.app
 retikapp.xyz
@@ -6131,6 +6130,7 @@ shibreward.net
 shidc.io
 shido-34p.pages.dev
 shido.tco-c.xyz
+shido.token-sale.live
 shidoapp.work
 shirbclaime.netlify.app
 shirbreward.netlify.app
@@ -6377,6 +6377,7 @@ staking-probase.app
 staking-wftrw.github.io
 staking-xai.network
 staking.app-bitrock.com
+staking.k9finance.co
 staking.routerprotocols.net
 starcheckapp.com
 stardefyloomfil.pages.dev
@@ -6793,6 +6794,7 @@ treasuredao.qa
 treasuredao.rip
 treasury-radiant.com
 treasury-seedify.tech
+treasury.keipdao.net
 treasury.roninschains.com
 trekki1-2ao7ciwr8-scgllr.vercel.app
 trestleprotocol.net
@@ -7347,7 +7349,6 @@ winnebagoindustries.online
 winnings-beam.net
 winsolana.org
 winter-chain.link
-winusdt.top
 wired-interviews.netlify.app
 wirerecieve-pay.onrender.com
 withdrawaldesk.com
@@ -7986,7 +7987,6 @@ yieldmagnet.app
 ykwzj.pro
 ynstbc.xyz.webplus7.a2hosted.com
 yo9.email
-yogapetz.well3.live
 yoo.why-u-talking-w-me-like-that-nigga.com
 you-trip.ru
 youcoin.info
