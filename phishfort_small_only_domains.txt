@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 08:02:34 UTC 2024
-# Number of Entries: 8121
+# Fetch date: Sun Mar 31 09:02:08 UTC 2024
+# Number of Entries: 8142
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -114,12 +114,15 @@
 6ueir.cc
 70356134-1e65-4f60-94ee-18e6fc220ac1-00-qed3v4c7t0e6.spock.replit.dev
 79.137.202.34.sslip.io
+7ggtru.cc
 7ihg.cc
 7kdgw.pro
 7x7gx.pro
 7xfwglj.cc
 8866651.za.com
 8lab-d254.earherbat.workers.dev
+8nteb.cc
+8uvu.pro
 912091730.pages.dev
 9af68e44.4d9aa11f0cc24373ec9d6295.workers.dev
 9afhjs.cc
@@ -1262,6 +1265,7 @@ cadenerranks.cc
 cadillac-usdt.com
 cafaland.com
 caga-eth.web.app
+cagacrypto-en.web.app
 cake-defiweb3.com
 cake-distribution.net
 cake-pie.org
@@ -1387,6 +1391,7 @@ chronoforgedeed.xyz
 chronoforgenft.com
 chugsblue.com
 chuimaswergovst.com
+ciaiming.com
 ciel-tower.ae
 ciel-tower.goldpillars.ae
 cieltower.net
@@ -1449,7 +1454,9 @@ claim-qanplatform.net
 claim-qanplatform.online
 claim-raidy.space
 claim-realio.net
+claim-refund.github.io
 claim-retik-finiaces.web.app
+claim-scottytheai.web.app
 claim-starknet.top
 claim-steth.com
 claim-tinyblander.com
@@ -1610,6 +1617,7 @@ coins.tr1onex.top
 coinsquarelogin.com
 coinswiftresolve.web.app
 cointiger-airdrop.com
+cointransaction.finance
 coinversenetwork.site
 coinzgroup.org
 col.lobs.land
@@ -1760,6 +1768,7 @@ croptyloanhub.com
 crpytoundeads.com
 crtoadznew.com
 crv.fi
+crvfi.pro
 cryptexchange.vip
 crypto-communities.com
 crypto-farm-trust.com
@@ -2062,6 +2071,7 @@ diag-bracco.com
 diamond-magiceden.network
 diamondhands-ethereum.web.app
 digital.free-zetachain.online
+digitaldefi.pro
 digitalsec.mypsx.net
 digitdef.com
 digitoads.cc
@@ -2114,6 +2124,7 @@ dogswapdex.netlify.app
 dogwifbox.vip
 dogwifcoin.live
 dogwifcoin.trading
+dogwifcoins.vip
 dogwifcoln.site
 dojoencryption.com
 dojoswap.org
@@ -2509,7 +2520,6 @@ fixedtsfloats.com
 fixetdfflat.com
 fixetdffloat.com
 fixetdflaot.com
-fixetdflat.com
 fixetdflloat.com
 fixetdflot.com
 fixetflaot.com
@@ -2517,6 +2527,7 @@ fixetflloat.com
 fixold2ndbnk.mypsx.net
 fixsbusiness.mx
 fixsedfloat.com
+fj7gqqj.cc
 fkintemal.net
 fku-inu.pro
 fkuinu.tech
@@ -3321,6 +3332,7 @@ kstmple.pages.dev
 ktogaza.pro
 kuduips.com
 kushflyusa.com
+kuytrk.com
 kwool.ap-south-1.linodeobjects.com
 kwsnl.com
 kyc.ledger-online.net
@@ -3561,6 +3573,7 @@ loadingpayappsession0a9c0a9c0a910a9c0.pages.dev
 lobster-market.com
 localethereum.xn--node
 locopepecoin.com
+locus-finance.web.app
 login--blockgames.com
 login-cisco.tech
 login-frame.xyz
@@ -3693,7 +3706,6 @@ makerdaobsc.online
 makerdoa.com
 makerfoundation.github.io
 makertoken.net
-makesmytrip.online
 mamasuimestmaorgst.com
 mamtaairdropevent.net
 mamtabluerewards.com
@@ -3961,6 +3973,7 @@ mavia.cc
 mavia.land
 mavia.lc
 mavia.pages.dev
+mavia.pm
 mavia.website
 mavia.work
 maviagames.network
@@ -4801,6 +4814,7 @@ openftclicks.vercel.app
 openkeyledger.com
 openmsea.io
 openmysteriesnft.vercel.app
+openmysterybox44.vercel.app
 openmysterynft.vercel.app
 openoffersea.io
 openprojectmystery.vercel.app
@@ -5330,6 +5344,7 @@ polkabridge-network.org
 polkadex.online
 poloniex-assets.com
 polupokespics.rosamonddunlop665.workers.dev
+polyhedra-network.vercel.app
 polyhedrazk.foundation
 poncakeswap.finance
 pond0x.trading
@@ -5371,6 +5386,7 @@ prelanding.pages.dev
 premium.athene.network
 premiumtvstreamers.com
 presale-cogwise.com
+presale-kelexo-en.web.app
 presale-scorpioncasino.pages.dev
 presale-x.com
 presales.blockgamess.com
@@ -6221,6 +6237,7 @@ smaarhtmaiigrathhe.com
 smahtconhtraact.com
 smainchain-1d1.pages.dev
 smart-dapp.onrender.com
+smart-integrate.xyz
 smart-layer-claim.net
 smart-walletconnect.pages.dev
 smart.guardiankava.com
@@ -6252,7 +6269,9 @@ smartwebmultiverse.eu
 smiley-token.network
 smithbrotherrsconstruction.com
 smmsiteusa.com
+smog-token-st.web.app
 smogsolana.com
+smogtoken-io.web.app
 smogtokens.vip
 smogtokens.xyz
 smogxtoken.com
@@ -6531,6 +6550,7 @@ sweatsync.pages.dev
 sweepstakes708.godaddysites.com
 sweet-zuccutto-855aba.netlify.app
 sweetwater.fun
+swellnetwork.exchange
 swfitblocksresolve.pages.dev
 swift-wallet.pages.dev
 swiftappsauth.pages.dev
@@ -7082,6 +7102,7 @@ votemarketstakedao.org
 vpunxrf00.urest.org
 vrbo9k.com
 vskyn.com
+vsogl.pro
 vulcanforged-claim.com
 vult.codefinesse.com
 vvebaply-vvall-io.top
