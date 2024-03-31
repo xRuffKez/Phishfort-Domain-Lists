@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 03:01:53 UTC 2024
-# Number of Entries: 107238
+# Fetch date: Sun Mar 31 04:01:51 UTC 2024
+# Number of Entries: 107243
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1359,6 +1359,7 @@
 53zr.lacasadejehova.com
 54437893478234e3qrycu234878c3-profile-update-unitedairline.pages.dev
 548vevobahis.com
+56376tygegdajun.live
 57b5-91-196-194-136.ngrok.io
 58765df4fpax64.com
 58b48d07-110c-487e-8a77-938cfaa8af18.htmlpasta.com
@@ -38705,6 +38706,7 @@ i4.localbitcoin.review
 i5hv5.mi-ya-ni.net
 i6jkg.cc
 ia-genetec.plantarfasciitisdoctorstlouis.com
+ia4mb.pro
 iaasacs.com
 iairdroped.com
 iamstillherewithyou.web3-airdrop.net
@@ -40991,6 +40993,7 @@ jtontwrk.com
 ju-catdets-space.vercel.app
 jubilantcornsilkwaterfall--daviplatenlinea.repl.co
 juckdunner.gq
+judi10.com
 judtxkffczkl0z2.shared-www.mx2.pancakeswape.finance
 juiceboxmoney.xyz
 juicejest.cfd
@@ -46331,6 +46334,7 @@ mafara.info
 mafia-animals.nft-premint.com
 mafia-animals.web3fast.net
 mafia-bank.xyz
+mag-boxdao.web.app
 magamemeccin.com
 magamemecoin.cash
 magcednsolana.blogspot.com
@@ -61059,6 +61063,7 @@ onboard-prudential.co.uk
 onboardextensionsystem.xyz
 onbotzrectifyerz.xyz
 onc8989.top
+oncbhue.cc
 onchain-ai.online
 onchain-api.onrender.com
 onchain-summer.com
