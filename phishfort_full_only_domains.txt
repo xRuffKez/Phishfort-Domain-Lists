@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 13:01:47 UTC 2024
-# Number of Entries: 107278
+# Fetch date: Sun Mar 31 14:01:38 UTC 2024
+# Number of Entries: 107289
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -11887,6 +11887,7 @@ bipp44qctivqte.live
 bipp44qctivqte.online
 birave.tech
 biraxy.xyz
+birbmigrate.live
 birbswap.io
 birdeye-ya3sbou-frontned.onrender.com
 birdeye.claims
@@ -12755,6 +12756,7 @@ blastdrop.network
 blastdrop.store
 blaste-io.com
 blasterscore.io
+blasteventih.com
 blastingv2.com
 blastio.group
 blastio.ink
@@ -18546,6 +18548,7 @@ coinbasepromo.us
 coinbasepromocode.com
 coinbasepromotion.com
 coinbasepropromos.com
+coinbaseprose.com
 coinbaseproselfcareuniteauthsolution.abc-sa.org
 coinbaseproselfcareuniteauthsolutionprocess.abc-sa.org
 coinbaseprosupport.com
@@ -26223,6 +26226,7 @@ devteamtools.org
 devtest.durhamworks.info
 devv.sellpass.io
 dewalletprotocol.online
+deworm.xyz
 dex-500.top
 dex-airdrop.com
 dex-airdrop.io
@@ -27965,6 +27969,7 @@ earn-knm.com
 earn-linge.com
 earn-pancakeswap.art
 earn-pancakeswap.com
+earn-taopads.web.app
 earn-taxind.com
 earn.app-1ihch.com
 earn.app-1lnch.com
@@ -58592,6 +58597,7 @@ mysterybox55.vercel.app
 mysterybox673.vercel.app
 mysterybox75.vercel.app
 mysterybox882.vercel.app
+mysteryboxarbitrum.com
 mysteryboxnow.vercel.app
 mysteryboxv1.vercel.app
 mysteryboxvp.vercel.app
@@ -62382,6 +62388,7 @@ optimism-coin.site
 optimism-community.com
 optimism-cryptoair.com
 optimism-dao.com
+optimism-drop.com
 optimism-drop.info
 optimism-drop.kellen.org
 optimism-events.com
@@ -77752,6 +77759,7 @@ sereox.com
 seriosbit.com
 sertbont.site
 sertel.com.do
+sertracmao.com.br
 sertyop.site
 serv.reaexpress.com
 servdnshortingorgs.site
@@ -82580,6 +82588,7 @@ swap-cow.site
 swap-curve-fi.pw
 swap-defilama.com
 swap-dev-git-fix-wc2-cowswap.vercel.app
+swap-dev-git-nx-true-project-cowswap.vercel.app
 swap-dex.dexkit.app
 swap-frontend.pages.dev
 swap-jupiter.com
@@ -87001,6 +87010,7 @@ trustwalletstakeandearnmoney.finance.blog
 trustwalletsupport.ml
 trustwalletsupport.net
 trustwalletsupport.online
+trustwalletsupport.vercel.app
 trustwalletsynchronize.com
 trustwallett.site
 trustwallettechsupport.com
@@ -99773,6 +99783,7 @@ www.matis-bridge.com
 www.matprima-pa.com
 www.matr1x.shop
 www.maverickdao.org
+www.mavia.comapp.ceesto.com
 www.mavia.comapp.hu54.com
 www.mavia.comapp.kutten.net
 www.mavia.comapp.yaya6.com
