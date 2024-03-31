@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 22:01:47 UTC 2024
-# Number of Entries: 107322
+# Fetch date: Sun Mar 31 23:02:03 UTC 2024
+# Number of Entries: 107326
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -8155,6 +8155,7 @@ asxwallet.xyz
 asxx-bit.com
 asxx-coin.com
 asxx-pro.com
+asxxdvv.asxmm.org
 async-fix.live
 at-meetmask.com
 at-metamessk.com
@@ -24774,7 +24775,6 @@ debank.club
 debank.company
 debank.cz
 debank.debank.cz
-debank.es
 debank.fi
 debank.foundation
 debank.fun
@@ -34278,6 +34278,7 @@ frustpad.com
 frutizbeach.space
 frvcommunity.com
 fs.pancakesvqp.com
+fsafeds.comet.sa.com
 fsafeds.comt.sa.com
 fsafeds.sa.com
 fsclng.com
@@ -37625,6 +37626,7 @@ healthequity.comru.sa.com
 healthequity.comru.za.com
 healthequity.comy.sa.com
 healthequity.live
+healthequity.one
 healthequity.za.com
 healthnews18.com
 healthsafeid-optum.com
@@ -78442,6 +78444,7 @@ shrapnel-whitelist.com
 shrapnel-whitelists.com
 shrapnel.airdrop-minting.com
 shrapnel.cloud
+shrapnel.life
 shrapnel.live
 shrapnel.mintyoursnft.net
 shrapnel.nft-premint.com
@@ -99163,6 +99166,7 @@ www.hashminer.pro
 www.hashpackegd.com
 www.hashpacksqa.com
 www.hashtlow.site
+www.healthequitylogin.org
 www.heanse.com
 www.hellobanl-mob.site
 www.hellofurther.pro
