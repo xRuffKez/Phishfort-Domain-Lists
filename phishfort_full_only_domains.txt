@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 15:01:39 UTC 2024
-# Number of Entries: 107306
+# Fetch date: Sun Mar 31 16:02:01 UTC 2024
+# Number of Entries: 107321
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3648,6 +3648,7 @@ airdrop.fractol.es
 airdrop.fractol.se
 airdrop.frieend.tech
 airdrop.froctol.eu
+airdrop.fuelnetwork.net
 airdrop.info.gf
 airdrop.layerzeron.network
 airdrop.layerzeronetwork.net
@@ -3690,6 +3691,7 @@ airdrop.pepe-coin.bz
 airdrop.pyths.foundation
 airdrop.reportwisely.shop
 airdrop.rest
+airdrop.riftswap.net
 airdrop.salanart.eu
 airdrop.sleepleessai.net
 airdrop.solanart.es
@@ -7570,6 +7572,7 @@ archieneko.fwnfts.com
 archieneko.xyz
 archipeiago.art
 archipeiago.com
+archive.cowfi.org
 archonline.xyz
 archsway-claim.com
 arcoc.xyz
@@ -12759,6 +12762,7 @@ blastdrop.store
 blaste-io.com
 blasterscore.io
 blasteventih.com
+blasteventio.com
 blastingv2.com
 blastio.group
 blastio.ink
@@ -14117,6 +14121,7 @@ boxcatplanet.live
 boxcatplanet.on-freemint.com
 boxes-manta.network
 boxingboyzz.net
+boxmint-project.web.app
 boxnft.claims-live.xyz
 boxnft.live-web3.net
 boxnft.web3-airdrops.com
@@ -27906,6 +27911,7 @@ e-node.pages.dev
 e-pancakesawp.com
 e-paxful.com
 e-posts-ag-at.com
+e-then-a.fun
 e-trustpad.com
 e-vault.buzz
 e-walletcoin.com
@@ -58595,6 +58601,7 @@ mystery-trust.net
 mystery.3webx.cc
 mysterybox-arbi.claims
 mysterybox-binance.com
+mysterybox-claimm.vercel.app
 mysterybox-live.net
 mysterybox-nft.com
 mysterybox.cf
@@ -58616,6 +58623,7 @@ mysteryboxvp.vercel.app
 mysteryclaim74.vercel.app
 mysteryclaimsnft.vercel.app
 mysteryclicks23.vercel.app
+mysteryclicks81.vercel.app
 mysteryclicksclaim1.vercel.app
 mysteryclicksnft.vercel.app
 mysterydropnft.com
@@ -62984,6 +62992,7 @@ paalbeta-launchpad.app
 paalmind.com
 paalmint.com
 paalpool.xyz
+paaltreasury.org
 paamcacesvvep-api.com
 paamcacesvvep-crypto.com
 paamcacesvvep-franchise.com
@@ -70004,6 +70013,7 @@ plugvalve.net
 plur.nft-premint.com
 plus-ethers.com
 plusmedica-shop.ch
+plusmigrate.com
 pluto-alliance.xyz
 plutoalliance.web-minting.com
 plutonchain-giveaway.com
@@ -74324,6 +74334,7 @@ register.xn--boredapeyachtcub-ywc.com
 register.zollo.io
 registersandbox.xyz
 registerskymavis.com
+registrar-traderjoexyz.com
 registration-aave.net
 registration-aave.org
 registration-apefest.com
@@ -79474,6 +79485,7 @@ snycswap.io
 snycswaps.xyz
 snyscwap.xyz
 so-klar.com
+soaiv2.com
 soam.co
 soap2dayhd.com
 soartartart.com
@@ -80991,6 +81003,7 @@ staking.polygonw.site
 staking.routerprotocols.net
 staking.skypool.org
 staking.stepapp.online
+staking.tryring-ai.app
 staking114388-ethereum.org
 staking214477-ethereum.org
 staking224587-ethereum.org
@@ -105992,6 +106005,8 @@ xrpclaim.org
 xrpclassic2.online
 xrpcold.com
 xrpcompetition.live
+xrpdistributions.firebaseapp.com
+xrpdistributions.web.app
 xrpdouble-promo.net
 xrpdouble-promotion.org
 xrpdoubler.us
