@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 09:01:30 UTC 2024
-# Number of Entries: 107267
+# Fetch date: Sun Mar 31 10:01:54 UTC 2024
+# Number of Entries: 107273
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -27076,6 +27076,7 @@ dogecoin-live.com
 dogecoin-lives.com
 dogecoin.gifts
 dogecoin.love
+dogecoin20-ai.web.app
 dogecoin2x.info
 dogecoinclick.com
 dogecoingiveaway.live
@@ -68770,6 +68771,7 @@ pepe2.xcoindrop.top
 pepe20-airdrop.info
 pepe20-airdrop.org
 pepe20-airdrop.xyz
+pepe20-io.web.app
 pepe20-vip.web.app
 pepe20.cc
 pepe20.me
@@ -72775,6 +72777,7 @@ push-solana.com
 pushd.mainnetpro.com
 puspant.site
 pussyfinancial.live
+putffer.fi
 putty-portal.com
 putumayo.jacgmusic.com.co
 puxfal.com
@@ -75943,6 +75946,8 @@ router.exchange
 router.gift
 router.gifts
 routernodefixing.com
+routerprotocol.finance
+routerprotocol.network
 routerprotocolfixing.com
 roveke.cash
 rovercoin.web.app
@@ -80210,6 +80215,7 @@ somethingisbreving.xyz
 somethingisbrewing.live
 somethingofficial.xyz
 sommelier-finance.com
+sommelier-finance.web.app
 somoscorujasbraz.blogspot.com
 somtu.edu.np
 sonae.sale
