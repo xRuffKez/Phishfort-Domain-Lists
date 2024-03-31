@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 16:02:01 UTC 2024
-# Number of Entries: 107321
+# Fetch date: Sun Mar 31 17:01:34 UTC 2024
+# Number of Entries: 107322
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -28351,6 +28351,7 @@ egrowmax.com
 egrtht.pages.dev
 egtokenmigrate.app
 eguzkilorelogistic.com
+egymonuments.net
 egyptsky.net
 ehade.top
 ehajj.ph
