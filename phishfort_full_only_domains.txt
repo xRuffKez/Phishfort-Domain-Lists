@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 10:01:54 UTC 2024
-# Number of Entries: 107273
+# Fetch date: Sun Mar 31 11:01:34 UTC 2024
+# Number of Entries: 107275
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -62674,6 +62674,7 @@ org-protocol-airdrop.com
 org-site-v3-defi.pro
 org-swap-pool.site
 org-ubeswaps.com
+orgderma.com
 orgnlt.me
 ori-colection.net
 ori-curated.art
@@ -97041,6 +97042,7 @@ www.asx-danman.top
 www.asx-download.com
 www.asx-exs.com
 www.asx-genten.com
+www.asx-global.com
 www.asx-gsncq.top
 www.asx-ice.top
 www.asx-idn.com
