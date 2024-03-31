@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 06:02:31 UTC 2024
-# Number of Entries: 8120
+# Fetch date: Sun Mar 31 08:02:34 UTC 2024
+# Number of Entries: 8121
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2529,6 +2529,7 @@ float-fixed.com
 flojet.com.vn
 floki-claim.net.qqhosting3.com
 floki-claim.vercel.app
+floki-inu.link
 floki-tokens.net
 floki.promo
 floki.x10.bz
