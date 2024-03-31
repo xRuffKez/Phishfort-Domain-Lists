@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 01:26:26 UTC 2024
-# Number of Entries: 107229
+# Fetch date: Sun Mar 31 02:10:16 UTC 2024
+# Number of Entries: 107237
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -16116,6 +16116,7 @@ chainrunners.mint-living.com
 chains-arbitrum.info
 chains-connect.com
 chains-migrate.online
+chains-optimism.com
 chains.authsyncontracts.com
 chains.sparkroot.org
 chainsaw.freemint-drop.com
@@ -35481,6 +35482,7 @@ genesis-box.xyz
 genesis-celestia.pw
 genesis-celestia.xyz
 genesis-celestiaa.online
+genesis-dem.eu
 genesis-dem.xyz
 genesis-dym.com
 genesis-dymension.xyz
@@ -62527,6 +62529,7 @@ orangecomet.vip
 orangecometnft-free.xyz
 orangehare.web3fast.net
 oravblox.com
+orb-wallets.web.app
 orb-worldcoin.org
 orbeonprotocols.com
 orbexpro.com
@@ -74673,6 +74676,7 @@ resyncwebdapp.com
 retechmigr.com
 rethalize.com
 rethlp.com
+retik-finance-en.web.app
 retik-finance.pages.dev
 retik.app
 retikapp.xyz
@@ -78262,6 +78266,7 @@ shidc.io
 shido-34p.pages.dev
 shido.rewardprogram.tech
 shido.tco-c.xyz
+shido.token-sale.live
 shidoapp.work
 shielded-chain.com
 shienbr.com
@@ -80915,6 +80920,7 @@ staking.chainbase.co
 staking.chajn.link
 staking.greenchartbsc.com
 staking.illuvium.run
+staking.k9finance.co
 staking.mafic.technology
 staking.meritcircle.finance
 staking.myetherhub.com
@@ -82617,6 +82623,7 @@ swapcorrection.com
 swapcowfi.online
 swapcurve.fun
 swapdaffix.store
+swapdao.app
 swapdaoconnect.com
 swapdex.tokens-aword.com
 swapdly.javaswap.io
@@ -86143,6 +86150,7 @@ treasury-chain.link
 treasury-chainlink.com
 treasury-radiant.com
 treasury-seedify.tech
+treasury.keipdao.net
 treasury.roninschains.com
 treats-from-elon.blogspot.com
 treckopenseefast.com
