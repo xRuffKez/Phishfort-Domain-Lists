@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 04:02:29 UTC 2024
-# Number of Entries: 8122
+# Fetch date: Sun Mar 31 05:02:42 UTC 2024
+# Number of Entries: 8120
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -762,6 +762,7 @@ arc-ai.net
 arc8.games
 arcanedexairdrop.netlify.app
 archetives.com
+ardrp.xyz
 arenal-outlet.shop
 arenal-outlet.vip
 arenal-sale.shop
@@ -1609,7 +1610,6 @@ coins.tr1onex.top
 coinsquarelogin.com
 coinswiftresolve.web.app
 cointiger-airdrop.com
-cointiply-claim.com
 coinversenetwork.site
 coinzgroup.org
 col.lobs.land
@@ -1848,10 +1848,8 @@ dapppaxos.co
 dapprad.net
 dappradaar.net
 dappradar-ads-x.com
-dappradar-claim.com
 dappradar-token.com
 dappradar.ac
-dappradar.co.com
 dappradar.co.in
 dappradar.cx
 dappradar.ec
