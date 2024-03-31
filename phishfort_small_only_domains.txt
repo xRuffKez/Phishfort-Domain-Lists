@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 16:02:11 UTC 2024
+# Fetch date: Sun Mar 31 17:02:07 UTC 2024
 # Number of Entries: 8195
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2281,6 +2281,7 @@ efwefwef-6io.pages.dev
 egrowmax.com
 egrtht.pages.dev
 egtokenmigrate.app
+egymonuments.net
 ehajj.ph
 eigen-layer.live
 eigenilayer.com
@@ -6857,7 +6858,6 @@ transactionfair.site
 transfer24p2p.ru
 travalaai.live
 travel.quickflightbooking.online
-travelfly-united.com
 travelistik.de
 travisflahertyscam.com
 treasure.events
