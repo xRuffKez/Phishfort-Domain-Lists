@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 03:02:30 UTC 2024
-# Number of Entries: 8117
+# Fetch date: Sun Mar 31 04:02:29 UTC 2024
+# Number of Entries: 8122
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -98,6 +98,7 @@
 4tyqoaktqb.numirmilap.tech
 4vcf.pro
 4xqry.cc
+56376tygegdajun.live
 5ninja-cup.com
 5raydium.sbs
 5thavenue-fashion.be
@@ -2958,6 +2959,7 @@ hyperspace-pythrewards.org
 hypnoticbrass.net
 i6jkg.cc
 ia-genetec.plantarfasciitisdoctorstlouis.com
+ia4mb.pro
 iavhru.cc
 iayerzero-claim.net
 ibkrindia.com
@@ -3182,6 +3184,7 @@ jsmarketnow.com
 jsoq9.cn
 jtl11.com
 jtontwrk.com
+judi10.com
 juiceboxmoney.xyz
 julswap.co
 jumper-exchange.live
@@ -3617,6 +3620,7 @@ m.v3derivatives.site
 mad-lads.com
 madnessoholy.com
 maekrdao.com
+mag-boxdao.web.app
 magamemeccin.com
 magamemecoin.cash
 maggpiexyz.cyou
@@ -4764,6 +4768,7 @@ on-407etr.com
 on-chainfix.com
 on1force.web.app
 onbean.network
+oncbhue.cc
 onchain-api.onrender.com
 onchainmonkeys.shop
 onchainmonkeys.tech
