@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 14:01:38 UTC 2024
-# Number of Entries: 107289
+# Fetch date: Sun Mar 31 15:01:39 UTC 2024
+# Number of Entries: 107306
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -202,6 +202,7 @@
 163buffmarket.com
 16jdzbfjger.ru
 17.mining66655.com
+176823-coinbase.com
 1776coin.org
 178ok.in
 17snc431.szyujiada.com
@@ -1303,6 +1304,7 @@
 5000-coinbase.com
 5000-eth.paperplane.io
 5000.ethereumgive.com
+50000usdt.cc
 5000btc.gift
 5000btc.net
 5000btc.org
@@ -14106,6 +14108,7 @@ bovexchange.com
 bovr8d.cc
 bowdao.net
 box-manta.network
+box-nftburn.web.app
 box-nftlive.com
 box-nftmint.web.app
 box-rewards.com
@@ -15891,6 +15894,8 @@ cgocablecacogeco01.usluga.me
 cgssm.com
 ch-coinbase.com
 chacinlink.click
+chaemlist.org
+chaenlict.org
 chaetaevi.org
 chahlist.org
 chahnlist.us
@@ -16188,6 +16193,7 @@ chainwalletconnectdapp.com
 chainwalt.live
 chainzerioncliam.pages.dev
 chajnljst-app.christianlanguagesolutions.com
+chalenlest.org
 challnlist.xyz
 chalm.link
 chalmllst.store
@@ -16300,6 +16306,7 @@ chat-ronin.com
 chat.pancakeswasap.one
 chatgpt-airdrop.com
 chattheres234.com
+chauinilst.org
 cheapairoffers.com
 cheapflightsfast.com
 cheat-space.com
@@ -17234,6 +17241,7 @@ claim.nf-prompt.xyz
 claim.nftrealm.io
 claim.offer-orca.co
 claim.oldsportnft.com
+claim.ondotreasury.org
 claim.opensearaffles.com
 claim.optinisn.io
 claim.orbeonprotocol.site
@@ -24564,6 +24572,7 @@ datanetpaths.org
 datanodeschain.org
 datanodeschains.org
 dataonmatrix.com
+dataownership-verification.vercel.app
 datarectification.vercel.app
 datarobot.tech
 datasyncsactivate.site
@@ -30019,6 +30028,7 @@ ethef.com
 ethegrscan.us
 etheirdelta.com
 ethelon2x.com
+ethena-airdrop.vercel.app
 ethena-ddg.pages.dev
 ethena-dwm.pages.dev
 ethena-mining.pages.dev
@@ -32943,6 +32953,7 @@ finanrce.net
 finanrce.org
 finassetstrades.com
 fincapitalbank.com
+finceptorportals.click
 finceptur.com
 find-earndrop.io
 finddappssolutions.live
@@ -58582,6 +58593,7 @@ mystery-illuvium.io
 mystery-polygon.claims
 mystery-trust.net
 mystery.3webx.cc
+mysterybox-arbi.claims
 mysterybox-binance.com
 mysterybox-live.net
 mysterybox-nft.com
@@ -58603,6 +58615,7 @@ mysteryboxv1.vercel.app
 mysteryboxvp.vercel.app
 mysteryclaim74.vercel.app
 mysteryclaimsnft.vercel.app
+mysteryclicks23.vercel.app
 mysteryclicksclaim1.vercel.app
 mysteryclicksnft.vercel.app
 mysterydropnft.com
@@ -71372,6 +71385,7 @@ pool-chain.link
 pool-friend.tech
 pool-in-7582.onrender.com
 pool-neo.blogspot.com
+pool-nftbox.web.app
 pool-pancakeswap.com
 pool-stakeape.online
 pool.balancer.dev
@@ -74300,6 +74314,7 @@ register-xen.com
 register-xen.org
 register-yuliverse.app
 register-zksync.net
+register.availproject.trading
 register.befislabs.events
 register.ftxglobalex.com
 register.ftxproexchange.com
@@ -93715,6 +93730,7 @@ wallettokenconnect.online
 wallettokenvalidator.gq
 walletton.org
 wallettrust.ml
+wallettrust.net
 wallettslinker.com
 wallettssconnect.com
 walletttconnnect.xyz
@@ -96986,6 +97002,7 @@ www.appsgalagamesworld-play-ac.com
 www.appsgalagamesworldlazo.com
 www.appsgalla-gc.games
 www.appslgalam.games
+www.appsofamon.xyz
 www.appstaking.com
 www.appstride.zone
 www.appsui.site
