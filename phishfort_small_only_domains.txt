@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 14:02:19 UTC 2024
-# Number of Entries: 8165
+# Fetch date: Sun Mar 31 15:02:20 UTC 2024
+# Number of Entries: 8182
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -25,6 +25,7 @@
 1.globalpaymentsytww.com
 123-bti.pages.dev
 162814-coinbase.com
+176823-coinbase.com
 189f40034be7a.fnnpron.nl
 18f5384d.chriswsteele.com
 191glkil7mb.irwd2wa.su
@@ -98,6 +99,7 @@
 4tyqoaktqb.numirmilap.tech
 4vcf.pro
 4xqry.cc
+50000usdt.cc
 56376tygegdajun.live
 5ninja-cup.com
 5raydium.sbs
@@ -1194,6 +1196,7 @@ bouy-plateforme-digitale.online
 bouyguesgroups.com
 bouyguesiptv.fr
 bovr8d.cc
+box-nftburn.web.app
 box-nftlive.com
 box-nftmint.web.app
 bozo.trading
@@ -1348,6 +1351,8 @@ centerjobless.online
 centralpoultryprocessingscoltd.com
 centralseedandchem.co.nz
 ceoltis.com
+chaemlist.org
+chaenlict.org
 chahlist.org
 chaibenefitmassimui.com
 chain-linklabs.live
@@ -1372,10 +1377,12 @@ chainsprotocol.com
 chainswap-airdrop-claim.pages.dev
 chainsyncapp.pages.dev
 chainzerioncliam.pages.dev
+chalenlest.org
 chamasloustorgst.com
 chamath-x2.live
 champion-tactic.com
 changelly.plus
+chauinilst.org
 cheat-space.com
 check-defi.com
 check.wenser.e2p.xyz
@@ -1490,6 +1497,7 @@ claim.memskombat.site
 claim.metacadeco.live
 claim.nf-prompt.xyz
 claim.nftrealm.io
+claim.ondotreasury.org
 claim.paalai.mobi
 claim.padgy.xyz
 claim.pancakeswap.cfd
@@ -1923,6 +1931,7 @@ dashboardpixels.xyz
 dashbprd-charli3.live
 dashliquid.com
 data-trustwallet.com
+dataownership-verification.vercel.app
 davi.pse-ssl.win
 daviplatanotific.webcindario.com
 daviplataportal.webcindario.com
@@ -2063,7 +2072,6 @@ dexprotocolchain.io
 dexscieener.com
 dexsuperdoge.pages.dev
 dexsynage.web.app
-dextoolhub.com
 dextools.bz
 dextools.events
 dextpool.xyz
@@ -2358,6 +2366,7 @@ eth-gasfee.com
 eth-yieldfarming.org
 eth2.foundation
 ethdrop.xyz
+ethena-airdrop.vercel.app
 ethena-ddg.pages.dev
 ethena-dwm.pages.dev
 ethena-mining.pages.dev
@@ -2506,6 +2515,7 @@ fidelityadvancedsaving.com
 figure-distribution.com
 fillold.mypsx.net
 finance-decrypt.com
+finceptorportals.click
 finceptur.com
 fireblocks-sso.com
 fireblocks.nodeorigins.com
@@ -4507,6 +4517,7 @@ mystery-illuvium.io
 mystery-polygon.claims
 mystery-trust.net
 mystery.3webx.cc
+mysterybox-arbi.claims
 mysterybox11.vercel.app
 mysterybox2636.vercel.app
 mysterybox28.vercel.app
@@ -4524,6 +4535,7 @@ mysteryboxv1.vercel.app
 mysteryboxvp.vercel.app
 mysteryclaim74.vercel.app
 mysteryclaimsnft.vercel.app
+mysteryclicks23.vercel.app
 mysteryclicksclaim1.vercel.app
 mysteryclicksnft.vercel.app
 mysterynfts.vercel.app
@@ -5364,6 +5376,7 @@ pond0x.trading
 pond0xtreasury.com
 ponke-claim.netlify.app
 ponke.online
+pool-nftbox.web.app
 poolstarter.net
 pop3.www.api.swell-network.io
 popsync.pages.dev
@@ -5740,6 +5753,7 @@ register-traderjoexyz.com
 register-wenwencoin.com
 register-yuliverse.app
 register-zksync.net
+register.availproject.trading
 register.befislabs.events
 register.pengonsol.xyz
 register.solcard.events
@@ -6422,6 +6436,7 @@ staking-xai.network
 staking.app-bitrock.com
 staking.k9finance.co
 staking.routerprotocols.net
+staking.tryring-ai.app
 starcheckapp.com
 stardefyloomfil.pages.dev
 stardexairdrop.com
@@ -7178,6 +7193,7 @@ walletrevoke.cash
 wallets-collabland.com
 walletscontest.pro
 walletton.org
+wallettrust.net
 walletupgrade.com
 walletverify-collab.land
 walletwars-io.events
@@ -7505,6 +7521,7 @@ www.app-wasabi.xyz
 www.app.defi-connect.xyz
 www.app.trust-reward.live
 www.appscallop.io
+www.appsofamon.xyz
 www.appstride.zone
 www.apygate.rpctool.com
 www.archivesecureprotection.com
