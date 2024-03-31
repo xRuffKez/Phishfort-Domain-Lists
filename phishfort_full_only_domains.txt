@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 08:01:58 UTC 2024
-# Number of Entries: 107244
+# Fetch date: Sun Mar 31 09:01:30 UTC 2024
+# Number of Entries: 107267
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1489,6 +1489,7 @@
 7c05da5c874d.ngrok.io
 7coinmarketcap.site
 7evenconnect.com
+7ggtru.cc
 7gjolxvymc.resistery.tech
 7hdaj8tokvg7i5h.www.septlaravel.pancakeswape.finance
 7hg98g7h8yuh.pages.dev
@@ -1529,9 +1530,11 @@
 8liens.nftsale-now.com
 8liens.start-premint.com
 8mctt6.zyqn.net
+8nteb.cc
 8od.xyz
 8pancakeswap-finance.site
 8pesofficial.this-premint.com
+8uvu.pro
 8vvvvuniswap.top
 8vvvvvwmetamas.top
 8vvvwwmetam.top
@@ -15218,6 +15221,7 @@ cafcaft.site
 cafdigitdatawork.com
 cafeinasloign.blogspot.com
 caga-eth.web.app
+cagacrypto-en.web.app
 caingecko.online
 caingecko.org
 caiwdgn.org
@@ -16544,6 +16548,7 @@ ci-coinbase.com
 ciaim-metapiex.com
 ciaim-metapiex.net
 ciaim-opensea.com
+ciaiming.com
 ciaimopensea.com
 cidappsweb.com
 cidappwa.org
@@ -17011,6 +17016,7 @@ claim-raft.xyz
 claim-raidy.space
 claim-realio.net
 claim-reflectionreward.one
+claim-refund.github.io
 claim-renga.com
 claim-renga.racing
 claim-renga.xyz
@@ -17026,6 +17032,7 @@ claim-rlb.com
 claim-rocketpool.info
 claim-rocketpool.org
 claim-rubydex.com
+claim-scottytheai.web.app
 claim-scroll.org
 claim-seedify.com
 claim-seedify.fund
@@ -19410,6 +19417,7 @@ cointradingsolution.co
 cointradingsolution.net
 cointraker.net
 cointral.netlify.app
+cointransaction.finance
 cointrecker.com
 coinugecko.link
 coinuimarketcap.us
@@ -21388,6 +21396,7 @@ cruvvs-home.gr8.com
 crv-bakery.org
 crv-curve.fi
 crv.fi
+crvfi.pro
 crvusd-distribution.fi
 cryair.xyz
 cryotoplanesv3.com
@@ -26639,6 +26648,7 @@ digitalcryptosolution.com
 digitalcrytfix.com
 digitaldapp.pages.dev
 digitaldappsyncs.online
+digitaldefi.pro
 digitaldevelopersfund.vacau.com
 digitaldexsync.xyz
 digitalencrypt.online
@@ -27098,6 +27108,7 @@ dogswapdex.netlify.app
 dogwifbox.vip
 dogwifcoin.live
 dogwifcoin.trading
+dogwifcoins.vip
 dogwifcoln.site
 dogx.dog
 doiusesushiswaporpancakeswillhelpwithcrypto.com
@@ -33488,6 +33499,7 @@ fixxedfloat.info
 fixxmanuallprotocol.com
 fixxmanualprotocol.com
 fixxmanuuallprotocol.com
+fj7gqqj.cc
 fjxedfioat.com
 fjxedfloat.net
 fjxedfloat.org
@@ -42246,6 +42258,7 @@ kuwait0.pg-cbk-instapay-pay-b7b4f709740s6a7nsjo.com
 kuwait0.pig-cbk.com
 kuwait11s.pig-cbk.com
 kuwcoinlzogin.godaddysites.com
+kuytrk.com
 kuzcanavari.site
 kvk.verificatie-nl-29.ru
 kwagh.click
@@ -45184,6 +45197,7 @@ locslbitcoins.icu
 locslbitcoins.info
 loculbitcoins.com
 locurdx.ga
+locus-finance.web.app
 locvalbitcoins.com
 locwalbitcoins.com
 locwlbitcoins.com
@@ -48100,6 +48114,7 @@ mavia.cc
 mavia.land
 mavia.lc
 mavia.pages.dev
+mavia.pm
 mavia.web3-airdrop.net
 mavia.website
 mavia.work
@@ -61517,6 +61532,7 @@ openminting.org
 openmsea.io
 openmynewtradeoffer.xyz
 openmysteriesnft.vercel.app
+openmysterybox44.vercel.app
 openmysterynft.vercel.app
 openn-cea.online
 openn-cea.space
@@ -70930,6 +70946,7 @@ polygonxtech.com
 polygyontechology.com
 polygyonwallet.com
 polyhedra-network-connect.com
+polyhedra-network.vercel.app
 polyhedrazk.foundation
 polyigonwl.site
 polyigonwl.space
@@ -71846,6 +71863,7 @@ presale-dash2trade.com
 presale-echoterra.com
 presale-eckotera.live
 presale-ecoterra.online
+presale-kelexo-en.web.app
 presale-memecoins.com
 presale-metapharaohs.com
 presale-metatriads.org
@@ -78934,6 +78952,7 @@ smart-handshake.com
 smart-indexhub.com
 smart-indexlive.live
 smart-indexprotocol.com
+smart-integrate.xyz
 smart-layer-claim.net
 smart-minings.com
 smart-protocolfix.live
@@ -79344,7 +79363,9 @@ smjresolution.com
 smkn1kadipaten.sch.id
 smllny.com
 smmsiteusa.com
+smog-token-st.web.app
 smogsolana.com
+smogtoken-io.web.app
 smogtokens.vip
 smogtokens.xyz
 smogxtoken.com
@@ -82718,6 +82739,7 @@ sweetppie.info
 sweetwater.fun
 sweetwatermusic.shop
 sweetyswap.online
+swellnetwork.exchange
 swensonwallet-protocol.boobiesandbabies.com
 swepsepoocoin.blogspot.com
 swerve-finance.com
@@ -90662,6 +90684,7 @@ vserstar.online
 vsins-blltccubb-net.1gb.ru
 vskyn.com
 vsmetamasklogin.yahoosites.com
+vsogl.pro
 vstex.top
 vtscon.online
 vtslinks.one
