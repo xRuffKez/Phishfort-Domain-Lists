@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 02:10:16 UTC 2024
-# Number of Entries: 107237
+# Fetch date: Sun Mar 31 03:01:53 UTC 2024
+# Number of Entries: 107238
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -75198,6 +75198,7 @@ rftkt-nft.com
 rftktofficial.com
 rftktxnike.com
 rfw4sdsklb.woorobaher.tech
+rg3q9el.cc
 rgrdgddf.pages.dev
 rgu.s3o98.com
 rhhrpka.pro
