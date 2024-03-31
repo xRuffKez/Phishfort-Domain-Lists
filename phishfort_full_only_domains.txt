@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 07:01:55 UTC 2024
-# Number of Entries: 107243
+# Fetch date: Sun Mar 31 08:01:58 UTC 2024
+# Number of Entries: 107244
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -33572,6 +33572,7 @@ floki-claim.vercel.app
 floki-community.com
 floki-drop.world
 floki-eth.com
+floki-inu.link
 floki-join.com
 floki-token.app
 floki-tokens.net
