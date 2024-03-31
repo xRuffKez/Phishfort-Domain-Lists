@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 15:02:20 UTC 2024
-# Number of Entries: 8182
+# Fetch date: Sun Mar 31 16:02:11 UTC 2024
+# Number of Entries: 8195
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -321,6 +321,7 @@ airdrop.blast.wb3ox.xyz
 airdrop.debank-token.com
 airdrop.drift.exchange
 airdrop.everyworld.one
+airdrop.fuelnetwork.net
 airdrop.manto.network
 airdrop.mfi.expert
 airdrop.modenetwork.xyz
@@ -328,6 +329,7 @@ airdrop.nibiru-web3.com
 airdrop.orbiterfinancial.com
 airdrop.reportwisely.shop
 airdrop.rest
+airdrop.riftswap.net
 airdrop.sleepleessai.net
 airdrop.starheros.community
 airdrop.starkparticipate.com
@@ -768,6 +770,7 @@ arc-ai.net
 arc8.games
 arcanedexairdrop.netlify.app
 archetives.com
+archive.cowfi.org
 ardrp.xyz
 arenal-outlet.shop
 arenal-outlet.vip
@@ -1101,6 +1104,7 @@ blastcoi.com
 blastdrop.store
 blasterscore.io
 blasteventih.com
+blasteventio.com
 blastingv2.com
 blastl2.dev
 blastof.eu
@@ -1199,6 +1203,7 @@ bovr8d.cc
 box-nftburn.web.app
 box-nftlive.com
 box-nftmint.web.app
+boxmint-project.web.app
 bozo.trading
 bpxtoken.network
 brailex.com
@@ -2214,6 +2219,7 @@ dyvmemsion.xyz
 e-ledgerlive.com
 e-linea.com
 e-node.pages.dev
+e-then-a.fun
 e09c801d297f807b.net
 e4d600ab9141b7a9859511c77e63b9b3.com
 e4mu.pro
@@ -4518,6 +4524,7 @@ mystery-polygon.claims
 mystery-trust.net
 mystery.3webx.cc
 mysterybox-arbi.claims
+mysterybox-claimm.vercel.app
 mysterybox11.vercel.app
 mysterybox2636.vercel.app
 mysterybox28.vercel.app
@@ -4536,6 +4543,7 @@ mysteryboxvp.vercel.app
 mysteryclaim74.vercel.app
 mysteryclaimsnft.vercel.app
 mysteryclicks23.vercel.app
+mysteryclicks81.vercel.app
 mysteryclicksclaim1.vercel.app
 mysteryclicksnft.vercel.app
 mysterynfts.vercel.app
@@ -4946,6 +4954,7 @@ paalbeta-launchpad.app
 paalmind.com
 paalmint.com
 paalpool.xyz
+paaltreasury.org
 pac-sol.com
 pacific-bridge-manta-network.cyou
 pacific-bridge-manta.cyou
@@ -5351,6 +5360,7 @@ playpixles.com
 playzkasino.net
 plgeubet.com
 plnksale.financial
+plusmigrate.com
 plxels.xyz
 pmjvggq.icu
 pmthakkarassociates.com
@@ -5757,6 +5767,7 @@ register.availproject.trading
 register.befislabs.events
 register.pengonsol.xyz
 register.solcard.events
+registrar-traderjoexyz.com
 registration-ator.com
 registration-ator.io
 registration-basedbrett.com
@@ -6326,6 +6337,7 @@ snapshots-wormhole.xyz
 snexkr.com
 snowsniper.com
 snug-zetachain.com
+soaiv2.com
 socalgaslogin.cz
 soflarewebextension.com
 softnote.xyz
@@ -6958,7 +6970,6 @@ uniswapv4-liquidity.web.app
 uniswapv4-pool-choosing.web.app
 uniswapv4-pool-select.web.app
 uniswapv4-pool-waitlist.web.app
-unitedairlinedeliveryagency.com
 unitedhealthvip.com
 unitycryptotrading.com
 unknownbasenfts2.me
@@ -8030,6 +8041,8 @@ xpubweb-rectify.pages.dev
 xr7j5v.pro
 xrp-drop.web.app
 xrp.excopad.top
+xrpdistributions.firebaseapp.com
+xrpdistributions.web.app
 xrpepeofficial.com
 xrplairdrop.sistema.edu.pe
 xrplimited-bonus.net
