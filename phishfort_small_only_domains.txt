@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 12:02:45 UTC 2024
-# Number of Entries: 8150
+# Fetch date: Sun Mar 31 13:02:25 UTC 2024
+# Number of Entries: 8154
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -271,6 +271,7 @@ airdrop-gomble.digital
 airdrop-info.lol
 airdrop-injective.icu
 airdrop-injective.top
+airdrop-ionet.vercel.app
 airdrop-jup.one
 airdrop-jup.vip
 airdrop-magic.icu
@@ -3686,6 +3687,7 @@ mainnet-dymension.com
 mainnet-lineabuild.pages.dev
 mainnet-nodes.xyz
 mainnet-pryzm.com
+mainnetapp.net
 mainnetdapps.site
 mainnetecosystem.net
 mainnetportal.org
@@ -5347,6 +5349,7 @@ polkabridge-network.org
 polkadex.online
 poloniex-assets.com
 polupokespics.rosamonddunlop665.workers.dev
+polyhedra-network.pro
 polyhedra-network.vercel.app
 polyhedrazk.foundation
 poncakeswap.finance
@@ -5422,6 +5425,7 @@ prophetsbot.app
 protect-solana.xyz
 protect-wallet.io
 protectsolana.shop
+protocol-apex.com
 protocol-carv.nl
 protocol-mainnet-sync.web.app
 protocol-node.pages.dev
