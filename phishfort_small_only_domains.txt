@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Mar 31 09:02:08 UTC 2024
-# Number of Entries: 8142
+# Fetch date: Sun Mar 31 10:02:34 UTC 2024
+# Number of Entries: 8148
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2119,6 +2119,7 @@ docu.ax9j.com
 document-microsoft-onedrive-file.github.io
 documentation-lybra.finance
 dodoeex.cc
+dogecoin20-ai.web.app
 dogpad-financee.netlify.app
 dogswapdex.netlify.app
 dogwifbox.vip
@@ -5228,6 +5229,7 @@ pepe-team.com
 pepe-v2.link
 pepe2.click
 pepe2.xcoindrop.top
+pepe20-io.web.app
 pepe20-vip.web.app
 pepe20token.com
 pepe2coin.io
@@ -5462,6 +5464,7 @@ punkbits.org
 punkbits.xyz
 pushd.mainnetpro.com
 pussyfinancial.live
+putffer.fi
 pvth-network.com
 pwe-limited.com
 pwsign.com
@@ -5949,6 +5952,8 @@ rosefashion.com.bd
 round2-wenwencoin.com
 route.claims
 router.gifts
+routerprotocol.finance
+routerprotocol.network
 rpc-debugextensiondapps.pages.dev
 rpc-flodapps.online
 rpc-metafix.pages.dev
@@ -6316,6 +6321,7 @@ solsea.dev
 soltrading-bots.web.app
 solutiondesk.live
 solwl-saga.web.app
+sommelier-finance.web.app
 sonikchain.pages.dev
 sophon-registrations.com
 soundbridge.click
