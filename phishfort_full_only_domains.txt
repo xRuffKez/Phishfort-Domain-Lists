@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 08:02:53 UTC 2024
-# Number of Entries: 107392
+# Fetch date: Mon Apr  1 09:01:59 UTC 2024
+# Number of Entries: 107395
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -8094,6 +8094,7 @@ astbeys.site
 asthasamabaya.com
 astlar.network
 astracoldwallet.com
+astrafive.website
 astrashop.cards
 astrategic-life.com
 astroakashvani.com
@@ -39900,6 +39901,7 @@ insigniaswap.finance
 inslde.com
 inslogprotocol.com
 inspace-token.network
+inspect-crypto.firebaseapp.com
 inspect-crypto.web.app
 inspireaj.com
 instadapp.app
@@ -75212,6 +75214,7 @@ reward.shib-memu.com
 reward3.club
 reward3.xyz
 rewardapps.xyz
+rewardbase.click
 rewardbat.org
 rewardclaimable.glitch.me
 rewardclaims.site
