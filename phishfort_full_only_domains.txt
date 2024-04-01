@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 18:01:45 UTC 2024
-# Number of Entries: 107420
+# Fetch date: Mon Apr  1 19:01:54 UTC 2024
+# Number of Entries: 107424
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -448,6 +448,7 @@
 1inch.airlmint.com
 1inch.art
 1inch.bitpie.com
+1inch.blog
 1inch.boltboxhosting.com
 1inch.boo
 1inch.box
@@ -22450,6 +22451,7 @@ cwboffshoreonline.com
 cwbwireservice.net
 cwc.bizchn.net
 cwconnecting.online
+cwestba.com
 cwesternb.com
 cwnodeconnecting.online
 cwrestorevercelapp.com
@@ -29330,8 +29332,10 @@ ephbs.top
 epher.top
 ephiu.top
 ephjx.top
+ephma.top
 ephna.top
 ephvl.top
+ephvv.top
 epic-ae.online
 epikprotocol-migration.site
 epikstaking.com
@@ -103056,7 +103060,6 @@ www.user-pudgypen.xyz
 www.usersfreemints.click
 www.ustaylorsshop.com
 www.uvfkprp.top
-www.uwallet.com
 www.uwallets.live
 www.v-paxful.com
 www.v2-manta.network
@@ -106002,6 +106005,7 @@ xn--zksnc-sva.net
 xn--zksyc-c8a.com
 xn--zksyc-o8a.com
 xn--zksyn-2ra.com
+xn--zksyn-kxa.com
 xn--zkync-kdb.com
 xn--zsync-o5a.com
 xn--zuki-zna.com
