@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 00:08:22 UTC 2024
-# Number of Entries: 8198
+# Fetch date: Mon Apr  1 01:27:17 UTC 2024
+# Number of Entries: 8222
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -92,6 +92,7 @@
 407web-etr.com
 40f9cbde.634e4ed6dabf4fea38da4da1.workers.dev
 444444-ai9.pages.dev
+48444453456.cloud
 4g5g544g54g5.pages.dev
 4ooh.top
 4raydium.sbs
@@ -508,6 +509,7 @@ apecoin-llc.com
 apecoin-pass.com
 apecoin-web3.com
 apenft-poloniex.com
+aperiron.rxp.app
 apes-coinz-claim.com
 apesglves.com
 apesterminal.com
@@ -864,6 +866,7 @@ awesomestrawberry.za.com
 awrm.xyz
 axie.valimrocha.workers.dev
 axiee-infinity.github.io
+axieinfinite.vip
 axieinfinite.xyz
 axieinfinitiy.com
 axieinfinity-birthday.com
@@ -1139,6 +1142,7 @@ blockunification.asders.icu
 blog.868631.xyz
 blog.firstflytravel.com
 blog.trustsamco.store
+bloomorganicspa.za.com
 blsat.io
 blst-reg.app
 bltkub-kyc.web.app
@@ -1161,6 +1165,7 @@ bnbminner.com
 bncoparticlar-apps.systeme.io
 boardversepromptfil.pages.dev
 boba.x2drop.top
+bobindefi.xyz
 bobotokenhub.top
 bol.mxmfk.club
 boltbot.eu
@@ -2521,6 +2526,7 @@ fidelityadvancedsaving.com
 figure-distribution.com
 fillold.mypsx.net
 finance-decrypt.com
+finance.pancakswaps.com
 finceptorportals.click
 finceptur.com
 fireblocks-sso.com
@@ -3157,6 +3163,7 @@ jggbbestforyou.com
 jggo.mypi.co
 jiashengint.cn
 jiashengtrader.com
+jils1.pro
 jito-bonus.com
 jito-drop.com
 jitocoins-network.com
@@ -3530,6 +3537,7 @@ linea2024.com
 lineablobs.com
 lineabridge.build
 lineabuiid.com
+lineabuild-consensys.world
 lineadapp.com
 lineadapps.xyz
 lineadrop.pages.dev
@@ -3721,11 +3729,14 @@ maiva-hero.top
 makepayment-407etr.com
 maker-dao.life
 maker-dao.net
+maker-dao.network
 maker-fnd.net
 maker-spark.claims
 makeradao.com
 makerdaicoin.com
 makerdao-airdrop.pages.dev
+makerdao.digital
+makerdao.vip
 makerdaobep.online
 makerdaobnb.online
 makerdaobsc.online
@@ -4008,6 +4019,7 @@ maviia.build
 maviia.org
 maviiaa.com
 maylucenaa.com
+mcfrzev.cc
 mdexcloudapp.xyz
 mducksspace.com
 mduresources.mamawannago.com
@@ -4171,6 +4183,7 @@ metamaskclaimtoken.com
 metamaskcoin.io
 metamaskcrypto.com
 metamaske.com.cn
+metamaskio.xyz
 metamaskit.com
 metamasklabs.cloud
 metamaskmal.ru
@@ -5010,6 +5023,7 @@ pancake.saaedal.com
 pancake.svap.org.in
 pancake.svap.us.com
 pancake.swap.primaprofits.com
+pancake.vinaweb.app
 pancake888.com
 pancakedrop.com
 pancakeeswap.com
@@ -5183,6 +5197,7 @@ paxfulbw.com
 paxfulcoins-diputes.com
 paxfulemoderator.com
 paxfulfe.com
+paxfulft.com
 paxfulintervenor.com
 paxfulmoderater.com
 paxfulonline.com
@@ -5309,6 +5324,7 @@ phantimp.xyz
 phantjum.xyz
 phantom-protocol.com
 phantom-webservice.online
+phantomapp.support
 phantomm-ewallett.godaddysites.com
 phantomtoken.app
 phantomwaalet.godaddysites.com
@@ -5368,6 +5384,9 @@ pmjvggq.icu
 pmthakkarassociates.com
 pncakeswap.com
 pntom-wallet.github.io
+pocakedefi.cfd
+pocakedefi.top
+pocakedefi.xyz
 pogbl.top
 poiygon.com
 poiyhedra.net
@@ -5871,11 +5890,13 @@ revokeca.xyz
 revokecash-portal.pages.dev
 revokecash-web3.org
 revokecash.cash
+revokecash.ru
 revokecash.store
 revokecash.us
 revokecashh.pages.dev
 revokecashn.com
 revokecashv2.com
+revokecashv2.ru
 revokecashv2.xyz
 revokecontract.xyz
 revokee.cash
@@ -5884,7 +5905,6 @@ revokefunds.com
 revokemoney.com
 revokenode.com
 revokes-cash.xyz
-revoketoken.org
 revoketokens.app
 revokeu.cash
 revokewallets.cash
@@ -6155,6 +6175,7 @@ seicoingeckolearnandearn.pages.dev
 seifmoon.pro
 seiyans-nft.com
 selfsync-dapp.com
+selviyardim.online
 senapsy-protocoll.org
 senecanillwork.com
 sentry.xalgames.xyz
@@ -6878,6 +6899,7 @@ trezorsuite-web3.com
 trimaax.us
 trindadeadvocacia.com
 trinet.za.com
+trinity-healthusa.org
 trippletradingteam.com
 tron-claim.top
 tron.sync-rectifier.com
@@ -7591,6 +7613,7 @@ www.cizw4jh.tribunaledinola.net
 www.claim-mai.xyz
 www.claim-seda.site
 www.claim-topg.com
+www.claim.magpiexyz.live
 www.claimit-op.xyz
 www.claims-dymension.com
 www.claims-jupiter.com
@@ -7769,6 +7792,7 @@ www.multichain-web.de
 www.multiversechainx.com
 www.mwallet8.com
 www.my43.icu
+www.myetherewallet.org
 www.myetherwallest.org
 www.myetherwallet.cm
 www.myetherwalletae.org
