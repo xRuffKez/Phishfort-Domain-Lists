@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 05:02:24 UTC 2024
-# Number of Entries: 8252
+# Fetch date: Mon Apr  1 06:02:30 UTC 2024
+# Number of Entries: 8253
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1354,6 +1354,7 @@ celestia-network.com
 celestia-projects.net
 celestia.chain-spn.com
 celestialabs.dev
+celetsia.online
 cellframenetwork.com
 cellnextelecomservice.in
 celowallet.finance
@@ -1372,6 +1373,7 @@ chain-linknetwork.io
 chain-strk.com
 chainbugs.org
 chainflip.team
+chaingefinancetoken.pages.dev
 chaingpt-ai.org
 chainlabsv2.org
 chainlink-drop.com
@@ -2555,7 +2557,6 @@ fixedtsfloats.com
 fixetdfflat.com
 fixetdffloat.com
 fixetdflaot.com
-fixetdflloat.com
 fixetdflot.com
 fixetflaot.com
 fixetflloat.com
@@ -2842,6 +2843,7 @@ go.stakewise-finance.com
 gocleanersgo.com
 godaddy-ens.domains
 gold-bet.de
+goldberg-trust.com
 goldcloudglobal.world
 goldsolana.org
 golem.gift
@@ -4206,7 +4208,6 @@ metamasks.info
 metamasksinfo-supportaccount.yincobase.shop
 metamasktoken.io
 metamasktoken.link
-metamasktoken.org
 metamasktokens.com
 metamasktokens.io
 metamaskusan.azurewebsites.net
