@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 03:01:44 UTC 2024
-# Number of Entries: 107381
+# Fetch date: Mon Apr  1 04:01:45 UTC 2024
+# Number of Entries: 107380
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -83768,7 +83768,6 @@ tagcoin-promogive.com
 tagetreats.com
 tahmasstravel.com
 tahodistribution.com
-taichinhbidv.online
 taifalemarat.company.site
 taiketsu.mint-launch.art
 taiko.airdmint.com
