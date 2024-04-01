@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 16:01:49 UTC 2024
-# Number of Entries: 107411
+# Fetch date: Mon Apr  1 17:02:30 UTC 2024
+# Number of Entries: 107417
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3053,6 +3053,7 @@ agoda.host
 agoda.ib-web.online
 agoda.icu
 agoda.lovestoblog.com
+agoda.offer18239.com
 agoda.partner-extranet.life
 agoda.res94219.com
 agoda.resew-r.world
@@ -11206,6 +11207,7 @@ biasts.me
 biaswap.com
 biautwacomin.com
 bibangblast.pages.dev
+biblecoderesearch.org
 bibolx.com
 biboxgive.com
 biboxpr.icu
@@ -31590,6 +31592,7 @@ etrastpad.com
 etrherscan.click
 etrherscan.org
 etronic.hu
+etroute407.com
 etrust-padio.top
 etrustsync.com
 ettereum.info
@@ -46848,7 +46851,6 @@ mail.vipindodax.com
 mail.vsecurity-paxful.com
 mail.wallet-trezor.io
 mail.walletconnectnetworks.online
-mail.walletsdapp.com
 mail.wallstmemes-world.com
 mail.web3-airdrop.net
 mail.xn--pncakeswap-3gb.com
@@ -59440,6 +59442,7 @@ newwhitelistdex.pages.dev
 newwhitelistradar.pages.dev
 newyearcrypto.blogspot.com
 newyetherwallet.com
+newyorkmangame.com
 newyorkplasmacenters.info
 nexeraairdrop.com
 nexeradrop.com
@@ -62584,14 +62587,18 @@ optism-found.com
 optitoadz.com
 optiver-vip.com
 optiver-vipapp.vip
+optiver.cc
 optiver.co.kr
 optiver2.com
 optiverex.com
 optiveronline.com
 optiveronlinetrading.com
 optivertradeoptions.com
+optiverusdt.net
 optlmism.io
 optmism-layer.io
+optpodeg.com
+optqsou.com
 optsmism.io
 optum-banking.xyz
 optumbank.info
@@ -68671,6 +68678,7 @@ pcshelpdesk.co
 pcwdf-hkteam.com
 pcyiocity.com
 pcylccity.com
+pcylcclty.com
 pcylocity.com
 pcyloclty.com
 pdaotok.network
@@ -69887,7 +69895,6 @@ pjhnatonwalcvt.godaddysites.com
 pkinksle.com
 pkm.uajy.ac.id
 pknma-ciaaa-aaaad-qdxtq-cai.raw.ic0.app
-pknma-ciaaa-aaaad-qdxtq-cai.raw.icp0.io
 pkswap.co
 pkzn.net
 pl.xpiym.shop
@@ -85886,7 +85893,6 @@ toncoin-event.com
 toncoin.cfd
 toncoin.eng-ton.org
 toncoln.me
-tonevecher.com
 tongram.me
 tongramico.com
 tonight.sadwing.za.com
