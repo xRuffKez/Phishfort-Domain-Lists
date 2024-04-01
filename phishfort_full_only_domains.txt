@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 04:01:45 UTC 2024
+# Fetch date: Mon Apr  1 05:01:43 UTC 2024
 # Number of Entries: 107380
 # Expires: 1 hour
 0-metemask.com
@@ -3063,7 +3063,6 @@ agoda007.cn
 agoda15.com
 agoda2.com
 agoda3.cc
-agoda3.com
 agoda3.vip
 agoda333.com
 agoda360.com
@@ -83768,6 +83767,7 @@ tagcoin-promogive.com
 tagetreats.com
 tahmasstravel.com
 tahodistribution.com
+taichinhbidv.online
 taifalemarat.company.site
 taiketsu.mint-launch.art
 taiko.airdmint.com
