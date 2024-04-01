@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 16:02:12 UTC 2024
-# Number of Entries: 8274
+# Fetch date: Mon Apr  1 17:02:54 UTC 2024
+# Number of Entries: 8280
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -210,6 +210,7 @@ agoda-jps.com
 agoda.config-guest178.com
 agoda.host
 agoda.ib-web.online
+agoda.offer18239.com
 agoda.partner-extranet.life
 agoda.res94219.com
 agoda.weboffer7181.com
@@ -984,6 +985,7 @@ bet-flag.it
 beta-opensea.com
 biasts.me
 bibangblast.pages.dev
+biblecoderesearch.org
 bicswap.top
 bid-offer.org
 biennvnido.com
@@ -2441,6 +2443,7 @@ ethurgas.com
 ethyourgas.com
 etr-407-payment.com
 etr407.ca
+etroute407.com
 evaultbuzzfix.com
 event-blockgames.com
 event-etf.com
@@ -3725,7 +3728,6 @@ mail.panckswap.com
 mail.pepegift.lol
 mail.startest.duckdns.org
 mail.swapsnet.com
-mail.walletsdapp.com
 mail.xn--pncakeswap-3gb.com
 mail046.mlsend.com
 mailclaimdmail.xyz
@@ -4678,6 +4680,7 @@ newtradedex.pages.dev
 newtresures-manta.network
 newwhitelistdex.pages.dev
 newwhitelistradar.pages.dev
+newyorkmangame.com
 newyorkplasmacenters.info
 nexes.live
 nexis-network.live
@@ -4963,8 +4966,12 @@ optimism.io-op-claim.top
 optimism4.com
 optiver-vip.com
 optiver-vipapp.vip
+optiver.cc
 optiveronline.com
 optivertradeoptions.com
+optiverusdt.net
+optpodeg.com
+optqsou.com
 oraclegarden.network
 oragraf.com
 oraidex.online
@@ -5300,6 +5307,7 @@ pcsfarm-v3.com
 pcwdf-hkteam.com
 pcyiocity.com
 pcylccity.com
+pcylcclty.com
 pcylocity.com
 pcyloclty.com
 peapodsfinance.app
@@ -5401,7 +5409,6 @@ pixelstoken.xyz
 pixsmart-tv.com
 pixxelnft.eu
 pkinksle.com
-pknma-ciaaa-aaaad-qdxtq-cai.raw.icp0.io
 pl.xpiym.shop
 pl.zkndv.club
 planet-zksync.nfts2.me
@@ -6902,7 +6909,6 @@ ton.org-community.info
 ton.org-newyear.fun
 ton.x-wallet.top
 tonclaim.online
-tonevecher.com
 tool-orb.web.app
 top-satoshivm.io
 topprice-line.com
