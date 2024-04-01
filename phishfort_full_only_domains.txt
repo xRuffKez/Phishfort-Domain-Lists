@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 06:01:49 UTC 2024
-# Number of Entries: 107383
+# Fetch date: Mon Apr  1 07:01:52 UTC 2024
+# Number of Entries: 107387
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3063,6 +3063,7 @@ agoda007.cn
 agoda15.com
 agoda2.com
 agoda3.cc
+agoda3.com
 agoda3.vip
 agoda333.com
 agoda360.com
@@ -6413,6 +6414,7 @@ app.synchconnects.net
 app.syncwalletsvallidation.com
 app.tntphub.com
 app.tokendappcontract.com
+app.trezoriosstart.com
 app.trieaharderewa.com
 app.trunpinu.xyz
 app.umiswaps.org
@@ -49129,6 +49131,7 @@ metaherouniverse.freemint-airdrop.com
 metaherouniverse.livenow-nfts.com
 metahmask.pro
 metahmasks.com
+metaiask.xyz
 metaiimassk.azurewebsites.net
 metaiimsk_us_wallut.godaddysites.com
 metaim-ask-wilatl.godaddysites.com
@@ -96209,6 +96212,7 @@ www-curve-finance-wallet.blogspot.com
 www-curve-swap-connect.blogspot.com
 www-dappradar.ink
 www-daprradar.blogspot.com
+www-ddao-v0-0-21.bb.dp.ua
 www-debaink.site
 www-debamk.com
 www-debamk.info
