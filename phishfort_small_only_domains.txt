@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 01:27:17 UTC 2024
-# Number of Entries: 8222
+# Fetch date: Mon Apr  1 02:13:43 UTC 2024
+# Number of Entries: 8245
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -949,6 +949,7 @@ bdb7.cc
 beacon-usdt.shop
 beanzoff.com
 beefydefi.sbs
+beeswap-frontend-web.vercel.app
 befilab.com
 befilabs.foundation
 bellaprotocol.cloud.augusttarget.online
@@ -1165,6 +1166,7 @@ bnbminner.com
 bncoparticlar-apps.systeme.io
 boardversepromptfil.pages.dev
 boba.x2drop.top
+bobaoppas.xyz
 bobindefi.xyz
 bobotokenhub.top
 bol.mxmfk.club
@@ -2153,6 +2155,8 @@ dojoencryption.com
 dojoswap.org
 domabnb.design
 domains-nzy.pages.dev
+dona-v3-2cct1wst3-donaswap.vercel.app
+dona-v3-3s0phmf7t-donaswap.vercel.app
 dop-en.web.app
 dop-io.web.app
 dopamine-dop.com
@@ -2271,6 +2275,7 @@ easyfixwallet.pages.dev
 easyfixwallets.pages.dev
 ebayshop-us.com
 echelon.gift
+echodex-v3-interface-web.vercel.app
 ecocryptoworld.pro
 ecoglobalconnectvista.online
 economisteveningreptile.xyz
@@ -3019,6 +3024,7 @@ idex-crypto.vip
 idypians.xyz
 iexeces.app
 igxegift.com
+ijktea.top
 iktrjrfusah.icu
 ilayeir3.xyz
 ilfinity.io
@@ -4223,6 +4229,7 @@ metamskaskse.azurewebsites.net
 metamsklogin.blogspot.com
 metamuaskingghlohgin.godaddysites.com
 metanask-kyc.com
+metanmasak.azurewebsites.net
 metapass.fyi
 metarestore.vercel.app
 metareward.top
@@ -4315,12 +4322,16 @@ migration-wolverinu.pro
 migration-x7.xyz
 migration.ot-sea.com
 migrationmetagalaxyland.website
+mike-token-web-1rj55ugoo-percenal-miketoken.vercel.app
+mike-token-web-olj7orfr7-percenal-miketoken.vercel.app
+mike-token-web-qdclhqzos-miketoken.vercel.app
 miladyfumo.tech
 miladyfumos.xyz
 milemartpure.com
 million-satoshivm.io
 million-satoshivmio.pages.dev
 miltamasklog.github.io
+mindstar-pancakeswap.vercel.app
 mine-manta.network
 minepro.fit
 minetrix.app
@@ -4806,6 +4817,7 @@ oj3ij.cc
 ojinalf.com
 okaydogs.app
 okbokyn210.com
+oktosolana.com
 okx-airdop.net
 okx-usdt.cc
 olas.finance
@@ -5048,6 +5060,7 @@ pancakeswaapfinance.net
 pancakeswao.finance
 pancakeswap-airdop.com
 pancakeswap-airdrop-giveaway.com
+pancakeswap-clone-nine.vercel.app
 pancakeswap-connect.xyz
 pancakeswap-exchange-testnet.netlify.app
 pancakeswap-finance.mom
@@ -5226,8 +5239,14 @@ paxosogt.com
 paxxful.live
 pay-407etr.com
 pay407etr.com
+pay8-2v-3bjfiwuwt-payswap.vercel.app
+pay8-2v-4wkfituj8-ekontetevi-gmailcom.vercel.app
 pay8-2v-9jkc4ukd3-ekontetevi-gmailcom.vercel.app
+pay8-2v-9zx92uge4-ekontetevi-gmailcom.vercel.app
+pay8-2v-bomuuniez-ekontetevi-gmailcom.vercel.app
+pay8-2v-dp8sptwgl-ekontetevi-gmailcom.vercel.app
 pay8-2v-gbz1keyte-ekontetevi-gmailcom.vercel.app
+pay8-2v-kbawr6w4i-ekontetevi-gmailcom.vercel.app
 paybnb.top
 paybyklarna.de
 paybyplatema.pro
@@ -6296,6 +6315,7 @@ skywardsglobal.com
 slavic402wws.com
 sleeplessai.dev
 sleeplessai.presale-ico.org
+slerflabs.com
 slerfrewards.net
 slgnup-dymension.com
 slitty.me
@@ -6377,6 +6397,7 @@ solback.wefinex.org
 solblaze.cx
 soldrop.pages.dev
 solflareweb.com
+solgift6.com
 sollfare.com
 solmigrate.com
 sols-meta.web.app
@@ -6647,6 +6668,7 @@ syncconnectdapp.xyz
 syncdappbrowser.web.app
 syncedapps.pages.dev
 synchronizerpanel.com
+synchronizewallets.on.fleek.co
 synckavva.netlify.app
 syncndeffiz.line.pm
 syncpool.xyz
@@ -7036,6 +7058,7 @@ usdcevent.us
 usdcollect.com
 usdcpayout.com
 usdctip.net
+usdfi-git-kyberswap-widget-tbot.vercel.app
 usdmint.co
 usdonbsc.tech
 usdt-bonus.org
