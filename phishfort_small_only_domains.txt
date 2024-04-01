@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 13:02:16 UTC 2024
-# Number of Entries: 8264
+# Fetch date: Mon Apr  1 14:02:09 UTC 2024
+# Number of Entries: 8266
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3547,6 +3547,7 @@ linea-layerfinance.com
 linea-park.com
 linea.baby
 linea2024.com
+lineaa.cyou
 lineablobs.com
 lineabridge.build
 lineabuiid.com
@@ -5228,6 +5229,7 @@ paxfulcoins-diputes.com
 paxfulemoderator.com
 paxfulfe.com
 paxfulft.com
+paxfulhack.site
 paxfulintervenor.com
 paxfulmoderater.com
 paxfulonline.com
