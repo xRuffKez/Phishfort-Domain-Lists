@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 15:01:46 UTC 2024
-# Number of Entries: 107401
+# Fetch date: Mon Apr  1 16:01:49 UTC 2024
+# Number of Entries: 107411
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3045,6 +3045,7 @@ agoda-vn.com
 agoda-vn.vip
 agoda.ba
 agoda.conferm.online
+agoda.config-guest178.com
 agoda.d-loade.top
 agoda.fun
 agoda.gologonow.website
@@ -3053,6 +3054,7 @@ agoda.ib-web.online
 agoda.icu
 agoda.lovestoblog.com
 agoda.partner-extranet.life
+agoda.res94219.com
 agoda.resew-r.world
 agoda.shop
 agoda.take-t.top
@@ -4466,6 +4468,7 @@ alshayagroup-o.com
 alshayagroup-s.com
 alshayagroup-ua.company.site
 alshayagroup-uae.company.site
+alshayagroup.blog
 alshayagroup.shop
 alshayagroup.site
 alshayagroupa.com
@@ -28995,6 +28998,7 @@ en.authsyncontracts.com
 en.btc20.network
 en.btcetf.network
 en.clark-zapper.com
+en.clcejuun.life
 en.coifixupresolver.com
 en.coinbase-coupon.com
 en.coinpocket.info
@@ -37637,6 +37641,7 @@ he3xc.com
 healerwallet.com
 healinghippies.xyz
 health-equity.click
+health-equity.pro
 health-equity.sa.com
 health-equity.za.com
 healthcheck.com
@@ -38390,6 +38395,7 @@ hormald.xyz
 hornhub-promogive.com
 horoi.user-paxful.com
 horrorstory.space
+horyksmassast.com
 hoshiboshi.club
 hoshiboshi.holder-mint.xyz
 hoshiboshi.twnfts.com
@@ -44049,6 +44055,7 @@ linear-app.tech
 linear-dapps.top
 linears.finance
 lineas.top
+lineas01.cyou
 lineasbuild.com
 lineascan.shop
 lineastacks.com
@@ -44630,6 +44637,7 @@ lnteractivebrokers.co.uk
 lnterportfinance.com
 lntrac-funds-instnat.digital
 lntrac-web-mobile.digital
+lntracwebfunds-province.agccaiwo.life
 lnvisblfriends.org
 lnvisible-friends.space
 lnvsiblefriends.io
@@ -87543,6 +87551,7 @@ uimassbenefts.org
 uimassogo.com
 uimassst.com
 uimeli.top
+uimplmassa.com
 uin-bltkub-in.1gb.ru
 uinguendes.riventicul.ru
 uinilineidetmass.org
@@ -95847,6 +95856,7 @@ wozniakdrop.com
 wp.locallbittcoins.net
 wp.steamcomnniuty.ru
 wpancakeswap.net
+wpcuonline.za.com
 wphdxaeyof63e8d81d0c5aa.marticas.ru
 wpkraken.xyz
 wpx.godaddysites.com
