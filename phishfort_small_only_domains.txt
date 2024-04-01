@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 19:02:21 UTC 2024
+# Fetch date: Mon Apr  1 20:02:18 UTC 2024
 # Number of Entries: 8282
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3118,6 +3118,7 @@ integratedmultifix.pages.dev
 integratedsystemsconnect.com
 integratemultichainfix.pages.dev
 integrationvaults.com
+intel-pairtokenzerion0i.pages.dev
 intellix-protocol.com
 intellixprotocol.app
 intellixstake.app
@@ -7927,7 +7928,6 @@ www.practisea.com
 www.provisionstrk.xyz
 www.pudgyworld.shop
 www.quopi2.com
-www.reaper.farmm.towerfish.tw
 www.recovermetawalletio.diviteca.com
 www.reflexer.pro
 www.regeringen.org
