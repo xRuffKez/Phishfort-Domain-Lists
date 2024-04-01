@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 00:05:39 UTC 2024
-# Number of Entries: 107326
+# Fetch date: Mon Apr  1 01:26:37 UTC 2024
+# Number of Entries: 107351
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1253,6 +1253,7 @@
 456club.wins-mint.com
 45ybook.ueh.edu.vn
 47.108.213.39
+48444453456.cloud
 4ag9sn3ey6bm7pv2cd1f.p6g.ru
 4art.tokens-aword.com
 4coinmarketcap.site
@@ -5145,6 +5146,7 @@ apeprice.org
 aperegrina.com
 apereunion-nft.xyz
 apereunionnft.xyz
+aperiron.rxp.app
 apes-adidas.com
 apes-coinz-claim.com
 apes-timex.com
@@ -9098,6 +9100,7 @@ axieinfinily.store
 axieinfinit.ml
 axieinfinitcy.com
 axieinfinite.net
+axieinfinite.vip
 axieinfinite.xyz
 axieinfiniti.website
 axieinfinities.com
@@ -13228,6 +13231,7 @@ bloom.reward-programs.erc20-tokens.com
 bloombergbtc.net
 bloomcalligraphy.com
 bloomingoff5th.top
+bloomorganicspa.za.com
 blovrnance.com
 bloxrectification.xyz
 blrdrop.site
@@ -13676,6 +13680,7 @@ bobagatewayfi.com
 bobanetworks.com
 bobatamacoin-bonus.online
 bobcoin.fun
+bobindefi.xyz
 bobo.claims
 bobocoin.gift
 bobonmens.site
@@ -32934,6 +32939,7 @@ finance.exchangespancakeswaps.com
 finance.mummy.technology
 finance.pancakeswapes.org
 finance.pancakisvap-finance.com
+finance.pancakswaps.com
 finance.parts
 financechainfx.com
 financeguidelaunchpad.com
@@ -40647,6 +40653,7 @@ jieyasoft.com
 jiitonetwork.com
 jikanstudiosnft.xyz
 jilldana.com
+jils1.pro
 jimmychooofficial.xyz
 jimmyclubhouse.xyz
 jinch.exchange
@@ -43992,6 +43999,7 @@ lineabridge.build
 lineabsc.xyz
 lineabuiid.com
 lineabuild-airdrop.com
+lineabuild-consensys.world
 lineabuild.io
 lineabuild.net
 lineabuild.netlify.app
@@ -47256,6 +47264,7 @@ maker-dai.com
 maker-dai.net
 maker-dao.life
 maker-dao.net
+maker-dao.network
 maker-dao.online
 maker-doa.com
 maker-fnd.net
@@ -47277,6 +47286,7 @@ makerdao.bonca-app.org
 makerdao.care
 makerdao.cash
 makerdao.click
+makerdao.digital
 makerdao.llc
 makerdao.ltd
 makerdao.one
@@ -47285,6 +47295,7 @@ makerdao.pro
 makerdao.redeem.bz
 makerdao.redeem.fund
 makerdao.tools
+makerdao.vip
 makerdao.web3fast.net
 makerdaobep.online
 makerdaobnb.online
@@ -48235,6 +48246,7 @@ mcdonaldnftworld.top
 mcf-crypt.net
 mcf.promo
 mcf2020.net
+mcfrzev.cc
 mcgu457dcvbnfgtu.bio
 mcim.ru
 mclarenofficial.xyz
@@ -51134,6 +51146,7 @@ metamaskio.serveftp.com
 metamaskio.site
 metamaskio.top
 metamaskio.vip
+metamaskio.xyz
 metamaskioextension.com
 metamaskiologi.com
 metamaskioltd.dynvpn.de
@@ -63595,6 +63608,7 @@ pancake.swapfinance.link
 pancake.swavps.finance
 pancake.tokendapps.online
 pancake.us.com
+pancake.vinaweb.app
 pancake.wales
 pancake.walletsconnections.com
 pancake100x.finance
@@ -68243,6 +68257,7 @@ paxfulesc.com
 paxfulescrow.com
 paxfulex.com
 paxfulfe.com
+paxfulft.com
 paxfulguide.com
 paxfulhelp.com
 paxfulhelpcenter.info
@@ -69301,6 +69316,7 @@ phantomalert.site
 phantomapp.co
 phantomapp.org
 phantomapp.site
+phantomapp.support
 phantomappwallet.com
 phantombeta-app.com
 phantombeta.app
@@ -70085,6 +70101,9 @@ poaoauacoin-app.saltarephe.cf
 poate.co.ug
 pobocoinswap.us
 pobtrade.com
+pocakedefi.cfd
+pocakedefi.top
+pocakedefi.xyz
 poccoinss.com
 poccooin.com
 pockchain.net
@@ -74975,6 +74994,7 @@ revokecash.me
 revokecash.net
 revokecash.network
 revokecash.pro
+revokecash.ru
 revokecash.ruok.org
 revokecash.services
 revokecash.store
@@ -74992,6 +75012,7 @@ revokecashn.com
 revokecashofficial.com
 revokecashsafe.xyz
 revokecashv2.com
+revokecashv2.ru
 revokecashv2.xyz
 revokecesh.online
 revokechain.com
@@ -77710,6 +77731,7 @@ sellxcoin.com
 selmewk.site
 selortis.net
 seltment.site
+selviyardim.online
 seminovosbrazz.blogspot.com
 sempra-23.new-mentus.com
 sempra.us
@@ -86363,6 +86385,7 @@ trimaax.us
 trindadeadvocacia.com
 trinet.za.com
 triniity-health.org
+trinity-healthusa.org
 trinity-token.com
 trinitybelieversbuilder.org
 trinityhealthcorporation.org
@@ -97772,6 +97795,7 @@ www.claim-usdc.xyz
 www.claim-worldcoin.net
 www.claim-zksync.com
 www.claim.chainsmainnet.com
+www.claim.magpiexyz.live
 www.claim.nodemainnetchain.com
 www.claimarch.com
 www.claimastar.net
@@ -100310,6 +100334,7 @@ www.myetheremuwallet.com
 www.myetheresswallet.com
 www.myetherewallef.com
 www.myetherewallet.com
+www.myetherewallet.org
 www.myetherewallets.com
 www.myetherfwallet.com
 www.myethermwallet.vip
