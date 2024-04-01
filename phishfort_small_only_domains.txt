@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 06:02:30 UTC 2024
-# Number of Entries: 8253
+# Fetch date: Mon Apr  1 07:02:31 UTC 2024
+# Number of Entries: 8259
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -653,6 +653,7 @@ app.rnino.fi
 app.solvsprotocol.com
 app.sparkprotocol.fi
 app.stringwebtools.com
+app.trezoriosstart.com
 app.unsiwap.us
 app.unsiwap.us.com
 app.walletguard.cloud
@@ -4117,6 +4118,7 @@ metaget.xyz
 metagets.xyz
 metagiveaway.io
 metahelix-safety.xyz
+metaiask.xyz
 metamaaskus.azurewebsites.net
 metamaek.com
 metamafsk.azurewebsites.net
@@ -4240,10 +4242,12 @@ metapass.fyi
 metarestore.vercel.app
 metareward.top
 metasafeguardportfolio.desmarkpremio.com
+metasamasuk.azurewebsites.net
 metaswap-frontend.vercel.app
 metatank.app
 metatoken.cash
 metav2update.com
+metavmasusk.azurewebsites.net
 metaweb-import.pages.dev
 metawebfix-4.pages.dev
 metemask.cc
@@ -4272,6 +4276,7 @@ metmsakconditionweb3.netlify.app
 metnmask.io
 metnmaskn.io
 metoamask.com
+metqamaskv.azurewebsites.net
 metramassusk.azurewebsites.net
 metrsamasknig.azurewebsites.net
 metsafnmaske.azurewebsites.net
@@ -7530,6 +7535,7 @@ www-adpworkforcenow.com
 www-altlayer-io.top
 www-altlayer.top
 www-app-1inch.com
+www-ddao-v0-0-21.bb.dp.ua
 www-delfilama.com
 www-eigenlayer.xyz
 www-jumper.exchange
