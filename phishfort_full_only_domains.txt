@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 14:01:54 UTC 2024
-# Number of Entries: 107399
+# Fetch date: Mon Apr  1 15:01:46 UTC 2024
+# Number of Entries: 107401
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4460,6 +4460,7 @@ alshaya-group.site
 alshayadeals.net
 alshayadealss.com
 alshayae.shop
+alshayagrooup.shop
 alshayagroup-ae.company.site
 alshayagroup-o.com
 alshayagroup-s.com
@@ -90084,6 +90085,7 @@ vcrypconndex.website
 vcst.vdtsrelh.ddnss.ch
 vctv.qunkong123.com
 vdefi.in
+vdermo.us
 vdi-wip-greendot.cerne-embalagens.com
 vdscofficial.ysnfts.com
 vdtool.com
