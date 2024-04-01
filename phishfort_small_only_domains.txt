@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 15:02:18 UTC 2024
-# Number of Entries: 8268
+# Fetch date: Mon Apr  1 16:02:12 UTC 2024
+# Number of Entries: 8274
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -207,9 +207,11 @@ agoda-jp.site
 agoda-jp.vip
 agoda-jp.xyz
 agoda-jps.com
+agoda.config-guest178.com
 agoda.host
 agoda.ib-web.online
 agoda.partner-extranet.life
+agoda.res94219.com
 agoda.weboffer7181.com
 agoda.ycs-id.info
 agoda.ycs.my.id
@@ -428,6 +430,7 @@ alshaya-group-ua.company.site
 alshayae.shop
 alshayagrooup.shop
 alshayagroup-ae.company.site
+alshayagroup.blog
 alshayagroup.shop
 alshayagroupae.company.site
 alshayagroupk-s.company.site
@@ -1217,7 +1220,7 @@ boxmint-project.web.app
 bozo.trading
 bpxtoken.network
 brailex.com
-brarve.com
+brands4less.com.py
 brave-blog.mylviajes.com.ve
 brave-browser-win.net
 bravebrowserdl.online
@@ -2334,6 +2337,7 @@ emploeemygochek.com
 empowerpersonalasset.com
 en-suiswap.net
 en-web3fix.pages.dev
+en.clcejuun.life
 en.coifixupresolver.com
 en.ingaccessbn.com
 en.pushdstore.xyz
@@ -2917,6 +2921,7 @@ hbar-distribution.com
 hca-healthcare.com
 hdi6v.pro
 health-equity.click
+health-equity.pro
 health-equity.sa.com
 health-equity.za.com
 healthcheck.com
@@ -2983,6 +2988,7 @@ homeoptivermobile12.com
 hopexchange.top
 hopper-rating.com
 hopper.travsrv.com
+horyksmassast.com
 hostbreno.com
 hostilityaristocrat.top
 housexysounds.com
@@ -3560,6 +3566,7 @@ linealayerbank.pages.dev
 linear-dapps.top
 linears.finance
 lineas.top
+lineas01.cyou
 lineaxskin.com
 linjective.com
 link-eligible.com
@@ -3617,6 +3624,7 @@ lnsgroup.net
 lnsulet.com
 lntrac-funds-instnat.digital
 lntrac-web-mobile.digital
+lntracwebfunds-province.agccaiwo.life
 loadingpayappsession0a9c0a9c0a910a9c0.pages.dev
 lobster-market.com
 localethereum.xn--node
@@ -4157,7 +4165,6 @@ metamask-kyc.com
 metamask-mask.com
 metamask-mining.com
 metamask-platform.codeanyapp.com
-metamask-polygon-airdrop.digital
 metamask-redirect.com
 metamask-redirects.com
 metamask-restorehome.cryptobase.ng
@@ -5227,7 +5234,6 @@ paxfula.com
 paxfulb.com
 paxfulbw.com
 paxfulcoins-diputes.com
-paxfulemoderator.com
 paxfulfe.com
 paxfulft.com
 paxfulhack.site
@@ -5376,7 +5382,6 @@ phoentexai.netlify.app
 phone.tkd
 phountom.xyz
 phrasedataprotect.com
-phtm.app
 phtms.app
 phtomwalet.azurewebsites.net
 phumtoewallat.godaddysites.com
@@ -6990,6 +6995,7 @@ ufalmassuissat.com
 ufgw.top
 uhcdapp-apply-srv-eligible.glitch.me
 uhcrecruit.com
+uimplmassa.com
 uiredofmassucherndy.com
 ujp.ag
 uk-applovinlife.com
@@ -7524,6 +7530,7 @@ wormhole.cx
 wormholeairdrop.fun
 wormholeairdrop.shop
 wormholew.top
+wpcuonline.za.com
 wsm-token-migration.netlify.app
 wswap.live
 wtoken-claim.com
@@ -8068,7 +8075,6 @@ xn--arbtrum-tfb.com
 xn--fixedfaot-wpbe.com
 xn--fixedflaot-k8a.com
 xn--fixedflaot-xub.com
-xn--fixedflat-cm7d.com
 xn--fixedfloat-0ub.com
 xn--fixedfloat-1ub.com
 xn--fixedfloat-2ub.com
