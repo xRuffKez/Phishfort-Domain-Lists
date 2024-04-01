@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 05:01:43 UTC 2024
-# Number of Entries: 107380
+# Fetch date: Mon Apr  1 06:01:49 UTC 2024
+# Number of Entries: 107383
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -15764,6 +15764,7 @@ celestialabs.dev
 celestiaportal.vip
 celestias-free.org
 celestias-tia.com
+celetsia.online
 celiastia.org
 celiestia.org
 celiswap.com
@@ -15993,6 +15994,7 @@ chainflip.team
 chainfloki.com
 chainge.money
 chaingefi.com
+chaingefinancetoken.pages.dev
 chaingpt-ai.org
 chaingpt-info.com
 chaingpt-io.online
@@ -37002,6 +37004,7 @@ gold-paxos.net
 gold-polygon.finance
 gold-polygon.net
 gold.asiainteractivebrokers.com
+goldberg-trust.com
 goldbet-it.com
 goldbetcalcio.art
 goldbetit.com
