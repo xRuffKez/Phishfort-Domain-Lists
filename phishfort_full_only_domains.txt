@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 17:02:30 UTC 2024
-# Number of Entries: 107417
+# Fetch date: Mon Apr  1 18:01:45 UTC 2024
+# Number of Entries: 107420
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -33082,6 +33082,7 @@ fivestarrecharge.online
 fix-02.serveuser.com
 fix-blockchain.com
 fix-encrypt.online
+fix-error.org
 fix-exchange.org
 fix-initialize.netlify.app
 fix-mainnetchains.com
@@ -49941,6 +49942,7 @@ metamask.com-zxy.xyz
 metamask.com.4523544325432.bar
 metamask.com.app1s.xyz
 metamask.com.do
+metamask.com.franclimwines.co.za
 metamask.com.graphicssystemsa.com
 metamask.com.legal-warning.me
 metamask.com.loadapps.site
@@ -64378,6 +64380,7 @@ pancakeswap-financem.com
 pancakeswap-financer.com
 pancakeswap-finances.coinexly.com
 pancakeswap-finances.digital
+pancakeswap-finances.pages.dev
 pancakeswap-finances.vcbdoil.com
 pancakeswap-finances.vezoan.com
 pancakeswap-financeweb.com
@@ -71906,6 +71909,7 @@ pre-mint.org
 pre-prod.appqala.games
 preazuki.art
 predesigns.shop
+predev-migrazerionzx.pages.dev
 preferbehavioral.com
 prefertoken.com
 prehost86.pancakeswape.finance
@@ -74280,7 +74284,6 @@ refund-agoda.com
 refund-alchemix.com
 refund-bitgert.net
 refund-eth.com
-refund-ethereum.org
 refund-multichain.com
 refund-multichain.net
 refund-othersidemeta.xyz
@@ -74921,6 +74924,7 @@ revoke-asset.cash
 revoke-assets.xyz
 revoke-balancer.finance
 revoke-cash-i9n0pa5cx-lahana.vercel.app
+revoke-cash-layer2.pages.dev
 revoke-cash-wallet.com
 revoke-cash.app
 revoke-cash.cash
@@ -75063,6 +75067,7 @@ revokecash.xyz
 revokecashe.com
 revokecashe.xyz
 revokecashes.com
+revokecashexploit.pages.dev
 revokecashh.pages.dev
 revokecashhofficial.com
 revokecashn.com
@@ -80556,7 +80561,6 @@ sparkprotocol.se
 sparkrfi.com
 sparksbit.com
 sparkster.be
-sparkster.com.de
 sparkster.pro
 sparkster.site
 sparkster.tech
@@ -81303,7 +81307,6 @@ starkapp.in
 starkapp.net
 starkclaim.pro
 starkclaim.services
-starkdex.net
 starkdistribution.net
 starkdrop.online
 starkenet.space
