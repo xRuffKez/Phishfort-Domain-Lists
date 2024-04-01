@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 14:02:09 UTC 2024
-# Number of Entries: 8266
+# Fetch date: Mon Apr  1 15:02:18 UTC 2024
+# Number of Entries: 8268
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -426,6 +426,7 @@ alphatrace.tech
 alshaya-group-ae.company.site
 alshaya-group-ua.company.site
 alshayae.shop
+alshayagrooup.shop
 alshayagroup-ae.company.site
 alshayagroup.shop
 alshayagroupae.company.site
@@ -7125,6 +7126,7 @@ valuableohelper.com
 vanar.trading
 vanarchaiin.com
 vaultedvibes.online
+vdermo.us
 vdwdz.top
 vectorreserve.live
 velamigration.pro
