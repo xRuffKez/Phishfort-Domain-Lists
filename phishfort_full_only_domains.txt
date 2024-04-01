@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 13:01:38 UTC 2024
-# Number of Entries: 107397
+# Fetch date: Mon Apr  1 14:01:54 UTC 2024
+# Number of Entries: 107399
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -44007,6 +44007,7 @@ linea.link3.icu
 linea.linkweb-3.com
 linea2024.com
 linea6.net
+lineaa.cyou
 lineaabuild.com
 lineaairdrop.com
 lineablobs.com
@@ -68292,6 +68293,7 @@ paxfulex.com
 paxfulfe.com
 paxfulft.com
 paxfulguide.com
+paxfulhack.site
 paxfulhelp.com
 paxfulhelpcenter.info
 paxfulhelpdesk.com
