@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 10:01:54 UTC 2024
-# Number of Entries: 107395
+# Fetch date: Mon Apr  1 11:01:35 UTC 2024
+# Number of Entries: 107396
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -52420,6 +52420,7 @@ mewwallet-landing-page.pages.dev
 mewwallet.cc
 mewwallet.eth-app.cfd
 mewwallet.me
+mewwalletfix.pages.dev
 mewwalley.com
 mewwallrt.com
 mewwallt.com
