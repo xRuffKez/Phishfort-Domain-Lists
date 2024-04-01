@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 08:03:33 UTC 2024
-# Number of Entries: 8259
+# Fetch date: Mon Apr  1 09:02:13 UTC 2024
+# Number of Entries: 8263
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -799,6 +799,7 @@ assiestwebcadbot.tech
 assisted-hy.com
 astar-network.com-t.co
 astarlabs.com-t.co
+astrafive.website
 astroakashvani.com
 asuccessfulgarage.com
 asx-martdeskeia.com
@@ -3091,6 +3092,7 @@ injektive.mom
 inkonbtc.app
 innejd.pro
 inspace-token.network
+inspect-crypto.firebaseapp.com
 inspect-crypto.web.app
 inspireaj.com
 instadapp.app
@@ -5085,6 +5087,7 @@ pancakeswap-fniance.com
 pancakeswap-pancakeswap.com
 pancakeswap-pancakeswap.net
 pancakeswap-platform.pages.dev
+pancakeswap-server.com
 pancakeswap.airdrop-cake-v3.com
 pancakeswap.cc
 pancakeswap.click
@@ -5960,6 +5963,7 @@ reward.magleden.com
 reward.memeslands.net
 reward.netvr.app
 reward.shib-memu.com
+rewardbase.click
 rewardclaimable.glitch.me
 rewarding-strk.network
 rewarding-zks.pics
