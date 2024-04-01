@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 02:13:43 UTC 2024
-# Number of Entries: 8245
+# Fetch date: Mon Apr  1 03:02:23 UTC 2024
+# Number of Entries: 8252
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1579,6 +1579,7 @@ clintexmigration.tech
 cliqueop.com
 clmjup.xyz
 clmtaiko.xyz
+cloud-base-dapp.vercel.app
 cloudinry.net
 cloudwebhosts.com
 clrscr.net
@@ -2914,6 +2915,7 @@ health-equity.click
 health-equity.sa.com
 health-equity.za.com
 healthcheck.com
+healthequity.comja.sa.com
 healthequity.comlink.sa.com
 healthequity.comru.sa.com
 healthequity.comru.za.com
@@ -4081,6 +4083,7 @@ merlinlayer.app
 meshjs.net
 meskk.app
 met-mask-usa-wallet.godaddysites.com
+meta-drop.xyz
 meta-kyc-activations.io
 meta-mask-login-webaccess-rewoyal611554508.codeanyapp.com
 meta-mask.trade
@@ -4089,6 +4092,7 @@ meta-redirect.com
 meta-restore.pages.dev
 meta-restoreweb.pages.dev
 meta-reward.com
+meta-rwrd.top
 meta-safelogin.com
 meta2fa.io
 metaamsskk-wallet.godaddysites.com
@@ -4111,6 +4115,7 @@ metaget.xyz
 metagets.xyz
 metagiveaway.io
 metahelix-safety.xyz
+metamaaskus.azurewebsites.net
 metamaek.com
 metamafsk.azurewebsites.net
 metamainnetfix.netlify.app
@@ -4266,12 +4271,14 @@ metmsakconditionweb3.netlify.app
 metnmask.io
 metnmaskn.io
 metoamask.com
+metramassusk.azurewebsites.net
 metrsamasknig.azurewebsites.net
 metsafnmaske.azurewebsites.net
 metsfghmaskus.azurewebsites.net
 metsk.app
 mettvcmaske.azurewebsites.net
 metumasklgio.github.io
+metwamasnkus.azurewebsites.net
 metwamasus.azurewebsites.net
 metzhgofk.com
 mewwallet.cc
