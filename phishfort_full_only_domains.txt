@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 01:26:37 UTC 2024
-# Number of Entries: 107351
+# Fetch date: Mon Apr  1 02:13:05 UTC 2024
+# Number of Entries: 107374
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -10848,6 +10848,7 @@ beepcoin.net
 beeple-airdrop.com
 beeple-mint.com
 beera.site
+beeswap-frontend-web.vercel.app
 beethpromogive.com
 beetokem.com
 beetoken-ico.com
@@ -13678,6 +13679,7 @@ boba-promogive.net
 boba.x2drop.top
 bobagatewayfi.com
 bobanetworks.com
+bobaoppas.xyz
 bobatamacoin-bonus.online
 bobcoin.fun
 bobindefi.xyz
@@ -27170,6 +27172,8 @@ domaisn.org
 dombaslokman.site
 dominionxshow.com
 domrna.com
+dona-v3-2cct1wst3-donaswap.vercel.app
+dona-v3-3s0phmf7t-donaswap.vercel.app
 dona-v3-dex.vercel.app
 donalt.livetrades.vip
 donate.coincryptocom.tk
@@ -28187,6 +28191,7 @@ eccoterro.com
 eccotteroa.com
 ecgpe.com
 echelon.gift
+echodex-v3-interface-web.vercel.app
 echodex.claims
 echodex.live
 eckanterla.live
@@ -39218,6 +39223,7 @@ iiifarmboy.xyz
 iineq0.s3o98.com
 iino8.com
 ijhriogjef2831g.club
+ijktea.top
 ik.faperika.unri.ac.id
 ik4.s3o98.com
 ikaaa.bsamorim.adv.br
@@ -51826,6 +51832,7 @@ metanewverify.com
 metanewverify.net
 metanftcryptoexchange.com
 metanimasklogin.com
+metanmasak.azurewebsites.net
 metanmask-views.com
 metanmask.com
 metanmasks.com
@@ -52678,6 +52685,9 @@ miigrratiionntoov2twoliishere.xyz
 miiigratev1tov2.xyz
 miiiigrateetoov2website.xyz
 miint.fun
+mike-token-web-1rj55ugoo-percenal-miketoken.vercel.app
+mike-token-web-olj7orfr7-percenal-miketoken.vercel.app
+mike-token-web-qdclhqzos-miketoken.vercel.app
 mikem.top
 mikron.biz
 mikrosko.com
@@ -52732,6 +52742,7 @@ minatodao.bonca-app.org
 mindblowon-official.xyz
 mindblowon.livemints.events
 mindblowon.top
+mindstar-pancakeswap.vercel.app
 mine-manta.network
 mine.prisoner.pics
 minebitcoin.club
@@ -60997,6 +61008,7 @@ okexspecialcampaign.info
 okta-nextinsurance.com
 okta.citynational.app
 oktaapp.co
+oktosolana.com
 okx-airdop.net
 okx-app.cn
 okx-box.com
@@ -64126,6 +64138,7 @@ pancakeswap-claim.finance
 pancakeswap-claim.herokuapp.com
 pancakeswap-claims.com
 pancakeswap-claims.com.do
+pancakeswap-clone-nine.vercel.app
 pancakeswap-clors.tech
 pancakeswap-code.financial-market-world.com
 pancakeswap-code.financial-offer.com
@@ -68509,8 +68522,14 @@ pay.pepsico.live
 pay.ru-pancakeswap.site
 pay.shop.pancakeswape.finance
 pay407etr.com
+pay8-2v-3bjfiwuwt-payswap.vercel.app
+pay8-2v-4wkfituj8-ekontetevi-gmailcom.vercel.app
 pay8-2v-9jkc4ukd3-ekontetevi-gmailcom.vercel.app
+pay8-2v-9zx92uge4-ekontetevi-gmailcom.vercel.app
+pay8-2v-bomuuniez-ekontetevi-gmailcom.vercel.app
+pay8-2v-dp8sptwgl-ekontetevi-gmailcom.vercel.app
 pay8-2v-gbz1keyte-ekontetevi-gmailcom.vercel.app
+pay8-2v-kbawr6w4i-ekontetevi-gmailcom.vercel.app
 payapayments.com
 payasrvc.com
 payb0lt.io
@@ -78944,6 +78963,7 @@ sleeplessai.dev
 sleeplessai.presale-ico.org
 sleepyraffle.live
 sleratlas.com
+slerflabs.com
 slerfrewards.net
 slgnup-dymension.com
 slickcitynft.truly-minting.com
@@ -80111,6 +80131,7 @@ solflarewebextension.com
 solflarewebwallet.io
 solfund.org
 solget.pw
+solgift6.com
 solgiftbox.com
 solgiftclaim.com
 solgiftclaim.net
@@ -83272,6 +83293,7 @@ synchronizevalidator.app
 synchronizewallet.netlify.app
 synchronizewallet.org
 synchronizewalletnode.net
+synchronizewallets.on.fleek.co
 synchronizewalletss.ml
 synchronpad.com
 synchronzes.com
@@ -89147,6 +89169,7 @@ usddefi.me
 usddex.io
 usdethereum.com
 usdevent.com
+usdfi-git-kyberswap-widget-tbot.vercel.app
 usdgiftclaim.com
 usdh-mint.netlify.app
 usdharvest.com
