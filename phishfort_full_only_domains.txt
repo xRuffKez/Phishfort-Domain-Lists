@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 12:02:52 UTC 2024
-# Number of Entries: 107396
+# Fetch date: Mon Apr  1 13:01:38 UTC 2024
+# Number of Entries: 107397
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -97386,6 +97386,7 @@ www.bitkub-coin.ml
 www.bitkub-otc.xyz
 www.bitkub-up.cf
 www.bitkub-up.tk
+www.bitkub.biz
 www.bitkub.fafa855casino.com
 www.bitkub.jp
 www.bitkub168.com
