@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 02:13:05 UTC 2024
-# Number of Entries: 107374
+# Fetch date: Mon Apr  1 03:01:44 UTC 2024
+# Number of Entries: 107381
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17833,6 +17833,7 @@ clonex.rlfkt.com
 clonexcorp.xyz
 clothestore-city.com
 cloud-app-git-feat-opensearch-walletconnect1.vercel.app
+cloud-base-dapp.vercel.app
 cloud-cache.xyz
 cloud-cloud-pink.glitch.me
 cloud-eth.cc
@@ -37632,6 +37633,7 @@ health-equity.click
 health-equity.sa.com
 health-equity.za.com
 healthcheck.com
+healthequity.comja.sa.com
 healthequity.comlink.sa.com
 healthequity.comru.sa.com
 healthequity.comru.za.com
@@ -48849,6 +48851,7 @@ meta-confirm.com
 meta-data.vip
 meta-desk.netlify.app
 meta-desk.store
+meta-drop.xyz
 meta-ev.info
 meta-event.net
 meta-event.space
@@ -48940,6 +48943,7 @@ meta-restore.pages.dev
 meta-restoreweb.pages.dev
 meta-retrieval.io
 meta-reward.com
+meta-rwrd.top
 meta-safelogin.com
 meta-sea.club
 meta-servers-online.com
@@ -49176,6 +49180,7 @@ metamaask.me
 metamaask.online
 metamaask.top
 metamaaskk.com
+metamaaskus.azurewebsites.net
 metamaaskwallett.godaddysites.com
 metamaassk.godaddysites.com
 metamack-wallet.com
@@ -52263,6 +52268,7 @@ metqamask.com
 metqmask.com
 metr-maksl6.online
 metramask.com
+metramassusk.azurewebsites.net
 metrograd.wl-link.xyz
 metronome-token.io
 metronome.foundation
@@ -52343,6 +52349,7 @@ metumasks.site
 metumaskwa11et.godaddysites.com
 metumaskwale-usa.godaddysites.com
 metwaliets.com
+metwamasnkus.azurewebsites.net
 metwamasus.azurewebsites.net
 metxamask.com
 metya-maksko.live
