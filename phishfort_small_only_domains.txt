@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 17:02:54 UTC 2024
-# Number of Entries: 8280
+# Fetch date: Mon Apr  1 18:02:15 UTC 2024
+# Number of Entries: 8281
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1137,7 +1137,6 @@ bllaast.com
 block.nodereset.com
 blockai-rewardsclaim.pages.dev
 blockbank.space
-blockchain-connect.com
 blockchain-issues-resolv.netlify.app
 blockchain-node-beta.vercel.app
 blockchainbets.netlify.app
@@ -3287,7 +3286,6 @@ jupcases.xyz
 jupclaim.org
 jupdrop66.com
 jupdrop88.com
-juphsgw.sbs
 jupit-eth.com
 jupiter-cats.org
 jupiter-eg7kfz9c1-wowcats.vercel.app
@@ -5097,6 +5095,7 @@ pancakeswap-connect.xyz
 pancakeswap-exchange-testnet.netlify.app
 pancakeswap-finance.mom
 pancakeswap-financee.netlify.app
+pancakeswap-finances.pages.dev
 pancakeswap-finnance.com
 pancakeswap-finnance.org
 pancakeswap-flnance.com
@@ -5489,6 +5488,7 @@ portlacoin.xyz
 portofilio-meta-mask-dapps.185-253-219-62.cprapid.com
 post-malone.store
 pre-ico.live
+predev-migrazerionzx.pages.dev
 preferbehavioral.com
 prelanding.pages.dev
 premium.athene.network
@@ -5802,7 +5802,6 @@ reewelprotocol.com
 reference.mypsx.net
 refreshingsiqnaccoount.com
 refund-agoda.com
-refund-ethereum.org
 refund.shidoprotocols.com
 refund.wallstretmemes.app
 reg-dym.xyz
@@ -5913,6 +5912,7 @@ revoke-algebra.com
 revoke-approvals.xyz
 revoke-approvals.xyz.polarmates.top
 revoke-cash-i9n0pa5cx-lahana.vercel.app
+revoke-cash-layer2.pages.dev
 revoke-cash.cash
 revoke-cash.org
 revoke-cash.xyz
@@ -5944,6 +5944,7 @@ revokecash.cash
 revokecash.ru
 revokecash.store
 revokecash.us
+revokecashexploit.pages.dev
 revokecashh.pages.dev
 revokecashn.com
 revokecashv2.com
