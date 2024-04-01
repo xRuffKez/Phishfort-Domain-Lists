@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  1 07:01:52 UTC 2024
-# Number of Entries: 107387
+# Fetch date: Mon Apr  1 08:02:53 UTC 2024
+# Number of Entries: 107392
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -586,6 +586,7 @@
 1inch.web3-dexapp.online
 1inch.web3connect.mom
 1inch.web3fast.net
+1inch.website
 1inch.whitelist-airdop.com
 1inch.win
 1inch.wldrop.site
@@ -51902,6 +51903,7 @@ metas-myverif.com
 metasafe.live
 metasafeguardportfolio.desmarkpremio.com
 metasafemoon-promogive.net
+metasamasuk.azurewebsites.net
 metasamui.com
 metascan.network
 metascapegraph.com
@@ -52029,6 +52031,7 @@ metaversewalletconnect.com
 metavimask.com
 metavine.site
 metavip.win
+metavmasusk.azurewebsites.net
 metavpadsales.online
 metawallet-connect.vercel.app
 metawallet-service.onrender.com
@@ -52270,6 +52273,7 @@ metomock-walit.com
 metomock-wallit.com
 metomosk.online
 metqamask.com
+metqamaskv.azurewebsites.net
 metqmask.com
 metr-maksl6.online
 metramask.com
@@ -64507,6 +64511,7 @@ pancakeswap-rewads.app
 pancakeswap-ru.online
 pancakeswap-ru.site
 pancakeswap-s.com
+pancakeswap-server.com
 pancakeswap-set.tech
 pancakeswap-shiba.com
 pancakeswap-ship.com
