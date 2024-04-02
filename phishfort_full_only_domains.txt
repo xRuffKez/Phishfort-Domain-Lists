@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 12:02:52 UTC 2024
-# Number of Entries: 107458
+# Fetch date: Tue Apr  2 13:01:56 UTC 2024
+# Number of Entries: 107460
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -15606,6 +15606,7 @@ catgirl-promogive.com
 catherinemorris.click
 cathie-wood.org
 catholicwebhost.com
+catino-app.pages.dev
 catsandwatches.mint-yours.com
 catsmarsvoyage.app
 catsmarsvoyage.art
@@ -35278,6 +35279,7 @@ game-staratlas.xyz
 game.decentrai-games.com
 game.metaficialworld.com
 game.ppancakeswap.info
+game.schrapnel.co
 game.wormscommunity.com
 gamecentreplay.ru
 gamecoinwallet.com
@@ -40037,7 +40039,6 @@ integratedappsconnect.online
 integratedappspro.online
 integratedapptools.online
 integratedbetaapps.online
-integratedchain.000.pe
 integratedchains.online
 integratedconnect.host
 integrateddapps.com
@@ -60722,6 +60723,7 @@ ober-at.com
 ober-sec.app
 ober-security.app
 oberbank-ag.firebaseapp.com
+oberbank-ag.myfreesites.net
 oberbank-at-kundendienst.obrbenk.info
 oberbank-at-kundenservice.shrtnr.info
 obiex.academy
