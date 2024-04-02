@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 18:02:01 UTC 2024
-# Number of Entries: 107466
+# Fetch date: Tue Apr  2 19:01:30 UTC 2024
+# Number of Entries: 107464
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -45446,7 +45446,6 @@ login.coinbasesupportscenterid.com
 login.coinbasesupportsid.com
 login.coinbasewalletsupport.com
 login.coinbasewalletsupports.com
-login.cw1.ir
 login.fraend.net
 login.frame-airdrop.xyz
 login.lblockhcoin.com
@@ -85574,7 +85573,6 @@ tokendappsvaliddator.com
 tokendappvalidator.netlify.app
 tokendappvaliddators.com
 tokendatasync.com
-tokendefi-rectification.com
 tokendrop-taiko.megumii.xyz
 tokendrop.top
 tokenencrypt.xyz
@@ -87054,7 +87052,6 @@ trustwallat-com.cf
 trustwallel.com
 trustwallet-airdrops.nftwealths.com
 trustwallet-app.erpnext.com
-trustwallet-bonus.com
 trustwallet-co.help
 trustwallet-community.109-71-253-24.plesk.page
 trustwallet-confirmation.xyz
@@ -100093,6 +100090,7 @@ www.metamask12.pro
 www.metamask2.bar
 www.metamask3.io
 www.metamask4.io
+www.metamask68.com
 www.metamask8.io
 www.metamask8.pro
 www.metamask88.com
