@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 12:03:49 UTC 2024
-# Number of Entries: 8268
+# Fetch date: Tue Apr  2 13:02:20 UTC 2024
+# Number of Entries: 8260
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -733,14 +733,12 @@ arb.airpuds.top
 arb.claimscrypto.top
 arb.t-wallets.top
 arb.tpuds.top
-arb.tr1onex.top
 arb.x-wallet.top
 arb.xcoindrop.top
 arb2.network
 arbaidoge.org
 arbetrum.foundation
 arbi-dex.one
-arbi-gifts.com
 arbination.site
 arbinucoin.vercel.app
 arbitrrum-bridge.com
@@ -752,7 +750,6 @@ arbitrum.devilinu.com
 arbitrum.reward-apps.com
 arbitrum.tr1onex.top
 arbitrum.trustpados.top
-arbitrum.xtrustpad-events.top
 arbitrumbridge.web3app.vip
 arbitrumclaims.net
 arbitrumdistribution.org
@@ -1330,6 +1327,7 @@ carvnprotocol.com
 cases-blockfi.com
 cases-stretto-com.net
 caspers.network
+catino-app.pages.dev
 catworlo.com
 caw.gift
 cbfeb953b53417d5.net
@@ -2308,7 +2306,6 @@ elogged.pages.dev
 elon-x.info
 em-suppliers.online
 emdeonmd.com
-eminentnoderestore.com
 emiraetes.online
 emirateairlines.net
 emiratedistributions.online
@@ -2689,6 +2686,7 @@ galxe.stream
 galxerewards.app
 galxxe.github.io
 game-mavia.pages.dev
+game.schrapnel.co
 game.wormscommunity.com
 gamee-snapshots.vercel.app
 gamemetalist.com
@@ -3095,7 +3093,6 @@ insure-defi.org.cogwise-app.com
 integratebitchainfix.pages.dev
 integratechaindefi.pages.dev
 integratedapps.pages.dev
-integratedchain.000.pe
 integratedfix.live
 integratedmultifix.pages.dev
 integratedsystemsconnect.com
@@ -4799,6 +4796,7 @@ o2-kundenverwaltung.info
 o2online-service.de
 oasisprotocols.org
 ob-app.com
+oberbank-ag.myfreesites.net
 ocbre.com
 ocdpool.xyz
 oceantoken.net
@@ -4847,7 +4845,6 @@ onchain-api.onrender.com
 onchainmonkeys.shop
 onchainmonkeys.tech
 oneamerica.icu
-onearbitrum.checkterms.com
 ongcmumbaihigh.in
 ongoing-jup.app
 online.subscriibe.shop
@@ -5818,7 +5815,6 @@ register-syncus.com
 register-traderjoexyz.com
 register-wenwencoin.com
 register-yuliverse.app
-register-zksync.net
 register.availproject.trading
 register.befislabs.events
 register.pengonsol.xyz
@@ -5945,9 +5941,7 @@ revokes-cash.xyz
 revokeu.cash
 revokewallets.cash
 revokje.cash
-revshare-access.pages.dev
 revshare-palmai.tech
-revshareaccess.pages.dev
 revshareonline.pages.dev
 revvmotorsport.tech
 revweb3-access.pages.dev
@@ -6360,7 +6354,6 @@ smartlayer-drop.com
 smartlayer-drop.net
 smartlayer-drops.com
 smartlivemultiverseconnects.online
-smartmigratez.com
 smartnoderevoke.pages.dev
 smartrectification.pages.dev
 smartreviseprotocol.pages.dev
@@ -8229,7 +8222,6 @@ zks-labsfoundation.com
 zks-labsfoundation.net
 zks-reward.org
 zks-skalling.net
-zksclaimreward.net
 zkshield.blog
 zksinc.github.io
 zkskull.com
