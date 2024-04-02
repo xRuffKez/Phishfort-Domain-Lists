@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 04:02:31 UTC 2024
-# Number of Entries: 8288
+# Fetch date: Tue Apr  2 05:02:11 UTC 2024
+# Number of Entries: 8292
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -174,6 +174,7 @@ accountsvalidator.com
 acefusionist.network
 achieve-altlayer.io
 achieve-altlayer.pages.dev
+achtama.info
 acrosss-bridge.xyz
 active-supp-ort-meta.netlify.app
 admin.makerdao.top
@@ -214,8 +215,6 @@ agoda.partner-extranet.life
 agoda.weboffer7181.com
 agoda.ycs-id.info
 agoda.ycs.my.id
-agoda88.cc
-agoda88.top
 agoda88.vip
 agodaa.life
 agodaa.masukmobilee.de
@@ -224,7 +223,6 @@ agodaaffiliate.com
 agodachina.cn
 agodacs.online
 agodahotel.cc
-agodajob.com
 agodaonline.com
 agodapay.info
 agodatikethotelcom.masukmobilee.de
@@ -961,6 +959,7 @@ befilab.com
 befilabs.foundation
 bellaprotocol.cloud.augusttarget.online
 beltsmania.com
+ben-fi.com
 bendado.xyz
 benddoa.xyz
 bendogsolana.top
@@ -1310,6 +1309,7 @@ cakespie.net
 cakespie.org
 cakeswap.me
 cakeswp.app
+cakeudefi.com
 calestis.info
 call-center-agoda.online
 camaroterj-ticketm.online
@@ -2845,6 +2845,7 @@ gmesolana.com
 gmfinancialcareers.com
 gmfinancialjobs.com
 gmn.dvrcam.info
+gmnt.org
 gmpnol.info
 gmvendorbillinginterest.com
 gmws.eu
@@ -5106,6 +5107,7 @@ pancakeswap-finnance.com
 pancakeswap-finnance.org
 pancakeswap-flnance.com
 pancakeswap-fniance.com
+pancakeswap-live.pages.dev
 pancakeswap-pancakeswap.com
 pancakeswap-pancakeswap.net
 pancakeswap-platform.pages.dev
@@ -5307,6 +5309,7 @@ pcpgxr.top
 pcs-cakexdefi.com
 pcs-defistakev3.com
 pcs-myteam.com
+pcs-myteam3.com
 pcs.payflowtoken.com
 pcsfarm-v3.com
 pcwdf-hkteam.com
@@ -7120,6 +7123,7 @@ uwv475.com
 uzmanplatform.com
 v1-vlaunch.com
 v2-pancake.pages.dev
+v2-pancakeswap.github.io
 v2.stakewise-finance.com
 v2.stakewise.info
 v3-pancakeswap.pages.dev
