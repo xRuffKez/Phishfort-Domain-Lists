@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 15:02:15 UTC 2024
-# Number of Entries: 8259
+# Fetch date: Tue Apr  2 16:02:32 UTC 2024
+# Number of Entries: 8261
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -651,6 +651,7 @@ app.refundcoinstake.com
 app.rnino.fi
 app.solvsprotocol.com
 app.sparkprotocol.fi
+app.stonexvip.top
 app.stringwebtools.com
 app.swellnetwork.fi
 app.trezoriosstart.com
@@ -1292,6 +1293,7 @@ cakedpie.net
 cakekoreanswap.site
 cakelottery.finance
 cakelottery.online
+cakemagpie.pages.dev
 cakepie-whitelist.xyz
 cakepies-web3.app
 cakepiexyz.pages.dev
@@ -1598,7 +1600,6 @@ co.llabz.land
 co11ab-1and.com
 codeai.space
 codefi.ws
-codefp.store
 codexchain.org
 codexlabs.xyz
 coiappresolve.pages.dev
@@ -1650,6 +1651,7 @@ col.lobs.land
 colabland.bond
 colabllandsyncapp.com
 colabllandsyncapps.com
+coleywilbet.com
 collab-award.io
 collab-conects.com
 collab-connect.pages.dev
@@ -1827,7 +1829,6 @@ cyberkongz.pro
 cyberlama.app
 cyberx-staging.vercel.app
 d.stonexdmffh.top
-d.stonexgkkof.top
 d0cusiqn.hottern.click
 d3-shib.app
 d394f31195472c.net
@@ -1945,7 +1946,6 @@ davipse.info
 davitahealthcarepartners.com
 daviviendainforma.zya.me
 daviviendaportal.webcindario.com
-dbrsco.net
 dbrsco.org
 dbrscotd.com
 dbrsfds.com
@@ -2053,6 +2053,7 @@ deskauthnode.xyz
 deskmainnetsynch.com
 detma-secure.insystdetmaa.in
 detma.online
+detmassonline.com
 detnmama.com
 dev-dese-mo-gov.pantheonsite.io
 dev-the-metamask-support.pantheonsite.io
@@ -2737,6 +2738,7 @@ genesisdems.com
 genesisdimension.xyz
 genesisdymension.com
 genesisroll.com
+genixs.co
 genpartstore.com
 gensis-dymension.xyz
 geosatelites.com
@@ -3647,7 +3649,6 @@ lzas3.pro
 m-mask.top
 m-usdt.xyz
 m.8x3wsx.top
-m.auditoriumignition.top
 m.cdzhjzx.com
 m.dscd888.com
 m.dzsqc.com
@@ -6359,7 +6360,6 @@ smartreviseprotocol.pages.dev
 smartreviseweb.pages.dev
 smartsheets.site
 smartsheetusa.team
-smartsheetusa.work
 smarttdappfix.pages.dev
 smartwebmultiverse.eu
 smiley-token.network
@@ -6982,6 +6982,7 @@ ufgw.top
 uhcdapp-apply-srv-eligible.glitch.me
 uhcrecruit.com
 uimplmassa.com
+uionlineheda.com
 uiredofmassucherndy.com
 ujp.ag
 uk-applovinlife.com
@@ -7810,6 +7811,7 @@ www.meta009911.com
 www.meta2842.com
 www.metamask-mining.com
 www.metamask.best
+www.metamask08.com
 www.metamask12.pro
 www.metamask88.com
 www.metamaskaa.com
