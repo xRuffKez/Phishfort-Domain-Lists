@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 05:01:35 UTC 2024
-# Number of Entries: 107440
+# Fetch date: Tue Apr  2 06:02:00 UTC 2024
+# Number of Entries: 107445
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2568,6 +2568,7 @@ achieflocker.com
 achieve-altlayer.io
 achieve-altlayer.pages.dev
 achieveagoda.com
+achtama.info
 acilkazan.site
 acilkazanmalisin.site
 acive-support.netlify.app
@@ -43993,6 +43994,7 @@ lindaikejisocial.com
 lindonft.us
 line-blockchain.xyz
 line-crypto.com
+linea-2024.com
 linea-app.services-web3-claiming.xyz
 linea-app.web3-requests-bonus.info
 linea-buiild.com
@@ -64437,7 +64439,6 @@ pancakeswap-funding.tech
 pancakeswap-gener.tech
 pancakeswap-give.com
 pancakeswap-give2021.com
-pancakeswap-giveaway.com
 pancakeswap-giveaway.net.do
 pancakeswap-giveaway.online
 pancakeswap-global.com
@@ -64547,7 +64548,6 @@ pancakeswap-rewads.app
 pancakeswap-ru.online
 pancakeswap-ru.site
 pancakeswap-s.com
-pancakeswap-server.com
 pancakeswap-set.tech
 pancakeswap-shiba.com
 pancakeswap-ship.com
@@ -66000,6 +66000,7 @@ pancakeswapfiancen.app
 pancakeswapfiinacial.com
 pancakeswapfiinance.com
 pancakeswapfiinance.tk
+pancakeswapfiinance.xyz
 pancakeswapfile.com
 pancakeswapfin.app
 pancakeswapfin.com
@@ -66768,6 +66769,7 @@ pancaksawp.store
 pancakse-swap.com
 pancakseswap.com
 pancakseswap.finance
+pancaksewaq-finance.com
 pancaksewrap.com
 pancaksswap-fisnance.com
 pancaksvep.com
@@ -68692,6 +68694,7 @@ pcs.payflowtoken.com
 pcsdf-mining.com
 pcsfarm-v3.com
 pcshelpdesk.co
+pcsstake-v3.com
 pcwdf-hkteam.com
 pcyiocity.com
 pcylccity.com
@@ -68847,6 +68850,7 @@ pepe-giveaway.com
 pepe-kid.fun
 pepe-launch.top
 pepe-memecoins.com
+pepe-memes.com
 pepe-now.network
 pepe-receive.pw
 pepe-rewards.net
@@ -82762,6 +82766,7 @@ swap.bulleto.io
 swap.bxh.xyz
 swap.circleusdc.in
 swap.cowfi.exchange
+swap.dikecoin.net
 swap.jumperexchange.net
 swap.lidonft.info
 swap.linktoken.co
