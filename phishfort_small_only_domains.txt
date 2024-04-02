@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 21:02:10 UTC 2024
-# Number of Entries: 8254
+# Fetch date: Tue Apr  2 22:02:12 UTC 2024
+# Number of Entries: 8252
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1026,7 +1026,6 @@ binancnftcoin.com
 binansce.com
 bingbongs-zoras.com
 binnance.app
-biogreenasia.com
 biraxy.xyz
 birbmigrate.live
 birdeye-ya3sbou-frontned.onrender.com
@@ -4008,7 +4007,6 @@ mavia.cc
 mavia.land
 mavia.lc
 mavia.pages.dev
-mavia.pm
 mavia.website
 mavia.work
 maviagames.network
