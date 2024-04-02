@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 10:02:14 UTC 2024
-# Number of Entries: 8277
+# Fetch date: Tue Apr  2 11:02:49 UTC 2024
+# Number of Entries: 8270
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -210,9 +210,7 @@ agoda-jps.com
 agoda.config-guest178.com
 agoda.host
 agoda.ib-web.online
-agoda.offer18239.com
 agoda.partner-extranet.life
-agoda.res94219.com
 agoda.weboffer7181.com
 agoda.ycs-id.info
 agoda.ycs.my.id
@@ -1670,20 +1668,16 @@ collab-verify.io
 collab.bot-community.com
 collab.land-satoshivm.com
 collab.land-verifeds.com
-collab.landsecurebot.com
 collabandverify.onrender.com
 collabandverify.vercel.app
 collabaward.site
 collabgift.space
 collabiand-verify-github.com
-collabland-api.net
 collabland-assest.com
 collabland-community.net
 collabland-connect.net
-collabland-join.net
 collabland-members.net
 collabland-safety.net
-collabland-security.net
 collabland-verification.xyz
 collabland-verify.co
 collabland-wallets.com
@@ -2591,7 +2585,6 @@ flowerand7.xyz
 fluffy-hotteok-b5b58b.netlify.app
 flukeoutil.com
 fluxfinance.app
-flxedfloat.pages.dev
 flyemirates.cloud
 flyemirates.my.id
 flyemirates.space
@@ -3294,7 +3287,6 @@ jupiterproject.website
 jupiters-web3.app
 jupiters-web3.net
 jupiters-web3.org
-jupjup.lat
 jupjup8.com
 jupjup9.com
 juppbox.biz
@@ -6725,6 +6717,7 @@ t528.com
 t5nv5.cc
 tabsync.pages.dev
 tahodistribution.com
+taichinhbidv.com
 taiko.io-c.org
 taiko.org-t.co
 taikoxyz.com
