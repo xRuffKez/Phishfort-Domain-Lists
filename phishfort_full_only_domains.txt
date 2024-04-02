@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 04:01:53 UTC 2024
-# Number of Entries: 107435
+# Fetch date: Tue Apr  2 05:01:35 UTC 2024
+# Number of Entries: 107440
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -10902,6 +10902,7 @@ bellyful.co
 belmall.net
 beltsmania.com
 beminfantils.blogspot.com
+ben-fi.com
 benaefarzamas.net
 benaras.one
 benbutterfield.co.uk
@@ -15307,6 +15308,7 @@ cakeswapl.com
 cakeswaps.com
 cakeswp.app
 caketoken.net
+cakeudefi.com
 cakevalidation.finance
 cakevalidations.finance
 cakewalletassist.tips
@@ -36811,6 +36813,7 @@ gmfstoken.com
 gmmexico.com.mx
 gmn.dvrcam.info
 gmnomemines.com
+gmnt.org
 gmoneyclaim.netlify.app
 gmpnol.info
 gmsstatistics.com
@@ -64479,6 +64482,7 @@ pancakeswap-larg.tech
 pancakeswap-left.tech
 pancakeswap-lefter.tech
 pancakeswap-life.tech
+pancakeswap-live.pages.dev
 pancakeswap-log-in.nefft-hr.com
 pancakeswap-login.com
 pancakeswap-login.pw
@@ -68683,6 +68687,7 @@ pcs-arb.nhancv.com
 pcs-cakexdefi.com
 pcs-defistakev3.com
 pcs-myteam.com
+pcs-myteam3.com
 pcs.payflowtoken.com
 pcsdf-mining.com
 pcsfarm-v3.com
@@ -89642,6 +89647,7 @@ v2-pancake.com
 v2-pancake.pages.dev
 v2-pancakefinance.live
 v2-pancakeswap.finance
+v2-pancakeswap.github.io
 v2-pancakeswap.rf.gd
 v2-paraswap.com
 v2-pepe.com
@@ -97423,7 +97429,6 @@ www.bitkub-coin.ml
 www.bitkub-otc.xyz
 www.bitkub-up.cf
 www.bitkub-up.tk
-www.bitkub.biz
 www.bitkub.fafa855casino.com
 www.bitkub.jp
 www.bitkub168.com
