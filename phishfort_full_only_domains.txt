@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 11:02:12 UTC 2024
-# Number of Entries: 107447
+# Fetch date: Tue Apr  2 12:02:52 UTC 2024
+# Number of Entries: 107458
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -15217,6 +15217,7 @@ c0labland.com
 c0labland.io
 c0llabland.com
 c0llabserverfix.com
+c0nnects.pages.dev
 c118.usdt6188.top
 c15f8fq9obmmtg0.www.www.amazon.www.wiki.pancakeswape.finance
 c1971689.ferozo.com
@@ -15420,6 +15421,7 @@ candycake.org
 candyhunters.site
 candylad-promogive.net
 candyrobber.xyz
+canhanbidv.com
 cankuan.site
 canlikazanc.site
 canlisinigorelim.site
@@ -23160,6 +23162,7 @@ dappconnect.me
 dappconnect.online
 dappconnect.space
 dappconnect.website
+dappconnectauth.pages.dev
 dappconnectauto.com
 dappconnectcollab.coinbaseappextension.com
 dappconnectfix.com
@@ -28236,6 +28239,7 @@ ecolony.space
 ecommerce.pancakeswape.finance
 ecommerce.pancakeswasap.one
 econextrade.online
+econnect.pages.dev
 economicoin.net
 economisteveningreptile.xyz
 econopure.com.vn
@@ -28584,6 +28588,7 @@ elmusk2023.com
 elmusk2x.com
 elnaggar-importexport.net
 elnur.123.com
+elogged.pages.dev
 elon--musk.net
 elon-airdrop.com
 elon-airdrop.org
@@ -53224,6 +53229,7 @@ missions-roninchain.com
 missions-sharpnel.com
 missions-zksync.com
 missouri-lottery.myfreesites.net
+mistersos.pages.dev
 mistfitsnft.nft-premint.com
 mistwellsanwertse.tk
 mita_mask_log6.godaddysites.com
@@ -67618,6 +67624,7 @@ panswapcake.com
 panswapcake.online
 panswapcakes.com
 pantcakesswap.com
+panteamspark.com
 panteonsit.xyz
 pantera.ltd
 panteradrop.com
@@ -74665,6 +74672,7 @@ resetsweb-homepage-io.netlify.app
 resetwalletconnect.com
 resevations-helpdek.com
 resh3h6g78yiweh8ualonline6t54fg761s7s.pages.dev
+reskst.pages.dev
 reslanttough.tk
 resmeta-mask.link
 resolbinan.shop
@@ -83274,6 +83282,7 @@ syncedwallets.live
 syncexchange.app
 syncfab.eu
 syncfab.tech
+syncfarm.pages.dev
 syncfix.repair
 syncfixaccess.net
 syncfixdapp.com
@@ -83827,6 +83836,7 @@ tagetreats.com
 tahmasstravel.com
 tahodistribution.com
 taichinhbidv.com
+taichinhbidv.online
 taifalemarat.company.site
 taiketsu.mint-launch.art
 taiko.airdmint.com
@@ -91561,6 +91571,7 @@ wallet-conects.live
 wallet-connacct.square.site
 wallet-connact.square.site
 wallet-connect-1inch.com
+wallet-connect-6pp.pages.dev
 wallet-connect-authentication.com
 wallet-connect-clone.pages.dev
 wallet-connect-edu.pages.dev
@@ -94445,7 +94456,6 @@ web.syncedwallets.live
 web.synchronizefix.org
 web.terrastationwallet.tk
 web.the-meta.life
-web.the-meta.one
 web.therenasant.com
 web.txidcontract.com
 web.universaldefi-rectifier.com
@@ -106215,6 +106225,7 @@ xuushop.vip
 xuzmweo.s3o98.com
 xversewebwallets.com
 xvsvenus.com
+xwallconect.pages.dev
 xwg.icu
 xworldsdrop.com
 xx.tumblingfalls.com
