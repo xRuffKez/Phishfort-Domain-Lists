@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 05:02:11 UTC 2024
-# Number of Entries: 8292
+# Fetch date: Tue Apr  2 06:02:38 UTC 2024
+# Number of Entries: 8295
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3168,7 +3168,6 @@ issuesfixed.website
 it.support.swift-ness.com
 itaca.in
 italianoinfo.net
-item-stats.com
 iykapp.xyz
 izumis.finance
 j2gkzzu.top
@@ -3556,6 +3555,7 @@ lilostake.lol
 lilpudgys-mint.com
 linae-parks.com
 lindonft.us
+linea-2024.com
 linea-consensys.world
 linea-layerfinance.com
 linea-park.com
@@ -5111,7 +5111,6 @@ pancakeswap-live.pages.dev
 pancakeswap-pancakeswap.com
 pancakeswap-pancakeswap.net
 pancakeswap-platform.pages.dev
-pancakeswap-server.com
 pancakeswap.airdrop-cake-v3.com
 pancakeswap.cc
 pancakeswap.click
@@ -5125,6 +5124,7 @@ pancakeswap.systeme.io
 pancakeswapairdrop-event.finance
 pancakeswapairdrop.com
 pancakeswapairdropevent.finance
+pancakeswapfiinance.xyz
 pancakeswapfinance-gg3.pages.dev
 pancakeswaph.github.io
 pancakeswapp.finance
@@ -5141,6 +5141,7 @@ pancakesweb.finance
 pancakeswop.web.app
 pancakeswp.github.io
 pancakeswwap.com
+pancaksewaq-finance.com
 pancakswaip.com
 pancakswap.fi
 pancakswap.finance
@@ -5312,6 +5313,7 @@ pcs-myteam.com
 pcs-myteam3.com
 pcs.payflowtoken.com
 pcsfarm-v3.com
+pcsstake-v3.com
 pcwdf-hkteam.com
 pcyiocity.com
 pcylccity.com
@@ -5333,6 +5335,7 @@ penguinrandomhouseglobal.com
 penguinrandomhouseofficial.com
 penguinrandomhouseworldwide.com
 pepe-awards.com
+pepe-memes.com
 pepe-now.network
 pepe-team.com
 pepe-v2.link
@@ -5427,7 +5430,6 @@ plantagmsilao.com.mx
 plantajohnsoncontrols.com
 platform-blast.com
 platform-tycoon.xyz
-play-gamer.com
 play-pixelsapp.xyz
 playbux.info
 playbuxdrop.xyz
@@ -6670,6 +6672,7 @@ swap-jupiter.com
 swap-nft.pages.dev
 swap-raydium.io
 swap-revoke.cash
+swap.dikecoin.net
 swap.pancake.us.com
 swap.pancake.us.org
 swapcake.cc
