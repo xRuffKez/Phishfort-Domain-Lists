@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 06:02:38 UTC 2024
-# Number of Entries: 8295
+# Fetch date: Tue Apr  2 07:02:26 UTC 2024
+# Number of Entries: 8296
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2506,6 +2506,7 @@ factsync.pages.dev
 familylink-oracle.com
 familysavingamerica.pro
 fanciful-cat-81da50.netlify.app
+fanciful-salmiakki-469876.netlify.app
 faracster.xyz
 farcana-es2.pages.dev
 farcana.world
@@ -3513,7 +3514,6 @@ lessfaesandgas.com
 lessfeeandgas.org
 lessfeesandgas.com
 lessfeeseandgas.com
-lessfeesendgas.com
 lessfeesendgas.org
 lethal222.rf.gd
 lfg-jup-claims.pages.dev
@@ -6788,6 +6788,7 @@ test.saf9gti25klom8xz79iyn2s.xyz
 test3123123132.pages.dev
 testdomainstesting2.com
 testnet-berachain.com
+testnet-vm.web.app
 testnets-reform.com
 testrunner111.pages.dev
 testrunner222.pages.dev
