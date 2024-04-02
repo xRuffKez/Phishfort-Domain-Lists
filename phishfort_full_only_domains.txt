@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 21:02:01 UTC 2024
-# Number of Entries: 107460
+# Fetch date: Tue Apr  2 22:01:36 UTC 2024
+# Number of Entries: 107459
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -48203,7 +48203,6 @@ mavia.cc
 mavia.land
 mavia.lc
 mavia.pages.dev
-mavia.pm
 mavia.web3-airdrop.net
 mavia.website
 mavia.work
