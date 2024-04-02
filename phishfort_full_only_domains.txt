@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 15:01:39 UTC 2024
-# Number of Entries: 107461
+# Fetch date: Tue Apr  2 16:01:53 UTC 2024
+# Number of Entries: 107466
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6407,6 +6407,7 @@ app.steemstake.com
 app.step-apps.com
 app.step-launch.com
 app.step-launchpad.com
+app.stonexvip.top
 app.stringwebtools.com
 app.strongeblocke.com
 app.superapemints.org
@@ -15287,6 +15288,7 @@ cakedpie.net
 cakekoreanswap.site
 cakelottery.finance
 cakelottery.online
+cakemagpie.pages.dev
 cakenft.xyz
 cakepad.org
 cakepie-whitelist.xyz
@@ -17991,7 +17993,6 @@ codeartenterprises.com.au
 codebucket.net
 codefi.ws
 codeflick.site
-codefp.store
 codeinfinity.net
 codemonk.gift
 codequiver.com
@@ -19585,6 +19586,7 @@ colchoesma.blogspot.com
 coldstack.jobsrepublic.biz
 colegio-claridad.com
 coletteofficial.xyz
+coleywilbet.com
 colingecko.link
 colinlandds.buzz
 colinmarketcap.us
@@ -26154,6 +26156,7 @@ detmaduama.com
 detmaea.com
 detmai.online
 detmassagoverst.com
+detmassonline.com
 detmauibenefits.org
 detmauimass.org
 detme.org
@@ -35590,6 +35593,7 @@ genesisroll.com
 genetec-inc.com
 geniexyz.claims
 geniusyieldvalidate.expert
+genixs.co
 genkai-cyberkongz.app
 genkai-cyberkongz.com
 genkai-mint.com
@@ -79430,7 +79434,6 @@ smartsheet.net.cn
 smartsheet.voklop.pro
 smartsheets.site
 smartsheetusa.team
-smartsheetusa.work
 smartshet.com
 smartsoilutiontec.live
 smartsolliution.live
@@ -87621,6 +87624,7 @@ uionlineddetmaa.net
 uionlineddetmaa.org
 uionlinedetma.com
 uionlinedetmaea.com
+uionlineheda.com
 uionlineidetma.org
 uionlineinsurance.com
 uionlkinr.com
@@ -100083,6 +100087,7 @@ www.metamask.usertool.org
 www.metamask.vip
 www.metamask003.com
 www.metamask004.com
+www.metamask08.com
 www.metamask10.co
 www.metamask12.pro
 www.metamask2.bar
