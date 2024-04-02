@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 14:01:41 UTC 2024
-# Number of Entries: 107460
+# Fetch date: Tue Apr  2 15:01:39 UTC 2024
+# Number of Entries: 107461
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -20826,6 +20826,7 @@ consauthenticateonnft.org
 consensus-poschain.live
 consensus.buzz
 consensusintegration.io
+consensys-kycverifcation.com
 consensys-nft.online
 consensys-nft.space
 consensys-nft.website
@@ -22991,7 +22992,6 @@ dapp-solution.pages.dev
 dapp-solution.web.app
 dapp-solutions.net
 dapp-starter-1s2gz5hbg-dunghd.vercel.app
-dapp-starter-ju06cb1h2-dunghd.vercel.app
 dapp-station.firebaseapp.com
 dapp-station.web.app
 dapp-support.com
@@ -79430,6 +79430,7 @@ smartsheet.net.cn
 smartsheet.voklop.pro
 smartsheets.site
 smartsheetusa.team
+smartsheetusa.work
 smartshet.com
 smartsoilutiontec.live
 smartsolliution.live
@@ -80212,7 +80213,6 @@ solgiftclaim.net
 solgive.pw
 solgives.org
 soliascan.work
-solicitudesberkley.es
 solidfix.cc
 solidfix.live
 solidity-web3.com
@@ -95510,6 +95510,7 @@ wi-31.onrender.com
 wi.notifier.selfip.org
 wickensnft-mint.pdma.live
 wickvalidate.live
+widget-additional.pages.dev
 widget-builder-ef3hbs3sz-superfluid-finance.vercel.app
 widget-builder-qshic4oxu-superfluid-finance.vercel.app
 widgets.ibexofmark.com
