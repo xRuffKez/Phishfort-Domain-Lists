@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 14:02:13 UTC 2024
-# Number of Entries: 8260
+# Fetch date: Tue Apr  2 15:02:15 UTC 2024
+# Number of Entries: 8259
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1743,6 +1743,7 @@ connectweb3-trustwallet.com
 connectxr-fixer.rf.gd
 connext.fi
 conocophillispcorp.com
+consensys-kycverifcation.com
 consensys-verification.com
 consensys.web3-provide.com
 consensysclaim.com
@@ -1853,7 +1854,6 @@ dapp-pendle.finance
 dapp-resolver.pages.dev
 dapp-solution.pages.dev
 dapp-starter-1s2gz5hbg-dunghd.vercel.app
-dapp-starter-ju06cb1h2-dunghd.vercel.app
 dapp-vulcan.xyz
 dapp.radar.skin
 dapp.zkmll.systems
@@ -5559,7 +5559,6 @@ pvth-network.com
 pwe-limited.com
 pwsign.com
 pwtradeco.com
-pwxskm.cfd
 pxffsite.web.app
 pyro-nft-vercel.pages.dev
 pyrthdex.com
@@ -6360,6 +6359,7 @@ smartreviseprotocol.pages.dev
 smartreviseweb.pages.dev
 smartsheets.site
 smartsheetusa.team
+smartsheetusa.work
 smarttdappfix.pages.dev
 smartwebmultiverse.eu
 smiley-token.network
@@ -6407,7 +6407,6 @@ solblaze.cx
 soldrop.pages.dev
 solflareweb.com
 solgift6.com
-solicitudesberkley.es
 sollfare.com
 solmigrate.com
 sols-meta.web.app
@@ -7480,6 +7479,7 @@ whitelistrabby.pages.dev
 whitelists-getblockgame.com
 whitelists-redstone.com
 whitelists-roninchain.com
+widget-additional.pages.dev
 wigggin.com
 wild.gift
 windowsbackuprecovery.com
@@ -8040,7 +8040,6 @@ xaimint.net
 xaimintnow.com
 xaimintopen.net
 xaiodysseymint.com
-xalzcp.cfd
 xbitpet.com.hightensor.net
 xchngecrypto.buzz
 xhl.demo888.xyz
