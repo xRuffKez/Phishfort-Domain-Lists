@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 20:02:33 UTC 2024
+# Fetch date: Tue Apr  2 21:02:10 UTC 2024
 # Number of Entries: 8254
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -359,7 +359,6 @@ airdropofpepe.com
 airdrops-altlayer.io
 airdrops-altlayer.xyz
 airdrops-caga.web.app
-airdrops-jup.com
 airdrops-sei.web.app
 airdrops-zkfair.io
 airdrops.cyou
@@ -2878,6 +2877,7 @@ gtmmypayroll.com
 gtoswapportal.pages.dev
 gtprotocol.net
 guitarsbyfender.com
+gulbelt.top
 gunitswiftcommunityswap.com
 gwabagu.pages.dev
 gzfd4.cc
