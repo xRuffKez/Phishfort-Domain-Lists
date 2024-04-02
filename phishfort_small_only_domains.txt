@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 03:02:37 UTC 2024
-# Number of Entries: 8290
+# Fetch date: Tue Apr  2 04:02:31 UTC 2024
+# Number of Entries: 8288
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -210,9 +210,7 @@ agoda-jps.com
 agoda.config-guest178.com
 agoda.host
 agoda.ib-web.online
-agoda.offer18239.com
 agoda.partner-extranet.life
-agoda.res94219.com
 agoda.weboffer7181.com
 agoda.ycs-id.info
 agoda.ycs.my.id
@@ -3561,6 +3559,7 @@ linea-consensys.world
 linea-layerfinance.com
 linea-park.com
 linea.baby
+linea.contact
 linea2024.com
 lineaa.cyou
 lineablobs.com
@@ -4067,7 +4066,6 @@ meebits.store
 mefamask.com
 mehrleseninformieren.com
 mehrlesenzeitung.com
-melea.io
 meleadapp.com
 melstroy.by
 members-kcchamber.com
@@ -6919,6 +6917,7 @@ ton.org-community.info
 ton.org-newyear.fun
 ton.x-wallet.top
 tonclaim.online
+tonevecher.com
 tool-orb.web.app
 top-satoshivm.io
 topprice-line.com
@@ -7068,7 +7067,6 @@ unpacknft1.pages.dev
 unsiwap.app-swap.us.org
 unstoppable-domains.net
 unstoppable-domains.top
-unstoppabledomain.info
 unstoppabledomains.games
 unstoppabledomains.me
 unstoppabledomains.metaducks.com.ru
