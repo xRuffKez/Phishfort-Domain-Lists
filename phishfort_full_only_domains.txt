@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 03:01:59 UTC 2024
+# Fetch date: Tue Apr  2 04:01:53 UTC 2024
 # Number of Entries: 107435
 # Expires: 1 hour
 0-metemask.com
@@ -3054,9 +3054,7 @@ agoda.host
 agoda.ib-web.online
 agoda.icu
 agoda.lovestoblog.com
-agoda.offer18239.com
 agoda.partner-extranet.life
-agoda.res94219.com
 agoda.resew-r.world
 agoda.shop
 agoda.take-t.top
@@ -44016,6 +44014,7 @@ linea.baby
 linea.bridge-web3.com
 linea.claims
 linea.connectweb3.org
+linea.contact
 linea.drops.su
 linea.eth-network.com
 linea.eu
@@ -85910,6 +85909,7 @@ toncoin-event.com
 toncoin.cfd
 toncoin.eng-ton.org
 toncoln.me
+tonevecher.com
 tongram.me
 tongramico.com
 tonight.sadwing.za.com
