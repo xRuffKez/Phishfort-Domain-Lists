@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 20:01:56 UTC 2024
-# Number of Entries: 107463
+# Fetch date: Tue Apr  2 21:02:01 UTC 2024
+# Number of Entries: 107460
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -28999,7 +28999,6 @@ en-suiswap.net
 en-sync-dapps.pages.dev
 en-sync-protocol.com
 en-sync-solution.com
-en-telegram.com
 en-trustwallet.com
 en-us.click
 en-wallet.com
@@ -37399,6 +37398,7 @@ guiser.rewardweb3.com
 guitarsbyfender.com
 gulbansaklon.site
 gulbanzan.site
+gulbelt.top
 gulfcrescentengineering.com
 gulkanmanaz.site
 gulnerban.site
@@ -67757,7 +67757,6 @@ parallel.wl-minting.cc
 parallellife.app
 parallellife.art
 parallellife.ltd
-parallellife.net
 parallellife.zone
 parallelmetaspace.com
 parallelmint.com
@@ -68735,7 +68734,6 @@ peacemakerinu.com
 peacewithpain.mx
 peachapeclub.xyz
 peak.uniswap.team
-peakdefi.net
 peancekeswop.finance
 peapodsfinance.app
 peapodsfinanceweb.com
@@ -95174,7 +95172,6 @@ webskyweavervs.net
 websmart-de.fi
 websmartauths.com
 websnode.com
-websnode.net
 websnoder.com
 websolution.pages.dev
 websolutionserver.com
