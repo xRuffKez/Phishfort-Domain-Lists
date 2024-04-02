@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 00:05:10 UTC 2024
-# Number of Entries: 107425
+# Fetch date: Tue Apr  2 01:25:04 UTC 2024
+# Number of Entries: 107435
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6415,6 +6415,7 @@ app.sushicom.site
 app.sushiswp.icu
 app.sushiswp.website
 app.suui.io
+app.swellnetwork.fi
 app.swiftblockresolve.com
 app.sync-web3dapps.live
 app.synchconnects.net
@@ -8166,6 +8167,7 @@ asxwallet.xyz
 asxx-bit.com
 asxx-coin.com
 asxx-pro.com
+asxxdvv.a1sasset.org
 asxxdvv.asxmm.org
 async-fix.live
 at-meetmask.com
@@ -21021,6 +21023,7 @@ corewallet.icu
 corexbit.com
 corgalift.top
 cornerdrop.org
+cornerpunks.org
 coronausa.online
 corp.pancakeswape.finance
 corporate-paxful.com
@@ -24308,7 +24311,6 @@ dappsyncprotocol.online
 dappsyncrectify.com
 dappsyncs.co
 dappsyncs.com
-dappsyncs.net
 dappsyncsnetlive.site
 dappsyncsupport.com
 dappsynctools.netlify.app
@@ -26514,6 +26516,7 @@ dflnlty.org
 dfnity.org
 dftnity.org
 dftx.vip
+dfx-stablecoin.web.app
 dfxbridge.com
 dfycy.com
 dfyn-protocol.com
@@ -34302,6 +34305,7 @@ frontyardcompanyio.live
 frostsync.pages.dev
 frostyfloki-promogive.com
 froued.com
+frp.bio
 frrax.finance
 frregge.com
 frustpad.com
@@ -47969,6 +47973,7 @@ masslottery.lotteryvault.net
 masslottery.online
 masslouilionusma.com
 massloustvc.com
+massmutualauth.com
 massonline.mprofile.org
 massposos.com
 masssccaradd.com
@@ -72042,6 +72047,7 @@ primeartstore.com
 primebunny.mint-salesweb.com
 primecevel.com
 primecoinsea.com
+primematesbc.com
 primenews18.com
 primepaymyservi.com
 primeplanet.for-minting.com
@@ -80187,6 +80193,7 @@ solgiftclaim.net
 solgive.pw
 solgives.org
 soliascan.work
+solicitudesberkley.es
 solidfix.cc
 solidfix.live
 solidity-web3.com
@@ -81441,6 +81448,7 @@ startgate-finance.xyz
 startgate.cn.com
 starthopprotocol.com
 starting2spin.com
+startknet.io
 startl.us
 startlas.fun
 startledger.xyz
@@ -83876,6 +83884,7 @@ tamadoge.run
 tamadoge.top
 tamadoge.trastpad-event.top
 tamadoged.com
+tamairdrop.netlify.app
 tamask.io
 tamewallet.com
 tan6a.buzz
@@ -100792,6 +100801,7 @@ www.nvidia2x.org
 www.nvidiastudios.com
 www.nyetherwallet.com
 www.o2-login.info
+www.oakapex.com
 www.oakstreethealth.us
 www.oasis-app.pro
 www.oasisnetworkapp.net
