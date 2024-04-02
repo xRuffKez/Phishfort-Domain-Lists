@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 11:02:49 UTC 2024
-# Number of Entries: 8270
+# Fetch date: Tue Apr  2 12:03:49 UTC 2024
+# Number of Entries: 8268
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -747,7 +747,6 @@ arbitrrum-bridge.com
 arbitrum-air.icu
 arbitrum-airdrop2023.com
 arbitrum-reward.xyz
-arbitrum-submit.com
 arbitrum-surveys.com
 arbitrum.devilinu.com
 arbitrum.reward-apps.com
@@ -1028,7 +1027,6 @@ billmelinda.online
 bimance-airdop.org
 binance-0x51bd6a810bd083c4bab4834a90411c62d04456ce.gunhay.vn
 binance.iconworld.tech
-binancebusdairdrop2024.com
 binancnftcoin.com
 binansce.com
 bingbongs-zoras.com
@@ -1236,7 +1234,6 @@ bridgee-modei.network
 bridgemetis.app
 bridgermrk.app
 bridgevesting.com
-bridghvehhtuu.com
 brldgeharmone.org
 brldgemantle.com
 brldgmantle.com
@@ -1278,6 +1275,7 @@ bwflexibiesystems.com
 bybit-gift.space
 bytedog.pro
 c.qztaiwei.com
+c0nnects.pages.dev
 c7ed7c0a-a3f0-4a62-9092-b1bb34dc0ec4-00-2hhxxwsgft7jv.janeway.replit.dev
 c9bae519-e21c-44b6-990c-e47a9b25b5a1-00-2o0u40bra6plm.janeway.replit.dev
 cadenceprotocol.net
@@ -1318,6 +1316,7 @@ cancelar-ahorat.webcindario.com
 cancelar1-cambio.webcindario.com
 cancelar5-cambio.webcindario.com
 cancellationflights.com
+canhanbidv.com
 capcutforpc.store
 capsule-zskync.net
 captainj-dao.vercel.app
@@ -1703,7 +1702,6 @@ colllab.xyz
 coluselephant.ru.com
 community-center.shop
 community-coindesk.com
-community-cryptos.org
 community-dappradar.com
 community-saga.xyz
 compoundtrades.net
@@ -1863,6 +1861,7 @@ dapp.radar.skin
 dapp.zkmll.systems
 dappbay-bnbchain.net
 dappconnect-6w3.pages.dev
+dappconnectauth.pages.dev
 dappdecentraswift.pages.dev
 dappextension.info
 dappinfo.xyz
@@ -2259,7 +2258,6 @@ earndrop24.com
 earndrops.gift
 earndroq.net
 earned-linea.com
-earni-fi.net
 earnifinance.xyz
 earningdrop.dev
 earns-drop.net
@@ -2274,6 +2272,7 @@ echelon.gift
 echodex-v3-interface-web.vercel.app
 ecocryptoworld.pro
 ecoglobalconnectvista.online
+econnect.pages.dev
 economisteveningreptile.xyz
 econopure.com.vn
 educalaguna.gob.mx
@@ -2305,6 +2304,7 @@ eligible-chaln.link
 elite-bit.net
 elitesiteat.com
 elitesiteaz.com
+elogged.pages.dev
 elon-x.info
 em-suppliers.online
 emdeonmd.com
@@ -2641,7 +2641,6 @@ framexdao.net
 framexexplorer.net
 free-altlayer.com
 free-altlayers.com
-free-cryptos.net
 free-manta.com
 free-tias.com
 free.bitiezcommune.xyz
@@ -4388,6 +4387,7 @@ missions-dymension.network
 missions-roninchain.com
 missions-sharpnel.com
 missions-zksync.com
+mistersos.pages.dev
 mitratokped.com
 mj3.us
 mm-redirect.com
@@ -4491,7 +4491,6 @@ multichainnode.onrender.com
 multichainprotocol.netlify.app
 multichainweb.pages.dev
 multicoinsystem.web.app
-multidapps.app
 multidappsnetwork.com
 multidappsrectification.pages.dev
 multinoderesolve.pages.dev
@@ -4938,7 +4937,6 @@ optics-bridge.xyz
 optimism-drop.com
 optimism-events.com
 optimism-mode.network
-optimism-survey.com
 optimism.airdrops-claiming.cc
 optimism.claim-airdrop.pro
 optimism.io-op-claim.top
@@ -5151,6 +5149,7 @@ pangolin-x.com
 pankaceswap.tech
 panoshidaapsintegration.netlify.app
 pansakecwap.xyz
+panteamspark.com
 pape-coin.net
 pape-tokens.org
 paper-hand.web.app
@@ -5861,6 +5860,7 @@ render.gift
 rendernetwork.support
 renzo-protocols.com
 research.rada.gov-ua.ru
+reskst.pages.dev
 resolutionpanel.pages.dev
 resolve-captcha.com
 resolver-paneldapp.com
@@ -6261,7 +6261,6 @@ shitzuapes.fun
 shlba-3.live
 shoptiktok.club
 shopvibe.shop
-shrapnel-2024.com
 shrapnel.cloud
 shrapnel.life
 shrapnel.store
@@ -6598,8 +6597,6 @@ sui.trusthubs.top
 sui.webs3drop.top
 suiexchange.online
 suimine.com
-suinetworks.cc
-suinetworks.ltd
 suiswap.tech
 sumatriptan.info
 summer-fi.mom
@@ -6686,6 +6683,7 @@ syncapprectify.pages.dev
 syncconnectdapp.xyz
 syncdappbrowser.web.app
 syncedapps.pages.dev
+syncfarm.pages.dev
 synchronizerpanel.com
 synchronizewallets.on.fleek.co
 synckavva.netlify.app
@@ -7249,6 +7247,7 @@ wallemartoneycarts.com
 wallet--connect.pages.dev
 wallet-balancer.website
 wallet-collabland.com
+wallet-connect-6pp.pages.dev
 wallet-extendedpublickey.pages.dev
 wallet-support.vercel.app
 wallet-virtual.net
@@ -8124,6 +8123,7 @@ xrplimited-bonus.net
 xtokenlaunch.com
 xushuishiwu.cn
 xversewebwallets.com
+xwallconect.pages.dev
 xwg.icu
 xyo.bfin500.top
 y2srob.info
@@ -8251,9 +8251,7 @@ zksync-era.pages.dev
 zksync-era.web.app
 zksync-net.com
 zksync-now.com
-zksync-quiz.com
 zksync-rewards.org
-zksync-survey.co
 zksync.line.pm
 zksync.nirbhik.com
 zksync.token-claim.cc
