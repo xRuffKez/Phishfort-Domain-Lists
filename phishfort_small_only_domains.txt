@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 08:02:34 UTC 2024
-# Number of Entries: 8297
+# Fetch date: Tue Apr  2 09:02:13 UTC 2024
+# Number of Entries: 8277
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -168,7 +168,6 @@ accepts-lnterweb.life
 access.bdc.support
 access.roninchain.app
 account-407etr.com
-accountrevive.pages.dev
 accountsportal.net
 accountsvalidator.com
 acefusionist.network
@@ -523,7 +522,6 @@ apeteirminal.app
 apeterminal.link
 apexexchenge.com
 api-collabland.land
-api-collabland.net
 api-collabland.web.app
 api-connect-collab.land
 api-rectifynode.pages.dev
@@ -846,7 +844,6 @@ authenticatorjoin.cc
 authradarbridge.com
 auths-mylogn.com
 authwalletsolutiiondappether.com
-authweb3sv.tk
 autismlearningpartners.systemupdates.org
 auto-financiamiento.online
 autoassetsvalidation.xyz
@@ -1206,7 +1203,6 @@ borovik.foundation
 borroefinnance.web.app
 boson-faucet.pages.dev
 bostonglobemediapr.com
-bot-collab-land.com
 bot.kavaworlds.xyz
 bots-collabland.pages.dev
 bottlepay.freedim.com.ua
@@ -1660,7 +1656,6 @@ colabland.bond
 colabllandsyncapp.com
 colabllandsyncapps.com
 collab-award.io
-collab-bot.com
 collab-conects.com
 collab-connect.pages.dev
 collab-connects.land
@@ -1675,7 +1670,6 @@ collab-verify.io
 collab.bot-community.com
 collab.land-satoshivm.com
 collab.land-verifeds.com
-collab.landsecure-bot.com
 collab.landsecurebot.com
 collabandverify.onrender.com
 collabandverify.vercel.app
@@ -1695,17 +1689,14 @@ collabland-verify.co
 collabland-wallets.com
 collabland.api-role.land
 collabland.boo
-collabland.bz
 collabland.cfd
 collabland.interact-guard.com
 collabland.pm
 collabland.role-guard.com
 collabland.wf
-collabland.wtf
 collabland.x10.mx
 collablandconnect.xyz
 collaboration-rainbow.me
-collabsecurity.land
 collad-land.me
 collateralnetworks.pages.dev
 collbalnand.pages.dev
@@ -1724,7 +1715,6 @@ community-saga.xyz
 compoundtrades.net
 con-wall-3web.pages.dev
 conbea4.dream.press
-conf-collab.land
 conferencesglobal.org
 confirmed-collab.land
 confulxnetwork.info
@@ -1833,7 +1823,6 @@ csagoda.store
 csagodaonline.masukmobilee.de
 csl-behring.eu
 csl-seqirus.com
-ctt.fullpays.site
 cubeexchange.co
 cucmmins.com
 custom-fender.com
@@ -2090,7 +2079,6 @@ dex-stargate.finance
 dex-tool-portal.live
 dexautomate.web.app
 dexcoms.com
-dexgatedirectory.pages.dev
 dexpcsintergal.com
 dexprotocolchain.io
 dexscieener.com
@@ -2530,7 +2518,6 @@ fcstone.tv
 fcstonekr.pro
 fcstonekr.xyz
 fcstonevip.com
-fedex.fullpays.site
 feereturn.xyz
 feereturns.xyz
 fees-407etr.com
@@ -2563,7 +2550,6 @@ fix-metamask.pages.dev
 fix.errorsolution.org
 fixadfloat.com
 fixbugmigrate.pages.dev
-fixdapps-dip.pages.dev
 fixedfloat.win
 fixedfłoad.com
 fixedtloat.com
@@ -3007,7 +2993,6 @@ hr-adp.com
 hswblp.info
 ht52ik.top
 https-loading.site
-hub-injective-bke.pages.dev
 hub-injective-network.web.app
 hub-maker.org
 hubsoasys.games
@@ -3225,7 +3210,6 @@ join-porkcoin.io
 join-ripple.com
 join-satoshivm.app
 join-satoshivm.io
-join-shibarium.com
 join-superverse.org
 join-vulcan.xyz
 join-wenwen.com
@@ -3511,9 +3495,7 @@ lendingtreellc.org
 lendingtreeusa.us
 lengthepengkiller.xyz
 lesfeesandgas.org
-lessfaesandgas.com
 lessfeeandgas.org
-lessfeesandgas.com
 lessfeesendgas.org
 lethal222.rf.gd
 lfg-jup-claims.pages.dev
@@ -6273,7 +6255,6 @@ shiba.free-500.top
 shiba2.xyz
 shibainu.airdropnow.net
 shibariumwin.com
-shibcontestzone.com
 shibe-rium.net
 shibememu.tech
 shibreward.net
@@ -6655,7 +6636,6 @@ suprasync.pages.dev
 supratoken.xyz
 surrealogeek.com
 survey-arbitrium.com
-survey-zksync.org
 susdc.dev
 sushi-swapsushi.github.io
 sushi.gifts
