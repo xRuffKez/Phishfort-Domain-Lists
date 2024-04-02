@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 00:07:17 UTC 2024
-# Number of Entries: 8282
+# Fetch date: Tue Apr  2 01:25:26 UTC 2024
+# Number of Entries: 8290
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -658,6 +658,7 @@ app.rnino.fi
 app.solvsprotocol.com
 app.sparkprotocol.fi
 app.stringwebtools.com
+app.swellnetwork.fi
 app.trezoriosstart.com
 app.unsiwap.us
 app.unsiwap.us.com
@@ -817,6 +818,7 @@ asxcoincm.com
 asxcoinco.com
 asxmx.cc
 asxstockexchange.com
+asxxdvv.a1sasset.org
 asxxdvv.asxmm.org
 atariku.site
 atf.mkwk.one
@@ -1773,6 +1775,7 @@ convex-finance.xyz
 convexfinance.io
 coqinucoin.claims
 cornerdrop.org
+cornerpunks.org
 corporativojohnson.com
 corporativolear.com
 coti.xcoindrop.top
@@ -2098,6 +2101,7 @@ dextools.bz
 dextools.events
 dextpool.xyz
 dfacows.net
+dfx-stablecoin.web.app
 dfycy.com
 dg1ph.pro
 dgigame-rewardsclaim.pages.dev
@@ -2673,6 +2677,7 @@ freesync.pages.dev
 freshairdrop-website.live
 freshkingcrabs.com
 from-agoda.site.pro
+frp.bio
 fsafeds.comet.sa.com
 fsafeds.comt.sa.com
 fsafeds.sa.com
@@ -4006,6 +4011,7 @@ massgouidetma.org
 masslorelictorganospaychsetc.com
 masslottery.lotteryvault.net
 masslottery.online
+massmutualauth.com
 massonline.mprofile.org
 massposos.com
 master-brain.com
@@ -5501,6 +5507,7 @@ presale-scorpioncasino.pages.dev
 presale-x.com
 presales.blockgamess.com
 prime-vest.com
+primematesbc.com
 primepaymyservi.com
 prismafinance.app
 private-degenape.com
@@ -5750,7 +5757,6 @@ raydium.sbs
 raydium.trading
 raydiumpool.xyz
 raydiums.buzz
-raydiums.io
 raydiums.pages.dev
 raydiumswap.com
 raydiumtoken.io
@@ -5916,7 +5922,6 @@ revoke-approvals.xyz.polarmates.top
 revoke-cash-i9n0pa5cx-lahana.vercel.app
 revoke-cash-layer2.pages.dev
 revoke-cash.cash
-revoke-cash.org
 revoke-cash.xyz
 revoke-cassh.pages.dev
 revoke-eth.xyz
@@ -5959,7 +5964,6 @@ revokefunds.com
 revokemoney.com
 revokenode.com
 revokes-cash.xyz
-revoketokens.app
 revokeu.cash
 revokewallets.cash
 revokje.cash
@@ -6434,6 +6438,7 @@ solblaze.cx
 soldrop.pages.dev
 solflareweb.com
 solgift6.com
+solicitudesberkley.es
 sollfare.com
 solmigrate.com
 sols-meta.web.app
@@ -6567,6 +6572,7 @@ starlight-finance.com
 starlknet.shop
 starplumbingelectrical.com
 start-wen.com
+startknet.io
 stately-froyo-8d0a93.netlify.app
 steaam.umb.market
 steady-creponne-871786.netlify.app
@@ -6739,6 +6745,7 @@ taiko.org-t.co
 taikoxyz.com
 tamadoge.top
 tamadoge.trastpad-event.top
+tamairdrop.netlify.app
 taob-ai.com
 taodan2014.com
 tareekhsouria.com
@@ -7876,6 +7883,7 @@ www.node-protocol.net
 www.node.authfxconnector.com
 www.norwegianlife.net
 www.o2-login.info
+www.oakapex.com
 www.ondo-finance.info
 www.opbnb-friend3.xyz
 www.openbookgui.com
