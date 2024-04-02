@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 06:02:00 UTC 2024
-# Number of Entries: 107445
+# Fetch date: Tue Apr  2 07:01:49 UTC 2024
+# Number of Entries: 107447
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -32532,6 +32532,7 @@ famousfoxfederation-wlclaim.com
 famousfoxfednft.xyz
 fananeesraffle.com
 fanciful-cat-81da50.netlify.app
+fanciful-salmiakki-469876.netlify.app
 fanclub.rocks
 fancourier.fastway-getmoney.site
 fancybears.ynnfts.com
@@ -84543,6 +84544,7 @@ testme-p7m.pages.dev
 testmintfewfwef.ffox.site
 testnet-berachain.com
 testnet-v2-pancakeswapclone.pages.dev
+testnet-vm.web.app
 testnet.auctionhouse.cryptopunks.eth.limo
 testnetprotocol.com
 testnets-reform.com
