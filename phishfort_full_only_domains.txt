@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 07:01:49 UTC 2024
-# Number of Entries: 107447
+# Fetch date: Tue Apr  2 08:01:52 UTC 2024
+# Number of Entries: 107448
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3055,7 +3055,9 @@ agoda.host
 agoda.ib-web.online
 agoda.icu
 agoda.lovestoblog.com
+agoda.offer18239.com
 agoda.partner-extranet.life
+agoda.res94219.com
 agoda.resew-r.world
 agoda.shop
 agoda.take-t.top
@@ -15420,7 +15422,6 @@ candycake.org
 candyhunters.site
 candylad-promogive.net
 candyrobber.xyz
-canhanbidv.com
 cankuan.site
 canlikazanc.site
 canlisinigorelim.site
@@ -64534,6 +64535,7 @@ pancakeswap-pool.com
 pancakeswap-poor.tech
 pancakeswap-portaal.de
 pancakeswap-presaletoken-finance.com
+pancakeswap-pro.com
 pancakeswap-profile.online
 pancakeswap-promoute.com
 pancakeswap-protocol-tool.pages.dev
@@ -83826,7 +83828,6 @@ tagcoin-promogive.com
 tagetreats.com
 tahmasstravel.com
 tahodistribution.com
-taichinhbidv.online
 taifalemarat.company.site
 taiketsu.mint-launch.art
 taiko.airdmint.com
