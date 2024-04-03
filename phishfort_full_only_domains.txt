@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 19:01:39 UTC 2024
+# Fetch date: Wed Apr  3 20:01:54 UTC 2024
 # Number of Entries: 107489
 # Expires: 1 hour
 0-metemask.com
@@ -686,6 +686,7 @@
 1inchnetwork-swap.com
 1inchnetwork-web.com
 1inchnetwork.claims
+1inchnetwork.org
 1inchnetwork156.net
 1inchnetwork2024.net
 1inchnetworkclaim.com
@@ -84781,7 +84782,6 @@ thebakery.cc
 thebankcbk.online
 thebastards.nft-premint.com
 thebaycompany-ca.com
-thebaysc.com
 thebestnft.gq
 thebey-ca.claimy.club
 thebey-ca.offerfun.club
