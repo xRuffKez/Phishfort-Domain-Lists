@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 18:01:56 UTC 2024
-# Number of Entries: 107487
+# Fetch date: Wed Apr  3 19:01:39 UTC 2024
+# Number of Entries: 107489
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17789,6 +17789,7 @@ clifford-chancelegal.com
 clifford-chancellegal.com
 clifford-chancellp.com
 clifford-l-chance.com
+clifford-law-chance.com
 cliffordandchancelaw.com
 cliffordandchancellp.com
 cliffordchance-attorney.com
@@ -44136,6 +44137,7 @@ link-walletconnect.com
 link-wallets.cc
 link-whitelist.com
 link.conect-access.com
+link.ganador-airtm.com
 link.gatekava.xyz
 link.kava-api.live
 link.kavaguard.digital
