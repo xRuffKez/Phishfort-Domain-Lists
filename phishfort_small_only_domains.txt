@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 05:02:28 UTC 2024
-# Number of Entries: 8248
+# Fetch date: Wed Apr  3 06:02:31 UTC 2024
+# Number of Entries: 8250
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2329,7 +2329,6 @@ encryted-api-f3w.pages.dev
 eng-inj.net
 eng-injective.com
 eng-injective.net
-englishcoachnicole.com
 enkryptix.com
 enlist-altlayer.com
 enlist-dymension.xyz
@@ -2535,6 +2534,7 @@ firmware-data.pages.dev
 first-braved.info
 firstports.co.uk
 fitness-seven.com
+fitness-solution24.com
 fitness-solution24.de
 fix-metamask.pages.dev
 fix.errorsolution.org
@@ -3488,7 +3488,6 @@ lengthepengkiller.xyz
 lesfeesandgas.org
 lessfeeandgas.org
 lessfeesendgas.org
-lethal222.rf.gd
 lfg-jup-claims.pages.dev
 lfg-jup.app
 lfg-jup.io
@@ -4143,7 +4142,6 @@ metamask-mask.com
 metamask-mining.com
 metamask-platform.codeanyapp.com
 metamask-redirect.com
-metamask-redirects.com
 metamask-restorehome.cryptobase.ng
 metamask-restoreteam.com
 metamask-rewards.site
@@ -4196,7 +4194,6 @@ metamaskofficial.online
 metamasks.info
 metamasksinfo-supportaccount.yincobase.shop
 metamasktoken.link
-metamasktokens.com
 metamaskusan.azurewebsites.net
 metamaskv.net
 metamaskv.org
@@ -5505,6 +5502,7 @@ protect-wallet.io
 protectsolana.shop
 protocol-apex.com
 protocol-carv.nl
+protocol-guard.web.app
 protocol-mainnet-sync.web.app
 protocol-node.pages.dev
 protocol-wallet.pages.dev
@@ -6424,6 +6422,7 @@ sparklend.fi
 sparkly-peony-f76556.netlify.app
 sparkprotocol.fi
 speedylendingtree.com
+speedysmartnetwork.com
 sperk.fi
 spl20-top.web.app
 spok-earlyadopterbuilder.com
@@ -6998,6 +6997,7 @@ unilend-v2mainnetnetwork.org
 uninashitesati.net
 unipolycoin.network
 unisat-io-five.vercel.app
+unisate.com
 unisatindexnodes.com
 unisatwalletextension.com
 unisvap-v3.github.io
@@ -7223,6 +7223,7 @@ wagmigames8765.live
 waitlist-altlayer.io
 waitlist-shrapnel.com
 waletsconets.pages.dev
+walken-nft.web.app
 wallemartoneycarts.com
 wallet--connect.pages.dev
 wallet-balancer.website
@@ -7993,6 +7994,7 @@ www.web.dapps-auth.live
 www.web.multichains-connect.com
 www.web.resolvebugvvalidly.org
 www.web3mwe.com
+www.webcamrecordings.com
 www.whm.elasticsearch-uat.arb-chain.com
 www.wikser.com
 www.windy.network
