@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 04:03:25 UTC 2024
+# Fetch date: Wed Apr  3 05:02:28 UTC 2024
 # Number of Entries: 8248
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -84,7 +84,6 @@
 3pzlywh.info
 407-etr-help.com
 407-etr.com
-407etr-clients.com
 407etr-info.com
 407etrinfo.com
 407express-tollroute.com
@@ -214,6 +213,7 @@ agoda.host
 agoda.ib-web.online
 agoda.offer18239.com
 agoda.partner-extranet.life
+agoda.res94219.com
 agoda.weboffer7181.com
 agoda.ycs-id.info
 agoda.ycs.my.id
@@ -5070,6 +5070,7 @@ pancakeswap-finnance.com
 pancakeswap-finnance.org
 pancakeswap-flnance.com
 pancakeswap-fniance.com
+pancakeswap-giveaway.com
 pancakeswap-live.pages.dev
 pancakeswap-pancakeswap.com
 pancakeswap-pancakeswap.net
@@ -7614,7 +7615,6 @@ www.big-x-drops.top
 www.birdeye.exchange
 www.birdeye.markets
 www.birdeye.trade
-www.bitoptr.com
 www.bitoptvex.com
 www.bitrockpool.xyz
 www.blockchainbets-vault.com
