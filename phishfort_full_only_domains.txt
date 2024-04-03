@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 10:01:45 UTC 2024
-# Number of Entries: 107484
+# Fetch date: Wed Apr  3 11:01:35 UTC 2024
+# Number of Entries: 107482
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -5487,6 +5487,7 @@ app-acrossto.com
 app-activator.com
 app-activator.info
 app-activator.netlify.app
+app-aerodorme.finance
 app-affixs.com
 app-airdrop-uniswap.org
 app-airtn.uno
@@ -16121,7 +16122,6 @@ chainlist.icu
 chainlist.ltd
 chainlist.services
 chainlist.team
-chainlist.tokenpocket.pro
 chainlist.win
 chainlisting.org
 chainlistnetwork.tech
@@ -16892,7 +16892,6 @@ claim-dubx.com
 claim-earnfi.com
 claim-earnifi.finance
 claim-eigenlayer.xyz
-claim-elk.com
 claim-es.com
 claim-eth.com
 claim-ethenalab.com
@@ -17246,7 +17245,6 @@ claim.free-layerzero.shop
 claim.frieend.tech
 claim.get-ton.com
 claim.governance-mav.app
-claim.hollywoodxpepe.io
 claim.hundsonsol.com
 claim.iens.xyz
 claim.iensprotocoi.xyz
@@ -17998,7 +17996,6 @@ cockpunch.cloud
 cockpunch.nft-premint.xyz
 cockpunchgame.xyz
 cockpunchmeta.xyz
-codeai.space
 codeartenterprises.com.au
 codebucket.net
 codefi.ws
@@ -28939,6 +28936,7 @@ emiratesenterprise.com
 emiratesgroup-ae.online
 emiratesgroup.online
 emiratesgroupae.com
+emiratesgroupae.online
 emiratesgroupllc.com
 emiratesholiday.net
 emirateskycargo.com
