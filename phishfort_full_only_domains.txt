@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 13:02:49 UTC 2024
+# Fetch date: Wed Apr  3 14:01:48 UTC 2024
 # Number of Entries: 107484
 # Expires: 1 hour
 0-metemask.com
@@ -4452,6 +4452,7 @@ alphkongsclub.xyz
 alphnet.online
 alps.foundation
 alpyolkant.site
+alrajh.prokhaliij.com
 alrbitrum.com
 alrdrop.space
 alriyadhnrc.com
@@ -43187,7 +43188,6 @@ leapwallet-io.com
 lear-corps-inc.com
 lear-corps.com
 lear.cloud
-learcorporativo.com
 learcorps.com
 learen.org
 learn-airdrop.click
