@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 10:02:12 UTC 2024
-# Number of Entries: 8254
+# Fetch date: Wed Apr  3 11:02:04 UTC 2024
+# Number of Entries: 8252
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -544,6 +544,7 @@ apisynchronizer.live
 apkdownload.com
 apn.com.np
 apnasecure.com
+app-aerodorme.finance
 app-ait.pages.dev
 app-altlayer.io
 app-amulet-amuverse.pages.dev
@@ -1383,7 +1384,6 @@ chainlink.us.to
 chainlinkairdropweb3.org
 chainlinklabsv2.com
 chainlinktreasury.net
-chainlist.tokenpocket.pro
 chainlogserver.pages.dev
 chainlsiit.com
 chainmulticoin.pages.dev
@@ -1599,7 +1599,6 @@ co.llab-lands.icu
 co.llab-verify.xyz
 co.llabz.land
 co11ab-1and.com
-codeai.space
 codefi.ws
 codexchain.org
 codexlabs.xyz
@@ -2315,6 +2314,7 @@ emirates.airfareuk.co.uk
 emirates.flightse.co
 emiratescashreward.com
 emiratesgroup.online
+emiratesgroupae.online
 emiratesholiday.net
 emiratesvacationspackages.com
 emiretes-airline.online
@@ -2892,7 +2892,6 @@ h407etr.com
 h5.517kuku.com
 h5.newscryptoio.com
 h8fl00.cc
-hajj-nusuk.foundation
 hajjdomestic-sa.info
 halefiuamamalst.com
 halestramasslost.com
@@ -7658,7 +7657,6 @@ www.colloky.online
 www.consorcioempreswebs.info
 www.cosmicchronica.xyz
 www.creepz-rebirth.com
-www.cryptopreneur.community
 www.csagoda.com
 www.cudos.site
 www.dappbrowser.info
