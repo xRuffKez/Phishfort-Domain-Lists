@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 03:02:03 UTC 2024
-# Number of Entries: 107465
+# Fetch date: Wed Apr  3 04:02:48 UTC 2024
+# Number of Entries: 107470
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3036,6 +3036,7 @@ agoda-jp.xyz
 agoda-jps.com
 agoda-mba.com
 agoda-not.com
+agoda-offer18239.com
 agoda-partner.club
 agoda-partner.co
 agoda-partner.info
@@ -3048,6 +3049,7 @@ agoda-vn.vip
 agoda.ba
 agoda.conferm.online
 agoda.config-guest178.com
+agoda.confirm139233.com
 agoda.d-loade.top
 agoda.fun
 agoda.gologonow.website
@@ -3055,6 +3057,7 @@ agoda.host
 agoda.ib-web.online
 agoda.icu
 agoda.lovestoblog.com
+agoda.offer18239.com
 agoda.partner-extranet.life
 agoda.resew-r.world
 agoda.shop
@@ -45450,6 +45453,7 @@ login.coinbasesupportscenterid.com
 login.coinbasesupportsid.com
 login.coinbasewalletsupport.com
 login.coinbasewalletsupports.com
+login.cw1.ir
 login.fraend.net
 login.frame-airdrop.xyz
 login.lblockhcoin.com
@@ -51659,6 +51663,7 @@ metamaskweb-connect.com
 metamaskweb-io.com
 metamaskweb-wallets.com
 metamaskweb.io
+metamaskweb.keplrwalletweb.com
 metamaskweb.live
 metamaskweb.netlify.app
 metamaskweb.online
