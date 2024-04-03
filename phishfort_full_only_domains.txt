@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  2 23:01:46 UTC 2024
-# Number of Entries: 107459
+# Fetch date: Wed Apr  3 00:05:13 UTC 2024
+# Number of Entries: 107464
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -23546,6 +23546,7 @@ dapps-fixed.pages.dev
 dapps-fixes.tech
 dapps-fixing.com
 dapps-fixings.com
+dapps-fixprotocol.xyz
 dapps-integrate.app
 dapps-integration.com
 dapps-integration.org
@@ -29446,6 +29447,7 @@ ernfi.xyz
 erp.pancakeswasap.one
 erp.ppancakeswap.info
 erp.skyweavervs.net
+erp.tcharra.com
 erpparadigm.com
 erpzf.scspeaks.com
 errolocciesautos.online
@@ -35551,6 +35553,7 @@ generali-demo.pages.dev
 generali.mtstudio.me
 generalizednetworkconnect.pro
 generalmainnet.com
+generalmotors-dk.com
 generalmotorsmexico.com
 generalmotorsplanta.com
 generalmotorssilao.com.mx
@@ -49872,6 +49875,7 @@ metamask.22ceshi.com
 metamask.247ces.com
 metamask.2fareset.com
 metamask.404exist.com
+metamask.404exist.net
 metamask.546245.shop
 metamask.5pbtiqc.cn
 metamask.ac
@@ -107453,6 +107457,7 @@ zyberswap.news
 zyberswap.pro
 zyberswapp.shop
 zyderswap.top
+zyksync.com
 zynecoin.io.connected-myet.herwallet.com
 zyns.com
 zypdo.com
