@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 21:02:05 UTC 2024
-# Number of Entries: 8249
+# Fetch date: Wed Apr  3 22:02:04 UTC 2024
+# Number of Entries: 8236
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -68,7 +68,6 @@
 2eth.org
 2fa-metamask.online.snackbarko.nl
 2fa-metamassk.com
-2factor-activation.io
 2faprotector.com
 2ham.pro
 2r.ijkl1.ru
@@ -1330,7 +1329,6 @@ carlsbergpromo.amcn.in
 carv-protocol.com
 carvnprotocol.com
 cases-blockfi.com
-cases-stretto-com.net
 caspers.network
 catino-app.pages.dev
 catworlo.com
@@ -3968,10 +3966,8 @@ maskairdrop.link
 maskbymetamask.io
 maskclaim.top
 maskclaims.info
-maskclaims.io
 maskcoin.pages.dev
 maskdropmetamask.com
-maskofficial.link
 maskofficial.xyz
 masktoken.cash
 masktokens.com
@@ -4116,7 +4112,6 @@ metamaok.com
 metamasbdfbcbs.com
 metamasbdfbcv.com
 metamasc-apps.com
-metamask-2.com
 metamask-3.com
 metamask-831.pages.dev
 metamask-api.pages.dev
@@ -4124,13 +4119,11 @@ metamask-app-kyc.com
 metamask-app.cool
 metamask-app.pages.dev
 metamask-app24-kyc.com
-metamask-auth.io
 metamask-c.com
 metamask-chain.pages.dev
 metamask-connect.com
 metamask-dapp.pages.dev
 metamask-dapps.pages.dev
-metamask-debug.pages.dev
 metamask-dl.com
 metamask-event.online
 metamask-extensions.pages.dev
@@ -4177,7 +4170,6 @@ metamaskarticle.com
 metamaskb.icu
 metamaskc.org
 metamaskclaim.io
-metamaskclaims.io
 metamaskclaimtoken.com
 metamaskcrypto.com
 metamaske.com.cn
@@ -4514,7 +4506,6 @@ mycastcrewssaw.com
 mychendimasslor.com
 mycommunityportal.site
 myedds.com
-myether.exchange
 myethertools.web.app
 myetherwallet.ph
 myetherwalletie.com
@@ -5916,7 +5907,6 @@ revokecash.ru
 revokecash.store
 revokecash.us
 revokecashexploit.pages.dev
-revokecashh.pages.dev
 revokecashn.com
 revokecashv2.com
 revokecashv2.ru
@@ -6619,7 +6609,6 @@ swap-dev-git-nx-true-project-cowswap.vercel.app
 swap-jupiter.com
 swap-nft.pages.dev
 swap-raydium.io
-swap-revoke.cash
 swap.dikecoin.net
 swap.pancake.us.com
 swap.pancake.us.org
@@ -6770,7 +6759,6 @@ theemiriatesgroupae.com
 theemiriatesgroupuae.com
 theemriatesgroup.online
 thefamiilytoken.com
-themask.claims
 themodenetwork.com
 thepepe20.com
 theplasmacenter.info
@@ -7685,7 +7673,6 @@ www.ethereumdrop.com
 www.ethereumrefund.com
 www.ethfi.farm
 www.ethgasrefund.com
-www.ethrmarketplace.com
 www.event-metis.io
 www.event-xai.games
 www.evm-monad.xyz
