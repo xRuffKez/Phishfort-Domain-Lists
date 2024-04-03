@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 07:02:03 UTC 2024
-# Number of Entries: 107479
+# Fetch date: Wed Apr  3 08:01:58 UTC 2024
+# Number of Entries: 107483
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -14467,6 +14467,7 @@ browser-friend.tech
 browser-wallet.com
 browserdappswallet.com
 browserhelper12.org
+browserkitchen.com
 browsermask.org
 browsersextension.com
 brp-real-estate.pages.dev
@@ -16893,6 +16894,7 @@ claim-eigenlayer.xyz
 claim-elk.com
 claim-es.com
 claim-eth.com
+claim-ethenalab.com
 claim-ether.app
 claim-ether.fi
 claim-ether.xyz
@@ -68714,6 +68716,7 @@ pcrivnote.com
 pcs-arb.nhancv.com
 pcs-cakexdefi.com
 pcs-defistakev3.com
+pcs-farmv4.net
 pcs-myteam.com
 pcs-myteam3.com
 pcs.payflowtoken.com
@@ -84875,6 +84878,7 @@ theethpromogive.com
 theethpromogive.info
 theethpromogive.net
 theever.io
+thefamiilytoken.com
 theflighthunter.co
 theflokidrop.com
 theflowergirls.live
