@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 17:01:45 UTC 2024
-# Number of Entries: 107483
+# Fetch date: Wed Apr  3 18:01:56 UTC 2024
+# Number of Entries: 107487
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3970,6 +3970,7 @@ airswaps.io
 airswaptoken.com
 airtake.info
 airtickets.za.com
+airtm-22.com
 airtm-9.com
 airtm-app.com
 airtm-buss-pro.netlify.app
@@ -12410,6 +12411,7 @@ bitkubte.cc
 bitkubth.com
 bitkubue.live
 bitkubus.com
+bitkubvip.com
 bitkubwallet.univer.se
 bitkubwe.cc
 bitkud.com
@@ -17786,6 +17788,7 @@ clifford-chancelaw.com
 clifford-chancelegal.com
 clifford-chancellegal.com
 clifford-chancellp.com
+clifford-l-chance.com
 cliffordandchancelaw.com
 cliffordandchancellp.com
 cliffordchance-attorney.com
@@ -98877,6 +98880,7 @@ www.fixedfioat.net
 www.fixedflaot.com.de
 www.fixedflaott.com.de
 www.fixedfloaf.net
+www.fixedfloaflt.com
 www.fixedfloaft.org
 www.fixedfloagt.org
 www.fixedfloait.com
