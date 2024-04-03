@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 11:01:35 UTC 2024
-# Number of Entries: 107482
+# Fetch date: Wed Apr  3 12:02:10 UTC 2024
+# Number of Entries: 107484
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -32129,6 +32129,7 @@ exchanges.claims
 exchangespancakeswaps.net
 exchangeth.online
 exchangeupdates.com
+exchangewenx.pro
 exchangezoid.com
 exchangge-uniswap.godaddysites.com
 exchangingdata.com
@@ -60688,6 +60689,7 @@ nyollings.io
 nyu4n5.piiy.net
 nyurbanonli.com
 nzfbxfel.top
+nzwinz.com
 o-shein.ru
 o-trustpad.com
 o-womaniya.com
