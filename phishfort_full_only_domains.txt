@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 01:22:29 UTC 2024
+# Fetch date: Wed Apr  3 02:08:24 UTC 2024
 # Number of Entries: 107465
 # Expires: 1 hour
 0-metemask.com
@@ -49877,7 +49877,6 @@ metamask.247ces.com
 metamask.2fareset.com
 metamask.404exist.com
 metamask.404exist.net
-metamask.546245.shop
 metamask.5pbtiqc.cn
 metamask.ac
 metamask.acan.co.ke
@@ -54890,6 +54889,7 @@ mvetnerwalletr.online
 mvetnerwalletr.site
 mvetnerwalletr.website
 mvhq2023.xyz
+mvia.live
 mvmonero.co
 mvp2-memeland.com
 mvvvvvw-metams.top
