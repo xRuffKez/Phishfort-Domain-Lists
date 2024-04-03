@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 12:03:00 UTC 2024
+# Fetch date: Wed Apr  3 13:03:30 UTC 2024
 # Number of Entries: 8252
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -397,6 +397,7 @@ aknanalofiq.com
 akz3h.pro
 albemarle-albemarle.onlinemailmicrosotfvalidation.com
 albersafewayst.com
+aleixogomes.com.br
 aleo.claim-app.pro
 algogold.com
 alienswape.shop
@@ -581,7 +582,6 @@ app-os-mo-sis.org
 app-pancakesvap.github.io
 app-pandora.com
 app-parcl.site
-app-paxosgold.com
 app-pendle.financial
 app-planetrefi.com
 app-pulsechain.pl
@@ -1599,7 +1599,6 @@ co.llab-lands.icu
 co.llab-verify.xyz
 co.llabz.land
 co11ab-1and.com
-codefi.ws
 codexchain.org
 codexlabs.xyz
 coiappresolve.pages.dev
@@ -2891,7 +2890,6 @@ gzfd4.cc
 h1.otctron.com
 h407etr.com
 h5.517kuku.com
-h5.newscryptoio.com
 h8fl00.cc
 hajjdomestic-sa.info
 halefiuamamalst.com
@@ -4031,6 +4029,7 @@ meatmesk.com
 mediaflex.live
 medialink.ie
 medidata-mobile.com
+medidatacareers.com
 mee6-connect.xyz
 mee6appeals.xyz
 meebits.store
@@ -5232,7 +5231,6 @@ paxos-okta.com
 paxos-token.org
 paxos-trades.com
 paxos-zendesk.com
-paxos.gift
 paxosestm.com
 paxosevct.com
 paxosg.com
@@ -5402,6 +5400,7 @@ playpixles.com
 playzkasino.net
 plgeubet.com
 plnksale.financial
+plots-launch.com
 plusmigrate.com
 plxels.xyz
 pmjvggq.icu
@@ -7201,6 +7200,7 @@ votemarketstakedao.org
 vpunxrf00.urest.org
 vrbo9k.com
 vskyn.com
+vsns-distribution.com
 vsogl.pro
 vulcanforged-claim.com
 vult.codefinesse.com
