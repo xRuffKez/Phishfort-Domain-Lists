@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 06:01:50 UTC 2024
-# Number of Entries: 107473
+# Fetch date: Wed Apr  3 07:02:03 UTC 2024
+# Number of Entries: 107479
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -12782,6 +12782,7 @@ blastcoi.com
 blastdrop.network
 blastdrop.store
 blaste-io.com
+blaster-airdrop.com
 blasterscore.io
 blasteventih.com
 blasteventio.com
@@ -12789,6 +12790,7 @@ blastingv2.com
 blastio.group
 blastio.ink
 blastl2.dev
+blastl777-early.cloud
 blastof.eu
 blastoffs.eu
 blastpoints.app
@@ -17242,6 +17244,7 @@ claim.frieend.tech
 claim.get-ton.com
 claim.governance-mav.app
 claim.hollywoodxpepe.io
+claim.hundsonsol.com
 claim.iens.xyz
 claim.iensprotocoi.xyz
 claim.ifizgroup.xyz
@@ -41320,6 +41323,7 @@ kambontg.site
 kameiot.exchange.web3-l2.cfd
 kamino-financec.one
 kamino.cc
+kamino.life
 kamisafe-pro.xyz
 kamnes.com
 kamsat.site
@@ -66068,6 +66072,7 @@ pancakeswapfinancefix.pages.dev
 pancakeswapfinances.com
 pancakeswapfinances.net
 pancakeswapfinances.network
+pancakeswapfinances.pages.dev
 pancakeswapfinances.site
 pancakeswapfinancin.app
 pancakeswapfinancing.com
@@ -71102,6 +71107,7 @@ polygyonwallet.com
 polyhedra-network-connect.com
 polyhedra-network.pro
 polyhedra-network.vercel.app
+polyhedranetwork.site
 polyhedrazk.foundation
 polyigonwl.site
 polyigonwl.space
