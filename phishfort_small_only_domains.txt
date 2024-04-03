@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 17:02:25 UTC 2024
+# Fetch date: Wed Apr  3 18:02:45 UTC 2024
 # Number of Entries: 8250
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1060,6 +1060,7 @@ bitkub.trade
 bitkubb.lockchain.net
 bitkubbloc.kchain.net
 bitkubblockch.ain.net
+bitkubvip.com
 bitpay.com.de
 bitpulseportal.com
 bitrextrades.xyz
@@ -3313,7 +3314,6 @@ kameiot.exchange.web3-l2.cfd
 kamino-financec.one
 kamino.cc
 kamino.life
-kandito.co.ke
 karatdao.eu
 karatdao.v6.rocks
 karnatakaaromas.com
