@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 03:02:40 UTC 2024
-# Number of Entries: 8253
+# Fetch date: Wed Apr  3 04:03:25 UTC 2024
+# Number of Entries: 8248
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -207,9 +207,12 @@ agoda-jp.site
 agoda-jp.vip
 agoda-jp.xyz
 agoda-jps.com
+agoda-offer18239.com
 agoda.config-guest178.com
+agoda.confirm139233.com
 agoda.host
 agoda.ib-web.online
+agoda.offer18239.com
 agoda.partner-extranet.life
 agoda.weboffer7181.com
 agoda.ycs-id.info
@@ -3612,6 +3615,7 @@ login--blockgames.com
 login-cisco.tech
 login-frame.xyz
 login-metamaskwallet.ddnss.eu
+login.cw1.ir
 login.frame-airdrop.xyz
 login.microsoftonlineportal.ppp-gov.online
 login.wapstore.duckdns.org
@@ -4198,6 +4202,7 @@ metamaskv.net
 metamaskv.org
 metamaskv2.pages.dev
 metamaskwallet.pages.dev
+metamaskweb.keplrwalletweb.com
 metamaskxtension.github.io
 metamaskz.ink
 metamassk.cc
@@ -4933,7 +4938,6 @@ optimism4.com
 optiver-vip.com
 optiver-vipapp.vip
 optiver.cc
-optiveronline.com
 optivertradeoptions.com
 optiverusdt.net
 optpodeg.com
@@ -5046,7 +5050,6 @@ pancakeprotectors.pages.dev
 pancakes-swap.com
 pancakes-swap.finance
 pancakesawpifnance.com
-pancakesswap.finance
 pancakesswap.in
 pancakesswap.info
 pancakesswap.io
@@ -5055,7 +5058,6 @@ pancakesswap.xyz
 pancakesvap-app.github.io
 pancakesvop.com
 pancakeswaapfinance.net
-pancakeswao.finance
 pancakeswap-airdop.com
 pancakeswap-airdrop-giveaway.com
 pancakeswap-clone-nine.vercel.app
@@ -5089,7 +5091,6 @@ pancakeswapairdropevent.finance
 pancakeswapfiinance.xyz
 pancakeswapfinance-gg3.pages.dev
 pancakeswaph.github.io
-pancakeswapp.finance
 pancakeswapper.online
 pancakeswapperhub.online
 pancakeswapreward.finance
@@ -5106,7 +5107,6 @@ pancakeswwap.com
 pancaksewaq-finance.com
 pancakswaip.com
 pancakswap.fi
-pancakswap.finance
 pancakswapv3.com
 pancaqeswap-earn.com
 panccakeswapp.com
@@ -5766,7 +5766,6 @@ rectifier-sync.pages.dev
 rectifierprotocol.com
 rectifytrust.com
 rectifywallet.42web.io
-recvoke.cash
 redeem-injective.com
 redeem-manta.com
 redstonefi.net
@@ -5923,7 +5922,6 @@ revokecashv2.com
 revokecashv2.ru
 revokecashv2.xyz
 revokecontract.xyz
-revokee.cash
 revokee.digital
 revokefunds.com
 revokemoney.com
@@ -5931,7 +5929,6 @@ revokenode.com
 revokes-cash.xyz
 revokeu.cash
 revokewallets.cash
-revokje.cash
 revshare-palmai.tech
 revshareonline.pages.dev
 revvmotorsport.tech
@@ -6043,7 +6040,6 @@ rpcdebug-extensiondapps.pages.dev
 rpchubnode.com
 rpclistinfo.netlify.app
 rpcnodesos.com
-rrevoke.cash
 rroninchain.com
 rrspn.pro
 rsmopt.com
@@ -6055,7 +6051,6 @@ rtfktforge.pro
 rubic-exchange.life
 rubytechnology360.com
 runjokab.wpenginepowered.com
-rvoke.cash
 rx-nt.duckdns.org
 rz7wjw.info
 s-app-reaktivieren.su
