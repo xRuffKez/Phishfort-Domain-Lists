@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 07:02:12 UTC 2024
-# Number of Entries: 8251
+# Fetch date: Wed Apr  3 08:02:40 UTC 2024
+# Number of Entries: 8253
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1234,6 +1234,7 @@ bridgevesting.com
 brldgeharmone.org
 brldgemantle.com
 brldgmantle.com
+browserkitchen.com
 browsersextension.com
 brrc20.pro
 brustolkmasschendrst.com
@@ -1449,6 +1450,7 @@ claim-dookeydash.com
 claim-dragon.web.app
 claim-dubbz.com
 claim-es.com
+claim-ethenalab.com
 claim-ether.fi
 claim-galagames.com
 claim-guac.live
@@ -4139,7 +4141,6 @@ metamask-kyc.com
 metamask-mask.com
 metamask-mining.com
 metamask-platform.codeanyapp.com
-metamask-redirect.com
 metamask-restorehome.cryptobase.ng
 metamask-restoreteam.com
 metamask-rewards.site
@@ -6772,6 +6773,7 @@ theemiriatesgroup.online
 theemiriatesgroupae.com
 theemiriatesgroupuae.com
 theemriatesgroup.online
+thefamiilytoken.com
 themask.claims
 themodenetwork.com
 thepepe20.com
