@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 00:07:29 UTC 2024
+# Fetch date: Wed Apr  3 01:23:08 UTC 2024
 # Number of Entries: 8254
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2929,6 +2929,7 @@ hellothisisatest.com
 help-407-etr.com
 help-407etr.com
 help-agoda.net
+help-avalanche.site
 help-docs-gmx.info
 help-tiktok.com
 help.fixingerror.io
@@ -4194,7 +4195,6 @@ metamasksinfo-supportaccount.yincobase.shop
 metamasktoken.io
 metamasktoken.link
 metamasktokens.com
-metamasktokens.io
 metamaskusan.azurewebsites.net
 metamaskv.net
 metamaskv.org
