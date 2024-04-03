@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 05:01:41 UTC 2024
+# Fetch date: Wed Apr  3 06:01:50 UTC 2024
 # Number of Entries: 107473
 # Expires: 1 hour
 0-metemask.com
@@ -29132,7 +29132,6 @@ engine.host25.pancakeswape.finance
 enginelocal.pancakeswape.finance
 enginewww.outlook.pancakeswape.finance
 english-dapp-sync-solution.co.uk
-englishcoachnicole.com
 engnfts.digital
 enhance-tchain.live
 enhanceagoda.com
@@ -33094,6 +33093,7 @@ fiskchain.vercel.app
 fistdao.app
 fitgpt.web3-airdrop.net
 fitness-seven.com
+fitness-solution24.com
 fitness-solution24.de
 fitnessfiends.co
 fitnessfiends.web3-airdrop.net
@@ -49933,7 +49933,6 @@ metamask.cam
 metamask.capital
 metamask.casa
 metamask.cash
-metamask.casino
 metamask.cbn
 metamask.center
 metamask.cfd
@@ -64838,7 +64837,6 @@ pancakeswap.finance.biswap2.com
 pancakeswap.finance.bitminer-cloud.com
 pancakeswap.finance.bnb.mab-ci.com
 pancakeswap.finance.bnb.nzcf.land
-pancakeswap.finance.bnb.sias-database.eu
 pancakeswap.finance.bonpetqatar.com
 pancakeswap.finance.bootleggercabins.com
 pancakeswap.finance.bootleggervillage.com
@@ -72432,6 +72430,7 @@ protocol-defi.site
 protocol-defiedge.com
 protocol-ferro.org
 protocol-fix.org
+protocol-guard.web.app
 protocol-lens.com
 protocol-lens2.xyz
 protocol-lensxyz.com
@@ -80642,6 +80641,7 @@ speedycrm.zksync-claim.io
 speedyfix.netlify.app
 speedyissue-fix.live
 speedylendingtree.com
+speedysmartnetwork.com
 sperk.fi
 speshcats.fun
 sphene.finance
@@ -86469,7 +86469,6 @@ trezors.io
 trezorsuite-web3.com
 trezorsuiteio.com
 trezorwalle.com
-trezorwallet.org
 trezory.site
 trezos-web.site
 trezwezxb.s3.us-east-2.amazonaws.com
@@ -87946,6 +87945,7 @@ unisat.be
 unisat.bz
 unisat.ca
 unisat.fi
+unisate.com
 unisatindexnodes.com
 unisatscn.xyz
 unisatwalletextension.com
@@ -103392,6 +103392,7 @@ www.web3pola.com
 www.web3wi.ga
 www.webappnode.com
 www.webaverse.fun
+www.webcamrecordings.com
 www.webconnectappsync.com
 www.webdappassistance.com
 www.webdappsvalidate.us
@@ -103944,7 +103945,6 @@ xcopy.minting-list.com
 xcopy.web3-airdrop.net
 xcopynft.live
 xcrosssupport.center
-xcrypto-s.top
 xcryptofunds.com
 xcryptos.top
 xcs.money
