@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 06:02:31 UTC 2024
-# Number of Entries: 8250
+# Fetch date: Wed Apr  3 07:02:12 UTC 2024
+# Number of Entries: 8251
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -33,7 +33,6 @@
 1d4f0331-eb63-4d85-9d57-7dacc20bff64-00-3t07qm8fsr0w5.janeway.replit.dev
 1icnh.com
 1ido-fi.github.io
-1incgh.io
 1inch-app.com
 1inch-crypto.top
 1inch-io.app
@@ -52,7 +51,6 @@
 1inchv4.fi
 1inchwallet.app
 1inchwallet.org
-1incjh.io
 1innch.digital
 1lnch-claim.com
 1lnch.network
@@ -1055,6 +1053,7 @@ bitinteractivebrokers.org
 bitkub-airdrop.com
 bitkub-th.vip
 bitkub.fafa855casino.com
+bitkub.trade
 bitkubb.lockchain.net
 bitkubbloc.kchain.net
 bitkubblockch.ain.net
@@ -1104,11 +1103,13 @@ blast2l.com
 blastambient.finance
 blastcoi.com
 blastdrop.store
+blaster-airdrop.com
 blasterscore.io
 blasteventih.com
 blasteventio.com
 blastingv2.com
 blastl2.dev
+blastl777-early.cloud
 blastof.eu
 blastoffs.eu
 blastpoints.app
@@ -1503,6 +1504,7 @@ claim.cybzducks.lol
 claim.dydxexchang.com
 claim.dymensionall.club
 claim.get-ton.com
+claim.hundsonsol.com
 claim.ifizgroup.xyz
 claim.memeskombats.online
 claim.memetrumpmaga.com
@@ -1534,7 +1536,6 @@ claimdymension.xyz
 claimether.finance
 claimgala.org
 claimjupiter.com
-claimmask.com
 claimmetadrop.nl
 claimmetamask.com
 claimopeaseamysterydrop.com
@@ -1582,7 +1583,6 @@ clmjup.xyz
 clmtaiko.xyz
 cloud-base-dapp.vercel.app
 cloudinry.net
-cloudwebhosts.com
 clrscr.net
 cm-dap.online
 cmlink.xyz
@@ -3310,6 +3310,7 @@ kaijutoys.shop
 kameiot.exchange.web3-l2.cfd
 kamino-financec.one
 kamino.cc
+kamino.life
 kandito.co.ke
 karatdao.eu
 karatdao.v6.rocks
@@ -3958,14 +3959,11 @@ marnta.network
 masa-ek1.pages.dev
 masa-finance.com
 masgouidetma.org
-mask-claim.com
 mask-metamask.io
-mask-token.claims
 mask-token.org
 mask-tokens.claims
 mask.gift
 maskairdrop.link
-maskbymetamask.com
 maskbymetamask.io
 maskclaim.top
 maskclaims.info
@@ -5088,6 +5086,7 @@ pancakeswapairdrop.com
 pancakeswapairdropevent.finance
 pancakeswapfiinance.xyz
 pancakeswapfinance-gg3.pages.dev
+pancakeswapfinances.pages.dev
 pancakeswaph.github.io
 pancakeswapper.online
 pancakeswapperhub.online
@@ -5270,6 +5269,7 @@ pc.dbrslimited.com
 pcpgxr.top
 pcs-cakexdefi.com
 pcs-defistakev3.com
+pcs-farmv4.net
 pcs-myteam.com
 pcs-myteam3.com
 pcs.payflowtoken.com
@@ -5423,6 +5423,7 @@ poloniex-assets.com
 polupokespics.rosamonddunlop665.workers.dev
 polyhedra-network.pro
 polyhedra-network.vercel.app
+polyhedranetwork.site
 polyhedrazk.foundation
 poncakeswap.finance
 pond0x.trading
