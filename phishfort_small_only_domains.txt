@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 16:02:40 UTC 2024
-# Number of Entries: 8251
+# Fetch date: Wed Apr  3 17:02:25 UTC 2024
+# Number of Entries: 8250
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -379,6 +379,7 @@ airnetframe.com
 airnftframe.com
 airstyleart.co.uk
 airswaps.io
+airtm-22.com
 airtm-9.com
 airtm-buss-pro.netlify.app
 airtm-ingrese-aqui.com
@@ -1579,6 +1580,7 @@ clifford-chance.financial
 clifford-chance.holdings
 clifford-chance.investments
 clifford-chance.miami
+clifford-l-chance.com
 cliffordchance.pro
 cliffordchancelaw.net
 clintexmigration.tech
@@ -2818,7 +2820,6 @@ glaberkantonalbank.com.opticsea.org
 glacierdivisons.pics
 glhfers.xyz
 global.onlineyshire-uk.com
-globalfundsserver.com
 globalgoldcloudworld.world
 globalpaymentsvtw.com
 globalpaymentsytww.com
@@ -4030,7 +4031,6 @@ meatmesk.com
 mediaflex.live
 medialink.ie
 medidata-mobile.com
-medidatacareers.com
 mee6-connect.xyz
 mee6appeals.xyz
 meebits.store
@@ -5339,8 +5339,6 @@ peryourhealth.org
 peryourhealth.us
 petsversegames.sale
 petsversegames.site
-peylocity.net
-peylocity.org
 pfantmwallet.godaddysites.com
 pgenztokenclaim.pages.dev
 phanntm-walluut.godaddysites.com
@@ -5891,6 +5889,7 @@ revoke-cash.cash
 revoke-cash.xyz
 revoke-cassh.pages.dev
 revoke-eth.xyz
+revoke-etherscan.online
 revoke-paraswap.com
 revoke-realio.com
 revoke-security.net
@@ -6691,7 +6690,6 @@ syneoscareer.com
 syngswap.github.io
 synthetixreward.com
 t3ct2s2.pro
-t528.com
 t5nv5.cc
 tabsync.pages.dev
 tahodistribution.com
@@ -7696,6 +7694,7 @@ www.evoypremium.com.br
 www.faq-legal.com
 www.fastmining.pro
 www.fegtokenmigrate.com
+www.fixedfloaflt.com
 www.fixedtflaot.com
 www.fixetfloat.com
 www.fourseasonca.com
