@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 04:02:48 UTC 2024
-# Number of Entries: 107470
+# Fetch date: Wed Apr  3 05:01:41 UTC 2024
+# Number of Entries: 107473
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3059,6 +3059,7 @@ agoda.icu
 agoda.lovestoblog.com
 agoda.offer18239.com
 agoda.partner-extranet.life
+agoda.res94219.com
 agoda.resew-r.world
 agoda.shop
 agoda.take-t.top
@@ -64458,6 +64459,7 @@ pancakeswap-funding.tech
 pancakeswap-gener.tech
 pancakeswap-give.com
 pancakeswap-give2021.com
+pancakeswap-giveaway.com
 pancakeswap-giveaway.net.do
 pancakeswap-giveaway.online
 pancakeswap-global.com
@@ -66290,6 +66292,7 @@ pancakeswaps.financie.swap.swap4easy-go.com
 pancakeswaps.financies.swap-faststart.com
 pancakeswaps.fund
 pancakeswaps.in
+pancakeswaps.info
 pancakeswaps.ink
 pancakeswaps.io
 pancakeswaps.it
