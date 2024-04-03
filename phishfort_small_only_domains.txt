@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 01:23:08 UTC 2024
-# Number of Entries: 8254
+# Fetch date: Wed Apr  3 02:08:49 UTC 2024
+# Number of Entries: 8253
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -605,7 +605,6 @@ app-whales.market
 app-wormhole.com
 app-xpet.tech
 app.1iah.cc
-app.1inch.fo
 app.1inch.lc
 app.1insh.io
 app.1lnch.mom
@@ -4192,7 +4191,6 @@ metamaskn.io
 metamaskofficial.online
 metamasks.info
 metamasksinfo-supportaccount.yincobase.shop
-metamasktoken.io
 metamasktoken.link
 metamasktokens.com
 metamaskusan.azurewebsites.net
@@ -4500,6 +4498,7 @@ musicyandex.ru
 muskswap.pages.dev
 mutantboxnft.com
 muxstakingapp.network
+mvia.live
 mwallet8.com
 mx-collabland.pages.dev
 mxap.cc
