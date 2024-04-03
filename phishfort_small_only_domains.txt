@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 14:02:05 UTC 2024
-# Number of Entries: 8252
+# Fetch date: Wed Apr  3 15:02:35 UTC 2024
+# Number of Entries: 8251
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3470,6 +3470,7 @@ lcfmusb.cc
 ldofi-promos.com
 leadpeopleright.com
 leakhub.io
+learcorporativo.com
 learn-unibot.app
 learventa.com
 learventas.com
@@ -6987,7 +6988,6 @@ unclaimeddrops.link-claiming.xyz
 unfi-mall.vip
 unfi.cc
 unfincs.com
-uni-revoke.cash
 uni-swap-v4.web.app
 uni.mrr7.za.com
 uni.pro-coins.top
@@ -7198,7 +7198,6 @@ vote.biast.support
 votebnbchain.pages.dev
 votemarketstakedao.org
 vpunxrf00.urest.org
-vrbo9k.com
 vskyn.com
 vsns-distribution.com
 vsogl.pro
