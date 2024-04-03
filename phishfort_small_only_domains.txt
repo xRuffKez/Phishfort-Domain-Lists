@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 19:02:18 UTC 2024
-# Number of Entries: 8252
+# Fetch date: Wed Apr  3 20:02:08 UTC 2024
+# Number of Entries: 8249
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -45,6 +45,7 @@
 1inchcode.newfinancialmarketworld.com
 1inchcoin.com
 1inchfinance.com
+1inchnetwork.org
 1inchnetwork156.net
 1inchnetwork2024.net
 1inchpool.com
@@ -1045,7 +1046,6 @@ bitcoin-whales.wales
 bitcoinminaetrix.site
 bitcoinxcash.com
 bitetfs.net
-bitfastmot.com
 bitflyer-global.com
 bithotel.co
 biticlash.com
@@ -3022,7 +3022,6 @@ ibllck.com
 ibllcq.com
 ibllcr.com
 ibllcy.com
-iconotice.fun
 identicalentail.top
 idex-crypto.vip
 idypians.xyz
@@ -3227,7 +3226,6 @@ joyprimeshowworld.world
 joysonseafety.com
 jp.ib-fx7.com
 jpagod.com
-jpzhgw.sbs
 jrt8fm.pro
 jsjtgroup.cn
 jsjtrading.com
@@ -6760,7 +6758,6 @@ the-one-staking.cc
 the-one-staking.com
 theabcroofing.com
 thebaycompany-ca.com
-thebaysc.com
 theblueskytrading.com
 thecouragedoog.live
 theemiraetesgroup.com
