@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 11:02:04 UTC 2024
+# Fetch date: Wed Apr  3 12:03:00 UTC 2024
 # Number of Entries: 8252
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2466,6 +2466,7 @@ exchangecode.online
 exchangepancakeswap.workers.dev
 exchangeros.com
 exchanges-backpack.app
+exchangewenx.pro
 exclusive-blast.com
 expertsolver.pages.dev
 exploits-revoke.com
@@ -2925,7 +2926,6 @@ healthequity.za.com
 heatherleelarioni.me
 heavensgate.dog
 heddies.vercel.app
-hekaderiadssfresacrema.angelj2816.repl.co
 helio-money.cyou
 helixap.com.ai-web3.cfd
 helixapp.com.web3-connect.pw
@@ -4784,6 +4784,7 @@ nvidiaint.shop
 nw6.us
 ny9.us
 nyurbanonli.com
+nzwinz.com
 o2-cert.com
 o2-kundenverwaltung.info
 o2online-service.de
@@ -6291,7 +6292,6 @@ silver-monstera-c958a3.netlify.app
 simplenow.xyz
 simplepairingapp.com
 simpletestmultiversechainx.eu
-simplife.life
 simpsoncoin.org
 singularitydao.app
 siteai.site
