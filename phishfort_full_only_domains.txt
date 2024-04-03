@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 16:02:05 UTC 2024
+# Fetch date: Wed Apr  3 17:01:45 UTC 2024
 # Number of Entries: 107483
 # Expires: 1 hour
 0-metemask.com
@@ -48381,7 +48381,6 @@ medicidsas.com
 medicinehealthpoint.com
 medidata-mobile.com
 medidata.ufcontent.com
-medidatacareers.com
 medioswow.com
 mediterraneanholding.com
 medium-airdrop-promo.com
@@ -74997,6 +74996,7 @@ revoke-caslh.com
 revoke-cassh.pages.dev
 revoke-control.com
 revoke-eth.xyz
+revoke-etherscan.online
 revoke-exploit.com
 revoke-lido.pages.dev
 revoke-mdvmm.xyz
