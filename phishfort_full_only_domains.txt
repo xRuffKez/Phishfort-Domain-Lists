@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 14:01:48 UTC 2024
-# Number of Entries: 107484
+# Fetch date: Wed Apr  3 15:02:02 UTC 2024
+# Number of Entries: 107483
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -43188,6 +43188,7 @@ leapwallet-io.com
 lear-corps-inc.com
 lear-corps.com
 lear.cloud
+learcorporativo.com
 learcorps.com
 learen.org
 learn-airdrop.click
@@ -48381,7 +48382,6 @@ medicinehealthpoint.com
 medidata-mobile.com
 medidata.ufcontent.com
 medidatacareers.com
-mediium.org
 medioswow.com
 mediterraneanholding.com
 medium-airdrop-promo.com
@@ -90873,7 +90873,6 @@ vr-galagames-app.com
 vr-metamessk.com
 vr-mettmask.com
 vr.jabushe.gr
-vrbo9k.com
 vrgwallet.digital
 vrtxph.com
 vs.mati-polygo.com
