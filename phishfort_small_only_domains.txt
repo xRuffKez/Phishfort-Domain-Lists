@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 20:02:08 UTC 2024
+# Fetch date: Wed Apr  3 21:02:05 UTC 2024
 # Number of Entries: 8249
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -839,7 +839,6 @@ auth0discord-collab.world
 authenticatorjoin.cc
 authradarbridge.com
 auths-mylogn.com
-authwalletsolutiiondappether.com
 autismlearningpartners.systemupdates.org
 auto-financiamiento.online
 autoassetsvalidation.xyz
@@ -6981,6 +6980,7 @@ umusic-digital.com
 umusic-pub.com
 umusiceu.com
 unapatches.com
+unblock.pancakeswaapfinance.net
 unclaimeddrops.link-claiming.xyz
 unfi-mall.vip
 unfi.cc
