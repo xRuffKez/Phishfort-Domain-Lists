@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 12:02:10 UTC 2024
+# Fetch date: Wed Apr  3 13:02:49 UTC 2024
 # Number of Entries: 107484
 # Expires: 1 hour
 0-metemask.com
@@ -4124,6 +4124,7 @@ alchernix.finance
 alcoc.xyz
 aleairyfuel.com
 aleinformaticabraz.blogspot.com
+aleixogomes.com.br
 aleketne.store
 alemavadi.site
 aleo.claim-app.pro
@@ -17998,7 +17999,6 @@ cockpunchgame.xyz
 cockpunchmeta.xyz
 codeartenterprises.com.au
 codebucket.net
-codefi.ws
 codeflick.site
 codeinfinity.net
 codemonk.gift
@@ -22106,7 +22106,6 @@ cryptovoxels-free.xyz
 cryptowaifusnft.io
 cryptowallet-connect.com
 cryptowallet-dev.tk
-cryptowallet-trang.com
 cryptowallet-trust.com
 cryptowallet-validation.live
 cryptowallet-validator.42web.io
@@ -37472,7 +37471,6 @@ h5.517kuku.com
 h5.appreve.com
 h5.btkui188.cn
 h5.cointaurus.com
-h5.newscryptoio.com
 h5.ppancakeswap.info
 h5.skcoin.top
 h5.ttmall.in
@@ -48382,6 +48380,7 @@ medicidsas.com
 medicinehealthpoint.com
 medidata-mobile.com
 medidata.ufcontent.com
+medidatacareers.com
 mediium.org
 medioswow.com
 mediterraneanholding.com
@@ -70126,6 +70125,7 @@ plnksale.financial
 ploloneix.com
 ploobit-swap.dexkit.app
 plooniex.com
+plots-launch.com
 ployconnect.pages.dev
 ploysync.pages.dev
 plqcacisvvip-api.com
@@ -90885,6 +90885,7 @@ vserstar.online
 vsins-blltccubb-net.1gb.ru
 vskyn.com
 vsmetamasklogin.yahoosites.com
+vsns-distribution.com
 vsogl.pro
 vstex.top
 vtscon.online
@@ -98290,7 +98291,6 @@ www.cryptogpt.lat
 www.cryptoindex.com.ng
 www.cryptokeninsurance.online
 www.cryptophonesupport.com
-www.cryptopreneur.community
 www.cryptopunks-app.com
 www.crytpogpts.com
 www.cs-agoda.click
