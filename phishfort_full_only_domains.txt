@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 04:01:47 UTC 2024
-# Number of Entries: 107512
+# Fetch date: Thu Apr  4 05:01:42 UTC 2024
+# Number of Entries: 107520
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6413,6 +6413,7 @@ app.spaceweb3.net
 app.sparkprotocol.fi
 app.spehrefinance.com
 app.sphre-finance.info
+app.spy-token.io
 app.sre-ex.com
 app.sstakewise.org
 app.star-atlas.network
@@ -10950,6 +10951,7 @@ benqi-fi.link
 benqi.top
 benribit.com
 bentant.site
+bentenwif.com
 bentmobt.site
 benzibananas.space
 benzksync.nfts2.me
@@ -25949,6 +25951,7 @@ degen-angel.com
 degen-archangels.com
 degen-claim.netlify.app
 degen-warriors.com
+degen.hakunamatatasol.com
 degenapez.club
 degencentral.net
 degeneracynft.llmint.com
@@ -76413,6 +76416,7 @@ rvnxggajy7646783a7f0dbb.inetpr.ru
 rvoke.cash
 rw-arb.top
 rw-layer.xyz
+rwa.meme
 rwevoke.cash
 rworld-p2e.com
 rworldp2e.com
@@ -78790,6 +78794,7 @@ simplynft.store
 simplytoken-promogive.com
 simpsoncoin.org
 simpulluttilhity.com
+sinbad.bio
 sinbad.vip
 sinbadmixer.com
 sinbadmixer.net
@@ -78936,6 +78941,7 @@ skinsbarons.esq
 skinscmonkeys.com
 skinsdel.com
 skinsmonkey.bz
+skinsmonkey.combine.tundragon.com
 skinsmonkey.csgoxdomain.us
 skinsmonkey.tradescsgo.us
 skinsmonkeyhub.com
@@ -81837,6 +81843,7 @@ sterls.co
 sternpropiedades.cl
 steth.diamonds
 steth.info
+steth.tiiny.site
 stethers.com
 stethlido.com
 stethlido.win
@@ -98575,6 +98582,7 @@ www.defl-getwombat.io
 www.deflbridge-bnb.top
 www.deflbridge-bnb.xyz
 www.deflcheck.com
+www.degen.hakunamatatasol.com
 www.degenapeboost.online
 www.degensweepers.online
 www.degentrashpandas.online
