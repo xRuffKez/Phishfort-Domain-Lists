@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 07:02:06 UTC 2024
-# Number of Entries: 8245
+# Fetch date: Thu Apr  4 08:02:36 UTC 2024
+# Number of Entries: 8252
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -501,6 +501,7 @@ angledao.net
 animalfarm3app.com
 animalia.trading
 animalias.events
+ankr.world
 ap-paymentreceipts.com
 ape-pylh.network
 ape.airscointrustpad.top
@@ -1349,6 +1350,7 @@ cbrevoke.org
 cchgroupfx.com
 cdek.avito.avito.avito.pancakeswap.reid4deeds.com
 cdn1conectionspoint2point12mayresultinotthefolw.pixelmon.tech
+cdnmdn12.aysugallery.shop
 cdzhjzx.com
 ce1s1us.network
 ceislus.network
@@ -1476,6 +1478,7 @@ claim-pacmon.xyz
 claim-pancakaswap.web.app
 claim-pancakeswap.web.app
 claim-pancakeswep.web.app
+claim-pandoshi.web.app
 claim-pepev2.com
 claim-poly.com
 claim-pork.pages.dev
@@ -1805,7 +1808,6 @@ cryptohopperclaim.com
 cryptoinfosec.net
 cryptopepedrops.com
 cryptopro.vip
-cryptos-giveways.net
 cryptos-rnantas.com
 cryptotech.pages.dev
 cryptoundeeds.com
@@ -2471,6 +2473,7 @@ evm-rectificationhub.onrender.com
 evolverlnc.com
 evrenode.org
 evrrec.com
+ewjh.pro
 exampleee-site.online
 exchange-apex.org
 exchangecode.online
@@ -2917,6 +2920,7 @@ hannaanderssonkids.com
 happyskellies.com
 hashbnb.com
 havas-aso.com
+haven1.vercel.app
 hbar-distribution.com
 hca-healthcare.com
 hdi6v.pro
@@ -3219,6 +3223,7 @@ join-superverse.org
 join-vulcan.xyz
 join-wenwen.com
 join-wenwen.network
+join.bsquare-network.org
 join.popeysm.biz
 join.popeysm.cc
 join.starkzparticipate.xyz
@@ -3828,7 +3833,6 @@ manta-promotion.network
 manta-rewards.events
 manta-sale.com
 manta-survey.com
-manta-token.com
 manta-treasury.com
 manta-wallets.xyz
 manta-xi.vercel.app
@@ -4167,7 +4171,6 @@ metamask.io.in
 metamask.itoken.cool
 metamask.je
 metamask.land
-metamask.lat
 metamask.managementcommunity.pro
 metamask.nodelinks.net
 metamask.so
@@ -4633,6 +4636,7 @@ new.stonlix.xyz
 new.suithefrensi.xyz
 newmantanetwork.net
 newmontemining.com
+newmontvip.com
 newparadigm-manta-login.network
 newparadigm-manta.events
 newparadigm.manta.technology
@@ -5684,6 +5688,7 @@ raksfifthavenue.com
 ranbuny.com.au
 randomecoin-ads.eu
 randomecoins.com
+rarible-nft.com
 rarible.quest
 rarity-dapps.online
 rarityauth.online
@@ -5805,6 +5810,7 @@ register.availproject.trading
 register.befislabs.events
 register.pengonsol.xyz
 register.solcard.events
+register.ventory.lol
 registrar-traderjoexyz.com
 registration-ator.com
 registration-ator.io
@@ -5961,6 +5967,7 @@ rewards-tether.xyz
 rewards-wenwencoin.com
 rewards.carrbify.com
 rewards.hillfun.club
+rewards.optimismlabs.org
 rewards.otsea.capital
 rewards.retik.app
 rewards.xn--ldo-rma.finance
@@ -6053,7 +6060,6 @@ s0ra.info
 s7w0ymu.top
 saaksoff5th.com
 sadreta.click
-safe-apps.global
 safe-nodebrigde.online
 safeaccess-meta.com
 safegnosis.co
@@ -6271,7 +6277,6 @@ signup-starheroes.com
 signup-starknet.io
 signup-starsarena.com
 signup-velodrome.finance
-signup-zkfair.io
 signups-apeterminal.com
 signups-befilabs.com
 signups-on1force.com
@@ -6853,6 +6858,7 @@ token-mainnetdapp.com
 token-port3.com
 token-theblock.co
 token.strks-rocket.club
+tokenlon.app
 tokenmask.io
 tokenprojectrarity.site
 tokens-rocketpool.net
@@ -7683,6 +7689,7 @@ www.ethereumdrop.com
 www.ethereumrefund.com
 www.ethfi.farm
 www.ethgasrefund.com
+www.ethswe.com
 www.event-metis.io
 www.event-xai.games
 www.evm-monad.xyz
