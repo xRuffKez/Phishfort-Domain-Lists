@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 21:02:07 UTC 2024
-# Number of Entries: 8278
+# Fetch date: Thu Apr  4 22:02:06 UTC 2024
+# Number of Entries: 8280
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2704,7 +2704,6 @@ galagames-6nj.com
 galaxies.mantasnetworks.app
 galxe.co.bz
 galxe.pl
-galxe.pm
 galxe.re
 galxe.stream
 galxerewards.app
@@ -3326,7 +3325,6 @@ jupqq.com
 juprr.com
 jups.io
 jupvoucher.com
-jupxxx.lol
 jupzz.com
 justlendportal.org
 juups.io
@@ -4289,6 +4287,7 @@ mfi.expert
 mfidao.club
 mfidex.space
 mftx.pro
+mgel.com.br
 mgfryjd.pages.dev
 mh-pharma.com
 miaviia.com
@@ -4548,6 +4547,7 @@ myro-airdrop.xyz
 myrobase.com
 mysecond.mypsx.net
 mysofinance.net
+mysonicwall.ir
 mystery-axieinfinity.claims
 mystery-clicc.vercel.app
 mystery-illuvium.io
@@ -6615,6 +6615,7 @@ support-cch.com
 support-manta.pages.dev
 support-pancakeswaps.pages.dev
 support-walletrestoration.pages.dev
+support.metamask.id
 support.pankecswaqfiannce.com
 support.pixelmon.tech
 support.webdapps.pro
@@ -7996,6 +7997,7 @@ www.tiktokmall-th.com
 www.toshithecat.org
 www.tpadv2.dev
 www.triplewealthbuilders.com
+www.trustlimitedinvestment.com
 www.trustwalletdefi.icu
 www.ucem.edu.mx
 www.unimlp.com
