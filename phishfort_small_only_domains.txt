@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 22:02:04 UTC 2024
-# Number of Entries: 8236
+# Fetch date: Thu Apr  4 00:08:24 UTC 2024
+# Number of Entries: 8225
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -207,6 +207,7 @@ agoda-jps.com
 agoda-offer18239.com
 agoda.config-guest178.com
 agoda.confirm139233.com
+agoda.extra-checks.com
 agoda.host
 agoda.ib-web.online
 agoda.offer18239.com
@@ -1399,7 +1400,6 @@ chamath-x2.live
 champion-tactic.com
 changelly.plus
 chauinilst.org
-cheat-space.com
 check-defi.com
 check.wenser.e2p.xyz
 checkaml.fun
@@ -2728,7 +2728,6 @@ generalmotorsplanta.com
 genesis-dem.eu
 genesis-dem.xyz
 genesis-dym.com
-genesis-dymension.xyz
 genesis-dymensionapp.com
 genesis-dymensions.xyz
 genesis-roll.com
@@ -3215,7 +3214,6 @@ joinnewparadigm-mantanetwork.com
 joinnewparadigm-mantanetwork.net
 jointoexposed.com
 joinweb-3.com
-jokewoods.maryboye.tv
 jorpost-new.top
 journeymantle.one
 joyouslinkew.world
@@ -3486,7 +3484,6 @@ lendingtreeusa.us
 lengthepengkiller.xyz
 lesfeesandgas.org
 lessfeeandgas.org
-lessfeesendgas.org
 lfg-jup-claims.pages.dev
 lfg-jup.app
 lfg-jup.io
@@ -3954,6 +3951,7 @@ marketpharmacy.com
 marketplace-listings.com
 marketplace-offers.io
 marketplacestatus.com
+marlopayrollui.com
 marnta.network
 masa-ek1.pages.dev
 masa-finance.com
@@ -4476,7 +4474,6 @@ multidappsnetwork.com
 multidappsrectification.pages.dev
 multinoderesolve.pages.dev
 multinodetech.xyz
-multiplier-bitstable.finance
 multiplier-manta.network
 multiplier.aitsprotcol.com
 multiswaps.org
@@ -5710,7 +5707,6 @@ raydium.pics
 raydium.rest
 raydium.sbs
 raydium.trading
-raydiumpool.xyz
 raydiums.buzz
 raydiums.pages.dev
 raydiumswap.com
@@ -5792,7 +5788,6 @@ register-smartlayer.network
 register-snap.com
 register-solanamobile.com
 register-syncus.com
-register-traderjoexyz.com
 register-wenwencoin.com
 register-yuliverse.app
 register.availproject.trading
@@ -5812,7 +5807,6 @@ registration-fantom.network
 registration-jup.ag
 registration-layrzero.claims
 registration-linea.com
-registration-manta.network
 registration-mixmob.io
 registration-pixels.xyz
 registration-superverse.com
@@ -5952,7 +5946,6 @@ rewards-mantle.com
 rewards-mode.network
 rewards-multibit.exchange
 rewards-opsec.net
-rewards-phoenix.trade
 rewards-solanamobile.com
 rewards-taiko.com
 rewards-tether.xyz
@@ -6772,7 +6765,6 @@ thisisatest999.com
 thor-fi.io
 tia-project.com
 tias-celestia.net
-tias-giveaways.net
 ticket.universalprotocoldapp.io
 tidex.icu
 tifi-airdrop.com
@@ -7323,7 +7315,6 @@ web3.mavia.team
 web35-foundation.one
 web38888.com
 web39999.com
-web3airdrop.lat
 web3antiv.com
 web3apink.cf
 web3apitq.tk
@@ -7428,7 +7419,6 @@ west-braves.info
 westrock-workwear.nl
 whalesmarket.org
 wheelerr.shop
-white-manta.network
 whiteberidgepet.com
 whitel-probablynothing.net
 whitel-syncus.com
@@ -8203,7 +8193,6 @@ zksinc.github.io
 zkskull.com
 zkslabsfoundation.com
 zksnp.network
-zksrewardsclaim.net
 zkswapy.com
 zksycn.net
 zksymc.github.io
