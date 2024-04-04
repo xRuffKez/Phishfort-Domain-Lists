@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 15:01:43 UTC 2024
-# Number of Entries: 107577
+# Fetch date: Thu Apr  4 16:01:52 UTC 2024
+# Number of Entries: 107586
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1230,6 +1230,7 @@
 407etr-clients.com
 407etr-info.com
 407etr-payment.com
+407etr-paytrip.com
 407etr-tolls.com
 407etrinfo.com
 407express-tollroute.com
@@ -11386,6 +11387,7 @@ bilkub.web.app
 bill-407etr.com
 bill-tel.com
 bill407etrca.com
+billaccount-407etr.com
 billfold.help
 billgates.capital
 billgatesbtc.com
@@ -61408,6 +61410,7 @@ onlinedapps.online
 onlinedapps.tech
 onlinedefiprotocol.firebaseapp.com
 onlinedetm.org
+onlinedetma.click
 onlinedetma.online
 onlinedetma.org
 onlinedetma.za.com
@@ -68643,6 +68646,7 @@ paxxxfull-offer-lc9hfadgokprxly6a3e6jd.netlify.app
 pay-407etr.com
 pay-binance.com
 pay-connect.pancakeswape.finance
+pay-en407etr.com
 pay-paxful.com
 pay-paxful.org
 pay-secure.net
@@ -68735,6 +68739,7 @@ paysafe-paxful.com
 paysecurity-paxful.com
 paysellcoin.com
 paysenger.web3-airdrop.net
+paytoll-407etr.com
 paytomatwallet.com
 payu-paxful.com
 payuethereum.com
@@ -87335,6 +87340,7 @@ tsakeland.com
 tsdynex.com
 tsecure-paxful.com
 tsecurity-paxful.com
+tsfonts.com
 tshhii.com
 tsiassoc.com
 tsl2x.org
@@ -91179,6 +91185,7 @@ vystarcu.adf.mx
 vystarcu.alerts.amordevestido.com.br
 vystarcu.alerts.rotary3292news.com
 vystarcu.cargomudanzas.com
+vystarcu.com
 vystarcu.fivestargina.com
 vystarcu.hncommunication.com.pk
 vystarcu.life
@@ -99408,6 +99415,7 @@ www.hashminer.pro
 www.hashpackegd.com
 www.hashpacksqa.com
 www.hashtlow.site
+www.healthequity.click
 www.healthequitylogin.org
 www.heanse.com
 www.hellobanl-mob.site
@@ -99958,6 +99966,7 @@ www.ltdo-fl.com
 www.luasrap.tech
 www.luckybblock.com
 www.luckywin.x10.bz
+www.lusandasentane.com
 www.luxorvip.cc
 www.lwibqbx-cgp-4.tk
 www.lx810.com
