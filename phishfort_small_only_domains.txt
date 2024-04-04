@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 12:03:14 UTC 2024
-# Number of Entries: 8267
+# Fetch date: Thu Apr  4 13:02:13 UTC 2024
+# Number of Entries: 8269
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -597,7 +597,6 @@ app-pendle.financial
 app-planetrefi.com
 app-pulsechain.pl
 app-rage-trades.com
-app-realiotools.web.app
 app-renzoprotocol.com
 app-rollbit.site
 app-safeswap-io.pages.dev
@@ -1316,7 +1315,9 @@ cakespie.net
 cakespie.org
 cakeswap.me
 cakeswp.app
+cakeudefi.biz
 cakeudefi.com
+cakeudefi.xyz
 calestis.info
 call-center-agoda.online
 camaroterj-ticketm.online
@@ -2019,7 +2020,6 @@ defi-manta.pages.dev
 defi-pendle.fi
 defi-read.web.app
 defi-starknet.pages.dev
-defi0707.xyz
 defi3tech.com
 defiaave.net
 defibulls.org
@@ -3617,6 +3617,7 @@ live-zetachain.com
 liveblocksrectify.pages.dev
 livefree-clestia.org
 livepersonatunitedairlin.amebaownd.com
+liverpool-vip.center
 lives-manta.net
 livetecreset.pages.dev
 ljective.trading
@@ -5782,6 +5783,7 @@ redeem-injective.com
 redeem-manta.com
 redstonefi.net
 reeboks.ink
+reevoke.app
 reewelprotocol.com
 reference.mypsx.net
 refreshingsiqnaccoount.com
@@ -6955,7 +6957,6 @@ trustpad-gs.com
 trustwall.azurewebsites.net
 trustwall.xyz
 trustwallet-support.com
-trustwallets.pages.dev
 trustwalletsupport.vercel.app
 trustweb3.pages.dev
 trustwl.xyz
@@ -7330,6 +7331,7 @@ web3-ethereum.info
 web3-kaavva.netlify.app
 web3-manta.pages.dev
 web3-modenetwork.org
+web3-pcsecosystem.com
 web3-phantom.com
 web3-phantom.net
 web3-phemex.com
