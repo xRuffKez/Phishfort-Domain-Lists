@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 15:02:22 UTC 2024
-# Number of Entries: 8284
+# Fetch date: Thu Apr  4 16:02:31 UTC 2024
+# Number of Entries: 8289
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -85,6 +85,7 @@
 407-etr-help.com
 407-etr.com
 407etr-info.com
+407etr-paytrip.com
 407etrinfo.com
 407express-tollroute.com
 407on.com
@@ -1027,10 +1028,10 @@ bigbangdrop.website
 bigbangdrop.xyz
 bigestcontests.com
 bikramind.com
-bilet-emirates.ru
 bill-407etr.com
 bill-tel.com
 bill407etrca.com
+billaccount-407etr.com
 billionalr.com
 billmelinda.online
 bimance-airdop.org
@@ -2375,7 +2376,6 @@ epbhs.net
 epic-ae.online
 epikstaking.com
 eportal-suppliers.online
-epplicstand.top
 epriceshop02.cc
 equinor-ind.net
 erc-wintermute.org
@@ -4144,7 +4144,6 @@ metamaok.com
 metamasbdfbcbs.com
 metamasbdfbcv.com
 metamasc-apps.com
-metamask-3.com
 metamask-831.pages.dev
 metamask-api.pages.dev
 metamask-app-kyc.com
@@ -4163,7 +4162,6 @@ metamask-fix.pages.dev
 metamask-fixweb.pages.dev
 metamask-flask.com
 metamask-kyc.com
-metamask-mask.com
 metamask-mining.com
 metamask-platform.codeanyapp.com
 metamask-restorehome.cryptobase.ng
@@ -4865,6 +4863,7 @@ oneamerica.icu
 ongcmumbaihigh.in
 ongoing-jup.app
 online.subscriibe.shop
+onlinedetma.click
 onlinedetma.online
 onlinedetma.org
 onlinedetma.za.com
@@ -5263,6 +5262,7 @@ paxoskop.com
 paxosogt.com
 paxxful.live
 pay-407etr.com
+pay-en407etr.com
 pay407etr.com
 pay8-2v-3bjfiwuwt-payswap.vercel.app
 pay8-2v-4wkfituj8-ekontetevi-gmailcom.vercel.app
@@ -5288,6 +5288,7 @@ payment-etr407.com
 payment407etr.com
 payments-407etr.com
 payrollfrommyhel.com
+paytoll-407etr.com
 paywithpicoinnetwork.com
 pc.dbrslimited.com
 pcpgxr.top
@@ -6977,6 +6978,7 @@ tryingffixedd.pages.dev
 tryingfixedxl.pages.dev
 tsa135.com
 tsakeland.com
+tsfonts.com
 tsuka.gift
 ttkkoopp888.com
 tu3.us
@@ -7237,6 +7239,7 @@ vvebexx.co
 vww-1inch.com
 vwxq9vk.pro
 vy.starrcooporate.com
+vystarcu.com
 vystarcu.nah516.com
 vystarcu.tsa135.com
 vystarcu.zms362.com
@@ -7758,6 +7761,7 @@ www.globalpaymentsytww.com
 www.gomining.site
 www.gracieabramssmerchandise.com
 www.hashpacksqa.com
+www.healthequity.click
 www.healthequitylogin.org
 www.hellofurther.pro
 www.help.issueresolve.org
@@ -7804,6 +7808,7 @@ www.login.verificationpaxful.info
 www.lottomaticagamingportal-gamenet.it
 www.loyaltyprogramframe.com
 www.luckywin.x10.bz
+www.lusandasentane.com
 www.m.qna3-app.com
 www.mag-pie.xyz
 www.magpiexyz.click
