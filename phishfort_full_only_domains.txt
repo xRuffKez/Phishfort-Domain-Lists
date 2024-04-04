@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 10:01:45 UTC 2024
-# Number of Entries: 107549
+# Fetch date: Thu Apr  4 11:01:31 UTC 2024
+# Number of Entries: 107554
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4478,6 +4478,7 @@ alshayadeals.net
 alshayadealss.com
 alshayae.shop
 alshayagrooup.shop
+alshayagrooup.store
 alshayagroup-ae.company.site
 alshayagroup-o.com
 alshayagroup-s.com
@@ -41502,6 +41503,7 @@ katbent.site
 kathleenyanelli.com
 katiekeepsitreal.app
 katobit.net
+katy-capital.com
 kaubunalak.site
 kava-api137.web.app
 kava-bot.firebaseapp.com
@@ -81927,6 +81929,7 @@ stonextrades.com
 stonexx.club
 stonexx.net
 stonfi.web3fast.net
+stonfx.com
 stoodio-doodles.app
 stopannoiyng.ru
 storageapi-fleek-co.translate.goog
@@ -97319,6 +97322,7 @@ www.asxcion.com
 www.asxcions.com
 www.asxcrypto.net
 www.asxcryptoo.com
+www.asxhk7.com
 www.asxhkd1.com
 www.asxice.top
 www.asxidn.com
@@ -103268,6 +103272,7 @@ www.vintaqe-myetherwallet.com
 www.vip-asx.com
 www.vippaxos.com
 www.vircomem.ro
+www.virginmoney.live
 www.virtualsafetysolutions.net
 www.vizagvanta.com
 www.vlaunch.org
