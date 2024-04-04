@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 17:02:22 UTC 2024
-# Number of Entries: 8284
+# Fetch date: Thu Apr  4 18:02:38 UTC 2024
+# Number of Entries: 8283
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -678,7 +678,6 @@ apparrakis.finance
 appbalancer.finance
 appcitadelswap.xyz
 appdaomaker.com
-appdown.bovdl.com
 appe-mode.network
 appeigenlayer.xyz
 appethena.finance
@@ -2078,7 +2077,6 @@ dev.heliuswork.com
 dev.lyncdiscover.img.elasticsearch-uat.arb-chain.com
 devapp.pages.dev
 devdapps.pages.dev
-devfixpanel.com
 devicaeccess.co.uk
 devnet-dymension.com
 deworm.xyz
@@ -3509,6 +3507,7 @@ leisureglob.com
 lenanet.work
 lending-tree-month-1-d12f2.web.app
 lendingtree.website
+lendingtree1.mydurable.com
 lendingtreeincusa.com
 lendingtreellc.org
 lendingtreeusa.us
@@ -4808,6 +4807,7 @@ o2-kundenverwaltung.info
 o2online-service.de
 oasisprotocols.org
 ob-app.com
+obamacareenrollment.org
 oberbank-ag.myfreesites.net
 ocbre.com
 ocdpool.xyz
@@ -5280,7 +5280,6 @@ paylocily.com
 paylocity-login.com
 paylocity-sso.com
 paylooity.com
-payment-407etr.com
 payment-etr407.com
 payment407etr.com
 payments-407etr.com
@@ -5368,7 +5367,6 @@ phant0m-wallet.github.io
 phantimp.xyz
 phantjum.xyz
 phantom-protocol.com
-phantom-webservice.online
 phantomapp.support
 phantomm-ewallett.godaddysites.com
 phantomwaalet.godaddysites.com
@@ -6155,6 +6153,7 @@ scapemania.live
 scapemania.sale
 scburnet.okta.acmecorp.name
 scholarfundhub.com
+schoolfirstcenter0reversalonline.duckdns.org
 sconectsmartplusoficial.store
 scorpion-casino.shop
 scotltytheai.xyz
@@ -7550,7 +7549,6 @@ ww-revoke.cash
 wwarm.xyz
 wwe-envivo.com
 wwepunch.shop
-wwesolana.com
 www-1inch.top
 www-adpworkforcenow.com
 www-altlayer-io.top
@@ -8181,6 +8179,7 @@ zapper-frontend-next-ikph34jsv-zapper-fi.vercel.app
 zellerscanada.ca
 zenithzest.top
 zens-web3.com
+zerion-uup.pages.dev
 zerion.claimfree.xyz
 zerionpro.com
 zerionu.com
