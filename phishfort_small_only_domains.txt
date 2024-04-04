@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 00:08:24 UTC 2024
-# Number of Entries: 8225
+# Fetch date: Thu Apr  4 01:23:51 UTC 2024
+# Number of Entries: 8230
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -165,6 +165,7 @@ accepts-lnterweb.life
 access.bdc.support
 access.roninchain.app
 account-407etr.com
+account407etr.com
 accountsportal.net
 accountsvalidator.com
 acefusionist.network
@@ -1560,6 +1561,7 @@ claimtrumx.xyz
 claimvoucher2.glitch.me
 claimwif.com
 clanostreet.com
+clark-constructions.org
 clarkcorstruction.com
 clarkgroup-us.co
 cldss.xyz
@@ -2361,6 +2363,7 @@ erc-wintermute.org
 erdefimining.com
 ericaleite.com
 ernfi.xyz
+erobex.net
 erp.tcharra.com
 errorsync.pages.dev
 erydgred.umb.market
@@ -2890,6 +2893,7 @@ gzfd4.cc
 h1.otctron.com
 h407etr.com
 h5.517kuku.com
+h5.asxar.com
 h8fl00.cc
 hajjdomestic-sa.info
 halefiuamamalst.com
@@ -2917,6 +2921,7 @@ healthequity.comja.sa.com
 healthequity.comlink.sa.com
 healthequity.comru.sa.com
 healthequity.comru.za.com
+healthequity.comxy.za.com
 healthequity.comy.sa.com
 healthequity.live
 healthequity.one
@@ -5869,7 +5874,6 @@ revoke-approvals.xyz
 revoke-approvals.xyz.polarmates.top
 revoke-cash-i9n0pa5cx-lahana.vercel.app
 revoke-cash-layer2.pages.dev
-revoke-cash.cash
 revoke-cash.xyz
 revoke-cassh.pages.dev
 revoke-eth.xyz
@@ -6946,6 +6950,7 @@ ufalmassuissat.com
 ufgw.top
 uhcdapp-apply-srv-eligible.glitch.me
 uhcrecruit.com
+uhrecruits.online
 uimplmassa.com
 uionlineheda.com
 uiredofmassucherndy.com
