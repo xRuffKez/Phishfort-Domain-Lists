@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 02:09:13 UTC 2024
-# Number of Entries: 8230
+# Fetch date: Thu Apr  4 03:02:34 UTC 2024
+# Number of Entries: 8232
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -31,6 +31,7 @@
 191glkil7mb.irwd2wa.su
 1cancelar-cambio.webcindario.com
 1d4f0331-eb63-4d85-9d57-7dacc20bff64-00-3t07qm8fsr0w5.janeway.replit.dev
+1ezagbg.cc
 1icnh.com
 1ido-fi.github.io
 1inch-app.com
@@ -482,6 +483,7 @@ ambitefinance.eu
 americantowercareers.com
 amexcardspayment.com.idigitalconnect.com
 aminorewards.online
+aml-verify.xyz
 amlbot.lol
 amlcrypto.world
 amljumper.com
@@ -935,6 +937,7 @@ barnbridge.pro
 bartellers.com
 basebrett.lol
 basebrett.xyz
+basecwap.org
 basedbrett.xyz
 baseswaap.top
 batmansol.com
@@ -1345,7 +1348,6 @@ cbrepartners.com
 cbrevoke.org
 cchgroupfx.com
 cdek.avito.avito.avito.pancakeswap.reid4deeds.com
-cdn.cdn.secure.pancakefiance.org
 cdn1conectionspoint2point12mayresultinotthefolw.pixelmon.tech
 cdzhjzx.com
 ce1s1us.network
@@ -2865,6 +2867,7 @@ greenbitcoin-en.web.app
 greencorp.online
 greens-bitcoins.web.app
 grendot.online
+grin.pages.dev
 grit-finance.com
 grok15erc20claim.pages.dev
 grokceo.website
@@ -4713,6 +4716,7 @@ nftsclicks.vercel.app
 nftsprogifts.vercel.app
 nftsteth.com
 nfum-spa.eu-west-2.elasticbeanstalk.com
+ngknss.cc
 ni8.us
 nibiairdrop.net
 nibidrop.com
@@ -5036,8 +5040,6 @@ pancakefx.vercel.app
 pancakelp.org
 pancakelps.org
 pancakeprotectors.pages.dev
-pancakes-swap.com
-pancakes-swap.finance
 pancakesawpifnance.com
 pancakesswap.in
 pancakesswap.info
@@ -5342,7 +5344,6 @@ phantom-protocol.com
 phantom-webservice.online
 phantomapp.support
 phantomm-ewallett.godaddysites.com
-phantomtoken.app
 phantomwaalet.godaddysites.com
 phantomwallte.com
 phantomzwalllet.godaddysites.com
@@ -6371,6 +6372,7 @@ solana-promo.info
 solana.ag
 solana.laag.site
 solanaetoken.e-classes.pro
+solanapad.in
 solanaus.com
 solanawen.com
 solarmy.eu
@@ -6431,11 +6433,11 @@ sprak.fi
 srmpool.xyz
 srtoos.com
 srxuznzcsy.nepialisen.tech
-ssh.secure.secure.pancakefiance.org
 ssly.vip
 sspark.fi
 st.betiutima.online
 stableusdc.com
+stadrlebs.org
 staekland.com
 staging.home.hostmaster.coingecko.hatsuqat.com
 staging.www1.nftcircle.xyz
@@ -6448,7 +6450,6 @@ stake-injective.com
 stake-jup.com
 stake-manta.network
 stake-official-online.com
-stake-rewarb.com
 stake-slerf.com
 stake-tish.com
 stake-us.in.net
@@ -7086,6 +7087,7 @@ valisame.com
 valitame.com
 valoklin.com
 valortage.com
+valoxeno.com
 valuableohelper.com
 vanar.trading
 vanarchaiin.com
