@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 03:02:34 UTC 2024
-# Number of Entries: 8232
+# Fetch date: Thu Apr  4 04:02:29 UTC 2024
+# Number of Entries: 8236
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -225,6 +225,7 @@ agodaaffiliate.com
 agodachina.cn
 agodacs.online
 agodahotel.cc
+agodahotels.world
 agodaonline.com
 agodatikethotelcom.masukmobilee.de
 agodaycs.com
@@ -1495,6 +1496,7 @@ claim-vyperprotocol.com
 claim-wen.army
 claim-wenwen.com
 claim-wormhole.network
+claim-wrm.com
 claim-xai.pages.dev
 claim-your-mask-tokens-withmetamask-airdrop.fi-liikennesakkoo.net
 claim-zetachain.xyz
@@ -4175,7 +4177,6 @@ metamaskapp.space
 metamaskarticle.com
 metamaskb.icu
 metamaskc.org
-metamaskclaim.io
 metamaskclaimtoken.com
 metamaskcrypto.com
 metamaske.com.cn
@@ -6183,6 +6184,7 @@ selfsync-dapp.com
 selviyardim.online
 senapsy-protocoll.org
 senecanillwork.com
+sentinel-ai.vip
 sentry.xalgames.xyz
 sentryxai.claimtokens.live
 sepolia.eu
@@ -6477,6 +6479,7 @@ staking.app-bitrock.com
 staking.k9finance.co
 staking.routerprotocols.net
 staking.tryring-ai.app
+starbtctest.duckdns.org
 starcheckapp.com
 stardefyloomfil.pages.dev
 stardexairdrop.com
@@ -6605,6 +6608,7 @@ swap-defilama.com
 swap-dev-git-fix-wc2-cowswap.vercel.app
 swap-dev-git-nx-true-project-cowswap.vercel.app
 swap-jupiter.com
+swap-l2.com
 swap-nft.pages.dev
 swap-raydium.io
 swap.dikecoin.net
@@ -6757,6 +6761,7 @@ theemiriatesgroupae.com
 theemiriatesgroupuae.com
 theemriatesgroup.online
 thefamiilytoken.com
+thefamilytokens.vercel.app
 themodenetwork.com
 thepepe20.com
 theplasmacenter.info
@@ -7988,7 +7993,6 @@ www.wwwdymension.xyz
 www.wwwframe.xyz
 www.x-swap.link
 www.xai.moe
-www.xn--fixedflaot-f0b.com
 www.xrpsolana.com
 www.ylouch.com
 www.ypredictai.xyz
