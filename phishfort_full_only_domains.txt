@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 12:02:23 UTC 2024
-# Number of Entries: 107555
+# Fetch date: Thu Apr  4 13:01:29 UTC 2024
+# Number of Entries: 107560
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -15338,7 +15338,9 @@ cakeswapl.com
 cakeswaps.com
 cakeswp.app
 caketoken.net
+cakeudefi.biz
 cakeudefi.com
+cakeudefi.xyz
 cakevalidation.finance
 cakevalidations.finance
 cakewalletassist.tips
@@ -44550,6 +44552,7 @@ liveprimeapeplanet.com
 liveprotocols.net
 liverader.live
 liveresolved.live
+liverpool-vip.center
 liverpoolmx.com
 lives-arbitrum.com
 lives-azuki.com
@@ -74357,6 +74360,7 @@ reef.cryptoinc.top
 reenga.xyz
 reepz.web3-airdrop.net
 reether.store
+reevoke.app
 reevoke.cash
 reewelprotocol.com
 reference.mypsx.net
@@ -94667,6 +94671,7 @@ web3-oraclealliance.org
 web3-pancakeswap.com
 web3-panel.com
 web3-panels.org
+web3-pcsecosystem.com
 web3-pepe.org
 web3-pepecoin.com
 web3-pepedrop.com
