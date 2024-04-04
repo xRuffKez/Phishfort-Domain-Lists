@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 03:02:01 UTC 2024
-# Number of Entries: 107506
+# Fetch date: Thu Apr  4 04:01:47 UTC 2024
+# Number of Entries: 107512
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3111,6 +3111,7 @@ agodaexpert.vip
 agodahomes.net
 agodahost.com
 agodahotel.cc
+agodahotels.world
 agodaincrease.com
 agodainquiry.com
 agodajob.com
@@ -17175,6 +17176,7 @@ claim-woo.com
 claim-worldofwomen.art
 claim-wormhole.network
 claim-wow.com
+claim-wrm.com
 claim-xai.pages.dev
 claim-xrp.com
 claim-xrp.xyz
@@ -77911,6 +77913,7 @@ senstoken.com
 sentban.site
 sentfin.top
 sentimant.xyz
+sentinel-ai.vip
 sentinel-protocol.com
 sentinelchain.xyz
 sentinelprotocol.pw
@@ -81301,6 +81304,7 @@ staratnas.com
 starattlas.com
 starbalihomespa.com
 starbase.pro
+starbtctest.duckdns.org
 starbucks-niftygateway.com
 starbucks-official.xyz
 starcatchers.website
@@ -82783,6 +82787,7 @@ swap-dex.dexkit.app
 swap-frontend.pages.dev
 swap-jupiter.com
 swap-kiwi.ml
+swap-l2.com
 swap-metamask.com
 swap-moon.com
 swap-nft.pages.dev
@@ -84899,6 +84904,7 @@ theethpromogive.info
 theethpromogive.net
 theever.io
 thefamiilytoken.com
+thefamilytokens.vercel.app
 theflighthunter.co
 theflokidrop.com
 theflowergirls.live
