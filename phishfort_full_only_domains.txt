@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 09:01:33 UTC 2024
-# Number of Entries: 107544
+# Fetch date: Thu Apr  4 10:01:45 UTC 2024
+# Number of Entries: 107549
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3109,7 +3109,10 @@ agodaexpert.vip
 agodahomes.net
 agodahost.com
 agodahotel.cc
+agodahotel.cyou
+agodahotel.pw
 agodahotels.live
+agodahotels.store
 agodahotels.world
 agodaincrease.com
 agodainquiry.com
@@ -33090,6 +33093,7 @@ firefaces.netlify.app
 fireflameinu-promogive.com
 fireplacehotness.com
 firesbitkubwallet.web.app
+firevisionaries.com
 firiend.tech
 firmware-config.net
 firmware-data.pages.dev
@@ -84829,6 +84833,7 @@ thebakery.cc
 thebankcbk.online
 thebastards.nft-premint.com
 thebaycompany-ca.com
+thebaysc.com
 thebestnft.gq
 thebey-ca.claimy.club
 thebey-ca.offerfun.club
