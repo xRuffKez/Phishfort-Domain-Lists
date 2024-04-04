@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 21:01:50 UTC 2024
-# Number of Entries: 107592
+# Fetch date: Thu Apr  4 22:01:32 UTC 2024
+# Number of Entries: 107596
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -52593,6 +52593,7 @@ mg-land.land
 mg-land.nft-premint.com
 mgctoken.biz
 mgctoken.org
+mgel.com.br
 mgetherwallat.com
 mgetherwallet.com
 mgetherwalllat.com
@@ -58740,6 +58741,7 @@ mysofinance.net
 mysolana.net
 mysolananft.com
 mysollana.com
+mysonicwall.ir
 mysoulitude.com
 mystadium-promogive.com
 mystcl.tech
@@ -82455,6 +82457,7 @@ support.disputemask.com
 support.eth3rdyear.io
 support.io-php.com
 support.metamask-io.site
+support.metamask.id
 support.metamask.zendesk.us.com
 support.metamasks.icu
 support.multi-daps.info
@@ -103126,6 +103129,7 @@ www.trustcoinotc.com
 www.trustdappswallet.com
 www.trustedsolutionslinks.com
 www.trustkonect.com
+www.trustlimitedinvestment.com
 www.trustminer.app
 www.trustmining.network
 www.trustpad-explainthisbob-claim.xyz
