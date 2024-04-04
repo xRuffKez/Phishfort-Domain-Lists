@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 16:01:52 UTC 2024
-# Number of Entries: 107586
+# Fetch date: Thu Apr  4 17:01:53 UTC 2024
+# Number of Entries: 107587
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -37725,6 +37725,7 @@ health-equity.pro
 health-equity.sa.com
 health-equity.za.com
 healthcheck.com
+healthequity.combiz.pro
 healthequity.comja.sa.com
 healthequity.comlink.sa.com
 healthequity.comru.sa.com
