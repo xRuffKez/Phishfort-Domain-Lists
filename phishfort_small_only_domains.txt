@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 19:02:10 UTC 2024
-# Number of Entries: 8283
+# Fetch date: Thu Apr  4 20:02:08 UTC 2024
+# Number of Entries: 8278
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3986,7 +3986,6 @@ masa-ek1.pages.dev
 masa-finance.com
 masgouidetma.org
 mask-metamask.io
-mask-tokens.claims
 mask.gift
 maskairdrop.link
 maskbymetamask.io
@@ -5107,6 +5106,7 @@ pancakeswapfiinance.xyz
 pancakeswapfinance-gg3.pages.dev
 pancakeswapfinances.pages.dev
 pancakeswaph.github.io
+pancakeswapp.pages.dev
 pancakeswapper.online
 pancakeswapperhub.online
 pancakeswapreward.finance
@@ -5245,7 +5245,6 @@ paxos-app.com
 paxos-club.com
 paxos-eth.com
 paxos-gold.net
-paxos-network.com
 paxos-okta.com
 paxos-token.org
 paxos-trades.com
@@ -5400,7 +5399,6 @@ pl.xpiym.shop
 pl.zkndv.club
 planet-zksync.nfts2.me
 planetsrefi.airdrop.cfd
-plantagmsanluis.com
 plantagmseminuevos.com.mx
 plantagmsilao.com.mx
 plantajohnsoncontrols.com
@@ -7001,7 +6999,6 @@ ultra-prismafinance.com
 ultrasmartcoinsolution.xyz
 umasmasslouist.com
 umassuigovst.com
-umusic-digital.com
 umusic-pub.com
 umusiceu.com
 unapatches.com
@@ -7068,7 +7065,6 @@ us4f.cc
 us_mettmsika_en_us3.godaddysites.com
 usa5starshop.com
 usaseoseller.com
-usatexasunigiri.com
 usbnkrellacrd.site
 usdc-claimback.online
 usdc-gift.top
@@ -8021,7 +8017,6 @@ www.virginmoney.live
 www.virtualsafetysolutions.net
 www.vlaunch.org
 www.vopiow.com
-www.vrumod.com
 www.walletsdapprepl.com
 www.wallstmemes.mobi
 www.web.dapps-auth.live
