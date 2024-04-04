@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 08:02:36 UTC 2024
-# Number of Entries: 8252
+# Fetch date: Thu Apr  4 09:02:40 UTC 2024
+# Number of Entries: 8257
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -207,6 +207,7 @@ agoda-jp.vip
 agoda-jp.xyz
 agoda-jps.com
 agoda.config-guest178.com
+agoda.confirm139233.com
 agoda.extra-checks.com
 agoda.host
 agoda.ib-web.online
@@ -222,6 +223,7 @@ agodaaffiliate.com
 agodachina.cn
 agodacs.online
 agodahotel.cc
+agodahotels.live
 agodahotels.world
 agodaonline.com
 agodatikethotelcom.masukmobilee.de
@@ -750,7 +752,6 @@ arbitrrum-bridge.com
 arbitrum-air.icu
 arbitrum-airdrop2023.com
 arbitrum-reward.xyz
-arbitrum-surveys.com
 arbitrum.devilinu.com
 arbitrum.reward-apps.com
 arbitrum.tr1onex.top
@@ -1284,6 +1285,7 @@ c.qztaiwei.com
 c0nnects.pages.dev
 c7ed7c0a-a3f0-4a62-9092-b1bb34dc0ec4-00-2hhxxwsgft7jv.janeway.replit.dev
 c9bae519-e21c-44b6-990c-e47a9b25b5a1-00-2o0u40bra6plm.janeway.replit.dev
+cabinet-customs.org.ua
 cadenceprotocol.net
 cadenerranks.cc
 cadillac-usdt.com
@@ -2737,6 +2739,7 @@ gemlink.xyz
 gempad-app.xyz
 geneitec.com
 generalmotors-dk.com
+generalmotors-ek.com
 generalmotorsplanta.com
 genesis-dem.eu
 genesis-dem.xyz
@@ -4042,6 +4045,7 @@ meatmesk.com
 mediaflex.live
 medialink.ie
 medidata-mobile.com
+medidatacareers.com
 mee6-connect.xyz
 mee6appeals.xyz
 meebits.store
@@ -6394,6 +6398,7 @@ solblaze.cx
 soldrop.pages.dev
 solflareweb.com
 solgift6.com
+solicitudesberkley.es
 sollfare.com
 solmigrate.com
 sols-meta.web.app
