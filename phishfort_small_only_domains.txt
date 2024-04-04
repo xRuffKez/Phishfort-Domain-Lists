@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 04:02:29 UTC 2024
-# Number of Entries: 8236
+# Fetch date: Thu Apr  4 05:02:07 UTC 2024
+# Number of Entries: 8244
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -656,6 +656,7 @@ app.refundcoinstake.com
 app.rnino.fi
 app.solvsprotocol.com
 app.sparkprotocol.fi
+app.spy-token.io
 app.stonexvip.top
 app.stringwebtools.com
 app.swellnetwork.fi
@@ -963,6 +964,7 @@ bendado.xyz
 benddoa.xyz
 bendogsolana.top
 benefits-blast.com
+bentenwif.com
 benzksync.nfts2.me
 beoible.app
 bep3456.club
@@ -2041,6 +2043,7 @@ deflexseax.xyz
 defuny.cc
 defuny.vip
 degen-claim.netlify.app
+degen.hakunamatatasol.com
 degods-wormhole.com
 deillama.top
 delmetamask.onrender.com
@@ -6040,6 +6043,7 @@ rtfktforge.pro
 rubic-exchange.life
 rubytechnology360.com
 runjokab.wpenginepowered.com
+rwa.meme
 rx-nt.duckdns.org
 rz7wjw.info
 s-app-reaktivieren.su
@@ -6281,6 +6285,7 @@ simplenow.xyz
 simplepairingapp.com
 simpletestmultiversechainx.eu
 simpsoncoin.org
+sinbad.bio
 singularitydao.app
 siteai.site
 sitemap.newpardigm-manta.network
@@ -6289,6 +6294,7 @@ skaddenlawfirm.com
 skasoff5th01.com
 skasoff5th02.com
 skasoff5th03.com
+skinsmonkey.combine.tundragon.com
 sklpool.site
 sksidg.com
 skyborneslegacy.com
@@ -6530,6 +6536,7 @@ steancomrnunity.com
 stepnboxx.netlify.app
 stepnfree.netlify.app
 stepstaking.app
+steth.tiiny.site
 stethers.com
 stethlido.win
 stethpool.xyz
@@ -7658,6 +7665,7 @@ www.debenhams-ae.com
 www.decentralize-metis.com
 www.decntralnd.one
 www.deelancewin.com
+www.degen.hakunamatatasol.com
 www.dex-bitconnect.lol
 www.dianwifi.cc
 www.drop.box-cdn.com
