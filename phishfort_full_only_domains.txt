@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 08:02:01 UTC 2024
-# Number of Entries: 107537
+# Fetch date: Thu Apr  4 09:01:33 UTC 2024
+# Number of Entries: 107544
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3051,6 +3051,7 @@ agoda-vn.vip
 agoda.ba
 agoda.conferm.online
 agoda.config-guest178.com
+agoda.confirm139233.com
 agoda.d-loade.top
 agoda.extra-checks.com
 agoda.fun
@@ -3108,6 +3109,7 @@ agodaexpert.vip
 agodahomes.net
 agodahost.com
 agodahotel.cc
+agodahotels.live
 agodahotels.world
 agodaincrease.com
 agodainquiry.com
@@ -15258,6 +15260,7 @@ ca.mim-u.com
 cabbuiopk7jalfc9nf70.pancakesvqp.com
 cabcdgiveaway.com
 cabelam.store
+cabinet-customs.org.ua
 cabxt.com
 cache-protocol.netlify.app
 cache-protocol.site
@@ -35585,6 +35588,7 @@ generali.mtstudio.me
 generalizednetworkconnect.pro
 generalmainnet.com
 generalmotors-dk.com
+generalmotors-ek.com
 generalmotorsmexico.com
 generalmotorsplanta.com
 generalmotorssilao.com.mx
@@ -48411,6 +48415,7 @@ medicidsas.com
 medicinehealthpoint.com
 medidata-mobile.com
 medidata.ufcontent.com
+medidatacareers.com
 medioswow.com
 mediterraneanholding.com
 medium-airdrop-promo.com
@@ -80275,6 +80280,7 @@ solgiftclaim.net
 solgive.pw
 solgives.org
 soliascan.work
+solicitudesberkley.es
 solidfix.cc
 solidfix.live
 solidity-web3.com
@@ -85678,6 +85684,7 @@ tokenldo.org
 tokenlido.net
 tokenlinnks.click
 tokenlivesales.com
+tokenlon.app
 tokenlon.online
 tokenlon.site
 tokenmainnet.org
