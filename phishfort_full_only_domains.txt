@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 06:01:50 UTC 2024
-# Number of Entries: 107520
+# Fetch date: Thu Apr  4 07:01:32 UTC 2024
+# Number of Entries: 107526
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17785,6 +17785,7 @@ cliffchnclegal.com
 cliffchnlaw.com
 cliffchnllp.com
 cliffchnrecovery.com
+clifford-chance-holding.com
 clifford-chance-uk.co
 clifford-chance.accountant
 clifford-chance.finance
@@ -27576,6 +27577,7 @@ drop-makerdao.com
 drop-mask.xyz
 drop-metamask.com
 drop-metamask.io
+drop-mogcoin.com
 drop-optimisim.xyz
 drop-optimism.net
 drop-pad.top
@@ -27766,6 +27768,7 @@ duklokner.site
 dulcetgarden-promogive.com
 dulcie.vip
 dumalomas.com
+dumb-coin.fun
 dumb1.com
 dumbak.site
 dumlukanza.site
@@ -40684,6 +40687,7 @@ jefferies.tw
 jefferies8.com
 jefferieswealth.com
 jeffleries.com
+jeffwealth.com
 jeffworld.llmint.com
 jeffworld.truly-minting.com
 jeitto-entrar.ml
@@ -72062,6 +72066,7 @@ presale-robotera.info
 presale-scorpioncasino.pages.dev
 presale-x.com
 presale-ypredict.com
+presale.get-blockgames.app
 presale.getmyethers.net
 presale.portalgamings.net
 presale.seesawprotocol.io
@@ -82235,6 +82240,7 @@ sunshield-promogive.com
 sunsvvap.cloud
 sunsystems.hk
 sunvallleyspply.com
+suo0gk1.cc
 sup.68i92.com
 supaffix.com
 supaknottss.netlify.app
