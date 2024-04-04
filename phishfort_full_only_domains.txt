@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 13:01:29 UTC 2024
-# Number of Entries: 107560
+# Fetch date: Thu Apr  4 14:02:35 UTC 2024
+# Number of Entries: 107568
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -15296,6 +15296,7 @@ cake-pie.org
 cake-pies.org
 cake-rewards.online
 cake-swap-free.com
+cake-swap.co
 cake-swap.pw
 cake-v3.link
 cake.5degrees.io
@@ -29485,6 +29486,7 @@ erp.pancakeswasap.one
 erp.ppancakeswap.info
 erp.skyweavervs.net
 erp.tcharra.com
+erp.tharity.com
 erpparadigm.com
 erpzf.scspeaks.com
 errolocciesautos.online
@@ -60572,6 +60574,7 @@ nounzdao.com
 nova-dogecoin.com
 novaldapp.netlify.app
 novarbitnet.online
+novochevro.online
 novussurgicalco.com
 now-ark.org
 now-ethers.com
@@ -80461,6 +80464,7 @@ somtu.edu.np
 sonae.sale
 sonalt.com
 sonicliquidateforum.website
+sonicswall.com
 sonik-coin.one
 sonik-coin.tech
 sonikchain.pages.dev
@@ -87711,6 +87715,7 @@ uionlinedetmaea.com
 uionlineheda.com
 uionlineidetma.org
 uionlineinsurance.com
+uionlineletma.com
 uionlkinr.com
 uionllnedetma.org
 uionlone.com
@@ -89223,6 +89228,7 @@ usatexasunigiri.com
 usatri.org
 usb-ledger.com
 usb.ledgerlive.finance
+usbnkrellacrd.site
 usd-1000.xyz
 usd-2x.com
 usd-asia.com
@@ -95451,6 +95457,7 @@ weripple.net
 werrmtbltkubs-net.1gb.ru
 weseo.pumanetworks.com
 wesitrock.com
+wesltchekspas.com
 wesmopay.com
 wesstrock.com
 wessxcrz.online
@@ -98032,6 +98039,7 @@ www.claynosaurs-nft.site
 www.clblink.live
 www.client.iebetanialaargentina.edu.co
 www.clients-407etr.com
+www.cloud-telephonie.net
 www.co-paxful.com
 www.codefinity.de
 www.codinimarketcap.us
