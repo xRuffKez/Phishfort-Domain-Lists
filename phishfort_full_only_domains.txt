@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 14:02:35 UTC 2024
-# Number of Entries: 107568
+# Fetch date: Thu Apr  4 15:01:43 UTC 2024
+# Number of Entries: 107577
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1035,6 +1035,7 @@
 24primecryptofx.com
 24x7-bittreks.com
 24x7-ledger.com
+24x7enterpriserental.agency
 24xchanger.cash
 25xrpevent.net
 2623233ez2ojk8yw56vh.hr70g.ru
@@ -10990,6 +10991,7 @@ berkleyrlsk.com
 berkleyrsk.com
 berkomans.site
 berlinerluft-ar.blogspot.com
+berlinoff.za.com
 bernachain.info
 berrachain.shop
 berserkinu-promogive.com
@@ -15238,6 +15240,7 @@ c.ftxgroup01.com
 c.ftxgroup66.com
 c.ollab.land
 c.qztaiwei.com
+c.taiweixl.com
 c013.com
 c0labland.com
 c0labland.io
@@ -32964,6 +32967,7 @@ fightingouts.fun
 fightoutapp.network
 fighttout.com
 figure-distribution.com
+figurefourchampionship.com
 figuregot.web3fast.net
 fiitxiin.com
 fiixedflaoat.com
@@ -59195,6 +59199,8 @@ neom-suppliers.net
 neom.day
 neomcareers.cloud
 neomcareers.life
+neomecolife.com
+neomfuturehub.com
 neomonlines.info
 neomprojects-ksa.net
 neomsuppliers.net
@@ -64313,6 +64319,7 @@ pancakeswap-drop.sytes.net
 pancakeswap-drops.com
 pancakeswap-drops.pro
 pancakeswap-earn.com
+pancakeswap-earn.pro
 pancakeswap-earnings.com
 pancakeswap-ek.tech
 pancakeswap-empt.tech
@@ -66630,6 +66637,7 @@ pancakeswop.net
 pancakeswop.network
 pancakeswop.online
 pancakeswop.org
+pancakeswop.pages.dev
 pancakeswop.site
 pancakeswop.space
 pancakeswop.tech
@@ -99667,6 +99675,7 @@ www.jokersparty.com
 www.jomosoftware.tech
 www.jompyc.com
 www.jordon.info
+www.ju.normbit.online
 www.junglenft.xyz
 www.just-apes.site
 www.justflyme.com
