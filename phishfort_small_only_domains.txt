@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 16:02:31 UTC 2024
-# Number of Entries: 8289
+# Fetch date: Thu Apr  4 17:02:22 UTC 2024
+# Number of Entries: 8284
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -730,7 +730,6 @@ aptclaim.net
 aptos-7eo.pages.dev
 aptos.trusthubs.top
 aptosfoundation.info
-aptosfundation.com
 apts-project.com
 apygate.rpctool.net
 arab-bkplc.com
@@ -1103,7 +1102,6 @@ blast-drop.shop
 blast-drop.space
 blast-drop.tech
 blast-drop.website
-blast-invite.xyz
 blast-io.pro
 blast-l2.club
 blast-l2.dev
@@ -1696,7 +1694,6 @@ collabgift.space
 collabiand-verify-github.com
 collabland-assest.com
 collabland-community.net
-collabland-connect.net
 collabland-members.net
 collabland-safety.net
 collabland-verification.xyz
@@ -2751,7 +2748,6 @@ gempad-app.xyz
 geneitec.com
 generalmotors-dk.com
 generalmotors-ek.com
-generalmotorsplanta.com
 genesis-dem.eu
 genesis-dem.xyz
 genesis-dym.com
@@ -2943,6 +2939,7 @@ health-equity.pro
 health-equity.sa.com
 health-equity.za.com
 healthcheck.com
+healthequity.combiz.pro
 healthequity.comja.sa.com
 healthequity.comlink.sa.com
 healthequity.comru.sa.com
@@ -6579,7 +6576,6 @@ stonex12.com
 stonexkr.com
 stonexkr.me
 stonexx.club
-stonexx.net
 stonfx.com
 store17830.associazionechien.org
 stretto-celsius-network.com
@@ -6593,7 +6589,6 @@ strklabsfnd.net
 strknet.com
 strknet.network
 strkprimary.pics
-stumbleuponrumble-web3.net
 subqueryfoundation-claim.vercel.app
 subsquid.network
 sueta777.pages.dev
