@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 05:02:07 UTC 2024
-# Number of Entries: 8244
+# Fetch date: Thu Apr  4 06:02:28 UTC 2024
+# Number of Entries: 8242
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -206,15 +206,12 @@ agoda-jp.site
 agoda-jp.vip
 agoda-jp.xyz
 agoda-jps.com
-agoda-offer18239.com
 agoda.config-guest178.com
-agoda.confirm139233.com
 agoda.extra-checks.com
 agoda.host
 agoda.ib-web.online
 agoda.offer18239.com
 agoda.partner-extranet.life
-agoda.res94219.com
 agoda.weboffer7181.com
 agoda.ycs-id.info
 agoda.ycs.my.id
@@ -1954,6 +1951,7 @@ davipse.info
 davitahealthcarepartners.com
 daviviendainforma.zya.me
 daviviendaportal.webcindario.com
+dbdefi-discover.com
 dbrsco.org
 dbrscotd.com
 dbrsfds.com
@@ -4347,7 +4345,6 @@ mint-satoshivm.io
 mint-usdc.web.app
 mint-xai.com
 mint.apps-looty.com
-mint.bitienatz.lol
 mint.cokeazukicanvas.com
 mint.cyberzduck.lol
 mint.deadapez.lol
@@ -5900,7 +5897,6 @@ revoke.plus
 revoke.run
 revokeapp.info
 revokeapp.tech
-revokeassets.com
 revokeca.com
 revokeca.xyz
 revokecash-portal.pages.dev
@@ -6018,6 +6014,7 @@ ronninwallet.godaddysites.com
 roomfollow.xyz
 roomgrade.org
 rooninchain.com
+roost-distributions.net
 rosefashion.com.bd
 round2-wenwencoin.com
 route.claims
@@ -7889,6 +7886,7 @@ www.personalles-accesoscolombia.online
 www.pfizer.i.ng.sba-sales.com.ng
 www.pork-event.net
 www.portal-ait.tech
+www.portalcoin.join-airdrop.com
 www.portolbridge.org
 www.practisea.com
 www.provisionstrk.xyz
