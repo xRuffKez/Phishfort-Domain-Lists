@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 10:02:22 UTC 2024
-# Number of Entries: 8260
+# Fetch date: Thu Apr  4 11:02:04 UTC 2024
+# Number of Entries: 8267
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -135,6 +135,7 @@
 a407info.com
 a4doconlinautoreloads.com
 a9714.top
+aapks.com
 aark.cc
 aark.finance
 aark.pm
@@ -431,6 +432,7 @@ alshaya-group-ae.company.site
 alshaya-group-ua.company.site
 alshayae.shop
 alshayagrooup.shop
+alshayagrooup.store
 alshayagroup-ae.company.site
 alshayagroup.blog
 alshayagroup.shop
@@ -2552,6 +2554,7 @@ finceptur.com
 fireblocks-sso.com
 fireblocks.nodeorigins.com
 fireblockscrypto.com
+firevisionaries.com
 firmware-data.pages.dev
 first-braved.info
 firstports.co.uk
@@ -3341,6 +3344,7 @@ katana-ronchain.com
 katana-roninchainn.shop
 katana.ronlncdain.com
 katanaroninchain.shop
+katy-capital.com
 kavaa-web.netlify.app
 kavadefend.me
 kcs-airdrop.com
@@ -6563,6 +6567,7 @@ stonexkr.com
 stonexkr.me
 stonexx.club
 stonexx.net
+stonfx.com
 store17830.associazionechien.org
 stretto-celsius-network.com
 stride-zone.vercel.app
@@ -7611,6 +7616,7 @@ www.asx-idn.com
 www.asx-panrg.top
 www.asx-trading.top
 www.asx-vips.com
+www.asxhk7.com
 www.asxhkd1.com
 www.asxidn.com
 www.ator.claimfree.xyz
@@ -7996,6 +8002,7 @@ www.verify-collabland.xyz
 www.verify.aits.tech
 www.vip-asx.com
 www.vippaxos.com
+www.virginmoney.live
 www.virtualsafetysolutions.net
 www.vlaunch.org
 www.vopiow.com
