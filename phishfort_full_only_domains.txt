@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr  3 23:02:11 UTC 2024
-# Number of Entries: 107490
+# Fetch date: Thu Apr  4 00:06:10 UTC 2024
+# Number of Entries: 107492
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3052,6 +3052,7 @@ agoda.conferm.online
 agoda.config-guest178.com
 agoda.confirm139233.com
 agoda.d-loade.top
+agoda.extra-checks.com
 agoda.fun
 agoda.gologonow.website
 agoda.host
@@ -47866,6 +47867,7 @@ markoceans.com
 markphills.xyz
 marlin-rewards-programs-claims-erc20-token.com
 marloon.net
+marlopayrollui.com
 marlosmasslovst.com
 marmetag.com
 marnotaur-giveaway.online
