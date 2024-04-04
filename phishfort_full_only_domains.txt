@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 05:01:42 UTC 2024
+# Fetch date: Thu Apr  4 06:01:50 UTC 2024
 # Number of Entries: 107520
 # Expires: 1 hour
 0-metemask.com
@@ -3039,7 +3039,6 @@ agoda-jp.xyz
 agoda-jps.com
 agoda-mba.com
 agoda-not.com
-agoda-offer18239.com
 agoda-partner.club
 agoda-partner.co
 agoda-partner.info
@@ -3052,7 +3051,6 @@ agoda-vn.vip
 agoda.ba
 agoda.conferm.online
 agoda.config-guest178.com
-agoda.confirm139233.com
 agoda.d-loade.top
 agoda.extra-checks.com
 agoda.fun
@@ -3063,7 +3061,6 @@ agoda.icu
 agoda.lovestoblog.com
 agoda.offer18239.com
 agoda.partner-extranet.life
-agoda.res94219.com
 agoda.resew-r.world
 agoda.shop
 agoda.take-t.top
@@ -24699,6 +24696,7 @@ db.ahootdigital.com
 db.pancakeswasap.one
 dbasemainnet.tech
 dbcop.org
+dbdefi-discover.com
 dbix.link
 dbm.mu
 dbp.coinsbase8.com
@@ -76107,6 +76105,7 @@ roomgrade.org
 roomlab-web3modal.vercel.app
 rooniinnweb.com
 rooninchain.com
+roost-distributions.net
 rootprocedure-fix.org
 rootroop.nft-premint.com
 rootroop.webs-mint.com
@@ -101918,6 +101917,7 @@ www.portal-ait.tech
 www.portal-astar-network.com
 www.portal-aster-network.com
 www.portal-orbitchain.com
+www.portalcoin.join-airdrop.com
 www.portaltoken-bridge.com
 www.portel-astar-network.com
 www.portfolio-my-walletzz.com
