@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 11:02:04 UTC 2024
+# Fetch date: Thu Apr  4 12:03:14 UTC 2024
 # Number of Entries: 8267
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4155,6 +4155,7 @@ metamask-event.online
 metamask-extensions.pages.dev
 metamask-fix.pages.dev
 metamask-fixweb.pages.dev
+metamask-flask.com
 metamask-kyc.com
 metamask-mask.com
 metamask-mining.com
@@ -4362,7 +4363,6 @@ mint-usdc.web.app
 mint-xai.com
 mint.apps-looty.com
 mint.cokeazukicanvas.com
-mint.cyberzduck.lol
 mint.deadapez.lol
 mint.lamavox.wtf
 mint.scrllpunkdis.icu
