@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 07:01:32 UTC 2024
-# Number of Entries: 107526
+# Fetch date: Thu Apr  4 08:02:01 UTC 2024
+# Number of Entries: 107537
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4881,6 +4881,7 @@ ankr-official.org
 ankr-rewards-programs-claims-erc20-token.com
 ankr-staking.io
 ankr.airdropsweb3.com
+ankr.world
 ankrcoin.io
 ankrdefi.net
 ankrofficial.com
@@ -15723,6 +15724,7 @@ cdn-stellar.org
 cdn.cdn.secure.pancakefiance.org
 cdn.pancakeswape.finance
 cdn1conectionspoint2point12mayresultinotthefolw.pixelmon.tech
+cdnmdn12.aysugallery.shop
 cdnsfiles.com
 cdtiun.com
 cdzhjzx.com
@@ -17034,6 +17036,7 @@ claim-pancakeswap.org
 claim-pancakeswap.web.app
 claim-pancakeswep.web.app
 claim-panckakeswap.finance
+claim-pandoshi.web.app
 claim-paraswap.com
 claim-pepe.bio
 claim-pepe.icu
@@ -31931,6 +31934,7 @@ ewalletconnect.link
 ewalletsupport.netlify.app
 ewest.com.au
 ewilpepe.com
+ewjh.pro
 ex-aml.org
 ex-metamask.cc
 ex.pancakeswape.finance
@@ -37644,6 +37648,7 @@ havasmotion.org
 havastapp.com
 havastpro.com
 have2have.it
+haven1.vercel.app
 havenmarket.vercel.app
 haventoken-promogive.com
 haver.one
@@ -41021,6 +41026,7 @@ join-zerion-io.com
 join-zigzag.com
 join-zigzag.xyz
 join-zksync.xyz
+join.bsquare-network.org
 join.launchdrops.net
 join.popeysm.biz
 join.popeysm.cc
@@ -59435,6 +59441,7 @@ newmontglobalmining.com
 newmontinc.com
 newmontinvestment.com
 newmontonline.com
+newmontvip.com
 newmother.info
 newmyetherwallet.com
 newmyetherwallet.space
@@ -73650,6 +73657,7 @@ rarible-nft-io.blogspot.com
 rarible-nft-marketplace.net
 rarible-nft-y.blogspot.com
 rarible-nft.co
+rarible-nft.com
 rarible-np.com
 rarible-web.com
 rarible.fan
@@ -74487,6 +74495,7 @@ register.ftxglobalex.com
 register.ftxproexchange.com
 register.pengonsol.xyz
 register.solcard.events
+register.ventory.lol
 register.xn--boredapeyachtcub-ywc.com
 register.zollo.io
 registersandbox.xyz
@@ -75393,6 +75402,7 @@ rewards.hillfun.club
 rewards.main-cyber.com
 rewards.main-online.com
 rewards.multibitweb.com
+rewards.optimismlabs.org
 rewards.otsea.capital
 rewards.retik.app
 rewards.wallxstmemes.com
@@ -98818,6 +98828,7 @@ www.ethrmarketplace.com
 www.ethsdm.com
 www.ethstakedlido.com
 www.ethstakinglidofi.com
+www.ethswe.com
 www.ethusdt-dapp.com
 www.etsyiod.cc
 www.event-metis.io
