@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 13:02:13 UTC 2024
-# Number of Entries: 8269
+# Fetch date: Thu Apr  4 14:03:03 UTC 2024
+# Number of Entries: 8275
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1300,6 +1300,7 @@ cake-distribution.net
 cake-pie.org
 cake-pies.org
 cake-rewards.online
+cake-swap.co
 cake.5degrees.io
 cakedefi-web3.com
 cakedpie.net
@@ -2380,6 +2381,7 @@ ericaleite.com
 ernfi.xyz
 erobex.net
 erp.tcharra.com
+erp.tharity.com
 errorsync.pages.dev
 erydgred.umb.market
 erythkor.buzz
@@ -3985,7 +3987,6 @@ masa-ek1.pages.dev
 masa-finance.com
 masgouidetma.org
 mask-metamask.io
-mask-token.org
 mask-tokens.claims
 mask.gift
 maskairdrop.link
@@ -4786,6 +4787,7 @@ notcoin.gift
 notcoin.global
 notcoin.host
 notionalfinance.org
+novochevro.online
 now.l3-mode.world
 nowoplunge.com
 nsds.cc
@@ -5377,7 +5379,6 @@ phtms.app
 phtomwalet.azurewebsites.net
 phumtoewallat.godaddysites.com
 pichainmall.com.ng
-pinkbird.fail
 pinksale-app.com
 pipsyl.top
 pixals.xyz
@@ -6415,6 +6416,7 @@ soltrading-bots.web.app
 solutiondesk.live
 solwl-saga.web.app
 sommelier-finance.web.app
+sonicswall.com
 sonikchain.pages.dev
 sophon-registrations.com
 soundbridge.click
@@ -6987,6 +6989,7 @@ uhcrecruit.com
 uhrecruits.online
 uimplmassa.com
 uionlineheda.com
+uionlineletma.com
 uiredofmassucherndy.com
 ujp.ag
 uk-applovinlife.com
@@ -7063,6 +7066,7 @@ us_mettmsika_en_us3.godaddysites.com
 usa5starshop.com
 usaseoseller.com
 usatexasunigiri.com
+usbnkrellacrd.site
 usdc-claimback.online
 usdc-gift.top
 usdc-r9kaq.github.io
@@ -7455,6 +7459,7 @@ wenwendrop.com
 wenwenofficial.com
 wepad.web3mirror.io
 wer34.pages.dev
+wesltchekspas.com
 west-braves.info
 westrock-workwear.nl
 whalesmarket.org
@@ -7665,6 +7670,7 @@ www.claimit-op.xyz
 www.claims-dymension.com
 www.claims-jupiter.com
 www.clients-407etr.com
+www.cloud-telephonie.net
 www.codefinity.de
 www.coinbase-fogexter.top
 www.collab-award.io
