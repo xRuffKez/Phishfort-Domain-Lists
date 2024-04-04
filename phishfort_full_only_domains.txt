@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 17:01:53 UTC 2024
-# Number of Entries: 107587
+# Fetch date: Thu Apr  4 18:02:02 UTC 2024
+# Number of Entries: 107590
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -43561,6 +43561,7 @@ lendingtree.live
 lendingtree.onlineaccescorp.org
 lendingtree.website
 lendingtree01.netlify.app
+lendingtree1.mydurable.com
 lendingtreee.in
 lendingtreefin.club
 lendingtreefinance.info
@@ -57230,7 +57231,6 @@ myetherwallet.net
 myetherwallet.net.ru
 myetherwallet.netbank
 myetherwallet.netflix
-myetherwallet.network
 myetherwallet.new
 myetherwallet.newholland
 myetherwallet.news
@@ -60791,6 +60791,7 @@ oauth-metamask.io
 oauth2-discord.com
 oayc.pre-mints.space
 ob-app.com
+obamacareenrollment.org
 obencea.com
 ober-app.com
 ober-apptan.com
@@ -77191,6 +77192,7 @@ scex.rocks
 schain-defiint.org
 schizoposters.nft-premint.com
 scholarfundhub.com
+schoolfirstcenter0reversalonline.duckdns.org
 schoolmegamart.com
 schoolsfirstfcu-assistme.com
 schoolsfirstfsu.online
@@ -106945,6 +106947,7 @@ zerion-io.com
 zerion-io.events
 zerion-me.com
 zerion-smart.com
+zerion-uup.pages.dev
 zerion-wallet.netlify.app
 zerion-web3.pw
 zerion.app
