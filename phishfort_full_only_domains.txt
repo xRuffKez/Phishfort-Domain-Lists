@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 00:06:10 UTC 2024
-# Number of Entries: 107492
+# Fetch date: Thu Apr  4 01:23:12 UTC 2024
+# Number of Entries: 107498
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2446,6 +2446,7 @@ account.paxfulsecurity.online
 account.pega-support.com
 account.update.coinbase.service.i2of.com
 account.whittaker-assistance.com
+account407etr.com
 accounting-department.online
 accounting-team.com
 accounting.pancokeswap.com
@@ -17674,6 +17675,7 @@ clalm-metamask.com
 clanostreet.com
 clapper.exchange
 claritymall.com
+clark-constructions.org
 clarkcconstruction.com
 clarkconsstruction.com
 clarkconstructions.us
@@ -29457,6 +29459,7 @@ erevoke.cash
 ericaleite.com
 erjewelry.ir
 ernfi.xyz
+erobex.net
 erp.pancakeswasap.one
 erp.ppancakeswap.info
 erp.skyweavervs.net
@@ -37476,6 +37479,7 @@ h407etr.com
 h5-uniswape.com
 h5.517kuku.com
 h5.appreve.com
+h5.asxar.com
 h5.btkui188.cn
 h5.cointaurus.com
 h5.ppancakeswap.info
@@ -37691,6 +37695,7 @@ healthequity.comja.sa.com
 healthequity.comlink.sa.com
 healthequity.comru.sa.com
 healthequity.comru.za.com
+healthequity.comxy.za.com
 healthequity.comy.sa.com
 healthequity.live
 healthequity.one
@@ -87588,6 +87593,7 @@ uhiswap.space
 uhlswap.org
 uhlswap.pro
 uhlswap.pw
+uhrecruits.online
 ui-online.cyclic.app
 ui-spaceid.com
 uibegets.com
