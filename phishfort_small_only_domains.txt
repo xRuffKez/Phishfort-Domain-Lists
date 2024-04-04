@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 06:02:28 UTC 2024
-# Number of Entries: 8242
+# Fetch date: Thu Apr  4 07:02:06 UTC 2024
+# Number of Entries: 8245
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1577,6 +1577,7 @@ clickopenboxnft.vercel.app
 client.plataformainteractivebrokers.com
 clifardchancegroups.com
 cliffardchance.com
+clifford-chance-holding.com
 clifford-chance.accountant
 clifford-chance.finance
 clifford-chance.financial
@@ -1767,7 +1768,6 @@ cornerpunks.org
 corporativojohnson.com
 corporativolear.com
 coti.xcoindrop.top
-counseloreloft.com
 cov.us-mia-1.linodeobjects.com
 cow-swap.app
 cow-swap.org
@@ -2185,6 +2185,7 @@ drive-document-file-2024.github.io
 drop-apeterminal.com
 drop-ether.fi
 drop-magic.com
+drop-mogcoin.com
 drop.lfgjup.xyz
 dropairframe.com
 dropchecker.app
@@ -2199,6 +2200,7 @@ dtechdatacorp.com
 dualdappsconnect.pages.dev
 duegaigh.buzz
 duke-florence-finance.co
+dumb-coin.fun
 durexwalletbridge.co.za
 dws-team-vs.de
 dydx-exchange.events
@@ -3172,6 +3174,7 @@ jazzy-puffpuff-8f1eac.netlify.app
 jci.org.in
 jcijobs.com
 jedz.co.za
+jeffwealth.com
 jenkins.codefinity.de
 jenpower.net
 jerrybeers.com
@@ -5464,6 +5467,7 @@ presale-cogwise.com
 presale-kelexo-en.web.app
 presale-scorpioncasino.pages.dev
 presale-x.com
+presale.get-blockgames.app
 presales.blockgamess.com
 prime-vest.com
 primematesbc.com
@@ -6275,7 +6279,6 @@ signups-pandora.build
 signups-pixels.com
 signups-trias.org
 siiiydragons.com
-siillydragon.io
 silent-arie.com
 silver-monstera-c958a3.netlify.app
 simplenow.xyz
@@ -6577,6 +6580,7 @@ sunchemicalgroup.com
 sunchemicals.us
 sunchemicalsgroup.org
 sundropfortron.com
+suo0gk1.cc
 super-fans.tech
 super-julio.free-mint.page
 super-migration.com
@@ -7246,7 +7250,6 @@ walletdefi69.top
 walletrectifier.pages.dev
 walletresolution.com
 walletrestoree.pages.dev
-walletrevoke.cash
 wallets-collabland.com
 walletscontest.pro
 walletton.org
