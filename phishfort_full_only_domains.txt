@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr  4 02:08:41 UTC 2024
-# Number of Entries: 107498
+# Fetch date: Thu Apr  4 03:02:01 UTC 2024
+# Number of Entries: 107506
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -245,6 +245,7 @@
 1ethfp.perfect-mints.com
 1exchange.io
 1exchange.lindonft.com
+1ezagbg.cc
 1fp9cbas8l725uod3o34.7c49u41.ru
 1frags.com
 1g0d03e4visit92gbj74ghlpi86gh7pgau3fos7bsfk4kv1urk3afd8.web3portal.com
@@ -4678,6 +4679,7 @@ aml-crypto.org
 aml-detect.com
 aml-fix.org
 aml-status.fun
+aml-verify.xyz
 amlblock.co
 amlbot-checker.com
 amlbot-info.xyz
@@ -10575,6 +10577,7 @@ basechainpass.com
 basecoinbase.com
 basecoinbase.io
 basecointabsonline.info
+basecwap.org
 based-af-nft.xyz
 based-at.com
 basedaf-nft.xyz
@@ -37313,6 +37316,7 @@ grimexikorje.gq
 grimhub.center
 grimmiesnft.com
 grimsyndicateofficial.xyz
+grin.pages.dev
 grit-finance.com
 grizly.fi
 grnomemines.com
@@ -59946,6 +59950,7 @@ nfwalletconnect.com
 nga-pv.com
 ngchain.link
 nghandnsmacscrookesphis.ru
+ngknss.cc
 ngstruart.com
 ngstruart.info
 ngstruart.org
@@ -80063,6 +80068,7 @@ solanaoreja.xyz
 solanaormsby.com
 solanaos.xyz
 solanaottine.com
+solanapad.in
 solanapad.info
 solanapatten.com
 solanapay-tx.com
@@ -80903,6 +80909,7 @@ stacks.web3-airdrop.net
 stacksapien.com
 stader-community.fun
 staders.xyz
+stadrlebs.org
 staekland.com
 staemcommnutiy.ru
 staemcommunitly.net.ru
@@ -90066,6 +90073,7 @@ valorant3.com
 valorant33.com
 valorant99.com
 valortage.com
+valoxeno.com
 valpaint.at
 valr-official.shop
 valr.biz
