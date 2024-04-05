@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 09:02:06 UTC 2024
-# Number of Entries: 8301
+# Fetch date: Fri Apr  5 10:02:38 UTC 2024
+# Number of Entries: 8298
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -211,6 +211,7 @@ agoda-jp.site
 agoda-jp.vip
 agoda-jp.xyz
 agoda-jps.com
+agoda-offer11279.com
 agoda.config-guest178.com
 agoda.confirm139233.com
 agoda.extra-checks.com
@@ -731,9 +732,7 @@ apt-project.com
 apt.500-web3.top
 apt.drop-fund.top
 aptclaim.net
-aptos-7eo.pages.dev
 aptos.trusthubs.top
-aptosfoundation.info
 apts-project.com
 apygate.rpctool.net
 arab-bkplc.com
@@ -1114,7 +1113,6 @@ blast-layer.web.app
 blast-newsletter.com
 blast-protocol.xyz
 blast.dropapp.pro
-blast.eventairdrop.com
 blast.l2mainet.xyz
 blast.spacesbar.xyz
 blast2l.com
@@ -3136,7 +3134,6 @@ instant-stake.com
 insure-defi.org.cogwise-app.com
 integratebitchainfix.pages.dev
 integratechaindefi.pages.dev
-integratedapps.pages.dev
 integratedfix.live
 integratedmultifix.pages.dev
 integratedsystemsconnect.com
