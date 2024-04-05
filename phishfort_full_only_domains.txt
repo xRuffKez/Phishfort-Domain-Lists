@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 19:02:25 UTC 2024
-# Number of Entries: 107646
+# Fetch date: Fri Apr  5 20:02:48 UTC 2024
+# Number of Entries: 107645
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17850,6 +17850,7 @@ cliffordchancelwallp.com
 cliffordchancesglobal.com
 cliffordchancesgroup.com
 cliffordchancesgrouq.com
+cliffordchanceuk.online
 cliffordchanelegallp.com
 cliffordchnce.com
 cliffordchnllp.com
@@ -35787,7 +35788,6 @@ get-ethereum.ml
 get-ethereum.net
 get-ethereum.org
 get-ethereum.site
-get-ethereumrewards.rf.gd
 get-ethers.com.cp-32.webhostbox.net
 get-ethers.net
 get-eths-now.com
@@ -44294,7 +44294,6 @@ linkwalletsauthentification.online
 linkweekly.com
 linkyourwallet.github.io
 linnkks.vercel.app
-linuscointrade.net
 linux.twitter-events22.com
 liocalbitcoins.com
 lion3d.org
@@ -44467,7 +44466,6 @@ liteswapp.com
 litesyncz.com
 litterabbitprojects.com
 littlebabydoge-promogive.com
-littleentrepreneur.org
 littlemamilabel.hwnfts.com
 littleponies.xyz
 littlerabbitintegrated.live
@@ -106546,6 +106544,7 @@ ycllowcerd.site
 ycs-agoda.cc
 ycs-agoda.online
 ycs-agoda.online.thol.lol
+ycs.com-find-extra.com
 ycs.shoujidanbing.com
 ycsextranetagoda.com
 ydbentle.com
