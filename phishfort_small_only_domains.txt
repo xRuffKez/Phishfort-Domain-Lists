@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 12:03:11 UTC 2024
-# Number of Entries: 8301
+# Fetch date: Fri Apr  5 13:02:17 UTC 2024
+# Number of Entries: 8300
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4750,7 +4750,6 @@ nfts-skyarkchronicles.com
 nftsclicks.vercel.app
 nftsprogifts.vercel.app
 nftsteth.com
-nfum-spa.eu-west-2.elasticbeanstalk.com
 ngknss.cc
 ni8.us
 nibiairdrop.net
@@ -4894,6 +4893,7 @@ open-sea.systeme.io
 open-seaio.github.io
 open-seasclick.vercel.app
 open-zkbridge.com
+openbookraydium.com
 openboxclaims.vercel.app
 openclickclaim.vercel.app
 openftclicks.vercel.app
@@ -5795,7 +5795,6 @@ receiveusdc.com
 reckonmexico.com
 reconnectto.org
 recoveryportal.pages.dev
-rect-c0nnrtc.pages.dev
 rect-fixdapps.pages.dev
 rectifier-sync.pages.dev
 rectifierprotocol.com
