@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 17:01:30 UTC 2024
-# Number of Entries: 107645
+# Fetch date: Fri Apr  5 18:01:38 UTC 2024
+# Number of Entries: 107646
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -37544,6 +37544,7 @@ h5.ttmall.in
 h8f7d60iky7t7.com
 h8fl00.cc
 h9h0lgajjh6gizw.elb-host86.pancakeswape.finance
+ha3netchexsalast.com
 haagendazsofficial.xyz
 habbo-freemint.xyz
 habbo.web3-airdrop.net
