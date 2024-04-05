@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 04:03:24 UTC 2024
-# Number of Entries: 8270
+# Fetch date: Fri Apr  5 06:02:42 UTC 2024
+# Number of Entries: 8284
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -198,6 +198,7 @@ agixreward.xyz
 agnidex.com
 agninetwork.xyz
 agoda-88.vip
+agoda-checkout-id843753.com
 agoda-com.com
 agoda-formulir.prioritas-24hours.com
 agoda-global.pro
@@ -215,6 +216,7 @@ agoda.extra-checks.com
 agoda.host
 agoda.ib-web.online
 agoda.offer18239.com
+agoda.partner-extranet.info
 agoda.partner-extranet.life
 agoda.weboffer7181.com
 agoda.ycs-id.info
@@ -228,6 +230,7 @@ agodacs.online
 agodahotel.cc
 agodahotel.cyou
 agodahotel.pw
+agodahotels.live
 agodaonline.com
 agodatikethotelcom.masukmobilee.de
 agodaycs.com
@@ -694,6 +697,8 @@ applovin.in
 applovintwap.com
 applovinworks.com
 appmangrove.exchange
+appmavia.com
+appmavia.org
 appmilkyway.zone
 appmultinitroverse.pro
 appparcl.co
@@ -1386,6 +1391,7 @@ chahlist.org
 chaibenefitmassimui.com
 chain-linklabs.live
 chain-linknetwork.io
+chain-list.top
 chain-strk.com
 chainbugs.org
 chainflip.team
@@ -1398,6 +1404,7 @@ chainlink.us.to
 chainlinkairdropweb3.org
 chainlinklabsv2.com
 chainlinktreasury.net
+chainlisti-oi.top
 chainlogserver.pages.dev
 chainlsiit.com
 chainmulticoin.pages.dev
@@ -1683,6 +1690,7 @@ collab-safety.xyz
 collab-verification.land
 collab-verify.io
 collab.bot-community.com
+collab.defender-system.com
 collab.land-satoshivm.com
 collab.land-verifeds.com
 collabandverify.onrender.com
@@ -1740,6 +1748,7 @@ connect-wallet.ordinalsfinal.live
 connect-wenwencoin.com
 connect-xai.games
 connect.coilab.xyz
+connect.collabiand.com
 connect.gala-games.org
 connect.gatekava.top
 connect.kavanet.xyz
@@ -2377,6 +2386,7 @@ erdefimining.com
 ericaleite.com
 ernfi.xyz
 erobex.net
+erp.incomys.com
 erp.tcharra.com
 erp.tharity.com
 errorsync.pages.dev
@@ -2623,6 +2633,7 @@ formulir.site
 fortanetwork.eu
 fortewebklap.pages.dev
 foundarb.xyz
+fourseasonsmsk.ru
 fox-club.xyz
 fox-dao.web.app
 fr-worldcoin.web.app
@@ -3954,6 +3965,7 @@ mantnetworks.com
 manto-hetwork.com
 manto-network.com
 manto-networks.com
+manttanetwork.com
 manual-metarestore.pages.dev
 manual-restore.pages.dev
 manualmetarestore-39f.pages.dev
@@ -4030,6 +4042,7 @@ mavia.website
 mavia.work
 maviagames.network
 maviagames.xyz
+maviau.com
 maviia.build
 maviia.org
 maviiaa.com
@@ -4799,7 +4812,6 @@ o2online-service.de
 oasisprotocols.org
 ob-app.com
 obamacareenrollment.org
-oberbank-ag.myfreesites.net
 ocbre.com
 ocdpool.xyz
 oceantoken.net
@@ -5082,6 +5094,7 @@ pancakeswap-pancakeswap.com
 pancakeswap-pancakeswap.net
 pancakeswap-platform.pages.dev
 pancakeswap-pro.com
+pancakeswap-server.com
 pancakeswap.airdrop-cake-v3.com
 pancakeswap.cc
 pancakeswap.click
@@ -6215,7 +6228,6 @@ serverapp.cyou
 serverscoc.com
 service-407etr.com
 service-connect-valide.nl
-service-sync.pages.dev
 servicecontrollnc.com
 servicepflege-kontoaktualisieren383266.codeanyapp.com
 sewllnetwork.io
@@ -6500,6 +6512,7 @@ staking.app-bitrock.com
 staking.k9finance.co
 staking.routerprotocols.net
 staking.tryring-ai.app
+stalkestone.org
 starbtctest.duckdns.org
 starcheckapp.com
 stardefyloomfil.pages.dev
@@ -7940,6 +7953,7 @@ www.rpcnodeservicetool.com
 www.rpcresolve.com
 www.rtutgg.cn
 www.rubyprotocol.pro
+www.sabrinacarpentermerch.com
 www.sbtpgs.com
 www.sdxbtcc.com
 www.sdxgood.com
