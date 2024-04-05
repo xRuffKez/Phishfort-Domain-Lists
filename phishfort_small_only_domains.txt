@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 13:02:17 UTC 2024
+# Fetch date: Fri Apr  5 14:02:10 UTC 2024
 # Number of Entries: 8300
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -7447,6 +7447,7 @@ webonlinses.za.com
 webonlinws.sa.com
 websmart-de.fi
 websolverdapp.pages.dev
+webtransfer.vfjikpnlth.life
 webtxid.pages.dev
 weedcurrency.online
 welcometo-neotokyo.codes
@@ -8050,7 +8051,6 @@ www.wikser.com
 www.windy.network
 www.wow-earn.online
 www.wregul.com
-www.www-agodaa.site
 www.wwwdymension.xyz
 www.wwwframe.xyz
 www.x-swap.link
