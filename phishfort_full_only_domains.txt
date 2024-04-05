@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 07:01:33 UTC 2024
-# Number of Entries: 107616
+# Fetch date: Fri Apr  5 08:02:02 UTC 2024
+# Number of Entries: 107629
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1051,6 +1051,7 @@
 2bitcoins.org
 2cd6e164.209189fbad78d1394fea44cc.workers.dev
 2chainencrypt.com
+2crlw.pro
 2ed8a364-896c-4965-b6c7-e38f88fa82ce.htmlpasta.com
 2eth.org
 2eth.site
@@ -6765,6 +6766,7 @@ appmainnetverify.com
 appmainrectify.com
 appmainsync.com
 appmangrove.exchange
+appmantanetwork.com
 appmantradao.com
 appmav.site
 appmavia.com
@@ -19788,6 +19790,7 @@ collabland-join.net
 collabland-join.vercel.app
 collabland-joins.github.io
 collabland-members.net
+collabland-pad.com
 collabland-request.github.io
 collabland-safety.net
 collabland-security.net
@@ -19804,6 +19807,7 @@ collabland-verify-assets.vercel.app
 collabland-verify.cc
 collabland-verify.co
 collabland-verify.com
+collabland-walet.com
 collabland-wallet-ui-bw7.pages.dev
 collabland-wallet-ui-temp.pages.dev
 collabland-wallets.com
@@ -35858,6 +35862,7 @@ get.claiming-free.live
 get.etherofficial.com
 get.etherugas.wtf
 get.etherumrefgas.xyz
+get.ethiner.xyz
 get.ethinwallet.com
 get.ethpublic.com
 get.fastcryptogift.com
@@ -38364,6 +38369,7 @@ home-zerion.net
 home.babysswap.com
 home.brickmark.club
 home.earnclout.com
+home.ethiner.xyz
 home.itsearn.biz
 home.kinzxkgroup.xyz
 home.lamtrue.xyz
@@ -40287,6 +40293,7 @@ intranet.pancakeswasap.one
 intranet.pancakeswep.info
 intrenational.bjtftrex.com
 inu.guimeme.xyz
+inugonz.com
 invcheck.sbs
 invest-china.cloud
 invest-china.icu
@@ -48289,6 +48296,7 @@ mavia.website
 mavia.work
 maviagames.network
 maviagames.xyz
+mavias.click
 maviau.com
 maviia.build
 maviia.org
@@ -54969,6 +54977,7 @@ mvetnerwalletr.online
 mvetnerwalletr.site
 mvetnerwalletr.website
 mvhq2023.xyz
+mvia.app
 mvia.live
 mvmonero.co
 mvp2-memeland.com
@@ -59420,6 +59429,7 @@ new-unlock.github.io
 new-wasallelylog.azurewebsites.net
 new.babbara.xyz
 new.blockchainbets-vault.com
+new.ethiner.xyz
 new.farepath.club
 new.joss-home.com
 new.kinzxkclub.xyz
@@ -74424,6 +74434,7 @@ refund-eth.com
 refund-multichain.com
 refund-multichain.net
 refund-othersidemeta.xyz
+refund.ethiner.xyz
 refund.mutanthapeprime.io
 refund.shidoprotocols.com
 refund.wallstretmemes.app
@@ -84663,6 +84674,7 @@ test.support.pancakeswape.finance
 test.tdstraf.ru
 test.vaultlegacy.site
 test.video.pancakeswape.finance
+test.vortexcapitaltrade.com
 test.wydlol.xyz
 test.xn--apos-1j5a.com
 test.xn--change-9ua.pancakeswape.finance
@@ -91299,6 +91311,7 @@ vyystar7.duckdns.org
 vyz.sethra.ddnss.de
 vz.sarajinihs.edu.bd
 vzhvfr.work
+w-airdrop.vercel.app
 w-appconnector.com
 w-connectfix.com
 w-connecting.com
