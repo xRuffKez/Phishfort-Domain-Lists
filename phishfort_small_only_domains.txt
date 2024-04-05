@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 00:07:51 UTC 2024
-# Number of Entries: 8280
+# Fetch date: Fri Apr  5 01:23:32 UTC 2024
+# Number of Entries: 8272
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -708,7 +708,6 @@ apps-eigenlayer.com
 apps-intercessor.live
 apps-pancakeswap.finance
 apps.multichainspro.com
-apps.nodeprotocols.com
 appserversdex.network
 appsintercessor-server.live
 appssafe.global
@@ -3139,8 +3138,6 @@ interactivebrokersrle.com
 interactivebrokersrue.com
 interactivehkvip.com
 interactivetradepro.com
-interdigitalbot.com
-interdigitalopt.com
 interdigitaltbn.com
 intotheblue-manta.net
 intothebluemanta.net
@@ -4137,7 +4134,6 @@ metamasbdfbcbs.com
 metamasbdfbcv.com
 metamasc-apps.com
 metamask-831.pages.dev
-metamask-api.pages.dev
 metamask-app-kyc.com
 metamask-app.cool
 metamask-app.pages.dev
@@ -4195,7 +4191,6 @@ metamaskclaimtoken.com
 metamaskcrypto.com
 metamaske.com.cn
 metamaskio.xyz
-metamaskit.com
 metamasklabs.cloud
 metamaskmal.ru
 metamaskmarket.com
@@ -4229,7 +4224,6 @@ metamsk.org
 metamskaskse.azurewebsites.net
 metamsklogin.blogspot.com
 metamuaskingghlohgin.godaddysites.com
-metanask-kyc.com
 metanmasak.azurewebsites.net
 metapass.fyi
 metarestore.vercel.app
@@ -5437,6 +5431,7 @@ poloniex-assets.com
 polupokespics.rosamonddunlop665.workers.dev
 polyhedra-network.pro
 polyhedra-network.vercel.app
+polyhedrafoundation.net
 polyhedranetwork.site
 polyhedrazk.foundation
 poncakeswap.finance
@@ -7646,7 +7641,6 @@ www.blur.com.ru
 www.bonkinu.co
 www.bonkmassol.online
 www.bonus-stake.us.mammonmarketing.com
-www.borchy.com
 www.botlun.com
 www.bridgermk.app
 www.bridgermkr.app
@@ -7783,7 +7777,6 @@ www.kmjm.shop
 www.krakenusdt.com
 www.kriya-finance.cyou
 www.kriya-finance.tech
-www.kroift.com
 www.kumelt.com
 www.l2-blast.io
 www.latoken-exchange.com
@@ -7868,7 +7861,6 @@ www.new-paradigmanta.network
 www.newmontvip.com
 www.newparadigmamanta.network
 www.newparadigmmanat.network
-www.nikcos.com
 www.node-protocol.net
 www.node.authfxconnector.com
 www.norwegianlife.net
