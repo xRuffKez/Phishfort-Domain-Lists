@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 04:02:00 UTC 2024
-# Number of Entries: 107602
+# Fetch date: Fri Apr  5 05:01:59 UTC 2024
+# Number of Entries: 107614
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6766,6 +6766,8 @@ appmainsync.com
 appmangrove.exchange
 appmantradao.com
 appmav.site
+appmavia.com
+appmavia.org
 appmee6.com
 appmee6.net
 appmetatime.online
@@ -15999,6 +16001,7 @@ chain-link.ru
 chain-linklabs.live
 chain-linknetwork.io
 chain-list.net
+chain-list.top
 chain-mechanism.space
 chain-net.com
 chain-node.org
@@ -16152,6 +16155,7 @@ chainlist.ltd
 chainlist.services
 chainlist.team
 chainlist.win
+chainlisti-oi.top
 chainlisting.org
 chainlistnetwork.tech
 chainlitst.link
@@ -19702,6 +19706,7 @@ collab-verify.net
 collab-world.info
 collab.bot-community.com
 collab.cs.gold
+collab.defender-system.com
 collab.host
 collab.inload.xyz
 collab.intapps.xyz
@@ -20396,6 +20401,7 @@ connect.collab.pm
 connect.collab.rs
 connect.collab.si
 connect.collabb.land
+connect.collabiand.com
 connect.dapconnectlive.com
 connect.dapp-links.com
 connect.dapp-links.net
@@ -29490,6 +29496,7 @@ ericaleite.com
 erjewelry.ir
 ernfi.xyz
 erobex.net
+erp.incomys.com
 erp.pancakeswasap.one
 erp.ppancakeswap.info
 erp.skyweavervs.net
@@ -47699,6 +47706,7 @@ manto-hetwork.com
 manto-network.com
 manto-networks.com
 mantratech01.com
+manttanetwork.com
 manual-connect.com
 manual-metarestore.pages.dev
 manual-restore.pages.dev
@@ -48279,6 +48287,7 @@ mavia.website
 mavia.work
 maviagames.network
 maviagames.xyz
+maviau.com
 maviia.build
 maviia.org
 maviiaa.com
@@ -64643,6 +64652,7 @@ pancakeswap-rewads.app
 pancakeswap-ru.online
 pancakeswap-ru.site
 pancakeswap-s.com
+pancakeswap-server.com
 pancakeswap-set.tech
 pancakeswap-shiba.com
 pancakeswap-ship.com
@@ -81270,6 +81280,7 @@ stakingtrustswap.com
 stakingv1chain.online
 stakingvenusapp.com
 stakr-lido.net
+stalkestone.org
 stalknelts.site
 stalrkcnet.space
 stalrknet.space
@@ -102331,6 +102342,7 @@ www.rubyprotocol.pro
 www.rwsupp.com
 www.rygit.com
 www.s.chains-sync.live
+www.sabrinacarpentermerch.com
 www.safe-paxful.com
 www.safebridgeindex.live
 www.safecross.live
