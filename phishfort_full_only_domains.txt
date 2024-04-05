@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 20:02:48 UTC 2024
-# Number of Entries: 107645
+# Fetch date: Fri Apr  5 21:02:30 UTC 2024
+# Number of Entries: 107646
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3045,6 +3045,7 @@ agoda-jps.com
 agoda-mba.com
 agoda-not.com
 agoda-offer11279.com
+agoda-offer18239.com
 agoda-partner.club
 agoda-partner.co
 agoda-partner.info
@@ -3069,6 +3070,7 @@ agoda.lovestoblog.com
 agoda.offer18239.com
 agoda.partner-extranet.info
 agoda.partner-extranet.life
+agoda.res94219.com
 agoda.resew-r.world
 agoda.shop
 agoda.take-t.top
@@ -3119,6 +3121,7 @@ agodahotel.cc
 agodahotel.cyou
 agodahotel.pw
 agodahotels.live
+agodahotels.world
 agodaincrease.com
 agodainquiry.com
 agodajob.com
@@ -3357,7 +3360,6 @@ airdrop-altlayer-io.vercel.app
 airdrop-amulet.xyz
 airdrop-angle.money
 airdrop-ape.com
-airdrop-arbitrum.club
 airdrop-arbitrum.com
 airdrop-arbitrum.net
 airdrop-arbitrum.netlify.app
@@ -4273,7 +4275,6 @@ allcryptos.top
 allcryptoswallet.com
 alldaapschain.live
 alldappauthaccess.com
-alldappbridges.live
 alldappschains.com
 alldappsconnect.com
 alldappsconnection.com
@@ -37990,7 +37991,6 @@ hex.trading
 hex2022.com
 hex2x.cc
 hexairdrops.com
-hexatradefx.com
 hexclaims.com
 hexcoin.finance
 hexcoin.net
@@ -83153,6 +83153,7 @@ switchmyeth.com
 switchrectifier.live
 switchsmartnetwork.website
 switchv2score.website
+swizaequity.com
 swop.ink
 swopnft.com
 swp-connect-poocoin.blogspot.com
@@ -89413,7 +89414,6 @@ usdgiftclaim.com
 usdh-mint.netlify.app
 usdharvest.com
 usdly.com
-usdmining.bio
 usdmint.co
 usdms.io
 usdonation.io
@@ -96059,6 +96059,7 @@ woutraefa.tk
 wowamw.com
 wowgalaxy.li-vedrop.com
 wowmentrt.dedyn.io
+wowsniperbot.io
 wowstorylink.com
 wowx.io
 wozbit.com
