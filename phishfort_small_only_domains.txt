@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 08:02:45 UTC 2024
-# Number of Entries: 8300
+# Fetch date: Fri Apr  5 09:02:06 UTC 2024
+# Number of Entries: 8301
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1702,9 +1702,11 @@ collabgift.space
 collabiand-verify-github.com
 collabland-assest.com
 collabland-community.net
+collabland-log.com
 collabland-members.net
 collabland-pad.com
 collabland-safety.net
+collabland-syncs.com
 collabland-verification.xyz
 collabland-verify.co
 collabland-walet.com
@@ -2272,7 +2274,6 @@ earn-drop.club
 earn-drop.info
 earn-drop.live
 earn-drop.pro
-earn-drops.cc
 earn-taopads.web.app
 earndro.pm
 earndrop-checker.com
@@ -4945,7 +4946,6 @@ opensenft.vercel.app
 openseraffle.com
 opensesa.io
 opensrea.io
-openssea.org
 operenbox-javis-nyugens-projects.vercel.app
 opernsea.io
 opeseapro.vercel.app
@@ -5442,6 +5442,7 @@ pocakedefi.cfd
 pocakedefi.top
 pocakedefi.xyz
 pogbl.top
+poiuhjkgfcvbnmawertyuxhqwezt.com
 poiygon.com
 poiyhedra.net
 pokarswaps.space
