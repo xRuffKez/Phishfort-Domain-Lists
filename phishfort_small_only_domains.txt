@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 19:02:54 UTC 2024
+# Fetch date: Fri Apr  5 20:03:01 UTC 2024
 # Number of Entries: 8287
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1603,6 +1603,7 @@ clifford-l-chance.com
 clifford-law-chance.com
 cliffordchance.pro
 cliffordchancelaw.net
+cliffordchanceuk.online
 clintexmigration.tech
 cliqueop.com
 clmjup.xyz
@@ -3010,7 +3011,6 @@ home.suithefrensi.biz
 home.suithefrensi.xyz
 home.tenincon.xyz
 home.truefair.xyz
-homeoptivermobile12.com
 hopexchange.top
 hopper-rating.com
 hopper.travsrv.com
@@ -7964,7 +7964,6 @@ www.sdxlimited.com
 www.sdxtld.com
 www.sdxtrc20.com
 www.sdxusdt.com
-www.securespendd.com
 www.seedifyfund.support
 www.seibridge.org
 www.shibaswaap.org
@@ -8152,6 +8151,7 @@ yaler.info
 yasno-gov.pages.dev
 ybixfed.pro
 ycs-agoda.cc
+ycs.com-find-extra.com
 ycsextranetagoda.com
 yearn.deflab.top
 yelds-protocol.xyz
