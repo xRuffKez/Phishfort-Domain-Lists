@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 11:01:54 UTC 2024
-# Number of Entries: 107635
+# Fetch date: Fri Apr  5 12:02:20 UTC 2024
+# Number of Entries: 107638
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -37784,6 +37784,7 @@ hederahashgraph.store
 hederahashgraph.tokenico.me
 hederaheshgraph.com
 hederashashgraph.com
+hedgefund-swap.org
 hedgeproject.org
 hedgesincorp.com
 hedgeupio.pages.dev
@@ -37936,6 +37937,7 @@ hermes-nfts.xyz
 hero-giveaway.com
 heroape.io
 herobook.sale
+heroes-of-mavia.online
 herofi-promogive.com
 heroicstory.mintyournfts.art
 herois-bltkub.blogspot.com
@@ -63694,6 +63696,7 @@ pancake-swap-finance-v2.com
 pancake-swap-finance.net
 pancake-swap-finance.online
 pancake-swap-finance.website
+pancake-swap-finances.pages.dev
 pancake-swap-fjnance.com
 pancake-swap-flnance.org
 pancake-swap-interface-v1-6nx.pages.dev
