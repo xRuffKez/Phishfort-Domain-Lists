@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 21:02:56 UTC 2024
+# Fetch date: Fri Apr  5 22:02:08 UTC 2024
 # Number of Entries: 8292
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -235,6 +235,7 @@ agodahotel.cc
 agodahotel.cyou
 agodahotel.pw
 agodahotels.live
+agodahotels.store
 agodahotels.world
 agodaonline.com
 agodatikethotelcom.masukmobilee.de
@@ -2019,7 +2020,6 @@ deelancebit.com
 deelancers.org
 deepcoin-trade.com
 defabuso.me
-defellana.com
 defend.sentrykava.com
 defi-airdrops.web.app
 defi-altlayer.com
