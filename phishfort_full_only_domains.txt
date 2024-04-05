@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 00:05:12 UTC 2024
-# Number of Entries: 107596
+# Fetch date: Fri Apr  5 01:22:48 UTC 2024
+# Number of Entries: 107597
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -71178,6 +71178,7 @@ polygyonwallet.com
 polyhedra-network-connect.com
 polyhedra-network.pro
 polyhedra-network.vercel.app
+polyhedrafoundation.net
 polyhedranetwork.site
 polyhedrazk.foundation
 polyigonwl.site
