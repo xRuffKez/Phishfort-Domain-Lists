@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 03:02:03 UTC 2024
-# Number of Entries: 107597
+# Fetch date: Fri Apr  5 04:02:00 UTC 2024
+# Number of Entries: 107602
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1154,6 +1154,7 @@
 360webcache.com
 365cash.cash
 365cash.mobi
+365cash.store
 365cash.today
 365cash.us
 373747178231786-update-form-unitedairlines.pages.dev
@@ -3023,6 +3024,7 @@ agninetwork.xyz
 agoda-88.vip
 agoda-at.bio
 agoda-booking-hk.com
+agoda-checkout-id843753.com
 agoda-com.com
 agoda-com.payoners.com
 agoda-elevate.com
@@ -3063,6 +3065,7 @@ agoda.ib-web.online
 agoda.icu
 agoda.lovestoblog.com
 agoda.offer18239.com
+agoda.partner-extranet.info
 agoda.partner-extranet.life
 agoda.resew-r.world
 agoda.shop
@@ -3113,9 +3116,6 @@ agodahost.com
 agodahotel.cc
 agodahotel.cyou
 agodahotel.pw
-agodahotels.live
-agodahotels.store
-agodahotels.world
 agodaincrease.com
 agodainquiry.com
 agodajob.com
@@ -6372,6 +6372,7 @@ app.pancaksewap.fninace.verify-assets.ru
 app.pancokeswap.com
 app.parallelfl.network
 app.pegaxy-nftgame.com
+app.pepepay.finance
 app.play-staratlas.website
 app.polkadot.trade
 app.poll-1inch.io
@@ -8165,6 +8166,7 @@ asxbit.net
 asxcoinbr.com
 asxcoincm.com
 asxcoinco.com
+asxcoind.com
 asxcoinex.com
 asxcoinmax.com
 asxcoinmaxs.top
@@ -26974,6 +26976,7 @@ dlbank.1gb.ru
 dldecred.top
 dlgltoads.com
 dlimarket.com
+dlkipcv.cc
 dllbank.1gb.ru
 dlll.longviewweather.com
 dlmshop.vip
@@ -34048,6 +34051,7 @@ fourseasonshotelmiamiluxu.hotelun.top
 fourseasonshotelsandresorts.org
 fourseasonshotelsgroup.com
 fourseasonshotelsgroup.org
+fourseasonsmsk.ru
 fourseasonsresortmaldives.com
 fourseasonsrestaurante.com
 fourseasosns.com
@@ -59276,6 +59280,7 @@ netkazanol.site
 netlifyasset.com
 netmeds.foodal.in
 netnftframe.com
+netnodeconnect.com
 netokyo.xyz
 netpantk.site
 netpelt.site
