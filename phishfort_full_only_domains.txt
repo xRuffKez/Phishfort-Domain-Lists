@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 08:02:02 UTC 2024
-# Number of Entries: 107629
+# Fetch date: Fri Apr  5 09:01:36 UTC 2024
+# Number of Entries: 107632
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -19789,6 +19789,7 @@ collabland-join.com
 collabland-join.net
 collabland-join.vercel.app
 collabland-joins.github.io
+collabland-log.com
 collabland-members.net
 collabland-pad.com
 collabland-request.github.io
@@ -19797,6 +19798,7 @@ collabland-security.net
 collabland-sync.com
 collabland-sync.net
 collabland-synchronize.web.app
+collabland-syncs.com
 collabland-validate.firebaseapp.com
 collabland-validate.web.app
 collabland-verif.xyz
@@ -70349,6 +70351,7 @@ points-0n1force.com
 poionlex.com
 poiooeuin-app.tergresa.cf
 poirtusjkh.xyz
+poiuhjkgfcvbnmawertyuxhqwezt.com
 poiygon.com
 poiyhedra.net
 pokadots.com
