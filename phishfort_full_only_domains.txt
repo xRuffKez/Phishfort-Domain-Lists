@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 09:01:36 UTC 2024
-# Number of Entries: 107632
+# Fetch date: Fri Apr  5 10:01:57 UTC 2024
+# Number of Entries: 107633
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3044,6 +3044,7 @@ agoda-jp.xyz
 agoda-jps.com
 agoda-mba.com
 agoda-not.com
+agoda-offer11279.com
 agoda-partner.club
 agoda-partner.co
 agoda-partner.info
