@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 07:02:26 UTC 2024
-# Number of Entries: 8286
+# Fetch date: Fri Apr  5 08:02:45 UTC 2024
+# Number of Entries: 8300
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -67,6 +67,7 @@
 24x7enterpriserental.agency
 26grbw.cc
 2acnmzzlink.webcindario.com
+2crlw.pro
 2eth.org
 2fa-metamask.online.snackbarko.nl
 2fa-metamassk.com
@@ -697,6 +698,7 @@ applovin.in
 applovintwap.com
 applovinworks.com
 appmangrove.exchange
+appmantanetwork.com
 appmavia.com
 appmavia.org
 appmilkyway.zone
@@ -1701,9 +1703,11 @@ collabiand-verify-github.com
 collabland-assest.com
 collabland-community.net
 collabland-members.net
+collabland-pad.com
 collabland-safety.net
 collabland-verification.xyz
 collabland-verify.co
+collabland-walet.com
 collabland-wallets.com
 collabland.api-role.land
 collabland.boo
@@ -2800,6 +2804,7 @@ get-wormhole.com
 get.btzclub.com
 get.etherugas.wtf
 get.etherumrefgas.xyz
+get.ethiner.xyz
 get.onedropx.top
 get.personalzomb.xyz
 get.wormscommunity.com
@@ -2991,6 +2996,7 @@ home-aave.net
 home-ocean.net
 home.brickmark.club
 home.earnclout.com
+home.ethiner.xyz
 home.itsearn.biz
 home.lamtrue.xyz
 home.linefraction.xyz
@@ -3156,6 +3162,7 @@ intothebluemanta.net
 intothebluemanta.org
 intothebluemanta.xyz
 intraconline-instantly.live
+inugonz.com
 investmetlife.com
 invite-blaster.com
 invite-manta.com
@@ -4043,6 +4050,7 @@ mavia.website
 mavia.work
 maviagames.network
 maviagames.xyz
+mavias.click
 maviau.com
 maviia.build
 maviia.org
@@ -4515,6 +4523,7 @@ musicyandex.ru
 muskswap.pages.dev
 mutantboxnft.com
 muxstakingapp.network
+mvia.app
 mvia.live
 mwallet8.com
 mx-collabland.pages.dev
@@ -4645,6 +4654,7 @@ new-principal.solucionti.cl
 new-pyth.network
 new.babbara.xyz
 new.blockchainbets-vault.com
+new.ethiner.xyz
 new.farepath.club
 new.popeysm.lol
 new.popeysm.xyz
@@ -5039,6 +5049,7 @@ pancackeswap-fniance.com
 pancaikeswap.finance
 pancakaswaps.com
 pancake-finance.net
+pancake-frontend-29e48ga31-chefilip.vercel.app
 pancake-frontend-flznr5rp3-chefilip.vercel.app
 pancake-ifo.pages.dev
 pancake-magpiexyz.pages.dev
@@ -5798,6 +5809,7 @@ reewelprotocol.com
 reference.mypsx.net
 refreshingsiqnaccoount.com
 refund-agoda.com
+refund.ethiner.xyz
 refund.shidoprotocols.com
 refund.wallstretmemes.app
 reg-dym.xyz
@@ -6762,6 +6774,7 @@ tesdt56n.pages.dev
 tesla-coingrabs.vercel.app
 test-project-llfwf7bel-artemkk787-gmailcom.vercel.app
 test.saf9gti25klom8xz79iyn2s.xyz
+test.vortexcapitaltrade.com
 test3123123132.pages.dev
 testdomainstesting2.com
 testnet-berachain.com
@@ -7240,6 +7253,7 @@ vystarcu.com
 vystarcu.nah516.com
 vystarcu.tsa135.com
 vystarcu.zms362.com
+w-airdrop.vercel.app
 w-revoke.cash
 w.optimalsmart-sync.buzz
 w.smartprotocol-pad.online
