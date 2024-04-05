@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 20:03:01 UTC 2024
-# Number of Entries: 8287
+# Fetch date: Fri Apr  5 21:02:56 UTC 2024
+# Number of Entries: 8292
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -212,6 +212,7 @@ agoda-jp.vip
 agoda-jp.xyz
 agoda-jps.com
 agoda-offer11279.com
+agoda-offer18239.com
 agoda.config-guest178.com
 agoda.confirm139233.com
 agoda.extra-checks.com
@@ -220,6 +221,7 @@ agoda.ib-web.online
 agoda.offer18239.com
 agoda.partner-extranet.info
 agoda.partner-extranet.life
+agoda.res94219.com
 agoda.weboffer7181.com
 agoda.ycs-id.info
 agoda.ycs.my.id
@@ -233,6 +235,7 @@ agodahotel.cc
 agodahotel.cyou
 agodahotel.pw
 agodahotels.live
+agodahotels.world
 agodaonline.com
 agodatikethotelcom.masukmobilee.de
 agodaycs.com
@@ -6680,6 +6683,7 @@ swiftsyncrectify.pages.dev
 swiftwallet.pages.dev
 swiissworld.net
 swistonjewellers.com
+swizaequity.com
 swop.ink
 sxb5f.info
 sxws.pro
@@ -7539,6 +7543,7 @@ wormhole.cx
 wormholeairdrop.fun
 wormholeairdrop.shop
 wormholew.top
+wowsniperbot.io
 wpcuonline.za.com
 wrnmax.com.au
 wsm-token-migration.netlify.app
