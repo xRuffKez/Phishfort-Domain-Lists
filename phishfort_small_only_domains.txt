@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 15:02:11 UTC 2024
-# Number of Entries: 8292
+# Fetch date: Fri Apr  5 16:02:57 UTC 2024
+# Number of Entries: 8293
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1585,7 +1585,6 @@ clark-constructions.org
 clarkcorstruction.com
 clarkgroup-us.co
 cldss.xyz
-clearanceshops.top
 clestia.org
 cliamsolana.c3mongtho.edu.vn
 clickclaimnft.vercel.app
@@ -2455,6 +2454,7 @@ ethurgas.com
 ethyourgas.com
 etr-407-payment.com
 etr407.ca
+etr407highway.com
 etroute407.com
 evaultbuzzfix.com
 event-blockgames.com
@@ -4081,6 +4081,7 @@ memefarm.live
 memefarming.fun
 memefighter.top
 memekombat-api.pages.dev
+memekombat-claim.com
 memekombat-def.web.app
 memekombat-server.pages.dev
 memekombat-staking.xyz
@@ -6266,7 +6267,6 @@ shirbreward.netlify.app
 shitzuapes.fun
 shlba-3.live
 shoptiktok.club
-shopvibe.shop
 shrapnel.cloud
 shrapnel.life
 shrapnel.store
@@ -7544,6 +7544,7 @@ wormholeairdrop.fun
 wormholeairdrop.shop
 wormholew.top
 wpcuonline.za.com
+wrnmax.com.au
 wsm-token-migration.netlify.app
 wswap.live
 wtoken-claim.com
