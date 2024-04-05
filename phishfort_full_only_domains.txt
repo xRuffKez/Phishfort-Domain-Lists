@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 13:01:41 UTC 2024
-# Number of Entries: 107639
+# Fetch date: Fri Apr  5 14:01:34 UTC 2024
+# Number of Entries: 107640
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -95371,6 +95371,7 @@ webtornadocash.com
 webtrader.allcapital-trade.com
 webtrader.c-inv.trade
 webtrader.crypto-wallet.top
+webtransfer.vfjikpnlth.life
 webtreeswap.cc
 webtritonpass.org
 webtxid.pages.dev
