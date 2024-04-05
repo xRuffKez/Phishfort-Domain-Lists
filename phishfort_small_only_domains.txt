@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 10:02:38 UTC 2024
-# Number of Entries: 8298
+# Fetch date: Fri Apr  5 12:03:11 UTC 2024
+# Number of Entries: 8301
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2963,6 +2963,7 @@ healthequity.za.com
 heatherleelarioni.me
 heavensgate.dog
 heddies.vercel.app
+hedgefund-swap.org
 helio-money.cyou
 helixap.com.ai-web3.cfd
 helixapp.com.web3-connect.pw
@@ -2978,6 +2979,7 @@ helpforuneployment.com
 helpinghandic.com
 helpmetamask.xyz
 herafinance.live
+heroes-of-mavia.online
 hex-distributions.com
 hex-multipliers.com
 highllght.com
@@ -3095,7 +3097,6 @@ imx-news.com
 imx.airdrop.cfd
 imxcoin.eu
 inaallert.com
-inaraequinix.ae
 incsribe.app
 infosa.net
 ing-autorizza-cliente.it
@@ -4603,6 +4604,7 @@ myuiionlinedetmadma.info
 myuimapay.online
 myverybenef.com
 mywalletexodus.com
+mywfmanager.com
 na2-docusign-net-envelope-office365-auth.us-southeast-1.linodeobjects.com
 na3-docusign-auth-office365.us-lax-1.linodeobjects.com
 na3-docusign-office365.us-sea-1.linodeobjects.com
@@ -5052,6 +5054,7 @@ pancake-ifo.pages.dev
 pancake-magpiexyz.pages.dev
 pancake-stake.pages.dev
 pancake-swap-airdrop.com
+pancake-swap-finances.pages.dev
 pancake-swap.net
 pancake-swapfinance.pages.dev
 pancake-swapfinances.pages.dev
@@ -6885,7 +6888,6 @@ tmwr.pro
 tnsr-whitelist.com
 to.dataui.online
 to.uidista.online
-token-beam.com
 token-berachain.com
 token-blast.com
 token-entangle.com
@@ -8139,6 +8141,7 @@ xn--rustwallet-gyd.com
 xn--zcr743ah35a.com
 xn66ekl.pro
 xoudwq.cfd
+xpancakeswap.pages.dev
 xpaydappbnb.click
 xpubactivationprotocol.pages.dev
 xpubprotocol.pages.dev
