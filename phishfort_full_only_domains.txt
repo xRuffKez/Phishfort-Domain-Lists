@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 06:02:02 UTC 2024
-# Number of Entries: 107614
+# Fetch date: Fri Apr  5 07:01:33 UTC 2024
+# Number of Entries: 107616
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3116,6 +3116,7 @@ agodahost.com
 agodahotel.cc
 agodahotel.cyou
 agodahotel.pw
+agodahotels.live
 agodaincrease.com
 agodainquiry.com
 agodajob.com
@@ -32801,6 +32802,7 @@ fcstone.tv
 fcstonekr.pro
 fcstonekr.xyz
 fcstonevip.com
+fctone.com
 fd.eagerly.site
 fderedgo.top
 fdfdmaqb.beget.tech
@@ -60815,7 +60817,6 @@ ober-at.com
 ober-sec.app
 ober-security.app
 oberbank-ag.firebaseapp.com
-oberbank-ag.myfreesites.net
 oberbank-at-kundendienst.obrbenk.info
 oberbank-at-kundenservice.shrtnr.info
 obiex.academy
@@ -97519,6 +97520,7 @@ www.bayc-nft.com
 www.bc-gane.online
 www.bcccan.com
 www.bccrypotc-b.com
+www.bcilor.com
 www.bckrockgbtc.com
 www.bcr20.xyz
 www.bcscaan.com
