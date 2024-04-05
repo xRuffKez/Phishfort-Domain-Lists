@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 14:02:10 UTC 2024
-# Number of Entries: 8300
+# Fetch date: Fri Apr  5 15:02:11 UTC 2024
+# Number of Entries: 8292
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -651,7 +651,6 @@ app.etherfi.us
 app.ethgas-refund.com
 app.farmersonly.fi
 app.financeglobal.trade
-app.formbot.com
 app.kiloex-airdrop.com
 app.lumiwallet.live
 app.moonbeam-web.com
@@ -1805,7 +1804,6 @@ cpf-sponsoring.com
 crashout-casino.com
 crashout.run
 create-starknet-app.xyz
-creativeobox.com
 creepezco.com
 creepzrebirth.com
 crepzz.app
@@ -2697,8 +2695,6 @@ fsafeds.sa.com
 ftp.raydiums.motorcycles
 ftx-e49.pages.dev
 fuadazzad.net
-fubo.planupgrade.online
-fubotvroku.com
 fuelnetwork-register.vercel.app
 fujimitsudynamic.com
 fullmoonbird-next.vercel.app
@@ -3265,7 +3261,6 @@ jpagod.com
 jrt8fm.pro
 jsjtgroup.cn
 jsjtrading.com
-jsmarketnow.com
 jsoq9.cn
 jtl11.com
 jtontwrk.com
@@ -4613,7 +4608,6 @@ nabla-finance-week4testnetlive.vercel.app
 naka-migos.net
 nanogatesphere.info
 napaauto.shop
-napaautoparts.store
 nationaltrust-org.uk
 nativevalidationupdate.co
 nbm5xi.top
@@ -5219,7 +5213,6 @@ paradigmclaims.vercel.app
 paradigmmanta.com
 parclllimited.com
 parknationalkgt.pics
-parloroquick.com
 parriss2024.org
 partenariat-bouygues-telecom-entreprises.fr
 participate-zks.net
@@ -5908,7 +5901,6 @@ revenue-bitstable.finance
 revest-finance.com
 reviewdocnow.com
 reviews-airhopper.com
-revise.cash
 revok.info
 revok.online
 revok.site
