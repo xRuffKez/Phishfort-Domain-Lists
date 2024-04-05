@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 10:01:57 UTC 2024
-# Number of Entries: 107633
+# Fetch date: Fri Apr  5 11:01:54 UTC 2024
+# Number of Entries: 107635
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -58980,6 +58980,7 @@ mywertherwalbert.com
 mywetherwailiet.com
 mywetherwallet.com
 mywetherwallet.ru
+mywfmanager.com
 mywhtereallet.com
 mywindorwallert.site
 mywindorwallert.space
@@ -106225,6 +106226,7 @@ xoudwq.cfd
 xox-exe.github.io
 xp-claim.top
 xpad-drop.top
+xpancakeswap.pages.dev
 xpat.tk
 xpaydappbnb.click
 xpd-airdrop.top
