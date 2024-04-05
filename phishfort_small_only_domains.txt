@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 16:02:57 UTC 2024
-# Number of Entries: 8293
+# Fetch date: Fri Apr  5 17:02:07 UTC 2024
+# Number of Entries: 8289
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -669,7 +669,6 @@ app.stonexvip.top
 app.stringwebtools.com
 app.swellnetwork.fi
 app.trezoriosstart.com
-app.unsiwap.us
 app.unsiwap.us.com
 app.walletguard.cloud
 app.xn--1nch-qpa.io
@@ -1580,7 +1579,6 @@ claimstrk.xyz
 claimtrumx.xyz
 claimvoucher2.glitch.me
 claimwif.com
-clanostreet.com
 clark-constructions.org
 clarkcorstruction.com
 clarkgroup-us.co
@@ -2754,6 +2752,7 @@ gempad-app.xyz
 geneitec.com
 generalmotors-dk.com
 generalmotors-ek.com
+generalmotors-lk.com
 genesis-dem.eu
 genesis-dem.xyz
 genesis-dym.com
@@ -5520,6 +5519,7 @@ projectnft-xi.vercel.app
 projopensea.vercel.app
 projwctclaim.vercel.app
 prokccin.com
+promocaochevro.com
 promochevro.com
 promotg.fun
 prompt-0x216.xyz
@@ -5681,7 +5681,6 @@ quests-zora.network
 quests-zora.trading
 queuedappsync.pages.dev
 quickdirectoryfilchart.pages.dev
-quickswap-exchange.gifts
 quickswap-io.events
 quicksyncdapps.pages.dev
 quicksynced.pages.dev
@@ -5719,7 +5718,6 @@ rarible-nft.com
 rarible.quest
 rarity-dapps.online
 rarityauth.online
-ratefairdoor.com
 raubnse.com
 ravokecash.org
 raxful.com
@@ -6929,7 +6927,6 @@ tradeviewtoken.xyz
 tradinglabs.app
 trafalpo-maniar.com
 tramertoe.top
-transactionfair.site
 transfer24p2p.ru
 travalaai.live
 travel.quickflightbooking.online
@@ -7583,7 +7580,6 @@ www.247liveoptiontrades.com
 www.4pb-gala-games.com
 www.4raydium.sbs
 www.911usdt.com
-www.a407etr.com
 www.ab-earn.xyz
 www.account.coinbrack.com
 www.account.verificationpaxful.info
