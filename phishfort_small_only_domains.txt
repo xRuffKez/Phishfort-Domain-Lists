@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 06:02:42 UTC 2024
-# Number of Entries: 8284
+# Fetch date: Fri Apr  5 07:02:26 UTC 2024
+# Number of Entries: 8286
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2540,6 +2540,7 @@ fcstone.tv
 fcstonekr.pro
 fcstonekr.xyz
 fcstonevip.com
+fctone.com
 feereturn.xyz
 feereturns.xyz
 fees-407etr.com
@@ -7639,6 +7640,7 @@ www.axiemarketplace.lol
 www.azukieelements.site
 www.bainxu.com
 www.baoninpingan.com
+www.bcilor.com
 www.bckrockgbtc.com
 www.bcr20.xyz
 www.big-x-drops.top
