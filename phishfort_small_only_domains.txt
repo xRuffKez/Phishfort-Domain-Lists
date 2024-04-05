@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 17:02:07 UTC 2024
+# Fetch date: Fri Apr  5 18:02:15 UTC 2024
 # Number of Entries: 8289
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2219,7 +2219,6 @@ duke-florence-finance.co
 dumb-coin.fun
 durexwalletbridge.co.za
 dws-team-vs.de
-dydx-exchange.events
 dydx.cc
 dydxdao.net
 dykemagosettantoney.online
@@ -2922,6 +2921,7 @@ h407etr.com
 h5.517kuku.com
 h5.asxar.com
 h8fl00.cc
+ha3netchexsalast.com
 hajjdomestic-sa.info
 halefiuamamalst.com
 halestramasslost.com
