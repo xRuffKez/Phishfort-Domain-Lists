@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 18:01:38 UTC 2024
+# Fetch date: Fri Apr  5 19:02:25 UTC 2024
 # Number of Entries: 107646
 # Expires: 1 hour
 0-metemask.com
@@ -8050,6 +8050,7 @@ assetcollab.me
 assetconfirmation.net
 assetconnect.org
 assetcrypto.uk
+assetcweb.com
 assetfix.vercel.app
 assetfixsolution.com
 assetfunds.info
@@ -41170,7 +41171,6 @@ jsol.dev
 jsoq9.cn
 jtgc.towsonfamiliesunited.com
 jtgsr.pages.dev
-jtl11.com
 jtontwrk.com
 ju-catdets-space.vercel.app
 jubilantcornsilkwaterfall--daviplatenlinea.repl.co
