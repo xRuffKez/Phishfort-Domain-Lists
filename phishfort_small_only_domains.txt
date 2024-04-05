@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 03:02:36 UTC 2024
-# Number of Entries: 8272
+# Fetch date: Fri Apr  5 04:03:24 UTC 2024
+# Number of Entries: 8270
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -78,6 +78,7 @@
 3000usdt.xyz
 32f79d9c.7cdb6f3702a09bbbd3afc136.workers.dev
 35pw0978.pw
+365cash.store
 3denergysolution.com
 3ebank.github.io
 3f4813b3-5cfb-4a7a-8fcb-7b9ed4dd8395-00-2btsrssvd10b4.janeway.replit.dev
@@ -227,9 +228,6 @@ agodacs.online
 agodahotel.cc
 agodahotel.cyou
 agodahotel.pw
-agodahotels.live
-agodahotels.store
-agodahotels.world
 agodaonline.com
 agodatikethotelcom.masukmobilee.de
 agodaycs.com
@@ -654,6 +652,7 @@ app.lumiwallet.live
 app.moonbeam-web.com
 app.moonbeamer-swap.com
 app.parallelfl.network
+app.pepepay.finance
 app.prisrnafinance.com
 app.qirtm.com
 app.raticswap.xyz
@@ -814,6 +813,7 @@ asx.mobi
 asxcoinbr.com
 asxcoincm.com
 asxcoinco.com
+asxcoind.com
 asxmx.cc
 asxstockexchange.com
 asxxdvv.a1sasset.org
@@ -2137,6 +2137,7 @@ distribution-metis.com
 distribution-pancakeswap.xyz
 distribution-pondcoin.com
 distribution-shido.com
+dlkipcv.cc
 dlogdapp.pages.dev
 dmail-airdrop.org
 dmail.news
@@ -2538,7 +2539,6 @@ fenderuk.com
 fenterpriseonline.net
 feosz.info
 feraniumyard.com
-feverowarrior.com
 fffcu.de
 fi-woo-org.vercel.app
 fibersync.pages.dev
@@ -3687,7 +3687,6 @@ m.shrininow.com
 m.teck-invest.com
 m.v3derivatives.site
 mad-lads.com
-madnessoholy.com
 maekrdao.com
 mag-boxdao.web.app
 magamemeccin.com
@@ -4124,7 +4123,6 @@ metagiveaway.io
 metahelix-safety.xyz
 metaiask.xyz
 metamaaskus.azurewebsites.net
-metamaek.com
 metamafsk.azurewebsites.net
 metamainnetfix.netlify.app
 metamank.io
@@ -4613,6 +4611,7 @@ neomsuppliers.net
 neotokyohq.pro
 net-drop.netlify.app
 netnftframe.com
+netnodeconnect.com
 network-altlayer.com
 network-dymension.com
 network-manta.com
@@ -5932,7 +5931,6 @@ revokecashv2.xyz
 revokecontract.xyz
 revokee.digital
 revokefunds.com
-revokemoney.com
 revokenode.com
 revokes-cash.xyz
 revokeu.cash
