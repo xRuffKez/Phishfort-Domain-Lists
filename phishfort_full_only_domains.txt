@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 12:02:20 UTC 2024
-# Number of Entries: 107638
+# Fetch date: Fri Apr  5 13:01:41 UTC 2024
+# Number of Entries: 107639
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -61703,6 +61703,7 @@ openasea.io
 openatlantic.live
 openbnb.fun
 openbnb.pics
+openbookraydium.com
 openboxclaims.vercel.app
 openbsea.io
 opencampus.finance
