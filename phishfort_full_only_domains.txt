@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 15:01:42 UTC 2024
-# Number of Entries: 107640
+# Fetch date: Fri Apr  5 16:02:19 UTC 2024
+# Number of Entries: 107643
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -31666,6 +31666,7 @@ etorowalletapp.com
 etorrtrra.online
 etr-407-payment.com
 etr407.ca
+etr407highway.com
 etransaction.online
 etrastpad.com
 etrherscan.click
@@ -48745,6 +48746,7 @@ memefarming.fun
 memefighter.top
 memeiand.co
 memekombat-api.pages.dev
+memekombat-claim.com
 memekombat-def.web.app
 memekombat-server.pages.dev
 memekombat-staking.xyz
@@ -96088,6 +96090,7 @@ wrecksleague.com
 wrevoke.cash
 wrgf3er5t98-g8hyfw-e089fjdcw-0dgf-0wegf-0gd.obs.ap-southeast-1.myhuaweicloud.com
 wrldcoin.co
+wrnmax.com.au
 wrw.moneygang.top
 ws-bltkub-com.1gb.ru
 ws-fix.com
