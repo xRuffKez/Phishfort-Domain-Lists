@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr  5 16:02:19 UTC 2024
-# Number of Entries: 107643
+# Fetch date: Fri Apr  5 17:01:30 UTC 2024
+# Number of Entries: 107645
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -35625,6 +35625,7 @@ generalizednetworkconnect.pro
 generalmainnet.com
 generalmotors-dk.com
 generalmotors-ek.com
+generalmotors-lk.com
 generalmotorsmexico.com
 generalmotorsplanta.com
 generalmotorssilao.com.mx
@@ -72455,6 +72456,7 @@ promobinance.net
 promobittrex.site
 promobittrex.website
 promobtc.win
+promocaochevro.com
 promochevro.com
 promocionesiberostarhotels.com
 promocoinbase.xyz
