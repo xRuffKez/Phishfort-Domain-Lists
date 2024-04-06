@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr  6 01:21:44 UTC 2024
-# Number of Entries: 107646
+# Fetch date: Sat Apr  6 02:06:38 UTC 2024
+# Number of Entries: 107648
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17838,6 +17838,7 @@ cliffordchance.akrdesign.co
 cliffordchance.cadeirasrosa.com.br
 cliffordchance.io
 cliffordchance.pro
+cliffordchance.site
 cliffordchancecorp.com
 cliffordchancegroup.uk
 cliffordchancegroups.com
@@ -59104,6 +59105,7 @@ napaautocarecenter.us
 napaautoparts.store
 napaautoparts.us.com
 napaautoparts.us.org
+napamerch.com
 napawix.com
 napkforpc.com
 naruto-nft.xyz
@@ -60835,6 +60837,7 @@ ober-at.com
 ober-sec.app
 ober-security.app
 oberbank-ag.firebaseapp.com
+oberbank-ag.myfreesites.net
 oberbank-at-kundendienst.obrbenk.info
 oberbank-at-kundenservice.shrtnr.info
 obiex.academy
@@ -77358,6 +77361,7 @@ seatsuntse.netlify.app
 sebaequity.com
 sebastianbehar.com
 sebatrust.sethia.co.in
+sebavip.com
 sebiltv.com.tr
 sebm-1usr.info
 sebotics.com
@@ -83156,7 +83160,6 @@ switchv2score.website
 swizaequity.com
 swop.ink
 swopnft.com
-swp-connect-poocoin.blogspot.com
 swpancake.com
 swswd.ether33.online
 swtest.ru
@@ -84752,7 +84755,6 @@ tether.events
 tether.gifts
 tether.is
 tether.tf
-tether.to.epgr.org
 tether.vg
 tether.wf
 tether.yt
