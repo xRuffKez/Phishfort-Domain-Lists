@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr  6 12:02:32 UTC 2024
+# Fetch date: Sat Apr  6 13:02:05 UTC 2024
 # Number of Entries: 8288
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -772,7 +772,6 @@ arbitrumname.net
 arbitrumname.org
 arbitrumnova.pages.dev
 arbitrumpresale.netlify.app
-arbitrumsurvey.net
 arbitrumsurveys.com
 arbitrurrm.foundation
 arbiusupgrade.ai
@@ -1142,6 +1141,7 @@ blender404.xyz
 blendrrnetwork.org
 blendswaps.xyz
 blinkblock.site
+blknoiz06.net
 bllaast.com
 block.nodereset.com
 blockai-rewardsclaim.pages.dev
@@ -1541,6 +1541,7 @@ claim.nftrealm.io
 claim.ondotreasury.org
 claim.paalai.mobi
 claim.padgy.xyz
+claim.pancakesswap.fi
 claim.pancakeswap.cfd
 claim.renqapp.live
 claim.retikapps.com
@@ -2154,6 +2155,7 @@ dlogdapp.pages.dev
 dmail-airdrop.org
 dmail.news
 dmmltt0.info
+dn.yrioa1.sa.com
 dnaata.com
 docs-lybra.finance
 docs-lybra.network
@@ -2348,7 +2350,6 @@ emiretes-airline.online
 emploeemygochek.com
 empowerpersonalasset.com
 en-suiswap.net
-en-web3fix.pages.dev
 en.clcejuun.life
 en.coifixupresolver.com
 en.ingaccessbn.com
@@ -3774,6 +3775,7 @@ makerdao.vip
 makerdaobep.online
 makerdaobnb.online
 makerdaobsc.online
+makerdaov3.pages.dev
 makerdoa.com
 makerfoundation.github.io
 makertoken.net
@@ -4310,6 +4312,7 @@ migrate-fix.pages.dev
 migrate-geromigrate.site
 migrate-hedron.com
 migrate-houdiniswap.com
+migrate-makerdao.pages.dev
 migrate-memedefiv2.icu
 migrate-memedefiv2.xyz
 migrate-my-xidar.site
@@ -5457,6 +5460,7 @@ pond0x.trading
 pond0xtreasury.com
 ponke-claim.netlify.app
 ponke.online
+pool-liquidfarm.com
 pool-nftbox.web.app
 poolstarter.net
 pop3.www.api.swell-network.io
@@ -5481,7 +5485,6 @@ portel-bridg.com
 portelbridges.org
 portelbrldge.org
 portfolio-mask-mask-master-dedi285032.codeanyapp.com
-portfolio-metamask-io.org
 portfolio-verification.com
 portfoliometamask.com
 portlacoin.xyz
@@ -6543,7 +6546,6 @@ starknet-program.xyz
 starknet-reward.network
 starknet.press
 starknet.sk
-starknetcliam.click
 starknetfond.com
 starknetone.life
 starknetweb3.com
@@ -7155,7 +7157,6 @@ verbosedapp.pages.dev
 verif-secureconnect.com
 verifi-vulcan.xyz
 verification-assets.com
-verification-collabland.com
 verification-collabland.xyz
 verification-discord.com
 verification-discord.icu
@@ -7526,7 +7527,6 @@ workforcenowadp.org
 world-blast.com
 world-circleone.com
 world-manta-network.com
-worldbusinessexpert.com
 worldcoin-airdrop.net
 worldcoin-token.org
 worldfruitforest.world
