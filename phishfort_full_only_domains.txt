@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr  6 17:02:32 UTC 2024
-# Number of Entries: 107669
+# Fetch date: Sat Apr  6 18:01:45 UTC 2024
+# Number of Entries: 107663
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -29457,7 +29457,6 @@ equityzenchainlink.com
 er-gala-gamesa-sa1.blogspot.com
 era-zksnyc.org
 era-zskync.net
-era.drops.su
 era.portall-bridge.com
 era.zk-eth.com
 eraautarchyclaimsummon.xyz
@@ -29773,7 +29772,6 @@ eth-merge22.io
 eth-metamask.club
 eth-metamesk.com
 eth-miner.info
-eth-miner.vip
 eth-mineral.net
 eth-minerpool.com
 eth-mining.org
@@ -31602,7 +31600,6 @@ ethtwitter.com
 ethtwitter.org
 ethtx.top
 ethtz.top
-ethu.fyi
 ethu.ltd
 ethu.shop
 ethu.space
@@ -49167,7 +49164,6 @@ metacade-ap.xyz
 metacade-dapps.pages.dev
 metacade-s.com
 metacade.web3-airdrop.net
-metacades.world
 metacakes.wtf
 metacard-nfts.com
 metacard-nfts.com.akibcalledbeast.com
@@ -81021,7 +81017,6 @@ stableusdc.com
 stack-node.pages.dev
 stack-walletconnect.vercel.app
 stackchainledger.com
-stacke-vaiotai.com
 stackecosystem.live
 stackkerapp.com
 stackledgerchain.com
@@ -86239,7 +86234,6 @@ totalcoin.xyz
 totalecoin.com
 totalwine-sale.shop
 totaly-myetherwallet.com
-tothemoongang.com
 tothesmart.com
 totolcoin.com
 totolcoin.net
