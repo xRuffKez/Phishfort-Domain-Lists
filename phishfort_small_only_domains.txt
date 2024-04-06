@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr  6 07:02:10 UTC 2024
-# Number of Entries: 8292
+# Fetch date: Sat Apr  6 08:02:21 UTC 2024
+# Number of Entries: 8287
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -154,7 +154,6 @@ aave.godepth.com
 aave.liquidity.org.pl
 aave.trustspads.top
 aavenetwork.org
-aaveshiba.top
 aavve.eu
 aavve.org
 abacoin.website
@@ -2776,7 +2775,6 @@ genesisroll.com
 genixs.co
 genpartstore.com
 gensis-dymension.xyz
-geosatelites.com
 gesit-logistik.com
 get-1inch.pages.dev
 get-24a.pages.dev
@@ -3660,7 +3658,6 @@ lololol888.xyz
 lookrere.org
 looks-rare-raffle.info
 looksrare-d1x.pages.dev
-looksrare-drop.su
 looksrare-id.org
 looksraredrop.com
 looksrarenft.info
@@ -4717,7 +4714,6 @@ nft.diet
 nft.wormscommunity.com
 nft.wormscommunity.xyz
 nftairdropclub.com
-nftcircle.xyz
 nftclaimclick.vercel.app
 nftclaimopen3.vercel.app
 nftclaimsopen.vercel.app
@@ -6575,7 +6571,6 @@ steth.tiiny.site
 stethers.com
 stethlido.win
 stethpool.xyz
-stethshiba.top
 stip-radiantcapital.com
 stockmetrictraders.com
 stonedr.xyz
