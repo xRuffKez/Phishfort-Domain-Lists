@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr  6 01:22:24 UTC 2024
+# Fetch date: Sat Apr  6 02:07:10 UTC 2024
 # Number of Entries: 8292
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1195,7 +1195,6 @@ bonk-premium.web.app
 bonk-token.xyz
 bonk.dropdefi.top
 bonk.stringstool.org
-bonkanniversary.com
 bonkcoin.netlify.app
 bonus-defi.network
 bonus-hex.com
@@ -1606,6 +1605,7 @@ clifford-chance.miami
 clifford-l-chance.com
 clifford-law-chance.com
 cliffordchance.pro
+cliffordchance.site
 cliffordchancelaw.net
 cliffordchanceuk.online
 clintexmigration.tech
@@ -4215,7 +4215,6 @@ metamaskn.io
 metamaskofficial.online
 metamasks.info
 metamasksinfo-supportaccount.yincobase.shop
-metamasktoken.link
 metamaskusan.azurewebsites.net
 metamaskv.net
 metamaskv.org
@@ -4610,6 +4609,7 @@ nabla-finance-week4testnetlive.vercel.app
 naka-migos.net
 nanogatesphere.info
 napaauto.shop
+napamerch.com
 nationaltrust-org.uk
 nativevalidationupdate.co
 nbm5xi.top
@@ -4818,6 +4818,7 @@ o2online-service.de
 oasisprotocols.org
 ob-app.com
 obamacareenrollment.org
+oberbank-ag.myfreesites.net
 ocbre.com
 ocdpool.xyz
 oceantoken.net
@@ -6187,6 +6188,7 @@ season1-zetachain.com
 seatoken-airdrop.com
 seatokenclaim.com
 seatsent.com
+sebavip.com
 sebotics.com
 secondllife.tech
 secondx.mypsx.net
@@ -6638,7 +6640,6 @@ survey-arbitrium.com
 susdc.dev
 sushi-swapsushi.github.io
 sushi.gifts
-sushiswap-sushi.app
 sushiswap.mom
 sushlswap.github.io
 sw-syncswap.com
@@ -6889,7 +6890,6 @@ token-port3.com
 token-theblock.co
 token.strks-rocket.club
 tokenlon.app
-tokenmask.io
 tokenprojectrarity.site
 tokens-rocketpool.net
 tokens-satoshivm.io
