@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr  6 21:01:44 UTC 2024
-# Number of Entries: 107663
+# Fetch date: Sat Apr  6 22:01:43 UTC 2024
+# Number of Entries: 107664
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -26865,6 +26865,7 @@ direct-cwbanklng.online
 direct-paxful.com
 direct-sync.net
 direct.swmhector.shop
+directclaimzerion.pages.dev
 directlineengg.com
 directmergedappslinkup.com
 directorysmartapp.pro
