@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr  6 15:02:24 UTC 2024
-# Number of Entries: 8289
+# Fetch date: Sat Apr  6 16:02:14 UTC 2024
+# Number of Entries: 8300
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -736,6 +736,7 @@ aptclaim.net
 aptos.trusthubs.top
 apts-project.com
 apygate.rpctool.net
+apygatercptools.web.app
 arab-bkplc.com
 arabbplc-ae.com
 aramex-delivery.me
@@ -1660,6 +1661,8 @@ coinmarketcap-app-auth.web.app
 coinmarketcap-auth-web.web.app
 coinmarketcap-login-web.web.app
 coinmetronet.live
+coinmultiresolve.firebaseapp.com
+coinmultiresolve.web.app
 coinnbasealphaglobal-servapp.apexsolutionllc.com
 coinnode.online
 coinomize-app.pages.dev
@@ -2591,7 +2594,6 @@ fixetflaot.com
 fixetflloat.com
 fixold2ndbnk.mypsx.net
 fixsbusiness.mx
-fixsedfloat.com
 fj7gqqj.cc
 fkintemal.net
 fku-inu.pro
@@ -2601,7 +2603,6 @@ flareairdrop.vercel.app
 flashdigi.site
 flightreservations.xyz
 floadfixed.com
-float-fixed.com
 flojet.com.vn
 floki-claim.net.qqhosting3.com
 floki-claim.vercel.app
@@ -4366,6 +4367,7 @@ mint-brewriders.com
 mint-lilpudgys.xyz
 mint-nakamigos.vercel.app
 mint-nft.co
+mint-opeansea.web.app
 mint-satoshivm.io
 mint-usdc.web.app
 mint-xai.com
@@ -4404,6 +4406,7 @@ mitratokped.com
 mj3.us
 mm-redirect.com
 mmakerdao.com
+mmapplicationhubs.pages.dev
 mndntwrk.org
 mo7l9.top
 moboxlabs.org
@@ -4503,6 +4506,7 @@ multichainnode.onrender.com
 multichainprotocol.netlify.app
 multichainweb.pages.dev
 multicoinsystem.web.app
+multiconnect-system.web.app
 multidappsnetwork.com
 multidappsrectification.pages.dev
 multinoderesolve.pages.dev
@@ -4700,6 +4704,7 @@ nft-decent.app
 nft-g-opensea.vercel.app
 nft-hedgies.com
 nft-jup.app
+nft-manta.network
 nft-offers.com
 nft-open-one.vercel.app
 nft-opense.vercel.app
@@ -4785,6 +4790,7 @@ nolaisadog.com
 nolbody.com
 nomlswlap.tech
 nonceordiperceptive.pages.dev
+noones-log.com
 noones.es
 nootcoin.fun
 nooxnft.app
@@ -6090,6 +6096,7 @@ saaksoff5th.com
 sadreta.click
 safe-nodebrigde.online
 safeaccess-meta.com
+safeconnectfixdapp.web.app
 safegnosis.co
 safeguard-meta.com
 safewallet-meta.com
@@ -6435,6 +6442,7 @@ sonicswall.com
 sonikchain.pages.dev
 sophon-registrations.com
 soundbridge.click
+space-catch.web.app
 space.skillizgroup.xyz
 spaceid.claiming-link.live
 spaceid.connect-claiming.icu
@@ -6569,6 +6577,7 @@ steamcommunityskintradeoffermadito.com
 steamcommuxity.com
 steancomrnunity.com
 stepnboxx.netlify.app
+stepnconnectactivation.pages.dev
 stepnfree.netlify.app
 stepstaking.app
 steth.tiiny.site
@@ -7225,6 +7234,7 @@ vote-ambires.com
 vote-ambires.org
 vote-makerdao.com
 vote.biast.support
+vote.makerdaos.trading
 votebnbchain.pages.dev
 votemarketstakedao.org
 vpunxrf00.urest.org
@@ -7306,6 +7316,7 @@ wap.janalt-tech.com
 wap.js-xlh.com
 wap.kinetu.com.cn
 wap.uu-whatsapp.com
+wappconnectnode.pages.dev
 wapprecktconnt.pages.dev
 waprcast.com
 washingtonpost.in
@@ -7732,7 +7743,6 @@ www.fastmining.pro
 www.fegtokenmigrate.com
 www.fixedfloaflt.com
 www.fixedtflaot.com
-www.fixetfloat.com
 www.fourseasonca.com
 www.frameassethub.net
 www.framechaindrop.com
@@ -8078,6 +8088,7 @@ xionbonusblock.io
 xkpc.pro
 xksl5.cc
 xl9.us
+xlaunch-pad.web.app
 xlauncher-app.com
 xlbullycoin.pro
 xmas-analos.org
