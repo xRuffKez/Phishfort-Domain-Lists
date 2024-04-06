@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr  6 17:02:50 UTC 2024
-# Number of Entries: 8300
+# Fetch date: Sat Apr  6 18:02:21 UTC 2024
+# Number of Entries: 8297
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4652,7 +4652,6 @@ new-lineabuild.pages.dev
 new-neotokyo.com
 new-nibiru.com
 new-porkcoin.com
-new-principal.solucionti.cl
 new-pyth.network
 new.babbara.xyz
 new.blockchainbets-vault.com
@@ -7739,7 +7738,6 @@ www.event-xai.games
 www.evm-monad.xyz
 www.evoypremium.com.br
 www.faq-legal.com
-www.fastmining.pro
 www.fegtokenmigrate.com
 www.fixedfloaflt.com
 www.fixedtflaot.com
@@ -7793,7 +7791,6 @@ www.interdigitaltba.com
 www.investment-fdholdings.com
 www.ixspool.xyz
 www.jamiod.com
-www.jingruijx.com
 www.jompyc.com
 www.ju.normbit.online
 www.jutsunft.com.soillabs.app
