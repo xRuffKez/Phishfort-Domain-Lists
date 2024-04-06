@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr  6 12:01:50 UTC 2024
-# Number of Entries: 107648
+# Fetch date: Sat Apr  6 13:01:36 UTC 2024
+# Number of Entries: 107654
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -12882,6 +12882,7 @@ blittrex.intrenational.com
 bliur.com
 bliur.io
 blk999.online
+blknoiz06.net
 bllaast.com
 bllockchain.ga
 bllockchain.tk
@@ -17327,6 +17328,7 @@ claim.optinisn.io
 claim.orbeonprotocol.site
 claim.paalai.mobi
 claim.padgy.xyz
+claim.pancakesswap.fi
 claim.pancakeswap.cfd
 claim.payeths.com
 claim.paysafecoins.com
@@ -27030,6 +27032,7 @@ dmetamaskweb3.com
 dmiarket.com
 dmitricherniak1-free.xyz
 dmmltt0.info
+dn.yrioa1.sa.com
 dna-otherside.xyz
 dnaata.com
 dnata.anyinspect.com.br
@@ -47449,6 +47452,7 @@ makerdaop.store
 makerdaop.tech
 makerdaospark.org
 makerdaov3.online
+makerdaov3.pages.dev
 makerdaoweb.org
 makerdoa.com
 makerfoundation.github.io
@@ -52727,6 +52731,7 @@ migrate-hedron.com
 migrate-houdiniswap.com
 migrate-makerdao.com
 migrate-makerdao.online
+migrate-makerdao.pages.dev
 migrate-memedefiv2.icu
 migrate-memedefiv2.xyz
 migrate-my-xidar.site
@@ -71632,6 +71637,7 @@ pool-bakeryswap.org
 pool-chain.link
 pool-friend.tech
 pool-in-7582.onrender.com
+pool-liquidfarm.com
 pool-neo.blogspot.com
 pool-nftbox.web.app
 pool-pancakeswap.com
