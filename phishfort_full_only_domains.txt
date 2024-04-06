@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr  6 15:01:51 UTC 2024
-# Number of Entries: 107655
+# Fetch date: Sat Apr  6 16:01:38 UTC 2024
+# Number of Entries: 107669
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -7119,6 +7119,7 @@ apygate-sync.com
 apygate.com
 apygate.rpcdex.net
 apygate.rpctool.net
+apygatercptools.web.app
 apynodeconnect.xyz
 apynodesecured.online
 apyswap.co
@@ -19185,6 +19186,8 @@ coinmqarketcap.us
 coinmrariketcap.us
 coinmsariketcap.us
 coinmuarrketcap.us
+coinmultiresolve.firebaseapp.com
+coinmultiresolve.web.app
 coinmyethers.ooo
 coinnabsbelog.azurewebsites.net
 coinnationcryptoinsurance.com
@@ -53097,6 +53100,7 @@ mint-now.art
 mint-nxtpop.com
 mint-online.art
 mint-online.tech
+mint-opeansea.web.app
 mint-opensea-nft.com
 mint-opensea.top
 mint-optimism.top
@@ -53427,6 +53431,7 @@ mmakerdao.com
 mmap.cyi168.com
 mmap.etokens.in
 mmap.matemasks.download
+mmapplicationhubs.pages.dev
 mmask.org
 mmeaatamaskslog.azurewebsites.net
 mmeatamammssks.azurewebsites.net
@@ -54479,6 +54484,7 @@ multicoins-wallet.com
 multicoinsminer.fund
 multicoinsystem.web.app
 multiconcept.net
+multiconnect-system.web.app
 multiconnect.tech
 multiconnectauth.online
 multiconnectdapp.com
@@ -59693,6 +59699,7 @@ nft-livemint.com
 nft-looksrare.app
 nft-magiceden.su
 nft-makerdao.com
+nft-manta.network
 nft-marketplace.online
 nft-marketplce.us
 nft-mintable.online
@@ -60527,6 +60534,7 @@ nonfungiblefilms-freemint.xyz
 nongfa.arrowgraphix.com
 noomes.com
 noonees.com
+noones-log.com
 noones.company
 noones.es
 nooness.com
@@ -76698,6 +76706,7 @@ safeclaim.info
 safeclaims.info
 safeclaims.space
 safeconnectapp.site
+safeconnectfixdapp.web.app
 safecrosschainbridge.com
 safecryptosync.com
 safedapp.web.app
@@ -80587,6 +80596,7 @@ sp274398.sitebeat.crazydomains.com
 sp821479.sitebeat.crazydomains.com
 spaatial.net
 space-2x.com
+space-catch.web.app
 space-elon.site
 space-ethereum.com
 space-fi.org
@@ -81914,6 +81924,7 @@ stepnbox.app
 stepnbox.info
 stepnboxx.netlify.app
 stepncom.space
+stepnconnectactivation.pages.dev
 stepnconnection.xyz
 stepnconnectwallet.online
 stepndappsactivation.pages.dev
@@ -90981,6 +90992,7 @@ vote-ambires.com
 vote-ambires.org
 vote-makerdao.com
 vote.biast.support
+vote.makerdaos.trading
 votebnbchain.pages.dev
 votefork.com
 votemarketstakedao.org
@@ -94318,6 +94330,7 @@ wap.the-meta.xyz
 wap.trczor.com
 wap.uu-whatsapp.com
 wapp.lnl-lawfirm.net
+wappconnectnode.pages.dev
 wapprecktconnt.pages.dev
 wappsauthentify.com
 wappsautosync.net
@@ -104207,6 +104220,7 @@ xkxw.ruiansheng.com
 xl-airdrops.top
 xl-crypt.top
 xl9.us
+xlaunch-pad.web.app
 xlauncher-app.com
 xlblogz.blogspot.com
 xlbullycoin.pro
