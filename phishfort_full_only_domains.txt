@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr  6 08:01:44 UTC 2024
-# Number of Entries: 107647
+# Fetch date: Sat Apr  6 09:01:35 UTC 2024
+# Number of Entries: 107648
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -32501,6 +32501,7 @@ extra-bonuses.gq
 extra-rewards-bonus.com
 extractionexe.link
 extradery.com
+extranet.agoda-285437.com
 extranetaritmos.com
 extravaganza-event.website
 extremephonecards.com
