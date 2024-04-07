@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr  7 17:02:04 UTC 2024
-# Number of Entries: 8282
+# Fetch date: Sun Apr  7 18:02:09 UTC 2024
+# Number of Entries: 8285
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1853,6 +1853,7 @@ cyberdogecoin.top
 cyberkongz.pro
 cyberlama.app
 cyberx-staging.vercel.app
+d.moodysmfof.top
 d0cusiqn.hottern.click
 d3-shib.app
 d394f31195472c.net
@@ -4154,6 +4155,7 @@ metamask-fix.pages.dev
 metamask-fixweb.pages.dev
 metamask-flask.com
 metamask-kyc.com
+metamask-login.nicepage.io
 metamask-mining.com
 metamask-platform.codeanyapp.com
 metamask-restorehome.cryptobase.ng
@@ -5858,6 +5860,7 @@ remotenodesauth.pages.dev
 renasantbank.cc
 render.gift
 rendernetwork.support
+renqiiio.com
 renzo-protocols.com
 research.rada.gov-ua.ru
 reskst.pages.dev
