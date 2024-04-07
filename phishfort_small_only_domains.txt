@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr  7 14:02:03 UTC 2024
-# Number of Entries: 8267
+# Fetch date: Sun Apr  7 15:02:06 UTC 2024
+# Number of Entries: 8260
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -642,7 +642,6 @@ app.allocations-chihuahua.com
 app.allocations-vanarchain.com
 app.altlayer-web3.com
 app.blastclaim.com
-app.blockchainrepository.xyz
 app.claims-richquack.com
 app.cosensys.io
 app.defi-origin.com
@@ -1201,7 +1200,7 @@ bonus-pyth.xyz
 bonuses-defi.network
 bonuses-manta.network
 bookaflightwithunitedairlines.statuspage.io
-booking.ro-plato.online
+booking.agoda-checkout-id843753.com
 boomlandgames.netlify.app
 booster-manta.network
 bootoken.vip
@@ -1682,11 +1681,9 @@ collab-award.io
 collab-conects.com
 collab-connect.pages.dev
 collab-connects.land
-collab-land-sync.net
 collab-land.lol
 collab-land.x10.bz
 collab-landbot-secure.com
-collab-lander.com
 collab-safety.xyz
 collab-verification.land
 collab-verify.io
@@ -1747,7 +1744,6 @@ connect-mavia.com
 connect-protocol.com
 connect-rpcdefi.com
 connect-velodrome.finance
-connect-verify-securitys.vercel.app
 connect-wallet.ordinalsfinal.live
 connect-wenwencoin.com
 connect-xai.games
@@ -2285,7 +2281,6 @@ earnifinance.xyz
 earningdrop.dev
 earns-drop.net
 earns-drop.org
-earnsdrop.net
 easrndrop.net
 easydocgestao.com.br
 easyfixwallet.pages.dev
@@ -2451,6 +2446,7 @@ ethurgas.com
 ethyourgas.com
 etr-407-payment.com
 etr407.ca
+etr407en.com
 etr407highway.com
 etroute407.com
 evaultbuzzfix.com
@@ -2940,7 +2936,9 @@ health-equity.pro
 health-equity.sa.com
 health-equity.za.com
 healthcheck.com
+healtheequity.sa.com
 healthequitu.sa.com
+healthequity.com6.sa.com
 healthequity.combiz.pro
 healthequity.comja.sa.com
 healthequity.comlink.sa.com
@@ -3658,7 +3656,6 @@ lottery.ridottowin.online
 lovecoprinttestelnur.com
 lpfi1.cc
 lrt-eigenlayer.xyz
-lsd-mainnet-address-spoofing.netlify.app
 lst-eigenlayer.xyz
 lubrizolcorp.cn
 lunc.space
@@ -4315,7 +4312,6 @@ migratestaderlabs.com
 migratexend-finance.vercel.app
 migration-0xnude.com
 migration-bitcointry.tech
-migration-cuminu.pro
 migration-darwinia.net
 migration-defrogs.com
 migration-dypius.pro
@@ -4325,7 +4321,6 @@ migration-pirb.tech
 migration-singularitydao.com
 migration-wdymcrypto.app
 migration-wolverinu.pro
-migration-x7.xyz
 migration.ot-sea.com
 migrationmetagalaxyland.website
 mike-token-web-1rj55ugoo-percenal-miketoken.vercel.app
@@ -5018,7 +5013,6 @@ pacnoon.co
 pacnoon.net
 pacnoon.org
 padchain-gpt.org
-padsync.pages.dev
 paidnetwork.app
 pair-explorerzerion0i.pages.dev
 palestran15.pages.dev
@@ -6182,7 +6176,6 @@ secondx.mypsx.net
 secure-retry-connecting.alphakreed.com
 secure-user-connect.net
 secure-verify-connects.vercel.app
-secure-verifys.vercel.app
 secure.ingbhk.com
 secure1.ontario407etr.com
 secure9.ontario407etr.com
