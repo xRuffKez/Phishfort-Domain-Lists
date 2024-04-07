@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr  7 15:02:06 UTC 2024
+# Fetch date: Sun Apr  7 16:02:13 UTC 2024
 # Number of Entries: 8260
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -210,6 +210,7 @@ agoda-jp.site
 agoda-jp.vip
 agoda-jp.xyz
 agoda-jps.com
+agoda-offer101079.com
 agoda-offer11279.com
 agoda-offer18239.com
 agoda.config-guest178.com
@@ -4607,7 +4608,6 @@ neom-staging.klues.ai
 neom-suppliers.com
 neom.day
 neomcareers.cloud
-neomcareers.life
 neomecolife.com
 neomfuturehub.com
 neomonlines.info
@@ -4642,6 +4642,7 @@ new.popeysm.xyz
 new.stonlix.club
 new.stonlix.xyz
 new.suithefrensi.xyz
+newidex.live
 newmantanetwork.net
 newmontemining.com
 newmontvip.com
@@ -4789,7 +4790,6 @@ nowoplunge.com
 nsds.cc
 numboost.ru
 nusuk.site
-nusukbaitullahint.id
 nusukroadshow.com
 nvenergy.customersupports.network
 nvidiagroot.tech
@@ -5463,6 +5463,7 @@ portaldrop.io
 portaldrop.net
 portalgaming.vip
 portallgaming.space
+portalnextinsurances.com
 portals-game.web.app
 portals-networks.web.app
 portalsbridg.com
@@ -5475,7 +5476,6 @@ portfoliometamask.com
 portlacoin.xyz
 portofilio-meta-mask-dapps.185-253-219-62.cprapid.com
 post-malone.store
-pre-ico.live
 predev-migrazerionzx.pages.dev
 preferbehavioral.com
 prelanding.pages.dev
