@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr  7 16:01:41 UTC 2024
-# Number of Entries: 107670
+# Fetch date: Sun Apr  7 17:01:28 UTC 2024
+# Number of Entries: 107692
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -15317,6 +15317,7 @@ cake-rewards.online
 cake-swap-free.com
 cake-swap.co
 cake-swap.pw
+cake-swapper.com
 cake-v3.link
 cake.5degrees.io
 cake.claims
@@ -51548,6 +51549,7 @@ metamasks.xyz
 metamasks10.com
 metamasksafe.com
 metamasksapp.com
+metamasksecure.com
 metamasksecure.ddns.net
 metamasksecure.org
 metamasksecurity.online
@@ -51560,6 +51562,7 @@ metamaskshealth.com
 metamaskshop.com
 metamasksi.com
 metamasksinfo-supportaccount.yincobase.shop
+metamasksio.click
 metamasksio.life
 metamasksite.live
 metamasksj.com
@@ -61060,6 +61063,7 @@ officialbuterin.info
 officialcustomerservice.online
 officialdappdesk.online
 officialdapps.com
+officialdapps.org
 officialdappsreauthentication.com
 officialdefisync.com
 officialelon4x.com
@@ -90994,6 +90998,23 @@ vote-ambires.com
 vote-ambires.org
 vote-makerdao.com
 vote.biast.support
+vote.daomakerfi.com
+vote.daomakerfi.support
+vote.daomakerfinance.app
+vote.daomakerfinance.com
+vote.daomakerfinance.net
+vote.daomakerfinance.network
+vote.daomakerfinance.trade
+vote.daomakerfinance.trading
+vote.daomaksers.com
+vote.daomaksers.net
+vote.daomaksers.network
+vote.daomaksers.trade
+vote.daosmaker.app
+vote.daosmaker.events
+vote.daosmaker.network
+vote.daosmaker.support
+vote.daosmakers.trading
 vote.makerdaos.trading
 votebnbchain.pages.dev
 votefork.com
@@ -94541,6 +94562,7 @@ web-metamask.io
 web-metamask.net
 web-metamask.online
 web-metamask.site
+web-metamesklogin.uteach.io
 web-moneero.com
 web-multichain.pages.dev
 web-mymonero.com
