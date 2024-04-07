@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr  7 10:02:07 UTC 2024
-# Number of Entries: 8298
+# Fetch date: Sun Apr  7 11:02:04 UTC 2024
+# Number of Entries: 8267
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -277,12 +277,10 @@ airdrop-caga.web.app
 airdrop-chaln.link
 airdrop-de.fi
 airdrop-defi.online
-airdrop-earn.com
 airdrop-farcana.com
 airdrop-gomble.app
 airdrop-gomble.digital
 airdrop-info.lol
-airdrop-injective.icu
 airdrop-injective.top
 airdrop-ionet.vercel.app
 airdrop-jup.one
@@ -739,6 +737,7 @@ apygate.rpctool.net
 apygatercptools.web.app
 arab-bkplc.com
 arabbplc-ae.com
+araemex.com
 aramex-delivery.me
 aramexame.com
 aramexglobalexpress.com
@@ -958,7 +957,6 @@ bbexpro.xyz
 bbl-get.com
 bbsyncs.pages.dev
 bckrockgbtc.com
-bcr20.xyz
 bdb7.cc
 beacon-usdt.shop
 beanzoff.com
@@ -1079,7 +1077,6 @@ bitkubblockch.ain.net
 bitkubvip.com
 bitpay.com.de
 bitpulseportal.com
-bitrextrades.xyz
 bitrgbnetwork.com
 bitrock-app.com
 bitsgapmis.com
@@ -1567,7 +1564,6 @@ claimjupiter.com
 claimmetadrop.nl
 claimmetamask.com
 claimopeaseamysterydrop.com
-claimopenseaairdrop.com
 claimpancakeswap.finance
 claimpandoshi.com
 claimportal.foundation
@@ -1725,7 +1721,6 @@ collabland.x10.mx
 collablandconnect.xyz
 collaboration-rainbow.me
 collad-land.me
-collateralnetworks.pages.dev
 collbalnand.pages.dev
 colleb-verify.xyz
 collect-blast.com
@@ -1934,7 +1929,6 @@ dappsconnectapp.pages.dev
 dappscorrections.pages.dev
 dappsdropclaim.com
 dappsfixerweb.42web.io
-dappshub.pages.dev
 dappslog.vercel.app
 dappsly.pages.dev
 dappsnodesauthenticator.com
@@ -2111,7 +2105,6 @@ dextools.events
 dextpool.xyz
 dfacows.net
 dfx-stablecoin.web.app
-dfycy.com
 dg1ph.pro
 dgigame-rewardsclaim.pages.dev
 dhk6y.cc
@@ -2275,7 +2268,6 @@ earn-drop.asia
 earn-drop.club
 earn-drop.info
 earn-drop.live
-earn-drop.pro
 earn-taopads.web.app
 earndro.pm
 earndrop-checker.com
@@ -2285,7 +2277,6 @@ earndrop.it
 earndrop.link
 earndrop.team
 earndrop.vercel.app
-earndrop.web3-claim.codes
 earndrop24.com
 earndrops.gift
 earndroq.net
@@ -2520,7 +2511,6 @@ f0d0fc.cc
 f47jx6.pro
 f89badf5.7acd740c665c9b25ec20d877.workers.dev
 f930fi.info
-facet-swap.com
 factsync.pages.dev
 familylink-oracle.com
 familysavingamerica.pro
@@ -2587,7 +2577,6 @@ fixedfloat.win
 fixedfłoad.com
 fixedtloat.com
 fixedtsfloats.com
-fixetdfflat.com
 fixetdffloat.com
 fixetdflaot.com
 fixetdflot.com
@@ -2764,7 +2753,6 @@ genesis-dem.eu
 genesis-dem.xyz
 genesis-dym.com
 genesis-dymensionapp.com
-genesis-dymensions.xyz
 genesis-roll.com
 genesis-x-ads.com
 genesis.dymansion.xyz
@@ -3116,7 +3104,6 @@ injective-network-en.web.app
 injective-networks.web.app
 injective.systems
 injective.world
-injectivechain.co
 injectivedex.com
 injectivenetwork.dev
 injectivers.xyz
@@ -3240,7 +3227,6 @@ join-nocturnes.xyz
 join-pendle.com
 join-pixels.com
 join-porkcoin.io
-join-ripple.com
 join-satoshivm.app
 join-satoshivm.io
 join-superverse.org
@@ -3562,7 +3548,6 @@ lidostake.dev
 lidostakecoin.com
 lidostaking-btu.pages.dev
 lilostake.lol
-lilpudgys-mint.com
 linae-parks.com
 lindonft.us
 linea-2024.com
@@ -4365,7 +4350,6 @@ minnimi.com.ua
 minootv.com
 minswap.azurewebsites.net
 mint-brewriders.com
-mint-lilpudgys.xyz
 mint-nakamigos.vercel.app
 mint-nft.co
 mint-opeansea.web.app
@@ -5505,7 +5489,6 @@ premium.athene.network
 premiumtvstreamers.com
 presale-cogwise.com
 presale-kelexo-en.web.app
-presale-scorpioncasino.pages.dev
 presale-x.com
 presale.get-blockgames.app
 presales.blockgamess.com
@@ -5545,7 +5528,6 @@ protocol-carv.nl
 protocol-guard.web.app
 protocol-mainnet-sync.web.app
 protocol-node.pages.dev
-protocol-wallet.pages.dev
 protocolframe.net
 protocolnode.com
 provision-storknet.com
@@ -5606,7 +5588,6 @@ pythnetwork.airdrops-claiming.cc
 pythnetwork.airdrops-claiming.cloud
 pythnetwork.airdrops-claiming.one
 pythnetwork.airdrops-claiming.site
-pythnetwork.app-claim.codes
 pythnetwork.app-claiming.pro
 pythnetwork.claim-airdrop.pro
 pythnetwork.claim-airdrops.cc
@@ -5649,7 +5630,6 @@ pythnetwork.link-claiming.xyz
 pythnetwork.manage-claim.pro
 pythnetwork.service-claiming.pro
 pythnetwork.services-claim.pro
-pythnetwork.services-claiming.codes
 pythnetwork.services-claiming.one
 pytlh-network.one
 qbit-rewards.com
@@ -5762,7 +5742,6 @@ raydiums.buzz
 raydiums.pages.dev
 raydiumswap.com
 raydiumtoken.io
-raydiym.com
 raydlum.ink
 raydlum.net
 raydlumvy.com
@@ -6707,7 +6686,6 @@ syncfarm.pages.dev
 synchronizerpanel.com
 synchronizewallets.on.fleek.co
 synckavva.netlify.app
-syncndeffiz.line.pm
 syncpool.xyz
 syncprotocols.pagen.dev
 syncsactivate.firebaseapp.com
@@ -6938,7 +6916,6 @@ tradeviewtoken.xyz
 tradinglabs.app
 trafalpo-maniar.com
 tramertoe.top
-transfer24p2p.ru
 travalaai.live
 travel.quickflightbooking.online
 travelistik.de
@@ -7000,7 +6977,6 @@ twilio-hr.com
 twolandstoken.live
 twt.multipuds.top
 txaq.cc
-tyzxf.pages.dev
 ubnr.cc
 ueplestaret.com
 ufalmassuissat.com
@@ -7144,7 +7120,6 @@ valitame.com
 valoklin.com
 valortage.com
 valoxeno.com
-valuableohelper.com
 vanar.trading
 vanarchaiin.com
 vaultedvibes.online
@@ -7273,7 +7248,6 @@ wallet--connect.pages.dev
 wallet-balancer.website
 wallet-collabland.com
 wallet-connect-6pp.pages.dev
-wallet-extendedpublickey.pages.dev
 wallet-support.vercel.app
 wallet-virtual.net
 wallet-vulcan.xyz
@@ -7284,12 +7258,10 @@ wallet.orb-crypto.com
 wallet.ton-kepeer.com
 wallet.zkflre.io
 wallet7.vercel.app
-walletconnect-applicationprogram-interface.pages.dev
 walletconnect-com.vercel.app
 walletconnect-dapps.pages.dev
 walletconnect.app-net.top
 walletconnect.pages.dev
-walletconnectai.pages.dev
 walletconnectio.vercel.app
 walletdefi69.top
 walletrectifier.pages.dev
@@ -7350,7 +7322,6 @@ web3-cakedefi.com
 web3-connectdc.gq
 web3-connectha.gq
 web3-connectix.cf
-web3-connectmi.tk
 web3-connectsj.gq
 web3-cyptoo.com
 web3-ethereum.info
@@ -7419,7 +7390,6 @@ web3resolve.pages.dev
 web3resolvepage.tech
 web3sy.top
 web3trubtc.cc
-web3world.pages.dev
 webappresolve.pages.dev
 webdapps.vercel.app
 webdebugdapp.pages.dev
@@ -7498,7 +7468,6 @@ whitelist-farcana.com
 whitelist-joingrapes.com
 whitelist-parcl.com
 whitelist-personajourney.co
-whitelist-planetrefi.xyz
 whitelist-ponkes.com
 whitelist-porkcoin.com
 whitelist-satoshivm.com
