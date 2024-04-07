@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr  7 01:26:28 UTC 2024
-# Number of Entries: 107664
+# Fetch date: Sun Apr  7 02:10:07 UTC 2024
+# Number of Entries: 107665
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -47224,6 +47224,7 @@ mainnetdapp.web.app
 mainnetdappbot.net
 mainnetdappconnect.com
 mainnetdappfix.site
+mainnetdappns.netlify.app
 mainnetdappresolve.com
 mainnetdappresolve.online
 mainnetdappresolve.site
