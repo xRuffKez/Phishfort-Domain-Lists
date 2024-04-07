@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr  7 15:01:29 UTC 2024
-# Number of Entries: 107669
+# Fetch date: Sun Apr  7 16:01:41 UTC 2024
+# Number of Entries: 107670
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3044,6 +3044,7 @@ agoda-jp.xyz
 agoda-jps.com
 agoda-mba.com
 agoda-not.com
+agoda-offer101079.com
 agoda-offer11279.com
 agoda-offer18239.com
 agoda-partner.club
@@ -46235,7 +46236,6 @@ lrpreset.shop
 lrt-eigenlayer.xyz
 lrtgsnd.cn
 lscryptv.com
-lsd-mainnet-address-spoofing.netlify.app
 lse-crypto.com
 lsinterior.com.my
 lsns.xyz
@@ -59499,6 +59499,7 @@ newethpromo.com
 newevent22.com
 newhomepoocoin.blogspot.com
 newhometulsa.cf
+newidex.live
 newjwc.yiwfx.com
 newledgerweb.com
 newlifefertility.com
@@ -71805,6 +71806,7 @@ portalgaming.vip
 portall-brldge.cloud
 portall-zksync.com
 portallgaming.space
+portalnextinsurances.com
 portalnodes.pages.dev
 portalnodes.web.app
 portalpersonaparatodos.pdavivienda.repl.co
@@ -103814,7 +103816,6 @@ www.zerion-wallet.com
 www.zerion.claimfree.xyz
 www.zerion.in
 www.zerlon.io
-www.zero-stoics.shop
 www.zerrion.net
 www.zetadanismanlik.com.tr
 www.zeus.pancakeswape.finance
