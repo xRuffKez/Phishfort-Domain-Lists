@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr  7 14:01:29 UTC 2024
-# Number of Entries: 107666
+# Fetch date: Sun Apr  7 15:01:29 UTC 2024
+# Number of Entries: 107669
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -13930,6 +13930,7 @@ booking-agoda-hk.net
 booking-agoda-hotel.com
 booking-hotel-agoda.com
 booking-reward.nirvanaspahamam.com
+booking.agoda-checkout-id843753.com
 booking.pancakeswasap.one
 booking.pancokeswap.com
 booking.ro-plato.online
@@ -31674,6 +31675,7 @@ etorowalletapp.com
 etorrtrra.online
 etr-407-payment.com
 etr407.ca
+etr407en.com
 etr407highway.com
 etransaction.online
 etrastpad.com
@@ -37757,7 +37759,9 @@ health-equity.pro
 health-equity.sa.com
 health-equity.za.com
 healthcheck.com
+healtheequity.sa.com
 healthequitu.sa.com
+healthequity.com6.sa.com
 healthequity.combiz.pro
 healthequity.comja.sa.com
 healthequity.comlink.sa.com
@@ -74752,7 +74756,6 @@ renga.claims
 renga.events
 renga.free-premints.com
 renga.freemint-drop.com
-renga.fyi
 renga.give-minting.com
 renga.nft-premint.com
 rengapp.com
