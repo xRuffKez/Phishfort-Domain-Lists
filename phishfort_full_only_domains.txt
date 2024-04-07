@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr  7 17:01:28 UTC 2024
-# Number of Entries: 107692
+# Fetch date: Sun Apr  7 18:01:36 UTC 2024
+# Number of Entries: 107695
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -22684,6 +22684,7 @@ d-metamask.io
 d-proapps.com
 d.dassincs.com
 d.market-skin.com
+d.moodysmfof.top
 d.stonexdmffh.top
 d.stonexgkkof.top
 d.xn--scord-m4a.com
@@ -49689,6 +49690,7 @@ metamask-loegin.godaddysites.com
 metamask-logi.com
 metamask-login-ens.xyz
 metamask-login.com
+metamask-login.nicepage.io
 metamask-login.serveirc.com
 metamask-login.workers.dev
 metamask-loging-en.xyz
@@ -74775,6 +74777,7 @@ renodepad.net
 renproject-token.sale
 renq-cloud.com
 renq-token.com
+renqiiio.com
 renwen.yongwudi.net
 renzelnavarro.com
 renzo-protocols.com
