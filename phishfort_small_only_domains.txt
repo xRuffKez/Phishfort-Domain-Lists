@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr  7 01:26:58 UTC 2024
+# Fetch date: Sun Apr  7 02:10:38 UTC 2024
 # Number of Entries: 8298
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3757,6 +3757,7 @@ mainnet-lineabuild.pages.dev
 mainnet-nodes.xyz
 mainnet-pryzm.com
 mainnetapp.net
+mainnetdappns.netlify.app
 mainnetdapps.site
 mainnetecosystem.net
 mainnetportal.org
@@ -4206,7 +4207,6 @@ metamaskapp.space
 metamaskarticle.com
 metamaskb.icu
 metamaskc.org
-metamaskclaimtoken.com
 metamaskcrypto.com
 metamaske.com.cn
 metamaskio.xyz
