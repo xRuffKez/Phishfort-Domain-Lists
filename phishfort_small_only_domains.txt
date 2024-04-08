@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 00:07:53 UTC 2024
-# Number of Entries: 8285
+# Fetch date: Mon Apr  8 01:24:26 UTC 2024
+# Number of Entries: 8250
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -767,7 +767,6 @@ arbitrum.trustpados.top
 arbitrumbridge.web3app.vip
 arbitrumclaims.net
 arbitrumdistribution.org
-arbitrumfix.pages.dev
 arbitrumname.net
 arbitrumname.org
 arbitrumnova.pages.dev
@@ -1172,7 +1171,6 @@ blurnftgroup.com
 blurprotocol.us
 blust.io
 bnb-crypto.xyz
-bnbair.org
 bnbgift.org
 bnbheibaie.quest
 bnbmakerdao.online
@@ -1262,7 +1260,6 @@ btctokensfree.online
 btfxtrader.com
 btsemarket.cc
 btsemarket.top
-buddyal.pro
 build-121.com
 build.astarlabs.org
 buildtheenterprise.org
@@ -1699,7 +1696,6 @@ collabaward.site
 collabgift.space
 collabiand-verify-github.com
 collabland-assest.com
-collabland-community.net
 collabland-log.com
 collabland-members.net
 collabland-pad.com
@@ -1778,7 +1774,6 @@ consensys-verification.com
 consensys.web3-provide.com
 consensysclaim.com
 consorciochevroletmd.com.br
-contarctdrop.pages.dev
 contractclaim.netlify.app
 convert-dgcoin.com
 convex-finance.xyz
@@ -1948,7 +1943,6 @@ dapptest-mindnetwork.web.app
 dappwalletnode.pages.dev
 dappweb.vercel.app
 dapradar.eu
-dapraddar.com
 dapsecure.reslveprotcapp.com
 daqwpa8.top
 dasfy3345fsd.pages.dev
@@ -3457,7 +3451,6 @@ launchspad.app
 laundchpad.xyz
 laurentian-verif.com
 lava-lnt.com
-layanan.agodaa.bantuan-info-cs-bri-co-id.de
 layer-3.app
 layer-3.cyou
 layer-network.com
@@ -3482,7 +3475,6 @@ layerzeroclaims.xyz
 layerzeronetwork.io
 layerzeronetworks.org
 layerzeroscan.vercel.app
-layerzerotiime.shop
 layler3.xyz
 layorzeronetwork.com
 layrocvisions.com
@@ -3755,7 +3747,6 @@ maker-dao.life
 maker-dao.net
 maker-dao.network
 maker-fnd.net
-maker-spark.claims
 makeradao.com
 makerdaicoin.com
 makerdao-airdrop.pages.dev
@@ -3811,7 +3802,6 @@ manta-evm.pages.dev
 manta-foundation.com
 manta-group.xyz
 manta-l2.com
-manta-l2.network
 manta-labs.xyz
 manta-layer.xyz
 manta-live.com
@@ -4206,6 +4196,7 @@ metamasks.info
 metamasksecure.com
 metamasksinfo-supportaccount.yincobase.shop
 metamasksio.click
+metamasksio.xyz
 metamaskusan.azurewebsites.net
 metamaskv.net
 metamaskv.org
@@ -4472,7 +4463,6 @@ multi-smartworthyappverse.org
 multi-trustpade.site
 multi-trustpades.cc
 multibit-exchange.com
-multibit.xyz
 multibitex.net
 multibitstaking.com
 multibitx.netlify.app
@@ -4485,7 +4475,6 @@ multichain-web.de
 multichain-web.live
 multichain-web.pro
 multichainapprove.pages.dev
-multichainbridge-dapp.onrender.com
 multichained.pages.dev
 multichainnetwork.pages.dev
 multichainnode.onrender.com
@@ -5100,7 +5089,6 @@ pancakeswap.cc
 pancakeswap.click
 pancakeswap.dikecoin.com
 pancakeswap.godaddysites.com
-pancakeswap.help
 pancakeswap.li
 pancakeswap.lt
 pancakeswap.sipf.cc
@@ -5204,7 +5192,6 @@ papetokenss.com
 para.xcoindrop.top
 paradigm-manta.network
 paradigmclaims.vercel.app
-paradigmmanta.com
 parclllimited.com
 parknationalkgt.pics
 parriss2024.org
@@ -5319,7 +5306,6 @@ pengsolana.org
 penguinrandomhouseglobal.com
 penguinrandomhouseofficial.com
 penguinrandomhouseworldwide.com
-pepe-awards.com
 pepe-memes.com
 pepe-now.network
 pepe-team.com
@@ -5351,7 +5337,6 @@ peraxel.com
 perceptiveorbsyscaga.pages.dev
 perdashboard.online
 perks-pepe.com
-perpnft.xyz
 perponschainrewards.pages.dev
 personajourney.trading
 perurhealth.com
@@ -5495,7 +5480,6 @@ presales.blockgamess.com
 prime-vest.com
 primematesbc.com
 primepaymyservi.com
-prismafinance.app
 private-degenape.com
 privateequitydepartment.com
 pro-collab.land
@@ -5579,7 +5563,6 @@ pyth-web3.org
 pyth.party
 pytha.network
 pythdrop.site
-pythmas.com
 pythnetwork.airdrop-claiming.xyz
 pythnetwork.airdrops-claim.one
 pythnetwork.airdrops-claim.pro
@@ -5737,7 +5720,6 @@ raydium.lol
 raydium.pics
 raydium.rest
 raydium.sbs
-raydium.trading
 raydiums.buzz
 raydiums.pages.dev
 raydiumswap.com
@@ -5977,7 +5959,6 @@ rewards-multibit.exchange
 rewards-opsec.net
 rewards-solanamobile.com
 rewards-taiko.com
-rewards-tether.xyz
 rewards-wenwencoin.com
 rewards.carrbify.com
 rewards.hillfun.club
@@ -6073,7 +6054,6 @@ s-pookyswap.org
 s0ra.info
 s7w0ymu.top
 saaksoff5th.com
-sadreta.click
 safe-nodebrigde.online
 safeaccess-meta.com
 safeconnectfixdapp.web.app
@@ -6108,7 +6088,6 @@ saksoff5thz.com
 sakssaks.com
 sakssof5th.com
 sale-webverse.com
-sale.metazcoin.tech
 sallybolderson.com
 sample.ecsa.com
 sampx8y.info
@@ -6276,7 +6255,6 @@ signup-brc20.com
 signup-collabland.com
 signup-defi.network
 signup-defi.trading
-signup-jupiter.exchange
 signup-magiceden.io
 signup-mintify.xyz
 signup-multibits.com
@@ -6286,7 +6264,6 @@ signup-orderly.network
 signup-portal.com
 signup-portalcoin.com
 signup-rabbit.com
-signup-shido.io
 signup-starheroes.com
 signup-starknet.io
 signup-starsarena.com
@@ -6429,7 +6406,6 @@ spaceld.cyou
 spacequest-jup.ag
 spacexbonus.live
 spadaro.id.au
-spapecoin.com
 spark-claim.org
 sparkcircuit.shop
 sparkfi.app
@@ -7078,7 +7054,6 @@ usdctip.net
 usdfi-git-kyberswap-widget-tbot.vercel.app
 usdmint.co
 usdonbsc.tech
-usdt-bonus.org
 usdt-drop.top
 usdt-payback.com
 usdt-payback.net.futurevest.com.au
@@ -7691,10 +7666,8 @@ www.csagoda.com
 www.cudos.site
 www.dappbrowser.info
 www.dapphyperblast.io
-www.dappmainnetnode.com
 www.dappsdebugger.net
 www.dappsresolver.com
-www.dappsupport.dev
 www.dartya.cc
 www.dashboard.superset.live.ethshapella.com
 www.deafah-in.amazonintl.in
@@ -7714,7 +7687,6 @@ www.eigenlaver.magpiexyz.site
 www.eligibility-wenwencoin.com
 www.eligible-porkcoin.com
 www.en.redash.production.winkdrop.net
-www.etepool.xyz
 www.ethena.finance
 www.ethereumdrop.com
 www.ethereumrefund.com
@@ -7754,7 +7726,6 @@ www.gitlab.auth.root.dappradar.is
 www.globalpaymentsvtw.com
 www.globalpaymentsyttww.com
 www.globalpaymentsytww.com
-www.gomining.site
 www.gracieabramssmerchandise.com
 www.hashpacksqa.com
 www.healthequity.click
@@ -7777,7 +7748,6 @@ www.interdigitaler.com
 www.interdigitalker.com
 www.interdigitaltba.com
 www.investment-fdholdings.com
-www.ixspool.xyz
 www.jamiod.com
 www.jompyc.com
 www.ju.normbit.online
@@ -7965,7 +7935,6 @@ www.seedifyfund.support
 www.seibridge.org
 www.shibaswaap.org
 www.shibus.site
-www.shido.top
 www.shop-click-drive.com
 www.sitemap.project-altlayer.io
 www.sitemaps.newpardigm-manta.network
@@ -7992,13 +7961,11 @@ www.swap-blast.finance
 www.swap-omax.pro
 www.swisroger.net
 www.syncodapps.online
-www.synth-swap.io
 www.theplaybooksol.xyz
 www.tiktok-world.shop
 www.tiktok8.bond
 www.tiktokmall-th.com
 www.toshithecat.org
-www.tpadv2.dev
 www.triplewealthbuilders.com
 www.trustlimitedinvestment.com
 www.trustwalletdefi.icu
@@ -8025,7 +7992,6 @@ www.vopiow.com
 www.walletsdapprepl.com
 www.wallstmemes.mobi
 www.web.dapps-auth.live
-www.web.multichains-connect.com
 www.web.resolvebugvvalidly.org
 www.web3mwe.com
 www.webcamrecordings.com
@@ -8119,7 +8085,6 @@ xn--fxedfloat-vpbe.com
 xn--fxedftloat-k8a.com
 xn--fxedlflaot-k8a.com
 xn--od5b1rm17a.com
-xn--raribe-t9a.com
 xn--rustwallet-gyd.com
 xn--zcr743ah35a.com
 xn66ekl.pro
