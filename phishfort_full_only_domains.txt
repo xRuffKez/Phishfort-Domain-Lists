@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 19:01:31 UTC 2024
-# Number of Entries: 107750
+# Fetch date: Mon Apr  8 20:01:59 UTC 2024
+# Number of Entries: 107755
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -19318,6 +19318,7 @@ coinrecovereywallets.com
 coinrecovery.org
 coinrectification.com
 coinrectify.com
+coinrectifynode.live
 coinresearchlab.site
 coinresolution.click
 coinresolution.com
@@ -44142,6 +44143,7 @@ linea-builder.com
 linea-bulid.com
 linea-bulid.io
 linea-consensys.world
+linea-defi.com
 linea-eth.dev
 linea-layerfinance.com
 linea-mint.xyz
@@ -48160,6 +48162,7 @@ matamesk-tn.com
 matamieskwal1et.godaddysites.com
 matchcareservice.com
 matcmask.io
+mate-mask.com
 mate-mask.top
 mateamask.com
 mateamask.net
@@ -48192,6 +48195,7 @@ matemasks.trade
 matemasks.win
 matemasks.ws
 matemasks.xyz
+matemasksio.life
 matemaskv.com
 matemaskwalle.godaddysites.com
 matemaskwallet.godaddysites.com
@@ -51521,6 +51525,7 @@ metamaskrestores.link
 metamaskrestores.pages.dev
 metamaskreview.godaddysites.com
 metamaskreward.com
+metamaskrich.life
 metamasks-airdrop.top
 metamasks-drop.com
 metamasks-extension.com
