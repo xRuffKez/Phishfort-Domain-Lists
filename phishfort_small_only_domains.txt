@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 20:02:38 UTC 2024
-# Number of Entries: 8157
+# Fetch date: Mon Apr  8 21:02:13 UTC 2024
+# Number of Entries: 8159
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -114,7 +114,6 @@
 6582a324d461b10392e58564--resonant-crumble-667584.netlify.app
 65c929ede29cb759e486af81--rainbow-choux-6218fe.netlify.app
 685463.sa.com
-68pw3690.pw
 6ueir.cc
 6wt7zwf.pro
 70356134-1e65-4f60-94ee-18e6fc220ac1-00-qed3v4c7t0e6.spock.replit.dev
@@ -1578,6 +1577,7 @@ claimstrk.today
 claimstrk.xyz
 claimtrumx.xyz
 claimvoucher2.glitch.me
+claimzeriondapps.pages.dev
 clark-constructions.org
 clarkcorstruction.com
 clarkgroup-us.co
@@ -2079,7 +2079,6 @@ dexautomate.web.app
 dexcoms.com
 dexpcsintergal.com
 dexprotocolchain.io
-dexscieener.com
 dexsuperdoge.pages.dev
 dexsynage.web.app
 dextools.bz
@@ -5398,7 +5397,6 @@ portel-bridg.com
 portelbridges.org
 portelbrldge.org
 portfolio-mask-mask-master-dedi285032.codeanyapp.com
-portfolio-verification.com
 portlacoin.xyz
 portofilio-meta-mask-dapps.185-253-219-62.cprapid.com
 post-malone.store
@@ -6247,6 +6245,7 @@ smartauthrectify.pages.dev
 smartautodebuglive.firebaseapp.com
 smartautodebuglive.web.app
 smartbaseverse.pro
+smartcontapp-audit.com
 smartdappconnect.com
 smartdappfix.pages.dev
 smartdappnodes.pages.dev
@@ -7093,6 +7092,7 @@ visitlinea.com
 vivintflorida.com
 vmfla7a.pro
 vmsatoshi.io
+vna7.pro
 vncrypto.cc
 vocal-kataifi-5e514d.netlify.app
 vodoo.trade.web3-ap.cfd
@@ -7142,6 +7142,7 @@ vystarcu.tsa135.com
 vystarcu.zms362.com
 w-airdrop.vercel.app
 w-revoke.cash
+w.contract-deployer.live
 w.optimalsmart-sync.buzz
 w.smartprotocol-pad.online
 w1117.usdt6188.top
@@ -8160,5 +8161,6 @@ zroclaim.xyz
 zulumaka.top
 zwbohn.pro
 zyberswap.news
+zzbtg.pro
 zzh.wfjlg.club
 zzztheoneandonly.pages.dev
