@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 12:03:12 UTC 2024
-# Number of Entries: 8139
+# Fetch date: Mon Apr  8 13:02:17 UTC 2024
+# Number of Entries: 8141
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3507,6 +3507,7 @@ link-portal.app
 link-vulcan.xyz
 link.ganador-airtm.com
 link.gatekava.xyz
+link.hm24.no
 link.kava-api.live
 link.kavaguard.digital
 link.kavaguard.support
@@ -6204,6 +6205,7 @@ skasoff5th01.com
 skasoff5th02.com
 skasoff5th03.com
 skinsmonkey.combine.tundragon.com
+skipton-login.com
 sklpool.site
 sksidg.com
 skyborneslegacy.com
