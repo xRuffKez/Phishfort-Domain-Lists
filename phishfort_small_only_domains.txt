@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 05:02:35 UTC 2024
-# Number of Entries: 8217
+# Fetch date: Mon Apr  8 06:02:40 UTC 2024
+# Number of Entries: 8203
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -341,7 +341,6 @@ airdrop.riftswap.net
 airdrop.sleepleessai.net
 airdrop.starheros.community
 airdrop.teleportdao.su
-airdrop.wld.dev
 airdrop.wrlomhole.net
 airdrop.yuliverse.net
 airdrop.zerolendd.xyz
@@ -531,7 +530,6 @@ apesterminal.com
 apeswap-finance.info
 apeswap.us
 apetarminal.pro
-apeteirminal.app
 apeterminal.link
 apexexchenge.com
 api-collabland.land
@@ -727,9 +725,7 @@ appweb3.site
 appzlink.com
 apr-vectorreserve.network
 aps.bifi-yleld.xyz
-apt-project.com
 apt.500-web3.top
-apt.drop-fund.top
 aptclaim.net
 aptos.trusthubs.top
 apts-project.com
@@ -1049,7 +1045,6 @@ binnance.app
 biraxy.xyz
 birbmigrate.live
 birdeye-ya3sbou-frontned.onrender.com
-birdeye.trading
 biscottiboyzca.com
 biswap-exchange.top
 bit-nvidia.com
@@ -1200,9 +1195,9 @@ bonus-pyth.xyz
 bonuses-defi.network
 bonuses-manta.network
 bookaflightwithunitedairlines.statuspage.io
+booking.agoda-checkout-id843753.com
 boomlandgames.netlify.app
 booster-manta.network
-bootoken.vip
 bopan.xyz
 borgverse.app
 borovik.foundation
@@ -1739,7 +1734,6 @@ connect-dymension.xyz
 connect-mavia.com
 connect-protocol.com
 connect-rpcdefi.com
-connect-velodrome.finance
 connect-wallet.ordinalsfinal.live
 connect-wenwencoin.com
 connect-xai.games
@@ -2036,7 +2030,6 @@ defilayers.org
 defimanta.net
 defimigration.com
 defimining101.com
-defipools17.xyz
 defiportfolio.online
 defiproject.info
 defiprovider.net
@@ -2258,7 +2251,6 @@ earn-drop.club
 earn-drop.info
 earn-drop.live
 earn-taopads.web.app
-earndro.pm
 earndrop-checker.com
 earndrop.airdrop-claiming.xyz
 earndrop.dev
@@ -2268,7 +2260,6 @@ earndrop.team
 earndrop.vercel.app
 earndrop24.com
 earndrops.gift
-earndroq.net
 earned-linea.com
 earnifinance.xyz
 earningdrop.dev
@@ -2352,7 +2343,6 @@ enstoken.net
 entangle-fi.org
 enteerpriserentacar.org
 enter-injective.com
-enter-pendle.network
 enter-treasure.trading
 enter-wormhole.network
 enudeekc.one
@@ -2590,7 +2580,6 @@ floki.promo
 floki.x10.bz
 flokiairdop.com
 flokiairdrop.top
-flokibox.vip
 flokicoinairdrop.com
 flokievent.netlify.app
 flokifii.com
@@ -2776,7 +2765,6 @@ get.personalzomb.xyz
 get.wormscommunity.com
 get.zkfarmir.xyz
 getbcb.app
-getbonked.net
 getcodesolutions.com
 getgrass-check.com
 getgrass-collect.com
@@ -5029,6 +5017,7 @@ pancake.swap.primaprofits.com
 pancake.vinaweb.app
 pancake888.com
 pancakedrop.com
+pancakedrops.com
 pancakeeswap.com
 pancakeeswap.finance
 pancakefiance.org
@@ -5044,6 +5033,7 @@ pancakesswap.pages.dev
 pancakesswap.xyz
 pancakesvap-app.github.io
 pancakesvop.com
+pancakeswaap.in
 pancakeswaapfinance.net
 pancakeswap-airdop.com
 pancakeswap-airdrop-giveaway.com
@@ -5772,7 +5762,6 @@ register-metis.io
 register-optimism.org
 register-orderly.network
 register-pandora.app
-register-portalcoin.com
 register-qubic.org
 register-rabby.io
 register-satoshivm.com
@@ -5944,7 +5933,6 @@ rewards.hillfun.club
 rewards.optimismlabs.org
 rewards.otsea.capital
 rewards.retik.app
-rewards.xn--ldo-rma.finance
 rewardsmantachain.net
 rewardsmantanet.net
 rewardspaal.ai
@@ -6278,7 +6266,6 @@ skywardsemirates.com
 skywardsglobal.com
 slavic402wws.com
 sleeplessai.dev
-sleeplessai.presale-ico.org
 slerflabs.com
 slerfrewards.net
 slgnup-dymension.com
@@ -6437,6 +6424,7 @@ stake-tish.com
 stake-us.in.net
 stake-us.in.net.mammonmarketing.com
 stake-xai.games
+stake.emeraldsco.org
 stake.nobodynfts.today
 stakeamnis.finance
 stakefloki.com
@@ -6747,6 +6735,7 @@ thefamilytokens.vercel.app
 themodenetwork.com
 thepepe20.com
 theplasmacenter.info
+thereum.pages.dev
 thesolmirage.rxi.app
 thesolutionscenter.info
 theta-date.com
@@ -7587,7 +7576,6 @@ www.ator.claimfree.xyz
 www.avito.pay.pancakeswap.reid4deeds.com
 www.axieinfinity-global.com
 www.axiemarketplace.lol
-www.azukieelements.site
 www.bainxu.com
 www.baoninpingan.com
 www.bcilor.com
@@ -7871,7 +7859,6 @@ www.portolbridge.org
 www.practisea.com
 www.provisionstrk.xyz
 www.pudgyworld.shop
-www.quopi2.com
 www.recovermetawalletio.diviteca.com
 www.reflexer.pro
 www.regeringen.org
@@ -8011,7 +7998,6 @@ xlaunch-pad.web.app
 xlauncher-app.com
 xlbullycoin.pro
 xmas-bonk.com
-xmas-monkedao.com
 xmxx.btcethl.vip
 xn--1nch-vpa.io
 xn--1nh-3la2a.com
