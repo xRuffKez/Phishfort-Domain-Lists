@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 22:01:45 UTC 2024
-# Number of Entries: 107761
+# Fetch date: Mon Apr  8 23:01:47 UTC 2024
+# Number of Entries: 107762
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -22385,6 +22385,7 @@ ctoken.info
 ctrip03-secure03-login03.serveusers.com
 ctt.fullpays.site
 cuadrosasociados.cl
+cuadrosblangar.es
 cuarvers-fi-connect.javalionline.online
 cubaweb.com
 cube-live.vercel.app
