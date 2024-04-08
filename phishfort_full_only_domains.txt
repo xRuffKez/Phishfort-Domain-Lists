@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 17:02:14 UTC 2024
-# Number of Entries: 107740
+# Fetch date: Mon Apr  8 18:01:35 UTC 2024
+# Number of Entries: 107746
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2443,6 +2443,7 @@ account-servicesc.com
 account-step-secure-coinbase.com
 account-wellsfargo-login.com
 account.bizmall.ru
+account.cityindexinternational.com
 account.lbpiaccessph.workers.dev
 account.pancakeswape.finance
 account.pancakeswasap.one
@@ -14503,6 +14504,7 @@ brookfinances.com
 brookhedgefund.com
 brooks-field.com
 brooksfinances.com
+broscogrp.com
 broskeeesnfts.xyz
 broskobit.com
 brovinamce.com
@@ -52553,6 +52555,7 @@ mew-myetherwallet.com
 mew-offlclal.info
 mew-wallet.blogspot.com
 mew-wallet.net
+mew.best
 mew.starkapp.net
 mew.starkwallet.org
 mew3-world.com
@@ -68881,6 +68884,7 @@ pcshelpdesk.co
 pcsstake-v3.com
 pcwdf-hkteam.com
 pcyiocity.com
+pcylcalty.com
 pcylccity.com
 pcylcclty.com
 pcylocity.com
@@ -80993,6 +80997,7 @@ squishysquadnft1-free.xyz
 srfabricademoveisbraz.blogspot.com
 srmpool.xyz
 srnartgallery-promogive.com
+srsdistribution-us.com
 srsdistributoin.com
 srsdlstribution.com
 srtongblock.shop
@@ -87744,6 +87749,7 @@ udrop.finance
 udsc-cliamreward.com
 uedc-promogive.com
 uefa-reward.com
+uehgdsa.com
 uelifesciences.in
 ueplestaret.com
 ueswap.cloud
