@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 09:02:28 UTC 2024
-# Number of Entries: 8138
+# Fetch date: Mon Apr  8 11:02:06 UTC 2024
+# Number of Entries: 8140
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -227,7 +227,6 @@ agoda.ycs.my.id
 agodaa.life
 agodaa.masukmobilee.de
 agodaacom.online
-agodaaffiliate.com
 agodachina.cn
 agodahotel.cc
 agodahotel.cyou
@@ -241,6 +240,7 @@ agodaycs.com
 agodaycs.org
 agveah.cc
 ahora-ingres-aca.netlify.app
+ai-chatbot.ae
 ai-dapp.pages.dev
 ai-decentraldapp.pages.dev
 ai-smadecentrelized.pages.dev
@@ -412,7 +412,6 @@ aleo.claim-app.pro
 algogold.com
 alienswape.shop
 all-support.pages.dev
-all-supports.pages.dev
 all4whitelisted.pages.dev
 allenanna.com
 allianceblock-io.events
@@ -603,6 +602,8 @@ app-safeswap-io.pages.dev
 app-sakaivaults.pages.dev
 app-shapeshift.xyz
 app-sheesha.pages.dev
+app-spaks.sbs
+app-spark-fi.ipns.dweb.link
 app-starknet.io
 app-superverse.com
 app-susa.exchange
@@ -1052,6 +1053,7 @@ bitcasino.pw
 bitcasino.rocks
 bitcoin-mine-trix.com
 bitcoin-whales.wales
+bitcoindogsclub-65w.pages.dev
 bitcoinminaetrix.site
 bitcoinxcash.com
 bitetfs.net
@@ -1692,7 +1694,6 @@ collabland-pad.com
 collabland-safety.net
 collabland-syncs.com
 collabland-verification.xyz
-collabland-verify.co
 collabland-walet.com
 collabland-wallets.com
 collabland.api-role.land
@@ -1731,7 +1732,6 @@ connect-dymension.xyz
 connect-mavia.com
 connect-protocol.com
 connect-rpcdefi.com
-connect-wallet.ordinalsfinal.live
 connect-wenwencoin.com
 connect-xai.games
 connect.coilab.xyz
@@ -2191,6 +2191,7 @@ dropxmulti.top
 dsadsadsadsaeq.pages.dev
 dsr4w.pages.dev
 dtechdatacorp.com
+dualboardmoonify.pages.dev
 dualdappsconnect.pages.dev
 duegaigh.buzz
 duke-florence-finance.co
@@ -2869,6 +2870,7 @@ hamstrcoin.com
 handshakehns.web.app
 hannaanderssonkids.com
 happyskellies.com
+hardwaregiftairdrop.netlify.app
 hashbnb.com
 haven1.vercel.app
 hbar-distribution.com
@@ -2902,7 +2904,6 @@ helixapp.com.web3-connect.pw
 hellothisisatest.com
 help-407-etr.com
 help-407etr.com
-help-agoda.net
 help-avalanche.site
 help-docs-gmx.info
 help-tiktok.com
@@ -3154,7 +3155,6 @@ join-aofverse.com
 join-befilabs.com
 join-blockgames.com
 join-blockgames.xyz
-join-collabland-sync.net
 join-etherfi.com
 join-etherfi.work
 join-galxe.com
@@ -3409,7 +3409,6 @@ layerdank.finance
 layernetwork.ink
 layerszero.pics
 layerxpub-rectification.pages.dev
-layerzero-ad.com
 layerzero-superverse.com
 layerzeroclaims.xyz
 layerzeronetwork.io
@@ -3467,7 +3466,6 @@ lido-staking.pages.dev
 lido.fi-swaps.app
 lido.finance.fi.be-drv.com
 lido.liquid.inverni.us
-lido227277.pages.dev
 lidocrypto.fi
 lidodrops.info
 lidoe.azurewebsites.net
@@ -3961,8 +3959,10 @@ maviau.com
 maviia.build
 maviia.org
 maviiaa.com
+mavismerch.com
 maylucenaa.com
 mcfrzev.cc
+mcnabhi.github.io
 mdexcloudapp.xyz
 mducksspace.com
 mduresources.mamawannago.com
@@ -4411,6 +4411,7 @@ multichainprotocol.netlify.app
 multichainweb.pages.dev
 multicoinsystem.web.app
 multiconnect-system.web.app
+multidapps.pages.dev
 multidappsnetwork.com
 multidappsrectification.pages.dev
 multinoderesolve.pages.dev
@@ -4725,7 +4726,6 @@ o2online-service.de
 oasisprotocols.org
 ob-app.com
 obamacareenrollment.org
-oberbank-ag.myfreesites.net
 ocbre.com
 ocdpool.xyz
 oceantoken.net
@@ -6046,6 +6046,7 @@ scholarfundhub.com
 schoolfirstcenter0reversalonline.duckdns.org
 sconectsmartplusoficial.store
 scorpion-casino.shop
+scorpioncasinos.pages.dev
 scotltytheai.xyz
 scotlytheais.club
 scotty-theais.web.app
@@ -6119,6 +6120,7 @@ servicepflege-kontoaktualisieren383266.codeanyapp.com
 sewllnetwork.io
 sfccrcc.shop
 shardeumorg.vercel.app
+sharpfi.pages.dev
 shdw-get-o5yed.netlify.app
 shein3.com
 shelldao.net
@@ -6276,6 +6278,7 @@ snapshot-zksync.io
 snapshots-quai.network
 snapshots-wormhole.xyz
 snexkr.com
+snexkr.plus
 snowsniper.com
 snug-zetachain.com
 soaiv2.com
@@ -6318,6 +6321,7 @@ spacexbonus.live
 spadaro.id.au
 spark-claim.org
 sparkcircuit.shop
+sparkfi.app
 sparkfi.net
 sparkfi.org
 sparkfi.tech
@@ -7314,7 +7318,6 @@ webonlinws.sa.com
 websmart-de.fi
 websolverdapp.pages.dev
 webtransfer.vfjikpnlth.life
-webtxid.pages.dev
 weedcurrency.online
 welcometo-neotokyo.codes
 weli3.xyz
@@ -7403,7 +7406,6 @@ workforcenowadp.org
 world-blast.com
 world-circleone.com
 world-manta-network.com
-worldcoin-airdrop.net
 worldcoin-token.org
 worldfruitforest.world
 worldgeowayw.world
