@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 03:02:31 UTC 2024
-# Number of Entries: 8251
+# Fetch date: Mon Apr  8 04:02:34 UTC 2024
+# Number of Entries: 8247
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -116,6 +116,7 @@
 685463.sa.com
 68pw3690.pw
 6ueir.cc
+6wt7zwf.pro
 70356134-1e65-4f60-94ee-18e6fc220ac1-00-qed3v4c7t0e6.spock.replit.dev
 79.137.202.34.sslip.io
 7ggtru.cc
@@ -230,7 +231,6 @@ agodaa.masukmobilee.de
 agodaacom.online
 agodaaffiliate.com
 agodachina.cn
-agodacs.online
 agodahotel.cc
 agodahotel.cyou
 agodahotel.pw
@@ -1286,6 +1286,7 @@ bvrefe.pages.dev
 bvuvs.info
 bwflexibiesystems.com
 bybit-gift.space
+bypf8bm.pro
 bytedog.pro
 c.qztaiwei.com
 c.taiweixl.com
@@ -1639,7 +1640,6 @@ coin-swap.global
 coin.searchclaim.top
 coinbase-ashen.vercel.app
 coinbase-blush.vercel.app
-coinbase-one.top
 coinbase-qr.net
 coinbase-verify-password-global.oxygeneapp.com
 coinbase-walletconnectv4.vercel.app
@@ -1857,6 +1857,7 @@ d3-shib.app
 d394f31195472c.net
 d7bjeie8jevolt5j.pdqptpohlhxle6.ru
 da2m088c.site
+dac2yur.cc
 dadawgs.tech
 dalarnas.site
 dalarnas.website
@@ -2620,7 +2621,6 @@ forexgcoin-5.com
 forexinvest-start.com
 form-agooda.com
 form4tw.com
-formulir.site
 fortanetwork.eu
 fortewebklap.pages.dev
 foundarb.xyz
@@ -2641,7 +2641,6 @@ framecommunityhub.net
 framecreatoralliance.com
 framedropnft.com
 frameecosystem.net
-frameexplorer.com
 framefundnetwork.net
 framegovernance.net
 framegovernanceforum.net
@@ -2656,8 +2655,6 @@ framenextech.net
 framenftcollection.com
 framephasetransition.net
 frametokenexchange.net
-frametokenlaunch.net
-frametokenomics.com
 framexdao.net
 framexexplorer.net
 free-altlayer.com
@@ -4563,6 +4560,7 @@ mysteryboxnow.vercel.app
 mysteryboxv1.vercel.app
 mysteryboxvp.vercel.app
 mysteryclaim74.vercel.app
+mysteryclaims37g.vercel.app
 mysteryclaimsnft.vercel.app
 mysteryclicks23.vercel.app
 mysteryclicks81.vercel.app
@@ -6550,7 +6548,6 @@ stonexkr.me
 stonexx.club
 stonfx.com
 store17830.associazionechien.org
-stretto-celsius-network.com
 stride-zone.vercel.app
 strive.serwerdwg.pl
 strk-coin.xyz
@@ -6936,7 +6933,6 @@ trustwalletsupport.vercel.app
 trustweb3.pages.dev
 trustwl.xyz
 try.starkzparticipate.com
-try.zparkgroup.com
 tryaml.com
 tryingffixedd.pages.dev
 tryingfixedxl.pages.dev
