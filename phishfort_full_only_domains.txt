@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 15:01:35 UTC 2024
-# Number of Entries: 107734
+# Fetch date: Mon Apr  8 16:01:55 UTC 2024
+# Number of Entries: 107740
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3073,6 +3073,7 @@ agoda.lovestoblog.com
 agoda.offer18239.com
 agoda.partner-extranet.info
 agoda.partner-extranet.life
+agoda.res94219.com
 agoda.resew-r.world
 agoda.shop
 agoda.take-t.top
@@ -12356,6 +12357,7 @@ bitkub-t.blogspot.com
 bitkub-th.app
 bitkub-th.com
 bitkub-th.ml
+bitkub-th.pro
 bitkub-th.vip
 bitkub-trader-acess.blogspot.com
 bitkub-up.blogspot.com
@@ -16486,6 +16488,7 @@ chevroletoferta.com
 chevroletonline.com
 chevroletpromocao.com
 chevroletseminuevoslinares.com.mx
+chevropromoo.com
 chevy.ru
 chhattisgarhnews18.com
 chi-token.com
@@ -72522,6 +72525,7 @@ promogiveaways.xyz
 promohitbtc.website
 promomusk.me
 promonciltiomettsi.tk
+promoochevro.com
 promoshein.com
 promotg.fun
 promotion-crypto.com
@@ -95639,6 +95643,7 @@ weth-opensea.site
 weth-transaction.com
 weth.coinwin.info
 wetimox.blogspot.com
+wetolove.com
 wew-ftx.com
 weway-airdrop.tech
 weway-giveaway.com
@@ -99775,6 +99780,7 @@ www.integrationwallets.online
 www.intelcoin.live
 www.intelphasesolution.com
 www.interactivebrokers.vip
+www.interactivebrokerstrading.com
 www.interactweb3apps.net
 www.interdigitalba.com
 www.interdigitalbc.com
