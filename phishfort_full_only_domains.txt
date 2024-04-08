@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 07:01:47 UTC 2024
-# Number of Entries: 107718
+# Fetch date: Mon Apr  8 08:01:50 UTC 2024
+# Number of Entries: 107727
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -9983,6 +9983,7 @@ babycl.netlify.app
 babydegods.com
 babydodobsc.com
 babydogceoin.top
+babydoge-app.xyz
 babydoge-claim.com
 babydoge-freemint.xyz
 babydoge.capital-earning.com
@@ -10526,6 +10527,7 @@ banesconsults.com
 bang-blast.io
 bangcrypto-promogive.com
 bangzoomonline.com
+bank-ai.org
 bank-eth.com
 bank.xql.vwp.mybluehost.me
 bankaigrouptemp.she.exc.mybluehost.me
@@ -62892,6 +62894,8 @@ orcasolana.online
 orcaterms.com
 orcawall.com
 orchai.live
+orchai.org
+orchapp.com
 orchidprotocols.com
 ordbridge.app
 order.pancakeswaps.it
@@ -68569,6 +68573,7 @@ paxfulopen.com
 paxfulor.com
 paxfulp2p.com
 paxfulpay.com
+paxfulpay.net
 paxfulpayments.com
 paxfulpep.com
 paxfulpolicy.com
@@ -68976,6 +68981,7 @@ pengsolana.co
 pengsolana.org
 pengsolana.xyz
 penguincoin.xyz
+penguinrandomh0use.com
 penguinrandomhouseglobal.com
 penguinrandomhouseofficial.com
 penguinrandomhouseworldwide.com
@@ -80759,7 +80765,6 @@ spar.shopping
 sparc.pro
 spark-claim.org
 sparkcircuit.shop
-sparkfi.app
 sparkfi.net
 sparkfi.org
 sparkfi.tech
@@ -81987,6 +81992,8 @@ sterkoption.com
 sterlingcaptcha.tech
 sterls.co
 sternpropiedades.cl
+steth-pool.com
+steth-shares.com
 steth.diamonds
 steth.info
 steth.tiiny.site
@@ -83021,6 +83028,7 @@ swapconnect.netlify.app
 swapcorrection.com
 swapcowfi.online
 swapcurve.fun
+swapdacake.com
 swapdaffix.store
 swapdao.app
 swapdaoconnect.com
@@ -85071,6 +85079,7 @@ theflyingsikh.club
 thefortunehunters.sbs.btcflash.myfr.xyz
 theftx.online
 thegaincapital.com
+thegamehubs.org
 thegardenazuki.com
 thegifthubb.online
 thegoblintown.com
