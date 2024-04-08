@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 08:01:50 UTC 2024
-# Number of Entries: 107727
+# Fetch date: Mon Apr  8 09:01:49 UTC 2024
+# Number of Entries: 107726
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -37700,7 +37700,6 @@ haunted-space.live
 hauntingfittingboastmachine--297954.repl.co
 haus-alpenrose.com
 hausphases.live
-havas-aso.com
 havas06.com
 havas08.com
 havas12.com
