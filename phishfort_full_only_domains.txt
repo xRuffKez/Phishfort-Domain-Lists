@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 16:01:55 UTC 2024
+# Fetch date: Mon Apr  8 17:02:14 UTC 2024
 # Number of Entries: 107740
 # Expires: 1 hour
 0-metemask.com
@@ -24427,7 +24427,6 @@ dapptokensvalidatop.com
 dapptool.link
 dapptool.net
 dapptoollink.live
-dapptools.live
 dapptools.mobi
 dapptools.one
 dapptools.site
@@ -75271,6 +75270,7 @@ revokecash.info
 revokecash.io
 revokecash.life
 revokecash.link
+revokecash.lol
 revokecash.me
 revokecash.net
 revokecash.network
