@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 13:01:42 UTC 2024
-# Number of Entries: 107733
+# Fetch date: Mon Apr  8 14:01:34 UTC 2024
+# Number of Entries: 107734
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2480,6 +2480,7 @@ accounts.coinbase.u4fa.us
 accounts.google-xl.com
 accounts.pancakeswape.finance
 accounts.pancakeswasap.one
+accounts.paxf-ful.com
 accounts.paxful-beta.co
 accounts.paxful-beta.online
 accounts.paxful.com.bitcoinsystemupgrade.com
@@ -16275,7 +16276,6 @@ chainsyncapi.netlify.app
 chainsyncapp.pages.dev
 chainsyncpermit.org
 chainsyncs.site
-chaintether.web.app
 chaintradecopy.com
 chainv2.link
 chainvalid.org
@@ -44241,7 +44241,6 @@ link-whitelist.com
 link.conect-access.com
 link.ganador-airtm.com
 link.gatekava.xyz
-link.hm24.no
 link.kava-api.live
 link.kavaguard.digital
 link.kavaguard.support
@@ -46977,6 +46976,7 @@ mail.supra-nft.com
 mail.supranft.com
 mail.swapsnet.com
 mail.synapsprotocol.com
+mail.tickets.atelierfain.ro
 mail.tip-coin-world.com
 mail.tkd
 mail.token-revoke.com
@@ -102936,6 +102936,7 @@ www.stargateapp.com
 www.stargatefinance.pro
 www.stargatesbridge.pro
 www.stargatte.financial
+www.starknet.pro.in
 www.starkwars.xyz
 www.starrgate.financial
 www.starrgete.finance
