@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 15:02:15 UTC 2024
-# Number of Entries: 8142
+# Fetch date: Mon Apr  8 16:03:27 UTC 2024
+# Number of Entries: 8147
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -221,6 +221,7 @@ agoda.ib-web.online
 agoda.offer18239.com
 agoda.partner-extranet.info
 agoda.partner-extranet.life
+agoda.res94219.com
 agoda.weboffer7181.com
 agoda.ycs-id.info
 agoda.ycs.my.id
@@ -1065,6 +1066,7 @@ bitilandos.com
 bitinaut.top
 bitinteractivebrokers.org
 bitkub-airdrop.com
+bitkub-th.pro
 bitkub-th.vip
 bitkub.fafa855casino.com
 bitkub.trade
@@ -1420,6 +1422,7 @@ checkaml.fun
 checker-whole.app
 cheelee.io-5000-usd-air.info
 chendimassachoist.com
+chevropromoo.com
 chicenminer.xyz
 childporn.umb.market
 chimpzee-claim.pages.dev
@@ -1954,7 +1957,6 @@ daviviendaportal.webcindario.com
 dbdefi-discover.com
 dbrsco.org
 dbrscotd.com
-dbrsfds.com
 dbrsfin.com
 dbrsfxs.com
 dbrspty.com
@@ -5423,6 +5425,7 @@ projwctclaim.vercel.app
 prokccin.com
 promocaochevro.com
 promochevro.com
+promoochevro.com
 promotg.fun
 prompt-0x216.xyz
 prompt-0x828.com
@@ -7354,6 +7357,7 @@ wer34.pages.dev
 wesltchekspas.com
 west-braves.info
 westrock-workwear.nl
+wetolove.com
 whalesmarket.org
 wheelerr.shop
 whiteberidgepet.com
@@ -7643,6 +7647,7 @@ www.idcapps.life
 www.ifdgl.com
 www.imap.home.hostmaster.coingecko.hatsuqat.com
 www.imtoken-im.team
+www.interactivebrokerstrading.com
 www.interdigitalba.com
 www.interdigitalbc.com
 www.interdigitaldf.com
