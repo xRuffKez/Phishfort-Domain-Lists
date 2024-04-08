@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 04:01:57 UTC 2024
+# Fetch date: Mon Apr  8 05:02:01 UTC 2024
 # Number of Entries: 107711
 # Expires: 1 hour
 0-metemask.com
@@ -3072,7 +3072,6 @@ agoda.lovestoblog.com
 agoda.offer18239.com
 agoda.partner-extranet.info
 agoda.partner-extranet.life
-agoda.res94219.com
 agoda.resew-r.world
 agoda.shop
 agoda.take-t.top
@@ -4045,6 +4044,7 @@ ajiostores.com
 ajmanrecoveryservices.com
 ajudacef.com
 ajunadashboard.info
+ajxg.cc
 ak-coinbase.com
 ak-confirm.ml
 ak-traders.com
@@ -8185,6 +8185,7 @@ asxcoinmax.com
 asxcoinmaxs.top
 asxcoins.com
 asxcoins.net
+asxcoins.vip
 asxetkert.site
 asxex.com
 asxexchange.com
@@ -13936,7 +13937,6 @@ booking-agoda-hk.net
 booking-agoda-hotel.com
 booking-hotel-agoda.com
 booking-reward.nirvanaspahamam.com
-booking.agoda-checkout-id843753.com
 booking.pancakeswasap.one
 booking.pancokeswap.com
 booking.ro-plato.online
@@ -14370,6 +14370,7 @@ bridge.axie-infinitiy.com
 bridge.base.gy
 bridge.birdge-abrirtum.com
 bridge.blockscape.ink
+bridge.carier.xyz
 bridge.giveth.io
 bridge.hopethw.exchange
 bridge.infinityaxie.net
@@ -27528,7 +27529,6 @@ dplata.royalwebhosting.net
 dplopy.site
 dpp-brdge.firebaseapp.com
 dpp-brdge.web.app
-dpp-solution.firebaseapp.com
 dpp-solution.web.app
 dppbridge.firebaseapp.com
 dppbridge.web.app
@@ -97465,6 +97465,7 @@ www.asx-vips.com
 www.asx-vvip-exchange.com
 www.asxcion.com
 www.asxcions.com
+www.asxcoinic.com
 www.asxcrypto.net
 www.asxcryptoo.com
 www.asxhk7.com
@@ -103426,7 +103427,6 @@ www.vintaqe-myetherwallet.com
 www.vip-asx.com
 www.vippaxos.com
 www.vircomem.ro
-www.virginmoney.live
 www.virtualsafetysolutions.net
 www.vizagvanta.com
 www.vlaunch.org
