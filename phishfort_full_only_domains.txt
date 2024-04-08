@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 11:01:36 UTC 2024
-# Number of Entries: 107738
+# Fetch date: Mon Apr  8 12:02:01 UTC 2024
+# Number of Entries: 107731
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -10037,7 +10037,6 @@ babyobaby-promogive.com
 babypepe-claim.com
 babysantatoken-promogive.com
 babyschrodinger-promogive.com
-babyshlb.vip
 babysswap.com
 babysvap.com
 babysvvap.com
@@ -10533,7 +10532,6 @@ bangzoomonline.com
 bank-ai.org
 bank-eth.com
 bank.xql.vwp.mybluehost.me
-bankaigrouptemp.she.exc.mybluehost.me
 bankcor.network
 bankdapps.com
 bankdirect.acquia-demo.com
@@ -11619,7 +11617,6 @@ binance-testnet.site
 binance-token.com
 binance-tr.com
 binance-trade.com
-binance-tx.com
 binance-updates.com
 binance-validation.com
 binance-wallet.live
@@ -18776,7 +18773,6 @@ coinbygecko.com
 coincapitals.org
 coincash-exchange.com
 coincellerpro.site
-coinchange.uno
 coinchanger.live
 coincheck.online
 coinchek-login-wallet.cf
@@ -43528,7 +43524,6 @@ ledgerwallet.by
 ledgerwallet.cloud
 ledgerwallet.life
 ledgerwallet.top
-ledgerwallet.xyz
 ledgerwalletcom.com
 ledgerwalletg.com
 ledgerwalletrestore.com
@@ -49182,7 +49177,6 @@ metabnttyhntrs.xyz
 metabntyhntrs.new-mint.com
 metabolt.io
 metabountyhunters.fun
-metabountyhunters.nft-premint.com
 metabrewsociety.mint-airdrop.com
 metabridge-connect.com
 metabridger-wallet.com
@@ -78531,7 +78525,6 @@ shibasswaps.blogspot.com
 shibasuvvap.1gb.ru
 shibasvvap.co
 shibasvwap.us
-shibaswa.blogspot.com
 shibaswaap.com
 shibaswaaps.godaddysites.com
 shibaswap-ap.blogspot.com
