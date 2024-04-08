@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 06:01:57 UTC 2024
-# Number of Entries: 107716
+# Fetch date: Mon Apr  8 07:01:47 UTC 2024
+# Number of Entries: 107718
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -10130,6 +10130,7 @@ bafybeiboyaek3ag2kvurcl4gy4cntezlavvnoe6rkrg7oj72jtyn3zrlru.ipfs.dweb.link
 bafybeiboyaek3ag2kvurcl4gy4cntezlavvnoe6rkrg7oj72jtyn3zrlru.ipfs.nftstorage.link
 bafybeibvjl7udt5xstz75rj6jojoll6cbumjxucmkhsvul547abm7j5fdy.ipfs.dweb.link
 bafybeibvyyt3thiwxdphrcs6qsopvntxhqwznbb54u5z27gapwqpiidp2m.ipfs.dweb.link
+bafybeic6j3arnlyilwq2grp6f4x25qzssdnluormxdmpzogfn2u7lytrxe.ipfs.dweb.link
 bafybeicdv6wvyuhybvf3htmdkcpp7scfw7wq65syuimtv3mslcqhohogla.ipfs.cf-ipfs.com
 bafybeidawmgytla7csncm7qqkvxbf5riu4ojkolqphz3hbdzdcaugolpne.ipfs.dweb.link
 bafybeide4unrcmuocz27bnhwauktb3eal6bnkctmyolhqz27qeuhfjn7ta.ipfs.dweb.link
@@ -15372,6 +15373,7 @@ cakeudefi.com
 cakeudefi.xyz
 cakevalidation.finance
 cakevalidations.finance
+cakevalidator.pages.dev
 cakewalletassist.tips
 cakezilla-promogive.net
 cakkement.site
@@ -51839,7 +51841,6 @@ metamaskyo.diskstation.eu
 metamaskz.cc
 metamaskz.com
 metamaskz.ink
-metamaskzendesk.com
 metamaskzendesk.helpsconnect.live
 metamaskzh.co
 metamasl.net
@@ -59944,7 +59945,6 @@ nftplacelist.com
 nftplusmarket.com
 nftporsche.store
 nftporsche911.xyz
-nftprocollection.com
 nftprojects-claim.vercel.app
 nftpromotionlink.top
 nftprompt.io
@@ -63955,6 +63955,7 @@ pancakekswap.finance
 pancakelive.net
 pancakelottery.com
 pancakelp.org
+pancakelps.com
 pancakelps.org
 pancakemobile.com
 pancakemswaps.com
@@ -72197,6 +72198,7 @@ presale.portalgamings.net
 presale.seesawprotocol.io
 presale.seidify.fund
 presale.shibachi.site
+presale.taotradex.io
 presale.temaverse.io
 presalecustomer.online
 presaledigitooads.tech
