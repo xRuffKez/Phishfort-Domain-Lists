@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 17:02:48 UTC 2024
-# Number of Entries: 8146
+# Fetch date: Mon Apr  8 18:02:16 UTC 2024
+# Number of Entries: 8148
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -169,6 +169,7 @@ accepts-lnterweb.life
 access.bdc.support
 access.roninchain.app
 account-407etr.com
+account.cityindexinternational.com
 account407etr.com
 accounts.paxf-ful.com
 accountsportal.net
@@ -1245,6 +1246,7 @@ bridgevesting.com
 brldgeharmone.org
 brldgemantle.com
 brldgmantle.com
+broscogrp.com
 browserkitchen.com
 browsersextension.com
 brrc20.pro
@@ -2463,7 +2465,6 @@ exchanges-backpack.app
 exchangewenx.pro
 exclusive-blast.com
 expertsolver.pages.dev
-exploits-revoke.com
 exploremanta.pages.dev
 express-toll-route407.com
 express-tollroute407.com
@@ -2686,7 +2687,6 @@ gas-lido.com
 gasfeecal.com
 gayjoygo.com
 gcko.org
-gedprefeituraimbituva.com.br
 gemg.vercel.app
 gemlink.xyz
 gempad-app.xyz
@@ -4203,6 +4203,7 @@ metumasklgio.github.io
 metwamasnkus.azurewebsites.net
 metwamasus.azurewebsites.net
 metzhgofk.com
+mew.best
 mewwallet.cc
 mewwalletfix.pages.dev
 mfa-expiration-notification-authservices2fa.us-ord-1.linodeobjects.com
@@ -5215,6 +5216,7 @@ pcsfarm-v3.com
 pcsstake-v3.com
 pcwdf-hkteam.com
 pcyiocity.com
+pcylcalty.com
 pcylccity.com
 pcylcclty.com
 pcylocity.com
@@ -6347,6 +6349,7 @@ spornft.space
 sprak.fi
 sprooker.codefishstudio.com
 srmpool.xyz
+srsdistribution-us.com
 srtoos.com
 srxuznzcsy.nepialisen.tech
 ssly.vip
@@ -6865,6 +6868,7 @@ twilio-hr.com
 twt.multipuds.top
 txaq.cc
 ubnr.cc
+uehgdsa.com
 ueplestaret.com
 ufalmassuissat.com
 ufgw.top
@@ -6888,8 +6892,6 @@ unapatches.com
 unblock.pancakeswaapfinance.net
 unclaimeddrops.link-claiming.xyz
 unfi-mall.vip
-unfi.cc
-unfincs.com
 uni-swap-v4.web.app
 uni.mrr7.za.com
 uni.pro-coins.top
