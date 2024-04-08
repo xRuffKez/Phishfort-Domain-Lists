@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 02:08:57 UTC 2024
-# Number of Entries: 107695
+# Fetch date: Mon Apr  8 03:01:52 UTC 2024
+# Number of Entries: 107707
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6537,6 +6537,7 @@ app.validatenode.network
 app.validatorsync.com
 app.vapornodesfinance.org
 app.velodromefinance.site
+app.vertexprotocoi.com
 app.vouchnodes.net
 app.walletaccesslink.me
 app.walletauthfix.com
@@ -7026,6 +7027,7 @@ apr-vectorreserve.network
 apreth.com
 april.trade
 apriloracle-promogive.com
+aps.bifi-yleld.xyz
 apsonk.com
 apst-foundation.com
 apstos.com
@@ -8181,6 +8183,7 @@ asxcoinex.com
 asxcoinmax.com
 asxcoinmaxs.top
 asxcoins.com
+asxcoins.net
 asxetkert.site
 asxex.com
 asxexchange.com
@@ -8883,6 +8886,7 @@ avaxleanch.com
 avaxnetworkwallet.com
 avaxsales.net
 avaxswap.xyz
+avaxtoken.pro
 avaxwalletnetwork.life
 avaxwebwallet.com
 avaxweekly.com
@@ -17372,6 +17376,7 @@ claim.wallstmmemmes.com
 claim.wallstretmemes.app
 claim.wbtccoin.org
 claim.wen.ag
+claim.wormhole.fitness
 claim.xn--optimsm-ffb.net
 claim.xn--optmism-tfb.net
 claim.xn--optmsm-yvab.net
@@ -37909,6 +37914,7 @@ helpdesk86.ru
 helpdeskcoinvalidaton.com
 helpdesksupportaxieinfinity.com
 helpdeskwallet.io
+helpdoc-avalache.online
 helpforuneployment.com
 helpfulevilmigration--hrefyto.repl.co
 helpinghandic.com
@@ -59464,6 +59470,7 @@ new.ethiner.xyz
 new.farepath.club
 new.joss-home.com
 new.kinzxkclub.xyz
+new.nugpoint.com
 new.pancakeswape.finance
 new.pancakeswaps.it
 new.pancakeswasap.one
@@ -80927,6 +80934,7 @@ springbridge.website
 springsinternational.org
 sprintswap.io
 spritz.expert
+sprooker.codefishstudio.com
 spsaceid.com
 spskelliesgroup.com
 spskelonline.com
@@ -81216,6 +81224,7 @@ stakes-lid0.online
 stakes-pancakeswap.art
 stakes-pancakeswap.com
 stakesteth.app
+stakestone.iostone.lodhapetro.com
 stakestone.mom
 stakestone.site
 staketesla.net
@@ -84910,6 +84919,7 @@ the-waletconnect.xyz
 the-walletconnect.cloud
 the-webex.com
 the-worldcoin.org
+the-wormhole.buzz
 the.teknologihp.com
 the1336coachpopcollection.xyz
 the4hrtrader.finance
@@ -90814,6 +90824,7 @@ vietnamtiktok.com
 vietnamtiktok.shop
 view-wallel.info
 view.lamz-group.life
+view.nugpoint.com
 view.wormmap.xyz
 vifbit.com
 vikingglobal.linejoinus.com
@@ -99527,6 +99538,7 @@ www.help.issueresolve.org
 www.help.pancakeswape.finance
 www.helpcenter-opensea.io
 www.helpdeskchain.online
+www.helpdoc-avalache.online
 www.hep.jsgoodjx.com
 www.hex-events.site
 www.hex-protocol-staking.com
