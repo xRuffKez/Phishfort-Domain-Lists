@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 00:05:11 UTC 2024
+# Fetch date: Mon Apr  8 01:23:48 UTC 2024
 # Number of Entries: 107695
 # Expires: 1 hour
 0-metemask.com
@@ -51566,6 +51566,7 @@ metamasksi.com
 metamasksinfo-supportaccount.yincobase.shop
 metamasksio.click
 metamasksio.life
+metamasksio.xyz
 metamasksite.live
 metamasksj.com
 metamasksl.com
@@ -74119,7 +74120,6 @@ re-voke.cash
 re-voke.org
 reachedoutseveral.com
 reachsei.delivery
-react-dapp-v2-with-ethers.vercel.app
 reactbridgedaps.com
 reactiv8vystarcu.cfd
 reactivatevalidqr.live
