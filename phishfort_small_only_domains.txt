@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 02:09:32 UTC 2024
-# Number of Entries: 8250
+# Fetch date: Mon Apr  8 03:02:31 UTC 2024
+# Number of Entries: 8251
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -671,6 +671,7 @@ app.stringwebtools.com
 app.swellnetwork.fi
 app.trezoriosstart.com
 app.unsiwap.us.com
+app.vertexprotocoi.com
 app.walletguard.cloud
 app.xn--1nch-qpa.io
 app.zenomedequipment.com
@@ -727,6 +728,7 @@ appvirtuals.webcindario.com
 appweb3.site
 appzlink.com
 apr-vectorreserve.network
+aps.bifi-yleld.xyz
 apt-project.com
 apt.500-web3.top
 apt.drop-fund.top
@@ -820,6 +822,7 @@ asxcoinbr.com
 asxcoincm.com
 asxcoinco.com
 asxcoind.com
+asxcoins.net
 asxmx.cc
 asxstockexchange.com
 asxxdvv.a1sasset.org
@@ -872,6 +875,7 @@ avax-gains.xyz
 avax-swap.com
 avax.pm
 avaxdrop.org
+avaxtoken.pro
 avito.pay.pancakeswap.reid4deeds.com
 awesomestrawberry.za.com
 awrm.xyz
@@ -1046,7 +1050,6 @@ binnance.app
 biraxy.xyz
 birbmigrate.live
 birdeye-ya3sbou-frontned.onrender.com
-birdeye.claims
 birdeye.trading
 biscottiboyzca.com
 biswap-exchange.top
@@ -1522,7 +1525,6 @@ claim.bitetfs.net
 claim.celatisx.top
 claim.chainngpt.com
 claim.cibzdackz.xyz
-claim.cybzducks.lol
 claim.dydxexchang.com
 claim.dymensionall.club
 claim.get-ton.com
@@ -1546,6 +1548,7 @@ claim.spazecommune.com
 claim.spongeonerc.com
 claim.wallstretmemes.app
 claim.wen.ag
+claim.wormhole.fitness
 claim.zeta.chain.wb3ox.xyz
 claim.zetachain.wb3s.xyz
 claim.zetachain.wb3u.xyz
@@ -2111,7 +2114,6 @@ digitdef.com
 digitoads.cc
 dintransac.org
 dioneprotocol.tech
-dioneprotocol.trading
 dioneprotocols.online
 direct.swmhector.shop
 directclaimzerion.pages.dev
@@ -2644,7 +2646,6 @@ framefundnetwork.net
 framegovernance.net
 framegovernanceforum.net
 frameinnovationlab.net
-framemainnetcountdown.com
 framemainnetcountdown.net
 framemarketupdate.com
 framemarketupdate.net
@@ -2961,6 +2962,7 @@ help-avalanche.site
 help-docs-gmx.info
 help-tiktok.com
 help.fixingerror.io
+helpdoc-avalache.online
 helpforuneployment.com
 helpinghandic.com
 helpmetamask.xyz
@@ -3395,7 +3397,6 @@ l1cloudhaut.com
 l2-blast.buzz
 l2-blast.io
 labs.pixelmon.tech
-lackizhamsterz.com
 lakesldecontrols.com
 landverify.xyz
 largedrop.com
@@ -3962,7 +3963,6 @@ maplestorysuniverse.io
 maqiceden.web.app
 marinadefinance.claims
 market-place-bids.com
-marketcap-coins.com
 marketpalcestatus.com
 marketpharmacy.com
 marketplace-listings.com
@@ -4631,6 +4631,7 @@ new.babbara.xyz
 new.blockchainbets-vault.com
 new.ethiner.xyz
 new.farepath.club
+new.nugpoint.com
 new.popeysm.lol
 new.popeysm.xyz
 new.stonlix.club
@@ -4754,7 +4755,6 @@ node-connect-walethub.pages.dev
 node-miner-collector.pages.dev
 nodebug.vercel.app
 nodechains.pages.dev
-nodemonkeys.events
 noderesolver.io
 noderevive.com
 nodesrectification.com
@@ -6179,7 +6179,6 @@ seedfry.com
 seedifyfund.click
 seedifyfund.co
 seedifyfunds.app
-seediify.site
 seedlfy.netlify.app
 segurototal2024.com
 sei-io.web.app
@@ -6399,7 +6398,6 @@ sonikchain.pages.dev
 sophon-registrations.com
 soundbridge.click
 space-catch.web.app
-space.skillizgroup.xyz
 spaceid.claiming-link.live
 spaceid.connect-claiming.icu
 spaceld.cyou
@@ -6436,6 +6434,7 @@ spookyswap.hpage.com
 spookyswp.github.io
 spornft.space
 sprak.fi
+sprooker.codefishstudio.com
 srmpool.xyz
 srtoos.com
 srxuznzcsy.nepialisen.tech
@@ -6465,6 +6464,7 @@ stake.nobodynfts.today
 stakeamnis.finance
 stakefloki.com
 stakeiand.com
+stakestone.iostone.lodhapetro.com
 stakestone.mom
 stakestone.site
 stakewise.li
@@ -6693,7 +6693,6 @@ taiko.io-c.org
 taiko.org-t.co
 taikoxyz.com
 tamadoge.top
-tamadoge.trastpad-event.top
 tamairdrop.netlify.app
 taob-ai.com
 taodan2014.com
@@ -6752,6 +6751,7 @@ the-ethereum-trader-app.net
 the-lido.info
 the-one-staking.cc
 the-one-staking.com
+the-wormhole.buzz
 theabcroofing.com
 thebaycompany-ca.com
 thebaysc.com
@@ -7152,6 +7152,7 @@ viacripto.com
 victorianwoodsstudio.com
 vietnamtiktok.com
 vietnamtiktok.shop
+view.nugpoint.com
 view.wormmap.xyz
 vikingglobal.linejoinus.com
 viplatii.online
@@ -7732,6 +7733,7 @@ www.healthequity.click
 www.healthequitylogin.org
 www.hellofurther.pro
 www.help.issueresolve.org
+www.helpdoc-avalache.online
 www.holdblur.foundation
 www.hustlegenix.crd.mvu.mybluehost.me
 www.iayerzero-claim.net
@@ -7912,7 +7914,6 @@ www.revoke.expert
 www.revokecash.store
 www.revokecash.us
 www.revokecontract.xyz
-www.revokewallets.cash
 www.revsharepalmai.com
 www.reward-wenwen.com
 www.rmkrbridge.app
