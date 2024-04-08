@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 03:01:52 UTC 2024
-# Number of Entries: 107707
+# Fetch date: Mon Apr  8 04:01:57 UTC 2024
+# Number of Entries: 107711
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1468,6 +1468,7 @@
 6vvwwuniswap.top
 6wh8.com
 6wo.qunkong123.com
+6wt7zwf.pro
 6wuniswap.top
 6wvvroninwallet.top
 7-collab-land.pro.1-collab-land.pro
@@ -15229,6 +15230,7 @@ byexbit.com
 bynvs.blogspot.com
 byopiills.xyz
 byopillsnft.xyz
+bypf8bm.pro
 byrdie.site
 byss163.website
 bytedog.pro
@@ -22746,6 +22748,7 @@ dabbepimi.tk
 dabbsvalidate.live
 dablindom.site
 dabonk-home.online
+dac2yur.cc
 dacantrel-gomas.com
 dacarlaw.com
 dacatnrei-games.com
@@ -58832,6 +58835,7 @@ mysteryboxnow.vercel.app
 mysteryboxv1.vercel.app
 mysteryboxvp.vercel.app
 mysteryclaim74.vercel.app
+mysteryclaims37g.vercel.app
 mysteryclaimsnft.vercel.app
 mysteryclicks23.vercel.app
 mysteryclicks81.vercel.app
