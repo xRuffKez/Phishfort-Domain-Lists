@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 05:02:01 UTC 2024
-# Number of Entries: 107711
+# Fetch date: Mon Apr  8 06:01:57 UTC 2024
+# Number of Entries: 107716
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -13937,6 +13937,7 @@ booking-agoda-hk.net
 booking-agoda-hotel.com
 booking-hotel-agoda.com
 booking-reward.nirvanaspahamam.com
+booking.agoda-checkout-id843753.com
 booking.pancakeswasap.one
 booking.pancokeswap.com
 booking.ro-plato.online
@@ -63890,6 +63891,7 @@ pancakedrop.click
 pancakedrop.com
 pancakedrop.live
 pancakedrop.pw
+pancakedrops.com
 pancakedwallet.com
 pancakedwallets.com
 pancakedwap.com
@@ -64248,6 +64250,7 @@ pancakeswaap.com
 pancakeswaap.digital
 pancakeswaap.financial
 pancakeswaap.help
+pancakeswaap.in
 pancakeswaap.info
 pancakeswaap.net
 pancakeswaap.network
@@ -81165,6 +81168,7 @@ stake.axiainfinty.com
 stake.axs-infinity.me
 stake.axsinfinitty.com
 stake.axsinfinity.info
+stake.emeraldsco.org
 stake.fish-eth.com
 stake.givesback.co
 stake.kraken-protocol.com
@@ -85202,6 +85206,7 @@ theprojectmainnet.live
 thepunkscoin.com
 therammaninc.com
 therepairer.center
+thereum.pages.dev
 theri-se.com
 theriive.com
 therizalnewsweek.com
