@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 18:01:35 UTC 2024
-# Number of Entries: 107746
+# Fetch date: Mon Apr  8 19:01:31 UTC 2024
+# Number of Entries: 107750
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -16735,6 +16735,7 @@ circleusds.org
 circlevoucher.net
 circlezcommunity.xyz
 circlzgroup.xyz
+circuloargo.net
 cirdonsmail.store
 cirle.top
 cirsaccess.com
@@ -32235,6 +32236,8 @@ excrewoffersonline.com.ng
 exdrainer5.site
 exeed-me.online
 exentionen.info
+exhibitus-inc.com
+exhibitusinc.com
 exieinfinity.com
 exiodus.org
 exitlag-supports.pro
@@ -63935,6 +63938,7 @@ pancakefinance.deynsp.com
 pancakefinance.online
 pancakefinance.pro
 pancakefinance.space
+pancakefinances-swap.pages.dev
 pancakefinances.org
 pancakefinancesawp.app
 pancakefinanceswap.app
