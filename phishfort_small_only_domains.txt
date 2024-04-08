@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 13:02:17 UTC 2024
-# Number of Entries: 8141
+# Fetch date: Mon Apr  8 14:02:10 UTC 2024
+# Number of Entries: 8142
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -170,6 +170,7 @@ access.bdc.support
 access.roninchain.app
 account-407etr.com
 account407etr.com
+accounts.paxf-ful.com
 accountsportal.net
 accountsvalidator.com
 acefusionist.network
@@ -3507,7 +3508,6 @@ link-portal.app
 link-vulcan.xyz
 link.ganador-airtm.com
 link.gatekava.xyz
-link.hm24.no
 link.kava-api.live
 link.kavaguard.digital
 link.kavaguard.support
@@ -3655,6 +3655,7 @@ mail.panckswap.com
 mail.pepegift.lol
 mail.startest.duckdns.org
 mail.swapsnet.com
+mail.tickets.atelierfain.ro
 mail.xn--pncakeswap-3gb.com
 mail046.mlsend.com
 mailclaimdmail.xyz
@@ -4581,7 +4582,6 @@ news.crypinfotoday12.info
 newsupport.alkhaleej.com.sa
 newtradedex.pages.dev
 newtresures-manta.network
-newwhitelistdex.pages.dev
 newwhitelistradar.pages.dev
 newyorkmangame.com
 newyorkplasmacenters.info
@@ -7855,6 +7855,7 @@ www.stakeyearn.fi
 www.staking-eigenpie-magpiexyz.77clube.com
 www.staking-zircuit-network.724koli.com
 www.stakingritestream.io
+www.starknet.pro.in
 www.swap-blast.finance
 www.swap-omax.pro
 www.swisroger.net
