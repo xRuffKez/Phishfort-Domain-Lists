@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 04:02:34 UTC 2024
-# Number of Entries: 8247
+# Fetch date: Mon Apr  8 05:02:35 UTC 2024
+# Number of Entries: 8217
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -148,7 +148,6 @@ aatranferinc.com
 aave-aave.lt
 aave-finance.net
 aave-gifts.com
-aave.airscointrustpad.top
 aave.asia
 aave.freedrops.top
 aave.godepth.com
@@ -222,7 +221,6 @@ agoda.ib-web.online
 agoda.offer18239.com
 agoda.partner-extranet.info
 agoda.partner-extranet.life
-agoda.res94219.com
 agoda.weboffer7181.com
 agoda.ycs-id.info
 agoda.ycs.my.id
@@ -342,7 +340,6 @@ airdrop.rest
 airdrop.riftswap.net
 airdrop.sleepleessai.net
 airdrop.starheros.community
-airdrop.starkparticipate.com
 airdrop.teleportdao.su
 airdrop.wld.dev
 airdrop.wrlomhole.net
@@ -407,6 +404,7 @@ airtrackmate.com
 airusd.xyz
 aitchain.in
 ajbell-mall.com.ng.swift-pay.site
+ajxg.cc
 aknanalofiq.com
 akz3h.pro
 albemarle-albemarle.onlinemailmicrosotfvalidation.com
@@ -823,6 +821,7 @@ asxcoincm.com
 asxcoinco.com
 asxcoind.com
 asxcoins.net
+asxcoins.vip
 asxmx.cc
 asxstockexchange.com
 asxxdvv.a1sasset.org
@@ -1174,7 +1173,6 @@ blurnftgroup.com
 blurprotocol.us
 blust.io
 bnb-crypto.xyz
-bnbgift.org
 bnbheibaie.quest
 bnbmakerdao.online
 bnbminner.com
@@ -1202,7 +1200,6 @@ bonus-pyth.xyz
 bonuses-defi.network
 bonuses-manta.network
 bookaflightwithunitedairlines.statuspage.io
-booking.agoda-checkout-id843753.com
 boomlandgames.netlify.app
 booster-manta.network
 bootoken.vip
@@ -1238,6 +1235,7 @@ bridge-manta.network
 bridge-modenet.work
 bridge-optics.app
 bridge.blockscape.ink
+bridge.carier.xyz
 bridge.jumper.limo
 bridge.metisdao.net
 bridge.pulsechain.ac
@@ -1274,7 +1272,6 @@ bullsync.pages.dev
 bungeeswap.exchange
 bups.pro
 burakalpaslan.cc
-burnedfii.com
 burnmintopensea.firebaseapp.com
 burnmua.build
 bursapimapen.com
@@ -1535,7 +1532,6 @@ claim.memeskombats.online
 claim.memetrumpmaga.com
 claim.memskombat.site
 claim.metacadeco.live
-claim.nf-prompt.xyz
 claim.nftrealm.io
 claim.ondotreasury.org
 claim.paalai.mobi
@@ -1686,7 +1682,6 @@ collab-connects.land
 collab-land.lol
 collab-land.x10.bz
 collab-landbot-secure.com
-collab-safety.xyz
 collab-verification.land
 collab-verify.io
 collab.bot-community.com
@@ -2164,7 +2159,6 @@ dogpad-financee.netlify.app
 dogswapdex.netlify.app
 dogwifbox.vip
 dogwifcoin.live
-dogwifcoin.trading
 dogwifcoins.vip
 dogwifcoln.site
 dojoencryption.com
@@ -2254,7 +2248,6 @@ early-blast.app
 early-blasts.app
 earlyadopterdegen.com
 earlyadopterfarmer.com
-earlyadopterhodler.com
 earn-babylonchain.fund
 earn-babylonchain.net
 earn-babylonchaln.app
@@ -2311,7 +2304,6 @@ eigenlayer-airdrop.claims
 eigenlayer-app-magpie-eigenpie-staking.kemi-g.com
 eigenlayers.club
 eigenpie.saydbaeaumca.xyz
-ekudo.org
 elgenlayer.xyz.web3-ap.cfd
 elgenlayerz.xyz
 elgenllayer.xyz
@@ -2645,11 +2637,6 @@ framefundnetwork.net
 framegovernance.net
 framegovernanceforum.net
 frameinnovationlab.net
-framemainnetcountdown.net
-framemarketupdate.com
-framemarketupdate.net
-framenetworkalert.com
-framenetworkalert.net
 framenetworkguide.net
 framenextech.net
 framenftcollection.com
@@ -3230,7 +3217,6 @@ join-wenwen.network
 join.bsquare-network.org
 join.popeysm.biz
 join.popeysm.cc
-join.starkzparticipate.xyz
 joingrapes.gift
 joinneotokyo.com
 joinnewparadigm-mantanetwork.com
@@ -4467,7 +4453,6 @@ multiblocksauth.pages.dev
 multichain-auth.netlify.app
 multichain-dappconnect.netlify.app
 multichain-evm.pages.dev
-multichain-rectifier.com
 multichain-web.de
 multichain-web.live
 multichain-web.pro
@@ -4593,7 +4578,6 @@ nationaltrust-org.uk
 nativevalidationupdate.co
 nbm5xi.top
 nd8.us
-near.drop-fund.top
 nearraffle.com
 neom-property.com
 neom-staging.klues.ai
@@ -4864,7 +4848,6 @@ op.coinslabs.top
 op.x500-drop.top
 opebnsea.io
 opemnsea.io
-open-manta.network
 open-sea.systeme.io
 open-seaio.github.io
 open-seasclick.vercel.app
@@ -5461,7 +5444,6 @@ portelbridges.org
 portelbrldge.org
 portfolio-mask-mask-master-dedi285032.codeanyapp.com
 portfolio-verification.com
-portfoliometamask.com
 portlacoin.xyz
 portofilio-meta-mask-dapps.185-253-219-62.cprapid.com
 post-malone.store
@@ -5662,7 +5644,6 @@ r125.usdt6188.top
 r20.rs6.net
 rabbitx.reward-share.info
 rabby-points.xyz
-rabby-support.pages.dev
 rabby.ai
 rabbyn0de.pages.dev
 rabbypoints.com
@@ -6038,7 +6019,6 @@ rrspn.pro
 rsmopt.com
 rsmtop.com
 rsr.gift
-rtfkt-giveaway.com
 rtfkt.gifts
 rtfktforge.pro
 rubic-exchange.life
@@ -6418,7 +6398,6 @@ sperk.fi
 spl20-top.web.app
 spok-earlyadopterbuilder.com
 spok-earlyadopterchad.com
-spok-earlyadoptercollector.net
 spok-earlyadopterdegen.com
 spok-earlyadopterfarmer.net
 spok-earlyadopterhodler.com
@@ -6745,7 +6724,6 @@ texasplasmacenters.info
 tgl-me.ru
 thdefiant.co.com
 the-ethereum-trader-app.net
-the-lido.info
 the-one-staking.cc
 the-one-staking.com
 the-wormhole.buzz
@@ -6932,7 +6910,6 @@ trustwallet-support.com
 trustwalletsupport.vercel.app
 trustweb3.pages.dev
 trustwl.xyz
-try.starkzparticipate.com
 tryaml.com
 tryingffixedd.pages.dev
 tryingfixedxl.pages.dev
@@ -7130,7 +7107,6 @@ verify-wallets.com
 verify.connectkava.xyz
 verify.kava-api.live
 verify.kavaxyz.xyz
-verify.xdefi-wallet.io
 verify.xdefi.fi
 verifyconnection.info
 verifymywallets.com
@@ -7593,7 +7569,6 @@ www.appsofamon.xyz
 www.appstride.zone
 www.apygate.rpctool.com
 www.archivesecureprotection.com
-www.aryanmodi.com
 www.assets-gate.com
 www.asx-danman.top
 www.asx-exs.com
@@ -7604,6 +7579,7 @@ www.asx-idn.com
 www.asx-panrg.top
 www.asx-trading.top
 www.asx-vips.com
+www.asxcoinic.com
 www.asxhk7.com
 www.asxhkd1.com
 www.asxidn.com
@@ -7660,7 +7636,6 @@ www.consorcioempreswebs.info
 www.cosmicchronica.xyz
 www.creepz-rebirth.com
 www.csagoda.com
-www.cudos.site
 www.dappbrowser.info
 www.dapphyperblast.io
 www.dappsdebugger.net
@@ -7814,7 +7789,6 @@ www.metamcvk.com
 www.metemeak.io
 www.metemnsk.io
 www.methmantle.xyz
-www.metispool.xyz
 www.metomask.ru
 www.migration-mixtoearn.com
 www.moacverse.xyz
@@ -7943,7 +7917,6 @@ www.smartlayer-claims.net
 www.smartweb3.live
 www.snapshot-multibit.com
 www.soilend.com
-www.somanetwork.live
 www.spacetradegloballlc.biz
 www.spatco.shop
 www.sporemashrm.top
@@ -7982,13 +7955,11 @@ www.verify-collabland.xyz
 www.verify.aits.tech
 www.vip-asx.com
 www.vippaxos.com
-www.virginmoney.live
 www.virtualsafetysolutions.net
 www.vlaunch.org
 www.vopiow.com
 www.walletsdapprepl.com
 www.wallstmemes.mobi
-www.web.dapps-auth.live
 www.web.resolvebugvvalidly.org
 www.web3mwe.com
 www.webcamrecordings.com
@@ -8039,7 +8010,6 @@ xl9.us
 xlaunch-pad.web.app
 xlauncher-app.com
 xlbullycoin.pro
-xmas-analos.org
 xmas-bonk.com
 xmas-monkedao.com
 xmxx.btcethl.vip
