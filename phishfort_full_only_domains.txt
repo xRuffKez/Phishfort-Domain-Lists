@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 12:02:01 UTC 2024
-# Number of Entries: 107731
+# Fetch date: Mon Apr  8 13:01:42 UTC 2024
+# Number of Entries: 107733
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -44241,6 +44241,7 @@ link-whitelist.com
 link.conect-access.com
 link.ganador-airtm.com
 link.gatekava.xyz
+link.hm24.no
 link.kava-api.live
 link.kavaguard.digital
 link.kavaguard.support
@@ -79096,6 +79097,7 @@ skinsportz.com
 skinwallet.se.net
 skinwallet.uk.com
 skinwportn.com
+skipton-login.com
 skizportt.com
 sklpool.site
 skriibanduo.live
