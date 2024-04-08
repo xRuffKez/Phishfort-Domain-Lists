@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 07:02:13 UTC 2024
-# Number of Entries: 8146
+# Fetch date: Mon Apr  8 08:02:30 UTC 2024
+# Number of Entries: 8143
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -899,6 +899,7 @@ azukiairdrop.netlify.app
 aîrtm.com
 b2xb.pro
 ba.inletuta.online
+babydoge-app.xyz
 babydogswap.com.web-app3.cfd
 babygrok-ai.com
 babygrok-ai.top
@@ -936,6 +937,7 @@ bananangun.app
 bancontact.pay-startauth.com
 bancontact.startauth-pay.com
 bang-blast.io
+bank-ai.org
 bankinging.com
 bankless-claims.net
 banklessdrop.coinsupportlive.com
@@ -1571,7 +1573,6 @@ claimstrk.today
 claimstrk.xyz
 claimtrumx.xyz
 claimvoucher2.glitch.me
-claimwif.com
 clark-constructions.org
 clarkcorstruction.com
 clarkgroup-us.co
@@ -1879,7 +1880,6 @@ dappintegration.com
 dappkaavaa.netlify.app
 dapplaunchpad.live
 dappmainhub.pages.dev
-dappmigratechain.com
 dappnetsfp.com
 dapppaxos.co
 dapprad.net
@@ -2023,9 +2023,7 @@ defifix.pages.dev
 defihug.online
 defiilama.eu
 defilama.eu
-defilayers.org
 defimanta.net
-defimigration.com
 defimining101.com
 defiportfolio.online
 defiproject.info
@@ -4885,9 +4883,10 @@ oravblox.com
 orb-wallets.web.app
 orbiter.financial
 orchai.live
+orchai.org
+orchapp.com
 ordbridge.app
 ordiboardfusion.pages.dev
-ordiswapfi.pro
 ordiswaps.com
 ordiswaps.fi
 ordivalifusion.pages.dev
@@ -5236,6 +5235,7 @@ pendlenetwork.com
 pendlepool.xyz
 pengsolana.co
 pengsolana.org
+penguinrandomh0use.com
 penguinrandomhouseglobal.com
 penguinrandomhouseofficial.com
 penguinrandomhouseworldwide.com
@@ -5371,7 +5371,6 @@ ponke.online
 pool-liquidfarm.com
 pool-nftbox.web.app
 poolstarter.net
-pop3.www.api.swell-network.io
 popsync.pages.dev
 porallll.pages.dev
 porkcoin-airdrop.com
@@ -5481,7 +5480,6 @@ punkbits-airdrop.xyz
 punkbits.org
 punkbits.xyz
 pushd.mainnetpro.com
-pussyfinancial.live
 putffer.fi
 pvth-network.com
 pwe-limited.com
@@ -5972,7 +5970,6 @@ rx-nt.duckdns.org
 rz7wjw.info
 s-app-reaktivieren.su
 s-pookyswap.org
-s0ra.info
 s7w0ymu.top
 saaksoff5th.com
 safe-nodebrigde.online
@@ -6326,7 +6323,6 @@ spacexbonus.live
 spadaro.id.au
 spark-claim.org
 sparkcircuit.shop
-sparkfi.app
 sparkfi.net
 sparkfi.org
 sparkfi.tech
@@ -6449,6 +6445,8 @@ stepnboxx.netlify.app
 stepnconnectactivation.pages.dev
 stepnfree.netlify.app
 stepstaking.app
+steth-pool.com
+steth-shares.com
 steth.tiiny.site
 stethers.com
 stethlido.win
@@ -6533,6 +6531,7 @@ swap.dikecoin.net
 swap.pancake.us.com
 swap.pancake.us.org
 swapcake.cc
+swapdacake.com
 swapdao.app
 swapdly.javaswap.io
 swapify.exchange
@@ -6681,6 +6680,7 @@ theemiriatesgroupuae.com
 theemriatesgroup.online
 thefamiilytoken.com
 thefamilytokens.vercel.app
+thegamehubs.org
 themodenetwork.com
 thepepe20.com
 theplasmacenter.info
@@ -6805,7 +6805,6 @@ tradeviewtoken.xyz
 tradinglabs.app
 trafalpo-maniar.com
 tramertoe.top
-travalaai.live
 travel.quickflightbooking.online
 travelistik.de
 travisflahertyscam.com
@@ -6861,7 +6860,6 @@ tuckeracousstical.com
 tulip-app.one
 tvl-chain.link
 twilio-hr.com
-twolandstoken.live
 twt.multipuds.top
 txaq.cc
 ubnr.cc
@@ -8063,7 +8061,6 @@ zetachains.app
 zetaclaim.pages.dev
 zetaswap.cm
 zetawil.com
-zhunihaoyun.info
 zimlndustries.com
 zircuit-app.one
 zircuit-app.org
