@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 18:02:16 UTC 2024
-# Number of Entries: 8148
+# Fetch date: Mon Apr  8 19:02:04 UTC 2024
+# Number of Entries: 8151
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1440,6 +1440,7 @@ ciaiming.com
 ciel-tower.ae
 ciel-tower.goldpillars.ae
 cieltower.net
+circuloargo.net
 cirle.top
 cirsaccess.com
 ciscoconnecctt.com
@@ -2464,6 +2465,8 @@ exchangeros.com
 exchanges-backpack.app
 exchangewenx.pro
 exclusive-blast.com
+exhibitus-inc.com
+exhibitusinc.com
 expertsolver.pages.dev
 exploremanta.pages.dev
 express-toll-route407.com
@@ -3566,7 +3569,6 @@ localethereum.xn--node
 locopepecoin.com
 locus-finance.web.app
 login--blockgames.com
-login-cisco.tech
 login-frame.xyz
 login-metamaskwallet.ddnss.eu
 login.cw1.ir
@@ -4977,6 +4979,7 @@ pancakedrops.com
 pancakeeswap.com
 pancakeeswap.finance
 pancakefiance.org
+pancakefinances-swap.pages.dev
 pancakefx.vercel.app
 pancakelp.org
 pancakelps.com
