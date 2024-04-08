@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 10:02:00 UTC 2024
-# Number of Entries: 107736
+# Fetch date: Mon Apr  8 11:01:36 UTC 2024
+# Number of Entries: 107738
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3180,6 +3180,7 @@ ahinteligence.com
 ahmetiwealth.com
 ahora-ingres-aca.netlify.app
 ahviator-game.click
+ai-chatbot.ae
 ai-dapp.pages.dev
 ai-datarobot.life
 ai-datarobot.top
@@ -80774,6 +80775,7 @@ spar.shopping
 sparc.pro
 spark-claim.org
 sparkcircuit.shop
+sparkfi.app
 sparkfi.net
 sparkfi.org
 sparkfi.tech
