@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 08:02:30 UTC 2024
-# Number of Entries: 8143
+# Fetch date: Mon Apr  8 09:02:28 UTC 2024
+# Number of Entries: 8138
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -513,7 +513,6 @@ animalias.events
 ankr.world
 ap-paymentreceipts.com
 ape-pylh.network
-ape.airscointrustpad.top
 apechainreload.com
 apecoin-aidrop-claim.codeanyapp.com
 apecoin-airdrop-claim-pooldrop.codeanyapp.com
@@ -553,7 +552,6 @@ api32-altidentifier.com
 api8-vulcan.com
 apicollab.land
 apid.tiktokcz.com
-apisyncdapp.live
 apisynchronizer.live
 apkdownload.com
 apn.com.np
@@ -1103,7 +1101,6 @@ blast-drop.space
 blast-drop.tech
 blast-drop.website
 blast-io.pro
-blast-l2.club
 blast-l2.dev
 blast-layer.web.app
 blast-newsletter.com
@@ -2873,7 +2870,6 @@ handshakehns.web.app
 hannaanderssonkids.com
 happyskellies.com
 hashbnb.com
-havas-aso.com
 haven1.vercel.app
 hbar-distribution.com
 hca-healthcare.com
@@ -5204,7 +5200,6 @@ paylocity-sso.com
 paylooity.com
 payment-etr407.com
 payment407etr.com
-payments-407etr.com
 payrollfrommyhel.com
 paytoll-407etr.com
 paywithpicoinnetwork.com
