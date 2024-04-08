@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 06:02:40 UTC 2024
-# Number of Entries: 8203
+# Fetch date: Mon Apr  8 07:02:13 UTC 2024
+# Number of Entries: 8146
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -360,7 +360,6 @@ airdropmantaexchange.com
 airdropmantanet.com
 airdropmantanet.net
 airdropmantanet.org
-airdropmantanetchain.net
 airdropmantapacific.net
 airdropmantatoken.com
 airdropmetamask.xyz
@@ -921,6 +920,7 @@ bafybeiacdlff4jtqcufouraliealwkunukjhozwiy7mdojmsq45xzswlri.ipfs.dweb.link
 bafybeianm7lllm6v2rpyuah5gzsh22gxfikab5ie3xei6f2n3ngfvsx524.ipfs.dweb.link
 bafybeiaqyixakyqz7ywj3o6yeug5bsxp5fro6s55uh32j4mmhrdrjgsluq.ipfs.dweb.link
 bafybeiar2pi2heiwfhdlbrulhqyy5oen5k2xx767xss7d5slu5rt3tdpia.ipfs.dweb.link
+bafybeic6j3arnlyilwq2grp6f4x25qzssdnluormxdmpzogfn2u7lytrxe.ipfs.dweb.link
 bafybeicdv6wvyuhybvf3htmdkcpp7scfw7wq65syuimtv3mslcqhohogla.ipfs.cf-ipfs.com
 bafybeihbzllhmou7v2n5voxg3ldvflwmzzqwnb4zc4kani4onqpdj2gb7m.ipfs.dweb.link
 bag-holding.web.app
@@ -950,7 +950,6 @@ basedbrett.xyz
 baseswaap.top
 batmansol.com
 baycarepatientportal.net
-bazename.lol
 bbexpro.xyz
 bbl-get.com
 bbsyncs.pages.dev
@@ -1317,6 +1316,7 @@ cakeswp.app
 cakeudefi.biz
 cakeudefi.com
 cakeudefi.xyz
+cakevalidator.pages.dev
 calestis.info
 call-center-agoda.online
 camaroterj-ticketm.online
@@ -1548,7 +1548,6 @@ claim.zkskull.com
 claim.zksnyc.in
 claim5-connect.live
 claimairdropsaga.xyz
-claimbonk.xyz
 claimdrop.laag.site
 claimdymension.xyz
 claimether.finance
@@ -1842,7 +1841,6 @@ cyberlama.app
 cyberx-staging.vercel.app
 d.moodysmfof.top
 d0cusiqn.hottern.click
-d3-shib.app
 d394f31195472c.net
 d7bjeie8jevolt5j.pdqptpohlhxle6.ru
 da2m088c.site
@@ -1882,7 +1880,6 @@ dappkaavaa.netlify.app
 dapplaunchpad.live
 dappmainhub.pages.dev
 dappmigratechain.com
-dappmobilewallet.com
 dappnetsfp.com
 dapppaxos.co
 dapprad.net
@@ -2212,8 +2209,6 @@ dymeansion.io
 dymension-approval.netlify.app
 dymension-claim.netlify.app
 dymension-claimdappstoolkit.pages.dev
-dymension-genesis.com
-dymension-genesisapp.com
 dymension.claims
 dymension.eu
 dymension.financial
@@ -2221,7 +2216,6 @@ dymension.netlify.app
 dymension.pages.dev
 dymensiondrop.com
 dymensiondrop.eu
-dymensiongenesis.com
 dymenslonfi.com
 dymesions.xyz
 dynamicvisionmanagement.com
@@ -2239,8 +2233,6 @@ e4utbp2.cc
 e5adf83e1ec816dedd6d593a3a565d65.com
 early-blast.app
 early-blasts.app
-earlyadopterdegen.com
-earlyadopterfarmer.com
 earn-babylonchain.fund
 earn-babylonchain.net
 earn-babylonchaln.app
@@ -2615,22 +2607,11 @@ frame.markets
 frameairchaindrops.com
 frameassetchains.com
 frameassetchains.net
-framebearrecovery.com
-framebearrecovery.net
 framechain-airdrop.com
-framecommunityhub.net
-framecreatoralliance.com
 framedropnft.com
-frameecosystem.net
-framefundnetwork.net
 framegovernance.net
-framegovernanceforum.net
-frameinnovationlab.net
-framenetworkguide.net
 framenextech.net
 framenftcollection.com
-framephasetransition.net
-frametokenexchange.net
 framexdao.net
 framexexplorer.net
 free-altlayer.com
@@ -2719,7 +2700,6 @@ generalmotors-lk.com
 genesis-dem.eu
 genesis-dem.xyz
 genesis-dym.com
-genesis-dymensionapp.com
 genesis-roll.com
 genesis-x-ads.com
 genesis.dymansion.xyz
@@ -2729,7 +2709,6 @@ genesis.dynmension.xyz
 genesis.puffsthedragon.xyz
 genesisdems.com
 genesisdimension.xyz
-genesisdymension.com
 genesisroll.com
 genixs.co
 genpartstore.com
@@ -3026,7 +3005,6 @@ iexeces.app
 igxegift.com
 ijktea.top
 iktrjrfusah.icu
-ilayeir3.xyz
 ilfinity.io
 ilie.zerion.biz
 illivium-network.com
@@ -3037,7 +3015,6 @@ illuvium-connect.com
 illuvium-mint-beta.online
 illuvium.gift
 illuvium.io-claim.world
-illuviumholidays.net
 illuviumliveairdrops.co
 illuviumpassairdrop.online
 illuviumpassairdrops.com
@@ -3139,7 +3116,6 @@ ireth.rnag.site
 islamiccoin.network
 islandrecords.co
 issuesdefi.xyz
-issuesfixed.website
 it.support.swift-ness.com
 itaca.in
 italianoinfo.net
@@ -3207,8 +3183,6 @@ join.popeysm.biz
 join.popeysm.cc
 joingrapes.gift
 joinneotokyo.com
-joinnewparadigm-mantanetwork.com
-joinnewparadigm-mantanetwork.net
 jointoexposed.com
 joinweb-3.com
 jorpost-new.top
@@ -3445,7 +3419,6 @@ layerzero-ad.com
 layerzero-superverse.com
 layerzeroclaims.xyz
 layerzeronetwork.io
-layerzeronetworks.org
 layerzeroscan.vercel.app
 layler3.xyz
 layorzeronetwork.com
@@ -3864,18 +3837,13 @@ mantananetwork.com
 mantanet.icu
 mantanet.top
 mantanetwork-airdrop.net
-mantanetwork-chain.net
 mantanetwork-coin.com
-mantanetwork-newparadigm.com
-mantanetwork-newparadigm.net
 mantanetwork.dev
 mantanetwork.events
 mantanetworkairdrop.net
 mantanetworkairdrop.org
 mantanetworkbonus.com
 mantanetworkl.com
-mantanetworknewparadigm.com
-mantanetworknewparadigm.net
 mantanftcollect.com
 mantanftnet.com
 mantantwrk.xyz
@@ -3885,7 +3853,6 @@ mantap.network
 mantapacifc.com
 mantapacific-airdrop.com
 mantapacific-airdrop.net
-mantapacific-chain.net
 mantapacific.net
 mantapacificairdrop.com
 mantapacificairdrop.net
@@ -4023,7 +3990,6 @@ melstroy.by
 members-kcchamber.com
 meme-coin.click
 memebevy.shop
-memecoin.rocks
 memecoin.ws
 memecoinrewards.org
 memecoinz.xyz
@@ -4078,7 +4044,6 @@ metacoin.digital
 metacoincrypto.online
 metaconfirmed.io
 metadirectory.link
-metadollar.pro
 metadrop-us.com
 metadrop.cloud
 metadrop.dev
@@ -4608,13 +4573,11 @@ new.stonlix.club
 new.stonlix.xyz
 new.suithefrensi.xyz
 newidex.live
-newmantanetwork.net
 newmontemining.com
 newmontvip.com
 newparadigm-manta-login.network
 newparadigm-manta.events
 newparadigm.manta.technology
-newparadigmmantanetwork.com
 newparadigms.manta-networks.org
 newparadiqm-manta.network
 newporkcoin.pages.dev
@@ -4853,16 +4816,13 @@ openoffersea.io
 openprojectmystery.vercel.app
 opensaea.io
 opensaebox.vercel.app
-opensaepro.com
 opensaepro.vercel.app
 opensaeproclaim.vercel.app
 opensea-air.vercel.app
 opensea-doc.rf.gd
 opensea-drop.pages.dev
-opensea-exclu.com
 opensea-io.pages.dev
 opensea-listings.com
-opensea-minting.com
 opensea-proclaim.vercel.app
 opensea-pronfts.vercel.app
 opensea.app
@@ -5023,6 +4983,7 @@ pancakeeswap.finance
 pancakefiance.org
 pancakefx.vercel.app
 pancakelp.org
+pancakelps.com
 pancakelps.org
 pancakeprotectors.pages.dev
 pancakesawpifnance.com
@@ -5200,6 +5161,7 @@ paxfulmoderater.com
 paxfulonline.com
 paxfulp2p.com
 paxfulpay.com
+paxfulpay.net
 paxfulproblems.com
 paxfult.com
 paxfulteams.com
@@ -5279,7 +5241,6 @@ penguinrandomhouseofficial.com
 penguinrandomhouseworldwide.com
 pepe-memes.com
 pepe-now.network
-pepe-team.com
 pepe-v2.link
 pepe2.click
 pepe2.xcoindrop.top
@@ -5420,7 +5381,6 @@ porpport.ink
 porshe-taycan.nfts2.me
 portal-dymension.xyz
 portal.dymension.wb3i.xyz
-portalcoin.cfd
 portaldrop.io
 portaldrop.net
 portalgaming.vip
@@ -5446,6 +5406,7 @@ presale-cogwise.com
 presale-kelexo-en.web.app
 presale-x.com
 presale.get-blockgames.app
+presale.taotradex.io
 presales.blockgamess.com
 prime-vest.com
 primematesbc.com
@@ -5729,7 +5690,6 @@ reconnectto.org
 recoveryportal.pages.dev
 rect-fixdapps.pages.dev
 rectifier-sync.pages.dev
-rectifierprotocol.com
 rectifytrust.com
 rectifywallet.42web.io
 redeem-injective.com
@@ -5857,7 +5817,6 @@ revoke-eth.xyz
 revoke-etherscan.online
 revoke-paraswap.com
 revoke-realio.com
-revoke-security.net
 revoke-tips.com
 revoke-unibot.com
 revoke-wallet.com
@@ -5891,7 +5850,6 @@ revokefunds.com
 revokenode.com
 revokes-cash.xyz
 revokeu.cash
-revokewallets.cash
 revshare-palmai.tech
 revshareonline.pages.dev
 revvmotorsport.tech
@@ -5920,7 +5878,6 @@ rewards-emirates.com
 rewards-ether.com
 rewards-galagames.com
 rewards-mantanetwork.com
-rewards-mantapacific.net
 rewards-mantle.com
 rewards-mode.network
 rewards-multibit.exchange
@@ -5933,8 +5890,6 @@ rewards.hillfun.club
 rewards.optimismlabs.org
 rewards.otsea.capital
 rewards.retik.app
-rewardsmantachain.net
-rewardsmantanet.net
 rewardspaal.ai
 rewardspaalai.app
 rezeptfrei.shop
@@ -6383,12 +6338,6 @@ speedylendingtree.com
 speedysmartnetwork.com
 sperk.fi
 spl20-top.web.app
-spok-earlyadopterbuilder.com
-spok-earlyadopterchad.com
-spok-earlyadopterdegen.com
-spok-earlyadopterfarmer.net
-spok-earlyadopterhodler.com
-spok-earlyadopterinfluencer.com
 sponge-claim.online
 spongeev2.online
 spongev2.cfd
@@ -7019,7 +6968,6 @@ usdonbsc.tech
 usdt-drop.top
 usdt-payback.com
 usdt-payback.net.futurevest.com.au
-usdt-pool.vip
 usdt-v2.com
 usdt.is
 usdt.trarchst.com
@@ -7222,7 +7170,6 @@ walletrectifier.pages.dev
 walletresolution.com
 walletrestoree.pages.dev
 wallets-collabland.com
-walletscontest.pro
 walletton.org
 wallettrust.net
 walletupgrade.com
@@ -7670,7 +7617,6 @@ www.framecoin-drop.com
 www.framenftcollections.com
 www.frameprotocolchain.com
 www.frixedfloat.com
-www.frmae.xyz
 www.funairdrop.xyz
 www.fungible-token.laag.site
 www.funwonderful.life
@@ -7778,7 +7724,6 @@ www.metemeak.io
 www.metemnsk.io
 www.methmantle.xyz
 www.metomask.ru
-www.migration-mixtoearn.com
 www.moacverse.xyz
 www.mode.networkapp.hu54.com
 www.moodysec.cc
@@ -7956,7 +7901,6 @@ www.windy.network
 www.wow-earn.online
 www.wregul.com
 www.wwwdymension.xyz
-www.wwwframe.xyz
 www.x-swap.link
 www.xai.moe
 www.xrpsolana.com
@@ -7997,7 +7941,6 @@ xl9.us
 xlaunch-pad.web.app
 xlauncher-app.com
 xlbullycoin.pro
-xmas-bonk.com
 xmxx.btcethl.vip
 xn--1nch-vpa.io
 xn--1nh-3la2a.com
