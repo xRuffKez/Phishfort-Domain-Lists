@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 16:03:27 UTC 2024
-# Number of Entries: 8147
+# Fetch date: Mon Apr  8 17:02:48 UTC 2024
+# Number of Entries: 8146
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1958,7 +1958,6 @@ dbdefi-discover.com
 dbrsco.org
 dbrscotd.com
 dbrsfin.com
-dbrsfxs.com
 dbrspty.com
 dddow.com
 dddx.cnxunkewang.vip
@@ -4506,7 +4505,6 @@ mysterynfts.vercel.app
 mysteryobox.vercel.app
 mysteryopn.vercel.app
 mysticmonoliths.org
-mystiwealth.biggy50.com.ng
 mysupbenefits.com
 mysuperpayroll.com
 myteam-defi3.com
@@ -5832,6 +5830,7 @@ revokeca.xyz
 revokecash-portal.pages.dev
 revokecash-web3.org
 revokecash.cash
+revokecash.lol
 revokecash.ru
 revokecash.store
 revokecash.us
