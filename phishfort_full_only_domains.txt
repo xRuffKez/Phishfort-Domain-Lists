@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 09:01:49 UTC 2024
-# Number of Entries: 107726
+# Fetch date: Mon Apr  8 10:02:00 UTC 2024
+# Number of Entries: 107736
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -5882,6 +5882,8 @@ app-shibeswap.xyz
 app-sign-in-wallet.cf
 app-sign-in-wallet.gq
 app-sign-in-wallet.tk
+app-spaks.sbs
+app-spark-fi.ipns.dweb.link
 app-speherre.finance
 app-spheres.finance
 app-spookyfi.com
@@ -12129,6 +12131,7 @@ bitcoinchange.ru
 bitcoincode.tech
 bitcoincoinbase.top
 bitcoincomputos.com
+bitcoindogsclub-65w.pages.dev
 bitcoindoubler.tech
 bitcoindrop.net
 bitcoindrop.org
@@ -27800,6 +27803,7 @@ dtravel.polka-starter.com.pl
 dtudao.com
 du1z2pl69.ukit.me
 dual-near.org
+dualboardmoonify.pages.dev
 dualcentralconnect.netlify.app
 dualdappsconnect.pages.dev
 duaonlinelog.com
@@ -37645,6 +37649,7 @@ hardwalletvault.com
 hardwalletvault.store
 hardware-store-usa.com
 hardware.metamask.tools
+hardwaregiftairdrop.netlify.app
 harmonize-info.com
 harmonize-web.net
 harmonized-promogive.com
@@ -48344,6 +48349,7 @@ mavishub.roninwallets.support
 mavishubcentar.com
 mavishubcentre.support
 mavishubsupport.com
+mavismerch.com
 mavisuserservice.company
 maviswalletupdate.com
 mavprotocol.xyz
@@ -48424,6 +48430,7 @@ mcfrzev.cc
 mcgu457dcvbnfgtu.bio
 mcim.ru
 mclarenofficial.xyz
+mcnabhi.github.io
 mcnft.fun
 mcrccd.org
 mctamask.io
@@ -54536,6 +54543,7 @@ multidapprevap.com
 multidapps-mainnet.com
 multidapps-net.netlify.app
 multidapps.app
+multidapps.pages.dev
 multidappsconnect.com
 multidappsconnector.online
 multidappsconnects.com
@@ -60874,7 +60882,6 @@ ober-at.com
 ober-sec.app
 ober-security.app
 oberbank-ag.firebaseapp.com
-oberbank-ag.myfreesites.net
 oberbank-at-kundendienst.obrbenk.info
 oberbank-at-kundenservice.shrtnr.info
 obiex.academy
@@ -77311,6 +77318,7 @@ scopebtc.com
 scoreencrypt.com
 scorencrypt.com
 scorpion-casino.shop
+scorpioncasinos.pages.dev
 scotltytheai.xyz
 scotlytheais.club
 scotty-theais.web.app
@@ -78302,6 +78310,7 @@ shareneedz.xyz
 sharkgirltoken-promogive.com
 sharkznft.xyz
 sharonwen.com
+sharpfi.pages.dev
 sharxsharky-mint.netlify.app
 sharxsharky.web.app
 sharxsharkywl.netlify.app
@@ -79770,6 +79779,7 @@ snek-coin.web3fast.net
 snelieniata.com
 sneweasy.com
 snexkr.com
+snexkr.plus
 snft-seedify.online
 snfts-seedify.online
 sningusali.info
