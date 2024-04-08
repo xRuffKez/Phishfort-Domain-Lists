@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 21:01:34 UTC 2024
-# Number of Entries: 107760
+# Fetch date: Mon Apr  8 22:01:45 UTC 2024
+# Number of Entries: 107761
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -10592,6 +10592,7 @@ base-pass.co
 base-pass.io
 base-perp.xyz
 base-protocol.app
+base-swap-frontend-klt095har-truest422.vercel.app
 base.claims
 base.com.co
 base.gifts
