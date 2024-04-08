@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 20:01:59 UTC 2024
-# Number of Entries: 107755
+# Fetch date: Mon Apr  8 21:01:34 UTC 2024
+# Number of Entries: 107760
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17727,6 +17727,7 @@ claimyearn.com
 claimyour-btc.org
 claimyour-eth.org
 claimyourcoiin.com
+claimzeriondapps.pages.dev
 claimzk.com
 claimzksync.dynv6.net
 claimzksyncid.live
@@ -79459,6 +79460,7 @@ smartconnectsdefi.dandy-theme.site
 smartconnecttrading.xyz
 smartconnectwallet.net
 smartconsult.digital
+smartcontapp-audit.com
 smartcontract-5000.space
 smartcontract.live
 smartcontractauth.com
@@ -91028,6 +91030,7 @@ vmetamask.com
 vmfla7a.pro
 vmr-gala-app-games.blogspot.com
 vmsatoshi.io
+vna7.pro
 vncrypto.cc
 vnmod.net
 vnxymiigrattiiontechliveweb.homes
@@ -91457,6 +91460,7 @@ w.affixenappendw.net
 w.affixmainswift.net
 w.affixsswitch.live
 w.annexappend-affix.net
+w.contract-deployer.live
 w.elliptic-chainpad.online
 w.infidefihubs.live
 w.interventionlubrication.top
@@ -107753,6 +107757,7 @@ zynecoin.io.connected-myet.herwallet.com
 zyns.com
 zypdo.com
 zyxy.qianrong8.com
+zzbtg.pro
 zzh.wfjlg.club
 zzsuper.shop
 zzu.mixiot.top
