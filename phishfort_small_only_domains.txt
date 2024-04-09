@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 12:03:45 UTC 2024
-# Number of Entries: 8173
+# Fetch date: Tue Apr  9 13:02:10 UTC 2024
+# Number of Entries: 8161
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -563,7 +563,6 @@ app-amulet-amuverse.pages.dev
 app-angle.money
 app-apyether.org
 app-axeinifnity.com
-app-balancer.pages.dev
 app-benqi.online
 app-betafinance.org
 app-bridge.manta-pacific.fi
@@ -834,8 +833,6 @@ atlas3io-prime-kongz.web.app
 atllayer-drop.top
 atltayer-reward.top
 atom.trasthub.top
-atorio.news
-atorprotocol.co
 audius.gift
 aura-finance.news
 aura-migration.live
@@ -1085,7 +1082,6 @@ bitstable-finance.pages.dev
 bittechsolutionz.online
 bittnsor.com
 bitukub.com
-bitverablockverse.pages.dev
 biz.walconvis.xyz
 bks-at.com
 bks-partsners.com
@@ -1387,7 +1383,6 @@ centralseedandchem.co.nz
 ceoltis.com
 chaemlist.org
 chaenlict.org
-chahlist.org
 chaibenefitmassimui.com
 chain-linklabs.live
 chain-linknetwork.io
@@ -1826,7 +1821,6 @@ cryptovipweb30.com
 cryptovipweb30.top
 cryptovipweb30.vip
 cryptowrapped.cc
-crystalfiles.ru
 cs2-blast.com
 cs2polygonx.top
 csagoda.co
@@ -2209,7 +2203,6 @@ duke-florence-finance.co
 dumb-coin.fun
 durexwalletbridge.co.za
 dws-team-vs.de
-dydx.cc
 dydxdao.net
 dykemagosettantoney.online
 dymeansion.io
@@ -5049,7 +5042,6 @@ pancakeswapp.pages.dev
 pancakeswapper.online
 pancakeswapperhub.online
 pancakeswapreward.finance
-pancakeswaps-codingzz-com.crypto-market-world.com
 pancakeswaps-finance.org
 pancakeswaps-finnance.com
 pancakeswapunlock.com
@@ -6630,6 +6622,7 @@ taichinhbidv.com
 taiko.io-c.org
 taiko.org-t.co
 taikoxyz.com
+takeitnow.pro
 tamadoge.top
 tamairdrop.netlify.app
 taob-ai.com
@@ -7059,7 +7052,6 @@ verified-portalgaming.pages.dev
 verify-assets.xyz
 verify-collab.net
 verify-collabland.org
-verify-kvxabot.pages.dev
 verify-matrica.vercel.app
 verify-vulcan.net
 verify-wallets.com
@@ -7077,7 +7069,6 @@ versity-token.finance
 vertexprotocol.top
 vertiv.dns.cz
 vertiv.jifang365.com
-vesting-port3.io
 vfipaxos.org
 vhvhgv.pages.dev
 viacripto.com
@@ -7248,8 +7239,6 @@ web3-bkex.top
 web3-cakedefi.com
 web3-connectdc.gq
 web3-connectha.gq
-web3-connectix.cf
-web3-connectsj.gq
 web3-cyptoo.com
 web3-ethereum.info
 web3-kaavva.netlify.app
@@ -8023,7 +8012,6 @@ xrpdistributions.firebaseapp.com
 xrpdistributions.web.app
 xrpepeofficial.com
 xrplairdrop.sistema.edu.pe
-xrplimited-bonus.net
 xtokenlaunch.com
 xushuishiwu.cn
 xversewebwallets.com
