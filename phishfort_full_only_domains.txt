@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 15:52:20 UTC 2024
-# Number of Entries: 107801
+# Fetch date: Tue Apr  9 16:36:00 UTC 2024
+# Number of Entries: 107802
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -54304,6 +54304,7 @@ muhtekamty.site
 muiltichain-bridge.com
 muiltichain-protocol.com
 muitamask-login.blogspot.com
+mujeresautistas.com
 mujeresdefierro.com
 mujheptahaiyar.com
 muktijuso-korea.com
