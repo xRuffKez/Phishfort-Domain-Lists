@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 16:15:57 UTC 2024
+# Fetch date: Tue Apr  9 16:26:58 UTC 2024
 # Number of Entries: 8146
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3614,7 +3614,6 @@ m.js-xlh.com
 m.kinetu.com.cn
 m.mitofinance.app
 m.mltofi.app
-m.nlsgoi.cfd
 m.open-pandora.app
 m.shrininow.com
 m.teck-invest.com
@@ -4390,6 +4389,7 @@ mtaskx.com
 mtc-speed.web.app
 mtvrs-neotokyo.codes
 muitamask-login.blogspot.com
+mujeresautistas.com
 mulltibits.sbs
 multchain.net
 multgates.com
