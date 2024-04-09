@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 05:02:07 UTC 2024
+# Fetch date: Tue Apr  9 06:02:40 UTC 2024
 # Number of Entries: 8167
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1770,7 +1770,6 @@ connectxr-fixer.rf.gd
 connext.fi
 conocophillispcorp.com
 consensys-kycverifcation.com
-consensys-verification.com
 consensys.web3-provide.com
 consensysclaim.com
 consorciochevroletmd.com.br
@@ -2242,6 +2241,7 @@ early-blasts.app
 earn-babylonchain.fund
 earn-babylonchain.net
 earn-babylonchaln.app
+earn-cookie.community
 earn-defipool.com
 earn-dmail.com
 earn-drop.asia
@@ -2910,6 +2910,7 @@ heatherleelarioni.me
 heavensgate.dog
 heddies.vercel.app
 hedgefund-swap.org
+hedgeswap.org
 helio-money.cyou
 helixap.com.ai-web3.cfd
 helixapp.com.web3-connect.pw
@@ -4991,7 +4992,6 @@ pancakedrop.com
 pancakedrops.com
 pancakeeswap.com
 pancakeeswap.finance
-pancakefiance.org
 pancakefinances-swap.pages.dev
 pancakefx.vercel.app
 pancakelp.org
@@ -5628,6 +5628,7 @@ raksfifthavenue.com
 ranbuny.com.au
 randomecoin-ads.eu
 randomecoins.com
+rango-exchange-r8n4.onrender.com
 rarible-nft.com
 rarible.quest
 rarity-dapps.online
@@ -5710,7 +5711,6 @@ reevoke.app
 reewelprotocol.com
 reference.mypsx.net
 refreshingsiqnaccoount.com
-refund-agoda.com
 refund.ethiner.xyz
 refund.shidoprotocols.com
 refund.wallstretmemes.app
