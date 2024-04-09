@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 10:01:55 UTC 2024
-# Number of Entries: 107789
+# Fetch date: Tue Apr  9 11:01:59 UTC 2024
+# Number of Entries: 107793
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -19763,6 +19763,7 @@ collab.landsecurebot.com
 collab.management
 collab.pm
 collab.rest
+collab.role-bot.net
 collab.walletdappfixed.net
 collabactivation.com
 collabandd.cc
@@ -27018,6 +27019,7 @@ diversyfundcrypto.com
 dividend.app-1lnch.com
 divineanarchy.ink
 divinerprotocol.live
+diving-mantanetwork.pages.dev
 divulgaaionline.com
 divulgounarede.com.br
 diyencrypt.com
@@ -68618,6 +68620,7 @@ paxfulpor.xyz
 paxfulport.com
 paxfulprev.com
 paxfulprior.com
+paxfulpro.cc
 paxfulpro.org
 paxfulproblems.com
 paxfulqr.com
@@ -90703,6 +90706,7 @@ verify-wallets.com
 verify-whop.com
 verify-whop.netlify.app
 verify.10000eth.pro
+verify.api55-collab.com
 verify.auth-metamask.co
 verify.auth-metamask.io
 verify.binstarterr.io
