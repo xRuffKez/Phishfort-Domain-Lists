@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 14:24:33 UTC 2024
-# Number of Entries: 8154
+# Fetch date: Tue Apr  9 14:42:12 UTC 2024
+# Number of Entries: 8155
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3084,6 +3084,7 @@ interactivebrokers.backqxghjpro.com
 interactivebrokers.store
 interactivebrokersrle.com
 interactivebrokersrue.com
+interactivebrokerstrading.com
 interactivehkvip.com
 interactivetradepro.com
 interdigitaltbn.com
