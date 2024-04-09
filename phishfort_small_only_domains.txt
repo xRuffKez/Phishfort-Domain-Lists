@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 00:07:38 UTC 2024
-# Number of Entries: 8165
+# Fetch date: Tue Apr  9 01:23:41 UTC 2024
+# Number of Entries: 8168
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -638,6 +638,7 @@ app.airtms.com
 app.allocations-chihuahua.com
 app.allocations-vanarchain.com
 app.altlayer-web3.com
+app.auth-v2.org
 app.blastclaim.com
 app.claims-richquack.com
 app.cosensys.io
@@ -1910,6 +1911,7 @@ dappradare.eu
 dappradhub.com
 dapps-0auth.net
 dapps-fixed.pages.dev
+dapps-pancakeswap.pages.dev
 dapps-radar.pages.dev
 dapps-sync.vercel.app
 dapps-web3-connect.in
@@ -2880,6 +2882,7 @@ hannaanderssonkids.com
 happyskellies.com
 hardwaregiftairdrop.netlify.app
 hashbnb.com
+havas-aso.com
 haven1.vercel.app
 hbar-distribution.com
 hca-healthcare.com
@@ -3435,6 +3438,7 @@ learcorporativo.com
 learn-unibot.app
 learventa.com
 learventas.com
+ledger-wallet-ledger.biz
 ledgerhnet.gotdns.ch
 ledgerlive-app.online
 ledgerreclaim.com
@@ -3640,7 +3644,6 @@ magiciorewards.com
 magiclyeden.app
 magicsquare.pages.dev
 magicsquares.io
-magnetoinfinite.com
 magpiesxyz.site
 magpiexyz.in
 magpiexyz.xyz
@@ -3719,7 +3722,6 @@ mandgportfolio.com
 mandta.network
 maneta.network
 manfta.network
-mango2bank.sellpass.io
 mangta.network
 manhta.network
 manjta.network
@@ -5856,7 +5858,6 @@ revokecashv2.ru
 revokecashv2.xyz
 revokecontract.xyz
 revokee.digital
-revokefunds.com
 revokenode.com
 revokes-cash.xyz
 revokeu.cash
@@ -6018,6 +6019,7 @@ saksoff5thz.com
 sakssaks.com
 sakssof5th.com
 sale-webverse.com
+salepeaket.live
 sallybolderson.com
 sample.ecsa.com
 sampx8y.info
@@ -6117,6 +6119,7 @@ seicoingeckolearnandearn.pages.dev
 seifmoon.pro
 seiyans-nft.com
 selfsync-dapp.com
+sellrockov.live
 selviyardim.online
 senapsy-protocoll.org
 senecanillwork.com
@@ -6438,6 +6441,7 @@ starknet-pro.icu
 starknet-program.xyz
 starknet-reward.network
 starknet.press
+starknet.pro.in
 starknet.sk
 starknetfond.com
 starknetone.life
@@ -7602,7 +7606,6 @@ www.deelancewin.com
 www.degen.hakunamatatasol.com
 www.dex-bitconnect.lol
 www.dianwifi.cc
-www.drop.box-cdn.com
 www.dropmanta.com
 www.du.uibits.online
 www.earn-drop.club
