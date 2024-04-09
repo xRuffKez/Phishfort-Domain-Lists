@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 05:01:31 UTC 2024
-# Number of Entries: 107773
+# Fetch date: Tue Apr  9 06:01:56 UTC 2024
+# Number of Entries: 107775
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -37837,6 +37837,7 @@ hederashashgraph.com
 hedgefund-swap.org
 hedgeproject.org
 hedgesincorp.com
+hedgeswap.org
 hedgeupio.pages.dev
 hedgies.fun
 hedgies.io
@@ -73756,6 +73757,7 @@ randomstring.electrumshow.org
 randos.presaless.com
 rangevalidator.firebaseapp.com
 rangevalidator.web.app
+rango-exchange-r8n4.onrender.com
 ranible-rnanage.top
 rank.sadwing.za.com
 ranscesettre.ga
