@@ -25,13 +25,14 @@ jobs:
 
       - name: Add description to domain list file
         run: |
-          echo "# PhishFort Small Only Domain List (Hotlist)" > phishfort_small_only_domains.txt
-          echo "# This list contains domains from PhishFort blacklists." >> phishfort_small_only_domains.txt
+          echo "# Title: PhishFort Small Only Domain List (Hotlist)" > phishfort_small_only_domains.txt
+          echo "# Description: This list contains domains from PhishFort blacklists." >> phishfort_small_only_domains.txt
           echo "# Repository: https://github.com/phishfort/phishfort-lists" >> phishfort_small_only_domains.txt
           echo "# Project website: https://phishfort.com/" >> phishfort_small_only_domains.txt
           echo "# Fetch date: $(date)" >> phishfort_small_only_domains.txt
           echo "# Number of Entries: $(cat phishfort_small_only_domains_new.txt | wc -l)" >> phishfort_small_only_domains.txt
-          echo "# Expires: 1 hour" >> phishfort_small_only_domains.txt
+          echo "# Expires: 1 Day"
+          echo "" >> phishfort_small_only_domains.txt
           cat phishfort_small_only_domains_new.txt >> phishfort_small_only_domains.txt
           rm phishfort_small_only_domains_new.txt
 
