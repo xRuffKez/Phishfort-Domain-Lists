@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 08:02:34 UTC 2024
-# Number of Entries: 8179
+# Fetch date: Tue Apr  9 10:02:12 UTC 2024
+# Number of Entries: 8175
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2054,7 +2054,6 @@ delmetamask.onrender.com
 demarkoizi.com
 demarkoizi.org
 demension.life
-demo9969.infinityfreeapp.com
 denelse.com
 denshaven.com
 deplimigration.dev
@@ -4041,7 +4040,6 @@ meta-kyc-activations.io
 meta-mask-login-webaccess-rewoyal611554508.codeanyapp.com
 meta-mask.trade
 meta-neotokyo.com
-meta-redirect.com
 meta-restore.pages.dev
 meta-restoreweb.pages.dev
 meta-reward.com
@@ -5317,7 +5315,6 @@ phasnw.xyz
 phoentexai.netlify.app
 phone.tkd
 phountom.xyz
-phrasedataprotect.com
 phtms.app
 phtomwalet.azurewebsites.net
 phumtoewallat.godaddysites.com
@@ -6230,7 +6227,6 @@ skasoff5th01.com
 skasoff5th02.com
 skasoff5th03.com
 skinsmonkey.combine.tundragon.com
-skipton-login.com
 sklpool.site
 sksidg.com
 skyborneslegacy.com
