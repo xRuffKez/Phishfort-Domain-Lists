@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 17:32:17 UTC 2024
-# Number of Entries: 8144
+# Fetch date: Tue Apr  9 17:41:58 UTC 2024
+# Number of Entries: 8142
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -6106,7 +6106,6 @@ selviyardim.online
 senapsy-protocoll.org
 senecanillwork.com
 sentinel-ai.vip
-sentry.xalgames.xyz
 sentryxai.claimtokens.live
 sepolia.eu
 serenitybuildsconstructions.org
@@ -7659,7 +7658,6 @@ www.interdigitaltba.com
 www.investment-fdholdings.com
 www.jamiod.com
 www.jompyc.com
-www.ju.normbit.online
 www.jutsunft.com.soillabs.app
 www.jympurexhange.org
 www.kenetix.finance
