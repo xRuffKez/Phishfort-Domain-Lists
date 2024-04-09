@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 07:03:15 UTC 2024
-# Number of Entries: 8178
+# Fetch date: Tue Apr  9 08:02:34 UTC 2024
+# Number of Entries: 8179
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -413,7 +413,6 @@ aleixogomes.com.br
 aleo.claim-app.pro
 algogold.com
 alienswape.shop
-all-support.pages.dev
 all4whitelisted.pages.dev
 allenanna.com
 allianceblock-io.events
@@ -4509,6 +4508,7 @@ mysterybox433.vercel.app
 mysterybox4333.vercel.app
 mysterybox55.vercel.app
 mysterybox673.vercel.app
+mysterybox74j.vercel.app
 mysterybox75.vercel.app
 mysterybox882.vercel.app
 mysteryboxarbitrum.com
@@ -5820,7 +5820,6 @@ reviews-airhopper.com
 revok.info
 revok.online
 revok.site
-revokcashq.com
 revokcashue.com
 revoke--cash.pages.dev
 revoke-algebra.com
@@ -6315,6 +6314,7 @@ soflarewebextension.com
 softnote.xyz
 sol-sola.web.app
 solana-claim.web.app
+solana-profit.web.app
 solana-promo.info
 solana.ag
 solana.laag.site
@@ -7630,6 +7630,7 @@ www.ethereumrefund.com
 www.ethfi.farm
 www.ethgasrefund.com
 www.ethswe.com
+www.etokensolana.aysarr.in
 www.event-metis.io
 www.event-xai.games
 www.evm-monad.xyz
