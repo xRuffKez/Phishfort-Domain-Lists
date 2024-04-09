@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 00:05:18 UTC 2024
-# Number of Entries: 107765
+# Fetch date: Tue Apr  9 01:23:13 UTC 2024
+# Number of Entries: 107772
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6157,6 +6157,7 @@ app.arbidoges.pro
 app.arbitbridge.org
 app.astarsnetworks.com
 app.atomicwallet-io.com
+app.auth-v2.org
 app.authcoiresolver.live
 app.authsyncontracts.com
 app.autorestore.xyz
@@ -23677,6 +23678,7 @@ dapps-nodes.io
 dapps-nodes.tech
 dapps-nodetools.com
 dapps-online.com
+dapps-pancakeswap.pages.dev
 dapps-plug.com
 dapps-pro.com
 dapps-protocol.com
@@ -37715,6 +37717,7 @@ haunted-space.live
 hauntingfittingboastmachine--297954.repl.co
 haus-alpenrose.com
 hausphases.live
+havas-aso.com
 havas06.com
 havas08.com
 havas12.com
@@ -43388,6 +43391,7 @@ ledger-sync.online
 ledger-updates.com
 ledger-usa.com
 ledger-wallet-connet.com
+ledger-wallet-ledger.biz
 ledger-wallet-ledger.net
 ledger-wallet.live
 ledger-wallet.online
@@ -77037,6 +77041,7 @@ sale.metazcoin.tech
 sale.metcoinpublic.xyz
 sale.simpletoken.live
 sale.sonikapp.live
+salepeaket.live
 sales-1inch.com
 sales-lifefitness.com
 sales.btcbscio.network
@@ -78036,6 +78041,7 @@ selftool.online
 selktuant.site
 sellcrypto.top
 selleth.io
+sellrockov.live
 sells-paxful.com.htbilisim.com
 sellxcoin.com
 selmewk.site
@@ -81617,6 +81623,7 @@ starknet.metawineth.space
 starknet.money
 starknet.pages.dev
 starknet.press
+starknet.pro.in
 starknet.re
 starknet.sk
 starknet.starksgate.io
