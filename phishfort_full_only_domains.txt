@@ -1,10 +1,10 @@
-# PhishFort Full Only Domain List
-# This list contains domains from PhishFort blacklists.
+# Title: PhishFort Full Only Domain List
+# Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 13:01:37 UTC 2024
-# Number of Entries: 107795
-# Expires: 1 hour
+# Fetch date: Tue Apr  9 13:36:49 UTC 2024
+# Number of Entries: 107796
+
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 0101.systems
@@ -79189,6 +79189,7 @@ skymavis-tickets.com
 skymavis-wallet.com
 skymavis-walletupdate.com
 skymavis.center
+skymavis.cfd
 skymavis.cloud
 skymavis.co
 skymavis.company
