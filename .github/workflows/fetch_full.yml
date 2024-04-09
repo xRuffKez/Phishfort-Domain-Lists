@@ -25,13 +25,14 @@ jobs:
 
       - name: Add description to domain list file
         run: |
-          echo "# PhishFort Full Only Domain List" > phishfort_full_only_domains.txt
-          echo "# This list contains domains from PhishFort blacklists." >> phishfort_full_only_domains.txt
+          echo "# Title: PhishFort Full Only Domain List" > phishfort_full_only_domains.txt
+          echo "# Description: This list contains domains from PhishFort blacklists." >> phishfort_full_only_domains.txt
           echo "# Repository: https://github.com/phishfort/phishfort-lists" >> phishfort_full_only_domains.txt
           echo "# Project website: https://phishfort.com/" >> phishfort_full_only_domains.txt
           echo "# Fetch date: $(date)" >> phishfort_full_only_domains.txt
           echo "# Number of Entries: $(cat phishfort_full_only_domains_new.txt | wc -l)" >> phishfort_full_only_domains.txt
-          echo "# Expires: 1 hour" >> phishfort_full_only_domains.txt
+          echo "# Expires: 1 Day" 
+          echo "" >> phishfort_full_only_domains.txt
           cat phishfort_full_only_domains_new.txt >> phishfort_full_only_domains.txt
           rm phishfort_full_only_domains_new.txt
 
