@@ -1,10 +1,10 @@
-# PhishFort Small Only Domain List (Hotlist)
-# This list contains domains from PhishFort blacklists.
+# Title: PhishFort Small Only Domain List (Hotlist)
+# Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 13:02:10 UTC 2024
-# Number of Entries: 8161
-# Expires: 1 hour
+# Fetch date: Tue Apr  9 13:36:12 UTC 2024
+# Number of Entries: 8159
+
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
@@ -305,7 +305,6 @@ airdrop-pi.com
 airdrop-portalgaming.site
 airdrop-rarible.net
 airdrop-starknet.info
-airdrop-starknet.live
 airdrop-wallet-connect.sa9afa.com
 airdrop-wormhole.firebaseapp.com
 airdrop-wormhole.vercel.app
@@ -1980,7 +1979,6 @@ debug-metamask.pages.dev
 debug-multichain.pages.dev
 debugdecentralize.pages.dev
 debugdeconnec.pages.dev
-decentracoreton.pages.dev
 decentralands.vip
 decentralize-metis.app
 decentralize.metis.wb3s.xyz
@@ -2916,7 +2914,6 @@ help-docs-gmx.info
 help-tiktok.com
 help.fixingerror.io
 helpdoc-avalache.online
-helpforuneployment.com
 helpinghandic.com
 helpmetamask.xyz
 herafinance.live
@@ -6222,6 +6219,7 @@ sksidg.com
 skyborneslegacy.com
 skybridgedynamics.xyz
 skymavis-axie.com
+skymavis.cfd
 skynet229.godaddysites.com
 skywardsemirates.com
 skywardsglobal.com
