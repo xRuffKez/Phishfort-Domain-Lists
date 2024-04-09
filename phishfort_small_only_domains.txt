@@ -2,7 +2,7 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 04:03:27 UTC 2024
+# Fetch date: Tue Apr  9 05:02:07 UTC 2024
 # Number of Entries: 8167
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -236,6 +236,7 @@ agodahotel.pw
 agodahotels.live
 agodahotels.store
 agodahotels.world
+agodajp.vip
 agodaonline.com
 agodatikethotelcom.masukmobilee.de
 agodaycs.com
@@ -6704,7 +6705,6 @@ thefamilytokens.vercel.app
 thegamehubs.org
 themodenetwork.com
 thepepe20.com
-theplasmacenter.info
 thereum.pages.dev
 thesolmirage.rxi.app
 thesolutionscenter.info
