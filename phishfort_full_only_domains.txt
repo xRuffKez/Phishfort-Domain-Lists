@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 21:22:29 UTC 2024
-# Number of Entries: 107807
+# Fetch date: Tue Apr  9 21:52:21 UTC 2024
+# Number of Entries: 107808
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -9354,6 +9354,7 @@ axieinfinllty.com
 axieinfinltly.com
 axieinfinlty.com
 axieinfinlty.cyou
+axieinfinlty.pages.dev
 axieinfinlty.site
 axieinfinlty.xyz
 axieinfinnity-app.buzz
