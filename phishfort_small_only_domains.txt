@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 22:42:01 UTC 2024
-# Number of Entries: 8122
+# Fetch date: Tue Apr  9 23:03:11 UTC 2024
+# Number of Entries: 8121
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -610,7 +610,6 @@ app.1inch.lc
 app.1insh.io
 app.1lnch.mom
 app.airrtm.com
-app.airtm-7.com
 app.airtm-8.com
 app.airtm01.com
 app.airtm08.com
@@ -1819,6 +1818,7 @@ csl-seqirus.com
 cuadrosblangar.es
 cubeexchange.co
 cucmmins.com
+cumminsusa.com
 custom-fender.com
 cwboffshoreonl.com
 cwboffshoreonline.com
@@ -6434,7 +6434,6 @@ steth-pool.com
 steth-shares.com
 steth.tiiny.site
 stethers.com
-stethlido.win
 stethpool.xyz
 stip-radiantcapital.com
 stockmetrictraders.com
