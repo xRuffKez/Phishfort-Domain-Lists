@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 09:02:01 UTC 2024
-# Number of Entries: 107790
+# Fetch date: Tue Apr  9 10:01:55 UTC 2024
+# Number of Entries: 107789
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -79139,7 +79139,6 @@ skinsportz.com
 skinwallet.se.net
 skinwallet.uk.com
 skinwportn.com
-skipton-login.com
 skizportt.com
 sklpool.site
 skriibanduo.live
