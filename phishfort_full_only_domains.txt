@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 18:52:24 UTC 2024
-# Number of Entries: 107802
+# Fetch date: Tue Apr  9 19:22:32 UTC 2024
+# Number of Entries: 107804
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -15942,6 +15942,7 @@ centralseedandchem.co.nz
 centraltrust-attachments-online.gquest2.com
 centratoken.site
 centsiiblepm.com
+centurysgold.net
 centurysocialclub.wl-presales.com
 ceo-elonmusk.repl.co
 ceocardano.com
@@ -103518,6 +103519,7 @@ www.vippaxos.com
 www.vircomem.ro
 www.virtualsafetysolutions.net
 www.vizagvanta.com
+www.viziosetup.com
 www.vlaunch.org
 www.vlcplayer.info
 www.vmetamaskverification.duckdns.org
