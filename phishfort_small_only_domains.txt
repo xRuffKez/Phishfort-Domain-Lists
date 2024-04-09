@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 19:32:18 UTC 2024
-# Number of Entries: 8141
+# Fetch date: Tue Apr  9 19:42:16 UTC 2024
+# Number of Entries: 8117
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -289,9 +289,7 @@ airdrop-magiceden.com
 airdrop-manta-network.com
 airdrop-manta.com.dashboard-bananagun.io
 airdrop-mantaa.pages.dev
-airdrop-mantachain.com
 airdrop-mantachain.org
-airdrop-mantapacific.net
 airdrop-mavia.com
 airdrop-meta.io
 airdrop-nibi.com
@@ -334,7 +332,6 @@ airdrop.orbiterfinancial.com
 airdrop.reportwisely.shop
 airdrop.rest
 airdrop.riftswap.net
-airdrop.sleepleessai.net
 airdrop.starheros.community
 airdrop.teleportdao.su
 airdrop.wrlomhole.net
@@ -350,10 +347,7 @@ airdropmainnetprotocol.firebaseapp.com
 airdropmainnetprotocol.web.app
 airdropmanta.top
 airdropmanta.xyz
-airdropmantachain.net
 airdropmantaexchange.com
-airdropmantanet.com
-airdropmantanet.net
 airdropmantanet.org
 airdropmantapacific.net
 airdropmantatoken.com
@@ -1560,7 +1554,6 @@ claimportal.foundation
 claims-metis.io
 claims-realios.com
 claims-usdt.org
-claims.mantatokens.com
 claimshido.pages.dev
 claimsmart-layer.net
 claimsmemekombat.air-drop.dev
@@ -3793,11 +3786,7 @@ mantaairdropevent.com
 mantaapps.network
 mantabluerewards.com
 mantac.network
-mantachain-airdrop.com
-mantachain-airdrop.net
 mantachain-airdrop.org
-mantachainairdrop.com
-mantachainairdrop.net
 mantachainairdrop.org
 mantaclaim.digital
 mantaclaims.digital
@@ -3824,11 +3813,9 @@ mantalnetwork.com
 mantananetwork.com
 mantanet.icu
 mantanet.top
-mantanetwork-airdrop.net
 mantanetwork-coin.com
 mantanetwork.dev
 mantanetwork.events
-mantanetworkairdrop.net
 mantanetworkairdrop.org
 mantanetworkbonus.com
 mantanetworkl.com
@@ -3839,11 +3826,7 @@ mantao-network.life
 mantao-network.xyz
 mantap.network
 mantapacifc.com
-mantapacific-airdrop.com
-mantapacific-airdrop.net
 mantapacific.net
-mantapacificairdrop.com
-mantapacificairdrop.net
 mantapacificairdrop.org
 mantaparadigm.network
 mantapcfc.network
@@ -4278,7 +4261,6 @@ mint-satoshivm.io
 mint-usdc.web.app
 mint-xai.com
 mint.apps-looty.com
-mint.cokeazukicanvas.com
 mint.deadapez.lol
 mint.lamavox.wtf
 mint.scrllpunkdis.icu
@@ -4392,7 +4374,6 @@ multi-chain-connect.xyz
 multi-smartworthyappverse.org
 multi-trustpade.site
 multi-trustpades.cc
-multibit-exchange.com
 multibitex.net
 multibitstaking.com
 multibitx.netlify.app
@@ -4913,7 +4894,6 @@ paalbeta-ai.app
 paalbeta-launchpad.app
 paalmind.com
 paalmint.com
-paalpool.xyz
 paaltreasury.org
 pac-sol.com
 pacific-bridge-manta-network.cyou
@@ -5229,7 +5209,6 @@ pendle-flnance.net
 pendle.claims
 pendle.farm
 pendlenetwork.com
-pendlepool.xyz
 pengsolana.co
 pengsolana.org
 penguinrandomh0use.com
@@ -6126,7 +6105,6 @@ sherapnel.com
 shezmu-tech.online
 shi-do.x--t.co
 shiabrams.netlify.app
-shib-token.com.babydoge.io
 shiba-3.web.app
 shiba-bet.com
 shiba-tokens.best
@@ -6347,7 +6325,6 @@ spornft.space
 sprak.fi
 sprooker.codefishstudio.com
 square-dream-wailing.on-fleek.app
-srmpool.xyz
 srsdistribution-us.com
 srtoos.com
 srxuznzcsy.nepialisen.tech
@@ -7952,7 +7929,6 @@ xn--fixedfloat-2ub.com
 xn--fixedfloat-3ub.com
 xn--fixedfoad-vub.com
 xn--fixedfoat-0pb.com
-xn--fixedfoat-vub.net
 xn--fixedfoat-wpb.com
 xn--flxedfloat-78a.com
 xn--flxedfloat-yub.com
