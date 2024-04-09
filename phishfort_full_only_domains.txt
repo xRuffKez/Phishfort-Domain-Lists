@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 04:01:56 UTC 2024
-# Number of Entries: 107774
+# Fetch date: Tue Apr  9 05:01:31 UTC 2024
+# Number of Entries: 107773
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -85233,7 +85233,6 @@ thepepe20.com
 thepicaroons.xyz
 theplague.the-premint.xyz
 theplague.wpnfts.com
-theplasmacenter.info
 thepokerpro.web3fast.net
 thepolkadot.io
 thepolkadot.online
