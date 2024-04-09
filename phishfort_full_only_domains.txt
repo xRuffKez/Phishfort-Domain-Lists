@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr  8 23:01:47 UTC 2024
-# Number of Entries: 107762
+# Fetch date: Tue Apr  9 00:05:18 UTC 2024
+# Number of Entries: 107765
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2399,6 +2399,7 @@ accessmagiceden.io
 accessnode.network
 accessnode.xyz
 accessnow.xyz
+accesspoint01.challengedrumstreet.ru
 accesspointcdl2312.terrabites.cc
 accesspronetwork.cloud.mannobegod.online
 accessprotocolapp.bio
@@ -36879,6 +36880,7 @@ global-trustexpert.com
 global-uphold-wallet.com
 global-worldcoin.org
 global.onlineyshire-uk.com
+global2605tw.com
 globalalliedfinance.com
 globalapps.site
 globalbearsclub.xyz
@@ -60894,6 +60896,7 @@ ober-at.com
 ober-sec.app
 ober-security.app
 oberbank-ag.firebaseapp.com
+oberbank-ag.myfreesites.net
 oberbank-at-kundendienst.obrbenk.info
 oberbank-at-kundenservice.shrtnr.info
 obiex.academy
@@ -68690,6 +68693,7 @@ paxllfull.com
 paxlsful.com
 paxluf.com
 paxlul.com
+paxobcxr.com
 paxoffer.xyz
 paxofferactive.online
 paxofferonline.com
@@ -79304,7 +79308,6 @@ smallbrosnft.web3fast.net
 smallcappennystockmovers.com
 smallwebsites.godaddysites.com
 smanbi.shop
-smardaconds.online
 smardwhitelistdexcrypt.pro
 smarlgame.com
 smarr.pics
