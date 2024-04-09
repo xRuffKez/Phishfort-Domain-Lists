@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 20:23:01 UTC 2024
-# Number of Entries: 107805
+# Fetch date: Tue Apr  9 20:42:09 UTC 2024
+# Number of Entries: 107807
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -14552,6 +14552,7 @@ bsc-info.mdex.com
 bsc-metonask.com
 bsc-pad.cc
 bsc-pancakeswap.com
+bsc-pancakeswap.pages.dev
 bsc.mdex.bz
 bsc.minereum.com
 bsc.mintvese.live
@@ -95714,6 +95715,7 @@ wg0-apecoin.com
 wgdspfkse.one
 wgminterface.xyz
 whalepad.net
+whales.markets
 whalescryptohub.com
 whalesmarket.org
 what-3qi.pages.dev
