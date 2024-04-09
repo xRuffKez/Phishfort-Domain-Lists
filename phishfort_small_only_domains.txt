@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 18:51:58 UTC 2024
-# Number of Entries: 8143
+# Fetch date: Tue Apr  9 19:03:33 UTC 2024
+# Number of Entries: 8141
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -290,10 +290,7 @@ airdrop-manta-network.com
 airdrop-manta.com.dashboard-bananagun.io
 airdrop-mantaa.pages.dev
 airdrop-mantachain.com
-airdrop-mantachain.net
 airdrop-mantachain.org
-airdrop-mantanet.com
-airdrop-mantanet.net
 airdrop-mantapacific.net
 airdrop-mavia.com
 airdrop-meta.io
@@ -353,7 +350,6 @@ airdropmainnetprotocol.firebaseapp.com
 airdropmainnetprotocol.web.app
 airdropmanta.top
 airdropmanta.xyz
-airdropmantachain.com
 airdropmantachain.net
 airdropmantaexchange.com
 airdropmantanet.com
@@ -1377,6 +1373,7 @@ celtise.fi
 centerjobless.online
 centralpoultryprocessingscoltd.com
 centralseedandchem.co.nz
+centurysgold.net
 ceoltis.com
 chaemlist.org
 chaenlict.org
@@ -7889,6 +7886,7 @@ www.verify.aits.tech
 www.vip-asx.com
 www.vippaxos.com
 www.virtualsafetysolutions.net
+www.viziosetup.com
 www.vlaunch.org
 www.vopiow.com
 www.walletsdapprepl.com
