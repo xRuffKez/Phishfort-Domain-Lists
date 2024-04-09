@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 23:03:11 UTC 2024
-# Number of Entries: 8121
+# Fetch date: Tue Apr  9 23:15:12 UTC 2024
+# Number of Entries: 8120
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -5297,7 +5297,6 @@ pl.zkndv.club
 planet-zksync.nfts2.me
 planetsrefi.airdrop.cfd
 plantagmseminuevos.com.mx
-plantagmsilao.com.mx
 plantajohnsoncontrols.com
 platform-blast.com
 platform-tycoon.xyz
@@ -6184,6 +6183,7 @@ skasoff5th01.com
 skasoff5th02.com
 skasoff5th03.com
 skinsmonkey.combine.tundragon.com
+skipton-login.com
 sklpool.site
 sksidg.com
 skyborneslegacy.com
@@ -6493,7 +6493,6 @@ support.webdapps.pro
 supportmetamask-io.ddnss.eu
 suprasync.pages.dev
 supratoken.xyz
-surrealogeek.com
 survey-arbitrium.com
 susdc.dev
 sushi-swapsushi.github.io
