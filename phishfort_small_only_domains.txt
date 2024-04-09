@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 13:43:14 UTC 2024
-# Number of Entries: 8159
+# Fetch date: Tue Apr  9 13:52:22 UTC 2024
+# Number of Entries: 8156
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1603,7 +1603,6 @@ cliffordchanceuk.online
 clintexmigration.tech
 cliqueop.com
 clmjup.xyz
-clmtaiko.xyz
 cloud-base-dapp.vercel.app
 cloudinry.net
 clrscr.net
@@ -4523,7 +4522,6 @@ mywalletexodus.com
 mywfmanager.com
 na2-docusign-net-envelope-office365-auth.us-southeast-1.linodeobjects.com
 na3-docusign-auth-office365.us-lax-1.linodeobjects.com
-na3-docusign-office365.us-sea-1.linodeobjects.com
 nabla-amm.fi
 nabla-finance-week4testnetlive.vercel.app
 naka-migos.net
@@ -6619,7 +6617,6 @@ tahodistribution.com
 taichinhbidv.com
 taiko.io-c.org
 taiko.org-t.co
-taikoxyz.com
 takeitnow.pro
 tamadoge.top
 tamairdrop.netlify.app
