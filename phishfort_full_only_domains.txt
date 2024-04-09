@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 06:01:56 UTC 2024
-# Number of Entries: 107775
+# Fetch date: Tue Apr  9 07:01:55 UTC 2024
+# Number of Entries: 107787
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -14201,6 +14201,7 @@ box.live-web3.net
 boxcatplanet.live
 boxcatplanet.on-freemint.com
 boxes-manta.network
+boxeseden.web.app
 boxingboyzz.net
 boxmint-project.web.app
 boxnft.claims-live.xyz
@@ -22887,6 +22888,7 @@ dao-seedify.fund
 dao-seedify.org
 dao-seedify.pl
 dao-sei.com
+dao-solana.web.app
 dao-vela.org
 dao-velodromefinance.org
 dao.zksyn.org
@@ -27792,6 +27794,7 @@ dsdtokendrops.com
 dsh2trade.com
 dshooe1rci4erbm.elb-host86.pancakeswape.finance
 dshop.originprotocol.cordpidgeon.com
+dsjgfsdjifsdjifsji.web.app
 dsjxy.yongwudi.net
 dsoft.cloud
 dspsoltiion.info
@@ -28100,6 +28103,7 @@ earn-babylonchain.fund
 earn-babylonchain.net
 earn-babylonchaln.app
 earn-binance.com
+earn-cookie.community
 earn-crypto-trustapp.online
 earn-defipool.com
 earn-dmail.com
@@ -43171,6 +43175,7 @@ layerzreo-labs.io
 layerzreolabs.top
 layerzrlabs.xyz
 layerzro.eu
+layerzzero.pics
 layler3.xyz
 layorzeronetwork.com
 layr3.xyz
@@ -48034,6 +48039,7 @@ masgouidetma.org
 mask-airdrop.top
 mask-airdrops.com
 mask-claim.com
+mask-dao.web.app
 mask-metamask.io
 mask-portal.com
 mask-reward.web.app
@@ -59802,6 +59808,7 @@ nft-suped.web.app
 nft-swellnetwork.io
 nft-syncs.com
 nft-trade.xyz
+nft-tradee.web.app
 nft-trader.co
 nft-uniswap.life
 nft-uniswap.online
@@ -73175,6 +73182,7 @@ pyplclaims.xyz
 pyro-nft-vercel.pages.dev
 pyrthdex.com
 pyt-rew.vercel.app
+pyth-claim.web.app
 pyth-network.io
 pyth-network.tech
 pyth-protocol.space
@@ -79898,6 +79906,7 @@ sol-main.com
 sol-official.store
 sol-phantom.com
 sol-refund.com
+sol-sola.web.app
 sol3na-sol.art
 sola-x.web3fast.net
 sola.house
@@ -80640,6 +80649,7 @@ soporte.pancakeswasap.one
 soporteconsorcio-empresas.site
 soportedaviplata.webcindario.com
 soportevt.grupoinmotion.com
+sor-nft.web.app
 sotana-network.com
 sotkant.site
 souilz.com
@@ -81003,6 +81013,7 @@ sqp4rqf66gww32w.www.elb-host86.pancakeswape.finance
 sqrls-flow.com
 sqrlsflowgenesis.com
 sqs.pancakeswape.finance
+square-dream-wailing.on-fleek.app
 squaredefidapp.netlify.app
 squid-grow.one
 squid.wtf
@@ -87530,6 +87541,7 @@ tsltokenio.com
 tslx.vip-west.website
 tsoght.xyz
 tsogts.com
+tsrndao.web.app
 tsrocketfactory.xyz
 tstrex.com
 tsubasarivals.com
