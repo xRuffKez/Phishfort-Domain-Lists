@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 22:24:19 UTC 2024
-# Number of Entries: 8121
+# Fetch date: Tue Apr  9 22:32:15 UTC 2024
+# Number of Entries: 8122
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -767,7 +767,6 @@ archive.cowfi.org
 ardrp.xyz
 arenal-outlet.shop
 arenal-outlet.vip
-arenal-sale.shop
 arenales-outlet.shop
 areyoubullishsol.io
 arkhamintelligence.gift
@@ -2677,6 +2676,7 @@ gas-lido.com
 gasfeecal.com
 gayjoygo.com
 gcko.org
+geezyy.github.io
 gemg.vercel.app
 gemlink.xyz
 gempad-app.xyz
@@ -5795,6 +5795,7 @@ revoke-wallet.net
 revoke-web.xyz
 revoke.digital
 revoke.expert
+revoke.greyh.at
 revoke.host
 revoke.ink
 revoke.markets
