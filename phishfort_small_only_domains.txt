@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 13:52:22 UTC 2024
-# Number of Entries: 8156
+# Fetch date: Tue Apr  9 14:03:01 UTC 2024
+# Number of Entries: 8153
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -867,7 +867,6 @@ avax-swap.com
 avax.pm
 avaxdrop.org
 avaxtoken.pro
-avito.pay.pancakeswap.reid4deeds.com
 awesomestrawberry.za.com
 awrm.xyz
 axie.valimrocha.workers.dev
@@ -7529,7 +7528,6 @@ www.asxhk7.com
 www.asxhkd1.com
 www.asxidn.com
 www.ator.claimfree.xyz
-www.avito.pay.pancakeswap.reid4deeds.com
 www.axieinfinity-global.com
 www.axiemarketplace.lol
 www.bainxu.com
@@ -7962,7 +7960,6 @@ xn--fixedfloat-0ub.com
 xn--fixedfloat-1ub.com
 xn--fixedfloat-2ub.com
 xn--fixedfloat-3ub.com
-xn--fixedfloat-e0b.com
 xn--fixedfoad-vub.com
 xn--fixedfoat-0pb.com
 xn--fixedfoat-vub.net
