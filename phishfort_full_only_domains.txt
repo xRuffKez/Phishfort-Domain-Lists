@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 14:42:29 UTC 2024
-# Number of Entries: 107800
+# Fetch date: Tue Apr  9 14:52:08 UTC 2024
+# Number of Entries: 107801
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -103429,6 +103429,7 @@ www.user-pudgypen.xyz
 www.usersfreemints.click
 www.ustaylorsshop.com
 www.uvfkprp.top
+www.uwallet.com
 www.uwallets.live
 www.v-paxful.com
 www.v2-manta.network
