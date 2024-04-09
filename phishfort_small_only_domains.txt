@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 10:02:12 UTC 2024
-# Number of Entries: 8175
+# Fetch date: Tue Apr  9 12:03:45 UTC 2024
+# Number of Entries: 8173
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -197,7 +197,6 @@ agent-nulik.org
 ageofgods.eu
 agic.link
 agixreward.xyz
-agnidex.com
 agoda-88.vip
 agoda-checkout-id843753.com
 agoda-com.com
@@ -1693,6 +1692,7 @@ collab.bot-community.com
 collab.defender-system.com
 collab.land-satoshivm.com
 collab.land-verifeds.com
+collab.role-bot.net
 collabandverify.onrender.com
 collabandverify.vercel.app
 collabaward.site
@@ -2132,6 +2132,7 @@ distribution-metis.com
 distribution-pancakeswap.xyz
 distribution-pondcoin.com
 distribution-shido.com
+diving-mantanetwork.pages.dev
 dlkipcv.cc
 dlogdapp.pages.dev
 dmail-airdrop.org
@@ -2758,7 +2759,6 @@ getgrass.cx
 geth.claims
 getmanta.network
 getmidjourney.tech
-getpyth.app
 getrewards.life
 gets.dappsradars.online
 getshib.io
@@ -3457,7 +3457,6 @@ lendingtreeincusa.com
 lendingtreellc.org
 lendingtreeusa.us
 lengthepengkiller.xyz
-lesfeesandgas.org
 lessfeeandgas.org
 lfg-jup-claims.pages.dev
 lfg-jup.app
@@ -4131,7 +4130,6 @@ metamaskarticle.com
 metamaskb.icu
 metamaskc.org
 metamaskcrypto.com
-metamaske.com.cn
 metamaskio.xyz
 metamasklabs.cloud
 metamaskmal.ru
@@ -4777,7 +4775,6 @@ okx-airdop.net
 okx-usdt.cc
 olas.finance
 old-alpacafinance.site
-old.alpha.superset.ethshapella.com
 oldsecondnationalpagelink.info
 oldsecondwork.pics
 olympus-dao.finance
@@ -5178,6 +5175,7 @@ paxfulonline.com
 paxfulp2p.com
 paxfulpay.com
 paxfulpay.net
+paxfulpro.cc
 paxfulproblems.com
 paxfult.com
 paxfulteams.com
@@ -6671,7 +6669,6 @@ test-project-llfwf7bel-artemkk787-gmailcom.vercel.app
 test.saf9gti25klom8xz79iyn2s.xyz
 test.vortexcapitaltrade.com
 test3123123132.pages.dev
-testdomainstesting2.com
 testnet-berachain.com
 testnet-vm.web.app
 testnets-reform.com
@@ -7066,6 +7063,7 @@ verify-kvxabot.pages.dev
 verify-matrica.vercel.app
 verify-vulcan.net
 verify-wallets.com
+verify.api55-collab.com
 verify.connectkava.xyz
 verify.kava-api.live
 verify.kavaxyz.xyz
@@ -7619,7 +7617,6 @@ www.eigen-layer.sale
 www.eigenlaver.magpiexyz.site
 www.eligibility-wenwencoin.com
 www.eligible-porkcoin.com
-www.en.redash.production.winkdrop.net
 www.ethena.finance
 www.ethereumdrop.com
 www.ethereumrefund.com
@@ -8039,6 +8036,7 @@ yaler.info
 yasno-gov.pages.dev
 ybixfed.pro
 ycs-agoda.cc
+ycs-extranet.com
 ycs.com-find-extra.com
 ycsextranetagoda.com
 yearn.deflab.top
