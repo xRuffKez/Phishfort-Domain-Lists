@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 15:42:20 UTC 2024
-# Number of Entries: 8156
+# Fetch date: Tue Apr  9 16:03:19 UTC 2024
+# Number of Entries: 8146
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -78,7 +78,6 @@
 2raydium.sbs
 3000usdt.xyz
 32f79d9c.7cdb6f3702a09bbbd3afc136.workers.dev
-35pw0978.pw
 365cash.store
 3denergysolution.com
 3ebank.github.io
@@ -3120,7 +3119,6 @@ italianoinfo.net
 iykapp.xyz
 izumis.finance
 j2gkzzu.top
-j6nypr752.ukit.me
 jade-melba-55acae.netlify.app
 jamesthurmankahn.com
 jane-ai.com
@@ -3472,7 +3470,6 @@ lido.finance.fi.be-drv.com
 lido.liquid.inverni.us
 lidocrypto.fi
 lidodrops.info
-lidoe.azurewebsites.net
 lidoex.com
 lidof.net
 lidofi.trading
@@ -5316,7 +5313,6 @@ pixelsairdrop.com
 pixelsapp-play.xyz
 pixelscoin.com
 pixelsgame.world
-pixelstoken.xyz
 pixsmart-tv.com
 pixxelnft.eu
 pkinksle.com
@@ -5637,7 +5633,6 @@ raydiom.boats
 raydiom.skin
 raydipage.xyz
 raydiu.com
-raydium-frontend-44x.pages.dev
 raydium-frontend.pages.dev
 raydium.app
 raydium.boats
@@ -7543,7 +7538,6 @@ www.birdeye.exchange
 www.birdeye.markets
 www.birdeye.trade
 www.bitoptvex.com
-www.bitrockpool.xyz
 www.blockchainbets-vault.com
 www.blur.com.ru
 www.bonkinu.co
@@ -7677,7 +7671,6 @@ www.krakenusdt.com
 www.kriya-finance.cyou
 www.kriya-finance.tech
 www.kumelt.com
-www.l2-blast.io
 www.latoken-exchange.com
 www.launchpad.sporess.pro
 www.layer-3.xyz
@@ -7902,7 +7895,6 @@ www.virtualsafetysolutions.net
 www.vlaunch.org
 www.vopiow.com
 www.walletsdapprepl.com
-www.wallstmemes.mobi
 www.web.resolvebugvvalidly.org
 www.web3mwe.com
 www.webcamrecordings.com
@@ -7977,7 +7969,6 @@ xn--fxdlfloat-c4a6b.com
 xn--fxedfiloat-xub.com
 xn--fxedflaot-vpb.net
 xn--fxedflaot-vpbc.com
-xn--fxedflaots-68a.com
 xn--fxedflcoat-68a.com
 xn--fxedflioat-xub.com
 xn--fxedfllaot-k8a.com
@@ -8142,7 +8133,6 @@ zksync-rewards.org
 zksync.line.pm
 zksync.nirbhik.com
 zksync.token-claim.cc
-zksync2024.com
 zksyncera.app
 zksynoc.github.io
 zksynq.github.io
