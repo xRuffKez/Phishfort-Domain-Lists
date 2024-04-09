@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 03:02:19 UTC 2024
-# Number of Entries: 8166
+# Fetch date: Tue Apr  9 04:03:27 UTC 2024
+# Number of Entries: 8167
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -242,7 +242,6 @@ agodaycs.com
 agodaycs.org
 agveah.cc
 ahora-ingres-aca.netlify.app
-ai-chatbot.ae
 ai-dapp.pages.dev
 ai-decentraldapp.pages.dev
 ai-smadecentrelized.pages.dev
@@ -428,6 +427,7 @@ allocation-satoshivm.pages.dev
 alp.local-user.com
 alp.systemupdates.org
 alpha-fetch.com
+alpha-tokens.web.app
 alphalobstarpal.pages.dev
 alphatrace.pro
 alphatrace.tech
@@ -7351,6 +7351,7 @@ wen-jup.app
 wen-jupiter.onchain-airdrop.com
 wen-wencoin.com
 wen.meme
+wenbutusedgently.xyz
 wencoin.gg
 wendrops.com
 wenexchange.net
