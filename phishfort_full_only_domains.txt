@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 07:01:55 UTC 2024
-# Number of Entries: 107787
+# Fetch date: Tue Apr  9 08:01:53 UTC 2024
+# Number of Entries: 107790
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -58865,6 +58865,7 @@ mysterybox433.vercel.app
 mysterybox4333.vercel.app
 mysterybox55.vercel.app
 mysterybox673.vercel.app
+mysterybox74j.vercel.app
 mysterybox75.vercel.app
 mysterybox882.vercel.app
 mysteryboxarbitrum.com
@@ -79954,6 +79955,7 @@ solana-meta.net
 solana-minting.com
 solana-pdl.com
 solana-portal.org
+solana-profit.web.app
 solana-promo.com
 solana-promo.info
 solana-promo.org
@@ -99067,6 +99069,7 @@ www.ethstakedlido.com
 www.ethstakinglidofi.com
 www.ethswe.com
 www.ethusdt-dapp.com
+www.etokensolana.aysarr.in
 www.etsyiod.cc
 www.event-metis.io
 www.event-ripple.live
