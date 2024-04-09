@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 20:32:44 UTC 2024
-# Number of Entries: 8118
+# Fetch date: Tue Apr  9 20:41:59 UTC 2024
+# Number of Entries: 8120
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1236,6 +1236,7 @@ browserkitchen.com
 browsersextension.com
 brrc20.pro
 brustolkmasschendrst.com
+bsc-pancakeswap.pages.dev
 bssmt.pro
 btc-etftoken.web.app
 btcetf-token.net
@@ -7336,6 +7337,7 @@ wesltchekspas.com
 west-braves.info
 westrock-workwear.nl
 wetolove.com
+whales.markets
 whalesmarket.org
 wheelerr.shop
 whiteberidgepet.com
