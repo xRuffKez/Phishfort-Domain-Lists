@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 17:42:12 UTC 2024
-# Number of Entries: 107801
+# Fetch date: Tue Apr  9 18:33:16 UTC 2024
+# Number of Entries: 107802
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -99890,6 +99890,7 @@ www.jokersparty.com
 www.jomosoftware.tech
 www.jompyc.com
 www.jordon.info
+www.ju.normbit.online
 www.junglenft.xyz
 www.just-apes.site
 www.justflyme.com
