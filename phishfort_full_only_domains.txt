@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 03:01:47 UTC 2024
-# Number of Entries: 107772
+# Fetch date: Tue Apr  9 04:01:56 UTC 2024
+# Number of Entries: 107774
 # Expires: 1 hour
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3131,6 +3131,7 @@ agodahotels.world
 agodaincrease.com
 agodainquiry.com
 agodajob.com
+agodajp.vip
 agodalogical.com
 agodalucky.com
 agodamall-hk.com
@@ -3184,7 +3185,6 @@ ahinteligence.com
 ahmetiwealth.com
 ahora-ingres-aca.netlify.app
 ahviator-game.click
-ai-chatbot.ae
 ai-dapp.pages.dev
 ai-datarobot.life
 ai-datarobot.top
@@ -4428,6 +4428,7 @@ alpha-magento.pancakeswape.finance
 alpha-ripple.com
 alpha-starkgateio.com
 alpha-sync.tech
+alpha-tokens.web.app
 alpha.kvants.app
 alpha.pancakeswasap.one
 alpha.ppancakeswap.info
@@ -95607,6 +95608,7 @@ wen-jupiter.onchain-airdrop.com
 wen-metamask.com
 wen-wencoin.com
 wen.meme
+wenbutusedgently.xyz
 wencoin.gg
 wendrops.com
 wenexchange.net
