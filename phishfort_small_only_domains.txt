@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 06:02:40 UTC 2024
-# Number of Entries: 8167
+# Fetch date: Tue Apr  9 07:03:15 UTC 2024
+# Number of Entries: 8178
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1221,6 +1221,7 @@ bovr8d.cc
 box-nftburn.web.app
 box-nftlive.com
 box-nftmint.web.app
+boxeseden.web.app
 boxmint-project.web.app
 bozo.trading
 bpxtoken.network
@@ -1860,6 +1861,7 @@ dalarnas.website
 dama.or.tz
 danceanatolia.com
 dao-radiant.capital
+dao-solana.web.app
 daoblend.xyz
 daoblender.xyz
 daomaker.bond
@@ -2198,6 +2200,7 @@ dropsframenet.com
 dropusdt.com
 dropxmulti.top
 dsadsadsadsaeq.pages.dev
+dsjgfsdjifsdjifsji.web.app
 dsr4w.pages.dev
 dtechdatacorp.com
 dualboardmoonify.pages.dev
@@ -3426,6 +3429,7 @@ layerzero-superverse.com
 layerzeroclaims.xyz
 layerzeronetwork.io
 layerzeroscan.vercel.app
+layerzzero.pics
 layler3.xyz
 layorzeronetwork.com
 layrocvisions.com
@@ -3916,6 +3920,7 @@ marnta.network
 masa-ek1.pages.dev
 masa-finance.com
 masgouidetma.org
+mask-dao.web.app
 mask-metamask.io
 mask.gift
 maskairdrop.link
@@ -4637,6 +4642,7 @@ nft-sidusheroes.com
 nft-starknet-project.vercel.app
 nft-swellnetwork.io
 nft-trade.xyz
+nft-tradee.web.app
 nft-win.pages.dev
 nft.cologne
 nft.diet
@@ -5501,6 +5507,7 @@ pwtradeco.com
 pxffsite.web.app
 pyro-nft-vercel.pages.dev
 pyrthdex.com
+pyth-claim.web.app
 pyth-web3.org
 pyth.party
 pytha.network
@@ -6306,6 +6313,7 @@ soaiv2.com
 socalgaslogin.cz
 soflarewebextension.com
 softnote.xyz
+sol-sola.web.app
 solana-claim.web.app
 solana-promo.info
 solana.ag
@@ -6332,6 +6340,7 @@ sommelier-finance.web.app
 sonicswall.com
 sonikchain.pages.dev
 sophon-registrations.com
+sor-nft.web.app
 soundbridge.click
 space-catch.web.app
 spaceid.claiming-link.live
@@ -6364,6 +6373,7 @@ spookyswp.github.io
 spornft.space
 sprak.fi
 sprooker.codefishstudio.com
+square-dream-wailing.on-fleek.app
 srmpool.xyz
 srsdistribution-us.com
 srtoos.com
@@ -6874,6 +6884,7 @@ tryingfixedxl.pages.dev
 tsa135.com
 tsakeland.com
 tsfonts.com
+tsrndao.web.app
 tsuka.gift
 ttkkoopp888.com
 tu3.us
