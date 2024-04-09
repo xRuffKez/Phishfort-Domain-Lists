@@ -2,8 +2,8 @@
 # This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 01:23:41 UTC 2024
-# Number of Entries: 8168
+# Fetch date: Tue Apr  9 02:08:24 UTC 2024
+# Number of Entries: 8167
 # Expires: 1 hour
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -5295,7 +5295,6 @@ petsversegames.site
 pfantmwallet.godaddysites.com
 pgenztokenclaim.pages.dev
 phanntm-walluut.godaddysites.com
-phanntomnwallet.com
 phant0m-wallet.github.io
 phantimp.xyz
 phantjum.xyz
