@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 13:44:00 UTC 2024
-# Number of Entries: 107796
+# Fetch date: Tue Apr  9 14:32:29 UTC 2024
+# Number of Entries: 107799
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -40277,6 +40277,7 @@ interactivebrokersllcs.com
 interactivebrokerslp.com
 interactivebrokersrle.com
 interactivebrokersrue.com
+interactivebrokerstrading.com
 interactivebrokersx.com
 interactivebrokerz.com
 interactivebrokjers.com
@@ -44805,6 +44806,7 @@ lnslagram.com
 lnspro.site
 lnstgram-bussines-helpcenter-account-contact-82847828377389.ml
 lnsulet.com
+lnter-webtr.jhsw3edasva.life
 lnteractivebrokers-co-uk.caspianwinds.com
 lnteractivebrokers.co.uk
 lnterportfinance.com
@@ -45440,6 +45442,7 @@ lodalbitcoins.com
 lodcalbitcoins.com
 loderstarfinance.live
 lodgeresort.com
+lodgis.agency
 loermerge.shop
 lofalbitcoins.com
 lofcalbitcoins.com
