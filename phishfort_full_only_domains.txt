@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr  9 22:24:39 UTC 2024
-# Number of Entries: 107808
+# Fetch date: Tue Apr  9 22:33:25 UTC 2024
+# Number of Entries: 107810
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -35573,6 +35573,7 @@ geckorewardx.fun
 geckoswap.finance
 gecnareepartneum.live
 gedprefeituraimbituva.com.br
+geezyy.github.io
 gefesta.top
 geforcecoin.com
 geinesis-celestia.org
@@ -75252,6 +75253,7 @@ revoke.dev
 revoke.digital
 revoke.domains
 revoke.expert
+revoke.greyh.at
 revoke.host
 revoke.icu
 revoke.ink
