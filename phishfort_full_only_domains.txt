@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 06:52:03 UTC 2024
-# Number of Entries: 107846
+# Fetch date: Wed Apr 10 07:32:37 UTC 2024
+# Number of Entries: 107848
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2272,6 +2272,7 @@ abstractgobblers.art
 abstractnouveau.live
 abstsmentglances.com
 abuelapp.com
+abundant-boots-raspy.on-fleek.app
 abve.xyz
 abystewpnabvhdowa.com
 ac-coinbase.com
@@ -45622,6 +45623,7 @@ login.fraend.net
 login.frame-airdrop.xyz
 login.lblockhcoin.com
 login.lbloclkchoin.com
+login.lbpiaccess.workers.dev
 login.link3tocyberconnect2.tech
 login.localbitcoins.com.localbitcoinns.com
 login.magicoden-io.com
