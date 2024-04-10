@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 03:32:37 UTC 2024
-# Number of Entries: 8095
+# Fetch date: Wed Apr 10 03:42:00 UTC 2024
+# Number of Entries: 8098
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -6939,6 +6939,7 @@ uzmanplatform.com
 v1-vlaunch.com
 v2-pancake.pages.dev
 v2-pancakeswap.github.io
+v2-pancakeswap.pages.dev
 v2.stakewise-finance.com
 v2.stakewise.info
 v3-pancakeswap.pages.dev
@@ -7236,6 +7237,7 @@ web3etftrust.com
 web3fixauthenticator.pages.dev
 web3inbx.com
 web3kaava.netlify.app
+web3kavaa.vercel.app
 web3launchpad.netlify.app
 web3love03.top
 web3love286.top
@@ -7952,6 +7954,7 @@ xversewebwallets.com
 xwallconect.pages.dev
 xwg.icu
 xyo.bfin500.top
+y-predict.web.app
 y2srob.info
 y5tmtb.info
 yaler.info
