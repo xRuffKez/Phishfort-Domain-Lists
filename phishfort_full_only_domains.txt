@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 13:03:38 UTC 2024
-# Number of Entries: 107866
+# Fetch date: Wed Apr 10 13:42:18 UTC 2024
+# Number of Entries: 107872
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4034,6 +4034,7 @@ ait.gift
 ait.gifts
 aitchain.fun
 aitchain.in
+aitechblockresolve.pages.dev
 aitfinances.com
 aitrader.site
 aitraderdrop.com
@@ -17887,6 +17888,7 @@ cliffordchance.cadeirasrosa.com.br
 cliffordchance.io
 cliffordchance.pro
 cliffordchance.site
+cliffordchanceconsulting.com
 cliffordchancecorp.com
 cliffordchancegroup.uk
 cliffordchancegroups.com
@@ -25342,6 +25344,7 @@ decetral.games
 decetrallends.com
 decfntral.games
 dechainrectify.com
+dechatclaim.pages.dev
 decimoconnect.com
 decipherwallets.info
 decktxidlobe.com
@@ -27256,6 +27259,7 @@ dogecoin-lives.com
 dogecoin.gifts
 dogecoin.love
 dogecoin20-ai.web.app
+dogecoin20resolve.pages.dev
 dogecoin2x.info
 dogecoinclick.com
 dogecoingiveaway.live
@@ -40753,6 +40757,7 @@ jacob-co.xyz
 jade-melba-55acae.netlify.app
 jadepro.xyz
 jaduavas.the-minting.com
+jaguarlandrover.kmmediagroup.com
 jaguarlandroverfinancechallenge.com
 jaguarlandroversec.world
 jailedbayc.xyz
@@ -86599,6 +86604,7 @@ tramsipublicidad.com
 tranapovac.tk
 tranchess-liquid.com
 tranchsess.com
+tranlnter-web.ilckgpb9wxf.life
 trans-interface.com
 transaction-authorization.droppages.com
 transaction-sends.tech
