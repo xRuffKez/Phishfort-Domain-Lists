@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 15:52:25 UTC 2024
-# Number of Entries: 107879
+# Fetch date: Wed Apr 10 16:28:22 UTC 2024
+# Number of Entries: 107880
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -89428,6 +89428,7 @@ urubit-promogive.net
 us-accountsreceivables.net
 us-adidas.com
 us-adidas.io
+us-ashleymadison.com
 us-bitkub-acess.blogspot.com
 us-coinbasewallet.com
 us-coinmarketcap.com
