@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 04:52:20 UTC 2024
-# Number of Entries: 107843
+# Fetch date: Wed Apr 10 05:32:24 UTC 2024
+# Number of Entries: 107846
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -26543,6 +26543,7 @@ dexprofoundchain.org
 dexproject.netlify.app
 dexprotocol.online
 dexprotocolchain.io
+dexprotocolchain.live
 dexprotocolserver.net
 dexqguru.link
 dexrectification.com
@@ -62970,6 +62971,7 @@ order.pancakeswasap.one
 order.pancakeswep.info
 order.pancakeswwap.info
 ordiboardfusion.pages.dev
+ordify.pages.dev
 ordiinalswallet.com
 ordinal-ape.com
 ordinal-apes.com
@@ -62988,6 +62990,7 @@ ordinalsazuki.com
 ordinalsbubbles.space
 ordinalsbubbles.world
 ordinalsmarket.cc
+ordinalswallet-gid0.onrender.com
 ordinalwallets.net
 ordinate-sync.net
 ordiralswallet.com
