@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 16:27:56 UTC 2024
+# Fetch date: Wed Apr 10 16:37:23 UTC 2024
 # Number of Entries: 8104
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6219,7 +6219,6 @@ smartnoderevoke.pages.dev
 smartrectification.pages.dev
 smartreviseprotocol.pages.dev
 smartreviseweb.pages.dev
-smartsheets.site
 smartsheetusa.team
 smarttdappfix.pages.dev
 smartwebmultiverse.eu
@@ -7369,6 +7368,7 @@ withdrawaldesk.com
 wizink.cartoespt-app.online
 wkjyd.top
 wkkuail.vip
+wlcbdqs.org.cn
 wm697t2io8uh7uaui6jg1oc4.designsdart.com
 wo1cw.pro
 wodlressxs.ru.com
