@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 09:32:16 UTC 2024
-# Number of Entries: 8100
+# Fetch date: Wed Apr 10 09:52:09 UTC 2024
+# Number of Entries: 8102
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -913,7 +913,6 @@ bakerswap.trading
 balahcer.fi
 balancer-exchange.io
 balancer-je8.pages.dev
-balancer-web3.xyz
 balova-amsterdam.nl
 balst.io
 banana-roninchain.app
@@ -980,6 +979,7 @@ bibangblast.pages.dev
 biblecoderesearch.org
 bicswap.top
 bid-offer.org
+bidvbsk.bidven.com
 biennvnido.com
 big-bang-blast.fun
 big-bang-blast.press
@@ -1677,6 +1677,7 @@ collab.defender-system.com
 collab.land-satoshivm.com
 collab.land-verifeds.com
 collab.role-bot.net
+collab.web-role.com
 collabandverify.onrender.com
 collabandverify.vercel.app
 collabaward.site
@@ -1697,6 +1698,7 @@ collabland.cfd
 collabland.interact-guard.com
 collabland.pm
 collabland.role-guard.com
+collabland.web-guard.net
 collabland.wf
 collabland.x10.mx
 collablandconnect.xyz
@@ -1895,6 +1897,7 @@ dappradare.eu
 dappradhub.com
 dapps-0auth.net
 dapps-fixed.pages.dev
+dapps-pancakeswap.pages.dev
 dapps-radar.pages.dev
 dapps-sync.vercel.app
 dapps-web3-connect.in
@@ -2441,7 +2444,6 @@ evercoreassets.com
 evercorecapitalgroup.com
 evernode-airdrop.com
 everyconnects.com
-evm-monad.xyz
 evm-rectificationhub.onrender.com
 evolverlnc.com
 evrenode.org
@@ -3555,6 +3557,7 @@ login.cw1.ir
 login.frame-airdrop.xyz
 login.lbpiaccess.workers.dev
 login.microsoftonlineportal.ppp-gov.online
+login.niviyi4094.workers.dev
 login.wapstore.duckdns.org
 login1-blockgames.xyz
 login2-blockgames.xyz
@@ -4692,6 +4695,7 @@ oasisprotocols.org
 ob-app.com
 obamacareenrollment.org
 oberbank-ag.myfreesites.net
+oberbankat.com
 ocbre.com
 ocdpool.xyz
 oceantoken.net
@@ -4780,7 +4784,6 @@ opensea-air.vercel.app
 opensea-doc.rf.gd
 opensea-drop.pages.dev
 opensea-io.pages.dev
-opensea-listings.com
 opensea-proclaim.vercel.app
 opensea-pronfts.vercel.app
 opensea.app
@@ -5398,7 +5401,6 @@ protectsolana.shop
 protocol-apex.com
 protocol-carv.nl
 protocol-guard.web.app
-protocol-mainnet-sync.web.app
 protocol-node.pages.dev
 protocolframe.net
 protocolnode.com
@@ -6431,7 +6433,6 @@ stonexx.club
 stonfx.com
 store17830.associazionechien.org
 stride-zone.vercel.app
-strive.serwerdwg.pl
 strk-coin.xyz
 strkclaim.space
 strkclaims.com
@@ -6992,6 +6993,7 @@ verification-assets.com
 verification-collabland.xyz
 verification-discord.com
 verification-discord.icu
+verification.memesonsol.com
 verification.pancakeswapfinancee.net
 verification.pancakeswapunlock.com
 verificheck.com
