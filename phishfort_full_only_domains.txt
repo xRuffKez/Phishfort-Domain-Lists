@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 15:32:30 UTC 2024
-# Number of Entries: 107878
+# Fetch date: Wed Apr 10 15:42:19 UTC 2024
+# Number of Entries: 107879
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -87629,6 +87629,7 @@ tt-connext.com
 tt.bep-mining8090.org
 ttcoin-promogive.com
 ttcswap.finance
+ttec-corp.com
 ttec-schedule.com
 ttec.ink
 ttec.pier2marketing.com
