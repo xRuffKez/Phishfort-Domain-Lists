@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 00:11:11 UTC 2024
-# Number of Entries: 107813
+# Fetch date: Wed Apr 10 02:11:30 UTC 2024
+# Number of Entries: 107833
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3678,6 +3678,7 @@ airdrop.fractol.es
 airdrop.fractol.se
 airdrop.frieend.tech
 airdrop.froctol.eu
+airdrop.fuelchain.network
 airdrop.fuelnetwork.net
 airdrop.info.gf
 airdrop.layerzeron.network
@@ -4722,6 +4723,7 @@ amlcrypto.world
 amlcryptobot.org
 amlcrystalbot.com
 amlinfosystems.com
+amlinspect.com
 amljumper.com
 amllbot.com
 amlprotection.com
@@ -6694,6 +6696,7 @@ appeigenlayer.xyz
 appendmainet.live
 appersconnect.com
 appethena.finance
+appethena.vip
 appeuler.finance
 appevmos.online
 appextensionfixes.com
@@ -17052,6 +17055,7 @@ claim-metamask.xyz
 claim-metaplex.dev
 claim-metis.com
 claim-mnlth.com
+claim-molly.xyz
 claim-moonbirds.com
 claim-moonbirds.net
 claim-moonbirds.xyz
@@ -17370,6 +17374,7 @@ claim.polkapot.network
 claim.renqapp.live
 claim.retikapps.com
 claim.reward-layerzero.network
+claim.riftswap.net
 claim.rocket-pool.app
 claim.safepaycoins.com
 claim.safethemoon.com
@@ -17402,6 +17407,7 @@ claim.wallstretmemes.app
 claim.wbtccoin.org
 claim.wen.ag
 claim.wormhole.fitness
+claim.www-catcoin.com
 claim.xn--optimsm-ffb.net
 claim.xn--optmism-tfb.net
 claim.xn--optmsm-yvab.net
@@ -24852,6 +24858,7 @@ deadlyducks.mintnfit.com
 deafah.in
 deal-hk.info
 deal.smartokendeals.net
+dealerhuntersg.com
 dealershipjiobp.cngpumpdealership.net
 dealershipjiobp.com
 dealersjiobp.com
@@ -27253,6 +27260,7 @@ dogepad.top
 dogepay.info
 dogepromo.com
 dogerocket-promogive.com
+dogescoinel20.club
 dogesolana.site
 dogethefloki-promogive.com
 dogeyellow-promogive.com
@@ -28190,9 +28198,11 @@ earni-fi.xyz
 earni.fo
 earni.vip
 earnidrop.io
+earnifiapp.xyz
 earnifinance.xyz
 earningdrop.dev
 earnis.app
+earnm.org
 earnnerairdrops.org
 earnpadeairdrops.org
 earnpads-airdrop.org
@@ -30192,6 +30202,7 @@ ethelon2x.com
 ethena-airdrop.vercel.app
 ethena-ddg.pages.dev
 ethena-dwm.pages.dev
+ethena-labs.click
 ethena-mining.pages.dev
 ethena-pool.pages.dev
 ethena-solutions.pages.dev
@@ -51555,6 +51566,7 @@ metamaskrestores.pages.dev
 metamaskreview.godaddysites.com
 metamaskreward.com
 metamaskrich.life
+metamaskrich.xyz
 metamasks-airdrop.top
 metamasks-drop.com
 metamasks-extension.com
@@ -53719,6 +53731,7 @@ moceissxe.blogspot.com
 mod.bc8kwz7u.com
 modadasemana.fun
 modafemininbr.com
+modaxtei.com
 modde.network
 mode-network.org
 mode-network.top
@@ -60583,6 +60596,7 @@ nofeka.net
 nogas.app
 noidkillnsmacsbirddye.ru
 noilehtnoil.com
+noitailg.com
 noitargimekot2vpawz.live
 nolaisadog.com
 nolbody.com
@@ -68903,6 +68917,7 @@ pcbkcominstpay-001-site1.gtempurl.com
 pcccareer.com
 pcci.top
 pcdealnets.com
+pceme.cc
 pcertification.xyz
 pchocoishoes2.gq
 pcloudfxcrediteconnectverification.com
@@ -70003,6 +70018,7 @@ pi-dapp.xyz
 piairdrop.com
 piancakeswap.website
 piaxuil.com
+pibel.cc
 piblockchainnet.com
 pibrowser.stakeforpioneers.browserpioneers.com
 pichainmall.com.ng
@@ -83967,6 +83983,7 @@ synergyhealthwebadmindev.azurewebsites.net
 synesoshealth.com
 synfutures-app.com
 synfutures-trade.com
+synfuturese.top
 syngswap.github.io
 synhtetix.io
 synitfix.com
@@ -91476,6 +91493,7 @@ vyystar7.duckdns.org
 vyz.sethra.ddnss.de
 vz.sarajinihs.edu.bd
 vzhvfr.work
+vzxamt.cc
 w-airdrop.vercel.app
 w-appconnector.com
 w-connectfix.com
@@ -96211,6 +96229,7 @@ wormholebridgestaking.com
 wormholenetwork.claims
 wormholenetwork.link
 wormholes.web3-airdrop.net
+wormholetech.click
 wormholew.top
 worthy-nft.online
 wospublications.com
@@ -106819,6 +106838,7 @@ yk764339532236.homeunix.com
 ykerala.com
 ykwzj.pro
 ylide-otc-paraswap.pages.dev
+ylniamh.com
 ylpydg3ryks5p8v.wallet.sergiy.top
 ymaxgadgetz.com
 ymetherumwallet.com
