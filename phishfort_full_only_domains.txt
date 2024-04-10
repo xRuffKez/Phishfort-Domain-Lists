@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 07:32:37 UTC 2024
-# Number of Entries: 107848
+# Fetch date: Wed Apr 10 07:42:20 UTC 2024
+# Number of Entries: 107849
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -74561,6 +74561,7 @@ refereum-token.com
 refereum.com.erc-20.claims
 refereum.tokens-aword.com
 referral-192771.xyz
+referral-imaginaryones.com
 referralaspx.eisencpa.com
 refixsync.pages.dev
 refixsystem.com
