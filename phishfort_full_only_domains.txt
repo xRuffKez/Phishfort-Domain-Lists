@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 16:52:22 UTC 2024
-# Number of Entries: 107881
+# Fetch date: Wed Apr 10 17:14:48 UTC 2024
+# Number of Entries: 107884
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3077,6 +3077,7 @@ agoda.offer18239.com
 agoda.partner-extranet.info
 agoda.partner-extranet.life
 agoda.res94219.com
+agoda.reserv19471.org
 agoda.resew-r.world
 agoda.shop
 agoda.take-t.top
@@ -47340,6 +47341,7 @@ mainnetextension.live
 mainnetextension.net
 mainnetfix.com
 mainnetfix.net
+mainnetfix.web.app
 mainnethost.com
 mainnethub-protocol.com
 mainnethub.app
@@ -68711,6 +68713,7 @@ paxfulsystem.com
 paxfult.com
 paxfulteams.com
 paxfulterm.com
+paxfultf.com
 paxfultrade.gq
 paxfultrade.ml
 paxfultrade.xyz
