@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 04:15:38 UTC 2024
-# Number of Entries: 8100
+# Fetch date: Wed Apr 10 04:32:26 UTC 2024
+# Number of Entries: 8103
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1165,6 +1165,7 @@ bobindefi.xyz
 bobotokenhub.top
 bol.mxmfk.club
 boltbot.eu
+bomebome.cc
 bomeonsol.xyz
 bondexapp.network
 bonelp.com
@@ -4459,6 +4460,7 @@ mysteryboxarbitrum.com
 mysteryboxnow.vercel.app
 mysteryboxv1.vercel.app
 mysteryboxvp.vercel.app
+mysterybpx80.vercel.app
 mysteryclaim74.vercel.app
 mysteryclaims37g.vercel.app
 mysteryclaimsnft.vercel.app
@@ -7710,6 +7712,7 @@ www.node.authfxconnector.com
 www.norwegianlife.net
 www.o2-login.info
 www.oakapex.com
+www.offer-4301.shop
 www.ondo-finance.info
 www.opbnb-friend3.xyz
 www.openbookgui.com
