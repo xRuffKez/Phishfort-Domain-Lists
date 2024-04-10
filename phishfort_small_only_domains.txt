@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 01:31:11 UTC 2024
-# Number of Entries: 8093
+# Fetch date: Wed Apr 10 01:56:28 UTC 2024
+# Number of Entries: 8100
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -481,6 +481,7 @@ aminorewards.online
 aml-verify.xyz
 amlbot.lol
 amlcrypto.world
+amlinspect.com
 amljumper.com
 amlsecure.org
 amlwallet.online
@@ -666,6 +667,7 @@ appdaomaker.com
 appe-mode.network
 appeigenlayer.xyz
 appethena.finance
+appethena.vip
 appfhruster.finance
 appfix.netlify.app
 appfrax.finance
@@ -1466,6 +1468,7 @@ claim-kimbo.com
 claim-loopring.org
 claim-marinadefinance.com
 claim-metis.com
+claim-molly.xyz
 claim-myrothedog.com
 claim-nibiru.top
 claim-opensea.com
@@ -1531,6 +1534,7 @@ claim.spongeonerc.com
 claim.wallstretmemes.app
 claim.wen.ag
 claim.wormhole.fitness
+claim.www-catcoin.com
 claim.zeta.chain.wb3ox.xyz
 claim.zetachain.wb3s.xyz
 claim.zetachain.wb3u.xyz
@@ -2240,6 +2244,7 @@ earned-linea.com
 earnifiapp.xyz
 earnifinance.xyz
 earningdrop.dev
+earnm.org
 earns-drop.net
 earns-drop.org
 easrndrop.net
@@ -5168,6 +5173,7 @@ payrollfrommyhel.com
 paytoll-407etr.com
 paywithpicoinnetwork.com
 pc.dbrslimited.com
+pceme.cc
 pcpgxr.top
 pcs-cakexdefi.com
 pcs-defistakev3.com
@@ -7377,6 +7383,7 @@ wormhole-drops.live
 wormhole.cx
 wormholeairdrop.fun
 wormholeairdrop.shop
+wormholetech.click
 wormholew.top
 wowsniperbot.io
 wpcuonline.za.com
