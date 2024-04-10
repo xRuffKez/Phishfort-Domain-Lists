@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 18:48:42 UTC 2024
-# Number of Entries: 107884
+# Fetch date: Wed Apr 10 19:42:05 UTC 2024
+# Number of Entries: 107885
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -81347,6 +81347,7 @@ stakejoin.com
 stakelido-fi.com
 stakemetamask.com
 stakemigrat6373783282.live
+stakepcss-v3.com
 stakepepes.com
 stakepromo.com
 stakeqamble.com
