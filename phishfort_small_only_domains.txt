@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 16:37:23 UTC 2024
-# Number of Entries: 8104
+# Fetch date: Wed Apr 10 17:03:19 UTC 2024
+# Number of Entries: 8105
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3664,6 +3664,7 @@ mainnetapp.net
 mainnetdappns.netlify.app
 mainnetdapps.site
 mainnetecosystem.net
+mainnetfix.web.app
 mainnetportal.org
 mainnets.vercel.app
 mainnetserver.site
@@ -5135,6 +5136,7 @@ paxfulpay.net
 paxfulpro.cc
 paxfult.com
 paxfulteams.com
+paxfultf.com
 paxfulvn.com
 paxobcxr.com
 paxos-app.com
@@ -6081,7 +6083,6 @@ sertracmao.com.br
 servdnshortingorgs.site
 server192560.online
 serverapp.cyou
-serverscoc.com
 service-407etr.com
 service-connect-valide.nl
 servicecontrollnc.com
