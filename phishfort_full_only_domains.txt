@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 14:32:23 UTC 2024
-# Number of Entries: 107873
+# Fetch date: Wed Apr 10 15:24:10 UTC 2024
+# Number of Entries: 107878
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -41253,6 +41253,7 @@ jrsense.com
 jrsu.com.br
 jrt8fm.pro
 js.mnfiihanse.com
+jsebastiao.com
 jsjt-ins.com
 jsjtgroup.cn
 jsjtrading.com
@@ -44849,6 +44850,7 @@ lnterportfinance.com
 lntrac-funds-instnat.digital
 lntrac-web-mobile.digital
 lntracwebfunds-province.agccaiwo.life
+lntwebservice-lnter.f7aanm6hh4e.life
 lnvisblfriends.org
 lnvisible-friends.space
 lnvsiblefriends.io
@@ -46561,6 +46563,7 @@ m.webrestore.site
 m.yetherwallet.com
 m0tan0skw0llet.godaddysites.com
 m0vn.s3o98.com
+m1.troncan.pro
 m168online.com
 m1rtwgvqteagtf3.secretsoutlook.pancakeswape.finance
 m2020.me
@@ -69393,6 +69396,7 @@ perpstech.com
 pers-daviplata.webcindario.com
 persistent.com.es
 persistentsystems.in
+persistrent.com
 personajourney.trading
 personal-account-sign-in-artim2.co.kattmern.com
 personal-accounts-app.kattmern.com
@@ -98981,6 +98985,7 @@ www.drops-niftygateway.com
 www.drops-pancakeswap.com
 www.drpharmacy.in
 www.dscscan.com
+www.du.normbyte.online
 www.du.uibits.online
 www.dubaibornapes.com
 www.dubaivacancy.ae
