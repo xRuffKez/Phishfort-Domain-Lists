@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 16:03:03 UTC 2024
+# Fetch date: Wed Apr 10 16:16:19 UTC 2024
 # Number of Entries: 8104
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6911,6 +6911,7 @@ updatenow.pages.dev
 updates-metamask.pages.dev
 url-shortener.me
 url7923.marsello.io
+us-ashleymadison.com
 us-coinmarketcap.com
 us4f.cc
 us_mettmsika_en_us3.godaddysites.com
@@ -7273,7 +7274,6 @@ webfixnet.pages.dev
 webfixrpc.online
 webgraph.live
 webguardprotocol.xyz
-webizpay.com
 weblinknode.firebaseapp.com
 weblinknode.web.app
 weblinknodeapp.web.app
