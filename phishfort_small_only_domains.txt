@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 05:32:15 UTC 2024
-# Number of Entries: 8103
+# Fetch date: Wed Apr 10 05:52:13 UTC 2024
+# Number of Entries: 8100
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3733,7 +3733,6 @@ manta-network.de
 manta-network.icu
 manta-network.life
 manta-network.mobi
-manta-network.sbs
 manta-network.zone
 manta-networks.mom
 manta-newparadigm.com
@@ -4018,7 +4017,6 @@ metagets.xyz
 metagiveaway.io
 metaiask.xyz
 metamaaskus.azurewebsites.net
-metamafsk.azurewebsites.net
 metamainnetfix.netlify.app
 metamank.io
 metamaok.cn
@@ -7795,7 +7793,6 @@ www.sdxtrc20.com
 www.sdxusdt.com
 www.seedifyfund.support
 www.seibridge.org
-www.shibaswaap.org
 www.shibus.site
 www.shop-click-drive.com
 www.sitemap.project-altlayer.io
