@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 01:00:27 UTC 2024
-# Number of Entries: 8088
+# Fetch date: Wed Apr 10 01:31:11 UTC 2024
+# Number of Entries: 8093
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -322,6 +322,7 @@ airdrop.blast.wb3ox.xyz
 airdrop.debank-token.com
 airdrop.drift.exchange
 airdrop.everyworld.one
+airdrop.fuelchain.network
 airdrop.fuelnetwork.net
 airdrop.manto.network
 airdrop.mfi.expert
@@ -1523,6 +1524,7 @@ claim.pancakesswap.fi
 claim.pancakeswap.cfd
 claim.renqapp.live
 claim.retikapps.com
+claim.riftswap.net
 claim.smogxtoken.com
 claim.spazecommune.com
 claim.spongeonerc.com
@@ -2127,6 +2129,7 @@ document-microsoft-onedrive-file.github.io
 documentation-lybra.finance
 dodoeex.cc
 dogecoin20-ai.web.app
+dogescoinel20.club
 dogpad-financee.netlify.app
 dogswapdex.netlify.app
 dogwifbox.vip
@@ -2234,6 +2237,7 @@ earndrop.vercel.app
 earndrop24.com
 earndrops.gift
 earned-linea.com
+earnifiapp.xyz
 earnifinance.xyz
 earningdrop.dev
 earns-drop.net
@@ -2355,6 +2359,7 @@ ethdrop.xyz
 ethena-airdrop.vercel.app
 ethena-ddg.pages.dev
 ethena-dwm.pages.dev
+ethena-labs.click
 ethena-mining.pages.dev
 ethena-pool.pages.dev
 ethena-solutions.pages.dev
@@ -3400,7 +3405,6 @@ leakhub.io
 learcorporativo.com
 learn-unibot.app
 learventa.com
-learventas.com
 ledger-wallet-ledger.biz
 ledgerhnet.gotdns.ch
 ledgerlive-app.online
@@ -5255,8 +5259,8 @@ phountom.xyz
 phtms.app
 phtomwalet.azurewebsites.net
 phumtoewallat.godaddysites.com
+pibel.cc
 pichainmall.com.ng
-pinksale-app.com
 pipsyl.top
 pixals.xyz
 pixel-lands.com
@@ -5789,7 +5793,6 @@ revokecash.ru
 revokecash.store
 revokecash.us
 revokecashexploit.pages.dev
-revokecashn.com
 revokecashv2.com
 revokecashv2.ru
 revokecashv2.xyz
@@ -6551,6 +6554,7 @@ syncxolution-inchpd.com
 syneosbio.com
 syneosbiocareer.com
 syneoscareer.com
+synfuturese.top
 syngswap.github.io
 synthetixreward.com
 t3ct2s2.pro
@@ -7081,6 +7085,7 @@ vystarcu.com
 vystarcu.nah516.com
 vystarcu.tsa135.com
 vystarcu.zms362.com
+vzxamt.cc
 w-airdrop.vercel.app
 w-revoke.cash
 w.contract-deployer.live
