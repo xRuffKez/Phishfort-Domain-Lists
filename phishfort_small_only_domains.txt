@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 08:35:47 UTC 2024
+# Fetch date: Wed Apr 10 08:42:52 UTC 2024
 # Number of Entries: 8100
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -286,7 +286,6 @@ airdrop-jup.one
 airdrop-jup.vip
 airdrop-magic.icu
 airdrop-magiceden.com
-airdrop-manta-network.com
 airdrop-manta.com.dashboard-bananagun.io
 airdrop-mantaa.pages.dev
 airdrop-mantachain.org
@@ -3019,6 +3018,7 @@ imx.airdrop.cfd
 imxcoin.eu
 inaallert.com
 incsribe.app
+infiniteworks.net
 infosa.net
 ing-autorizza-cliente.it
 ing-bank.info
