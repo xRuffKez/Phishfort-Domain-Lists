@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 06:03:45 UTC 2024
+# Fetch date: Wed Apr 10 06:52:03 UTC 2024
 # Number of Entries: 107846
 
 0-metemask.com
@@ -18187,6 +18187,7 @@ coin-interest.life
 coin-interest.org
 coin-interest.top
 coin-interest.xyz
+coin-leck.com
 coin-linker.netlify.app
 coin-meta.com
 coin-metapad.net
@@ -23697,7 +23698,6 @@ dapps-nodes.io
 dapps-nodes.tech
 dapps-nodetools.com
 dapps-online.com
-dapps-pancakeswap.pages.dev
 dapps-plug.com
 dapps-pro.com
 dapps-protocol.com
