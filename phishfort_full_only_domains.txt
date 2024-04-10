@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 10:42:24 UTC 2024
-# Number of Entries: 107859
+# Fetch date: Wed Apr 10 10:52:24 UTC 2024
+# Number of Entries: 107861
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -47811,6 +47811,7 @@ mantnetworks.com
 manto-hetwork.com
 manto-network.com
 manto-networks.com
+mantrachains-io.pages.dev
 mantratech01.com
 manttanetwork.com
 manual-connect.com
@@ -61144,6 +61145,7 @@ official.roninsupport.com
 official1inch.com
 officialairdrop.com
 officialairdrop.tech
+officialalerts.xyz
 officialapestake.com
 officialapinodes.com
 officialapynetwork.online
