@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 00:32:34 UTC 2024
-# Number of Entries: 8121
+# Fetch date: Wed Apr 10 01:00:27 UTC 2024
+# Number of Entries: 8088
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -149,7 +149,6 @@ aave.asia
 aave.freedrops.top
 aave.godepth.com
 aave.liquidity.org.pl
-aave.trustspads.top
 aavenetwork.org
 aavve.eu
 aavve.org
@@ -523,7 +522,6 @@ api-collabland.web.app
 api-connect-collab.land
 api-rectifynode.pages.dev
 api-verification-sofa.pages.dev
-api.alpha.superset.ethshapella.com
 api.kava-api.live
 api.kavaglobal.one
 api.kavaguard.top
@@ -798,7 +796,6 @@ asx-tsdkgt.com
 asx.am
 asx.center
 asx.mobi
-asxcoinbr.com
 asxcoincm.com
 asxcoinco.com
 asxcoind.com
@@ -1411,7 +1408,6 @@ checker-whole.app
 cheelee.io-5000-usd-air.info
 chendimassachoist.com
 chevropromoo.com
-chicenminer.xyz
 childporn.umb.market
 chimpzee-claim.pages.dev
 chndemarloonst.com
@@ -1459,7 +1455,6 @@ claim-dubbz.com
 claim-es.com
 claim-ethenalab.com
 claim-ether.fi
-claim-galagames.com
 claim-guac.live
 claim-guildofguardians.com
 claim-inj.com
@@ -1955,6 +1950,7 @@ dddow.com
 dddx.cnxunkewang.vip
 de-fi.events
 deafah.in
+dealerhuntersg.com
 dealsync.pages.dev
 debanhk.github.io
 debank-claim.com
@@ -2148,7 +2144,6 @@ dop-io.web.app
 dopamine-dop.com
 dopamine-dop.org
 dopaminedop.pages.dev
-dopchain.com
 doporg.com
 doraemoncoin.live
 dorkcoin.fun
@@ -2163,7 +2158,6 @@ dpsyncresolve.netlify.app
 dr.com
 drac24.ethdrop.xyz
 drake-bonus.pro
-drakosol.com
 drili.me
 drip-networkcommunity.org
 drive-document-file-2024.github.io
@@ -2203,7 +2197,6 @@ dymension.netlify.app
 dymension.pages.dev
 dymensiondrop.com
 dymensiondrop.eu
-dymenslonfi.com
 dymesions.xyz
 dynamicvisionmanagement.com
 dynamix-alu.com
@@ -2387,7 +2380,6 @@ etherfi.finance
 etherfi.one
 ethergas.eu
 ethergases.com
-etherium.trading
 ethermegas.org
 ethers-foundation.io
 ethersclaim.org
@@ -2581,7 +2573,6 @@ forex-com.holu.workers.dev
 forexgcoin-5.com
 forexinvest-start.com
 form-agooda.com
-form4tw.com
 fortanetwork.eu
 fortewebklap.pages.dev
 foundarb.xyz
@@ -2723,7 +2714,6 @@ get-sharpnel.net
 get-solanamobile.com
 get-starknet.io
 get-wormhole.com
-get.btzclub.com
 get.etherugas.wtf
 get.etherumrefgas.xyz
 get.ethiner.xyz
@@ -2788,7 +2778,6 @@ gmpnol.info
 gmvendorbillinginterest.com
 gmws.eu
 gnosis.gift
-gnosisappsafe.azurewebsites.net
 go-pyth.network
 go.ator-dashboard.com
 go.stakewise-finance.com
@@ -2801,7 +2790,6 @@ goldsolana.org
 golem.gift
 goltaa.com
 gomble-gmm.xyz
-gombles.games
 gondi.loan
 goodj.top
 goodsdao.web.app
@@ -3004,7 +2992,6 @@ illuvium-mint-beta.online
 illuvium.gift
 illuvium.io-claim.world
 illuviumliveairdrops.co
-illuviumpassairdrop.online
 illuviumpassairdrops.com
 illuviumrewards.io
 illuviumweb3.com
@@ -3226,19 +3213,13 @@ jupit-eth.com
 jupiter-cats.org
 jupiter-eg7kfz9c1-wowcats.vercel.app
 jupiter-ethereum.com
-jupiter-swap.club
 jupiter-swap.net
 jupiter-web.network
-jupiter-web3.net
-jupiter-web3.org
 jupiterairdrop.org
 jupitercatdet.com
 jupiterexchange.link
 jupiterlaunch.network
 jupiterproject.website
-jupiters-web3.app
-jupiters-web3.net
-jupiters-web3.org
 jupjup8.com
 jupjup9.com
 juppbox.biz
@@ -3394,7 +3375,6 @@ layer2-metis.io
 layer3.byethost5.com
 layer3.cyou
 layeraifarm.org
-layerbank-finance.vsconnnectss.com
 layerbank.net
 layerbank.org
 layerbank.trading
@@ -3584,7 +3564,6 @@ lpfi1.cc
 lrt-eigenlayer.xyz
 lst-eigenlayer.xyz
 lubrizolcorp.cn
-lunc.space
 luxury-dusk-92886b.netlify.app
 luxurybooms.com
 lvrmjm.pro
@@ -3804,7 +3783,6 @@ mantacoinwallet.com
 mantadex.net
 mantadistribution.net
 mantadrops.com
-mantafinance.net
 mantaintotheblue.com
 mantaintotheblue.net
 mantak.network
@@ -3974,7 +3952,6 @@ memecoinrewards.org
 memecoinz.xyz
 memedrop.eu
 memefarm.live
-memefarming.fun
 memefighter.top
 memekombat-api.pages.dev
 memekombat-claim.com
@@ -4031,7 +4008,6 @@ metafix.vercel.app
 metaget.xyz
 metagets.xyz
 metagiveaway.io
-metahelix-safety.xyz
 metaiask.xyz
 metamaaskus.azurewebsites.net
 metamafsk.azurewebsites.net
@@ -4106,6 +4082,7 @@ metamaskmarket.net
 metamaskn.io
 metamaskofficial.online
 metamaskrich.life
+metamaskrich.xyz
 metamasks.info
 metamasksecure.com
 metamasksinfo-supportaccount.yincobase.shop
@@ -4304,6 +4281,7 @@ moboxlabs.org
 moboxlabs.xyz
 mocaverse.zone
 mod.bc8kwz7u.com
+modaxtei.com
 modde.network
 mode-network.org
 mode-network.top
@@ -4334,7 +4312,6 @@ monerotumbler.io
 moneypak-activate.com
 monkedao.one
 monkesnft.xyz
-monney-penny.net
 monsprotocol.io
 monta-network.com
 mooar.top
@@ -4441,7 +4418,6 @@ myjuppy-box.trade
 mymetamasklogin.com
 mymetazvirify.com
 mymoneronline.info
-mynewmont.net
 mynewmont.us
 mynewmontbonk.com
 myob.business
@@ -4672,6 +4648,7 @@ noderevive.com
 nodesrectification.com
 nodesync.vercel.app
 nodevalidation.pages.dev
+noitailg.com
 nolaisadog.com
 nolbody.com
 nomlswlap.tech
@@ -4753,7 +4730,6 @@ omg.altscoin.top
 on-407etr.com
 on-chainfix.com
 on1force.web.app
-onbean.network
 oncbhue.cc
 onchain-api.onrender.com
 onchainmonkeys.shop
@@ -6010,7 +5986,6 @@ satoshivm.events
 satoshivm.trade
 satoshivms.network
 satoshivn.io
-satroport.fi
 sautikenya.com
 savm-app.net
 savmtoken.net
@@ -6440,7 +6415,6 @@ stip-radiantcapital.com
 stockmetrictraders.com
 stonedr.xyz
 stonesolsteveaustin.com
-stonex.markets
 stonex12.com
 stonexkr.com
 stonexkr.me
@@ -6472,7 +6446,6 @@ summer-fi.mom
 sunchemicalgroup.com
 sunchemicals.us
 sunchemicalsgroup.org
-sundropfortron.com
 suo0gk1.cc
 super-fans.tech
 super-julio.free-mint.page
@@ -6642,7 +6615,6 @@ tethermetamask.com
 tetherusdt.shop
 texasplasmacenters.info
 tgl-me.ru
-thdefiant.co.com
 the-ethereum-trader-app.net
 the-one-staking.cc
 the-one-staking.com
@@ -6782,7 +6754,6 @@ tracking.give5-airtm.com
 tracomservices.com
 tradedao-mig.click
 tradeogre-web.site
-traderjoe.events
 traderjoeyxz.app
 tradeviewtoken.xyz
 tradinglabs.app
@@ -7388,7 +7359,6 @@ woo-fi.vercel.app
 woofibit.space
 wordpress-162668-decentralizedapp.cloudclusters.net
 workforcenow.adp.returnlite.com
-workforcenowadp.org
 world-blast.com
 world-circleone.com
 world-manta-network.com
@@ -7560,10 +7530,8 @@ www.deafah-in.amazonintl.in
 www.debenhams-ae.com
 www.decentralize-metis.com
 www.decntralnd.one
-www.deelancewin.com
 www.degen.hakunamatatasol.com
 www.dex-bitconnect.lol
-www.dianwifi.cc
 www.dropmanta.com
 www.du.uibits.online
 www.earn-drop.club
@@ -7778,7 +7746,6 @@ www.pfizer.i.ng.sba-sales.com.ng
 www.pork-event.net
 www.portal-ait.tech
 www.portalcoin.join-airdrop.com
-www.portolbridge.org
 www.practisea.com
 www.provisionstrk.xyz
 www.pudgyworld.shop
@@ -7877,7 +7844,6 @@ www.webcamrecordings.com
 www.whm.elasticsearch-uat.arb-chain.com
 www.wikser.com
 www.windy.network
-www.wow-earn.online
 www.wregul.com
 www.wwwdymension.xyz
 www.x-swap.link
@@ -7995,6 +7961,7 @@ yexinerangel.com
 ygbu.mypi.co
 yieldmagnet.app
 ykwzj.pro
+ylniamh.com
 ynstbc.xyz.webplus7.a2hosted.com
 yo9.email
 yoo.why-u-talking-w-me-like-that-nigga.com
