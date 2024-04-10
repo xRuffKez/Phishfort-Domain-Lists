@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 07:52:20 UTC 2024
-# Number of Entries: 107849
+# Fetch date: Wed Apr 10 08:03:34 UTC 2024
+# Number of Entries: 107850
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -81408,6 +81408,7 @@ staking.app-bitrock.com
 staking.axie-infinity.me
 staking.chainbase.co
 staking.chajn.link
+staking.destra-network.live
 staking.greenchartbsc.com
 staking.illuvium.run
 staking.k9finance.co
