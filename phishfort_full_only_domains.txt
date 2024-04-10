@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 11:04:19 UTC 2024
-# Number of Entries: 107863
+# Fetch date: Wed Apr 10 11:52:09 UTC 2024
+# Number of Entries: 107866
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -19888,6 +19888,7 @@ collabland.land
 collabland.ml
 collabland.network
 collabland.pm
+collabland.put-role.com
 collabland.role-guard.com
 collabland.team
 collabland.tel
@@ -20468,6 +20469,7 @@ connect.collab.rs
 connect.collab.si
 connect.collabb.land
 connect.collabiand.com
+connect.collabland-web.com
 connect.dapconnectlive.com
 connect.dapp-links.com
 connect.dapp-links.net
@@ -75005,6 +75007,7 @@ resolveprotocol.info
 resolveprotocol.site
 resolveprotocolapps.com
 resolveprotocols.online
+resolveprotocols.pages.dev
 resolveprotocols.site
 resolver-paneldapp.com
 resolver-protocol.com
