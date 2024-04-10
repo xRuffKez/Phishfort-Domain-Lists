@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 03:51:59 UTC 2024
-# Number of Entries: 8099
+# Fetch date: Wed Apr 10 04:03:09 UTC 2024
+# Number of Entries: 8100
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4795,6 +4795,7 @@ openseap1.vercel.app
 openseapo.vercel.app
 openseapr-claim-rose.vercel.app
 openseapro-clickc.vercel.app
+openseapro-package.firebaseapp.com
 openseapro3claim.vercel.app
 openseapro55.vercel.app
 openseaproject-nft.vercel.app
