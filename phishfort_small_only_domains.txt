@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 20:23:12 UTC 2024
-# Number of Entries: 8098
+# Fetch date: Wed Apr 10 20:32:23 UTC 2024
+# Number of Entries: 8097
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -763,7 +763,6 @@ arcanedexairdrop.netlify.app
 archetives.com
 archive.cowfi.org
 ardrp.xyz
-arenal-outlet.shop
 arenal-outlet.vip
 arenales-outlet.shop
 areyoubullishsol.io
@@ -2617,7 +2616,6 @@ freedompork.net
 freestorecol.online
 freesync.pages.dev
 freshairdrop-website.live
-freshkingcrabs.com
 from-agoda.site.pro
 frp.bio
 fsafeds.comet.sa.com
@@ -7607,6 +7605,7 @@ www.idcapps.life
 www.ifdgl.com
 www.imap.home.hostmaster.coingecko.hatsuqat.com
 www.imtoken-im.team
+www.interactivebroker.live
 www.interactivebrokerstrading.com
 www.interdigitalba.com
 www.interdigitalbc.com
