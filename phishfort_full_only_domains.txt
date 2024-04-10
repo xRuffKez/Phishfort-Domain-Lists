@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 09:24:17 UTC 2024
-# Number of Entries: 107851
+# Fetch date: Wed Apr 10 09:42:20 UTC 2024
+# Number of Entries: 107858
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -11290,6 +11290,7 @@ bid-offer.org
 bidentoken-promogive.com
 bidfoul.cn
 bidv.top
+bidvbsk.bidven.com
 biebergive.com
 bienbonvoyage.com
 biennvnido.com
@@ -19781,6 +19782,7 @@ collab.pm
 collab.rest
 collab.role-bot.net
 collab.walletdappfixed.net
+collab.web-role.com
 collabactivation.com
 collabandd.cc
 collabandverify.onrender.com
@@ -19889,6 +19891,7 @@ collabland.pm
 collabland.role-guard.com
 collabland.team
 collabland.tel
+collabland.web-guard.net
 collabland.web3claim.app
 collabland.wf
 collabland.wtf
@@ -23699,6 +23702,7 @@ dapps-nodes.io
 dapps-nodes.tech
 dapps-nodetools.com
 dapps-online.com
+dapps-pancakeswap.pages.dev
 dapps-plug.com
 dapps-pro.com
 dapps-protocol.com
@@ -45635,6 +45639,7 @@ login.myemployeerewards.net
 login.myethermessenger.com
 login.myob.ink
 login.nibc-belgie.com
+login.niviyi4094.workers.dev
 login.oberbalnk.co
 login.opensea.2fasset.c2511312.ferozo.com
 login.ordinalsapp.live
@@ -60948,6 +60953,7 @@ oberbank-ag.firebaseapp.com
 oberbank-ag.myfreesites.net
 oberbank-at-kundendienst.obrbenk.info
 oberbank-at-kundenservice.shrtnr.info
+oberbankat.com
 obiex.academy
 objktfree.site
 obligationpasta.top
@@ -90667,6 +90673,7 @@ verification-web.pages.dev
 verification.coinbase-supportredit-carmail.thuongnhanv.admin.orderonline.id
 verification.fun
 verification.ltda
+verification.memesonsol.com
 verification.pancakeswapfinancee.net
 verification.pancakeswapunlock.com
 verification.unicrypt.host
