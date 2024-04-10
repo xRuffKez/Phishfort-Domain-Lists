@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 18:48:32 UTC 2024
-# Number of Entries: 8101
+# Fetch date: Wed Apr 10 19:00:25 UTC 2024
+# Number of Entries: 8099
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -96,7 +96,6 @@
 48444453456.cloud
 4g5g544g54g5.pages.dev
 4ooh.top
-4raydium.sbs
 4tyqoaktqb.numirmilap.tech
 4vcf.pro
 4xqry.cc
@@ -1570,7 +1569,6 @@ clark-constructions.org
 clarkcorstruction.com
 clarkgroup-us.co
 cldss.xyz
-clestia.org
 cliamsolana.c3mongtho.edu.vn
 clickclaimnft.vercel.app
 clickclaimnfts.vercel.app
@@ -6345,6 +6343,7 @@ stake.nobodynfts.today
 stakeamnis.finance
 stakefloki.com
 stakeiand.com
+stakepcss-v3.com
 stakestone.iostone.lodhapetro.com
 stakestone.mom
 stakestone.site
@@ -7425,7 +7424,6 @@ www.1inchfinance.com
 www.1inchrewards.com
 www.1inchwallet.app
 www.1lnchfinance.io
-www.1raydium.sbs
 www.247liveoptiontrades.com
 www.4pb-gala-games.com
 www.4raydium.sbs
