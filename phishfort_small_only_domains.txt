@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 22:15:25 UTC 2024
-# Number of Entries: 8097
+# Fetch date: Wed Apr 10 22:26:07 UTC 2024
+# Number of Entries: 8094
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2524,7 +2524,6 @@ finance.pancakswaps.com
 finceptorportals.click
 finceptur.com
 fireblocks-sso.com
-fireblocks.nodeorigins.com
 fireblockscrypto.com
 firevisionaries.com
 firmware-data.pages.dev
@@ -5735,7 +5734,6 @@ reskst.pages.dev
 resolutionpanel.pages.dev
 resolve-captcha.com
 resolveprotocols.pages.dev
-resolver-paneldapp.com
 resolverhq.web.app
 resolverpanel.pages.dev
 resolverprotocol.pages.dev
@@ -6843,7 +6841,6 @@ uk-applovinlife.com
 ulonlinedetma.org
 ultra-prismafinance.com
 ultrasmartcoinsolution.xyz
-umasmasslouist.com
 umassuigovst.com
 umusic-pub.com
 umusiceu.com
