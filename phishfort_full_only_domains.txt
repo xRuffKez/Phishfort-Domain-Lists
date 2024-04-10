@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 02:52:06 UTC 2024
-# Number of Entries: 107833
+# Fetch date: Wed Apr 10 03:42:26 UTC 2024
+# Number of Entries: 107837
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -74902,6 +74902,7 @@ requestpoint.site
 requestt.network
 requieminnovation.com
 rerram.store
+res9219.com
 resaley.site
 resawde.site
 resbkonline.com
@@ -89975,6 +89976,7 @@ v2-pancake.pages.dev
 v2-pancakefinance.live
 v2-pancakeswap.finance
 v2-pancakeswap.github.io
+v2-pancakeswap.pages.dev
 v2-pancakeswap.rf.gd
 v2-paraswap.com
 v2-pepe.com
@@ -95088,6 +95090,7 @@ web3inu-bonus.online
 web3iprotocolrpcfix.com
 web3ju.cf
 web3kaava.netlify.app
+web3kavaa.vercel.app
 web3launchpad.netlify.app
 web3launchpad.tech
 web3loginac.tk
@@ -106637,6 +106640,7 @@ xz8125.webwave.dev
 xzua.s3o98.com
 y-app-gala-games.blogspot.com
 y-nft-magic-eden.blogspot.com
+y-predict.web.app
 y00ls.com
 y00t-opia-nft.netlify.app
 y00t-opia.netlify.app
