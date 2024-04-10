@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 06:27:03 UTC 2024
-# Number of Entries: 8100
+# Fetch date: Wed Apr 10 06:35:29 UTC 2024
+# Number of Entries: 8098
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1895,7 +1895,6 @@ dappradare.eu
 dappradhub.com
 dapps-0auth.net
 dapps-fixed.pages.dev
-dapps-pancakeswap.pages.dev
 dapps-radar.pages.dev
 dapps-sync.vercel.app
 dapps-web3-connect.in
@@ -3611,7 +3610,6 @@ magiceden-rewards.netlify.app
 magicedens.space
 magiciorewards.com
 magiclyeden.app
-magicsquare.pages.dev
 magicsquares.io
 magpiesxyz.site
 magpiexyz.in
