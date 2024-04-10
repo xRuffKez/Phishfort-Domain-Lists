@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 15:41:59 UTC 2024
-# Number of Entries: 8111
+# Fetch date: Wed Apr 10 16:03:03 UTC 2024
+# Number of Entries: 8104
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -610,7 +610,6 @@ app.1inch.lc
 app.1insh.io
 app.1lnch.mom
 app.airrtm.com
-app.airtm-8.com
 app.airtm01.com
 app.airtm08.com
 app.airtm10.com
@@ -5119,7 +5118,6 @@ paxful-clo.com
 paxful-club.com
 paxful-web.com
 paxful.instenpay.com
-paxful.payment-offer.com
 paxful78291047.com.ng
 paxfula.com
 paxfulb.com
@@ -5135,7 +5133,6 @@ paxfulp2p.com
 paxfulpay.com
 paxfulpay.net
 paxfulpro.cc
-paxfulproblems.com
 paxfult.com
 paxfulteams.com
 paxfulvn.com
@@ -5421,7 +5418,6 @@ provisions-starknet.top
 provisions-stknet.com
 provisionschainlink.org
 proximus-client.ddns.net
-proximus-re.was-systems.com
 psychome.co
 ptron.hk
 pub-0186f027c154484fbcbeb90161ab83cf.r2.dev
@@ -5583,7 +5579,6 @@ rainbow.mt-gox.site
 rainbow.trading
 rainy.synology-ds.de
 raksfifthavenue.com
-ranbuny.com.au
 randomecoin-ads.eu
 randomecoins.com
 rango-exchange-r8n4.onrender.com
@@ -6830,6 +6825,7 @@ tsakeland.com
 tsfonts.com
 tsrndao.web.app
 tsuka.gift
+ttec-corp.com
 ttkkoopp888.com
 tu3.us
 tuckeracousstical.com
@@ -7369,7 +7365,6 @@ winnings-beam.net
 winsolana.org
 winter-chain.link
 wired-interviews.netlify.app
-wirerecieve-pay.onrender.com
 withdrawaldesk.com
 wizink.cartoespt-app.online
 wkjyd.top
@@ -7928,7 +7923,6 @@ xn--fxadflaot-vpb.com
 xn--fxadfloaot-xub.com
 xn--fxadfloat-05a.com
 xn--fxadfloat-vpb.com
-xn--fxdlfloat-c4a6b.com
 xn--fxedfiloat-xub.com
 xn--fxedflaot-vpb.net
 xn--fxedflaot-vpbc.com
@@ -7943,7 +7937,6 @@ xn--fxedfloat-vpbc.com
 xn--fxedfloat-vpbd.com
 xn--fxedfloat-vpbe.com
 xn--fxedftloat-k8a.com
-xn--fxedlflaot-k8a.com
 xn--od5b1rm17a.com
 xn--rustwallet-gyd.com
 xn--zcr743ah35a.com
