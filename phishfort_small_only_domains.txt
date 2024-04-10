@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 22:33:35 UTC 2024
+# Fetch date: Wed Apr 10 22:52:16 UTC 2024
 # Number of Entries: 8094
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3894,6 +3894,7 @@ masslorelictorganospaychsetc.com
 masslottery.lotteryvault.net
 masslottery.online
 massmutualauth.com
+massmutualintermountainwest.hirevue.com
 massonline.mprofile.org
 massposos.com
 master-brain.com
@@ -7647,7 +7648,6 @@ www.manta-pacific.app
 www.manta.christmas
 www.mantanntework.xyz
 www.marnta.network
-www.masimjaya.com
 www.maverickdao.org
 www.mavia.comapp.ceesto.com
 www.mavia.comapp.hu54.com
