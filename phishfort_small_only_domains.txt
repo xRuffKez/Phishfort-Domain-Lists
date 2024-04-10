@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 07:04:00 UTC 2024
+# Fetch date: Wed Apr 10 07:15:19 UTC 2024
 # Number of Entries: 8098
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -157,6 +157,7 @@ abbie.sa.com
 abict.net
 abracadebra.money
 abspaurill.com
+abundant-boots-raspy.on-fleek.app
 academy.topbundalle.com
 acahealthinsure.com
 accboxi.com
@@ -6802,7 +6803,6 @@ trustdrops.xyz
 trustfloki.netlify.app
 trustpad-cv.com
 trustpad-gs.com
-trustwall.azurewebsites.net
 trustwall.xyz
 trustwallet-support.com
 trustwalletsupport.vercel.app
