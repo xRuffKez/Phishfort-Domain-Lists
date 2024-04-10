@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 03:03:11 UTC 2024
-# Number of Entries: 8100
+# Fetch date: Wed Apr 10 03:15:38 UTC 2024
+# Number of Entries: 8095
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -198,7 +198,6 @@ agixreward.xyz
 agoda-88.vip
 agoda-checkout-id843753.com
 agoda-com.com
-agoda-formulir.prioritas-24hours.com
 agoda-global.pro
 agoda-hotel.com
 agoda-jp.cc
@@ -349,7 +348,6 @@ airdropmanta.top
 airdropmanta.xyz
 airdropmantaexchange.com
 airdropmantanet.org
-airdropmantapacific.net
 airdropmantatoken.com
 airdropmetamask.xyz
 airdropmexcnews.top
@@ -1815,7 +1813,6 @@ csagoda.co
 csagoda.my.id
 csagoda.store
 csagodaonline.masukmobilee.de
-csl-behring.eu
 csl-seqirus.com
 cuadrosblangar.es
 cubeexchange.co
@@ -2535,7 +2532,6 @@ fix.errorsolution.org
 fixadfloat.com
 fixbugmigrate.pages.dev
 fixedfloat.win
-fixedfłoad.com
 fixedtloat.com
 fixedtsfloats.com
 fixetdffloat.com
@@ -4241,7 +4237,6 @@ minipepe-coins.com
 ministerstwosprawiedliwosci.com
 minnimi.com.ua
 minootv.com
-minswap.azurewebsites.net
 mint-brewriders.com
 mint-nakamigos.vercel.app
 mint-nft.co
@@ -5262,7 +5257,6 @@ phasnw.xyz
 phoentexai.netlify.app
 phone.tkd
 phountom.xyz
-phtms.app
 phtomwalet.azurewebsites.net
 phumtoewallat.godaddysites.com
 pibel.cc
@@ -5730,6 +5724,7 @@ render.gift
 rendernetwork.support
 renqiiio.com
 renzo-protocols.com
+res9219.com
 research.rada.gov-ua.ru
 reskst.pages.dev
 resolutionpanel.pages.dev
