@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 03:42:26 UTC 2024
-# Number of Entries: 107837
+# Fetch date: Wed Apr 10 03:52:31 UTC 2024
+# Number of Entries: 107838
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3135,6 +3135,7 @@ agodajp.vip
 agodalogical.com
 agodalucky.com
 agodamall-hk.com
+agodanewcomplaint.com
 agodaonline.com
 agodapay.info
 agodapay.online
