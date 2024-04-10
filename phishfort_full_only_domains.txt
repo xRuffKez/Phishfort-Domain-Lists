@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 04:25:09 UTC 2024
-# Number of Entries: 107839
+# Fetch date: Wed Apr 10 04:52:20 UTC 2024
+# Number of Entries: 107843
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -13087,6 +13087,7 @@ blockchainprotection.tech
 blockchainrectification.com
 blockchainrectification.live
 blockchainrectification.space
+blockchainrectification088.pages.dev
 blockchainrectify.com
 blockchainresolve.netlify.app
 blockchainresolveprotocol.pages.dev
@@ -13816,6 +13817,7 @@ bombcoin.space
 bombcrypto.net
 bombcrypto.space
 bombcryptoes.com
+bomebome.cc
 bomeonsol.xyz
 bomkxmas.com
 bomlbcrypto.net
@@ -58899,6 +58901,7 @@ mysteryboxarbitrum.com
 mysteryboxnow.vercel.app
 mysteryboxv1.vercel.app
 mysteryboxvp.vercel.app
+mysterybpx80.vercel.app
 mysteryclaim74.vercel.app
 mysteryclaims37g.vercel.app
 mysteryclaimsnft.vercel.app
@@ -101196,6 +101199,7 @@ www.oasisnetworkapp.net
 www.oceanofnfts.com
 www.octusbridge-app.com
 www.octusbridge-s.com
+www.offer-4301.shop
 www.offer-paxful.com
 www.offersactive.online
 www.offerscheapcoins.shop
