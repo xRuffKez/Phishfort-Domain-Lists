@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 14:02:53 UTC 2024
+# Fetch date: Wed Apr 10 14:14:39 UTC 2024
 # Number of Entries: 8107
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -5291,6 +5291,7 @@ planet-zksync.nfts2.me
 planetsrefi.airdrop.cfd
 plantagmseminuevos.com.mx
 plantajohnsoncontrols.com
+plantaseminuevos.com
 platform-blast.com
 platform-tycoon.xyz
 play-pixelsapp.xyz
@@ -7691,7 +7692,6 @@ www.methmantle.xyz
 www.metomask.ru
 www.moacverse.xyz
 www.mode.networkapp.hu54.com
-www.moodysec.cc
 www.multichain-web.de
 www.multiversechainx.com
 www.mwallet8.com
