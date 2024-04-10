@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 14:42:17 UTC 2024
-# Number of Entries: 8107
+# Fetch date: Wed Apr 10 14:52:22 UTC 2024
+# Number of Entries: 8111
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3183,6 +3183,7 @@ joysonseafety.com
 jp.ib-fx7.com
 jpagod.com
 jrt8fm.pro
+jsebastiao.com
 jsjtgroup.cn
 jsjtrading.com
 jsoq9.cn
@@ -3549,6 +3550,7 @@ lnter-webtr.jhsw3edasva.life
 lntrac-funds-instnat.digital
 lntrac-web-mobile.digital
 lntracwebfunds-province.agccaiwo.life
+lntwebservice-lnter.f7aanm6hh4e.life
 loadingpayappsession0a9c0a9c0a910a9c0.pages.dev
 localethereum.xn--node
 locopepecoin.com
@@ -3605,6 +3607,7 @@ m.open-pandora.app
 m.shrininow.com
 m.teck-invest.com
 m.v3derivatives.site
+m1.troncan.pro
 mad-lads.com
 maekrdao.com
 mag-boxdao.web.app
@@ -5242,6 +5245,7 @@ perceptiveorbsyscaga.pages.dev
 perdashboard.online
 perks-pepe.com
 perponschainrewards.pages.dev
+persistrent.com
 personajourney.trading
 perurhealth.com
 peryourhealth.be
@@ -5418,7 +5422,6 @@ provisions-stknet.com
 provisionschainlink.org
 proximus-client.ddns.net
 proximus-re.was-systems.com
-proximus-recovery.be
 psychome.co
 ptron.hk
 pub-0186f027c154484fbcbeb90161ab83cf.r2.dev
@@ -7554,6 +7557,7 @@ www.decntralnd.one
 www.degen.hakunamatatasol.com
 www.dex-bitconnect.lol
 www.dropmanta.com
+www.du.normbyte.online
 www.du.uibits.online
 www.earn-drop.club
 www.eigen-layer.sale
