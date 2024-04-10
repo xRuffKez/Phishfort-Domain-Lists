@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 10 10:15:33 UTC 2024
-# Number of Entries: 8102
+# Fetch date: Wed Apr 10 10:26:50 UTC 2024
+# Number of Entries: 8096
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1666,7 +1666,6 @@ coleywilbet.com
 collab-award.io
 collab-conects.com
 collab-connect.pages.dev
-collab-connects.land
 collab-land.lol
 collab-land.x10.bz
 collab-landbot-secure.com
@@ -1682,7 +1681,6 @@ collabandverify.onrender.com
 collabandverify.vercel.app
 collabaward.site
 collabgift.space
-collabiand-verify-github.com
 collabland-assest.com
 collabland-log.com
 collabland-members.net
@@ -1923,6 +1921,7 @@ dappstaking.net
 dappswalletsnode.firebaseapp.com
 dappswalletsnode.web.app
 dappsync-apw.pages.dev
+dappsyncrecovery.pages.dev
 dapptest-mindnetwork.firebaseapp.com
 dapptest-mindnetwork.web.app
 dappwalletnode.pages.dev
@@ -4864,7 +4863,6 @@ orivium.trading
 orlandoplasmacenters.com
 osaic-wisconsin.com
 osaiccareers.com
-osmmossiss-zone.org
 osmosis-zone.mom
 osmososis-zone.xyz
 otcsea.app
@@ -6040,7 +6038,6 @@ secondllife.tech
 secondx.mypsx.net
 secure-retry-connecting.alphakreed.com
 secure-user-connect.net
-secure-verify-connects.vercel.app
 secure.ingbhk.com
 secure1.ontario407etr.com
 secure9.ontario407etr.com
@@ -6048,7 +6045,6 @@ secured-metamask.top
 securedmainnetconnect.pages.dev
 securemainnetpad.xyz
 securenetsync.pages.dev
-secures-verify-connects.vercel.app
 secureswapupdated.pages.dev
 secureupdradelive.nl
 securewalletapp.xyz
@@ -6875,7 +6871,6 @@ uniswap-pools.web.app
 uniswap-staking-pools.web.app
 uniswap.op-com0516.xyz
 uniswap.web3-x.org
-uniswaps-revoke.cash
 uniswapv-3.github.io
 uniswapv3.online
 uniswapv4-liqudity-provide.web.app
@@ -7134,7 +7129,6 @@ walletconnectio.vercel.app
 walletdefi69.top
 walletrectifier.pages.dev
 walletresolution.com
-walletrestoree.pages.dev
 wallets-collabland.com
 walletton.org
 wallettrust.net
