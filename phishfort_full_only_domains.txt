@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 12:32:06 UTC 2024
-# Number of Entries: 107954
+# Fetch date: Thu Apr 11 13:03:29 UTC 2024
+# Number of Entries: 107955
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -22757,6 +22757,7 @@ d-metamask.io
 d-proapps.com
 d.dassincs.com
 d.market-skin.com
+d.moodyseokd.top
 d.moodysmfof.top
 d.stonexdmffh.top
 d.stonexgkkof.top
