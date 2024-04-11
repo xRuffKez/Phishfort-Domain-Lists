@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 03:23:51 UTC 2024
-# Number of Entries: 107910
+# Fetch date: Thu Apr 11 03:52:23 UTC 2024
+# Number of Entries: 107913
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2538,6 +2538,7 @@ accountviewer.xn-stella-gib.org
 accrypt.website
 acctxcoinbase.com
 ace-preservation.com
+acecoins.pro
 aceflightsdesk.com
 acefusionist.network
 acefusionist.top
@@ -83250,6 +83251,7 @@ swapxy.xyz
 swapy.finance
 swapzo.io
 swarm.credit
+swatches-vulcan.xyz
 swaztreeda.com
 swdwd.etherget22.zone
 swdwd.ethers444.online
@@ -85042,6 +85044,7 @@ thantipe.site
 thauthproximus.from-ia.com
 thbitkub.com
 thdefiant.co.com
+the-agodahotel.top
 the-ai-stock-profit-pro.com
 the-animus.com
 the-bapetaverse.net
