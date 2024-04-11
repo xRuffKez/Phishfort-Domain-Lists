@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 18:32:52 UTC 2024
-# Number of Entries: 107960
+# Fetch date: Thu Apr 11 18:52:04 UTC 2024
+# Number of Entries: 107963
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -27280,6 +27280,7 @@ dogecoin-drops.com
 dogecoin-live.com
 dogecoin-lives.com
 dogecoin.gifts
+dogecoin.love
 dogecoin20-ai.web.app
 dogecoin20resolve.pages.dev
 dogecoin2x.info
@@ -41674,6 +41675,7 @@ kathleenyanelli.com
 katiekeepsitreal.app
 katobit.net
 katy-capital.com
+katycapitaljp.com
 kaubunalak.site
 kava-api137.web.app
 kava-bot.firebaseapp.com
@@ -106857,6 +106859,7 @@ ycllowcerd.site
 ycs-agoda.cc
 ycs-agoda.online
 ycs-agoda.online.thol.lol
+ycs-extranet.com
 ycs.com-find-extra.com
 ycs.shoujidanbing.com
 ycsextranetagoda.com
