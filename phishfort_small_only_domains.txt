@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 07:42:12 UTC 2024
-# Number of Entries: 8122
+# Fetch date: Thu Apr 11 07:52:19 UTC 2024
+# Number of Entries: 8121
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -185,6 +185,7 @@ admincoinbase.the123456789.com
 adslauncher.eu
 advancelobstarhifi.pages.dev
 aerodrom.flnance.web3-l2.cfd
+aerodrome-airdrop.com
 aerordome.finance
 aethergaming.store
 aevoxyz.live
@@ -1375,6 +1376,7 @@ centralpoultryprocessingscoltd.com
 centralseedandchem.co.nz
 centurysgold.net
 ceoltis.com
+cfdconnect.online
 chaemlist.org
 chaenlict.org
 chaibenefitmassimui.com
@@ -2475,7 +2477,6 @@ expertsolver.pages.dev
 exploremanta.pages.dev
 express-toll-route407.com
 express-tollroute407.com
-extendedpublickeyactivation.pages.dev
 extension.chrome.uniswapwallet.live
 externaldapp.com
 extranet.agoda-285437.com
@@ -3944,6 +3945,7 @@ mavia.website
 mavia.work
 maviagames.network
 maviagames.xyz
+mavialore.com
 mavias.click
 maviau.com
 maviia.build
@@ -5146,7 +5148,6 @@ paxfulpay.com
 paxfulpay.net
 paxfulpro.cc
 paxfult.com
-paxfulteams.com
 paxfultf.com
 paxfulvn.com
 paxobcxr.com
@@ -7767,7 +7768,6 @@ www.pandoshi.net.bakery-swap.com
 www.paradigmagbi.ru
 www.paxful.instenpay.com
 www.paxfulmoderater.com
-www.paxfulteams.com
 www.pcs-farmv3.com
 www.pemanagement.org
 www.penguinrandomshouse.com
@@ -7932,7 +7932,6 @@ xn--fixedfloat-0ub.com
 xn--fixedfloat-1ub.com
 xn--fixedfloat-2ub.com
 xn--fixedfloat-3ub.com
-xn--fixedfoad-vub.com
 xn--fixedfoat-0pb.com
 xn--fixedfoat-wpb.com
 xn--flxedfloat-78a.com
