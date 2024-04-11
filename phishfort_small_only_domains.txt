@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 17:24:55 UTC 2024
-# Number of Entries: 8100
+# Fetch date: Thu Apr 11 17:32:29 UTC 2024
+# Number of Entries: 8099
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -7770,7 +7770,6 @@ www.provisionstrk.xyz
 www.pudgyworld.shop
 www.recovermetawalletio.diviteca.com
 www.reflexer.pro
-www.regeringen.org
 www.registrar-mavia.com
 www.restake-pendle.finance
 www.revoke-approvals.xyz.polarmates.top
