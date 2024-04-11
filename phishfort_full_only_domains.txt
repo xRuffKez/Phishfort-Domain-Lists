@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 20:03:12 UTC 2024
+# Fetch date: Thu Apr 11 20:15:30 UTC 2024
 # Number of Entries: 107961
 
 0-metemask.com
@@ -17985,7 +17985,6 @@ cloud-eth.cc
 cloud-walletconnect.com
 cloud.1inch.ro
 cloud.walletconnect.alessandrocampos.com.br
-cloudauthentions.com
 cloudconnectwallet.com
 cloudcryptoresolver.com
 clouddatasupport.com
@@ -20760,7 +20759,6 @@ connectorwallet.pages.dev
 connectpancakeswap.com
 connectplugdapp.xyz
 connectpro.online
-connectprotocol.42web.io
 connectprotocol.live
 connectprotocoldapps.com
 connectreal.top
@@ -33698,7 +33696,6 @@ fixsupport.live
 fixsupport.online
 fixsynsurge.com
 fixtechdapps.com
-fixtechnicalsupport.com
 fixteifloat.townrocherdsunmaset.cf
 fixtesfloat.cloud
 fixtflot.me
@@ -38380,6 +38377,7 @@ hl.wangshangjing.com
 hlbtn-company.ltd
 hltbtc.cam
 hltbtc.online
+hlxfsx.com
 hm.elegiac.site
 hm.flabbergast.site
 hmqfoundation.com
@@ -40098,6 +40096,7 @@ injective-network-en.web.app
 injective-networks.web.app
 injective.claims
 injective.gifts
+injective.help
 injective.systems
 injective.web3-connect.info
 injective.world
@@ -47872,6 +47871,7 @@ mantratech01.com
 manttanetwork.com
 manual-connect.com
 manual-metarestore.pages.dev
+manual-process.site
 manual-restore.pages.dev
 manual-syncronisation.ml
 manualbridgetools.com
@@ -70551,7 +70551,6 @@ poeecuioin-app.relsibar.tk
 poensea.com
 poetairdrop.com
 pofyhsyibgkxt4s.elb-host86.pancakeswape.finance
-pogbl.top
 pogodoqe.tech
 pogorzs.com
 pohantom.app
@@ -74011,6 +74010,7 @@ ratelage.repl.co
 ratepayonline.online
 ratifyaltentry.com
 ratingagoda.com
+rational-zerosolvosmartverse.pro
 rationalmultiverseappp.pro
 ratity.com
 ratydium.io
@@ -81711,7 +81711,6 @@ stargatefinance.org
 stargateflnance.com
 stargateflnance.fun
 stargategold.trading
-stargatepass.com
 stargatepass.org
 stargaterewards.com
 stargatesfinance.org
@@ -85466,6 +85465,7 @@ thestockmarketcoin.xyz
 thestratos-air.com
 thesummoning-mdvmm.xyz
 thesushiswap.com
+thesushiswap.xyz
 thesushiswaps.com
 theswiftsyncs.com
 thesynchronizer.live
