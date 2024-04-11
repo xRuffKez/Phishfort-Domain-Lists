@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 12:55:18 UTC 2024
-# Number of Entries: 8122
+# Fetch date: Thu Apr 11 13:03:19 UTC 2024
+# Number of Entries: 8118
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1973,7 +1973,6 @@ deafah.in
 dealerhuntersg.com
 dealsync.pages.dev
 debanhk.github.io
-debank-claim.com
 debank-web3.web.app
 debank.svap.org.in
 debank.trustpado.com
@@ -2553,7 +2552,6 @@ fixbugmigrate.pages.dev
 fixedfloat.win
 fixedtloat.com
 fixedtsfloats.com
-fixetdffloat.com
 fixetdflaot.com
 fixetdflot.com
 fixetflaot.com
@@ -4530,7 +4528,6 @@ neom-property.com
 neom-staging.klues.ai
 neom-suppliers.com
 neom.day
-neomcareers.cloud
 neomecolife.com
 neomfuturehub.com
 neomonlines.info
@@ -6832,7 +6829,6 @@ trust-airdrop.xyz
 trust2024.xyz
 trustdrops.xyz
 trustfloki.netlify.app
-trustpad-cv.com
 trustpad-gs.com
 trustwall.xyz
 trustwallet-support.com
