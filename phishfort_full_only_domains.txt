@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 02:13:29 UTC 2024
-# Number of Entries: 107907
+# Fetch date: Thu Apr 11 02:43:19 UTC 2024
+# Number of Entries: 107910
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1037,6 +1037,7 @@
 24x7-ledger.com
 24x7enterpriserental.agency
 24xchanger.cash
+25j0.cc
 25xrpevent.net
 2623233ez2ojk8yw56vh.hr70g.ru
 26grbw.cc
@@ -17336,6 +17337,7 @@ claim.free-layerzero.shop
 claim.frieend.tech
 claim.get-ton.com
 claim.governance-mav.app
+claim.hundoneth.com
 claim.hundsonsol.com
 claim.iens.xyz
 claim.iensprotocoi.xyz
@@ -86414,6 +86416,7 @@ toshies.li-vedrops.xyz
 toshies.net
 toshies.world
 toshiesnft.live
+toshiithecats.app
 toshithecat.io
 toskan.xyz
 total-handshake.com
