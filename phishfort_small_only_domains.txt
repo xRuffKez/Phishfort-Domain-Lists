@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 16:42:15 UTC 2024
-# Number of Entries: 8120
+# Fetch date: Thu Apr 11 16:52:16 UTC 2024
+# Number of Entries: 8098
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -492,7 +492,6 @@ an.betiutima.online
 an.intelectui.online
 an.myudetma.online
 analayze.orb-crypto.com
-analos-kohl.vercel.app
 analos.insure
 analyse-trades.web.app
 andex.vercel.app
@@ -1573,7 +1572,6 @@ claimspl20.web.app
 claimstrk.fun
 claimstrk.today
 claimstrk.xyz
-claimtrumx.xyz
 claimvoucher2.glitch.me
 claimzeriondapps.pages.dev
 clark-constructions.org
@@ -1924,7 +1922,6 @@ dappslog.vercel.app
 dappsly.pages.dev
 dappsnodesauthenticator.com
 dappsonar.pages.dev
-dappspacex.info
 dappspanelauth.pages.dev
 dappsprotocol.vercel.app
 dappsradar.lc
@@ -2328,7 +2325,6 @@ en.ingaccessbn.com
 en.pushdstore.xyz
 en407etr.com
 enchor-roofs.com
-encryted-api-f3w.pages.dev
 eng-inj.net
 eng-injective.com
 eng-injective.net
@@ -3007,7 +3003,6 @@ iexeces.app
 igxegift.com
 ijktea.top
 iktrjrfusah.icu
-ilfinity.io
 ilie.zerion.biz
 illivium-network.com
 illivium-techsupport.com
@@ -3020,7 +3015,6 @@ illuvium.io-claim.world
 illuviumliveairdrops.co
 illuviumpassairdrops.com
 illuviumrewards.io
-illuviumweb3.com
 imaginary-ones.com
 img.coolpayvn.com
 img.vncoolpay.com
@@ -3053,7 +3047,6 @@ injective-network-en.web.app
 injective-networks.web.app
 injective.systems
 injective.world
-injectivedex.com
 injectivenetwork.dev
 injectivers.xyz
 injectives.digital
@@ -3117,6 +3110,7 @@ ipgroup-lnc.com
 iptv.skin
 iqz2.sa.com
 ireth.rnag.site
+irrahkar.com
 islamiccoin.network
 islandrecords.co
 issuesdefi.xyz
@@ -3129,7 +3123,6 @@ j2gkzzu.top
 jade-melba-55acae.netlify.app
 jaguarlandrover.kmmediagroup.com
 jamesthurmankahn.com
-jane-ai.com
 jane-ai.net
 january-distribution.xyz
 janushenderson.agenciastatus.com.br
@@ -3627,7 +3620,6 @@ m.shrininow.com
 m.teck-invest.com
 m.v3derivatives.site
 m1.troncan.pro
-mad-lads.com
 maekrdao.com
 mag-boxdao.web.app
 magamemeccin.com
@@ -3805,7 +3797,6 @@ mantaa-network.org
 mantaairdropevent.com
 mantaapps.network
 mantabluerewards.com
-mantac.network
 mantachain-airdrop.org
 mantachainairdrop.org
 mantaclaim.digital
@@ -3888,7 +3879,6 @@ manzta.network
 maokmspk.org
 maplestorysuniverse.io
 maqiceden.web.app
-marinadefinance.claims
 market-place-bids.com
 marketpalcestatus.com
 marketpharmacy.com
@@ -4399,7 +4389,6 @@ multichain-auth.netlify.app
 multichain-dappconnect.netlify.app
 multichain-evm.pages.dev
 multichain-web.de
-multichain-web.live
 multichain-web.pro
 multichainapprove.pages.dev
 multichaindefiresolve.pages.dev
@@ -4571,7 +4560,6 @@ newmontvip.com
 newparadigm-manta-login.network
 newparadigm-manta.events
 newparadigm.manta.technology
-newparadigms.manta-networks.org
 newparadiqm-manta.network
 newporkcoin.pages.dev
 newprovisionschainlink.org
@@ -5173,7 +5161,6 @@ paxosevct.com
 paxosg.com
 paxosiys.com
 paxoskop.com
-paxosogt.com
 paxxful.live
 pay-407etr.com
 pay-en407etr.com
@@ -5543,7 +5530,6 @@ qrayber.com
 qt5872.xyz
 qtnkpaxos.net
 quantix.vercel.app
-quantumaiservice.org
 quantumcats.trading
 qubics.trading
 quest-aevo.com
@@ -5591,7 +5577,6 @@ radardapp.org
 radiantelectirchawaii.com
 radiocacas3.com
 raduim.app
-raffle-lunarnft.io
 raffleopnsea.com
 raffleusdc.com
 rainbow.mt-gox.site
@@ -6930,7 +6915,6 @@ updatedexserver.net
 updatenow.pages.dev
 updates-metamask.pages.dev
 url-shortener.me
-url7923.marsello.io
 us-ashleymadison.com
 us-coinmarketcap.com
 us4f.cc
@@ -6983,7 +6967,6 @@ vailddapps.pages.dev
 validatechains.pages.dev
 validatedwallet.com
 validaten0de.pages.dev
-validator-solscan.org
 validatorsync.net
 valikane.com
 valilake.com
@@ -7297,7 +7280,6 @@ webguardprotocol.xyz
 weblinknode.firebaseapp.com
 weblinknode.web.app
 weblinknodeapp.web.app
-webmail.arab-bkplc.com
 webmail.staging.io.1inch.help
 webmainnet.net
 webmultiverse-multichain.eu
@@ -7480,7 +7462,6 @@ www.api05-collab.com
 www.apk20.com
 www.app-ait.net
 www.app-ethena.finance
-www.app-ether.com
 www.app-milkyway.zone
 www.app-parrallel-network-dashbroads.danushi.com
 www.app-personalles-wps.cc
@@ -7520,7 +7501,6 @@ www.big-x-drops.top
 www.birdeye.exchange
 www.birdeye.markets
 www.birdeye.trade
-www.bitoptvex.com
 www.blockchainbets-vault.com
 www.blur.com.ru
 www.bonkinu.co
@@ -7902,7 +7882,6 @@ x01e8b2d6cbc38.anondns.net
 xai-claim.netlify.app
 xai.web3-qr.com
 xaidao.app
-xaigamesclaim.top
 xaimint.com
 xaimint.net
 xaimintnow.com
@@ -8081,7 +8060,6 @@ zkmindversatile.pages.dev
 zkpolyhedra.net
 zks-labsfoundation.com
 zks-labsfoundation.net
-zks-reward.org
 zks-skalling.net
 zkshield.blog
 zksinc.github.io
