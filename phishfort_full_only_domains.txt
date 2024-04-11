@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 08:04:21 UTC 2024
-# Number of Entries: 107936
+# Fetch date: Thu Apr 11 08:27:22 UTC 2024
+# Number of Entries: 107943
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -21476,6 +21476,7 @@ creatureworld.pgnfts.com
 creatureworld.whitelist-giveaway.com
 creatureworld.ybnfts.com
 creatureworldnft.xyz
+creatvedestructionlab.com
 creditcoin.club
 creepezco.com
 creepyclownsclub.com
@@ -30867,6 +30868,7 @@ etherewallet.org
 etherfast.eu
 etherfaucet.tech
 etherfi-airdrop.com
+etherfi-staking.site
 etherfi.click
 etherfi.digital
 etherfi.finance
@@ -41720,6 +41722,7 @@ kcpppump.com
 kcs-airdrop.com
 kcucoin.com
 kdq1gwcscj64064f8e088d0.tanmah.ru
+kduo.cc
 kdusd.xyz
 kealemn.online
 kebeb.site
@@ -43241,6 +43244,7 @@ layerzreolabs.top
 layerzrlabs.xyz
 layerzro.eu
 layerzzero.pics
+layerzzero.shop
 layler3.xyz
 layorzeronetwork.com
 layr3.xyz
@@ -53260,6 +53264,7 @@ mint-sea.digital
 mint-shibadoge.com
 mint-smokyapebasementclub.com
 mint-solkitties.com
+mint-swap.buzz
 mint-syncextension.com
 mint-syncextension.netlify.app
 mint-tesla.com
@@ -55173,6 +55178,7 @@ mxklar.com
 mxprotocol.online
 mxs-collabland.pages.dev
 mxtamvskwallvtte.godaddysites.com
+mxvq.cc
 mxyetherwallet.com
 mxymonero.com
 my-1passwards.com
@@ -59886,6 +59892,7 @@ nft-routerprotocol.com
 nft-rtfkt.com
 nft-saitamatoken.com
 nft-serverconnect.com
+nft-shards-tech.vercel.app
 nft-sidusheroes.com
 nft-solanart.space
 nft-spec.biz
