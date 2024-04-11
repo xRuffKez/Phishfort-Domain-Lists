@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 02:13:03 UTC 2024
-# Number of Entries: 8105
+# Fetch date: Thu Apr 11 02:27:47 UTC 2024
+# Number of Entries: 8107
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -64,6 +64,7 @@
 2024gmcsilverado.website
 24397033.4d1df63187c716fb9bc6ff22.workers.dev
 24x7enterpriserental.agency
+25j0.cc
 26grbw.cc
 2acnmzzlink.webcindario.com
 2crlw.pro
@@ -1516,6 +1517,7 @@ claim.cibzdackz.xyz
 claim.dydxexchang.com
 claim.dymensionall.club
 claim.get-ton.com
+claim.hundoneth.com
 claim.hundsonsol.com
 claim.ifizgroup.xyz
 claim.memeskombats.online
@@ -3258,6 +3260,7 @@ jupvoucher.com
 jupzz.com
 justlendportal.org
 juups.io
+jwsco.pro
 kaijutoys.shop
 kameiot.exchange.web3-l2.cfd
 kamino-financec.one
@@ -4493,7 +4496,6 @@ myverybenef.com
 mywalletexodus.com
 mywfmanager.com
 na2-docusign-net-envelope-office365-auth.us-southeast-1.linodeobjects.com
-na3-docusign-auth-office365.us-lax-1.linodeobjects.com
 nabla-amm.fi
 nabla-finance-week4testnetlive.vercel.app
 naka-migos.net
