@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 04:52:10 UTC 2024
-# Number of Entries: 8108
+# Fetch date: Thu Apr 11 05:03:28 UTC 2024
+# Number of Entries: 8109
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -7579,6 +7579,7 @@ www.faq-legal.com
 www.fegtokenmigrate.com
 www.fixedfloaflt.com
 www.fixedtflaot.com
+www.forjud.com
 www.fourseasonca.com
 www.frameassethub.net
 www.framechaindrop.com
