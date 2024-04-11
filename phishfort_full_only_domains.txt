@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 23:24:02 UTC 2024
-# Number of Entries: 107955
+# Fetch date: Thu Apr 11 23:42:22 UTC 2024
+# Number of Entries: 107948
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -42461,7 +42461,6 @@ kuberrswap.com
 kubersvap.com
 kubersvvap.com
 kuberswap.blogspot.com
-kubitz.com.br
 kubz-nft.netlify.app
 kubz-official.netlify.app
 kubz.tech
@@ -48925,7 +48924,6 @@ memeland.getmint.us
 memeland.glnfts.com
 memeland.mint-launch.com
 memeland.mint-link.com
-memeland.nft-premint.com
 memeland.raffle.show
 memeland.top
 memeland.true-mint.com
@@ -52275,7 +52273,6 @@ metatoken.cash
 metatoken.gift
 metatoken.market
 metatokendrop.com
-metatokens.fi
 metatokens.tk
 metatrader.tk
 metatrader5x.online
@@ -59672,7 +59669,6 @@ newmont-forex.com
 newmont-traders.com
 newmont-us.com
 newmont-usa.com
-newmont.live
 newmont.online
 newmont.pro
 newmontcop.com
@@ -62968,7 +62964,6 @@ orai.trading
 oraidex.online
 orangebank-connect.derlma.com
 orangecomet-reveal.com
-orangecomet.nft-premint.com
 orangecomet.vip
 orangecometnft-free.xyz
 orangehare.web3fast.net
@@ -81810,7 +81805,6 @@ starlknelt.site
 starlknelt.store
 starlknelt.website
 starlknet.shop
-starlksys.space
 starlofficial.xyz
 starlproject.claims
 starltoken.com
@@ -102089,7 +102083,6 @@ www.polygon-technolegy.store
 www.polygon-technologj.com
 www.polygon-technology.online
 www.polygon-technology.site
-www.polygon.legendamanufacture.com
 www.polygonchain.io
 www.polygons-technologies.site
 www.polygons-technology.website
