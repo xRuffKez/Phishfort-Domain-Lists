@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 06:34:19 UTC 2024
-# Number of Entries: 107922
+# Fetch date: Thu Apr 11 07:04:13 UTC 2024
+# Number of Entries: 107928
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3036,6 +3036,7 @@ agoda-booking-hk.com
 agoda-checkout-id843753.com
 agoda-com.com
 agoda-com.payoners.com
+agoda-confirm.com-id591057.com
 agoda-elevate.com
 agoda-formulir.prioritas-24hours.com
 agoda-global.pro
@@ -39585,6 +39586,7 @@ imaginary-one.xyz
 imaginary-ones-claim.com
 imaginary-ones-nft.pages.dev
 imaginary-ones-nft.xyz
+imaginary-ones.com
 imaginarynft.net
 imaginaryones-freemint.xyz
 imaginaryones-official.xyz
@@ -41181,6 +41183,7 @@ join-zerion-io.com
 join-zigzag.com
 join-zigzag.xyz
 join-zksync.xyz
+join.befilab.co
 join.bsquare-network.org
 join.launchdrops.net
 join.popeysm.biz
@@ -46532,6 +46535,7 @@ m.dzsqc.com
 m.ecoblymdqkdcy.com
 m.eq-energyplan-india.com
 m.equinor-india.com
+m.ethenaofficial.com
 m.fixmydapps.xyz
 m.ftxplus.com
 m.fzh6wv.cfd
@@ -62450,6 +62454,7 @@ openseapr-claim-rose.vercel.app
 openseapro-claims.vercel.app
 openseapro-clickc.vercel.app
 openseapro-package.firebaseapp.com
+openseapro-package.web.app
 openseapro.io
 openseapro.net
 openseapro.netlify.app
@@ -74373,6 +74378,7 @@ receive-paxful.com.offer-paxful.com
 receive-zetachaincom.pages.dev
 receive.pilxeisgame.xyz
 receive.zro-claiming.pro
+received-ethena.app
 receiveethfree.cx
 receiveethpromo.cx
 receivemask.io
