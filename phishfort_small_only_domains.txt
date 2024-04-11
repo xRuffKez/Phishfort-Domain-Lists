@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 19:03:01 UTC 2024
-# Number of Entries: 8100
+# Fetch date: Thu Apr 11 19:22:12 UTC 2024
+# Number of Entries: 8101
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4391,6 +4391,7 @@ multiblocksauth.pages.dev
 multichain-auth.netlify.app
 multichain-dappconnect.netlify.app
 multichain-evm.pages.dev
+multichain-tokenguidemaxx.shop
 multichain-web.de
 multichain-web.pro
 multichainapprove.pages.dev
