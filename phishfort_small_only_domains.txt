@@ -2,15 +2,14 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 00:32:35 UTC 2024
-# Number of Entries: 8094
+# Fetch date: Thu Apr 11 01:00:34 UTC 2024
+# Number of Entries: 8090
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
 0l9c6xn.info
 0nline.avebenlavebe.click
-0nu.n94gi8s.ru
 0pensea-click.vercel.app
 0penseamystery.vercel.app
 0penseapro-click.vercel.app
@@ -3979,7 +3978,6 @@ merative.site
 merc404.xyz
 merchantserviceadvisers.com
 merchantsmoe.com
-merckway.com
 mergeappsevers.pages.dev
 mergeben.tech
 mergebitswap.com
@@ -4417,7 +4415,6 @@ mychendimasslor.com
 mycommunityportal.site
 myedds.com
 myethertools.web.app
-myetherwalet.com
 myetherwallet.ph
 myetherwalletie.com
 myfirstproject.pages.dev
@@ -5233,7 +5230,6 @@ pepsisco.com
 per-empower.com
 per-empower.com.affiliateadvantageventures.com
 peraxel.com
-perceptiveorbsyscaga.pages.dev
 perdashboard.online
 perks-pepe.com
 perponschainrewards.pages.dev
@@ -6971,6 +6967,7 @@ vaultedvibes.online
 vdermo.us
 vdwdz.top
 vectorreserve.live
+veeam.careers
 velamigration.pro
 velocore.pages.dev
 velodrome-finance.app
@@ -7806,7 +7803,6 @@ www.spatco.shop
 www.sporemashrm.top
 www.staging.chat.login.fixedfloat.pw
 www.staging.home.hostmaster.coingecko.hatsuqat.com
-www.staging2.optumspecialtyin.com
 www.stakeyearn.fi
 www.staking-eigenpie-magpiexyz.77clube.com
 www.staking-zircuit-network.724koli.com
