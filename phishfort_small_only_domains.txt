@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 21:32:13 UTC 2024
-# Number of Entries: 8110
+# Fetch date: Thu Apr 11 21:42:05 UTC 2024
+# Number of Entries: 8108
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -972,7 +972,6 @@ berrachain.shop
 beshealtahq.website
 bestchnage.com
 bestweightlist.com
-bet-flag.it
 beta-opensea.com
 biasts.me
 bibangblast.pages.dev
@@ -3117,7 +3116,6 @@ iqz2.sa.com
 ireth.rnag.site
 irrahkar.com
 islamiccoin.network
-islandrecords.co
 issuesdefi.xyz
 it.support.swift-ness.com
 itaca.in
@@ -4446,7 +4444,6 @@ mychendimasslor.com
 mycommunityportal.site
 myedds.com
 myethertools.web.app
-myetherwallet.ph
 myetherwalletie.com
 myfirstproject.pages.dev
 mygoemployerthesaw.com
@@ -4522,6 +4519,7 @@ napaauto.shop
 napamerch.com
 nationaltrust-org.uk
 nativevalidationupdate.co
+navia.work
 nbm5xi.top
 nd8.us
 nearraffle.com
