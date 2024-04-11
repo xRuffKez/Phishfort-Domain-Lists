@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 04:15:34 UTC 2024
-# Number of Entries: 8109
+# Fetch date: Thu Apr 11 04:25:24 UTC 2024
+# Number of Entries: 8108
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1553,7 +1553,6 @@ claimether.finance
 claimgala.org
 claimjupiter.com
 claimmetadrop.nl
-claimmetamask.com
 claimopeaseamysterydrop.com
 claimpancakeswap.finance
 claimpandoshi.com
@@ -5003,6 +5002,7 @@ pancakeswap.systeme.io
 pancakeswapairdrop-event.finance
 pancakeswapairdrop.com
 pancakeswapairdropevent.finance
+pancakeswapcrypto.com
 pancakeswapfiinance.xyz
 pancakeswapfinance-gg3.pages.dev
 pancakeswapfinances.pages.dev
@@ -5029,7 +5029,6 @@ pancaqeswap-earn.com
 panccakeswapp.com
 panceksawap.finance
 panckakeswap.finance
-panckeswaps.com
 panckswap.com
 pandefi-staking.com
 pandefi.cc
