@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 07:03:41 UTC 2024
-# Number of Entries: 8119
+# Fetch date: Thu Apr 11 07:22:28 UTC 2024
+# Number of Entries: 8121
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2642,6 +2642,7 @@ funairdrop.vip
 fusestaking.app
 fusionist.trading
 fusioxn-finance.com
+futureswap.website
 fx0qlmo.cc
 fïxedlfloat.com
 g2os0.pro
@@ -7550,6 +7551,7 @@ www.codefinity.de
 www.coinbase-fogexter.top
 www.collab-award.io
 www.colloky.online
+www.comethena.ethenaofficial.com
 www.consorcioempreswebs.info
 www.cosmicchronica.xyz
 www.creepz-rebirth.com
