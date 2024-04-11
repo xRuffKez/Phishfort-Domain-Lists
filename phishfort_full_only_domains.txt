@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 05:03:40 UTC 2024
-# Number of Entries: 107915
+# Fetch date: Thu Apr 11 06:03:39 UTC 2024
+# Number of Entries: 107922
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6152,6 +6152,7 @@ app.alpacafinanc.org
 app.altlayer-web3.com
 app.anchorappweb.com
 app.anchorprotocol.pro
+app.ankr.live
 app.ape-stake.cn.com
 app.ape-stake.com
 app.apestake.io-authoriztion.us
@@ -6468,6 +6469,7 @@ app.swellnetwork.fi
 app.swiftblockresolve.com
 app.sync-web3dapps.live
 app.synchconnects.net
+app.syncus.mx
 app.syncwalletsvallidation.com
 app.tntphub.com
 app.tokendappcontract.com
@@ -6737,6 +6739,7 @@ appledgers.com
 applefi.pro
 applegift.info
 applegive.club
+appleid.raydiunexchange.pro
 applemetaverse.top
 applenfts.xyz
 applesisushi.blogspot.com
@@ -51002,6 +51005,7 @@ metamask.tips
 metamask.today
 metamask.token-appreciation-program.my.id
 metamask.token-btc.club
+metamask.tokenapp.top
 metamask.tokenim.ink
 metamask.tours
 metamask.town
@@ -54550,6 +54554,7 @@ multichaindapp.network
 multichaindapp.pages.dev
 multichaindapps.netlify.app
 multichaindappsconnect.com
+multichaindefiresolve.pages.dev
 multichaindrainertest.com
 multichained.pages.dev
 multichainer.com
@@ -83303,6 +83308,7 @@ swiftdapppad.pages.dev
 swiftdapprotocol.pages.dev
 swiftdappsco.online
 swiftdappweb.pages.dev
+swiftdefiauth.pages.dev
 swiftfix.link
 swiftfix.netlify.app
 swiftfixerrors.com
@@ -94584,6 +94590,7 @@ washingtonposts.info
 washingtonposttoday.com
 washingtonsecretaries.com
 waspcandy.xyz
+wassies.vip
 wassieverse.website
 wastedomai.ru.com
 wastelandscult.com
