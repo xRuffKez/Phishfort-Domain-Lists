@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 08:04:03 UTC 2024
-# Number of Entries: 8124
+# Fetch date: Thu Apr 11 08:15:55 UTC 2024
+# Number of Entries: 8128
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2402,6 +2402,7 @@ ethereumorg.com
 ethereumx.cc
 ethereumxfee.com
 etherfi-airdrop.com
+etherfi-staking.site
 etherfi.click
 etherfi.digital
 etherfi.finance
@@ -3286,6 +3287,7 @@ katy-capital.com
 kavaa-web.netlify.app
 kavadefend.me
 kcs-airdrop.com
+kduo.cc
 kelpdaa.xyz
 kelpdao-claim.pages.dev
 kelpdao.app
@@ -4267,6 +4269,7 @@ mint-nakamigos.vercel.app
 mint-nft.co
 mint-opeansea.web.app
 mint-satoshivm.io
+mint-swap.buzz
 mint-usdc.web.app
 mint-xai.com
 mint.apps-looty.com
@@ -4427,6 +4430,7 @@ mwallet8.com
 mx-collabland.pages.dev
 mxap.cc
 mxs-collabland.pages.dev
+mxvq.cc
 my-listings-76881.net
 my-listings-95571.net
 my-listings-97781.net
@@ -4607,6 +4611,7 @@ nft-openseaz.vercel.app
 nft-opesea.vercel.app
 nft-projects-sand.vercel.app
 nft-reward.pages.dev
+nft-shards-tech.vercel.app
 nft-sidusheroes.com
 nft-starknet-project.vercel.app
 nft-swellnetwork.io
@@ -6884,7 +6889,6 @@ uni.pro-coins.top
 uni.trustcoin.top
 unicswap.io
 unifiedprotocol.xyz
-uniglobecapitals.com
 unilend-v2mainnetnetwork.org
 uninashitesati.net
 unipolycoin.network
