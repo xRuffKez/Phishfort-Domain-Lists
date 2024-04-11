@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 20:24:00 UTC 2024
-# Number of Entries: 107961
+# Fetch date: Thu Apr 11 20:42:03 UTC 2024
+# Number of Entries: 107965
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -12876,6 +12876,7 @@ blasttup.top
 blastxs.com
 blats.io
 blav.s3o98.com
+blazetokeen.com
 blcckchian.com
 blcckchian.lcgjn.com
 blcckchlen.com
@@ -19143,6 +19144,7 @@ coinmadrketcaap.us
 coinmainnetinterface.firebaseapp.com
 coinmainnetinterface.live
 coinmainnetinterface.web.app
+coinmainnets.com
 coinmairketcap.us
 coinmakerbot.com
 coinmakretcaip.us
@@ -46286,6 +46288,7 @@ lovehateinu.world
 lovehateinu.ws
 lovehateinudapps.pages.dev
 lovehatelnu.xyz
+lovehatte.com
 lovehinu.com
 lovelesscity.xyz
 lovely-giveaway.com
@@ -47388,7 +47391,6 @@ mainnetfix.web.app
 mainnethost.com
 mainnethub-protocol.com
 mainnethub.app
-mainnethub.com
 mainnethub.org
 mainnethub.pages.dev
 mainnethub.web.app
@@ -52040,6 +52042,7 @@ metamesk.store
 metamesk.uk
 metamesk.vip
 metamesk.world
+metamesk.xyz
 metamesk0.com
 metameskb.com
 metameskc.com
@@ -63072,6 +63075,7 @@ ordinals-club.web3fast.net
 ordinalsazuki.com
 ordinalsbubbles.space
 ordinalsbubbles.world
+ordinalshub.org
 ordinalsmarket.cc
 ordinalswallet-gid0.onrender.com
 ordinalwallets.net
@@ -78726,7 +78730,6 @@ shibaswap.co
 shibaswap.date
 shibaswap.events
 shibaswap.io
-shibaswap.life
 shibaswap.mypixieset.com
 shibaswap.so
 shibaswap1.blogspot.com
@@ -90679,6 +90682,7 @@ venom-wallet.com
 venom.cfd
 venom.mailinvite.org
 venomairdrop.vercel.app
+venomcrypto-io.com
 venomfinance.site
 venomfonduation.com
 venomfoundation.app
