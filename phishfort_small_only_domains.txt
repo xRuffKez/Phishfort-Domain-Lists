@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 17:03:21 UTC 2024
-# Number of Entries: 8098
+# Fetch date: Thu Apr 11 17:24:55 UTC 2024
+# Number of Entries: 8100
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1351,6 +1351,7 @@ cbrevoke.org
 cchgroupfx.com
 cdek.avito.avito.avito.pancakeswap.reid4deeds.com
 cdn1conectionspoint2point12mayresultinotthefolw.pixelmon.tech
+cdnddn24.ihectorchiyani.click
 cdnmdn12.aysugallery.shop
 cdzhjzx.com
 ce1s1us.network
@@ -6958,6 +6959,7 @@ v2-pancakeswap.pages.dev
 v2.stakewise-finance.com
 v2.stakewise.info
 v3-pancakeswap.pages.dev
+v3.app.staging.tgf.nyuki.io
 v3.stakewise-finance.com
 v3everrise.app
 v3singularity.net
