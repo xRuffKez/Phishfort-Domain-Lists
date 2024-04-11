@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 07:15:16 UTC 2024
-# Number of Entries: 107928
+# Fetch date: Thu Apr 11 07:22:38 UTC 2024
+# Number of Entries: 107929
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -35056,6 +35056,7 @@ futments.site
 futures-bnb.com
 futures-factory.xyz
 futurespaceinvestment.com
+futureswap.website
 futuretradecoins.com
 fuyaogroup-com.cf
 fvck.allowmint.com
