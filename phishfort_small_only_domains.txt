@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 18:42:19 UTC 2024
-# Number of Entries: 8097
+# Fetch date: Thu Apr 11 19:03:01 UTC 2024
+# Number of Entries: 8100
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1787,6 +1787,7 @@ cozartweb.com
 cozymeta.com
 cpanel.metamaskarticle.com
 cpf-sponsoring.com
+cpluselephznt.ru.com
 crashout-casino.com
 crashout.run
 create-starknet-app.xyz
@@ -1985,6 +1986,7 @@ decentralize-metis.app
 decentralize.metis.wb3s.xyz
 decentralize.metis.wb3u.xyz
 decentralized-dapp.com
+decentralized-link.info
 decentralized-point.info
 decentralized-swap.com
 decentralizedautofix.com
@@ -4150,6 +4152,7 @@ metav2update.com
 metavmasusk.azurewebsites.net
 metaweb-import.pages.dev
 metawebfix-4.pages.dev
+metazmskloign.github.io
 metemask.cc
 metemesk-wallat.godaddysites.com
 metemesks.io
@@ -4251,6 +4254,7 @@ mine-manta.network
 minepro.fit
 minetrix.app
 minhacontachevrolet-sf.com
+mining-clouds.com
 mining113.com
 miningcloud.vip
 minipepe-coins.com
@@ -7215,7 +7219,6 @@ web3-shibaswap.com
 web3-shibaswap.xyz
 web3-solflare.com
 web3-traffic.xyz
-web3-uniswap-uniswap.com
 web3-zapper.com
 web3.app-in-box.com
 web3.da2a.net
