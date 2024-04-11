@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 19:14:27 UTC 2024
-# Number of Entries: 107967
+# Fetch date: Thu Apr 11 19:42:19 UTC 2024
+# Number of Entries: 107961
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -19905,7 +19905,6 @@ collabland.dev
 collabland.group
 collabland.info
 collabland.interact-guard.com
-collabland.io
 collabland.la
 collabland.land
 collabland.ml
@@ -27788,11 +27787,9 @@ dropmuskx.ir
 dropnibiru.link
 dropray.site
 droprtfkt.com
-drops-apecoin.com
 drops-blur.com
 drops-blur.io
 drops-celestia.org
-drops-chain.link
 drops-dex.top
 drops-dogecoin.com
 drops-hunter.art
@@ -54541,7 +54538,6 @@ multichain-dapps.pages.dev
 multichain-dapps.xyz
 multichain-dappsync.netlify.app
 multichain-defi.net
-multichain-event.net
 multichain-event.org
 multichain-evm.pages.dev
 multichain-fixdapp.pages.dev
@@ -54564,6 +54560,7 @@ multichain-rectifier.com
 multichain-rectify.com
 multichain-resolveapp.online
 multichain-sync.com
+multichain-tokenguidemaxx.shop
 multichain-web.de
 multichain-web.live
 multichain-web.pro
@@ -60346,6 +60343,7 @@ nisainvestmanagement.com
 nishikigoi.win-mint.com
 niswap.live
 nitingoswamivoice.com
+nitro-smartfusionglobeverse.pro
 nitronationtour.premint-wl.space
 nitrosupplier.gq
 nivbit.com
@@ -63066,7 +63064,6 @@ ordinalbayc.uno
 ordinalbored.com
 ordinalcheckspepe.online
 ordinaldoodles.live
-ordinaldrops.org
 ordinalmonkeys.site
 ordinalodyssey.net
 ordinalpepe.info
@@ -73897,8 +73894,6 @@ randomstring.electrumshow.com
 randomstring.electrumshow.net
 randomstring.electrumshow.org
 randos.presaless.com
-rangevalidator.firebaseapp.com
-rangevalidator.web.app
 rango-exchange-r8n4.onrender.com
 ranible-rnanage.top
 rank.sadwing.za.com
@@ -86753,7 +86748,6 @@ travisflahertyscam.com
 travonft.com
 traxmac.com
 trc20node.com
-trconnect.online
 trconnect.uk
 treasure-mining.com
 treasure-pro.xyz
