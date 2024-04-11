@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 03:23:35 UTC 2024
+# Fetch date: Thu Apr 11 03:32:22 UTC 2024
 # Number of Entries: 8108
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -173,6 +173,7 @@ account407etr.com
 accounts.paxf-ful.com
 accountsportal.net
 accountsvalidator.com
+acecoins.pro
 acefusionist.network
 achieve-altlayer.io
 achieve-altlayer.pages.dev
@@ -425,7 +426,6 @@ alshaya-group-ua.company.site
 alshayae.shop
 alshayagrooup.shop
 alshayagrooup.store
-alshayagroup-ae.company.site
 alshayagroup.blog
 alshayagroup.shop
 alshayagroupae.company.site
@@ -3597,7 +3597,6 @@ lybriaflnance.xyz
 lzas3.pro
 m-mask.top
 m-usdt.xyz
-m.8x3wsx.top
 m.cdzhjzx.com
 m.dscd888.com
 m.dzsqc.com
@@ -6515,6 +6514,7 @@ swapnftdefi.online
 swappanca1a.store
 swappancake.wtf
 swaptoken1inch.org
+swatches-vulcan.xyz
 sweatsync.pages.dev
 sweepstakes708.godaddysites.com
 sweet-zuccutto-855aba.netlify.app
