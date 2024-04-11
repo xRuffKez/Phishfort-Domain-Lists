@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 01:32:12 UTC 2024
-# Number of Entries: 8097
+# Fetch date: Thu Apr 11 01:57:13 UTC 2024
+# Number of Entries: 8103
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -113,6 +113,7 @@
 685463.sa.com
 6ueir.cc
 6wt7zwf.pro
+6xu5xdo.info
 70356134-1e65-4f60-94ee-18e6fc220ac1-00-qed3v4c7t0e6.spock.replit.dev
 79.137.202.34.sslip.io
 7ggtru.cc
@@ -643,6 +644,7 @@ app.prisrnafinance.com
 app.qirtm.com
 app.raticswap.xyz
 app.refundcoinstake.com
+app.renzoprotocols.net
 app.rnino.fi
 app.solvsprotocol.com
 app.sparkprotocol.fi
@@ -1454,6 +1456,7 @@ claim-dapps.pages.dev
 claim-dookeydash.com
 claim-dragon.web.app
 claim-dubbz.com
+claim-dubbz.net
 claim-es.com
 claim-ethenalab.com
 claim-ether.fi
@@ -2356,6 +2359,7 @@ erp.tharity.com
 errorsync.pages.dev
 erydgred.umb.market
 erythkor.buzz
+etena.xyz
 etfevent2024.com
 eth-amg.top
 eth-bonus.net
@@ -6459,6 +6463,7 @@ suo0gk1.cc
 super-fans.tech
 super-julio.free-mint.page
 super-migration.com
+super-verse.cc
 superbraves.info
 superclaim-defi.com
 superclaims-defi.com
@@ -6826,6 +6831,7 @@ tuckeracousstical.com
 tulip-app.one
 tvl-chain.link
 twilio-hr.com
+twt.airpuds.top
 twt.multipuds.top
 txaq.cc
 ubnr.cc
