@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 21:22:25 UTC 2024
-# Number of Entries: 107965
+# Fetch date: Thu Apr 11 21:42:17 UTC 2024
+# Number of Entries: 107962
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -32815,7 +32815,6 @@ fastapespeedclub.mint-site.live
 fastappsolutions.com
 fastauth2fa.web.app
 fastauthcointech.top
-fastauthe.com
 fastauthe.org
 fastauthe.tk
 fastautheaunthor.live
@@ -35690,7 +35689,6 @@ geminibonus.us
 geminibtc.net
 geminidrop.fund
 geminiearns.net
-geminieth.com
 geminieth.live
 geminiexcha.com
 geminigift.org
@@ -51680,7 +51678,6 @@ metamasks.info
 metamasks.ink
 metamasks.inkawarrioresports.com
 metamasks.live
-metamasks.ltd
 metamasks.one
 metamasks.pro
 metamasks.ren
@@ -52362,7 +52359,6 @@ metaxunity.com
 metazeus.li-vedrop.com
 metazmskloign.github.io
 metazverfied.com
-metcamask.com
 metcmask-io.com
 metcmask.app
 metcmask.com
@@ -59324,6 +59320,7 @@ nautilusoutlook.pancakeswape.finance
 nauts.bitezgroup.com
 navi-cn.com
 navi-good.xyz
+navia.work
 navigg2.com
 navp9.ru.com
 nayaab.xyz
