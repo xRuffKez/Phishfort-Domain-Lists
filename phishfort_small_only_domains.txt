@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 05:15:20 UTC 2024
+# Fetch date: Thu Apr 11 05:25:19 UTC 2024
 # Number of Entries: 8109
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -188,7 +188,6 @@ aerodrom.flnance.web3-l2.cfd
 aerordome.finance
 aethergaming.store
 aevoxyz.live
-affiliateagoda.com
 aflac-hr.com
 aflac.socialports.com
 aflacglobal.com
@@ -677,6 +676,7 @@ apphera.click
 appkiloex.io
 applecoin.one
 applefi.pro
+appleid.raydiunexchange.pro
 applfgswap.one
 application-pancakeswaps.pages.dev
 applovin.admin608297838.com
