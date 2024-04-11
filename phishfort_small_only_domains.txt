@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 01:57:13 UTC 2024
-# Number of Entries: 8103
+# Fetch date: Thu Apr 11 02:13:03 UTC 2024
+# Number of Entries: 8105
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -5559,6 +5559,7 @@ quickupdateexplorer.co
 quikswap.io
 r125.usdt6188.top
 r20.rs6.net
+r7ixec9.cc
 rabbitx.reward-share.info
 rabby-points.xyz
 rabby.ai
@@ -5926,6 +5927,7 @@ rrspn.pro
 rsmopt.com
 rsmtop.com
 rsr.gift
+rtfkt-gem.com
 rtfkt.gifts
 rtfktforge.pro
 rubic-exchange.life
@@ -6915,7 +6917,6 @@ us-coinmarketcap.com
 us4f.cc
 us_mettmsika_en_us3.godaddysites.com
 usa5starshop.com
-usaseoseller.com
 usbnkrellacrd.site
 usdc-claimback.online
 usdc-gift.top
@@ -7393,6 +7394,7 @@ wormholeairdrop.fun
 wormholeairdrop.shop
 wormholetech.click
 wormholew.top
+wornholepresales.vercel.app
 wowsniperbot.io
 wpcuonline.za.com
 wrnmax.com.au
