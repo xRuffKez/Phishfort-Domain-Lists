@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 08:15:55 UTC 2024
-# Number of Entries: 8128
+# Fetch date: Thu Apr 11 08:35:11 UTC 2024
+# Number of Entries: 8130
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1793,6 +1793,7 @@ cpf-sponsoring.com
 crashout-casino.com
 crashout.run
 create-starknet-app.xyz
+creatvedestructionlab.com
 creepezco.com
 creepzrebirth.com
 crepzz.app
@@ -3418,6 +3419,7 @@ layerzeroclaims.xyz
 layerzeronetwork.io
 layerzeroscan.vercel.app
 layerzzero.pics
+layerzzero.shop
 layler3.xyz
 layorzeronetwork.com
 layrocvisions.com
