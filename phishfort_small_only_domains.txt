@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 10:26:17 UTC 2024
-# Number of Entries: 8131
+# Fetch date: Thu Apr 11 10:33:54 UTC 2024
+# Number of Entries: 8128
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2189,7 +2189,6 @@ drip-networkcommunity.org
 drive-document-file-2024.github.io
 drop-apeterminal.com
 drop-ether.fi
-drop-magic.com
 drop-mogcoin.com
 drop.lfgjup.xyz
 dropairframe.com
@@ -2537,6 +2536,7 @@ figurefourchampionship.com
 fillold.mypsx.net
 finance-decrypt.com
 finance.pancakswaps.com
+financialpanache.com
 finceptorportals.click
 finceptur.com
 fireblocks-sso.com
@@ -2877,6 +2877,10 @@ happyskellies.com
 hardwaregiftairdrop.netlify.app
 hashbnb.com
 havas-aso.com
+havas-shop.com
+havas123.com
+havas6.com
+havas668.com
 haven1.vercel.app
 hbar-distribution.com
 hca-healthcare.com
@@ -2885,7 +2889,6 @@ health-equity.click
 health-equity.pro
 health-equity.sa.com
 health-equity.za.com
-healthcheck.com
 healtheequity.sa.com
 healthequitu.sa.com
 healthequity.com6.sa.com
@@ -4922,7 +4925,6 @@ pacific-bridge.manta.nework.live
 pacific-bridge.manta.software
 pacific-bridge.mantaly.network
 pacific-manta.network
-pacificbridge.xyz
 pacificmanta.vercel.app
 pacificparadigm.org
 pacificswap.app
@@ -5118,7 +5120,6 @@ paperholding-ethereum.web.app
 paperrhands.com
 papetokenss.com
 para.xcoindrop.top
-paradigm-manta.network
 paradigmclaims.vercel.app
 parclllimited.com
 parknationalkgt.pics
@@ -5126,7 +5127,6 @@ parriss2024.org
 partenariat-bouygues-telecom-entreprises.fr
 participate-zks.net
 participate-zks.org
-particle-network.com
 partners-ait.tech
 partners-zerolend.com
 partnership-ait.com
@@ -5190,8 +5190,6 @@ pay8-2v-gbz1keyte-ekontetevi-gmailcom.vercel.app
 pay8-2v-kbawr6w4i-ekontetevi-gmailcom.vercel.app
 paybnb.top
 paybyklarna.de
-paybyplatema.pro
-paybyplatema.website
 paycoins24.com
 paylccity.com
 paylink.fun.augusttarget.online
@@ -7292,7 +7290,6 @@ web3sy.top
 web3trubtc.cc
 webappresolve.pages.dev
 webdapps.vercel.app
-webdebugdapp.pages.dev
 webdisk.metamaskarticle.com
 webex.com.test.webexarcor.arcorsa.myshn.net
 webex.net.cn
