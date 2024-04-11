@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 11:02:51 UTC 2024
-# Number of Entries: 8129
+# Fetch date: Thu Apr 11 11:14:45 UTC 2024
+# Number of Entries: 8123
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -432,6 +432,7 @@ alshayagroupae.company.site
 alshayagroupk-s.company.site
 alshayagroupom.company.site
 alshayamegastore.com
+alshayamegastore.online
 alshayastore.com
 alshayeagroup.com
 alt-layers.com
@@ -697,7 +698,6 @@ appquestn.com
 appresolvefix.pages.dev
 apprestakefinance.com
 approved-received.pages.dev
-approvenode.pages.dev
 apps-aevo.xyz
 apps-eigenlayer.com
 apps-intercessor.live
@@ -722,7 +722,6 @@ aptos.trusthubs.top
 apts-project.com
 apygate.rpctool.net
 apygatercptools.web.app
-arab-bkplc.com
 arabbplc-ae.com
 araemex.com
 aramex-delivery.me
@@ -2266,7 +2265,6 @@ earnm.org
 earns-drop.net
 earns-drop.org
 easrndrop.net
-easydocgestao.com.br
 easyfixwallet.pages.dev
 easyfixwallets.pages.dev
 ebayshop-us.com
@@ -3655,7 +3653,6 @@ mahta-networks.com
 mahto-network.com
 mail-celsius.network
 mail-coinbase.biz
-mail.arab-bkplc.com
 mail.ethxgas.com
 mail.layerszero.pics
 mail.lendingtree.website
@@ -3863,7 +3860,6 @@ mantastake.com
 mantatech.network
 mantawallet.zoholandingpage.com
 mantax.pages.dev
-mantaz.network
 mantcnetwcrk.com
 mantda.network
 mantea.network
@@ -4409,8 +4405,8 @@ multichaindefiresolve.pages.dev
 multichained.pages.dev
 multichainnetwork.pages.dev
 multichainnode.onrender.com
+multichainprotocol.firebaseapp.com
 multichainprotocol.netlify.app
-multichainweb.pages.dev
 multicoinsystem.web.app
 multiconnect-system.web.app
 multidapps.pages.dev
@@ -6841,7 +6837,6 @@ trustpad-gs.com
 trustwall.xyz
 trustwallet-support.com
 trustwalletsupport.vercel.app
-trustweb3.pages.dev
 trustwl.xyz
 tryaml.com
 tryingffixedd.pages.dev
@@ -7367,7 +7362,6 @@ whitelist-farcana.com
 whitelist-joingrapes.com
 whitelist-parcl.com
 whitelist-personajourney.co
-whitelist-ponkes.com
 whitelist-porkcoin.com
 whitelist-satoshivm.com
 whitelist-satoshivm.io
