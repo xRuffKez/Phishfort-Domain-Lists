@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 20:02:59 UTC 2024
-# Number of Entries: 8102
+# Fetch date: Thu Apr 11 20:32:36 UTC 2024
+# Number of Entries: 8105
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1644,6 +1644,7 @@ coindappfixes.pages.dev
 coindas.top
 coingeckokyc.kycregulatory.com
 coinlaunchpad.netlify.app
+coinmainnets.com
 coinmarketcap-app-auth.web.app
 coinmarketcap-auth-web.web.app
 coinmarketcap-login-web.web.app
@@ -1755,7 +1756,6 @@ connectextension.info
 connectionlog.pages.dev
 connectnetwork.lojavirtualnuvem.com.br
 connectorwallet.pages.dev
-connectprotocol.42web.io
 connects-collabland.com
 connects-nibiru.com
 connectweb3-trustwallet.com
@@ -1955,7 +1955,6 @@ davi.pse-ssl.win
 daviplatanotific.webcindario.com
 daviplataportal.webcindario.com
 daviplataseeg.webcindario.com
-davipse.info
 davitahealthcarepartners.com
 daviviendainforma.zya.me
 daviviendaportal.webcindario.com
@@ -2924,6 +2923,7 @@ hex-multipliers.com
 highllght.com
 hippies-world.com
 hlbtn-company.ltd
+hlxfsx.com
 hntevent.com
 hodl-check.web.app
 hodl-checker.web.app
@@ -3047,6 +3047,7 @@ ingresobienvnido.cloud
 inj-space.com
 injective-network-en.web.app
 injective-networks.web.app
+injective.help
 injective.systems
 injective.world
 injectivenetwork.dev
@@ -3870,6 +3871,7 @@ manto-networks.com
 mantrachains-io.pages.dev
 manttanetwork.com
 manual-metarestore.pages.dev
+manual-process.site
 manual-restore.pages.dev
 manualmetarestore-39f.pages.dev
 manualmigrate.online
@@ -4101,7 +4103,6 @@ metamaskarticle.com
 metamaskb.icu
 metamaskc.org
 metamaskcrypto.com
-metamaskio.cfd
 metamaskio.xyz
 metamasklabs.cloud
 metamaskmal.ru
@@ -4877,6 +4878,7 @@ orchapp.com
 ordbridge.app
 ordiboardfusion.pages.dev
 ordify.pages.dev
+ordinalshub.org
 ordinalswallet-gid0.onrender.com
 ordiswaps.com
 ordiswaps.fi
@@ -5324,7 +5326,6 @@ pntom-wallet.github.io
 pocakedefi.cfd
 pocakedefi.top
 pocakedefi.xyz
-pogbl.top
 poiuhjkgfcvbnmawertyuxhqwezt.com
 poiygon.com
 poiyhedra.net
@@ -5594,6 +5595,7 @@ rarible-nft.com
 rarible.quest
 rarity-dapps.online
 rarityauth.online
+rational-zerosolvosmartverse.pro
 raubnse.com
 ravokecash.org
 raxful.com
@@ -6998,6 +7000,7 @@ vendorseuae.com
 vendoruae.com
 venom-foudation.com
 venomairdrop.vercel.app
+venomcrypto-io.com
 venue.markets
 veolidetamast.com
 verasity-io.live
