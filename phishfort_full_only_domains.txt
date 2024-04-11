@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 07:04:13 UTC 2024
+# Fetch date: Thu Apr 11 07:15:16 UTC 2024
 # Number of Entries: 107928
 
 0-metemask.com
@@ -27271,7 +27271,6 @@ dogecoin-drops.com
 dogecoin-live.com
 dogecoin-lives.com
 dogecoin.gifts
-dogecoin.love
 dogecoin20-ai.web.app
 dogecoin20resolve.pages.dev
 dogecoin2x.info
@@ -98592,6 +98591,7 @@ www.collectibles-opensea.com
 www.collections-opensea.com
 www.collectt-galagames.com
 www.colloky.online
+www.comethena.ethenaofficial.com
 www.comma-update-service.com
 www.community-metamask.unitedorphanage.org
 www.community-update.net
