@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 23:42:02 UTC 2024
-# Number of Entries: 8106
+# Fetch date: Thu Apr 11 23:52:14 UTC 2024
+# Number of Entries: 8101
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -40,7 +40,6 @@
 1inch-pay.ga
 1inch.box
 1inch.fyi
-1inch.magicksquare.com
 1inch.web3connect.mom
 1inchcode.newfinancialmarketworld.com
 1inchcoin.com
@@ -4062,7 +4061,6 @@ metamask-extensions.pages.dev
 metamask-fix.pages.dev
 metamask-fixweb.pages.dev
 metamask-flask.com
-metamask-kyc.com
 metamask-login.nicepage.io
 metamask-mining.com
 metamask-platform.codeanyapp.com
@@ -4562,6 +4560,7 @@ new.stonlix.club
 new.stonlix.xyz
 new.suithefrensi.xyz
 newidex.live
+newmont.live
 newmontemining.com
 newmontvip.com
 newparadigm-manta-login.network
@@ -5013,8 +5012,6 @@ pancakeswap.cc
 pancakeswap.click
 pancakeswap.dikecoin.com
 pancakeswap.godaddysites.com
-pancakeswap.li
-pancakeswap.lt
 pancakeswap.sipf.cc
 pancakeswap.systeme.io
 pancakeswapairdrop-event.finance
@@ -5148,7 +5145,6 @@ paxfulft.com
 paxfulhack.site
 paxfulintervenor.com
 paxfulmoderater.com
-paxfulonline.com
 paxfulp2p.com
 paxfulpay.com
 paxfulpay.net
@@ -6235,7 +6231,6 @@ smarttdappfix.pages.dev
 smartwebmultiverse.eu
 smiley-token.network
 smithbrotherrsconstruction.com
-smmsiteusa.com
 smog-token-st.web.app
 smogsolana.com
 smogtoken-io.web.app
