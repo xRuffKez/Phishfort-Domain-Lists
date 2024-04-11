@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 18:25:40 UTC 2024
-# Number of Entries: 8099
+# Fetch date: Thu Apr 11 18:42:19 UTC 2024
+# Number of Entries: 8097
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -85,7 +85,6 @@
 3pzlywh.info
 407-etr-help.com
 407-etr.com
-407etr-info.com
 407etr-paytrip.com
 407etrinfo.com
 407express-tollroute.com
@@ -844,7 +843,6 @@ autorestore.pages.dev
 autotecc.pages.dev
 autovalidateblockchain.com
 autovalidateweb3.pages.dev
-avalance-airdrop.com
 avalaunches.app
 avalchain-bridge.com
 avantiengineering.org
@@ -2146,6 +2144,7 @@ docu.ax9j.com
 document-microsoft-onedrive-file.github.io
 documentation-lybra.finance
 dodoeex.cc
+dogecoin.love
 dogecoin20-ai.web.app
 dogecoin20resolve.pages.dev
 dogescoinel20.club
@@ -3282,6 +3281,7 @@ katana-roninchainn.shop
 katana.ronlncdain.com
 katanaroninchain.shop
 katy-capital.com
+katycapitaljp.com
 kavaa-web.netlify.app
 kavadefend.me
 kcs-airdrop.com
@@ -3840,7 +3840,6 @@ mantapacific.net
 mantapacificairdrop.org
 mantaparadigm.network
 mantapcfc.network
-mantaq.network
 mantareward.com
 mantarewards.com
 mantarnetwork.com
@@ -4030,7 +4029,6 @@ metadrop-us.com
 metadrop.cloud
 metadrop.dev
 metaemaskk-wwallit.godaddysites.com
-metaexchange.dev
 metafix.vercel.app
 metaget.xyz
 metagets.xyz
@@ -5176,7 +5174,6 @@ pay8-2v-gbz1keyte-ekontetevi-gmailcom.vercel.app
 pay8-2v-kbawr6w4i-ekontetevi-gmailcom.vercel.app
 paybnb.top
 paybyklarna.de
-paycoins24.com
 paylccity.com
 paylink.fun.augusttarget.online
 paylocily.com
@@ -7964,6 +7961,7 @@ yaler.info
 yasno-gov.pages.dev
 ybixfed.pro
 ycs-agoda.cc
+ycs-extranet.com
 ycs.com-find-extra.com
 ycsextranetagoda.com
 yearn.deflab.top
