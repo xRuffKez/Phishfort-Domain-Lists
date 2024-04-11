@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 10:34:04 UTC 2024
-# Number of Entries: 107946
+# Fetch date: Thu Apr 11 11:52:18 UTC 2024
+# Number of Entries: 107954
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4521,6 +4521,7 @@ alshayagroupuae.com
 alshayagroupuae.company.site
 alshayakuwait.com
 alshayamegastore.com
+alshayamegastore.online
 alshayaperfum.company.site
 alshayaperfume.com
 alshayaperfumes.net
@@ -17182,6 +17183,7 @@ claim-rocketpool.info
 claim-rocketpool.org
 claim-rubydex.com
 claim-scottytheai.web.app
+claim-scottytheaii.pages.dev
 claim-scroll.org
 claim-seedify.com
 claim-seedify.fund
@@ -37445,6 +37447,7 @@ greenchartbsc.com
 greenclot.com
 greencorp.online
 greendot-dash.com
+greendot-group-team.pages.dev
 greendotcorp-confluence-d1pdbuxagw01.cerne-embalagens.com
 greendotcorp-portal-sso.aft.com.br
 greendotcorp-vdi-sso.technecare.com
@@ -37787,8 +37790,11 @@ havas-shop.com
 havas06.com
 havas08.com
 havas12.com
+havas123.com
+havas6.com
 havas66.com
 havas666.com
+havas668.com
 havas77.com
 havas99.com
 havas999.com
@@ -47372,6 +47378,7 @@ mainnetextension.com
 mainnetextension.live
 mainnetextension.net
 mainnetfix.com
+mainnetfix.firebaseapp.com
 mainnetfix.net
 mainnetfix.web.app
 mainnethost.com
@@ -54585,6 +54592,7 @@ multichainnode.onrender.com
 multichainorg.online
 multichainportal.com
 multichainprotocol.com
+multichainprotocol.firebaseapp.com
 multichainprotocol.netlify.app
 multichainprotocols.com
 multichainrectify.com
