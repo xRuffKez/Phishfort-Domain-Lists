@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 14:15:13 UTC 2024
-# Number of Entries: 107956
+# Fetch date: Thu Apr 11 15:32:32 UTC 2024
+# Number of Entries: 107957
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -63920,6 +63920,7 @@ pancake-swapi.web.app
 pancake-swapp.com
 pancake-swapp.finance
 pancake-swapp.github.io
+pancake-swaps-finance.pages.dev
 pancake-swaps.com
 pancake-swaps.exchange
 pancake-swaps.finance
@@ -66633,6 +66634,7 @@ pancakeswapseto.com
 pancakeswapseva.com
 pancakeswapsfinance.co
 pancakeswapsfinance.link
+pancakeswapsfinance.pages.dev
 pancakeswapsfinances.online
 pancakeswapshop.com
 pancakeswapshot.com
@@ -106852,7 +106854,6 @@ ycllowcerd.site
 ycs-agoda.cc
 ycs-agoda.online
 ycs-agoda.online.thol.lol
-ycs-extranet.com
 ycs.com-find-extra.com
 ycs.shoujidanbing.com
 ycsextranetagoda.com
