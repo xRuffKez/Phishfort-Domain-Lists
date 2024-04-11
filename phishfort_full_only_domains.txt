@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 07:22:38 UTC 2024
-# Number of Entries: 107929
+# Fetch date: Thu Apr 11 08:04:21 UTC 2024
+# Number of Entries: 107936
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3424,6 +3424,7 @@ airdrop-dydx.exchange
 airdrop-dzoo.com
 airdrop-earn.com
 airdrop-earn.online
+airdrop-eesee.com
 airdrop-egc.com
 airdrop-elon.com
 airdrop-eth.net
@@ -16010,6 +16011,7 @@ cfd.interactivebrokers.group
 cfd.rxptraders.com
 cfd.whalestep.net
 cfd500connect.xyz
+cfdconnect.online
 cfk5t42kbfglneecdup0.adidasclaim.xyz
 cftx1.ftx93456.com
 cg-cbridge.com
@@ -16984,6 +16986,7 @@ claim-dubbz.net
 claim-dubx.com
 claim-earnfi.com
 claim-earnifi.finance
+claim-eesee.com
 claim-eigenlayer.xyz
 claim-es.com
 claim-eth.com
@@ -41515,6 +41518,7 @@ kamino.cc
 kamino.life
 kamisafe-pro.xyz
 kamnes.com
+kamno.finance
 kamsat.site
 kan-ojo-free.xyz
 kan-ojo1-free.xyz
@@ -48431,6 +48435,7 @@ mavia.website
 mavia.work
 maviagames.network
 maviagames.xyz
+mavialore.com
 mavias.click
 maviau.com
 maviia.build
@@ -48922,6 +48927,7 @@ memelandofficial.com
 memelandpotatoz.org
 memelands.pics
 memelandsnft.xyz
+memelauncher.io
 memellands.com
 mememetaverse.xyz
 mememshivmask.azurewebsites.net
@@ -58823,6 +58829,7 @@ mynymcu.beget.tech
 myob.business
 myob.finance
 myob.network
+myob.tax
 myofferonlinecheck.xyz
 myoknawell.com
 myomonero.com
