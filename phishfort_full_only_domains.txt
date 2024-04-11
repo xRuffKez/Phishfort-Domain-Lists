@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 01:00:43 UTC 2024
-# Number of Entries: 107889
+# Fetch date: Thu Apr 11 02:13:29 UTC 2024
+# Number of Entries: 107907
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1471,6 +1471,7 @@
 6wt7zwf.pro
 6wuniswap.top
 6wvvroninwallet.top
+6xu5xdo.info
 7-collab-land.pro.1-collab-land.pro
 7-z.space
 7023167.com
@@ -6413,6 +6414,7 @@ app.radant.capital
 app.raticswap.xyz
 app.reauthorization.online
 app.refundcoinstake.com
+app.renzoprotocols.net
 app.restoreassets.org
 app.restoresyncweb.site
 app.restoretokens.com
@@ -16972,6 +16974,7 @@ claim-dorkcoin.gay
 claim-dragon.web.app
 claim-drops.top
 claim-dubbz.com
+claim-dubbz.net
 claim-dubx.com
 claim-earnfi.com
 claim-earnifi.finance
@@ -17180,6 +17183,7 @@ claim-shibarium.com
 claim-shibaswap.xyz
 claim-shibrewards.com
 claim-smardex.com
+claim-sol.web.app
 claim-solend.io
 claim-sonikcoin.com
 claim-sovryn.app
@@ -17701,6 +17705,7 @@ claimsolanagift.com
 claimsolanagift.net
 claimsolananft.com
 claimsolnft.net
+claimspl20.web.app
 claimstargate.com
 claimstark.net
 claimstation.online
@@ -27598,6 +27603,7 @@ dqaa6s.s3o98.com
 dqsh2trade.com
 dquickswap.com
 dr.com
+dra-eta.vercel.app
 drac24.ethdrop.xyz
 dragondeeznft.xyz
 dragonfish.cyou
@@ -28733,6 +28739,7 @@ elmusk.org
 elmusk2023.com
 elmusk2x.com
 elnaggar-importexport.net
+elnmtu.cc
 elnur.123.com
 elogged.pages.dev
 elon--musk.net
@@ -29670,6 +29677,7 @@ etcv-wallet.com
 etcwallet.atomburg.com
 etcwallet.net
 eteclum.org
+etena.xyz
 etereurm.org
 eternalgirl-promogive.com
 eternalpepe.com
@@ -41330,6 +41338,7 @@ jupclaim.org
 jupdrop.site
 jupdrop66.com
 jupdrop88.com
+jupdrop99.com
 juphsgw.sbs
 jupit-eth.com
 jupiter-cats.org
@@ -41410,6 +41419,7 @@ jvh12.za.com
 jwb.xzbio.net
 jwgnwn.cyou
 jwlmzin.cf
+jwsco.pro
 jx.ethdefiwin.cc
 jxgg.xlzzdn.com
 jxpg.snow521.com
@@ -51397,6 +51407,7 @@ metamaskinfo.top
 metamasking.xyz
 metamaskinvest.com
 metamaskio.cc
+metamaskio.cfd
 metamaskio.cfolks.pl
 metamaskio.cn
 metamaskio.com
@@ -54256,6 +54267,7 @@ mrbeastbtc.info
 mrbeasttoken.net
 mreasbresdb.ga
 mrfugas.cl
+mrgn-alphadao.web.app
 mrgottmann.com
 mrhankey-about.com
 mrhankey-app.com
@@ -63991,6 +64003,7 @@ pancakedrop.click
 pancakedrop.com
 pancakedrop.live
 pancakedrop.pw
+pancakedrop.xyz
 pancakedrops.com
 pancakedwallet.com
 pancakedwallets.com
@@ -73671,6 +73684,7 @@ r5eccrcz80ermzl.stellmsofts.xyz
 r5r6yt78u9i92jg.com
 r5t8790i676tr5r.com
 r7ao0.s3o98.com
+r7ixec9.cc
 raariiblee.com
 rabbit.claims
 rabbitx.reward-share.info
@@ -76546,6 +76560,7 @@ rtfkt-clodida.io
 rtfkt-egg.com
 rtfkt-exodus.com
 rtfkt-freemint.live
+rtfkt-gem.com
 rtfkt-giveaway.com
 rtfkt-mnlth-nft.xyz
 rtfkt-mnlth.shop
@@ -82534,6 +82549,7 @@ super-julio.free-mint.page
 super-migration.com
 super-protocol.web3fast.net
 super-rare.space
+super-verse.cc
 super-zksync.cc
 superapesclub.us
 superapesclub.xyz
@@ -87770,6 +87786,7 @@ twoon-muelt-treacs.yolasite.com
 twrectify.com
 twt-bakery.org
 twt-claims.com
+twt.airpuds.top
 twt.cryptoinc.top
 twt.multipuds.top
 twt500.tech
@@ -96283,6 +96300,7 @@ wormholenetwork.link
 wormholes.web3-airdrop.net
 wormholetech.click
 wormholew.top
+wornholepresales.vercel.app
 worthy-nft.online
 wospublications.com
 woutraefa.tk
