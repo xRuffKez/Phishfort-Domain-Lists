@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 11:22:09 UTC 2024
-# Number of Entries: 8123
+# Fetch date: Thu Apr 11 11:32:23 UTC 2024
+# Number of Entries: 8122
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3683,6 +3683,7 @@ mainnetapp.net
 mainnetdappns.netlify.app
 mainnetdapps.site
 mainnetecosystem.net
+mainnetfix.firebaseapp.com
 mainnetfix.web.app
 mainnetportal.org
 mainnets.vercel.app
@@ -4933,7 +4934,6 @@ pacnoon.org
 padchain-gpt.org
 paidnetwork.app
 pair-explorerzerion0i.pages.dev
-palestran15.pages.dev
 palmai-tech.web.app
 palmai-techi.vercel.app
 palmai.link
@@ -7632,7 +7632,6 @@ www.hustlegenix.crd.mvu.mybluehost.me
 www.iayerzero-claim.net
 www.ibkrixs.vip
 www.idcapps.life
-www.ifdgl.com
 www.imap.home.hostmaster.coingecko.hatsuqat.com
 www.imtoken-im.team
 www.interactivebroker.live
