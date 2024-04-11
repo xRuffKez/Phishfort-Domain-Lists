@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 10:26:27 UTC 2024
-# Number of Entries: 107944
+# Fetch date: Thu Apr 11 10:34:04 UTC 2024
+# Number of Entries: 107946
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -33166,6 +33166,7 @@ financial-bonus.com
 financial-trading.ltd
 financialchoicesmatter.com
 financialnewstoday.net
+financialpanache.com
 financialsupport-coinbase.com
 financialupdate-coinbase.com
 financio-promogive.com
@@ -37782,6 +37783,7 @@ hauntingfittingboastmachine--297954.repl.co
 haus-alpenrose.com
 hausphases.live
 havas-aso.com
+havas-shop.com
 havas06.com
 havas08.com
 havas12.com
