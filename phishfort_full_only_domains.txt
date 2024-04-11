@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 20:42:03 UTC 2024
+# Fetch date: Thu Apr 11 20:52:23 UTC 2024
 # Number of Entries: 107965
 
 0-metemask.com
@@ -25366,6 +25366,7 @@ decertraland.org
 decetnral.guru
 decetral.games
 decetrallends.com
+decfinsolutions.com
 decfntral.games
 dechainrectify.com
 dechatclaim.pages.dev
@@ -48931,7 +48932,6 @@ memeland.mint-launch.com
 memeland.mint-link.com
 memeland.nft-premint.com
 memeland.raffle.show
-memeland.store
 memeland.top
 memeland.true-mint.com
 memeland.web3fast.net
