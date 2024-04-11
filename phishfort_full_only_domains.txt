@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 17:15:10 UTC 2024
-# Number of Entries: 107958
+# Fetch date: Thu Apr 11 17:52:13 UTC 2024
+# Number of Entries: 107960
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -15803,6 +15803,7 @@ cdn-stellar.org
 cdn.cdn.secure.pancakefiance.org
 cdn.pancakeswape.finance
 cdn1conectionspoint2point12mayresultinotthefolw.pixelmon.tech
+cdnddn24.ihectorchiyani.click
 cdnmdn12.aysugallery.shop
 cdnsfiles.com
 cdtiun.com
@@ -90167,6 +90168,7 @@ v3-uniswap.com
 v3.aapaave.com
 v3.aavepool.co
 v3.aavepool.info
+v3.app.staging.tgf.nyuki.io
 v3.panicakeswap.com
 v3.stakewise-finance.com
 v3collab.land
