@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 07:52:19 UTC 2024
-# Number of Entries: 8121
+# Fetch date: Thu Apr 11 08:04:03 UTC 2024
+# Number of Entries: 8124
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -185,7 +185,6 @@ admincoinbase.the123456789.com
 adslauncher.eu
 advancelobstarhifi.pages.dev
 aerodrom.flnance.web3-l2.cfd
-aerodrome-airdrop.com
 aerordome.finance
 aethergaming.store
 aevoxyz.live
@@ -279,6 +278,7 @@ airdrop-caga.web.app
 airdrop-chaln.link
 airdrop-de.fi
 airdrop-defi.online
+airdrop-eesee.com
 airdrop-farcana.com
 airdrop-gomble.app
 airdrop-gomble.digital
@@ -1463,6 +1463,7 @@ claim-dookeydash.com
 claim-dragon.web.app
 claim-dubbz.com
 claim-dubbz.net
+claim-eesee.com
 claim-es.com
 claim-ethenalab.com
 claim-ether.fi
@@ -3271,6 +3272,7 @@ kameiot.exchange.web3-l2.cfd
 kamino-financec.one
 kamino.cc
 kamino.life
+kamno.finance
 karatdao.eu
 karatdao.v6.rocks
 karnatakaaromas.com
@@ -3989,6 +3991,7 @@ memekombat-staking.xyz
 memeland-verify.web.app
 memelandcoin.vercel.app
 memelandeth.com
+memelauncher.io
 memes-kombats.web.app
 memeskombats.online
 merative.site
