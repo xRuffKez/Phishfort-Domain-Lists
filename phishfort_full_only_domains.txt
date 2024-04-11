@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 18:52:04 UTC 2024
-# Number of Entries: 107963
+# Fetch date: Thu Apr 11 19:14:27 UTC 2024
+# Number of Entries: 107967
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -21422,6 +21422,7 @@ cpfctoken.crypto-margin.net
 cpgclub.xyz
 cpgclubs.xyz
 cplusdlephant.ru.com
+cpluselephznt.ru.com
 cprasoe.site
 cpresa.site
 cpsdisltributors.com
@@ -25228,6 +25229,7 @@ decentralized-firmwareprotocol.live
 decentralized-games.org
 decentralized-launch.com
 decentralized-launchpad.com
+decentralized-link.info
 decentralized-mainnet.com
 decentralized-mainnet.firebaseapp.com
 decentralized-mainnet.web.app
@@ -52358,6 +52360,7 @@ metaxetnsion.com
 metaxtrust.io
 metaxunity.com
 metazeus.li-vedrop.com
+metazmskloign.github.io
 metazverfied.com
 metcamask.com
 metcmask-io.com
@@ -53112,6 +53115,7 @@ minihokk-promogive.com
 minikishimoto-promogive.com
 minimekanft.xyz
 minindpools.com
+mining-clouds.com
 mining-etherscan.com
 mining-matchx.cfd
 mining-pool.cc
