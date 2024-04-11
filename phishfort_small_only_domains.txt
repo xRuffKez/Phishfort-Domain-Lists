@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 01:00:34 UTC 2024
-# Number of Entries: 8090
+# Fetch date: Thu Apr 11 01:32:12 UTC 2024
+# Number of Entries: 8097
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1489,6 +1489,7 @@ claim-realio.net
 claim-refund.github.io
 claim-retik-finiaces.web.app
 claim-scottytheai.web.app
+claim-sol.web.app
 claim-starknet.top
 claim-steth.com
 claim-tinyblander.com
@@ -1558,6 +1559,7 @@ claims-usdt.org
 claimshido.pages.dev
 claimsmart-layer.net
 claimsmemekombat.air-drop.dev
+claimspl20.web.app
 claimstrk.fun
 claimstrk.today
 claimstrk.xyz
@@ -2167,6 +2169,7 @@ dowunitedstatesusa.com
 dppsradar.pages.dev
 dpsyncresolve.netlify.app
 dr.com
+dra-eta.vercel.app
 drac24.ethdrop.xyz
 drake-bonus.pro
 drili.me
@@ -2290,6 +2293,7 @@ eligible-chaln.link
 elite-bit.net
 elitesiteat.com
 elitesiteaz.com
+elnmtu.cc
 elogged.pages.dev
 elon-x.info
 em-suppliers.online
@@ -3219,6 +3223,7 @@ jupcases.xyz
 jupclaim.org
 jupdrop66.com
 jupdrop88.com
+jupdrop99.com
 jupit-eth.com
 jupiter-cats.org
 jupiter-eg7kfz9c1-wowcats.vercel.app
@@ -4083,6 +4088,7 @@ metamaskarticle.com
 metamaskb.icu
 metamaskc.org
 metamaskcrypto.com
+metamaskio.cfd
 metamaskio.xyz
 metamasklabs.cloud
 metamaskmal.ru
@@ -4342,6 +4348,7 @@ motion-lndustries.com
 motionindustries.info
 motionlndustries.com
 moz-dia-meviplota.com
+mrgn-alphadao.web.app
 mrhcok.local-user.com
 mrhcpayroll.local-user.com
 msgive.io
@@ -4939,6 +4946,7 @@ pancake.swap.primaprofits.com
 pancake.vinaweb.app
 pancake888.com
 pancakedrop.com
+pancakedrop.xyz
 pancakedrops.com
 pancakeeswap.com
 pancakeeswap.finance
@@ -5224,7 +5232,6 @@ pepevip.is
 peplicator-nu.vercel.app
 pepsi8.com
 pepsico-tx.com
-pepsicol.com
 pepsicopostmixtraining.com
 pepsisco.com
 per-empower.com
