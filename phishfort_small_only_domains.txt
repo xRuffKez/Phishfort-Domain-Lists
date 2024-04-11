@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 13:03:19 UTC 2024
+# Fetch date: Thu Apr 11 13:15:19 UTC 2024
 # Number of Entries: 8118
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1844,6 +1844,7 @@ cyberdogecoin.top
 cyberkongz.pro
 cyberlama.app
 cyberx-staging.vercel.app
+d.moodyseokd.top
 d.moodysmfof.top
 d0cusiqn.hottern.click
 d394f31195472c.net
@@ -7385,7 +7386,6 @@ wizink.cartoespt-app.online
 wkjyd.top
 wkkuail.vip
 wlcbdqs.org.cn
-wm697t2io8uh7uaui6jg1oc4.designsdart.com
 wo1cw.pro
 wodlressxs.ru.com
 wojak.gifts
