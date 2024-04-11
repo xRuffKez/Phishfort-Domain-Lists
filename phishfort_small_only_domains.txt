@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 10:33:54 UTC 2024
-# Number of Entries: 8128
+# Fetch date: Thu Apr 11 10:42:02 UTC 2024
+# Number of Entries: 8129
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -258,7 +258,6 @@ aigentx.gift
 aione-lab.pro
 aipadmainnet.network
 air-altlayer.io
-air-frame.xyz
 air-hoppersreview.com
 air-linea.build
 air-satoshivm.io
@@ -1500,6 +1499,7 @@ claim-realio.net
 claim-refund.github.io
 claim-retik-finiaces.web.app
 claim-scottytheai.web.app
+claim-scottytheaii.pages.dev
 claim-sol.web.app
 claim-starknet.top
 claim-steth.com
@@ -2828,6 +2828,7 @@ graviex-defi.xyz
 graybarz.com
 greenbitcoin-en.web.app
 greencorp.online
+greendot-group-team.pages.dev
 greens-bitcoins.web.app
 grendot.online
 grin.pages.dev
