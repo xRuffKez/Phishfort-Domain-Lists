@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 22:15:22 UTC 2024
-# Number of Entries: 107962
+# Fetch date: Thu Apr 11 23:03:41 UTC 2024
+# Number of Entries: 107955
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2419,7 +2419,6 @@ accesstool.help
 accessvystarcu.cfd
 accmassployca.com
 accmyska.com
-accommodationcooktown.com
 accomplish-delivery.auth-servers.info
 accomplish-delivery.change-server.info
 accomplish-delivery.safe-track.info
@@ -25292,7 +25291,6 @@ decentralizedplatform.net
 decentralizedpro.online
 decentralizedprotocol.buzz
 decentralizedprotocol.live
-decentralizedprotocolapp.web.app
 decentralizedprotocolsync.online
 decentralizedresolve.org
 decentralizedresolver.com
@@ -47392,7 +47390,6 @@ mainnethub-protocol.com
 mainnethub.app
 mainnethub.org
 mainnethub.pages.dev
-mainnethub.web.app
 mainnethubs.pages.dev
 mainnetinsurance.com
 mainnetintegration.net
@@ -63061,19 +63058,15 @@ ordinal-ape.com
 ordinal-apes.com
 ordinal-kubz.imints.xyz
 ordinalbayc.uno
-ordinalbored.com
 ordinalcheckspepe.online
 ordinaldoodles.live
 ordinalmonkeys.site
-ordinalodyssey.net
 ordinalpepe.info
 ordinalpunks-mint.com
 ordinals-club.web3fast.net
 ordinalsazuki.com
 ordinalsbubbles.space
-ordinalsbubbles.world
 ordinalshub.org
-ordinalsmarket.cc
 ordinalswallet-gid0.onrender.com
 ordinalwallets.net
 ordinate-sync.net
