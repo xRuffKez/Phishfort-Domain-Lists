@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 20:32:36 UTC 2024
-# Number of Entries: 8105
+# Fetch date: Thu Apr 11 20:52:03 UTC 2024
+# Number of Entries: 8110
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1115,6 +1115,7 @@ blastscore.xyz
 blastt.io
 blasttup.top
 blastxs.com
+blazetokeen.com
 blendao.xyz
 blendcoin.org
 blender404.xyz
@@ -1993,6 +1994,7 @@ decentralizeddapps.myvnc.com
 decentralizedprotocolapp.web.app
 decentrausdchartfil.pages.dev
 decentrazerofusion.pages.dev
+decfinsolutions.com
 dechatclaim.pages.dev
 decline1.dvrcam.info
 decrypt-news.com
@@ -3595,6 +3597,7 @@ loopringlabs.online
 lootynetwork.org
 lottery.ridottowin.online
 lovecoprinttestelnur.com
+lovehatte.com
 lpfi1.cc
 lrt-eigenlayer.xyz
 lst-eigenlayer.xyz
@@ -4103,6 +4106,7 @@ metamaskarticle.com
 metamaskb.icu
 metamaskc.org
 metamaskcrypto.com
+metamaskio.cfd
 metamaskio.xyz
 metamasklabs.cloud
 metamaskmal.ru
@@ -4132,6 +4136,7 @@ metamcsk.io
 metameak.com
 metamesk.cc
 metamesk.me
+metamesk.xyz
 metamosk.cc
 metamsak-info-update.netlify.app
 metamsak-io-update-usage.netlify.app
