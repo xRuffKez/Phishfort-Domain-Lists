@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 13:23:40 UTC 2024
-# Number of Entries: 8079
+# Fetch date: Fri Apr 12 13:32:19 UTC 2024
+# Number of Entries: 8080
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -978,6 +978,7 @@ biblecoderesearch.org
 bicswap.top
 bid-offer.org
 bidvbsk.bidven.com
+bidvzsf.bidven.com
 biennvnido.com
 big-bang-blast.fun
 big-bang-blast.press
