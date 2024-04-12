@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 17:42:05 UTC 2024
-# Number of Entries: 107991
+# Fetch date: Fri Apr 12 18:03:16 UTC 2024
+# Number of Entries: 107994
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -10560,6 +10560,7 @@ bangcrypto-promogive.com
 bangzoomonline.com
 bank-ai.org
 bank-eth.com
+bank-sell.com
 bank.xql.vwp.mybluehost.me
 bankcor.network
 bankdapps.com
@@ -96600,6 +96601,7 @@ wwebsbltkubs-com.1gb.ru
 wwedapps.pages.dev
 wwefanhop.com
 wwegames.online
+wwemerch.shop
 wwenft.org
 wwepk.com
 wwepunch.shop
@@ -98983,6 +98985,7 @@ www.decetnral.today
 www.decetnral.xyz
 www.deckft.com
 www.decntralnd.one
+www.decora-cabinets.com
 www.dedanks.com
 www.deelanceo.com
 www.deelancewin.com
