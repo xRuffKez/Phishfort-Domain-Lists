@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 23:03:22 UTC 2024
-# Number of Entries: 108000
+# Fetch date: Fri Apr 12 23:32:32 UTC 2024
+# Number of Entries: 108006
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -40366,6 +40366,7 @@ interactivebrokersrle.com
 interactivebrokersrue.com
 interactivebrokerstrading.com
 interactivebrokersx.com
+interactivebrokerz.com
 interactivebrokjers.com
 interactivebrokrers.com
 interactivebrolkers.com
@@ -59707,6 +59708,7 @@ newmont-forex.com
 newmont-traders.com
 newmont-us.com
 newmont-usa.com
+newmont.live
 newmont.online
 newmont.pro
 newmontcop.com
@@ -77179,6 +77181,7 @@ saksoff5thnn-us.com
 saksoff5thnns.com
 saksoff5thnu.com
 saksoff5tho.com
+saksoff5thoi-ju.com
 saksoff5thonline.com
 saksoff5thonline.shop
 saksoff5thonline.top
@@ -77195,6 +77198,7 @@ saksoff5thstore.top
 saksoff5thvip.com
 saksoff5thw.com
 saksoff5thx.com
+saksoff5thy-co.com
 saksoff5thyyppl.top
 saksoff5thz.com
 saksofff-55th.com
@@ -89389,6 +89393,7 @@ uonitedair.site
 uonline-deta-org.netlify.app
 uonlline-deta8-org.onrender.com
 uonlline-ditna-org.onrender.com
+uonllineprofilleconnectderma.dynamic-dns.net
 uoy1qjbm8xtcsia.aaoqxrptqz.ru
 up-metemask.com
 up1.network
@@ -103063,6 +103068,7 @@ www.solstarter.sale
 www.solutionhelp.online
 www.solvencyvault.com
 www.somanetwork.live
+www.somethingbad.com
 www.sonae.sale
 www.souroarorare.cloud
 www.southwire-tool.com
