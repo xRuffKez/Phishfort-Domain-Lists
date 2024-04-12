@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 05:03:12 UTC 2024
-# Number of Entries: 107953
+# Fetch date: Fri Apr 12 05:26:31 UTC 2024
+# Number of Entries: 107955
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3600,6 +3600,7 @@ airdrop-walletapp.pages.dev
 airdrop-walletconnect.kyc-regulations.info
 airdrop-weway.com
 airdrop-worldcoin.com
+airdrop-wormhoie.vercel.app
 airdrop-wormhole.firebaseapp.com
 airdrop-wormhole.vercel.app
 airdrop-wormhole.web.app
@@ -48832,6 +48833,7 @@ memag.app
 memag.pages.dev
 memagnftdapps.live
 memarkwhois.com
+memask.app
 memask2.space
 mematrade.com
 mematsmsuk-log.azurewebsites.net
