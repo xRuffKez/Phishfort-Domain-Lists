@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 23:32:32 UTC 2024
-# Number of Entries: 108006
+# Fetch date: Fri Apr 12 23:52:02 UTC 2024
+# Number of Entries: 108007
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -68643,6 +68643,7 @@ paxfulassistant.com
 paxfulassists.com
 paxfulb.com
 paxfulbase.com
+paxfulbb.com
 paxfulbd.com
 paxfulbi.com
 paxfulbi.com.fod-cz.com
