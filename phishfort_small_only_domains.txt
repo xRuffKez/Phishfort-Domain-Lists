@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 22:52:00 UTC 2024
-# Number of Entries: 8089
+# Fetch date: Fri Apr 12 23:14:23 UTC 2024
+# Number of Entries: 8090
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2987,7 +2987,6 @@ hyperspace-pythrewards.net
 hyperspace-pythrewards.org
 hypnoticbrass.net
 i6jkg.cc
-ia-genetec.plantarfasciitisdoctorstlouis.com
 ia4mb.pro
 iavhru.cc
 iayerzero-claim.net
@@ -4565,6 +4564,7 @@ new.stonlix.club
 new.stonlix.xyz
 new.suithefrensi.xyz
 newidex.live
+newmont.live
 newmontemining.com
 newmontvip.com
 newparadigm-manta-login.network
@@ -6906,6 +6906,7 @@ unstoppabledomains.metaducks.com.ru
 unstoppabledomains.mobi
 unstoppableweb.digital
 unstoppablex.domains
+uonllineprofilleconnectderma.dynamic-dns.net
 update-metamask.pages.dev
 updatedexserver.net
 updatenow.pages.dev
