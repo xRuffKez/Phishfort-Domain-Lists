@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 16:15:46 UTC 2024
-# Number of Entries: 8091
+# Fetch date: Fri Apr 12 16:26:00 UTC 2024
+# Number of Entries: 8090
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -626,7 +626,6 @@ app.ankr.live
 app.auth-v2.org
 app.blastclaim.com
 app.claims-richquack.com
-app.cosensys.io
 app.defi-origin.com
 app.earn-swellnetwork.com
 app.etheir.fi
@@ -3002,6 +3001,7 @@ ibllck.com
 ibllcq.com
 ibllcr.com
 ibllcy.com
+icebnb-token-reflection-fix.netlify.app
 identicalentail.top
 idex-crypto.vip
 idypians.xyz
@@ -4202,7 +4202,6 @@ mewwallet.cc
 mewwalletfix.pages.dev
 mfa-expiration-notification-authservices2fa.us-ord-1.linodeobjects.com
 mfi.expert
-mfidao.club
 mftx.pro
 mgel.com.br
 mgfryjd.pages.dev
