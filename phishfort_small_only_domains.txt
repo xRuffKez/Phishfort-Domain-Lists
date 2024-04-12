@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 23:52:14 UTC 2024
-# Number of Entries: 8101
+# Fetch date: Fri Apr 12 00:10:36 UTC 2024
+# Number of Entries: 8103
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -171,6 +171,7 @@ account407etr.com
 accounts.paxf-ful.com
 accountsportal.net
 accountsvalidator.com
+accretivetechnologygroupcareers.com
 acecoins.pro
 acefusionist.network
 achieve-altlayer.io
@@ -2886,6 +2887,7 @@ health-equity.sa.com
 health-equity.za.com
 healtheequity.sa.com
 healthequitu.sa.com
+healthequity.com5.za.com
 healthequity.com6.sa.com
 healthequity.combiz.pro
 healthequity.comja.sa.com
