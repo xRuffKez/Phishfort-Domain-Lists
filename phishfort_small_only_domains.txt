@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 15:24:10 UTC 2024
-# Number of Entries: 8090
+# Fetch date: Fri Apr 12 15:33:29 UTC 2024
+# Number of Entries: 8092
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2386,6 +2386,7 @@ ethena-mining.pages.dev
 ethena-pool.pages.dev
 ethena-solutions.pages.dev
 ethena.blog
+ethenafinance.net
 ether-web3.com
 etheregas.xyz
 etheremgas.xyz
@@ -6845,6 +6846,7 @@ ufalmassuissat.com
 ufgw.top
 uhcdapp-apply-srv-eligible.glitch.me
 uhcrecruit.com
+uhcthankyou.com
 uhrecruits.online
 uimplmassa.com
 uionlineheda.com
