@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 23:22:10 UTC 2024
-# Number of Entries: 8090
+# Fetch date: Fri Apr 12 23:32:23 UTC 2024
+# Number of Entries: 8089
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -56,7 +56,6 @@
 1lnch.network
 1oilakj.top
 1raydium.sbs
-1yo.jd1k0i5.ru
 2-fa-metmask.io
 2000usdc.net
 2000usdt.net
@@ -72,7 +71,6 @@
 2fa-metamassk.com
 2faprotector.com
 2ham.pro
-2r.ijkl1.ru
 2r1.nhvw4is.ru
 2raydium.sbs
 3000usdt.xyz
@@ -3027,7 +3025,6 @@ img.vncoolpay.com
 immutabie.co
 immutable.defi-community.com
 immutablle.me
-impactivecreator.com
 impostorsland.xyz
 imsvf.cc
 imtoken-qw.pro
@@ -3129,7 +3126,6 @@ jade-melba-55acae.netlify.app
 jaguarlandrover.kmmediagroup.com
 jamesthurmankahn.com
 jane-ai.net
-january-distribution.xyz
 janushenderson.agenciastatus.com.br
 jasmy.x-trastpad.top
 jazzy-puffpuff-8f1eac.netlify.app
@@ -5970,8 +5966,10 @@ saksoff5thnn-us.com
 saksoff5thnns.com
 saksoff5thnu.com
 saksoff5tho.com
+saksoff5thoi-ju.com
 saksoff5thw.com
 saksoff5thx.com
+saksoff5thy-co.com
 saksoff5thyyppl.top
 saksoff5thz.com
 sakssaks.com
@@ -7803,6 +7801,7 @@ www.smartlayer-claims.com
 www.smartlayer-claims.net
 www.smartweb3.live
 www.snapshot-multibit.com
+www.somethingbad.com
 www.spatco.shop
 www.sporemashrm.top
 www.staging.chat.login.fixedfloat.pw
