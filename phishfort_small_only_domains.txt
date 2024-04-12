@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 00:32:35 UTC 2024
-# Number of Entries: 8108
+# Fetch date: Fri Apr 12 01:00:32 UTC 2024
+# Number of Entries: 8106
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -299,6 +299,7 @@ airdrop-pi.com
 airdrop-portalgaming.site
 airdrop-rarible.net
 airdrop-starknet.info
+airdrop-toshithecat.com
 airdrop-wallet-connect.sa9afa.com
 airdrop-wormhole.firebaseapp.com
 airdrop-wormhole.vercel.app
@@ -3396,7 +3397,6 @@ launchs-pads.app
 launchspad.app
 laundchpad.xyz
 laurentian-verif.com
-lava-lnt.com
 layer-3.app
 layer-3.cyou
 layer-network.com
@@ -3428,7 +3428,6 @@ lbast.io
 lbpacces.xyz
 lcfmusb.cc
 ldofi-promos.com
-leadpeopleright.com
 leakhub.io
 learcorporativo.com
 learn-unibot.app
@@ -4894,7 +4893,6 @@ origintracdappcom.com
 orivium.trading
 orlandoplasmacenters.com
 osaic-wisconsin.com
-osaiccareers.com
 osmosis-zone.mom
 osmososis-zone.xyz
 otcsea.app
@@ -5582,6 +5580,7 @@ radardapp.net
 radardapp.org
 radiantelectirchawaii.com
 radiocacas3.com
+radix.gift
 raduim.app
 raffleopnsea.com
 raffleusdc.com
@@ -6083,7 +6082,6 @@ selfsync-dapp.com
 sellrockov.live
 selviyardim.online
 senapsy-protocoll.org
-senecanillwork.com
 sentinel-ai.vip
 sentryxai.claimtokens.live
 sepolia.eu
