@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 02:44:46 UTC 2024
-# Number of Entries: 107953
+# Fetch date: Fri Apr 12 03:33:22 UTC 2024
+# Number of Entries: 107951
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3569,7 +3569,6 @@ airdrop-stx-blockchain.info
 airdrop-sui.icu
 airdrop-sui.one
 airdrop-swap.com
-airdrop-symbiosis.com
 airdrop-taiko.icu
 airdrop-thephoenix.finance
 airdrop-token.website
@@ -8334,7 +8333,6 @@ atomicwalletairdrop.gq
 atomicwalletfree.com
 atomicwalletgift.live
 atomicwalletrectify.com
-atomicwallets-io.com
 atomicwallets.somee.com
 atomicwalletsapp.net
 atomicwalletsrestore.online
@@ -17090,6 +17088,7 @@ claim-myrothedog.com
 claim-nft.com
 claim-nft.online
 claim-nft.xyz
+claim-nftpro.web.app
 claim-nfts.xyz
 claim-nibiru.top
 claim-nouns.wtf
@@ -17407,6 +17406,7 @@ claim.safepaycoins.com
 claim.safethemoon.com
 claim.secure-layerzero.network
 claim.seedity.fun
+claim.sharkscatsol.xyz
 claim.smogxtoken.com
 claim.sonikapp.live
 claim.sonikcoin.network
@@ -18013,7 +18013,6 @@ clrscr.net
 club-degods.com
 club-mdvmm.xyz
 club-pudgypenguins.com
-club-seedify.org
 club3-airdrop.xyz
 clubbtc.live
 clubeth.live
@@ -26924,7 +26923,6 @@ dinariumfx.net
 diniance.art
 dininho.xyz
 dininhoadventuresnft.com
-dino-wars.nft-premint.com
 dinobusdfinace.com
 dinolfg.gift
 dinolfg.xyz
@@ -44245,6 +44243,7 @@ linea-defi.com
 linea-eth.dev
 linea-layerfinance.com
 linea-mint.xyz
+linea-net.com
 linea-network.xyz
 linea-official.tech
 linea-park.com
@@ -59671,7 +59670,6 @@ newmont-forex.com
 newmont-traders.com
 newmont-us.com
 newmont-usa.com
-newmont.live
 newmont.online
 newmont.pro
 newmontcop.com
