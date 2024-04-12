@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 17:33:27 UTC 2024
-# Number of Entries: 8089
+# Fetch date: Fri Apr 12 17:52:12 UTC 2024
+# Number of Entries: 8092
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -919,6 +919,7 @@ bancontact.pay-startauth.com
 bancontact.startauth-pay.com
 bang-blast.io
 bank-ai.org
+bank-sell.com
 bankinging.com
 bankless-claims.net
 banklessdrop.coinsupportlive.com
@@ -7404,6 +7405,7 @@ ww-connect-dappradar.com
 ww-revoke.cash
 wwarm.xyz
 wwe-envivo.com
+wwemerch.shop
 wwepunch.shop
 www-1inch.top
 www-adpworkforcenow.com
@@ -7541,6 +7543,7 @@ www.deafah-in.amazonintl.in
 www.debenhams-ae.com
 www.decentralize-metis.com
 www.decntralnd.one
+www.decora-cabinets.com
 www.degen.hakunamatatasol.com
 www.dex-bitconnect.lol
 www.dropmanta.com
