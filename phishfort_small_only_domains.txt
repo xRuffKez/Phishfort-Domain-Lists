@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 23:32:23 UTC 2024
-# Number of Entries: 8089
+# Fetch date: Fri Apr 12 23:42:14 UTC 2024
+# Number of Entries: 8090
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -5134,6 +5134,7 @@ paxful.instenpay.com
 paxful78291047.com.ng
 paxfula.com
 paxfulb.com
+paxfulbb.com
 paxfulbw.com
 paxfulcoins-diputes.com
 paxfulfe.com
