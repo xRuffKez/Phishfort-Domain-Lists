@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 11:42:21 UTC 2024
-# Number of Entries: 8076
+# Fetch date: Fri Apr 12 11:52:08 UTC 2024
+# Number of Entries: 8077
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -699,6 +699,7 @@ approved-received.pages.dev
 apps-aevo.xyz
 apps-eigenlayer.com
 apps-intercessor.live
+apps-linea.build
 apps-pancakeswap.finance
 apps.multichainspro.com
 appserversdex.network
