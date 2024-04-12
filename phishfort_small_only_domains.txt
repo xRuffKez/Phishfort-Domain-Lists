@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 17:15:04 UTC 2024
-# Number of Entries: 8090
+# Fetch date: Fri Apr 12 17:24:49 UTC 2024
+# Number of Entries: 8089
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -833,7 +833,6 @@ auth0discord-collab.world
 authenticatorjoin.cc
 authradarbridge.com
 auths-mylogn.com
-autismlearningpartners.systemupdates.org
 auto-financiamiento.online
 autoassetsvalidation.xyz
 autodiscover.aflacsinc.com
@@ -7089,7 +7088,6 @@ vote.makerdaos.trading
 votebnbchain.pages.dev
 votemarketstakedao.org
 vpunxrf00.urest.org
-vskyn.com
 vsns-distribution.com
 vsogl.pro
 vulcanforged-claim.com
@@ -7402,7 +7400,6 @@ wtokenevent.app
 wub6y7o.pro
 wufis.com
 wverycaxqw6urqwpchk.mxy9ink.ru
-wvw.jucrina.club
 ww-connect-dappradar.com
 ww-revoke.cash
 wwarm.xyz
@@ -7554,6 +7551,8 @@ www.eigen-layer.sale
 www.eigenlaver.magpiexyz.site
 www.eligibility-wenwencoin.com
 www.eligible-porkcoin.com
+www.emidiscount.top
+www.estoer.top
 www.ethena.finance
 www.ethereumdrop.com
 www.ethereumrefund.com
