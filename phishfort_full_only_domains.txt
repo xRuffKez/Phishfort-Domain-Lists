@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 14:15:05 UTC 2024
-# Number of Entries: 107979
+# Fetch date: Fri Apr 12 14:32:36 UTC 2024
+# Number of Entries: 107981
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -9627,6 +9627,7 @@ axlulnfinlty.com
 axlulnflnlty.com
 axoienfinity.com
 axoinfinity.site
+axonnet.xyz
 axos-bk.com
 axos-microfin.com
 axos.000.pe
@@ -79806,6 +79807,7 @@ smartreviseconnect.pages.dev
 smartreviseconnects.pages.dev
 smartreviseprotocol.pages.dev
 smartreviseweb.pages.dev
+smartrevokenet.vercel.app
 smartscoinmigrate.store
 smartscoinmigrate.xyz
 smartsconnect.net
