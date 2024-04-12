@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 13:52:22 UTC 2024
-# Number of Entries: 8080
+# Fetch date: Fri Apr 12 14:02:58 UTC 2024
+# Number of Entries: 8084
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4098,6 +4098,7 @@ metamaskarticle.com
 metamaskb.icu
 metamaskc.org
 metamaskcrypto.com
+metamaskes.azurewebsites.net
 metamaskio.cfd
 metamaskio.xyz
 metamasklabs.cloud
@@ -4112,6 +4113,7 @@ metamasksecure.com
 metamasksinfo-supportaccount.yincobase.shop
 metamasksio.click
 metamasksio.xyz
+metamasksw.azurewebsites.net
 metamaskusan.azurewebsites.net
 metamaskv.net
 metamaskv.org
@@ -4121,6 +4123,7 @@ metamaskweb.keplrwalletweb.com
 metamaskxtension.github.io
 metamaskz.ink
 metamassk.cc
+metamasuak.azurewebsites.net
 metamasusak.azurewebsites.net
 metamasx.xyz
 metamcsk.cc
@@ -4144,6 +4147,7 @@ metarestore.vercel.app
 metareward.top
 metasafeguardportfolio.desmarkpremio.com
 metasamasuk.azurewebsites.net
+metasmaslk.azurewebsites.net
 metaswap-frontend.vercel.app
 metatank.app
 metatoken.cash
