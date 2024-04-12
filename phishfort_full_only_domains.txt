@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 00:11:05 UTC 2024
-# Number of Entries: 107951
+# Fetch date: Fri Apr 12 00:32:45 UTC 2024
+# Number of Entries: 107955
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -59349,6 +59349,7 @@ ndf.saadasran.com
 ne.cion-defi.pro
 neami.shop
 near-community.one
+near-lottery.org
 near-technology.org
 near-tokens-and-compatible.blogspot.com
 near-walelts.online
@@ -87047,6 +87048,7 @@ troublesysdapp.live
 troverse.after-mint.xyz
 troxinus.com
 trqderjoexyz.com
+trrecoin.com
 trrezor.io
 trrezorr-wallet.com
 trrust-waillet.com
@@ -87061,6 +87063,7 @@ trucify-crypto.com
 truckloancenter.com
 tructpad-airdrop.com
 tructpade.com
+trudie.win
 true-daps.com
 truebit-airdrops.org
 truebit.gift
@@ -90422,6 +90425,7 @@ validsync.live
 validsync.nl
 validwalletconnect.live
 valikane.com
+valikut.com
 valilake.com
 valimest.com
 valirake.com
