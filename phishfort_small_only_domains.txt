@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 08:15:58 UTC 2024
-# Number of Entries: 8085
+# Fetch date: Fri Apr 12 08:26:02 UTC 2024
+# Number of Entries: 8086
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1127,6 +1127,7 @@ blockchain-issues-resolv.netlify.app
 blockchain-node-beta.vercel.app
 blockchainbets.netlify.app
 blockchaindapp-dri.pages.dev
+blockchainrectification-1tu.pages.dev
 blockchainrectification088.pages.dev
 blockgames-registration.com
 blocknodechains.com
