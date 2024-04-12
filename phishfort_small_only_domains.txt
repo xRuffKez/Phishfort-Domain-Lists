@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 04:26:53 UTC 2024
-# Number of Entries: 8104
+# Fetch date: Fri Apr 12 04:34:31 UTC 2024
+# Number of Entries: 8103
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4794,7 +4794,6 @@ open-seaio.github.io
 open-seasclick.vercel.app
 open-zkbridge.com
 openbookraydium.com
-openboxclaims.vercel.app
 openclickclaim.vercel.app
 openftclicks.vercel.app
 openkeyledger.com
