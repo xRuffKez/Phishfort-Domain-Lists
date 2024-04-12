@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 10:41:57 UTC 2024
+# Fetch date: Fri Apr 12 10:52:11 UTC 2024
 # Number of Entries: 8076
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -237,6 +237,7 @@ agodahotels.world
 agodajp.vip
 agodanewcomplaint.com
 agodaonline.com
+agodaranking.top
 agodatikethotelcom.masukmobilee.de
 agodaycs.com
 agodaycs.org
@@ -1068,7 +1069,6 @@ bks-at.com
 bks-partsners.com
 blackrockbtc-etf.org
 blackrockfund.xyz
-blackwomenwhorv.com
 blackyfantom.pro
 blanchefashions.shop
 blast-airdrop-io.site
@@ -3765,7 +3765,6 @@ manta-promotion.network
 manta-rewards.events
 manta-sale.com
 manta-survey.com
-manta-treasury.com
 manta-wallets.xyz
 manta-xi.vercel.app
 manta.claimw.xyz
@@ -4078,6 +4077,7 @@ metamask.ig6s.com
 metamask.imtoken.hk.cn
 metamask.io.circletokenhub.com
 metamask.io.in
+metamask.ioqj.live
 metamask.itoken.cool
 metamask.je
 metamask.land
