@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 19:22:15 UTC 2024
-# Number of Entries: 107994
+# Fetch date: Fri Apr 12 19:42:20 UTC 2024
+# Number of Entries: 107996
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -29588,6 +29588,7 @@ erc20free.online
 erc20rescue.tools
 erc20shib-inu.github.io
 erc20spot.top
+erc20tokenfactory.netlify.app
 erc20v.com
 erc20v.net
 erc20wallet.tk
@@ -42707,6 +42708,7 @@ l1nch.exchange
 l1xpresale.com
 l2-blast.buzz
 l2-blast.io
+l2blast.net
 l2racesupremacy.com
 l3-rollups.xyz
 l4fuf4x.xamt.net
