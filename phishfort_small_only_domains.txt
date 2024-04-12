@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 15:03:24 UTC 2024
-# Number of Entries: 8086
+# Fetch date: Fri Apr 12 15:14:58 UTC 2024
+# Number of Entries: 8089
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3677,6 +3677,7 @@ mainnetdapps.site
 mainnetecosystem.net
 mainnetfix.firebaseapp.com
 mainnetfix.web.app
+mainnethub.web.app
 mainnetportal.org
 mainnets.vercel.app
 mainnetserver.site
@@ -5590,6 +5591,7 @@ rainy.synology-ds.de
 raksfifthavenue.com
 randomecoin-ads.eu
 randomecoins.com
+rangevalidator.firebaseapp.com
 rango-exchange-r8n4.onrender.com
 rarible-nft.com
 rarible.quest
@@ -7787,6 +7789,7 @@ www.sdxtrc20.com
 www.sdxusdt.com
 www.seedifyfund.support
 www.seibridge.org
+www.seijpe.com
 www.shibus.site
 www.shop-click-drive.com
 www.sitemap.project-altlayer.io
