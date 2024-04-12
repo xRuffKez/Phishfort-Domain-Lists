@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 03:03:21 UTC 2024
+# Fetch date: Fri Apr 12 03:15:35 UTC 2024
 # Number of Entries: 8104
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1476,6 +1476,7 @@ claim-marinadefinance.com
 claim-metis.com
 claim-molly.xyz
 claim-myrothedog.com
+claim-nftpro.web.app
 claim-nibiru.top
 claim-opensea.com
 claim-opsecs.net
@@ -4987,7 +4988,6 @@ pancakesvap-app.github.io
 pancakesvop.com
 pancakeswaap.in
 pancakeswaapfinance.net
-pancakeswap-airdop.com
 pancakeswap-airdrop-giveaway.com
 pancakeswap-clone-nine.vercel.app
 pancakeswap-connect.xyz
