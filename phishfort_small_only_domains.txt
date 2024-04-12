@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 15:42:01 UTC 2024
-# Number of Entries: 8092
+# Fetch date: Fri Apr 12 15:52:12 UTC 2024
+# Number of Entries: 8091
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4191,6 +4191,7 @@ metrsamasknig.azurewebsites.net
 metsafnmaske.azurewebsites.net
 metsfghmaskus.azurewebsites.net
 metsk.app
+mettaumaskev.azurewebsites.net
 mettvcmaske.azurewebsites.net
 metumasklgio.github.io
 metwamasnkus.azurewebsites.net
@@ -4519,7 +4520,6 @@ naka-migos.net
 nanogatesphere.info
 napaauto.shop
 napamerch.com
-nationaltrust-org.uk
 nativevalidationupdate.co
 navia.work
 nbm5xi.top
@@ -5581,7 +5581,6 @@ radar-dapp.net
 radardapp.com
 radardapp.net
 radardapp.org
-radiantelectirchawaii.com
 radiocacas3.com
 radix.gift
 raduim.app
