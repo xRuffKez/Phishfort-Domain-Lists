@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 00:10:36 UTC 2024
-# Number of Entries: 8103
+# Fetch date: Fri Apr 12 00:32:35 UTC 2024
+# Number of Entries: 8108
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4521,6 +4521,7 @@ nativevalidationupdate.co
 navia.work
 nbm5xi.top
 nd8.us
+near-lottery.org
 nearraffle.com
 neom-property.com
 neom-staging.klues.ai
@@ -6405,6 +6406,7 @@ starknet-reward.network
 starknet.press
 starknet.pro.in
 starknet.sk
+starknetairdrop.shop
 starknetfond.com
 starknetone.life
 starknetweb3.com
@@ -6814,7 +6816,9 @@ tron.sync-rectifier.com
 tronado.cash
 tronbonus-promotion.com
 troubleshootwallets.com
+trrecoin.com
 trsutwallexension.godaddysites.com
+trudie.win
 truebit.gift
 truedapps.vercel.app
 trueonlines.com
@@ -6974,6 +6978,7 @@ validatedwallet.com
 validaten0de.pages.dev
 validatorsync.net
 valikane.com
+valikut.com
 valilake.com
 valimest.com
 valirake.com
