@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 13:15:38 UTC 2024
-# Number of Entries: 107972
+# Fetch date: Fri Apr 12 14:15:05 UTC 2024
+# Number of Entries: 107979
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -11306,6 +11306,7 @@ bidentoken-promogive.com
 bidfoul.cn
 bidv.top
 bidvbsk.bidven.com
+bidvzsf.bidven.com
 biebergive.com
 bienbonvoyage.com
 biennvnido.com
@@ -27155,6 +27156,7 @@ doamokor.com
 dobbys.mint-now.co
 dobies.top
 doc-explication.com
+doc-metamask.rf.gd
 doc-polygonnetwork.org
 doc-tornadocash.com
 docai.science
@@ -51407,6 +51409,7 @@ metamasked.org
 metamaskelogin.github.io
 metamaskemail.com
 metamaskenfos.com.modest-franklin.35-203-88-159.plesk.page
+metamaskes.azurewebsites.net
 metamaskes.us
 metamasket.com
 metamasketh.vip
@@ -51759,6 +51762,7 @@ metamasksupports.netlify.app
 metamasksupportteam.godaddysites.com
 metamasksupportteam.netlify.app
 metamasksvalidator.com
+metamasksw.azurewebsites.net
 metamaskswallet.net
 metamaskswallet.support
 metamaskswallets.co
@@ -52006,6 +52010,7 @@ metamastake.com
 metamastk.com
 metamastk.io
 metamastv.com
+metamasuak.azurewebsites.net
 metamasusak.azurewebsites.net
 metamasvk.com
 metamasx.xyz
@@ -52239,6 +52244,7 @@ metasmask.uk
 metasmask.xyz
 metasmasks.io
 metasmasks.xyz
+metasmaslk.azurewebsites.net
 metasmmads.com
 metasnask.tech
 metasnft.vip
@@ -70561,6 +70567,7 @@ poeecuioin-app.relsibar.tk
 poensea.com
 poetairdrop.com
 pofyhsyibgkxt4s.elb-host86.pancakeswape.finance
+pogbl.top
 pogodoqe.tech
 pogorzs.com
 pohantom.app
