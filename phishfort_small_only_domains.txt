@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 02:52:23 UTC 2024
-# Number of Entries: 8106
+# Fetch date: Fri Apr 12 03:03:21 UTC 2024
+# Number of Entries: 8104
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1068,7 +1068,6 @@ bitstable-finance.pages.dev
 bittechsolutionz.online
 bittnsor.com
 bitukub.com
-biz.walconvis.xyz
 bks-at.com
 bks-partsners.com
 blackrockbtc-etf.org
@@ -1538,6 +1537,7 @@ claim.pancakeswap.cfd
 claim.renqapp.live
 claim.retikapps.com
 claim.riftswap.net
+claim.sharkscatsol.xyz
 claim.smogxtoken.com
 claim.spazecommune.com
 claim.spongeonerc.com
@@ -2917,7 +2917,6 @@ help-docs-gmx.info
 help-tiktok.com
 help.fixingerror.io
 helpdoc-avalache.online
-helpinghandic.com
 helpmetamask.xyz
 herafinance.live
 heroes-of-mavia.online
@@ -3488,6 +3487,7 @@ linea-2024.com
 linea-consensys.world
 linea-defi.com
 linea-layerfinance.com
+linea-net.com
 linea-park.com
 linea.baby
 linea.contact
@@ -4562,7 +4562,6 @@ new.stonlix.club
 new.stonlix.xyz
 new.suithefrensi.xyz
 newidex.live
-newmont.live
 newmontemining.com
 newmontvip.com
 newparadigm-manta-login.network
@@ -7413,7 +7412,6 @@ wub6y7o.pro
 wufis.com
 wverycaxqw6urqwpchk.mxy9ink.ru
 wvw.jucrina.club
-wvw.linefraction.xyz
 ww-connect-dappradar.com
 ww-revoke.cash
 wwarm.xyz
