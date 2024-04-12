@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 08:03:18 UTC 2024
-# Number of Entries: 8084
+# Fetch date: Fri Apr 12 08:15:58 UTC 2024
+# Number of Entries: 8085
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1181,6 +1181,7 @@ bonuses-defi.network
 bonuses-manta.network
 bookaflightwithunitedairlines.statuspage.io
 booking.agoda-checkout-id843753.com
+bookinghotel-word.com
 boomlandgames.netlify.app
 booster-manta.network
 bopan.xyz
