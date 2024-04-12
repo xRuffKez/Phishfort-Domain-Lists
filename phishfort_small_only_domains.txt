@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 19:52:13 UTC 2024
-# Number of Entries: 8092
+# Fetch date: Fri Apr 12 20:15:09 UTC 2024
+# Number of Entries: 8090
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3693,7 +3693,6 @@ maker-dao.network
 maker-fnd.net
 makeradao.com
 makerdaicoin.com
-makerdao-airdrop.pages.dev
 makerdao.digital
 makerdao.vip
 makerdaobep.online
@@ -3965,7 +3964,6 @@ medidata-mobile.com
 medidatacareers.com
 mee6-connect.xyz
 mee6appeals.xyz
-meebits.store
 mefamask.com
 mehrlesenzeitung.com
 meleadapp.com
@@ -5002,6 +5000,7 @@ pancakeswap-finnance.com
 pancakeswap-finnance.org
 pancakeswap-flnance.com
 pancakeswap-fniance.com
+pancakeswap-frontend-git-fix-refactors-and-bugs-dopex-io.vercel.app
 pancakeswap-giveaway.com
 pancakeswap-live.pages.dev
 pancakeswap-pancakeswap.com
@@ -6872,6 +6871,7 @@ unilend-v2mainnetnetwork.org
 uninashitesati.net
 unipolycoin.network
 unisat-io-five.vercel.app
+unisat-marketplace.pages.dev
 unisate.com
 unisatindexnodes.com
 unisatwalletextension.com
@@ -7279,7 +7279,6 @@ weblinknode.web.app
 weblinknodeapp.web.app
 webmail.staging.io.1inch.help
 webmainnet.net
-webmultiverse-multichain.eu
 webmultiverse-smartchain.xyz
 webnet3.com
 webonlinez.ru.com
@@ -7804,7 +7803,6 @@ www.smartlayer-claims.com
 www.smartlayer-claims.net
 www.smartweb3.live
 www.snapshot-multibit.com
-www.spacetradegloballlc.biz
 www.spatco.shop
 www.sporemashrm.top
 www.staging.chat.login.fixedfloat.pw
