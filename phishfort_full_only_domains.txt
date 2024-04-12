@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 00:32:45 UTC 2024
-# Number of Entries: 107955
+# Fetch date: Fri Apr 12 01:00:41 UTC 2024
+# Number of Entries: 107957
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3574,6 +3574,7 @@ airdrop-taiko.icu
 airdrop-thephoenix.finance
 airdrop-titan.com
 airdrop-token.website
+airdrop-toshithecat.com
 airdrop-tower.com
 airdrop-traitsniper.top
 airdrop-treasure.com
@@ -73788,6 +73789,7 @@ radiocacanft.xyz
 radiocacas3.com
 radiojesusvienepronto.com
 radioracaa.com
+radix.gift
 radlant.capital
 radlantcapltal.com
 radoim.com
