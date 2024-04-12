@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 01:00:41 UTC 2024
-# Number of Entries: 107957
+# Fetch date: Fri Apr 12 01:57:02 UTC 2024
+# Number of Entries: 107953
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3572,7 +3572,6 @@ airdrop-swap.com
 airdrop-symbiosis.com
 airdrop-taiko.icu
 airdrop-thephoenix.finance
-airdrop-titan.com
 airdrop-token.website
 airdrop-toshithecat.com
 airdrop-tower.com
@@ -18014,7 +18013,6 @@ clrscr.net
 club-degods.com
 club-mdvmm.xyz
 club-pudgypenguins.com
-club-seedify.com
 club-seedify.org
 club3-airdrop.xyz
 clubbtc.live
@@ -26928,6 +26926,7 @@ dininho.xyz
 dininhoadventuresnft.com
 dino-wars.nft-premint.com
 dinobusdfinace.com
+dinolfg.gift
 dinolfg.xyz
 dinos.host
 dinoschiibi.xyz
@@ -59347,7 +59346,6 @@ ndaysaudicard.pages.dev
 ndcorrection.webs-apps.online
 ndexdeibotz.xyz
 ndf.saadasran.com
-ne.cion-defi.pro
 neami.shop
 near-community.one
 near-lottery.org
@@ -73790,7 +73788,6 @@ radiocacas3.com
 radiojesusvienepronto.com
 radioracaa.com
 radix.gift
-radlant.capital
 radlantcapltal.com
 radoim.com
 raduim.app
@@ -87051,7 +87048,6 @@ troverse.after-mint.xyz
 troxinus.com
 trqderjoexyz.com
 trrecoin.com
-trrezor.io
 trrezorr-wallet.com
 trrust-waillet.com
 trrustpad.top
