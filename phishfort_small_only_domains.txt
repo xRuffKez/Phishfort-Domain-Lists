@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 11:32:21 UTC 2024
+# Fetch date: Fri Apr 12 11:42:21 UTC 2024
 # Number of Entries: 8076
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1274,6 +1274,7 @@ c.taiweixl.com
 c0nnects.pages.dev
 c7ed7c0a-a3f0-4a62-9092-b1bb34dc0ec4-00-2hhxxwsgft7jv.janeway.replit.dev
 c9bae519-e21c-44b6-990c-e47a9b25b5a1-00-2o0u40bra6plm.janeway.replit.dev
+cabinet-customs.com.ua
 cabinet-customs.org.ua
 cadenceprotocol.net
 cadenerranks.cc
@@ -6523,7 +6524,6 @@ swiftwallet.pages.dev
 swiissworld.net
 swistonjewellers.com
 swizaequity.com
-swop.ink
 sxb5f.info
 sxws.pro
 sync-multichain.in.net
