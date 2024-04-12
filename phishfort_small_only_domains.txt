@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 14:02:58 UTC 2024
-# Number of Entries: 8084
+# Fetch date: Fri Apr 12 14:14:47 UTC 2024
+# Number of Entries: 8085
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3832,7 +3832,6 @@ mantao-network.life
 mantao-network.xyz
 mantap.network
 mantapacifc.com
-mantapacific.net
 mantapacificairdrop.org
 mantaparadigm.network
 mantapcfc.network
@@ -5324,6 +5323,7 @@ pntom-wallet.github.io
 pocakedefi.cfd
 pocakedefi.top
 pocakedefi.xyz
+pogbl.top
 poiuhjkgfcvbnmawertyuxhqwezt.com
 poiygon.com
 poiyhedra.net
@@ -6219,6 +6219,7 @@ smartlivemultiverseconnects.online
 smartnoderevoke.pages.dev
 smartrectification.pages.dev
 smartreviseweb.pages.dev
+smartrevokenet.vercel.app
 smartsheetusa.team
 smarttdappfix.pages.dev
 smartwebmultiverse.eu
