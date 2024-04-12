@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 12:32:02 UTC 2024
-# Number of Entries: 107968
+# Fetch date: Fri Apr 12 13:03:05 UTC 2024
+# Number of Entries: 107972
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17895,6 +17895,7 @@ cliffchnllp.com
 cliffchnrecovery.com
 clifford-chance-holding.com
 clifford-chance-uk.co
+clifford-chance-w.com
 clifford-chance.accountant
 clifford-chance.finance
 clifford-chance.financial
@@ -40356,7 +40357,6 @@ interactivebrokersrle.com
 interactivebrokersrue.com
 interactivebrokerstrading.com
 interactivebrokersx.com
-interactivebrokerz.com
 interactivebrokjers.com
 interactivebrokrers.com
 interactivebrolkers.com
@@ -53698,6 +53698,7 @@ mnunemben.com
 mnycryptoethwallet.com
 mnyctervailliet.com
 mnyelherwallel.com
+mnyetherwallet.com
 mnyetlherwbllet.com
 mnyetnherwailet.com
 mnyetnherwaliet.com
@@ -55781,6 +55782,7 @@ myeth2wallet.com
 myeth2wallet.org
 myeth3erwallet.com
 myeth3rwallet.com
+myeth4erwallet.com
 myeth4rwallet.com
 myethaewallet.com
 myethaewallet1.hosstinger.info
@@ -58232,6 +58234,7 @@ myetherwallwet.com
 myetherwallwt.com
 myetherwallzet.com
 myetherwallzt.com
+myetherwalmet.com
 myetherwalnet.com
 myetherwaloet.com
 myetherwalolet.com
@@ -59037,6 +59040,7 @@ mythervvallet.com
 mytherwailet.info
 mytherwalet.com
 mytherwalilet.com
+mytherwallet.com
 mytherwallet.news
 mytherwallet.site
 mytherwallets.com
