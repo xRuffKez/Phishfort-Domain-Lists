@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 14:52:03 UTC 2024
-# Number of Entries: 107981
+# Fetch date: Fri Apr 12 15:42:30 UTC 2024
+# Number of Entries: 107987
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -30258,6 +30258,7 @@ ethena-mining.pages.dev
 ethena-pool.pages.dev
 ethena-solutions.pages.dev
 ethena.blog
+ethenafinance.net
 ethence.com
 ethenrscan.info
 ether-2021.com
@@ -36095,6 +36096,7 @@ getlibra.cc
 getlido.fi
 getmahanews18.com
 getmanta.network
+getmanta.pages.dev
 getmetamask.com
 getmetamaskhere.com
 getmidjourney.tech
@@ -47403,6 +47405,7 @@ mainnethub-protocol.com
 mainnethub.app
 mainnethub.org
 mainnethub.pages.dev
+mainnethub.web.app
 mainnethubs.pages.dev
 mainnetinsurance.com
 mainnetintegration.net
@@ -52191,6 +52194,7 @@ metaplex-drop.pro
 metapolkadot.com
 metapool-promogive.com
 metapoolwhois.com
+metaportfolioconnect.com
 metapresale.net
 metapro-trade.com
 metarace.win
@@ -73911,6 +73915,7 @@ randomstring.electrumshow.com
 randomstring.electrumshow.net
 randomstring.electrumshow.org
 randos.presaless.com
+rangevalidator.firebaseapp.com
 rango-exchange-r8n4.onrender.com
 ranible-rnanage.top
 rank.sadwing.za.com
@@ -102849,6 +102854,7 @@ www.seeudify.fund
 www.segment-vip.life
 www.seibridge.org
 www.seidd.co
+www.seijpe.com
 www.semontion.com
 www.semprautillities.com
 www.sempresimples.xyz
