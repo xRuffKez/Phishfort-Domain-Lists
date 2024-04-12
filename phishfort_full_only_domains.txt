@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 15:42:30 UTC 2024
-# Number of Entries: 107987
+# Fetch date: Fri Apr 12 16:42:06 UTC 2024
+# Number of Entries: 107989
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -39071,6 +39071,7 @@ icbc10100auth.com
 iccryptomarket.com
 ice-metemask.com
 ice-poker.com
+icebnb-token-reflection-fix.netlify.app
 icelandtoursltd.co.uk
 icex.market
 icexofmark.com
@@ -52650,6 +52651,7 @@ mettamosk.com
 mettamxk-wallet.godaddysites.com
 mettamxk-walltii.godaddysites.com
 mettasmasks.com
+mettaumaskev.azurewebsites.net
 mettenaskweeitlet.godaddysites.com
 mettianeskweltlet.godaddysites.com
 mettlewallet.com
