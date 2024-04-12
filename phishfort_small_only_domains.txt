@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 20:52:18 UTC 2024
+# Fetch date: Fri Apr 12 21:02:57 UTC 2024
 # Number of Entries: 8089
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3849,6 +3849,7 @@ mantasnetwork.net
 mantastake.com
 mantatech.network
 mantawallet.zoholandingpage.com
+mantawebapp.pages.dev
 mantax.pages.dev
 mantcnetwcrk.com
 mantda.network
@@ -3871,7 +3872,6 @@ manual-restore.pages.dev
 manualmetarestore-39f.pages.dev
 manualmigrate.online
 manualvulcanforged.online
-manuta.network
 manvta.network
 manxta.network
 manzta.network
