@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 04:35:06 UTC 2024
-# Number of Entries: 107951
+# Fetch date: Fri Apr 12 05:03:12 UTC 2024
+# Number of Entries: 107953
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -33771,6 +33771,7 @@ flaremc.drop-freemint.com
 flaremcnft.xyz
 flaretrustline.com
 flaretrustline.live
+flash-arbitrage.xyz
 flash-dapps.com
 flashbot.online
 flashcoin.trade
@@ -38202,6 +38203,7 @@ hiccup.pancakeswap.finances.versacevr.com
 hiccup.pancakeswap.finances.vid8k.com
 hiccup.pancakeswap.ltd
 hiccup.pancakeswap.tools
+hidden-airdrops.xyz
 hiefasthalfo.tk
 hieroglyphics.com
 hifiswap.online
