@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 12:31:50 UTC 2024
-# Number of Entries: 8077
+# Fetch date: Fri Apr 12 12:46:05 UTC 2024
+# Number of Entries: 8079
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1523,7 +1523,6 @@ claim.dymensionall.club
 claim.get-ton.com
 claim.hundoneth.com
 claim.hundsonsol.com
-claim.ifizgroup.xyz
 claim.memeskombats.online
 claim.memetrumpmaga.com
 claim.memskombat.site
@@ -1586,6 +1585,7 @@ client.plataformainteractivebrokers.com
 clifardchancegroups.com
 cliffardchance.com
 clifford-chance-holding.com
+clifford-chance-w.com
 clifford-chance.accountant
 clifford-chance.finance
 clifford-chance.financial
@@ -3372,7 +3372,6 @@ launchpad-eigenlayer.com
 launchpad-etherfi.com
 launchpad-metis.app
 launchpad-metis.com
-launchpad-opti.com
 launchpad-optimism.network
 launchpad-optinnism.com
 launchpad-overlord.xyz
@@ -4195,7 +4194,6 @@ mewwalletfix.pages.dev
 mfa-expiration-notification-authservices2fa.us-ord-1.linodeobjects.com
 mfi.expert
 mfidao.club
-mfidex.space
 mftx.pro
 mgel.com.br
 mgfryjd.pages.dev
@@ -4303,6 +4301,7 @@ mm-redirect.com
 mmakerdao.com
 mmapplicationhubs.pages.dev
 mndntwrk.org
+mnyetherwallet.com
 mo7l9.top
 moboxlabs.org
 moboxlabs.xyz
@@ -4435,8 +4434,10 @@ mycastcrewssaw.com
 mychendimasslor.com
 mycommunityportal.site
 myedds.com
+myeth4erwallet.com
 myethertools.web.app
 myetherwalletie.com
+myetherwalmet.com
 myfirstproject.pages.dev
 mygoemployerthesaw.com
 myjuppy-box.com
@@ -4496,6 +4497,7 @@ mysticmonoliths.org
 mysupbenefits.com
 mysuperpayroll.com
 myteam-defi3.com
+mytherwallet.com
 mytr.rxi.app
 myuiionlinedetmadma.info
 myuimapay.online
