@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 16:42:06 UTC 2024
-# Number of Entries: 107989
+# Fetch date: Fri Apr 12 17:42:05 UTC 2024
+# Number of Entries: 107991
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -99159,6 +99159,7 @@ www.elseverse.claims
 www.email-blockchain-tx.drzaki.org
 www.emailpay.life
 www.emetal-malks.live
+www.emidiscount.top
 www.emiratess.co.uk
 www.emulador-creditlens.sorianoariza.com
 www.emusk2x.cc
@@ -99183,6 +99184,7 @@ www.erc20-digital.xyz
 www.erppall.com
 www.escrow-paxful.com
 www.esftx.com
+www.estoer.top
 www.eswtcv.com
 www.etepool.xyz
 www.eth-angels.art
