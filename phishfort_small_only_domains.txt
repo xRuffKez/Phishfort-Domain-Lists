@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 10:26:13 UTC 2024
-# Number of Entries: 8077
+# Fetch date: Fri Apr 12 10:33:40 UTC 2024
+# Number of Entries: 8076
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3708,7 +3708,6 @@ manda-network.com
 mandatory-multi-factor-authenticator.us-ord-1.linodeobjects.com
 mandgportfolio.com
 mandta.network
-maneta.network
 manfta.network
 mangta.network
 manhta.network
@@ -7458,7 +7457,6 @@ www.appscallop.io
 www.appsofamon.xyz
 www.appstride.zone
 www.apygate.rpctool.com
-www.archivesecureprotection.com
 www.assets-gate.com
 www.asx-danman.top
 www.asx-exs.com
@@ -7653,6 +7651,7 @@ www.mehrlesenachrichten.com
 www.meta.pika.asia
 www.meta009911.com
 www.meta2842.com
+www.metamask-app.com
 www.metamask-mining.com
 www.metamask.best
 www.metamask08.com
