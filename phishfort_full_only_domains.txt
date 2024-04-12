@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 11 23:42:22 UTC 2024
-# Number of Entries: 107948
+# Fetch date: Fri Apr 12 00:11:05 UTC 2024
+# Number of Entries: 107951
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2534,6 +2534,7 @@ accountviewer.stellar.org.so
 accountviewer.stellar.org.vc
 accountviewer.xn--stelar-6db.org
 accountviewer.xn-stella-gib.org
+accretivetechnologygroupcareers.com
 accrypt.website
 acctxcoinbase.com
 ace-preservation.com
@@ -37865,6 +37866,7 @@ health-equity.za.com
 healthcheck.com
 healtheequity.sa.com
 healthequitu.sa.com
+healthequity.com5.za.com
 healthequity.com6.sa.com
 healthequity.combiz.pro
 healthequity.comja.sa.com
@@ -59669,6 +59671,7 @@ newmont-forex.com
 newmont-traders.com
 newmont-us.com
 newmont-usa.com
+newmont.live
 newmont.online
 newmont.pro
 newmontcop.com
