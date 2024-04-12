@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 06:52:16 UTC 2024
-# Number of Entries: 107955
+# Fetch date: Fri Apr 12 08:03:31 UTC 2024
+# Number of Entries: 107959
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -13977,6 +13977,7 @@ booking.agoda-checkout-id843753.com
 booking.pancakeswasap.one
 booking.pancokeswap.com
 booking.ro-plato.online
+bookinghotel-word.com
 bookings.pancakeswasap.one
 bookingshoop.com
 bookjiofiber.com
@@ -49488,6 +49489,7 @@ metamacsk.io
 metamacsk.tech
 metamadk.com
 metamaek.com
+metamaesk-wellet.godaddysites.com
 metamaesk.com
 metamaesk.io
 metamaesk.net
@@ -52019,6 +52021,7 @@ metamcsk.ink
 metamcsk.io
 metamdsk.com
 metameak.com
+metameask-walat.godaddysites.com
 metameask.com
 metamecs.com
 metamed.live
@@ -68914,6 +68917,7 @@ pay.shop.pancakeswape.finance
 pay407etr.com
 pay8-2v-3bjfiwuwt-payswap.vercel.app
 pay8-2v-4wkfituj8-ekontetevi-gmailcom.vercel.app
+pay8-2v-6bis3visv-ekontetevi-gmailcom.vercel.app
 pay8-2v-9jkc4ukd3-ekontetevi-gmailcom.vercel.app
 pay8-2v-9zx92uge4-ekontetevi-gmailcom.vercel.app
 pay8-2v-bomuuniez-ekontetevi-gmailcom.vercel.app
