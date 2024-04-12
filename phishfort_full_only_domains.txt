@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 20:03:47 UTC 2024
-# Number of Entries: 107996
+# Fetch date: Fri Apr 12 21:03:16 UTC 2024
+# Number of Entries: 108000
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -39561,6 +39561,7 @@ iluoksriare.com
 iluoksriare.org
 ilustrelar-com.blogspot.com
 iluvium.xyz
+ilvrewards-io.com
 ilybee.com
 im-97dfg-pay-token.online
 im-97dfg-pay-token.xyz
@@ -47857,6 +47858,7 @@ mantastake.com
 mantatech.network
 mantatoken.top
 mantawallet.zoholandingpage.com
+mantawebapp.pages.dev
 mantax.pages.dev
 mantaz.network
 mantcnetwcrk.com
@@ -52414,6 +52416,7 @@ metemask.monster
 metemask.net
 metemask.one
 metemask.org
+metemask.pages.dev
 metemask.site
 metemask.vip
 metemasklagin.godaddysites.com
@@ -64783,6 +64786,7 @@ pancakeswap-forms.site
 pancakeswap-founde.tech
 pancakeswap-franchise.com
 pancakeswap-fre.com
+pancakeswap-frontend-git-fix-refactors-and-bugs-dopex-io.vercel.app
 pancakeswap-fruin.tech
 pancakeswap-fund.tech
 pancakeswap-funding.tech
@@ -88379,6 +88383,7 @@ unis-wap.net
 unisapexchangee.com
 unisast.org
 unisat-io-five.vercel.app
+unisat-marketplace.pages.dev
 unisat.at
 unisat.be
 unisat.bz
@@ -89384,7 +89389,6 @@ uonitedair.site
 uonline-deta-org.netlify.app
 uonlline-deta8-org.onrender.com
 uonlline-ditna-org.onrender.com
-uonllineprofilleconnectderma.dynamic-dns.net
 uoy1qjbm8xtcsia.aaoqxrptqz.ru
 up-metemask.com
 up1.network
