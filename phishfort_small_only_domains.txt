@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 07:32:33 UTC 2024
-# Number of Entries: 8101
+# Fetch date: Fri Apr 12 07:42:11 UTC 2024
+# Number of Entries: 8084
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -296,8 +296,6 @@ airdrop-nibi.com
 airdrop-pancakeswap.web.app
 airdrop-pepecoin.net
 airdrop-pi.com
-airdrop-portalgaming.site
-airdrop-rarible.net
 airdrop-starknet.info
 airdrop-toshithecat.com
 airdrop-wallet-connect.sa9afa.com
@@ -892,7 +890,6 @@ babyionchain.app
 babylon-registrationlive-pas.vercel.app
 babylon.trading
 babylonnchain.app
-babywif.network
 bac-swapcoins.web.app
 bac-swapp.web.app
 bac-swappcoin.web.app
@@ -1384,7 +1381,6 @@ chain-strk.com
 chainbugs.org
 chainflip.team
 chaingefinancetoken.pages.dev
-chaingpt-ai.org
 chainlabsv2.org
 chainlink-drop.com
 chainlink-network.app
@@ -2652,7 +2648,6 @@ g2os0.pro
 g5-airtm.com
 gahiett.com
 gain-manta.pages.dev
-gala-games.io
 gala-games.org
 galagames-6nj.com
 galaxies.mantasnetworks.app
@@ -2943,7 +2938,6 @@ home.earnclout.com
 home.ethiner.xyz
 home.itsearn.biz
 home.lamtrue.xyz
-home.linefraction.xyz
 home.monsprotocol.cc
 home.smilewik.xyz
 home.stonfin.biz
@@ -3048,7 +3042,6 @@ inggroupe1logen.blogspot.com
 ingonlineb.com
 ingres-ficohs-ahora.netlify.app
 ingresobienvnido.cloud
-inj-space.com
 injective-network-en.web.app
 injective-networks.web.app
 injective.help
@@ -3636,7 +3629,6 @@ magic-eden-wallet.net
 magic-square.info
 magic-square.org
 magiceden-rewards.netlify.app
-magicedens.space
 magiciorewards.com
 magiclyeden.app
 magicsquares.io
@@ -4041,6 +4033,7 @@ metagets.xyz
 metagiveaway.io
 metaiask.xyz
 metamaaskus.azurewebsites.net
+metamaesk-wellet.godaddysites.com
 metamainnetfix.netlify.app
 metamank.io
 metamaok.cn
@@ -4132,6 +4125,7 @@ metamasx.xyz
 metamcsk.cc
 metamcsk.io
 metameak.com
+metameask-walat.godaddysites.com
 metamesk.cc
 metamesk.me
 metamesk.xyz
@@ -4241,7 +4235,6 @@ migration-kondux.pro
 migration-pirb.tech
 migration-singularitydao.com
 migration-wdymcrypto.app
-migration-wolverinu.pro
 migration.ot-sea.com
 migrationmetagalaxyland.website
 mike-token-web-1rj55ugoo-percenal-miketoken.vercel.app
@@ -5003,7 +4996,6 @@ pancakeswap-fniance.com
 pancakeswap-giveaway.com
 pancakeswap-live.pages.dev
 pancakeswap-pancakeswap.com
-pancakeswap-pancakeswap.net
 pancakeswap-platform.pages.dev
 pancakeswap-pro.com
 pancakeswap-server.com
@@ -5172,6 +5164,7 @@ pay-en407etr.com
 pay407etr.com
 pay8-2v-3bjfiwuwt-payswap.vercel.app
 pay8-2v-4wkfituj8-ekontetevi-gmailcom.vercel.app
+pay8-2v-6bis3visv-ekontetevi-gmailcom.vercel.app
 pay8-2v-9jkc4ukd3-ekontetevi-gmailcom.vercel.app
 pay8-2v-9zx92uge4-ekontetevi-gmailcom.vercel.app
 pay8-2v-bomuuniez-ekontetevi-gmailcom.vercel.app
@@ -5644,7 +5637,6 @@ rdxshoes.click
 reachedoutseveral.com
 realio.gift
 realioapp.com
-realiogift.org
 realraydium.xyz
 realtyexcellence.com
 rebby.io
@@ -5778,7 +5770,6 @@ revok.online
 revok.site
 revokcashue.com
 revoke--cash.pages.dev
-revoke-algebra.com
 revoke-approvals.xyz
 revoke-approvals.xyz.polarmates.top
 revoke-cash-i9n0pa5cx-lahana.vercel.app
@@ -5848,7 +5839,6 @@ rewards-circle.com
 rewards-dappradar.com
 rewards-emirates.com
 rewards-ether.com
-rewards-galagames.com
 rewards-mantanetwork.com
 rewards-mantle.com
 rewards-mode.network
@@ -5954,7 +5944,6 @@ safegnosis.co
 safeguard-meta.com
 safewallet-meta.com
 saga-solanamobile.com
-saga-xyz.com
 sagapromo.ink
 sahouriplast.com
 saitachain-migration.pages.dev
@@ -6274,7 +6263,6 @@ solanaus.com
 solanawen.com
 solarmy.eu
 solback.wefinex.org
-solblaze.cx
 soldrop.pages.dev
 solflareweb.com
 solgift6.com
@@ -6412,7 +6400,6 @@ starksdrop.eu
 starkware.life
 starkynet.com
 starlight-finance.com
-starlknet.shop
 starplumbingelectrical.com
 start-wen.com
 startknet.io
@@ -6611,7 +6598,6 @@ templatesync.pages.dev
 tenser.trade
 tensor-samurai.io
 tensor.credit
-tensorians.site
 tensorsamurai.space
 terminal-befilabs.com
 terra-airdrop.onrender.com
@@ -6664,7 +6650,6 @@ thefamiilytoken.com
 thefamilytokens.vercel.app
 thegamehubs.org
 themodenetwork.com
-thepepe20.com
 thereum.pages.dev
 thesolmirage.rxi.app
 thesolutionscenter.info
@@ -7472,7 +7457,6 @@ www.app-milkyway.zone
 www.app-parrallel-network-dashbroads.danushi.com
 www.app-personalles-wps.cc
 www.app-portal-wps-personas.cc
-www.app-rhino.com
 www.app-wasabi.xyz
 www.app.defi-connect.xyz
 www.app.trust-reward.live
@@ -8084,7 +8068,6 @@ zksync-era.pages.dev
 zksync-era.web.app
 zksync-net.com
 zksync-now.com
-zksync-rewards.org
 zksync.line.pm
 zksync.nirbhik.com
 zksync.token-claim.cc
