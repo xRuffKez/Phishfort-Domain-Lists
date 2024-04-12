@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 05:15:29 UTC 2024
-# Number of Entries: 8103
+# Fetch date: Fri Apr 12 05:26:19 UTC 2024
+# Number of Entries: 8101
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -301,6 +301,7 @@ airdrop-rarible.net
 airdrop-starknet.info
 airdrop-toshithecat.com
 airdrop-wallet-connect.sa9afa.com
+airdrop-wormhoie.vercel.app
 airdrop-wormhole.firebaseapp.com
 airdrop-wormhole.vercel.app
 airdrop-wormhole.web.app
@@ -3664,7 +3665,6 @@ mail.tickets.atelierfain.ro
 mail.xn--pncakeswap-3gb.com
 mail046.mlsend.com
 mailclaimdmail.xyz
-mailer.paxfulonline.com
 mailinfosec.info
 main-decentralised.pages.dev
 main-decentralized.pages.dev
@@ -3975,6 +3975,7 @@ mefamask.com
 mehrlesenzeitung.com
 meleadapp.com
 melstroy.by
+memask.app
 members-kcchamber.com
 meme-coin.click
 memebevy.shop
@@ -7655,7 +7656,6 @@ www.lusandasentane.com
 www.m.qna3-app.com
 www.mag-pie.xyz
 www.magpiexyz.click
-www.mailer.paxfulonline.com
 www.mainnet-portal.com
 www.makerdaodai.site
 www.mamtanetworkbonus.com
@@ -7716,7 +7716,6 @@ www.nasxcoins.com
 www.new-paradigmanta.network
 www.newmontvip.com
 www.newparadigmamanta.network
-www.newparadigmmanat.network
 www.node-protocol.net
 www.node.authfxconnector.com
 www.norwegianlife.net
@@ -7813,7 +7812,6 @@ www.smartlayer-claims.com
 www.smartlayer-claims.net
 www.smartweb3.live
 www.snapshot-multibit.com
-www.soilend.com
 www.spacetradegloballlc.biz
 www.spatco.shop
 www.sporemashrm.top
