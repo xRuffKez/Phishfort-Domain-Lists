@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 04:42:09 UTC 2024
+# Fetch date: Fri Apr 12 04:52:21 UTC 2024
 # Number of Entries: 8103
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -852,7 +852,6 @@ avax-chain-staking.pages.dev
 avax-drop.tech
 avax-gains.xyz
 avax-swap.com
-avax.pm
 avaxdrop.org
 avaxtoken.pro
 awesomestrawberry.za.com
@@ -2218,7 +2217,6 @@ dymension-claimdappstoolkit.pages.dev
 dymension.claims
 dymension.eu
 dymension.financial
-dymension.netlify.app
 dymension.pages.dev
 dymensiondrop.com
 dymensiondrop.eu
@@ -2564,6 +2562,7 @@ fkintemal.net
 fku-inu.pro
 fkuinu.tech
 flareairdrop.vercel.app
+flash-arbitrage.xyz
 flashdigi.site
 flightreservations.xyz
 floadfixed.com
@@ -2923,6 +2922,7 @@ herafinance.live
 heroes-of-mavia.online
 hex-distributions.com
 hex-multipliers.com
+hidden-airdrops.xyz
 highllght.com
 hippies-world.com
 hlbtn-company.ltd
