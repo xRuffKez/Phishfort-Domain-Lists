@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 10:42:23 UTC 2024
-# Number of Entries: 107962
+# Fetch date: Fri Apr 12 12:32:02 UTC 2024
+# Number of Entries: 107968
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3149,6 +3149,7 @@ agodapools.com
 agodapools.net
 agodapromote.com
 agodapurpose.com
+agodaranking.top
 agodarating.com
 agodarefundhyperwallet.finance.blog
 agodarentacar.com
@@ -5728,6 +5729,7 @@ app-hope.exchange
 app-hvmtl.com
 app-impti.com
 app-issuefix.pages.dev
+app-jito.com
 app-juilce.finance
 app-kaspanet.com
 app-kava.com
@@ -6888,6 +6890,7 @@ apps-games-gala.blogspot.com
 apps-home-gala-games.blogspot.com
 apps-inch1.com
 apps-intercessor.live
+apps-linea.build
 apps-linkup.co
 apps-metamask-restore.netlify.app
 apps-multichain-portals-html.netlify.app
@@ -15332,6 +15335,7 @@ ca.mim-u.com
 cabbuiopk7jalfc9nf70.pancakesvqp.com
 cabcdgiveaway.com
 cabelam.store
+cabinet-customs.com.ua
 cabinet-customs.org.ua
 cabxt.com
 cache-protocol.netlify.app
@@ -42466,6 +42470,7 @@ kuberrswap.com
 kubersvap.com
 kubersvvap.com
 kuberswap.blogspot.com
+kubitz.com.br
 kubz-nft.netlify.app
 kubz-official.netlify.app
 kubz.tech
@@ -50829,6 +50834,7 @@ metamask.iomoz-extension.gorsesmk.com
 metamask.iomoz-extension.mack-io.com
 metamask.iomoz-extension.matemecca.com
 metamask.iomoz-extension.mertamesk.com
+metamask.ioqj.live
 metamask.itoken.cool
 metamask.itoken.icu
 metamask.iwtoken.cn
