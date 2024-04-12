@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 20:15:09 UTC 2024
-# Number of Entries: 8090
+# Fetch date: Fri Apr 12 20:22:14 UTC 2024
+# Number of Entries: 8091
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3022,6 +3022,7 @@ illuvium.io-claim.world
 illuviumliveairdrops.co
 illuviumpassairdrops.com
 illuviumrewards.io
+ilvrewards-io.com
 imaginary-ones.com
 img.coolpayvn.com
 img.vncoolpay.com
