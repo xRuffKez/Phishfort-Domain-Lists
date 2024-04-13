@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 13 13:22:20 UTC 2024
-# Number of Entries: 108010
+# Fetch date: Sat Apr 13 14:14:37 UTC 2024
+# Number of Entries: 108012
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -15405,6 +15405,7 @@ cakesdapp.finance
 cakespie.net
 cakespie.org
 cakesswap.com
+cakesw-offers.com
 cakeswap-finance.site
 cakeswap.help
 cakeswap.link
@@ -52661,7 +52662,6 @@ mettamosk.com
 mettamxk-wallet.godaddysites.com
 mettamxk-walltii.godaddysites.com
 mettasmasks.com
-mettaumaskev.azurewebsites.net
 mettenaskweeitlet.godaddysites.com
 mettianeskweltlet.godaddysites.com
 mettlewallet.com
@@ -70512,7 +70512,6 @@ pmqkacesvvep-crypto.com
 pmqkacesvvip-crypto.com
 pmqkacisvvep-crypto.com
 pmqkacisvvip-crypto.com
-pmthakkarassociates.com
 pnanton.app
 pnantonn.app
 pnathuhamwouat.godaddysites.com
@@ -91302,6 +91301,9 @@ vote.daosmaker.events
 vote.daosmaker.network
 vote.daosmaker.support
 vote.daosmakers.trading
+vote.makerdaofi.app
+vote.makerdaofi.com
+vote.makerdaofi.events
 vote.makerdaos.trading
 votebnbchain.pages.dev
 votefork.com
