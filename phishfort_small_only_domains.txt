@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 13 13:32:21 UTC 2024
-# Number of Entries: 8075
+# Fetch date: Sat Apr 13 13:42:12 UTC 2024
+# Number of Entries: 8066
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1299,6 +1299,7 @@ cakepiexyz.pages.dev
 cakes-reward.xyz
 cakespie.net
 cakespie.org
+cakesw-offers.com
 cakeswap.me
 cakeswp.app
 cakeudefi.biz
@@ -1697,7 +1698,6 @@ collabland-walet.com
 collabland-wallets.com
 collabland.api-role.land
 collabland.boo
-collabland.cfd
 collabland.interact-guard.com
 collabland.pm
 collabland.put-role.com
@@ -3722,7 +3722,6 @@ manta-airdrop.mobi
 manta-airdrop.org
 manta-airdrops.network
 manta-app.com
-manta-apps.network
 manta-appsurvey.com
 manta-claims.xyz
 manta-click.vercel.app
@@ -4043,7 +4042,6 @@ metamask-connect.com
 metamask-dapp.pages.dev
 metamask-dapps.pages.dev
 metamask-dl.com
-metamask-event.online
 metamask-extensions.pages.dev
 metamask-fix.pages.dev
 metamask-fixweb.pages.dev
@@ -4181,7 +4179,6 @@ metrsamasknig.azurewebsites.net
 metsafnmaske.azurewebsites.net
 metsfghmaskus.azurewebsites.net
 metsk.app
-mettaumaskev.azurewebsites.net
 mettvcmaske.azurewebsites.net
 metumasklgio.github.io
 metwamasnkus.azurewebsites.net
@@ -4419,7 +4416,6 @@ mvia.app
 mvia.live
 mwallet8.com
 mxap.cc
-mxs-collabland.pages.dev
 mxvq.cc
 my-listings-76881.net
 my-listings-95571.net
@@ -4671,7 +4667,6 @@ node-connect-fix.vercel.app
 node-miner-collector.pages.dev
 nodebug.vercel.app
 nodechains.pages.dev
-noderevive.com
 nodesrectification.com
 nodesync.vercel.app
 nodevalidation.pages.dev
@@ -4984,11 +4979,9 @@ pancakeswap-clone-nine.vercel.app
 pancakeswap-connect.xyz
 pancakeswap-earn.pro
 pancakeswap-exchange-testnet.netlify.app
-pancakeswap-finance.mom
 pancakeswap-financee.netlify.app
 pancakeswap-finances.pages.dev
 pancakeswap-finnance.com
-pancakeswap-finnance.org
 pancakeswap-flnance.com
 pancakeswap-fniance.com
 pancakeswap-frontend-git-fix-refactors-and-bugs-dopex-io.vercel.app
@@ -5309,7 +5302,6 @@ plots-launch.com
 plusmigrate.com
 plxels.xyz
 pmjvggq.icu
-pmthakkarassociates.com
 pncakeswap.com
 pntom-wallet.github.io
 pocakedefi.cfd
@@ -5555,7 +5547,6 @@ quicksynced.pages.dev
 quicksystemicexplorer.co
 quickupdateexplorer.co
 quikswap.io
-r125.usdt6188.top
 r20.rs6.net
 r7ixec9.cc
 rabbitx.reward-share.info
@@ -5654,7 +5645,6 @@ rect-fixdapps.pages.dev
 rectifier-sync.pages.dev
 rectifytrust.com
 rectifywallet.42web.io
-redeem-injective.com
 redeem-manta.com
 redstonefi.net
 reeboks.ink
@@ -7075,6 +7065,9 @@ vote.daosmaker.events
 vote.daosmaker.network
 vote.daosmaker.support
 vote.daosmakers.trading
+vote.makerdaofi.app
+vote.makerdaofi.com
+vote.makerdaofi.events
 vote.makerdaos.trading
 votebnbchain.pages.dev
 votemarketstakedao.org
@@ -7858,7 +7851,6 @@ x-revoke.cash
 x-woo.net
 x01e8b2d6cbc38.anondns.net
 xai-claim.netlify.app
-xai.web3-qr.com
 xaidao.app
 xaimint.com
 xaimint.net
@@ -7919,7 +7911,6 @@ xoudwq.cfd
 xpancakeswap.pages.dev
 xpaydappbnb.click
 xpubactivationprotocol.pages.dev
-xpubprotocol.pages.dev
 xpubweb-rectify.pages.dev
 xr7j5v.pro
 xrp-drop.web.app
