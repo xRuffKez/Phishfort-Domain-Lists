@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 13 02:22:24 UTC 2024
-# Number of Entries: 108008
+# Fetch date: Sat Apr 13 02:52:22 UTC 2024
+# Number of Entries: 108010
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -929,6 +929,7 @@
 1ww-pancakeswap.top
 1ww-uniswap.org
 1xearn.com
+1yagodame.com
 1yieldrobot.app
 1yo.jd1k0i5.ru
 2-collab-land.pro.1-collab-land.pro
@@ -16449,6 +16450,7 @@ chase08sec.com
 chat-ronin.com
 chat.pancakeswasap.one
 chatgpt-airdrop.com
+chatsistant.com
 chattheres234.com
 chauinilst.org
 cheapairoffers.com
