@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 13 18:52:09 UTC 2024
-# Number of Entries: 8056
+# Fetch date: Sat Apr 13 19:02:43 UTC 2024
+# Number of Entries: 8058
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -5856,6 +5856,7 @@ rnanta-live.com
 rnanta-token.com
 rnantaofflclal.com
 rnantas.network
+rnmnt.pages.dev
 roachcoin.in
 robopunksnft.cristovao.codes
 robots-farm.xyz
@@ -7987,6 +7988,7 @@ zk-bemd.org
 zk-dashboard.net
 zk-era.co
 zk-look.org
+zk-manta-airdrop.pages.dev
 zk-manta.network
 zk-polyhedra.com
 zk-skaling.org
