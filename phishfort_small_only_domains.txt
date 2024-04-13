@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 23:52:10 UTC 2024
-# Number of Entries: 8090
+# Fetch date: Sat Apr 13 00:09:48 UTC 2024
+# Number of Entries: 8088
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -40,7 +40,6 @@
 1inch-pay.ga
 1inch.box
 1inch.fyi
-1inch.web3connect.mom
 1inchcode.newfinancialmarketworld.com
 1inchcoin.com
 1inchfinance.com
@@ -83,7 +82,6 @@
 407-etr-help.com
 407-etr.com
 407etr-paytrip.com
-407etrinfo.com
 407express-tollroute.com
 407on.com
 407web-etr.com
@@ -2872,6 +2870,7 @@ handshakehns.web.app
 hannaanderssonkids.com
 happyskellies.com
 hardwaregiftairdrop.netlify.app
+harmankardon.com.ph
 hashbnb.com
 havas-aso.com
 havas-shop.com
@@ -5125,7 +5124,6 @@ pass-vulcan.xyz
 passes.top
 patcoin.xyz
 paulmulleracademico.com
-pavillionconstruction.com
 pax-f.netlify.app
 paxful-clo.com
 paxful-club.com
