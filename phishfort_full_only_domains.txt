@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 12 23:52:02 UTC 2024
-# Number of Entries: 108007
+# Fetch date: Sat Apr 13 00:10:17 UTC 2024
+# Number of Entries: 108008
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -37744,6 +37744,7 @@ hardwalletvault.store
 hardware-store-usa.com
 hardware.metamask.tools
 hardwaregiftairdrop.netlify.app
+harmankardon.com.ph
 harmonize-info.com
 harmonize-web.net
 harmonized-promogive.com
