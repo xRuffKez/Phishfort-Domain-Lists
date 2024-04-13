@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 13 02:42:14 UTC 2024
-# Number of Entries: 8076
+# Fetch date: Sat Apr 13 02:52:12 UTC 2024
+# Number of Entries: 8077
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -55,6 +55,7 @@
 1lnch.network
 1oilakj.top
 1raydium.sbs
+1yagodame.com
 2-fa-metmask.io
 2000usdc.net
 2000usdt.net
