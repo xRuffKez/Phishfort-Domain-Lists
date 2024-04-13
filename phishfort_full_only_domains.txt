@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 13 18:22:45 UTC 2024
-# Number of Entries: 108014
+# Fetch date: Sat Apr 13 18:32:19 UTC 2024
+# Number of Entries: 108017
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -13185,6 +13185,7 @@ blockdappfix.pages.dev
 blockdapps.live
 blockdata.pages.dev
 blockdev-chain.com
+blockdexresolve.pages.dev
 blockdrops.info
 blockfi-defi.com
 blockfi-withdraw.web.app
@@ -13219,6 +13220,7 @@ blockraft.xyz
 blockrectification.com
 blockrepairer.com
 blockresets.com
+blockresolveweb.pages.dev
 blocks-chains.info
 blockscanfix.com
 blockschainexplorer.com
@@ -15542,6 +15544,7 @@ canpat.site
 canpentes.site
 cansem.store
 cantel.icu
+cantermexi.com
 canto-io-web3fixtool.com
 caoltis.cc
 cap-radiant.com
