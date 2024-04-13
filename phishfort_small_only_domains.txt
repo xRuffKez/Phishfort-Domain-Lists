@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 13 02:33:06 UTC 2024
-# Number of Entries: 8088
+# Fetch date: Sat Apr 13 02:42:14 UTC 2024
+# Number of Entries: 8076
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -788,7 +788,6 @@ astar-network.com-t.co
 astarlabs.com-t.co
 astrafive.website
 astroakashvani.com
-asuccessfulgarage.com
 asx-exs-trade.com
 asx-martdeskeia.com
 asx-tsdkgt.com
@@ -1402,6 +1401,7 @@ chamasloustorgst.com
 chamath-x2.live
 champion-tactic.com
 changelly.plus
+chatsistant.com
 chauinilst.org
 check-defi.com
 check.wenser.e2p.xyz
@@ -1714,7 +1714,6 @@ collect-wenwencoin.com
 collection-satoshivm.io
 collecttion.store
 colllab.xyz
-coluselephant.ru.com
 community-center.shop
 community-coindesk.com
 community-dappradar.com
@@ -2269,7 +2268,6 @@ ecoglobalconnectvista.online
 econnect.pages.dev
 economisteveningreptile.xyz
 econopure.com.vn
-educalaguna.gob.mx
 eelcb.com
 eeogresources.com
 eesee.co
@@ -3124,7 +3122,6 @@ j2gkzzu.top
 jade-melba-55acae.netlify.app
 jaguarlandrover.kmmediagroup.com
 jamesthurmankahn.com
-jane-ai.net
 janushenderson.agenciastatus.com.br
 jasmy.x-trastpad.top
 jazzy-puffpuff-8f1eac.netlify.app
@@ -3388,7 +3385,6 @@ launchpads-satoshivm.io
 launchpadsxyz.site
 launchs-inscribe.com
 launchs-pads.app
-launchspad.app
 laundchpad.xyz
 laurentian-verif.com
 layer-3.app
@@ -3561,7 +3557,6 @@ lntrac-funds-instnat.digital
 lntrac-web-mobile.digital
 lntracwebfunds-province.agccaiwo.life
 lntwebservice-lnter.f7aanm6hh4e.life
-loadingpayappsession0a9c0a9c0a910a9c0.pages.dev
 localethereum.xn--node
 locopepecoin.com
 locus-finance.web.app
@@ -5251,7 +5246,6 @@ perks-pepe.com
 perponschainrewards.pages.dev
 persistrent.com
 personajourney.trading
-perurhealth.com
 peryourhealth.be
 peryourhealth.biz
 peryourhealth.blog
@@ -6175,7 +6169,6 @@ skasoff5th03.com
 skinsmonkey.combine.tundragon.com
 skipton-login.com
 sklpool.site
-sksidg.com
 skyborneslegacy.com
 skybridgedynamics.xyz
 skymavis-axie.com
@@ -7326,7 +7319,6 @@ wetolove.com
 whales.markets
 whalesmarket.org
 wheelerr.shop
-whiteberidgepet.com
 whitel-probablynothing.net
 whitel-syncus.com
 whitelist-altlayer.com
@@ -7615,7 +7607,6 @@ www.interdigitaler.com
 www.interdigitalker.com
 www.interdigitaltba.com
 www.investment-fdholdings.com
-www.jamiod.com
 www.jompyc.com
 www.ju.normbit.online
 www.jutsunft.com.soillabs.app
@@ -7626,7 +7617,6 @@ www.kmjm.shop
 www.krakenusdt.com
 www.kriya-finance.cyou
 www.kriya-finance.tech
-www.kumelt.com
 www.latoken-exchange.com
 www.launchpad.sporess.pro
 www.layer-3.xyz
@@ -7721,7 +7711,6 @@ www.optgous.com
 www.optorgo.com
 www.optovdk.com
 www.optusdt.com
-www.orblut.com
 www.ordibridge.xyz
 www.organiconetexas.com
 www.orivium.dev
@@ -8008,7 +7997,6 @@ zetachains.app
 zetaclaim.pages.dev
 zetaswap.cm
 zetawil.com
-zimlndustries.com
 zircuit-app.one
 zircuit-app.org
 zircuitprotocol.xyz
