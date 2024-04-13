@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 13 03:42:23 UTC 2024
+# Fetch date: Sat Apr 13 04:52:16 UTC 2024
 # Number of Entries: 108010
 
 0-metemask.com
@@ -26190,6 +26190,7 @@ demo90.atwebpages.com
 demo9969.infinityfreeapp.com
 demoablabs.com
 demonica-mint.com
+demontown-wltoken.vercel.app
 demsoaankan.site
 denarius.exchange
 denbank.store
@@ -39564,7 +39565,6 @@ iluoksriare.com
 iluoksriare.org
 ilustrelar-com.blogspot.com
 iluvium.xyz
-ilvrewards-io.com
 ilybee.com
 im-97dfg-pay-token.online
 im-97dfg-pay-token.xyz
