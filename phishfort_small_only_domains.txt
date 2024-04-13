@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 13 18:15:02 UTC 2024
-# Number of Entries: 8054
+# Fetch date: Sat Apr 13 18:32:11 UTC 2024
+# Number of Entries: 8056
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1124,10 +1124,12 @@ blockchainbets.netlify.app
 blockchaindapp-dri.pages.dev
 blockchainrectification-1tu.pages.dev
 blockchainrectification088.pages.dev
+blockdexresolve.pages.dev
 blockgames-registration.com
 blocknodechains.com
 blocknonc.firebaseapp.com
 blocknonc.web.app
+blockresolveweb.pages.dev
 blocktokens.online
 blockunification.asders.icu
 blog.868631.xyz
@@ -1317,6 +1319,7 @@ cancelar1-cambio.webcindario.com
 cancelar5-cambio.webcindario.com
 cancellationflights.com
 canhanbidv.com
+cantermexi.com
 capcutforpc.store
 capsule-zskync.net
 captainj-dao.vercel.app
@@ -7649,7 +7652,6 @@ www.metamaske.com.cn
 www.metamaske.top
 www.metamasks.info
 www.metamcvk.com
-www.metemeak.io
 www.metemnsk.io
 www.methmantle.xyz
 www.metomask.ru
