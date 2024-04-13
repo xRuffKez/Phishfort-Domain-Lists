@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 13 16:15:49 UTC 2024
-# Number of Entries: 8066
+# Fetch date: Sat Apr 13 16:25:53 UTC 2024
+# Number of Entries: 8054
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -759,7 +759,6 @@ arbname.org
 arbnames.app
 arc-ai.net
 arc8.games
-arcanedexairdrop.netlify.app
 archetives.com
 archive.cowfi.org
 ardrp.xyz
@@ -776,7 +775,6 @@ artegiron.co
 artprocollect.pro
 artyfactgame.vercel.app
 asals.info
-ascendcoin.net
 aserolanarcissashop.com
 asolgift.com
 asset-collab.netlify.app
@@ -1461,7 +1459,6 @@ claim-eesee.com
 claim-es.com
 claim-ethenalab.com
 claim-ether.fi
-claim-guac.live
 claim-guildofguardians.com
 claim-inj.com
 claim-iyk.xyz
@@ -1469,7 +1466,6 @@ claim-ju-4i4mf5.vercel.app
 claim-jup.ag
 claim-kimbo.com
 claim-loopring.org
-claim-marinadefinance.com
 claim-metis.com
 claim-molly.xyz
 claim-myrothedog.com
@@ -1941,7 +1937,6 @@ dash-pepe.com
 dashboard-gogala.games
 dashboard-synthetix.net
 dashboard.alt.enterprises
-dashboard.plxeis.xyz
 dashboardpixels.xyz
 dashbprd-charli3.live
 dashliquid.com
@@ -2077,6 +2072,7 @@ dexcoms.com
 dexpcsintergal.com
 dexprotocolchain.io
 dexprotocolchain.live
+dexprotocolchain.pages.dev
 dexsuperdoge.pages.dev
 dexsynage.web.app
 dextools.bz
@@ -2219,7 +2215,6 @@ dymensiondrop.eu
 dymesions.xyz
 dynamicvisionmanagement.com
 dynamix-alu.com
-dyppius.org
 dyvmemsion.xyz
 e-ledgerlive.com
 e-linea.com
@@ -3017,6 +3012,7 @@ illuvium.io-claim.world
 illuviumliveairdrops.co
 illuviumpassairdrops.com
 illuviumrewards.io
+ilvrewards-io.com
 imaginary-ones.com
 img.coolpayvn.com
 img.vncoolpay.com
@@ -6048,7 +6044,6 @@ seedfry.com
 seedifyfund.click
 seedifyfund.co
 seedifyfunds.app
-seedlfy.netlify.app
 segurototal2024.com
 sei-io.web.app
 seicoingeckolearnandearn.pages.dev
@@ -6160,7 +6155,6 @@ skinsmonkey.combine.tundragon.com
 skipton-login.com
 sklpool.site
 skyborneslegacy.com
-skybridgedynamics.xyz
 skymavis-axie.com
 skymavis.cfd
 skynet229.godaddysites.com
@@ -6782,7 +6776,6 @@ tron-claim.top
 tron.sync-rectifier.com
 tronado.cash
 tronbonus-promotion.com
-troubleshootwallets.com
 trrecoin.com
 trsutwallexension.godaddysites.com
 trudie.win
@@ -6964,7 +6957,6 @@ vdwdz.top
 vectorreserve.live
 veeam.careers
 velamigration.pro
-velocore.pages.dev
 velodrome-finance.app
 venafi.site
 vendorprocurement.online
@@ -7561,7 +7553,6 @@ www.framecoin-drop.com
 www.framenftcollections.com
 www.frameprotocolchain.com
 www.frixedfloat.com
-www.funairdrop.xyz
 www.fungible-token.laag.site
 www.funwonderful.life
 www.furarivip.click
@@ -7581,7 +7572,6 @@ www.hashpacksqa.com
 www.healthequity.click
 www.healthequitylogin.org
 www.hellofurther.pro
-www.help.issueresolve.org
 www.helpdoc-avalache.online
 www.holdblur.foundation
 www.hustlegenix.crd.mvu.mybluehost.me
@@ -7812,7 +7802,6 @@ www.ustaylorsshop.com
 www.v2-manta.network
 www.velocemeter.xyz
 www.velocimter.xyz
-www.venu.exchange
 www.verify-collab-land.com
 www.verify-collabland.com
 www.verify-collabland.xyz
@@ -7823,7 +7812,6 @@ www.virtualsafetysolutions.net
 www.viziosetup.com
 www.vlaunch.org
 www.vopiow.com
-www.walletsdapprepl.com
 www.web.resolvebugvvalidly.org
 www.web3mwe.com
 www.webcamrecordings.com
