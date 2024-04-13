@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 13 18:52:02 UTC 2024
-# Number of Entries: 108017
+# Fetch date: Sat Apr 13 19:22:11 UTC 2024
+# Number of Entries: 108020
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -76011,6 +76011,7 @@ rnicrosotfonline-office13-commonserves-v23authorisation-0ffice2.powerappsportals
 rnilornack.com
 rninchain.com
 rnjelherwallet.com
+rnmnt.pages.dev
 rnnelamask-fnnce.org
 rnocaverse-mint.xyz
 rnooodys.com
@@ -100486,6 +100487,7 @@ www.matis-bridge.com
 www.matprima-pa.com
 www.matr1x.shop
 www.maverickdao.org
+www.mavia.com.maviav.com
 www.mavia.comapp.ceesto.com
 www.mavia.comapp.hu54.com
 www.mavia.comapp.kutten.net
@@ -107613,6 +107615,7 @@ zk-era.co
 zk-eth.net
 zk-evm.portallera-bridge.cloud
 zk-look.org
+zk-manta-airdrop.pages.dev
 zk-manta.network
 zk-money.app
 zk-polyhedra.com
