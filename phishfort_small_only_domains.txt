@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 13 04:23:35 UTC 2024
-# Number of Entries: 8077
+# Fetch date: Sat Apr 13 04:32:20 UTC 2024
+# Number of Entries: 8075
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2045,6 +2045,7 @@ delmetamask.onrender.com
 demarkoizi.com
 demarkoizi.org
 demension.life
+demontown-wltoken.vercel.app
 denelse.com
 denshaven.com
 deplimigration.dev
@@ -3016,7 +3017,6 @@ illuvium.io-claim.world
 illuviumliveairdrops.co
 illuviumpassairdrops.com
 illuviumrewards.io
-ilvrewards-io.com
 imaginary-ones.com
 img.coolpayvn.com
 img.vncoolpay.com
@@ -4734,7 +4734,6 @@ offers-opensae-io.codeanyapp.com
 official-dappradar.com
 officialalerts.xyz
 officialdapps.org
-officialphantom.com
 officineimmagine.it
 ogltree.com
 oinkeonsol.online
@@ -7195,7 +7194,6 @@ web3-kaavva.netlify.app
 web3-manta.pages.dev
 web3-modenetwork.org
 web3-pcsecosystem.com
-web3-phantom.com
 web3-phantom.net
 web3-phemex.com
 web3-portfolio.pro
