@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr 14 19:18:22 UTC 2024
+# Fetch date: Sun Apr 14 21:48:12 UTC 2024
 # Number of Entries: 8064
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -153,6 +153,8 @@ abacoin.website
 abbie.sa.com
 abict.net
 abracadebra.money
+abs-dev.artbyarabbank.ch
+abs-staging.artbyarabbank.ch
 abspaurill.com
 abundant-boots-raspy.on-fleek.app
 academy.topbundalle.com
@@ -238,6 +240,8 @@ agodanewcomplaint.com
 agodaonline.com
 agodaranking.top
 agodatikethotelcom.masukmobilee.de
+agodawork.top
+agodawork.world
 agodaycs.com
 agodaycs.org
 agveah.cc
@@ -720,13 +724,13 @@ aptos.trusthubs.top
 apts-project.com
 apygate.rpctool.net
 apygatercptools.web.app
+aquilibrium.club
 arabbplc-ae.com
 araemex.com
 aramex-delivery.me
 aramexame.com
 aramexglobalexpress.com
 aramexservicevktb.world
-aramx-bahrain.yiff.fi
 arb-events.org
 arb.airpuds.top
 arb.claimscrypto.top
@@ -1115,7 +1119,6 @@ blendcoin.org
 blender404.xyz
 blendrrnetwork.org
 blendswaps.xyz
-blinkblock.site
 blknoiz06.net
 bllaast.com
 block.nodereset.com
@@ -1587,6 +1590,7 @@ client.plataformainteractivebrokers.com
 clifardchancegroups.com
 cliffardchance.com
 clifford-chance-holding.com
+clifford-chance-llp.uk
 clifford-chance-w.com
 clifford-chance.accountant
 clifford-chance.finance
@@ -2242,7 +2246,6 @@ earn-defipool.com
 earn-dmail.com
 earn-drop.asia
 earn-drop.club
-earn-drop.info
 earn-drop.live
 earn-taopads.web.app
 earndrop-checker.com
@@ -2415,6 +2418,7 @@ ethfundg.xyz
 ethgases.xyz
 ethgasrefund.net
 ethibainu.network
+ethmintairdrop.com
 ethnft.app
 ethorv.com
 ethpeg.com
@@ -2561,7 +2565,6 @@ fku-inu.pro
 fkuinu.tech
 flareairdrop.vercel.app
 flash-arbitrage.xyz
-flashdigi.site
 flightreservations.xyz
 floadfixed.com
 flojet.com.vn
@@ -2632,6 +2635,7 @@ frp.bio
 fsafeds.comet.sa.com
 fsafeds.comt.sa.com
 fsafeds.sa.com
+ftp.jeddah-airport-city.com
 ftp.raydiums.motorcycles
 ftx-e49.pages.dev
 fuadazzad.net
@@ -2810,7 +2814,6 @@ golem.gift
 goltaa.com
 gomble-gmm.xyz
 gondi.loan
-goodj.top
 goodsdao.web.app
 gorilladefi-io.web.app
 govs.sa.com
@@ -3325,7 +3328,6 @@ kroma.events
 kroma.trading
 krroma.network
 kryptexx.com
-ksaneomcareers.top
 kstmple.pages.dev
 ktogaza.pro
 kuduips.com
@@ -3352,6 +3354,7 @@ launch-overlord.xyz
 launch-pixels.com
 launch-satoshivm.io
 launch-uniswapv3.com
+launch.ansembullish.net
 launch.apeterminal.cc
 launchapd.xyz
 launches-aofverse.com
@@ -4016,7 +4019,6 @@ metacoin-participate.com
 metacoin.digital
 metacoincrypto.online
 metaconfirmed.io
-metadirectory.link
 metadrop-us.com
 metadrop.cloud
 metadrop.dev
@@ -4062,6 +4064,7 @@ metamask-verse.pages.dev
 metamask-wallet-main.pages.dev
 metamask-wallet.pro
 metamask.baby
+metamask.com-a62.xyz
 metamask.cool
 metamask.firsthfb.com
 metamask.fit
@@ -4183,6 +4186,7 @@ metsafnmaske.azurewebsites.net
 metsfghmaskus.azurewebsites.net
 metsk.app
 mettvcmaske.azurewebsites.net
+metumask-llog-inn.godaddysites.com
 metumasklgio.github.io
 metwamasnkus.azurewebsites.net
 metwamasus.azurewebsites.net
@@ -4191,7 +4195,6 @@ mew.best
 mewwallet.cc
 mewwalletfix.pages.dev
 mfa-expiration-notification-authservices2fa.us-ord-1.linodeobjects.com
-mfi.expert
 mftx.pro
 mgel.com.br
 mgfryjd.pages.dev
@@ -5129,7 +5132,6 @@ paxfulcoins-diputes.com
 paxfulfe.com
 paxfulft.com
 paxfulhack.site
-paxfulintervenor.com
 paxfulmoderater.com
 paxfulp2p.com
 paxfulpay.com
@@ -5343,7 +5345,6 @@ porkcoin.wtf
 porlfoliomelamack.com
 porpport.ink
 porshe-taycan.nfts2.me
-portal-dymension.xyz
 portal.dymension.wb3i.xyz
 portaldrop.io
 portaldrop.net
@@ -6412,7 +6413,6 @@ steth.tiiny.site
 stethers.com
 stethpool.xyz
 stip-radiantcapital.com
-stockmetrictraders.com
 stonedr.xyz
 stonesolsteveaustin.com
 stonex12.com
@@ -6585,7 +6585,6 @@ teleportdao.su
 templatesync.pages.dev
 tenser.trade
 tensor-samurai.io
-tensor.credit
 tensorsamurai.space
 terminal-befilabs.com
 terra-airdrop.onrender.com
@@ -6810,6 +6809,7 @@ tsfonts.com
 tsrndao.web.app
 tsuka.gift
 ttec-corp.com
+ttec.com.ph
 ttkkoopp888.com
 tu3.us
 tuckeracousstical.com
@@ -7351,6 +7351,7 @@ wlcbdqs.org.cn
 wo1cw.pro
 wodlressxs.ru.com
 wojak.gifts
+wollet.cc
 woo-fi.vercel.app
 woofibit.space
 wordpress-162668-decentralizedapp.cloudclusters.net
@@ -7894,7 +7895,6 @@ xn--fxedflcoat-68a.com
 xn--fxedflioat-xub.com
 xn--fxedfllaot-k8a.com
 xn--fxedflloat-xub.com
-xn--fxedfloaot-xub.com
 xn--fxedfloat-g5aa.com
 xn--fxedfloat-q5af.com
 xn--fxedfloat-vpbc.com
