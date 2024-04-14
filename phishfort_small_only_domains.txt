@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr 14 01:44:08 UTC 2024
-# Number of Entries: 8060
+# Fetch date: Sun Apr 14 03:03:42 UTC 2024
+# Number of Entries: 8063
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -68,7 +68,6 @@
 2crlw.pro
 2eth.org
 2fa-metamask.online.snackbarko.nl
-2fa-metamassk.com
 2faprotector.com
 2ham.pro
 2r1.nhvw4is.ru
@@ -635,6 +634,7 @@ app.kiloex-airdrop.com
 app.lumiwallet.live
 app.moonbeam-web.com
 app.moonbeamer-swap.com
+app.opsecgifts.com
 app.parallelfl.network
 app.pepepay.finance
 app.prisrnafinance.com
@@ -1497,6 +1497,7 @@ claim-scottytheaii.pages.dev
 claim-sol.web.app
 claim-starknet.top
 claim-steth.com
+claim-thrusterfinance.com
 claim-tinyblander.com
 claim-verasity.online
 claim-vyperprotocol.com
@@ -2472,7 +2473,6 @@ expertsolver.pages.dev
 exploremanta.pages.dev
 express-toll-route407.com
 express-tollroute407.com
-extension.chrome.uniswapwallet.live
 externaldapp.com
 extranet.agoda-285437.com
 exxon-limited.lol
@@ -3123,6 +3123,7 @@ jade-melba-55acae.netlify.app
 jaguarlandrover.kmmediagroup.com
 jamesthurmankahn.com
 janushenderson.agenciastatus.com.br
+jasmy.coinsglass.top
 jasmy.x-trastpad.top
 jazzy-puffpuff-8f1eac.netlify.app
 jci.org.in
@@ -3278,6 +3279,7 @@ katana.ronlncdain.com
 katanaroninchain.shop
 katy-capital.com
 katycapitaljp.com
+kava-guard.vip
 kavaa-web.netlify.app
 kavadefend.me
 kcs-airdrop.com
@@ -3770,7 +3772,6 @@ manta.nettwork.site
 manta.netvork.xyz
 manta.newupdate.io
 manta.pages.dev
-manta.pw
 manta.software
 manta.wiki
 manta10.pages.dev
@@ -5975,6 +5976,7 @@ saqacase.vip
 sareachbuy.com
 satisdex.xyz
 satkeland.com
+satoshidex-in.web.app
 satoshinew123.pages.dev
 satoshiprotocol.vercel.app
 satoshisvm.network
@@ -6643,6 +6645,7 @@ thewallstmemes.info
 thisisatest2.com
 thisisatest999.com
 thor-fi.io
+thrustertoken.com
 tia-project.com
 tias-celestia.net
 ticket.universalprotocoldapp.io
@@ -7189,7 +7192,6 @@ web3-phemex.com
 web3-portfolio.pro
 web3-raydium.com
 web3-ronin.com
-web3-roninchain.com
 web3-shibaswap.com
 web3-shibaswap.xyz
 web3-solflare.com
@@ -7362,6 +7364,7 @@ worldtvmobile.com
 wormhole-airdrop.store
 wormhole-dev.netlify.app
 wormhole-drops.live
+wormhole-network.com
 wormhole.cx
 wormholeairdrop.fun
 wormholeairdrop.shop
