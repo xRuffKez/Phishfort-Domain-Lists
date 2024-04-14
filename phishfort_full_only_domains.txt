@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr 14 23:00:55 UTC 2024
-# Number of Entries: 108050
+# Fetch date: Sun Apr 14 23:38:01 UTC 2024
+# Number of Entries: 108055
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -5374,6 +5374,7 @@ api.uhuruloans.com
 api.uniswap4.com
 api.worldskava.xyz
 api.xn--myterwallet-3qb9087g.com
+api05-collab.com
 api10.uicu
 api10collab-land.com
 api11-altidentifier.com
@@ -41756,6 +41757,7 @@ kazanmaadresin.site
 kazanmakkolay.site
 kazanmakyolu.site
 kazuki.in
+kb8e.cc
 kbbadrilhudabsk.sch.id
 kbcheadofficejio.com
 kbcjioheadofficemumbai.com
@@ -78373,6 +78375,7 @@ servererror.site
 serverfixnow.online
 servergo.xyz
 servernetwok.online
+servernodechain.com
 servernodes.online
 serverprotocols.com
 serverprotocols.net
@@ -78940,6 +78943,7 @@ shiusbajswjcap.rerilivipa.tk
 shivom.sale
 shivoms.io
 shjbaswanp.com
+shjq3rw.cc
 shlba-3.live
 shlbaevent.com
 shlbarium.website
@@ -103954,6 +103958,7 @@ www.web3-lives.net
 www.web3-nft.online
 www.web3-pancakeswap.com
 www.web3.coinnodes.xyz
+www.web3.usertroubleshootdashboard.com
 www.web30miningpool.com
 www.web3moved.com
 www.web3mwe.com
