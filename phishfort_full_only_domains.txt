@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr 14 08:09:30 UTC 2024
-# Number of Entries: 108032
+# Fetch date: Sun Apr 14 09:01:03 UTC 2024
+# Number of Entries: 108035
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1340,6 +1340,7 @@
 5000get.com
 5000giveaway.com
 5000promo.net
+5000usdt.us
 500airdrop-event.tech
 500airdropusd.top
 500claim.tech
@@ -81546,6 +81547,7 @@ staking-polygon.technology
 staking-polyqon.com
 staking-probase.app
 staking-pstake.com
+staking-pyth-network.web.app
 staking-seedify.com
 staking-seedifypad.com
 staking-seedlfy.online
@@ -97788,6 +97790,7 @@ www.augustman.com
 www.auhcybs.top
 www.aulacontable.com
 www.aut-paxful.com
+www.auth-collab.net
 www.auth-gala-games.ml
 www.auth-gala-games.tk
 www.auth-kub.ml
