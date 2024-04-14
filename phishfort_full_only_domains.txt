@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr 14 16:58:27 UTC 2024
-# Number of Entries: 108035
+# Fetch date: Sun Apr 14 23:00:55 UTC 2024
+# Number of Entries: 108050
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2270,6 +2270,8 @@ abracadobramoney.net
 abracodabra-money.com
 abritrums.xyz
 abritum.com
+abs-dev.artbyarabbank.ch
+abs-staging.artbyarabbank.ch
 absappdynamics.com
 absentlxy.click
 abso.site
@@ -3177,6 +3179,8 @@ agodavip7.com
 agodavip9.com
 agodawealth.com
 agodawork.com
+agodawork.top
+agodawork.world
 agodaworkbench.com
 agodaycs.com
 agodaycs.org
@@ -7168,6 +7172,7 @@ aqb88.com
 aquabitpowercoin-yui.finance
 aquamarine-balsam-piper.glitch.me
 aquilaoption.com
+aquilibrium.club
 aqviator-game.click
 aqy-aave.com
 ar-coinbase.com
@@ -17909,6 +17914,7 @@ cliffchnlaw.com
 cliffchnllp.com
 cliffchnrecovery.com
 clifford-chance-holding.com
+clifford-chance-llp.uk
 clifford-chance-uk.co
 clifford-chance-w.com
 clifford-chance.accountant
@@ -24703,6 +24709,7 @@ dashboard-paxful.com
 dashboard-rocketpool.claims
 dashboard-rocketpool.com
 dashboard-rocketpool.net
+dashboard-sol-fran8393.live
 dashboard-stakefish.claims
 dashboard-syncswap.xyz
 dashboard-synthetix.net
@@ -31395,6 +31402,7 @@ ethminerusa.com
 ethmineshine.com
 ethminevoxel.com
 ethminigg.com
+ethmintairdrop.com
 ethmixdrop.pro
 ethmixer.io
 ethmj.app
@@ -34550,6 +34558,7 @@ ftoc.live
 ftp-galagames-home-1.blogspot.com
 ftp.claim-decentraland.app
 ftp.cnpisland.xyz
+ftp.jeddah-airport-city.com
 ftp.metamasks.biz
 ftp.myetherwallet.help
 ftp.polkadotglobal.co.uk
@@ -42893,6 +42902,7 @@ launch-uniswapv3.com
 launch.1inchapp.org
 launch.airswap.cc
 launch.airswap.in
+launch.ansembullish.net
 launch.apeterminal.cc
 launch.v2-polygon.org
 launchairdrop-dapp.com
@@ -44276,6 +44286,7 @@ linea-build.shop
 linea-builder.com
 linea-bulid.com
 linea-bulid.io
+linea-consensys.com
 linea-consensys.world
 linea-defi.com
 linea-eth.dev
@@ -50237,6 +50248,7 @@ metamask.co.in
 metamask.co.zw
 metamask.com
 metamask.com-20x3d.top
+metamask.com-a62.xyz
 metamask.com-desktop.top
 metamask.com-desktopp.website
 metamask.com-io.in
@@ -52694,6 +52706,7 @@ metuclogi.godaddysites.com
 metuimiskwalet.godaddysites.com
 metumasik-logiin.godaddysites.com
 metumasiksloginn.godaddysites.com
+metumask-llog-inn.godaddysites.com
 metumask.club
 metumask.io
 metumasklgio.github.io
@@ -87761,6 +87774,7 @@ ttcoin-promogive.com
 ttcswap.finance
 ttec-corp.com
 ttec-schedule.com
+ttec.com.ph
 ttec.ink
 ttec.pier2marketing.com
 ttec.selfservtech.com
@@ -96227,6 +96241,7 @@ wollat-pejygen.com
 wollat-poiygom.com
 wollats-phantaim_us.godaddysites.com
 wollet-metamask.com
+wollet.cc
 wollet_phantom.godaddysites.com
 wollletcannect.site
 woltarskluwer.com
