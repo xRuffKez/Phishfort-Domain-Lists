@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr 14 05:50:50 UTC 2024
-# Number of Entries: 8064
+# Fetch date: Sun Apr 14 06:31:21 UTC 2024
+# Number of Entries: 8059
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1299,7 +1299,6 @@ cakepiexyz.pages.dev
 cakes-reward.xyz
 cakespie.net
 cakespie.org
-cakesw-offers.com
 cakeswap.me
 cakeswp.app
 cakeudefi.biz
@@ -1483,6 +1482,7 @@ claim-pancakaswap.web.app
 claim-pancakeswap.web.app
 claim-pancakeswep.web.app
 claim-pandoshi.web.app
+claim-pendlefinance.com
 claim-pepev2.com
 claim-poly.com
 claim-pork.pages.dev
@@ -2851,7 +2851,6 @@ gunitswiftcommunityswap.com
 gwabagu.pages.dev
 gzfd4.cc
 h1.otctron.com
-h407etr.com
 h5.517kuku.com
 h5.asxar.com
 h8fl00.cc
@@ -3677,6 +3676,7 @@ mainnetportal.org
 mainnets.vercel.app
 mainnetserver.site
 maintaincedojoswap.click
+maintech-pages.dev
 maiva-hero.top
 makepayment-407etr.com
 maker-dao.life
@@ -4053,7 +4053,6 @@ metamask-platform.codeanyapp.com
 metamask-restorehome.cryptobase.ng
 metamask-restoreteam.com
 metamask-rewards.site
-metamask-sg.site
 metamask-updatextension.pages.dev
 metamask-verfiy.diaitologostopouza.gr
 metamask-verse.pages.dev
@@ -4954,7 +4953,6 @@ pancake.svap.us.com
 pancake.swap.primaprofits.com
 pancake.vinaweb.app
 pancake888.com
-pancakecrypto.com
 pancakedrop.com
 pancakedrop.xyz
 pancakedrops.com
@@ -5763,7 +5761,6 @@ revoke-approvals.xyz
 revoke-approvals.xyz.polarmates.top
 revoke-cash-i9n0pa5cx-lahana.vercel.app
 revoke-cash-layer2.pages.dev
-revoke-cash.xyz
 revoke-cassh.pages.dev
 revoke-eth.xyz
 revoke-etherscan.online
@@ -7266,7 +7263,6 @@ webnet3.com
 webonlinez.ru.com
 webonlinez.sa.com
 webonlinjes.za.com
-webonlinses.za.com
 webonlinws.sa.com
 websmart-de.fi
 websolverdapp.pages.dev
@@ -8057,7 +8053,6 @@ zksynq.github.io
 zmkl.systems
 zombiekilla.xyz
 zonaconsorcioempresa.online
-zookeeper.bountyprogram.tech
 zoomsync.pages.dev
 zoraco.co
 zr2b788n.site
