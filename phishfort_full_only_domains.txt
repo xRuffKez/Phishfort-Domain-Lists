@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr 14 03:03:58 UTC 2024
-# Number of Entries: 108025
+# Fetch date: Sun Apr 14 03:38:44 UTC 2024
+# Number of Entries: 108029
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -15453,6 +15453,7 @@ calibraico.com
 californiaprincipal.com
 calim.1llinch.top
 calimpolkadot.live
+calindaly.com
 calinodes.org
 caliskazanaz.site
 calivangelist.com
@@ -17231,6 +17232,7 @@ claim-tether.net
 claim-tether.site
 claim-thesandbox.games
 claim-thorchain.net
+claim-thrusterfinance.com
 claim-tinyblander.com
 claim-token-3.pages.dev
 claim-token-dgtx.com
@@ -40850,6 +40852,7 @@ jarvisnet.xyz
 jasakonveksimalang.com
 jashdno5.ru
 jasmy.claims
+jasmy.coinsglass.top
 jasmy.x-trastpad.top
 jasmydrops.com
 jasmymgt-claim.com
@@ -96395,6 +96398,7 @@ wormant.com
 wormhole-airdrop.store
 wormhole-dev.netlify.app
 wormhole-drops.live
+wormhole-network.com
 wormhole.cx
 wormhole.money
 wormholeairdrop.fun
