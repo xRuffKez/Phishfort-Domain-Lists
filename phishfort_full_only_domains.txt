@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr 14 02:23:30 UTC 2024
-# Number of Entries: 108021
+# Fetch date: Sun Apr 14 03:03:58 UTC 2024
+# Number of Entries: 108025
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6384,6 +6384,7 @@ app.openseaconnectapp.com
 app.openseaes.io
 app.opptimism.com
 app.opresale.com
+app.opsecgifts.com
 app.optimism.io.liquidity-mint.sbs
 app.optimism.run
 app.ordinate-protocol.com
@@ -41705,6 +41706,7 @@ kaubunalak.site
 kava-api137.web.app
 kava-bot.firebaseapp.com
 kava-bot.web.app
+kava-guard.vip
 kava-verify.firebaseapp.com
 kava-verify.web.app
 kava.gifts
@@ -77374,6 +77376,7 @@ satoshi-giveaway.org
 satoshi-islaand.xyz
 satoshi-island.ink
 satoshi-litecoin.netlify.com
+satoshidex-in.web.app
 satoshiisland.from-mint.xyz
 satoshiisland.giveaway-nfts.com
 satoshilabs.co
@@ -85646,6 +85649,7 @@ three.stonesmoon.top
 threekingdom.site
 thrillistrottentomatoes.dedyn.io
 thrivethrone.cn
+thrustertoken.com
 thtatoken.org
 thuglife.one
 thugllifetoken.com
