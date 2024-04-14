@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr 14 08:09:09 UTC 2024
-# Number of Entries: 8061
+# Fetch date: Sun Apr 14 08:59:01 UTC 2024
+# Number of Entries: 8064
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -94,6 +94,7 @@
 4vcf.pro
 4xqry.cc
 50000usdt.cc
+5000usdt.us
 56376tygegdajun.live
 5ninja-cup.com
 5raydium.sbs
@@ -6344,6 +6345,7 @@ staking-farms.com
 staking-immutable.com
 staking-meritcircle.com
 staking-probase.app
+staking-pyth-network.web.app
 staking-wftrw.github.io
 staking-xai.network
 staking.app-bitrock.com
@@ -7463,6 +7465,7 @@ www.asxhk7.com
 www.asxhkd1.com
 www.asxidn.com
 www.ator.claimfree.xyz
+www.auth-collab.net
 www.axieinfinity-global.com
 www.axiemarketplace.lol
 www.bainxu.com
