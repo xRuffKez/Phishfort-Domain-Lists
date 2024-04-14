@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr 14 04:32:13 UTC 2024
-# Number of Entries: 108029
+# Fetch date: Sun Apr 14 08:09:30 UTC 2024
+# Number of Entries: 108032
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1549,6 +1549,7 @@
 8od.xyz
 8pancakeswap-finance.site
 8pesofficial.this-premint.com
+8txrl.cc
 8uvu.pro
 8vvvvuniswap.top
 8vvvvvwmetamas.top
@@ -1634,6 +1635,7 @@ a13.ethwb.com
 a156metamask.com
 a1drop-giveaway.online
 a1drop-node.online
+a1pv.cc
 a1rdrop-claimiing.online
 a23.ethwb.com
 a2ip.ru
@@ -15408,7 +15410,6 @@ cakesdapp.finance
 cakespie.net
 cakespie.org
 cakesswap.com
-cakesw-offers.com
 cakeswap-finance.site
 cakeswap.help
 cakeswap.link
@@ -17144,6 +17145,7 @@ claim-pancakeswep.web.app
 claim-panckakeswap.finance
 claim-pandoshi.web.app
 claim-paraswap.com
+claim-pendlefinance.com
 claim-pepe.bio
 claim-pepe.icu
 claim-pepe.info
@@ -47553,6 +47555,7 @@ mainsystemresolve.live
 mainsystemrestore.liveen
 maintaincedojoswap.click
 maintaindapp.com
+maintech-pages.dev
 maintechs.org
 maintechsnet.com
 maintecth.org
@@ -48484,6 +48487,7 @@ mavia.cc
 mavia.land
 mavia.lc
 mavia.pages.dev
+mavia.pm
 mavia.web3-airdrop.net
 mavia.website
 mavia.work
@@ -64064,7 +64068,6 @@ pancakechwap.com
 pancakecoinswap.finance
 pancakeconnect.cc
 pancakecreator.click
-pancakecrypto.com
 pancakecswap.com
 pancakecswap.digital
 pancakecswap.finance
