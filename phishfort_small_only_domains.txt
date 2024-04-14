@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr 14 06:31:21 UTC 2024
-# Number of Entries: 8059
+# Fetch date: Sun Apr 14 07:35:35 UTC 2024
+# Number of Entries: 8061
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -119,6 +119,7 @@
 8866651.za.com
 8lab-d254.earherbat.workers.dev
 8nteb.cc
+8txrl.cc
 8uvu.pro
 912091730.pages.dev
 9af68e44.4d9aa11f0cc24373ec9d6295.workers.dev
@@ -128,6 +129,7 @@
 9inchswap.com
 9macu.info
 9x9231xxchoked.online
+a1pv.cc
 a407info.com
 a4doconlinautoreloads.com
 a9714.top
@@ -1760,7 +1762,6 @@ connectxr-fixer.rf.gd
 connext.fi
 conocophillispcorp.com
 consensys-kycverifcation.com
-consensys.web3-provide.com
 consensysclaim.com
 consorciochevroletmd.com.br
 contractclaim.netlify.app
@@ -3928,6 +3929,7 @@ mavia.cc
 mavia.land
 mavia.lc
 mavia.pages.dev
+mavia.pm
 mavia.website
 mavia.work
 maviagames.network
