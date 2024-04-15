@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 08:03:08 UTC 2024
-# Number of Entries: 8086
+# Fetch date: Mon Apr 15 08:15:10 UTC 2024
+# Number of Entries: 8089
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1923,6 +1923,7 @@ dappscoinstats.pages.dev
 dappsconnectapp.pages.dev
 dappscorrections.pages.dev
 dappsdropclaim.com
+dappsfixed.pages.dev
 dappsfixerweb.42web.io
 dappslog.vercel.app
 dappsly.pages.dev
@@ -2863,6 +2864,7 @@ gzfd4.cc
 h1.otctron.com
 h5.517kuku.com
 h5.asxar.com
+h5.newscryptoio.com
 h5.ptldxjfu.com
 h8fl00.cc
 ha3netchexsalast.com
@@ -4308,6 +4310,7 @@ mj3.us
 mm-redirect.com
 mmakerdao.com
 mmapplicationhubs.pages.dev
+mmapplicationshub.pages.dev
 mndntwrk.org
 mnyetherwallet.com
 mo7l9.top
