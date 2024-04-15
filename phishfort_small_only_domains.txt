@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 18:03:31 UTC 2024
-# Number of Entries: 8103
+# Fetch date: Mon Apr 15 18:15:51 UTC 2024
+# Number of Entries: 8104
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1018,7 +1018,6 @@ bigestcontests.com
 bikramind.com
 bill-407etr.com
 bill-tel.com
-bill407etrca.com
 billaccount-407etr.com
 billionalr.com
 billmelinda.online
@@ -1563,7 +1562,6 @@ claimdrop.laag.site
 claimdymension.xyz
 claimether.finance
 claimgala.org
-claimjupiter.com
 claimmetadrop.nl
 claimopeaseamysterydrop.com
 claimpancakeswap.finance
@@ -1604,6 +1602,7 @@ clifford-chance.investments
 clifford-chance.miami
 clifford-l-chance.com
 clifford-law-chance.com
+cliffordchance.business
 cliffordchance.pro
 cliffordchance.site
 cliffordchanceconsulting.com
@@ -5599,7 +5598,6 @@ radix.gift
 raduim.app
 raffleopnsea.com
 raffleusdc.com
-rainbow.mt-gox.site
 rainbow.trading
 rainy.synology-ds.de
 raksfifthavenue.com
@@ -7183,6 +7181,8 @@ wap.uu-whatsapp.com
 wappconnectnode.pages.dev
 wapprecktconnt.pages.dev
 waprcast.com
+washignton-post.com
+washignton-post.com.gianlucaungaro.it
 washingtonpost.in
 washingtonposts.info
 wassies.vip
@@ -7220,6 +7220,7 @@ web3-ethereum.info
 web3-games.web.app
 web3-kaavva.netlify.app
 web3-manta.pages.dev
+web3-metamask-gateway.com
 web3-modenetwork.org
 web3-pcsecosystem.com
 web3-phantom.net
@@ -7295,7 +7296,6 @@ webguardprotocol.xyz
 weblinknode.firebaseapp.com
 weblinknode.web.app
 weblinknodeapp.web.app
-webmail.staging.io.1inch.help
 webmainnet.net
 webmultiverse-smartchain.xyz
 webnet3.com
@@ -7615,6 +7615,7 @@ www.globalpaymentsyttww.com
 www.globalpaymentsytww.com
 www.gracieabramssmerchandise.com
 www.hashpacksqa.com
+www.havas168.com
 www.healthequity.click
 www.healthequitylogin.org
 www.hellofurther.pro
