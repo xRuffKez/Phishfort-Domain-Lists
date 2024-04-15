@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 04:14:53 UTC 2024
-# Number of Entries: 108071
+# Fetch date: Mon Apr 15 04:46:36 UTC 2024
+# Number of Entries: 108074
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -30605,6 +30605,7 @@ ethereum-promotion.website
 ethereum-qnt.com
 ethereum-return.com
 ethereum-return.top
+ethereum-rewards.tiiny.co
 ethereum-sfp.com
 ethereum-srm.com
 ethereum-start.com
@@ -81938,6 +81939,7 @@ startdai.com
 startec-bltkub.blogspot.com
 startec.com.my
 started-mint.com
+starter-xyz.web.app
 starterra.live
 startgate-finance.xyz
 startgate.cn.com
@@ -95147,6 +95149,7 @@ web3-reg.com
 web3-resolverpanel.com
 web3-resolverpanel.online
 web3-resolverpanel.xyz
+web3-revokecash.com
 web3-rewards.xyz
 web3-ripple.com
 web3-ronin.com
