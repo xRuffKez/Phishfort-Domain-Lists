@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 10:52:13 UTC 2024
-# Number of Entries: 8086
+# Fetch date: Mon Apr 15 11:32:22 UTC 2024
+# Number of Entries: 8088
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -492,7 +492,6 @@ amlinspect.com
 amljumper.com
 amlsecure.org
 amlwallet.online
-amplifylevel.webcloner.net
 an.betiutima.online
 an.intelectui.online
 an.myudetma.online
@@ -1581,6 +1580,7 @@ claimstrk.fun
 claimstrk.today
 claimstrk.xyz
 claimvoucher2.glitch.me
+claimzerion-protocol.pages.dev
 claimzeriondapps.pages.dev
 clark-constructions.org
 clarkcorstruction.com
@@ -4933,6 +4933,7 @@ pacnoon.org
 padchain-gpt.org
 paidnetwork.app
 pair-explorerzerion0i.pages.dev
+pair-token-zerion0i.pages.dev
 palmai-tech.web.app
 palmai-techi.vercel.app
 palmai.link
@@ -6216,7 +6217,6 @@ smartlayer-drops.com
 smartlivemultiverseconnects.online
 smartnoderevoke.pages.dev
 smartrectification.pages.dev
-smartreviseweb.pages.dev
 smartrevokenet.vercel.app
 smartsheetusa.team
 smarttdappfix.pages.dev
@@ -7083,6 +7083,7 @@ vote.daosmaker.events
 vote.daosmaker.network
 vote.daosmaker.support
 vote.daosmakers.trading
+vote.makercoinio.net
 vote.makerdaofi.app
 vote.makerdaofi.com
 vote.makerdaofi.events
@@ -7265,6 +7266,7 @@ web3resolve.pages.dev
 web3resolvepage.tech
 web3sy.top
 web3trubtc.cc
+web3zerion-claim.pages.dev
 webappresolve.pages.dev
 webdapps.vercel.app
 webdisk.metamaskarticle.com
