@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 18:42:16 UTC 2024
-# Number of Entries: 8105
+# Fetch date: Mon Apr 15 18:52:10 UTC 2024
+# Number of Entries: 8104
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -5637,7 +5637,6 @@ raydium.pics
 raydium.rest
 raydium.sbs
 raydiums.buzz
-raydiums.pages.dev
 raydiumswap.com
 raydiumtoken.io
 raydlum.ink
