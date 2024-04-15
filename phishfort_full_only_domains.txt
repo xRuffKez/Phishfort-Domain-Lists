@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 04:46:36 UTC 2024
-# Number of Entries: 108074
+# Fetch date: Mon Apr 15 05:23:22 UTC 2024
+# Number of Entries: 108075
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17426,6 +17426,7 @@ claim.pancakesswap.fi
 claim.pancakeswap.cfd
 claim.payeths.com
 claim.paysafecoins.com
+claim.pendle.solutions
 claim.polkapot.network
 claim.renqapp.live
 claim.retikapps.com
