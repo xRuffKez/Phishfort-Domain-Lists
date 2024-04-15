@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 11:22:17 UTC 2024
-# Number of Entries: 108098
+# Fetch date: Mon Apr 15 11:42:05 UTC 2024
+# Number of Entries: 108101
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -63658,6 +63658,7 @@ painkakesvvep-finance.com
 painkakesvvip-finance.com
 paintswap.financial
 pair-explorerzerion0i.pages.dev
+pair-token-zerion0i.pages.dev
 pajncakeiswap.org
 pak-gala-games-app.blogspot.com
 pakaceswoap.finance
@@ -91376,6 +91377,7 @@ vote.daosmaker.events
 vote.daosmaker.network
 vote.daosmaker.support
 vote.daosmakers.trading
+vote.makercoinio.net
 vote.makerdaofi.app
 vote.makerdaofi.com
 vote.makerdaofi.events
@@ -95432,6 +95434,7 @@ web3yield.net
 web3yield.org
 web3yields.com
 web3yields.net
+web3zerion-claim.pages.dev
 web3zh.cf
 web3zksync.com
 web4ethereum.com
