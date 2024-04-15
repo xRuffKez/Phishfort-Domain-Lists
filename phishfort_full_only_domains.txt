@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 19:52:25 UTC 2024
-# Number of Entries: 108141
+# Fetch date: Mon Apr 15 20:15:13 UTC 2024
+# Number of Entries: 108143
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -16558,6 +16558,7 @@ chevroletoferta.com
 chevroletonline.com
 chevroletpromocao.com
 chevroletseminuevoslinares.com.mx
+chevroletshopdrive.ws
 chevropromoo.com
 chevy.ru
 chhattisgarhnews18.com
@@ -40118,7 +40119,6 @@ infospacedex.xyz
 infotesla.io
 infotesla.pro
 infounitedhealthgroup.us
-infoweb3.ru
 infrastructure.bincom.net
 infsec0.com
 infura-api.com
@@ -61065,6 +61065,7 @@ nxraclaim.com
 ny9.us
 nycnfts.xyz
 nycweb3.co
+nydig.org
 nydiq.com
 nyebnqukkm.cam
 nyeihitervvallat.com
@@ -64169,6 +64170,7 @@ pancakedrop.live
 pancakedrop.pw
 pancakedrop.xyz
 pancakedrops.com
+pancakedropsclaim.vercel.app
 pancakedwallet.com
 pancakedwallets.com
 pancakedwap.com
@@ -82547,7 +82549,6 @@ successful-usdt.com
 successful-vip.com
 successful-weth.com
 successfulbridge.website
-successfulminingtrade.co
 suchiappswap.tk
 suchicwap.tk
 sucoslim.blogspot.com
@@ -99173,6 +99174,7 @@ www.degods.fmints.xyz
 www.dellannohomedesignva.com
 www.deltma.org
 www.demo.xn--aptslabs-6fd.net
+www.deramavia.com
 www.deribitproi.com
 www.details-paxful.com
 www.detma.top
