@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 08:32:41 UTC 2024
+# Fetch date: Mon Apr 15 08:42:01 UTC 2024
 # Number of Entries: 8082
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -118,6 +118,7 @@
 7kdgw.pro
 7x7gx.pro
 7xfwglj.cc
+827032971.pages.dev
 8866651.za.com
 8lab-d254.earherbat.workers.dev
 8nteb.cc
@@ -2996,7 +2997,6 @@ hypnoticbrass.net
 i6jkg.cc
 ia4mb.pro
 iavhru.cc
-iayerzero-claim.net
 ibkrindia.com
 ibkrindia.xyz
 ibkrx.xyz
@@ -3595,6 +3595,7 @@ looksrarenft.info
 loongavax.com
 loopringlabs.online
 lootynetwork.org
+lopetoken.com
 lottery.ridottowin.online
 lovecoprinttestelnur.com
 lovehatte.com
@@ -4808,7 +4809,6 @@ opensaepro.vercel.app
 opensaeproclaim.vercel.app
 opensea-air.vercel.app
 opensea-doc.rf.gd
-opensea-drop.pages.dev
 opensea-io.pages.dev
 opensea-proclaim.vercel.app
 opensea-pronfts.vercel.app
