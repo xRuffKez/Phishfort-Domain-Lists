@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 17:14:43 UTC 2024
-# Number of Entries: 108135
+# Fetch date: Mon Apr 15 18:25:45 UTC 2024
+# Number of Entries: 108140
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17948,6 +17948,7 @@ cliffordchance-attorney.com
 cliffordchance-legal.co.uk
 cliffordchance-llp.com
 cliffordchance.akrdesign.co
+cliffordchance.business
 cliffordchance.cadeirasrosa.com.br
 cliffordchance.io
 cliffordchance.pro
@@ -94767,6 +94768,8 @@ wasabbi.eu
 wasabi-mixer.pw
 wasabibitcoinwallet.org
 wasabimixer.com
+washignton-post.com
+washignton-post.com.gianlucaungaro.it
 washington-posts.com
 washingtonpost.asia
 washingtonpost.careers
@@ -95173,6 +95176,7 @@ web3-lido.fi
 web3-live.io
 web3-mainnet.net
 web3-manta.pages.dev
+web3-metamask-gateway.com
 web3-metamaskd.com
 web3-mint.live
 web3-modenetwork.org
@@ -99938,6 +99942,7 @@ www.hashminer.pro
 www.hashpackegd.com
 www.hashpacksqa.com
 www.hashtlow.site
+www.havas168.com
 www.healthequity.click
 www.healthequitylogin.org
 www.heanse.com
