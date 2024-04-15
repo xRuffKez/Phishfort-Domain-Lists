@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 12:32:08 UTC 2024
-# Number of Entries: 8090
+# Fetch date: Mon Apr 15 12:44:46 UTC 2024
+# Number of Entries: 8093
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3208,6 +3208,7 @@ jsjtgroup.cn
 jsjtrading.com
 jsoq9.cn
 jtontwrk.com
+jubilant-meme.vercel.app
 judi10.com
 juiceboxmoney.xyz
 julswap.co
@@ -3667,6 +3668,7 @@ mail.pepegift.lol
 mail.startest.duckdns.org
 mail.swapsnet.com
 mail.tickets.atelierfain.ro
+mail.web3-metamask-gateway.com
 mail.xn--pncakeswap-3gb.com
 mail046.mlsend.com
 mailclaimdmail.xyz
@@ -7849,6 +7851,7 @@ www.viziosetup.com
 www.vlaunch.org
 www.vopiow.com
 www.web.resolvebugvvalidly.org
+www.web3-metamask-gateway.com
 www.web3.usertroubleshootdashboard.com
 www.web3mwe.com
 www.webcamrecordings.com
