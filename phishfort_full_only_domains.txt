@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 06:25:50 UTC 2024
-# Number of Entries: 108079
+# Fetch date: Mon Apr 15 07:22:13 UTC 2024
+# Number of Entries: 108082
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -21266,6 +21266,7 @@ cosmodapp.web.app
 cosmodoggy.one
 cosmoioapp.com
 cosmos-drop.net
+cosmos-networks.net
 cosmos-swaps.io
 cosmos-take.net
 cosmos-trade.io
@@ -59053,6 +59054,7 @@ mysterybox74j.vercel.app
 mysterybox75.vercel.app
 mysterybox882.vercel.app
 mysteryboxarbitrum.com
+mysteryboxing44.vercel.app
 mysteryboxnow.vercel.app
 mysteryboxv1.vercel.app
 mysteryboxvp.vercel.app
@@ -87927,6 +87929,7 @@ twlilo.net
 twmnftcollectibles.com
 two-factor-metamask.io
 two.ethanmana.top
+two.solanamobile.com
 twolandstoken.live
 twoon-muelt-treacs.yolasite.com
 twrectify.com
