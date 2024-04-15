@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 15:03:15 UTC 2024
-# Number of Entries: 108116
+# Fetch date: Mon Apr 15 15:52:05 UTC 2024
+# Number of Entries: 108121
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17182,6 +17182,7 @@ claim-polyhedra.net
 claim-pond.com
 claim-pond0x.com
 claim-pond0x.org
+claim-poodlinu.pages.dev
 claim-pork.pages.dev
 claim-porsche.com
 claim-portalcoin.xyz
@@ -37107,6 +37108,7 @@ gmxprotocol.com
 gmxv1.com
 gmxx.org
 gn-connect.com
+gnfymrm14.ukit.me
 gnhrardfzmrsjvqrnyir6g.on.drv.tw
 gno-bakery.org
 gno-safe.me
@@ -49625,6 +49627,7 @@ metamark.site
 metamas.one
 metamasak-wallet.godaddysites.com
 metamasak.cc
+metamasauk.azurewebsites.net
 metamasbdfbcbs.com
 metamasbdfbcv.com
 metamasc-apps.com
@@ -52943,6 +52946,7 @@ microsfrategy.com
 microshare-docviewer.com
 microsoft-verify.ofisuu.com
 microsoftedge.pancakeswap.finance.expolorer.im
+microstrategy-promo.gift
 microtestdigitalagency.host
 micrstf.online
 mid-american-energy.customersupports.network
@@ -54400,6 +54404,7 @@ mrbean-nft.xyz
 mrbeastbtc.info
 mrbeasttoken.net
 mreasbresdb.ga
+mrestore.vercel.app
 mrfugas.cl
 mrgn-alphadao.web.app
 mrgottmann.com
