@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 14:52:19 UTC 2024
-# Number of Entries: 8094
+# Fetch date: Mon Apr 15 15:02:59 UTC 2024
+# Number of Entries: 8095
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4197,6 +4197,7 @@ metrsamasknig.azurewebsites.net
 metsafnmaske.azurewebsites.net
 metsfghmaskus.azurewebsites.net
 metsk.app
+mettaumaskev.azurewebsites.net
 mettvcmaske.azurewebsites.net
 metumask-llog-inn.godaddysites.com
 metumasklgio.github.io
@@ -5229,6 +5230,7 @@ pendle.farm
 pendlenetwork.com
 pengsolana.co
 pengsolana.org
+penguin-verlagsgruppe.de
 penguinrandomh0use.com
 penguinrandomhouseglobal.com
 penguinrandomhouseofficial.com
@@ -6089,7 +6091,6 @@ servdnshortingorgs.site
 server192560.online
 serverapp.cyou
 servernodechain.com
-service-407etr.com
 service-connect-valide.nl
 servicecontrollnc.com
 servicepflege-kontoaktualisieren383266.codeanyapp.com
