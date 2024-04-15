@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 08:42:34 UTC 2024
+# Fetch date: Mon Apr 15 08:52:16 UTC 2024
 # Number of Entries: 108091
 
 0-metemask.com
@@ -3181,8 +3181,6 @@ agodavip7.com
 agodavip9.com
 agodawealth.com
 agodawork.com
-agodawork.top
-agodawork.world
 agodaworkbench.com
 agodaycs.com
 agodaycs.org
@@ -15422,6 +15420,7 @@ cakesdapp.finance
 cakespie.net
 cakespie.org
 cakesswap.com
+cakesw-offers.com
 cakeswap-finance.site
 cakeswap.help
 cakeswap.link
@@ -64106,6 +64105,7 @@ pancakechwap.com
 pancakecoinswap.finance
 pancakeconnect.cc
 pancakecreator.click
+pancakecrypto.com
 pancakecswap.com
 pancakecswap.digital
 pancakecswap.finance
