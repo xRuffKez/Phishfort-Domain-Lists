@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 18:25:45 UTC 2024
-# Number of Entries: 108140
+# Fetch date: Mon Apr 15 19:14:32 UTC 2024
+# Number of Entries: 108141
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -48816,6 +48816,7 @@ meetamask-usa-wallet.godaddysites.com
 meetamask.art
 meetamask_wllateus.godaddysites.com
 meetamaskco.com
+meetamaskev.azurewebsites.net
 meetamasks.com
 meetamaskwa-llet.godaddysites.com
 meetamaskwallet.godaddysites.com
