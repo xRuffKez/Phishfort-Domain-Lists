@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 07:52:15 UTC 2024
+# Fetch date: Mon Apr 15 08:03:08 UTC 2024
 # Number of Entries: 8086
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -477,6 +477,7 @@ altsidentifier.com
 altsignaltokens.com
 alturainvitational.com
 ambientt.finance
+ambires-event.com
 ambitefinance.com
 ambitefinance.eu
 americantowercareers.com
@@ -3705,7 +3706,6 @@ makerdaobsc.online
 makerdaov3.pages.dev
 makerdoa.com
 makerfoundation.github.io
-makertoken.net
 mamasuimestmaorgst.com
 mamtaairdropevent.net
 mamtabluerewards.com
