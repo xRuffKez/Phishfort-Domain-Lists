@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 03:46:46 UTC 2024
-# Number of Entries: 8076
+# Fetch date: Mon Apr 15 04:29:59 UTC 2024
+# Number of Entries: 8079
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -795,6 +795,7 @@ astrafive.website
 astroakashvani.com
 asx-exs-trade.com
 asx-martdeskeia.com
+asx-tradeco.co
 asx-tsdkgt.com
 asx.am
 asx.center
@@ -1885,7 +1886,6 @@ dappextension.info
 dappinfo.xyz
 dappintegration.com
 dappkaavaa.netlify.app
-dapplaunchpad.live
 dappmainhub.pages.dev
 dappnetsfp.com
 dapppaxos.co
@@ -2391,6 +2391,7 @@ ether-web3.com
 etheregas.xyz
 etheremgas.xyz
 ethereum-events.tiiny.co
+ethereum-rewards.tiiny.co
 ethereum-wpos.club
 ethereum.com.tr
 ethereumfees.xyz
@@ -6400,6 +6401,7 @@ starkynet.com
 starlight-finance.com
 starplumbingelectrical.com
 start-wen.com
+starter-xyz.web.app
 startknet.io
 stately-froyo-8d0a93.netlify.app
 steaam.umb.market
@@ -7473,6 +7475,7 @@ www.asx-trading.top
 www.asx-vips.com
 www.asxcoinic.com
 www.asxhk7.com
+www.asxhk8.com
 www.asxhkd1.com
 www.asxidn.com
 www.ator.claimfree.xyz
