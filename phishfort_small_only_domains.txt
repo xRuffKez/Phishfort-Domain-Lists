@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 05:52:00 UTC 2024
+# Fetch date: Mon Apr 15 06:03:27 UTC 2024
 # Number of Entries: 8080
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2212,6 +2212,7 @@ duke-florence-finance.co
 dumb-coin.fun
 durexwalletbridge.co.za
 dws-team-vs.de
+dydconnect.click
 dydxdao.net
 dykemagosettantoney.online
 dymeansion.io
@@ -5727,7 +5728,6 @@ rektfilprompt.pages.dev
 rektfrog.com
 rektnow.com
 reloadsula.pages.dev
-reloadsyncpages.xyz
 remarkable-queijadas-77facb.netlify.app
 remotenodesauth.pages.dev
 renasantbank.cc
@@ -6655,6 +6655,7 @@ thewallstmemes.info
 thisisatest2.com
 thisisatest999.com
 thor-fi.io
+thrusters.fi
 thrustertoken.com
 tia-project.com
 tias-celestia.net
@@ -6823,7 +6824,6 @@ ttec-corp.com
 ttec.com.ph
 ttkkoopp888.com
 tu3.us
-tuckeracousstical.com
 tulip-app.one
 tvl-chain.link
 twilio-hr.com
