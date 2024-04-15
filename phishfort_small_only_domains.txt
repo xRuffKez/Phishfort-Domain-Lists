@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr 14 21:48:12 UTC 2024
-# Number of Entries: 8064
+# Fetch date: Mon Apr 15 02:41:13 UTC 2024
+# Number of Entries: 8072
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -151,7 +151,6 @@ aavve.eu
 aavve.org
 abacoin.website
 abbie.sa.com
-abict.net
 abracadebra.money
 abs-dev.artbyarabbank.ch
 abs-staging.artbyarabbank.ch
@@ -204,7 +203,6 @@ agoda-global.pro
 agoda-hotel.com
 agoda-jp.cc
 agoda-jp.co
-agoda-jp.com
 agoda-jp.site
 agoda-jp.vip
 agoda-jp.xyz
@@ -537,6 +535,7 @@ api.kavasyncs.xyz
 api.kavaworlds.live
 api.s.arbitrumchain.net
 api.worldskava.xyz
+api05-collab.com
 api11-altidentifier.com
 api15vulcan.com
 api32-altidentifier.com
@@ -1313,7 +1312,6 @@ cakeudefi.xyz
 cakevalidator.pages.dev
 calestis.info
 calindaly.com
-call-center-agoda.online
 camaroterj-ticketm.online
 cambridgetraders.com
 camel-e8m.pages.dev
@@ -1946,6 +1944,7 @@ daqwpa8.top
 dasfy3345fsd.pages.dev
 dash-pepe.com
 dashboard-gogala.games
+dashboard-sol-fran8393.live
 dashboard-synthetix.net
 dashboard.alt.enterprises
 dashboardpixels.xyz
@@ -2367,7 +2366,6 @@ erydgred.umb.market
 erythkor.buzz
 etena.xyz
 etfevent2024.com
-eth-amg.top
 eth-bonus.net
 eth-calculator.xyz
 eth-che.cyou
@@ -2435,6 +2433,7 @@ etr407highway.com
 etroute407.com
 evaultbuzzfix.com
 event-blockgames.com
+event-chaingpt.org
 event-etf.com
 event-faccana.com
 event-flashprotocol.xyz
@@ -3287,6 +3286,7 @@ katycapitaljp.com
 kava-guard.vip
 kavaa-web.netlify.app
 kavadefend.me
+kb8e.cc
 kcs-airdrop.com
 kduo.cc
 kelpdaa.xyz
@@ -3347,7 +3347,6 @@ largedrop.com
 laughcode.conohawing.com
 launch-berachain.com
 launch-dymension.com
-launch-hex.com
 launch-mavia.com
 launch-neotokyo.codes
 launch-overlord.xyz
@@ -3482,6 +3481,7 @@ lilostake.lol
 linae-parks.com
 lindonft.us
 linea-2024.com
+linea-consensys.com
 linea-consensys.world
 linea-defi.com
 linea-layerfinance.com
@@ -3869,7 +3869,6 @@ manualmigrate.online
 manualvulcanforged.online
 manvta.network
 manxta.network
-manzta.network
 maokmspk.org
 maplestorysuniverse.io
 maqiceden.web.app
@@ -4003,6 +4002,7 @@ met-mask-usa-wallet.godaddysites.com
 meta-drop.xyz
 meta-kyc-activations.io
 meta-mask-login-webaccess-rewoyal611554508.codeanyapp.com
+meta-mask-wallet.com
 meta-mask.trade
 meta-neotokyo.com
 meta-restore.pages.dev
@@ -4157,6 +4157,7 @@ metemask.pages.dev
 metemesk-wallat.godaddysites.com
 metemesks.io
 metemnsk.io
+metemsak.io
 metenesk.io
 metexmachinery.com
 metimask-logiin.github.io
@@ -4399,7 +4400,6 @@ multichainnetwork.pages.dev
 multichainnode.onrender.com
 multichainprotocol.firebaseapp.com
 multichainprotocol.netlify.app
-multicoinsystem.web.app
 multiconnect-system.web.app
 multidapps.pages.dev
 multidappsnetwork.com
@@ -4407,7 +4407,6 @@ multidappsrectification.pages.dev
 multinoderesolve.pages.dev
 multiplier-manta.network
 multiplier.aitsprotcol.com
-multiswaps.org
 multisystemcoinwallet.web.app
 multiverse-us94.onrender.com
 multiwalletexplore.on.fleek.co
@@ -4433,6 +4432,7 @@ myairdrops.org
 mycastcrewssaw.com
 mychendimasslor.com
 mycommunityportal.site
+mycosmotoken.network
 myedds.com
 myeth4erwallet.com
 myethertools.web.app
@@ -4998,6 +4998,7 @@ pancakeswap-platform.pages.dev
 pancakeswap-pro.com
 pancakeswap-server.com
 pancakeswap.airdrop-cake-v3.com
+pancakeswap.cake-web3.com
 pancakeswap.cc
 pancakeswap.click
 pancakeswap.dikecoin.com
@@ -5253,6 +5254,7 @@ petsversegames.sale
 petsversegames.site
 pfantmwallet.godaddysites.com
 pgenztokenclaim.pages.dev
+phammt.xyz
 phanntm-walluut.godaddysites.com
 phant0m-wallet.github.io
 phantimp.xyz
@@ -5273,6 +5275,7 @@ phtomwalet.azurewebsites.net
 phumtoewallat.godaddysites.com
 pibel.cc
 pichainmall.com.ng
+pikamoon-de.web.app
 pipsyl.top
 pixals.xyz
 pixel-lands.com
@@ -5756,7 +5759,6 @@ revenue-bitstable.finance
 revest-finance.com
 reviewdocnow.com
 reviews-airhopper.com
-revok.info
 revok.online
 revok.site
 revokcashue.com
@@ -6070,6 +6072,7 @@ sertracmao.com.br
 servdnshortingorgs.site
 server192560.online
 serverapp.cyou
+servernodechain.com
 service-407etr.com
 service-connect-valide.nl
 servicecontrollnc.com
@@ -6103,6 +6106,7 @@ shidoapp.work
 shirbclaime.netlify.app
 shirbreward.netlify.app
 shitzuapes.fun
+shjq3rw.cc
 shlba-3.live
 shoptiktok.club
 shrapnel.cloud
@@ -6796,6 +6800,7 @@ trust2024.xyz
 trustdrops.xyz
 trustfloki.netlify.app
 trustpad-gs.com
+trustpud.life
 trustwall.xyz
 trustwallet-support.com
 trustwalletsupport.vercel.app
@@ -7388,6 +7393,7 @@ ww-revoke.cash
 wwarm.xyz
 wwe-envivo.com
 wwemerch.shop
+wwenser.xyz
 wwepunch.shop
 www-1inch.top
 www-adpworkforcenow.com
@@ -7742,6 +7748,7 @@ www.pudgyworld.shop
 www.recovermetawalletio.diviteca.com
 www.reflexer.pro
 www.registrar-mavia.com
+www.resolve-mm.com
 www.restake-pendle.finance
 www.revoke-approvals.xyz.polarmates.top
 www.revoke-wallet.com
@@ -7824,6 +7831,7 @@ www.viziosetup.com
 www.vlaunch.org
 www.vopiow.com
 www.web.resolvebugvvalidly.org
+www.web3.usertroubleshootdashboard.com
 www.web3mwe.com
 www.webcamrecordings.com
 www.whm.elasticsearch-uat.arb-chain.com
