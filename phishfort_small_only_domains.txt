@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 08:23:08 UTC 2024
-# Number of Entries: 8089
+# Fetch date: Mon Apr 15 08:32:41 UTC 2024
+# Number of Entries: 8082
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -938,7 +938,6 @@ basedbrett.xyz
 baseswaap.top
 batmansol.com
 baycarepatientportal.net
-bbexpro.xyz
 bbl-get.com
 bbsyncs.pages.dev
 bckrockgbtc.com
@@ -1151,8 +1150,6 @@ bluefishing.buzz
 blueprints.fi
 blueseanice.com
 blur-drop.claims
-blur-season-3-airdrop.pages.dev
-blurairdrop.pages.dev
 blurioo.github.io
 blurnftgroup.com
 blurprotocol.us
@@ -1264,6 +1261,7 @@ burakalpaslan.cc
 burnmintopensea.firebaseapp.com
 burnmua.build
 bursapimapen.com
+butterfieldportal.com
 buy.scottyai.org
 buy1inch.org
 buzz-bsquared.store
@@ -3349,7 +3347,6 @@ kyc.ledger-online.net
 l-s-co-il.com
 l1cloudhaut.com
 l2-blast.buzz
-l2-blast.io
 labs.pixelmon.tech
 lakesldecontrols.com
 landverify.xyz
@@ -3392,7 +3389,6 @@ launchpad-qubic.com
 launchpad-sharpnel.com
 launchpad-starknet.top
 launchpad.register-trias.one
-launchpad.seedify.link
 launchpad.solhero.org
 launchpadangle.net
 launchpaddapp.eu
@@ -5557,7 +5553,6 @@ quests-superverse.com
 quests-treasure.trading
 quests-zora.network
 quests-zora.trading
-queuedappsync.pages.dev
 quickdirectoryfilchart.pages.dev
 quickswap-io.events
 quicksyncdapps.pages.dev
@@ -6008,7 +6003,6 @@ satoshivn.io
 sautikenya.com
 savm-app.net
 savmtoken.net
-sawfnd.top
 sawox.com
 scalling-fees.org
 scallop-airdrop-claim.com
@@ -6834,7 +6828,6 @@ tu3.us
 tulip-app.one
 tvl-chain.link
 twilio-hr.com
-two.solanamobile.com
 twt.airpuds.top
 twt.multipuds.top
 txaq.cc
