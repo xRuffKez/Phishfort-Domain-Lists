@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 13:15:33 UTC 2024
+# Fetch date: Mon Apr 15 13:23:18 UTC 2024
 # Number of Entries: 8095
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2045,7 +2045,6 @@ defisentry.net
 defisentry.pages.dev
 defispot.app
 defisrhino.net
-defitrader-coin.io
 defiwebchains.org
 deflexseax.xyz
 defuny.cc
@@ -4128,6 +4127,7 @@ metamaskweb.keplrwalletweb.com
 metamaskxtension.github.io
 metamaskz.ink
 metamassk.cc
+metamastesk.azurewebsites.net
 metamasuak.azurewebsites.net
 metamasusak.azurewebsites.net
 metamasx.xyz
