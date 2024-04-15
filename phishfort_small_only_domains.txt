@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 16:25:58 UTC 2024
+# Fetch date: Mon Apr 15 16:32:53 UTC 2024
 # Number of Entries: 8104
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1971,7 +1971,6 @@ dbrsco.org
 dbrscotd.com
 dbrsfin.com
 dbrsfin.net
-dbrspty.com
 dddow.com
 dddx.cnxunkewang.vip
 de-fi.events
@@ -4197,6 +4196,7 @@ metrsamasknig.azurewebsites.net
 metsafnmaske.azurewebsites.net
 metsfghmaskus.azurewebsites.net
 metsk.app
+mettaaammsk.azurewebsites.net
 mettaumaskev.azurewebsites.net
 mettvcmaske.azurewebsites.net
 metumask-llog-inn.godaddysites.com
