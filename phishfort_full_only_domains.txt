@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 15:52:05 UTC 2024
-# Number of Entries: 108121
+# Fetch date: Mon Apr 15 16:33:16 UTC 2024
+# Number of Entries: 108134
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -12835,6 +12835,7 @@ blacknativebeauty.com
 blacknodes.org
 blackrockbtc-etf.org
 blackrockfund.xyz
+blacksabbathmerch.com
 blacksprut.com
 blackstation-puma.com
 blackstation.mintyoursnfts.net
@@ -24877,6 +24878,7 @@ dbrsco.org
 dbrscotd.com
 dbrsfds.com
 dbrsfin.com
+dbrsfin.net
 dbrsfx.cc
 dbrsfx.com
 dbrsfxs.com
@@ -37791,6 +37793,7 @@ hardwalletvault.store
 hardware-store-usa.com
 hardware.metamask.tools
 hardwaregiftairdrop.netlify.app
+hardymerch.com
 harmankardon.com.ph
 harmonize-info.com
 harmonize-web.net
@@ -40114,6 +40117,7 @@ infospacedex.xyz
 infotesla.io
 infotesla.pro
 infounitedhealthgroup.us
+infoweb3.ru
 infrastructure.bincom.net
 infsec0.com
 infura-api.com
@@ -52695,6 +52699,7 @@ metsmsk.ink
 metsmskslnowneco.work.gd
 mett-aaa-mask_logjjin.godaddysites.com
 metta_mesk_login8.godaddysites.com
+mettaaammsk.azurewebsites.net
 mettaamasklog.azurewebsites.net
 mettaaskwalet.godaddysites.com
 mettabltkubs-com.1gb.ru
@@ -54328,6 +54333,7 @@ more-token.com
 moreair.top
 morefreebitcoin.com
 morganwallen-merch.com
+morganwallenshirt.store
 morketplace-axieinfinity.com
 morlton.net
 morning.planetough.best
@@ -54974,6 +54980,7 @@ murakamiflowerskaikai.xyz
 murakamiflowersofficial.top
 murakaniflowers.co
 murakkamiflowers.web.app
+murconseil.com
 murinft.live
 murphygroupltd.co.uk
 mus-special-event.web.app
@@ -66382,6 +66389,7 @@ pancakeswapen.com
 pancakeswapen.finance
 pancakeswaper.space
 pancakeswapering.fun
+pancakeswapertoday.xyz
 pancakeswaperud.fun
 pancakeswapes.com
 pancakeswapes.company
@@ -79013,6 +79021,7 @@ shobaswp.com
 shockwave-finance.site
 shockwaves.web3fast.net
 shonenjunk.online
+shop-morganwallenmerch.com
 shop-nanox.com
 shop-playboicarti.com
 shop-trezor.info
@@ -82535,6 +82544,7 @@ successful-usdt.com
 successful-vip.com
 successful-weth.com
 successfulbridge.website
+successfulminingtrade.co
 suchiappswap.tk
 suchicwap.tk
 sucoslim.blogspot.com
@@ -86516,6 +86526,7 @@ top-deals.pro
 top-ethereum.com
 top-ethereum.info
 top-ethereum.net
+top-payrollservices.com
 top-radiant.com
 top-satoshivm.io
 top.marketclaim.top
@@ -102033,6 +102044,7 @@ www.paxfuly.ltd
 www.paxiful.com
 www.paxonline.online
 www.paxosdapp.co
+www.paxosweb.top
 www.paxsecurity-paxful.com
 www.paxue.top
 www.paxxfull.shop
@@ -102159,6 +102171,7 @@ www.playstationoi.com
 www.pltumb.com
 www.pluscex.io
 www.plxf4l.fun
+www.pmaxw.com
 www.pmooncoln.com
 www.pndc0x.com
 www.pnoocoin-swap.us
