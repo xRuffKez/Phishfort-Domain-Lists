@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 03:46:54 UTC 2024
-# Number of Entries: 108069
+# Fetch date: Mon Apr 15 04:14:53 UTC 2024
+# Number of Entries: 108071
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -8210,6 +8210,7 @@ asx-exs-trade.com
 asx-growthcapital.com
 asx-market.com
 asx-martdeskeia.com
+asx-tradeco.co
 asx-tsdkgt.com
 asx-vip.com
 asx.am
@@ -97803,6 +97804,7 @@ www.asxcoinic.com
 www.asxcrypto.net
 www.asxcryptoo.com
 www.asxhk7.com
+www.asxhk8.com
 www.asxhkd1.com
 www.asxice.top
 www.asxidn.com
