@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 08:32:56 UTC 2024
-# Number of Entries: 108089
+# Fetch date: Mon Apr 15 08:42:34 UTC 2024
+# Number of Entries: 108091
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1524,6 +1524,7 @@
 7xfwglj.cc
 8-collab-land.pro.1-collab-land.pro
 811c6338.aa7a82058237000860386781.workers.dev
+827032971.pages.dev
 8452783472364-profile-update-unitedairlinesemployee.pages.dev
 862221.selcdn.ru
 88.usdt5678.top
@@ -46244,6 +46245,7 @@ lopbamk.site
 lopbent.site
 lopbetn.site
 lopcalbitcoins.com
+lopetoken.com
 lopezgarciaabogados.com
 lopixy.blogspot.com
 lopnetx.site
