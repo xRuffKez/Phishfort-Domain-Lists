@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 04:39:35 UTC 2024
-# Number of Entries: 8079
+# Fetch date: Mon Apr 15 04:53:42 UTC 2024
+# Number of Entries: 8080
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1538,6 +1538,7 @@ claim.paalai.mobi
 claim.padgy.xyz
 claim.pancakesswap.fi
 claim.pancakeswap.cfd
+claim.pendle.solutions
 claim.renqapp.live
 claim.retikapps.com
 claim.riftswap.net
@@ -1817,7 +1818,6 @@ cryptoairdropclaim.com
 cryptohopperclaim.com
 cryptoinfosec.net
 cryptopepedrops.com
-cryptopro.vip
 cryptos-rnantas.com
 cryptotech.pages.dev
 cryptoundeeds.com
@@ -7204,6 +7204,7 @@ web3-phantom.net
 web3-phemex.com
 web3-portfolio.pro
 web3-raydium.com
+web3-revokecash.com
 web3-ronin.com
 web3-shibaswap.com
 web3-shibaswap.xyz
