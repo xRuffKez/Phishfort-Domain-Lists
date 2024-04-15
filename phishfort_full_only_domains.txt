@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 00:02:34 UTC 2024
-# Number of Entries: 108056
+# Fetch date: Mon Apr 15 03:46:54 UTC 2024
+# Number of Entries: 108069
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -16289,6 +16289,7 @@ chainrunners-fremint.xyz
 chainrunners.mint-living.com
 chains-arbitrum.info
 chains-connect.com
+chains-gpt.net
 chains-migrate.online
 chains-optimism.com
 chains.authsyncontracts.com
@@ -21616,6 +21617,7 @@ cryair.xyz
 cryotoplanesv3.com
 cryp-protectbtc.surf
 cryp-to.us
+crypain.xyz
 crypexchanger.com
 crypfixprotocol.xyz
 cryponium.info
@@ -31871,6 +31873,7 @@ event-arbitrum.org
 event-axieinfinity.xyz
 event-blockgames.com
 event-blur.site
+event-chaingpt.org
 event-chainlink.org
 event-chiliz.xyz
 event-circle.net
@@ -49232,6 +49235,7 @@ meta-mask-support.netlify.app
 meta-mask-supports.netlify.app
 meta-mask-wallet-security.web.app
 meta-mask-wallet.94-102-63-67.plesk.page
+meta-mask-wallet.com
 meta-mask-wallet.online
 meta-mask.app
 meta-mask.art
@@ -55454,6 +55458,7 @@ myconnectsdapp.online
 myconnectwallect.com
 myconnectwalletdapp.online
 mycosmospay.com
+mycosmotoken.network
 mycronoshub.com
 mycryipto.com
 mycryiptowaliet.com
@@ -65053,6 +65058,7 @@ pancakeswap.budgetcranetrucks.com
 pancakeswap.bz
 pancakeswap.ca
 pancakeswap.cagaileohophoa.com
+pancakeswap.cake-web3.com
 pancakeswap.cakedrops.org
 pancakeswap.cash
 pancakeswap.cc
@@ -69613,6 +69619,7 @@ phaintomwalle.godaddysites.com
 phaintum-wall_it.godaddysites.com
 phaintum-wallets.godaddysites.com
 phala.app
+phammt.xyz
 phamnomwallet-ioo.godaddysites.com
 phamntom.app
 phamtanwallet.godaddysites.com
@@ -70211,6 +70218,8 @@ pihksales.tech
 piikamoon-presale.com
 pika-protocol.org
 pikamon.on
+pikamoon-de.web.app
+pikamoon-icu.web.app
 pikamoon.farm
 pikamoon.icu
 pikamoon.ink
@@ -86464,6 +86473,7 @@ top-ethereum.info
 top-ethereum.net
 top-radiant.com
 top-satoshivm.io
+top.marketclaim.top
 top.tgbkt8888.com
 top1inch.com
 top4h5.cjpqi.top
@@ -87489,6 +87499,7 @@ trustpool.info
 trustppad.top
 trustprotocol.info
 trustprotocol.online
+trustpud.life
 trustpud.xyz
 trustr-wallet.com
 trustrealaid.online
@@ -96660,6 +96671,7 @@ wwefanhop.com
 wwegames.online
 wwemerch.shop
 wwenft.org
+wwenser.xyz
 wwepk.com
 wwepunch.shop
 wwereplicabelts.com
@@ -102647,6 +102659,7 @@ www.renproject-io.org
 www.rerilivipa.tk
 www.reservationmhi.com
 www.resetmultibridge.com
+www.resolve-mm.com
 www.resolver.in
 www.restake-pendle.finance
 www.restore-walletconnect.pancakeswap-firmware.online
