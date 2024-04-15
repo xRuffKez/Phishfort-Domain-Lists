@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 07:32:07 UTC 2024
-# Number of Entries: 108083
+# Fetch date: Mon Apr 15 08:32:56 UTC 2024
+# Number of Entries: 108089
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4679,6 +4679,7 @@ amazy.pw
 amazyapp.online
 ambetterhealth.pl
 ambientt.finance
+ambires-event.com
 ambitefinance.com
 ambitefinance.eu
 amblade.me
@@ -15214,6 +15215,7 @@ butfl63.com
 butterfieldgroups.com
 butterfieldkyc.com
 butterfieldon.com
+butterfieldportal.com
 butterfieldprivate.com
 butterfieldtechnology.com
 buxff-163.com
@@ -24075,6 +24077,7 @@ dappsfi.online
 dappsfinance.xyz
 dappsfirsti.com
 dappsfix.pages.dev
+dappsfixed.pages.dev
 dappsfixer.online
 dappsfixerweb.42web.io
 dappsfixes.com
@@ -37695,7 +37698,9 @@ h5.appreve.com
 h5.asxar.com
 h5.btkui188.cn
 h5.cointaurus.com
+h5.newscryptoio.com
 h5.ppancakeswap.info
+h5.ptldxjfu.com
 h5.skcoin.top
 h5.ttmall.in
 h8f7d60iky7t7.com
@@ -37833,6 +37838,7 @@ haunted-space.live
 hauntingfittingboastmachine--297954.repl.co
 haus-alpenrose.com
 hausphases.live
+hava-coin.vercel.app
 havas-aso.com
 havas-shop.com
 havas06.com
@@ -53660,6 +53666,7 @@ mmap.cyi168.com
 mmap.etokens.in
 mmap.matemasks.download
 mmapplicationhubs.pages.dev
+mmapplicationshub.pages.dev
 mmask.org
 mmeaatamaskslog.azurewebsites.net
 mmeatamammssks.azurewebsites.net
@@ -87929,7 +87936,6 @@ twlilo.net
 twmnftcollectibles.com
 two-factor-metamask.io
 two.ethanmana.top
-two.solanamobile.com
 twolandstoken.live
 twoon-muelt-treacs.yolasite.com
 twrectify.com
