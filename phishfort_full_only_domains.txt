@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 14:23:36 UTC 2024
-# Number of Entries: 108112
+# Fetch date: Mon Apr 15 14:32:26 UTC 2024
+# Number of Entries: 108113
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -25782,6 +25782,7 @@ deficlaimingairdropandrewards.online
 deficlaimmint.herokuapp.com
 deficoinbasewallet.com
 deficoinresolve.site
+deficoinsolutions.netlify.app
 deficolab.land
 deficollab.com
 deficollab.org
