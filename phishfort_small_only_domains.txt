@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 15:15:20 UTC 2024
-# Number of Entries: 8095
+# Fetch date: Mon Apr 15 15:22:46 UTC 2024
+# Number of Entries: 8094
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1610,7 +1610,6 @@ cliffordchancelaw.net
 cliffordchanceuk.online
 clintexmigration.tech
 cliqueop.com
-clmjup.xyz
 cloud-base-dapp.vercel.app
 cloudinry.net
 clrscr.net
@@ -3231,7 +3230,6 @@ jup-e.com
 jup-evm.com
 jup-start.com
 jup-test-46s.pages.dev
-jup.red
 jup005.com
 jup111.com
 jup12.com
@@ -4043,6 +4041,7 @@ metamainnetfix.netlify.app
 metamank.io
 metamaok.cn
 metamaok.com
+metamasauk.azurewebsites.net
 metamasbdfbcbs.com
 metamasbdfbcv.com
 metamasc-apps.com
