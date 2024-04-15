@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 07:14:07 UTC 2024
-# Number of Entries: 8084
+# Fetch date: Mon Apr 15 07:21:57 UTC 2024
+# Number of Entries: 8085
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1780,6 +1780,7 @@ cornerdrop.org
 cornerpunks.org
 corporativojohnson.com
 corporativolear.com
+cosmos-networks.net
 coti.xcoindrop.top
 cov.us-mia-1.linodeobjects.com
 cow-swap.app
