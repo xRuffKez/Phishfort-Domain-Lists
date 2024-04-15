@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 16:03:28 UTC 2024
-# Number of Entries: 8095
+# Fetch date: Mon Apr 15 16:15:55 UTC 2024
+# Number of Entries: 8104
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1073,6 +1073,7 @@ bks-at.com
 bks-partsners.com
 blackrockbtc-etf.org
 blackrockfund.xyz
+blacksabbathmerch.com
 blackyfantom.pro
 blanchefashions.shop
 blast-airdrop-io.site
@@ -1969,6 +1970,7 @@ dbdefi-discover.com
 dbrsco.org
 dbrscotd.com
 dbrsfin.com
+dbrsfin.net
 dbrspty.com
 dddow.com
 dddx.cnxunkewang.vip
@@ -2881,6 +2883,7 @@ handshakehns.web.app
 hannaanderssonkids.com
 happyskellies.com
 hardwaregiftairdrop.netlify.app
+hardymerch.com
 harmankardon.com.ph
 hashbnb.com
 hava-coin.vercel.app
@@ -3046,6 +3049,7 @@ inaallert.com
 incsribe.app
 infiniteworks.net
 infosa.net
+infoweb3.ru
 ing-autorizza-cliente.it
 ing-bank.info
 ing-de-acces.com
@@ -3157,7 +3161,6 @@ jitocoins-network.com
 jitodrop.net
 jizzx.b4t.to
 jjup.ag
-jkyr.pro
 joblessassistancenetwork.com
 joblessassistanceportal.com
 joblessassistanceportal.net
@@ -3857,7 +3860,6 @@ mantax.pages.dev
 mantcnetwcrk.com
 mantda.network
 mantea.network
-mantiaa.network
 mantka-network.pics
 mantla.online
 mantle.claiming-link.site
@@ -4366,6 +4368,7 @@ moonbeams-web.com
 moonbeams-web3.com
 moonsama.tech
 moonwel.finance
+morganwallenshirt.store
 morossnet.xyz
 moshcuoss.com
 mot-qatargov.net
@@ -4426,6 +4429,7 @@ multiverse-us94.onrender.com
 multiwalletexplore.on.fleek.co
 multiwalletsystem.web.app
 mumucoin.org
+murconseil.com
 murphygroupltd.co.uk
 musicyandex.ru
 muskswap.pages.dev
@@ -5029,6 +5033,7 @@ pancakeswapairdrop-event.finance
 pancakeswapairdrop.com
 pancakeswapairdropevent.finance
 pancakeswapcrypto.com
+pancakeswapertoday.xyz
 pancakeswapfiinance.xyz
 pancakeswapfinance-gg3.pages.dev
 pancakeswapfinances.pages.dev
@@ -6453,6 +6458,7 @@ strknet.network
 strkprimary.pics
 subqueryfoundation-claim.vercel.app
 subsquid.network
+successfulminingtrade.co
 sueta777.pages.dev
 sui-airdrop.one
 sui-network.mom
@@ -6761,6 +6767,7 @@ ton.x-wallet.top
 tonclaim.online
 tonevecher.com
 tool-orb.web.app
+top-payrollservices.com
 top-satoshivm.io
 top.marketclaim.top
 topprice-line.com
@@ -7749,6 +7756,7 @@ www.pandoshi.net.bakery-swap.com
 www.paradigmagbi.ru
 www.paxful.instenpay.com
 www.paxfulmoderater.com
+www.paxosweb.top
 www.pcs-farmv3.com
 www.pemanagement.org
 www.penguinrandomshouse.com
@@ -7761,6 +7769,7 @@ www.perps-wasabi.xyz
 www.perpswasabi.xyz
 www.personalles-accesoscolombia.online
 www.pfizer.i.ng.sba-sales.com.ng
+www.pmaxw.com
 www.pork-event.net
 www.portal-ait.tech
 www.portalcoin.join-airdrop.com
