@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 20:03:00 UTC 2024
-# Number of Entries: 8104
+# Fetch date: Mon Apr 15 20:23:09 UTC 2024
+# Number of Entries: 8107
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -335,6 +335,7 @@ airdrop.mfi.expert
 airdrop.modenetwork.xyz
 airdrop.nibiru-web3.com
 airdrop.orbiterfinancial.com
+airdrop.pancakswaps.finance
 airdrop.reportwisely.shop
 airdrop.rest
 airdrop.riftswap.net
@@ -1419,6 +1420,7 @@ checkaml.fun
 checker-whole.app
 cheelee.io-5000-usd-air.info
 chendimassachoist.com
+chevroletshopdrive.ws
 chevropromoo.com
 childporn.umb.market
 chimpzee-claim.pages.dev
@@ -3047,7 +3049,6 @@ inaallert.com
 incsribe.app
 infiniteworks.net
 infosa.net
-infoweb3.ru
 ing-autorizza-cliente.it
 ing-bank.info
 ing-de-acces.com
@@ -4729,6 +4730,7 @@ nvidiagroot.tech
 nvidiaint.shop
 nw6.us
 ny9.us
+nydig.org
 nyurbanonli.com
 nzwinz.com
 o2-cert.com
@@ -4987,6 +4989,7 @@ pancakecrypto.com
 pancakedrop.com
 pancakedrop.xyz
 pancakedrops.com
+pancakedropsclaim.vercel.app
 pancakeeswap.com
 pancakeeswap.finance
 pancakefinances-swap.pages.dev
@@ -6457,7 +6460,6 @@ strknet.network
 strkprimary.pics
 subqueryfoundation-claim.vercel.app
 subsquid.network
-successfulminingtrade.co
 sueta777.pages.dev
 sui-airdrop.one
 sui-network.mom
@@ -7564,6 +7566,7 @@ www.decentralize-metis.com
 www.decntralnd.one
 www.decora-cabinets.com
 www.degen.hakunamatatasol.com
+www.deramavia.com
 www.dex-bitconnect.lol
 www.dropmanta.com
 www.du.normbyte.online
