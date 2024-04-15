@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 22:41:59 UTC 2024
-# Number of Entries: 8111
+# Fetch date: Mon Apr 15 23:03:07 UTC 2024
+# Number of Entries: 8107
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -583,7 +583,6 @@ app-metamask-kyc-auth.com
 app-metamsak-io-conditionapp.netlify.app
 app-metis.io
 app-moonhq.com
-app-os-mo-sis.org
 app-pancakesvap.github.io
 app-pandora.com
 app-parcl.site
@@ -3725,7 +3724,6 @@ mandatory-multi-factor-authenticator.us-ord-1.linodeobjects.com
 mandta.network
 manfta.network
 mangta.network
-manhta.network
 manjta.network
 mankta.network
 manlla.network
@@ -3763,7 +3761,6 @@ manta-network.click
 manta-network.cloud
 manta-network.de
 manta-network.icu
-manta-network.life
 manta-network.mobi
 manta-network.zone
 manta-networks.mom
@@ -3958,7 +3955,6 @@ mcnabhi.github.io
 mdexcloudapp.xyz
 mducksspace.com
 mduresources.mamawannago.com
-me.fareflow.xyz
 me.truefair.xyz
 me9.us
 meatmesk.com
@@ -5767,7 +5763,6 @@ resolve-captcha.com
 resolveprotocols.pages.dev
 resolverhq.web.app
 resolverpanel.pages.dev
-resolverprotocol.pages.dev
 restake-fi.xyz
 restake-keelpdao.xyz
 restoremetaweb.pages.dev
@@ -5831,6 +5826,7 @@ revokecashv2.ru
 revokecashv2.xyz
 revokecontract.xyz
 revokee.digital
+revokeecash.com
 revokenode.com
 revokes-cash.xyz
 revokeu.cash
