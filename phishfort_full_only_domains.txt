@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 14:52:29 UTC 2024
-# Number of Entries: 108114
+# Fetch date: Mon Apr 15 15:03:15 UTC 2024
+# Number of Entries: 108116
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -52721,6 +52721,7 @@ mettamosk.com
 mettamxk-wallet.godaddysites.com
 mettamxk-walltii.godaddysites.com
 mettasmasks.com
+mettaumaskev.azurewebsites.net
 mettenaskweeitlet.godaddysites.com
 mettianeskweltlet.godaddysites.com
 mettlewallet.com
@@ -69251,6 +69252,7 @@ pendole.finance
 pengsolana.co
 pengsolana.org
 pengsolana.xyz
+penguin-verlagsgruppe.de
 penguincoin.xyz
 penguinrandomh0use.com
 penguinrandomhouseglobal.com
