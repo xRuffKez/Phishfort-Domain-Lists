@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 07:22:13 UTC 2024
-# Number of Entries: 108082
+# Fetch date: Mon Apr 15 07:32:07 UTC 2024
+# Number of Entries: 108083
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -95111,6 +95111,7 @@ web3-fixtool-connect.live
 web3-free.com
 web3-galaxydigital-ai.com
 web3-galxe.com
+web3-games.web.app
 web3-getting.pw
 web3-io-updating.jeepgarageve.com
 web3-io.ca
