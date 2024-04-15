@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 08:42:01 UTC 2024
-# Number of Entries: 8082
+# Fetch date: Mon Apr 15 08:51:58 UTC 2024
+# Number of Entries: 8081
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -240,8 +240,6 @@ agodanewcomplaint.com
 agodaonline.com
 agodaranking.top
 agodatikethotelcom.masukmobilee.de
-agodawork.top
-agodawork.world
 agodaycs.com
 agodaycs.org
 agveah.cc
@@ -1306,6 +1304,7 @@ cakepiexyz.pages.dev
 cakes-reward.xyz
 cakespie.net
 cakespie.org
+cakesw-offers.com
 cakeswap.me
 cakeswp.app
 cakeudefi.biz
@@ -4965,6 +4964,7 @@ pancake.svap.us.com
 pancake.swap.primaprofits.com
 pancake.vinaweb.app
 pancake888.com
+pancakecrypto.com
 pancakedrop.com
 pancakedrop.xyz
 pancakedrops.com
@@ -7004,7 +7004,6 @@ verificheck.com
 verified-portalgaming.pages.dev
 verify-assets.xyz
 verify-collab.net
-verify-collabland.org
 verify-matrica.vercel.app
 verify-vulcan.net
 verify-wallets.com
