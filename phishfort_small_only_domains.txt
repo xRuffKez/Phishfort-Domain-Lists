@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 15:52:14 UTC 2024
+# Fetch date: Mon Apr 15 16:03:28 UTC 2024
 # Number of Entries: 8095
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3876,7 +3876,6 @@ manualmetarestore-39f.pages.dev
 manualmigrate.online
 manualvulcanforged.online
 manvta.network
-manxta.network
 maokmspk.org
 maplestorysuniverse.io
 maqiceden.web.app
@@ -6125,6 +6124,7 @@ shirbreward.netlify.app
 shitzuapes.fun
 shjq3rw.cc
 shlba-3.live
+shop-morganwallenmerch.com
 shoptiktok.club
 shrapnel.cloud
 shrapnel.life
