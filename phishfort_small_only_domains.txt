@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 02:41:13 UTC 2024
-# Number of Entries: 8072
+# Fetch date: Mon Apr 15 03:46:46 UTC 2024
+# Number of Entries: 8076
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1397,6 +1397,7 @@ chainlisti-oi.top
 chainlogserver.pages.dev
 chainlsiit.com
 chainmulticoin.pages.dev
+chains-gpt.net
 chains-optimism.com
 chainsextension.com
 chainsprotocol.com
@@ -1804,6 +1805,7 @@ crpytoundeads.com
 crtoadznew.com
 crv.fi
 crvfi.pro
+crypain.xyz
 cryptexchange.vip
 crypto-communities.com
 crypto-farm-trust.com
@@ -5276,6 +5278,7 @@ phumtoewallat.godaddysites.com
 pibel.cc
 pichainmall.com.ng
 pikamoon-de.web.app
+pikamoon-icu.web.app
 pipsyl.top
 pixals.xyz
 pixel-lands.com
@@ -6743,6 +6746,7 @@ tonclaim.online
 tonevecher.com
 tool-orb.web.app
 top-satoshivm.io
+top.marketclaim.top
 topprice-line.com
 torenado.cash
 tornado.foundation
