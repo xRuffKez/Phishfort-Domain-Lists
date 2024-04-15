@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 05:52:10 UTC 2024
-# Number of Entries: 108075
+# Fetch date: Mon Apr 15 06:25:50 UTC 2024
+# Number of Entries: 108079
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1316,6 +1316,7 @@
 5000-eth.paperplane.io
 5000.ethereumgive.com
 50000usdt.cc
+50000usdt.top
 5000btc.gift
 5000btc.net
 5000btc.org
@@ -28053,6 +28054,7 @@ dxxale.app
 dxxsale.app
 dxxsate.app
 dyafa.app
+dydconnect.click
 dyddx.pro
 dydex.io
 dydlx.site
@@ -80043,6 +80045,7 @@ snft-seedify.online
 snfts-seedify.online
 sningusali.info
 snipe.finance
+sniperapp.cc
 snlcbcx.site
 snlday.top
 snllet.io
@@ -85688,6 +85691,7 @@ three.stonesmoon.top
 threekingdom.site
 thrillistrottentomatoes.dedyn.io
 thrivethrone.cn
+thrusters.fi
 thrustertoken.com
 thtatoken.org
 thuglife.one
