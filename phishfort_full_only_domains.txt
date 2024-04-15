@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 20:15:13 UTC 2024
-# Number of Entries: 108143
+# Fetch date: Mon Apr 15 21:42:08 UTC 2024
+# Number of Entries: 108149
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3184,6 +3184,8 @@ agodawealth.com
 agodawork.com
 agodawork.cyou
 agodawork.pw
+agodawork.top
+agodawork.world
 agodaworkbench.com
 agodaycs.com
 agodaycs.org
@@ -3737,6 +3739,7 @@ airdrop.optimismlabs.net
 airdrop.optimisn.foundation
 airdrop.orbiterfinancial.com
 airdrop.oxalus.dev.xantus.dev
+airdrop.pancakswaps.finance
 airdrop.pe-pe.vip
 airdrop.pepe-coin.bz
 airdrop.pyths.foundation
@@ -52097,6 +52100,7 @@ metamasuak.azurewebsites.net
 metamasusak.azurewebsites.net
 metamasvk.com
 metamasx.xyz
+metamasyk.azurewebsites.net
 metamaszk.com
 metamat.xyz
 metamate.biz
@@ -63972,6 +63976,7 @@ pancake-airdrops.com
 pancake-app.org
 pancake-bsw.finance
 pancake-cake.site
+pancake-claim.com
 pancake-crypto.one
 pancake-crypto.online
 pancake-exchange.arhamsoft.org
@@ -83513,6 +83518,7 @@ swiftprotocol.net
 swiftrectifier.com
 swiftrectifier.online
 swiftresolve.info
+swiftresolvedapps.pages.dev
 swiftsolutioners.org
 swiftspark.ddns.net
 swiftstation.net
