@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 07:41:57 UTC 2024
+# Fetch date: Mon Apr 15 07:52:15 UTC 2024
 # Number of Entries: 8086
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2560,7 +2560,6 @@ fixedfloat.win
 fixedtloat.com
 fixedtsfloats.com
 fixetdflaot.com
-fixetdflot.com
 fixetflaot.com
 fixold2ndbnk.mypsx.net
 fixsbusiness.mx
@@ -2863,6 +2862,7 @@ gzfd4.cc
 h1.otctron.com
 h5.517kuku.com
 h5.asxar.com
+h5.ptldxjfu.com
 h8fl00.cc
 ha3netchexsalast.com
 hajjdomestic-sa.info
@@ -2880,6 +2880,7 @@ happyskellies.com
 hardwaregiftairdrop.netlify.app
 harmankardon.com.ph
 hashbnb.com
+hava-coin.vercel.app
 havas-aso.com
 havas-shop.com
 havas123.com
@@ -3896,7 +3897,6 @@ maskbymetamask.io
 maskclaim.top
 maskclaims.info
 maskcoin.pages.dev
-maskofficial.xyz
 masktoken.cash
 masktokens.com
 mass-gov.dta-connect-hhs.com
