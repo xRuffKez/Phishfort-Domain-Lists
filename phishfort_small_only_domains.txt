@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 14:14:56 UTC 2024
-# Number of Entries: 8095
+# Fetch date: Mon Apr 15 14:32:14 UTC 2024
+# Number of Entries: 8093
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -432,7 +432,6 @@ alshayagrooup.shop
 alshayagrooup.store
 alshayagroup.blog
 alshayagroup.shop
-alshayagroupae.company.site
 alshayagroupk-s.company.site
 alshayagroupom.company.site
 alshayamegastore.com
@@ -2030,6 +2029,7 @@ defiaave.net
 defibulls.org
 deficake-web3.com
 defichain-rewards.pages.dev
+deficoinsolutions.netlify.app
 defidydx.app
 defifix.pages.dev
 defihug.online
@@ -2562,7 +2562,6 @@ fixbugmigrate.pages.dev
 fixedfloat.win
 fixedtloat.com
 fixedtsfloats.com
-fixetdflaot.com
 fixetflaot.com
 fixold2ndbnk.mypsx.net
 fixsbusiness.mx
@@ -2890,6 +2889,7 @@ havas-shop.com
 havas123.com
 havas6.com
 havas668.com
+havascake.com
 haven1.vercel.app
 hbar-distribution.com
 hca-healthcare.com
@@ -5404,6 +5404,7 @@ procch.net
 procchfx.com
 prof1111.pages.dev
 profit-dydx.com
+project-0xconnect.pages.dev
 project-lucky-hamster.com
 project-manta.com
 project-openseaclick.vercel.app
@@ -5736,7 +5737,6 @@ registry-monad.xyz
 rehapp.xyz
 reiki-web3go.xyz
 rektcoineth.org
-rektfilprompt.pages.dev
 rektfrog.com
 rektnow.com
 reloadsula.pages.dev
@@ -7550,7 +7550,6 @@ www.dappsresolver.com
 www.dartya.cc
 www.dashboard.superset.live.ethshapella.com
 www.deafah-in.amazonintl.in
-www.debenhams-ae.com
 www.decentralize-metis.com
 www.decntralnd.one
 www.decora-cabinets.com
@@ -7600,7 +7599,6 @@ www.genesis-dimension.xyz
 www.genesisdmension.xyz
 www.get-metis.com
 www.getben.xyz
-www.git.home.hostmaster.coingecko.hatsuqat.com
 www.gitlab.auth.root.dappradar.is
 www.globalpaymentsvtw.com
 www.globalpaymentsyttww.com
