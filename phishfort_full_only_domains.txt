@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 11:42:05 UTC 2024
-# Number of Entries: 108101
+# Fetch date: Mon Apr 15 12:32:21 UTC 2024
+# Number of Entries: 108103
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -20531,6 +20531,7 @@ connect.collab.si
 connect.collabb.land
 connect.collabiand.com
 connect.collabland-web.com
+connect.collabverify.xyz
 connect.dapconnectlive.com
 connect.dapp-links.com
 connect.dapp-links.net
@@ -100694,6 +100695,7 @@ www.metamask.live
 www.metamask.lol
 www.metamask.mhigroup-eg.com
 www.metamask.minetisfy.com
+www.metamask.page
 www.metamask.pet
 www.metamask.press
 www.metamask.sgs-dental.ge
