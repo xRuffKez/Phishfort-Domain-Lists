@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 09:02:52 UTC 2024
-# Number of Entries: 8081
+# Fetch date: Mon Apr 15 09:14:53 UTC 2024
+# Number of Entries: 8087
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -16,6 +16,7 @@
 0x4ee15erf903e2634abe0e.com
 0xprotocol.site
 1-88y.pages.dev
+1-eu9.pages.dev
 1-inch.asia
 1-inch.network
 1-inch.xyz
@@ -240,6 +241,8 @@ agodanewcomplaint.com
 agodaonline.com
 agodaranking.top
 agodatikethotelcom.masukmobilee.de
+agodawork.cyou
+agodawork.pw
 agodaycs.com
 agodaycs.org
 agveah.cc
@@ -2337,6 +2340,7 @@ eng-injective.net
 enkryptix.com
 enlist-altlayer.com
 enlist-dymension.xyz
+enlist-mantanetwork.pages.dev
 enlisted-portalgaming.com
 enrolaltlayer.pages.dev
 enroll-bitcoincats.world
@@ -4723,6 +4727,7 @@ ob-app.com
 obamacareenrollment.org
 oberbank-ag.myfreesites.net
 oberbankat.com
+obtain-manta.pages.dev
 ocbre.com
 ocdpool.xyz
 oceantoken.net
@@ -4918,6 +4923,7 @@ pacific-bridge.mantaly.network
 pacific-manta.network
 pacificmanta.vercel.app
 pacificparadigm.org
+pacifics-manta-network.pages.dev
 pacificswap.app
 pacmoon.cash
 pacmoon.games
