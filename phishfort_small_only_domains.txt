@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 15:32:27 UTC 2024
-# Number of Entries: 8094
+# Fetch date: Mon Apr 15 15:42:15 UTC 2024
+# Number of Entries: 8096
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1492,6 +1492,7 @@ claim-pandoshi.web.app
 claim-pendlefinance.com
 claim-pepev2.com
 claim-poly.com
+claim-poodlinu.pages.dev
 claim-pork.pages.dev
 claim-portalcoin.xyz
 claim-qanplatform.net
@@ -1523,7 +1524,6 @@ claim.beefmeme.xyz
 claim.bitetfs.net
 claim.celatisx.top
 claim.chainngpt.com
-claim.cibzdackz.xyz
 claim.dydxexchang.com
 claim.dymensionall.club
 claim.get-ton.com
@@ -2805,6 +2805,7 @@ gmnt.org
 gmpnol.info
 gmvendorbillinginterest.com
 gmws.eu
+gnfymrm14.ukit.me
 gnosis.gift
 go-pyth.network
 go.ator-dashboard.com
@@ -3717,7 +3718,6 @@ mamtanetworkbonus.net
 manbta.network
 manda-network.com
 mandatory-multi-factor-authenticator.us-ord-1.linodeobjects.com
-mandgportfolio.com
 mandta.network
 manfta.network
 mangta.network
@@ -4216,6 +4216,7 @@ micro3.app
 microsfrategy.com
 microsoft-verify.ofisuu.com
 microsoftedge.pancakeswap.finance.expolorer.im
+microstrategy-promo.gift
 mid-american-energy.customersupports.network
 migrate-aeggs.pro
 migrate-dapp.pro
@@ -4376,6 +4377,7 @@ motion-lndustries.com
 motionindustries.info
 motionlndustries.com
 moz-dia-meviplota.com
+mrestore.vercel.app
 mrgn-alphadao.web.app
 mrhcok.local-user.com
 mrhcpayroll.local-user.com
