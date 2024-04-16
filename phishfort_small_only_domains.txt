@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 14:52:00 UTC 2024
-# Number of Entries: 8017
+# Fetch date: Tue Apr 16 15:03:04 UTC 2024
+# Number of Entries: 8018
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2318,7 +2318,6 @@ enlist-dymension.xyz
 enlist-mantanetwork.pages.dev
 enlisted-portalgaming.com
 enrolaltlayer.pages.dev
-enroll-bitcoincats.world
 enstoken.net
 entangle-fi.org
 enteerpriserentacar.org
@@ -4089,9 +4088,11 @@ metamcsk.cc
 metamcsk.io
 metameak.com
 metameask-walat.godaddysites.com
+metamesk-walate.godaddysites.com
 metamesk.cc
 metamesk.me
 metamesk.xyz
+metamiaskklog-iin.godaddysites.com
 metamosk.cc
 metamsak-info-update.netlify.app
 metamsak-io-update-usage.netlify.app
@@ -4229,7 +4230,6 @@ minnimi.com.ua
 minootv.com
 mint-brewriders.com
 mint-nakamigos.vercel.app
-mint-nft.co
 mint-opeansea.web.app
 mint-satoshivm.io
 mint-swap.buzz
@@ -7511,6 +7511,7 @@ www.ethgasrefund.com
 www.ethswe.com
 www.etokensolana.aysarr.in
 www.event-xai.games
+www.evercoreglobal.com
 www.evm-monad.xyz
 www.evoypremium.com.br
 www.faq-legal.com
