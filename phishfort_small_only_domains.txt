@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 21:52:22 UTC 2024
-# Number of Entries: 8032
+# Fetch date: Tue Apr 16 22:03:04 UTC 2024
+# Number of Entries: 8033
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -7529,6 +7529,7 @@ www.event-xai.games
 www.evercoreglobal.com
 www.evm-monad.xyz
 www.evoypremium.com.br
+www.express-tollroute407.com
 www.faq-legal.com
 www.fegtokenmigrate.com
 www.fixedfloaflt.com
