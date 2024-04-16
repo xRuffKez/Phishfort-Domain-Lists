@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 15 23:41:59 UTC 2024
-# Number of Entries: 8107
+# Fetch date: Tue Apr 16 00:10:25 UTC 2024
+# Number of Entries: 8080
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -296,7 +296,6 @@ airdrop-magic.icu
 airdrop-magiceden.com
 airdrop-manta.com.dashboard-bananagun.io
 airdrop-mantaa.pages.dev
-airdrop-mantachain.org
 airdrop-mavia.com
 airdrop-meta.io
 airdrop-nibi.com
@@ -357,7 +356,6 @@ airdropmainnetprotocol.web.app
 airdropmanta.top
 airdropmanta.xyz
 airdropmantaexchange.com
-airdropmantanet.org
 airdropmantatoken.com
 airdropmetamask.xyz
 airdropmexcnews.top
@@ -616,7 +614,6 @@ app.1inch.lc
 app.1insh.io
 app.1lnch.mom
 app.airrtm.com
-app.airtm01.com
 app.airtm08.com
 app.airtm10.com
 app.airtm11.com
@@ -734,7 +731,6 @@ aramex-delivery.me
 aramexame.com
 aramexglobalexpress.com
 aramexservicevktb.world
-arb-events.org
 arb.airpuds.top
 arb.claimscrypto.top
 arb.t-wallets.top
@@ -1244,7 +1240,6 @@ bsc-pancakeswap.pages.dev
 bssmt.pro
 btc-etftoken.web.app
 btcetf-token.net
-btcetftoken.launch-pad.site
 btcminetrix.vercel.app
 btctokensfree.online
 btsemarket.cc
@@ -1677,7 +1672,6 @@ coinswiftresolve.web.app
 cointiger-airdrop.com
 cointransaction.finance
 coinversenetwork.site
-coinzgroup.org
 col.lobs.land
 colabland.bond
 colabllandsyncapp.com
@@ -1946,7 +1940,6 @@ dappsyncrecovery.pages.dev
 dapptest-mindnetwork.firebaseapp.com
 dapptest-mindnetwork.web.app
 dappwalletnode.pages.dev
-dappweb.vercel.app
 dapradar.eu
 dapsecure.reslveprotcapp.com
 daqwpa8.top
@@ -2231,7 +2224,6 @@ dymension.financial
 dymension.pages.dev
 dymensiondrop.com
 dymensiondrop.eu
-dymesions.xyz
 dynamicvisionmanagement.com
 dynamix-alu.com
 dyvmemsion.xyz
@@ -2736,7 +2728,6 @@ get-mantanetwork.xyz
 get-metamask.io
 get-metis.com
 get-neotokyo.codes
-get-ocean.org
 get-raidy.click
 get-raidy.top
 get-rewards.info
@@ -2928,7 +2919,6 @@ hellothisisatest.com
 help-407-etr.com
 help-407etr.com
 help-avalanche.site
-help-docs-gmx.info
 help-tiktok.com
 help.fixingerror.io
 helpdoc-avalache.online
@@ -3029,7 +3019,6 @@ illuvium-community.sbs
 illuvium-connect.com
 illuvium-mint-beta.online
 illuvium.gift
-illuvium.io-claim.world
 illuviumliveairdrops.co
 illuviumpassairdrops.com
 illuviumrewards.io
@@ -3404,7 +3393,6 @@ launchs-inscribe.com
 launchs-pads.app
 laundchpad.xyz
 laurentian-verif.com
-layer-3.app
 layer-3.cyou
 layer-network.com
 layer-swap.xyz
@@ -3802,7 +3790,6 @@ mantaa-network.org
 mantaairdropevent.com
 mantaapps.network
 mantabluerewards.com
-mantachain-airdrop.org
 mantachainairdrop.org
 mantaclaim.digital
 mantaclaims.digital
@@ -4426,7 +4413,6 @@ multinoderesolve.pages.dev
 multiplier-manta.network
 multiplier.aitsprotcol.com
 multisystemcoinwallet.web.app
-multiverse-us94.onrender.com
 multiwalletexplore.on.fleek.co
 multiwalletsystem.web.app
 mumucoin.org
@@ -4474,7 +4460,6 @@ myob.network
 myob.tax
 mypivalidations.com
 myria-game.com
-myro-airdrop.xyz
 myrobase.com
 mysecond.mypsx.net
 mysofinance.net
@@ -4580,7 +4565,9 @@ new.stonlix.xyz
 new.suithefrensi.xyz
 newidex.live
 newmont.live
+newmontassetss.com
 newmontemining.com
+newmontfunds.com
 newmontvip.com
 newparadigm-manta-login.network
 newparadigm-manta.events
@@ -4713,7 +4700,6 @@ norwegianget.net
 notcoin-drop.com
 notcoin-network.wiki
 notcoin.art
-notcoin.gift
 notcoin.global
 notcoin.host
 notionalfinance.org
@@ -4908,7 +4894,6 @@ origintracdappcom.com
 orivium.trading
 orlandoplasmacenters.com
 osaic-wisconsin.com
-osmosis-zone.mom
 osmososis-zone.xyz
 otcsea.app
 otsea.gift
@@ -4943,7 +4928,6 @@ pacnoon.co
 pacnoon.net
 pacnoon.org
 padchain-gpt.org
-paidnetwork.app
 pair-explorerzerion0i.pages.dev
 pair-token-zerion0i.pages.dev
 palmai-tech.web.app
@@ -5320,7 +5304,6 @@ pkinksle.com
 pl.xpiym.shop
 pl.zkndv.club
 planet-zksync.nfts2.me
-planetsrefi.airdrop.cfd
 plantagmseminuevos.com.mx
 plantajohnsoncontrols.com
 plantaseminuevos.com
@@ -6171,7 +6154,6 @@ signups-on1force.com
 signups-pandora.build
 signups-pixels.com
 signups-trias.org
-siiiydragons.com
 silent-arie.com
 silver-monstera-c958a3.netlify.app
 simplenow.xyz
@@ -6389,8 +6371,6 @@ stardexairdrop.com
 stargate-app.pages.dev
 stargate-finance.io
 stargate.finance.kli.gg
-stargate.gifts
-stargategold.trading
 stark-event.com
 starkclaim.pro
 starkclaim.services
@@ -6755,7 +6735,6 @@ tokens-satoshivm.io
 tokens-zk.link
 tokensairdrops.com
 tokensfree2024.com
-tokensight.vip
 tokensynced.pages.dev
 toll.a407info.com
 tolls-407express.com
@@ -7560,7 +7539,6 @@ www.dapphyperblast.io
 www.dappsdebugger.net
 www.dappsresolver.com
 www.dartya.cc
-www.dashboard.superset.live.ethshapella.com
 www.deafah-in.amazonintl.in
 www.decentralize-metis.com
 www.decntralnd.one
@@ -7723,7 +7701,6 @@ www.mynorway.net
 www.mypepsico.live
 www.mypethooligengame.com
 www.nasxcoins.com
-www.new-paradigmanta.network
 www.newmontvip.com
 www.newparadigmamanta.network
 www.node-protocol.net
@@ -7768,7 +7745,6 @@ www.penguinrandomshouse.com
 www.pepacoinairtoday.info
 www.pepechain.info
 www.pepeoncrack.fun
-www.pepeuwu-dapp.pro
 www.per-empower.com.affiliateadvantageventures.com
 www.perps-wasabi.xyz
 www.perpswasabi.xyz
@@ -7854,7 +7830,6 @@ www.useneuxs.org
 www.usenxeus.org
 www.ustaylorsshop.com
 www.v2-manta.network
-www.velocemeter.xyz
 www.velocimter.xyz
 www.verify-collab-land.com
 www.verify-collabland.com
@@ -7877,7 +7852,6 @@ www.windy.network
 www.wregul.com
 www.wwwdymension.xyz
 www.x-swap.link
-www.xai.moe
 www.xrpsolana.com
 www.ylouch.com
 www.ypredictai.xyz
@@ -8049,7 +8023,6 @@ zk.scrllpunkface.icu
 zkdash.net
 zkecosystem.org
 zkeztrade.com
-zkfaer.io
 zkfair.cyou
 zkfair.events
 zkfair.fo
