@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 00:32:32 UTC 2024
-# Number of Entries: 8063
+# Fetch date: Tue Apr 16 01:00:26 UTC 2024
+# Number of Entries: 8051
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -254,7 +254,6 @@ ai-decentraldapp.pages.dev
 ai-smadecentrelized.pages.dev
 ai-smartdecentrelised.pages.dev
 ai-smartfixdecentralised.pages.dev
-aiaegis.xyz
 aibaoinsurance.com
 aicoinex-amm.com
 aidexw.com
@@ -2083,7 +2082,6 @@ dexsuperdoge.pages.dev
 dexsynage.web.app
 dextools.bz
 dextools.events
-dextpool.xyz
 dfacows.net
 dfx-stablecoin.web.app
 dg1ph.pro
@@ -2749,7 +2747,6 @@ gfe3ox.csb.app
 gftj7.pro
 ghaph.com
 ghnrryfd.umb.market
-ghostdag.site
 gift-altlayer.io
 gift-dydx.net
 gift-hex.com
@@ -2823,7 +2820,6 @@ grit-finance.com
 grok15erc20claim.pages.dev
 grokceo.website
 grokcoinlab.xyz
-groknewyear.com
 grt.altcoinspads.top
 grt.altscoin.top
 grt.t-wallets.top
@@ -4541,7 +4537,6 @@ new-pyth.network
 new.babbara.xyz
 new.blockchainbets-vault.com
 new.ethiner.xyz
-new.farepath.club
 new.nugpoint.com
 new.popeysm.lol
 new.popeysm.xyz
@@ -4553,6 +4548,7 @@ newmont.live
 newmontassetss.com
 newmontemining.com
 newmontfunds.com
+newmontspltd.com
 newmontvip.com
 newparadigm-manta-login.network
 newparadigm-manta.events
@@ -4714,7 +4710,6 @@ oberbank-ag.myfreesites.net
 oberbankat.com
 obtain-manta.pages.dev
 ocbre.com
-ocdpool.xyz
 oceantoken.net
 ocmordinals.xyz
 ocmtoys.xyz
@@ -5203,7 +5198,6 @@ pcyloclty.com
 peapodsfinance.app
 peapodsfinanceweb.com
 peapodsstake.finance
-pearswap.xyz
 pendle-flnance.net
 pendle.claims
 pendle.farm
@@ -6155,7 +6149,6 @@ skasoff5th02.com
 skasoff5th03.com
 skinsmonkey.combine.tundragon.com
 skipton-login.com
-sklpool.site
 skyborneslegacy.com
 skymavis-axie.com
 skymavis.cfd
@@ -6163,7 +6156,6 @@ skynet229.godaddysites.com
 skywardsemirates.com
 skywardsglobal.com
 slavic402wws.com
-sleeplessai.dev
 slerflabs.com
 slerfrewards.net
 slgnup-dymension.com
@@ -6524,7 +6516,6 @@ syncfarm.pages.dev
 synchronizerpanel.com
 synchronizewallets.on.fleek.co
 synckavva.netlify.app
-syncpool.xyz
 syncprotocols.pagen.dev
 syncsactivate.firebaseapp.com
 syncsactivate.web.app
@@ -6555,7 +6546,6 @@ taichinhbidv.com
 taiko.io-c.org
 taiko.org-t.co
 takeitnow.pro
-tamadoge.top
 tamairdrop.netlify.app
 taob-ai.com
 taodan2014.com
@@ -6706,6 +6696,7 @@ to.dataui.online
 to.uidista.online
 token-berachain.com
 token-blast.com
+token-dife.quest
 token-entangle.com
 token-illuvium.com
 token-mainnetdapp.com
@@ -6910,7 +6901,6 @@ usdcollect.com
 usdcpayout.com
 usdctip.net
 usdfi-git-kyberswap-widget-tbot.vercel.app
-usdmint.co
 usdonbsc.tech
 usdt-drop.top
 usdt-payback.com
@@ -7480,7 +7470,6 @@ www.birdeye.exchange
 www.birdeye.markets
 www.birdeye.trade
 www.blockchainbets-vault.com
-www.blur.com.ru
 www.bonkinu.co
 www.bonkmassol.online
 www.bonus-stake.us.mammonmarketing.com
@@ -7813,7 +7802,6 @@ www.useneuxs.org
 www.usenxeus.org
 www.ustaylorsshop.com
 www.v2-manta.network
-www.velocimter.xyz
 www.verify-collab-land.com
 www.verify-collabland.com
 www.verify-collabland.xyz
