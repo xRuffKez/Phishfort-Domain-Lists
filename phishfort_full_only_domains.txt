@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 07:52:29 UTC 2024
-# Number of Entries: 108219
+# Fetch date: Tue Apr 16 08:03:31 UTC 2024
+# Number of Entries: 108221
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -38255,6 +38255,7 @@ heymints.xyz
 heytotom.site
 hfsptoken-promogive.com
 hft-blur.io
+hft-fyfc.com
 hg-shaw.com
 hgfz.cuifengpaper.com
 hhy9yy56bffqmo6o5tif.6j42fsx.ru
@@ -95418,6 +95419,7 @@ web3defi495.top
 web3defi7.top
 web3defi96.top
 web3defiesdapps.live
+web3defietf.vip
 web3defiexplorer.com
 web3defiproject.com
 web3dexconnect.com
