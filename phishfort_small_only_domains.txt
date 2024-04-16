@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 06:15:51 UTC 2024
-# Number of Entries: 8009
+# Fetch date: Tue Apr 16 06:26:27 UTC 2024
+# Number of Entries: 8007
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -608,7 +608,6 @@ app-xpet.tech
 app.1iah.cc
 app.1inch.lc
 app.1insh.io
-app.1lnch.mom
 app.airrtm.com
 app.airtm08.com
 app.airtm10.com
@@ -932,7 +931,6 @@ batmansol.com
 baycarepatientportal.net
 bbl-get.com
 bbsyncs.pages.dev
-bckrockgbtc.com
 bdb7.cc
 beacon-usdt.shop
 beanzoff.com
@@ -1943,6 +1941,7 @@ dashbprd-charli3.live
 dashliquid.com
 data-trustwallet.com
 dataownership-verification.vercel.app
+dataownership-verify-open.vercel.app
 davi.pse-ssl.win
 daviplatanotific.webcindario.com
 daviplataportal.webcindario.com
@@ -2929,7 +2928,6 @@ home.brickmark.club
 home.earnclout.com
 home.ethiner.xyz
 home.itsearn.biz
-home.lamtrue.xyz
 home.monsprotocol.cc
 home.smilewik.xyz
 home.stonfin.biz
