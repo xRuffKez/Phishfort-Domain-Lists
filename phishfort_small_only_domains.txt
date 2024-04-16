@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 10:03:01 UTC 2024
-# Number of Entries: 8024
+# Fetch date: Tue Apr 16 10:15:14 UTC 2024
+# Number of Entries: 8021
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -704,7 +704,6 @@ appsintercessor-server.live
 appssafe.global
 appsuperform.xyz
 appsuperverse.org
-appsweb-server.pages.dev
 appsweb-server787.pages.dev
 appsyncsmartversal.pro
 apptokenmint.com
@@ -2248,9 +2247,7 @@ earnifiapp.xyz
 earnifinance.xyz
 earningdrop.dev
 earnm.org
-earns-drop.net
 earns-drop.org
-easrndrop.net
 easyfixwallet.pages.dev
 easyfixwallets.pages.dev
 ebayshop-us.com
@@ -2945,7 +2942,6 @@ home.suithefrens.link
 home.suithefrensi.biz
 home.suithefrensi.xyz
 home.tenincon.xyz
-home.truefair.xyz
 hopexchange.top
 hopper-rating.com
 hopper.travsrv.com
@@ -4959,6 +4955,7 @@ pancakelps.com
 pancakelps.org
 pancakeprotectors.pages.dev
 pancakesawpifnance.com
+pancakesfinances-swap.pages.dev
 pancakesswap.in
 pancakesswap.info
 pancakesswap.io
