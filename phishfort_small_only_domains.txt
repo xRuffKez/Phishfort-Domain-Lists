@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 10:33:08 UTC 2024
-# Number of Entries: 8019
+# Fetch date: Tue Apr 16 11:02:51 UTC 2024
+# Number of Entries: 8021
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -310,7 +310,6 @@ airdrop-zerolend.network
 airdrop-zetablockchain.com
 airdrop-zkfair.network
 airdrop-zksync.com
-airdrop-zksync.network
 airdrop.activechain.io
 airdrop.altaver.xyz
 airdrop.altlayer.ai
@@ -1288,6 +1287,7 @@ cakeswp.app
 cakeudefi.biz
 cakeudefi.com
 cakeudefi.xyz
+cakeui-dife.com
 cakevalidator.pages.dev
 calestis.info
 calindaly.com
@@ -1574,6 +1574,7 @@ clickopenboxnft.vercel.app
 client.plataformainteractivebrokers.com
 clifardchancegroups.com
 cliffardchance.com
+clifford-chance-consulting.com
 clifford-chance-holding.com
 clifford-chance-llp.uk
 clifford-chance-w.com
@@ -3686,7 +3687,6 @@ manbta.network
 manda-network.com
 mandatory-multi-factor-authenticator.us-ord-1.linodeobjects.com
 mandta.network
-manfta.network
 mangta.network
 manjta.network
 mankta.network
@@ -6672,6 +6672,7 @@ to.uidista.online
 token-berachain.com
 token-blast.com
 token-dife.club
+token-dife.digital
 token-dife.quest
 token-entangle.com
 token-illuvium.com
@@ -7459,6 +7460,7 @@ www.bscpad-launchpad.live
 www.burakglobalfirm.com
 www.butterfieldoffshore.com
 www.bybit-award.io
+www.c592.top
 www.cake-reward.shop
 www.cakes-reward.xyz
 www.catholicf-la.org
