@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 20:42:26 UTC 2024
-# Number of Entries: 8020
+# Fetch date: Tue Apr 16 20:52:15 UTC 2024
+# Number of Entries: 8021
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2648,6 +2648,7 @@ games-gala-xx.com
 games-mavia.com
 games-maviacom.pages.dev
 gamesgalina.shop
+gamestop-memes.web.app
 gaming-superverse.com
 garbage-dapp.click
 gas-claim-3ag1r.github.io
