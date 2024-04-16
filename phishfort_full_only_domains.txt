@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 10:52:24 UTC 2024
-# Number of Entries: 108233
+# Fetch date: Tue Apr 16 11:03:07 UTC 2024
+# Number of Entries: 108236
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -15454,6 +15454,7 @@ caketoken.net
 cakeudefi.biz
 cakeudefi.com
 cakeudefi.xyz
+cakeui-dife.com
 cakevalidation.finance
 cakevalidations.finance
 cakevalidator.pages.dev
@@ -17948,6 +17949,7 @@ cliffchnclegal.com
 cliffchnlaw.com
 cliffchnllp.com
 cliffchnrecovery.com
+clifford-chance-consulting.com
 clifford-chance-holding.com
 clifford-chance-llp.uk
 clifford-chance-uk.co
@@ -98476,6 +98478,7 @@ www.bxsstaking.com
 www.bybit-award.io
 www.bybuff163.ink
 www.bytick.com
+www.c592.top
 www.ca-bnbbridge.com
 www.ca-galagames.com
 www.cake-lottery.finance
