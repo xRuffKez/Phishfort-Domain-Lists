@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 06:52:05 UTC 2024
-# Number of Entries: 108200
+# Fetch date: Tue Apr 16 07:42:23 UTC 2024
+# Number of Entries: 108218
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -10035,6 +10035,7 @@ baby1inch.app
 babyapeclubcollection.web3-airdrop.net
 babyapesclub.net
 babybalibsc-promogive.com
+babyboba.xyz
 babyboredapeboatclub.com
 babycasper-promogive.com
 babycatgirl-promogive.com
@@ -11584,6 +11585,7 @@ binance-dexbounty.info
 binance-dexonline.info
 binance-dextestnet.site
 binance-dx.org
+binance-earn.app
 binance-eth-competition.com
 binance-eth-giveaways.online
 binance-eth.club
@@ -20613,6 +20615,7 @@ connect.v1sync.live
 connect.vali-date.site
 connect.walletmultilink.click
 connect.watchkava.xyz
+connect.web3authenticatehub.com
 connect.xn--1ich-c3a.app
 connect.xn--colab-0sa.land
 connect.xn--collb-jra.land
@@ -27753,6 +27756,7 @@ droidpd.pro
 droidpd.tech
 dronevuela.com
 drop-aave.com
+drop-alphax.web.app
 drop-apecoin.com
 drop-apeterminal.com
 drop-azuki.app
@@ -32032,6 +32036,7 @@ events-optimism.net
 events-pancakeswap.finance
 events-pancakeswap.finance-uagfinklsdiocopzpnz.top
 events-pandora.com
+events-pendle.fi
 events-polkadot.network
 events-portalgaming.com
 events-pudgypenguins.net
@@ -33330,6 +33335,7 @@ firmware-inch.exchange
 firmware-meta.site
 firmware-metamask.repair
 firmwareaccess.app
+firmwareledger.com
 firo-promogive.com
 first-bank.online
 first-braved.info
@@ -33991,6 +33997,7 @@ floyx.claims
 flrdtrustline.xyz
 flrmeshworkdapp.us
 flrstmet.com
+flrtrustlinedaos.digital
 fltxil.com
 fluf-burrows.world
 fluf-burrows.xyz
@@ -37862,6 +37869,7 @@ hasbullanft.xyz
 hasbullapencilnft.live
 hash-pack.com
 hash.uniswap.team
+hashai-airdrop.com
 hashbnb.com
 hashboss001.live
 hashbridge.org
@@ -41494,6 +41502,7 @@ jupiters-web3.app
 jupiters-web3.net
 jupiters-web3.org
 jupjup.lat
+jupjup2.com
 jupjup8.com
 jupjup9.com
 juppbox.biz
@@ -48929,6 +48938,7 @@ meleadash.com
 meleapulse.com
 melektan.site
 melkamask.ru
+mell-coin.web.app
 mellacenm.site
 mellerspl.site
 mellobsc.com
@@ -52913,6 +52923,7 @@ mfa-expiration-notification-authservices2fa.us-ord-1.linodeobjects.com
 mfacebook-help-300317487599303.web.app
 mfcsons.com
 mfers-claim.art
+mferscoin.io
 mfi.expert
 mfidao.club
 mfidex.space
@@ -55243,6 +55254,7 @@ mutameskwall8tv.godaddysites.com
 mutamisklogui.godaddysites.com
 mutant-collar.com
 mutant-dao.com
+mutant-dao.web.app
 mutant-dao.xyz
 mutant-hideout.xyz
 mutant-hound.com
@@ -61808,6 +61820,7 @@ onlineeducationfoundation.com
 onlinegmxio.com
 onlinehelp-sync.ml
 onlinehelpsyncs.com
+onlinelaunchdappsvalidate.vercel.app
 onlinelocalhost.space
 onlinemass.online
 onlinemetamask.camdvr.org
@@ -83139,6 +83152,7 @@ sushigiveaway.com
 sushii-swaep.info
 sushiiaswaponline.com
 sushiiswap.net
+sushiiswap.xyz
 sushiivaap.com
 sushiivaap.mom
 sushilogin.blogspot.com
@@ -88039,6 +88053,7 @@ twt.airpuds.top
 twt.altpads500.top
 twt.cryptoinc.top
 twt.multipuds.top
+twt.x-trastpad.top
 twt500.tech
 twtcoin.net
 twtlab.com
@@ -89948,6 +89963,7 @@ usdt.airdrop1.org
 usdt.encryptednetchain.net
 usdt.is
 usdt.legitpaybot.top
+usdt.nz
 usdt.pancakeswep.wang
 usdt.pancakoswap.finance
 usdt.trarchst.com
@@ -103654,6 +103670,7 @@ www.tokensconnect.live
 www.tokensyncnode.com
 www.tokentransfer.xyz
 www.tombfivance.xyz
+www.ton.org-networks.top
 www.tonb.finance
 www.top-layer3.com
 www.topmainconnect.com
@@ -103710,6 +103727,7 @@ www.tronlinkapp.org
 www.tronlliink.org
 www.tronllnk.net
 www.tronplay.xn--mythrwallt-c7a86c5a.com
+www.troyswop.org
 www.truelife.best
 www.trufford.com
 www.trunstwallet.com
