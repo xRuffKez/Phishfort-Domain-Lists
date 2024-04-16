@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 06:42:00 UTC 2024
-# Number of Entries: 8011
+# Fetch date: Tue Apr 16 07:03:54 UTC 2024
+# Number of Entries: 8014
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -605,7 +605,6 @@ app-vulcan.org
 app-whales.market
 app-wormhole.com
 app-xpet.tech
-app.1iah.cc
 app.1inch.lc
 app.1insh.io
 app.airrtm.com
@@ -877,6 +876,7 @@ azukiairdrop.netlify.app
 aîrtm.com
 b2xb.pro
 ba.inletuta.online
+babyboba.xyz
 babydoge-app.xyz
 babydogswap.com.web-app3.cfd
 babygrok-ai.com
@@ -2862,6 +2862,7 @@ harambe-token-ai.web.app
 hardwaregiftairdrop.netlify.app
 hardymerch.com
 harmankardon.com.ph
+hashai-airdrop.com
 hashbnb.com
 hava-coin.vercel.app
 havas-aso.com
@@ -3227,6 +3228,7 @@ jupitercatdet.com
 jupiterexchange.link
 jupiterlaunch.network
 jupiterproject.website
+jupjup2.com
 jupjup8.com
 jupjup9.com
 juppbox.biz
@@ -6878,6 +6880,7 @@ usdt-drop.top
 usdt-payback.net.futurevest.com.au
 usdt-v2.com
 usdt.is
+usdt.nz
 usdt.trarchst.com
 usdt.wine
 usdtairdrop.com
