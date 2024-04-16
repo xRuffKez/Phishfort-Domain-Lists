@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 05:32:19 UTC 2024
-# Number of Entries: 8008
+# Fetch date: Tue Apr 16 06:03:25 UTC 2024
+# Number of Entries: 8009
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1237,7 +1237,6 @@ buildtheenterprise.org
 buildweb3.icu
 buildweb3dev.xyz
 bullsandbearsstore.com
-bullsandblock.com
 bullsync.pages.dev
 bungeeswap.exchange
 bups.pro
@@ -1513,6 +1512,7 @@ claim.celatisx.top
 claim.chainngpt.com
 claim.dydxexchang.com
 claim.dymensionall.club
+claim.ethnafi.world
 claim.get-ton.com
 claim.hundoneth.com
 claim.hundsonsol.com
@@ -1526,6 +1526,7 @@ claim.paalai.mobi
 claim.padgy.xyz
 claim.pancakesswap.fi
 claim.pancakeswap.cfd
+claim.penddle.fun
 claim.pendle.solutions
 claim.renqapp.live
 claim.retikapps.com
@@ -3913,7 +3914,6 @@ mcnabhi.github.io
 mdexcloudapp.xyz
 mducksspace.com
 mduresources.mamawannago.com
-me.truefair.xyz
 me9.us
 meatmesk.com
 mediaflex.live
@@ -6512,6 +6512,7 @@ syngswap.github.io
 synthetixreward.com
 t3ct2s2.pro
 t5nv5.cc
+tabi-chest-claim.vercel.app
 tabsync.pages.dev
 tahodistribution.com
 taichinhbidv.com
@@ -7068,6 +7069,7 @@ wallet-support.vercel.app
 wallet-virtual.net
 wallet-vulcan.xyz
 wallet.browserextension.net
+wallet.ethenafi.cloud
 wallet.launchpadxy.xyz
 wallet.mulltiversx.com
 wallet.orb-crypto.com
@@ -7432,7 +7434,6 @@ www.axiemarketplace.lol
 www.bainxu.com
 www.baoninpingan.com
 www.bcilor.com
-www.bckrockgbtc.com
 www.big-x-drops.top
 www.birdeye.exchange
 www.birdeye.markets
