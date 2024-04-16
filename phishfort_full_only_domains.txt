@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 17:52:19 UTC 2024
-# Number of Entries: 108257
+# Fetch date: Tue Apr 16 18:15:46 UTC 2024
+# Number of Entries: 108259
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -61527,6 +61527,7 @@ ogma.ca
 ogn-airdrops.com
 ohana.beachpark.com.br
 ohantom.app
+ohioaepcorporation.com
 oiceanarts.online
 oicinjury.org
 oidex.market
@@ -79198,6 +79199,7 @@ siemens-energyltd.co.uk
 siemens-healthieer.com
 siemens-healthirneers.com
 siemensenergys.com
+siemensgamesare.top
 siemenshealthieers.com
 sienna.medium.com.ru
 sierra.black
