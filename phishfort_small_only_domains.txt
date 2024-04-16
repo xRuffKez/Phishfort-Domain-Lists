@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 22:33:18 UTC 2024
-# Number of Entries: 8033
+# Fetch date: Tue Apr 16 22:42:02 UTC 2024
+# Number of Entries: 8031
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -641,7 +641,6 @@ app.qirtm.com
 app.raticswap.xyz
 app.refundcoinstake.com
 app.renzoprotocols.net
-app.rnino.fi
 app.solvsprotocol.com
 app.spy-token.io
 app.stonexvip.top
@@ -4545,6 +4544,7 @@ new.stonlix.club
 new.stonlix.xyz
 new.suithefrensi.xyz
 newidex.live
+newmont.live
 newmontassetss.com
 newmontemining.com
 newmontfunds.com
@@ -6100,7 +6100,6 @@ siemensgamesare.top
 signet-gamma.vercel.app
 signetfaucet.vercel.app
 signup-aba.com
-signup-ait.tech
 signup-ancient8.games
 signup-apeterminal.com
 signup-ator.com
@@ -6486,7 +6485,6 @@ swiftdapprotocol.pages.dev
 swiftdappweb.pages.dev
 swiftdefiauth.pages.dev
 swiftmultichainresolve.pages.dev
-swiftnodesresolve.pages.dev
 swiftresolvedapps.pages.dev
 swiftsynced.pages.dev
 swiftsyncrectify.pages.dev
@@ -7128,6 +7126,7 @@ wapprecktconnt.pages.dev
 waprcast.com
 washignton-post.com
 washignton-post.com.gianlucaungaro.it
+washingtonfinancialpost.com
 washingtonpost.in
 washingtonposts.info
 wassies.vip
@@ -7724,7 +7723,6 @@ www.restake-pendle.finance
 www.revoke-approvals.xyz.polarmates.top
 www.revoke-wallet.com
 www.revoke-wallet.net
-www.revoke.expert
 www.revokecash.store
 www.revokecash.us
 www.revokecontract.xyz
