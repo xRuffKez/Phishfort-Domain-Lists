@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 04:15:37 UTC 2024
+# Fetch date: Tue Apr 16 04:25:25 UTC 2024
 # Number of Entries: 8007
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -281,7 +281,6 @@ airdrop-chaln.link
 airdrop-de.fi
 airdrop-defi.online
 airdrop-eesee.com
-airdrop-farcana.com
 airdrop-gomble.app
 airdrop-gomble.digital
 airdrop-info.lol
@@ -300,6 +299,7 @@ airdrop-pepecoin.net
 airdrop-pi.com
 airdrop-starknet.info
 airdrop-toshithecat.com
+airdrop-w-wormhole.vercel.app
 airdrop-wallet-connect.sa9afa.com
 airdrop-wormhoie.vercel.app
 airdrop-wormhole.firebaseapp.com
