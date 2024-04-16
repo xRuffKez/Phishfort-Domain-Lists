@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 09:42:17 UTC 2024
-# Number of Entries: 108229
+# Fetch date: Tue Apr 16 09:52:22 UTC 2024
+# Number of Entries: 108231
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -64232,6 +64232,7 @@ pancakedrop.com
 pancakedrop.live
 pancakedrop.pw
 pancakedrop.xyz
+pancakedropclaim4600.vercel.app
 pancakedrops.com
 pancakedropsclaim.vercel.app
 pancakedwallet.com
@@ -86088,6 +86089,7 @@ token-change.com
 token-claim.net
 token-coingecko.com
 token-conversion.com
+token-dife.club
 token-dife.quest
 token-emrify.com
 token-entangle.com
