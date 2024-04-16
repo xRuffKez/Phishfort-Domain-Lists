@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 04:52:15 UTC 2024
+# Fetch date: Tue Apr 16 05:02:55 UTC 2024
 # Number of Entries: 8008
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -854,6 +854,7 @@ axieinfinite.xyz
 axieinfinitiy.com
 axieinfinity-birthday.com
 axieinfinity-com.com
+axieinfinity-game.ru
 axieinfinity-rewards.com
 axieinfinlty.pages.dev
 axielnfinity.pages.dev
@@ -7540,7 +7541,6 @@ www.holdblur.foundation
 www.hustlegenix.crd.mvu.mybluehost.me
 www.iayerzero-claim.net
 www.ibkrixs.vip
-www.imap.home.hostmaster.coingecko.hatsuqat.com
 www.imtoken-im.team
 www.interactivebroker.live
 www.interactivebrokerstrading.com
