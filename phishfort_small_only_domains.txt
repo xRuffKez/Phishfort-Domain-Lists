@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 07:03:54 UTC 2024
-# Number of Entries: 8014
+# Fetch date: Tue Apr 16 07:16:03 UTC 2024
+# Number of Entries: 8019
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1015,6 +1015,7 @@ billionalr.com
 billmelinda.online
 bimance-airdop.org
 binance-0x51bd6a810bd083c4bab4834a90411c62d04456ce.gunhay.vn
+binance-earn.app
 binance.iconworld.tech
 binancnftcoin.com
 binansce.com
@@ -2446,6 +2447,7 @@ events-befilabs.com
 events-mantanetwork.com
 events-pancakeswap.finance
 events-pandora.com
+events-pendle.fi
 events-polkadot.network
 events-taiko.xyz
 eventspancakeswap.finance
@@ -4170,6 +4172,7 @@ mew.best
 mewwallet.cc
 mewwalletfix.pages.dev
 mfa-expiration-notification-authservices2fa.us-ord-1.linodeobjects.com
+mferscoin.io
 mftx.pro
 mgel.com.br
 mgfryjd.pages.dev
@@ -6780,6 +6783,7 @@ twilio-hr.com
 twt.airpuds.top
 twt.altpads500.top
 twt.multipuds.top
+twt.x-trastpad.top
 txaq.cc
 ubnr.cc
 uehgdsa.com
@@ -7760,6 +7764,7 @@ www.tiktok8.bond
 www.tiktokmall-th.com
 www.toshithecat.org
 www.triplewealthbuilders.com
+www.troyswop.org
 www.trustlimitedinvestment.com
 www.trustwalletdefi.icu
 www.ucem.edu.mx
