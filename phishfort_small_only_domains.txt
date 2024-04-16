@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 20:23:38 UTC 2024
+# Fetch date: Tue Apr 16 20:32:29 UTC 2024
 # Number of Entries: 8019
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -475,7 +475,6 @@ ambientt.finance
 ambires-event.com
 ambitefinance.com
 ambitefinance.eu
-americantowercareers.com
 amexcardspayment.com.idigitalconnect.com
 aminorewards.online
 aml-verify.xyz
@@ -699,7 +698,6 @@ apps-pancakeswap.finance
 apps.multichainspro.com
 appserversdex.network
 appsintercessor-server.live
-appssafe.global
 appsuperform.xyz
 appsuperverse.org
 appsweb-server787.pages.dev
@@ -1266,6 +1264,7 @@ caga-eth.web.app
 cagacrypto-en.web.app
 cake-defiweb3.com
 cake-distribution.net
+cake-magpiexyz.pages.dev
 cake-pies.org
 cake-rewards.online
 cake-swap.co
@@ -1821,7 +1820,6 @@ csagodaonline.masukmobilee.de
 csl-seqirus.com
 cuadrosblangar.es
 cubeexchange.co
-cucmmins.com
 cumminsusa.com
 custom-fender.com
 cwboffshoreonl.com
@@ -2052,7 +2050,6 @@ detma-secure.insystdetmaa.in
 detma.online
 detmassonline.com
 detnmama.com
-dev-dese-mo-gov.pantheonsite.io
 dev-the-metamask-support.pantheonsite.io
 dev.heliuswork.com
 devapp.pages.dev
@@ -2828,7 +2825,6 @@ gt-protocol.trading
 gtmmypayroll.com
 gtoswapportal.pages.dev
 gtprotocol.net
-guitarsbyfender.com
 gulbelt.top
 gunitswiftcommunityswap.com
 gwabagu.pages.dev
@@ -3915,6 +3911,7 @@ mee6appeals.xyz
 meetamaskev.azurewebsites.net
 mefamask.com
 mehrlesenzeitung.com
+meiimask-log-iignin.godaddysites.com
 meleadapp.com
 mell-coin.web.app
 melstroy.by
@@ -3939,6 +3936,7 @@ memelandeth.com
 memelauncher.io
 memes-kombats.web.app
 memeskombats.online
+mentamaklgn.godaddysites.com
 merative.site
 merc404.xyz
 merchantserviceadvisers.com
@@ -3951,6 +3949,7 @@ merlin-chain.com
 merlin.meson.fi
 merlinchain.network
 merlinlayer.app
+mertamasek.azurewebsites.net
 meshjs.net
 meskk.app
 met-mask-usa-wallet.godaddysites.com
@@ -3977,6 +3976,7 @@ metaconfirmed.io
 metadrop-us.com
 metadrop.cloud
 metadrop.dev
+metaemaesk-waleet.godaddysites.com
 metaemaskk-wwallit.godaddysites.com
 metafix.vercel.app
 metaget.xyz
@@ -4106,6 +4106,7 @@ metapass.fyi
 metaportfolioconnect.com
 metarestore.vercel.app
 metareward.top
+metarmaskus.azurewebsites.net
 metasafeguardportfolio.desmarkpremio.com
 metasamasuk.azurewebsites.net
 metasmaslk.azurewebsites.net
@@ -4118,6 +4119,7 @@ metaweb-import.pages.dev
 metawebfix-4.pages.dev
 metazmskloign.github.io
 metbk.app
+meteamassk-weallet.godaddysites.com
 metemask.cc
 metemask.pages.dev
 metemesk-wallat.godaddysites.com
@@ -4126,6 +4128,7 @@ metemnsk.io
 metemsak.io
 metenesk.io
 metexmachinery.com
+metimaasklogiin_us.godaddysites.com
 metimask-logiin.github.io
 metis-eyx.pages.dev
 metis-launchrpad.org
@@ -4141,6 +4144,7 @@ metlifeconsumerservicesinc.store
 metlifeperteinsu.com
 metliferecruitment.com
 metlifevip.com
+metmasknlog.godaddysites.com
 metmaskt.com
 metmsakconditionweb3.netlify.app
 metnmask.io
@@ -4532,7 +4536,6 @@ new.stonlix.club
 new.stonlix.xyz
 new.suithefrensi.xyz
 newidex.live
-newmont.live
 newmontassetss.com
 newmontemining.com
 newmontfunds.com
@@ -6163,7 +6166,6 @@ smartdappnodes.pages.dev
 smartdappsconnect.pages.dev
 smartiayer.io
 smartiayer.org
-smartinchcomp.pages.dev
 smartlayer-drop.com
 smartlayer-drop.net
 smartlayer-drops.com
@@ -6852,7 +6854,6 @@ unstoppabledomains.metaducks.com.ru
 unstoppabledomains.mobi
 unstoppableweb.digital
 unstoppablex.domains
-uonllineprofilleconnectderma.dynamic-dns.net
 update-metamask.pages.dev
 updatedexserver.net
 updatenow.pages.dev
@@ -7850,7 +7851,6 @@ xn--fxadflaot-vpb.com
 xn--fxadfloaot-xub.com
 xn--fxadfloat-05a.com
 xn--fxadfloat-vpb.com
-xn--fxedfiloat-xub.com
 xn--fxedflaot-vpb.net
 xn--fxedflaot-vpbc.com
 xn--fxedflcoat-68a.com
