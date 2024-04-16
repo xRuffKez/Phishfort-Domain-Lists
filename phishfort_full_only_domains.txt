@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 07:42:23 UTC 2024
-# Number of Entries: 108218
+# Fetch date: Tue Apr 16 07:52:29 UTC 2024
+# Number of Entries: 108219
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -44169,6 +44169,7 @@ lido-stake.live
 lido-stake.lol
 lido-stake.site
 lido-stake.space
+lido-stake.vercel.app
 lido-staked-eth-airdrop.firebaseapp.com
 lido-staked-eth-airdrop.web.app
 lido-stakefinance.com
