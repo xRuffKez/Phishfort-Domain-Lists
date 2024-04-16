@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 18:15:46 UTC 2024
-# Number of Entries: 108259
+# Fetch date: Tue Apr 16 18:42:23 UTC 2024
+# Number of Entries: 108262
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -47857,6 +47857,7 @@ manta-mainet.com
 manta-ndn.xyz
 manta-nelwork.org
 manta-netowrk.com
+manta-network-7ct.pages.dev
 manta-network-com.pages.dev
 manta-network.click
 manta-network.cloud
@@ -52264,6 +52265,7 @@ metamsak.net
 metamsak.org
 metamsak.tech
 metamsaklogins.azurewebsites.net
+metamsk-logn-us.godaddysites.com
 metamsk.fun
 metamsk.org
 metamsk.tech
@@ -81284,6 +81286,7 @@ spincat.lucky-mint.live
 spingame.me
 spinine.com
 spinterslands.com
+spirili.com
 spirit.com.ru
 spiritbookingnumber.com
 spiritdrop.space
