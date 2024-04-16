@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 13:42:01 UTC 2024
-# Number of Entries: 8023
+# Fetch date: Tue Apr 16 13:52:13 UTC 2024
+# Number of Entries: 8024
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3692,7 +3692,6 @@ mandta.network
 mangta.network
 manjta.network
 mankta.network
-manlla.network
 manmta.network
 manpta.network
 manranetwcrk.com
@@ -4062,6 +4061,7 @@ metamaskcrypto.com
 metamaskdek.azurewebsites.net
 metamaskes.azurewebsites.net
 metamaskio.cfd
+metamaskio.sbs
 metamaskio.xyz
 metamasklabs.cloud
 metamaskmal.ru
@@ -4682,6 +4682,7 @@ numboost.ru
 nusuk.site
 nusukroadshow.com
 nvenergy.customersupports.network
+nvidia.gives
 nvidiagroot.tech
 nvidiaint.shop
 nviidia.com
