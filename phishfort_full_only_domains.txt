@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 12:32:12 UTC 2024
-# Number of Entries: 108240
+# Fetch date: Tue Apr 16 13:03:44 UTC 2024
+# Number of Entries: 108241
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4068,6 +4068,7 @@ aiweb-decentralized.pages.dev
 aixoinfinity.com
 aj-pad.com
 ajbell-mall.com.ng.swift-pay.site
+ajbell.top
 ajbellsipp.co.uk
 ajiocarts.com
 ajiokart.com
