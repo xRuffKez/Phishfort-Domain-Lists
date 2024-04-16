@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 14:32:26 UTC 2024
-# Number of Entries: 8022
+# Fetch date: Tue Apr 16 14:42:18 UTC 2024
+# Number of Entries: 8021
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3718,7 +3718,6 @@ manta-layer.xyz
 manta-live.com
 manta-mainet.com
 manta-ndn.xyz
-manta-nelwork.org
 manta-netowrk.com
 manta-network-com.pages.dev
 manta-network.click
