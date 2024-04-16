@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 07:42:05 UTC 2024
+# Fetch date: Tue Apr 16 07:52:05 UTC 2024
 # Number of Entries: 8026
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3446,6 +3446,7 @@ lido-g8o.pages.dev
 lido-reward.net
 lido-reward.org
 lido-rewards.pages.dev
+lido-stake.vercel.app
 lido-staking.pages.dev
 lido.fi-swaps.app
 lido.finance.fi.be-drv.com
@@ -4178,7 +4179,6 @@ mfa-expiration-notification-authservices2fa.us-ord-1.linodeobjects.com
 mferscoin.io
 mftx.pro
 mgel.com.br
-mgfryjd.pages.dev
 mh-pharma.com
 miaviia.com
 micro3.app
