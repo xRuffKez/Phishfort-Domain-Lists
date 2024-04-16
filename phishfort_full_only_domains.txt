@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 11:03:07 UTC 2024
-# Number of Entries: 108236
+# Fetch date: Tue Apr 16 11:42:22 UTC 2024
+# Number of Entries: 108238
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3567,6 +3567,7 @@ airdrop-sbg.com
 airdrop-sei.co
 airdrop-sharesgram.com
 airdrop-shikoku.com
+airdrop-site.com
 airdrop-solana.com
 airdrop-sologenic.com
 airdrop-sonm.com
@@ -15230,6 +15231,7 @@ buterinpromo.live
 buterintoday.eu
 butf163.com
 butfl63.com
+butterfield-portal.com
 butterfieldgroups.com
 butterfieldkyc.com
 butterfieldon.com
