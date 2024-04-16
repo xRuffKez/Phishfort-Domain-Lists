@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 14:42:18 UTC 2024
-# Number of Entries: 8021
+# Fetch date: Tue Apr 16 14:52:00 UTC 2024
+# Number of Entries: 8017
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -499,7 +499,6 @@ animalfarm3app.com
 animalia.trading
 animalias.events
 ankr.world
-ap-paymentreceipts.com
 ape-pylh.network
 apechainreload.com
 apecoin-aidrop-claim.codeanyapp.com
@@ -1412,7 +1411,6 @@ chrome.pancakeswap.finance.multichains.live
 chronoforgedeed.xyz
 chronoforgenft.com
 chugsblue.com
-chuimaswergovst.com
 ciaiming.com
 ciel-tower.ae
 ciel-tower.goldpillars.ae
@@ -3186,7 +3184,6 @@ jumper-exchange.live
 jumper-exchange.network
 jumper-exchange.org
 jumper.capital
-jumper.exchangee.net
 jumper.markets
 jumper.trading
 jumperexchange.xyz
@@ -6697,7 +6694,6 @@ ton.org-community.info
 ton.org-newyear.fun
 ton.x-wallet.top
 tonclaim.online
-tonevecher.com
 tool-orb.web.app
 top-payrollservices.com
 top-satoshivm.io
