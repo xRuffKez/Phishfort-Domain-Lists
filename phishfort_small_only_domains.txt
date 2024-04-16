@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 09:42:05 UTC 2024
-# Number of Entries: 8026
+# Fetch date: Tue Apr 16 09:52:12 UTC 2024
+# Number of Entries: 8024
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3086,7 +3086,6 @@ intothebluemanta.org
 intothebluemanta.xyz
 intraconline-instantly.live
 inugonz.com
-investmetlife.com
 invite-blaster.com
 invite-pacmoon.xyz
 invite-pepe.com
@@ -4353,7 +4352,6 @@ msk-airdrop.live
 msmax.vip
 msprogram.biz
 mtamskwalogs.azurewebsites.net
-mtaskx.com
 mtc-speed.web.app
 mtvrs-neotokyo.codes
 muitamask-login.blogspot.com
@@ -4393,7 +4391,6 @@ multinoderesolve.pages.dev
 multiplier-manta.network
 multiplier.aitsprotcol.com
 multisystemcoinwallet.web.app
-multiwalletexplore.on.fleek.co
 multiwalletsystem.web.app
 mumucoin.org
 murconseil.com
@@ -4950,6 +4947,7 @@ pancakeclickclaim02.vercel.app
 pancakecrypto.com
 pancakedrop.com
 pancakedrop.xyz
+pancakedropclaim4600.vercel.app
 pancakedrops.com
 pancakedropsclaim.vercel.app
 pancakeeswap.com
@@ -5442,7 +5440,6 @@ pwe-limited.com
 pwsign.com
 pwtradeco.com
 pxffsite.web.app
-pyro-nft-vercel.pages.dev
 pyrthdex.com
 pyth-claim.web.app
 pyth-web3.org
@@ -6679,6 +6676,7 @@ to.dataui.online
 to.uidista.online
 token-berachain.com
 token-blast.com
+token-dife.club
 token-dife.quest
 token-entangle.com
 token-illuvium.com
