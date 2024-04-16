@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 18:51:58 UTC 2024
-# Number of Entries: 8025
+# Fetch date: Tue Apr 16 19:02:37 UTC 2024
+# Number of Entries: 8018
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1249,7 +1249,7 @@ buzz.bsquareed.online
 bvrefe.pages.dev
 bvuvs.info
 bwflexibiesystems.com
-bybit-gift.space
+by-pay.net
 bypf8bm.pro
 bytedog.pro
 c.qztaiwei.com
@@ -1267,7 +1267,6 @@ caga-eth.web.app
 cagacrypto-en.web.app
 cake-defiweb3.com
 cake-distribution.net
-cake-pie.org
 cake-pies.org
 cake-rewards.online
 cake-swap.co
@@ -2046,7 +2045,6 @@ denelse.com
 denshaven.com
 deplimigration.dev
 desblq-davi.waw.pl
-descontoschevro.com
 descontosgm.com
 descriptionconnect.onrender.com
 deskauthnode.xyz
@@ -2164,7 +2162,6 @@ dorkcoin.fun
 doublediamondwines.co
 dovu-migration.net
 dow-amercas.com
-dowchemical-us.com
 dowchemicals-us.com
 dowunitedstatesusa.com
 dppsradar.pages.dev
@@ -4735,7 +4732,6 @@ olympus.gift
 olympusv2.net
 omasgovst.com
 omega.sc-stake.com
-omegaenergy.co
 omg.altscoin.top
 on-407etr.com
 on-chainfix.com
@@ -6583,7 +6579,6 @@ the-ethereum-trader-app.net
 the-one-staking.cc
 the-one-staking.com
 the-wormhole.buzz
-theabcroofing.com
 thebaycompany-ca.com
 thebaysc.com
 theblueskytrading.com
@@ -6987,7 +6982,6 @@ viplatii.online
 virginmoneynetwork.com
 virtua.gift
 virtualsecrets.org
-visit-ally.build
 visit-altlayer.io
 visit-driphaus.com
 visit-farcana.pages.dev
@@ -7462,7 +7456,6 @@ www.brothernz.com
 www.bscpad-launchpad.live
 www.burakglobalfirm.com
 www.butterfieldoffshore.com
-www.bybit-award.io
 www.cake-reward.shop
 www.cakes-reward.xyz
 www.catholicf-la.org
