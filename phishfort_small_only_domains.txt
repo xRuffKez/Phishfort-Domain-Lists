@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 13:15:28 UTC 2024
-# Number of Entries: 8021
+# Fetch date: Tue Apr 16 13:24:11 UTC 2024
+# Number of Entries: 8022
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4429,6 +4429,7 @@ mynewmont.us
 mynewmontbonk.com
 myob.business
 myob.finance
+myob.financial
 myob.network
 myob.tax
 mypivalidations.com
