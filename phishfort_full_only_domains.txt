@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 21:42:05 UTC 2024
-# Number of Entries: 108293
+# Fetch date: Tue Apr 16 22:03:19 UTC 2024
+# Number of Entries: 108296
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3931,6 +3931,7 @@ airdropsbobapp.com
 airdropsclaim.site
 airdropsdao.org
 airdropseth.info
+airdropslotmachine-dapp.com
 airdropsolananft.com
 airdropsphere.finance
 airdropsplay-dapp.com
@@ -52549,6 +52550,7 @@ metazeus.li-vedrop.com
 metazmskloign.github.io
 metazverfied.com
 metbk.app
+metcamask.com
 metcmask-io.com
 metcmask.app
 metcmask.com
@@ -99578,6 +99580,7 @@ www.exodusprotection.io
 www.exoduswallet-synchronized.com
 www.explore-nodewave.com
 www.exploreis.us
+www.express-tollroute407.com
 www.expressshifters.xyz
 www.extension-metamask.com.fifthavenue.com.sg
 www.extension-metamask.com.insurance-world.in
