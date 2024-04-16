@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 14:25:06 UTC 2024
-# Number of Entries: 8024
+# Fetch date: Tue Apr 16 14:32:26 UTC 2024
+# Number of Entries: 8022
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3692,7 +3692,6 @@ mandta.network
 mangta.network
 manjta.network
 mankta.network
-manmta.network
 manpta.network
 manranetwcrk.com
 mant-app.com
@@ -7462,7 +7461,6 @@ www.bscpad-launchpad.live
 www.burakglobalfirm.com
 www.butterfieldoffshore.com
 www.bybit-award.io
-www.c592.top
 www.cake-reward.shop
 www.cakes-reward.xyz
 www.catholicf-la.org
@@ -7598,7 +7596,6 @@ www.mamtanetworkbonus.com
 www.manta-pacific.app
 www.manta.christmas
 www.mantanntework.xyz
-www.marnta.network
 www.maverickdao.org
 www.mavia.com.maviav.com
 www.mavia.comapp.ceesto.com
@@ -7685,6 +7682,7 @@ www.pancakeswapv3.xyz
 www.pandoras-build.com
 www.pandoshi.net.bakery-swap.com
 www.paradigmagbi.ru
+www.paxflapp.online
 www.paxful.instenpay.com
 www.paxfulmoderater.com
 www.paxosweb.top
