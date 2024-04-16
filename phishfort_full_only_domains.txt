@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 03:52:08 UTC 2024
-# Number of Entries: 108182
+# Fetch date: Tue Apr 16 04:25:39 UTC 2024
+# Number of Entries: 108188
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3608,6 +3608,7 @@ airdrop-venom.run
 airdrop-venoms.network
 airdrop-vitalik.live
 airdrop-vxl.com
+airdrop-w-wormhole.vercel.app
 airdrop-wallet-connect.sa9afa.com
 airdrop-wallet.com
 airdrop-walletapp.pages.dev
@@ -37810,6 +37811,7 @@ happydadmotors.claims
 happyskellies.com
 happytake.tknewz.com
 hapsoantes.site
+harambe-token-ai.web.app
 hardwalletcapsule.com
 hardwalletcapsule.store
 hardwalletsafe.com
@@ -43714,6 +43716,7 @@ ledgerrecovery.com
 ledgerrlive.com
 ledgerrlive.org
 ledgerrlivess.org
+ledgerrwallet.azurewebsites.net
 ledgers-live.com
 ledgers-live.org
 ledgers.network
@@ -79369,6 +79372,7 @@ site.theappscenter.com
 site.walletverificationauths.com
 site.webcoiresolve.com
 siteai.site
+sitemap.allocation-ether.fi
 sitemap.ergo-desktop-virtualisation.com
 sitemap.newpardigm-manta.network
 sitemap.obsprojject.com
@@ -88022,6 +88026,7 @@ twrectify.com
 twt-bakery.org
 twt-claims.com
 twt.airpuds.top
+twt.altpads500.top
 twt.cryptoinc.top
 twt.multipuds.top
 twt500.tech
@@ -91561,6 +91566,7 @@ vveb3-vvallete-apa.top
 vveb3-vvallete-ape.top
 vvebaply-vvall-io.top
 vvebexx.co
+vverify-nibirufi.vercel.app
 vvfy.sftah.cechire.com
 vvlinksonline.top
 vvm-bltkub-csm.1gb.ru
