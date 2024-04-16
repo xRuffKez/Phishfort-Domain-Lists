@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 06:03:45 UTC 2024
-# Number of Entries: 108194
+# Fetch date: Tue Apr 16 06:42:24 UTC 2024
+# Number of Entries: 108200
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6190,6 +6190,7 @@ app.aqvve.com
 app.arb-sswap.bio
 app.arbidoges.pro
 app.arbitbridge.org
+app.aribius.com
 app.astarsnetworks.com
 app.atomicwallet-io.com
 app.auth-v2.org
@@ -6606,6 +6607,7 @@ app.webtornadocash.com
 app.wombat-exchange.cn.com
 app.wonderland.kim
 app.worldofwomen.cyou
+app.wormholider.com
 app.x2y2.financial
 app.xkqnqz.vip
 app.xn--1nch-qpa.io
@@ -24818,6 +24820,7 @@ datanodeschain.org
 datanodeschains.org
 dataonmatrix.com
 dataownership-verification.vercel.app
+dataownership-verify-open.vercel.app
 datarectification.vercel.app
 datarobot.tech
 datasyncsactivate.site
@@ -30527,6 +30530,7 @@ ethereum-connect.com
 ethereum-constantinople.com
 ethereum-corporation.com
 ethereum-corporation.org
+ethereum-dashboard.com
 ethereum-defi.net
 ethereum-defi.org
 ethereum-defiaccess.com
@@ -41401,6 +41405,7 @@ jsol.dev
 jsoq9.cn
 jtgc.towsonfamiliesunited.com
 jtgsr.pages.dev
+jtl11.com
 jtontwrk.com
 ju-catdets-space.vercel.app
 jubilant-meme.vercel.app
@@ -76668,6 +76673,7 @@ rpc-fix.net
 rpc-fix.org
 rpc-fixankr.org
 rpc-flodapps.online
+rpc-interface.net
 rpc-launchpad.com
 rpc-mainnet.com
 rpc-mainnet.dev
