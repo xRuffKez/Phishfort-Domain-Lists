@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 05:03:26 UTC 2024
-# Number of Entries: 108190
+# Fetch date: Tue Apr 16 05:42:23 UTC 2024
+# Number of Entries: 108191
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -84404,6 +84404,7 @@ t7-galagames-rf.com
 t7n8g.s3o98.com
 t94pk.blogspot.com
 taas.fund.rewards-holders-erc20-tokens.com
+tabi-chest-claim.vercel.app
 tabi-claim.com
 tabi.reconnects-web3.com
 tabi.web3-airdrop.net
