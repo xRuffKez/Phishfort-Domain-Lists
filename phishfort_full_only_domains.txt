@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 15:03:14 UTC 2024
-# Number of Entries: 108248
+# Fetch date: Tue Apr 16 16:04:32 UTC 2024
+# Number of Entries: 108254
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6128,6 +6128,7 @@ app.accessactivation.com
 app.activationaccess.com
 app.activationaces.com
 app.activationsaccess.com
+app.activitye.xyz
 app.aeonstake.com
 app.aiirtm.com
 app.airdroplert.com
@@ -42768,6 +42769,7 @@ kyc-metamask-i0applicationoffceveriflcation98.neconme.com
 kyc-metamask.easterndns.com
 kyc-services.com
 kyc-trust-wallet.com
+kyc-update-info.com
 kyc.auth-host.info
 kyc.connection-auth-server.info
 kyc.ledger-online.net
@@ -44736,6 +44738,7 @@ liteswapp.com
 litesyncz.com
 litterabbitprojects.com
 littlebabydoge-promogive.com
+littleentrepreneur.org
 littlemamilabel.hwnfts.com
 littleponies.xyz
 littlerabbitintegrated.live
@@ -60563,6 +60566,7 @@ nnagic-eden-s0lanacasadoconfeiteirogo.blogspot.com
 nnagic-eden-wallets-giplas.blogspot.com
 nnagiceden-io.com
 nnapplic-app.com
+nnass-unempl.com
 nnelannask.click
 nnetamasks.io
 nnetannask.io
@@ -81442,6 +81446,7 @@ st-immobilien-mannheim.de
 st-mettmask.com
 st-solaix.com
 st.betiutima.online
+st.bytenorm.online
 st.localbitcoin.review
 sta-atla-coin.tech
 stable-algorithm.com
@@ -86578,6 +86583,7 @@ toncoin-event.com
 toncoin.cfd
 toncoin.eng-ton.org
 toncoln.me
+tonevecher.com
 tongram.me
 tongramico.com
 tonight.sadwing.za.com
