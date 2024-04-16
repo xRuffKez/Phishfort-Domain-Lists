@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 11:14:25 UTC 2024
-# Number of Entries: 8021
+# Fetch date: Tue Apr 16 11:22:12 UTC 2024
+# Number of Entries: 8020
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -295,6 +295,7 @@ airdrop-nibi.com
 airdrop-pancakeswap.web.app
 airdrop-pepecoin.net
 airdrop-pi.com
+airdrop-site.com
 airdrop-starknet.info
 airdrop-toshithecat.com
 airdrop-w-wormhole.vercel.app
@@ -1237,6 +1238,7 @@ burakalpaslan.cc
 burnmintopensea.firebaseapp.com
 burnmua.build
 bursapimapen.com
+butterfield-portal.com
 butterfieldportal.com
 buy.scottyai.org
 buy1inch.org
@@ -1885,7 +1887,6 @@ dappradar.cx
 dappradar.ec
 dappradar.fun
 dappradar.is
-dappradar.land
 dappradar.mom
 dappradar.qa
 dappradar.so
@@ -5420,7 +5421,6 @@ puffer-quest-app.info
 puffer.pages.dev
 pull-750.mavis-hub.axieinfinity.services
 pulse-bridge.app
-pulse-chainbridge.vercel.app
 pulsebitclaim.live
 pulsex-wallet.com
 pulsex.pages.dev
@@ -7005,7 +7005,6 @@ vofj.pro
 voltagenodefix.com
 volvotrucksinc.us
 vormassuinst.com
-vote-ambire.org
 vote-ambires.com
 vote-ambires.org
 vote-makerdao.com
