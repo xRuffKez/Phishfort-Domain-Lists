@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 09:03:05 UTC 2024
-# Number of Entries: 8030
+# Fetch date: Tue Apr 16 09:15:04 UTC 2024
+# Number of Entries: 8026
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -170,7 +170,6 @@ account-407etr.com
 account.cityindexinternational.com
 account407etr.com
 accounts.paxf-ful.com
-accountsportal.net
 accountsvalidator.com
 accretivetechnologygroupcareers.com
 acecoins.pro
@@ -808,7 +807,6 @@ atlaeyer-staker.top
 atlaeyers-check.top
 atlaeyers-claim.top
 atlaeyers-drop.top
-atlantic-manta.network
 atlas3io-prime-kongz.web.app
 atllayer-drop.top
 atltayer-reward.top
@@ -1208,7 +1206,6 @@ bridge.blockscape.ink
 bridge.carier.xyz
 bridge.jumper.limo
 bridge.metisdao.net
-bridge.pulsechain.ac
 bridge407etr.com
 bridgecybria.io
 bridgee-modei.network
@@ -2744,6 +2741,7 @@ gets.dappsradars.online
 getshib.io
 gettingarb.xyz
 getvenus.xyz
+gfdg.tokenfor.vip
 gfe3ox.csb.app
 gftj7.pro
 ghaph.com
@@ -4097,7 +4095,6 @@ metamassk.cc
 metamastesk.azurewebsites.net
 metamasuak.azurewebsites.net
 metamasusak.azurewebsites.net
-metamasx.xyz
 metamasyk.azurewebsites.net
 metamcsk.cc
 metamcsk.io
@@ -5918,7 +5915,6 @@ safegnosis.co
 safeguard-meta.com
 safewallet-meta.com
 saga-solanamobile.com
-sagapromo.ink
 sahouriplast.com
 saitachain-migration.pages.dev
 saitama.gift
