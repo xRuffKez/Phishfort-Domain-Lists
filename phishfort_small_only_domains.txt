@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 04:03:29 UTC 2024
-# Number of Entries: 8004
+# Fetch date: Tue Apr 16 04:15:37 UTC 2024
+# Number of Entries: 8007
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2855,6 +2855,7 @@ hamstrcoin.com
 handshakehns.web.app
 hannaanderssonkids.com
 happyskellies.com
+harambe-token-ai.web.app
 hardwaregiftairdrop.netlify.app
 hardymerch.com
 harmankardon.com.ph
@@ -6116,6 +6117,7 @@ simpsoncoin.org
 sinbad.bio
 singularitydao.app
 siteai.site
+sitemap.allocation-ether.fi
 sitemap.newpardigm-manta.network
 sk8pes.world
 skaddenlawfirm.com
@@ -6770,6 +6772,7 @@ tulip-app.one
 tvl-chain.link
 twilio-hr.com
 twt.airpuds.top
+twt.altpads500.top
 twt.multipuds.top
 txaq.cc
 ubnr.cc
