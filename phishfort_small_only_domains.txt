@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 08:42:12 UTC 2024
+# Fetch date: Tue Apr 16 08:52:10 UTC 2024
 # Number of Entries: 8030
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2062,7 +2062,6 @@ dev-dese-mo-gov.pantheonsite.io
 dev-the-metamask-support.pantheonsite.io
 dev.heliuswork.com
 devapp.pages.dev
-devdapps.pages.dev
 devicaeccess.co.uk
 devnet-dymension.com
 deworm.xyz
@@ -4232,6 +4231,7 @@ miltamasklog.github.io
 mindstar-pancakeswap.vercel.app
 mine-manta.network
 minepro.fit
+minerpix.com.br
 minetrix.app
 minhacontachevrolet-sf.com
 mining-clouds.com
@@ -4387,6 +4387,7 @@ multichainnode.onrender.com
 multichainprotocol.com
 multichainprotocol.firebaseapp.com
 multichainprotocol.netlify.app
+multicoinsystem.vercel.app
 multiconnect-system.web.app
 multidapps.pages.dev
 multidappsnetwork.com
@@ -6249,7 +6250,6 @@ spaceid.claiming-link.live
 spaceid.connect-claiming.icu
 spaceld.cyou
 spacequest-jup.ag
-spacexbonus.live
 spadaro.id.au
 spark-claim.org
 spark-fi.xyz
