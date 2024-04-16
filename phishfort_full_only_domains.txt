@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 05:52:20 UTC 2024
-# Number of Entries: 108191
+# Fetch date: Tue Apr 16 06:03:45 UTC 2024
+# Number of Entries: 108194
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17393,6 +17393,7 @@ claim.eigenlayer.tech
 claim.en-ripple.com
 claim.ethdeal.info
 claim.ether33.online
+claim.ethnafi.world
 claim.ethsx.space
 claim.fightouts.eu
 claim.forbes.exchange
@@ -17449,6 +17450,7 @@ claim.pancakesswap.fi
 claim.pancakeswap.cfd
 claim.payeths.com
 claim.paysafecoins.com
+claim.penddle.fun
 claim.pendle.solutions
 claim.polkapot.network
 claim.renqapp.live
@@ -92590,6 +92592,7 @@ wallet.egem.io
 wallet.elrond.com.unlock-keystore.online
 wallet.eostoolkits.io
 wallet.etcagharta.org
+wallet.ethenafi.cloud
 wallet.ethoprotocol.com
 wallet.exodus.com.aakeagle.com
 wallet.exodus.com.adme.today
