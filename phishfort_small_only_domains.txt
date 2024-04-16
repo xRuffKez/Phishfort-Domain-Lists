@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 07:24:16 UTC 2024
-# Number of Entries: 8022
+# Fetch date: Tue Apr 16 07:32:58 UTC 2024
+# Number of Entries: 8027
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -36,7 +36,6 @@
 1inch-app.com
 1inch-crypto.top
 1inch-io.app
-1inch-network.org
 1inch-pay.ga
 1inch.box
 1inch.fyi
@@ -2181,6 +2180,7 @@ drake-bonus.pro
 drili.me
 drip-networkcommunity.org
 drive-document-file-2024.github.io
+drop-alphax.web.app
 drop-apeterminal.com
 drop-ether.fi
 drop-mogcoin.com
@@ -2538,6 +2538,7 @@ fireblocks-sso.com
 fireblockscrypto.com
 firevisionaries.com
 firmware-data.pages.dev
+firmwareledger.com
 first-braved.info
 firstports.co.uk
 fitness-seven.com
@@ -2575,6 +2576,7 @@ flokievent.netlify.app
 flokifii.com
 flokii.xyz
 flowerand7.xyz
+flrtrustlinedaos.digital
 fluffy-hotteok-b5b58b.netlify.app
 flukeoutil.com
 fluxfinance.app
@@ -4381,6 +4383,7 @@ multichaindefiresolve.pages.dev
 multichained.pages.dev
 multichainnetwork.pages.dev
 multichainnode.onrender.com
+multichainprotocol.com
 multichainprotocol.firebaseapp.com
 multichainprotocol.netlify.app
 multiconnect-system.web.app
@@ -4398,6 +4401,7 @@ murconseil.com
 murphygroupltd.co.uk
 musicyandex.ru
 muskswap.pages.dev
+mutant-dao.web.app
 mutantboxnft.com
 muxstakingapp.network
 mvia.app
@@ -7765,6 +7769,7 @@ www.theplaybooksol.xyz
 www.tiktok-world.shop
 www.tiktok8.bond
 www.tiktokmall-th.com
+www.ton.org-networks.top
 www.toshithecat.org
 www.triplewealthbuilders.com
 www.troyswop.org
