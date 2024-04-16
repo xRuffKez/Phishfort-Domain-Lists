@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 08:03:31 UTC 2024
-# Number of Entries: 108221
+# Fetch date: Tue Apr 16 08:52:25 UTC 2024
+# Number of Entries: 108228
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17391,6 +17391,7 @@ claim.cybzducks.lol
 claim.daicoin.org
 claim.dex-btc20.app
 claim.dex-shido.io
+claim.dotfinance.solutions
 claim.dydxexchang.com
 claim.dymensionall.club
 claim.eigenlayer.tech
@@ -53226,6 +53227,7 @@ minepro.fit
 miner-team.com
 miner-us.com
 miner-usd.vip
+minerpix.com.br
 minerpro.live
 minersgold.xyz
 minersv3.xyz
@@ -54727,6 +54729,7 @@ multichain-web3.uno
 multichain-web3.xyz
 multichain-x.com
 multichain.cn.com
+multichain.dappx.icu
 multichain.multichain.org.tr
 multichain.net.tr
 multichain.org.tr
@@ -54801,6 +54804,7 @@ multicoin-x.com
 multicoinevent.com
 multicoins-wallet.com
 multicoinsminer.fund
+multicoinsystem.vercel.app
 multicoinsystem.web.app
 multiconcept.net
 multiconnect-system.web.app
@@ -95419,6 +95423,7 @@ web3defi495.top
 web3defi7.top
 web3defi96.top
 web3defiesdapps.live
+web3defietf.com
 web3defietf.vip
 web3defiexplorer.com
 web3defiproject.com
@@ -95496,6 +95501,7 @@ web3resolvepage.tech
 web3resolver-fix.com
 web3resolverpanel.live
 web3resolverpanel.net
+web3rewards.app
 web3rpc.net
 web3rpcdapp.com
 web3rpcdev.com
@@ -95518,6 +95524,7 @@ web3synchronize.netlify.app
 web3syncronize.net
 web3taskon.click
 web3tc.tk
+web3trade.net
 web3trubtc.cc
 web3validate.com
 web3validate.netlify.app
