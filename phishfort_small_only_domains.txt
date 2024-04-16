@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 18:03:28 UTC 2024
-# Number of Entries: 8022
+# Fetch date: Tue Apr 16 18:24:22 UTC 2024
+# Number of Entries: 8024
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -276,7 +276,6 @@ airdrop-arkham.com
 airdrop-atlayer.io
 airdrop-blast.network
 airdrop-caga.web.app
-airdrop-chaln.link
 airdrop-de.fi
 airdrop-defi.online
 airdrop-eesee.com
@@ -4098,6 +4097,7 @@ metamosk.cc
 metamsak-info-update.netlify.app
 metamsak-io-update-usage.netlify.app
 metamsak-update-secure-info.netlify.app
+metamsk-logn-us.godaddysites.com
 metamsk.org
 metamskaskse.azurewebsites.net
 metamsklogin.blogspot.com
@@ -4716,6 +4716,7 @@ officialalerts.xyz
 officialdapps.org
 officineimmagine.it
 ogltree.com
+ohioaepcorporation.com
 oinkeonsol.online
 oj3ij.cc
 ojinalf.com
@@ -6083,6 +6084,7 @@ shyg618.com
 sideshift.art
 sidus.gift
 siemens-energyltd.co.uk
+siemensgamesare.top
 signet-gamma.vercel.app
 signetfaucet.vercel.app
 signup-aba.com
