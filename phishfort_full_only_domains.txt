@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 16:42:05 UTC 2024
-# Number of Entries: 108254
+# Fetch date: Tue Apr 16 17:25:02 UTC 2024
+# Number of Entries: 108256
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -10636,6 +10636,7 @@ barberig.com
 barcodesincs.com
 barcorr-barcos.com
 bardy-protocol.com
+bariatrics.www.emdeebeebee.com
 barkscoffe.de
 barlettapontoonboats.asia
 barleyapp.finance
@@ -52523,6 +52524,7 @@ metaxunity.com
 metazeus.li-vedrop.com
 metazmskloign.github.io
 metazverfied.com
+metbk.app
 metcmask-io.com
 metcmask.app
 metcmask.com
