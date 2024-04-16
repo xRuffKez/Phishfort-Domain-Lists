@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 21:03:10 UTC 2024
-# Number of Entries: 108278
+# Fetch date: Tue Apr 16 21:42:05 UTC 2024
+# Number of Entries: 108293
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -8602,6 +8602,7 @@ authenticatedapps.org
 authenticatedappwallets.com
 authenticateddappssync.netlify.app
 authenticatedwallonapp.net
+authenticatefix-io.web.app
 authenticatehqfs.online
 authenticatelinkapps.org
 authenticatemywallect.com
@@ -24545,6 +24546,7 @@ dappsyncrecovery.pages.dev
 dappsyncrectify.com
 dappsyncs.co
 dappsyncs.com
+dappsyncs.net
 dappsyncsnetlive.site
 dappsyncsupport.com
 dappsynctools.netlify.app
@@ -26551,6 +26553,7 @@ dex-saitachain.pro
 dex-secure.com
 dex-stargate.finance
 dex-start.net
+dex-support.web.app
 dex-tool-portal.live
 dex-verfied.org
 dex-walletrestore.icu
@@ -27376,6 +27379,7 @@ dogecoin-lives.com
 dogecoin.gifts
 dogecoin.love
 dogecoin20-ai.web.app
+dogecoin20-st.web.app
 dogecoin20resolve.pages.dev
 dogecoin2x.info
 dogecoinclick.com
@@ -37843,6 +37847,7 @@ happyskellies.com
 happytake.tknewz.com
 hapsoantes.site
 harambe-token-ai.web.app
+harambe-token-io.web.app
 hardwalletcapsule.com
 hardwalletcapsule.store
 hardwalletsafe.com
@@ -37911,6 +37916,7 @@ hauntingfittingboastmachine--297954.repl.co
 haus-alpenrose.com
 hausphases.live
 hava-coin.vercel.app
+havacoinext.web.app
 havas-aso.com
 havas-shop.com
 havas06.com
@@ -40562,6 +40568,7 @@ inugonz.com
 invcheck.sbs
 invest-china.cloud
 invest-china.icu
+invest-destreams.web.app
 invest-elon.org
 invest-tesla.org
 invest-token.art
@@ -49013,6 +49020,7 @@ meme-coin.icu
 meme-coins.online
 meme-drop.org
 meme-eth.org
+memeaicoin-io.web.app
 memebevy.shop
 memeckombat.com
 memeckombat.org
@@ -63630,6 +63638,7 @@ paankakesvveap-holding.com
 paasdevelopment.pancakeswape.finance
 paaxful.gq
 pabcakeswap.com
+pablo-defis.web.app
 pablogomezsolis.com
 pabloslol.wtf
 pabncakeswap.com
@@ -63813,6 +63822,7 @@ pallcakeswap.finance
 pallcekeswap.cloud
 pallkaceswep.finance
 pallkakesvvep-api.com
+palmai-tech-io.web.app
 palmai-tech.web.app
 palmai-techi.vercel.app
 palmai.link
@@ -75444,6 +75454,7 @@ resyncwebdapp.com
 retechmigr.com
 rethalize.com
 rethlp.com
+retik-de.web.app
 retik-finance-en.web.app
 retik-finance.pages.dev
 retik.app
@@ -77525,6 +77536,7 @@ sanftcollection.xyz
 sanitarymilitancy.top
 sannicolasdetalentino.edu.co
 sanrdbox.com
+sanshumigration.web.app
 sansound-nft.xyz
 sansoundd3.xyz
 sansseninle.store
@@ -86117,6 +86129,7 @@ token-aave.com
 token-airdop.org
 token-airdrop.com
 token-airdrop.io
+token-altsignal.web.app
 token-app.xyz
 token-aptos.com
 token-arkham.com
@@ -88723,6 +88736,7 @@ uniswap-ecosystem.space
 uniswap-entirety.casa
 uniswap-entirety.top
 uniswap-envenom.club
+uniswap-erc20.com
 uniswap-eth-drop.org
 uniswap-eth.com
 uniswap-eth.net
@@ -90778,6 +90792,7 @@ vanllfrt-2e09.up.railway.app
 vanlliugift.com
 vannessa.site
 vanquishdepression.com
+vansanhome.com
 vansofficial.xyz
 varifinance.in
 varroconnect.com
