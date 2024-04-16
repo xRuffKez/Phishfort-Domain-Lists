@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 15:15:08 UTC 2024
-# Number of Entries: 8021
+# Fetch date: Tue Apr 16 15:23:31 UTC 2024
+# Number of Entries: 8023
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2555,6 +2555,7 @@ flareairdrop.vercel.app
 flash-arbitrage.xyz
 flightreservations.xyz
 floadfixed.com
+float-fixed.com
 flojet.com.vn
 floki-claim.net.qqhosting3.com
 floki-claim.vercel.app
@@ -4640,6 +4641,7 @@ nitro-smartfusionglobeverse.pro
 njmvdu.pro
 nkbihfbeogaeaoehlefnkodbefgpgknn.metamaskk.skyhighfirstclass.com.ng
 nkjs0.ru.com
+nnass-unempl.com
 nnetamasks.io
 nnetannask.io
 nnttn.cn
