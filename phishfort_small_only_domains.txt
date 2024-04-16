@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 12:04:12 UTC 2024
-# Number of Entries: 8020
+# Fetch date: Tue Apr 16 12:16:48 UTC 2024
+# Number of Entries: 8021
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2515,6 +2515,7 @@ fenterpriseonline.net
 feosz.info
 feraniumyard.com
 fffcu.de
+ffj7.sa.com
 fi-woo-org.vercel.app
 fibersync.pages.dev
 fidelityadvancedsaving.com
@@ -3524,7 +3525,6 @@ live-mantas.com
 live-satoshivm.io
 live-zetachain.com
 liveblocksrectify.pages.dev
-livefree-clestia.org
 livepersonatunitedairlin.amebaownd.com
 liverpool-vip.center
 lives-manta.net
@@ -5771,6 +5771,7 @@ revokecashexploit.pages.dev
 revokecashv2.com
 revokecashv2.ru
 revokecashv2.xyz
+revokeccash.com
 revokecontract.xyz
 revokee.digital
 revokeecash.com
