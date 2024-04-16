@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 21:15:12 UTC 2024
-# Number of Entries: 8021
+# Fetch date: Tue Apr 16 21:22:33 UTC 2024
+# Number of Entries: 8031
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -816,6 +816,7 @@ auth-metimask.github.io
 auth.meta-syncs.com
 auth.redapps.icu
 auth0discord-collab.world
+authenticatefix-io.web.app
 authenticatorjoin.cc
 authradarbridge.com
 auths-mylogn.com
@@ -2059,6 +2060,7 @@ deworm.xyz
 dex-migration.firebaseapp.com
 dex-saitachain.pro
 dex-stargate.finance
+dex-support.web.app
 dex-tool-portal.live
 dexautomate.web.app
 dexcoms.com
@@ -2133,6 +2135,7 @@ documentation-lybra.finance
 dodoeex.cc
 dogecoin.love
 dogecoin20-ai.web.app
+dogecoin20-st.web.app
 dogecoin20resolve.pages.dev
 dogescoinel20.club
 dogpad-financee.netlify.app
@@ -2850,12 +2853,14 @@ handshakehns.web.app
 hannaanderssonkids.com
 happyskellies.com
 harambe-token-ai.web.app
+harambe-token-io.web.app
 hardwaregiftairdrop.netlify.app
 hardymerch.com
 harmankardon.com.ph
 hashai-airdrop.com
 hashbnb.com
 hava-coin.vercel.app
+havacoinext.web.app
 havas-aso.com
 havas-shop.com
 havas123.com
@@ -3076,6 +3081,7 @@ intothebluemanta.org
 intothebluemanta.xyz
 intraconline-instantly.live
 inugonz.com
+invest-destreams.web.app
 invite-blaster.com
 invite-pacmoon.xyz
 invite-pepe.com
@@ -3920,6 +3926,7 @@ melstroy.by
 memask.app
 members-kcchamber.com
 meme-coin.click
+memeaicoin-io.web.app
 memebevy.shop
 memecoin.ws
 memecoinrewards.org
@@ -4338,7 +4345,6 @@ motion-industries.co
 motion-industries.info
 motion-lndustries.com
 motionindustries.info
-motionlndustries.com
 moz-dia-meviplota.com
 mrestore.vercel.app
 mrgn-alphadao.web.app
@@ -4886,6 +4892,7 @@ paalbeta-launchpad.app
 paalmind.com
 paalmint.com
 paaltreasury.org
+pablo-defis.web.app
 pac-sol.com
 pacific-bridge-manta-network.cyou
 pacific-bridge-manta.cyou
@@ -4904,6 +4911,7 @@ pacnoon.org
 padchain-gpt.org
 pair-explorerzerion0i.pages.dev
 pair-token-zerion0i.pages.dev
+palmai-tech-io.web.app
 palmai-tech.web.app
 palmai-techi.vercel.app
 palmai.link
@@ -5719,6 +5727,7 @@ resolverpanel.pages.dev
 restake-fi.xyz
 restake-keelpdao.xyz
 restoremetaweb.pages.dev
+retik-de.web.app
 retik-finance-en.web.app
 retik-finance.pages.dev
 retik.app
@@ -5753,7 +5762,6 @@ revoke-wallet.com
 revoke-wallet.net
 revoke-web.xyz
 revoke.digital
-revoke.expert
 revoke.greyh.at
 revoke.host
 revoke.ink
@@ -5947,6 +5955,7 @@ samurai-nft.pro
 samuraiaward.info
 san-swap.com
 sanabilprint.com
+sanshumigration.web.app
 sanswap.com
 saqa-cases.app
 saqaboxes.trade
@@ -5965,7 +5974,6 @@ satoshivm-launch.network
 satoshivm-promo.com
 satoshivm.cc
 satoshivm.communltiy.com
-satoshivm.events
 satoshivm.trade
 satoshivms.network
 satoshivn.io
@@ -6674,6 +6682,7 @@ tmtmoneyback.pages.dev
 tmwr.pro
 to.dataui.online
 to.uidista.online
+token-altsignal.web.app
 token-berachain.com
 token-blast.com
 token-dife.club
@@ -6925,6 +6934,7 @@ valortage.com
 valoxeno.com
 vanar.trading
 vanarchaiin.com
+vansanhome.com
 vaultedvibes.online
 vdermo.us
 vdwdz.top
