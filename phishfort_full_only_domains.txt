@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 01:00:39 UTC 2024
-# Number of Entries: 108159
+# Fetch date: Tue Apr 16 02:11:34 UTC 2024
+# Number of Entries: 108182
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4319,6 +4319,7 @@ alldrop.gg
 alldrops.io
 allenanna.com
 alleth.org
+allfixednodes.pages.dev
 allfoills.com
 allforcarespa.com
 allfurnist.com
@@ -4349,6 +4350,7 @@ allme.tokens-aword.com
 allmigrationauthenticate.live
 allmigrationauthenticator.live
 allmigrationsfix.digital
+allmulti.pages.dev
 allmultidigital.com
 allnetsync.com
 allnode.online
@@ -6830,10 +6832,12 @@ appmilkyway.zone
 appmultinitroverse.pro
 appnetwork-reset.net
 appnetworkaudit.net
+appnetworksupport.pages.dev
 appnexusmutual.com
 appnft.fun
 appnindex.online
 appnodeauth.pages.dev
+appnodecon.pages.dev
 appnodeconfig.com
 appnoderectify.org
 appnodesync.com
@@ -8785,6 +8789,7 @@ autodappsolution.online
 autodappsolution.pro
 autodappsvalidation.online
 autodappsvalidator.com
+autodappx.pages.dev
 autodebugfix.com
 autodebugmodulerpc.pages.dev
 autodebugpath.live
@@ -10665,6 +10670,7 @@ basedbalancer.pages.dev
 basedbrett.xyz
 basedghouls.claims
 basedlghouls.com
+basedrewardsxpresale.pages.dev
 basedrop.net
 baseduniswap.pages.dev
 baseintegration.com
@@ -16077,6 +16083,7 @@ chailnlink.click
 chailnlist.org
 chaimlink.com
 chain-arbitrum.info
+chain-base.pages.dev
 chain-bridge.xyz
 chain-claim.buzz
 chain-connect-protocol.square.site
@@ -16103,6 +16110,7 @@ chain-list.top
 chain-mechanism.space
 chain-net.com
 chain-node.org
+chain-node.pages.dev
 chain-nodesync.online
 chain-protocol.info
 chain-protocol.net
@@ -16909,6 +16917,7 @@ claim-airdrop.site
 claim-airdrops.com
 claim-airdrops.top
 claim-akidcalledbeast.com
+claim-all-rewards.pages.dev
 claim-alt.com
 claim-ape.land
 claim-apecoin.xyz
@@ -24480,6 +24489,7 @@ dappswebnode.com
 dappswebs.com
 dappswebs.online
 dappswsolutionconnect.com
+dappsxfix.pages.dev
 dappsychronizer-wallet.com
 dappsync-apw.pages.dev
 dappsync.gq
@@ -25068,6 +25078,7 @@ debug-metamask.pages.dev
 debug-multichain.pages.dev
 debug-wallets.com
 debug-web3auth.com
+debug-x.pages.dev
 debugapp.net
 debugappfix.com
 debugappfix.site
@@ -25891,6 +25902,7 @@ defilama.wallet-web3.com
 defiland-website.pages.dev
 defilaunch-promogive.com
 defilauncher.org
+defilaunchpad.pages.dev
 defilayers.org
 defilena.com
 defilinkfix.site
@@ -26608,7 +26620,9 @@ dexlauncch.com
 dexlaunch-binance.com
 dexlaunch-testnet.space
 dexlaunchbrowser.com
+dexlaunchlive.pages.dev
 dexlaunchpad.io
+dexlaunchpadlive.pages.dev
 dexlaunchpads.co
 dexlaunchpads.com
 dexlaunchpads.org
@@ -29623,6 +29637,7 @@ erazk.top
 erc-20-tokens-gift.com
 erc-20.myetherwallet.bonus.tokens-mew.com
 erc-20.online
+erc-api.pages.dev
 erc-finance.com
 erc-wintermute.org
 erc.coinbasefx.org
@@ -29644,6 +29659,7 @@ erc30.top
 ercbabypepe.com
 ercdapps.com
 ercexhange.epizy.com
+erclink.pages.dev
 ercoregroup.com
 ercoterra.com
 ercprochainntwk.best
@@ -30299,7 +30315,9 @@ ethef.com
 ethegrscan.us
 etheirdelta.com
 ethelon2x.com
+ethena-3web.pages.dev
 ethena-airdrop.vercel.app
+ethena-crypto.pages.dev
 ethena-ddg.pages.dev
 ethena-dwm.pages.dev
 ethena-labs.click
@@ -33174,6 +33192,7 @@ fileshared.online
 filetetrisoft.tech
 fillold.mypsx.net
 fillup.us.to
+filsmarttechprompt.pages.dev
 filthyrichcryptokids-mint.live
 filxedfloat.info
 fimoodys.com
@@ -37472,6 +37491,7 @@ grandpaapes.netlify.app
 grant-finance-program.org
 grant.rhecy.top
 grantyun2-free.xyz
+grape-officialx.pages.dev
 grapeaccess.org
 grapecoin.app
 grapefinance.net
@@ -37509,6 +37529,7 @@ greenapp.ltd
 greenbeli.su
 greenben-promogive.com
 greenbitcoin-en.web.app
+greenbitscoin.pages.dev
 greenchartbsc.com
 greenclot.com
 greencorp.online
@@ -90821,6 +90842,7 @@ velodrome.ink
 velodrome.web3-login.com
 velodromefinance.app
 velodromefinance.online
+veloxlinknode.pages.dev
 veltexverse.website
 velvet.web3-airdrop.net
 velvety-starlight-ed7966.netlify.app
@@ -96115,6 +96137,7 @@ whitelistconnector.netlify.app
 whitelistdapp.co
 whitelistdapp.xyz
 whitelistdapps.xyz
+whitelistedonly.pages.dev
 whitelistedregister.pages.dev
 whitelistedsync.pages.dev
 whitelistgivesaway.xyz
