@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 16:52:17 UTC 2024
-# Number of Entries: 8022
+# Fetch date: Tue Apr 16 17:03:13 UTC 2024
+# Number of Entries: 8023
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -644,7 +644,6 @@ app.refundcoinstake.com
 app.renzoprotocols.net
 app.rnino.fi
 app.solvsprotocol.com
-app.sparkprotocol.fi
 app.spy-token.io
 app.stonexvip.top
 app.stringwebtools.com
@@ -915,6 +914,7 @@ bank-sell.com
 bankinging.com
 bankless-claims.net
 banklessdrop.coinsupportlive.com
+bariatrics.www.emdeebeebee.com
 barlettapontoonboats.asia
 barleyapp.finance
 barnbridge.pro
@@ -4119,6 +4119,7 @@ metavmasusk.azurewebsites.net
 metaweb-import.pages.dev
 metawebfix-4.pages.dev
 metazmskloign.github.io
+metbk.app
 metemask.cc
 metemask.pages.dev
 metemesk-wallat.godaddysites.com
