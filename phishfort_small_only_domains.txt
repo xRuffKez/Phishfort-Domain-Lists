@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 07:52:05 UTC 2024
-# Number of Entries: 8026
+# Fetch date: Tue Apr 16 08:15:50 UTC 2024
+# Number of Entries: 8030
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1509,6 +1509,7 @@ claim.beefmeme.xyz
 claim.bitetfs.net
 claim.celatisx.top
 claim.chainngpt.com
+claim.dotfinance.solutions
 claim.dydxexchang.com
 claim.dymensionall.club
 claim.ethnafi.world
@@ -2077,7 +2078,6 @@ dexpcsintergal.com
 dexprotocolchain.io
 dexprotocolchain.live
 dexprotocolchain.pages.dev
-dexsuperdoge.pages.dev
 dexsynage.web.app
 dextools.bz
 dextools.events
@@ -2916,6 +2916,7 @@ herafinance.live
 heroes-of-mavia.online
 hex-distributions.com
 hex-multipliers.com
+hft-fyfc.com
 hidden-airdrops.xyz
 highllght.com
 hippies-world.com
@@ -4377,6 +4378,7 @@ multichain-evm.pages.dev
 multichain-tokenguidemaxx.shop
 multichain-web.de
 multichain-web.pro
+multichain.dappx.icu
 multichainapprove.pages.dev
 multichaindefiresolve.pages.dev
 multichained.pages.dev
@@ -6295,7 +6297,6 @@ stake-manta.network
 stake-official-online.com
 stake-slerf.com
 stake-tish.com
-stake-us.in.net
 stake-us.in.net.mammonmarketing.com
 stake-xai.games
 stake.emeraldsco.org
@@ -7205,6 +7206,8 @@ web3defi352.top
 web3defi495.top
 web3defi7.top
 web3defi96.top
+web3defietf.com
+web3defietf.vip
 web3dropmetask.com
 web3etftrust.com
 web3inbx.com
@@ -7221,7 +7224,9 @@ web3pancakeswap.com
 web3portal.com
 web3resolve.pages.dev
 web3resolvepage.tech
+web3rewards.app
 web3sy.top
+web3trade.net
 web3trubtc.cc
 web3zerion-claim.pages.dev
 webappresolve.pages.dev
@@ -8025,7 +8030,6 @@ zoraco.co
 zr2b788n.site
 zro-claim.xyz
 zroclaim.xyz
-zulumaka.top
 zwbohn.pro
 zyberswap.news
 zzbtg.pro
