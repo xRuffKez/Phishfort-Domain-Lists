@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 19:02:37 UTC 2024
-# Number of Entries: 8018
+# Fetch date: Tue Apr 16 19:22:16 UTC 2024
+# Number of Entries: 8019
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -151,7 +151,6 @@ aavenetwork.org
 aavve.eu
 aavve.org
 abacoin.website
-abbie.sa.com
 abracadebra.money
 abs-dev.artbyarabbank.ch
 abs-staging.artbyarabbank.ch
@@ -2170,7 +2169,6 @@ dr.com
 dra-eta.vercel.app
 drac24.ethdrop.xyz
 drake-bonus.pro
-drili.me
 drip-networkcommunity.org
 drive-document-file-2024.github.io
 drop-alphax.web.app
@@ -3539,6 +3537,7 @@ lntrac-web-mobile.digital
 lntracwebfunds-province.agccaiwo.life
 lntwebservice-lnter.f7aanm6hh4e.life
 localethereum.xn--node
+locinews.com
 locopepecoin.com
 locus-finance.web.app
 lodgis.agency
@@ -3983,6 +3982,7 @@ metafix.vercel.app
 metaget.xyz
 metagets.xyz
 metagiveaway.io
+metagmask.azurewebsites.net
 metaiask.xyz
 metamaaskus.azurewebsites.net
 metamaesk-wellet.godaddysites.com
@@ -4082,6 +4082,7 @@ metamastesk.azurewebsites.net
 metamasuak.azurewebsites.net
 metamasusak.azurewebsites.net
 metamasyk.azurewebsites.net
+metamawesk.azurewebsites.net
 metamcsk.cc
 metamcsk.io
 metameak.com
