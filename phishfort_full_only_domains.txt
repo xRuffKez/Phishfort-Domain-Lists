@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 13:03:44 UTC 2024
-# Number of Entries: 108241
+# Fetch date: Tue Apr 16 13:42:25 UTC 2024
+# Number of Entries: 108243
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -59028,6 +59028,7 @@ mynodeswallet.online
 mynymcu.beget.tech
 myob.business
 myob.finance
+myob.financial
 myob.network
 myob.tax
 myofferonlinecheck.xyz
@@ -101468,6 +101469,7 @@ www.newactiveonline.online
 www.newactivepaxonline.online
 www.newapestake.online
 www.newfixingmanager.com
+www.newmontminingcorp.com
 www.newmontvip.com
 www.newofferactive.online
 www.newonlineactive.online
