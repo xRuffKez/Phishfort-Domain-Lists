@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 04:32:49 UTC 2024
-# Number of Entries: 108188
+# Fetch date: Tue Apr 16 05:03:26 UTC 2024
+# Number of Entries: 108190
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -9244,6 +9244,7 @@ axieinfinity-eclusive.online
 axieinfinity-event.com
 axieinfinity-game.org
 axieinfinity-game.pro
+axieinfinity-game.ru
 axieinfinity-game.top
 axieinfinity-gamer.online
 axieinfinity-games.com
@@ -103457,6 +103458,7 @@ www.swapmdex.com
 www.sweetspot.com.br
 www.swiftappendm.com
 www.swisroger.net
+www.swordavax.org
 www.syanapsebridgeapp.com
 www.syanapsebridgesprotocol.com
 www.syanopsebridge.click
