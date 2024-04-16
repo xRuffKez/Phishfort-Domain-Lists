@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 00:10:25 UTC 2024
-# Number of Entries: 8080
+# Fetch date: Tue Apr 16 00:32:32 UTC 2024
+# Number of Entries: 8063
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -349,7 +349,6 @@ airdrop.zk-sync.io
 airdropchainslinks.com
 airdropclaim.live
 airdropclaimdev.netlify.app
-airdropframechain.com
 airdroplooksrare.org
 airdropmainnetprotocol.firebaseapp.com
 airdropmainnetprotocol.web.app
@@ -822,7 +821,6 @@ atllayer-drop.top
 atltayer-reward.top
 atom.trasthub.top
 audius.gift
-aura-finance.news
 aura-migration.live
 auroravortex.org
 auth-gala.games
@@ -1057,7 +1055,6 @@ bitkubb.lockchain.net
 bitkubbloc.kchain.net
 bitkubblockch.ain.net
 bitkubvip.com
-bitpay.com.de
 bitpulseportal.com
 bitrgbnetwork.com
 bitrock-app.com
@@ -1149,7 +1146,6 @@ blueprints.fi
 blueseanice.com
 blur-drop.claims
 blurioo.github.io
-blurnftgroup.com
 blurprotocol.us
 blust.io
 bnb-crypto.xyz
@@ -1945,7 +1941,6 @@ dapsecure.reslveprotcapp.com
 daqwpa8.top
 dasfy3345fsd.pages.dev
 dash-pepe.com
-dashboard-gogala.games
 dashboard-sol-fran8393.live
 dashboard-synthetix.net
 dashboard.alt.enterprises
@@ -2193,11 +2188,9 @@ drop-apeterminal.com
 drop-ether.fi
 drop-mogcoin.com
 drop.lfgjup.xyz
-dropairframe.com
 dropchecker.app
 dropnibiru.link
 drops-satoshivm.com
-dropsframenet.com
 dropusdt.com
 dropxmulti.top
 dsadsadsadsaeq.pages.dev
@@ -2439,7 +2432,6 @@ event-blockgames.com
 event-chaingpt.org
 event-etf.com
 event-faccana.com
-event-flashprotocol.xyz
 event-grayscale.com
 event-lidofinance.com
 event-pandora.community
@@ -2605,12 +2597,9 @@ fox-club.xyz
 fox-dao.web.app
 fr-worldcoin.web.app
 fragnantinglev.life
-frame-xyz.gift
 frame.markets
-frameairchaindrops.com
 frameassetchains.com
 frameassetchains.net
-framechain-airdrop.com
 framedropnft.com
 framenextech.net
 framenftcollection.com
@@ -2909,7 +2898,6 @@ healthequity.one
 healthequity.za.com
 heatherleelarioni.me
 heavensgate.dog
-heddies.vercel.app
 hedgefund-swap.org
 hedgeswap.org
 helio-money.cyou
@@ -3166,7 +3154,6 @@ join-galxe.com
 join-jup.app
 join-mantanetwork.com
 join-mickeycoin.com
-join-mute-io.events
 join-nocturnes.xyz
 join-pendle.com
 join-pixels.com
@@ -3790,7 +3777,6 @@ mantaa-network.org
 mantaairdropevent.com
 mantaapps.network
 mantabluerewards.com
-mantachainairdrop.org
 mantaclaim.digital
 mantaclaims.digital
 mantaclick.vercel.app
@@ -3827,7 +3813,6 @@ mantao-network.life
 mantao-network.xyz
 mantap.network
 mantapacifc.com
-mantapacificairdrop.org
 mantapcfc.network
 mantareward.com
 mantarewards.com
@@ -4713,6 +4698,7 @@ nusukroadshow.com
 nvenergy.customersupports.network
 nvidiagroot.tech
 nvidiaint.shop
+nviidia.com
 nw6.us
 ny9.us
 nydig.org
@@ -4942,6 +4928,7 @@ pancackeswap-claim.web.app
 pancackeswap-fiannce.com
 pancackeswap-fniance.com
 pancaikeswap.finance
+pancakaswap-finance.xyz
 pancakaswaps.com
 pancake-finance.net
 pancake-frontend-29e48ga31-chefilip.vercel.app
@@ -5046,6 +5033,7 @@ pancakswapv3.com
 pancaqeswap-earn.com
 panccakeswapp.com
 panceksawap.finance
+panckaeswap.xyz
 panckakeswap.finance
 panckswap.com
 pandefi-staking.com
@@ -5710,7 +5698,6 @@ registration-ator.com
 registration-ator.io
 registration-basedbrett.com
 registration-blast.io
-registration-blockgames.com
 registration-bounce.com
 registration-defi.com
 registration-defi.trade
@@ -5729,7 +5716,6 @@ registry-monad.xyz
 rehapp.xyz
 reiki-web3go.xyz
 rektcoineth.org
-rektfrog.com
 rektnow.com
 reloadsula.pages.dev
 remarkable-queijadas-77facb.netlify.app
@@ -5780,7 +5766,6 @@ revoke-etherscan.online
 revoke-paraswap.com
 revoke-realio.com
 revoke-tips.com
-revoke-unibot.com
 revoke-wallet.com
 revoke-wallet.net
 revoke-web.xyz
@@ -6146,7 +6131,6 @@ signup-portalcoin.com
 signup-rabbit.com
 signup-starheroes.com
 signup-starknet.io
-signup-starsarena.com
 signup-velodrome.finance
 signups-apeterminal.com
 signups-befilabs.com
@@ -6287,6 +6271,7 @@ spacequest-jup.ag
 spacexbonus.live
 spadaro.id.au
 spark-claim.org
+spark-fi.xyz
 sparkcircuit.shop
 sparkfi.app
 sparkfi.net
@@ -6717,7 +6702,6 @@ tlex.pro
 tmedicalpr.lol
 tmtmoneyback.pages.dev
 tmwr.pro
-tnsr-whitelist.com
 to.dataui.online
 to.uidista.online
 token-berachain.com
@@ -7491,7 +7475,6 @@ www.bainxu.com
 www.baoninpingan.com
 www.bcilor.com
 www.bckrockgbtc.com
-www.bcr20.xyz
 www.big-x-drops.top
 www.birdeye.exchange
 www.birdeye.markets
