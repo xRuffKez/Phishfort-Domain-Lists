@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 16:04:13 UTC 2024
-# Number of Entries: 8024
+# Fetch date: Tue Apr 16 16:16:20 UTC 2024
+# Number of Entries: 8021
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3700,7 +3700,6 @@ manta-air.xyz
 manta-airdrop.7eel.com
 manta-airdrop.mobi
 manta-airdrop.org
-manta-airdrops.network
 manta-app.com
 manta-appsurvey.com
 manta-claims.xyz
@@ -3799,7 +3798,6 @@ mantao-network.xyz
 mantap.network
 mantapacifc.com
 mantapcfc.network
-mantarewards.com
 mantarnetwork.com
 mantaronetwork.com
 mantas-event.com
@@ -4687,7 +4685,6 @@ nvidiaint.shop
 nviidia.com
 nw6.us
 ny9.us
-nydig.org
 nyurbanonli.com
 nzwinz.com
 o2-cert.com
