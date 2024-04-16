@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 22:33:32 UTC 2024
-# Number of Entries: 108296
+# Fetch date: Tue Apr 16 23:15:21 UTC 2024
+# Number of Entries: 108299
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -52672,6 +52672,7 @@ metliferecruitment.com
 metlifesegurosmexico.com.mx
 metlifetrade.com
 metlifevip.com
+metlifevn.com
 metlmask.com
 metlomask-io.com
 metltamaskweallet.godaddysites.com
@@ -59894,6 +59895,7 @@ newmont-forex.com
 newmont-traders.com
 newmont-us.com
 newmont-usa.com
+newmont.live
 newmont.online
 newmont.pro
 newmontassetss.com
@@ -94914,6 +94916,7 @@ wasabimixer.com
 washignton-post.com
 washignton-post.com.gianlucaungaro.it
 washington-posts.com
+washingtonfinancialpost.com
 washingtonpost.asia
 washingtonpost.careers
 washingtonpost.com.cz03149.tw1.ru
