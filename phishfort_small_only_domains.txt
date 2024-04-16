@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 10:25:48 UTC 2024
-# Number of Entries: 8021
+# Fetch date: Tue Apr 16 10:33:08 UTC 2024
+# Number of Entries: 8019
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -427,7 +427,6 @@ alshayagrooup.shop
 alshayagrooup.store
 alshayagroup.blog
 alshayagroup.shop
-alshayagroupk-s.company.site
 alshayagroupom.company.site
 alshayamegastore.com
 alshayamegastore.online
@@ -3749,7 +3748,6 @@ manta.hair
 manta.layerbank.cc
 manta.layerbank.network
 manta.nettwork.site
-manta.netvork.xyz
 manta.newupdate.io
 manta.pages.dev
 manta.software
