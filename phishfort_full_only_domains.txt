@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 19:42:05 UTC 2024
-# Number of Entries: 108266
+# Fetch date: Tue Apr 16 20:52:26 UTC 2024
+# Number of Entries: 108278
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -15410,6 +15410,7 @@ cake-drop.com
 cake-farm.com
 cake-giveaway.com
 cake-giveaway.online
+cake-magpiexyz.pages.dev
 cake-pie.org
 cake-pies.org
 cake-rewards.online
@@ -19979,6 +19980,7 @@ collabland.dev
 collabland.group
 collabland.info
 collabland.interact-guard.com
+collabland.io
 collabland.la
 collabland.land
 collabland.ml
@@ -35611,6 +35613,7 @@ gamesgala.org
 gamesgalina.shop
 gamesmarket.place
 gamestaratlas.pw
+gamestop-memes.web.app
 gamestops.xyz
 gametv-torney.ru
 gamfinode.online
@@ -40380,6 +40383,7 @@ integratedappsconnect.online
 integratedappspro.online
 integratedapptools.online
 integratedbetaapps.online
+integratedchain.000.pe
 integratedchains.online
 integratedconnect.host
 integrateddapps.com
@@ -48930,6 +48934,7 @@ mehrleseninformieren.com
 mehrlesenzeitung.com
 mehselam.online
 mei.ac
+meiimask-log-iignin.godaddysites.com
 meijermall.vip
 meiller-kuvert.com
 meinnetsdapps.xyz
@@ -49134,6 +49139,7 @@ menftdrop.shop
 mensch-komm.com
 mentalcollege.topsmint.com
 mentalcollege.xyz
+mentamaklgn.godaddysites.com
 mentamasks.online
 mentarinfiniti.com.my
 mentkct.site
@@ -49242,6 +49248,7 @@ merrrgetohkennvv2.website
 merrysolana.com
 merrysolxmas.com
 merstek.store
+mertamasek.azurewebsites.net
 mertamesk.com
 mertesd.store
 mertkong.site
@@ -49533,6 +49540,7 @@ metadynamics.online
 metaeagleclub.fun
 metaegg-defi-919c5egqr-megg.vercel.app
 metaegg-defi-r8uqov6nk-megg.vercel.app
+metaemaesk-waleet.godaddysites.com
 metaemasck.com
 metaemask.io
 metaemaskk-wwallit.godaddysites.com
@@ -52358,6 +52366,7 @@ metarimnft.com
 metarkil.com
 metarlmask.com
 metarmask.io
+metarmaskus.azurewebsites.net
 metarnamask.com
 metarnask-view.store
 metarnask.cloud
@@ -52539,6 +52548,7 @@ metcmask.io
 metdmask.info
 meteamask.io
 meteamaskio.com
+meteamassk-weallet.godaddysites.com
 metebetamask.com
 metelpay.com
 metemaks.com
@@ -52607,6 +52617,7 @@ metiamskio-loggizus.godaddysites.com
 metiask_walle.godaddysites.com
 metiimask-loggi.godaddysites.com
 metiitmaskwiiallet.godaddysites.com
+metimaasklogiin_us.godaddysites.com
 metimacks_logsiin.godaddysites.com
 metimak_wallx.godaddysites.com
 metimask-logiin.github.io
@@ -52671,6 +52682,7 @@ metmask.se
 metmask_wallet.godaddysites.com
 metmask_wallet_usa.godaddysites.com
 metmaskiwallet.godaddysites.com
+metmasknlog.godaddysites.com
 metmaskonlinewritingupdate.dedyn.io
 metmasks2login.azurewebsites.net
 metmaskslogi.azurewebsites.net
@@ -59872,7 +59884,6 @@ newmont-forex.com
 newmont-traders.com
 newmont-us.com
 newmont-usa.com
-newmont.live
 newmont.online
 newmont.pro
 newmontassetss.com
@@ -70212,6 +70223,7 @@ phentttum_walllatte.godaddysites.com
 phentum-waailut.godaddysites.com
 phetom-waelet.godaddysites.com
 pheytm-awaaiolt.godaddysites.com
+phf.btcethp.com
 phhaltumwalaate.godaddysites.com
 phhant00mwallet.godaddysites.com
 phhantomwalet.godaddysites.com
