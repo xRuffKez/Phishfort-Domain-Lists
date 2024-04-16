@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 16:34:25 UTC 2024
-# Number of Entries: 8021
+# Fetch date: Tue Apr 16 16:52:17 UTC 2024
+# Number of Entries: 8022
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -816,6 +816,7 @@ auroravortex.org
 auth-gala.games
 auth-galagames-io.com
 auth-games-galas.online
+auth-metimask.github.io
 auth.meta-syncs.com
 auth.redapps.icu
 auth0discord-collab.world
