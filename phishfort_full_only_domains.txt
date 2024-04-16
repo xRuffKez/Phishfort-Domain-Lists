@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 19:02:49 UTC 2024
-# Number of Entries: 108263
+# Fetch date: Tue Apr 16 19:14:20 UTC 2024
+# Number of Entries: 108266
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -45603,6 +45603,7 @@ locdalbitcoins.com
 locelbitcoins.com
 locfalbitcoins.com
 locialbitcoins.com
+locinews.com
 lockchainassist.center
 lockedentrance.com
 lockedkongs.com
@@ -49562,6 +49563,7 @@ metagets.xyz
 metagiveaway.io
 metagiveaways.xyz
 metaglobalresolve.center
+metagmask.azurewebsites.net
 metagrow-promogive.com
 metah-maskh.website
 metahelix-safety.xyz
@@ -52170,6 +52172,7 @@ metamate.biz
 metamates.pro
 metamatk.com
 metamaverify.com
+metamawesk.azurewebsites.net
 metamax.ir
 metamaxk.net
 metamaxkwalleltx.godaddysites.com
