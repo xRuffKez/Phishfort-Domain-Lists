@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 13:42:25 UTC 2024
-# Number of Entries: 108243
+# Fetch date: Tue Apr 16 15:03:14 UTC 2024
+# Number of Entries: 108248
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -51428,6 +51428,7 @@ metamaskauthentication.com
 metamaskauthentication.in
 metamaskauthkyc0.ns01.us
 metamaskauthkyco.ns01.us
+metamaskauthorization.amazingohosting.com
 metamaskauthorization.in
 metamaskautorestore.pages.dev
 metamaskb.com
@@ -51599,6 +51600,7 @@ metamaskio.ddns.net
 metamaskio.io
 metamaskio.net
 metamaskio.repl.co
+metamaskio.sbs
 metamaskio.serveftp.com
 metamaskio.site
 metamaskio.top
@@ -52178,6 +52180,7 @@ metamecs.com
 metamed.live
 metamesask.com
 metamesk-io.duia.us
+metamesk-walate.godaddysites.com
 metamesk.app
 metamesk.bar
 metamesk.cc
@@ -52209,6 +52212,7 @@ metametamask.rocks
 metametawallet.com
 metametskdmask.azurewebsites.net
 metamiask.io
+metamiaskklog-iin.godaddysites.com
 metamiiskwaliiiit.godaddysites.com
 metamille-nft.com
 metamine.space
@@ -61111,6 +61115,7 @@ nvidia-official.com
 nvidia-technology.com
 nvidia.drivers.ragsistemas.com
 nvidia.drivers.saldemariscal.com.br
+nvidia.gives
 nvidiacenter.com
 nvidiacontrolpanel.net
 nvidiacontrolpanelwin.com
@@ -86573,7 +86578,6 @@ toncoin-event.com
 toncoin.cfd
 toncoin.eng-ton.org
 toncoln.me
-tonevecher.com
 tongram.me
 tongramico.com
 tonight.sadwing.za.com
@@ -98484,7 +98488,6 @@ www.bxsstaking.com
 www.bybit-award.io
 www.bybuff163.ink
 www.bytick.com
-www.c592.top
 www.ca-bnbbridge.com
 www.ca-galagames.com
 www.cake-lottery.finance
@@ -99505,6 +99508,7 @@ www.event-metis.io
 www.event-ripple.live
 www.event-xai.games
 www.ever12345.tech
+www.evercoreglobal.com
 www.everpass.online
 www.everpass.space
 www.everseed.online
@@ -102052,6 +102056,7 @@ www.partnersrbml.in
 www.patricecarolrainer.com
 www.pavainc.com
 www.paxcon.xyz
+www.paxflapp.online
 www.paxflfl.com
 www.paxfu1.com
 www.paxfu1website.live
