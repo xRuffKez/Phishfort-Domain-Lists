@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 07:16:03 UTC 2024
-# Number of Entries: 8019
+# Fetch date: Tue Apr 16 07:24:16 UTC 2024
+# Number of Entries: 8022
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1742,6 +1742,7 @@ connect.kavaxyz.one
 connect.land.net.pl
 connect.nghire.com
 connect.watchkava.xyz
+connect.web3authenticatehub.com
 connect1038.lol
 connectapeterminal.io
 connectdappresolve.pages.dev
@@ -3931,6 +3932,7 @@ meetamaskev.azurewebsites.net
 mefamask.com
 mehrlesenzeitung.com
 meleadapp.com
+mell-coin.web.app
 melstroy.by
 memask.app
 members-kcchamber.com
@@ -4754,6 +4756,7 @@ onlinedetma.click
 onlinedetma.online
 onlinedetma.org
 onlinedetma.za.com
+onlinelaunchdappsvalidate.vercel.app
 onlinenode.pages.dev
 onlinesgpon.cc
 onlysaitachain.migration.rxi.app
@@ -6434,6 +6437,7 @@ survey-arbitrium.com
 susdc.dev
 sushi-swapsushi.github.io
 sushi.gifts
+sushiiswap.xyz
 sushiswap.mom
 sushlswap.github.io
 sw-syncswap.com
@@ -7669,7 +7673,6 @@ www.ordibridge.xyz
 www.organiconetexas.com
 www.orivium.dev
 www.osais.app
-www.osmossis.club
 www.pacific-manta-network.org
 www.pacificc-manta.network
 www.paidnetworkstaking.com
