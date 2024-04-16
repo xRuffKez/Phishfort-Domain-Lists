@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 00:11:04 UTC 2024
-# Number of Entries: 108153
+# Fetch date: Tue Apr 16 01:00:39 UTC 2024
+# Number of Entries: 108159
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -59810,6 +59810,7 @@ newmontglobalmining.com
 newmontinc.com
 newmontinvestment.com
 newmontonline.com
+newmontspltd.com
 newmontvip.com
 newmother.info
 newmyetherwallet.com
@@ -61060,6 +61061,7 @@ nvidiaint.shop
 nvidiamall.vip
 nvidiastore.net
 nvidiatechnologies.com
+nviidia.com
 nw-bridgebnb.com
 nw-swordofblood.com
 nw.xlzzdn.com
@@ -63940,6 +63942,7 @@ pancakasswap.finance
 pancakasvvap.finance
 pancakaswaap.github.io
 pancakaswap-finance.com
+pancakaswap-finance.xyz
 pancakaswap.cam
 pancakaswap.click
 pancakaswap.com
@@ -67515,6 +67518,7 @@ panckacswap.com
 panckaefswap.financial
 panckaekszwap.com
 panckaeswap-finance.digital
+panckaeswap.xyz
 panckakeswap-ilv.com
 panckakeswap-qnt.com
 panckakeswap.finance
@@ -81099,6 +81103,7 @@ spapecoin.com
 spar.shopping
 sparc.pro
 spark-claim.org
+spark-fi.xyz
 sparkcircuit.shop
 sparkfi.app
 sparkfi.net
@@ -86027,6 +86032,7 @@ token-change.com
 token-claim.net
 token-coingecko.com
 token-conversion.com
+token-dife.quest
 token-emrify.com
 token-entangle.com
 token-fix.com
