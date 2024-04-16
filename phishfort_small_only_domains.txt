@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 18:24:22 UTC 2024
-# Number of Entries: 8024
+# Fetch date: Tue Apr 16 18:32:18 UTC 2024
+# Number of Entries: 8025
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3716,6 +3716,7 @@ manta-live.com
 manta-mainet.com
 manta-ndn.xyz
 manta-netowrk.com
+manta-network-7ct.pages.dev
 manta-network-com.pages.dev
 manta-network.click
 manta-network.cloud
@@ -6255,6 +6256,7 @@ sparkprotocol.fi
 speedylendingtree.com
 speedysmartnetwork.com
 sperk.fi
+spirili.com
 spl20-top.web.app
 sponge-claim.online
 spongeev2.online
@@ -6859,7 +6861,6 @@ update-metamask.pages.dev
 updatedexserver.net
 updatenow.pages.dev
 updates-metamask.pages.dev
-url-shortener.me
 us-ashleymadison.com
 us-coinmarketcap.com
 us4f.cc
