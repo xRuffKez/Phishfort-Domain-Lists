@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 16:04:32 UTC 2024
-# Number of Entries: 108254
+# Fetch date: Tue Apr 16 16:27:05 UTC 2024
+# Number of Entries: 108253
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -24624,6 +24624,7 @@ dappwalletrectifications.live
 dappwallets-synchronizer.com
 dappwallets.io
 dappwallets.pages.dev
+dappwallets.rf.gd
 dappwallets.xyz
 dappwalletsauthorisation.com
 dappwalletsbrowser.com
@@ -52640,7 +52641,6 @@ metliferecruitment.com
 metlifesegurosmexico.com.mx
 metlifetrade.com
 metlifevip.com
-metlifevn.com
 metlmask.com
 metlomask-io.com
 metltamaskweallet.godaddysites.com
@@ -61140,7 +61140,6 @@ nxraclaim.com
 ny9.us
 nycnfts.xyz
 nycweb3.co
-nydig.org
 nydiq.com
 nyebnqukkm.cam
 nyeihitervvallat.com
