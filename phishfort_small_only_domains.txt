@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 01:00:26 UTC 2024
-# Number of Entries: 8051
+# Fetch date: Tue Apr 16 01:31:45 UTC 2024
+# Number of Entries: 8066
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -407,8 +407,10 @@ algogold.com
 alienswape.shop
 all4whitelisted.pages.dev
 allenanna.com
+allfixednodes.pages.dev
 allianceblock-io.events
 allin1.cx
+allmulti.pages.dev
 allocate-starknet.com
 allocation-getgrass.com
 allocation-jup.trading
@@ -692,6 +694,8 @@ appmavia.com
 appmavia.org
 appmilkyway.zone
 appmultinitroverse.pro
+appnetworksupport.pages.dev
+appnodecon.pages.dev
 appparcl.co
 appquestn.com
 appresolvefix.pages.dev
@@ -741,7 +745,6 @@ arbetrum.foundation
 arbi-dex.one
 arbination.site
 arbinucoin.vercel.app
-arbitrrum-bridge.com
 arbitrum-air.icu
 arbitrum-airdrop2023.com
 arbitrum-reward.xyz
@@ -833,6 +836,7 @@ authradarbridge.com
 auths-mylogn.com
 auto-financiamiento.online
 autoassetsvalidation.xyz
+autodappx.pages.dev
 autodiscover.aflacsinc.com
 autofix-node.pages.dev
 automation-feat-front-3795-display-log-tr-chainlinklabs.vercel.app
@@ -930,6 +934,7 @@ basebrett.lol
 basebrett.xyz
 basecwap.org
 basedbrett.xyz
+basedrewardsxpresale.pages.dev
 baseswaap.top
 batmansol.com
 baycarepatientportal.net
@@ -1373,9 +1378,11 @@ cfdconnect.online
 chaemlist.org
 chaenlict.org
 chaibenefitmassimui.com
+chain-base.pages.dev
 chain-linklabs.live
 chain-linknetwork.io
 chain-list.top
+chain-node.pages.dev
 chain-strk.com
 chainbugs.org
 chainflip.team
@@ -1441,6 +1448,7 @@ city-index.net
 cityindex-china.com
 clailmreward.xyz
 claim-1inch.org
+claim-all-rewards.pages.dev
 claim-argent.xyz
 claim-artlayers.vercel.app
 claim-bigeyes.network
@@ -1930,6 +1938,7 @@ dappsswarm.com
 dappstaking.net
 dappswalletsnode.firebaseapp.com
 dappswalletsnode.web.app
+dappsxfix.pages.dev
 dappsync-apw.pages.dev
 dappsyncrecovery.pages.dev
 dapptest-mindnetwork.firebaseapp.com
@@ -1975,6 +1984,7 @@ debnhames.company.site
 debnk.net
 debug-metamask.pages.dev
 debug-multichain.pages.dev
+debug-x.pages.dev
 debugdecentralize.pages.dev
 debugdeconnec.pages.dev
 decentralands.vip
@@ -2024,6 +2034,7 @@ defifix.pages.dev
 defihug.online
 defiilama.eu
 defilama.eu
+defilaunchpad.pages.dev
 defimanta.net
 defimining101.com
 defiportfolio.online
@@ -2074,6 +2085,8 @@ dex-stargate.finance
 dex-tool-portal.live
 dexautomate.web.app
 dexcoms.com
+dexlaunchlive.pages.dev
+dexlaunchpadlive.pages.dev
 dexpcsintergal.com
 dexprotocolchain.io
 dexprotocolchain.live
@@ -2345,8 +2358,10 @@ eportal-suppliers.online
 epriceshop02.cc
 equinor-ind.net
 equty.sa.com
+erc-api.pages.dev
 erc-wintermute.org
 erc20tokenfactory.netlify.app
+erclink.pages.dev
 erdefimining.com
 ericaleite.com
 ernfi.xyz
@@ -2369,7 +2384,9 @@ eth-gasfee.com
 eth-yieldfarming.org
 eth2.foundation
 ethdrop.xyz
+ethena-3web.pages.dev
 ethena-airdrop.vercel.app
+ethena-crypto.pages.dev
 ethena-ddg.pages.dev
 ethena-dwm.pages.dev
 ethena-labs.click
@@ -2479,7 +2496,6 @@ ezcalibur.com
 ezkalibur.com.web3-connect.pw
 f0d0fc.cc
 f47jx6.pro
-f89badf5.7acd740c665c9b25ec20d877.workers.dev
 f930fi.info
 factsync.pages.dev
 familylink-oracle.com
@@ -2525,6 +2541,7 @@ fidelityadvancedsaving.com
 figure-distribution.com
 figurefourchampionship.com
 fillold.mypsx.net
+filsmarttechprompt.pages.dev
 finance-decrypt.com
 finance.pancakswaps.com
 financialpanache.com
@@ -2690,7 +2707,6 @@ genesis-dem.xyz
 genesis-dym.com
 genesis-roll.com
 genesis-x-ads.com
-genesis.dymansion.xyz
 genesis.dymensjon.xyz
 genesis.dymenstion.xyz
 genesis.dynmension.xyz
@@ -2807,10 +2823,12 @@ gq26v.pro
 grab-farcanacom.pages.dev
 grab-zetachain.com
 grandomaster.com
+grape-officialx.pages.dev
 graviex-defi.club
 graviex-defi.xyz
 graybarz.com
 greenbitcoin-en.web.app
+greenbitscoin.pages.dev
 greencorp.online
 greendot-group-team.pages.dev
 greens-bitcoins.web.app
@@ -3810,7 +3828,6 @@ mantao-network.xyz
 mantap.network
 mantapacifc.com
 mantapcfc.network
-mantareward.com
 mantarewards.com
 mantarnetwork.com
 mantaronetwork.com
@@ -4552,7 +4569,6 @@ newmontspltd.com
 newmontvip.com
 newparadigm-manta-login.network
 newparadigm-manta.events
-newparadigm.manta.technology
 newparadiqm-manta.network
 newporkcoin.pages.dev
 newprovisionschainlink.org
@@ -6291,7 +6307,6 @@ square-dream-wailing.on-fleek.app
 srsdistribution-us.com
 srtoos.com
 srxuznzcsy.nepialisen.tech
-ssly.vip
 sspark.fi
 st.betiutima.online
 stableusdc.com
@@ -6709,7 +6724,6 @@ tokens-rocketpool.net
 tokens-satoshivm.io
 tokens-zk.link
 tokensairdrops.com
-tokensfree2024.com
 tokensynced.pages.dev
 toll.a407info.com
 tolls-407express.com
@@ -6953,6 +6967,7 @@ vectorreserve.live
 veeam.careers
 velamigration.pro
 velodrome-finance.app
+veloxlinknode.pages.dev
 venafi.site
 vendorprocurement.online
 vendorseuae.com
@@ -7318,6 +7333,7 @@ whitelist-sillydragon.com
 whitelist-wenwencoin.com
 whitelist-woo.org
 whitelist-woo.pages.dev
+whitelistedonly.pages.dev
 whitelisting-wormhole.com
 whitelistings-wormhole.com
 whitelistrabby.pages.dev
@@ -7535,7 +7551,6 @@ www.ethfi.farm
 www.ethgasrefund.com
 www.ethswe.com
 www.etokensolana.aysarr.in
-www.event-metis.io
 www.event-xai.games
 www.evm-monad.xyz
 www.evoypremium.com.br
