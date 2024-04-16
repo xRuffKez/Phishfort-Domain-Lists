@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 06:34:08 UTC 2024
-# Number of Entries: 8008
+# Fetch date: Tue Apr 16 06:42:00 UTC 2024
+# Number of Entries: 8011
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -657,6 +657,7 @@ app.trezoriosstart.com
 app.unsiwap.us.com
 app.vertexprotocoi.com
 app.walletguard.cloud
+app.wormholider.com
 app.xn--1nch-qpa.io
 app.zenomedequipment.com
 app.zkeztrade.com
@@ -1040,7 +1041,6 @@ biticlubs.com
 bitilandos.com
 bitinaut.top
 bitinteractivebrokers.org
-bitkub-airdrop.com
 bitkub-th.pro
 bitkub-th.vip
 bitkub.fafa855casino.com
@@ -2381,6 +2381,7 @@ ethenafinance.net
 ether-web3.com
 etheregas.xyz
 etheremgas.xyz
+ethereum-dashboard.com
 ethereum-events.tiiny.co
 ethereum-rewards.tiiny.co
 ethereum-wpos.club
@@ -3174,6 +3175,7 @@ jsebastiao.com
 jsjtgroup.cn
 jsjtrading.com
 jsoq9.cn
+jtl11.com
 jtontwrk.com
 jubilant-meme.vercel.app
 judi10.com
@@ -5871,6 +5873,7 @@ routerprotocol.finance
 routerprotocol.network
 rpc-debugextensiondapps.pages.dev
 rpc-flodapps.online
+rpc-interface.net
 rpc-metafix.pages.dev
 rpcchainfix.net
 rpcdebug-extensiondapps.pages.dev
