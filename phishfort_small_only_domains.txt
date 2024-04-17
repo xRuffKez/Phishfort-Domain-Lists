@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 08:32:48 UTC 2024
-# Number of Entries: 8063
+# Fetch date: Wed Apr 17 08:42:03 UTC 2024
+# Number of Entries: 8062
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3405,7 +3405,6 @@ layerbank.trading
 layerdank.finance
 layernetwork.ink
 layerszero.pics
-layerxpub-rectification.pages.dev
 layerzero-superverse.com
 layerzeroclaims.xyz
 layerzeronetwork.io
@@ -4869,7 +4868,6 @@ optimism4.com
 optiver-vip.com
 optiver-vipapp.vip
 optiver.cc
-optivertradeoptions.com
 optiverusdt.net
 optpodeg.com
 optqsou.com
@@ -4953,6 +4951,7 @@ pancake-frontend-29e48ga31-chefilip.vercel.app
 pancake-frontend-flznr5rp3-chefilip.vercel.app
 pancake-ifo.pages.dev
 pancake-magpiexyz.pages.dev
+pancake-projclaim.vercel.app
 pancake-stake.pages.dev
 pancake-swap-airdrop.com
 pancake-swap-finances.pages.dev
