@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 14:52:14 UTC 2024
-# Number of Entries: 8019
+# Fetch date: Wed Apr 17 15:15:44 UTC 2024
+# Number of Entries: 8012
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -405,6 +405,7 @@ all4whitelisted.pages.dev
 allenanna.com
 allfixednodes.pages.dev
 allianceblock-io.events
+allied.online-portal.best
 allin1.cx
 allmulti.pages.dev
 allocate-starknet.com
@@ -529,7 +530,6 @@ api.kavashield.icu
 api.kavasync.xyz
 api.kavasyncs.xyz
 api.kavaworlds.live
-api.s.arbitrumchain.net
 api.worldskava.xyz
 api05-collab.com
 api11-altidentifier.com
@@ -637,7 +637,6 @@ app.opsecgifts.com
 app.parallelfl.network
 app.pepepay.finance
 app.prisrnafinance.com
-app.qirtm.com
 app.raticswap.xyz
 app.refundcoinstake.com
 app.renzoprotocols.net
@@ -832,7 +831,6 @@ avalchain-bridge.com
 avantiengineering.org
 avax-award.xyz
 avax-chain-staking.pages.dev
-avax-drop.tech
 avax-gains.xyz
 avax-swap.com
 avaxtoken.pro
@@ -2628,7 +2626,6 @@ fusionist.trading
 fusioxn-finance.com
 futureswap.website
 fx0qlmo.cc
-fïxedlfloat.com
 g2os0.pro
 g5-airtm.com
 gahiett.com
@@ -3386,8 +3383,6 @@ layer2-metis.io
 layer3.byethost5.com
 layer3.cyou
 layeraifarm.org
-layerbank.net
-layerbank.org
 layerbank.trading
 layerdank.finance
 layernetwork.ink
@@ -4149,6 +4144,7 @@ metisclaim.site
 metisdao.fi
 metisdaovotings.com
 metisdex.io
+metises.xyz
 metlife.spicus.com
 metlifeconsumerservicesinc.store
 metlifeperteinsu.com
@@ -4162,6 +4158,7 @@ metnmaskn.io
 metoamask.com
 metqamaskv.azurewebsites.net
 metramassusk.azurewebsites.net
+metroinvestmentcapital.com
 metrsamasknig.azurewebsites.net
 metsafnmaske.azurewebsites.net
 metsfghmaskus.azurewebsites.net
@@ -4493,7 +4490,6 @@ myuimapay.online
 myverybenef.com
 mywalletexodus.com
 mywfmanager.com
-na2-docusign-net-envelope-office365-auth.us-southeast-1.linodeobjects.com
 nabla-amm.fi
 nabla-finance-week4testnetlive.vercel.app
 naka-migos.net
@@ -6118,7 +6114,6 @@ signup-portal.com
 signup-portalcoin.com
 signup-rabbit.com
 signup-starheroes.com
-signup-starknet.io
 signup-velodrome.finance
 signups-apeterminal.com
 signups-befilabs.com
@@ -7465,6 +7460,7 @@ www.brothernz.com
 www.bscpad-launchpad.live
 www.burakglobalfirm.com
 www.butterfieldoffshore.com
+www.c592.top
 www.cake-reward.shop
 www.cakes-reward.xyz
 www.catholicf-la.org
@@ -7555,7 +7551,6 @@ www.helpdoc-avalache.online
 www.holdblur.foundation
 www.hustlegenix.crd.mvu.mybluehost.me
 www.iayerzero-claim.net
-www.ibkrixs.vip
 www.imtoken-im.team
 www.interactivebroker.live
 www.interactivebrokerstrading.com
@@ -7777,7 +7772,6 @@ www.unitedaircareers.com
 www.useneuxs.org
 www.usenxeus.org
 www.ustaylorsshop.com
-www.v2-manta.network
 www.verify-collab-land.com
 www.verify-collabland.xyz
 www.verify.aits.tech
@@ -7802,7 +7796,6 @@ www.xrpsolana.com
 www.ylouch.com
 www.ypredictai.xyz
 www.zerion.claimfree.xyz
-www.zksync-protocols.com
 wwwjup.ag
 wwwmakerdao.com
 wwwns1.smtp.old.newpardigm-manta.network
