@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 13:52:14 UTC 2024
-# Number of Entries: 8056
+# Fetch date: Wed Apr 17 14:02:55 UTC 2024
+# Number of Entries: 8052
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -549,7 +549,6 @@ app-ait.pages.dev
 app-altlayer.io
 app-amulet-amuverse.pages.dev
 app-angle.money
-app-apyether.org
 app-axeinifnity.com
 app-benqi.online
 app-betafinance.org
@@ -726,7 +725,6 @@ aramexservicevktb.world
 arb.airpuds.top
 arb.claimscrypto.top
 arb.t-wallets.top
-arb.tpuds.top
 arb.x-wallet.top
 arb.xcoindrop.top
 arb2.network
@@ -751,7 +749,6 @@ arbitrumpresale.netlify.app
 arbitrumsurveys.com
 arbitrurrm.foundation
 arbiusupgrade.ai
-arbname.org
 arc-ai.net
 arc8.games
 archetives.com
@@ -3066,7 +3063,6 @@ inspireaj.com
 instadapp.app
 instant-bravet.info
 instant-stake.com
-insure-defi.org.cogwise-app.com
 integratebitchainfix.pages.dev
 integratechaindefi.pages.dev
 integratedchain.000.pe
@@ -4700,7 +4696,6 @@ notcoin-drop.com
 notcoin-network.wiki
 notcoin.art
 notcoin.global
-notcoin.host
 notionalfinance.org
 novochevro.online
 now.l3-mode.world
@@ -7411,6 +7406,7 @@ www-peryourhealth.com
 www-safe-global.info
 www.0xprotocol.site
 www.1asxhkd.com
+www.1inch.ink
 www.1inchfinance.com
 www.1inchrewards.com
 www.1inchwallet.app
