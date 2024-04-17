@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 06:03:47 UTC 2024
-# Number of Entries: 8053
+# Fetch date: Wed Apr 17 06:16:25 UTC 2024
+# Number of Entries: 8054
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1398,6 +1398,7 @@ check-defi.com
 check.wenser.e2p.xyz
 checkaml.fun
 checker-whole.app
+checksart.top
 cheelee.io-5000-usd-air.info
 chendimassachoist.com
 chevroletshopdrive.ws
@@ -3956,6 +3957,7 @@ memeland-verify.web.app
 memelandcoin.vercel.app
 memelandeth.com
 memelauncher.io
+memeplanet.github.io
 memes-kombats.web.app
 memeskombats.online
 mentamaklgn.godaddysites.com
@@ -7211,7 +7213,6 @@ web3apitq.tk
 web3app-connect.xyz
 web3app.space
 web3bugrectify.pages.dev
-web3bugsdapp.pages.dev
 web3check.cfd
 web3coins1.top
 web3coins10.top
