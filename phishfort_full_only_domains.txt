@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 07:52:06 UTC 2024
-# Number of Entries: 108351
+# Fetch date: Wed Apr 17 08:33:07 UTC 2024
+# Number of Entries: 108353
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -30372,6 +30372,7 @@ ethena-mining.pages.dev
 ethena-pool.pages.dev
 ethena-solutions.pages.dev
 ethena.blog
+ethenafi.vip
 ethenafinance.net
 ethence.com
 ethenrscan.info
@@ -84915,6 +84916,7 @@ tensor-samurai.io
 tensor-trade-git-tree-tensor.vercel.app
 tensor.credit
 tensorians.site
+tensors.site
 tensorsamurai.space
 tenths.site
 tenx-tech.com
