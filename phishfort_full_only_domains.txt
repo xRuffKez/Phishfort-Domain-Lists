@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 20:32:40 UTC 2024
-# Number of Entries: 108396
+# Fetch date: Wed Apr 17 20:42:05 UTC 2024
+# Number of Entries: 108397
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -90971,6 +90971,7 @@ veeam-soft.com
 veeam-software.com
 veeam.careers
 veeam.jamvi.ru
+veeam.works
 veeame.com
 veecon.premint-now.com
 veecon.top
