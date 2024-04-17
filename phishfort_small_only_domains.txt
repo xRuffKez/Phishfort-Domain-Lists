@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 07:03:26 UTC 2024
-# Number of Entries: 8064
+# Fetch date: Wed Apr 17 07:23:00 UTC 2024
+# Number of Entries: 8063
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2092,7 +2092,6 @@ dhk6y.cc
 diag-bracco.com
 diamond-magiceden.network
 diamondhands-ethereum.web.app
-digital.free-zetachain.online
 digitaldefi.pro
 digitalsec.mypsx.net
 digitdef.com
@@ -2820,6 +2819,7 @@ grape-officialx.pages.dev
 graviex-defi.club
 graviex-defi.xyz
 graybarz.com
+grayscaletokens.com
 greenbitcoin-en.web.app
 greenbitscoin.pages.dev
 greencorp.online
@@ -3265,6 +3265,7 @@ juups.io
 jwsco.pro
 kaijutoys.shop
 kameiot.exchange.web3-l2.cfd
+kamino-allocation.vercel.app
 kamino-financec.one
 kamino.life
 kamno.finance
@@ -3518,7 +3519,6 @@ link.kavaworlds.top
 link.kavaxyz.pro
 link3.cfd
 link3.hair
-link3.web3-manager.com
 links-airtm.com
 liquid-stake.com
 liquidether.org
@@ -3819,7 +3819,6 @@ mantao-network.xyz
 mantap.network
 mantapacifc.com
 mantapcfc.network
-mantarnetwork.com
 mantaronetwork.com
 mantas-event.com
 mantas-events.net
@@ -4815,6 +4814,7 @@ opensaepro.vercel.app
 opensaeproclaim.vercel.app
 opensea-air.vercel.app
 opensea-doc.rf.gd
+opensea-drainer.vercel.app
 opensea-io.pages.dev
 opensea-proclaim.vercel.app
 opensea-pronfts.vercel.app
@@ -5994,6 +5994,7 @@ saqacase.vip
 sareachbuy.com
 satisdex.xyz
 satkeland.com
+satoshi-one.vercel.app
 satoshidex-in.web.app
 satoshinew123.pages.dev
 satoshiprotocol.vercel.app
@@ -6588,6 +6589,7 @@ teleportdao.su
 templatesync.pages.dev
 tenser.trade
 tensor-samurai.io
+tensor-trade-git-tree-tensor.vercel.app
 tensorsamurai.space
 terminal-befilabs.com
 terra-airdrop.onrender.com
@@ -7129,7 +7131,6 @@ walletconnect.app-net.top
 walletconnect.pages.dev
 walletconnectio.vercel.app
 walletdefi69.top
-walletrectifier.pages.dev
 walletresolution.com
 wallets-collabland.com
 walletton.org
@@ -7659,7 +7660,6 @@ www.metamask08.com
 www.metamask12.pro
 www.metamask68.com
 www.metamask88.com
-www.metamaskaa.com
 www.metamaskai.xyz
 www.metamaskarticle.com
 www.metamaskcion.com
@@ -8016,7 +8016,6 @@ zkfair.pm
 zkfair.supply
 zkfair.team
 zkfairdrop.netlify.app
-zkfairi.io
 zkfairio.io
 zkfari.io
 zkfarri.io
