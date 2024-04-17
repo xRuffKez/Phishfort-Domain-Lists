@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 11:42:03 UTC 2024
-# Number of Entries: 108355
+# Fetch date: Wed Apr 17 12:32:14 UTC 2024
+# Number of Entries: 108356
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -43125,6 +43125,7 @@ launchpad.seedify.stg.dev
 launchpad.seedify.usa.museum
 launchpad.seedify.zapto.xyz
 launchpad.seidify.fund
+launchpad.smartlayernetwork.app
 launchpad.solhero.org
 launchpad.staking-ethereum2.org
 launchpad.staking114309-ethereum.org
