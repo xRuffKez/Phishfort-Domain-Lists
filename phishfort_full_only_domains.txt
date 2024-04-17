@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 05:32:25 UTC 2024
-# Number of Entries: 108328
+# Fetch date: Wed Apr 17 05:52:14 UTC 2024
+# Number of Entries: 108334
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2623,6 +2623,7 @@ across.run
 acrossnetwork.net
 acrossprotocol.net
 acrosss-bridge.xyz
+acrossto-v2.org
 acrossto.co
 acrosstoken.com
 acrtmn.com
@@ -17422,6 +17423,7 @@ claim.frieend.tech
 claim.get-ton.com
 claim.governance-mav.app
 claim.hundoneth.com
+claim.hundonsoll.com
 claim.hundsonsol.com
 claim.iens.xyz
 claim.iensprotocoi.xyz
@@ -38293,6 +38295,7 @@ hft-blur.io
 hft-fyfc.com
 hg-shaw.com
 hgfz.cuifengpaper.com
+hhfh.cc
 hhy9yy56bffqmo6o5tif.6j42fsx.ru
 hiasihzoa.com
 hibamasrour-unipessoal.pt
@@ -41895,6 +41898,7 @@ kcucoin.com
 kdq1gwcscj64064f8e088d0.tanmah.ru
 kduo.cc
 kdusd.xyz
+kdvrp.cc
 kealemn.online
 kebeb.site
 kecamatan.xyz
@@ -62975,6 +62979,7 @@ opnsae.io-p.site
 opnsea.digital
 opnsea.site
 opnseaboxed.vercel.app
+opnseafreemint34.vercel.app
 opnseawhitelist.com
 opnsreapro.vercel.app
 opnx.events
@@ -108279,6 +108284,7 @@ zrotoken.com
 zrxairdrop.com
 zsb.ctianhai.com
 zscqxy.gjsygs.com
+zsgai.pro
 zsjyc.erikcooke.com
 zskync.com
 zskync.network
