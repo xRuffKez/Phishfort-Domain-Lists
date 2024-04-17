@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 06:03:57 UTC 2024
-# Number of Entries: 108334
+# Fetch date: Wed Apr 17 06:43:37 UTC 2024
+# Number of Entries: 108344
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4380,6 +4380,7 @@ allnodeschains.com
 allnodesdaps.com
 allnodeupdate.com
 allocate-starknet.com
+allocation-ether.fi
 allocation-getgrass.com
 allocation-jup.trading
 allocation-layerzero.network
@@ -12376,7 +12377,9 @@ biticommunity.com
 bitifinex-app-conec.blogspot.com
 bitikub.com
 bitilandos.com
+bitimeta.space
 bitinaut.top
+bitinautsmeta.space
 bitinautz.com
 bitinfo.live
 bitinsuremainnet.com
@@ -12907,6 +12910,7 @@ blaster-airdrop.com
 blasterscore.io
 blasteventih.com
 blasteventio.com
+blastfund.io
 blastingv2.com
 blastio.group
 blastio.ink
@@ -16543,6 +16547,7 @@ checks-mint.art
 checks-pass.xyz
 checks-raffles.com
 checksart.com
+checksart.top
 checksazuki.com
 checksmint.com
 checksminting.com
@@ -28646,6 +28651,7 @@ efkerant.site
 efkonkents.site
 eform-agoda.com
 efretem.store
+efther.fi
 efwefwef-6io.pages.dev
 eg2.sharapovafrance.com
 eggdistill.cn
@@ -30438,6 +30444,7 @@ ether-zero.info
 ether-zero.net
 ether.blogmedium.top
 ether.claims
+ether.fi.it
 ether.fo
 ether.for-mint.com
 ether.sx
@@ -49135,6 +49142,7 @@ memellands.com
 mememetaverse.xyz
 mememshivmask.azurewebsites.net
 memenft.com
+memeplanet.github.io
 memerkombat.org
 memes-kombats.web.app
 memes.wlstreet-sale.cloud
@@ -77582,6 +77590,7 @@ saphire-nft.xyz
 sapienz-nft.xyz
 sapienznft.xyz
 sappy-seals.xyz
+sappy3d.top
 sappyseals.connection-web3.com
 sappyseals.enter-mint.com
 sappyseals.live
@@ -84628,6 +84637,7 @@ tantortman.site
 tantw.buzz
 tanzaniaguideadventures.com
 taob-ai.com
+taobank.net
 taodan2014.com
 taoken.im
 taormina-fourseasons.com
