@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 05:42:13 UTC 2024
-# Number of Entries: 8051
+# Fetch date: Wed Apr 17 05:52:02 UTC 2024
+# Number of Entries: 8053
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -178,6 +178,7 @@ achieve-altlayer.io
 achieve-altlayer.pages.dev
 achtama.info
 acrosss-bridge.xyz
+acrossto-v2.org
 active-supp-ort-meta.netlify.app
 admin.makerdao.top
 admincoinbase.the123456789.com
@@ -4841,6 +4842,7 @@ operenbox-javis-nyugens-projects.vercel.app
 opernsea.io
 opeseapro.vercel.app
 opnseaboxed.vercel.app
+opnseafreemint34.vercel.app
 opnsreapro.vercel.app
 oprensea.io
 ops-drop.live
