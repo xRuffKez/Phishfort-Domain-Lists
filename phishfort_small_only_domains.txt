@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 20:52:12 UTC 2024
-# Number of Entries: 8016
+# Fetch date: Wed Apr 17 21:04:30 UTC 2024
+# Number of Entries: 8014
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -811,6 +811,7 @@ auth-metimask.github.io
 auth.meta-syncs.com
 auth.redapps.icu
 auth0discord-collab.world
+authcontractsync.pages.dev
 authenticatefix-io.web.app
 authenticatorjoin.cc
 authradarbridge.com
@@ -3844,7 +3845,6 @@ mask.gift
 maskairdrop.link
 maskbymetamask.io
 maskclaim.top
-maskclaims.info
 maskcoin.pages.dev
 masktoken.cash
 masktokens.com
@@ -4024,7 +4024,6 @@ metamask-verfiy.diaitologostopouza.gr
 metamask-verse.pages.dev
 metamask-wallet-main.pages.dev
 metamask-wallet.pro
-metamask.baby
 metamask.com-a62.xyz
 metamask.cool
 metamask.firsthfb.com
@@ -6063,7 +6062,6 @@ sharpfi.pages.dev
 shdw-get-o5yed.netlify.app
 shein3.com
 shelldao.net
-sherapnel.com
 shezmu-tech.online
 shi-do.x--t.co
 shiabrams.netlify.app
