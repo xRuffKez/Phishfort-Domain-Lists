@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 07:42:01 UTC 2024
+# Fetch date: Wed Apr 17 08:03:37 UTC 2024
 # Number of Entries: 8063
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2379,6 +2379,7 @@ ethena-mining.pages.dev
 ethena-pool.pages.dev
 ethena-solutions.pages.dev
 ethena.blog
+ethenafi.vip
 ethenafinance.net
 ether-web3.com
 ether.fi.it
@@ -2563,7 +2564,6 @@ flareairdrop.vercel.app
 flash-arbitrage.xyz
 flightreservations.xyz
 floadfixed.com
-float-fixed.com
 flojet.com.vn
 floki-claim.net.qqhosting3.com
 floki-claim.vercel.app
@@ -3971,7 +3971,6 @@ merative.site
 merc404.xyz
 merchantserviceadvisers.com
 merchantsmoe.com
-mergeappsevers.pages.dev
 mergeben.tech
 mergebitswap.com
 merkle.cash
@@ -6590,6 +6589,7 @@ templatesync.pages.dev
 tenser.trade
 tensor-samurai.io
 tensor-trade-git-tree-tensor.vercel.app
+tensors.site
 tensorsamurai.space
 terminal-befilabs.com
 terra-airdrop.onrender.com
