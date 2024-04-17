@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 06:16:25 UTC 2024
-# Number of Entries: 8054
+# Fetch date: Wed Apr 17 06:28:10 UTC 2024
+# Number of Entries: 8060
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -408,6 +408,7 @@ allianceblock-io.events
 allin1.cx
 allmulti.pages.dev
 allocate-starknet.com
+allocation-ether.fi
 allocation-getgrass.com
 allocation-jup.trading
 allocation-pixels.com
@@ -1036,6 +1037,7 @@ bithotel.co
 biticlash.com
 biticlubs.com
 bitilandos.com
+bitimeta.space
 bitinaut.top
 bitinteractivebrokers.org
 bitkub-th.pro
@@ -2265,6 +2267,7 @@ econopure.com.vn
 eeogresources.com
 eesee.trading
 eform-agoda.com
+efther.fi
 efwefwef-6io.pages.dev
 egrowmax.com
 egrtht.pages.dev
@@ -2377,6 +2380,7 @@ ethena-solutions.pages.dev
 ethena.blog
 ethenafinance.net
 ether-web3.com
+ether.fi.it
 etheregas.xyz
 etheremgas.xyz
 ethereum-dashboard.com
@@ -5979,6 +5983,7 @@ san-swap.com
 sanabilprint.com
 sanshumigration.web.app
 sanswap.com
+sappy3d.top
 saqa-cases.app
 saqaboxes.trade
 saqacase.vip
@@ -6557,6 +6562,7 @@ taiko.org-t.co
 takeitnow.pro
 tamairdrop.netlify.app
 taob-ai.com
+taobank.net
 taodan2014.com
 tareekhsouria.com
 tasfinancial.co
