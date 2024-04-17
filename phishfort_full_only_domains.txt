@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 17:52:15 UTC 2024
-# Number of Entries: 108382
+# Fetch date: Wed Apr 17 18:42:03 UTC 2024
+# Number of Entries: 108390
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -10921,6 +10921,7 @@ beartoken.io
 bearxmint.com
 beastbit.io
 beasties.host
+beastmine.top
 beatbotsofficial.xyz
 beatskub.click
 beautiful-benz.5-253-84-133.plesk.page
@@ -16697,6 +16698,7 @@ chrome-extension-create-log.com
 chrome-extension-metamask.ddnss.eu
 chrome-extension-nkbihfbeogaeaehiefnkodbefpgknn.com
 chrome-extension-nkbihfbeogaeaelhiefnlkodbefpgknn.com
+chrome-extension-nkbihfbeogaeaoeh.mx
 chrome-extension-nkbihfbeogaeaoehlefnkodbefgpgknn.apesstake.gq
 chrome-extension-nkbihfbeogaeaoehlefnkodbefgpgknn.apestake.biz
 chrome-extension-nkbihfbeogaeaoehlefnkodbefgpgknn.apestakes.cf
@@ -20853,6 +20855,7 @@ connectorwallet.pages.dev
 connectpancakeswap.com
 connectplugdapp.xyz
 connectpro.online
+connectprotocol.42web.io
 connectprotocol.live
 connectprotocoldapps.com
 connectreal.top
@@ -22557,6 +22560,7 @@ cumrnins.ca
 cunestiniversityhome.dedyn.io
 cunicomk.co
 cuotaschevrolet.com.ar
+curiositiesauth.com
 curiositiesauth.net
 currency-connect.com
 currency-heni.web3-airdrop.net
@@ -51507,6 +51511,7 @@ metamaskauthorization.in
 metamaskautorestore.pages.dev
 metamaskb.com
 metamaskb.icu
+metamaskb.io
 metamaskbackup.com
 metamaskbak.cc
 metamaskbali.com
@@ -73207,6 +73212,7 @@ psecured-paxful.com
 psecurity-paxful.com
 psegenergy.support
 psetinkeri.live
+psgyh.top
 psncakeswap.finance
 pssd.id
 pssd.world
@@ -101105,6 +101111,7 @@ www.mintcollab.com
 www.mintcollabpad.com
 www.mintconnectchain.com
 www.mintnifty.xyz
+www.mintsquare.gift
 www.mintstakedao.com
 www.mirror-gmxexchangeio.net
 www.mirror-stakedao.com
@@ -104102,6 +104109,7 @@ www.vpn-revoke.com
 www.vpn.myadmin.1inch.fusiondim.com
 www.vrumod.com
 www.vsecurity-paxful.com
+www.vulcan-apps.com
 www.vumqtrx.top
 www.vvalletecormect.tech
 www.vvs-cronos.com
