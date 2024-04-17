@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 17:52:04 UTC 2024
-# Number of Entries: 8011
+# Fetch date: Wed Apr 17 18:04:26 UTC 2024
+# Number of Entries: 8013
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1747,6 +1747,7 @@ connectextension.info
 connectionlog.pages.dev
 connectnetwork.lojavirtualnuvem.com.br
 connectorwallet.pages.dev
+connectprotocol.42web.io
 connects-collabland.com
 connects-nibiru.com
 connectweb3-trustwallet.com
@@ -4052,6 +4053,7 @@ metamaskapp-kyc-auth24.com
 metamaskapp.space
 metamaskarticle.com
 metamaskb.icu
+metamaskb.io
 metamaskc.org
 metamaskcrypto.com
 metamaskdek.azurewebsites.net
