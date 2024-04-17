@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 15:03:20 UTC 2024
-# Number of Entries: 108372
+# Fetch date: Wed Apr 17 15:16:00 UTC 2024
+# Number of Entries: 108373
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6447,7 +6447,6 @@ app.pomerdoge.live
 app.pool-1inch.io
 app.prisrnafinance.com
 app.pulsiex.com
-app.qirtm.com
 app.questn.org
 app.radant.capital
 app.raticswap.xyz
@@ -52690,6 +52689,7 @@ metisdao.fi
 metisdao.medium.com.ru
 metisdaovotings.com
 metisdex.io
+metises.xyz
 metkamask.com
 metkamask.tech
 metlife-bidv.com
@@ -52815,6 +52815,7 @@ metr-maksl6.online
 metramask.com
 metramassusk.azurewebsites.net
 metrograd.wl-link.xyz
+metroinvestmentcapital.com
 metronome-token.io
 metronome.foundation
 metronometoken.io
