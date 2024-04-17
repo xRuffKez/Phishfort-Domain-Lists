@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 17:03:10 UTC 2024
-# Number of Entries: 8015
+# Fetch date: Wed Apr 17 17:14:49 UTC 2024
+# Number of Entries: 8012
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2503,7 +2503,6 @@ feereturns.xyz
 fees-407etr.com
 feimoney.app
 feiraochevro.com
-fenderuk.com
 fenterpriseonline.net
 feosz.info
 feraniumyard.com
@@ -2545,6 +2544,7 @@ fj7gqqj.cc
 fkintemal.net
 fku-inu.pro
 fkuinu.tech
+flagship.luc.edu
 flareairdrop.vercel.app
 flash-arbitrage.xyz
 flightreservations.xyz
@@ -6725,7 +6725,6 @@ tracking.airtm20.com
 tracking.give5-airtm.com
 tracomservices.com
 tradedao-mig.click
-tradeogre-web.site
 traderjoeyxz.app
 tradeviewtoken.xyz
 tradinglabs.app
@@ -6756,7 +6755,6 @@ trippletradingteam.com
 tron-claim.top
 tron.sync-rectifier.com
 tronado.cash
-tronbonus-promotion.com
 trrecoin.com
 trsutwallexension.godaddysites.com
 trudie.win
@@ -7962,7 +7960,6 @@ zk.scrllpunkface.icu
 zkdash.net
 zkecosystem.org
 zkeztrade.com
-zkfair.cyou
 zkfair.events
 zkfair.fo
 zkfair.pm
