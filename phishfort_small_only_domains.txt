@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 05:32:16 UTC 2024
-# Number of Entries: 8049
+# Fetch date: Wed Apr 17 05:42:13 UTC 2024
+# Number of Entries: 8051
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1510,6 +1510,7 @@ claim.dymensionall.club
 claim.ethnafi.world
 claim.get-ton.com
 claim.hundoneth.com
+claim.hundonsoll.com
 claim.hundsonsol.com
 claim.memeskombats.online
 claim.memetrumpmaga.com
@@ -2916,6 +2917,7 @@ heroes-of-mavia.online
 hex-distributions.com
 hex-multipliers.com
 hft-fyfc.com
+hhfh.cc
 hidden-airdrops.xyz
 highllght.com
 hippies-world.com
