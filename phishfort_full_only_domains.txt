@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 14:32:28 UTC 2024
-# Number of Entries: 108365
+# Fetch date: Wed Apr 17 15:03:20 UTC 2024
+# Number of Entries: 108372
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4341,6 +4341,7 @@ allianceblockclaim.org
 alliancebridge.live
 alliancebridgeprotocol.com
 alliancebridgeprotocol.info
+allied.online-portal.best
 alliiant.com
 allin1.cx
 allinone-connect.com
@@ -13337,6 +13338,7 @@ blog.beta.pancakeswasap.one
 blog.curvefi.claims
 blog.decentralized-exchange.org
 blog.devnode.ng
+blog.drpaulweiss.com
 blog.events.pancakeswasap.one
 blog.firstflytravel.com
 blog.lido.army
@@ -38034,6 +38036,7 @@ healthequity.comja.sa.com
 healthequity.comlink.sa.com
 healthequity.comru.sa.com
 healthequity.comru.za.com
+healthequity.comsi.sa.com
 healthequity.comxy.za.com
 healthequity.comy.sa.com
 healthequity.live
@@ -48060,6 +48063,7 @@ mantleairdrop.xyz
 mantledao.net
 mantlejourney.xyz
 mantlenetwork.web3-mint.pro
+mantletoday.xyz
 mantnetworks.com
 manto-hetwork.com
 manto-network.com
@@ -85961,6 +85965,7 @@ ticket.universalprotocoldapp.io
 ticketbookingspot.com
 ticketchain.pages.dev
 ticketflyerflights.com
+tickets-paris24.com
 ticketwaveairlines.com
 ticklebeach.allowmint.com
 ticomsoftware.com
@@ -98600,6 +98605,7 @@ www.bxsstaking.com
 www.bybit-award.io
 www.bybuff163.ink
 www.bytick.com
+www.c592.top
 www.ca-bnbbridge.com
 www.ca-galagames.com
 www.cake-lottery.finance
@@ -100851,6 +100857,7 @@ www.meebitsprotocol.com
 www.meekicks.io
 www.meekicks.me
 www.meetaverifynow.com
+www.meetup.services
 www.megastudionft.com
 www.mehrlesenachrichten.com
 www.meitec-app.cc
