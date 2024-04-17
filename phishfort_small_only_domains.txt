@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 06:28:10 UTC 2024
-# Number of Entries: 8060
+# Fetch date: Wed Apr 17 06:36:14 UTC 2024
+# Number of Entries: 8062
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1039,6 +1039,7 @@ biticlubs.com
 bitilandos.com
 bitimeta.space
 bitinaut.top
+bitinautsmeta.space
 bitinteractivebrokers.org
 bitkub-th.pro
 bitkub-th.vip
@@ -1091,6 +1092,7 @@ blaster-airdrop.com
 blasterscore.io
 blasteventih.com
 blasteventio.com
+blastfund.io
 blastingv2.com
 blastl2.dev
 blastl777-early.cloud
