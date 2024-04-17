@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 13:15:24 UTC 2024
-# Number of Entries: 8054
+# Fetch date: Wed Apr 17 13:24:13 UTC 2024
+# Number of Entries: 8055
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3124,6 +3124,7 @@ jade-melba-55acae.netlify.app
 jaguarlandrover.kmmediagroup.com
 jamesthurmankahn.com
 janushenderson.agenciastatus.com.br
+janushendersoninv.com
 jasmy.coinsglass.top
 jazzy-puffpuff-8f1eac.netlify.app
 jci.org.in
