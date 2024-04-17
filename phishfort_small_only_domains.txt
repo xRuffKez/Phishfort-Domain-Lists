@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 02:44:10 UTC 2024
-# Number of Entries: 8038
+# Fetch date: Wed Apr 17 02:52:23 UTC 2024
+# Number of Entries: 8037
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3684,7 +3684,6 @@ mamtabluerewards.net
 mamtanetworkairdrop.net
 mamtanetworkbonus.com
 mamtanetworkbonus.net
-manbta.network
 manda-network.com
 mandatory-multi-factor-authenticator.us-ord-1.linodeobjects.com
 mandta.network
@@ -4710,7 +4709,6 @@ oberbank-ag.myfreesites.net
 oberbankat.com
 obtain-manta.pages.dev
 ocbre.com
-oceantoken.net
 ocmordinals.xyz
 ocmtoys.xyz
 octonodedapp.pages.dev
@@ -6234,6 +6232,7 @@ solanaetoken.e-classes.pro
 solanapad.in
 solanaus.com
 solanawen.com
+solaptops.vercel.app
 solarmy.eu
 solback.wefinex.org
 soldrop.pages.dev
