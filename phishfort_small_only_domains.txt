@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 05:24:46 UTC 2024
-# Number of Entries: 8044
+# Fetch date: Wed Apr 17 05:32:16 UTC 2024
+# Number of Entries: 8049
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1599,6 +1599,7 @@ clrscr.net
 cm-dap.online
 cmlink.xyz
 cmtzconstructionllc.com
+cndipn.pro
 co-insauhgdsadhij.com
 co-tbtcasojdhgsa.com
 co.defi.network
@@ -2349,6 +2350,7 @@ errorsync.pages.dev
 erydgred.umb.market
 erythkor.buzz
 etena.xyz
+eter.fi
 etfevent2024.com
 eth-bonus.net
 eth-calculator.xyz
@@ -3272,6 +3274,7 @@ kavadefend.me
 kb8e.cc
 kcs-airdrop.com
 kduo.cc
+kdvrp.cc
 kelpdaa.xyz
 kelpdao-claim.pages.dev
 kelpdao.app
@@ -3845,6 +3848,7 @@ marketpharmacy.com
 marketplace-listings.com
 marketplace-offers.io
 marketplacestatus.com
+markets-csgo.com
 marlopayrollui.com
 masa-ek1.pages.dev
 masa-finance.com
@@ -8044,6 +8048,7 @@ zoraco.co
 zr2b788n.site
 zro-claim.xyz
 zroclaim.xyz
+zsgai.pro
 zwbohn.pro
 zyberswap.news
 zzbtg.pro
