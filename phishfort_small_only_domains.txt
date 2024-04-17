@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 18:04:26 UTC 2024
-# Number of Entries: 8013
+# Fetch date: Wed Apr 17 18:15:51 UTC 2024
+# Number of Entries: 8014
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1407,6 +1407,7 @@ chimpzee-claim.pages.dev
 chndemarloonst.com
 choupettesolana.com
 chriscraft.shop
+chrome-extension-nkbihfbeogaeaoeh.mx
 chrome.pancakeswap.finance.multichains.live
 chronoforgedeed.xyz
 chronoforgenft.com
@@ -1887,7 +1888,6 @@ dappradar.ec
 dappradar.fun
 dappradar.mom
 dappradar.qa
-dappradar.so
 dappradar.team
 dappradar.works
 dappradardrop.com
@@ -5411,6 +5411,7 @@ provisions-starknet.top
 provisions-stknet.com
 provisionschainlink.org
 proximus-client.ddns.net
+psgyh.top
 psychome.co
 ptron.hk
 pub-0186f027c154484fbcbeb90161ab83cf.r2.dev
