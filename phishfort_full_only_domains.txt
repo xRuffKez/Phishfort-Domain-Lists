@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 06:43:37 UTC 2024
-# Number of Entries: 108344
+# Fetch date: Wed Apr 17 06:52:20 UTC 2024
+# Number of Entries: 108345
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -36494,6 +36494,7 @@ git.sv.twitter-events22.com
 git.v2.twitter-events22.com
 git.ws.polkqstqrter.com
 git.xn--rvoke-4ra.cash
+gitcoin-dr-explorer.vercel.app
 gitcoin-meta.shop
 gitcoin-nft.xyz
 gitcoin.art
