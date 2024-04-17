@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 15:15:44 UTC 2024
-# Number of Entries: 8012
+# Fetch date: Wed Apr 17 15:25:10 UTC 2024
+# Number of Entries: 8014
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -39,6 +39,7 @@
 1inch-pay.ga
 1inch.box
 1inch.fyi
+1inch.web3connect.mom
 1inchcode.newfinancialmarketworld.com
 1inchcoin.com
 1inchfinance.com
@@ -2634,6 +2635,7 @@ gala-games.org
 galagames-6nj.com
 galaxies.mantasnetworks.app
 galmudugmof.so
+galprofit.com
 galxe.co.bz
 galxe.pl
 galxe.re
