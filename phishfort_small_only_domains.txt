@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 01:31:45 UTC 2024
-# Number of Entries: 8037
+# Fetch date: Wed Apr 17 01:57:12 UTC 2024
+# Number of Entries: 8038
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3592,6 +3592,7 @@ m.hongcsx.cn
 m.janalt-tech.com
 m.js-xlh.com
 m.kinetu.com.cn
+m.learnerpamphlet.top
 m.mitofinance.app
 m.mltofi.app
 m.open-pandora.app
@@ -4763,7 +4764,6 @@ onlinedetma.org
 onlinedetma.za.com
 onlinelaunchdappsvalidate.vercel.app
 onlinenode.pages.dev
-onlinesgpon.cc
 onlysaitachain.migration.rxi.app
 onno-vaultdapp.click
 ontario407etr.com
@@ -6951,6 +6951,7 @@ vendorprocurement.online
 vendorseuae.com
 vendoruae.com
 venom-foudation.com
+venomairdrop.pro
 venomairdrop.vercel.app
 venomcrypto-io.com
 venue.markets
