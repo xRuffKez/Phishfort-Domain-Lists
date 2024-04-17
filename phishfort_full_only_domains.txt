@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 04:42:14 UTC 2024
-# Number of Entries: 108312
+# Fetch date: Wed Apr 17 05:15:13 UTC 2024
+# Number of Entries: 108324
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3132,6 +3132,7 @@ agodaaa.com
 agodaacom.online
 agodaaffiliate.com
 agodaagency.com
+agodabook.com
 agodachina.cn
 agodacs.online
 agodaexpert.vip
@@ -23159,6 +23160,7 @@ dapp-fixsync.com
 dapp-fixtrade.netlify.app
 dapp-freeairdrop.com
 dapp-friend.tech
+dapp-issuefix.pages.dev
 dapp-kits.com
 dapp-launchairdrop.com
 dapp-launchpad.com
@@ -23385,6 +23387,7 @@ dappconect.net
 dappconect.netlify.app
 dappconfiguration.com
 dappconnect-6w3.pages.dev
+dappconnect.coinmerges.live
 dappconnect.io
 dappconnect.me
 dappconnect.online
@@ -24127,6 +24130,7 @@ dappsfixed.pages.dev
 dappsfixer.online
 dappsfixerweb.42web.io
 dappsfixes.com
+dappsfixing.pages.dev
 dappsfixnode.com
 dappsfixprotocol.site
 dappsfixtool.com
@@ -24668,6 +24672,7 @@ dappwebsyncronization.xyz
 dappwebvalidations.com
 dappwebwallets.com
 dappwlvalidator.online
+dappx-connect.pages.dev
 dapradar.eu
 dapraddar.com
 daprectification.live
@@ -28043,6 +28048,7 @@ dutysyncdapp.pages.dev
 duvidrobrazz.blogspot.com
 dvalidator.live
 dveryirazdvyzhniesystemy.com
+dvhuh.pages.dev
 dvwwv-metams.top
 dwalletintegrate.com
 dwappios1.com
@@ -37786,6 +37792,7 @@ haagendazsofficial.xyz
 habbo-freemint.xyz
 habbo.web3-airdrop.net
 habela.site
+habit-tracker-ten-pearl.vercel.app
 habsea.com
 haciendodestinos.com
 hadeplatform.net
@@ -47539,6 +47546,7 @@ mainnetdashboard.com
 mainnetdefiprotocol.com
 mainnetdev.live
 mainnetdev.site
+mainnetdevvt.pages.dev
 mainnetecosystem.net
 mainnetextension.com
 mainnetextension.live
@@ -59199,6 +59207,7 @@ mysterybox75.vercel.app
 mysterybox882.vercel.app
 mysteryboxarbitrum.com
 mysteryboxing44.vercel.app
+mysteryboxmint4389.vercel.app
 mysteryboxnow.vercel.app
 mysteryboxv1.vercel.app
 mysteryboxvp.vercel.app
@@ -62131,6 +62140,7 @@ openbnb.fun
 openbnb.pics
 openbookraydium.com
 openboxclaims.vercel.app
+openboxclaimz12.vercel.app
 openbsea.io
 opencampus.finance
 opencase.skin
@@ -98727,6 +98737,7 @@ www.claims-sui.com
 www.claims-worldcoin.com
 www.claimsdune.com
 www.claimsflip.com
+www.claimsloth.com
 www.claimsmatic.com
 www.claimsxen.com
 www.claimtabi.lol
@@ -103854,6 +103865,7 @@ www.tslpowersun.com
 www.tsmerchshop.com
 www.tubellaesteticaduepuntozero.it
 www.tuckea.com
+www.tufreb.com
 www.tumb.finance
 www.tunftcuracao.art
 www.tv.thisisnottv.tv
