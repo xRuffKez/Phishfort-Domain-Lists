@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 00:11:25 UTC 2024
-# Number of Entries: 108304
+# Fetch date: Wed Apr 17 00:32:48 UTC 2024
+# Number of Entries: 108310
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -66768,6 +66768,7 @@ pancakeswapp.pro
 pancakeswapp.site
 pancakeswapp.su
 pancakeswapp.top
+pancakeswapp.web.app
 pancakeswappa.com
 pancakeswappanch.com
 pancakeswappartners.top
@@ -77385,6 +77386,8 @@ saksoff-55th.com
 saksoff.sakskoesad.com
 saksoff.saksoff5ths.com
 saksoff05.com
+saksoff06.com
+saksoff07.com
 saksoff55-th.com
 saksoff5sth.com
 saksoff5th-online.shop
@@ -77396,6 +77399,9 @@ saksoff5th.love
 saksoff5th.online
 saksoff5th.store
 saksoff5th.vip
+saksoff5th1.com
+saksoff5th2.com
+saksoff5th3.com
 saksoff5thboool.top
 saksoff5thdeals.com
 saksoff5thf.com
