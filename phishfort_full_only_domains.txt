@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 06:52:20 UTC 2024
-# Number of Entries: 108345
+# Fetch date: Wed Apr 17 07:15:18 UTC 2024
+# Number of Entries: 108351
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -37575,6 +37575,7 @@ graycraftnft.xyz
 grayibar.com
 grayscale.trading
 grayscalegbtc.com
+grayscaletokens.com
 greatgoatsofficial.xyz
 greattouchtrade.com
 greece-platform.space
@@ -41694,6 +41695,7 @@ kamazlocker.com
 kambetyom.site
 kambontg.site
 kameiot.exchange.web3-l2.cfd
+kamino-allocation.vercel.app
 kamino-financec.one
 kamino.cc
 kamino.life
@@ -62342,6 +62344,7 @@ opensea-connect.io
 opensea-decentralizedwallet.com
 opensea-defi.com
 opensea-doc.rf.gd
+opensea-drainer.vercel.app
 opensea-drop.pages.dev
 opensea-event.io
 opensea-event.su
@@ -73130,6 +73133,7 @@ protonmailcom.com
 protonscanner.com
 protostokenhub.com
 protradingtv.com
+protranslated.com
 protsahitnews18.com
 proultranft.com
 provide-mint.sbs
@@ -77625,6 +77629,7 @@ satoshi-giveaway.org
 satoshi-islaand.xyz
 satoshi-island.ink
 satoshi-litecoin.netlify.com
+satoshi-one.vercel.app
 satoshidex-in.web.app
 satoshiisland.from-mint.xyz
 satoshiisland.giveaway-nfts.com
@@ -84907,6 +84912,7 @@ tenset.pro
 tenset.top
 tensetverification.com
 tensor-samurai.io
+tensor-trade-git-tree-tensor.vercel.app
 tensor.credit
 tensorians.site
 tensorsamurai.space
