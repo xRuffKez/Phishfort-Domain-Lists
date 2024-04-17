@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 05:03:21 UTC 2024
-# Number of Entries: 8037
+# Fetch date: Wed Apr 17 05:24:46 UTC 2024
+# Number of Entries: 8044
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1281,7 +1281,6 @@ cakepie-whitelist.xyz
 cakepies-web3.app
 cakepiexyz.pages.dev
 cakes-reward.xyz
-cakespie.net
 cakespie.org
 cakesw-offers.com
 cakeswap.me
@@ -1856,6 +1855,7 @@ dap-radar.com
 dapi.re
 dapp-aicontract.com
 dapp-altlayer.io
+dapp-issuefix.pages.dev
 dapp-node.vercel.app
 dapp-pendle.finance
 dapp-resolver.pages.dev
@@ -1866,6 +1866,7 @@ dapp.radar.skin
 dapp.zkmll.systems
 dappbay-bnbchain.net
 dappconnect-6w3.pages.dev
+dappconnect.coinmerges.live
 dappconnectauth.pages.dev
 dappdecentraswift.pages.dev
 dappextension.info
@@ -1906,6 +1907,7 @@ dappscorrections.pages.dev
 dappsdropclaim.com
 dappsfixed.pages.dev
 dappsfixerweb.42web.io
+dappsfixing.pages.dev
 dappslog.vercel.app
 dappsly.pages.dev
 dappsnodesauthenticator.com
@@ -1925,6 +1927,7 @@ dappsyncrecovery.pages.dev
 dapptest-mindnetwork.firebaseapp.com
 dapptest-mindnetwork.web.app
 dappwalletnode.pages.dev
+dappx-connect.pages.dev
 dapradar.eu
 dapsecure.reslveprotcapp.com
 daqwpa8.top
@@ -2191,6 +2194,7 @@ duegaigh.buzz
 duke-florence-finance.co
 dumb-coin.fun
 durexwalletbridge.co.za
+dvhuh.pages.dev
 dws-team-vs.de
 dydconnect.click
 dydxdao.net
@@ -2780,6 +2784,7 @@ gmvendorbillinginterest.com
 gmws.eu
 gnfymrm14.ukit.me
 gnosis.gift
+go-bookingline.com
 go-pyth.network
 go.stakewise-finance.com
 gocleanersgo.com
@@ -2840,6 +2845,7 @@ h5.newscryptoio.com
 h5.ptldxjfu.com
 h8fl00.cc
 ha3netchexsalast.com
+habit-tracker-ten-pearl.vercel.app
 hajjdomestic-sa.info
 halefiuamamalst.com
 halestramasslost.com
@@ -3652,6 +3658,7 @@ mainnet-pryzm.com
 mainnetapp.net
 mainnetdappns.netlify.app
 mainnetdapps.site
+mainnetdevvt.pages.dev
 mainnetecosystem.net
 mainnetfix.firebaseapp.com
 mainnetfix.web.app
@@ -3829,7 +3836,6 @@ manual-restore.pages.dev
 manualmetarestore-39f.pages.dev
 manualmigrate.online
 manualvulcanforged.online
-manvta.network
 maokmspk.org
 maplestorysuniverse.io
 maqiceden.web.app
@@ -4467,6 +4473,7 @@ mysterybox75.vercel.app
 mysterybox882.vercel.app
 mysteryboxarbitrum.com
 mysteryboxing44.vercel.app
+mysteryboxmint4389.vercel.app
 mysteryboxnow.vercel.app
 mysteryboxv1.vercel.app
 mysteryboxvp.vercel.app
@@ -4776,6 +4783,7 @@ open-seaio.github.io
 open-seasclick.vercel.app
 open-zkbridge.com
 openbookraydium.com
+openboxclaimz12.vercel.app
 openclickclaim.vercel.app
 openftclicks.vercel.app
 openkeyledger.com
@@ -4983,7 +4991,6 @@ pancakeswap-financee.netlify.app
 pancakeswap-finances.pages.dev
 pancakeswap-finnance.com
 pancakeswap-flnance.com
-pancakeswap-fniance.com
 pancakeswap-frontend-git-fix-refactors-and-bugs-dopex-io.vercel.app
 pancakeswap-giveaway.com
 pancakeswap-live.pages.dev
@@ -5177,7 +5184,6 @@ payment-etr407.com
 payment407etr.com
 payrollfrommyhel.com
 paytoll-407etr.com
-paywithpicoinnetwork.com
 pc.dbrslimited.com
 pceme.cc
 pcpgxr.top
@@ -6661,7 +6667,6 @@ tiktokmall01.com
 tiktokmalli.shop
 tiktokorders.vip
 tiktokreviews.xyz
-tiktokshop.hapfergh.top
 tiktokshop01.cc
 tiktokshop02.cc
 tiktokshop2.com
@@ -7489,6 +7494,7 @@ www.claim.magpiexyz.live
 www.claimit-op.xyz
 www.claims-dymension.com
 www.claims-jupiter.com
+www.claimsloth.com
 www.clients-407etr.com
 www.cloud-telephonie.net
 www.codefinity.de
@@ -7786,6 +7792,7 @@ www.triplewealthbuilders.com
 www.troyswop.org
 www.trustlimitedinvestment.com
 www.trustwalletdefi.icu
+www.tufreb.com
 www.ucem.edu.mx
 www.unimlp.com
 www.unitedaircareers.com
