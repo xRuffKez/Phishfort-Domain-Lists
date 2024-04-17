@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 06:43:23 UTC 2024
-# Number of Entries: 8062
+# Fetch date: Wed Apr 17 07:03:26 UTC 2024
+# Number of Entries: 8064
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2763,6 +2763,7 @@ gift-porkcoin.com
 gift-puffer.com
 giftmanta.net
 giftsteam.ru
+gitcoin-dr-explorer.vercel.app
 give.manta.center
 give.manta.gratis
 give5-airtm.com
@@ -5430,6 +5431,7 @@ protocol-carv.nl
 protocol-guard.web.app
 protocol-node.pages.dev
 protocolnode.com
+protranslated.com
 provision-storknet.com
 provisions-starknet.cc
 provisions-starknet.top
