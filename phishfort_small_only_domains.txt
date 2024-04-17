@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 15:32:20 UTC 2024
+# Fetch date: Wed Apr 17 15:52:11 UTC 2024
 # Number of Entries: 8014
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -39,7 +39,6 @@
 1inch-pay.ga
 1inch.box
 1inch.fyi
-1inch.web3connect.mom
 1inchcode.newfinancialmarketworld.com
 1inchcoin.com
 1inchfinance.com
@@ -2021,6 +2020,7 @@ defilama.eu
 defilaunchpad.pages.dev
 defimanta.net
 defimining101.com
+defiphantom.io
 defiportfolio.online
 defiproject.info
 defiprovider.net
