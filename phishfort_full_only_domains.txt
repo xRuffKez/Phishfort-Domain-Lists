@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 00:32:48 UTC 2024
-# Number of Entries: 108310
+# Fetch date: Wed Apr 17 02:13:28 UTC 2024
+# Number of Entries: 108312
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -46729,6 +46729,7 @@ m.js-xlh.com
 m.kcmusdt.com
 m.kinetu.com.cn
 m.klbb8.com
+m.learnerpamphlet.top
 m.longpant.top
 m.meta-coindefi.com
 m.metamask1.kred
@@ -90979,6 +90980,7 @@ venom-network.com
 venom-wallet.com
 venom.cfd
 venom.mailinvite.org
+venomairdrop.pro
 venomairdrop.vercel.app
 venomcrypto-io.com
 venomfinance.site
