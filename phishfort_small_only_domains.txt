@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 16:27:56 UTC 2024
-# Number of Entries: 8014
+# Fetch date: Wed Apr 17 16:44:08 UTC 2024
+# Number of Entries: 8015
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1843,7 +1843,6 @@ dadawgs.tech
 dalarnas.site
 dalarnas.website
 dama.or.tz
-danceanatolia.com
 dao-radiant.capital
 dao-solana.web.app
 daoblend.xyz
@@ -1955,7 +1954,6 @@ dbrsfin.net
 dddow.com
 dddx.cnxunkewang.vip
 de-fi.events
-deafah.in
 dealerhuntersg.com
 dealsync.pages.dev
 debanhk.github.io
@@ -2485,7 +2483,6 @@ farcana.world
 farcano.com
 farlicflumas.com
 farming-taiko.org-c.co
-farmingusd.org
 farmlayerai.xyz
 fastauthewalletethersync.com
 fastdevmigrathaslite.pro
@@ -3122,6 +3119,7 @@ jeffwealth.com
 jenkins.codefinity.de
 jenpower.net
 jerrybeers.com
+jfrsgrp.com
 jggbbestforyou.com
 jggo.mypi.co
 jiashengint.cn
@@ -3916,7 +3914,6 @@ mee6-connect.xyz
 mee6appeals.xyz
 meetamaskev.azurewebsites.net
 mefamask.com
-mehrlesenzeitung.com
 meiimask-log-iignin.godaddysites.com
 meleadapp.com
 mell-coin.web.app
@@ -4394,6 +4391,7 @@ multiplier.aitsprotcol.com
 multisystemcoinwallet.web.app
 multiwalletsystem.web.app
 mumucoin.org
+mundialconsorcios.com.br
 murconseil.com
 murphygroupltd.co.uk
 musicyandex.ru
@@ -4748,6 +4746,7 @@ onchain-api.onrender.com
 onchainmonkeys.shop
 onchainmonkeys.tech
 oneamerica.icu
+ongc.net
 ongcmumbaihigh.in
 ongoing-jup.app
 online.subscriibe.shop
@@ -5135,6 +5134,7 @@ paxfult.com
 paxfultf.com
 paxfulvn.com
 paxobcxr.com
+paxobopr.com
 paxos-app.com
 paxos-club.com
 paxos-eth.com
@@ -6094,6 +6094,7 @@ shyg618.com
 sideshift.art
 sidus.gift
 siemens-energyltd.co.uk
+siemens-energymall.vip
 siemensgamesare.top
 signet-gamma.vercel.app
 signetfaucet.vercel.app
@@ -6235,6 +6236,7 @@ sollfare.com
 sols-meta.web.app
 solsea.dev
 soltrading-bots.web.app
+solventumcareers.com
 solwl-saga.web.app
 sommelier-finance.web.app
 sonicswall.com
@@ -7493,7 +7495,6 @@ www.dapphyperblast.io
 www.dappsdebugger.net
 www.dappsresolver.com
 www.dartya.cc
-www.deafah-in.amazonintl.in
 www.decentralize-metis.com
 www.decntralnd.one
 www.decora-cabinets.com
