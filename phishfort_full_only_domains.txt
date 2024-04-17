@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 19:22:15 UTC 2024
-# Number of Entries: 108392
+# Fetch date: Wed Apr 17 19:42:03 UTC 2024
+# Number of Entries: 108393
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17617,6 +17617,7 @@ claimether.one
 claimethereum.org
 claimethers.org
 claimevmpx.io
+claimfreeairdrop.com
 claimfreemint.com
 claimftx.xyz
 claimgala.org
