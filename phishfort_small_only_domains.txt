@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 10:33:21 UTC 2024
-# Number of Entries: 8062
+# Fetch date: Wed Apr 17 11:02:54 UTC 2024
+# Number of Entries: 8053
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -520,7 +520,6 @@ apeterminal.link
 apexexchenge.com
 api-collabland.land
 api-collabland.web.app
-api-rectifynode.pages.dev
 api-verification-sofa.pages.dev
 api.kava-api.live
 api.kavaglobal.one
@@ -1909,7 +1908,6 @@ dapps-sync.vercel.app
 dapps-web3-connect.in
 dapps.toolsynchr.online
 dappsapi.pages.dev
-dappscoinstats.pages.dev
 dappsconnectapp.pages.dev
 dappscorrections.pages.dev
 dappsdropclaim.com
@@ -1930,7 +1928,6 @@ dappstaking.net
 dappswalletsnode.firebaseapp.com
 dappswalletsnode.web.app
 dappsxfix.pages.dev
-dappsync-apw.pages.dev
 dappsyncrecovery.pages.dev
 dapptest-mindnetwork.firebaseapp.com
 dapptest-mindnetwork.web.app
@@ -3316,7 +3313,6 @@ kofdet.com
 kohafil.com
 kontak.cs-a-g-o-d-a.com
 kpnmg.net
-kpsodemainnet.pages.dev
 kraken-airdrop.pro
 kraken-airdrop.site
 kraken-airdrop.xyz
@@ -3333,6 +3329,7 @@ kushflyusa.com
 kuytrk.com
 kwool.ap-south-1.linodeobjects.com
 kwsnl.com
+kyc-upd-wall.com
 kyc-update-info.com
 kyc.ledger-online.net
 l-s-co-il.com
@@ -3383,7 +3380,6 @@ launchpad.register-trias.one
 launchpad.solhero.org
 launchpadangle.net
 launchpaddapp.eu
-launchpads-opti.com
 launchpads-satoshivm.io
 launchpadsxyz.site
 launchs-inscribe.com
@@ -4684,7 +4680,6 @@ nodebug.vercel.app
 nodechains.pages.dev
 nodesrectification.com
 nodesync.vercel.app
-nodevalidation.pages.dev
 noitailg.com
 nolaisadog.com
 nolbody.com
@@ -5644,7 +5639,6 @@ rdx.vercel.app
 rdxshoes.click
 reachedoutseveral.com
 realio.gift
-realioapp.com
 realraydium.xyz
 realtyexcellence.com
 rebby.io
@@ -6944,7 +6938,6 @@ v3.app.staging.tgf.nyuki.io
 v3.stakewise-finance.com
 v3everrise.app
 v3singularity.net
-v53xw-sqaaa-aaaad-qf42a-cai.icp0.io
 v9si.cc
 vailddapps.pages.dev
 validatechains.pages.dev
@@ -7125,7 +7118,6 @@ wallet.ton-kepeer.com
 wallet.zkflre.io
 wallet7.vercel.app
 walletconnect-com.vercel.app
-walletconnect-dapps.pages.dev
 walletconnect.app-net.top
 walletconnect.pages.dev
 walletconnectio.vercel.app
@@ -8010,7 +8002,6 @@ zkeztrade.com
 zkfair.cyou
 zkfair.events
 zkfair.fo
-zkfair.lc
 zkfair.pm
 zkfair.supply
 zkfair.team
