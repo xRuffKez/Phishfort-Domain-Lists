@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 11:52:17 UTC 2024
+# Fetch date: Wed Apr 17 12:04:41 UTC 2024
 # Number of Entries: 8053
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3377,6 +3377,7 @@ launchpad-qubic.com
 launchpad-sharpnel.com
 launchpad-starknet.top
 launchpad.register-trias.one
+launchpad.smartlayernetwork.app
 launchpad.solhero.org
 launchpadangle.net
 launchpaddapp.eu
@@ -3705,7 +3706,6 @@ mandatory-multi-factor-authenticator.us-ord-1.linodeobjects.com
 mandta.network
 mangta.network
 manjta.network
-mankta.network
 manpta.network
 manranetwcrk.com
 mant-app.com
