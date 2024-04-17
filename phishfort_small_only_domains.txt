@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 13:42:12 UTC 2024
-# Number of Entries: 8055
+# Fetch date: Wed Apr 17 13:52:14 UTC 2024
+# Number of Entries: 8056
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -120,6 +120,7 @@
 827032971.pages.dev
 8866651.za.com
 8lab-d254.earherbat.workers.dev
+8mslg76dl.life
 8nteb.cc
 8txrl.cc
 8uvu.pro
@@ -158,6 +159,7 @@ abspaurill.com
 abundant-boots-raspy.on-fleek.app
 academy.topbundalle.com
 acahealthinsure.com
+acc-interacr.xxlzyynxgt1d.life
 accboxi.com
 accept-farcana.com
 accepts-lnterweb.life
@@ -3078,6 +3080,7 @@ intellix-protocol.com
 intellixprotocol.app
 intellixstake.app
 inter-chains-bridge.com
+interac-ca.8mslg76dl.life
 interacsecurepayments.com
 interactive-brokers.group
 interactive-brokers.top
@@ -3795,7 +3798,6 @@ mantaintotheblue.com
 mantaintotheblue.net
 mantak.network
 mantal2.com
-mantal2.network
 mantalayerbank.pages.dev
 mantalnetwork.com
 mantananetwork.com
@@ -5937,7 +5939,6 @@ safegnosis.co
 safeguard-meta.com
 safewallet-meta.com
 saga-solanamobile.com
-sahouriplast.com
 saitachain-migration.pages.dev
 saitama.gift
 saitapro.vercel.app
@@ -6503,7 +6504,6 @@ swellnetwork.exchange
 swfitblocksresolve.pages.dev
 swift-wallet.pages.dev
 swiftappsauth.pages.dev
-swiftathblocks.pages.dev
 swiftdapppad.pages.dev
 swiftdapprotocol.pages.dev
 swiftdappweb.pages.dev
@@ -7387,6 +7387,7 @@ wtoken-claim.com
 wtokenevent.app
 wub6y7o.pro
 wufis.com
+wuqqrf3t7.life
 wverycaxqw6urqwpchk.mxy9ink.ru
 ww-connect-dappradar.com
 ww-revoke.cash
