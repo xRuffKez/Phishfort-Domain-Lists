@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 16:28:12 UTC 2024
-# Number of Entries: 108375
+# Fetch date: Wed Apr 17 16:37:09 UTC 2024
+# Number of Entries: 108380
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -41069,6 +41069,7 @@ jewelslankatours.com
 jewishpepe.online
 jewtradery.com
 jfk96.com
+jfrsgrp.com
 jgfsv.com
 jggbbestforyou.com
 jggo.mypi.co
@@ -55110,6 +55111,7 @@ mummyfinance-go.com
 mummyfinancestaking.com
 mumucoin.org
 mun.web3fast.net
+mundialconsorcios.com.br
 mundodelibrosxyz.com
 munshihr.com
 muon-token.sale
@@ -61859,6 +61861,7 @@ onewordbrick.mint-starts.com
 oneworldnation.winsmint.com
 ongaia.net
 ongawaterswitch.com.au
+ongc.net
 ongcindia-gas.com
 ongcmumbaihigh.in
 ongoing-jup.app
@@ -79292,6 +79295,7 @@ sidus-official.xyz
 sidus.gift
 sidusheroestoken.org
 siemens-energyltd.co.uk
+siemens-energymall.vip
 siemens-healthieer.com
 siemens-healthirneers.com
 siemensenergys.com
@@ -81063,6 +81067,7 @@ solveddaps.live
 solveencrypt.live
 solveerror.org
 solvencyvault.net
+solventumcareers.com
 solverexpress.live
 solverse.space
 solvetech.info
