@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 11:03:06 UTC 2024
-# Number of Entries: 108354
+# Fetch date: Wed Apr 17 11:22:18 UTC 2024
+# Number of Entries: 108355
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -42812,6 +42812,7 @@ kyc-metamask-i0applicationoffceveriflcation98.neconme.com
 kyc-metamask.easterndns.com
 kyc-services.com
 kyc-trust-wallet.com
+kyc-upd-wall.com
 kyc-update-info.com
 kyc.auth-host.info
 kyc.connection-auth-server.info
