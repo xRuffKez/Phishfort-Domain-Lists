@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 00:11:07 UTC 2024
-# Number of Entries: 8031
+# Fetch date: Wed Apr 17 00:32:33 UTC 2024
+# Number of Entries: 8037
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -5011,6 +5011,7 @@ pancakeswapfinance-gg3.pages.dev
 pancakeswapfinances.pages.dev
 pancakeswaph.github.io
 pancakeswapp.pages.dev
+pancakeswapp.web.app
 pancakeswapper.online
 pancakeswapperhub.online
 pancakeswapreward.finance
@@ -5929,9 +5930,14 @@ saks5.store
 saksof5th.club
 saksoff.sakskoesad.com
 saksoff05.com
+saksoff06.com
+saksoff07.com
 saksoff5th-us1.com
 saksoff5th.love
 saksoff5th.store
+saksoff5th1.com
+saksoff5th2.com
+saksoff5th3.com
 saksoff5thboool.top
 saksoff5thf.com
 saksoff5thkppltpj.com
