@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 23:42:28 UTC 2024
-# Number of Entries: 108299
+# Fetch date: Wed Apr 17 00:11:25 UTC 2024
+# Number of Entries: 108304
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -9086,6 +9086,7 @@ axie-box.shop
 axie-box.xyz
 axie-giveaway.com
 axie-infiinity-oficial.cf
+axie-infiinityronin.shop
 axie-infinitiy.com
 axie-infinity-app.com
 axie-infinity-go.space
@@ -23521,6 +23522,7 @@ dappfixing.live
 dappfixings.app
 dappfixings.com
 dappfixnode.com
+dappfixsconnect.com
 dappfixsolution.com
 dappfixz.com
 dappfradar.us
@@ -44424,6 +44426,7 @@ linea6.net
 lineaa.cyou
 lineaabuild.com
 lineaairdrop.com
+lineababy.xyz
 lineablobs.com
 lineabridge.build
 lineabsc.xyz
@@ -77381,6 +77384,7 @@ saksof5th.club
 saksoff-55th.com
 saksoff.sakskoesad.com
 saksoff.saksoff5ths.com
+saksoff05.com
 saksoff55-th.com
 saksoff5sth.com
 saksoff5th-online.shop
@@ -106550,6 +106554,7 @@ xn--rvoke-n51b.cash
 xn--rvokecash-gib.xyz
 xn--samurasaga-c9a.com
 xn--sandbx-fxa.com
+xn--sandbx-games-iib.pages.dev
 xn--sandbx-tl8b.com
 xn--senetwork-64a.io
 xn--shapeshft-c5a.com
