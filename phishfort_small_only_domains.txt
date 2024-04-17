@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 14:02:55 UTC 2024
-# Number of Entries: 8052
+# Fetch date: Wed Apr 17 14:14:51 UTC 2024
+# Number of Entries: 8048
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1103,6 +1103,7 @@ blastt.io
 blasttup.top
 blastxs.com
 blazetokeen.com
+blend-protocol.com
 blendao.xyz
 blendcoin.org
 blender404.xyz
@@ -1498,7 +1499,6 @@ claim-wen.army
 claim-wenwen.com
 claim-wormhole.network
 claim-wrm.com
-claim-xai.pages.dev
 claim-your-mask-tokens-withmetamask-airdrop.fi-liikennesakkoo.net
 claim-zetachain.xyz
 claim.aavelp.com
@@ -1890,7 +1890,6 @@ dappradar.co.in
 dappradar.cx
 dappradar.ec
 dappradar.fun
-dappradar.is
 dappradar.mom
 dappradar.qa
 dappradar.so
@@ -2804,7 +2803,6 @@ golem.gift
 goltaa.com
 gomble-gmm.xyz
 gondi.loan
-goodsdao.web.app
 gorilladefi-io.web.app
 govs.sa.com
 gq26v.pro
@@ -5121,7 +5119,6 @@ parknationalkgt.pics
 parriss2024.org
 partenariat-bouygues-telecom-entreprises.fr
 participate-zks.net
-participate-zks.org
 partners-ait.tech
 partners-zerolend.com
 partnership-ait.com
@@ -6280,7 +6277,6 @@ sparkfi.org
 sparkfi.tech
 sparkfinance.fi
 sparklend.fi
-sparkly-peony-f76556.netlify.app
 sparkprotocol.fi
 speedylendingtree.com
 speedysmartnetwork.com
