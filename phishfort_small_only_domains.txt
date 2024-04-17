@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 16 23:52:14 UTC 2024
+# Fetch date: Wed Apr 17 00:11:07 UTC 2024
 # Number of Entries: 8031
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2851,7 +2851,6 @@ hamster-coin.org
 hamstrcoin.com
 handshakehns.web.app
 hannaanderssonkids.com
-happyskellies.com
 harambe-token-ai.web.app
 harambe-token-io.web.app
 hardwaregiftairdrop.netlify.app
@@ -3468,6 +3467,7 @@ linea.baby
 linea.contact
 linea2024.com
 lineaa.cyou
+lineababy.xyz
 lineablobs.com
 lineabridge.build
 lineabuild-consensys.world
@@ -5928,6 +5928,7 @@ saiyansdrop.com
 saks5.store
 saksof5th.club
 saksoff.sakskoesad.com
+saksoff05.com
 saksoff5th-us1.com
 saksoff5th.love
 saksoff5th.store
@@ -6022,7 +6023,6 @@ secure-user-connect.net
 secure.ingbhk.com
 secure1.ontario407etr.com
 secure9.ontario407etr.com
-secured-metamask.top
 securedmainnetconnect.pages.dev
 securemainnetpad.xyz
 securenetsync.pages.dev
@@ -6216,7 +6216,6 @@ sniperapp.cc
 snowsniper.com
 snug-zetachain.com
 soaiv2.com
-socalgaslogin.cz
 soflarewebextension.com
 sol-sola.web.app
 solana-claim.web.app
@@ -7877,6 +7876,7 @@ xn--fxedfloat-vpbe.com
 xn--fxedftloat-k8a.com
 xn--od5b1rm17a.com
 xn--rustwallet-gyd.com
+xn--sandbx-games-iib.pages.dev
 xn--zcr743ah35a.com
 xn66ekl.pro
 xoudwq.cfd
