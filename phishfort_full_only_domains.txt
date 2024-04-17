@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 13:03:45 UTC 2024
-# Number of Entries: 108358
+# Fetch date: Wed Apr 17 13:52:24 UTC 2024
+# Number of Entries: 108363
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1549,6 +1549,7 @@
 8liens.nftsale-now.com
 8liens.start-premint.com
 8mctt6.zyqn.net
+8mslg76dl.life
 8nteb.cc
 8od.xyz
 8pancakeswap-finance.site
@@ -2343,6 +2344,7 @@ acappdynamics.com
 acc-aave.com
 acc-gala-games-io.com
 acc-galagames.blogspot.com
+acc-interacr.xxlzyynxgt1d.life
 acc-paxful.com
 acc.3fe.com
 acc.pancakeswape.finance
@@ -40480,6 +40482,7 @@ inter-chains-bridge.com
 inter-cliffordchance.com-records-employees.myfreelancework.cf
 inter-digital-i-safe.ml
 inter-links.live
+interac-ca.8mslg76dl.life
 interacsecurepayments.com
 interactevebrokers.com
 interactibvebrokers.com
@@ -40975,6 +40978,7 @@ january-distribution.xyz
 janushendeosonn.tokyo
 janushenderson.agenciastatus.com.br
 janushendersongroups.com
+janushendersoninv.com
 januviagoli.com
 japandreamcollection.com
 japanese.this-premint.com
@@ -96797,6 +96801,7 @@ wuawuaspizza.com
 wub6y7o.pro
 wufis.com
 wupeex.com
+wuqqrf3t7.life
 wurldcupapes.com
 wusd.cf
 wutyk.top
