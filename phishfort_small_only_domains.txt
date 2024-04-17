@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 18:52:12 UTC 2024
+# Fetch date: Wed Apr 17 19:02:47 UTC 2024
 # Number of Entries: 8014
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4107,6 +4107,7 @@ metamsk.org
 metamskaskse.azurewebsites.net
 metamsklogin.blogspot.com
 metamuaskingghlohgin.godaddysites.com
+metanaskio.xyz
 metanmasak.azurewebsites.net
 metapass.fyi
 metaportfolioconnect.com
@@ -6294,7 +6295,6 @@ stake-chainlink.finance
 stake-gtprotocol.com
 stake-injective.com
 stake-jup.com
-stake-manta.network
 stake-official-online.com
 stake-slerf.com
 stake-tish.com
