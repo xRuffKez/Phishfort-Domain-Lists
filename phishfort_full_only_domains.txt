@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 20:42:05 UTC 2024
-# Number of Entries: 108397
+# Fetch date: Wed Apr 17 21:32:28 UTC 2024
+# Number of Entries: 108401
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -8579,6 +8579,7 @@ authconnect-dapp.netlify.app
 authconnect.dev
 authconnect.org
 authconnect.pages.dev
+authcontractsync.pages.dev
 authdapps-connect.org
 authdapps.live
 authdappsync.com
@@ -29678,6 +29679,7 @@ equinixjobs.us
 equinor-ind.net
 equityzenchainlink.com
 equty.sa.com
+equty.za.com
 er-gala-gamesa-sa1.blogspot.com
 era-zksnyc.org
 era-zskync.net
@@ -37496,6 +37498,7 @@ governance-mav.tech
 governance-openocean.com
 governance.aave-protocol.network
 govkuwait.com
+govny.sa.com
 govs.sa.com
 govssc.edu.bd
 gowincoin.com
@@ -53846,6 +53849,7 @@ mmakerdao.com
 mmap.cyi168.com
 mmap.etokens.in
 mmap.matemasks.download
+mmapplicationhub.pages.dev
 mmapplicationhubs.pages.dev
 mmapplicationshub.pages.dev
 mmask.org
@@ -74212,6 +74216,7 @@ randomstring.electrumshow.net
 randomstring.electrumshow.org
 randos.presaless.com
 rangevalidator.firebaseapp.com
+rangevalidator.web.app
 rango-exchange-r8n4.onrender.com
 ranible-rnanage.top
 rank.sadwing.za.com
@@ -85722,7 +85727,6 @@ thenannada.xyz
 thenarutomerch.com
 thenetworksolutions.live
 theneuraluniverse.com
-thenewmont.com
 thenexteraglobal.com
 thenftlink.org
 thenodeconfig.online
