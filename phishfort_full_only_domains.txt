@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 17 19:42:03 UTC 2024
-# Number of Entries: 108393
+# Fetch date: Wed Apr 17 20:32:40 UTC 2024
+# Number of Entries: 108396
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -64383,6 +64383,7 @@ pancakefinance.online
 pancakefinance.pro
 pancakefinance.space
 pancakefinances-swap.pages.dev
+pancakefinances-swaps.pages.dev
 pancakefinances.org
 pancakefinancesawp.app
 pancakefinanceswap.app
@@ -85721,6 +85722,7 @@ thenannada.xyz
 thenarutomerch.com
 thenetworksolutions.live
 theneuraluniverse.com
+thenewmont.com
 thenexteraglobal.com
 thenftlink.org
 thenodeconfig.online
@@ -105559,6 +105561,7 @@ xn--fxedfloat-q5af.com
 xn--fxedfloat-vpbc.com
 xn--fxedfloat-vpbd.com
 xn--fxedfloat-vpbe.com
+xn--fxedflooat-68a.net
 xn--fxedftloat-k8a.com
 xn--fxedlflaot-k8a.com
 xn--garbagefrends-4ib.net
