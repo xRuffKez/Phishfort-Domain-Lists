@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 21:42:01 UTC 2024
-# Number of Entries: 8019
+# Fetch date: Thu Apr 18 21:51:58 UTC 2024
+# Number of Entries: 8016
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -777,7 +777,6 @@ assisted-hy.com
 astar-network.com-t.co
 astarlabs.com-t.co
 astrafive.website
-astroakashvani.com
 asx-exs-trade.com
 asx-martdeskeia.com
 asx-tradeco.co
@@ -3438,7 +3437,6 @@ lido-dist.web.app
 lido-fi.digital
 lido-fi.homes
 lido-fi.nl
-lido-finance-lido.com
 lido-finance.net
 lido-g8o.pages.dev
 lido-reward.net
@@ -7072,7 +7070,6 @@ vzxamt.cc
 w-airdrop.vercel.app
 w.contract-deployer.live
 w.optimalsmart-sync.buzz
-w1117.usdt6188.top
 w40y.pro
 w5fowfv5tj.tobamicama.tech
 wabanetworks.com
