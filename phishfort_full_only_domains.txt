@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 18:26:19 UTC 2024
-# Number of Entries: 108485
+# Fetch date: Thu Apr 18 18:33:39 UTC 2024
+# Number of Entries: 108488
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -23603,6 +23603,7 @@ dapplink.tech
 dapplinkconnection.online
 dapplinkconnector.info
 dapplinker.link
+dapplinks.net
 dapplinks.online
 dapplinksync.com
 dappliveaccess.org
@@ -33143,6 +33144,7 @@ feogflddo.top
 feosz.info
 feoverse.vip
 feraniumyard.com
+fergusonhvacamericanstandard.com
 fermetbltkubs-net.1gb.ru
 fero-protocol.com
 ferragens-bit.blogspot.com
@@ -76909,6 +76911,7 @@ rpcs-allnode.com
 rpcs-allnodes.com
 rpcvaults.site
 rpcweb3.com
+rpcweb3maindapp.com
 rpepe.club
 rpl-v2.com
 rpl4.org
