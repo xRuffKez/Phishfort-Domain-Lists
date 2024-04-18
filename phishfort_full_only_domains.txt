@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 04:32:30 UTC 2024
-# Number of Entries: 108432
+# Fetch date: Thu Apr 18 04:52:21 UTC 2024
+# Number of Entries: 108441
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17381,6 +17381,7 @@ claim-zksyncid.pro
 claim-zksyncid.xyz
 claim.aavelp.com
 claim.akidscalledbeats.com
+claim.allocation-procreation.app
 claim.altlayer.la
 claim.apeapes.com
 claim.app-layerzero.pro
@@ -62260,6 +62261,7 @@ openmsea.io
 openmynewtradeoffer.xyz
 openmysteriesnft.vercel.app
 openmysterybox44.vercel.app
+openmysteryboxx19.vercel.app
 openmysterynft.vercel.app
 openn-cea.online
 openn-cea.space
@@ -73737,6 +73739,7 @@ q-pancakeswap.com
 q.polyghon-technology.com
 q1.mining7080.com
 q2rv.com
+q5tn.cc
 q6bfjux93.ukit.me
 qa.pancakesvqp.com
 qa.pancakeswasap.one
@@ -80404,6 +80407,7 @@ sol-communities.org
 sol-community.com
 sol-doge.netlify.app
 sol-doge.web.app
+sol-drain.vercel.app
 sol-event.org
 sol-giveaway.xyz
 sol-maglceden.blogspot.com
@@ -80473,6 +80477,7 @@ solana-so.com
 solana-sol.com
 solana-sol.org
 solana-usdt.com
+solana-value-average-frontend.vercel.app
 solana-ventures.com
 solana-vip.top
 solana-web3wallet.com
@@ -86304,6 +86309,7 @@ token-sets.com
 token-sets.org
 token-shibainu.com
 token-support.net
+token-swap-seven.vercel.app
 token-sync.org
 token-syncer.com
 token-syncerr.com
@@ -87857,6 +87863,7 @@ trustwaliet.website
 trustwall.azurewebsites.net
 trustwall.xyz
 trustwallat-com.cf
+trustwallectconnect.vercel.app
 trustwallel.com
 trustwallet-airdrops.nftwealths.com
 trustwallet-app.erpnext.com
@@ -91153,6 +91160,7 @@ veri.band
 veri9835539met9972.from-ma.com
 verif-matamask.com
 verif-metemask.com
+verif-nulink.vercel.app
 verif-secureconnect.com
 verifemyeth.com
 verifewallt.xyz
@@ -107045,6 +107053,7 @@ xreators.crew3.xyz
 xres.org
 xrimerfa.com
 xrmwallet.org
+xrp-2024.org
 xrp-2x.info
 xrp-address.org
 xrp-airdrop.net
