@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 21:52:10 UTC 2024
-# Number of Entries: 108509
+# Fetch date: Thu Apr 18 22:03:09 UTC 2024
+# Number of Entries: 108510
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -59685,6 +59685,7 @@ ndaysaudicard.pages.dev
 ndcorrection.webs-apps.online
 ndexdeibotz.xyz
 ndf.saadasran.com
+ne.cion-defi.pro
 neami.shop
 near-community.one
 near-lottery.org
