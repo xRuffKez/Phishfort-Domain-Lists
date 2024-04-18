@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 04:03:11 UTC 2024
-# Number of Entries: 108431
+# Fetch date: Thu Apr 18 04:25:24 UTC 2024
+# Number of Entries: 108432
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -91049,6 +91049,7 @@ veleksupant.site
 velhalla-promogive.com
 velochain.io
 velocifree.xyz
+velocimeteer.com
 velocore.pages.dev
 velocore.verify-web3.net
 velodorme-finance.org
