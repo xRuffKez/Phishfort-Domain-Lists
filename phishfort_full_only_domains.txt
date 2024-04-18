@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 10:42:59 UTC 2024
-# Number of Entries: 108454
+# Fetch date: Thu Apr 18 10:52:10 UTC 2024
+# Number of Entries: 108457
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -33655,6 +33655,7 @@ fixedfloathome.xyz
 fixedfloati.com
 fixedfloatmirror.com
 fixedfloatswap.xyz
+fixedfloatt-io.click
 fixedfloatt.org
 fixedfloatz.com
 fixedfloaut.com
@@ -33799,6 +33800,7 @@ fixiedfloat.net
 fixiedfloat.pro
 fixingdapp.org
 fixisfloat.com
+fixislfloat.com
 fixissue.site
 fixissuesnow.com
 fixitmetamask.com
@@ -105619,6 +105621,7 @@ xn--fxedfloat-vpbe.com
 xn--fxedflooat-68a.net
 xn--fxedftloat-k8a.com
 xn--fxedlflaot-k8a.com
+xn--fxeldfloat-bub.com
 xn--garbagefrends-4ib.net
 xn--garbagefrends-jjb.com
 xn--gemn-nzab.com
