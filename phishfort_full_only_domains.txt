@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 05:04:02 UTC 2024
-# Number of Entries: 108444
+# Fetch date: Thu Apr 18 06:03:37 UTC 2024
+# Number of Entries: 108449
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4574,6 +4574,7 @@ altayerio.top
 altchains-beta.online
 altcoinchange.com
 altcrusaders-promogive.com
+altdentifiys.com
 altdexbridge.live
 altdrop.top
 alterahealth.works
@@ -7266,6 +7267,7 @@ arb-reward.net
 arb-rollup.xyz
 arb-skan.online
 arb.airpuds.top
+arb.altspads500.top
 arb.claimscrypto.top
 arb.cryptoweb-3.com
 arb.foundation
@@ -37825,6 +37827,7 @@ h5.517kuku.com
 h5.appreve.com
 h5.asxar.com
 h5.btkui188.cn
+h5.cbiotechnology.com
 h5.cointaurus.com
 h5.newscryptoio.com
 h5.ppancakeswap.info
@@ -62767,6 +62770,7 @@ openseanew.com
 openseanfft.com
 openseanft-io.godaddysites.com
 openseanft-marketplace.lensesonline.live
+openseanft-projs.vercel.app
 openseanft-us.godaddysites.com
 openseanft.one
 openseanft.sale
@@ -97449,6 +97453,7 @@ www-sushiswapwallet.blogspot.com
 www-synapsebridge.com
 www-ter-apps-tation.online
 www-treasure.lol
+www-trst-secure.v91x61.ru
 www-trustpad.io
 www-uniswap.click
 www-uniswap.com
