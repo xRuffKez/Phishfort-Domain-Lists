@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 00:10:57 UTC 2024
-# Number of Entries: 8016
+# Fetch date: Thu Apr 18 00:32:36 UTC 2024
+# Number of Entries: 8007
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -283,6 +283,7 @@ airdrop-defi.online
 airdrop-eesee.com
 airdrop-gomble.app
 airdrop-gomble.digital
+airdrop-gomble.io
 airdrop-info.lol
 airdrop-injective.top
 airdrop-ionet.vercel.app
@@ -677,6 +678,7 @@ applovin.admin608297838.com
 applovin.in
 applovintwap.com
 applovinworks.com
+apply-wormhole.com
 appmangrove.exchange
 appmantanetwork.com
 appmavia.com
@@ -941,7 +943,6 @@ benefits-blast.com
 bentenwif.com
 benzksync.nfts2.me
 beoible.app
-bep3456.club
 bera-claim.app
 bera-claim.net
 bera-names.com
@@ -1654,7 +1655,6 @@ coinomize-mixer.pages.dev
 coinrectifynode.live
 coinresearchlab.site
 coins-holders.web.app
-coins-rocketpool.net
 coins.tr1onex.top
 coinsquarelogin.com
 coinswiftresolve.web.app
@@ -2271,7 +2271,6 @@ eigenlayers.club
 eigenpie.saydbaeaumca.xyz
 elgenlayer.xyz.web3-ap.cfd
 elgenlayerz.xyz
-elgenllayer.xyz
 eligibility-wenwencoin.com
 eligibility.ventory.network
 eligible-chaln.link
@@ -2305,7 +2304,6 @@ en.pushdstore.xyz
 en407etr.com
 enchor-roofs.com
 eng-inj.net
-eng-injective.com
 eng-injective.net
 enkryptix.com
 enlist-altlayer.com
@@ -2596,7 +2594,6 @@ framexdao.net
 framexexplorer.net
 free-altlayer.com
 free-altlayers.com
-free-manta.com
 free-tias.com
 free.bitiezcommune.xyz
 free.bitzgroup.xyz
@@ -2626,6 +2623,7 @@ fusionist.trading
 fusioxn-finance.com
 futureswap.website
 fx0qlmo.cc
+fxtradinghomes.com.interactivebrokers.live
 g2os0.pro
 g5-airtm.com
 gahiett.com
@@ -3552,9 +3550,7 @@ login-frame.xyz
 login-metamaskwallet.ddnss.eu
 login.cw1.ir
 login.frame-airdrop.xyz
-login.lbpiaccess.workers.dev
 login.microsoftonlineportal.ppp-gov.online
-login.niviyi4094.workers.dev
 login.wapstore.duckdns.org
 login1-blockgames.xyz
 login2-blockgames.xyz
@@ -3708,7 +3704,6 @@ manta-clicksclaim.vercel.app
 manta-eiu.pages.dev
 manta-events.com
 manta-evm.pages.dev
-manta-foundation.com
 manta-group.xyz
 manta-labs.xyz
 manta-layer.xyz
@@ -3845,7 +3840,6 @@ masgouidetma.org
 mask-dao.web.app
 mask.gift
 maskairdrop.link
-maskbymetamask.io
 maskclaim.top
 maskcoin.pages.dev
 masktoken.cash
@@ -5848,7 +5842,6 @@ robopunksnft.cristovao.codes
 robots-farm.xyz
 rockelpool.net
 rocket-pool-rocket.com
-rocketpool-migrating.net
 rocketpool.liquidityus.net
 rocketpool.org
 rocketpool.pro
@@ -6608,6 +6601,7 @@ thefamiilytoken.com
 thefamilytokens.vercel.app
 thegamehubs.org
 themodenetwork.com
+thenewmont.com
 thereum.pages.dev
 thesolmirage.rxi.app
 thesolutionscenter.info
@@ -6694,7 +6688,6 @@ token-theblock.co
 token.strks-rocket.club
 tokenlon.app
 tokenprojectrarity.site
-tokens-rocketpool.net
 tokens-satoshivm.io
 tokens-zk.link
 tokensairdrops.com
@@ -7059,7 +7052,6 @@ vystarcu.tsa135.com
 vystarcu.zms362.com
 vzxamt.cc
 w-airdrop.vercel.app
-w-revoke.cash
 w.contract-deployer.live
 w.optimalsmart-sync.buzz
 w.smartprotocol-pad.online
@@ -7124,7 +7116,6 @@ washignton-post.com
 washignton-post.com.gianlucaungaro.it
 washingtonfinancialpost.com
 washingtonpost.in
-washingtonposts.info
 wassies.vip
 waves-opensea.com
 wbtc-portal.com
@@ -7808,7 +7799,6 @@ x-altlayer.com
 x-elon.live
 x-launcher.eu
 x-launches.com
-x-revoke.cash
 x-woo.net
 x01e8b2d6cbc38.anondns.net
 xaidao.app
@@ -7879,6 +7869,7 @@ xrpdistributions.firebaseapp.com
 xrpdistributions.web.app
 xrpepeofficial.com
 xrplairdrop.sistema.edu.pe
+xrpstudy.com
 xushuishiwu.cn
 xversewebwallets.com
 xwallconect.pages.dev
