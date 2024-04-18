@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 04:52:21 UTC 2024
-# Number of Entries: 108441
+# Fetch date: Thu Apr 18 05:04:02 UTC 2024
+# Number of Entries: 108444
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17081,6 +17081,7 @@ claim-eesee.com
 claim-eigenlayer.xyz
 claim-es.com
 claim-eth.com
+claim-ethena.marc.com.pk
 claim-ethenalab.com
 claim-ether.app
 claim-ether.fi
@@ -80462,6 +80463,7 @@ solana-magiceden-connecteletrossetti.blogspot.com
 solana-meta.com
 solana-meta.net
 solana-minting.com
+solana-mixer.com
 solana-pdl.com
 solana-portal.org
 solana-profit.web.app
@@ -85064,6 +85066,7 @@ terrqmoney.com
 terrqnnoney.com
 terysab.store
 tes2xla.online
+tesairdrop.online
 tesataee.info
 tesdt56n.pages.dev
 tesgiveaway.pages.dev
