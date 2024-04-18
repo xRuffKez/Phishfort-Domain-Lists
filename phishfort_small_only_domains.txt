@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 04:25:16 UTC 2024
+# Fetch date: Thu Apr 18 04:32:21 UTC 2024
 # Number of Entries: 8024
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -37,6 +37,7 @@
 1inch-crypto.top
 1inch-io.app
 1inch-pay.ga
+1inch.blog
 1inch.box
 1inch.fyi
 1inchcode.newfinancialmarketworld.com
@@ -1757,7 +1758,6 @@ connectdappsuniverse.click
 connectextension.info
 connectionlog.pages.dev
 connectnetwork.lojavirtualnuvem.com.br
-connectorwallet.pages.dev
 connectprotocol.42web.io
 connects-collabland.com
 connects-nibiru.com
