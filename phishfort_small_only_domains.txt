@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 23:03:09 UTC 2024
-# Number of Entries: 8012
+# Fetch date: Thu Apr 18 23:24:15 UTC 2024
+# Number of Entries: 8011
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -6452,7 +6452,6 @@ swap-dev-git-nx-true-project-cowswap.vercel.app
 swap-jupiter.com
 swap-l2.com
 swap-nft.pages.dev
-swap-raydium.io
 swap.dikecoin.net
 swap.pancake.us.com
 swap.pancake.us.org
