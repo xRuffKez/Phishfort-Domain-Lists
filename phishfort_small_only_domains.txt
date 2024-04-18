@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 04:52:10 UTC 2024
-# Number of Entries: 8031
+# Fetch date: Thu Apr 18 05:02:59 UTC 2024
+# Number of Entries: 8033
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1457,6 +1457,7 @@ claim-dubbz.com
 claim-dubbz.net
 claim-eesee.com
 claim-es.com
+claim-ethena.marc.com.pk
 claim-ethenalab.com
 claim-ether.fi
 claim-guildofguardians.com
@@ -5262,7 +5263,6 @@ phantom-protocol.com
 phantomapp.support
 phantomm-ewallett.godaddysites.com
 phantomwaalet.godaddysites.com
-phantomwallte.com
 phantomzwalllet.godaddysites.com
 phantuumwaleet.godaddysites.com
 phasnr.online
@@ -6227,6 +6227,7 @@ sol-drain.vercel.app
 sol-sola.web.app
 solana-claim.web.app
 solana-fund.com
+solana-mixer.com
 solana-profit.web.app
 solana-promo.info
 solana-value-average-frontend.vercel.app
@@ -6574,6 +6575,7 @@ terra-v2.re
 terra.durban
 terra.ong
 terradrop.net
+tesairdrop.online
 tesdt56n.pages.dev
 tesla-coingrabs.vercel.app
 test-project-llfwf7bel-artemkk787-gmailcom.vercel.app
