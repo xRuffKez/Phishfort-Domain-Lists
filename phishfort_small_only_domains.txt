@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 01:31:30 UTC 2024
-# Number of Entries: 8018
+# Fetch date: Thu Apr 18 01:56:35 UTC 2024
+# Number of Entries: 8021
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -573,6 +573,7 @@ app-metamask-kyc-auth.com
 app-metamsak-io-conditionapp.netlify.app
 app-metis.io
 app-moonhq.com
+app-nibirufi-checkers.vercel.app
 app-pancakesvap.github.io
 app-pandora.com
 app-parcl.site
@@ -5201,6 +5202,7 @@ pcyloclty.com
 peapodsfinance.app
 peapodsfinanceweb.com
 peapodsstake.finance
+peaq-airdrop.vercel.app
 pendle-flnance.net
 pendle.claims
 pendle.farm
@@ -5616,7 +5618,6 @@ rayduims.beauty
 rayduims.boats
 rayduims.homes
 rayduims.monster
-raydum.sbs
 rayidium.com
 rayzonfinance.com
 raze-drops.top
@@ -5927,6 +5928,7 @@ saksoff.sakskoesad.com
 saksoff05.com
 saksoff06.com
 saksoff07.com
+saksoff5th-common.com
 saksoff5th-us1.com
 saksoff5th.love
 saksoff5th.store
@@ -5944,6 +5946,7 @@ saksoff5thoi-ju.com
 saksoff5thw.com
 saksoff5thx.com
 saksoff5thy-co.com
+saksoff5thyy-kco.com
 saksoff5thyyppl.top
 saksoff5thz.com
 sakssaks.com
