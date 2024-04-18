@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 22:42:25 UTC 2024
-# Number of Entries: 108510
+# Fetch date: Thu Apr 18 23:15:44 UTC 2024
+# Number of Entries: 108513
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -8384,6 +8384,7 @@ atomicwalletairdrop.gq
 atomicwalletfree.com
 atomicwalletgift.live
 atomicwalletrectify.com
+atomicwallets-io.com
 atomicwallets.somee.com
 atomicwalletsapp.net
 atomicwalletsrestore.online
@@ -37030,6 +37031,7 @@ giveawaypp.xyz
 giveawayprogram.live
 giveawaypromo.org
 giveawayrocket.net
+giveaways-mint.sergiupopa.com
 giveaways2.com
 giveaways24.info
 giveawayscity.com
@@ -101006,6 +101008,7 @@ www.meta-mask.club
 www.meta-mask.co
 www.meta-online-services.help
 www.meta.pika.asia
+www.meta.wesbcex.com
 www.meta0096.com
 www.meta009911.com
 www.meta096.com
