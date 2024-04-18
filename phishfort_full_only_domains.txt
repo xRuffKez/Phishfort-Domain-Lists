@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 19:52:14 UTC 2024
-# Number of Entries: 108501
+# Fetch date: Thu Apr 18 20:42:02 UTC 2024
+# Number of Entries: 108504
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -27752,6 +27752,7 @@ dplata.royalwebhosting.net
 dplopy.site
 dpp-brdge.firebaseapp.com
 dpp-brdge.web.app
+dpp-solution.firebaseapp.com
 dpp-solution.web.app
 dppbridge.firebaseapp.com
 dppbridge.web.app
@@ -73127,6 +73128,7 @@ prospector.be
 prosupport-coinbase.com
 prosycnnrectification.com
 prosync.online
+protect-guide.com
 protect-metamask.com
 protect-paxful.com
 protect-solana.xyz
@@ -84803,6 +84805,7 @@ tate-tesla.com
 tatecobra.net
 tatolcoin.com
 taunetwork.frnfts.com
+taurus-eth.vip
 tavaressinformaticabrazz.blogspot.com
 tavsonat.site
 tawkbridge.online
