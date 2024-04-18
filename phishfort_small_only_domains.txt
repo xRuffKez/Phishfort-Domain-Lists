@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 12:46:11 UTC 2024
+# Fetch date: Thu Apr 18 12:55:10 UTC 2024
 # Number of Entries: 8006
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1803,7 +1803,6 @@ crv.fi
 crvfi.pro
 crypain.xyz
 cryptexchange.vip
-crypto-communities.com
 crypto-farm-trust.com
 crypto-starknets.com
 crypto.wormscommunity.xyz
@@ -4083,6 +4082,7 @@ metamcsk.cc
 metamcsk.io
 metameak.com
 metameask-walat.godaddysites.com
+metamesk-io.me
 metamesk-walate.godaddysites.com
 metamesk.cc
 metamesk.me
