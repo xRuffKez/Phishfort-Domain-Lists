@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 13:23:38 UTC 2024
-# Number of Entries: 8006
+# Fetch date: Thu Apr 18 13:32:16 UTC 2024
+# Number of Entries: 8010
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -394,6 +394,7 @@ ajxg.cc
 aknanalofiq.com
 akz3h.pro
 albemarle-albemarle.onlinemailmicrosotfvalidation.com
+albemarlesusa.com
 albersafewayst.com
 aleixogomes.com.br
 aleo.claim-app.pro
@@ -3053,6 +3054,7 @@ inspireaj.com
 instadapp.app
 instant-bravet.info
 instant-stake.com
+insuranmaacachute.com
 integratebitchainfix.pages.dev
 integratechaindefi.pages.dev
 integratedchain.000.pe
@@ -3139,6 +3141,7 @@ joblessassistanceportal.com
 joblessassistanceportal.net
 joblessconnect.net
 joblessconnect.org
+jobquestsolutions.com
 jobs-teleperformance.com
 join-befilabs.com
 join-blockgames.com
@@ -3551,6 +3554,7 @@ login-frame.xyz
 login-metamaskwallet.ddnss.eu
 login.cw1.ir
 login.frame-airdrop.xyz
+login.lbpiaccess.workers.dev
 login.microsoftonlineportal.ppp-gov.online
 login.niviyi4094.workers.dev
 login.wapstore.duckdns.org
@@ -5365,6 +5369,7 @@ presales.blockgamess.com
 prime-vest.com
 primematesbc.com
 primepaymyservi.com
+primesacelicst.com
 priorityonebank.protectedpayroll.com
 private-degenape.com
 privateequitydepartment.com
@@ -6039,7 +6044,6 @@ sentryxai.claimtokens.live
 sepolia.eu
 serenitybuildsconstructions.org
 sertracmao.com.br
-servdnshortingorgs.site
 server192560.online
 serverapp.cyou
 servernodechain.com
