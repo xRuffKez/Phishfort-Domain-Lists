@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 18:52:32 UTC 2024
-# Number of Entries: 108488
+# Fetch date: Thu Apr 18 19:32:34 UTC 2024
+# Number of Entries: 108497
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -231,6 +231,7 @@
 1blockofficial.xyz
 1bndsjss.ru
 1cancelar-cambio.webcindario.com
+1cbre.com
 1chaincrypto.com
 1cinh.exchange
 1claimeth.one
@@ -1209,6 +1210,7 @@
 3polygon.com
 3pzlywh.info
 3q9jzc.qunkong123.com
+3rdandtaylor.com
 3rp5xuus51ch4lh.nautiluswww.outlook.pancakeswape.finance
 3secure.online
 3tesla.club
@@ -15916,6 +15918,7 @@ celamultichaindapp.com
 celastise.io
 celastise.net
 celatis.cc
+celatis.com
 celatis.digital
 celatis.paperhand.fi
 celatis.tech
@@ -60002,6 +60005,7 @@ newmont-traders.com
 newmont-us.com
 newmont-usa.com
 newmont.live
+newmont.online
 newmont.pro
 newmontassetss.com
 newmontcop.com
@@ -69202,6 +69206,7 @@ paxonlinerates.online
 paxos-app.com
 paxos-bounty.com
 paxos-club.com
+paxos-dapp.com
 paxos-eth.com
 paxos-gold.net
 paxos-gold.org
@@ -72974,6 +72979,7 @@ projectmainets.xyz
 projectmainn.com
 projectmainnet.com
 projectmainnet.netlify.app
+projectmainnetweb.com
 projectmainserver.com
 projectmanual-syncronisation.online
 projectnetsolution.com
@@ -79228,6 +79234,7 @@ shido.token-sale.live
 shidoapp.work
 shielded-chain.com
 shienbr.com
+shift4strategy.com
 shiftersnft.io
 shiftswap.io
 shiibabswaps.blogspot.com
@@ -84536,6 +84543,7 @@ synscapp.com
 synslabs.firebaseapp.com
 synslabs.web.app
 synspad.firebaseapp.com
+synspad.web.app
 synssmartdapps.live
 syntethix.io
 synthesis-syn.com
@@ -104809,6 +104817,7 @@ x-woo.net
 x-worldcoin.online
 x-worldcoin.space
 x-worldcoint.com
+x.alts-pads500.top
 x01e8b2d6cbc38.anondns.net
 x0384-open-sea-recover.com
 x1000shibclaim.info
