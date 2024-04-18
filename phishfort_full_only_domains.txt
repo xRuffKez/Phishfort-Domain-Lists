@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 08:16:12 UTC 2024
-# Number of Entries: 108452
+# Fetch date: Thu Apr 18 08:33:55 UTC 2024
+# Number of Entries: 108453
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -78528,6 +78528,7 @@ seinetworks-airdrop.com
 seinetworks.io
 seinft.co
 seipad.net
+seipass.io
 seiprotocols.com
 seiyans-nft.com
 seizcommunity.xyz
