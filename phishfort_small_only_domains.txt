@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 08:04:21 UTC 2024
+# Fetch date: Thu Apr 18 08:16:03 UTC 2024
 # Number of Entries: 8035
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -434,7 +434,6 @@ alshayagroup.shop
 alshayagroupom.company.site
 alshayamegastore.com
 alshayamegastore.online
-alshayastore.com
 alshayeagroup.com
 alt-layers.com
 alt-token.net
@@ -640,6 +639,7 @@ app.opsecgifts.com
 app.parallelfl.network
 app.pepepay.finance
 app.prisrnafinance.com
+app.qirtm.com
 app.raticswap.xyz
 app.refundcoinstake.com
 app.renzoprotocols.net
@@ -2015,6 +2015,7 @@ defi-manta.pages.dev
 defi-pendle.fi
 defi-read.web.app
 defi-starknet.pages.dev
+defi-web3pcs.com
 defi3tech.com
 defiaave.net
 defibulls.org
@@ -4526,7 +4527,6 @@ netnodeconnect.com
 network-altlayer.com
 network-dymension.com
 network-manta.com
-network-manta.net
 network-metamask.com
 network.airdrops-manta.it
 network.app--jito.network
