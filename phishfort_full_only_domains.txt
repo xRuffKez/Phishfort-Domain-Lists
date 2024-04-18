@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 20:42:02 UTC 2024
-# Number of Entries: 108504
+# Fetch date: Thu Apr 18 20:52:26 UTC 2024
+# Number of Entries: 108506
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -42095,6 +42095,7 @@ kidex.market
 kidsofthapocalypse.store
 kidtings.com
 kier-careers.co.uk
+kier-group.co.uk
 kiilabears.com
 kikidas81.com
 kiliancolin.com
@@ -96321,6 +96322,7 @@ west-braves.info
 west-coastcannabis.com
 west-drop.website
 west-rock.com
+westcon.com.mx
 westdrop.website
 westfieldsgrp.com
 westlrock.com
