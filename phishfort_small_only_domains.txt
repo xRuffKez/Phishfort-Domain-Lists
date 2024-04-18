@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 20:03:20 UTC 2024
-# Number of Entries: 8018
+# Fetch date: Thu Apr 18 20:15:15 UTC 2024
+# Number of Entries: 8016
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2770,7 +2770,6 @@ globalgoldcloudworld.world
 globalpaymentsvtw.com
 globalpaymentsytww.com
 globalshoptiktok.co
-gm-generalmotors.com
 gmesolana.com
 gmfinancialcareers.com
 gmfinancialjobs.com
@@ -5404,6 +5403,7 @@ prompt-0x828.com
 promt-088x2.com
 pronkhub.ru
 prophetsbot.app
+protect-guide.com
 protect-solana.xyz
 protect-wallet.io
 protectsolana.shop
@@ -7079,7 +7079,6 @@ wagmiblast.xyz
 wagmidrop.com
 wagmigames8765.live
 waitlist-altlayer.io
-waitlist-shrapnel.com
 waletsconets.pages.dev
 walken-nft.web.app
 wallemartoneycarts.com
@@ -7679,7 +7678,6 @@ www.ordibridge.xyz
 www.organiconetexas.com
 www.orivium.dev
 www.osais.app
-www.pacificc-manta.network
 www.paidnetworkstaking.com
 www.pancakeswap-v3.com
 www.pancakeswapairdrop.com
