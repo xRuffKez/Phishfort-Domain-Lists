@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 18:51:58 UTC 2024
-# Number of Entries: 8013
+# Fetch date: Thu Apr 18 19:03:09 UTC 2024
+# Number of Entries: 8015
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -79,6 +79,7 @@
 3ebank.github.io
 3f4813b3-5cfb-4a7a-8fcb-7b9ed4dd8395-00-2btsrssvd10b4.janeway.replit.dev
 3pzlywh.info
+3rdandtaylor.com
 407-etr-help.com
 407-etr.com
 407etr-paytrip.com
@@ -3127,7 +3128,6 @@ jenkins.codefinity.de
 jenpower.net
 jerrybeers.com
 jfrsgrp.com
-jggbbestforyou.com
 jggo.mypi.co
 jiashengint.cn
 jiashengtrader.com
@@ -5138,6 +5138,7 @@ paxobcxr.com
 paxobopr.com
 paxos-app.com
 paxos-club.com
+paxos-dapp.com
 paxos-eth.com
 paxos-gold.net
 paxos-okta.com
@@ -6079,6 +6080,7 @@ shido-34p.pages.dev
 shido.tco-c.xyz
 shido.token-sale.live
 shidoapp.work
+shift4strategy.com
 shirbclaime.netlify.app
 shirbreward.netlify.app
 shitzuapes.fun
