@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 10:42:20 UTC 2024
-# Number of Entries: 8001
+# Fetch date: Thu Apr 18 11:22:15 UTC 2024
+# Number of Entries: 8004
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2536,9 +2536,11 @@ fix.errorsolution.org
 fixadfloat.com
 fixbugmigrate.pages.dev
 fixedfloat.win
+fixedfloatt-io.click
 fixedtloat.com
 fixedtsfloats.com
 fixetflaot.com
+fixislfloat.com
 fixold2ndbnk.mypsx.net
 fixsbusiness.mx
 fj7gqqj.cc
@@ -7845,6 +7847,7 @@ xn--fxedfloat-vpbd.com
 xn--fxedfloat-vpbe.com
 xn--fxedflooat-68a.net
 xn--fxedftloat-k8a.com
+xn--fxeldfloat-bub.com
 xn--od5b1rm17a.com
 xn--rustwallet-gyd.com
 xn--sandbx-games-iib.pages.dev
