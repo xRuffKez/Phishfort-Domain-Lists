@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 12:31:58 UTC 2024
-# Number of Entries: 108463
+# Fetch date: Thu Apr 18 13:03:26 UTC 2024
+# Number of Entries: 108465
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -52292,6 +52292,7 @@ metamecs.com
 metamed.live
 metamesask.com
 metamesk-io.duia.us
+metamesk-io.me
 metamesk-walate.godaddysites.com
 metamesk.app
 metamesk.bar
@@ -78021,6 +78022,7 @@ secure-defi.app
 secure-eth-transactions.bitballoon.com
 secure-eth.info
 secure-ethereum.tw1.su
+secure-evy.pages.dev
 secure-exodus.com
 secure-fkcbank.com
 secure-give-eth.com
