@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 01:56:35 UTC 2024
-# Number of Entries: 8021
+# Fetch date: Thu Apr 18 02:11:45 UTC 2024
+# Number of Entries: 8022
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -8021,6 +8021,7 @@ zr2b788n.site
 zro-claim.xyz
 zroclaim.xyz
 zsgai.pro
+zulu-verification.vercel.app
 zwbohn.pro
 zyberswap.news
 zzbtg.pro
