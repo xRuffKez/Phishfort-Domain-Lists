@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 17:42:18 UTC 2024
-# Number of Entries: 108486
+# Fetch date: Thu Apr 18 17:52:03 UTC 2024
+# Number of Entries: 108485
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -60000,7 +60000,6 @@ newmont-traders.com
 newmont-us.com
 newmont-usa.com
 newmont.live
-newmont.online
 newmont.pro
 newmontassetss.com
 newmontcop.com
