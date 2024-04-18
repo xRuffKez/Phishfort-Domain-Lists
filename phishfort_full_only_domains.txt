@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 10:03:24 UTC 2024
+# Fetch date: Thu Apr 18 10:36:04 UTC 2024
 # Number of Entries: 108454
 
 0-metemask.com
@@ -9534,7 +9534,6 @@ axieninfinity.com
 axieninfinity.online
 axieninflnity.online
 axienomics.finance
-axieorigin.in
 axiepnfinity.com
 axiereward.com
 axieronin-axieinfinity.shop
@@ -60053,6 +60052,7 @@ newsmetamesks.com
 newsouthwire.com
 newspecialsoffers.online
 newsupport.alkhaleej.com.sa
+newsy.elsob7.com
 newsystemresolve.live
 newtesla2023.io
 newtherewallet.com
