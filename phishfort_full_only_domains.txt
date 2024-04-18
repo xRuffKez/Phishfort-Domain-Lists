@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 21:42:21 UTC 2024
-# Number of Entries: 108506
+# Fetch date: Thu Apr 18 21:52:10 UTC 2024
+# Number of Entries: 108509
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -10066,6 +10066,7 @@ babycatgirl-promogive.com
 babycheemsinu-promogive.com
 babycl.netlify.app
 babydegods.com
+babydg2.org
 babydodobsc.com
 babydogceoin.top
 babydoge-app.xyz
@@ -22105,6 +22106,7 @@ cryptogpt.sale
 cryptogpt.web3claimer.com
 cryptogpt.web3fast.net
 cryptogpt2023.com
+cryptogptai.app
 cryptogptcoin.com
 cryptogptlive.org
 cryptogpts.xyz
@@ -60283,6 +60285,7 @@ nft.niron-capital.com
 nft.openseal.su
 nft.opensel.su
 nft.pepzgroup.biz
+nft.rgmbeta.com
 nft.rqriible.org
 nft.stoneinno.com
 nft.vip-tokyo.jp
