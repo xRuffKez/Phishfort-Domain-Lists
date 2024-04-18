@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 05:41:59 UTC 2024
-# Number of Entries: 8035
+# Fetch date: Thu Apr 18 05:52:07 UTC 2024
+# Number of Entries: 8036
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -7397,6 +7397,7 @@ www-jumpers.exchange
 www-orbiter.xyz
 www-peryourhealth.com
 www-safe-global.info
+www-trst-secure.v91x61.ru
 www.0xprotocol.site
 www.1asxhkd.com
 www.1inch.ink
