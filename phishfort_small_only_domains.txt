@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 20:42:12 UTC 2024
-# Number of Entries: 8017
+# Fetch date: Thu Apr 18 20:52:16 UTC 2024
+# Number of Entries: 8019
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3292,6 +3292,7 @@ keungz.space
 keyst-one.com
 kgatn.pro
 kier-careers.co.uk
+kier-group.co.uk
 kingroofing.com
 kitty-inu-dao.com
 kkyphtf0fbvl.ftntpk6ubbx4sk.ru
@@ -7289,6 +7290,7 @@ wepad.web3mirror.io
 wer34.pages.dev
 wesltchekspas.com
 west-braves.info
+westcon.com.mx
 westrock-workwear.nl
 wetolove.com
 wevcomnin.pages.dev
