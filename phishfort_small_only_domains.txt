@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 22:51:59 UTC 2024
-# Number of Entries: 8016
+# Fetch date: Thu Apr 18 23:03:09 UTC 2024
+# Number of Entries: 8012
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1887,7 +1887,6 @@ dappradar.ec
 dappradar.fun
 dappradar.mom
 dappradar.qa
-dappradar.team
 dappradar.works
 dappradardrop.com
 dappradare.eu
@@ -2351,7 +2350,6 @@ eth-ensdao.net
 eth-gas.xyz
 eth-gasfee.com
 eth-yieldfarming.org
-eth2.foundation
 ethdrop.xyz
 ethena-3web.pages.dev
 ethena-airdrop.vercel.app
@@ -2726,7 +2724,6 @@ getcodesolutions.com
 getgrass-check.com
 getgrass-collect.com
 getgrass.cx
-geth.claims
 getmanta.network
 getmanta.pages.dev
 getmidjourney.tech
@@ -3825,7 +3822,6 @@ maplestorysuniverse.io
 maqiceden.web.app
 market-place-bids.com
 marketpalcestatus.com
-marketpharmacy.com
 marketplace-listings.com
 marketplace-offers.io
 marketplacestatus.com
@@ -6312,7 +6308,6 @@ stakestone.iostone.lodhapetro.com
 stakestone.mom
 stakestone.site
 stakewise.li
-stakewise.pages.dev
 stakewise.tech
 stakeyieldmagnet.io
 stakezircuit.xyz
@@ -7615,6 +7610,7 @@ www.mavla.xyz
 www.meetup.services
 www.mehrlesenachrichten.com
 www.meta.pika.asia
+www.meta.wesbcex.com
 www.meta009911.com
 www.meta2842.com
 www.metamask-app.com
