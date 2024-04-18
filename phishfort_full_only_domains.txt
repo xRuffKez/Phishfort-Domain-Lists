@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 00:11:28 UTC 2024
-# Number of Entries: 108401
+# Fetch date: Thu Apr 18 02:37:10 UTC 2024
+# Number of Entries: 108425
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1643,6 +1643,7 @@ a1drop-node.online
 a1pv.cc
 a1rdrop-claimiing.online
 a23.ethwb.com
+a26ed5eb.hub-originether.org
 a2ip.ru
 a2phsh3i.w2ts.net
 a3074.top
@@ -3470,6 +3471,7 @@ airdrop-gift.website
 airdrop-giveaway.xyz
 airdrop-gomble.app
 airdrop-gomble.digital
+airdrop-gomble.io
 airdrop-gpt.com
 airdrop-hex.com
 airdrop-hucapitalltd.pages.dev
@@ -5826,6 +5828,7 @@ app-myetherwallet.com
 app-mymeta.com
 app-near-wallet.tk
 app-nearr-wallett.blogspot.com
+app-nibirufi-checkers.vercel.app
 app-niftygateway.com
 app-oawa.com
 app-oinsbibit.xyz
@@ -5847,6 +5850,7 @@ app-orbiter.com
 app-ordinals.com
 app-os-mo-sis.org
 app-osmosis-zone.com
+app-pacmoon.org
 app-pancakaswap.finance
 app-pancake-swap.com
 app-pancake-swap.com.mx
@@ -6816,6 +6820,7 @@ apply-uniswap.icu
 apply-uniswap.monster
 apply-uniswap.org
 apply-uniswap.top
+apply-wormhole.com
 apply.giveaway-1inch.info
 apply.trustpad-reward.info
 applyer.info
@@ -10060,6 +10065,7 @@ babydogceoin.top
 babydoge-app.xyz
 babydoge-claim.com
 babydoge-freemint.xyz
+babydoge.app
 babydoge.capital-earning.com
 babydoge.claim-web3.xyz
 babydoge.claims.ink
@@ -15804,6 +15810,7 @@ cbase-pro.com
 cbcswap.pages.dev
 cbengine.comytvweb.com
 cbfeb953b53417d5.net
+cbgemcredentialorg.web.app
 cbgyf.pages.dev
 cbitsol.com
 cbiuaee.com
@@ -16439,6 +16446,7 @@ champz.solana-minting.com
 chance.services
 chanceclifflaw.com
 chanceclifflegal.com
+chanceportugal.com
 chancer.website
 chancessale.cloud
 chancliffllegal.com
@@ -17425,6 +17433,7 @@ claim.eigenlayer.tech
 claim.en-ripple.com
 claim.ethdeal.info
 claim.ether33.online
+claim.ethnafi.cc
 claim.ethnafi.world
 claim.ethsx.space
 claim.fightouts.eu
@@ -31543,6 +31552,7 @@ ethn.gift
 ethn.li
 ethn.pw
 ethn.vu
+ethna.vip
 ethnew.store
 ethnewpromo.com
 ethnewpromoaway.com
@@ -35245,6 +35255,7 @@ fxtimetrade247.com
 fxtjvuotfxlo93m.www.ecommerce.pancakeswape.finance
 fxtradeassets.com
 fxtradingassets.com
+fxtradinghomes.com.interactivebrokers.live
 fxwinning-pro-wallet.cf
 fxwinning-pro-wallet.ga
 fxwinning-pro-wallet.gq
@@ -37930,6 +37941,8 @@ harvestfinance.net
 hasbullacryptonft.com
 hasbullanft.xyz
 hasbullapencilnft.live
+hash-ai.org
+hash-ai.vip
 hash-pack.com
 hash.uniswap.team
 hashai-airdrop.com
@@ -41428,6 +41441,7 @@ jokerchaarlie.xyz
 jokewoods.maryboye.tv
 jol0x59c5df466012a218727dbc6ba0bb75a239109c43.xyz
 joln-onchainmonkey.com
+joltify-get.vercel.app
 jomosoftware.tech
 jonestrading.org
 jordancoin.online
@@ -45886,7 +45900,6 @@ login.fraend.net
 login.frame-airdrop.xyz
 login.lblockhcoin.com
 login.lbloclkchoin.com
-login.lbpiaccess.workers.dev
 login.link3tocyberconnect2.tech
 login.localbitcoins.com.localbitcoinns.com
 login.magicoden-io.com
@@ -45897,7 +45910,6 @@ login.myemployeerewards.net
 login.myethermessenger.com
 login.myob.ink
 login.nibc-belgie.com
-login.niviyi4094.workers.dev
 login.oberbalnk.co
 login.opensea.2fasset.c2511312.ferozo.com
 login.ordinalsapp.live
@@ -69385,6 +69397,7 @@ peancekeswop.finance
 peapodsfinance.app
 peapodsfinanceweb.com
 peapodsstake.finance
+peaq-airdrop.vercel.app
 pearswap.org
 pearswap.xyz
 peckont.site
@@ -69449,6 +69462,7 @@ pendle.farm
 pendle.gift
 pendle.gifts
 pendle.network
+pendle.re
 pendlefi.org
 pendlefinance.org
 pendlenetwork.com
@@ -70774,6 +70788,7 @@ plugin.pabcakeswap.info
 plugin.pancakeswasap.one
 plugin.pancakeswsp.info
 plugvalve.net
+plumee.vercel.app
 plur.nft-premint.com
 plus-ethers.com
 plusmedica-shop.ch
@@ -77460,6 +77475,7 @@ saksoff06.com
 saksoff07.com
 saksoff55-th.com
 saksoff5sth.com
+saksoff5th-common.com
 saksoff5th-online.shop
 saksoff5th-store.shop
 saksoff5th-stores.shop
@@ -77500,6 +77516,7 @@ saksoff5thvip.com
 saksoff5thw.com
 saksoff5thx.com
 saksoff5thy-co.com
+saksoff5thyy-kco.com
 saksoff5thyyppl.top
 saksoff5thz.com
 saksofff-55th.com
@@ -81483,6 +81500,7 @@ spotmant.site
 spotnft.net
 sppookyswap.finance
 sprak.fi
+springbokinfo.co.za
 springbridge.website
 springsinternational.org
 sprintswap.io
@@ -85727,6 +85745,7 @@ thenannada.xyz
 thenarutomerch.com
 thenetworksolutions.live
 theneuraluniverse.com
+thenewmont.com
 thenexteraglobal.com
 thenftlink.org
 thenodeconfig.online
@@ -87596,6 +87615,7 @@ trustclaim.net
 trustclaim.xyz
 trustclaims.org
 trustcoin.exchange
+trustcoin.vercel.app
 trustcoinbasewallet.com
 trustcoint.vip
 trustcommuinty.com
@@ -98111,6 +98131,7 @@ www.asxcions.com
 www.asxcoinic.com
 www.asxcrypto.net
 www.asxcryptoo.com
+www.asxhk0.com
 www.asxhk7.com
 www.asxhk8.com
 www.asxhkd1.com
@@ -104972,6 +104993,7 @@ xmoneta.co
 xmoose.allowmint.com
 xmr-qr-code-generator.com
 xmr-wallet.com
+xmr.altspads500.top
 xmrqrcode.com
 xmrwallet.top
 xmxx.btcethl.vip
@@ -107124,6 +107146,7 @@ xrps-claim.org
 xrps-claims.net
 xrpsec.pro
 xrpstart.info
+xrpstudy.com
 xrptake.live
 xrptop.com
 xrpusdt.co
@@ -108373,6 +108396,7 @@ zugsnea.store
 zuixineth.mana888.top
 zuki-promogive.com
 zukimfer.buzz
+zulu-verification.vercel.app
 zulumaka.top
 zur84p.s3o98.com
 zuwaentertainment.co.uk
