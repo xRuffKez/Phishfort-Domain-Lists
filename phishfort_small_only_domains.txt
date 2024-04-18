@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 12:55:10 UTC 2024
-# Number of Entries: 8006
+# Fetch date: Thu Apr 18 13:03:07 UTC 2024
+# Number of Entries: 8007
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -5047,6 +5047,7 @@ pandosshi.xyz
 panecakeswapv3.com
 pangolin-x.com
 pankaceswap.tech
+pankcakeswap.com
 panoshidaapsintegration.netlify.app
 pansakecwap.xyz
 panteamspark.com
