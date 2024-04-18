@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 17:03:20 UTC 2024
-# Number of Entries: 8011
+# Fetch date: Thu Apr 18 17:14:46 UTC 2024
+# Number of Entries: 8012
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -97,6 +97,7 @@
 50000usdt.top
 5000usdt.us
 56376tygegdajun.live
+5ire.live
 5ninja-cup.com
 5raydium.sbs
 5thavenue-fashion.be
@@ -2480,6 +2481,7 @@ farcano.com
 farlicflumas.com
 farming-taiko.org-c.co
 farmlayerai.xyz
+fasrrermigr.com
 fastauthewalletethersync.com
 fastdevmigrathaslite.pro
 fastdevmigrathxqnzv.pro
@@ -7768,7 +7770,6 @@ www.trustlimitedinvestment.com
 www.trustwalletdefi.icu
 www.tufreb.com
 www.ucem.edu.mx
-www.unimlp.com
 www.unitedaircareers.com
 www.useneuxs.org
 www.usenxeus.org
