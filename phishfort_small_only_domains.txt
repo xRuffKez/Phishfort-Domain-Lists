@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 20:15:15 UTC 2024
-# Number of Entries: 8016
+# Fetch date: Thu Apr 18 20:23:22 UTC 2024
+# Number of Entries: 8017
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2163,6 +2163,7 @@ dovu-migration.net
 dow-amercas.com
 dowchemicals-us.com
 dowunitedstatesusa.com
+dpp-solution.firebaseapp.com
 dppsradar.pages.dev
 dpsyncresolve.netlify.app
 dr.com
