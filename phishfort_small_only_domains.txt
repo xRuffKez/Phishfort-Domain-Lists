@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 23:32:19 UTC 2024
-# Number of Entries: 8010
+# Fetch date: Thu Apr 18 23:42:20 UTC 2024
+# Number of Entries: 8009
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3189,6 +3189,7 @@ jumper-exchange.network
 jumper.capital
 jumper.markets
 jumper.trading
+jumperexchange.info
 jumperexchange.xyz
 jumpers-exchanges.xyz
 jumpers.trading
@@ -3832,7 +3833,6 @@ masa-finance.com
 masgouidetma.org
 mask-dao.web.app
 mask.gift
-maskairdrop.link
 maskclaim.top
 maskcoin.pages.dev
 masktoken.cash
@@ -4268,7 +4268,6 @@ mistersos.pages.dev
 mitratokped.com
 mj3.us
 mkyetherwallet.com
-mm-redirect.com
 mmakerdao.com
 mmapplicationhub.pages.dev
 mmapplicationhubs.pages.dev
