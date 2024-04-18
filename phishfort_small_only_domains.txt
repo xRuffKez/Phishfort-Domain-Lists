@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 04:15:33 UTC 2024
-# Number of Entries: 8032
+# Fetch date: Thu Apr 18 04:25:16 UTC 2024
+# Number of Entries: 8024
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -200,7 +200,6 @@ agic.link
 agixreward.xyz
 agoda-88.vip
 agoda-checkout-id843753.com
-agoda-com.com
 agoda-confirm.com-id591057.com
 agoda-global.pro
 agoda-hotel.com
@@ -3197,12 +3196,10 @@ juiceboxmoney.xyz
 julswap.co
 jumper-exchange.live
 jumper-exchange.network
-jumper-exchange.org
 jumper.capital
 jumper.markets
 jumper.trading
 jumperexchange.xyz
-jumperexchenge.org
 jumpers-exchanges.xyz
 jumpers.trading
 jumperweb3.pro
@@ -3802,7 +3799,6 @@ mantanftnet.com
 mantantwrk.xyz
 mantao-network.life
 mantao-network.xyz
-mantap.network
 mantapacifc.com
 mantapcfc.network
 mantaronetwork.com
@@ -4628,7 +4624,6 @@ nftopenseaclaim.vercel.app
 nftopenseas.vercel.app
 nftprojects-claim.vercel.app
 nftprompt.io
-nftrzn.com
 nfts-claim.vercel.app
 nfts-manta.network
 nfts-opnsea.vercel.app
@@ -4927,7 +4922,6 @@ pan-team3.com
 panacakeswap.tech
 panasonic-in.com
 pancackeswap-claim.web.app
-pancackeswap-fiannce.com
 pancaikeswap.finance
 pancakaswap-finance.xyz
 pancakaswaps.com
@@ -5682,7 +5676,6 @@ register-optimism.org
 register-orderly.network
 register-pandora.app
 register-qubic.org
-register-rabby.io
 register-satoshivm.com
 register-smartlayer.network
 register-snap.com
@@ -6273,7 +6266,6 @@ sparkfi.org
 sparkfi.tech
 sparkfinance.fi
 sparklend.fi
-sparkprotocol.fi
 speedylendingtree.com
 speedysmartnetwork.com
 sperk.fi
@@ -6953,6 +6945,7 @@ vectorreserve.live
 veeam.careers
 veeam.works
 velamigration.pro
+velocimeteer.com
 veloxlinknode.pages.dev
 venafi.site
 vendorprocurement.online
@@ -7990,7 +7983,6 @@ zkfari.io
 zkfarri.io
 zkfiair.site
 zkflre.io
-zkifair.io
 zkiink.io
 zklink.in
 zkmindversatile.pages.dev
