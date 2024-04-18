@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 16:35:33 UTC 2024
-# Number of Entries: 8012
+# Fetch date: Thu Apr 18 16:42:30 UTC 2024
+# Number of Entries: 8011
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1638,7 +1638,6 @@ coinbaseoc.com
 coinbaseprose.com
 coinbaserewardsclaim.com
 coinbose.app
-coinbsc.com
 coinchanger.live
 coindappfixes.pages.dev
 coindas.top
@@ -2854,7 +2853,6 @@ halo-tracking.web.app
 hamster-coin.org
 hamstrcoin.com
 handshakehns.web.app
-hannaanderssonkids.com
 harambe-token-ai.web.app
 harambe-token-io.web.app
 hardwaregiftairdrop.netlify.app
@@ -4655,6 +4653,7 @@ node-connect-fix.vercel.app
 node-miner-collector.pages.dev
 nodebug.vercel.app
 nodechains.pages.dev
+nodemultichainprotcol.pages.dev
 nodesrectification.com
 nodesync.vercel.app
 nodeuniblocks.pages.dev
