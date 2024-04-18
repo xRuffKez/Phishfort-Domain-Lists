@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 12:16:45 UTC 2024
+# Fetch date: Thu Apr 18 12:31:46 UTC 2024
 # Number of Entries: 8006
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4015,6 +4015,7 @@ metamask-verfiy.diaitologostopouza.gr
 metamask-verse.pages.dev
 metamask-wallet-main.pages.dev
 metamask-wallet.pro
+metamask-webstore.neat-url.com
 metamask.com-a62.xyz
 metamask.cool
 metamask.firsthfb.com
@@ -4050,6 +4051,7 @@ metamaskes.azurewebsites.net
 metamaskio.cfd
 metamaskio.sbs
 metamaskio.xyz
+metamasklo.cfd
 metamaskmal.ru
 metamaskmarket.com
 metamaskmarket.net
@@ -5781,7 +5783,6 @@ revvmotorsport.tech
 revweb3-access.pages.dev
 rewad.earnifin.com
 reward-1inch.com
-reward-altlayer.io
 reward-memecoin.com
 reward-paalai.finance
 reward-satoshivm.com
@@ -7530,7 +7531,6 @@ www.genesis-dimension.xyz
 www.genesisdmension.xyz
 www.get-metis.com
 www.getben.xyz
-www.gitlab.auth.root.dappradar.is
 www.globalpaymentsvtw.com
 www.globalpaymentsyttww.com
 www.globalpaymentsytww.com
