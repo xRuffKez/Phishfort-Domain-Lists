@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 00:32:36 UTC 2024
-# Number of Entries: 8007
+# Fetch date: Thu Apr 18 01:00:32 UTC 2024
+# Number of Entries: 8012
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -869,6 +869,7 @@ b2xb.pro
 ba.inletuta.online
 babyboba.xyz
 babydoge-app.xyz
+babydoge.app
 babydogswap.com.web-app3.cfd
 babygrok-ai.com
 babygrok-ai.top
@@ -1392,6 +1393,7 @@ chalenlest.org
 chamasloustorgst.com
 chamath-x2.live
 champion-tactic.com
+chanceportugal.com
 changelly.plus
 chatsistant.com
 chauinilst.org
@@ -2857,6 +2859,8 @@ harambe-token-io.web.app
 hardwaregiftairdrop.netlify.app
 hardymerch.com
 harmankardon.com.ph
+hash-ai.org
+hash-ai.vip
 hashai-airdrop.com
 hashbnb.com
 hava-coin.vercel.app
@@ -3164,6 +3168,7 @@ joingrapes.gift
 joinneotokyo.com
 jointoexposed.com
 joinweb-3.com
+joltify-get.vercel.app
 jorpost-new.top
 journeymantle.one
 joyouslinkew.world
@@ -5996,7 +6001,6 @@ scottyystheai.xyz
 scotyttheai.pro
 scroll-reward.com
 scroll-swap-web.vercel.app
-scrolldrop.org
 scrolli.space
 scrolllayerbank.pages.dev
 sdb-trk.0ybq.info
@@ -6758,6 +6762,7 @@ truedapps.vercel.app
 trueonlines.com
 trust-airdrop.xyz
 trust2024.xyz
+trustcoin.vercel.app
 trustdrops.xyz
 trustfloki.netlify.app
 trustpad-gs.com
@@ -7440,7 +7445,6 @@ www.ator.claimfree.xyz
 www.auth-collab.net
 www.axieinfinity-global.com
 www.axiemarketplace.lol
-www.bainxu.com
 www.baoninpingan.com
 www.bcilor.com
 www.big-x-drops.top
@@ -7820,6 +7824,7 @@ xl9.us
 xlaunch-pad.web.app
 xlauncher-app.com
 xlbullycoin.pro
+xmr.altspads500.top
 xmxx.btcethl.vip
 xn--1nch-vpa.io
 xn--1nh-3la2a.com
