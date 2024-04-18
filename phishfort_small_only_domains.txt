@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 19:13:57 UTC 2024
-# Number of Entries: 8015
+# Fetch date: Thu Apr 18 19:22:05 UTC 2024
+# Number of Entries: 8016
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -29,6 +29,7 @@
 18f5384d.chriswsteele.com
 191glkil7mb.irwd2wa.su
 1cancelar-cambio.webcindario.com
+1cbre.com
 1d4f0331-eb63-4d85-9d57-7dacc20bff64-00-3t07qm8fsr0w5.janeway.replit.dev
 1ezagbg.cc
 1icnh.com
@@ -81,7 +82,6 @@
 3pzlywh.info
 3rdandtaylor.com
 407-etr-help.com
-407-etr.com
 407etr-paytrip.com
 407express-tollroute.com
 407on.com
@@ -7808,6 +7808,7 @@ x-elon.live
 x-launcher.eu
 x-launches.com
 x-woo.net
+x.alts-pads500.top
 x01e8b2d6cbc38.anondns.net
 xaidao.app
 xaimint.com
