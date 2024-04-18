@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 18:26:12 UTC 2024
-# Number of Entries: 8012
+# Fetch date: Thu Apr 18 18:33:29 UTC 2024
+# Number of Entries: 8013
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1874,6 +1874,7 @@ dappdecentraswift.pages.dev
 dappextension.info
 dappintegration.com
 dappkaavaa.netlify.app
+dapplinks.net
 dappmainhub.pages.dev
 dappnetsfp.com
 dapppaxos.co
@@ -2503,6 +2504,7 @@ feiraochevro.com
 fenterpriseonline.net
 feosz.info
 feraniumyard.com
+fergusonhvacamericanstandard.com
 fffcu.de
 ffj7.sa.com
 fi-woo-org.vercel.app
@@ -4405,7 +4407,6 @@ my-listings-76881.net
 my-listings-95571.net
 my-listings-97781.net
 my-swap.xyz
-my.link.gallery
 my.templ.cc
 myaccountcat.com
 myairdrops.org
@@ -5887,6 +5888,7 @@ rpcdebug-extensiondapps.pages.dev
 rpchubnode.com
 rpclistinfo.netlify.app
 rpcnodesos.com
+rpcweb3maindapp.com
 rroninchain.com
 rrspn.pro
 rsmopt.com
@@ -7734,7 +7736,6 @@ www.sdxusdt.com
 www.seedifyfund.support
 www.seijpe.com
 www.shibus.site
-www.shop-click-drive.com
 www.sitemap.project-altlayer.io
 www.sitemaps.newpardigm-manta.network
 www.smart-square.net
