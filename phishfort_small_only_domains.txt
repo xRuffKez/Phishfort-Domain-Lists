@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 04:42:12 UTC 2024
-# Number of Entries: 8027
+# Fetch date: Thu Apr 18 04:52:10 UTC 2024
+# Number of Entries: 8031
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4783,6 +4783,7 @@ openkeyledger.com
 openmsea.io
 openmysteriesnft.vercel.app
 openmysterybox44.vercel.app
+openmysteryboxx19.vercel.app
 openmysterynft.vercel.app
 openoffersea.io
 openprojectmystery.vercel.app
@@ -5508,6 +5509,7 @@ pythnetwork.service-claiming.pro
 pythnetwork.services-claim.pro
 pythnetwork.services-claiming.one
 pytlh-network.one
+q5tn.cc
 qbit-rewards.com
 qg7.us
 qna3.io
@@ -6962,6 +6964,7 @@ venue.markets
 veolidetamast.com
 verasity-io.live
 verbosedapp.pages.dev
+verif-nulink.vercel.app
 verif-secureconnect.com
 verifi-vulcan.xyz
 verification-assets.com
@@ -7883,6 +7886,7 @@ xpaydappbnb.click
 xpubactivationprotocol.pages.dev
 xpubweb-rectify.pages.dev
 xr7j5v.pro
+xrp-2024.org
 xrp-drop.web.app
 xrp.excopad.top
 xrpdistributions.firebaseapp.com
