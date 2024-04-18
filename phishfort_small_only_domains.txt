@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 01:00:32 UTC 2024
-# Number of Entries: 8012
+# Fetch date: Thu Apr 18 01:31:30 UTC 2024
+# Number of Entries: 8018
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1324,6 +1324,7 @@ catino-app.pages.dev
 catworlo.com
 caw.gift
 cbfeb953b53417d5.net
+cbgemcredentialorg.web.app
 cbgyf.pages.dev
 cblre.com
 cbrecbre.com
@@ -1511,6 +1512,7 @@ claim.chainngpt.com
 claim.dotfinance.solutions
 claim.dydxexchang.com
 claim.dymensionall.club
+claim.ethnafi.cc
 claim.ethnafi.world
 claim.get-ton.com
 claim.hundoneth.com
@@ -2405,6 +2407,7 @@ ethgases.xyz
 ethgasrefund.net
 ethibainu.network
 ethmintairdrop.com
+ethna.vip
 ethnft.app
 ethorv.com
 ethpeg.com
@@ -6273,6 +6276,7 @@ spookyswap.hpage.com
 spookyswp.github.io
 spornft.space
 sprak.fi
+springbokinfo.co.za
 sprooker.codefishstudio.com
 square-dream-wailing.on-fleek.app
 srsdistribution-us.com
@@ -6284,6 +6288,7 @@ st.bytenorm.online
 stableusdc.com
 stadrlebs.org
 staekland.com
+stag.token.mlteam.net
 staging.www1.nftcircle.xyz
 staikewise.net
 stake-ator.app
@@ -7437,6 +7442,7 @@ www.asx-panrg.top
 www.asx-trading.top
 www.asx-vips.com
 www.asxcoinic.com
+www.asxhk0.com
 www.asxhk7.com
 www.asxhk8.com
 www.asxhkd1.com
