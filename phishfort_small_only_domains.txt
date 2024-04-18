@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 19:32:11 UTC 2024
-# Number of Entries: 8016
+# Fetch date: Thu Apr 18 19:42:17 UTC 2024
+# Number of Entries: 8018
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1422,7 +1422,6 @@ ciel-tower.goldpillars.ae
 cieltower.net
 circuloargo.net
 cirle.top
-cirsaccess.com
 ciscoconnecctt.com
 ciscoinvetments.com
 ciscojobsapply.com
@@ -2511,7 +2510,6 @@ ffj7.sa.com
 fi-woo-org.vercel.app
 fibersync.pages.dev
 fidelityadvancedsaving.com
-figure-distribution.com
 figurefourchampionship.com
 fillold.mypsx.net
 filsmarttechprompt.pages.dev
@@ -3938,6 +3936,7 @@ memelauncher.io
 memeplanet.github.io
 memes-kombats.web.app
 memeskombats.online
+meotamssklognb.godaddysites.com
 merative.site
 merc404.xyz
 merchantserviceadvisers.com
@@ -4278,6 +4277,7 @@ mm-redirect.com
 mmakerdao.com
 mmapplicationhub.pages.dev
 mmapplicationhubs.pages.dev
+mmapplicationshub-bhi.pages.dev
 mmapplicationshub.pages.dev
 mmbalance.com
 mndntwrk.org
@@ -5305,6 +5305,7 @@ plots-launch.com
 plumee.vercel.app
 plusmigrate.com
 plxels.xyz
+pmaxw.com
 pmjvggq.icu
 pncakeswap.com
 pntom-wallet.github.io
@@ -5388,6 +5389,7 @@ project-0xconnect.pages.dev
 project-lucky-hamster.com
 project-manta.com
 project-openseaclick.vercel.app
+projectmainnetweb.com
 projectnetsolution.com
 projectnft-xi.vercel.app
 projopensea.vercel.app
