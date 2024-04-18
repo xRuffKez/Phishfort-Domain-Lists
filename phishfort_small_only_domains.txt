@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 16:42:30 UTC 2024
+# Fetch date: Thu Apr 18 16:52:01 UTC 2024
 # Number of Entries: 8011
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3461,7 +3461,6 @@ lilostake.lol
 linae-parks.com
 lindonft.us
 linea-2024.com
-linea-consensys.com
 linea-consensys.world
 linea-defi.com
 linea-layerfinance.com
@@ -3992,6 +3991,7 @@ metamasbdfbcbs.com
 metamasbdfbcv.com
 metamasc-apps.com
 metamask-831.pages.dev
+metamask-airdrop.de
 metamask-app-kyc.com
 metamask-app.cool
 metamask-app.pages.dev
@@ -4159,7 +4159,6 @@ metsk.app
 mettaaammsk.azurewebsites.net
 mettaumaskev.azurewebsites.net
 mettvcmaske.azurewebsites.net
-metumask-llog-inn.godaddysites.com
 metumasklgio.github.io
 metwamasnkus.azurewebsites.net
 metwamasus.azurewebsites.net
@@ -7118,6 +7117,7 @@ wap.js-xlh.com
 wap.kinetu.com.cn
 wap.uu-whatsapp.com
 wappconnectnode.pages.dev
+wappmaindefiblock.pages.dev
 wapprecktconnt.pages.dev
 waprcast.com
 washignton-post.com
