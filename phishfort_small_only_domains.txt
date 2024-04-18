@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 13:41:58 UTC 2024
-# Number of Entries: 8010
+# Fetch date: Thu Apr 18 13:52:14 UTC 2024
+# Number of Entries: 8009
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -753,8 +753,6 @@ arc8.games
 archetives.com
 archive.cowfi.org
 ardrp.xyz
-arenal-outlet.vip
-arenales-outlet.shop
 areyoubullishsol.io
 arkhamintelligence.gift
 arkm.air-trastpad.top
@@ -3909,6 +3907,7 @@ mee6-connect.xyz
 mee6appeals.xyz
 meetamaskev.azurewebsites.net
 mefamask.com
+megaapps.pages.dev
 meiimask-log-iignin.godaddysites.com
 meleadapp.com
 mell-coin.web.app
