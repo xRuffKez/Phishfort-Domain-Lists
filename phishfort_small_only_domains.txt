@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 16:27:14 UTC 2024
+# Fetch date: Thu Apr 18 16:35:33 UTC 2024
 # Number of Entries: 8012
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3938,7 +3938,6 @@ memelauncher.io
 memeplanet.github.io
 memes-kombats.web.app
 memeskombats.online
-mentamaklgn.godaddysites.com
 merative.site
 merc404.xyz
 merchantserviceadvisers.com
@@ -4147,7 +4146,6 @@ metlifeconsumerservicesinc.store
 metlifeperteinsu.com
 metliferecruitment.com
 metlifevip.com
-metmasknlog.godaddysites.com
 metmaskt.com
 metmsakconditionweb3.netlify.app
 metnmask.io
@@ -4604,6 +4602,7 @@ nft.wormscommunity.com
 nft.wormscommunity.xyz
 nftairdropclub.com
 nftclaimclick.vercel.app
+nftclaimnetwork.space
 nftclaimopen3.vercel.app
 nftclaimsopen.vercel.app
 nftdrop.world
@@ -6553,6 +6552,7 @@ templatesync.pages.dev
 tenser.trade
 tensor-samurai.io
 tensor-trade-git-tree-tensor.vercel.app
+tensor-trade.netlify.app
 tensors.site
 tensorsamurai.space
 terminal-befilabs.com
