@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 07:22:24 UTC 2024
-# Number of Entries: 108450
+# Fetch date: Thu Apr 18 08:16:12 UTC 2024
+# Number of Entries: 108452
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6452,6 +6452,7 @@ app.pomerdoge.live
 app.pool-1inch.io
 app.prisrnafinance.com
 app.pulsiex.com
+app.qirtm.com
 app.questn.org
 app.radant.capital
 app.raticswap.xyz
@@ -25782,6 +25783,7 @@ defi-w.com
 defi-wallet.support
 defi-wc.com
 defi-web3.info
+defi-web3pcs.com
 defi-worldcoin.org
 defi-y.com
 defi-z.com
