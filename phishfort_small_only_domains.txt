@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 05:02:59 UTC 2024
-# Number of Entries: 8033
+# Fetch date: Thu Apr 18 05:15:13 UTC 2024
+# Number of Entries: 8036
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -440,6 +440,7 @@ alt-layers.com
 alt-token.net
 alt-zerolend.xyz
 altayerio.top
+altdentifiys.com
 altidentlfler.net
 altlaayer-io.top
 altlayer-airdrop.onrender.com
@@ -723,6 +724,7 @@ aramexame.com
 aramexglobalexpress.com
 aramexservicevktb.world
 arb.airpuds.top
+arb.altspads500.top
 arb.claimscrypto.top
 arb.t-wallets.top
 arb.x-wallet.top
@@ -4803,6 +4805,7 @@ opensea.i-o.eth.co
 opensea.io.in
 opensea.lc
 openseaclaimnfts.com
+openseanft-projs.vercel.app
 openseanft.one
 openseanft0.vercel.app
 openseap1.vercel.app
