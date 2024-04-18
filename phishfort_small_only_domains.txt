@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 12:31:46 UTC 2024
+# Fetch date: Thu Apr 18 12:46:11 UTC 2024
 # Number of Entries: 8006
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -5968,7 +5968,6 @@ satoshivm-promo.com
 satoshivm.cc
 satoshivm.communltiy.com
 satoshivm.trade
-satoshivms.network
 satoshivn.io
 sautikenya.com
 savm-app.net
@@ -6008,6 +6007,7 @@ sebavip.com
 sebotics.com
 secondllife.tech
 secondx.mypsx.net
+secure-evy.pages.dev
 secure-retry-connecting.alphakreed.com
 secure-user-connect.net
 secure.ingbhk.com
