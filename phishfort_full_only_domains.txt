@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 11:14:39 UTC 2024
-# Number of Entries: 108457
+# Fetch date: Thu Apr 18 12:31:58 UTC 2024
+# Number of Entries: 108463
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -45922,6 +45922,7 @@ login.myemployeerewards.net
 login.myethermessenger.com
 login.myob.ink
 login.nibc-belgie.com
+login.niviyi4094.workers.dev
 login.oberbalnk.co
 login.opensea.2fasset.c2511312.ferozo.com
 login.ordinalsapp.live
@@ -50356,6 +50357,7 @@ metamask-web.ru
 metamask-web3.com
 metamask-web3.pro
 metamask-webs.com
+metamask-webstore.neat-url.com
 metamask-webstorextension.ddnss.eu
 metamask-webwallet.com
 metamask-welb.com
@@ -51784,6 +51786,7 @@ metamasklive.net
 metamasklive.org
 metamasklivechat.com
 metamasklivesupport.vercel.app
+metamasklo.cfd
 metamasklo.com
 metamasklog.godaddysites.com
 metamasklogen.github.io
@@ -52987,6 +52990,7 @@ mewetherwallets.com
 mewetkerwalet.com
 mewewallet.info
 mewqallet.com
+mewt-token-swap-restore.netlify.app
 mewtamaskweallet.godaddysites.com
 mewtherwalets.com
 mewtherwallet.com
@@ -53877,6 +53881,7 @@ mmapplicationhub.pages.dev
 mmapplicationhubs.pages.dev
 mmapplicationshub.pages.dev
 mmask.org
+mmbalance.com
 mmeaatamaskslog.azurewebsites.net
 mmeatamammssks.azurewebsites.net
 mmecoin.org
@@ -72773,6 +72778,7 @@ primomartians.mints-now.com
 principal-apps.com
 principaltrades.cc
 priority-word.live
+priorityonebank.protectedpayroll.com
 prismafinance.app
 prismafinance.dev
 prismafinancedrop.com
