@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 06:27:14 UTC 2024
-# Number of Entries: 108449
+# Fetch date: Thu Apr 18 06:35:20 UTC 2024
+# Number of Entries: 108450
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -36001,6 +36001,7 @@ geodefinance-home.com
 geodefinance-protocol.com
 geomarket.tech
 geometric.claims
+george-watson.co.uk
 georgiasown.xyz
 georginagardenshotel.com
 geosatelites.com
