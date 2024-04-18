@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 23:24:15 UTC 2024
-# Number of Entries: 8011
+# Fetch date: Thu Apr 18 23:32:19 UTC 2024
+# Number of Entries: 8010
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -7362,7 +7362,6 @@ wufis.com
 wuqqrf3t7.life
 wverycaxqw6urqwpchk.mxy9ink.ru
 ww-connect-dappradar.com
-ww-revoke.cash
 wwarm.xyz
 wwe-envivo.com
 wwemerch.shop
