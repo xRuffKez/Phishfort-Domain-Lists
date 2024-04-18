@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 02:37:10 UTC 2024
-# Number of Entries: 108425
+# Fetch date: Thu Apr 18 02:52:20 UTC 2024
+# Number of Entries: 108431
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17426,11 +17426,13 @@ claim.cybzducks.lol
 claim.daicoin.org
 claim.dex-btc20.app
 claim.dex-shido.io
+claim.dotfinance.ltd
 claim.dotfinance.solutions
 claim.dydxexchang.com
 claim.dymensionall.club
 claim.eigenlayer.tech
 claim.en-ripple.com
+claim.entstoken.net
 claim.ethdeal.info
 claim.ether33.online
 claim.ethnafi.cc
@@ -54512,6 +54514,7 @@ morlton.net
 morning.planetough.best
 morningmoonvillage.space
 morningstarinvt.com
+morosnet.xyz
 morossnet.xyz
 morpheuscommunity.net
 morphtoken.co
@@ -79491,6 +79494,7 @@ sing-wwwkraken.com
 singapore-ref.com
 singlajiomart.com
 singularity-net.vercel.app
+singularity-sale.net
 singularity.claims
 singularity.gift
 singularity.link3.su
@@ -80440,6 +80444,7 @@ solana-donate.com
 solana-drop.info
 solana-event.com
 solana-free.ru
+solana-fund.com
 solana-gift.com
 solana-go.com
 solana-gotomagiceden-personalbikehome.blogspot.com
@@ -85740,6 +85745,7 @@ themodenetwork.com
 themta.website
 themuglernft.xyz
 then-wallet.com
+thena-fl.click
 thenakomtosnft.xyz
 thenannada.xyz
 thenarutomerch.com
