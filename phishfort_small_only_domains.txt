@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 08:33:43 UTC 2024
+# Fetch date: Thu Apr 18 08:42:03 UTC 2024
 # Number of Entries: 8035
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1925,6 +1925,7 @@ dappspanelauth.pages.dev
 dappsprotocol.vercel.app
 dappsradar.lc
 dappsradar.page.link
+dappsresolves.pages.dev
 dappssolution.pages.dev
 dappsswarm.com
 dappstaking.net
@@ -7795,7 +7796,6 @@ www.usenxeus.org
 www.ustaylorsshop.com
 www.verify-collab-land.com
 www.verify-collabland.xyz
-www.verify.aits.tech
 www.vip-asx.com
 www.vippaxos.com
 www.virtualsafetysolutions.net
