@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 02:11:45 UTC 2024
-# Number of Entries: 8022
+# Fetch date: Thu Apr 18 02:28:02 UTC 2024
+# Number of Entries: 8024
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -133,6 +133,7 @@
 9macu.info
 9x9231xxchoked.online
 a1pv.cc
+a26ed5eb.hub-originether.org
 a407info.com
 a4doconlinautoreloads.com
 a9714.top
@@ -5306,6 +5307,7 @@ playzkasino.net
 plgeubet.com
 plnksale.financial
 plots-launch.com
+plumee.vercel.app
 plusmigrate.com
 plxels.xyz
 pmjvggq.icu
