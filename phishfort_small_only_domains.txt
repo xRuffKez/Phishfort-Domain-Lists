@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 16:03:18 UTC 2024
-# Number of Entries: 8007
+# Fetch date: Thu Apr 18 16:16:07 UTC 2024
+# Number of Entries: 8012
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -165,7 +165,6 @@ acc-interacr.xxlzyynxgt1d.life
 accboxi.com
 accept-farcana.com
 accepts-lnterweb.life
-accesrewards.firebaseapp.com
 access.bdc.support
 access.roninchain.app
 accesspoint01.challengedrumstreet.ru
@@ -2675,7 +2674,9 @@ gempad-app.xyz
 geneitec.com
 generalmotors-dk.com
 generalmotors-ek.com
+generalmotors-ik.com
 generalmotors-lk.com
+generalmotors-yk.com
 genesis-dem.eu
 genesis-dem.xyz
 genesis-dym.com
@@ -3686,6 +3687,7 @@ mamtabluerewards.net
 mamtanetworkairdrop.net
 mamtanetworkbonus.com
 mamtanetworkbonus.net
+manage.adoga-4262.com
 manda-network.com
 mandatory-multi-factor-authenticator.us-ord-1.linodeobjects.com
 mandta.network
@@ -5226,6 +5228,7 @@ pepecoin.lol
 pepecoin2.net
 pepevip.is
 peplicator-nu.vercel.app
+pepsi-mall.com
 pepsi8.com
 pepsico-tx.com
 pepsisco.com
@@ -6786,6 +6789,7 @@ tu3.us
 tulip-app.one
 tvl-chain.link
 twilio-hr.com
+twiliostatus.com
 twt.airpuds.top
 twt.altpads500.top
 twt.multipuds.top
@@ -7154,6 +7158,7 @@ web3-connectha.gq
 web3-cyptoo.com
 web3-ethereum.info
 web3-games.web.app
+web3-liquiditypools.com
 web3-manta.pages.dev
 web3-metamask-gateway.com
 web3-modenetwork.org
