@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 02:43:52 UTC 2024
-# Number of Entries: 8029
+# Fetch date: Thu Apr 18 02:52:08 UTC 2024
+# Number of Entries: 8032
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1512,9 +1512,11 @@ claim.beefmeme.xyz
 claim.bitetfs.net
 claim.celatisx.top
 claim.chainngpt.com
+claim.dotfinance.ltd
 claim.dotfinance.solutions
 claim.dydxexchang.com
 claim.dymensionall.club
+claim.entstoken.net
 claim.ethnafi.cc
 claim.ethnafi.world
 claim.get-ton.com
@@ -6620,6 +6622,7 @@ thefamiilytoken.com
 thefamilytokens.vercel.app
 thegamehubs.org
 themodenetwork.com
+thena-fl.click
 thenewmont.com
 thereum.pages.dev
 thesolmirage.rxi.app
