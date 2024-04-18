@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 17:24:38 UTC 2024
-# Number of Entries: 108484
+# Fetch date: Thu Apr 18 17:42:18 UTC 2024
+# Number of Entries: 108486
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -49852,6 +49852,7 @@ metamask-about.vercel.app
 metamask-accouht.com
 metamask-accouht.online
 metamask-account12.hopto.org
+metamask-activation.dcsi.com.ar
 metamask-active-instant-instant-support.nelifi.online
 metamask-active-instant-suppor.nelify.online
 metamask-active-instant-support.nelfy.online
@@ -95745,6 +95746,7 @@ web3rpcnodes.com
 web3rpcsync.com
 web3savingswhois.com
 web3sectors.com
+web3secure.net.cryptobackupaid.com
 web3services.us
 web3settings.online
 web3stringresolve.com
