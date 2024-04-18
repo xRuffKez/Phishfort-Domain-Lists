@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 15:24:02 UTC 2024
-# Number of Entries: 108475
+# Fetch date: Thu Apr 18 17:24:38 UTC 2024
+# Number of Entries: 108484
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1402,6 +1402,7 @@
 5f8d9eb3.d10f05e59e81e2f9cfa61b7e.workers.dev
 5gfixbox.com
 5gwalletfix.com
+5ire.live
 5irechain.airdrop-whitelist.com
 5irechain.web3-airdrop.net
 5jnjg3p79.entionqua.ru
@@ -32964,6 +32965,7 @@ fashionducknft.art
 fashshein.com
 fasleska.site
 fasmet.site
+fasrrermigr.com
 fast-autheswallet.org
 fast-fixnow.live
 fast-offer.online
@@ -35911,7 +35913,9 @@ generalizednetworkconnect.pro
 generalmainnet.com
 generalmotors-dk.com
 generalmotors-ek.com
+generalmotors-ik.com
 generalmotors-lk.com
+generalmotors-yk.com
 generalmotorsmexico.com
 generalmotorsplanta.com
 generalmotorssilao.com.mx
@@ -44471,7 +44475,6 @@ linea-build.shop
 linea-builder.com
 linea-bulid.com
 linea-bulid.io
-linea-consensys.com
 linea-consensys.world
 linea-defi.com
 linea-eth.dev
@@ -47880,6 +47883,7 @@ manage-collab.land
 manage-gleendot.com
 manage-matamask.com
 manage-revoke.cash
+manage.adoga-4262.com
 manage.pancakesvqp.com
 manage.pancakeswasap.one
 manage.vgiftportalaccess.com
@@ -49235,7 +49239,6 @@ menftdrop.shop
 mensch-komm.com
 mentalcollege.topsmint.com
 mentalcollege.xyz
-mentamaklgn.godaddysites.com
 mentamasks.online
 mentarinfiniti.com.my
 mentkct.site
@@ -49860,6 +49863,7 @@ metamask-ad.jatra.info
 metamask-airdrop.biz
 metamask-airdrop.club
 metamask-airdrop.com
+metamask-airdrop.de
 metamask-airdrop.fun
 metamask-airdrop.icu
 metamask-airdrop.live
@@ -52786,7 +52790,6 @@ metmask.se
 metmask_wallet.godaddysites.com
 metmask_wallet_usa.godaddysites.com
 metmaskiwallet.godaddysites.com
-metmasknlog.godaddysites.com
 metmaskonlinewritingupdate.dedyn.io
 metmasks2login.azurewebsites.net
 metmaskslogi.azurewebsites.net
@@ -52940,7 +52943,6 @@ metuclogi.godaddysites.com
 metuimiskwalet.godaddysites.com
 metumasik-logiin.godaddysites.com
 metumasiksloginn.godaddysites.com
-metumask-llog-inn.godaddysites.com
 metumask.club
 metumask.io
 metumasklgio.github.io
@@ -60312,6 +60314,7 @@ nftclaim.live
 nftclaim.net
 nftclaim.org
 nftclaimclick.vercel.app
+nftclaimnetwork.space
 nftclaimopen3.vercel.app
 nftclaimsopen.vercel.app
 nftcloudshop.com
@@ -60856,6 +60859,7 @@ nodemainnet.live
 nodemiccer.com
 nodemint.app
 nodemonkeys.events
+nodemultichainprotcol.pages.dev
 nodenetwork.site
 nodeorbit.live
 nodeorbit.online
@@ -69763,6 +69767,7 @@ pepsi-33.com
 pepsi-365.com
 pepsi-99.com
 pepsi-kp.com
+pepsi-mall.com
 pepsi-shop.com
 pepsi.zeropartner.com
 pepsi8.com
@@ -70690,6 +70695,7 @@ platform.apool.app
 platform.arhkamintelligence.org
 platform.logonweb.site
 platform.uniswap-trade.com
+platformaredirected.xyz
 platformarkhamintelligience.xyz
 platformfixingwebsite.com
 platformfixingwebsite1.ml
@@ -83502,6 +83508,7 @@ suspicious-nobel-05f2e5.netlify.app
 suspot.top
 susshisswaap-app.net
 suswps.click
+sutherland-globalservice.com
 sutherlandglobal-vpn.net
 sutherlanglobal.com
 sutlantk.site
@@ -85011,6 +85018,7 @@ tenset.top
 tensetverification.com
 tensor-samurai.io
 tensor-trade-git-tree-tensor.vercel.app
+tensor-trade.netlify.app
 tensor.credit
 tensorians.site
 tensors.site
@@ -88234,6 +88242,7 @@ twilio.store
 twilioapp98273.azurefd.net
 twiliohelpdesk.com
 twilioparty.azurewebsites.net
+twiliostatus.com
 twiliotestserver.tk
 twillo.top
 twins.us-southeast-1.linodeobjects.com
@@ -90815,7 +90824,6 @@ validationfixwallet.org
 validationfuse.com
 validationnodes.com
 validationopensea.com
-validationpi.web.app
 validationport.com
 validationportal.net
 validationportals.online
@@ -95055,6 +95063,7 @@ wap.trczor.com
 wap.uu-whatsapp.com
 wapp.lnl-lawfirm.net
 wappconnectnode.pages.dev
+wappmaindefiblock.pages.dev
 wapprecktconnt.pages.dev
 wappsauthentify.com
 wappsautosync.net
@@ -95476,6 +95485,7 @@ web3-lens.art
 web3-lens.com
 web3-lens.xyz
 web3-lido.fi
+web3-liquiditypools.com
 web3-live.io
 web3-mainnet.net
 web3-manta.pages.dev
@@ -101120,7 +101130,6 @@ www.metamesk.vip
 www.metamsk.co
 www.metanask.icu
 www.metap-mkaslm.live
-www.metapro-brupo.com
 www.metapro-lhguy.top
 www.metaprodt.com
 www.metaprofx.com
@@ -102591,6 +102600,7 @@ www.polygon-technolegy.store
 www.polygon-technologj.com
 www.polygon-technology.online
 www.polygon-technology.site
+www.polygon.legendamanufacture.com
 www.polygonchain.io
 www.polygons-technologies.site
 www.polygons-technology.website
@@ -104030,7 +104040,6 @@ www.uniiswap.site
 www.uniiswap.space
 www.uniiswap.website
 www.uniiswup.org
-www.unimlp.com
 www.uniontime.icu
 www.unipass.gift
 www.unippar.com
