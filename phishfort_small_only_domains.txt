@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 14:42:13 UTC 2024
-# Number of Entries: 8009
+# Fetch date: Thu Apr 18 14:52:11 UTC 2024
+# Number of Entries: 8007
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -39,6 +39,7 @@
 1inch-pay.ga
 1inch.box
 1inch.fyi
+1inch.web3connect.mom
 1inchcode.newfinancialmarketworld.com
 1inchcoin.com
 1inchfinance.com
@@ -4655,6 +4656,7 @@ nodebug.vercel.app
 nodechains.pages.dev
 nodesrectification.com
 nodesync.vercel.app
+nodeuniblocks.pages.dev
 noitailg.com
 nolaisadog.com
 nolbody.com
@@ -7665,7 +7667,6 @@ www.ordibridge.xyz
 www.organiconetexas.com
 www.orivium.dev
 www.osais.app
-www.pacific-manta-network.org
 www.pacificc-manta.network
 www.paidnetworkstaking.com
 www.pancakeswap-v3.com
@@ -7950,7 +7951,6 @@ zk-dashboard.net
 zk-era.co
 zk-look.org
 zk-manta-airdrop.pages.dev
-zk-manta.network
 zk-polyhedra.com
 zk-skaling.org
 zk.scrllpunkface.icu
@@ -7958,12 +7958,10 @@ zkdash.net
 zkecosystem.org
 zkeztrade.com
 zkfair.events
-zkfair.fo
 zkfair.pm
 zkfair.supply
 zkfair.team
 zkfairdrop.netlify.app
-zkfairio.io
 zkfari.io
 zkfarri.io
 zkfiair.site
