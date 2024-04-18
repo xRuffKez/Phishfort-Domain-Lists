@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 10:15:57 UTC 2024
-# Number of Entries: 8035
+# Fetch date: Thu Apr 18 10:27:11 UTC 2024
+# Number of Entries: 8001
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -268,7 +268,6 @@ air-satoshivm.io
 air2-blast.xyz
 aircoinciti.com
 airdop-walletconnect.pages.dev
-airdrop--manta.network
 airdrop-alt-layer.com
 airdrop-altlayer-claim.vercel.app
 airdrop-altlayer-io.vercel.app
@@ -349,7 +348,6 @@ airdropmainnetprotocol.firebaseapp.com
 airdropmainnetprotocol.web.app
 airdropmanta.top
 airdropmanta.xyz
-airdropmantatoken.com
 airdropmetamask.xyz
 airdropmexcnews.top
 airdrops-altlayer.io
@@ -858,7 +856,6 @@ axiemarketplace.homes
 axiemarketplace.pics
 axiemarketplace.rest
 axiemarketplace.skin
-axieorigin.in
 axonnet.xyz
 axs.ltd
 axsiesinfinity.com
@@ -1175,7 +1172,6 @@ bonuses-manta.network
 bookaflightwithunitedairlines.statuspage.io
 booking.agoda-checkout-id843753.com
 bookinghotel-word.com
-boomlandgames.netlify.app
 booster-manta.network
 bopan.xyz
 borgverse.app
@@ -1432,7 +1428,6 @@ ciscoinvetments.com
 ciscojobsapply.com
 ciscojobsform.com
 ciscosystemsinc.online
-citions.vercel.app
 cittyindex.com
 city-index.net
 cityindex-china.com
@@ -1462,7 +1457,6 @@ claim-ethena.marc.com.pk
 claim-ethenalab.com
 claim-ether.fi
 claim-guildofguardians.com
-claim-inj.com
 claim-iyk.xyz
 claim-ju-4i4mf5.vercel.app
 claim-jup.ag
@@ -2183,7 +2177,6 @@ drake-bonus.pro
 drip-networkcommunity.org
 drive-document-file-2024.github.io
 drop-alphax.web.app
-drop-apeterminal.com
 drop-ether.fi
 drop-mogcoin.com
 drop.lfgjup.xyz
@@ -2211,7 +2204,6 @@ dymension-approval.netlify.app
 dymension-claim.netlify.app
 dymension-claimdappstoolkit.pages.dev
 dymension.claims
-dymension.eu
 dymension.financial
 dymension.pages.dev
 dymensiondrop.com
@@ -2246,7 +2238,6 @@ earndrop.dev
 earndrop.it
 earndrop.link
 earndrop.team
-earndrop.vercel.app
 earndrop24.com
 earndrops.gift
 earned-linea.com
@@ -2341,7 +2332,6 @@ equinor-ind.net
 equty.sa.com
 equty.za.com
 erc-api.pages.dev
-erc-wintermute.org
 erc20tokenfactory.netlify.app
 erclink.pages.dev
 erdefimining.com
@@ -2389,7 +2379,6 @@ ethereum-rewards.tiiny.co
 ethereum-wpos.club
 ethereum.com.tr
 ethereumfees.xyz
-ethereumfoundation.io
 ethereumgas.org
 ethereumgasfee.com
 ethereummixer.cc
@@ -3010,7 +2999,6 @@ igxegift.com
 ijktea.top
 iktrjrfusah.icu
 ilie.zerion.biz
-illivium-network.com
 illivium-techsupport.com
 illuvium-community.com
 illuvium-community.sbs
@@ -3368,7 +3356,6 @@ launching-sharpnel.com
 launchpad-bakerswap.com
 launchpad-dydx.com
 launchpad-dymension.com
-launchpad-eigenlayer.com
 launchpad-etherfi.com
 launchpad-metis.app
 launchpad-metis.com
@@ -3709,7 +3696,6 @@ manta-aidrop.network
 manta-air.xyz
 manta-airdrop.7eel.com
 manta-airdrop.mobi
-manta-airdrop.org
 manta-app.com
 manta-appsurvey.com
 manta-claims.xyz
@@ -3719,7 +3705,6 @@ manta-eiu.pages.dev
 manta-events.com
 manta-evm.pages.dev
 manta-group.xyz
-manta-labs.xyz
 manta-layer.xyz
 manta-live.com
 manta-mainet.com
@@ -3788,7 +3773,6 @@ mantaintotheblue.net
 mantak.network
 mantal2.com
 mantalayerbank.pages.dev
-mantalnetwork.com
 mantananetwork.com
 mantanet.icu
 mantanet.top
@@ -3799,7 +3783,6 @@ mantanetworkairdrop.org
 mantanetworkbonus.com
 mantanetworkl.com
 mantanftcollect.com
-mantanftnet.com
 mantantwrk.xyz
 mantao-network.life
 mantao-network.xyz
@@ -3807,7 +3790,6 @@ mantapacifc.com
 mantapcfc.network
 mantaronetwork.com
 mantas-event.com
-mantas-events.net
 mantas-net.app
 mantasnetwork.net
 mantastake.com
@@ -3954,7 +3936,6 @@ mentamaklgn.godaddysites.com
 merative.site
 merc404.xyz
 merchantserviceadvisers.com
-merchantsmoe.com
 mergeben.tech
 mergebitswap.com
 merkle.cash
@@ -4209,7 +4190,6 @@ migrate-sappyseals.online
 migrate-smol-su.online
 migrate-troll.run
 migrateassetspro.online
-migratedappy.link
 migratemaincz.com
 migratestaderlabs.com
 migratexend-finance.vercel.app
@@ -4396,7 +4376,6 @@ multidapps.pages.dev
 multidappsnetwork.com
 multidappsrectification.pages.dev
 multinoderesolve.pages.dev
-multiplier-manta.network
 multiplier.aitsprotcol.com
 multisystemcoinwallet.web.app
 multiwalletsystem.web.app
@@ -4563,6 +4542,7 @@ newporkcoin.pages.dev
 newprovisionschainlink.org
 news.crypinfotoday12.info
 newsupport.alkhaleej.com.sa
+newsy.elsob7.com
 newtradedex.pages.dev
 newtresures-manta.network
 newwhitelistradar.pages.dev
@@ -5297,7 +5277,6 @@ plantagmseminuevos.com.mx
 plantajohnsoncontrols.com
 plantaseminuevos.com
 platform-blast.com
-platform-tycoon.xyz
 play-pixelsapp.xyz
 playbux.info
 playbuxdrop.xyz
@@ -5432,7 +5411,6 @@ pub-85b87193f4154021895964b1f361f7ba.r2.dev
 pub-c7119d8cef5d4359861e1426cf37c62c.r2.dev
 pub-e9989cc0d26d4a2f9e7017c197e26310.r2.dev
 pub-ef521178253943d19f4991b34907623f.r2.dev
-pudgymythic.xyz
 pudgypenguines.com
 puffer-2a0.pages.dev
 puffer-quesst.info
@@ -5501,7 +5479,6 @@ pythnetwork.connect-claiming.one
 pythnetwork.connect-claiming.pro
 pythnetwork.connect-claiming.run
 pythnetwork.dexstrade.com
-pythnetwork.link
 pythnetwork.link-claiming.cc
 pythnetwork.link-claiming.icu
 pythnetwork.link-claiming.live
@@ -6112,7 +6089,6 @@ signup-ancient8.games
 signup-apeterminal.com
 signup-ator.com
 signup-bera.net
-signup-bounce.com
 signup-collabland.com
 signup-defi.network
 signup-defi.trading
@@ -6152,7 +6128,6 @@ skasoff5th02.com
 skasoff5th03.com
 skinsmonkey.combine.tundragon.com
 skipton-login.com
-skyborneslegacy.com
 skymavis-axie.com
 skymavis.cfd
 skynet229.godaddysites.com
@@ -6302,7 +6277,6 @@ stag.token.mlteam.net
 staging.www1.nftcircle.xyz
 staikewise.net
 stake-ator.app
-stake-bounce.finance
 stake-chainlink.finance
 stake-gtprotocol.com
 stake-injective.com
@@ -6524,7 +6498,6 @@ syncsswap.app
 syncswap.cldsxm.com
 syncswap.cloudscom.xyz
 syncswap.day
-syncswapxyz.in
 syncus-fi.app
 syncvalidator.firebaseapp.com
 syncwebsolution.com
@@ -6720,7 +6693,6 @@ tollvest.org
 tomandgerimail.com
 tombmigration.com
 ton.org-community.info
-ton.org-newyear.fun
 ton.x-wallet.top
 tonclaim.online
 tonevecher.com
@@ -6866,7 +6838,6 @@ uniswapv4-pool-waitlist.web.app
 unitedhealthvip.com
 unitycryptotrading.com
 unknownbasenfts2.me
-unlbots.trading
 unniswapp.com
 unpacknft1.pages.dev
 unsiwap.app-swap.us.org
@@ -7080,7 +7051,6 @@ vzxamt.cc
 w-airdrop.vercel.app
 w.contract-deployer.live
 w.optimalsmart-sync.buzz
-w.smartprotocol-pad.online
 w1117.usdt6188.top
 w40y.pro
 w5fowfv5tj.tobamicama.tech
@@ -7175,7 +7145,6 @@ web3-connectha.gq
 web3-cyptoo.com
 web3-ethereum.info
 web3-games.web.app
-web3-kaavva.netlify.app
 web3-manta.pages.dev
 web3-metamask-gateway.com
 web3-modenetwork.org
@@ -7511,7 +7480,6 @@ www.creepz-rebirth.com
 www.csagoda.com
 www.dappbrowser.info
 www.dapphyperblast.io
-www.dappsdebugger.net
 www.dappsresolver.com
 www.dartya.cc
 www.decentralize-metis.com
@@ -7537,7 +7505,6 @@ www.ethfi.farm
 www.ethgasrefund.com
 www.ethswe.com
 www.etokensolana.aysarr.in
-www.event-xai.games
 www.evercoreglobal.com
 www.evoypremium.com.br
 www.express-tollroute407.com
@@ -7815,7 +7782,6 @@ www.wwwdymension.xyz
 www.x-swap.link
 www.xrpsolana.com
 www.ylouch.com
-www.ypredictai.xyz
 www.zerion.claimfree.xyz
 wwwjup.ag
 wwwmakerdao.com
