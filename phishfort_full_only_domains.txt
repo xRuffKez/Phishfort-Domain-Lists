@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 13:03:26 UTC 2024
-# Number of Entries: 108465
+# Fetch date: Thu Apr 18 13:32:25 UTC 2024
+# Number of Entries: 108470
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4157,6 +4157,7 @@ albemarle-albemarle.onlinemailmicrosotfvalidation.com
 albemarle-usa.com
 albemarle.devindex.net
 albemarle6.com
+albemarlesusa.com
 albemarlevip.com
 albemarne.com
 albersafewayst.com
@@ -40415,6 +40416,7 @@ institutoperuanocanadiense.edu.pe
 instruction-and-collecting.com
 insultado.sa.com
 insurance-paxful.com
+insuranmaacachute.com
 insure-defi.org.cogwise-app.com
 insuretech.co.id
 insurewallet.xyz
@@ -41245,6 +41247,7 @@ joblessassistanceportal.com
 joblessassistanceportal.net
 joblessconnect.net
 joblessconnect.org
+jobquestsolutions.com
 jobs-adastragrp.com
 jobs-teleperformance.com
 jocbit.com
@@ -45912,6 +45915,7 @@ login.fraend.net
 login.frame-airdrop.xyz
 login.lblockhcoin.com
 login.lbloclkchoin.com
+login.lbpiaccess.workers.dev
 login.link3tocyberconnect2.tech
 login.localbitcoins.com.localbitcoinns.com
 login.magicoden-io.com
@@ -72771,6 +72775,7 @@ primepaymyservi.com
 primeplanet.for-minting.com
 primeprotocol.app
 primereel.com
+primesacelicst.com
 primetrust.biz
 primewallet.app
 primewallet.biz
