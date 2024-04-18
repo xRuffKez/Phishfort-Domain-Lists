@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 04:32:21 UTC 2024
-# Number of Entries: 8024
+# Fetch date: Thu Apr 18 04:42:12 UTC 2024
+# Number of Entries: 8027
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -37,7 +37,6 @@
 1inch-crypto.top
 1inch-io.app
 1inch-pay.ga
-1inch.blog
 1inch.box
 1inch.fyi
 1inchcode.newfinancialmarketworld.com
@@ -1506,6 +1505,7 @@ claim-wrm.com
 claim-your-mask-tokens-withmetamask-airdrop.fi-liikennesakkoo.net
 claim-zetachain.xyz
 claim.aavelp.com
+claim.allocation-procreation.app
 claim.altlayer.la
 claim.arkhamfinance.xyz
 claim.beefmeme.xyz
@@ -3672,7 +3672,6 @@ maintech-pages.dev
 maiva-hero.top
 makepayment-407etr.com
 maker-dao.life
-maker-dao.net
 maker-dao.network
 maker-fnd.net
 makeradao.com
@@ -6222,11 +6221,13 @@ snowsniper.com
 snug-zetachain.com
 soaiv2.com
 soflarewebextension.com
+sol-drain.vercel.app
 sol-sola.web.app
 solana-claim.web.app
 solana-fund.com
 solana-profit.web.app
 solana-promo.info
+solana-value-average-frontend.vercel.app
 solana.ag
 solana.laag.site
 solanadrainer.pages.dev
@@ -6698,6 +6699,7 @@ token-entangle.com
 token-illuvium.com
 token-mainnetdapp.com
 token-port3.com
+token-swap-seven.vercel.app
 token-theblock.co
 token.strks-rocket.club
 tokenlon.app
@@ -6778,6 +6780,7 @@ trustfloki.netlify.app
 trustpad-gs.com
 trustpud.life
 trustwall.xyz
+trustwallectconnect.vercel.app
 trustwallet-support.com
 trustwalletsupport.vercel.app
 trustwl.xyz
