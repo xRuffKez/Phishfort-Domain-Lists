@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 05:25:25 UTC 2024
-# Number of Entries: 8037
+# Fetch date: Thu Apr 18 05:32:28 UTC 2024
+# Number of Entries: 8035
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1392,7 +1392,6 @@ chains-optimism.com
 chainsextension.com
 chainsprotocol.com
 chainswap-airdrop-claim.pages.dev
-chainsyncapp.pages.dev
 chainzerioncliam.pages.dev
 chalenlest.org
 chamasloustorgst.com
@@ -1695,7 +1694,6 @@ collab.web-role.com
 collabandverify.onrender.com
 collabandverify.vercel.app
 collabaward.site
-collabgift.space
 collabland-assest.com
 collabland-log.com
 collabland-members.net
