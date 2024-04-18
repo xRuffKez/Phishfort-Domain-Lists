@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 13:03:07 UTC 2024
-# Number of Entries: 8007
+# Fetch date: Thu Apr 18 13:15:22 UTC 2024
+# Number of Entries: 8006
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -563,7 +563,6 @@ app-gala-games-wallet.com
 app-juilce.finance
 app-kaspanet.com
 app-kava.com
-app-layerbank.finance
 app-mantle-networks.org
 app-mantle.site
 app-mdex.one
