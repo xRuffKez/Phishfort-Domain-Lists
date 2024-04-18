@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 18 17:32:12 UTC 2024
+# Fetch date: Thu Apr 18 17:41:59 UTC 2024
 # Number of Entries: 8012
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1610,7 +1610,6 @@ cmtzconstructionllc.com
 cndipn.pro
 co-insauhgdsadhij.com
 co-tbtcasojdhgsa.com
-co.defi.network
 co.llab-land.com
 co.llab-land.icu
 co.llab-lands.icu
@@ -3993,6 +3992,7 @@ metamasbdfbcbs.com
 metamasbdfbcv.com
 metamasc-apps.com
 metamask-831.pages.dev
+metamask-activation.dcsi.com.ar
 metamask-airdrop.de
 metamask-app-kyc.com
 metamask-app.cool
