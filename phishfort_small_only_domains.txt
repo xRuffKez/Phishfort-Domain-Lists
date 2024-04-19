@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 22:42:09 UTC 2024
-# Number of Entries: 7990
+# Fetch date: Fri Apr 19 22:52:01 UTC 2024
+# Number of Entries: 7991
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -152,6 +152,7 @@ aave.liquidity.org.pl
 aavenetwork.org
 aavve.eu
 aavve.org
+ab.ebay-asia.com
 abacoin.website
 abracadebra.money
 abs-dev.artbyarabbank.ch
@@ -3888,7 +3889,6 @@ me9.us
 meatmesk.com
 mediaflex.live
 medialink.ie
-medidata-mobile.com
 medidatacareers.com
 mee6-connect.xyz
 mee6appeals.xyz
@@ -4662,6 +4662,7 @@ notionalfinance.org
 novochevro.online
 now.l3-mode.world
 nowoplunge.com
+nqzero.sa.com
 nsds.cc
 numboost.ru
 nusuk.site
