@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 14:42:05 UTC 2024
-# Number of Entries: 108561
+# Fetch date: Fri Apr 19 15:32:44 UTC 2024
+# Number of Entries: 108567
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -64247,6 +64247,7 @@ pancake-filnance.com
 pancake-finance.exchange
 pancake-finance.net
 pancake-finance.online
+pancake-finance.org
 pancake-finance.ru
 pancake-finances.com
 pancake-financing.com
@@ -64439,6 +64440,7 @@ pancakedrop.live
 pancakedrop.pw
 pancakedrop.xyz
 pancakedropclaim4600.vercel.app
+pancakedropclick32.vercel.app
 pancakedrops.com
 pancakedropsclaim.vercel.app
 pancakedwallet.com
@@ -64586,6 +64588,7 @@ pancakesconnect.net
 pancakescwap.com
 pancakescwap.finance
 pancakescwap.org
+pancakesdropcclaims36.vercel.app
 pancakeseap.com
 pancakeseap.info
 pancakesewaps.finance
@@ -69449,6 +69452,7 @@ pcsfarm-v3.com
 pcshelpdesk.co
 pcsstake-v3.com
 pcwdf-hkteam.com
+pcyiccity.com
 pcyiocity.com
 pcylcalty.com
 pcylccity.com
@@ -79675,6 +79679,7 @@ siubit.com
 siyabongaeheri.live
 sjrtp-proxy.marketopreview.com
 sjxxsb.imaimac.com
+sk-sangvich.cyou
 sk8pes.world
 skaddenlawfirm.com
 skaddenllp.com
@@ -83207,6 +83212,7 @@ support-ronin.com
 support-skymavieswallet.com
 support-skymaviis.com
 support-ticket.roninwallets.club
+support-ticket337826.com
 support-ticket6753.com
 support-ticket6755.com
 support-updatewallet.com
