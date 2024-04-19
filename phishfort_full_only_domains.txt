@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 10:15:36 UTC 2024
-# Number of Entries: 108546
+# Fetch date: Fri Apr 19 10:26:26 UTC 2024
+# Number of Entries: 108545
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -97729,7 +97729,6 @@ www.addepar-coin.net
 www.addepar-ex.org
 www.addepar-web3.org
 www.advancedauth.website
-www.aegtecnoservice.it
 www.affixkawaiimainnet.com
 www.aflacalabamainsurance.online
 www.aflacchildhoodcancerfoundation.org
