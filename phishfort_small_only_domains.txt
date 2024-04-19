@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 15:03:16 UTC 2024
-# Number of Entries: 8038
+# Fetch date: Fri Apr 19 15:15:18 UTC 2024
+# Number of Entries: 8041
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4925,6 +4925,7 @@ pancakaswap-finance.xyz
 pancakaswaps.com
 pancake-clalm.xyz
 pancake-finance.net
+pancake-finance.org
 pancake-frontend-29e48ga31-chefilip.vercel.app
 pancake-frontend-flznr5rp3-chefilip.vercel.app
 pancake-ifo.pages.dev
@@ -4954,6 +4955,7 @@ pancakecrypto.com
 pancakedrop.com
 pancakedrop.xyz
 pancakedropclaim4600.vercel.app
+pancakedropclick32.vercel.app
 pancakedrops.com
 pancakedropsclaim.vercel.app
 pancakeeswap.com
@@ -4966,6 +4968,7 @@ pancakelps.com
 pancakelps.org
 pancakeprotectors.pages.dev
 pancakesawpifnance.com
+pancakesdropcclaims36.vercel.app
 pancakesfinances-swap.pages.dev
 pancakesswap.in
 pancakesswap.info
