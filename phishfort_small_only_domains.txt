@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 03:32:23 UTC 2024
-# Number of Entries: 8018
+# Fetch date: Fri Apr 19 03:52:17 UTC 2024
+# Number of Entries: 8020
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2705,6 +2705,7 @@ get-mantanetwork.xyz
 get-metamask.io
 get-metis.com
 get-neotokyo.codes
+get-pancake.xyz
 get-raidy.click
 get-raidy.top
 get-rewards.info
@@ -5175,6 +5176,7 @@ payment407etr.com
 payrollfrommyhel.com
 paytoll-407etr.com
 pc.dbrslimited.com
+pcasiapool.com
 pceme.cc
 pcpgxr.top
 pcs-cakexdefi.com
