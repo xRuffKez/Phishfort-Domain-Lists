@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 17:52:14 UTC 2024
-# Number of Entries: 108578
+# Fetch date: Fri Apr 19 18:15:50 UTC 2024
+# Number of Entries: 108581
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -24628,6 +24628,7 @@ dapptokensvalidatop.com
 dapptool.link
 dapptool.net
 dapptoollink.live
+dapptools.live
 dapptools.mobi
 dapptools.one
 dapptools.site
@@ -66612,6 +66613,7 @@ pancakeswapclaims.com
 pancakeswapclassic.com
 pancakeswapclassic.finance
 pancakeswapclean.pages.dev
+pancakeswapclick04.vercel.app
 pancakeswapclient.com
 pancakeswapclone.com
 pancakeswapcnren.com
@@ -96538,6 +96540,7 @@ wi.notifier.selfip.org
 wickensnft-mint.pdma.live
 wickvalidate.live
 widget-additional.pages.dev
+widget-builder-cihe26ic7-superfluid-finance.vercel.app
 widget-builder-ef3hbs3sz-superfluid-finance.vercel.app
 widget-builder-qshic4oxu-superfluid-finance.vercel.app
 widgets.ibexofmark.com
