@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 18:25:34 UTC 2024
-# Number of Entries: 8038
+# Fetch date: Fri Apr 19 18:32:39 UTC 2024
+# Number of Entries: 8037
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -5443,7 +5443,6 @@ psgyh.top
 psychome.co
 ptron.hk
 pub-0186f027c154484fbcbeb90161ab83cf.r2.dev
-pub-1c497a63b4ea4d20835eafbe23631624.r2.dev
 pub-2eef0dd9364d4248b298f5e4c6db0eb4.r2.dev
 pub-306b361010174008ab5773c839617c85.r2.dev
 pub-85b87193f4154021895964b1f361f7ba.r2.dev
