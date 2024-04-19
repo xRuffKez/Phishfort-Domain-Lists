@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 22:33:21 UTC 2024
-# Number of Entries: 108591
+# Fetch date: Fri Apr 19 22:52:15 UTC 2024
+# Number of Entries: 108610
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2220,6 +2220,7 @@ ab-reward.com
 ab-reward.net
 ab-rollup.xyz
 ab.arabbank.ga
+ab.ebay-asia.com
 ab.ethdefiwin.cc
 ab.xiziwk.vip
 abacoin.website
@@ -8140,6 +8141,7 @@ assetconfirmation.net
 assetconnect.org
 assetcrypto.uk
 assetcweb.com
+assetfix.vercel.app
 assetfixsolution.com
 assetfunds.info
 assetgroup.network
@@ -8592,6 +8594,7 @@ authassets.live
 authbridge.xyz
 authchase05b.servebbs.com
 authcitizenbank.com
+authcollablands.live
 authconector.com
 authconnect-dapp.netlify.app
 authconnect.dev
@@ -33004,6 +33007,7 @@ fastapespeedclub.mint-site.live
 fastappsolutions.com
 fastauth2fa.web.app
 fastauthcointech.top
+fastauthe.com
 fastauthe.org
 fastauthe.tk
 fastautheaunthor.live
@@ -37708,6 +37712,7 @@ grokceo.website
 grokcoinlab.xyz
 groknewyear.com
 grop1inch.cash
+groundcell.uk.com
 groundiobridge.live
 groundlevelapps.com
 group-mining.com
@@ -49031,6 +49036,7 @@ meetherwallet.com
 meetherwallet.website
 meetmeorkakel.site
 meetnippys.com
+meetradialsparkhq.com
 meettam.diskstation.org
 meezaninteriorsolutions.com
 mefaetxension.com
@@ -50481,11 +50487,13 @@ metamask.browser-extansion.xyz
 metamask.buzz
 metamask.bytshare.com
 metamask.bz
+metamask.ca
 metamask.cafe
 metamask.cam
 metamask.capital
 metamask.casa
 metamask.cash
+metamask.casino
 metamask.cbn
 metamask.center
 metamask.cfd
@@ -52332,6 +52340,7 @@ metamatk.com
 metamaverify.com
 metamawesk.azurewebsites.net
 metamax.ir
+metamaxk.io
 metamaxk.net
 metamaxkwalleltx.godaddysites.com
 metamaxsupport.com
@@ -52612,6 +52621,7 @@ metatoken.cash
 metatoken.gift
 metatoken.market
 metatokendrop.com
+metatokens.fi
 metatokens.tk
 metatrader.tk
 metatrader5x.online
@@ -60474,6 +60484,7 @@ nftplacelist.com
 nftplusmarket.com
 nftporsche.store
 nftporsche911.xyz
+nftprocollection.com
 nftprojects-claim.vercel.app
 nftpromotionlink.top
 nftprompt.io
@@ -61221,6 +61232,7 @@ npay-paxful.com
 npovver.com
 npxs.pro
 nql.qunkong123.com
+nqzero.sa.com
 nrpgroup.co
 nrtcoins.top
 ns.polkadotglobal.co.uk
@@ -74249,6 +74261,7 @@ radiocacas3.com
 radiojesusvienepronto.com
 radioracaa.com
 radix.gift
+radlant.capital
 radlantcapltal.com
 radoim.com
 raduim.app
@@ -77600,6 +77613,7 @@ saksoff5th-store.shop
 saksoff5th-stores.shop
 saksoff5th-us.shop
 saksoff5th-us1.com
+saksoff5th.club
 saksoff5th.love
 saksoff5th.online
 saksoff5th.store
@@ -82719,6 +82733,7 @@ stockmarketlabfx.net
 stockmartinc.com
 stockmetrictraders.com
 stocks.millenniumcapital-hnc.com
+stoic-stonebraker.109-71-253-24.plesk.page
 stokholfixxer.com
 stoksaga.com
 stomatology.ycdzybk.com
@@ -83918,6 +83933,7 @@ switchv2score.website
 swizaequity.com
 swop.ink
 swopnft.com
+swp-connect-poocoin.blogspot.com
 swpancake.com
 swswd.ether33.online
 swtest.ru
@@ -89012,6 +89028,7 @@ uniswap-exchange.com
 uniswap-exchange.eu
 uniswap-exchange.info
 uniswap-exchange.network
+uniswap-exchange.org
 uniswap-exchange.repair
 uniswap-exchange.site
 uniswap-exchange.store
@@ -99054,6 +99071,7 @@ www.coingdecko.us
 www.coingeacko.link
 www.coingebcko.click
 www.coingeccko.us
+www.coingeciko.pro
 www.coingeckbo.us
 www.coingeckeo.us
 www.coingeckko.us
@@ -103425,6 +103443,7 @@ www.seedjfly.top
 www.seedofy.fund
 www.seedoify.fund
 www.seedpify.fund
+www.seedsify.fund
 www.seedufiy.fund
 www.seedufy.fund
 www.seeduify-fund.com
