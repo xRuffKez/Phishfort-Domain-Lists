@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 11:52:06 UTC 2024
-# Number of Entries: 8034
+# Fetch date: Fri Apr 19 12:04:17 UTC 2024
+# Number of Entries: 8032
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1804,7 +1804,6 @@ cryptexchange.vip
 crypto-farm-trust.com
 crypto-starknets.com
 crypto.wormscommunity.xyz
-crypto11.bep666.top
 cryptoairdropclaim.com
 cryptohopperclaim.com
 cryptoinfosec.net
@@ -4150,7 +4149,6 @@ metlife.spicus.com
 metlifeconsumerservicesinc.store
 metlifeperteinsu.com
 metliferecruitment.com
-metlifevip.com
 metmaskt.com
 metmsakconditionweb3.netlify.app
 metnmask.io
