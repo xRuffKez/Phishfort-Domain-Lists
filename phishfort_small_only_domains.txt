@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 06:04:17 UTC 2024
-# Number of Entries: 8025
+# Fetch date: Fri Apr 19 06:16:05 UTC 2024
+# Number of Entries: 8026
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -382,7 +382,6 @@ airtm-buss-pro.netlify.app
 airtm-ingrese-aqui.com
 airtm.com.br
 airtm.help
-airtm07.com
 airtm0o.com
 airtm11.com
 airtm30.com
@@ -2087,6 +2086,7 @@ digitaldefi.pro
 digitalsec.mypsx.net
 digitdef.com
 digitoads.cc
+diis.fluentflow.io
 dinolfg.gift
 dintransac.org
 dioneprotocol.tech
@@ -5183,6 +5183,7 @@ paytoll-407etr.com
 pc.dbrslimited.com
 pcasiapool.com
 pceme.cc
+pckweb3-platform.com
 pcpgxr.top
 pcs-cakexdefi.com
 pcs-defistakev3.com
