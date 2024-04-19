@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 00:32:43 UTC 2024
-# Number of Entries: 108519
+# Fetch date: Fri Apr 19 02:28:27 UTC 2024
+# Number of Entries: 108528
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1802,6 +1802,7 @@ aave-party.xyz
 aave-pass.app
 aave-pass.com
 aave-pass.org
+aave-pi.vercel.app
 aave-presale.cc
 aave-presale.tech
 aave-protocoi.com
@@ -5713,6 +5714,7 @@ app-gala-games-home.com
 app-gala-games-ic.blogspot.com
 app-gala-games-io-kari.blogspot.com
 app-gala-games-ioy.blogspot.com
+app-gala-games-login-now.com
 app-gala-games-on.blogspot.com
 app-gala-games-online-world.blogspot.com
 app-gala-games-online-x.com
@@ -24814,6 +24816,7 @@ dashboard-gogala.games
 dashboard-metamask.io
 dashboard-multichain.online
 dashboard-online.me
+dashboard-opensea.net
 dashboard-paxful.com
 dashboard-rocketpool.claims
 dashboard-rocketpool.com
@@ -41596,6 +41599,7 @@ jupag.xyz
 jupaidrop.top
 jupairdrop.com
 jupangel.sbs
+jupcase.io
 jupcases.xyz
 jupclaim.org
 jupdrop.site
@@ -51300,6 +51304,7 @@ metamask.softonic.comm.tracara.co.uk
 metamask.software
 metamask.soy
 metamask.srl
+metamask.ss3.app
 metamask.stapn.website
 metamask.starch-solution.com
 metamask.stream
@@ -88767,6 +88772,7 @@ uniiswaap.org
 uniiswap.site
 uniiswap.space
 uniiswap.website
+uniiswapexchange.com
 uniiswapp.com
 uniiswapp.org
 uniitiqgen.buzz
@@ -89139,6 +89145,7 @@ uniswap.events
 uniswap.exan.tech
 uniswap.express
 uniswap.fashion
+uniswap.fi
 uniswap.financial
 uniswap.firm.in
 uniswap.fit
@@ -98725,6 +98732,7 @@ www.buffy169.com
 www.buffzz163.com
 www.bufk163.com
 www.bufs63.ink
+www.buhgeexhange.com
 www.bumrof.com
 www.bunkrectify.live
 www.bunkvalidate.live
@@ -107645,6 +107653,7 @@ yssj.wedcj.com
 ytjoll.com
 ytr6tyu.pro
 ytrbnuor.cf
+yttokens.com
 yttup.4nmn.com
 ytxb.6685173.com
 yu-gi-yn.claims
