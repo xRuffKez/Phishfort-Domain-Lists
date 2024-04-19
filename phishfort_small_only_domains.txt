@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 02:14:07 UTC 2024
-# Number of Entries: 8016
+# Fetch date: Fri Apr 19 02:28:11 UTC 2024
+# Number of Entries: 8017
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -6843,6 +6843,7 @@ uniswap-exchange-site.web.app
 uniswap-org.vercel.app
 uniswap-pools.web.app
 uniswap-staking-pools.web.app
+uniswap.fi
 uniswap.op-com0516.xyz
 uniswap.web3-x.org
 uniswapv-3.github.io
