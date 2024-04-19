@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 15:42:09 UTC 2024
-# Number of Entries: 108567
+# Fetch date: Fri Apr 19 16:17:05 UTC 2024
+# Number of Entries: 108571
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -28657,6 +28657,7 @@ edenhordenft.xyz
 edesbloquea.webcindario.com
 edfenergytrade.ltd
 edgea-openselling.pancakeswasap.one
+edgemarketdcx.online
 edgerealfix.com
 edgerexploretxid.com
 ednerscan.pro
@@ -33299,6 +33300,7 @@ fillold.mypsx.net
 fillup.us.to
 filsmarttechprompt.pages.dev
 filthyrichcryptokids-mint.live
+filtronasale.it
 filxedfloat.info
 fimoodys.com
 fin-flix.me
@@ -40449,6 +40451,7 @@ insuranmaacachute.com
 insure-defi.org.cogwise-app.com
 insuretech.co.id
 insurewallet.xyz
+int-active.io
 int-corroborate.com
 int3eractivebrokers.com
 intactfccorp.com
@@ -107487,6 +107490,7 @@ yearnwallet.com
 yearnyfi.blogspot.com
 yearrise-promogive.com
 yecoin.in
+yekx619z.dreamwp.com
 yelds-protocol.xyz
 yellewcurd.online
 yellow-card-investment.jimdosite.com
