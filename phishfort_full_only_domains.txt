@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 03:42:10 UTC 2024
-# Number of Entries: 108531
+# Fetch date: Fri Apr 19 04:42:22 UTC 2024
+# Number of Entries: 108536
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -5664,6 +5664,7 @@ app-deform.cc
 app-delegation.net
 app-deus.finance
 app-dexnetwork.live
+app-dexserver.live
 app-dexxnetwork.com
 app-dodoerx.click
 app-dodoexx.click
@@ -62443,6 +62444,7 @@ opensea-bridge.com
 opensea-c.netlify.app
 opensea-ciaim.com
 opensea-claim.com
+opensea-claim.de
 opensea-collect.com
 opensea-conect.ru
 opensea-connect.com
@@ -65229,6 +65231,7 @@ pancakeswap-page.net
 pancakeswap-pancakeswap.com
 pancakeswap-pancakeswap.net
 pancakeswap-pancakeswap.org
+pancakeswap-pancakeswap.xyz
 pancakeswap-pas.tech
 pancakeswap-pc.com
 pancakeswap-platform.com
@@ -78907,6 +78910,7 @@ shapeslhift.io
 shapesshift.io
 shapishift.io
 sharderum.org
+shardeum-airdrops-register-live.vercel.app
 shardeum-chain.netlify.app
 shardeum.service-claims.pro
 shardeumorg.vercel.app
@@ -96857,6 +96861,7 @@ worldwdehost.jp
 worldwide-webb.web3-airdrop.net
 worldwide.lpnfts.com
 worldwideofficial.xyz
+worm-hole-airdrop.vercel.app
 wormant.com
 wormhole-airdrop.store
 wormhole-dev.netlify.app
