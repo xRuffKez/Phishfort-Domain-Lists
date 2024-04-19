@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 19:52:19 UTC 2024
-# Number of Entries: 108587
+# Fetch date: Fri Apr 19 20:32:33 UTC 2024
+# Number of Entries: 108591
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -23269,6 +23269,7 @@ dapp-solution.pages.dev
 dapp-solution.web.app
 dapp-solutions.net
 dapp-starter-1s2gz5hbg-dunghd.vercel.app
+dapp-starter-ju06cb1h2-dunghd.vercel.app
 dapp-station.firebaseapp.com
 dapp-station.web.app
 dapp-support.com
@@ -30368,6 +30369,7 @@ ethdefi.homes
 ethdefi.run
 ethdefi.wiki
 ethdefi20.com
+ethdefivip.cc
 ethdefiwin.info
 ethdefiwin.vip
 ethdf.com
@@ -51994,6 +51996,7 @@ metamasks.info
 metamasks.ink
 metamasks.inkawarrioresports.com
 metamasks.live
+metamasks.ltd
 metamasks.one
 metamasks.pro
 metamasks.ren
@@ -54892,6 +54895,7 @@ multichain-dapps.pages.dev
 multichain-dapps.xyz
 multichain-dappsync.netlify.app
 multichain-defi.net
+multichain-event.net
 multichain-event.org
 multichain-evm.pages.dev
 multichain-fixdapp.pages.dev
