@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 05:52:18 UTC 2024
-# Number of Entries: 108537
+# Fetch date: Fri Apr 19 06:34:45 UTC 2024
+# Number of Entries: 108543
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3094,6 +3094,7 @@ agoda.gologonow.website
 agoda.host
 agoda.ib-web.online
 agoda.icu
+agoda.info631.com
 agoda.lovestoblog.com
 agoda.offer18239.com
 agoda.partner-extranet.info
@@ -27064,6 +27065,7 @@ digrtoads.com
 digrtoads.tech
 digtods.com
 dihlhih.cloud
+diis.fluentflow.io
 dikemex.com
 diluteoil.com
 dimarket.xyz
@@ -47509,6 +47511,7 @@ mainetissues.live
 mainetlinked.com
 mainetmerge.info
 mainetnest.cloud
+mainetnodeauth.pages.dev
 mainetnodes.com
 mainetnodesfix.live
 mainetonline.com
@@ -49322,6 +49325,7 @@ mergeapps-dao.com
 mergeapps-dao.network
 mergeapps-defi.com
 mergeappsevers.pages.dev
+mergeappseversd.pages.dev
 mergeben.tech
 mergebitswap.com
 mergedaoprotocol.live
@@ -69410,6 +69414,7 @@ pcdealnets.com
 pceme.cc
 pcertification.xyz
 pchocoishoes2.gq
+pckweb3-platform.com
 pcloudfxcrediteconnectverification.com
 pcncakeswap.com
 pcoinpoo.com
@@ -95513,6 +95518,7 @@ web3-dogecoin.com
 web3-drop.com
 web3-ethereum.info
 web3-ethereum.org
+web3-financialpcs.com
 web3-fix.pages.dev
 web3-fixer.com
 web3-fixtool-connect.live
