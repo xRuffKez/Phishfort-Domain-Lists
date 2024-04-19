@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 00:32:34 UTC 2024
-# Number of Entries: 8013
+# Fetch date: Fri Apr 19 01:00:32 UTC 2024
+# Number of Entries: 8016
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -562,6 +562,7 @@ app-ethena.xyz
 app-ether-fi.pages.dev
 app-fredenergy.pages.dev
 app-fusionx.com
+app-gala-games-login-now.com
 app-gala-games-wallet.com
 app-juilce.finance
 app-kaspanet.com
@@ -3214,6 +3215,7 @@ jup444.com
 jupag.xyz
 jupairdrop.com
 jupangel.sbs
+jupcase.io
 jupcases.xyz
 jupclaim.org
 jupdrop66.com
@@ -7916,6 +7918,7 @@ ypredict-ai.app
 ypredict-ai.site
 ypredict-app.pages.dev
 yqmln.top
+yttokens.com
 yu9.us
 z9a5rlx4jj.whosaginay.tech
 zanshin.ro
