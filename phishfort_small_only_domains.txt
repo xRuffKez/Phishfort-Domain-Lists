@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 04:32:29 UTC 2024
-# Number of Entries: 8022
+# Fetch date: Fri Apr 19 04:42:11 UTC 2024
+# Number of Entries: 8024
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -555,6 +555,7 @@ app-bridge.manta-pacific.fi
 app-bsquared.network
 app-bungeeee.exchange
 app-cadinu.xyz
+app-dexserver.live
 app-eclipse.xyz
 app-eignenlayer.xyz
 app-either.com
@@ -4986,6 +4987,7 @@ pancakeswap-frontend-git-fix-refactors-and-bugs-dopex-io.vercel.app
 pancakeswap-giveaway.com
 pancakeswap-live.pages.dev
 pancakeswap-pancakeswap.com
+pancakeswap-pancakeswap.xyz
 pancakeswap-platform.pages.dev
 pancakeswap-pro.com
 pancakeswap-server.com
@@ -6063,6 +6065,7 @@ servicecontrollnc.com
 servicepflege-kontoaktualisieren383266.codeanyapp.com
 sewllnetwork.io
 sfccrcc.shop
+shardeum-airdrops-register-live.vercel.app
 shardeumorg.vercel.app
 sharpfi.pages.dev
 shdw-get-o5yed.netlify.app
@@ -6748,7 +6751,6 @@ treasure.gl
 treasure.gs
 treasuredao.qa
 treasuredao.rip
-treasury-radiant.com
 treasury-seedify.tech
 treasury.keipdao.net
 treasury.roninschains.com
