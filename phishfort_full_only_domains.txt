@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 04:42:22 UTC 2024
-# Number of Entries: 108536
+# Fetch date: Fri Apr 19 05:03:48 UTC 2024
+# Number of Entries: 108537
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -30489,6 +30489,7 @@ ether-web3.com
 ether-wl.com
 ether-zero.info
 ether-zero.net
+ether.app-conexion.live
 ether.blogmedium.top
 ether.claims
 ether.fi.it
