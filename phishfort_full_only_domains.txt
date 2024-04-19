@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 18:15:50 UTC 2024
-# Number of Entries: 108581
+# Fetch date: Fri Apr 19 18:25:59 UTC 2024
+# Number of Entries: 108583
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -68455,6 +68455,7 @@ papetokens.com
 papetokenss.com
 papgreekstake.icu
 paplol.com
+papojv.top
 pappradar.com
 paqakeswap.com
 para-digm.xyz
@@ -78666,6 +78667,7 @@ selortis.net
 seltment.site
 selviyardim.online
 seminovosbrazz.blogspot.com
+seminuevosfordmx.com
 sempra-23.new-mentus.com
 sempra.us
 sempra91.in
