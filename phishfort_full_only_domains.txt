@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 10:42:05 UTC 2024
-# Number of Entries: 108545
+# Fetch date: Fri Apr 19 11:03:26 UTC 2024
+# Number of Entries: 108549
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -5507,6 +5507,7 @@ apool.tech
 apop.site
 apord.site
 app--metamask.io
+app-0c89637a-46c6-41b0-b3f9-1f83b4b0eb45.cleverapps.io
 app-1ench.com
 app-1ihch.com
 app-1inch-io.com
@@ -64235,6 +64236,7 @@ pancake-app.org
 pancake-bsw.finance
 pancake-cake.site
 pancake-claim.com
+pancake-clalm.xyz
 pancake-crypto.one
 pancake-crypto.online
 pancake-exchange.arhamsoft.org
@@ -68892,6 +68894,7 @@ paxful.cfd
 paxful.cl
 paxful.click
 paxful.cloud
+paxful.club
 paxful.cm
 paxful.co.com
 paxful.co.in
@@ -83194,6 +83197,7 @@ support-ronin.com
 support-skymavieswallet.com
 support-skymaviis.com
 support-ticket.roninwallets.club
+support-ticket6755.com
 support-updatewallet.com
 support-updatewallets.com
 support-us983.com
