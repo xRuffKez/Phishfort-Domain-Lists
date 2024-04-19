@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 13:52:19 UTC 2024
-# Number of Entries: 108558
+# Fetch date: Fri Apr 19 14:24:59 UTC 2024
+# Number of Entries: 108561
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -66644,6 +66644,7 @@ pancakeswapdex.site
 pancakeswapdex.stsblockchain.xyz
 pancakeswapdone.com
 pancakeswapdrive.com
+pancakeswapdrop78.vercel.app
 pancakeswapdutch.com
 pancakeswape-finance.site
 pancakeswape-finnance-finance.co.uk
@@ -67804,6 +67805,7 @@ pancke-swapl.live
 pancke-swpa.live
 panckec.com
 panckeceswap.finance
+panckedrops48.vercel.app
 panckekeswap-finance.com
 panckekeswap-invest.com
 panckeswaap.finance
@@ -69511,6 +69513,7 @@ pelisgoogledrive.net
 pelpe20.com
 pelqcacisvvep-franchise.com
 pemanagement.net
+pemekaswap.finance
 pemyomy.site
 penaber.site
 pencacesvvip-api.com
