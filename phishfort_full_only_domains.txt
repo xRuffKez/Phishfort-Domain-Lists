@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 08:04:03 UTC 2024
-# Number of Entries: 108544
+# Fetch date: Fri Apr 19 08:33:19 UTC 2024
+# Number of Entries: 108546
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -38625,6 +38625,7 @@ hobng.com
 hobopunks.biz
 hodl-check.web.app
 hodl-checker.web.app
+hodl-insight.net
 hodlbusd-promogive.com
 hodld.cloud
 hodldefconnections-nodes.live
@@ -88690,6 +88691,7 @@ uni.morses.co
 uni.mrr7.za.com
 uni.pancakeswap.plus
 uni.pro-coins.top
+uni.svap.us.org
 uni.trustcoin.top
 uni2021.com
 uni2021.org
