@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 01:32:08 UTC 2024
+# Fetch date: Fri Apr 19 01:57:01 UTC 2024
 # Number of Entries: 8016
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -18,7 +18,6 @@
 1-88y.pages.dev
 1-eu9.pages.dev
 1-inch.asia
-1-inch.xyz
 1-lnch.com
 1.globalpaymentsyttww.com
 1.globalpaymentsytww.com
@@ -4037,6 +4036,7 @@ metamask.land
 metamask.managementcommunity.pro
 metamask.nodelinks.net
 metamask.so
+metamask.ss3.app
 metamask.tokenapp.top
 metamask.wallet-app.com
 metamask.web3-request.net
@@ -5013,7 +5013,6 @@ pancakeswapsfinance.pages.dev
 pancakeswapunlock.com
 pancakeswapv3.net
 pancakeswapv4.com
-pancakesweb.finance
 pancakeswop.pages.dev
 pancakeswop.web.app
 pancakeswp.github.io
@@ -7469,6 +7468,7 @@ www.bridgermk.app
 www.bridgermkr.app
 www.brothernz.com
 www.bscpad-launchpad.live
+www.buhgeexhange.com
 www.burakglobalfirm.com
 www.butterfieldoffshore.com
 www.c592.top
