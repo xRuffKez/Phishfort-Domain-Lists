@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 16:52:18 UTC 2024
+# Fetch date: Fri Apr 19 17:02:59 UTC 2024
 # Number of Entries: 8046
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2533,6 +2533,7 @@ fix-metamask.pages.dev
 fix.errorsolution.org
 fixadfloat.com
 fixbugmigrate.pages.dev
+fixedfloat.best
 fixedfloat.win
 fixedfloatt-io.click
 fixedtloat.com
@@ -4309,6 +4310,8 @@ modhr.org
 modulares.icu
 modulef.com
 moduler.network
+moe-ukraine.com
+moe-ukraine.info
 moeamask.com
 mogcoin-xyz.vercel.app
 mogcoin.rewardshare.info
@@ -4652,7 +4655,6 @@ njmvdu.pro
 nkbihfbeogaeaoehlefnkodbefgpgknn.metamaskk.skyhighfirstclass.com.ng
 nkjs0.ru.com
 nnass-unempl.com
-nnetamasks.io
 nnetannask.io
 nnttn.cn
 nobody-raffle.com
@@ -5634,7 +5636,6 @@ raydiumtoken.io
 raydlum.ink
 raydlum.net
 raydlumvy.com
-raydrium.io
 raydrop.live
 rayduims.beauty
 rayduims.boats
@@ -7930,7 +7931,6 @@ yekx619z.dreamwp.com
 yelds-protocol.xyz
 yellow-card.co.uk
 yexinerangel.com
-ygbu.mypi.co
 yieldmagnet.app
 ykwzj.pro
 ylniamh.com
