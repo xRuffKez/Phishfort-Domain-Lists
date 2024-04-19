@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 05:52:08 UTC 2024
+# Fetch date: Fri Apr 19 06:04:17 UTC 2024
 # Number of Entries: 8025
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -219,6 +219,7 @@ agoda.confirm139233.com
 agoda.extra-checks.com
 agoda.host
 agoda.ib-web.online
+agoda.info631.com
 agoda.offer18239.com
 agoda.partner-extranet.info
 agoda.partner-extranet.life
@@ -3648,6 +3649,7 @@ main-decentralised.pages.dev
 main-decentralized.pages.dev
 main-makerdao.com
 maindexapp.pages.dev
+mainetnodeauth.pages.dev
 mainfixchain.com
 mainnet-blaster.com
 mainnet-dymension.com
@@ -3673,7 +3675,6 @@ makepayment-407etr.com
 maker-dao.life
 maker-dao.network
 maker-fnd.net
-makeradao.com
 makerdaicoin.com
 makerdao.digital
 makerdao.vip
@@ -3943,6 +3944,7 @@ meotamssklognb.godaddysites.com
 merative.site
 merc404.xyz
 merchantserviceadvisers.com
+mergeappseversd.pages.dev
 mergeben.tech
 mergebitswap.com
 merkle.cash
@@ -4089,7 +4091,6 @@ metamasyk.azurewebsites.net
 metamawesk.azurewebsites.net
 metamcsk.cc
 metamcsk.io
-metameak.com
 metameask-walat.godaddysites.com
 metamesk-io.me
 metamesk-walate.godaddysites.com
@@ -7731,7 +7732,6 @@ www.reward-wenwen.com
 www.rmkrbridge.app
 www.rniho.fi
 www.royalsecrets.com.ua
-www.rpcnodeservicetool.com
 www.rpcresolve.com
 www.rtutgg.cn
 www.rubyprotocol.pro
