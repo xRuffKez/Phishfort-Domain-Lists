@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 13:15:43 UTC 2024
-# Number of Entries: 108556
+# Fetch date: Fri Apr 19 13:52:19 UTC 2024
+# Number of Entries: 108558
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -38597,6 +38597,7 @@ hk.ftx.fund
 hk.ftx.li
 hk.ftx.stg.dev
 hkagoda.agency
+hkasia-pooldefi.com
 hkcgm.com
 hkg-laravel.pancakeswape.finance
 hkinu.network
@@ -40441,6 +40442,7 @@ instdapps.com
 institutopangoa.edu.pe
 institutoperuanocanadiense.edu.pe
 instruction-and-collecting.com
+insuarenmaul.com
 insultado.sa.com
 insurance-paxful.com
 insuranmaacachute.com
