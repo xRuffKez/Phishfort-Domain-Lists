@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 20:15:14 UTC 2024
-# Number of Entries: 8033
+# Fetch date: Fri Apr 19 20:23:14 UTC 2024
+# Number of Entries: 8031
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -75,7 +75,6 @@
 3000usdt.xyz
 32f79d9c.7cdb6f3702a09bbbd3afc136.workers.dev
 365cash.store
-3denergysolution.com
 3ebank.github.io
 3f4813b3-5cfb-4a7a-8fcb-7b9ed4dd8395-00-2btsrssvd10b4.janeway.replit.dev
 3pzlywh.info
@@ -1859,6 +1858,7 @@ dapp-pendle.finance
 dapp-resolver.pages.dev
 dapp-solution.pages.dev
 dapp-starter-1s2gz5hbg-dunghd.vercel.app
+dapp-starter-ju06cb1h2-dunghd.vercel.app
 dapp-vulcan.xyz
 dapp.radar.skin
 dapp.zkmll.systems
@@ -2347,6 +2347,7 @@ eth-ensdao.net
 eth-gas.xyz
 eth-gasfee.com
 eth-yieldfarming.org
+ethdefivip.cc
 ethdrop.xyz
 ethena-3web.pages.dev
 ethena-airdrop.vercel.app
@@ -2680,7 +2681,6 @@ genesis-dem.xyz
 genesis-dym.com
 genesis-roll.com
 genesis-x-ads.com
-genesis.dymensjon.xyz
 genesis.dymenstion.xyz
 genesis.dynmension.xyz
 genesis.puffsthedragon.xyz
@@ -5442,7 +5442,6 @@ ptron.hk
 pub-0186f027c154484fbcbeb90161ab83cf.r2.dev
 pub-2eef0dd9364d4248b298f5e4c6db0eb4.r2.dev
 pub-306b361010174008ab5773c839617c85.r2.dev
-pub-85b87193f4154021895964b1f361f7ba.r2.dev
 pub-c7119d8cef5d4359861e1426cf37c62c.r2.dev
 pub-e9989cc0d26d4a2f9e7017c197e26310.r2.dev
 pub-ef521178253943d19f4991b34907623f.r2.dev
@@ -5986,7 +5985,6 @@ satoshiprotocol.vercel.app
 satoshivm-app.io
 satoshivm-bonus.com
 satoshivm-finance.com
-satoshivm-launch.network
 satoshivm-promo.com
 satoshivm.cc
 satoshivm.communltiy.com
