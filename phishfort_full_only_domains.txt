@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 16:43:56 UTC 2024
-# Number of Entries: 108571
+# Fetch date: Fri Apr 19 17:52:14 UTC 2024
+# Number of Entries: 108578
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -25688,6 +25688,7 @@ defi-ecology.net
 defi-erc.com
 defi-errorfix.com
 defi-eth-usdt.vip
+defi-eth.biz
 defi-eth.store
 defi-ethu.me
 defi-events.net
@@ -30040,6 +30041,7 @@ eth-merge22.io
 eth-metamask.club
 eth-metamesk.com
 eth-miner.info
+eth-miner.vip
 eth-mineral.net
 eth-minerpool.com
 eth-mining.org
@@ -33641,6 +33643,7 @@ fixedfloat-original.xyz
 fixedfloat-register.blogspot.com
 fixedfloat-swap.com
 fixedfloat.ac
+fixedfloat.best
 fixedfloat.bio
 fixedfloat.ca
 fixedfloat.cfd
@@ -54193,6 +54196,8 @@ moduler.network
 modulesct.com
 moduleweb3.com
 modypsb1.beget.tech
+moe-ukraine.com
+moe-ukraine.info
 moeamask.com
 moeto10025.xyz
 moftvers.com
@@ -88398,6 +88403,7 @@ typicalfarm.com
 typicalfriends.net
 typicaltigers.live
 tyredbed.shop
+tyrh.io
 tyzxf.pages.dev
 tz5.isecurity.site
 tzero-ico.com
@@ -97754,6 +97760,7 @@ www.addepar-coin.net
 www.addepar-ex.org
 www.addepar-web3.org
 www.advancedauth.website
+www.aegtecnoservice.it
 www.affixkawaiimainnet.com
 www.aflacalabamainsurance.online
 www.aflacchildhoodcancerfoundation.org
