@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 23:15:33 UTC 2024
-# Number of Entries: 7991
+# Fetch date: Fri Apr 19 23:24:13 UTC 2024
+# Number of Entries: 7992
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3106,6 +3106,7 @@ janushenderson.agenciastatus.com.br
 janushendersoninv.com
 jasmy.coinsglass.top
 jazzy-puffpuff-8f1eac.netlify.app
+jblspeakes.com
 jci.org.in
 jcijobs.com
 jedz.co.za
