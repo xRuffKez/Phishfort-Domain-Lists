@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 13:03:05 UTC 2024
-# Number of Entries: 8032
+# Fetch date: Fri Apr 19 13:15:31 UTC 2024
+# Number of Entries: 8033
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -5005,6 +5005,7 @@ pancakeswapairdropevent.finance
 pancakeswapcrypto.com
 pancakeswapertoday.xyz
 pancakeswapfiinance.xyz
+pancakeswapfinance-catamoto.pages.dev
 pancakeswapfinance-gg3.pages.dev
 pancakeswapfinances.pages.dev
 pancakeswaph.github.io
@@ -5179,6 +5180,7 @@ payment-etr407.com
 payment407etr.com
 payrollfrommyhel.com
 paytoll-407etr.com
+paywithklarna.de
 pc.dbrslimited.com
 pcasiapool.com
 pceme.cc
@@ -5981,7 +5983,6 @@ satoshi-one.vercel.app
 satoshidex-in.web.app
 satoshinew123.pages.dev
 satoshiprotocol.vercel.app
-satoshisvm.network
 satoshivm-app.io
 satoshivm-bonus.com
 satoshivm-finance.com
@@ -6441,6 +6442,7 @@ support-407etr.com
 support-cch.com
 support-manta.pages.dev
 support-pancakeswaps.pages.dev
+support-requires.com
 support-ticket6753.com
 support-ticket6755.com
 support-walletrestoration.pages.dev
@@ -6696,7 +6698,6 @@ tmedicalpr.lol
 tmtmoneyback.pages.dev
 tmwr.pro
 to.dataui.online
-to.uidista.online
 token-altsignal.web.app
 token-berachain.com
 token-blast.com
