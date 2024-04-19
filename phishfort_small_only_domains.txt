@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 00:10:39 UTC 2024
-# Number of Entries: 8009
+# Fetch date: Fri Apr 19 00:32:34 UTC 2024
+# Number of Entries: 8013
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1539,6 +1539,7 @@ claim.spongeonerc.com
 claim.wallstretmemes.app
 claim.wen.ag
 claim.wormhole.fitness
+claim.wormhole.si
 claim.www-catcoin.com
 claim.zeta.chain.wb3ox.xyz
 claim.zetachain.wb3s.xyz
@@ -2027,7 +2028,6 @@ defisentry.net
 defisentry.pages.dev
 defispot.app
 defisrhino.net
-defiwebchains.org
 deflexseax.xyz
 defuny.cc
 degen.hakunamatatasol.com
@@ -3166,6 +3166,8 @@ joinneotokyo.com
 jointoexposed.com
 joinweb-3.com
 joltify-get.vercel.app
+joltify-scope.vercel.app
+joltify-testnet3.vercel.app
 jorpost-new.top
 journeymantle.one
 joyouslinkew.world
@@ -3464,6 +3466,7 @@ linea-defi.com
 linea-layerfinance.com
 linea-net.com
 linea-park.com
+linea-xo.com
 linea.baby
 linea.contact
 linea2024.com
@@ -5910,6 +5913,7 @@ safegnosis.co
 safeguard-meta.com
 safewallet-meta.com
 saga-solanamobile.com
+saita.vercel.app
 saitachain-migration.pages.dev
 saitama.gift
 saitapro.vercel.app
