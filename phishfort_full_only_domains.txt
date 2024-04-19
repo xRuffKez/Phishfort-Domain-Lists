@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 07:23:04 UTC 2024
-# Number of Entries: 108543
+# Fetch date: Fri Apr 19 07:52:04 UTC 2024
+# Number of Entries: 108544
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -61125,6 +61125,7 @@ notdoodles.com
 notiarvaiabs.com
 noticemetamask.duckdns.org
 noticmeta.com
+notifications-metamask.com
 notificationsintuits.com
 notify-metamasks.zyns.com
 notifyfb-wecutn86.chemx.us
