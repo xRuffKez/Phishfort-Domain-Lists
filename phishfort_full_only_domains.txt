@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 02:52:17 UTC 2024
-# Number of Entries: 108528
+# Fetch date: Fri Apr 19 03:42:10 UTC 2024
+# Number of Entries: 108531
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -36126,6 +36126,7 @@ get-myria.online
 get-neotokyo.codes
 get-notion.net
 get-ocean.org
+get-pancake.xyz
 get-pepe.com
 get-polkadot.net
 get-pond0x.com
@@ -37774,6 +37775,7 @@ guccl.xyz
 gudrus.com
 gueild.xyz
 guerlainnft.xyz
+guest-info9016.com
 guidearnservice.live
 guidetonfts.dynamic-dns.net
 guidodisalle.xyz
@@ -69396,6 +69398,7 @@ pcairframe.com
 pcakepool.com
 pcakeswap.com
 pcakeswap.online
+pcasiapool.com
 pcbkcominstpay-001-site1.gtempurl.com
 pcccareer.com
 pcci.top
