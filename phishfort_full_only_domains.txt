@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 12:55:08 UTC 2024
-# Number of Entries: 108553
+# Fetch date: Fri Apr 19 13:15:43 UTC 2024
+# Number of Entries: 108556
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -66736,6 +66736,7 @@ pancakeswapfinaceconnect.ml
 pancakeswapfinacnen.app
 pancakeswapfinalis.com
 pancakeswapfinanace.net
+pancakeswapfinance-catamoto.pages.dev
 pancakeswapfinance-gg3.pages.dev
 pancakeswapfinance.bond
 pancakeswapfinance.co
@@ -69396,6 +69397,7 @@ paytomatwallet.com
 payu-paxful.com
 payuethereum.com
 payusall.xyz
+paywithklarna.de
 paywithlnk.com
 paywithnk.com
 paywithpicoinnetwork.com
@@ -83193,6 +83195,7 @@ support-pancakeswap.online
 support-pancakeswaps.pages.dev
 support-paxful.com
 support-procoinbase.com
+support-requires.com
 support-restore-page.netlify.app
 support-restore.resets.app
 support-ronin.com
