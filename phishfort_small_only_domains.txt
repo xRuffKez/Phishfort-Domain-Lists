@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 04:25:17 UTC 2024
-# Number of Entries: 8020
+# Fetch date: Fri Apr 19 04:32:29 UTC 2024
+# Number of Entries: 8022
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4786,6 +4786,7 @@ opensaebox.vercel.app
 opensaepro.vercel.app
 opensaeproclaim.vercel.app
 opensea-air.vercel.app
+opensea-claim.de
 opensea-doc.rf.gd
 opensea-drainer.vercel.app
 opensea-io.pages.dev
@@ -7348,6 +7349,7 @@ worldcoin-token.org
 worldfruitforest.world
 worldgeowayw.world
 worldtvmobile.com
+worm-hole-airdrop.vercel.app
 wormhole-airdrop.store
 wormhole-dev.netlify.app
 wormhole-drops.live
