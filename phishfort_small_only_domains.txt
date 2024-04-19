@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 10:52:17 UTC 2024
-# Number of Entries: 8028
+# Fetch date: Fri Apr 19 11:02:51 UTC 2024
+# Number of Entries: 8030
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -454,7 +454,6 @@ altlayer-labs.com
 altlayer-rollup.io
 altlayer-v2.top
 altlayer.claim-connect.click
-altlayer.finance
 altlayer.fo
 altlayer.li
 altlayer.mom
@@ -4924,6 +4923,7 @@ pancackeswap-claim.web.app
 pancaikeswap.finance
 pancakaswap-finance.xyz
 pancakaswaps.com
+pancake-clalm.xyz
 pancake-finance.net
 pancake-frontend-29e48ga31-chefilip.vercel.app
 pancake-frontend-flznr5rp3-chefilip.vercel.app
@@ -5121,6 +5121,7 @@ pax-f.netlify.app
 paxful-clo.com
 paxful-club.com
 paxful-web.com
+paxful.club
 paxful.instenpay.com
 paxful78291047.com.ng
 paxfula.com
@@ -6440,6 +6441,7 @@ support-407etr.com
 support-cch.com
 support-manta.pages.dev
 support-pancakeswaps.pages.dev
+support-ticket6755.com
 support-walletrestoration.pages.dev
 support.metamask.id
 support.pankecswaqfiannce.com
