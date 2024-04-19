@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 17:24:52 UTC 2024
-# Number of Entries: 8046
+# Fetch date: Fri Apr 19 17:32:22 UTC 2024
+# Number of Entries: 8037
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1488,7 +1488,6 @@ claim-scottytheai.web.app
 claim-scottytheaii.pages.dev
 claim-sol.web.app
 claim-starknet.top
-claim-steth.com
 claim-thrusterfinance.com
 claim-tinyblander.com
 claim-verasity.online
@@ -4056,7 +4055,6 @@ metamaskabc.com
 metamaskapp-kyc-auth24.com
 metamaskapp.space
 metamaskarticle.com
-metamaskb.icu
 metamaskb.io
 metamaskc.org
 metamaskcrypto.com
@@ -4435,7 +4433,6 @@ mygoemployerthesaw.com
 myjuppy-box.com
 myjuppy-box.trade
 mymetamasklogin.com
-mymetazvirify.com
 mymoneronline.info
 mynewmont.us
 mynewmontbonk.com
@@ -4780,7 +4777,6 @@ openbookraydium.com
 openboxclaimz12.vercel.app
 openclickclaim.vercel.app
 openftclicks.vercel.app
-openkeyledger.com
 openmsea.io
 openmysteriesnft.vercel.app
 openmysterybox44.vercel.app
@@ -5619,14 +5615,11 @@ raydipage.xyz
 raydiu.com
 raydium-frontend.pages.dev
 raydium.boats
-raydium.buzz
-raydium.cfd
 raydium.dev
 raydium.fun
 raydium.homes
 raydium.ink
 raydium.lo.web3-connect.pw
-raydium.lol
 raydium.pics
 raydium.rest
 raydium.sbs
@@ -5647,7 +5640,6 @@ raze-drops.top
 rbkm.sa.com
 rdx.vercel.app
 rdxshoes.click
-reachedoutseveral.com
 realio.gift
 realraydium.xyz
 realtyexcellence.com
@@ -7648,7 +7640,6 @@ www.mehrlesenachrichten.com
 www.meta.pika.asia
 www.meta.wesbcex.com
 www.meta009911.com
-www.meta2842.com
 www.metamask-app.com
 www.metamask-mining.com
 www.metamask.best
