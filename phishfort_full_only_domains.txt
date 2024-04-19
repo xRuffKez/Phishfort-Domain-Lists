@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 11:03:26 UTC 2024
-# Number of Entries: 108549
+# Fetch date: Fri Apr 19 11:42:22 UTC 2024
+# Number of Entries: 108552
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -73093,6 +73093,7 @@ promobittrex.site
 promobittrex.website
 promobtc.win
 promocaochevro.com
+promocaochevrobr.ws
 promochevro.com
 promocionesiberostarhotels.com
 promocoinbase.xyz
@@ -75684,6 +75685,7 @@ revert-finance.com
 revert-multichain.org
 revest-finance.com
 review-coinbase.us-account.help
+review-complaint981737.com
 review-metamask.com
 review-paxful.com
 review-wallet-activity.com
@@ -92225,6 +92227,7 @@ w5fowfv5tj.tobamicama.tech
 w7.com.au
 w85l0lwmbr54p0h.shared-www.mx2.pancakeswape.finance
 wa.gl
+wa.me
 wa11et.nnymonero.com
 wa11et.xn--mymnero-c1a.com
 wa1let.xn--mmonero-v2a.com
