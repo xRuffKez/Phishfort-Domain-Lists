@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 14:33:12 UTC 2024
-# Number of Entries: 8038
+# Fetch date: Fri Apr 19 14:52:20 UTC 2024
+# Number of Entries: 8037
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -5200,6 +5200,7 @@ pcs.payflowtoken.com
 pcsfarm-v3.com
 pcsstake-v3.com
 pcwdf-hkteam.com
+pcyiccity.com
 pcyiocity.com
 pcylcalty.com
 pcylccity.com
@@ -7672,7 +7673,6 @@ www.myetherwalletet.org
 www.myetherwalletia.org
 www.myetherwalletie.com
 www.myetherwalletta.org
-www.mynorway.net
 www.mypepsico.live
 www.mypethooligengame.com
 www.nasxcoins.com
@@ -7680,7 +7680,6 @@ www.newmontminingcorp.com
 www.newmontvip.com
 www.node-protocol.net
 www.node.authfxconnector.com
-www.norwegianlife.net
 www.o2-login.info
 www.oakapex.com
 www.offer-4301.shop
