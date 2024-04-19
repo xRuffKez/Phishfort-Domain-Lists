@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 22:33:09 UTC 2024
-# Number of Entries: 8031
+# Fetch date: Fri Apr 19 22:42:09 UTC 2024
+# Number of Entries: 7990
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -148,7 +148,6 @@ aave-gifts.com
 aave-pi.vercel.app
 aave.asia
 aave.freedrops.top
-aave.godepth.com
 aave.liquidity.org.pl
 aavenetwork.org
 aavve.eu
@@ -370,8 +369,6 @@ airhopperreviews.com
 airjetfly.online.swiftplumbingsolutions.online
 airlinesmanagebooking.com
 airmexc.life
-airnetframe.com
-airnftframe.com
 airstyleart.co.uk
 airswaps.io
 airtm-22.com
@@ -490,7 +487,6 @@ an.betiutima.online
 an.intelectui.online
 an.myudetma.online
 analayze.orb-crypto.com
-analos.insure
 analyse-trades.web.app
 andex.vercel.app
 angledao.app
@@ -507,7 +503,6 @@ apecoin-drop.web.app
 apecoin-llc.com
 apecoin-pass.com
 apecoin-web3.com
-apenft-poloniex.com
 aperiron.rxp.app
 apes-coinz-claim.com
 apesglves.com
@@ -549,8 +544,6 @@ app-benqi.online
 app-betafinance.org
 app-bridge.manta-pacific.fi
 app-bsquared.network
-app-bungeeee.exchange
-app-cadinu.xyz
 app-dexserver.live
 app-eclipse.xyz
 app-eignenlayer.xyz
@@ -1403,7 +1396,6 @@ chendimassachoist.com
 chevroletshopdrive.ws
 chevropromoo.com
 childporn.umb.market
-chimpzee-claim.pages.dev
 chndemarloonst.com
 choupettesolana.com
 chriscraft.shop
@@ -1486,7 +1478,6 @@ claim-sol.web.app
 claim-starknet.top
 claim-thrusterfinance.com
 claim-tinyblander.com
-claim-verasity.online
 claim-vyperprotocol.com
 claim-wen.army
 claim-wenwen.com
@@ -1618,7 +1609,6 @@ coiappresolve.pages.dev
 coiauthapp.pages.dev
 coiiabland.net
 coin-base.events
-coin-fx.ltd
 coin-multiresolve.firebaseapp.com
 coin-multiresolve.web.app
 coin-qr.to
@@ -1680,7 +1670,6 @@ collab.role-bot.net
 collab.web-role.com
 collabandverify.onrender.com
 collabandverify.vercel.app
-collabaward.site
 collabland-assest.com
 collabland-log.com
 collabland-members.net
@@ -2054,7 +2043,6 @@ devnet-dymension.com
 deworm.xyz
 dex-migration.firebaseapp.com
 dex-saitachain.pro
-dex-stargate.finance
 dex-support.web.app
 dex-tool-portal.live
 dexautomate.web.app
@@ -2344,7 +2332,6 @@ eth-calculator.xyz
 eth-che.cyou
 eth-denver.com
 eth-ensdao.net
-eth-gas.xyz
 eth-gasfee.com
 eth-yieldfarming.org
 ethdefivip.cc
@@ -2433,7 +2420,6 @@ events-pandora.com
 events-pendle.fi
 events-polkadot.network
 eventspancakeswap.finance
-eventxtoken.network
 evercoreassets.com
 evercorecapitalgroup.com
 evernode-airdrop.com
@@ -3218,7 +3204,6 @@ jup333.com
 jup444.com
 jupag.xyz
 jupairdrop.com
-jupangel.sbs
 jupcase.io
 jupcases.xyz
 jupclaim.org
@@ -3319,7 +3304,6 @@ krakenencoin.com
 kroma.events
 kroma.trading
 krroma.network
-kryptexx.com
 kstmple.pages.dev
 ktogaza.pro
 kuduips.com
@@ -3790,7 +3774,6 @@ mantanetwork.events
 mantanetworkairdrop.org
 mantanetworkbonus.com
 mantanetworkl.com
-mantanftcollect.com
 mantantwrk.xyz
 mantao-network.life
 mantao-network.xyz
@@ -3910,6 +3893,7 @@ medidatacareers.com
 mee6-connect.xyz
 mee6appeals.xyz
 meetamaskev.azurewebsites.net
+meetradialsparkhq.com
 mefamask.com
 megaapps.pages.dev
 meiimask-log-iignin.godaddysites.com
@@ -4513,7 +4497,6 @@ neomprojects-ksa.net
 neomsuppliers.net
 neotokyohq.pro
 net-drop.netlify.app
-netnftframe.com
 netnodeconnect.com
 network-altlayer.com
 network-dymension.com
@@ -4611,7 +4594,6 @@ nftdrop.world
 nftdropgems.online
 nftkey.web3app.space
 nftlink.vercel.app
-nftmantanetwork.com
 nftmint.paaltoken.com
 nftopenseaclaim.vercel.app
 nftopenseas.vercel.app
@@ -5528,7 +5510,6 @@ qg7.us
 qna3.io
 qna3.sbs
 qna3token.net
-qnt.defihubs.top
 qnt.infinitedrops.top
 qorpos.world
 qpcuxbi.pro
@@ -5735,7 +5716,6 @@ resolutionpanel.pages.dev
 resolve-captcha.com
 resolveprotocols.pages.dev
 resolverhq.web.app
-resolverpanel.pages.dev
 restake-fi.xyz
 restake-keelpdao.xyz
 restoremetaweb.pages.dev
@@ -5938,6 +5918,7 @@ saksoff06.com
 saksoff07.com
 saksoff5th-common.com
 saksoff5th-us1.com
+saksoff5th.club
 saksoff5th.love
 saksoff5th.store
 saksoff5th1.com
@@ -6185,7 +6166,6 @@ smartcontapp-audit.com
 smartdappconnect.com
 smartdappfix.pages.dev
 smartdappnodes.pages.dev
-smartdappsconnect.pages.dev
 smartiayer.io
 smartiayer.org
 smartlayer-drop.com
@@ -6247,7 +6227,6 @@ solanawen.com
 solaptops.vercel.app
 solarmy.eu
 solback.wefinex.org
-soldrop.pages.dev
 solgift6.com
 solicitudesberkley.es
 sollfare.com
@@ -6350,7 +6329,6 @@ stargate-finance.io
 stark-event.com
 starkclaim.pro
 starkclaim.services
-starkenet.space
 starkexka.com
 starknet-airdrop.events
 starknet-airdrops.io
@@ -6578,7 +6556,6 @@ tensorsamurai.space
 terminal-befilabs.com
 terra-airdrop.onrender.com
 terra-claim.xyz
-terra-v2.re
 terra.durban
 terra.ong
 terradrop.net
@@ -6830,7 +6807,6 @@ ujp.ag
 uk-applovinlife.com
 ulonlinedetma.org
 ultra-prismafinance.com
-ultrasmartcoinsolution.xyz
 umassuigovst.com
 umusic-pub.com
 umusiceu.com
@@ -6993,7 +6969,6 @@ verify.api55-collab.com
 verify.connectkava.xyz
 verify.kava-api.live
 verify.kavaxyz.xyz
-verify.xdefi.fi
 verifyconnection.info
 verifymywallets.com
 verifypayoneer.com
@@ -7101,7 +7076,6 @@ wallet-balancer.website
 wallet-collabland.com
 wallet-connect-6pp.pages.dev
 wallet-support.vercel.app
-wallet-virtual.net
 wallet-vulcan.xyz
 wallet.browserextension.net
 wallet.ethenafi.cloud
@@ -7152,7 +7126,6 @@ wclaiming.net
 wcryptoeslogins.azurewebsites.net
 wdymcrypto-migration.app
 wdymdapp.pages.dev
-wealth365g.vip
 web-4w4zabtw9.pancake.run
 web-airtm.com
 web-connectka.tk
@@ -7429,7 +7402,6 @@ www.airdrop-subquery.foundation
 www.airdropdymension.xyz
 www.airdropzeroland.xyz
 www.airlinesofficeguide.com
-www.airmantacollect.com
 www.airtm.services
 www.allchainsfixer.site
 www.alshaya.great-site.net
@@ -7485,7 +7457,6 @@ www.botlun.com
 www.bridgermk.app
 www.bridgermkr.app
 www.brothernz.com
-www.bscpad-launchpad.live
 www.buhgeexhange.com
 www.burakglobalfirm.com
 www.butterfieldoffshore.com
@@ -7495,7 +7466,6 @@ www.cakes-reward.xyz
 www.catholicf-la.org
 www.cbrevokedapp.org
 www.celerswap.top
-www.chain-cross.link
 www.cizw4jh.tribunaledinola.net
 www.claim-mai.xyz
 www.claim-seda.site
@@ -7525,7 +7495,6 @@ www.decora-cabinets.com
 www.degen.hakunamatatasol.com
 www.deramavia.com
 www.dex-bitconnect.lol
-www.dropmanta.com
 www.du.normbyte.online
 www.du.uibits.online
 www.earn-drop.club
@@ -7550,7 +7519,6 @@ www.fegtokenmigrate.com
 www.fixedfloaflt.com
 www.fixedtflaot.com
 www.forjud.com
-www.fourseasonca.com
 www.frameclaim.com
 www.frameclaim.net
 www.frixedfloat.com
@@ -7575,7 +7543,6 @@ www.hellofurther.pro
 www.helpdoc-avalache.online
 www.holdblur.foundation
 www.hustlegenix.crd.mvu.mybluehost.me
-www.iayerzero-claim.net
 www.imtoken-im.team
 www.interactivebroker.live
 www.interactivebrokerstrading.com
@@ -7606,7 +7573,6 @@ www.lite.a.covv.site
 www.live-tiktok.shop
 www.login.verificationpaxful.info
 www.lottomaticagamingportal-gamenet.it
-www.loyaltyprogramframe.com
 www.luckywin.x10.bz
 www.lusandasentane.com
 www.m.qna3-app.com
@@ -7804,7 +7770,6 @@ www.web3-metamask-gateway.com
 www.web3.usertroubleshootdashboard.com
 www.web3mwe.com
 www.webcamrecordings.com
-www.whm.elasticsearch-uat.arb-chain.com
 www.wikser.com
 www.windy.network
 www.wregul.com
@@ -7900,7 +7865,6 @@ xushuishiwu.cn
 xversewebwallets.com
 xwallconect.pages.dev
 xwg.icu
-xyo.bfin500.top
 y-predict.web.app
 y2srob.info
 y5tmtb.info
@@ -7911,7 +7875,6 @@ ycs-agoda.cc
 ycs-extranet.com
 ycs.com-find-extra.com
 ycsextranetagoda.com
-yearn.deflab.top
 yekx619z.dreamwp.com
 yelds-protocol.xyz
 yellow-card.co.uk
@@ -7971,15 +7934,12 @@ zircuits.xyz
 zk-beam.org
 zk-bemd.app
 zk-bemd.org
-zk-dashboard.net
 zk-era.co
 zk-look.org
 zk-manta-airdrop.pages.dev
 zk-polyhedra.com
 zk-skaling.org
 zk.scrllpunkface.icu
-zkdash.net
-zkecosystem.org
 zkeztrade.com
 zkfair.events
 zkfair.pm
@@ -8024,7 +7984,6 @@ zksynq.github.io
 zmkl.systems
 zombiekilla.xyz
 zonaconsorcioempresa.online
-zoomsync.pages.dev
 zoraco.co
 zr2b788n.site
 zro-claim.xyz
