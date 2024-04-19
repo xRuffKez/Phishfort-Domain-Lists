@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 19:32:15 UTC 2024
-# Number of Entries: 8032
+# Fetch date: Fri Apr 19 19:41:59 UTC 2024
+# Number of Entries: 8033
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3429,6 +3429,7 @@ lendingtree1.mydurable.com
 lendingtreeincusa.com
 lendingtreellc.org
 lendingtreeusa.us
+lendingworld.online
 lengthepengkiller.xyz
 lessfeeandgas.org
 lfg-jup-claims.pages.dev
