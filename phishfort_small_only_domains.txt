@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 01:57:01 UTC 2024
+# Fetch date: Fri Apr 19 02:14:07 UTC 2024
 # Number of Entries: 8016
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -147,6 +147,7 @@ aatranferinc.com
 aave-aave.lt
 aave-finance.net
 aave-gifts.com
+aave-pi.vercel.app
 aave.asia
 aave.freedrops.top
 aave.godepth.com
@@ -2433,7 +2434,6 @@ events-pancakeswap.finance
 events-pandora.com
 events-pendle.fi
 events-polkadot.network
-events-taiko.xyz
 eventspancakeswap.finance
 eventxtoken.network
 evercoreassets.com
