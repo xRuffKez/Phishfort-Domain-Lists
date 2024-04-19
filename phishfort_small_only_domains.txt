@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 18:03:04 UTC 2024
-# Number of Entries: 8037
+# Fetch date: Fri Apr 19 18:25:34 UTC 2024
+# Number of Entries: 8038
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -103,7 +103,6 @@
 5thavenue-fashion.be
 5yq1h.pro
 6-chess.online
-63352955.b1b41177a5690aba217097d9.workers.dev
 63f3ed5a-a189-4792-b3ea-26687f69c894-00-p4dnzcb1f2va.riker.replit.dev
 64d6b52e708b802426d1c6c1--gorgeous-bublanina-8cc674.netlify.app
 6582a324d461b10392e58564--resonant-crumble-667584.netlify.app
@@ -5008,6 +5007,7 @@ pancakeswap.systeme.io
 pancakeswapairdrop-event.finance
 pancakeswapairdrop.com
 pancakeswapairdropevent.finance
+pancakeswapclick04.vercel.app
 pancakeswapcrypto.com
 pancakeswapdrop78.vercel.app
 pancakeswapertoday.xyz
@@ -6061,6 +6061,7 @@ seiyans-nft.com
 selfsync-dapp.com
 sellrockov.live
 selviyardim.online
+seminuevosfordmx.com
 senapsy-protocoll.org
 sentinel-ai.vip
 sentryxai.claimtokens.live
