@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 18:33:08 UTC 2024
-# Number of Entries: 108583
+# Fetch date: Fri Apr 19 19:15:06 UTC 2024
+# Number of Entries: 108585
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -62550,6 +62550,7 @@ opensea-ol.com
 opensea-one.com
 opensea-one.org
 opensea-opense.github.io
+opensea-opensea-60ff.mainnet.rpcpool.com
 opensea-page.org
 opensea-pages.online
 opensea-presale.live
@@ -104254,6 +104255,7 @@ www.verificationformetamaskkk.duckdns.org
 www.verificationmetamask.com
 www.verificationnoticemetamsk.duckdns.org
 www.verificationserver.cloud
+www.verifoneentire.com
 www.verify-collab-land.com
 www.verify-collabland.com
 www.verify-collabland.xyz
