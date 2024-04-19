@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 00:10:52 UTC 2024
-# Number of Entries: 108514
+# Fetch date: Fri Apr 19 00:32:43 UTC 2024
+# Number of Entries: 108519
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17545,6 +17545,7 @@ claim.wallstretmemes.app
 claim.wbtccoin.org
 claim.wen.ag
 claim.wormhole.fitness
+claim.wormhole.si
 claim.www-catcoin.com
 claim.xn--optimsm-ffb.net
 claim.xn--optmism-tfb.net
@@ -41472,6 +41473,8 @@ jokewoods.maryboye.tv
 jol0x59c5df466012a218727dbc6ba0bb75a239109c43.xyz
 joln-onchainmonkey.com
 joltify-get.vercel.app
+joltify-scope.vercel.app
+joltify-testnet3.vercel.app
 jomosoftware.tech
 jonestrading.org
 jordancoin.online
@@ -44498,6 +44501,7 @@ linea-official.tech
 linea-park.com
 linea-pass.com
 linea-protocol.online
+linea-xo.com
 linea.axelar.pro
 linea.baby
 linea.bridge-web3.com
@@ -77446,6 +77450,7 @@ saianart.com
 saidreward.com
 saintritacatholicchurch.com
 saishumiraishoujo.nft-premint.com
+saita.vercel.app
 saitachain-migration.pages.dev
 saitama.gift
 saitama.v2-migrate.live
