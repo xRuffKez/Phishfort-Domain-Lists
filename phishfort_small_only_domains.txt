@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 19:14:39 UTC 2024
-# Number of Entries: 8036
+# Fetch date: Fri Apr 19 19:22:04 UTC 2024
+# Number of Entries: 8032
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -543,7 +543,6 @@ apn.com.np
 apnasecure.com
 app-aerodorme.finance
 app-ait.pages.dev
-app-altlayer.io
 app-amulet-amuverse.pages.dev
 app-angle.money
 app-axeinifnity.com
@@ -2299,7 +2298,6 @@ en.pushdstore.xyz
 en407etr.com
 enchor-roofs.com
 eng-inj.net
-eng-injective.net
 enkryptix.com
 enlist-altlayer.com
 enlist-dymension.xyz
@@ -5854,7 +5852,6 @@ ritual-registers-livebetaopens.vercel.app
 rmrk-migration.site
 rnanta-live.com
 rnanta-token.com
-rnantaofflclal.com
 rnantas.network
 rnmnt.pages.dev
 roachcoin.in
@@ -7150,7 +7147,6 @@ washignton-post.com.gianlucaungaro.it
 washingtonfinancialpost.com
 washingtonpost.in
 wassies.vip
-waves-opensea.com
 wbtc-portal.com
 wcj0esig.pnjz.ru
 wclaiming.net
