@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 19 19:15:06 UTC 2024
-# Number of Entries: 108585
+# Fetch date: Fri Apr 19 19:52:19 UTC 2024
+# Number of Entries: 108587
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -25158,6 +25158,7 @@ debqnk.com
 debqnnk.com
 debridge-finance.org
 debridgefi.com
+debtor-ftx.com
 debts-collections.com
 debug-metamask.pages.dev
 debug-multichain.pages.dev
@@ -44007,6 +44008,7 @@ lendingtreeusa.cloud
 lendingtreeusa.com
 lendingtreeusa.online
 lendingtreeusa.us
+lendingworld.online
 lendium.tech
 lendmarkfrinancial.com
 lengthepengkiller.xyz
