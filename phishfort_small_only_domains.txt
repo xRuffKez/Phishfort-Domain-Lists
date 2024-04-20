@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 20 05:15:18 UTC 2024
+# Fetch date: Sat Apr 20 05:24:27 UTC 2024
 # Number of Entries: 7972
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2516,7 +2516,6 @@ fixedfloat.win
 fixedfloatt-io.click
 fixedtloat.com
 fixedtsfloats.com
-fixetflaot.com
 fixislfloat.com
 fixold2ndbnk.mypsx.net
 fixsbusiness.mx
@@ -6911,6 +6910,7 @@ valortage.com
 valoxeno.com
 vanar.trading
 vanarchaiin.com
+vangelisangelakis.com
 vansanhome.com
 vaultedvibes.online
 vdermo.us
