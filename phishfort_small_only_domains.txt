@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 20 02:10:51 UTC 2024
-# Number of Entries: 7975
+# Fetch date: Sat Apr 20 02:26:39 UTC 2024
+# Number of Entries: 7974
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -17,7 +17,6 @@
 0xprotocol.site
 1-88y.pages.dev
 1-eu9.pages.dev
-1-inch.asia
 1-lnch.com
 1.globalpaymentsyttww.com
 1.globalpaymentsytww.com
@@ -5102,6 +5101,7 @@ paxful-web.com
 paxful.club
 paxful.instenpay.com
 paxful78291047.com.ng
+paxful987.com
 paxfula.com
 paxfulb.com
 paxfulbb.com
@@ -6244,6 +6244,7 @@ sparkfi.app
 sparkfi.net
 sparkfi.org
 sparkfi.tech
+sparkfi.vip
 sparkfinance.fi
 sparklend.fi
 speedylendingtree.com
@@ -6256,7 +6257,6 @@ spongeev2.online
 spongev2.cfd
 spongevipv2.shop
 spongtoken.live
-spookyswap.hpage.com
 spornft.space
 sprak.fi
 springbokinfo.co.za
@@ -6957,7 +6957,6 @@ verify.kava-api.live
 verify.kavaxyz.xyz
 verifyconnection.info
 verifymywallets.com
-verifypayoneer.com
 verifyvulcan.com
 vermillion-chebakia-72b023.netlify.app
 versity-token.finance
