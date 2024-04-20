@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 20 15:22:38 UTC 2024
+# Fetch date: Sat Apr 20 15:42:19 UTC 2024
 # Number of Entries: 7938
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1731,7 +1731,6 @@ connectprotocol.42web.io
 connects-collabland.com
 connects-nibiru.com
 connectweb3-trustwallet.com
-connectxr-fixer.rf.gd
 connext.fi
 conocophillispcorp.com
 consensys-kycverifcation.com
@@ -2350,7 +2349,6 @@ ethereumfees.xyz
 ethereumgas.org
 ethereumgasfee.com
 ethereummixer.cc
-ethereumorg.com
 ethereumx.cc
 ethereumxfee.com
 etherfi-airdrop.com
@@ -4915,6 +4913,7 @@ pancakefx.vercel.app
 pancakelp.org
 pancakelps.com
 pancakelps.org
+pancakeopenclaim15.vercel.app
 pancakeprotectors.pages.dev
 pancakesawpifnance.com
 pancakesdropcclaims36.vercel.app
@@ -4953,6 +4952,7 @@ pancakeswap.dikecoin.com
 pancakeswap.godaddysites.com
 pancakeswap.sipf.cc
 pancakeswap.systeme.io
+pancakeswap92.vercel.app
 pancakeswapairdrop-event.finance
 pancakeswapairdrop.com
 pancakeswapairdropevent.finance
@@ -4977,6 +4977,7 @@ pancakeswapv4.com
 pancakeswop.pages.dev
 pancakeswop.web.app
 pancakeswp.github.io
+pancakeswpdrop13.vercel.app
 pancakeswwap.com
 pancaksewaq-finance.com
 pancakswaip.com
@@ -7827,7 +7828,6 @@ ycsextranetagoda.com
 yekx619z.dreamwp.com
 yelds-protocol.xyz
 yellow-card.co.uk
-yexinerangel.com
 yieldmagnet.app
 ykwzj.pro
 ylniamh.com
