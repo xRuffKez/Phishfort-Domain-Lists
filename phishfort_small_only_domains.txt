@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 20 23:14:48 UTC 2024
-# Number of Entries: 7938
+# Fetch date: Sat Apr 20 23:22:15 UTC 2024
+# Number of Entries: 7937
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1726,7 +1726,6 @@ connectdappresolve.pages.dev
 connectdappsuniverse.click
 connectextension.info
 connectionlog.pages.dev
-connectnetwork.lojavirtualnuvem.com.br
 connectprotocol.42web.io
 connects-collabland.com
 connects-nibiru.com
@@ -3744,7 +3743,6 @@ mantanetwork.dev
 mantanetwork.events
 mantanetworkairdrop.org
 mantanetworkbonus.com
-mantanetworkl.com
 mantantwrk.xyz
 mantao-network.life
 mantao-network.xyz
@@ -4895,6 +4893,7 @@ pancake.svap.us.com
 pancake.swap.primaprofits.com
 pancake.vinaweb.app
 pancake888.com
+pancakeclaimdrop14.vercel.app
 pancakeclickclaim02.vercel.app
 pancakecrypto.com
 pancakedrop.com
