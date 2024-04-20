@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 20 20:22:56 UTC 2024
-# Number of Entries: 7939
+# Fetch date: Sat Apr 20 20:42:17 UTC 2024
+# Number of Entries: 7936
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3965,7 +3965,6 @@ metamask-fix.pages.dev
 metamask-fixweb.pages.dev
 metamask-flask.com
 metamask-login.nicepage.io
-metamask-mining.com
 metamask-platform.codeanyapp.com
 metamask-restorehome.cryptobase.ng
 metamask-restoreteam.com
@@ -4844,7 +4843,6 @@ pac-sol.com
 pacific-bridge-manta-network.cyou
 pacific-bridge-manta.cyou
 pacific-bridge.manta.nework.live
-pacific-bridge.manta.software
 pacificmanta.vercel.app
 pacificparadigm.org
 pacifics-manta-network.pages.dev
@@ -4959,6 +4957,7 @@ pancakeswapairdropevent.finance
 pancakeswapclick04.vercel.app
 pancakeswapcrypto.com
 pancakeswapdrop78.vercel.app
+pancakeswaper.app
 pancakeswapertoday.xyz
 pancakeswapfiinance.xyz
 pancakeswapfinance-catamoto.pages.dev
@@ -5798,7 +5797,6 @@ ripplelimited-event.info
 ritual-registers-livebetaopens.vercel.app
 rmrk-migration.site
 rnanta-token.com
-rnantas.network
 rnmnt.pages.dev
 roachcoin.in
 robopunksnft.cristovao.codes
@@ -7551,7 +7549,6 @@ www.meta.pika.asia
 www.meta.wesbcex.com
 www.meta009911.com
 www.metamask-app.com
-www.metamask-mining.com
 www.metamask.best
 www.metamask.page
 www.metamask08.com
