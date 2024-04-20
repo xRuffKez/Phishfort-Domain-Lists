@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 20 02:52:02 UTC 2024
-# Number of Entries: 7974
+# Fetch date: Sat Apr 20 03:03:13 UTC 2024
+# Number of Entries: 7975
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -6778,6 +6778,7 @@ twt.altpads500.top
 twt.multipuds.top
 twt.x-trastpad.top
 txaq.cc
+uat-merck.apexportal.net
 ubnr.cc
 uehgdsa.com
 ueplestaret.com
