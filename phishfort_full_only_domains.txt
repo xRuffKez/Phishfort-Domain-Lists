@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 20 02:11:14 UTC 2024
-# Number of Entries: 108613
+# Fetch date: Sat Apr 20 02:42:31 UTC 2024
+# Number of Entries: 108615
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -69034,6 +69034,7 @@ paxful78291047.com.ng
 paxful8.com
 paxful88.live
 paxful95.com
+paxful987.com
 paxfula.com
 paxfulaccess.blogspot.com
 paxfulaccount.com
@@ -81470,6 +81471,7 @@ sparkfi.app
 sparkfi.net
 sparkfi.org
 sparkfi.tech
+sparkfi.vip
 sparkfinance.fi
 sparklend.fi
 sparkling-blue-whale.com
