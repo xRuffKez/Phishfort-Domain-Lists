@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 20 12:31:24 UTC 2024
-# Number of Entries: 7973
+# Fetch date: Sat Apr 20 12:45:30 UTC 2024
+# Number of Entries: 7938
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -69,7 +69,6 @@
 2faprotector.com
 2ham.pro
 2r1.nhvw4is.ru
-2raydium.sbs
 3000usdt.xyz
 32f79d9c.7cdb6f3702a09bbbd3afc136.workers.dev
 365cash.store
@@ -282,7 +281,6 @@ airdrop-gomble.app
 airdrop-gomble.digital
 airdrop-gomble.io
 airdrop-info.lol
-airdrop-injective.top
 airdrop-ionet.vercel.app
 airdrop-jup.one
 airdrop-jup.vip
@@ -610,6 +608,7 @@ app.altlayer-web3.com
 app.ankr.live
 app.aribius.com
 app.auth-v2.org
+app.aìrtm.com
 app.blastclaim.com
 app.claims-richquack.com
 app.defi-origin.com
@@ -886,7 +885,6 @@ bag-holding.web.app
 bakerswap.trading
 balahcer.fi
 balancer-exchange.io
-balancer-je8.pages.dev
 balova-amsterdam.nl
 balst.io
 banana-roninchain.app
@@ -1152,7 +1150,6 @@ bonkcoin.netlify.app
 bonus-defi.network
 bonus-hex.com
 bonus-injective.com
-bonus-manta.network
 bonus-pyth.xyz
 bonuses-defi.network
 bonuses-manta.network
@@ -1166,7 +1163,6 @@ borovik.foundation
 borroefinnance.web.app
 boson-faucet.pages.dev
 bostonglobemediapr.com
-bot.kavaworlds.xyz
 bots-collabland.pages.dev
 bottlepay.freedim.com.ua
 bouguesteleom.fr
@@ -1657,7 +1653,6 @@ collab-conects.com
 collab-connect.pages.dev
 collab-land.lol
 collab-land.x10.bz
-collab-landbot-secure.com
 collab-verification.land
 collab-verify.io
 collab.bot-community.com
@@ -1724,7 +1719,6 @@ connect.kavanet.xyz
 connect.kavaxyz.one
 connect.land.net.pl
 connect.nghire.com
-connect.watchkava.xyz
 connect.web3authenticatehub.com
 connect1038.lol
 connectapeterminal.io
@@ -1879,12 +1873,10 @@ dapps-0auth.net
 dapps-fixed.pages.dev
 dapps-pancakeswap.pages.dev
 dapps-radar.pages.dev
-dapps-sync.vercel.app
 dapps-web3-connect.in
 dapps.toolsynchr.online
 dappsapi.pages.dev
 dappsconnectapp.pages.dev
-dappscorrections.pages.dev
 dappsdropclaim.com
 dappsfixed.pages.dev
 dappsfixerweb.42web.io
@@ -2004,7 +1996,6 @@ defimining101.com
 defiphantom.io
 defiportfolio.online
 defiproject.info
-defiprovider.net
 defisaver.at
 defisentry.net
 defisentry.pages.dev
@@ -3151,7 +3142,6 @@ join.popeysm.cc
 joingrapes.gift
 joinneotokyo.com
 jointoexposed.com
-joinweb-3.com
 joltify-get.vercel.app
 joltify-scope.vercel.app
 joltify-testnet3.vercel.app
@@ -3257,7 +3247,6 @@ katy-capital.com
 katycapitaljp.com
 kava-guard.vip
 kavaa-web.netlify.app
-kavadefend.me
 kb8e.cc
 kcs-airdrop.com
 kduo.cc
@@ -3480,7 +3469,6 @@ link.gatekava.xyz
 link.kava-api.live
 link.kavaguard.digital
 link.kavaguard.support
-link.kavaprotect.com
 link.kavashield.help
 link.kavashield.icu
 link.kavaverse.one
@@ -3508,7 +3496,6 @@ listings-open-sea.wf
 live-algo.site
 live-altlayer.com
 live-altlayer.io
-live-mantas.com
 live-satoshivm.io
 live-zetachain.com
 liveblocksrectify.pages.dev
@@ -3674,7 +3661,6 @@ mamtanetworkbonus.net
 manage.adoga-4262.com
 manda-network.com
 mandatory-multi-factor-authenticator.us-ord-1.linodeobjects.com
-manpta.network
 manranetwcrk.com
 mant-app.com
 manta-6om.pages.dev
@@ -3682,7 +3668,6 @@ manta-aidrop.network
 manta-air.xyz
 manta-airdrop.7eel.com
 manta-airdrop.mobi
-manta-app.com
 manta-appsurvey.com
 manta-claims.xyz
 manta-click.vercel.app
@@ -3718,7 +3703,6 @@ manta-survey.com
 manta-wallets.xyz
 manta-xi.vercel.app
 manta.claimw.xyz
-manta.gives
 manta.layerbank.cc
 manta.layerbank.network
 manta.nettwork.site
@@ -3755,7 +3739,6 @@ mantaintotheblue.net
 mantak.network
 mantal2.com
 mantalayerbank.pages.dev
-mantananetwork.com
 mantanet.icu
 mantanet.top
 mantanetwork-coin.com
@@ -3769,7 +3752,6 @@ mantao-network.life
 mantao-network.xyz
 mantapacifc.com
 mantapcfc.network
-mantaronetwork.com
 mantas-event.com
 mantas-net.app
 mantasnetwork.net
@@ -4759,7 +4741,6 @@ opensea-air.vercel.app
 opensea-claim.de
 opensea-doc.rf.gd
 opensea-drainer.vercel.app
-opensea-io.pages.dev
 opensea-proclaim.vercel.app
 opensea-pronfts.vercel.app
 opensea.app
@@ -4980,7 +4961,6 @@ pancakeswapcrypto.com
 pancakeswapdrop78.vercel.app
 pancakeswapertoday.xyz
 pancakeswapfiinance.xyz
-pancakeswapfinance-catamoto.pages.dev
 pancakeswapfinance-gg3.pages.dev
 pancakeswapfinances.pages.dev
 pancakeswaph.github.io
@@ -5239,7 +5219,6 @@ pfantmwallet.godaddysites.com
 pgenztokenclaim.pages.dev
 phammt.xyz
 phanntm-walluut.godaddysites.com
-phant0m-wallet.github.io
 phantimp.xyz
 phantjum.xyz
 phantom-protocol.com
@@ -5295,7 +5274,6 @@ plxels.xyz
 pmaxw.com
 pmjvggq.icu
 pncakeswap.com
-pntom-wallet.github.io
 pocakedefi.cfd
 pocakedefi.top
 pocakedefi.xyz
@@ -5317,7 +5295,6 @@ polyhedra-network.vercel.app
 polyhedrafoundation.net
 polyhedranetwork.site
 polyhedrazk.foundation
-poncakeswap.finance
 pond0x.trading
 pond0xtreasury.com
 ponke-claim.netlify.app
@@ -5529,7 +5506,6 @@ quests-superverse.com
 quests-treasure.trading
 quests-zora.network
 quests-zora.trading
-quickdirectoryfilchart.pages.dev
 quickswap-io.events
 quicksyncdapps.pages.dev
 quicksynced.pages.dev
@@ -5819,7 +5795,6 @@ ripplelimited-ceo.com
 ripplelimited-event.info
 ritual-registers-livebetaopens.vercel.app
 rmrk-migration.site
-rnanta-live.com
 rnanta-token.com
 rnantas.network
 rnmnt.pages.dev
@@ -5832,7 +5807,6 @@ rocketpool.liquidityus.net
 rocketpool.org
 rocketpool.pro
 rocketpool.xlaunchpad.live
-rocketpooul.org
 roinen-wallit.godaddysites.com
 rolldym.app
 rolluper.pro
@@ -5958,7 +5932,6 @@ satoshivm-finance.com
 satoshivm-promo.com
 satoshivm.cc
 satoshivm.communltiy.com
-satoshivm.trade
 satoshivn.io
 sautikenya.com
 savm-app.net
@@ -6087,7 +6060,6 @@ signup-ancient8.games
 signup-apeterminal.com
 signup-ator.com
 signup-bera.net
-signup-collabland.com
 signup-defi.network
 signup-defi.trading
 signup-magiceden.io
@@ -6145,8 +6117,6 @@ smart-dapp.onrender.com
 smart-integrate.xyz
 smart-layer-claim.net
 smart-walletconnect.pages.dev
-smart.guardiankava.com
-smart.sentrykava.com
 smartauthrectify.pages.dev
 smartautodebuglive.firebaseapp.com
 smartautodebuglive.web.app
@@ -6461,13 +6431,11 @@ swift-wallet.pages.dev
 swiftappsauth.pages.dev
 swiftdapppad.pages.dev
 swiftdapprotocol.pages.dev
-swiftdappweb.pages.dev
 swiftdefiauth.pages.dev
 swiftmultichainresolve.pages.dev
 swiftresolvedapps.pages.dev
 swiftsynced.pages.dev
 swiftsyncrectify.pages.dev
-swiftwallet.pages.dev
 swiissworld.net
 swistonjewellers.com
 swizaequity.com
@@ -7079,7 +7047,6 @@ walletresolution.com
 wallets-collabland.com
 walletton.org
 wallettrust.net
-walletupgrade.com
 walletverify-collab.land
 walletwars-io.events
 walletweb3082.top
@@ -7156,7 +7123,6 @@ web3.app-in-box.com
 web3.da2a.net
 web3.dappvaulthub.com
 web3.iamversed.xyz
-web3.kavaprotect.com
 web3.mavia.team
 web35-foundation.one
 web38888.com
@@ -7566,7 +7532,6 @@ www.magpiexyz.click
 www.mainnet-portal.com
 www.makerdaodai.site
 www.mamtanetworkbonus.com
-www.manta-pacific.app
 www.mantanntework.xyz
 www.maverickdao.org
 www.mavia.com.maviav.com
