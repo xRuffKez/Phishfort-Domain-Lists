@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 20 04:42:07 UTC 2024
-# Number of Entries: 108616
+# Fetch date: Sat Apr 20 05:32:23 UTC 2024
+# Number of Entries: 108617
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -91041,6 +91041,7 @@ vandalcity.shop
 vandalcitycorps.com
 vandalscity.xyz
 vanderkobold.live
+vangelisangelakis.com
 vanh.sa.com
 vanilagiftcardbalance.com
 vanilla-gift.danielbrown46.repl.co
