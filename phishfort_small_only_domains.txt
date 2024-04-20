@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 20 04:33:33 UTC 2024
-# Number of Entries: 7975
+# Fetch date: Sat Apr 20 04:41:57 UTC 2024
+# Number of Entries: 7972
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3703,7 +3703,6 @@ manta-network.cloud
 manta-network.de
 manta-network.icu
 manta-network.mobi
-manta-network.zone
 manta-networks.mom
 manta-newparadigm.com
 manta-newpardigm.com
@@ -3751,7 +3750,6 @@ mantacoins.com
 mantacoinwallet.com
 mantadex.net
 mantadistribution.net
-mantadrops.com
 mantaintotheblue.com
 mantaintotheblue.net
 mantak.network
@@ -7929,7 +7927,6 @@ zkeztrade.com
 zkfair.events
 zkfair.pm
 zkfair.supply
-zkfair.team
 zkfairdrop.netlify.app
 zkfari.io
 zkfarri.io
