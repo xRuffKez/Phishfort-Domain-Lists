@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 20 12:31:38 UTC 2024
-# Number of Entries: 108618
+# Fetch date: Sat Apr 20 13:03:52 UTC 2024
+# Number of Entries: 108616
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6225,6 +6225,7 @@ app.authsyncontracts.com
 app.autorestore.xyz
 app.axieinfinitsy.com
 app.axieinfinity.my-bmi.shop
+app.aìrtm.com
 app.bakerynswap.com
 app.bakerysswap.com
 app.balancer.digital
@@ -64871,7 +64872,6 @@ pancakeswanb.com
 pancakeswao.finance
 pancakeswao.info
 pancakeswaops.com
-pancakeswap-1db.pages.dev
 pancakeswap-21z.pages.dev
 pancakeswap-5el.pages.dev
 pancakeswap-8l0.pages.dev
@@ -66775,7 +66775,6 @@ pancakeswapfinaceconnect.ml
 pancakeswapfinacnen.app
 pancakeswapfinalis.com
 pancakeswapfinanace.net
-pancakeswapfinance-catamoto.pages.dev
 pancakeswapfinance-gg3.pages.dev
 pancakeswapfinance.bond
 pancakeswapfinance.co
@@ -66981,7 +66980,6 @@ pancakeswappriv.com
 pancakeswapprofit.tech
 pancakeswapproud.com
 pancakeswapps-finance.com
-pancakeswapps.com
 pancakeswapps.net
 pancakeswapps.site
 pancakeswappsfinance.org
