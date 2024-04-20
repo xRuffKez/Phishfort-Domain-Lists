@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 20 02:52:24 UTC 2024
-# Number of Entries: 108615
+# Fetch date: Sat Apr 20 03:15:40 UTC 2024
+# Number of Entries: 108616
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -88470,6 +88470,7 @@ uamasslovist.com
 uamassonbst.com
 uasfwallet.com
 uasmaconifist.com
+uat-merck.apexportal.net
 uat.bakebe.com
 uat.metamaskhelpukr.com
 ub.tee3.co
