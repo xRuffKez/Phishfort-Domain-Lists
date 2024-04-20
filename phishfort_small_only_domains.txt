@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 20 01:31:45 UTC 2024
-# Number of Entries: 7992
+# Fetch date: Sat Apr 20 01:56:24 UTC 2024
+# Number of Entries: 7975
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -32,7 +32,6 @@
 1d4f0331-eb63-4d85-9d57-7dacc20bff64-00-3t07qm8fsr0w5.janeway.replit.dev
 1ezagbg.cc
 1icnh.com
-1ido-fi.github.io
 1inch-app.com
 1inch-crypto.top
 1inch-io.app
@@ -75,7 +74,6 @@
 3000usdt.xyz
 32f79d9c.7cdb6f3702a09bbbd3afc136.workers.dev
 365cash.store
-3ebank.github.io
 3f4813b3-5cfb-4a7a-8fcb-7b9ed4dd8395-00-2btsrssvd10b4.janeway.replit.dev
 3pzlywh.info
 3rdandtaylor.com
@@ -128,7 +126,6 @@
 9af68e44.4d9aa11f0cc24373ec9d6295.workers.dev
 9afhjs.cc
 9e6e51d6-1af4-46ae-b583-dc84ea67ef6c-00-16rc48b4ompks.kirk.replit.dev
-9ebank.github.io
 9inchswap.com
 9macu.info
 9x9231xxchoked.online
@@ -1035,6 +1032,7 @@ bitkub.trade
 bitkubb.lockchain.net
 bitkubbloc.kchain.net
 bitkubblockch.ain.net
+bitkubonlineslot.com
 bitkubvip.com
 bitpulseportal.com
 bitrgbnetwork.com
@@ -1129,7 +1127,6 @@ bluefishing.buzz
 blueprints.fi
 blueseanice.com
 blur-drop.claims
-blurioo.github.io
 blurprotocol.us
 bnb-crypto.xyz
 bnbheibaie.quest
@@ -1942,7 +1939,6 @@ dddx.cnxunkewang.vip
 de-fi.events
 dealerhuntersg.com
 dealsync.pages.dev
-debanhk.github.io
 debank-web3.web.app
 debank.svap.org.in
 debank.trustpado.com
@@ -2623,7 +2619,6 @@ galxe.pl
 galxe.re
 galxe.stream
 galxerewards.app
-galxxe.github.io
 game-mavia.pages.dev
 game.schrapnel.co
 game.wormscommunity.com
@@ -3445,7 +3440,6 @@ lidodrops.info
 lidoex.com
 lidof.net
 lidofi.trading
-lidoifi.github.io
 lidostak.info
 lidostake.dev
 lidostakecoin.com
@@ -3681,7 +3675,6 @@ mamtanetworkbonus.net
 manage.adoga-4262.com
 manda-network.com
 mandatory-multi-factor-authenticator.us-ord-1.linodeobjects.com
-mandta.network
 manpta.network
 manranetwcrk.com
 mant-app.com
@@ -3716,7 +3709,6 @@ manta-networks.mom
 manta-newparadigm.com
 manta-newpardigm.com
 manta-paciffic.online
-manta-pacific.github.io
 manta-pacificnetwork.com
 manta-participate.com
 manta-pro.icu
@@ -3729,7 +3721,6 @@ manta-wallets.xyz
 manta-xi.vercel.app
 manta.claimw.xyz
 manta.gives
-manta.hair
 manta.layerbank.cc
 manta.layerbank.network
 manta.nettwork.site
@@ -3787,7 +3778,6 @@ mantas-net.app
 mantasnetwork.net
 mantastake.com
 mantatech.network
-mantawallet.zoholandingpage.com
 mantawebapp.pages.dev
 mantax.pages.dev
 mantcnetwcrk.com
@@ -4064,7 +4054,6 @@ metamaskv.org
 metamaskv2.pages.dev
 metamaskwallet.pages.dev
 metamaskweb.keplrwalletweb.com
-metamaskxtension.github.io
 metamaskz.ink
 metamassk.cc
 metamastesk.azurewebsites.net
@@ -4675,6 +4664,7 @@ nvidiaint.shop
 nviidia.com
 nw6.us
 ny9.us
+nycdepartmentoffinance.powerappsportals.us
 nyurbanonli.com
 nzwinz.com
 o2-cert.com
@@ -5381,7 +5371,6 @@ privateequitydepartment.com
 pro-collab.land
 pro-zetachain.com
 procch.net
-procchfx.com
 prof1111.pages.dev
 profit-dydx.com
 project-0xconnect.pages.dev
@@ -6436,11 +6425,9 @@ suprasync.pages.dev
 supratoken.xyz
 survey-arbitrium.com
 susdc.dev
-sushi-swapsushi.github.io
 sushi.gifts
 sushiiswap.xyz
 sushiswap.mom
-sushlswap.github.io
 sutherland-globalservice.com
 sw-syncswap.com
 swanchain-register-opennow.vercel.app
@@ -6517,7 +6504,6 @@ syneosbio.com
 syneosbiocareer.com
 syneoscareer.com
 synfuturese.top
-syngswap.github.io
 synthetixreward.com
 t3ct2s2.pro
 t5nv5.cc
@@ -6829,7 +6815,6 @@ unipolycoin.network
 unisat-io-five.vercel.app
 unisat-marketplace.pages.dev
 unisate.com
-unisvap-v3.github.io
 uniswap-blockchain-clone-ng.vercel.app
 uniswap-defiapp.org
 uniswap-exchange-site.web.app
@@ -6839,7 +6824,6 @@ uniswap-staking-pools.web.app
 uniswap.fi
 uniswap.op-com0516.xyz
 uniswap.web3-x.org
-uniswapv-3.github.io
 uniswapv3.online
 uniswapv4-liqudity-provide.web.app
 uniswapv4-liquidity.web.app
@@ -7584,7 +7568,6 @@ www.mainnet-portal.com
 www.makerdaodai.site
 www.mamtanetworkbonus.com
 www.manta-pacific.app
-www.manta.christmas
 www.mantanntework.xyz
 www.maverickdao.org
 www.mavia.com.maviav.com
