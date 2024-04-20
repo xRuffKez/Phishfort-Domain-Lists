@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 20 06:34:36 UTC 2024
-# Number of Entries: 108617
+# Fetch date: Sat Apr 20 07:14:39 UTC 2024
+# Number of Entries: 108618
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3081,6 +3081,7 @@ agoda-partner.info
 agoda-partner.info.agoda-partner.club
 agoda-partner.store
 agoda-pools.com
+agoda-promotion.com
 agoda-purple.com
 agoda-vn.com
 agoda-vn.vip
