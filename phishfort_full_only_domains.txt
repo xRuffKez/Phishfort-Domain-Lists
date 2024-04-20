@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sat Apr 20 00:10:47 UTC 2024
-# Number of Entries: 108611
+# Fetch date: Sat Apr 20 02:11:14 UTC 2024
+# Number of Entries: 108613
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -12542,6 +12542,7 @@ bitkubna.cc
 bitkubne.cc
 bitkubnr.cc
 bitkubo.com
+bitkubonlineslot.com
 bitkubov.live
 bitkubp2p.com
 bitkubpro.club
@@ -61345,6 +61346,7 @@ nwstate.vercel.app
 nxconnector.tk
 nxraclaim.com
 ny9.us
+nycdepartmentoffinance.powerappsportals.us
 nycnfts.xyz
 nycweb3.co
 nydiq.com
