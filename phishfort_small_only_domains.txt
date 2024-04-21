@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr 21 01:00:52 UTC 2024
-# Number of Entries: 7937
+# Fetch date: Sun Apr 21 01:59:05 UTC 2024
+# Number of Entries: 7935
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1834,7 +1834,6 @@ dapp-altlayer.io
 dapp-issuefix.pages.dev
 dapp-node.vercel.app
 dapp-pendle.finance
-dapp-resolver.pages.dev
 dapp-solution.pages.dev
 dapp-starter-1s2gz5hbg-dunghd.vercel.app
 dapp-starter-ju06cb1h2-dunghd.vercel.app
@@ -4894,6 +4893,7 @@ pancake.swap.primaprofits.com
 pancake.vinaweb.app
 pancake888.com
 pancakeclaimdrop14.vercel.app
+pancakeclaimz99.vercel.app
 pancakeclickclaim02.vercel.app
 pancakecrypto.com
 pancakedrop.com
@@ -4950,7 +4950,6 @@ pancakeswap.click
 pancakeswap.dikecoin.com
 pancakeswap.godaddysites.com
 pancakeswap.sipf.cc
-pancakeswap.systeme.io
 pancakeswap92.vercel.app
 pancakeswapairdrop-event.finance
 pancakeswapairdrop.com
@@ -5016,7 +5015,6 @@ pangolin-x.com
 pankaceswap.tech
 pankcakeswap.com
 panoshidaapsintegration.netlify.app
-pansakecwap.xyz
 panteamspark.com
 pape-coin.net
 pape-tokens.org
