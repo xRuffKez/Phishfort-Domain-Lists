@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr 21 04:03:29 UTC 2024
-# Number of Entries: 7935
+# Fetch date: Sun Apr 21 04:15:34 UTC 2024
+# Number of Entries: 7934
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3090,7 +3090,6 @@ jazzy-puffpuff-8f1eac.netlify.app
 jblspeakes.com
 jci.org.in
 jcijobs.com
-jedz.co.za
 jeffwealth.com
 jenkins.codefinity.de
 jenpower.net
@@ -3704,7 +3703,6 @@ manta.layerbank.network
 manta.nettwork.site
 manta.newupdate.io
 manta.pages.dev
-manta.software
 manta10.pages.dev
 manta11.pages.dev
 manta2.pages.dev
@@ -4696,6 +4694,7 @@ onchainmonkeys.tech
 oneamerica.icu
 ongc.net
 ongcmumbaihigh.in
+ongcoffice.com
 ongoing-jup.app
 online.subscriibe.shop
 onlinedetma.click
