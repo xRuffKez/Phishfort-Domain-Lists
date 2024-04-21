@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr 21 03:42:31 UTC 2024
-# Number of Entries: 108626
+# Fetch date: Sun Apr 21 04:15:43 UTC 2024
+# Number of Entries: 108627
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -61992,6 +61992,7 @@ ongawaterswitch.com.au
 ongc.net
 ongcindia-gas.com
 ongcmumbaihigh.in
+ongcoffice.com
 ongoing-jup.app
 oniforce.cloud
 oniforce.xyz
