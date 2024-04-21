@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Sun Apr 21 11:02:45 UTC 2024
-# Number of Entries: 7934
+# Fetch date: Sun Apr 21 11:14:05 UTC 2024
+# Number of Entries: 7918
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -52,7 +52,6 @@
 1lnch-claim.com
 1lnch.network
 1oilakj.top
-1raydium.sbs
 1yagodame.com
 2-fa-metmask.io
 2000usdc.net
@@ -701,7 +700,6 @@ apr-vectorreserve.network
 aps.bifi-yleld.xyz
 apt.500-web3.top
 aptos.trusthubs.top
-apts-project.com
 apygate.rpctool.net
 apygatercptools.web.app
 aquilibrium.club
@@ -2173,7 +2171,6 @@ dymension.pages.dev
 dymensiondrop.com
 dymensiondrop.eu
 dynamicvisionmanagement.com
-dynamix-alu.com
 dyvmemsion.xyz
 e-ledgerlive.com
 e-linea.com
@@ -2271,7 +2268,6 @@ en.pushdstore.xyz
 en407etr.com
 enchor-roofs.com
 eng-inj.net
-enkryptix.com
 enlist-altlayer.com
 enlist-dymension.xyz
 enlist-mantanetwork.pages.dev
@@ -3171,7 +3167,6 @@ jumperweb3.pro
 jup-ag.online
 jup-cases.trade
 jup-claim.info
-jup-drop.cc
 jup-drop.co
 jup-e.com
 jup-evm.com
@@ -3183,7 +3178,6 @@ jup12.com
 jup222.com
 jup333.com
 jup444.com
-jupag.xyz
 jupairdrop.com
 jupcase.io
 jupcases.xyz
@@ -3790,7 +3784,6 @@ mask-dao.web.app
 mask.gift
 maskclaim.top
 maskcoin.pages.dev
-masktoken.cash
 masktokens.com
 mass-gov.dta-connect-hhs.com
 massachendristr.com
@@ -4283,7 +4276,6 @@ morganwallenshirt.store
 morosnet.xyz
 morossnet.xyz
 moshcuoss.com
-mot-qatargov.net
 motion-iind.com
 motion-industries.co
 motion-industries.info
@@ -4857,6 +4849,7 @@ palmai-techi.vercel.app
 palmai.link
 pambopandoshi.site
 pan-cake.xyz
+pan-cakes-swap.com
 pan-team3.com
 panacakeswap.tech
 panasonic-in.com
@@ -5369,8 +5362,6 @@ pronkhub.ru
 prophetsbot.app
 protect-guide.com
 protect-solana.xyz
-protect-wallet.io
-protectsolana.shop
 protocol-apex.com
 protocol-carv.nl
 protocol-guard.web.app
@@ -5590,7 +5581,6 @@ receive-orivium.io
 receive-zetachaincom.pages.dev
 receive.pilxeisgame.xyz
 received-ethena.app
-receivemask.io
 receivemetamask.com
 receiveusdc.com
 reckonmexico.com
@@ -6350,7 +6340,6 @@ strknet.network
 strkprimary.pics
 subqueryfoundation-claim.vercel.app
 subsquid.network
-sueta777.pages.dev
 sui-airdrop.one
 sui-network.mom
 sui.trusthubs.top
@@ -6954,7 +6943,6 @@ visit-shellprotocol.io
 visitlinea.com
 vivintflorida.com
 vmfla7a.pro
-vmsatoshi.io
 vna7.pro
 vncrypto.cc
 vocal-kataifi-5e514d.netlify.app
@@ -7334,7 +7322,6 @@ www.1inchwallet.app
 www.1lnchfinance.io
 www.247liveoptiontrades.com
 www.4pb-gala-games.com
-www.4raydium.sbs
 www.911usdt.com
 www.ab-earn.xyz
 www.account.coinbrack.com
@@ -7685,7 +7672,6 @@ www.swap-blast.finance
 www.swap-omax.pro
 www.swisroger.net
 www.swordavax.org
-www.syncodapps.online
 www.theplaybooksol.xyz
 www.tiktok-world.shop
 www.tiktok8.bond
@@ -7887,10 +7873,8 @@ zk-skaling.org
 zk.scrllpunkface.icu
 zkeztrade.com
 zkfair.events
-zkfair.pm
 zkfair.supply
 zkfairdrop.netlify.app
-zkfari.io
 zkfarri.io
 zkfiair.site
 zkflre.io
