@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 15:03:11 UTC 2024
-# Number of Entries: 7881
+# Fetch date: Mon Apr 22 15:15:20 UTC 2024
+# Number of Entries: 7885
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1218,6 +1218,7 @@ burakalpaslan.cc
 burnmintopensea.firebaseapp.com
 burnmua.build
 bursapimapen.com
+burtonwright.net
 butterfield-portal.com
 butterfieldportal.com
 buy.scottyai.org
@@ -2524,6 +2525,7 @@ flrtrustlinedaos.digital
 fluffy-hotteok-b5b58b.netlify.app
 flukeoutil.com
 fluxfinance.app
+fly.saveflights.online
 flyemirates.cloud
 flyemirates.my.id
 flyemirates.space
@@ -7216,6 +7218,7 @@ winsolana.org
 winter-chain.link
 wired-interviews.netlify.app
 withdrawaldesk.com
+wizink.app-cartaopt.site
 wizink.cartoespt-app.online
 wkjyd.top
 wkkuail.vip
@@ -7304,6 +7307,7 @@ www.airdropzeroland.xyz
 www.airlinesofficeguide.com
 www.airtm.services
 www.allchainsfixer.site
+www.allianceprotectionservice.com
 www.alshaya.great-site.net
 www.altliayer.xyz
 www.amspresale.cz
