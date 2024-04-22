@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 14:03:09 UTC 2024
+# Fetch date: Mon Apr 22 14:15:00 UTC 2024
 # Number of Entries: 7879
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -774,6 +774,7 @@ asxcoins.net
 asxcoins.vip
 asxmx.cc
 asxstockexchange.com
+asxxdvv.a1sasset.org
 asxxdvv.asxmm.org
 atariku.site
 atf.mkwk.one
@@ -6830,7 +6831,6 @@ valortage.com
 valoxeno.com
 vanar.trading
 vanarchaiin.com
-vangelisangelakis.com
 vansanhome.com
 vaultedvibes.online
 vdermo.us
