@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 05:15:01 UTC 2024
-# Number of Entries: 7885
+# Fetch date: Mon Apr 22 05:25:09 UTC 2024
+# Number of Entries: 7881
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -193,7 +193,6 @@ ageofgods.eu
 agic.link
 agixreward.xyz
 agoda-88.vip
-agoda-bookhotel.top
 agoda-checkout-id843753.com
 agoda-confirm.com-id591057.com
 agoda-global.pro
@@ -212,7 +211,6 @@ agoda.config-guest178.com
 agoda.confirm139233.com
 agoda.extra-checks.com
 agoda.host
-agoda.ib-web.online
 agoda.info631.com
 agoda.offer18239.com
 agoda.partner-extranet.info
@@ -224,7 +222,6 @@ agoda.ycs-id.info
 agoda.ycs.my.id
 agodaa.life
 agodaa.masukmobilee.de
-agodaacom.online
 agodachina.cn
 agodahotel.cc
 agodahotel.cyou
@@ -5301,7 +5298,6 @@ portofilio-meta-mask-dapps.185-253-219-62.cprapid.com
 post-malone.store
 predev-migrazerionzx.pages.dev
 preferbehavioral.com
-prelanding.pages.dev
 premium.athene.network
 premiumtvstreamers.com
 presale-cogwise.com
