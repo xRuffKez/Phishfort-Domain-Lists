@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 17:32:17 UTC 2024
-# Number of Entries: 7881
+# Fetch date: Mon Apr 22 17:42:03 UTC 2024
+# Number of Entries: 7884
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4258,6 +4258,7 @@ morosnet.xyz
 morossnet.xyz
 moshcuoss.com
 motion-iind.com
+motion-ind.co
 motion-industries.co
 motion-industries.info
 motion-lndustries.com
@@ -5125,6 +5126,7 @@ pcs-myteam3.com
 pcs.payflowtoken.com
 pcsfarm-v3.com
 pcsstake-v3.com
+pcsstake-v3.net
 pcwdf-hkteam.com
 pcyiccity.com
 pcyiocity.com
@@ -7772,6 +7774,7 @@ ycs-agoda.cc
 ycs-extranet.com
 ycs.com-find-extra.com
 ycsextranetagoda.com
+yekx619z.dreamwp.com
 yelds-protocol.xyz
 yellow-card.co.uk
 yieldmagnet.app
