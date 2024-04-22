@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 15:42:18 UTC 2024
-# Number of Entries: 7885
+# Fetch date: Mon Apr 22 16:03:21 UTC 2024
+# Number of Entries: 7884
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3285,7 +3285,6 @@ l1cloudhaut.com
 l2-blast.buzz
 labs.pixelmon.tech
 lakesldecontrols.com
-landverify.xyz
 largedrop.com
 laughcode.conohawing.com
 launch-berachain.com
