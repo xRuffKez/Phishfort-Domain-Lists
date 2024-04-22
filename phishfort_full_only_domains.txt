@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 13:24:29 UTC 2024
-# Number of Entries: 108632
+# Fetch date: Mon Apr 22 13:42:04 UTC 2024
+# Number of Entries: 108636
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -14374,6 +14374,7 @@ brandsoutlet.qa
 brandyourdomian.com
 bransonbtc.com
 brarve.com
+bratishkaa.com
 brave-ardinghelli.3-133-133-108.plesk.page
 brave-blog.mylviajes.com.ve
 brave-bounty.com
@@ -16615,6 +16616,7 @@ cheinzlist.us
 cheln.link
 chelnlist.org
 chendimassachoist.com
+chendimasslost.com
 chenlisting.com
 chessnutrition.info
 chestuniverse.com
@@ -36367,6 +36369,7 @@ getsomeeth.com
 getswalletverfied.com
 getswapuni.org
 gettingarb.xyz
+gettinuibfnow.com
 getusdt.vip
 getvaliauthsyn.com
 getvenus.xyz
@@ -48703,6 +48706,7 @@ mattanxskwaltlsxx.godaddysites.com
 mattok.live
 mau-cbre.com
 mauionline.org
+maunemploymentcenter.com
 mautoinrsoreltrayounegcgio.dedyn.io
 mautomsk.ru.com
 mav-app.xyz
@@ -98334,6 +98338,7 @@ www.asxhk8.com
 www.asxhkd1.com
 www.asxice.top
 www.asxidn.com
+www.asxopt.com
 www.asxratrd.top
 www.asxtermesm.top
 www.asxtermtrading.com
@@ -107551,7 +107556,6 @@ yearnwallet.com
 yearnyfi.blogspot.com
 yearrise-promogive.com
 yecoin.in
-yekx619z.dreamwp.com
 yelds-protocol.xyz
 yellewcurd.online
 yellow-card-investment.jimdosite.com
