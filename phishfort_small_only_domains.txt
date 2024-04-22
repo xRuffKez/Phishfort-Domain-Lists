@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 13:32:18 UTC 2024
-# Number of Entries: 7876
+# Fetch date: Mon Apr 22 13:42:14 UTC 2024
+# Number of Entries: 7879
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1170,6 +1170,7 @@ boxmint-project.web.app
 bpxtoken.network
 brailex.com
 brands4less.com.py
+bratishkaa.com
 brave-blog.mylviajes.com.ve
 bravebrowserdl.online
 brc20.su
@@ -1378,6 +1379,7 @@ checker-whole.app
 checksart.top
 cheelee.io-5000-usd-air.info
 chendimassachoist.com
+chendimasslost.com
 chevroletshopdrive.ws
 chevropromoo.com
 childporn.umb.market
@@ -2684,6 +2686,7 @@ getrewards.life
 gets.dappsradars.online
 getshib.io
 gettingarb.xyz
+gettinuibfnow.com
 getvenus.xyz
 gfdg.tokenfor.vip
 gfe3ox.csb.app
@@ -2725,7 +2728,6 @@ gmfinancialcareers.com
 gmfinancialjobs.com
 gmn.dvrcam.info
 gmnt.org
-gmpnol.info
 gmvendorbillinginterest.com
 gmws.eu
 gnfymrm14.ukit.me
@@ -3792,6 +3794,7 @@ matricas.xyz
 matricaworld.com
 matriica.vercel.app
 matrika.vercel.app
+maunemploymentcenter.com
 mav.xyz-swap-sweth-rsweth.rxi.app
 maverickdao.net
 mavia-1bv.pages.dev
@@ -7336,6 +7339,7 @@ www.asxhk7.com
 www.asxhk8.com
 www.asxhkd1.com
 www.asxidn.com
+www.asxopt.com
 www.ator.claimfree.xyz
 www.auth-collab.net
 www.axieinfinity-global.com
@@ -7766,7 +7770,6 @@ ycs-agoda.cc
 ycs-extranet.com
 ycs.com-find-extra.com
 ycsextranetagoda.com
-yekx619z.dreamwp.com
 yelds-protocol.xyz
 yellow-card.co.uk
 yieldmagnet.app
