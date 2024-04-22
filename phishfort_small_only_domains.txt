@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 14:15:00 UTC 2024
-# Number of Entries: 7879
+# Fetch date: Mon Apr 22 14:25:08 UTC 2024
+# Number of Entries: 7881
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1767,6 +1767,7 @@ crpytoundeads.com
 crtoadznew.com
 crv.fi
 crvfi.pro
+crx-airtm.com
 crypain.xyz
 cryptexchange.vip
 crypto-farm-trust.com
@@ -6442,6 +6443,7 @@ tasfinancial.co
 tataconsultancy.in
 tataconsultants.com
 tawuniya.online-link.net
+taxltg.com
 tdecu-support.info
 tdg7gr.pro
 tdserv.com
