@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 04:25:37 UTC 2024
-# Number of Entries: 7918
+# Fetch date: Mon Apr 22 04:32:51 UTC 2024
+# Number of Entries: 7885
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -193,6 +193,7 @@ ageofgods.eu
 agic.link
 agixreward.xyz
 agoda-88.vip
+agoda-bookhotel.top
 agoda-checkout-id843753.com
 agoda-confirm.com-id591057.com
 agoda-global.pro
@@ -708,7 +709,6 @@ araemex.com
 aramex-delivery.me
 aramexame.com
 aramexglobalexpress.com
-aramexservicevktb.world
 arb.airpuds.top
 arb.altspads500.top
 arb.claimscrypto.top
@@ -777,7 +777,6 @@ asxcoins.net
 asxcoins.vip
 asxmx.cc
 asxstockexchange.com
-asxxdvv.a1sasset.org
 asxxdvv.asxmm.org
 atariku.site
 atf.mkwk.one
@@ -1096,7 +1095,6 @@ blknoiz06.net
 bllaast.com
 block.nodereset.com
 blockai-rewardsclaim.pages.dev
-blockbank.space
 blockchain-issues-resolv.netlify.app
 blockchain-node-beta.vercel.app
 blockchainbets.netlify.app
@@ -1154,7 +1152,6 @@ bonuses-manta.network
 bookaflightwithunitedairlines.statuspage.io
 booking.agoda-checkout-id843753.com
 bookinghotel-word.com
-booster-manta.network
 bopan.xyz
 borgverse.app
 borovik.foundation
@@ -1177,7 +1174,6 @@ bpxtoken.network
 brailex.com
 brands4less.com.py
 brave-blog.mylviajes.com.ve
-brave-browser-win.net
 bravebrowserdl.online
 brc20.su
 bridgarbltrum.com
@@ -2267,7 +2263,6 @@ en.ingaccessbn.com
 en.pushdstore.xyz
 en407etr.com
 enchor-roofs.com
-eng-inj.net
 enlist-altlayer.com
 enlist-dymension.xyz
 enlist-mantanetwork.pages.dev
@@ -2370,6 +2365,7 @@ ethpeg.com
 ethrefund.xyz
 ethri-fi.store
 ethswaps.org
+ethtoken-defi.com
 ethuegas.com
 ethurgas.com
 ethyourgas.com
@@ -2378,7 +2374,6 @@ etr407.ca
 etr407en.com
 etr407highway.com
 etroute407.com
-evaultbuzzfix.com
 event-blockgames.com
 event-chaingpt.org
 event-etf.com
@@ -2393,7 +2388,6 @@ event.rewardcoin.top
 event.stockcoin.top
 eventfarcana-airdrop.vercel.app
 events-altlayer.com
-events-befilabs.com
 events-mantanetwork.com
 events-pancakeswap.finance
 events-pandora.com
@@ -2493,7 +2487,6 @@ fitness-solution24.com
 fitness-solution24.de
 fix-metamask.pages.dev
 fix.errorsolution.org
-fixadfloat.com
 fixbugmigrate.pages.dev
 fixedfloat.best
 fixedfloat.win
@@ -2966,7 +2959,6 @@ illivium-techsupport.com
 illuvium-community.com
 illuvium-community.sbs
 illuvium-connect.com
-illuvium-mint-beta.online
 illuvium.gift
 illuviumrewards.io
 ilvrewards-io.com
@@ -3095,7 +3087,6 @@ jggo.mypi.co
 jiashengint.cn
 jiashengtrader.com
 jils1.pro
-jito-bonus.com
 jitocoins-network.com
 jitodrop.net
 jizzx.b4t.to
@@ -3167,7 +3158,6 @@ jumperweb3.pro
 jup-ag.online
 jup-cases.trade
 jup-claim.info
-jup-drop.co
 jup-e.com
 jup-evm.com
 jup-start.com
@@ -3296,12 +3286,10 @@ landverify.xyz
 largedrop.com
 laughcode.conohawing.com
 launch-berachain.com
-launch-dymension.com
 launch-mavia.com
 launch-neotokyo.codes
 launch-overlord.xyz
 launch-pixels.com
-launch-satoshivm.io
 launch-uniswapv3.com
 launch.ansembullish.net
 launch.apeterminal.cc
@@ -3416,7 +3404,6 @@ lidocrypto.fi
 lidodrops.info
 lidoex.com
 lidof.net
-lidofi.trading
 lidostak.info
 lidostake.dev
 lidostakecoin.com
@@ -3425,7 +3412,6 @@ lilostake.lol
 linae-parks.com
 lindonft.us
 linea-2024.com
-linea-consensys.world
 linea-defi.com
 linea-layerfinance.com
 linea-net.com
@@ -3485,7 +3471,6 @@ listings-open-sea.wf
 live-algo.site
 live-altlayer.com
 live-altlayer.io
-live-satoshivm.io
 live-zetachain.com
 liveblocksrectify.pages.dev
 livepersonatunitedairlin.amebaownd.com
@@ -4055,7 +4040,6 @@ metasamasuk.azurewebsites.net
 metasmaslk.azurewebsites.net
 metaswap-frontend.vercel.app
 metatank.app
-metatoken.cash
 metav2update.com
 metavmasusk.azurewebsites.net
 metaweb-import.pages.dev
@@ -4590,7 +4574,6 @@ nobodynft.trading
 node-connect-fix.vercel.app
 node-miner-collector.pages.dev
 nodebug.vercel.app
-nodechains.pages.dev
 nodemultichainprotcol.pages.dev
 nodesrectification.com
 nodesync.vercel.app
@@ -5076,7 +5059,6 @@ paxfula.com
 paxfulb.com
 paxfulbb.com
 paxfulbw.com
-paxfulcoins-diputes.com
 paxfulfe.com
 paxfulft.com
 paxfulhack.site
@@ -5328,7 +5310,6 @@ presale-x.com
 presale.get-blockgames.app
 presale.taotradex.io
 presales.blockgamess.com
-prime-vest.com
 primematesbc.com
 primepaymyservi.com
 primesacelicst.com
@@ -5535,13 +5516,9 @@ rational-zerosolvosmartverse.pro
 ravokecash.org
 raxful.com
 rayd-drop.site
-rayd-promo.click
-rayd-promo.site
 rayd.ink
 raydeum.io
 raydimain.live
-raydiom.boats
-raydiom.skin
 raydipage.xyz
 raydiu.com
 raydium-frontend.pages.dev
@@ -5552,7 +5529,6 @@ raydium.homes
 raydium.ink
 raydium.lo.web3-connect.pw
 raydium.pics
-raydium.rest
 raydium.sbs
 raydiums.buzz
 raydiumswap.com
@@ -5565,7 +5541,6 @@ rayduims.beauty
 rayduims.boats
 rayduims.homes
 rayduims.monster
-rayidium.com
 rayzonfinance.com
 raze-drops.top
 rbkm.sa.com
@@ -5577,7 +5552,6 @@ realtyexcellence.com
 rebby.io
 rebirthcreepz.com
 receive-jup.app
-receive-orivium.io
 receive-zetachaincom.pages.dev
 receive.pilxeisgame.xyz
 received-ethena.app
@@ -5620,7 +5594,6 @@ register-optimism.org
 register-orderly.network
 register-pandora.app
 register-qubic.org
-register-satoshivm.com
 register-smartlayer.network
 register-snap.com
 register-solanamobile.com
@@ -5790,7 +5763,6 @@ roachcoin.in
 robopunksnft.cristovao.codes
 robots-farm.xyz
 rockelpool.net
-rocket-pool-rocket.com
 rocketpool.liquidityus.net
 rocketpool.org
 rocketpool.pro
@@ -6169,7 +6141,6 @@ solana.laag.site
 solanadrainer.pages.dev
 solanaetoken.e-classes.pro
 solanapad.in
-solanaus.com
 solanawen.com
 solaptops.vercel.app
 solarmy.eu
@@ -6632,7 +6603,6 @@ token-theblock.co
 token.strks-rocket.club
 tokenlon.app
 tokenprojectrarity.site
-tokens-satoshivm.io
 tokens-zk.link
 tokensairdrops.com
 tokensynced.pages.dev
@@ -6951,7 +6921,6 @@ vofj.pro
 voltagenodefix.com
 volvotrucksinc.us
 vormassuinst.com
-vote-ambires.com
 vote-ambires.org
 vote-makerdao.com
 vote.biast.support
@@ -7230,7 +7199,6 @@ whitelist-joingrapes.com
 whitelist-parcl.com
 whitelist-personajourney.co
 whitelist-porkcoin.com
-whitelist-satoshivm.com
 whitelist-satoshivm.io
 whitelist-wenwencoin.com
 whitelist-woo.org
@@ -7517,7 +7485,6 @@ www.magpiexyz.click
 www.mainnet-portal.com
 www.makerdaodai.site
 www.mamtanetworkbonus.com
-www.mantanntework.xyz
 www.maverickdao.org
 www.mavia.com.maviav.com
 www.mavia.comapp.ceesto.com
@@ -7746,6 +7713,7 @@ xn--1nch-vpa.io
 xn--1nh-3la2a.com
 xn--arbtrum-tfb.com
 xn--fixedfaot-wpbe.com
+xn--fixedflaot-2ub.net
 xn--fixedflaot-k8a.com
 xn--fixedflaot-xub.com
 xn--fixedfloat-0ub.com
@@ -7875,7 +7843,6 @@ zkeztrade.com
 zkfair.events
 zkfair.supply
 zkfairdrop.netlify.app
-zkfarri.io
 zkfiair.site
 zkflre.io
 zkiink.io
