@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 19:32:27 UTC 2024
-# Number of Entries: 108655
+# Fetch date: Mon Apr 22 19:52:17 UTC 2024
+# Number of Entries: 108659
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4735,6 +4735,7 @@ amexorepaidcard.com
 ameze.site
 amezo.site
 amfinvestment.com
+amica-hr.com
 amicheck.com
 amici.nz
 amigosdrop.xyz
@@ -32187,6 +32188,7 @@ evercorecapitalgroup.com
 evercoree.com
 evercorefinacialgroup.com
 evercorefinance.com
+evercoregmbh.com
 evercoregroupllc.com
 evercoreinc.org
 evercorelimited.com
@@ -53050,6 +53052,7 @@ mew-ehterwallat.com
 mew-myetherwallet.com
 mew-offlclal.info
 mew-wallet.blogspot.com
+mew-wallet.com
 mew-wallet.net
 mew.best
 mew.starkapp.net
@@ -91838,6 +91841,7 @@ vollaland.com
 voltagecorrection.com
 voltagenodefix.com
 voltairdropgame.com
+voltamelectrik.com
 voltconnector.com
 voltinu-migrated.live
 volunt.cruzroja.edu.do
