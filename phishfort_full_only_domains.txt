@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 18:03:47 UTC 2024
-# Number of Entries: 108653
+# Fetch date: Mon Apr 22 18:32:34 UTC 2024
+# Number of Entries: 108655
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -18945,6 +18945,7 @@ coinbest.cc
 coinbest.us
 coinbgecko.com
 coinbgecko.link
+coinbinan.com
 coinbit24.site
 coinbitmex.com
 coinbiz.me
@@ -64494,6 +64495,7 @@ pancakedrop.pw
 pancakedrop.xyz
 pancakedropclaim4600.vercel.app
 pancakedropclick32.vercel.app
+pancakedropclick80.vercel.app
 pancakedrops.com
 pancakedrops44.vercel.app
 pancakedropsclaim.vercel.app
