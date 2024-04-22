@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 18:15:52 UTC 2024
+# Fetch date: Mon Apr 22 18:25:15 UTC 2024
 # Number of Entries: 7886
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1613,6 +1613,7 @@ coinbase-walltvip.net
 coinbaseoc.com
 coinbaseprose.com
 coinbaserewardsclaim.com
+coinbinan.com
 coinbose.app
 coinchanger.live
 coindappfixes.pages.dev
@@ -7769,7 +7770,6 @@ xwg.icu
 y-predict.web.app
 y2srob.info
 y5tmtb.info
-yaler.info
 yasno-gov.pages.dev
 ybixfed.pro
 ycs-agoda.cc
