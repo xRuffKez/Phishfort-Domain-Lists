@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 22:15:21 UTC 2024
-# Number of Entries: 7887
+# Fetch date: Mon Apr 22 22:25:52 UTC 2024
+# Number of Entries: 7888
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2302,6 +2302,7 @@ errorsync.pages.dev
 erydgred.umb.market
 erythkor.buzz
 esbl.cybertrons.io
+esprit-colombia.com.co
 etena.xyz
 eter.fi
 etfevent2024.com
