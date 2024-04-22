@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 05:25:09 UTC 2024
-# Number of Entries: 7881
+# Fetch date: Mon Apr 22 05:32:19 UTC 2024
+# Number of Entries: 7880
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2212,7 +2212,6 @@ econopure.com.vn
 edgemarketdcx.online
 eeogresources.com
 eesee.trading
-eform-agoda.com
 efther.fi
 efwefwef-6io.pages.dev
 egrowmax.com
