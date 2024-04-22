@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 17:42:03 UTC 2024
-# Number of Entries: 7884
+# Fetch date: Mon Apr 22 18:15:52 UTC 2024
+# Number of Entries: 7886
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4874,6 +4874,7 @@ pancakedrop.com
 pancakedrop.xyz
 pancakedropclaim4600.vercel.app
 pancakedropclick32.vercel.app
+pancakedropclick80.vercel.app
 pancakedrops.com
 pancakedrops44.vercel.app
 pancakedropsclaim.vercel.app
@@ -7603,6 +7604,7 @@ www.rmkrbridge.app
 www.rniho.fi
 www.royalsecrets.com.ua
 www.rpcresolve.com
+www.rtspos.net
 www.rtutgg.cn
 www.rubyprotocol.pro
 www.sabrinacarpentermerch.com
