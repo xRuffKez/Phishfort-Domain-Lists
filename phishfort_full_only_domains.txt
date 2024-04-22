@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 10:03:34 UTC 2024
-# Number of Entries: 108631
+# Fetch date: Mon Apr 22 10:27:14 UTC 2024
+# Number of Entries: 108632
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -39629,6 +39629,7 @@ idexontime.com
 idexr.market
 idexs.market
 idext.market
+idextr.com
 idexwall.online
 idexwallet.com
 idexwebaa.com
