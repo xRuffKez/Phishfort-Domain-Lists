@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 21:42:14 UTC 2024
-# Number of Entries: 7889
+# Fetch date: Mon Apr 22 21:52:21 UTC 2024
+# Number of Entries: 7887
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -6347,7 +6347,6 @@ supportmetamask-io.ddnss.eu
 suprasync.pages.dev
 supratoken.xyz
 survey-arbitrium.com
-surveyking.com
 susdc.dev
 sushi.gifts
 sushiiswap.xyz
@@ -6505,7 +6504,6 @@ theemirategroups.com
 theemiratesgroupae.com
 theemiratesgroupae.online
 theemiratesgroups-ae.online
-theemiratesgroupuae.com
 theemiriatesgroup.online
 theemiriatesgroupae.com
 theemiriatesgroupuae.com
@@ -7449,6 +7447,7 @@ www.healthequitylogin.org
 www.hellofurther.pro
 www.helpdoc-avalache.online
 www.holdblur.foundation
+www.httpsmining-eth3.com
 www.hustlegenix.crd.mvu.mybluehost.me
 www.imtoken-im.team
 www.interactivebroker.live
@@ -7622,7 +7621,6 @@ www.seedifyfund.support
 www.seijpe.com
 www.shibus.site
 www.sitemap.project-altlayer.io
-www.sitemaps.newpardigm-manta.network
 www.smart-square.net
 www.smartlayer-claim.com
 www.smartlayer-claim.net
