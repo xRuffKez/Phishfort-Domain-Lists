@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 16:42:16 UTC 2024
-# Number of Entries: 108648
+# Fetch date: Mon Apr 22 17:52:23 UTC 2024
+# Number of Entries: 108652
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3051,6 +3051,7 @@ agnidex.com
 agninetwork.xyz
 agoda-88.vip
 agoda-at.bio
+agoda-bookhotel.top
 agoda-booking-hk.com
 agoda-checkout-id843753.com
 agoda-com.com
@@ -54631,6 +54632,7 @@ motemosk.io
 mothz.art
 motion-com-us.org
 motion-iind.com
+motion-ind.co
 motion-industries.co
 motion-industries.info
 motion-lndustries.com
@@ -69511,6 +69513,7 @@ pcsdf-mining.com
 pcsfarm-v3.com
 pcshelpdesk.co
 pcsstake-v3.com
+pcsstake-v3.net
 pcwdf-hkteam.com
 pcyiccity.com
 pcyiocity.com
@@ -107568,6 +107571,7 @@ yearnwallet.com
 yearnyfi.blogspot.com
 yearrise-promogive.com
 yecoin.in
+yekx619z.dreamwp.com
 yelds-protocol.xyz
 yellewcurd.online
 yellow-card-investment.jimdosite.com
