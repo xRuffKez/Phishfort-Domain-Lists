@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 20:42:21 UTC 2024
-# Number of Entries: 108660
+# Fetch date: Mon Apr 22 21:03:27 UTC 2024
+# Number of Entries: 108662
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -29708,6 +29708,7 @@ eportal-suppliers.online
 epp-aave.com
 epplicstand.top
 epq-aave.com
+eprd.net
 epriceshop02.cc
 epromo.cc
 epsaistiap.info
@@ -103357,6 +103358,7 @@ www.rubyprotocol.pro
 www.rwsupp.com
 www.rygit.com
 www.s.chains-sync.live
+www.sa.detworth.online
 www.sabrinacarpentermerch.com
 www.safe-paxful.com
 www.safebridgeindex.live
