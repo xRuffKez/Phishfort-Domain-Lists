@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 21:22:06 UTC 2024
-# Number of Entries: 7888
+# Fetch date: Mon Apr 22 21:42:14 UTC 2024
+# Number of Entries: 7889
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -7633,6 +7633,7 @@ www.snapshot-multibit.com
 www.somethingbad.com
 www.spatco.shop
 www.sporemashrm.top
+www.st.uiworth.online
 www.staging.chat.login.fixedfloat.pw
 www.stakeyearn.fi
 www.staking-eigenpie-magpiexyz.77clube.com
