@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 14:25:08 UTC 2024
+# Fetch date: Mon Apr 22 14:32:14 UTC 2024
 # Number of Entries: 7881
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -608,6 +608,7 @@ app.auth-v2.org
 app.aìrtm.com
 app.blastclaim.com
 app.claims-richquack.com
+app.csv-airtm.com
 app.defi-origin.com
 app.earn-swellnetwork.com
 app.etheir.fi
@@ -6894,7 +6895,6 @@ view.nugpoint.com
 view.wormmap.xyz
 vikingglobal.linejoinus.com
 viplatii.online
-virginmoneynetwork.com
 virtua.gift
 virtualsecrets.org
 visit-altlayer.io
