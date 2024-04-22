@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 07:03:31 UTC 2024
-# Number of Entries: 108629
+# Fetch date: Mon Apr 22 08:03:59 UTC 2024
+# Number of Entries: 108631
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4351,6 +4351,7 @@ allianceblockclaim.org
 alliancebridge.live
 alliancebridgeprotocol.com
 alliancebridgeprotocol.info
+allied.newapponline.best
 allied.online-portal.best
 alliiant.com
 allin1.cx
@@ -55670,6 +55671,7 @@ my4therwallet.com
 my6etherwallet.com
 my7etherwallet.com
 myab-shaw.com
+myablapp.best
 myaccessauth.com
 myaccountcat.com
 myaccounts.ulitey.com
