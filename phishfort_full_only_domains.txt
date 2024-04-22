@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 14:42:03 UTC 2024
-# Number of Entries: 108639
+# Fetch date: Mon Apr 22 15:52:07 UTC 2024
+# Number of Entries: 108648
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -15228,6 +15228,7 @@ bursakanas.store
 bursapimapen.com
 burtkan.site
 burtmant.site
+burtonwright.net
 busd.genesisfarm.money
 busd.popcorn.claims
 busdc.site
@@ -24796,6 +24797,7 @@ dark-labs.xyz
 darkadenft.nft-premint.com
 darkfarms.live
 darkgpt-crypto.com
+darksoap.cfd
 darktest.ru
 daropen.app
 darpcoins.network
@@ -34160,6 +34162,7 @@ fly-emirates-uae.site
 fly-emirates.site
 fly-frontiier.com
 fly-promo.online
+fly.saveflights.online
 flybitex.com
 flydaddys.com
 flyemirates.cloud
@@ -46685,6 +46688,7 @@ lthememecoins.com
 ltswap.club
 ltzx.tianqiao120.com
 lubrizolcorp.cn
+lubrlzol.com
 lucalbitcoins.com
 lucalbltcoins.com
 lucid-nft.org
@@ -68073,6 +68077,7 @@ panelresolver.com
 panemicav2.rf.gd
 panexchange.finance-easyconnect.com
 panexchangeplateform.godaddysites.com
+panexpode.com
 panflourexch.finance-metaaccess.com
 panfts.com
 pangcake.xyz
@@ -86192,6 +86197,7 @@ ticket.universalprotocoldapp.io
 ticketbookingspot.com
 ticketchain.pages.dev
 ticketflyerflights.com
+ticketparis24.com
 tickets-paris24.com
 ticketwaveairlines.com
 ticklebeach.allowmint.com
@@ -91624,6 +91630,7 @@ viacrypto.top
 viainox-com.blogspot.com
 viberate.bettermost.net
 vibeth-vvip.com
+vic1.info-equinor.com
 vicpromo.com
 victorgarcia.blog
 victoria-event.xyz
@@ -96707,6 +96714,7 @@ withsupportaids.com
 wiw-ftx.com
 wizdemshare.com
 wizfairllc.com
+wizink.app-cartaopt.site
 wizink.cartoespt-app.online
 wizverse.io
 wizzair-com.com
@@ -97908,6 +97916,7 @@ www.allchainprotocol.com
 www.allchainsfixer.site
 www.allconnectsolve.xyz
 www.alldappsconnect.org
+www.allianceprotectionservice.com
 www.allnoderestore.cloud
 www.allnodeswallet.com
 www.allwalletsinc.com
