@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 15:32:24 UTC 2024
+# Fetch date: Mon Apr 22 15:42:18 UTC 2024
 # Number of Entries: 7885
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1456,7 +1456,6 @@ claim-pepev2.com
 claim-poly.com
 claim-poodlinu.pages.dev
 claim-pork.pages.dev
-claim-portalcoin.xyz
 claim-qanplatform.net
 claim-raidy.space
 claim-realio.net
@@ -1898,6 +1897,7 @@ dappx-connect.pages.dev
 dapradar.eu
 dapsecure.reslveprotcapp.com
 daqwpa8.top
+darksoap.cfd
 dasfy3345fsd.pages.dev
 dashboard-sol-fran8393.live
 dashboard-synthetix.net
@@ -2586,7 +2586,6 @@ fxtradinghomes.com.interactivebrokers.live
 g2os0.pro
 g5-airtm.com
 gahiett.com
-gain-manta.pages.dev
 gala-games.org
 galagames-6nj.com
 galaxies.mantasnetworks.app
@@ -3526,6 +3525,7 @@ lpfi1.cc
 lrt-eigenlayer.xyz
 lst-eigenlayer.xyz
 lubrizolcorp.cn
+lubrlzol.com
 luxurybooms.com
 lvrmjm.pro
 lwve.top
@@ -3654,8 +3654,6 @@ manta-eiu.pages.dev
 manta-events.com
 manta-evm.pages.dev
 manta-group.xyz
-manta-layer.xyz
-manta-live.com
 manta-mainet.com
 manta-ndn.xyz
 manta-netowrk.com
@@ -3671,7 +3669,6 @@ manta-newparadigm.com
 manta-newpardigm.com
 manta-paciffic.online
 manta-pacificnetwork.com
-manta-participate.com
 manta-pro.icu
 manta-project.com
 manta-promotion.network
@@ -4990,6 +4987,7 @@ pandosi-presale.store
 pandosi.pro
 pandosshi.xyz
 panecakeswapv3.com
+panexpode.com
 pangolin-x.com
 pankaceswap.tech
 pankcakeswap.com
@@ -6531,6 +6529,7 @@ thrustertoken.com
 tia-project.com
 tias-celestia.net
 ticket.universalprotocoldapp.io
+ticketparis24.com
 tickets-paris24.com
 tidex.icu
 tifi-airdrop.com
@@ -6890,6 +6889,7 @@ vertiv.jifang365.com
 vfipaxos.org
 vhvhgv.pages.dev
 viacripto.com
+vic1.info-equinor.com
 victorianwoodsstudio.com
 vietnamtiktok.com
 vietnamtiktok.shop
