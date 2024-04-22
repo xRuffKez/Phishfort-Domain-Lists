@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 19:32:12 UTC 2024
-# Number of Entries: 7886
+# Fetch date: Mon Apr 22 19:42:15 UTC 2024
+# Number of Entries: 7882
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1112,7 +1112,6 @@ blockunification.asders.icu
 blog.868631.xyz
 blog.drpaulweiss.com
 blog.firstflytravel.com
-blog.trustsamco.store
 bloomorganicspa.za.com
 blsat.io
 blst-reg.app
@@ -1226,7 +1225,6 @@ buy.scottyai.org
 buy1inch.org
 buzz-bsquared.store
 buzz.bsquareed.online
-bvrefe.pages.dev
 bvuvs.info
 bwflexibiesystems.com
 by-pay.net
@@ -1647,7 +1645,6 @@ colabllandsyncapps.com
 coleywilbet.com
 collab-award.io
 collab-conects.com
-collab-connect.pages.dev
 collab-land.lol
 collab-land.x10.bz
 collab-verification.land
@@ -4088,6 +4085,7 @@ metumasklgio.github.io
 metwamasnkus.azurewebsites.net
 metwamasus.azurewebsites.net
 metzhgofk.com
+mew-wallet.com
 mew.best
 mewt-token-swap-restore.netlify.app
 mewwallet.cc
@@ -4801,7 +4799,6 @@ oxleverage.xyz
 oxyppso.cc
 ozon-giv.officialpage2024.shop
 p00lsguard.xyz
-p1290.trustsamco.online
 paalai-beta.app
 paalai.airdrop.cfd
 paalbeta-ai.app
@@ -5064,7 +5061,6 @@ paxfulbw.com
 paxfulfe.com
 paxfulft.com
 paxfulhack.site
-paxfulmoderater.com
 paxfulp2p.com
 paxfulpay.com
 paxfulpay.net
@@ -6917,6 +6913,7 @@ vocal-kataifi-5e514d.netlify.app
 vodoo.trade.web3-ap.cfd
 vofj.pro
 voltagenodefix.com
+voltamelectrik.com
 volvotrucksinc.us
 vormassuinst.com
 vote-ambires.org
@@ -7569,7 +7566,6 @@ www.pandoshi.net.bakery-swap.com
 www.paradigmagbi.ru
 www.paxflapp.online
 www.paxful.instenpay.com
-www.paxfulmoderater.com
 www.paxosweb.top
 www.pcs-farmv3.com
 www.pemanagement.org
