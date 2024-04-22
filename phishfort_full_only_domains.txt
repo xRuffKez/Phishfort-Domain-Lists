@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 13:52:19 UTC 2024
-# Number of Entries: 108636
+# Fetch date: Mon Apr 22 14:32:25 UTC 2024
+# Number of Entries: 108639
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -6276,6 +6276,7 @@ app.craas.in
 app.creamfinance.co
 app.crptoblades.com
 app.crpytoblades.io
+app.csv-airtm.com
 app.curve.pools-reward.site
 app.dappfixedconnect.net
 app.dapprotocol.io
@@ -8293,6 +8294,7 @@ asxwallet.xyz
 asxx-bit.com
 asxx-coin.com
 asxx-pro.com
+asxxdvv.a1sasset.org
 asxxdvv.asxmm.org
 async-fix.live
 at-meetmask.com
@@ -21719,6 +21721,7 @@ crv-curve.fi
 crv.fi
 crvfi.pro
 crvusd-distribution.fi
+crx-airtm.com
 cryair.xyz
 cryotoplanesv3.com
 cryp-protectbtc.surf
@@ -84925,6 +84928,7 @@ tawuniya.online-link.net
 taxclerence.gq
 taxclerenceo.ga
 taxi.pancakeswasap.one
+taxltg.com
 taxproezglobal.com
 taxproezonline.com
 tayari.xyz
@@ -91059,7 +91063,6 @@ vandalcity.shop
 vandalcitycorps.com
 vandalscity.xyz
 vanderkobold.live
-vangelisangelakis.com
 vanh.sa.com
 vanilagiftcardbalance.com
 vanilla-gift.danielbrown46.repl.co
