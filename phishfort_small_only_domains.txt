@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 16:42:00 UTC 2024
-# Number of Entries: 7884
+# Fetch date: Mon Apr 22 16:52:17 UTC 2024
+# Number of Entries: 7881
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -193,6 +193,7 @@ ageofgods.eu
 agic.link
 agixreward.xyz
 agoda-88.vip
+agoda-bookhotel.top
 agoda-checkout-id843753.com
 agoda-confirm.com-id591057.com
 agoda-global.pro
@@ -2266,7 +2267,6 @@ en.pushdstore.xyz
 en407etr.com
 enchor-roofs.com
 enlist-altlayer.com
-enlist-dymension.xyz
 enlist-mantanetwork.pages.dev
 enlisted-portalgaming.com
 enrolaltlayer.pages.dev
@@ -2707,7 +2707,6 @@ giftmanta.net
 giftsteam.ru
 gitcoin-dr-explorer.vercel.app
 give.manta.center
-give.manta.gratis
 give5-airtm.com
 giveaway-manta.network
 giveaway-neotokyo.codes
@@ -3678,7 +3677,6 @@ manta-wallets.xyz
 manta.claimw.xyz
 manta.layerbank.cc
 manta.layerbank.network
-manta.nettwork.site
 manta.newupdate.io
 manta.pages.dev
 manta10.pages.dev
@@ -5684,7 +5682,6 @@ revoke.ink
 revoke.plus
 revoke.run
 revokeapp.info
-revokeapp.tech
 revokeca.com
 revokeca.xyz
 revokecash-portal.pages.dev
