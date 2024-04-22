@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 07:32:17 UTC 2024
-# Number of Entries: 7880
+# Fetch date: Mon Apr 22 07:42:12 UTC 2024
+# Number of Entries: 7875
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -196,7 +196,6 @@ agoda-88.vip
 agoda-checkout-id843753.com
 agoda-confirm.com-id591057.com
 agoda-global.pro
-agoda-hotel.com
 agoda-jp.cc
 agoda-jp.co
 agoda-jp.site
@@ -3671,7 +3670,6 @@ manta-rewards.events
 manta-sale.com
 manta-survey.com
 manta-wallets.xyz
-manta-xi.vercel.app
 manta.claimw.xyz
 manta.layerbank.cc
 manta.layerbank.network
@@ -4328,6 +4326,7 @@ my-listings-95571.net
 my-listings-97781.net
 my-swap.xyz
 my.templ.cc
+myablapp.best
 myaccountcat.com
 myairdrops.org
 mycastcrewssaw.com
@@ -5517,14 +5516,10 @@ raydimain.live
 raydipage.xyz
 raydiu.com
 raydium-frontend.pages.dev
-raydium.boats
 raydium.dev
 raydium.fun
-raydium.homes
 raydium.ink
 raydium.lo.web3-connect.pw
-raydium.pics
-raydium.sbs
 raydiums.buzz
 raydiumswap.com
 raydiumtoken.io
