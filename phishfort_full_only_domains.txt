@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 04:26:00 UTC 2024
-# Number of Entries: 108628
+# Fetch date: Mon Apr 22 04:33:09 UTC 2024
+# Number of Entries: 108630
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3051,6 +3051,7 @@ agnidex.com
 agninetwork.xyz
 agoda-88.vip
 agoda-at.bio
+agoda-bookhotel.top
 agoda-booking-hk.com
 agoda-checkout-id843753.com
 agoda-com.com
@@ -8292,7 +8293,6 @@ asxwallet.xyz
 asxx-bit.com
 asxx-coin.com
 asxx-pro.com
-asxxdvv.a1sasset.org
 asxxdvv.asxmm.org
 async-fix.live
 at-meetmask.com
@@ -31869,6 +31869,7 @@ ethtl.top
 ethtm.top
 ethto.top
 ethtoget.com
+ethtoken-defi.com
 ethtoken.icu
 ethtokens.online
 ethtokens.store
@@ -105733,6 +105734,7 @@ xn--fixdfloat-23a.com
 xn--fixdfloat-2ib.com
 xn--fixdfloat-iib.com
 xn--fixedfaot-wpbe.com
+xn--fixedflaot-2ub.net
 xn--fixedflaot-k8a.com
 xn--fixedflaot-xub.com
 xn--fixedflat-cm7d.com
