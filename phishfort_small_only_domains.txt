@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 20:42:00 UTC 2024
-# Number of Entries: 7879
+# Fetch date: Tue Apr 23 20:52:15 UTC 2024
+# Number of Entries: 7880
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1650,6 +1650,7 @@ collab-award.io
 collab-conects.com
 collab-land.lol
 collab-land.x10.bz
+collab-portal.com
 collab-verification.land
 collab-verify.io
 collab.bot-community.com
