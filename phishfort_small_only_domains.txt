@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 20:23:23 UTC 2024
+# Fetch date: Tue Apr 23 20:42:00 UTC 2024
 # Number of Entries: 7879
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1912,7 +1912,6 @@ dashliquid.com
 data-trustwallet.com
 dataownership-verification.vercel.app
 dataownership-verify-open.vercel.app
-davi.pse-ssl.win
 daviplatanotific.webcindario.com
 daviplataportal.webcindario.com
 daviplataseeg.webcindario.com
@@ -4782,6 +4781,7 @@ ordiboardfusion.pages.dev
 ordify.pages.dev
 ordinalshub.org
 ordinalswallet-gid0.onrender.com
+ordinalswallet-tqi6.onrender.com
 ordiswaps.com
 ordiswaps.fi
 ordivalifusion.pages.dev
