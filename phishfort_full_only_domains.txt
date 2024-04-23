@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 13:52:27 UTC 2024
-# Number of Entries: 108678
+# Fetch date: Tue Apr 23 14:03:31 UTC 2024
+# Number of Entries: 108679
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -101013,6 +101013,7 @@ www.lusandasentane.com
 www.luxorvip.cc
 www.lwibqbx-cgp-4.tk
 www.lx810.com
+www.ly.detworth.online
 www.lyetherwallet.com
 www.m-paxful.com
 www.m.bluefloridahealth.com
