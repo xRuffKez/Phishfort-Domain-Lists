@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 23:24:16 UTC 2024
-# Number of Entries: 108666
+# Fetch date: Tue Apr 23 00:11:46 UTC 2024
+# Number of Entries: 108668
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -22901,6 +22901,7 @@ czz.money
 d-appnet.vercel.app
 d-metamask.io
 d-proapps.com
+d.appmooduyh.top
 d.dassincs.com
 d.market-skin.com
 d.moodyseokd.top
@@ -33698,6 +33699,7 @@ fixedfloat.support
 fixedfloat.to
 fixedfloat.win
 fixedfloat.work
+fixedfloat.xyz
 fixedfloatchange.com
 fixedfloatd.com
 fixedfloatexchange.com
