@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 15:32:32 UTC 2024
-# Number of Entries: 7870
+# Fetch date: Tue Apr 23 15:42:11 UTC 2024
+# Number of Entries: 7869
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1899,6 +1899,7 @@ daqwpa8.top
 darksoap.cfd
 dasfy3345fsd.pages.dev
 dashboard-sol-fran8393.live
+dashboard-spark.fi
 dashboard-synthetix.net
 dashboard.alt.enterprises
 dashboardpixels.xyz
@@ -3057,7 +3058,6 @@ invoices-407etr.com
 io-net.pages.dev
 io-ultra-net.vercel.app
 iotmodysbln.com
-ipgroup-lnc.com
 iptv.skin
 iqz2.sa.com
 ireth.rnag.site
@@ -5353,7 +5353,6 @@ psgyh.top
 psychome.co
 ptron.hk
 pub-0186f027c154484fbcbeb90161ab83cf.r2.dev
-pub-2eef0dd9364d4248b298f5e4c6db0eb4.r2.dev
 pub-306b361010174008ab5773c839617c85.r2.dev
 pub-c7119d8cef5d4359861e1426cf37c62c.r2.dev
 pub-e9989cc0d26d4a2f9e7017c197e26310.r2.dev
