@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 16:16:05 UTC 2024
-# Number of Entries: 108682
+# Fetch date: Tue Apr 23 16:26:59 UTC 2024
+# Number of Entries: 108683
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -97232,6 +97232,7 @@ wwe-envivo.com
 wwebeltsfans.store
 wwebltkubnetc.1gb.ru
 wwebsbltkubs-com.1gb.ru
+wwecorp-okta.com
 wwedapps.pages.dev
 wwefanhop.com
 wwegames.online
