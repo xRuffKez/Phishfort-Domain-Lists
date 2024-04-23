@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 20:42:17 UTC 2024
-# Number of Entries: 108694
+# Fetch date: Tue Apr 23 21:03:17 UTC 2024
+# Number of Entries: 108695
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -19912,6 +19912,7 @@ collab-lands.online
 collab-landweb3.com
 collab-link.online
 collab-pepe.vip
+collab-portal.com
 collab-pro.github.io
 collab-safety.xyz
 collab-secured.land
