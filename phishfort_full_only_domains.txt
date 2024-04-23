@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 17:32:47 UTC 2024
-# Number of Entries: 108685
+# Fetch date: Tue Apr 23 17:42:12 UTC 2024
+# Number of Entries: 108686
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -16965,6 +16965,7 @@ cksurf.onelink.me
 cl-collab-land.app
 cl-deelance.com
 cla-pro.com
+claiimopenboxnfts.com
 clailmreward.xyz
 claim-1000.me
 claim-1inch.com
