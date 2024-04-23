@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 19:03:21 UTC 2024
-# Number of Entries: 108690
+# Fetch date: Tue Apr 23 19:33:02 UTC 2024
+# Number of Entries: 108692
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -22931,6 +22931,7 @@ d51bsyo3on63bfd355740e8.pacificx.ru
 d5mdgqy06glmkdw.www.amazon.wiki.pancakeswape.finance
 d6513d71-ee0e-41c3-8bda-83587ac4e863.htmlpasta.com
 d7bjeie8jevolt5j.pdqptpohlhxle6.ru
+d858069ef3b9e6df858069ef3b9e.pages.dev
 d8ngmjck9k5rcmpk.seenextventure.com
 d8ycm1tuemvack6.www.beta-openselling.pancakeswasap.one
 da-protocol.site
@@ -105849,6 +105850,7 @@ xn--fxedfloat-q5af.com
 xn--fxedfloat-vpbc.com
 xn--fxedfloat-vpbd.com
 xn--fxedfloat-vpbe.com
+xn--fxedflooad-68a.com
 xn--fxedflooat-68a.net
 xn--fxedftloat-k8a.com
 xn--fxedlflaot-k8a.com
