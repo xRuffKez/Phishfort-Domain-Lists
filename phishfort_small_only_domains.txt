@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 07:03:23 UTC 2024
-# Number of Entries: 7875
+# Fetch date: Tue Apr 23 07:14:54 UTC 2024
+# Number of Entries: 7871
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1304,7 +1304,6 @@ caw.gift
 cbfeb953b53417d5.net
 cbgemcredentialorg.web.app
 cbgyf.pages.dev
-cblre.com
 cbrecbre.com
 cbreinc.com
 cbrepartners.com
@@ -1690,7 +1689,6 @@ community-dappradar.com
 community-saga.xyz
 compoundtrades.net
 con-wall-3web.pages.dev
-conbea4.dream.press
 conferencesglobal.org
 confirmed-collab.land
 confulxnetwork.info
@@ -3732,7 +3730,6 @@ mantawebapp.pages.dev
 mantax.pages.dev
 mantcnetwcrk.com
 mantda.network
-mantea.network
 mantka-network.pics
 mantla.online
 mantle.claiming-link.site
@@ -5319,7 +5316,6 @@ priorityonebank.protectedpayroll.com
 private-degenape.com
 pro-collab.land
 pro-zetachain.com
-procch.net
 prof1111.pages.dev
 profit-dydx.com
 project-0xconnect.pages.dev
@@ -5526,7 +5522,6 @@ raydium.dev
 raydium.fun
 raydium.ink
 raydium.lo.web3-connect.pw
-raydiums.buzz
 raydiumswap.com
 raydiumtoken.io
 raydlum.ink
@@ -6736,6 +6731,7 @@ uniswap-pools.web.app
 uniswap-staking-pools.web.app
 uniswap.fi
 uniswap.op-com0516.xyz
+uniswap.revoke-cashe.xyz
 uniswap.web3-x.org
 uniswapv3.online
 uniswapv4-liqudity-provide.web.app
