@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 19:02:51 UTC 2024
-# Number of Entries: 7876
+# Fetch date: Tue Apr 23 19:14:35 UTC 2024
+# Number of Entries: 7878
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1812,6 +1812,7 @@ d.moodysmfof.top
 d0cusiqn.hottern.click
 d394f31195472c.net
 d7bjeie8jevolt5j.pdqptpohlhxle6.ru
+d858069ef3b9e6df858069ef3b9e.pages.dev
 da2m088c.site
 dac2yur.cc
 dadawgs.tech
@@ -7732,6 +7733,7 @@ xn--fxedfloat-q5af.com
 xn--fxedfloat-vpbc.com
 xn--fxedfloat-vpbd.com
 xn--fxedfloat-vpbe.com
+xn--fxedflooad-68a.com
 xn--fxedflooat-68a.net
 xn--fxedftloat-k8a.com
 xn--fxeldfloat-bub.com
