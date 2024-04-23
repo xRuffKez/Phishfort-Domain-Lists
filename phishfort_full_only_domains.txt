@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 05:03:07 UTC 2024
-# Number of Entries: 108669
+# Fetch date: Tue Apr 23 05:15:10 UTC 2024
+# Number of Entries: 108670
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -4395,6 +4395,7 @@ allnodesapps.com
 allnodeschains.com
 allnodesdaps.com
 allnodeupdate.com
+allocate-safeglobal.xyz
 allocate-starknet.com
 allocation-ether.fi
 allocation-getgrass.com
