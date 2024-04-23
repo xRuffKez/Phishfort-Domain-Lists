@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 21:03:17 UTC 2024
-# Number of Entries: 108695
+# Fetch date: Tue Apr 23 21:32:42 UTC 2024
+# Number of Entries: 108697
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -35818,6 +35818,7 @@ gatesign.ft500.xyz
 gateslive.tech
 gatevalidation.com
 gatevlink.com
+gateway-collab.com
 gather-gift.com
 gathereth.com
 gatsbytools.truly-minting.com
@@ -75625,6 +75626,7 @@ resolvernode.com
 resolverpanel.pages.dev
 resolverprotocol.pages.dev
 resolverstring.net
+resolverweb3.pages.dev
 resolvesapprove.com
 resolvesit.online
 resolvesit.site
