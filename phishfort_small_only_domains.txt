@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 10:42:20 UTC 2024
-# Number of Entries: 7868
+# Fetch date: Tue Apr 23 10:52:10 UTC 2024
+# Number of Entries: 7866
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2570,7 +2570,6 @@ fsafeds.comet.sa.com
 fsafeds.comt.sa.com
 fsafeds.sa.com
 ftp.jeddah-airport-city.com
-ftp.raydiums.motorcycles
 ftx-e49.pages.dev
 fuadazzad.net
 fuelnetwork-register.vercel.app
@@ -4923,7 +4922,6 @@ pancakeswap.sipf.cc
 pancakeswap92.vercel.app
 pancakeswapairdrop-event.finance
 pancakeswapairdrop.com
-pancakeswapairdropevent.finance
 pancakeswapclick04.vercel.app
 pancakeswapcrypto.com
 pancakeswapdrop78.vercel.app
