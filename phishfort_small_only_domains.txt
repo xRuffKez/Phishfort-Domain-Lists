@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 14:32:14 UTC 2024
-# Number of Entries: 7869
+# Fetch date: Tue Apr 23 14:52:02 UTC 2024
+# Number of Entries: 7870
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -853,6 +853,7 @@ azukiairdrop.netlify.app
 aîrtm.com
 b2xb.pro
 ba.inletuta.online
+baaa.app
 babyboba.xyz
 babydoge-app.xyz
 babydoge.app
@@ -7004,6 +7005,7 @@ wappconnectnode.pages.dev
 wappmaindefiblock.pages.dev
 wapprecktconnt.pages.dev
 waprcast.com
+wardenswap.netlify.app
 washignton-post.com
 washignton-post.com.gianlucaungaro.it
 washingtonfinancialpost.com
@@ -7369,7 +7371,6 @@ www.coinbase-fogexter.top
 www.collab-award.io
 www.colloky.online
 www.comethena.ethenaofficial.com
-www.consorcioempreswebs.info
 www.creepz-rebirth.com
 www.csagoda.com
 www.dappbrowser.info
