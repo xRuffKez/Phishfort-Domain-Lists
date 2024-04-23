@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 13:32:27 UTC 2024
-# Number of Entries: 7864
+# Fetch date: Tue Apr 23 13:42:15 UTC 2024
+# Number of Entries: 7867
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2801,6 +2801,7 @@ ha3netchexsalast.com
 habit-tracker-ten-pearl.vercel.app
 hajjdomestic-sa.info
 halefiuamamalst.com
+halenchimaletma.com
 halestramasslost.com
 haleymasschendiovst.com
 halo-defi.web.app
@@ -3726,7 +3727,6 @@ mantatech.network
 mantawebapp.pages.dev
 mantax.pages.dev
 mantcnetwcrk.com
-mantda.network
 mantka-network.pics
 mantla.online
 mantle.claiming-link.site
@@ -4561,6 +4561,7 @@ nitro-smartfusionglobeverse.pro
 njmvdu.pro
 nkbihfbeogaeaoehlefnkodbefgpgknn.metamaskk.skyhighfirstclass.com.ng
 nkjs0.ru.com
+nnass-unempl.com
 nnetannask.io
 nnttn.cn
 nobody-raffle.com
@@ -6696,6 +6697,7 @@ uionlineletma.com
 uiredofmassucherndy.com
 ujp.ag
 uk-applovinlife.com
+ulgeturbfnow.com
 ulonlinedetma.org
 ultra-prismafinance.com
 umassuigovst.com
@@ -6878,6 +6880,7 @@ view.nugpoint.com
 view.wormmap.xyz
 vikingglobal.linejoinus.com
 viplatii.online
+virginmoneychatwithus.web.app
 virtua.gift
 virtualsecrets.org
 visit-altlayer.io
