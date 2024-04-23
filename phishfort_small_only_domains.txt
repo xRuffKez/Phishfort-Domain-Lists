@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 13:15:21 UTC 2024
-# Number of Entries: 7866
+# Fetch date: Tue Apr 23 13:23:56 UTC 2024
+# Number of Entries: 7864
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2981,7 +2981,6 @@ infiniteworks.net
 infosa.net
 ing-autorizza-cliente.it
 ing-bank.info
-ing-de-acces.com
 ing-onlines.pages.dev
 ing.es-operaciones.com
 ingb.online
@@ -3078,6 +3077,7 @@ jasmy.coinsglass.top
 jazzy-puffpuff-8f1eac.netlify.app
 jblspeakes.com
 jcijobs.com
+jefferiesacademy.com
 jeffwealth.com
 jenkins.codefinity.de
 jenpower.net
@@ -4561,7 +4561,6 @@ nitro-smartfusionglobeverse.pro
 njmvdu.pro
 nkbihfbeogaeaoehlefnkodbefgpgknn.metamaskk.skyhighfirstclass.com.ng
 nkjs0.ru.com
-nnass-unempl.com
 nnetannask.io
 nnttn.cn
 nobody-raffle.com
@@ -6991,7 +6990,6 @@ walletxconnect.live
 wallstmemesrewards.com
 wallstrewards.site
 walltmetamask.com
-walmat.sbs
 wamr.xyz
 wandatree.co.uk
 wap.cdzhjzx.com
