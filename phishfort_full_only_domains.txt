@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 11:22:07 UTC 2024
-# Number of Entries: 108671
+# Fetch date: Tue Apr 23 12:05:06 UTC 2024
+# Number of Entries: 108672
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -41299,6 +41299,7 @@ jjup.ag
 jk62ojq4lsedgsp.amazon.wiki.pancakeswape.finance
 jk62ojq4lsedgsp.www.www.amazon.www.wiki.pancakeswape.finance
 jkgok.com
+jkhggjhgjyf6y.pages.dev
 jkyr.pro
 jl-galagames-1ethereumm-kpo.blogspot.com
 jl1g.com
