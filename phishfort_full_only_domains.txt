@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 21:52:20 UTC 2024
-# Number of Entries: 108697
+# Fetch date: Tue Apr 23 22:15:29 UTC 2024
+# Number of Entries: 108698
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -20329,6 +20329,7 @@ community-collabland.net
 community-cryptos.org
 community-dappradar.com
 community-forum.42web.io
+community-guard.com
 community-ig.com
 community-mav.pages.dev
 community-metamesk.com
