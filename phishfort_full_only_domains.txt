@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 20:32:44 UTC 2024
-# Number of Entries: 108693
+# Fetch date: Tue Apr 23 20:42:17 UTC 2024
+# Number of Entries: 108694
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -63525,6 +63525,7 @@ ordinalsazuki.com
 ordinalsbubbles.space
 ordinalshub.org
 ordinalswallet-gid0.onrender.com
+ordinalswallet-tqi6.onrender.com
 ordinalwallets.net
 ordinate-sync.net
 ordiralswallet.com
