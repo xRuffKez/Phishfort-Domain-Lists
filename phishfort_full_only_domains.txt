@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 16:42:35 UTC 2024
-# Number of Entries: 108683
+# Fetch date: Tue Apr 23 16:52:11 UTC 2024
+# Number of Entries: 108684
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -29299,6 +29299,7 @@ employeejiofinance.com
 empower-retirnnent.com
 empower.gr
 empowerpersonalasset.com
+empowerprivateasset.com
 empowr.com
 emqi.xyz
 emstake.net
