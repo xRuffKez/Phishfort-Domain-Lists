@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Mon Apr 22 23:52:10 UTC 2024
-# Number of Entries: 7888
+# Fetch date: Tue Apr 23 00:11:15 UTC 2024
+# Number of Entries: 7889
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1805,6 +1805,7 @@ cyberdogecoin.top
 cyberkongz.pro
 cyberlama.app
 cyberx-staging.vercel.app
+d.appmooduyh.top
 d.moodyseokd.top
 d.moodysmfof.top
 d0cusiqn.hottern.click
@@ -2494,6 +2495,7 @@ fix.errorsolution.org
 fixbugmigrate.pages.dev
 fixedfloat.best
 fixedfloat.win
+fixedfloat.xyz
 fixedfloatt-io.click
 fixedtloat.com
 fixedtsfloats.com
@@ -6048,7 +6050,6 @@ singularity-sale.net
 singularitydao.app
 siteai.site
 sitemap.allocation-ether.fi
-sitemap.newpardigm-manta.network
 sk-sangvich.cyou
 sk8pes.world
 skaddenlawfirm.com
