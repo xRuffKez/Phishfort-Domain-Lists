@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 03:03:24 UTC 2024
-# Number of Entries: 7884
+# Fetch date: Tue Apr 23 03:15:11 UTC 2024
+# Number of Entries: 7874
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -31,7 +31,6 @@
 1d4f0331-eb63-4d85-9d57-7dacc20bff64-00-3t07qm8fsr0w5.janeway.replit.dev
 1ezagbg.cc
 1icnh.com
-1inch-app.com
 1inch-crypto.top
 1inch-io.app
 1inch-pay.ga
@@ -197,6 +196,7 @@ agoda-bookhotel.top
 agoda-checkout-id843753.com
 agoda-confirm.com-id591057.com
 agoda-global.pro
+agoda-hotelreservation.top
 agoda-jp.cc
 agoda-jp.co
 agoda-jp.site
@@ -1305,7 +1305,6 @@ cbgemcredentialorg.web.app
 cbgyf.pages.dev
 cblre.com
 cbrecbre.com
-cbreholdings.com
 cbreinc.com
 cbrepartners.com
 cbrevoke.org
@@ -3835,7 +3834,6 @@ medidatacareers.com
 mee6-connect.xyz
 mee6appeals.xyz
 meetamaskev.azurewebsites.net
-meetradialsparkhq.com
 mefamask.com
 megaapps.pages.dev
 meiimask-log-iignin.godaddysites.com
@@ -5318,7 +5316,6 @@ primepaymyservi.com
 primesacelicst.com
 priorityonebank.protectedpayroll.com
 private-degenape.com
-privateequitydepartment.com
 pro-collab.land
 pro-zetachain.com
 procch.net
@@ -5684,7 +5681,6 @@ revoke.host
 revoke.ink
 revoke.plus
 revoke.run
-revokeapp.info
 revokeca.com
 revokeca.xyz
 revokecash-portal.pages.dev
@@ -5985,7 +5981,6 @@ shibainu.airdropnow.net
 shibariumwin.com
 shibe-rium.net
 shibememu.tech
-shibreward.net
 shidc.io
 shido-34p.pages.dev
 shido.tco-c.xyz
@@ -6566,8 +6561,6 @@ tiktokshop02.cc
 tiktokshop2.com
 tiktokshopdown.cc
 tiktokshopdown.com
-tiktoksigueme.com
-tiktoksupportnotice.com
 tiktoksupportnotice.online
 tiktoktech.net
 tiktoktech.org
@@ -7023,7 +7016,6 @@ washingtonfinancialpost.com
 washingtonpost.in
 wassies.vip
 wbtc-portal.com
-wcj0esig.pnjz.ru
 wclaiming.net
 wcryptoeslogins.azurewebsites.net
 wdymcrypto-migration.app
@@ -7208,7 +7200,6 @@ whitelists-roninchain.com
 widget-additional.pages.dev
 wigggin.com
 wild.gift
-windowsbackuprecovery.com
 winnebagoindustries.online
 winnings-beam.net
 winsolana.org
@@ -7495,7 +7486,6 @@ www.mavia.lc
 www.mavias.club
 www.mavla.xyz
 www.meetup.services
-www.mehrlesenachrichten.com
 www.meta.pika.asia
 www.meta.wesbcex.com
 www.meta009911.com
