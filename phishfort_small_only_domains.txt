@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 16:26:44 UTC 2024
+# Fetch date: Tue Apr 23 16:35:04 UTC 2024
 # Number of Entries: 7869
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2708,7 +2708,6 @@ giftmanta.net
 giftsteam.ru
 gitcoin-dr-explorer.vercel.app
 give.manta.center
-give5-airtm.com
 giveaway-manta.network
 giveaway-neotokyo.codes
 givesaiyans.com
@@ -7246,6 +7245,7 @@ wverycaxqw6urqwpchk.mxy9ink.ru
 ww-connect-dappradar.com
 wwarm.xyz
 wwe-envivo.com
+wwecorp-okta.com
 wwemerch.shop
 wwenser.xyz
 wwepunch.shop
