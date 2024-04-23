@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 00:32:36 UTC 2024
-# Number of Entries: 7889
+# Fetch date: Tue Apr 23 01:00:37 UTC 2024
+# Number of Entries: 7884
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -593,7 +593,6 @@ app.1inch.lc
 app.1insh.io
 app.activitye.xyz
 app.airrtm.com
-app.airtm08.com
 app.airtm10.com
 app.airtm11.com
 app.airtm12.com
@@ -4356,7 +4355,6 @@ myjuppy-box.com
 myjuppy-box.trade
 mymetamasklogin.com
 mymoneronline.info
-mynewmont.us
 mynewmontbonk.com
 myob.business
 myob.finance
@@ -4636,7 +4634,6 @@ oea1g.pro
 oeth.cash
 ofertachevro.com
 ofertaschev.com
-off5th.saksoff5thz.com
 offer-marketplace.io
 offer-rarible.com
 offers-opensae-io.codeanyapp.com
@@ -5633,7 +5630,6 @@ rektnow.com
 reloadsula.pages.dev
 remarkable-queijadas-77facb.netlify.app
 remotenodesauth.pages.dev
-renasantbank.cc
 rendernetwork.support
 renqiiio.com
 renzo-protocols.com
@@ -5789,7 +5785,6 @@ roomfollow.xyz
 roomgrade.org
 rooninchain.com
 roost-distributions.net
-rosefashion.com.bd
 round2-wenwencoin.com
 route.claims
 router.gifts
