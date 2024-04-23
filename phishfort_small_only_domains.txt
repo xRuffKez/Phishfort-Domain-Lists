@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 20:15:08 UTC 2024
-# Number of Entries: 7878
+# Fetch date: Tue Apr 23 20:23:23 UTC 2024
+# Number of Entries: 7879
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -5554,6 +5554,7 @@ reckonmexico.com
 reconnectto.org
 recoveryportal.pages.dev
 rect-fixdapps.pages.dev
+rectification-data.com
 rectifier-sync.pages.dev
 rectifytrust.com
 rectifywallet.42web.io
