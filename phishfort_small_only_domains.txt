@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 08:42:16 UTC 2024
-# Number of Entries: 7871
+# Fetch date: Tue Apr 23 09:03:25 UTC 2024
+# Number of Entries: 7868
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1927,7 +1927,6 @@ debank-web3.web.app
 debank.svap.org.in
 debank.trustpado.com
 debnhaimes.company.site
-debnhames.company.site
 debnk.net
 debug-metamask.pages.dev
 debug-multichain.pages.dev
@@ -3079,7 +3078,6 @@ janushendersoninv.com
 jasmy.coinsglass.top
 jazzy-puffpuff-8f1eac.netlify.app
 jblspeakes.com
-jci.org.in
 jcijobs.com
 jeffwealth.com
 jenkins.codefinity.de
@@ -3264,7 +3262,6 @@ kohafil.com
 kontak.cs-a-g-o-d-a.com
 kpnmg.net
 kraken-airdrop.pro
-kraken-airdrop.site
 kraken-airdrop.xyz
 kraken-site-darknet1.com
 krakenencoin.com
