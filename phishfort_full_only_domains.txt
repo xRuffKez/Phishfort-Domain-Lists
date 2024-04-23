@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 13:15:40 UTC 2024
-# Number of Entries: 108672
+# Fetch date: Tue Apr 23 13:52:27 UTC 2024
+# Number of Entries: 108678
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -37924,6 +37924,7 @@ hajj-nusuk.foundation
 hajjdomestic-sa.info
 hakigiveaway.com
 halefiuamamalst.com
+halenchimaletma.com
 halento.pw
 halessent.site
 halestramasslost.com
@@ -41147,6 +41148,7 @@ jeepvult.org
 jefferies.top
 jefferies.tw
 jefferies8.com
+jefferiesacademy.com
 jefferieswealth.com
 jeffleries.com
 jeffwealth.com
@@ -61268,6 +61270,7 @@ nrpgroup.co
 nrtcoins.top
 ns.polkadotglobal.co.uk
 ns0.pancakeswape.finance
+ns1.bandwidthserver.com
 ns1.bluefloridahealth.com
 ns1.guardiansplay.com
 ns1.ripple-news.live
@@ -88673,6 +88676,7 @@ ukraineofficial.xyz
 ukrules.xyz
 uktmining.com
 ukvisas-service.lv
+ulgeturbfnow.com
 ulimablackboard.com
 uliv.co.in
 ulonlinedetma.org
@@ -91727,6 +91731,7 @@ viplatii.online
 vipmagija.com
 vipmoodys.com
 viralethereum-promogive.com
+virginmoneychatwithus.web.app
 virginmoneynetwork.com
 virtua.gift
 virtua.web3-airdrop.net
@@ -100721,6 +100726,7 @@ www.jomosoftware.tech
 www.jompyc.com
 www.jordon.info
 www.ju.normbit.online
+www.ju.uiworth.online
 www.junglenft.xyz
 www.just-apes.site
 www.justflyme.com
