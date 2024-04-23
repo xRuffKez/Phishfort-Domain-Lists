@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Tue Apr 23 14:42:10 UTC 2024
-# Number of Entries: 108679
+# Fetch date: Tue Apr 23 14:52:17 UTC 2024
+# Number of Entries: 108681
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -10062,6 +10062,7 @@ b9c17e44.host.njalla.net
 ba-coinbase.com
 ba-yc.icu
 ba.inletuta.online
+baaa.app
 bab.tf
 babdogeswop.space
 babezdna.web3fast.net
@@ -95241,6 +95242,7 @@ wappsautosync.net
 waprcast.com
 warchain.org
 wardenswap-finance.com
+wardenswap.netlify.app
 wareplugsvercel.com
 warnerbrosofficial.xyz
 waroftribes-promogive.com
