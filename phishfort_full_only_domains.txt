@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 04:52:17 UTC 2024
-# Number of Entries: 108703
+# Fetch date: Wed Apr 24 05:04:03 UTC 2024
+# Number of Entries: 108705
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3063,7 +3063,6 @@ agoda-global.pro
 agoda-grow.com
 agoda-hk-booking.com
 agoda-hotel.com
-agoda-hotelreservation.top
 agoda-info.com
 agoda-jp.cc
 agoda-jp.co
@@ -6158,6 +6157,7 @@ app.activationaces.com
 app.activationsaccess.com
 app.activitye.xyz
 app.aeonstake.com
+app.agoda-promotion.com
 app.aiirtm.com
 app.airdroplert.com
 app.airfm.cam
@@ -98264,6 +98264,8 @@ www.appgamesplay.com
 www.apphaxstake.com
 www.appi-games-ac.com
 www.applidofi.com
+www.applovin.club
+www.applovin.pro
 www.appmaticstake.com
 www.appmaticstaking.com
 www.appnexusmutual.com
