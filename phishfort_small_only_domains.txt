@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 00:32:31 UTC 2024
-# Number of Entries: 7886
+# Fetch date: Wed Apr 24 01:00:42 UTC 2024
+# Number of Entries: 7888
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1804,6 +1804,7 @@ cwboffshoreonl.com
 cwboffshoreonline.com
 cwestba.com
 cwrestorevercelapp.com
+cyan-coyote-68763.zap.cloud
 cyberdogecoin.org
 cyberdogecoin.top
 cyberkongz.pro
@@ -6992,6 +6993,7 @@ wallet.zkflre.io
 wallet7.vercel.app
 walletconnect-com.vercel.app
 walletconnect.app-net.top
+walletconnect.dappsynchronizer.live
 walletconnect.pages.dev
 walletconnectio.vercel.app
 walletdefi69.top
