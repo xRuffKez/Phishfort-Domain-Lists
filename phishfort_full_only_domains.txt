@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 14:03:04 UTC 2024
-# Number of Entries: 108713
+# Fetch date: Wed Apr 24 14:42:14 UTC 2024
+# Number of Entries: 108718
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -15457,6 +15457,7 @@ cajo.sejourlabo.top
 cake-airdrop.pages.dev
 cake-defi.net
 cake-defiweb3.com
+cake-distibution-pancakeswap.com
 cake-distribution.net
 cake-drop.com
 cake-farm.com
@@ -46922,6 +46923,7 @@ m.pancakeswasap.one
 m.pancokeswap.com
 m.pancxkeswap.com
 m.paxfulmax.co
+m.pianistmolecule.cn
 m.provemultilateral.top
 m.restoresyncweb.site
 m.restoreweb.online
@@ -60914,6 +60916,7 @@ node.webdapp.site
 node.webfixen.com
 node1yieldrobot.app
 node2bind.tech
+node3-zerionrewards.pages.dev
 node3yieldrobot.com
 node82.btc-giveaway.info
 nodeactivation.org
@@ -89385,6 +89388,7 @@ uniswap.pw
 uniswap.quest
 uniswap.re
 uniswap.reviews
+uniswap.revoke-cashe.xyz
 uniswap.reward-holder.info
 uniswap.rihanweb.xyz
 uniswap.ro
@@ -99024,6 +99028,7 @@ www.chatpgt-trader.com
 www.checkmatesnft.xyz
 www.cherryaerospace.com.cn
 www.chibiheadnft.com
+www.chicfash.com
 www.chicoelectric.com
 www.chudo-skovorodka.club
 www.cion-asx.com
