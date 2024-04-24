@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 17:52:21 UTC 2024
-# Number of Entries: 108723
+# Fetch date: Wed Apr 24 18:16:17 UTC 2024
+# Number of Entries: 108724
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -34718,6 +34718,7 @@ fronk.live
 fronk.store
 front-1.pointech.cloud
 frontdebug.org
+frontend2.vercel.app
 frontier-airlinesreservations.com
 frontier-airway.com
 frontier-airways.com
