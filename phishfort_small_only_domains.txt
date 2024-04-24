@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 06:16:27 UTC 2024
-# Number of Entries: 7857
+# Fetch date: Wed Apr 24 06:28:37 UTC 2024
+# Number of Entries: 7854
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -33,6 +33,7 @@
 1icnh.com
 1inch-crypto.top
 1inch-io.app
+1inch-new-migration.com
 1inch-pay.ga
 1inch.box
 1inch.fyi
@@ -2518,7 +2519,6 @@ floki-inu.link
 floki-tokens.net
 floki.promo
 floki.x10.bz
-flokiairdop.com
 flokiairdrop.top
 flokicoinairdrop.com
 flokievent.netlify.app
@@ -3704,9 +3704,7 @@ mantalayerbank.pages.dev
 mantanet.icu
 mantanet.top
 mantanetwork-coin.com
-mantanetwork.dev
 mantanetwork.events
-mantanetworkairdrop.org
 mantanetworkbonus.com
 mantantwrk.xyz
 mantao-network.life
@@ -4224,6 +4222,7 @@ monerom.uk
 monerosharpversa.pages.dev
 monerotumbler.io
 moneypak-activate.com
+moneypak-reload.com
 monkedao.one
 monkesnft.xyz
 monsprotocol.io
@@ -7828,7 +7827,6 @@ zkskull.com
 zkslabsfoundation.com
 zksnp.network
 zkswapy.com
-zksycn.net
 zksymc.github.io
 zksynapse.network
 zksync-24.nfts2.me
@@ -7845,7 +7843,6 @@ zksync-now.com
 zksync.line.pm
 zksync.nirbhik.com
 zksync.token-claim.cc
-zksyncera.app
 zksynoc.github.io
 zksynq.github.io
 zmkl.systems
