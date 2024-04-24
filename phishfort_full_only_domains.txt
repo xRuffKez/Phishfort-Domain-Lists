@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 20:32:47 UTC 2024
-# Number of Entries: 108727
+# Fetch date: Wed Apr 24 21:32:41 UTC 2024
+# Number of Entries: 108729
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -14430,6 +14430,7 @@ brc20u.com
 brdcryptowallet.com
 brdsupportlive.com
 brdwallet.net
+breachforums.st
 breachforums.vc
 bread-wl.netfly.app
 breadtokenapp.com
@@ -53268,6 +53269,7 @@ microtestdigitalagency.host
 micrstf.online
 mid-american-energy.customersupports.network
 midamerican-energy.com
+midamericanenergyinc.com
 midamericanenergyservice.com
 midamericansenergy.com
 midappsintegration.online
