@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 17:15:24 UTC 2024
+# Fetch date: Wed Apr 24 17:32:39 UTC 2024
 # Number of Entries: 7857
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -934,6 +934,7 @@ bera-olympusdao.finance
 berachainairdrop.com
 berachian.one
 berchian.one
+berkley0il-gas.com
 berlinoff.za.com
 bernachain.info
 berrachain.shop
@@ -6348,7 +6349,6 @@ swappancake.wtf
 swaptoken1inch.org
 swatches-vulcan.xyz
 sweatsync.pages.dev
-sweepstakes708.godaddysites.com
 sweet-zuccutto-855aba.netlify.app
 sweetwater.fun
 swellnetwork.exchange
