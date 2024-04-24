@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 18:52:14 UTC 2024
-# Number of Entries: 7852
+# Fetch date: Wed Apr 24 19:02:52 UTC 2024
+# Number of Entries: 7850
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1827,7 +1827,6 @@ daoprotocol.pages.dev
 dap-radar.com
 dapi.re
 dapp-aicontract.com
-dapp-altlayer.io
 dapp-issuefix.pages.dev
 dapp-node.vercel.app
 dapp-pendle.finance
@@ -1961,7 +1960,6 @@ deelancebit.com
 deelancers.org
 deepcoin-trade.com
 defabuso.me
-defend.sentrykava.com
 defi-airdrops.web.app
 defi-altlayer.com
 defi-altlayer.pages.dev
@@ -3256,6 +3254,7 @@ klarnaitalysrl.welfare.it
 klarnapayment.de
 klarnasecure.com
 klarnashop.cc
+klarnashop.vip
 kmaber.site
 knoxalliance-store.knoxalliance.com
 kofdet.com
@@ -5638,7 +5637,6 @@ revardthededtbox.site
 reveal-manta.pages.dev
 revest-finance.com
 review-complaint981737.com
-reviewdocnow.com
 reviews-airhopper.com
 revok.online
 revok.site
