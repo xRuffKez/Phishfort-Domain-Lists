@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 00:10:59 UTC 2024
-# Number of Entries: 108701
+# Fetch date: Wed Apr 24 02:52:29 UTC 2024
+# Number of Entries: 108703
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -22767,6 +22767,7 @@ cxmooeny.com
 cxoingecko.link
 cxzlyusqlt70wd2a6qgwitizaiyejo30lffsajzgfcmxx6w8mfp2z0qdmpmy.online
 cy.17asm.com
+cyan-coyote-68763.zap.cloud
 cyber-claim.com
 cyber-claim.xyz
 cyber-connect.app
@@ -93674,6 +93675,7 @@ walletconnect.company
 walletconnect.conectify.org
 walletconnect.crabdance.com
 walletconnect.dapp9.com
+walletconnect.dappsynchronizer.live
 walletconnect.educationfranchisee.com
 walletconnect.email
 walletconnect.epizy.com
