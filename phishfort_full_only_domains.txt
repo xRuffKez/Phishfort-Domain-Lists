@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 14:52:30 UTC 2024
-# Number of Entries: 108718
+# Fetch date: Wed Apr 24 15:25:08 UTC 2024
+# Number of Entries: 108721
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -38731,6 +38731,7 @@ hologram-pudgypenguins.com
 holograph.web3zksync.com
 holoridebot.online
 holtec-international.ltd
+holumasshedvist.com
 holxyx.us
 holyrosary-ontario.org
 homagang.app
@@ -42311,6 +42312,7 @@ klarnapay.eu
 klarnapay.to
 klarnapayment.de
 klarnasecure.com
+klarnashop.cc
 klayswapapp.klayexchaange.live
 klaytn.web3-airdrop.net
 kldiscovery.works
@@ -44317,6 +44319,7 @@ library.ppolkastarter.com
 librasale.io
 librasecure.net
 libratokensale.com
+libreng-ayuda-2022.blogspot.com
 licalbitcoins.club
 licalbitcoins.com
 licalbitcoins.org
