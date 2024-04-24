@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 22:52:18 UTC 2024
-# Number of Entries: 7850
+# Fetch date: Wed Apr 24 23:15:31 UTC 2024
+# Number of Entries: 7845
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2755,6 +2755,7 @@ grandomaster.com
 grape-officialx.pages.dev
 graviex-defi.club
 graviex-defi.xyz
+graybar.com.ng
 graybarz.com
 grayscaletokens.com
 greenbitcoin-en.web.app
@@ -3260,7 +3261,6 @@ kofdet.com
 kohafil.com
 kontak.cs-a-g-o-d-a.com
 kpnmg.net
-kraken-airdrop.pro
 kraken-airdrop.xyz
 kraken-site-darknet1.com
 krakenencoin.com
@@ -5497,8 +5497,6 @@ ravokecash.org
 raxful.com
 rayd.ink
 raydeum.io
-raydimain.live
-raydipage.xyz
 raydiu.com
 raydium-frontend.pages.dev
 raydium.dev
@@ -5510,7 +5508,6 @@ raydiumtoken.io
 raydlum.ink
 raydlum.net
 raydlumvy.com
-raydrop.live
 rayduims.beauty
 rayduims.boats
 rayduims.homes
@@ -7029,7 +7026,6 @@ web3-pcsecosystem.com
 web3-phantom.net
 web3-phemex.com
 web3-portfolio.pro
-web3-raydium.com
 web3-revokecash.com
 web3-ronin.com
 web3-shibaswap.com
@@ -7348,7 +7344,6 @@ www.clients-407etr.com
 www.cloud-telephonie.net
 www.codefinity.de
 www.coinbase-fogexter.top
-www.collab-award.io
 www.colloky.online
 www.comethena.ethenaofficial.com
 www.creepz-rebirth.com
