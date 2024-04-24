@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 20:52:24 UTC 2024
-# Number of Entries: 7851
+# Fetch date: Wed Apr 24 21:02:57 UTC 2024
+# Number of Entries: 7850
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1175,6 +1175,7 @@ bratishkaa.com
 brave-blog.mylviajes.com.ve
 bravebrowserdl.online
 brc20.su
+breachforums.st
 bridgarbltrum.com
 bridge-a3vigrfjd-pancakeswap.vercel.app
 bridge-modenet.work
@@ -2169,7 +2170,6 @@ dymensiondrop.com
 dymensiondrop.eu
 dynamicvisionmanagement.com
 dyvmemsion.xyz
-e-ledgerlive.com
 e-linea.com
 e-node.pages.dev
 e-then-a.fun
@@ -3883,7 +3883,6 @@ metabmasskus.azurewebsites.net
 metabolt.io
 metacoin-participate.com
 metacoin.digital
-metacoincrypto.online
 metaconfirmed.io
 metadrop-us.com
 metadrop.cloud
@@ -4090,6 +4089,7 @@ microsfrategy.com
 microsoftedge.pancakeswap.finance.expolorer.im
 microstrategy-promo.gift
 mid-american-energy.customersupports.network
+midamericanenergyinc.com
 migrate-aeggs.pro
 migrate-dapp.pro
 migrate-firsttensor.shop
@@ -6455,7 +6455,6 @@ tether.com.se
 tether.is
 tetherlaupad.com
 tethermetamask.com
-tetherusdt.shop
 texasplasmacenters.info
 tgl-me.ru
 the-agodahotel.top
