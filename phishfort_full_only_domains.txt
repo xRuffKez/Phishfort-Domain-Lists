@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 09:15:42 UTC 2024
-# Number of Entries: 108708
+# Fetch date: Wed Apr 24 10:27:05 UTC 2024
+# Number of Entries: 108706
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -17455,6 +17455,7 @@ claim.coinappprotocol.live
 claim.coinbabydoge.org
 claim.coindoge.org
 claim.coinenjin.org
+claim.coingecko.news
 claim.coinpepe.org
 claim.coinuni.org
 claim.compountoken.org
@@ -17911,7 +17912,6 @@ claimyour-btc.org
 claimyour-eth.org
 claimyourcoiin.com
 claimzerion-protocol.pages.dev
-claimzeriondapps.pages.dev
 claimzk.com
 claimzksync.dynv6.net
 claimzksyncid.live
@@ -41315,7 +41315,6 @@ jjup.ag
 jk62ojq4lsedgsp.amazon.wiki.pancakeswape.finance
 jk62ojq4lsedgsp.www.www.amazon.www.wiki.pancakeswape.finance
 jkgok.com
-jkhggjhgjyf6y.pages.dev
 jkyr.pro
 jl-galagames-1ethereumm-kpo.blogspot.com
 jl1g.com
@@ -79049,7 +79048,6 @@ shareneedz.xyz
 sharkgirltoken-promogive.com
 sharkznft.xyz
 sharonwen.com
-sharpfi.pages.dev
 sharxsharky-mint.netlify.app
 sharxsharky.web.app
 sharxsharkywl.netlify.app
@@ -83738,6 +83736,7 @@ swap-frontend.pages.dev
 swap-jupiter.com
 swap-kiwi.ml
 swap-l2.com
+swap-makerdao.org
 swap-metamask.com
 swap-moon.com
 swap-nft.pages.dev
@@ -89380,7 +89379,6 @@ uniswap.pw
 uniswap.quest
 uniswap.re
 uniswap.reviews
-uniswap.revoke-cashe.xyz
 uniswap.reward-holder.info
 uniswap.rihanweb.xyz
 uniswap.ro
