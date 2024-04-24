@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 09:32:28 UTC 2024
-# Number of Entries: 7854
+# Fetch date: Wed Apr 24 09:42:24 UTC 2024
+# Number of Entries: 7843
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -31,7 +31,6 @@
 1d4f0331-eb63-4d85-9d57-7dacc20bff64-00-3t07qm8fsr0w5.janeway.replit.dev
 1ezagbg.cc
 1icnh.com
-1inch-crypto.top
 1inch-io.app
 1inch-new-migration.com
 1inch-pay.ga
@@ -524,7 +523,6 @@ api8-vulcan.com
 apicollab.land
 apid.tiktokcz.com
 apisynchronizer.live
-apkdownload.com
 apn.com.np
 apnasecure.com
 app-aerodorme.finance
@@ -1484,7 +1482,6 @@ claim.celatisx.top
 claim.chainngpt.com
 claim.dotfinance.ltd
 claim.dotfinance.solutions
-claim.dydxexchang.com
 claim.dymensionall.club
 claim.entstoken.net
 claim.ethnafi.cc
@@ -1544,7 +1541,6 @@ claimstrk.today
 claimstrk.xyz
 claimvoucher2.glitch.me
 claimzerion-protocol.pages.dev
-claimzeriondapps.pages.dev
 clark-constructions.org
 clarkcorstruction.com
 clarkgroup-us.co
@@ -3091,7 +3087,6 @@ jitocoins-network.com
 jitodrop.net
 jizzx.b4t.to
 jjup.ag
-jkhggjhgjyf6y.pages.dev
 joblessassistancenetwork.com
 joblessassistanceportal.com
 joblessassistanceportal.net
@@ -3464,7 +3459,6 @@ listings-open-sea.net
 listings-open-sea.wf
 live-algo.site
 live-altlayer.com
-live-altlayer.io
 live-zetachain.com
 liveblocksrectify.pages.dev
 livepersonatunitedairlin.amebaownd.com
@@ -5658,7 +5652,6 @@ revoke.greyh.at
 revoke.host
 revoke.ink
 revoke.plus
-revoke.run
 revokeca.com
 revokeca.xyz
 revokecash-portal.pages.dev
@@ -5942,7 +5935,6 @@ sewllnetwork.io
 sfccrcc.shop
 shardeum-airdrops-register-live.vercel.app
 shardeumorg.vercel.app
-sharpfi.pages.dev
 shdw-get-o5yed.netlify.app
 shein3.com
 shelldao.net
@@ -6328,6 +6320,7 @@ swap-dev-git-fix-wc2-cowswap.vercel.app
 swap-dev-git-nx-true-project-cowswap.vercel.app
 swap-jupiter.com
 swap-l2.com
+swap-makerdao.org
 swap-nft.pages.dev
 swap.dikecoin.net
 swap.pancake.us.com
@@ -6608,7 +6601,6 @@ treasure.gl
 treasure.gs
 treasuredao.qa
 treasuredao.rip
-treasury-seedify.tech
 treasury.keipdao.net
 treasury.roninschains.com
 trekki1-2ao7ciwr8-scgllr.vercel.app
@@ -6709,7 +6701,6 @@ uniswap-pools.web.app
 uniswap-staking-pools.web.app
 uniswap.fi
 uniswap.op-com0516.xyz
-uniswap.revoke-cashe.xyz
 uniswap.web3-x.org
 uniswapv3.online
 uniswapv4-liqudity-provide.web.app
@@ -7007,7 +6998,6 @@ web-dextools.com.syncstatics.com
 web-kavaa.netlify.app
 web-metamesklogin.uteach.io
 web.fixsolution.io
-web.pancake.run
 web.paxful-coin.cc
 web.resolvebugvvalidly.org
 web.siteai.site
@@ -7265,7 +7255,6 @@ www.agodaycs.net
 www.agrtech.tech
 www.ahikec.com
 www.ai-meme.xyz
-www.aiews.org
 www.aionedrop.xyz
 www.air-altlayer.com
 www.airdrop-subquery.foundation
