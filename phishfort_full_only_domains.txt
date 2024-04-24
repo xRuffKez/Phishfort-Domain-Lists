@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 13:18:03 UTC 2024
-# Number of Entries: 108711
+# Fetch date: Wed Apr 24 13:28:26 UTC 2024
+# Number of Entries: 108713
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -25003,6 +25003,8 @@ dbix.link
 dbm.mu
 dbp.coinsbase8.com
 dbridgenode.netlify.app
+dbrs-fin.com
+dbrs-ltd.com
 dbrsco.com
 dbrsco.net
 dbrsco.org
