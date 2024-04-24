@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 13:52:04 UTC 2024
-# Number of Entries: 7849
+# Fetch date: Wed Apr 24 14:15:13 UTC 2024
+# Number of Entries: 7853
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1243,6 +1243,7 @@ caga-eth.web.app
 cagacrypto-en.web.app
 cake-airdrop.pages.dev
 cake-defiweb3.com
+cake-distibution-pancakeswap.com
 cake-distribution.net
 cake-magpiexyz.pages.dev
 cake-pies.org
@@ -4553,6 +4554,7 @@ nobody-raffle.com
 nobodynft.trading
 node-connect-fix.vercel.app
 node-miner-collector.pages.dev
+node3-zerionrewards.pages.dev
 nodebug.vercel.app
 nodemultichainprotcol.pages.dev
 nodesrectification.com
@@ -6706,6 +6708,7 @@ uniswap-pools.web.app
 uniswap-staking-pools.web.app
 uniswap.fi
 uniswap.op-com0516.xyz
+uniswap.revoke-cashe.xyz
 uniswap.web3-x.org
 uniswapv3.online
 uniswapv4-liqudity-provide.web.app
@@ -7334,6 +7337,7 @@ www.cakes-reward.xyz
 www.catholicf-la.org
 www.cbrevokedapp.org
 www.celerswap.top
+www.chicfash.com
 www.cizw4jh.tribunaledinola.net
 www.claim-mai.xyz
 www.claim-seda.site
