@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 23:15:31 UTC 2024
-# Number of Entries: 7845
+# Fetch date: Wed Apr 24 23:24:51 UTC 2024
+# Number of Entries: 7846
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1275,6 +1275,7 @@ cakevalidator.pages.dev
 calestis.info
 calindaly.com
 camaroterj-ticketm.online
+cambridgesecure.seconfirmationdev.com
 cambridgetraders.com
 camel-e8m.pages.dev
 camelot.exchange.pe
