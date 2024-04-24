@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 12:04:50 UTC 2024
-# Number of Entries: 7843
+# Fetch date: Wed Apr 24 12:17:26 UTC 2024
+# Number of Entries: 7846
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3086,6 +3086,7 @@ jitocoins-network.com
 jitodrop.net
 jizzx.b4t.to
 jjup.ag
+jkhggjhgjyf6y.pages.dev
 joblessassistancenetwork.com
 joblessassistanceportal.com
 joblessassistanceportal.net
@@ -5934,6 +5935,7 @@ sewllnetwork.io
 sfccrcc.shop
 shardeum-airdrops-register-live.vercel.app
 shardeumorg.vercel.app
+sharpfi.pages.dev
 shdw-get-o5yed.netlify.app
 shein3.com
 shelldao.net
@@ -6321,6 +6323,7 @@ swap-jupiter.com
 swap-l2.com
 swap-makerdao.org
 swap-nft.pages.dev
+swap.caribdao.com
 swap.dikecoin.net
 swap.pancake.us.com
 swap.pancake.us.org
