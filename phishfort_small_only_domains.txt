@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 05:42:05 UTC 2024
-# Number of Entries: 7862
+# Fetch date: Wed Apr 24 05:52:11 UTC 2024
+# Number of Entries: 7857
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2382,7 +2382,6 @@ event-blockgames.com
 event-chaingpt.org
 event-etf.com
 event-faccana.com
-event-grayscale.com
 event-lidofinance.com
 event-pandora.community
 event-realios.com
@@ -3311,7 +3310,6 @@ launchpad-etherfi.com
 launchpad-metis.app
 launchpad-metis.com
 launchpad-optimism.network
-launchpad-optinnism.com
 launchpad-overlord.xyz
 launchpad-pancake.com
 launchpad-qubic.com
@@ -3390,8 +3388,6 @@ lido-fi.homes
 lido-fi.nl
 lido-finance.net
 lido-g8o.pages.dev
-lido-reward.net
-lido-reward.org
 lido-rewards.pages.dev
 lido-stake.vercel.app
 lido-staking.pages.dev
@@ -4777,7 +4773,6 @@ ordizkweb.com
 orgderma.com
 orgnlt.me
 origintracdappcom.com
-orivium.trading
 orlandoplasmacenters.com
 osaic-wisconsin.com
 osmososis-zone.xyz
@@ -4828,6 +4823,7 @@ pancackeswap-claim.web.app
 pancaikeswap.finance
 pancakaswap-finance.xyz
 pancakaswaps.com
+pancakaswp-finance.com
 pancake-clalm.xyz
 pancake-finance.net
 pancake-finance.org
@@ -5027,7 +5023,6 @@ parclllimited.com
 parknationalkgt.pics
 parriss2024.org
 partenariat-bouygues-telecom-entreprises.fr
-participate-zks.net
 partners-ait.tech
 partners-zerolend.com
 partnership-ait.com
