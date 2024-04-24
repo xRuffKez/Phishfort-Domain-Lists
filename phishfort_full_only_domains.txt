@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 19:22:20 UTC 2024
-# Number of Entries: 108725
+# Fetch date: Wed Apr 24 20:03:23 UTC 2024
+# Number of Entries: 108727
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -60124,6 +60124,7 @@ newmont-usa.com
 newmont.live
 newmont.online
 newmont.pro
+newmont.store
 newmontassetss.com
 newmontcop.com
 newmontcoporation.com
@@ -91766,6 +91767,7 @@ viperaz.xyz
 viplatii.online
 vipmagija.com
 vipmoodys.com
+vipnewmont.com
 viralethereum-promogive.com
 virginmoneychatwithus.web.app
 virginmoneynetwork.com
