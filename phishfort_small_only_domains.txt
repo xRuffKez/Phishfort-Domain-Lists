@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 18:03:28 UTC 2024
-# Number of Entries: 7856
+# Fetch date: Wed Apr 24 18:15:48 UTC 2024
+# Number of Entries: 7852
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2565,6 +2565,7 @@ freestorecol.online
 freesync.pages.dev
 freshairdrop-website.live
 from-agoda.site.pro
+frontend2.vercel.app
 frp.bio
 fsafeds.comet.sa.com
 fsafeds.comt.sa.com
@@ -6857,8 +6858,6 @@ vhvhgv.pages.dev
 viacripto.com
 vic1.info-equinor.com
 victorianwoodsstudio.com
-vietnamtiktok.com
-vietnamtiktok.shop
 view.nugpoint.com
 view.wormmap.xyz
 vikingglobal.linejoinus.com
@@ -7105,10 +7104,7 @@ weblinknode.web.app
 weblinknodeapp.web.app
 webmultiverse-smartchain.xyz
 webnet3.com
-webonlinez.ru.com
 webonlinez.sa.com
-webonlinjes.za.com
-webonlinws.sa.com
 websmart-de.fi
 websolverdapp.pages.dev
 webtransfer.vfjikpnlth.life
