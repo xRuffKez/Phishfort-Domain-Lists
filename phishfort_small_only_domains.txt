@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 19:22:05 UTC 2024
-# Number of Entries: 7850
+# Fetch date: Wed Apr 24 19:32:37 UTC 2024
+# Number of Entries: 7851
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1784,7 +1784,6 @@ cryptovipweb30.com
 cryptovipweb30.top
 cryptovipweb30.vip
 cryptowrapped.cc
-cs2-blast.com
 cs2polygonx.top
 csagoda.co
 csagoda.my.id
@@ -4446,6 +4445,7 @@ new.stonlix.xyz
 new.suithefrensi.xyz
 newidex.live
 newmont.live
+newmont.store
 newmontassetss.com
 newmontemining.com
 newmontfunds.com
@@ -6860,6 +6860,7 @@ view.nugpoint.com
 view.wormmap.xyz
 vikingglobal.linejoinus.com
 viplatii.online
+vipnewmont.com
 virginmoneychatwithus.web.app
 virtua.gift
 virtualsecrets.org
