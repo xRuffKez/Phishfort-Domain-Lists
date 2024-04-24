@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 06:04:50 UTC 2024
-# Number of Entries: 108706
+# Fetch date: Wed Apr 24 06:37:43 UTC 2024
+# Number of Entries: 108708
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -411,6 +411,7 @@
 1inch-network.pages.dev
 1inch-network.vip
 1inch-networkfi.com
+1inch-new-migration.com
 1inch-nft.com
 1inch-nypromo.com
 1inch-page.top
@@ -54346,6 +54347,7 @@ moneycontrols.in
 moneyguide.finance
 moneylion.com
 moneypak-activate.com
+moneypak-reload.com
 moneysandesh.com
 moneywebsync.org
 mong.app
