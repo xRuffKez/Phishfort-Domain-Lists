@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 12:33:52 UTC 2024
-# Number of Entries: 7846
+# Fetch date: Wed Apr 24 13:01:35 UTC 2024
+# Number of Entries: 7847
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2369,6 +2369,7 @@ ethswaps.org
 ethtoken-defi.com
 ethuegas.com
 ethurgas.com
+ethvnn.com
 ethyourgas.com
 etr-407-payment.com
 etr407.ca
