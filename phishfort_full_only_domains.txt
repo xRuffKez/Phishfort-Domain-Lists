@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 16:42:23 UTC 2024
-# Number of Entries: 108721
+# Fetch date: Wed Apr 24 17:25:29 UTC 2024
+# Number of Entries: 108723
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3064,6 +3064,7 @@ agoda-global.pro
 agoda-grow.com
 agoda-hk-booking.com
 agoda-hotel.com
+agoda-hotelreservation.top
 agoda-info.com
 agoda-jp.cc
 agoda-jp.co
@@ -11119,6 +11120,7 @@ berachian.one
 berchian.one
 berkeyoil-gas.com
 berklayah.com
+berkley0il-gas.com
 berkleycorp.com
 berkleyoil-qas.com
 berkleyrlsk.com
