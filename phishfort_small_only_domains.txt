@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 04:52:04 UTC 2024
-# Number of Entries: 7888
+# Fetch date: Wed Apr 24 05:03:46 UTC 2024
+# Number of Entries: 7862
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -66,7 +66,6 @@
 2fa-metamask.online.snackbarko.nl
 2faprotector.com
 2ham.pro
-2r1.nhvw4is.ru
 3000usdt.xyz
 32f79d9c.7cdb6f3702a09bbbd3afc136.workers.dev
 365cash.store
@@ -124,7 +123,6 @@
 9e6e51d6-1af4-46ae-b583-dc84ea67ef6c-00-16rc48b4ompks.kirk.replit.dev
 9inchswap.com
 9macu.info
-9x9231xxchoked.online
 a1pv.cc
 a26ed5eb.hub-originether.org
 a407info.com
@@ -189,14 +187,12 @@ aflac.socialports.com
 aflacglobal.com
 agent-nulik.org
 ageofgods.eu
-agic.link
 agixreward.xyz
 agoda-88.vip
 agoda-bookhotel.top
 agoda-checkout-id843753.com
 agoda-confirm.com-id591057.com
 agoda-global.pro
-agoda-hotelreservation.top
 agoda-jp.cc
 agoda-jp.co
 agoda-jp.site
@@ -339,7 +335,6 @@ airdropclaimdev.netlify.app
 airdroplooksrare.org
 airdropmainnetprotocol.firebaseapp.com
 airdropmainnetprotocol.web.app
-airdropmanta.top
 airdropmanta.xyz
 airdropmetamask.xyz
 airdropmexcnews.top
@@ -593,6 +588,7 @@ app-xpet.tech
 app.1inch.lc
 app.1insh.io
 app.activitye.xyz
+app.agoda-promotion.com
 app.airrtm.com
 app.airtm10.com
 app.airtm11.com
@@ -1536,7 +1532,6 @@ claimopeaseamysterydrop.com
 claimpancakeswap.finance
 claimpandoshi.com
 claimportal.foundation
-claims-metis.io
 claims-realios.com
 claims-usdt.org
 claimshido.pages.dev
@@ -2017,7 +2012,6 @@ deplimigration.dev
 desblq-davi.waw.pl
 descontosgm.com
 descriptionconnect.onrender.com
-deskauthnode.xyz
 deskmainnetsynch.com
 detma-secure.insystdetmaa.in
 detma.online
@@ -2559,9 +2553,6 @@ fox-dao.web.app
 fr-worldcoin.web.app
 fragnantinglev.life
 frame.markets
-framenextech.net
-framexdao.net
-framexexplorer.net
 free-altlayer.com
 free-altlayers.com
 free-tias.com
@@ -3075,7 +3066,6 @@ islamiccoin.network
 issuesdefi.xyz
 it.support.swift-ness.com
 itaca.in
-italianoinfo.net
 iykapp.xyz
 izumis.finance
 j2gkzzu.top
@@ -3121,7 +3111,6 @@ join-mantanetwork.com
 join-mickeycoin.com
 join-nocturnes.xyz
 join-pendle.com
-join-pixels.com
 join-porkcoin.io
 join-satoshivm.app
 join-satoshivm.io
@@ -3369,7 +3358,6 @@ ldofi-promos.com
 leakhub.io
 learcorporativo.com
 learn-unibot.app
-learventa.com
 ledger-wallet-ledger.biz
 ledgerhnet.gotdns.ch
 ledgerlive-app.online
@@ -3646,7 +3634,6 @@ mamtanetworkbonus.com
 mamtanetworkbonus.net
 manage.adoga-4262.com
 manda-network.com
-mandatory-multi-factor-authenticator.us-ord-1.linodeobjects.com
 manranetwcrk.com
 mant-app.com
 manta-6om.pages.dev
@@ -3732,7 +3719,6 @@ mantapacifc.com
 mantapcfc.network
 mantas-event.com
 mantas-net.app
-mantasnetwork.net
 mantastake.com
 mantatech.network
 mantawebapp.pages.dev
@@ -4106,7 +4092,6 @@ mh-pharma.com
 miaviia.com
 micro3.app
 microsfrategy.com
-microsoft-verify.ofisuu.com
 microsoftedge.pancakeswap.finance.expolorer.im
 microstrategy-promo.gift
 mid-american-energy.customersupports.network
@@ -4143,7 +4128,6 @@ migrationmetagalaxyland.website
 mike-token-web-1rj55ugoo-percenal-miketoken.vercel.app
 mike-token-web-olj7orfr7-percenal-miketoken.vercel.app
 mike-token-web-qdclhqzos-miketoken.vercel.app
-miladyfumo.tech
 miladyfumos.xyz
 milemartpure.com
 million-satoshivm.io
@@ -4238,7 +4222,6 @@ mogcoin.rewardshare.info
 molina-healthcareinc.com
 molinahealthcare-careers.com
 molinahealthcare.empyreandemo.com
-momentsbycandles.com
 monad--chain.com
 mondoffices.com
 monerom.uk
@@ -5221,7 +5204,6 @@ pichainmall.com.ng
 pikamoon-de.web.app
 pikamoon-icu.web.app
 pipsyl.top
-pixals.xyz
 pixel-lands.com
 pixelmon-mint.com
 pixels-verify.pages.dev
@@ -5300,7 +5282,6 @@ portalnextinsurances.com
 portals-game.web.app
 portals-networks.web.app
 portalsbridg.com
-portel-bridg.com
 portelbridges.org
 portelbrldge.org
 portfolio-mask-mask-master-dedi285032.codeanyapp.com
@@ -5342,7 +5323,6 @@ promochevro.com
 promoochevro.com
 promotg.fun
 prompt-0x216.xyz
-prompt-0x828.com
 promt-088x2.com
 pronkhub.ru
 prophetsbot.app
@@ -5367,7 +5347,6 @@ pub-0186f027c154484fbcbeb90161ab83cf.r2.dev
 pub-306b361010174008ab5773c839617c85.r2.dev
 pub-c7119d8cef5d4359861e1426cf37c62c.r2.dev
 pub-e9989cc0d26d4a2f9e7017c197e26310.r2.dev
-pub-ef521178253943d19f4991b34907623f.r2.dev
 pudgypenguines.com
 puffer-2a0.pages.dev
 puffer-quesst.info
@@ -5760,7 +5739,6 @@ roachcoin.in
 robopunksnft.cristovao.codes
 robots-farm.xyz
 rockelpool.net
-rocketpool.liquidityus.net
 rocketpool.org
 rocketpool.pro
 rocketpool.xlaunchpad.live
@@ -5857,7 +5835,6 @@ saksoff5thx.com
 saksoff5thy-co.com
 saksoff5thyy-kco.com
 saksoff5thyyppl.top
-saksoff5thz.com
 sakssaks.com
 sakssof5th.com
 sale-webverse.com
@@ -6054,7 +6031,6 @@ skasoff5th02.com
 skasoff5th03.com
 skinsmonkey.combine.tundragon.com
 skipton-login.com
-skymavis-axie.com
 skymavis.cfd
 skynet229.godaddysites.com
 skywardsemirates.com
@@ -6194,7 +6170,6 @@ stableusdc.com
 stadrlebs.org
 staekland.com
 stag.token.mlteam.net
-staging.www1.nftcircle.xyz
 staikewise.net
 stake-ator.app
 stake-chainlink.finance
@@ -6460,7 +6435,6 @@ tensor-samurai.io
 tensor-trade-git-tree-tensor.vercel.app
 tensor-trade.netlify.app
 tensors.site
-tensorsamurai.space
 terminal-befilabs.com
 terra-airdrop.onrender.com
 terra-claim.xyz
@@ -6624,7 +6598,6 @@ totalwine-sale.shop
 touzhai.cn
 track-web3.online
 tracking.airtm20.com
-tracking.give5-airtm.com
 tracomservices.com
 tradedao-mig.click
 traderjoeyxz.app
@@ -7325,6 +7298,8 @@ www.app-portal-wps-personas.cc
 www.app-wasabi.xyz
 www.app.defi-connect.xyz
 www.app.trust-reward.live
+www.applovin.club
+www.applovin.pro
 www.appscallop.io
 www.appsofamon.xyz
 www.appstride.zone
@@ -7715,7 +7690,6 @@ xmr.altspads500.top
 xmxx.btcethl.vip
 xn--1nch-vpa.io
 xn--1nh-3la2a.com
-xn--arbtrum-tfb.com
 xn--fixedfaot-wpbe.com
 xn--fixedflaot-2ub.net
 xn--fixedflaot-k8a.com
