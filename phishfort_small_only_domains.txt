@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Wed Apr 24 11:52:12 UTC 2024
+# Fetch date: Wed Apr 24 12:04:50 UTC 2024
 # Number of Entries: 7843
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1788,7 +1788,6 @@ csagoda.co
 csagoda.my.id
 csagoda.store
 csagodaonline.masukmobilee.de
-csl-seqirus.com
 cuadrosblangar.es
 cubeexchange.co
 cumminsusa.com
@@ -7769,6 +7768,7 @@ zerion-uup.pages.dev
 zerion.claimfree.xyz
 zerionpro.com
 zerionu.com
+zerionweb3-noderewards.pages.dev
 zero-lend.app
 zeroiand.xyz
 zerolend.app
