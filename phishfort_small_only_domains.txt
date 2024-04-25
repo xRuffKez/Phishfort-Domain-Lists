@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 04:15:39 UTC 2024
-# Number of Entries: 7827
+# Fetch date: Thu Apr 25 04:25:38 UTC 2024
+# Number of Entries: 7832
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2866,6 +2866,7 @@ hidden-airdrops.xyz
 highllght.com
 hippies-world.com
 hkasia-pooldefi.com
+hkhjk.linkpc.net
 hlbtn-company.ltd
 hlxfsx.com
 hntevent.com
@@ -5095,6 +5096,8 @@ pceme.cc
 pckweb3-platform.com
 pcpgxr.top
 pcs-cakexdefi.com
+pcs-defistakeexc-v3.com
+pcs-defistakeexcv3.com
 pcs-defistakev3.com
 pcs-farmv4.com
 pcs-farmv4.net
@@ -5957,6 +5960,7 @@ shitzuapes.fun
 shjq3rw.cc
 shlba-3.live
 shop-morganwallenmerch.com
+shop-taylorswift.com
 shoptiktok.club
 shrapnel.cloud
 shrapnel.life
@@ -6402,6 +6406,7 @@ tataconsultants.com
 tawuniya.online-link.net
 taxltg.com
 taylorswiftmerchofficial.com
+taytaymerch.com
 tdecu-support.info
 tdg7gr.pro
 tdserv.com
