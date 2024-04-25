@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 07:52:09 UTC 2024
-# Number of Entries: 7820
+# Fetch date: Thu Apr 25 08:03:30 UTC 2024
+# Number of Entries: 7821
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3372,6 +3372,7 @@ lfg-up.icu
 lgwttt.pro
 libertyfinancial.xyz
 libertyfinancials.xyz
+libreng-ayuda-2022.blogspot.com
 lido-airdrop.app
 lido-dist.web.app
 lido-fi.digital
