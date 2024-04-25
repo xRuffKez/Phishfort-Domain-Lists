@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 07:42:16 UTC 2024
-# Number of Entries: 108739
+# Fetch date: Thu Apr 25 08:03:47 UTC 2024
+# Number of Entries: 108743
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -66758,6 +66758,7 @@ pancakeswapdex.site
 pancakeswapdex.stsblockchain.xyz
 pancakeswapdone.com
 pancakeswapdrive.com
+pancakeswapdrop.com
 pancakeswapdrop78.vercel.app
 pancakeswapdutch.com
 pancakeswape-finance.site
@@ -85006,6 +85007,8 @@ taxproezonline.com
 tayari.xyz
 taydium.io
 taylorswiftmerchofficial.com
+taylorswiftmerchshop.us
+taylorswiftmerchstore.net
 taylorusmerch.com
 taytaymerch.com
 tazanews18.in
@@ -104344,6 +104347,7 @@ www.user-paxful.com
 www.user-pudgypen.xyz
 www.usersfreemints.click
 www.ustaylorsshop.com
+www.ustaylorsshops.com
 www.uvfkprp.top
 www.uwallet.com
 www.uwallets.live
