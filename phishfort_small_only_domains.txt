@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 09:51:56 UTC 2024
-# Number of Entries: 7821
+# Fetch date: Thu Apr 25 10:15:18 UTC 2024
+# Number of Entries: 7822
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4891,7 +4891,6 @@ pancakeswap.dikecoin.com
 pancakeswap.godaddysites.com
 pancakeswap.sipf.cc
 pancakeswap92.vercel.app
-pancakeswapairdrop-event.finance
 pancakeswapairdrop.com
 pancakeswapclick04.vercel.app
 pancakeswapcrypto.com
@@ -5180,6 +5179,7 @@ pibel.cc
 pichainmall.com.ng
 pikamoon-de.web.app
 pikamoon-icu.web.app
+pinswap.xyz
 pipsyl.top
 pixel-lands.com
 pixelmon-mint.com
@@ -7458,6 +7458,7 @@ www.methmantle.xyz
 www.metomask.ru
 www.moacverse.xyz
 www.mode.networkapp.hu54.com
+www.moneypak.store
 www.multichain-web.de
 www.multiversechainx.com
 www.mwallet8.com
