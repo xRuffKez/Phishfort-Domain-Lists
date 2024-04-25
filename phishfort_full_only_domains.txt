@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 14:52:27 UTC 2024
-# Number of Entries: 108755
+# Fetch date: Thu Apr 25 15:24:42 UTC 2024
+# Number of Entries: 108757
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -91795,6 +91795,7 @@ vipmoodys.com
 vipnewmont.com
 viralethereum-promogive.com
 virginmoneychatwithus.web.app
+virginmoneylivechat.com
 virginmoneynetwork.com
 virtua.gift
 virtua.web3-airdrop.net
@@ -100017,6 +100018,7 @@ www.extension-metamask.com.insurance-world.in
 www.extension-node.com
 www.extensionserver.com
 www.f1.pancakeswape.finance
+www.f2poolc.com
 www.f2poolioe.com
 www.facture-paye-post.s-pankii.services
 www.falbentsenr.site
