@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 11:32:16 UTC 2024
-# Number of Entries: 108747
+# Fetch date: Thu Apr 25 11:42:24 UTC 2024
+# Number of Entries: 108749
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -32349,6 +32349,7 @@ exchange-gmxio.com
 exchange-idex.com
 exchange-idex.io
 exchange-kub.com
+exchange-makerdao.org
 exchange-otc.biz
 exchange-otc.info
 exchange-otc.life
@@ -70739,6 +70740,7 @@ pinksela.xyz
 pinkswap.finance
 pinksxle.com
 pinnacleoptiontrade.com
+pinswap.xyz
 pinterest-airdrop.com
 pintunft.online
 piocoln.com
