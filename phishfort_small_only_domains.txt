@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 14:52:15 UTC 2024
+# Fetch date: Thu Apr 25 15:03:25 UTC 2024
 # Number of Entries: 7826
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1032,7 +1032,6 @@ bitrock-app.com
 bitsgapmis.com
 bitstable-finance.pages.dev
 bittechsolutionz.online
-bittnsor.com
 bitukub.com
 bks-at.com
 bks-partsners.com
@@ -3615,6 +3614,7 @@ makerdaobnb.online
 makerdaobsc.online
 makerdaov3.pages.dev
 makerfoundation.github.io
+makernetwork-finance.com
 mamasuimestmaorgst.com
 mamtaairdropevent.net
 mamtabluerewards.com
@@ -4598,7 +4598,6 @@ octonodedapp.pages.dev
 odishaolympic.org
 oea1g.pro
 oeth.cash
-ofertachevro.com
 ofertaschev.com
 offer-marketplace.io
 offer-rarible.com
@@ -6839,6 +6838,7 @@ vikingglobal.linejoinus.com
 viplatii.online
 vipnewmont.com
 virginmoneychatwithus.web.app
+virginmoneylivechat.com
 virtua.gift
 virtualsecrets.org
 visit-altlayer.io
