@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 13:42:24 UTC 2024
-# Number of Entries: 108748
+# Fetch date: Thu Apr 25 14:32:25 UTC 2024
+# Number of Entries: 108753
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -14386,6 +14386,7 @@ brandsoutlet.qa
 brandyourdomian.com
 bransonbtc.com
 brarve.com
+bratishkaa.com
 brave-ardinghelli.3-133-133-108.plesk.page
 brave-blog.mylviajes.com.ve
 brave-bounty.com
@@ -14430,7 +14431,6 @@ brc20u.com
 brdcryptowallet.com
 brdsupportlive.com
 brdwallet.net
-breachforums.st
 breachforums.vc
 bread-wl.netfly.app
 breadtokenapp.com
@@ -17800,6 +17800,7 @@ claims-layerzero.site
 claims-lens.xyz
 claims-lido.fi
 claims-looksrare.com
+claims-makerdao.com
 claims-matic.com
 claims-memecoin.com
 claims-metamask.com
@@ -23129,6 +23130,7 @@ daomaker.company
 daomaker.connecting-web3.net
 daomaker.connects-web3.com
 daomaker.es
+daomaker.fyi
 daomaker.my.id
 daomaker.network
 daomaker.pm
@@ -48598,6 +48600,7 @@ massposos.com
 masssccaradd.com
 masssosatgo.com
 massuiprofilelogin.onrender.com
+massulonllnedet.org
 mast-dpp.firebaseapp.com
 mast-dpp.web.app
 master-brain.com
@@ -56120,6 +56123,7 @@ myenthereumwallet.com
 myentnherballet.com
 myeosdac.top
 myeostrust.com
+myeparterststacks.com
 myepherwallet.com
 myerdtherwalking.com
 myerherumwallet.com
@@ -78935,6 +78939,7 @@ servicepflege-kontoaktualisieren383266.codeanyapp.com
 services-metamask.com
 serviceschannel.info
 serviciobancaconsorcio.com
+serviciosbanconsorcio.com
 servicioscoconsorcioempresas.com
 serviciosempresasbanconsorcio.com
 serviciosetingcoconsorcio.net
