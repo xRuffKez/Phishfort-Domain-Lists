@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 18:03:24 UTC 2024
-# Number of Entries: 7825
+# Fetch date: Thu Apr 25 18:15:52 UTC 2024
+# Number of Entries: 7822
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -68,7 +68,6 @@
 3000usdt.xyz
 32f79d9c.7cdb6f3702a09bbbd3afc136.workers.dev
 365cash.store
-3f4813b3-5cfb-4a7a-8fcb-7b9ed4dd8395-00-2btsrssvd10b4.janeway.replit.dev
 3pzlywh.info
 3rdandtaylor.com
 407-etr-help.com
@@ -2120,6 +2119,7 @@ dorkcoin.fun
 doublediamondwines.co
 dovu-migration.net
 dow-amercas.com
+dow-americas.com
 dowunitedstatesusa.com
 dpp-solution.firebaseapp.com
 dppsradar.pages.dev
@@ -3043,8 +3043,6 @@ invite-pacmoon.xyz
 invite-pepe.com
 invite-starknet.org
 invite-sui.com
-invoice-407etr.com
-invoices-407etr.com
 io-net.pages.dev
 io-ultra-net.vercel.app
 iotmodysbln.com
@@ -7417,7 +7415,6 @@ www.lifi.promo
 www.lite.a.covv.site
 www.live-tiktok.shop
 www.login.verificationpaxful.info
-www.lottomaticagamingportal-gamenet.it
 www.luckywin.x10.bz
 www.lusandasentane.com
 www.ly.detworth.online
