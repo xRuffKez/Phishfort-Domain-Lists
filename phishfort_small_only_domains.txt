@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 14:14:15 UTC 2024
+# Fetch date: Thu Apr 25 14:22:29 UTC 2024
 # Number of Entries: 7826
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -1173,7 +1173,6 @@ bratishkaa.com
 brave-blog.mylviajes.com.ve
 bravebrowserdl.online
 brc20.su
-breachforums.st
 bridgarbltrum.com
 bridge-a3vigrfjd-pancakeswap.vercel.app
 bridge-modenet.work
@@ -5919,6 +5918,7 @@ servernodechain.com
 service-connect-valide.nl
 servicecontrollnc.com
 servicepflege-kontoaktualisieren383266.codeanyapp.com
+serviciosbanconsorcio.com
 sewllnetwork.io
 sfccrcc.shop
 shardeum-airdrops-register-live.vercel.app
