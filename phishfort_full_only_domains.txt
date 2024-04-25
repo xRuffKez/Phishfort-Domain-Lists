@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 19:22:17 UTC 2024
-# Number of Entries: 108762
+# Fetch date: Thu Apr 25 19:42:23 UTC 2024
+# Number of Entries: 108766
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -60036,6 +60036,7 @@ neutralquickauths.pro
 neutraluiverse.shop
 neutraquicksauths.net
 neutrasquickauths.org
+nevadaenergy.customersupports.network
 nevadaspower.customercare.network
 nevbatmkul.site
 neverfeartruth.this-mint.xyz
@@ -69369,6 +69370,7 @@ paxluf.com
 paxlul.com
 paxobcxr.com
 paxobopr.com
+paxodapp.com
 paxoffer.xyz
 paxofferactive.online
 paxofferonline.com
@@ -69378,7 +69380,9 @@ paxonlinerates.online
 paxos-app.com
 paxos-bounty.com
 paxos-club.com
+paxos-dapp.co
 paxos-dapp.com
+paxos-dapp.online
 paxos-eth.com
 paxos-gold.net
 paxos-gold.org
