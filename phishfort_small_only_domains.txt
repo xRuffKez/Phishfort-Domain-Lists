@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 23:15:23 UTC 2024
-# Number of Entries: 7828
+# Fetch date: Thu Apr 25 23:23:49 UTC 2024
+# Number of Entries: 7827
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -6075,7 +6075,6 @@ sniperapp.cc
 snowsniper.com
 snug-zetachain.com
 soaiv2.com
-soflarewebextension.com
 sol-drain.vercel.app
 sol-sola.web.app
 solana-claim.web.app
