@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 10:42:16 UTC 2024
-# Number of Entries: 7822
+# Fetch date: Thu Apr 25 11:14:29 UTC 2024
+# Number of Entries: 7824
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2816,6 +2816,9 @@ havas-shop.com
 havas123.com
 havas6.com
 havas668.com
+havas688.com
+havas8.com
+havas9.com
 havascake.com
 haven1.vercel.app
 hbar-distribution.com
@@ -5179,7 +5182,6 @@ pibel.cc
 pichainmall.com.ng
 pikamoon-de.web.app
 pikamoon-icu.web.app
-pinswap.xyz
 pipsyl.top
 pixel-lands.com
 pixelmon-mint.com
