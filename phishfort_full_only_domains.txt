@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 12:54:04 UTC 2024
-# Number of Entries: 108749
+# Fetch date: Thu Apr 25 13:15:04 UTC 2024
+# Number of Entries: 108748
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -14386,7 +14386,6 @@ brandsoutlet.qa
 brandyourdomian.com
 bransonbtc.com
 brarve.com
-bratishkaa.com
 brave-ardinghelli.3-133-133-108.plesk.page
 brave-blog.mylviajes.com.ve
 brave-bounty.com
