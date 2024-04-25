@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 15:03:25 UTC 2024
+# Fetch date: Thu Apr 25 15:15:11 UTC 2024
 # Number of Entries: 7826
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2269,7 +2269,6 @@ enter-wormhole.network
 enudeekc.one
 eonexvip.com
 eonian.live
-eopenimports.com
 epbhs.net
 epic-ae.online
 epikstaking.com
@@ -7358,6 +7357,7 @@ www.etokensolana.aysarr.in
 www.evercoreglobal.com
 www.evoypremium.com.br
 www.express-tollroute407.com
+www.f2poolc.com
 www.faq-legal.com
 www.fegtokenmigrate.com
 www.fixedfloaflt.com
