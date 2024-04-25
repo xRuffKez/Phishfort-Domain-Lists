@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 04:03:18 UTC 2024
-# Number of Entries: 7846
+# Fetch date: Thu Apr 25 04:15:39 UTC 2024
+# Number of Entries: 7827
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -25,7 +25,6 @@
 176823-coinbase.com
 189f40034be7a.fnnpron.nl
 18f5384d.chriswsteele.com
-191glkil7mb.irwd2wa.su
 1cancelar-cambio.webcindario.com
 1cbre.com
 1d4f0331-eb63-4d85-9d57-7dacc20bff64-00-3t07qm8fsr0w5.janeway.replit.dev
@@ -231,6 +230,7 @@ agodanewcomplaint.com
 agodaonline.com
 agodaranking.top
 agodatikethotelcom.masukmobilee.de
+agodavipbook.top
 agodawork.cyou
 agodawork.pw
 agodawork.top
@@ -460,7 +460,6 @@ altleyer-stake.top
 altredx.com
 altsidentifier.com
 altsignaltokens.com
-alturainvitational.com
 ambientt.finance
 ambires-event.com
 ambitefinance.com
@@ -661,7 +660,6 @@ applefi.pro
 appleid.raydiunexchange.pro
 applfgswap.one
 application-pancakeswaps.pages.dev
-applovin.admin608297838.com
 applovin.in
 applovintwap.com
 applovinworks.com
@@ -1234,7 +1232,6 @@ c.qztaiwei.com
 c.taiweixl.com
 c0nnects.pages.dev
 c7ed7c0a-a3f0-4a62-9092-b1bb34dc0ec4-00-2hhxxwsgft7jv.janeway.replit.dev
-c9bae519-e21c-44b6-990c-e47a9b25b5a1-00-2o0u40bra6plm.janeway.replit.dev
 cabinet-customs.com.ua
 cabinet-customs.org.ua
 cadenceprotocol.net
@@ -1291,7 +1288,6 @@ capcutforpc.store
 capsule-zskync.net
 captainj-dao.vercel.app
 caraji.com
-cardahoysgame.com
 career-ecolab.com
 careersformneomsa.top
 careerskier.co.uk
@@ -1802,7 +1798,6 @@ cwrestorevercelapp.com
 cyan-coyote-68763.zap.cloud
 cyberdogecoin.org
 cyberdogecoin.top
-cyberkongz.pro
 cyberlama.app
 cyberx-staging.vercel.app
 d.appmooduyh.top
@@ -2126,7 +2121,6 @@ dorkcoin.fun
 doublediamondwines.co
 dovu-migration.net
 dow-amercas.com
-dowchemicals-us.com
 dowunitedstatesusa.com
 dpp-solution.firebaseapp.com
 dppsradar.pages.dev
@@ -2480,7 +2474,6 @@ financeswap.xyz
 financialpanache.com
 finceptorportals.click
 finceptur.com
-fireblocks-sso.com
 fireblockscrypto.com
 firevisionaries.com
 firmware-data.pages.dev
@@ -2503,7 +2496,6 @@ fixsbusiness.mx
 fj7gqqj.cc
 fkintemal.net
 fku-inu.pro
-fkuinu.tech
 flagship.luc.edu
 flareairdrop.vercel.app
 flash-arbitrage.xyz
@@ -2582,7 +2574,6 @@ futureswap.website
 fx0qlmo.cc
 fxtradinghomes.com.interactivebrokers.live
 g2os0.pro
-g5-airtm.com
 gahiett.com
 gala-games.org
 galagames-6nj.com
@@ -3958,7 +3949,6 @@ metamask3.pw
 metamask88.com
 metamaskabc.com
 metamaskapp-kyc-auth24.com
-metamaskapp.space
 metamaskarticle.com
 metamaskb.io
 metamaskc.org
@@ -4345,7 +4335,6 @@ myob.network
 myob.tax
 mypivalidations.com
 myria-game.com
-myrobase.com
 mysecond.mypsx.net
 mysofinance.net
 mysonicwall.ir
@@ -5343,7 +5332,6 @@ psychome.co
 ptron.hk
 pub-0186f027c154484fbcbeb90161ab83cf.r2.dev
 pub-306b361010174008ab5773c839617c85.r2.dev
-pub-c7119d8cef5d4359861e1426cf37c62c.r2.dev
 pub-e9989cc0d26d4a2f9e7017c197e26310.r2.dev
 pudgypenguines.com
 puffer-2a0.pages.dev
@@ -6354,6 +6342,7 @@ swiftappsauth.pages.dev
 swiftdapppad.pages.dev
 swiftdapprotocol.pages.dev
 swiftdefiauth.pages.dev
+swiftlymerch.uk
 swiftmultichainresolve.pages.dev
 swiftresolvedapps.pages.dev
 swiftsynced.pages.dev
@@ -6412,6 +6401,7 @@ tataconsultancy.in
 tataconsultants.com
 tawuniya.online-link.net
 taxltg.com
+taylorswiftmerchofficial.com
 tdecu-support.info
 tdg7gr.pro
 tdserv.com
@@ -6499,7 +6489,6 @@ tidex.icu
 tifi-airdrop.com
 tikmallshop.cloud
 tiktocoins.info
-tiktok-mall.store
 tiktok-seller.store
 tiktok.436319.com
 tiktok.671896.com
@@ -6513,10 +6502,8 @@ tiktok.boloo.tech
 tiktok.merchantshop.shop
 tiktok.vipwealth.kr
 tiktok1122.com
-tiktok18plux.com
 tiktok39.com
 tiktok52.com
-tiktok568.com
 tiktok66.cc
 tiktokcck.com
 tiktokcl.com
@@ -6526,9 +6513,7 @@ tiktokhelpcenter.com.tr
 tiktokjm.com
 tiktoklive.co
 tiktokmall01.com
-tiktokmalli.shop
 tiktokorders.vip
-tiktokreviews.xyz
 tiktokshop01.cc
 tiktokshop02.cc
 tiktokshop2.com
@@ -6565,7 +6550,6 @@ token.strks-rocket.club
 tokenlon.app
 tokenprojectrarity.site
 tokens-zk.link
-tokensairdrops.com
 tokensynced.pages.dev
 toll.a407info.com
 tolls-407express.com
@@ -6807,7 +6791,6 @@ veeam.works
 velamigration.pro
 velocimeteer.com
 veloxlinknode.pages.dev
-venafi.site
 vendorprocurement.online
 vendorseuae.com
 vendoruae.com
@@ -7549,7 +7532,6 @@ www.portal-ait.tech
 www.portalcoin.join-airdrop.com
 www.practisea.com
 www.provisionstrk.xyz
-www.pudgyworld.shop
 www.recovermetawalletio.diviteca.com
 www.reflexer.pro
 www.registrar-mavia.com
@@ -7800,7 +7782,6 @@ zk-era.co
 zk-look.org
 zk-manta-airdrop.pages.dev
 zk-polyhedra.com
-zk-skaling.org
 zk.scrllpunkface.icu
 zkeztrade.com
 zkfair.events
