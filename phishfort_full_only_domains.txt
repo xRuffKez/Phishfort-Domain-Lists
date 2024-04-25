@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 21:03:23 UTC 2024
-# Number of Entries: 108768
+# Fetch date: Thu Apr 25 21:24:23 UTC 2024
+# Number of Entries: 108769
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -34134,6 +34134,7 @@ flooz.live
 floppysnft.pages.dev
 floptant.site
 florenca-bitkub.blogspot.com
+florencess.test.suopu8.com
 flores-jardimloja.blogspot.com
 flow.airsmint.com
 flowdao.io
