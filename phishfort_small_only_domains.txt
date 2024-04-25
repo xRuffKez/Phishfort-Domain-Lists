@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 15:42:02 UTC 2024
-# Number of Entries: 7826
+# Fetch date: Thu Apr 25 15:52:15 UTC 2024
+# Number of Entries: 7825
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1906,7 +1906,6 @@ data-trustwallet.com
 dataownership-verification.vercel.app
 dataownership-verify-open.vercel.app
 daviplatanotific.webcindario.com
-daviplataportal.webcindario.com
 daviplataseeg.webcindario.com
 davitahealthcarepartners.com
 daviviendainforma.zya.me
@@ -4063,7 +4062,6 @@ mfa-expiration-notification-authservices2fa.us-ord-1.linodeobjects.com
 mferscoin.io
 mftx.pro
 mgel.com.br
-mh-pharma.com
 miaviia.com
 micro3.app
 microsfrategy.com
@@ -6651,6 +6649,7 @@ uhcrecruit.com
 uhcthankyou.com
 uhrecruits.online
 uimplmassa.com
+uiolinemassprofilleupdate.dynamic-dns.net
 uionlineheda.com
 uionlineletma.com
 uiredofmassucherndy.com
