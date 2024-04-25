@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 20:03:20 UTC 2024
-# Number of Entries: 7827
+# Fetch date: Thu Apr 25 20:23:17 UTC 2024
+# Number of Entries: 7826
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3867,7 +3867,6 @@ meta-rwrd.top
 meta-safelogin.com
 meta2fa.io
 metaamsskk-wallet.godaddysites.com
-metabbcmask.com
 metabmasskus.azurewebsites.net
 metabolt.io
 metacoin-participate.com
@@ -4911,6 +4910,7 @@ pancakeswapper.online
 pancakeswapperhub.online
 pancakeswapreward.finance
 pancakeswaps-finnance.com
+pancakeswapsclaim02.vercel.app
 pancakeswapsfinance.pages.dev
 pancakeswapunlock.com
 pancakeswapv3.net
@@ -6789,7 +6789,6 @@ veeam.works
 velamigration.pro
 velocimeteer.com
 veloxlinknode.pages.dev
-vendorprocurement.online
 vendorseuae.com
 vendoruae.com
 venom-foudation.com
