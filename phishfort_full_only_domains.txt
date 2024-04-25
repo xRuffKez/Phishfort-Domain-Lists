@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 15:24:42 UTC 2024
-# Number of Entries: 108757
+# Fetch date: Thu Apr 25 16:52:25 UTC 2024
+# Number of Entries: 108758
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -88693,6 +88693,7 @@ uiniswaps.net
 uinswapexchange.com
 uinswop.org
 uinwsap.com
+uiolinemassprofilleupdate.dynamic-dns.net
 uionilinedeitmass.org
 uionilineldeitma.org
 uionilineldetmass.org
