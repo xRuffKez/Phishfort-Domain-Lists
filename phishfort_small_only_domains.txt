@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 19:32:19 UTC 2024
-# Number of Entries: 7823
+# Fetch date: Thu Apr 25 20:03:20 UTC 2024
+# Number of Entries: 7827
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -4403,6 +4403,7 @@ network-metamask.com
 network.airdrops-manta.it
 network.app--jito.network
 networks-rnanta.com
+nevadaenergy.customersupports.network
 nevadaspower.customercare.network
 new-bid.org
 new-farcana.com
@@ -5036,9 +5037,12 @@ paxfultf.com
 paxfulvn.com
 paxobcxr.com
 paxobopr.com
+paxodapp.com
 paxos-app.com
 paxos-club.com
+paxos-dapp.co
 paxos-dapp.com
+paxos-dapp.online
 paxos-eth.com
 paxos-gold.net
 paxos-okta.com
