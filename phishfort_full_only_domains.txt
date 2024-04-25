@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 03:52:25 UTC 2024
-# Number of Entries: 108731
+# Fetch date: Thu Apr 25 04:25:46 UTC 2024
+# Number of Entries: 108739
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3195,6 +3195,7 @@ agodatravelforless.com
 agodauk.net
 agodavip7.com
 agodavip9.com
+agodavipbook.top
 agodawealth.com
 agodawork.com
 agodawork.cyou
@@ -38662,6 +38663,7 @@ hkagoda.agency
 hkasia-pooldefi.com
 hkcgm.com
 hkg-laravel.pancakeswape.finance
+hkhjk.linkpc.net
 hkinu.network
 hkk-agoda.com
 hkk-agoda.net
@@ -69556,6 +69558,8 @@ pcpgxr.top
 pcrivnote.com
 pcs-arb.nhancv.com
 pcs-cakexdefi.com
+pcs-defistakeexc-v3.com
+pcs-defistakeexcv3.com
 pcs-defistakev3.com
 pcs-farmv4.com
 pcs-farmv4.net
@@ -79478,6 +79482,7 @@ shonenjunk.online
 shop-morganwallenmerch.com
 shop-nanox.com
 shop-playboicarti.com
+shop-taylorswift.com
 shop-trezor.info
 shop-trezor.io
 shop.1inch.airdrop.live
@@ -83971,6 +83976,7 @@ swiftkeyswap.com
 swiftkeyswap.info
 swiftlyconnect.com
 swiftlycript.com
+swiftlymerch.uk
 swiftlyxcapital.com
 swiftmigration.dev
 swiftmigrationprotocol.dev
@@ -84999,7 +85005,9 @@ taxproezglobal.com
 taxproezonline.com
 tayari.xyz
 taydium.io
+taylorswiftmerchofficial.com
 taylorusmerch.com
+taytaymerch.com
 tazanews18.in
 tazuki.xyz
 tb-pro2022.site
