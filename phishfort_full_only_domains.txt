@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 14:42:21 UTC 2024
-# Number of Entries: 108753
+# Fetch date: Thu Apr 25 14:52:27 UTC 2024
+# Number of Entries: 108755
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -47960,6 +47960,7 @@ makermining.com
 makerndao.com
 makerndao.net
 makerndao.org
+makernetwork-finance.com
 makernft.xyz
 makerometa.net
 makerswaps.cc
@@ -102304,6 +102305,7 @@ www.pancakeeswob-trade.com
 www.pancakemobile.com
 www.pancakenft.finance
 www.pancakeprotectors.site
+www.pancakes.rectifysync.xyz
 www.pancakesawp.cc
 www.pancakesfinances.info
 www.pancakeswaep.com
