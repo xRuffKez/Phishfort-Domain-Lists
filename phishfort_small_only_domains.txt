@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 07:42:08 UTC 2024
-# Number of Entries: 7832
+# Fetch date: Thu Apr 25 07:52:09 UTC 2024
+# Number of Entries: 7820
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2204,7 +2204,6 @@ ebayshop-us.com
 echelon.gift
 echodex-v3-interface-web.vercel.app
 ecocryptoworld.pro
-ecoglobalconnectvista.online
 econnect.pages.dev
 economisteveningreptile.xyz
 econopure.com.vn
@@ -3196,7 +3195,6 @@ juprr.com
 jups.io
 jupvoucher.com
 jupzz.com
-justlendportal.org
 juups.io
 jwsco.pro
 kaijutoys.shop
@@ -3374,7 +3372,6 @@ lfg-up.icu
 lgwttt.pro
 libertyfinancial.xyz
 libertyfinancials.xyz
-libreng-ayuda-2022.blogspot.com
 lido-airdrop.app
 lido-dist.web.app
 lido-fi.digital
@@ -3613,7 +3610,6 @@ makerdaobep.online
 makerdaobnb.online
 makerdaobsc.online
 makerdaov3.pages.dev
-makerdoa.com
 makerfoundation.github.io
 mamasuimestmaorgst.com
 mamtaairdropevent.net
@@ -3860,7 +3856,6 @@ meskk.app
 met-mask-usa-wallet.godaddysites.com
 meta-drop.xyz
 meta-kyc-activations.io
-meta-mask-login-webaccess-rewoyal611554508.codeanyapp.com
 meta-mask-wallet.com
 meta-mask.trade
 meta-neotokyo.com
@@ -3897,7 +3892,6 @@ metamaok.com
 metamasauk.azurewebsites.net
 metamasbdfbcbs.com
 metamasbdfbcv.com
-metamasc-apps.com
 metamask-831.pages.dev
 metamask-activation.dcsi.com.ar
 metamask-airdrop.de
@@ -3905,7 +3899,6 @@ metamask-app-kyc.com
 metamask-app.cool
 metamask-app.pages.dev
 metamask-app24-kyc.com
-metamask-chain.pages.dev
 metamask-connect.com
 metamask-dapp.pages.dev
 metamask-dapps.pages.dev
@@ -3931,12 +3924,10 @@ metamask.firsthfb.com
 metamask.fit
 metamask.grsrc.com
 metamask.i98.xyz
-metamask.ig6s.com
 metamask.imtoken.hk.cn
 metamask.io.circletokenhub.com
 metamask.io.in
 metamask.ioqj.live
-metamask.itoken.cool
 metamask.je
 metamask.land
 metamask.managementcommunity.pro
@@ -3945,7 +3936,6 @@ metamask.so
 metamask.ss3.app
 metamask.tokenapp.top
 metamask.wallet-app.com
-metamask.web3-request.net
 metamask3.pw
 metamask88.com
 metamaskabc.com
@@ -4002,7 +3992,6 @@ metamsak-update-secure-info.netlify.app
 metamsk-logn-us.godaddysites.com
 metamsk.org
 metamskaskse.azurewebsites.net
-metamsklogin.blogspot.com
 metamuaskingghlohgin.godaddysites.com
 metanaskio.xyz
 metanmasak.azurewebsites.net
@@ -4016,7 +4005,6 @@ metasamasuk.azurewebsites.net
 metasmaslk.azurewebsites.net
 metaswap-frontend.vercel.app
 metatank.app
-metav2update.com
 metavmasusk.azurewebsites.net
 metaweb-import.pages.dev
 metawebfix-4.pages.dev
@@ -4028,7 +4016,6 @@ metemesk-wallat.godaddysites.com
 metemesks.io
 metemnsk.io
 metemsak.io
-metenesk.io
 metexmachinery.com
 metimaasklogiin_us.godaddysites.com
 metimask-logiin.github.io
@@ -4046,9 +4033,7 @@ metlife.spicus.com
 metlifeconsumerservicesinc.store
 metlifeperteinsu.com
 metliferecruitment.com
-metmaskt.com
 metmsakconditionweb3.netlify.app
-metnmask.io
 metnmaskn.io
 metoamask.com
 metqamaskv.azurewebsites.net
@@ -4909,6 +4894,7 @@ pancakeswapairdrop-event.finance
 pancakeswapairdrop.com
 pancakeswapclick04.vercel.app
 pancakeswapcrypto.com
+pancakeswapdrop.com
 pancakeswapdrop78.vercel.app
 pancakeswaper.app
 pancakeswapertoday.xyz
@@ -5653,7 +5639,6 @@ revokeca.com
 revokeca.xyz
 revokecash-portal.pages.dev
 revokecash-web3.org
-revokecash.cash
 revokecash.lol
 revokecash.ru
 revokecash.store
@@ -6406,6 +6391,8 @@ tataconsultants.com
 tawuniya.online-link.net
 taxltg.com
 taylorswiftmerchofficial.com
+taylorswiftmerchshop.us
+taylorswiftmerchstore.net
 taytaymerch.com
 tdecu-support.info
 tdg7gr.pro
@@ -7606,6 +7593,7 @@ www.unitedaircareers.com
 www.useneuxs.org
 www.usenxeus.org
 www.ustaylorsshop.com
+www.ustaylorsshops.com
 www.verifoneentire.com
 www.verify-collab-land.com
 www.verify-collabland.xyz
