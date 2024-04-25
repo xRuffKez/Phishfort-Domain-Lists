@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 11:31:58 UTC 2024
-# Number of Entries: 7824
+# Fetch date: Thu Apr 25 11:42:05 UTC 2024
+# Number of Entries: 7822
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2135,7 +2135,6 @@ drop-alphax.web.app
 drop-ether.fi
 drop-mogcoin.com
 drop.lfgjup.xyz
-dropchecker.app
 dropnibiru.link
 drops-satoshivm.com
 dropusdt.com
@@ -2192,7 +2191,6 @@ earndrop.it
 earndrop.link
 earndrop.team
 earndrop24.com
-earndrops.gift
 earned-linea.com
 earnifiapp.xyz
 earnifinance.xyz
@@ -2402,6 +2400,7 @@ evrrec.com
 ewjh.pro
 exampleee-site.online
 exchange-apex.org
+exchange-makerdao.org
 exchangecode.online
 exchangepancakeswap.workers.dev
 exchangeros.com
@@ -5182,6 +5181,7 @@ pibel.cc
 pichainmall.com.ng
 pikamoon-de.web.app
 pikamoon-icu.web.app
+pinswap.xyz
 pipsyl.top
 pixel-lands.com
 pixelmon-mint.com
@@ -5867,7 +5867,6 @@ sdb-trk.0ybq.info
 sea-claim.live
 sea-list.com
 seapro.tech
-searchdrop.app
 season1-nobody.com
 season1-zetachain.com
 seatoken-airdrop.com
@@ -6716,7 +6715,6 @@ us-ashleymadison.com
 us-coinmarketcap.com
 us4f.cc
 us_mettmsika_en_us3.godaddysites.com
-usa5starshop.com
 usbnkrellacrd.site
 usdc-claimback.online
 usdc-gift.top
