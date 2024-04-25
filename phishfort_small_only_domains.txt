@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 13:52:14 UTC 2024
-# Number of Entries: 7821
+# Fetch date: Thu Apr 25 14:02:52 UTC 2024
+# Number of Entries: 7825
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -1169,6 +1169,7 @@ boxmint-project.web.app
 bpxtoken.network
 brailex.com
 brands4less.com.py
+bratishkaa.com
 brave-blog.mylviajes.com.ve
 bravebrowserdl.online
 brc20.su
@@ -1817,6 +1818,7 @@ daoblend.xyz
 daoblender.xyz
 daomaker.bond
 daomaker.company
+daomaker.fyi
 daomaker.my.id
 daoprotocol.pages.dev
 dap-radar.com
@@ -3756,6 +3758,7 @@ massmutualauth.com
 massmutualintermountainwest.hirevue.com
 massonline.mprofile.org
 massposos.com
+massulonllnedet.org
 master-brain.com
 mate-mask.com
 matemank.io
@@ -4303,6 +4306,7 @@ mychendimasslor.com
 mycommunityportal.site
 mycosmotoken.network
 myedds.com
+myeparterststacks.com
 myeth4erwallet.com
 myethe3rwallet.com
 myether2wallet.com
