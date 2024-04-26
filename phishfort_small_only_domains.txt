@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Thu Apr 25 23:52:12 UTC 2024
+# Fetch date: Fri Apr 26 00:10:47 UTC 2024
 # Number of Entries: 7827
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2821,6 +2821,7 @@ havascake.com
 haven1.vercel.app
 hbar-distribution.com
 hca-healthcare.com
+hcahealthcarecorp.com
 hdi6v.pro
 health-equity.click
 health-equity.pro
@@ -5822,7 +5823,6 @@ samurai-award.info
 samurai-nft.pro
 samuraiaward.info
 san-swap.com
-sanabilprint.com
 sanshumigration.web.app
 sanswap.com
 sappy3d.top
