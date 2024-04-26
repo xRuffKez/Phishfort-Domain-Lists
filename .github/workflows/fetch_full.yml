@@ -15,7 +15,7 @@ jobs:
         
       # Download PhishFort domain list
       - name: Download PhishFort domain list
-        run: curl -o domains.json https://cdn.jsdelivr.net/gh/phishfort/phishfort-lists@master/blacklists/domains.json
+        run: curl -o domains.json https://github.com/phishfort/phishfort-lists/raw/master/blacklists/domains.json
 
       # Parse JSON and extract domains
       - name: Parse JSON and extract domains
