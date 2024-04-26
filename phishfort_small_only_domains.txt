@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 26 10:44:46 UTC 2024
-# Number of Entries: 7828
+# Fetch date: Fri Apr 26 11:02:55 UTC 2024
+# Number of Entries: 7829
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -6662,6 +6662,7 @@ uionlineletma.com
 uiredofmassucherndy.com
 ujp.ag
 uk-applovinlife.com
+ukvirginmoney-livechat.com
 ulgeturbfnow.com
 ulonlinedetma.org
 ultra-prismafinance.com
