@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 26 17:15:31 UTC 2024
-# Number of Entries: 7836
+# Fetch date: Fri Apr 26 17:25:28 UTC 2024
+# Number of Entries: 7831
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2541,7 +2541,6 @@ fourseasonsmsk.ru
 fox-club.xyz
 fox-dao.web.app
 fr-worldcoin.web.app
-fragnantinglev.life
 frame.markets
 free-altlayer.com
 free-altlayers.com
@@ -5070,7 +5069,6 @@ paxosg.com
 paxosiys.com
 paxoskop.com
 paxxful.live
-pay-407etr.com
 pay-en407etr.com
 pay407etr.com
 pay8-2v-3bjfiwuwt-payswap.vercel.app
@@ -6278,9 +6276,6 @@ suimine.com
 suiswap.tech
 sumatriptan.info
 summer-fi.mom
-sunchemicalgroup.com
-sunchemicals.us
-sunchemicalsgroup.org
 suo0gk1.cc
 super-fans.tech
 super-julio.free-mint.page
