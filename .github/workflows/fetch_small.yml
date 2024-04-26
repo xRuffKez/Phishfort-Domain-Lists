@@ -104,10 +104,12 @@ jobs:
       - name: Check if only the timestamp line has changed
         id: check_timestamp_change
         run: |
-          if diff --suppress-common-lines -q <(tail -n +2 phishfort_small_only_domains.txt) <(tail -n +2 phishfort_small_only_domains_new.txt) >/dev/null; then
-            echo "::set-output name=changed::false"
+          # Check if the first line has changed
+          if ! diff -q <(head -n 1 phishfort_small_only_domains.txt) <(head -n 1 phishfort_small_only_domains_new.txt) &>/dev/null; then
+            echo "::set-output name=changed::true"
           else
-            if diff -q phishfort_small_only_domains.txt phishfort_small_only_domains_new.txt | grep -q '^1c1'; then
+            # Check if any other line has changed
+            if ! diff -q <(tail -n +2 phishfort_small_only_domains.txt) <(tail -n +2 phishfort_small_only_domains_new.txt) &>/dev/null; then
               echo "::set-output name=changed::false"
             else
               echo "::set-output name=changed::true"
