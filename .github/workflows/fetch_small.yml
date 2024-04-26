@@ -3,7 +3,7 @@ name: Update PhishFort Small Domain List
 on:
   schedule:
     # Schedule the action to run every 10 minutes
-    - cron: '0 * * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -13,17 +13,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
         
-      # Fetch latest changes from the remote repository
-      - name: Fetch latest changes
-        run: git fetch origin main
-
-      # Pull changes from the remote main branch and rebase
-      - name: Pull changes and rebase
-        run: git pull origin main --rebase
-        
       # Download PhishFort domain list
       - name: Download PhishFort domain list
-        run: curl -o hotlist.json https://cdn.jsdelivr.net/gh/phishfort/phishfort-lists@master/blacklists/hotlist.json
+        run: curl -o hotlist.json https://github.com/phishfort/phishfort-lists/raw/master/blacklists/hotlist.json
 
       # Parse JSON and extract domains
       - name: Parse JSON and extract domains
@@ -99,9 +91,26 @@ jobs:
           awk '{ print $1 }' phishfort_small_only_domains_new.txt >> phishfort_small_only_domains.txt
           awk '{ print "local-zone: \"" $1 "\" redirect\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_small_only_domains_new.txt >> phishfort_small_rpz.conf
           awk '{ print "local-zone: \"" $1 "\" static\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_small_only_domains_new.txt >> phishfort_small_unbound.conf
+
+      # Check if only the timestamp line has changed
+      - name: Check if only the timestamp line has changed
+        id: check_timestamp_change
+        run: |
+          # Check if the first line has changed
+          if ! diff -q <(head -n 1 phishfort_small_only_domains.txt) <(head -n 1 phishfort_small_only_domains_new.txt) &>/dev/null; then
+            echo "::set-output name=changed::true"
+          else
+            # Check if any other line has changed
+            if ! diff -q <(tail -n +2 phishfort_small_only_domains.txt) <(tail -n +2 phishfort_small_only_domains_new.txt) &>/dev/null; then
+              echo "::set-output name=changed::false"
+            else
+              echo "::set-output name=changed::true"
+            fi
+          fi
       
       # Commit and push changes if the content has changed
       - name: Commit and push changes if the content has changed
+        if: steps.check_timestamp_change.outputs.changed == 'true'
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@users.noreply.github.com"
