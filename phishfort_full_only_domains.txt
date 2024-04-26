@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 26 10:42:37 UTC 2024
-# Number of Entries: 108785
+# Fetch date: Fri Apr 26 10:52:12 UTC 2024
+# Number of Entries: 108786
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -88764,6 +88764,7 @@ ukraine-save.com
 ukraineofficial.xyz
 ukrules.xyz
 uktmining.com
+ukvirginmoney-livechat.com
 ukvisas-service.lv
 ulgeturbfnow.com
 ulimablackboard.com
