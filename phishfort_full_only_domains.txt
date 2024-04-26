@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 26 14:32:29 UTC 2024
-# Number of Entries: 108789
+# Fetch date: Fri Apr 26 14:42:32 UTC 2024
+# Number of Entries: 108804
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -39361,12 +39361,27 @@ ibkrs.com
 ibkrstockmining.com
 ibkrstocks.com
 ibkrx.xyz
+ibllcclub.com
 ibllce.com
 ibllces.com
+ibllcgo.com
+ibllcic.com
+ibllcim.com
 ibllcit.com
 ibllck.com
+ibllcku.com
+ibllckw.com
+ibllcmi.com
+ibllcmt.com
+ibllcon.com
+ibllcpt.com
 ibllcq.com
 ibllcr.com
+ibllcro.com
+ibllcto.com
+ibllcuc.com
+ibllcxo.com
+ibllcxz.com
 ibllcy.com
 ibrk.co.uk
 ibuycheaponline.com
