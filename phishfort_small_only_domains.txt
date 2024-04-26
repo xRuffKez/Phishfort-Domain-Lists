@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Fri Apr 26 20:23:51 UTC 2024
+# PhishFort Small Domain List - Fri Apr 26 20:32:20 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7825
+# Number of Entries: 7826
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3747,6 +3747,7 @@ markets-csgo.com
 marlopayrollui.com
 masa-ek1.pages.dev
 masa-finance.com
+masdetmaaspx.org
 masgouidetma.org
 mask-dao.web.app
 mask.gift
@@ -3848,7 +3849,6 @@ memelauncher.io
 memeplanet.github.io
 memes-kombats.web.app
 memeskombats.online
-meotamssklognb.godaddysites.com
 merative.site
 merc404.xyz
 merchantserviceadvisers.com
@@ -5169,6 +5169,7 @@ petsversegames.site
 pfantmwallet.godaddysites.com
 pgenztokenclaim.pages.dev
 phammt.xyz
+phamtom-walet.godaddysites.com
 phanntm-walluut.godaddysites.com
 phantimp.xyz
 phantjum.xyz

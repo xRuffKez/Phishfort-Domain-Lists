@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri Apr 26 20:23:51 UTC 2024
+# PhishFort Small Domain List - Fri Apr 26 20:32:20 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7825
+# Number of Entries: 7826
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3748,6 +3748,7 @@
 ||marlopayrollui.com^
 ||masa-ek1.pages.dev^
 ||masa-finance.com^
+||masdetmaaspx.org^
 ||masgouidetma.org^
 ||mask-dao.web.app^
 ||mask.gift^
@@ -3849,7 +3850,6 @@
 ||memeplanet.github.io^
 ||memes-kombats.web.app^
 ||memeskombats.online^
-||meotamssklognb.godaddysites.com^
 ||merative.site^
 ||merc404.xyz^
 ||merchantserviceadvisers.com^
@@ -5170,6 +5170,7 @@
 ||pfantmwallet.godaddysites.com^
 ||pgenztokenclaim.pages.dev^
 ||phammt.xyz^
+||phamtom-walet.godaddysites.com^
 ||phanntm-walluut.godaddysites.com^
 ||phantimp.xyz^
 ||phantjum.xyz^

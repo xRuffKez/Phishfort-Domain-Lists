@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri Apr 26 20:23:51 UTC 2024
+# PhishFort Small Domain List - Fri Apr 26 20:32:20 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7825
+# Number of Entries: 7826
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3748,6 +3748,7 @@
 0.0.0.0 marlopayrollui.com
 0.0.0.0 masa-ek1.pages.dev
 0.0.0.0 masa-finance.com
+0.0.0.0 masdetmaaspx.org
 0.0.0.0 masgouidetma.org
 0.0.0.0 mask-dao.web.app
 0.0.0.0 mask.gift
@@ -3849,7 +3850,6 @@
 0.0.0.0 memeplanet.github.io
 0.0.0.0 memes-kombats.web.app
 0.0.0.0 memeskombats.online
-0.0.0.0 meotamssklognb.godaddysites.com
 0.0.0.0 merative.site
 0.0.0.0 merc404.xyz
 0.0.0.0 merchantserviceadvisers.com
@@ -5170,6 +5170,7 @@
 0.0.0.0 pfantmwallet.godaddysites.com
 0.0.0.0 pgenztokenclaim.pages.dev
 0.0.0.0 phammt.xyz
+0.0.0.0 phamtom-walet.godaddysites.com
 0.0.0.0 phanntm-walluut.godaddysites.com
 0.0.0.0 phantimp.xyz
 0.0.0.0 phantjum.xyz
