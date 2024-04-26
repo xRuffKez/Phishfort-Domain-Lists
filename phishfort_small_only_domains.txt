@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Fri Apr 26 20:42:15 UTC 2024
+# PhishFort Small Domain List - Fri Apr 26 20:52:13 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7828
+# Number of Entries: 7829
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -4234,6 +4234,7 @@ motion-industries.co
 motion-industries.info
 motion-lndustries.com
 motionindustries.info
+motlon-inds.com
 moz-dia-meviplota.com
 mrestore.vercel.app
 mrgn-alphadao.web.app

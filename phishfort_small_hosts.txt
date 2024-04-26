@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri Apr 26 20:42:15 UTC 2024
+# PhishFort Small Domain List - Fri Apr 26 20:52:13 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7828
+# Number of Entries: 7829
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -4235,6 +4235,7 @@
 0.0.0.0 motion-industries.info
 0.0.0.0 motion-lndustries.com
 0.0.0.0 motionindustries.info
+0.0.0.0 motlon-inds.com
 0.0.0.0 moz-dia-meviplota.com
 0.0.0.0 mrestore.vercel.app
 0.0.0.0 mrgn-alphadao.web.app
