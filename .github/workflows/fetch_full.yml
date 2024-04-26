@@ -1,6 +1,9 @@
 name: Update PhishFort Full Domain List
 
 on:
+  push:
+    paths:
+      - 'domains.json'
   schedule:
     # Schedule the action to run every 10 minutes
     - cron: '*/10 * * * *'
