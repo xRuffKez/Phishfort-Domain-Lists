@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 26 00:32:43 UTC 2024
-# Number of Entries: 7827
+# Fetch date: Fri Apr 26 01:00:34 UTC 2024
+# Number of Entries: 7829
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -768,6 +768,7 @@ asxcoinco.com
 asxcoind.com
 asxcoins.net
 asxcoins.vip
+asxhk99.com
 asxmx.cc
 asxstockexchange.com
 asxxdvv.a1sasset.org
@@ -5272,6 +5273,7 @@ portfolio-mask-mask-master-dedi285032.codeanyapp.com
 portlacoin.xyz
 portofilio-meta-mask-dapps.185-253-219-62.cprapid.com
 post-malone.store
+ppcroi.net
 predev-migrazerionzx.pages.dev
 preferbehavioral.com
 premium.athene.network
