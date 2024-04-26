@@ -96,7 +96,7 @@ jobs:
       - name: Check if only the timestamp line has changed
         id: check_timestamp_change
         run: |
-          if diff --suppress-common-lines -q <(tail -n +2 phishfort_small_only_domains.txt) <(tail -n +2 phishfort_small_only_domains_new.txt) >/dev/null; then
+          if diff --suppress-common-lines -q <(tail -n +2 phishfort_full_only_domains.txt) <(tail -n +2 phishfort_full_only_domains_new.txt) >/dev/null; then
             echo "::set-output name=changed::false"
           else
             echo "::set-output name=changed::true"
