@@ -3,7 +3,7 @@ name: Update PhishFort Full Domain List
 on:
   schedule:
     # Schedule the action to run every 10 minutes
-    - cron: '*/10 * * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -99,26 +99,9 @@ jobs:
           awk '{ print $1 }' phishfort_full_only_domains_new.txt >> phishfort_full_only_domains.txt
           awk '{ print "local-zone: \"" $1 "\" redirect\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_full_only_domains_new.txt >> phishfort_full_rpz.conf
           awk '{ print "local-zone: \"" $1 "\" static\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_full_only_domains_new.txt >> phishfort_full_unbound.conf
-
-      # Check if only the timestamp line has changed
-      - name: Check if only the timestamp line has changed
-        id: check_timestamp_change
-        run: |
-          # Check if the first line has changed
-          if ! diff -q <(head -n 1 phishfort_full_only_domains.txt) <(head -n 1 phishfort_full_only_domains_new.txt) &>/dev/null; then
-            echo "::set-output name=changed::true"
-          else
-            # Check if any other line has changed
-            if ! diff -q <(tail -n +2 phishfort_full_only_domains.txt) <(tail -n +2 phishfort_full_only_domains_new.txt) &>/dev/null; then
-              echo "::set-output name=changed::false"
-            else
-              echo "::set-output name=changed::true"
-            fi
-          fi
       
       # Commit and push changes if the content has changed
       - name: Commit and push changes if the content has changed
-        if: steps.check_timestamp_change.outputs.changed == 'true'
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@users.noreply.github.com"
