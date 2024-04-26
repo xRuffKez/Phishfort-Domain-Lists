@@ -1,9 +1,8 @@
-# Title: PhishFort Full Only Domain List
-# Description: This list contains domains from PhishFort blacklists.
-# Repository: https://github.com/phishfort/phishfort-lists
-# Project website: https://phishfort.com/
-# Fetch date: Fri Apr 26 18:52:19 UTC 2024
+# PhishFort Full Domain List - Fri Apr 26 19:00:18 UTC 2024
+# This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 108808
+# Project: PhishFort (https://phishfort.com/)
+# This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
