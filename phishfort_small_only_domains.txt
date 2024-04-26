@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 26 01:00:34 UTC 2024
+# Fetch date: Fri Apr 26 01:32:28 UTC 2024
 # Number of Entries: 7829
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -2088,7 +2088,6 @@ docs-lybra.finance
 docs-lybra.network
 docs-lybras.trade
 docs.coinality.dev
-docu-completed-fhf.us-mia-1.linodeobjects.com
 docu.ax9j.com
 document-microsoft-onedrive-file.github.io
 documentation-lybra.finance
@@ -5793,6 +5792,8 @@ saksoff05.com
 saksoff06.com
 saksoff07.com
 saksoff5th-common.com
+saksoff5th-sus.com
+saksoff5th-tus.com
 saksoff5th-us1.com
 saksoff5th.club
 saksoff5th.love
@@ -6574,7 +6575,6 @@ toshiithecats.app
 totalwine-sale.shop
 touzhai.cn
 track-web3.online
-tracking.airtm20.com
 tracomservices.com
 tradedao-mig.click
 traderjoeyxz.app
