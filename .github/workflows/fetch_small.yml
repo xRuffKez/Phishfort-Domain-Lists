@@ -12,7 +12,15 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        
+      # Fetch latest changes from the remote repository
+      - name: Fetch latest changes
+        run: git fetch origin main
 
+      # Pull changes from the remote main branch and rebase
+      - name: Pull changes and rebase
+        run: git pull origin main --rebase
+        
       # Download PhishFort domain list
       - name: Download PhishFort domain list
         run: curl -o hotlist.json https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/hotlist.json
