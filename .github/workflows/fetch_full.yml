@@ -86,12 +86,17 @@ jobs:
       # Generate output lists
       - name: Generate output lists
         run: |
-          awk '{ print "0.0.0.0", $1 }' phishfort_full_only_domains_new.txt >> phishfort_full_hosts.txt
-          awk '{ print "||" $1 "^" }' phishfort_full_only_domains_new.txt >> phishfort_full_adguardhome.txt
-          awk '{ print $1 }' phishfort_full_only_domains_new.txt >> phishfort_full_only_domains.txt
-          awk '{ print "local-zone: \"" $1 "\" redirect\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_full_only_domains_new.txt >> phishfort_full_rpz.conf
-          awk '{ print "local-zone: \"" $1 "\" static\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_full_only_domains_new.txt >> phishfort_full_unbound.conf
-
+          if [ -s phishfort_full_only_domains_new.txt ]; then
+            awk '{ print "0.0.0.0", $1 }' phishfort_full_only_domains_new.txt >> phishfort_full_hosts.txt
+            awk '{ print "||" $1 "^" }' phishfort_full_only_domains_new.txt >> phishfort_full_adguardhome.txt
+            awk '{ print $1 }' phishfort_full_only_domains_new.txt >> phishfort_full_only_domains.txt
+            awk '{ print "local-zone: \"" $1 "\" redirect\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_full_only_domains_new.txt >> phishfort_full_rpz.conf
+            awk '{ print "local-zone: \"" $1 "\" static\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_full_only_domains_new.txt >> phishfort_full_unbound.conf
+          else
+            echo "Domain list is empty."
+            exit 1
+          fi
+      
       # Check if only the timestamp line has changed
       - name: Check if only the timestamp line has changed
         id: check_timestamp_change
