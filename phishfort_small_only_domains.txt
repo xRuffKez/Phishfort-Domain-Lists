@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 26 12:55:17 UTC 2024
-# Number of Entries: 7829
+# Fetch date: Fri Apr 26 13:03:12 UTC 2024
+# Number of Entries: 7830
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -3521,7 +3521,6 @@ m-usdt.xyz
 m.cdzhjzx.com
 m.dscd888.com
 m.dzsqc.com
-m.eq-energyplan-india.com
 m.ethenaofficial.com
 m.hongcsx.cn
 m.janalt-tech.com
@@ -4840,6 +4839,7 @@ pancakecrypto.com
 pancakedrop.com
 pancakedrop.xyz
 pancakedropclaim4600.vercel.app
+pancakedropclick17.vercel.app
 pancakedropclick32.vercel.app
 pancakedropclick80.vercel.app
 pancakedrops.com
@@ -7070,6 +7070,7 @@ web3trubtc.cc
 web3zerion-claim.pages.dev
 webappresolve.pages.dev
 webdapps.vercel.app
+webdesk.ukvirginmoney-livechat.com
 webdisk.metamaskarticle.com
 webex.com.test.webexarcor.arcorsa.myshn.net
 webex.net.cn
