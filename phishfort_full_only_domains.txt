@@ -2,7 +2,7 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 26 14:03:07 UTC 2024
+# Fetch date: Fri Apr 26 14:32:29 UTC 2024
 # Number of Entries: 108789
 
 0-metemask.com
@@ -25036,6 +25036,7 @@ dbrsfxs.com
 dbrsleader.com
 dbrsleader.net
 dbrsltd.com
+dbrspro.com
 dbrspty.com
 dbslogistic.com
 dbsxpress.com
@@ -39364,7 +39365,6 @@ ibllce.com
 ibllces.com
 ibllcit.com
 ibllck.com
-ibllcox.com
 ibllcq.com
 ibllcr.com
 ibllcy.com
