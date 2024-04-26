@@ -35,9 +35,11 @@ jobs:
       # Remove domains that do not resolve on both port 80 and 443
       - name: Remove domains that do not resolve on both port 80 and 443
         run: |
-          awk '{ print "echo \"" $1 "\" >> resolving_domains.txt" }' phishfort_small_only_domains_new.txt | bash
-          cat resolving_domains.txt | xargs -n1 -P8 -I{} bash -c 'if ! timeout 1 nc -zv {} 80 &> /dev/null || ! timeout 1 nc -zv {} 443 &> /dev/null; then echo "{}" >> resolved_domains.txt; fi'
-
+          while IFS= read -r domain; do
+            if ! timeout 1 nc -zv "$domain" 80 &>/dev/null || ! timeout 1 nc -zv "$domain" 443 &>/dev/null; then
+              echo "$domain" >> resolved_domains.txt
+            fi
+          done < resolving_domains.txt
 
       # Count the number of domains
       - name: Count the number of domains
