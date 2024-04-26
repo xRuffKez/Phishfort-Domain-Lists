@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Fri Apr 26 20:32:20 UTC 2024
+# PhishFort Small Domain List - Fri Apr 26 20:42:15 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7826
+# Number of Entries: 7828
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -5150,6 +5150,7 @@ peplicator-nu.vercel.app
 pepsi-mall.com
 pepsi8.com
 pepsico-tx.com
+pepsicojobs.in
 pepsisco.com
 per-empower.com
 per-empower.com.affiliateadvantageventures.com
@@ -5168,6 +5169,7 @@ petsversegames.sale
 petsversegames.site
 pfantmwallet.godaddysites.com
 pgenztokenclaim.pages.dev
+phaintum-wall_it.godaddysites.com
 phammt.xyz
 phamtom-walet.godaddysites.com
 phanntm-walluut.godaddysites.com

@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri Apr 26 20:32:20 UTC 2024
+# PhishFort Small Domain List - Fri Apr 26 20:42:15 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7826
+# Number of Entries: 7828
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -5151,6 +5151,7 @@
 0.0.0.0 pepsi-mall.com
 0.0.0.0 pepsi8.com
 0.0.0.0 pepsico-tx.com
+0.0.0.0 pepsicojobs.in
 0.0.0.0 pepsisco.com
 0.0.0.0 per-empower.com
 0.0.0.0 per-empower.com.affiliateadvantageventures.com
@@ -5169,6 +5170,7 @@
 0.0.0.0 petsversegames.site
 0.0.0.0 pfantmwallet.godaddysites.com
 0.0.0.0 pgenztokenclaim.pages.dev
+0.0.0.0 phaintum-wall_it.godaddysites.com
 0.0.0.0 phammt.xyz
 0.0.0.0 phamtom-walet.godaddysites.com
 0.0.0.0 phanntm-walluut.godaddysites.com
