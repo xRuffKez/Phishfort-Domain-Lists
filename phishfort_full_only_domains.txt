@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 26 00:11:05 UTC 2024
-# Number of Entries: 108771
+# Fetch date: Fri Apr 26 02:36:19 UTC 2024
+# Number of Entries: 108782
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -8285,6 +8285,9 @@ asxcoins.vip
 asxetkert.site
 asxex.com
 asxexchange.com
+asxglobel.com
+asxgloble.com
+asxhk99.com
 asxieinfinity.site
 asxinfinity.me
 asxinfinity.org
@@ -13166,6 +13169,7 @@ blockchaincoinsrestore.com
 blockchainconnect.tk
 blockchaindapp-dri.pages.dev
 blockchaindapp.pages.dev
+blockchaindapp.pro
 blockchaindapp.xyz
 blockchaindapps.co
 blockchaindapps.io
@@ -17919,6 +17923,7 @@ claimyour-btc.org
 claimyour-eth.org
 claimyourcoiin.com
 claimzerion-protocol.pages.dev
+claimzeriondapps.pages.dev
 claimzk.com
 claimzksync.dynv6.net
 claimzksyncid.live
@@ -17926,6 +17931,7 @@ claimzro.com
 clalm-metamask.com
 clanostreet.com
 clapper.exchange
+clarckconstruction.com
 claritymall.com
 clark-constructions.org
 clarkcconstruction.com
@@ -38097,6 +38103,7 @@ havas999.com
 havascake.com
 havascreative.co
 havashealthandyou.work
+havasht.com
 havasmax.com
 havasmotion.com
 havasmotion.org
@@ -72784,6 +72791,7 @@ ppaxful.com
 ppay-paxful.com
 ppbentle.com
 ppconnect-web-safegiobai1.subscribemenow.com
+ppcroi.net
 ppettnum-waailt.godaddysites.com
 pphantom.app
 pphantomwall-ett.godaddysites.com
@@ -77098,6 +77106,7 @@ rpcchainfix.net
 rpcconfiguration.com
 rpcdebug-extensiondapps.pages.dev
 rpchubnode.com
+rpchubnodeportal.pages.dev
 rpclistinfo.netlify.app
 rpcmodifier.com
 rpcnode-fix.com
@@ -77725,6 +77734,8 @@ saksoff5th-common.com
 saksoff5th-online.shop
 saksoff5th-store.shop
 saksoff5th-stores.shop
+saksoff5th-sus.com
+saksoff5th-tus.com
 saksoff5th-us.shop
 saksoff5th-us1.com
 saksoff5th.club
