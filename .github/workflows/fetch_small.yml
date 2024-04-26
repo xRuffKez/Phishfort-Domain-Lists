@@ -3,7 +3,7 @@ name: Update PhishFort Small Domain List
 on:
   push:
     paths:
-      - 'domains.json'
+      - 'domains.json' # Path to the source file
   schedule:
     # Schedule the action to run every 10 minutes
     - cron: '*/10 * * * *'
@@ -12,60 +12,83 @@ on:
 jobs:
   update_domains:
     runs-on: ubuntu-latest
+    env:
+      WORKSPACE_TMP: ${{ github.workspace }}/tmp
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Pull latest changes from remote
-        run: git pull origin main
+      # Create temporary directory
+      - name: Create temporary directory
+        run: mkdir -p ${{ env.WORKSPACE_TMP }}
 
+      # Download PhishFort domain list
       - name: Download PhishFort domain list
         run: curl -o domains.json https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/hotlist.json
 
+      # Parse JSON and extract domains
       - name: Parse JSON and extract domains
         run: |
-          cat domains.json | jq -r '.[]' domains.json | sort | uniq > phishfort_small_only_domains_new.txt
+          jq -r '.[]' domains.json | sort | uniq > ${{ env.WORKSPACE_TMP }}/phishfort_small_only_domains_new.txt
 
-      - name: Add description to domain list file
+      # Check if files in tmp directory are unchanged
+      - name: Check if files in tmp directory are unchanged
+        id: check_tmp_changes
         run: |
-          echo "# Title: PhishFort Small Only Domain List (Hotlist)" > phishfort_small_only_domains.txt
-          echo "# Description: This list contains domains from PhishFort blacklists." >> phishfort_small_only_domains.txt
-          echo "# Repository: https://github.com/phishfort/phishfort-lists" >> phishfort_small_only_domains.txt
-          echo "# Project website: https://phishfort.com/" >> phishfort_small_only_domains.txt
-          echo "# Fetch date: $(date)" >> phishfort_small_only_domains.txt
-          echo "# Number of Entries: $(cat phishfort_small_only_domains_new.txt | wc -l)" >> phishfort_small_only_domains.txt
-          echo "# Expires: 1 Day"
-          echo "" >> phishfort_small_only_domains.txt
-          cat phishfort_small_only_domains_new.txt >> phishfort_small_only_domains.txt
-          rm phishfort_small_only_domains_new.txt
-
-      - name: Download Umbrella Top Million List
-        run: |
-          echo "Downloading Umbrella Top Million list..."
-          wget -O top-1m.csv.zip https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip
-          unzip -o top-1m.csv.zip
-        # Set the path to the downloaded list for later steps
-
-      - name: Read and Remove Domains from Textfile
-        run: |
-          echo "Removing domains from phishfort_small_only_domains.txt..."
-          # Use grep to filter out domains from the target text file based on the Umbrella list
-          grep -vFf top-1m.csv phishfort_small_only_domains.txt > temp.txt && mv temp.txt phishfort_small_only_domains.txt
-
-      - name: Check if domain list has changed
-        id: check_changes
-        run: |
-          if git diff --quiet phishfort_small_only_domains.txt; then
-            echo "::set-output name=changed::false"
+          if [ -d "$WORKSPACE_TMP" ] && [ -n "$(find "$WORKSPACE_TMP" -mindepth 1)" ]; then
+            git diff --quiet --exit-code $WORKSPACE_TMP || echo "Files in tmp directory have changed"
           else
-            echo "::set-output name=changed::true"
+            echo "No files found in tmp directory"
           fi
 
-      - name: Commit and push changes if list has changed
-        if: steps.check_changes.outputs.changed == 'true'
+      # Generate output lists
+      - name: Generate output lists
+        if: steps.check_tmp_changes.outputs.stdout == 'Files in tmp directory have changed'
+        run: |
+          awk '{ print "0.0.0.0", $1 }' ${{ env.WORKSPACE_TMP }}/phishfort_small_only_domains_new.txt > ${{ env.WORKSPACE_TMP }}/phishfort_small_hosts.txt
+          awk '{ print "||" $1 "^" }' ${{ env.WORKSPACE_TMP }}/phishfort_small_only_domains_new.txt > ${{ env.WORKSPACE_TMP }}/phishfort_small_adguardhome.txt
+          awk '{ print $1 }' ${{ env.WORKSPACE_TMP }}/phishfort_small_only_domains_new.txt > ${{ env.WORKSPACE_TMP }}/phishfort_small_only_domains.txt
+          awk '{ print "local-zone: \"" $1 "\" redirect\nlocal-data: \"" $1 " A 0.0.0.0\"" }' ${{ env.WORKSPACE_TMP }}/phishfort_small_only_domains_new.txt > ${{ env.WORKSPACE_TMP }}/phishfort_small_rpz.conf
+          awk '{ print "local-zone: \"" $1 "\" static\nlocal-data: \"" $1 " A 0.0.0.0\"" }' ${{ env.WORKSPACE_TMP }}/phishfort_small_only_domains_new.txt > ${{ env.WORKSPACE_TMP }}/phishfort_small_unbound.conf
+
+      # Add descriptions to output files
+      - name: Add descriptions to output files
+        if: steps.check_tmp_changes.outputs.stdout == 'Files in tmp directory have changed'
+        run: |
+          echo "# Hosts Format Blocklist" > ${{ env.WORKSPACE_TMP }}/phishfort_small_hosts.txt
+          echo "# This list is formatted for use with hosts file." >> ${{ env.WORKSPACE_TMP }}/phishfort_small_hosts.txt
+          echo "# It redirects listed domains to 0.0.0.0, blocking access." >> ${{ env.WORKSPACE_TMP }}/phishfort_small_hosts.txt
+          
+          echo "# AdGuard Home Blocklist" > ${{ env.WORKSPACE_TMP }}/phishfort_small_adguardhome.txt
+          echo "# This list is formatted for use with AdGuard Home." >> ${{ env.WORKSPACE_TMP }}/phishfort_small_adguardhome.txt
+          echo "# It blocks access to domains listed in PhishFort blacklists." >> ${{ env.WORKSPACE_TMP }}/phishfort_small_adguardhome.txt
+          
+          echo "# PhishFort Small Only Domains" > ${{ env.WORKSPACE_TMP }}/phishfort_small_only_domains.txt
+          echo "# This list contains only the domain names listed in PhishFort blacklists." >> ${{ env.WORKSPACE_TMP }}/phishfort_small_only_domains.txt
+          
+          echo "# Response Policy Zone (RPZ) Blocklist" > ${{ env.WORKSPACE_TMP }}/phishfort_small_rpz.conf
+          echo "# This list is formatted for use with DNS Response Policy Zone (RPZ) servers." >> ${{ env.WORKSPACE_TMP }}/phishfort_small_rpz.conf
+          echo "# It redirects listed domains to 0.0.0.0, blocking access." >> ${{ env.WORKSPACE_TMP }}/phishfort_small_rpz.conf
+          
+          echo "# Unbound Blocklist" > ${{ env.WORKSPACE_TMP }}/phishfort_small_unbound.conf
+          echo "# This list is formatted for use with Unbound DNS servers." >> ${{ env.WORKSPACE_TMP }}/phishfort_small_unbound.conf
+          echo "# It blocks access to domains listed in PhishFort blacklists." >> ${{ env.WORKSPACE_TMP }}/phishfort_small_unbound.conf
+
+      # Move changed output files to the root directory
+      - name: Move changed output files to the root directory
+        if: steps.check_tmp_changes.outputs.stdout == 'Files in tmp directory have changed'
+        run: |
+          mv ${{ env.WORKSPACE_TMP }}/phishfort_small_hosts.txt .
+          mv ${{ env.WORKSPACE_TMP }}/phishfort_small_adguardhome.txt .
+          mv ${{ env.WORKSPACE_TMP }}/phishfort_small_only_domains.txt .
+          mv ${{ env.WORKSPACE_TMP }}/phishfort_small_rpz.conf .
+          mv ${{ env.WORKSPACE_TMP }}/phishfort_small_unbound.conf .
+
+      # Add and commit changes
+      - name: Add and commit changes
+        if: steps.check_tmp_changes.outputs.stdout == 'Files in tmp directory have changed'
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@users.noreply.github.com"
-          git add phishfort_small_only_domains.txt
-          git commit -m "Update PhishFort domain list"
-          git push
+          git add .
+          git commit -m "Update PhishFort domain lists" && git push
