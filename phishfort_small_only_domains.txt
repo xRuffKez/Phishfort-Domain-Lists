@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 26 15:15:27 UTC 2024
-# Number of Entries: 7839
+# Fetch date: Fri Apr 26 15:32:17 UTC 2024
+# Number of Entries: 7837
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -306,7 +306,6 @@ airdrop.activechain.io
 airdrop.altaver.xyz
 airdrop.altlayer.ai
 airdrop.altlayer.club
-airdrop.altlayer.events
 airdrop.altlayer.me
 airdrop.altlayer.wb3u.xyz
 airdrop.atlayer.io
@@ -6930,7 +6929,6 @@ wagmi-ethereum.com
 wagmiblast.xyz
 wagmidrop.com
 wagmigames8765.live
-waitlist-altlayer.io
 waletsconets.pages.dev
 walken-nft.web.app
 wallemartoneycarts.com
