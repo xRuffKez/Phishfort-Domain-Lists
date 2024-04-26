@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 26 01:32:28 UTC 2024
-# Number of Entries: 7829
+# Fetch date: Fri Apr 26 01:57:07 UTC 2024
+# Number of Entries: 7834
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -593,7 +593,6 @@ app.airtm11.com
 app.airtm12.com
 app.airtm31.com
 app.airtm5.com
-app.airtm7.com
 app.airtms.com
 app.allocations-chihuahua.com
 app.allocations-vanarchain.com
@@ -768,6 +767,8 @@ asxcoinco.com
 asxcoind.com
 asxcoins.net
 asxcoins.vip
+asxglobel.com
+asxgloble.com
 asxhk99.com
 asxmx.cc
 asxstockexchange.com
@@ -1095,6 +1096,7 @@ blockchain-issues-resolv.netlify.app
 blockchain-node-beta.vercel.app
 blockchainbets.netlify.app
 blockchaindapp-dri.pages.dev
+blockchaindapp.pro
 blockchainrectification-1tu.pages.dev
 blockchainrectification088.pages.dev
 blockdexresolve.pages.dev
@@ -1111,7 +1113,6 @@ blog.firstflytravel.com
 bloomorganicspa.za.com
 blsat.io
 blst-reg.app
-bltkub-kyc.web.app
 bluefishing.buzz
 blueprints.fi
 blueseanice.com
@@ -1542,6 +1543,8 @@ claimstrk.today
 claimstrk.xyz
 claimvoucher2.glitch.me
 claimzerion-protocol.pages.dev
+claimzeriondapps.pages.dev
+clarckconstruction.com
 clark-constructions.org
 clarkcorstruction.com
 clarkgroup-us.co
@@ -2818,6 +2821,7 @@ havas688.com
 havas8.com
 havas9.com
 havascake.com
+havasht.com
 haven1.vercel.app
 hbar-distribution.com
 hca-healthcare.com
@@ -5754,6 +5758,7 @@ rpc-metafix.pages.dev
 rpcchainfix.net
 rpcdebug-extensiondapps.pages.dev
 rpchubnode.com
+rpchubnodeportal.pages.dev
 rpclistinfo.netlify.app
 rpcnodesos.com
 rpcweb3maindapp.com
