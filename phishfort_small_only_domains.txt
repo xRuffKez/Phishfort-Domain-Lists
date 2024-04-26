@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Fri Apr 26 19:14:26 UTC 2024
+# PhishFort Small Domain List - Fri Apr 26 20:23:51 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7831
+# Number of Entries: 7825
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -367,7 +367,6 @@ airtm0o.com
 airtm11.com
 airtm30.com
 airtm9.com
-airtrackmate.com
 airusd.xyz
 aitchain.in
 aitechblockresolve.pages.dev
@@ -1113,7 +1112,6 @@ blog.firstflytravel.com
 bloomorganicspa.za.com
 blsat.io
 blst-reg.app
-bluefishing.buzz
 blueprints.fi
 blueseanice.com
 blur-drop.claims
@@ -3208,7 +3206,6 @@ juppystart.app
 jupqq.com
 jups.io
 jupvoucher.com
-jupzz.com
 juups.io
 jwsco.pro
 kaijutoys.shop
@@ -3236,7 +3233,6 @@ kduo.cc
 kdvrp.cc
 kelpdaa.xyz
 kelpdao-claim.pages.dev
-kelpdao.app
 kelpdao.fun
 kelpdao.link
 kelpdao.live
@@ -3819,6 +3815,7 @@ meatmesk.com
 mediaflex.live
 medialink.ie
 medidatacareers.com
+medpacecareer.com
 mee6-connect.xyz
 mee6appeals.xyz
 meetamaskev.azurewebsites.net
@@ -4815,7 +4812,6 @@ pancakaswaps.com
 pancakaswp-finance.com
 pancake-clalm.xyz
 pancake-finance.net
-pancake-finance.org
 pancake-frontend-29e48ga31-chefilip.vercel.app
 pancake-frontend-flznr5rp3-chefilip.vercel.app
 pancake-ifo.pages.dev
@@ -5130,7 +5126,6 @@ pengsolana.co
 pengsolana.org
 penguin-verlagsgruppe.de
 penguinrandomh0use.com
-penguinrandomhouseglobal.com
 penguinrandomhouseofficial.com
 penguinrandomhouseworldwide.com
 pepe-memes.com
@@ -5863,7 +5858,6 @@ scapemania.live
 scapemania.sale
 scburnet.okta.acmecorp.name
 schoolfirstcenter0reversalonline.duckdns.org
-sconectsmartplusoficial.store
 scorpion-casino.shop
 scorpioncasinos.pages.dev
 scotltytheai.xyz
@@ -6971,7 +6965,6 @@ waprcast.com
 wardenswap.netlify.app
 washignton-post.com
 washignton-post.com.gianlucaungaro.it
-washingtonfinancialpost.com
 washingtonpost.in
 wassies.vip
 wbtc-portal.com
@@ -7085,6 +7078,7 @@ weblinknodeapp.web.app
 webmultiverse-smartchain.xyz
 webnet3.com
 webonlinez.sa.com
+webpaxos.com
 websmart-de.fi
 websolverdapp.pages.dev
 webtransfer.vfjikpnlth.life

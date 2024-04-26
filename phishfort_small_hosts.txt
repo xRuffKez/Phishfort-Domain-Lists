@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri Apr 26 19:14:26 UTC 2024
+# PhishFort Small Domain List - Fri Apr 26 20:23:51 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7831
+# Number of Entries: 7825
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -368,7 +368,6 @@
 0.0.0.0 airtm11.com
 0.0.0.0 airtm30.com
 0.0.0.0 airtm9.com
-0.0.0.0 airtrackmate.com
 0.0.0.0 airusd.xyz
 0.0.0.0 aitchain.in
 0.0.0.0 aitechblockresolve.pages.dev
@@ -1114,7 +1113,6 @@
 0.0.0.0 bloomorganicspa.za.com
 0.0.0.0 blsat.io
 0.0.0.0 blst-reg.app
-0.0.0.0 bluefishing.buzz
 0.0.0.0 blueprints.fi
 0.0.0.0 blueseanice.com
 0.0.0.0 blur-drop.claims
@@ -3209,7 +3207,6 @@
 0.0.0.0 jupqq.com
 0.0.0.0 jups.io
 0.0.0.0 jupvoucher.com
-0.0.0.0 jupzz.com
 0.0.0.0 juups.io
 0.0.0.0 jwsco.pro
 0.0.0.0 kaijutoys.shop
@@ -3237,7 +3234,6 @@
 0.0.0.0 kdvrp.cc
 0.0.0.0 kelpdaa.xyz
 0.0.0.0 kelpdao-claim.pages.dev
-0.0.0.0 kelpdao.app
 0.0.0.0 kelpdao.fun
 0.0.0.0 kelpdao.link
 0.0.0.0 kelpdao.live
@@ -3820,6 +3816,7 @@
 0.0.0.0 mediaflex.live
 0.0.0.0 medialink.ie
 0.0.0.0 medidatacareers.com
+0.0.0.0 medpacecareer.com
 0.0.0.0 mee6-connect.xyz
 0.0.0.0 mee6appeals.xyz
 0.0.0.0 meetamaskev.azurewebsites.net
@@ -4816,7 +4813,6 @@
 0.0.0.0 pancakaswp-finance.com
 0.0.0.0 pancake-clalm.xyz
 0.0.0.0 pancake-finance.net
-0.0.0.0 pancake-finance.org
 0.0.0.0 pancake-frontend-29e48ga31-chefilip.vercel.app
 0.0.0.0 pancake-frontend-flznr5rp3-chefilip.vercel.app
 0.0.0.0 pancake-ifo.pages.dev
@@ -5131,7 +5127,6 @@
 0.0.0.0 pengsolana.org
 0.0.0.0 penguin-verlagsgruppe.de
 0.0.0.0 penguinrandomh0use.com
-0.0.0.0 penguinrandomhouseglobal.com
 0.0.0.0 penguinrandomhouseofficial.com
 0.0.0.0 penguinrandomhouseworldwide.com
 0.0.0.0 pepe-memes.com
@@ -5864,7 +5859,6 @@
 0.0.0.0 scapemania.sale
 0.0.0.0 scburnet.okta.acmecorp.name
 0.0.0.0 schoolfirstcenter0reversalonline.duckdns.org
-0.0.0.0 sconectsmartplusoficial.store
 0.0.0.0 scorpion-casino.shop
 0.0.0.0 scorpioncasinos.pages.dev
 0.0.0.0 scotltytheai.xyz
@@ -6972,7 +6966,6 @@
 0.0.0.0 wardenswap.netlify.app
 0.0.0.0 washignton-post.com
 0.0.0.0 washignton-post.com.gianlucaungaro.it
-0.0.0.0 washingtonfinancialpost.com
 0.0.0.0 washingtonpost.in
 0.0.0.0 wassies.vip
 0.0.0.0 wbtc-portal.com
@@ -7086,6 +7079,7 @@
 0.0.0.0 webmultiverse-smartchain.xyz
 0.0.0.0 webnet3.com
 0.0.0.0 webonlinez.sa.com
+0.0.0.0 webpaxos.com
 0.0.0.0 websmart-de.fi
 0.0.0.0 websolverdapp.pages.dev
 0.0.0.0 webtransfer.vfjikpnlth.life

@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri Apr 26 19:14:26 UTC 2024
+# PhishFort Small Domain List - Fri Apr 26 20:23:51 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7831
+# Number of Entries: 7825
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -368,7 +368,6 @@
 ||airtm11.com^
 ||airtm30.com^
 ||airtm9.com^
-||airtrackmate.com^
 ||airusd.xyz^
 ||aitchain.in^
 ||aitechblockresolve.pages.dev^
@@ -1114,7 +1113,6 @@
 ||bloomorganicspa.za.com^
 ||blsat.io^
 ||blst-reg.app^
-||bluefishing.buzz^
 ||blueprints.fi^
 ||blueseanice.com^
 ||blur-drop.claims^
@@ -3209,7 +3207,6 @@
 ||jupqq.com^
 ||jups.io^
 ||jupvoucher.com^
-||jupzz.com^
 ||juups.io^
 ||jwsco.pro^
 ||kaijutoys.shop^
@@ -3237,7 +3234,6 @@
 ||kdvrp.cc^
 ||kelpdaa.xyz^
 ||kelpdao-claim.pages.dev^
-||kelpdao.app^
 ||kelpdao.fun^
 ||kelpdao.link^
 ||kelpdao.live^
@@ -3820,6 +3816,7 @@
 ||mediaflex.live^
 ||medialink.ie^
 ||medidatacareers.com^
+||medpacecareer.com^
 ||mee6-connect.xyz^
 ||mee6appeals.xyz^
 ||meetamaskev.azurewebsites.net^
@@ -4816,7 +4813,6 @@
 ||pancakaswp-finance.com^
 ||pancake-clalm.xyz^
 ||pancake-finance.net^
-||pancake-finance.org^
 ||pancake-frontend-29e48ga31-chefilip.vercel.app^
 ||pancake-frontend-flznr5rp3-chefilip.vercel.app^
 ||pancake-ifo.pages.dev^
@@ -5131,7 +5127,6 @@
 ||pengsolana.org^
 ||penguin-verlagsgruppe.de^
 ||penguinrandomh0use.com^
-||penguinrandomhouseglobal.com^
 ||penguinrandomhouseofficial.com^
 ||penguinrandomhouseworldwide.com^
 ||pepe-memes.com^
@@ -5864,7 +5859,6 @@
 ||scapemania.sale^
 ||scburnet.okta.acmecorp.name^
 ||schoolfirstcenter0reversalonline.duckdns.org^
-||sconectsmartplusoficial.store^
 ||scorpion-casino.shop^
 ||scorpioncasinos.pages.dev^
 ||scotltytheai.xyz^
@@ -6972,7 +6966,6 @@
 ||wardenswap.netlify.app^
 ||washignton-post.com^
 ||washignton-post.com.gianlucaungaro.it^
-||washingtonfinancialpost.com^
 ||washingtonpost.in^
 ||wassies.vip^
 ||wbtc-portal.com^
@@ -7086,6 +7079,7 @@
 ||webmultiverse-smartchain.xyz^
 ||webnet3.com^
 ||webonlinez.sa.com^
+||webpaxos.com^
 ||websmart-de.fi^
 ||websolverdapp.pages.dev^
 ||webtransfer.vfjikpnlth.life^
