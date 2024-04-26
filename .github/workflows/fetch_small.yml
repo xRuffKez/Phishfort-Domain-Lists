@@ -63,7 +63,6 @@ jobs:
           echo "# Project: PhishFort (https://phishfort.com/)" >> phishfort_small_hosts.txt
           echo "# This list is provided by the PhishFort project, which aims to combat phishing and malicious activities." >> phishfort_small_hosts.txt
           echo "" >> phishfort_small_hosts.txt
-          cat phishfort_small_hosts.txt >> phishfort_small_hosts.txt
           
           echo "# PhishFort Small Domain List - $timestamp" > phishfort_small_adguardhome.txt
           echo "# This list is formatted for use with AdGuard Home." >> phishfort_small_adguardhome.txt
@@ -72,7 +71,6 @@ jobs:
           echo "# Project: PhishFort (https://phishfort.com/)" >> phishfort_small_adguardhome.txt
           echo "# This list is provided by the PhishFort project, which aims to combat phishing and malicious activities." >> phishfort_small_adguardhome.txt
           echo "" >> phishfort_small_adguardhome.txt
-          cat phishfort_small_adguardhome.txt >> phishfort_small_adguardhome.txt
           
           echo "# PhishFort Small Domain List - $timestamp" > phishfort_small_only_domains.txt
           echo "# This list contains only the domain names listed in PhishFort blacklists." >> phishfort_small_only_domains.txt
@@ -80,7 +78,6 @@ jobs:
           echo "# Project: PhishFort (https://phishfort.com/)" >> phishfort_small_only_domains.txt
           echo "# This list is provided by the PhishFort project, which aims to combat phishing and malicious activities." >> phishfort_small_only_domains.txt
           echo "" >> phishfort_small_only_domains.txt
-          cat phishfort_small_only_domains.txt >> phishfort_small_only_domains.txt
           
           echo "# PhishFort Small Domain List - $timestamp" > phishfort_small_rpz.conf
           echo "# This list is formatted for use with DNS Response Policy Zone (RPZ) servers." >> phishfort_small_rpz.conf
@@ -89,7 +86,6 @@ jobs:
           echo "# Project: PhishFort (https://phishfort.com/)" >> phishfort_small_rpz.conf
           echo "# This list is provided by the PhishFort project, which aims to combat phishing and malicious activities." >> phishfort_small_rpz.conf
           echo "" >> phishfort_small_rpz.conf
-          cat phishfort_small_rpz.conf >> phishfort_small_rpz.conf
           
           echo "# PhishFort Small Domain List - $timestamp" > phishfort_small_unbound.conf
           echo "# This list is formatted for use with Unbound DNS servers." >> phishfort_small_unbound.conf
@@ -98,7 +94,6 @@ jobs:
           echo "# Project: PhishFort (https://phishfort.com/)" >> phishfort_small_unbound.conf
           echo "# This list is provided by the PhishFort project, which aims to combat phishing and malicious activities." >> phishfort_small_unbound.conf
           echo "" >> phishfort_small_unbound.conf
-          cat phishfort_small_unbound.conf >> phishfort_small_unbound.conf
 
       # Add and commit changes
       - name: Add and commit changes
