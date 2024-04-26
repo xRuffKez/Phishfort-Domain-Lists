@@ -35,6 +35,12 @@ jobs:
             exit 1
           fi
 
+      # Count the number of domains
+      - name: Count the number of domains
+        run: |
+          num_domains=$(wc -l < phishfort_small_only_domains_new.txt)
+          echo "::set-output name=num_domains::$num_domains"
+
       # Generate output lists
       - name: Generate output lists
         run: |
@@ -44,27 +50,55 @@ jobs:
           awk '{ print "local-zone: \"" $1 "\" redirect\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_small_only_domains_new.txt > phishfort_small_rpz.conf
           awk '{ print "local-zone: \"" $1 "\" static\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_small_only_domains_new.txt > phishfort_small_unbound.conf
 
-      # Add descriptions to output files
-      - name: Add descriptions to output files
+      # Add descriptions and count to output files
+      - name: Add descriptions and count to output files
         run: |
-          echo "# Hosts Format Blocklist" > phishfort_small_hosts.txt
+          timestamp=$(date)
+          num_domains=$(cat phishfort_small_only_domains_new.txt | wc -l)
+          
+          echo "# PhishFort Small Domain List - $timestamp" > phishfort_small_hosts.txt
           echo "# This list is formatted for use with hosts file." >> phishfort_small_hosts.txt
           echo "# It redirects listed domains to 0.0.0.0, blocking access." >> phishfort_small_hosts.txt
+          echo "# Number of Entries: $num_domains" >> phishfort_small_hosts.txt
+          echo "# Project: PhishFort (https://phishfort.com/)" >> phishfort_small_hosts.txt
+          echo "# This list is provided by the PhishFort project, which aims to combat phishing and malicious activities." >> phishfort_small_hosts.txt
+          echo "" >> phishfort_small_hosts.txt
+          cat phishfort_small_hosts.txt >> phishfort_small_hosts.txt
           
-          echo "# AdGuard Home Blocklist" > phishfort_small_adguardhome.txt
+          echo "# PhishFort Small Domain List - $timestamp" > phishfort_small_adguardhome.txt
           echo "# This list is formatted for use with AdGuard Home." >> phishfort_small_adguardhome.txt
           echo "# It blocks access to domains listed in PhishFort blacklists." >> phishfort_small_adguardhome.txt
+          echo "# Number of Entries: $num_domains" >> phishfort_small_adguardhome.txt
+          echo "# Project: PhishFort (https://phishfort.com/)" >> phishfort_small_adguardhome.txt
+          echo "# This list is provided by the PhishFort project, which aims to combat phishing and malicious activities." >> phishfort_small_adguardhome.txt
+          echo "" >> phishfort_small_adguardhome.txt
+          cat phishfort_small_adguardhome.txt >> phishfort_small_adguardhome.txt
           
-          echo "# PhishFort Small Only Domains" > phishfort_small_only_domains.txt
+          echo "# PhishFort Small Domain List - $timestamp" > phishfort_small_only_domains.txt
           echo "# This list contains only the domain names listed in PhishFort blacklists." >> phishfort_small_only_domains.txt
+          echo "# Number of Entries: $num_domains" >> phishfort_small_only_domains.txt
+          echo "# Project: PhishFort (https://phishfort.com/)" >> phishfort_small_only_domains.txt
+          echo "# This list is provided by the PhishFort project, which aims to combat phishing and malicious activities." >> phishfort_small_only_domains.txt
+          echo "" >> phishfort_small_only_domains.txt
+          cat phishfort_small_only_domains.txt >> phishfort_small_only_domains.txt
           
-          echo "# Response Policy Zone (RPZ) Blocklist" > phishfort_small_rpz.conf
+          echo "# PhishFort Small Domain List - $timestamp" > phishfort_small_rpz.conf
           echo "# This list is formatted for use with DNS Response Policy Zone (RPZ) servers." >> phishfort_small_rpz.conf
           echo "# It redirects listed domains to 0.0.0.0, blocking access." >> phishfort_small_rpz.conf
+          echo "# Number of Entries: $num_domains" >> phishfort_small_rpz.conf
+          echo "# Project: PhishFort (https://phishfort.com/)" >> phishfort_small_rpz.conf
+          echo "# This list is provided by the PhishFort project, which aims to combat phishing and malicious activities." >> phishfort_small_rpz.conf
+          echo "" >> phishfort_small_rpz.conf
+          cat phishfort_small_rpz.conf >> phishfort_small_rpz.conf
           
-          echo "# Unbound Blocklist" > phishfort_small_unbound.conf
+          echo "# PhishFort Small Domain List - $timestamp" > phishfort_small_unbound.conf
           echo "# This list is formatted for use with Unbound DNS servers." >> phishfort_small_unbound.conf
           echo "# It blocks access to domains listed in PhishFort blacklists." >> phishfort_small_unbound.conf
+          echo "# Number of Entries: $num_domains" >> phishfort_small_unbound.conf
+          echo "# Project: PhishFort (https://phishfort.com/)" >> phishfort_small_unbound.conf
+          echo "# This list is provided by the PhishFort project, which aims to combat phishing and malicious activities." >> phishfort_small_unbound.conf
+          echo "" >> phishfort_small_unbound.conf
+          cat phishfort_small_unbound.conf >> phishfort_small_unbound.conf
 
       # Add and commit changes
       - name: Add and commit changes
