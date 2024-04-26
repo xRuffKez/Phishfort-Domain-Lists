@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri Apr 26 19:22:15 UTC 2024
+# PhishFort Full Domain List - Fri Apr 26 19:42:18 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108808
+# Number of Entries: 108807
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -49087,6 +49087,7 @@
 0.0.0.0 medlum.org
 0.0.0.0 medme-n.com
 0.0.0.0 medmenllc.com
+0.0.0.0 medpacecareer.com
 0.0.0.0 medpacecareers.com
 0.0.0.0 medpaceinc.com
 0.0.0.0 medpacescareer.com
@@ -64392,7 +64393,6 @@
 0.0.0.0 pancake-finance.exchange
 0.0.0.0 pancake-finance.net
 0.0.0.0 pancake-finance.online
-0.0.0.0 pancake-finance.org
 0.0.0.0 pancake-finance.ru
 0.0.0.0 pancake-finances.com
 0.0.0.0 pancake-financing.com
@@ -95369,7 +95369,6 @@
 0.0.0.0 washignton-post.com
 0.0.0.0 washignton-post.com.gianlucaungaro.it
 0.0.0.0 washington-posts.com
-0.0.0.0 washingtonfinancialpost.com
 0.0.0.0 washingtonpost.asia
 0.0.0.0 washingtonpost.careers
 0.0.0.0 washingtonpost.com.cz03149.tw1.ru

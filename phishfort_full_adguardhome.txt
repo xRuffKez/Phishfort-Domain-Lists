@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri Apr 26 19:22:15 UTC 2024
+# PhishFort Full Domain List - Fri Apr 26 19:42:18 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108808
+# Number of Entries: 108807
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -49087,6 +49087,7 @@
 ||medlum.org^
 ||medme-n.com^
 ||medmenllc.com^
+||medpacecareer.com^
 ||medpacecareers.com^
 ||medpaceinc.com^
 ||medpacescareer.com^
@@ -64392,7 +64393,6 @@
 ||pancake-finance.exchange^
 ||pancake-finance.net^
 ||pancake-finance.online^
-||pancake-finance.org^
 ||pancake-finance.ru^
 ||pancake-finances.com^
 ||pancake-financing.com^
@@ -95369,7 +95369,6 @@
 ||washignton-post.com^
 ||washignton-post.com.gianlucaungaro.it^
 ||washington-posts.com^
-||washingtonfinancialpost.com^
 ||washingtonpost.asia^
 ||washingtonpost.careers^
 ||washingtonpost.com.cz03149.tw1.ru^
