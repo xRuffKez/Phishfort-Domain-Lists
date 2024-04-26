@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 26 13:42:15 UTC 2024
-# Number of Entries: 7829
+# Fetch date: Fri Apr 26 13:51:57 UTC 2024
+# Number of Entries: 7830
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -809,6 +809,7 @@ autodappx.pages.dev
 autodiscover.aflacsinc.com
 autofix-node.pages.dev
 automation-feat-front-3795-display-log-tr-chainlinklabs.vercel.app
+autookde.site
 autorestore.pages.dev
 autotecc.pages.dev
 autovalidateblockchain.com
