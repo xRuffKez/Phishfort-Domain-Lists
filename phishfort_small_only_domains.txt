@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 26 03:52:13 UTC 2024
-# Number of Entries: 7834
+# Fetch date: Fri Apr 26 04:03:08 UTC 2024
+# Number of Entries: 7831
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -194,6 +194,7 @@ agoda-global.pro
 agoda-hotelreservation.top
 agoda-jp.cc
 agoda-jp.co
+agoda-jp.net
 agoda-jp.site
 agoda-jp.vip
 agoda-jp.xyz
@@ -2871,7 +2872,6 @@ hidden-airdrops.xyz
 highllght.com
 hippies-world.com
 hkasia-pooldefi.com
-hkhjk.linkpc.net
 hlbtn-company.ltd
 hlxfsx.com
 hntevent.com
@@ -3805,7 +3805,6 @@ maviiaa.com
 mavismerch.com
 mcfrzev.cc
 mcnabhi.github.io
-mdexcloudapp.xyz
 mducksspace.com
 mduresources.mamawannago.com
 me9.us
@@ -5495,7 +5494,6 @@ raydium.fun
 raydium.ink
 raydium.lo.web3-connect.pw
 raydiumswap.com
-raydiumtoken.io
 raydlum.ink
 raydlum.net
 raydlumvy.com
@@ -6104,7 +6102,6 @@ solgift6.com
 solicitudesberkley.es
 sollfare.com
 sols-meta.web.app
-solsea.dev
 soltrading-bots.web.app
 solventumcareers.com
 solwl-saga.web.app
