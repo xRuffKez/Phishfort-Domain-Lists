@@ -31,33 +31,18 @@ jobs:
             echo "Domain list is empty."
             exit 1
           fi
-
-      # Create and populate resolving_domains.txt
-      - name: Create and populate resolving_domains.txt
-        run: |
-          awk '{ print "echo \"" $1 "\" >> resolving_domains.txt" }' phishfort_small_only_domains_new.txt | bash
-
-      # Remove domains that do not resolve on both port 80 and 443
-      - name: Remove domains that do not resolve on both port 80 and 443
-        run: |
-          touch resolved_domains.txt
-          while IFS= read -r domain; do
-            if ! timeout 1 nc -zv "$domain" 80 &>/dev/null || ! timeout 1 nc -zv "$domain" 443 &>/dev/null; then
-              echo "$domain" >> resolved_domains.txt
-            fi
-          done < resolving_domains.txt
           
       # Count the number of domains
       - name: Count the number of domains
         run: |
-          num_domains=$(wc -l < resolved_domains.txt)
+          num_domains=$(wc -l < phishfort_small_only_domains_new.txt)
           echo "::set-output name=num_domains::$num_domains"
 
       # Add descriptions and count to output files
       - name: Add descriptions and count to output files
         run: |
           timestamp=$(date)
-          num_domains=$(cat resolved_domains.txt | wc -l)
+          num_domains=$(cat phishfort_small_only_domains_new.txt | wc -l)
           
           echo "# PhishFort Small Domain List - $timestamp" > phishfort_small_hosts.txt
           echo "# This list is formatted for use with hosts file." >> phishfort_small_hosts.txt
@@ -101,11 +86,11 @@ jobs:
       # Generate output lists
       - name: Generate output lists
         run: |
-          awk '{ print "0.0.0.0", $1 }' resolved_domains.txt >> phishfort_small_hosts.txt
-          awk '{ print "||" $1 "^" }' resolved_domains.txt >> phishfort_small_adguardhome.txt
-          awk '{ print $1 }' resolved_domains.txt >> phishfort_small_only_domains.txt
-          awk '{ print "local-zone: \"" $1 "\" redirect\nlocal-data: \"" $1 " A 0.0.0.0\"" }' resolved_domains.txt >> phishfort_small_rpz.conf
-          awk '{ print "local-zone: \"" $1 "\" static\nlocal-data: \"" $1 " A 0.0.0.0\"" }' resolved_domains.txt >> phishfort_small_unbound.conf
+          awk '{ print "0.0.0.0", $1 }' phishfort_small_only_domains_new.txt >> phishfort_small_hosts.txt
+          awk '{ print "||" $1 "^" }' phishfort_small_only_domains_new.txt >> phishfort_small_adguardhome.txt
+          awk '{ print $1 }' phishfort_small_only_domains_new.txt >> phishfort_small_only_domains.txt
+          awk '{ print "local-zone: \"" $1 "\" redirect\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_small_only_domains_new.txt >> phishfort_small_rpz.conf
+          awk '{ print "local-zone: \"" $1 "\" static\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_small_only_domains_new.txt >> phishfort_small_unbound.conf
 
       # Add and commit changes
       - name: Add and commit changes
