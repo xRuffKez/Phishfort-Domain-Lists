@@ -32,6 +32,11 @@ jobs:
             exit 1
           fi
 
+      # Create and populate resolving_domains.txt
+      - name: Create and populate resolving_domains.txt
+        run: |
+          awk '{ print "echo \"" $1 "\" >> resolving_domains.txt" }' phishfort_small_only_domains_new.txt | bash
+
       # Remove domains that do not resolve on both port 80 and 443
       - name: Remove domains that do not resolve on both port 80 and 443
         run: |
