@@ -35,11 +35,12 @@ jobs:
       # Remove domains that do not resolve on both port 80 and 443
       - name: Remove domains that do not resolve on both port 80 and 443
         run: |
+          touch resolved_domains.txt
           while IFS= read -r domain; do
             if ! timeout 1 nc -zv "$domain" 80 &>/dev/null || ! timeout 1 nc -zv "$domain" 443 &>/dev/null; then
               echo "$domain" >> resolved_domains.txt
             fi
-          done < resolved_domains.txt
+          done < resolving_domains.txt
           
       # Count the number of domains
       - name: Count the number of domains
