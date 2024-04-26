@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 26 16:52:10 UTC 2024
-# Number of Entries: 7837
+# Fetch date: Fri Apr 26 17:15:31 UTC 2024
+# Number of Entries: 7836
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -55,7 +55,6 @@
 2000usdc.net
 2000usdt.net
 2024gmcsilverado.website
-24397033.4d1df63187c716fb9bc6ff22.workers.dev
 24x7enterpriserental.agency
 25j0.cc
 26grbw.cc
@@ -378,7 +377,6 @@ ajbell.top
 ajxg.cc
 aknanalofiq.com
 akz3h.pro
-albemarle-albemarle.onlinemailmicrosotfvalidation.com
 albemarlesusa.com
 albersafewayst.com
 aleixogomes.com.br
@@ -1662,7 +1660,6 @@ collabandverify.onrender.com
 collabandverify.vercel.app
 collabland-assest.com
 collabland-log.com
-collabland-members.net
 collabland-pad.com
 collabland-syncs.com
 collabland-verification.xyz
@@ -2281,6 +2278,7 @@ epikstaking.com
 eportal-suppliers.online
 eprd.net
 epriceshop02.cc
+equinior.com
 equinor-ind.net
 equty.sa.com
 equty.za.com
@@ -2564,6 +2562,7 @@ frp.bio
 fsafeds.comet.sa.com
 fsafeds.comt.sa.com
 fsafeds.sa.com
+fsafeds.za.com
 ftp.jeddah-airport-city.com
 ftx-e49.pages.dev
 fuadazzad.net
@@ -2925,7 +2924,6 @@ hunnerdimental.com
 hvqk.pro
 hwy407etr.com
 hxig64w.pro
-hxsn.xyz
 hydro-protocol.xyz
 hyper-liquid.com
 hyperpaytech.com
@@ -2952,6 +2950,7 @@ ibllckw.com
 ibllcmi.com
 ibllcmt.com
 ibllcon.com
+ibllcox.com
 ibllcpt.com
 ibllcq.com
 ibllcr.com
@@ -4196,7 +4195,6 @@ modechain.pages.dev
 modenet.work
 modenetwork.io
 modenetwork.netlify.app
-moderator.ltd
 modhr.org
 modulares.icu
 modulef.com
@@ -6519,7 +6517,6 @@ tiktokcck.com
 tiktokcl.com
 tiktokeconline.com
 tiktokfw.com
-tiktokhelpcenter.com.tr
 tiktokjm.com
 tiktoklive.co
 tiktokmall01.com
@@ -6850,8 +6847,10 @@ view.wormmap.xyz
 vikingglobal.linejoinus.com
 viplatii.online
 vipnewmont.com
+virginmoneybusinessbanking.com
 virginmoneychatwithus.web.app
 virginmoneylivechat.com
+virginmoneyverify.web.app
 virtua.gift
 virtualsecrets.org
 visit-altlayer.io
@@ -7209,7 +7208,6 @@ wtokenevent.app
 wub6y7o.pro
 wufis.com
 wuqqrf3t7.life
-wverycaxqw6urqwpchk.mxy9ink.ru
 ww-connect-dappradar.com
 wwarm.xyz
 wwe-envivo.com
@@ -7267,6 +7265,7 @@ www.amz998.com
 www.aniarticles.com
 www.api05-collab.com
 www.apk20.com
+www.apkturbo.com
 www.app-ait.net
 www.app-ethena.finance
 www.app-milkyway.zone
