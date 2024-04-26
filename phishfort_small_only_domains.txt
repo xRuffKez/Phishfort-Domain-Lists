@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 26 07:22:55 UTC 2024
-# Number of Entries: 7831
+# Fetch date: Fri Apr 26 07:42:00 UTC 2024
+# Number of Entries: 7826
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -485,6 +485,7 @@ angledao.net
 animalfarm3app.com
 animalia.trading
 animalias.events
+anisovil.pro
 ankr.world
 ape-pylh.network
 apechainreload.com
@@ -3303,7 +3304,6 @@ launchpad-dydx.com
 launchpad-dymension.com
 launchpad-etherfi.com
 launchpad-metis.app
-launchpad-metis.com
 launchpad-optimism.network
 launchpad-overlord.xyz
 launchpad-pancake.com
@@ -4841,7 +4841,6 @@ pancakecrypto.com
 pancakedrop.com
 pancakedrop.xyz
 pancakedropclaim4600.vercel.app
-pancakedropclick17.vercel.app
 pancakedropclick32.vercel.app
 pancakedropclick80.vercel.app
 pancakedrops.com
@@ -4911,12 +4910,10 @@ pancakeswapfinances.pages.dev
 pancakeswapgiveaway.com
 pancakeswaph.github.io
 pancakeswapp.pages.dev
-pancakeswapp.web.app
 pancakeswapper.online
 pancakeswapperhub.online
 pancakeswapreward.finance
 pancakeswaps-finnance.com
-pancakeswapsclaim02.vercel.app
 pancakeswapsfinance.pages.dev
 pancakeswapunlock.com
 pancakeswapv3.net
@@ -7338,7 +7335,6 @@ www.dappbrowser.info
 www.dapphyperblast.io
 www.dappsresolver.com
 www.dartya.cc
-www.decentralize-metis.com
 www.decntralnd.one
 www.decora-cabinets.com
 www.degen.hakunamatatasol.com
@@ -7630,7 +7626,6 @@ www.ylouch.com
 www.zerion.claimfree.xyz
 wwwjup.ag
 wwwmakerdao.com
-wwwns1.smtp.old.newpardigm-manta.network
 wwwwarm.xyz
 x-altlayer.com
 x-elon.live
