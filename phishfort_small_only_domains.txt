@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 26 13:23:28 UTC 2024
-# Number of Entries: 7830
+# Fetch date: Fri Apr 26 13:32:19 UTC 2024
+# Number of Entries: 7829
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2349,7 +2349,6 @@ ethergas.eu
 ethergases.com
 ethermegas.org
 ethers-foundation.io
-ethersclaim.org
 etherugases.xyz
 ethfi.global
 ethfundg.xyz
@@ -2489,6 +2488,7 @@ fitness-solution24.de
 fix-metamask.pages.dev
 fix.errorsolution.org
 fixbugmigrate.pages.dev
+fixedfloat.bar
 fixedfloat.best
 fixedfloat.xyz
 fixedfloatt-io.click
@@ -6315,7 +6315,6 @@ swap-jupiter.com
 swap-l2.com
 swap-makerdao.org
 swap-nft.pages.dev
-swap.caribdao.com
 swap.dikecoin.net
 swap.pancake.us.com
 swap.pancake.us.org
