@@ -1,2 +1,0 @@
-# PhishFort Small Only Domains
-# This list contains only the domain names listed in PhishFort blacklists.
