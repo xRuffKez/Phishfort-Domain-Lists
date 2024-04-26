@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 26 14:02:51 UTC 2024
-# Number of Entries: 7830
+# Fetch date: Fri Apr 26 14:14:46 UTC 2024
+# Number of Entries: 7824
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2944,7 +2944,6 @@ ibllce.com
 ibllces.com
 ibllcit.com
 ibllck.com
-ibllcox.com
 ibllcq.com
 ibllcr.com
 ibllcy.com
@@ -3196,7 +3195,6 @@ juppyapps.com
 juppycases.trade
 juppystart.app
 jupqq.com
-juprr.com
 jups.io
 jupvoucher.com
 jupzz.com
@@ -4451,7 +4449,6 @@ nexisnetwork.xyz
 nexo-event.com
 nextgenfintech.lat
 nfclaimopensea.vercel.app
-nfgrex1.pro
 nfprompt-io.web.app
 nfprompt.click
 nfpromptairdrop.netlify.app
@@ -5824,7 +5821,6 @@ salepeaket.live
 sallybolderson.com
 sample.ecsa.com
 sampx8y.info
-samurai-award.info
 samurai-nft.pro
 samuraiaward.info
 san-swap.com
@@ -6416,7 +6412,6 @@ teleperformer.in
 teleportdao.su
 templatesync.pages.dev
 tenser.trade
-tensor-samurai.io
 tensor-trade-git-tree-tensor.vercel.app
 tensor-trade.netlify.app
 tensors.site
@@ -6520,7 +6515,6 @@ tiktokshop02.cc
 tiktokshop2.com
 tiktokshopdown.cc
 tiktokshopdown.com
-tiktoksupportnotice.online
 tiktoktech.net
 tiktoktech.org
 tiktokv.shop
