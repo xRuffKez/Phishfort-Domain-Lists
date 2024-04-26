@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 26 10:15:23 UTC 2024
-# Number of Entries: 7829
+# Fetch date: Fri Apr 26 10:26:28 UTC 2024
+# Number of Entries: 7828
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
@@ -2982,8 +2982,6 @@ infiniteworks.net
 infosa.net
 ing-autorizza-cliente.it
 ing-bank.info
-ing-onlines.pages.dev
-ing.es-operaciones.com
 ingb.online
 inggroupe1logen.blogspot.com
 ingonlineb.com
@@ -4886,6 +4884,7 @@ pancakeswap-pancakeswap.com
 pancakeswap-pancakeswap.xyz
 pancakeswap-platform.pages.dev
 pancakeswap-pro.com
+pancakeswap-proclaim.com
 pancakeswap-server.com
 pancakeswap-v3.pages.dev
 pancakeswap.airdrop-cake-v3.com
