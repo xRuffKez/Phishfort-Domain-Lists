@@ -1,0 +1,3 @@
+# AdGuard Home Blocklist
+# This list is formatted for use with AdGuard Home.
+# It blocks access to domains listed in PhishFort blacklists.
