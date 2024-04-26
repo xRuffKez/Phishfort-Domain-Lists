@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 26 03:15:52 UTC 2024
-# Number of Entries: 108782
+# Fetch date: Fri Apr 26 04:15:47 UTC 2024
+# Number of Entries: 108783
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -3069,6 +3069,7 @@ agoda-info.com
 agoda-jp.cc
 agoda-jp.co
 agoda-jp.com
+agoda-jp.net
 agoda-jp.site
 agoda-jp.vip
 agoda-jp.xyz
@@ -38679,7 +38680,6 @@ hkagoda.agency
 hkasia-pooldefi.com
 hkcgm.com
 hkg-laravel.pancakeswape.finance
-hkhjk.linkpc.net
 hkinu.network
 hkk-agoda.com
 hkk-agoda.net
@@ -97951,6 +97951,7 @@ www.ag-galagames-app.com
 www.agoda-at.bio
 www.agoda-elevate.com
 www.agoda-hk.com
+www.agoda-jp.net
 www.agoda-org.com
 www.agoda-tours.com
 www.agoda007.cn
