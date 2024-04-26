@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri Apr 26 21:52:05 UTC 2024
+# PhishFort Full Domain List - Fri Apr 26 23:38:58 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108812
+# Number of Entries: 108816
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -49246,6 +49246,7 @@
 ||memb-unv100993.com^
 ||member.kingsenglish.edu.lk^
 ||member.nada.org.np^
+||member53.com^
 ||memberdatacollab.com^
 ||members-kcchamber.com^
 ||members.fatimas.edu.ec^
@@ -64434,6 +64435,7 @@
 ||pancake-swap-fjnance.com^
 ||pancake-swap-flnance.org^
 ||pancake-swap-interface-v1-6nx.pages.dev^
+||pancake-swap-v3.pages.dev^
 ||pancake-swap-v3.pw^
 ||pancake-swap-v3.tech^
 ||pancake-swap.app^
@@ -66756,6 +66758,7 @@
 ||pancakeswapcism.com^
 ||pancakeswapclaim-rewardstake.defidappsmainnet.com^
 ||pancakeswapclaim.com^
+||pancakeswapclaimbox.com^
 ||pancakeswapclaims.com^
 ||pancakeswapclassic.com^
 ||pancakeswapclassic.finance^
@@ -97710,6 +97713,7 @@
 ||www-mytetherwallet.com^
 ||www-mytherewallet.com^
 ||www-nftmoonbirds.com^
+||www-nvidia.com^
 ||www-nycryptos.com^
 ||www-nycryqto.com^
 ||www-ofertas-fim-de-ano.blogspot.com^
