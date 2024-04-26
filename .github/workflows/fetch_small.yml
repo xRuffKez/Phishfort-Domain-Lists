@@ -1,9 +1,6 @@
 name: Update PhishFort Small Domain List
 
 on:
-  push:
-    paths:
-      - 'hotlist.json' # Path to the source file
   schedule:
     # Schedule the action to run every 10 minutes
     - cron: '*/10 * * * *'
