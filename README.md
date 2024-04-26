@@ -1,4 +1,4 @@
-# PhishFort Only Domain List
+# PhishFort Domain List
 
 This repository contains a list of domains sourced from PhishFort blacklists. The list is periodically updated to include new domains identified as phishing threats.
 
