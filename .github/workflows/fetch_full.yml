@@ -107,9 +107,13 @@ jobs:
           if diff --suppress-common-lines -q <(tail -n +2 phishfort_full_only_domains.txt) <(tail -n +2 phishfort_full_only_domains_new.txt) >/dev/null; then
             echo "::set-output name=changed::false"
           else
-            echo "::set-output name=changed::true"
+            if diff -q phishfort_full_only_domains.txt phishfort_full_only_domains_new.txt | grep -q '^1c1'; then
+              echo "::set-output name=changed::false"
+            else
+              echo "::set-output name=changed::true"
+            fi
           fi
-
+      
       # Commit and push changes if the content has changed
       - name: Commit and push changes if the content has changed
         if: steps.check_timestamp_change.outputs.changed == 'true'
@@ -117,4 +121,4 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@users.noreply.github.com"
           git add phishfort_full_hosts.txt phishfort_full_adguardhome.txt phishfort_full_only_domains.txt phishfort_full_rpz.conf phishfort_full_unbound.conf
-          git commit -m "Update PhishFort domain lists" && git push
+          git diff --quiet --exit-code || git commit -m "Update PhishFort domain lists - $timestamp" && git push
