@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 26 17:03:30 UTC 2024
-# Number of Entries: 108804
+# Fetch date: Fri Apr 26 17:32:51 UTC 2024
+# Number of Entries: 108808
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -34771,6 +34771,7 @@ fs.pancakesvqp.com
 fsafeds.comet.sa.com
 fsafeds.comt.sa.com
 fsafeds.sa.com
+fsafeds.za.com
 fsclng.com
 fspoiq.s3o98.com
 fsport-cs.ru
@@ -39374,6 +39375,7 @@ ibllckw.com
 ibllcmi.com
 ibllcmt.com
 ibllcon.com
+ibllcox.com
 ibllcpt.com
 ibllcq.com
 ibllcr.com
@@ -91839,9 +91841,11 @@ vipmagija.com
 vipmoodys.com
 vipnewmont.com
 viralethereum-promogive.com
+virginmoneybusinessbanking.com
 virginmoneychatwithus.web.app
 virginmoneylivechat.com
 virginmoneynetwork.com
+virginmoneyverify.web.app
 virtua.gift
 virtua.web3-airdrop.net
 virtual5.com.mx
