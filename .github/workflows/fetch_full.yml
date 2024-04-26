@@ -12,16 +12,23 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+
+      # Fetch latest changes from the remote repository
+      - name: Fetch latest changes
+        run: git fetch origin main
+
+      # Pull changes from the remote main branch and rebase
+      - name: Pull changes and rebase
+        run: git pull origin main --rebase
         
       # Download PhishFort domain list
       - name: Download PhishFort domain list
-        run: curl -o domains.json https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/domains.json      
-                                  
+        run: curl -o domains.json https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/domains.json
+
       # Parse JSON and extract domains
       - name: Parse JSON and extract domains
         run: |
           jq -r '.[]' domains.json | sort | uniq > phishfort_full_only_domains_new.txt
-
       # Check if the domain list is not empty
       - name: Check if domain list is not empty
         run: |
@@ -31,13 +38,11 @@ jobs:
             echo "Domain list is empty."
             exit 1
           fi
-
       # Count the number of domains
       - name: Count the number of domains
         run: |
           num_domains=$(wc -l < phishfort_full_only_domains_new.txt)
           echo "::set-output name=num_domains::$num_domains"
-
       # Add descriptions and count to output files
       - name: Add descriptions and count to output files
         run: |
@@ -86,21 +91,25 @@ jobs:
       # Generate output lists
       - name: Generate output lists
         run: |
-          if [ -s phishfort_full_only_domains_new.txt ]; then
-            awk '{ print "0.0.0.0", $1 }' phishfort_full_only_domains_new.txt >> phishfort_full_hosts.txt
-            awk '{ print "||" $1 "^" }' phishfort_full_only_domains_new.txt >> phishfort_full_adguardhome.txt
-            awk '{ print $1 }' phishfort_full_only_domains_new.txt >> phishfort_full_only_domains.txt
-            awk '{ print "local-zone: \"" $1 "\" redirect\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_full_only_domains_new.txt >> phishfort_full_rpz.conf
-            awk '{ print "local-zone: \"" $1 "\" static\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_full_only_domains_new.txt >> phishfort_full_unbound.conf
+          awk '{ print "0.0.0.0", $1 }' phishfort_full_only_domains_new.txt >> phishfort_full_hosts.txt
+          awk '{ print "||" $1 "^" }' phishfort_full_only_domains_new.txt >> phishfort_full_adguardhome.txt
+          awk '{ print $1 }' phishfort_full_only_domains_new.txt >> phishfort_full_only_domains.txt
+          awk '{ print "local-zone: \"" $1 "\" redirect\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_full_only_domains_new.txt >> phishfort_full_rpz.conf
+          awk '{ print "local-zone: \"" $1 "\" static\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_full_only_domains_new.txt >> phishfort_full_unbound.conf
+      # Check if only the timestamp line has changed
+      - name: Check if only the timestamp line has changed
+        id: check_timestamp_change
+        run: |
+          if diff --suppress-common-lines -q <(tail -n +2 phishfort_full_only_domains.txt) <(tail -n +2 phishfort_full_only_domains_new.txt) >/dev/null; then
+            echo "::set-output name=changed::false"
           else
-            echo "Domain list is empty."
-            exit 1
+            echo "::set-output name=changed::true"
           fi
-      
       # Commit and push changes if the content has changed
       - name: Commit and push changes if the content has changed
+        if: steps.check_timestamp_change.outputs.changed == 'true'
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@users.noreply.github.com"
           git add phishfort_full_hosts.txt phishfort_full_adguardhome.txt phishfort_full_only_domains.txt phishfort_full_rpz.conf phishfort_full_unbound.conf
-          git diff --quiet --exit-code || git commit -m "Update PhishFort domain lists - $timestamp" && git push
+          git commit -m "Update PhishFort domain lists" && git push
