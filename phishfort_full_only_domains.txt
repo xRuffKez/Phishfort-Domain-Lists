@@ -2,8 +2,8 @@
 # Description: This list contains domains from PhishFort blacklists.
 # Repository: https://github.com/phishfort/phishfort-lists
 # Project website: https://phishfort.com/
-# Fetch date: Fri Apr 26 13:15:26 UTC 2024
-# Number of Entries: 108788
+# Fetch date: Fri Apr 26 13:52:15 UTC 2024
+# Number of Entries: 108789
 
 0-metemask.com
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
@@ -8885,6 +8885,7 @@ automigrates.com
 autommbkub.1gb.ru
 autonetworkrectify.live
 autonomouscryt.website
+autookde.site
 autopay-paxful.com
 autopecasbrazz.blogspot.com
 autorectify.org
@@ -33706,6 +33707,7 @@ fixedfloat-original.xyz
 fixedfloat-register.blogspot.com
 fixedfloat-swap.com
 fixedfloat.ac
+fixedfloat.bar
 fixedfloat.best
 fixedfloat.bio
 fixedfloat.ca
@@ -83832,7 +83834,6 @@ swap-zksync.io
 swap.1inchdex.online
 swap.bulleto.io
 swap.bxh.xyz
-swap.caribdao.com
 swap.circleusdc.in
 swap.cowfi.exchange
 swap.dikecoin.net
