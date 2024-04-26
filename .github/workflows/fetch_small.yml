@@ -44,11 +44,11 @@ jobs:
       # Generate output lists
       - name: Generate output lists
         run: |
-          awk '{ print "0.0.0.0", $1 }' phishfort_small_only_domains_new.txt > phishfort_small_hosts.txt
-          awk '{ print "||" $1 "^" }' phishfort_small_only_domains_new.txt > phishfort_small_adguardhome.txt
-          awk '{ print $1 }' phishfort_small_only_domains_new.txt > phishfort_small_only_domains.txt
-          awk '{ print "local-zone: \"" $1 "\" redirect\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_small_only_domains_new.txt > phishfort_small_rpz.conf
-          awk '{ print "local-zone: \"" $1 "\" static\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_small_only_domains_new.txt > phishfort_small_unbound.conf
+          awk '{ print "0.0.0.0", $1 }' phishfort_small_only_domains_new.txt >> phishfort_small_hosts.txt
+          awk '{ print "||" $1 "^" }' phishfort_small_only_domains_new.txt >> phishfort_small_adguardhome.txt
+          awk '{ print $1 }' phishfort_small_only_domains_new.txt >> phishfort_small_only_domains.txt
+          awk '{ print "local-zone: \"" $1 "\" redirect\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_small_only_domains_new.txt >> phishfort_small_rpz.conf
+          awk '{ print "local-zone: \"" $1 "\" static\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_small_only_domains_new.txt >> phishfort_small_unbound.conf
 
       # Add descriptions and count to output files
       - name: Add descriptions and count to output files
