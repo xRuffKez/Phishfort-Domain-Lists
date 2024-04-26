@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri Apr 26 21:42:08 UTC 2024
+# PhishFort Small Domain List - Fri Apr 26 23:41:15 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7831
+# Number of Entries: 7829
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1978,7 +1978,6 @@
 0.0.0.0 deficoinsolutions.netlify.app
 0.0.0.0 defidydx.app
 0.0.0.0 defifix.pages.dev
-0.0.0.0 defihug.online
 0.0.0.0 defiilama.eu
 0.0.0.0 defilama.eu
 0.0.0.0 defilaunchpad.pages.dev
@@ -3828,6 +3827,7 @@
 0.0.0.0 mell-coin.web.app
 0.0.0.0 melstroy.by
 0.0.0.0 memask.app
+0.0.0.0 member53.com
 0.0.0.0 members-kcchamber.com
 0.0.0.0 meme-coin.click
 0.0.0.0 memeaicoin-io.web.app
@@ -4167,7 +4167,6 @@
 0.0.0.0 mitratokped.com
 0.0.0.0 mj3.us
 0.0.0.0 mkyetherwallet.com
-0.0.0.0 mmakerdao.com
 0.0.0.0 mmapplicationhub.pages.dev
 0.0.0.0 mmapplicationhubs.pages.dev
 0.0.0.0 mmapplicationshub-bhi.pages.dev
@@ -4822,6 +4821,7 @@
 0.0.0.0 pancake-stake.pages.dev
 0.0.0.0 pancake-swap-airdrop.com
 0.0.0.0 pancake-swap-finances.pages.dev
+0.0.0.0 pancake-swap-v3.pages.dev
 0.0.0.0 pancake-swap.net
 0.0.0.0 pancake-swapfinance.pages.dev
 0.0.0.0 pancake-swapfinances.pages.dev
@@ -4902,6 +4902,7 @@
 0.0.0.0 pancakeswap.sipf.cc
 0.0.0.0 pancakeswap92.vercel.app
 0.0.0.0 pancakeswapairdrop.com
+0.0.0.0 pancakeswapclaimbox.com
 0.0.0.0 pancakeswapclick04.vercel.app
 0.0.0.0 pancakeswapcrypto.com
 0.0.0.0 pancakeswapdrop.com
@@ -6254,7 +6255,6 @@
 0.0.0.0 stonexkr.com
 0.0.0.0 stonexkr.me
 0.0.0.0 stonfx.com
-0.0.0.0 store17830.associazionechien.org
 0.0.0.0 stride-zone.vercel.app
 0.0.0.0 strk-coin.xyz
 0.0.0.0 strkclaim.space
@@ -7104,7 +7104,6 @@
 0.0.0.0 wendrops.com
 0.0.0.0 wenexchange.net
 0.0.0.0 wenfarcana.pages.dev
-0.0.0.0 wentokenwen.com
 0.0.0.0 wenvoucher.com
 0.0.0.0 wenwenco.in
 0.0.0.0 wenwencoin-eligibility.com
@@ -7118,7 +7117,6 @@
 0.0.0.0 wenwencoins.network
 0.0.0.0 wenwencoins.xyz
 0.0.0.0 wenwencoln.com
-0.0.0.0 wenwendrop.com
 0.0.0.0 wenwenofficial.com
 0.0.0.0 wepad.web3mirror.io
 0.0.0.0 wer34.pages.dev
@@ -7220,6 +7218,7 @@
 0.0.0.0 www-eigenlayer.xyz
 0.0.0.0 www-jumper.exchange
 0.0.0.0 www-jumpers.exchange
+0.0.0.0 www-nvidia.com
 0.0.0.0 www-orbiter.xyz
 0.0.0.0 www-peryourhealth.com
 0.0.0.0 www-safe-global.info
@@ -7630,7 +7629,6 @@
 0.0.0.0 www.ylouch.com
 0.0.0.0 www.zerion.claimfree.xyz
 0.0.0.0 wwwjup.ag
-0.0.0.0 wwwmakerdao.com
 0.0.0.0 wwwwarm.xyz
 0.0.0.0 x-altlayer.com
 0.0.0.0 x-elon.live

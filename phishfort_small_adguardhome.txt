@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri Apr 26 21:42:08 UTC 2024
+# PhishFort Small Domain List - Fri Apr 26 23:41:15 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7831
+# Number of Entries: 7829
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1978,7 +1978,6 @@
 ||deficoinsolutions.netlify.app^
 ||defidydx.app^
 ||defifix.pages.dev^
-||defihug.online^
 ||defiilama.eu^
 ||defilama.eu^
 ||defilaunchpad.pages.dev^
@@ -3828,6 +3827,7 @@
 ||mell-coin.web.app^
 ||melstroy.by^
 ||memask.app^
+||member53.com^
 ||members-kcchamber.com^
 ||meme-coin.click^
 ||memeaicoin-io.web.app^
@@ -4167,7 +4167,6 @@
 ||mitratokped.com^
 ||mj3.us^
 ||mkyetherwallet.com^
-||mmakerdao.com^
 ||mmapplicationhub.pages.dev^
 ||mmapplicationhubs.pages.dev^
 ||mmapplicationshub-bhi.pages.dev^
@@ -4822,6 +4821,7 @@
 ||pancake-stake.pages.dev^
 ||pancake-swap-airdrop.com^
 ||pancake-swap-finances.pages.dev^
+||pancake-swap-v3.pages.dev^
 ||pancake-swap.net^
 ||pancake-swapfinance.pages.dev^
 ||pancake-swapfinances.pages.dev^
@@ -4902,6 +4902,7 @@
 ||pancakeswap.sipf.cc^
 ||pancakeswap92.vercel.app^
 ||pancakeswapairdrop.com^
+||pancakeswapclaimbox.com^
 ||pancakeswapclick04.vercel.app^
 ||pancakeswapcrypto.com^
 ||pancakeswapdrop.com^
@@ -6254,7 +6255,6 @@
 ||stonexkr.com^
 ||stonexkr.me^
 ||stonfx.com^
-||store17830.associazionechien.org^
 ||stride-zone.vercel.app^
 ||strk-coin.xyz^
 ||strkclaim.space^
@@ -7104,7 +7104,6 @@
 ||wendrops.com^
 ||wenexchange.net^
 ||wenfarcana.pages.dev^
-||wentokenwen.com^
 ||wenvoucher.com^
 ||wenwenco.in^
 ||wenwencoin-eligibility.com^
@@ -7118,7 +7117,6 @@
 ||wenwencoins.network^
 ||wenwencoins.xyz^
 ||wenwencoln.com^
-||wenwendrop.com^
 ||wenwenofficial.com^
 ||wepad.web3mirror.io^
 ||wer34.pages.dev^
@@ -7220,6 +7218,7 @@
 ||www-eigenlayer.xyz^
 ||www-jumper.exchange^
 ||www-jumpers.exchange^
+||www-nvidia.com^
 ||www-orbiter.xyz^
 ||www-peryourhealth.com^
 ||www-safe-global.info^
@@ -7630,7 +7629,6 @@
 ||www.ylouch.com^
 ||www.zerion.claimfree.xyz^
 ||wwwjup.ag^
-||wwwmakerdao.com^
 ||wwwwarm.xyz^
 ||x-altlayer.com^
 ||x-elon.live^

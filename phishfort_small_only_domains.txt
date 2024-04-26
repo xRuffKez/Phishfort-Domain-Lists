@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Fri Apr 26 21:42:08 UTC 2024
+# PhishFort Small Domain List - Fri Apr 26 23:41:15 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7831
+# Number of Entries: 7829
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1977,7 +1977,6 @@ defichain-rewards.pages.dev
 deficoinsolutions.netlify.app
 defidydx.app
 defifix.pages.dev
-defihug.online
 defiilama.eu
 defilama.eu
 defilaunchpad.pages.dev
@@ -3827,6 +3826,7 @@ meleadapp.com
 mell-coin.web.app
 melstroy.by
 memask.app
+member53.com
 members-kcchamber.com
 meme-coin.click
 memeaicoin-io.web.app
@@ -4166,7 +4166,6 @@ mistersos.pages.dev
 mitratokped.com
 mj3.us
 mkyetherwallet.com
-mmakerdao.com
 mmapplicationhub.pages.dev
 mmapplicationhubs.pages.dev
 mmapplicationshub-bhi.pages.dev
@@ -4821,6 +4820,7 @@ pancake-projclaim.vercel.app
 pancake-stake.pages.dev
 pancake-swap-airdrop.com
 pancake-swap-finances.pages.dev
+pancake-swap-v3.pages.dev
 pancake-swap.net
 pancake-swapfinance.pages.dev
 pancake-swapfinances.pages.dev
@@ -4901,6 +4901,7 @@ pancakeswap.godaddysites.com
 pancakeswap.sipf.cc
 pancakeswap92.vercel.app
 pancakeswapairdrop.com
+pancakeswapclaimbox.com
 pancakeswapclick04.vercel.app
 pancakeswapcrypto.com
 pancakeswapdrop.com
@@ -6253,7 +6254,6 @@ stonex12.com
 stonexkr.com
 stonexkr.me
 stonfx.com
-store17830.associazionechien.org
 stride-zone.vercel.app
 strk-coin.xyz
 strkclaim.space
@@ -7103,7 +7103,6 @@ wencoin.gg
 wendrops.com
 wenexchange.net
 wenfarcana.pages.dev
-wentokenwen.com
 wenvoucher.com
 wenwenco.in
 wenwencoin-eligibility.com
@@ -7117,7 +7116,6 @@ wenwencoineth.com
 wenwencoins.network
 wenwencoins.xyz
 wenwencoln.com
-wenwendrop.com
 wenwenofficial.com
 wepad.web3mirror.io
 wer34.pages.dev
@@ -7219,6 +7217,7 @@ www-delfilama.com
 www-eigenlayer.xyz
 www-jumper.exchange
 www-jumpers.exchange
+www-nvidia.com
 www-orbiter.xyz
 www-peryourhealth.com
 www-safe-global.info
@@ -7629,7 +7628,6 @@ www.xrpsolana.com
 www.ylouch.com
 www.zerion.claimfree.xyz
 wwwjup.ag
-wwwmakerdao.com
 wwwwarm.xyz
 x-altlayer.com
 x-elon.live
