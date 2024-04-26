@@ -69,7 +69,5 @@ jobs:
       # Add and commit changes
       - name: Add and commit changes
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@users.noreply.github.com"
           git add phishfort_small_hosts.txt phishfort_small_adguardhome.txt phishfort_small_only_domains.txt phishfort_small_rpz.conf phishfort_small_unbound.conf
           git commit -m "Update PhishFort domain lists" && git push
