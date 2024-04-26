@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Fri Apr 26 21:03:03 UTC 2024
+# PhishFort Small Domain List - Fri Apr 26 21:22:44 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7829
+# Number of Entries: 7831
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -4918,6 +4918,7 @@ pancakeswapp.pages.dev
 pancakeswapp.web.app
 pancakeswapper.online
 pancakeswapperhub.online
+pancakeswappro.com
 pancakeswapreward.finance
 pancakeswaps-finnance.com
 pancakeswapsclaim02.vercel.app
@@ -6970,6 +6971,7 @@ wardenswap.netlify.app
 washignton-post.com
 washignton-post.com.gianlucaungaro.it
 washingtonpost.in
+washingtonpost.pm
 wassies.vip
 wbtc-portal.com
 wclaiming.net

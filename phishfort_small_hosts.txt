@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri Apr 26 21:03:03 UTC 2024
+# PhishFort Small Domain List - Fri Apr 26 21:22:44 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7829
+# Number of Entries: 7831
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -4919,6 +4919,7 @@
 0.0.0.0 pancakeswapp.web.app
 0.0.0.0 pancakeswapper.online
 0.0.0.0 pancakeswapperhub.online
+0.0.0.0 pancakeswappro.com
 0.0.0.0 pancakeswapreward.finance
 0.0.0.0 pancakeswaps-finnance.com
 0.0.0.0 pancakeswapsclaim02.vercel.app
@@ -6971,6 +6972,7 @@
 0.0.0.0 washignton-post.com
 0.0.0.0 washignton-post.com.gianlucaungaro.it
 0.0.0.0 washingtonpost.in
+0.0.0.0 washingtonpost.pm
 0.0.0.0 wassies.vip
 0.0.0.0 wbtc-portal.com
 0.0.0.0 wclaiming.net

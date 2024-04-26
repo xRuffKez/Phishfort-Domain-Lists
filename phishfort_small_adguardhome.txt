@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri Apr 26 21:03:03 UTC 2024
+# PhishFort Small Domain List - Fri Apr 26 21:22:44 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7829
+# Number of Entries: 7831
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -4919,6 +4919,7 @@
 ||pancakeswapp.web.app^
 ||pancakeswapper.online^
 ||pancakeswapperhub.online^
+||pancakeswappro.com^
 ||pancakeswapreward.finance^
 ||pancakeswaps-finnance.com^
 ||pancakeswapsclaim02.vercel.app^
@@ -6971,6 +6972,7 @@
 ||washignton-post.com^
 ||washignton-post.com.gianlucaungaro.it^
 ||washingtonpost.in^
+||washingtonpost.pm^
 ||wassies.vip^
 ||wbtc-portal.com^
 ||wclaiming.net^
