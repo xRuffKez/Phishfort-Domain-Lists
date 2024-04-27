@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sat Apr 27 18:05:21 UTC 2024
+# PhishFort Small Domain List - Sat Apr 27 19:04:28 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7711
+# Number of Entries: 7712
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -5084,6 +5084,7 @@
 0.0.0.0 perdashboard.online
 0.0.0.0 perks-pepe.com
 0.0.0.0 perponschainrewards.pages.dev
+0.0.0.0 persistent.com.es
 0.0.0.0 persistrent.com
 0.0.0.0 personajourney.trading
 0.0.0.0 peryourhealth.be

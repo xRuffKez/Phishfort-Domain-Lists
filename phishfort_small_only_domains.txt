@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Sat Apr 27 18:05:21 UTC 2024
+# PhishFort Small Domain List - Sat Apr 27 19:04:28 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7711
+# Number of Entries: 7712
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -5083,6 +5083,7 @@ peraxel.com
 perdashboard.online
 perks-pepe.com
 perponschainrewards.pages.dev
+persistent.com.es
 persistrent.com
 personajourney.trading
 peryourhealth.be
