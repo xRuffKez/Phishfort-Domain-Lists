@@ -1,4 +1,4 @@
-# PhishFort Full Domain List - Sat Apr 27 20:02:01 UTC 2024
+# PhishFort Full Domain List - Sat Apr 27 21:02:12 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
 # Number of Entries: 108827
