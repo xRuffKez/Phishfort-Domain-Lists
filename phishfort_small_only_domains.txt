@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Sat Apr 27 14:04:30 UTC 2024
+# PhishFort Small Domain List - Sat Apr 27 15:04:44 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7719
+# Number of Entries: 7717
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -873,7 +873,6 @@ bang-blast.io
 bank-ai.org
 bank-sell.com
 bankinging.com
-bankless-claims.net
 bariatrics.www.emdeebeebee.com
 barlettapontoonboats.asia
 barleyapp.finance
@@ -1151,7 +1150,6 @@ brc20.su
 bridgarbltrum.com
 bridge-a3vigrfjd-pancakeswap.vercel.app
 bridge-modenet.work
-bridge-optics.app
 bridge.blockscape.ink
 bridge.carier.xyz
 bridge.jumper.limo
@@ -1437,7 +1435,6 @@ claim-sol.web.app
 claim-starknet.top
 claim-thrusterfinance.com
 claim-tinyblander.com
-claim-vyperprotocol.com
 claim-wen.army
 claim-wenwen.com
 claim-wormhole.network
@@ -2300,7 +2297,6 @@ etherfi.one
 ethergas.eu
 ethergases.com
 ethermegas.org
-ethers-foundation.io
 etherugases.xyz
 ethfi.global
 ethfundg.xyz
@@ -3882,7 +3878,6 @@ metamask.ss3.app
 metamask.tokenapp.top
 metamask.wallet-app.com
 metamask3.pw
-metamask88.com
 metamaskabc.com
 metamaskapp-kyc-auth24.com
 metamaskarticle.com
@@ -4745,6 +4740,7 @@ pancake-swap-airdrop.com
 pancake-swap-finances.pages.dev
 pancake-swap-v3.pages.dev
 pancake-swap.net
+pancake-swap45.vercel.app
 pancake-swapfinance.pages.dev
 pancake-swapfinances.pages.dev
 pancake-swapi.web.app
@@ -4763,6 +4759,7 @@ pancake888.com
 pancakeclaimdrop14.vercel.app
 pancakeclaimz99.vercel.app
 pancakeclickclaim02.vercel.app
+pancakecoinswap.vercel.app
 pancakecrypto.com
 pancakedrop.com
 pancakedrop.xyz
@@ -4802,7 +4799,6 @@ pancakeswap-clone-nine.vercel.app
 pancakeswap-connect.xyz
 pancakeswap-earn.pro
 pancakeswap-exchange-testnet.netlify.app
-pancakeswap-financee.netlify.app
 pancakeswap-finances.pages.dev
 pancakeswap-finnance.com
 pancakeswap-flnance.com
@@ -4816,6 +4812,7 @@ pancakeswap-pro.com
 pancakeswap-proclaim.com
 pancakeswap-server.com
 pancakeswap-v3.pages.dev
+pancakeswap-webclaim.com
 pancakeswap.airdrop-cake-v3.com
 pancakeswap.cake-web3.com
 pancakeswap.cc
@@ -4825,6 +4822,7 @@ pancakeswap.godaddysites.com
 pancakeswap.sipf.cc
 pancakeswap92.vercel.app
 pancakeswapairdrop.com
+pancakeswapclaim34.vercel.app
 pancakeswapclaimbox.com
 pancakeswapclick04.vercel.app
 pancakeswapcrypto.com
@@ -4838,6 +4836,7 @@ pancakeswapfinance-gg3.pages.dev
 pancakeswapfinance.in
 pancakeswapfinances.pages.dev
 pancakeswapgiveaway.com
+pancakeswapgiveawayclaim.com
 pancakeswaph.github.io
 pancakeswaphelp.pages.dev
 pancakeswapp.pages.dev
@@ -5497,7 +5496,6 @@ registration-defi.com
 registration-defi.trade
 registration-fantom.network
 registration-jup.ag
-registration-layrzero.claims
 registration-linea.com
 registration-mixmob.io
 registration-pixels.xyz
@@ -5632,7 +5630,6 @@ ripplelimited-ceo.com
 ripplelimited-event.info
 ritual-registers-livebetaopens.vercel.app
 rmrk-migration.site
-rnanta-token.com
 rnmnt.pages.dev
 roachcoin.in
 robopunksnft.cristovao.codes
@@ -7379,6 +7376,7 @@ www.newmontminingcorp.com
 www.newmontvip.com
 www.node-protocol.net
 www.node.authfxconnector.com
+www.nslinu.com
 www.o2-login.info
 www.oakapex.com
 www.offer-4301.shop
