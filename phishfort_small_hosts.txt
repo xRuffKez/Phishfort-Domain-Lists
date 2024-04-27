@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sat Apr 27 17:04:44 UTC 2024
+# PhishFort Small Domain List - Sat Apr 27 18:05:21 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7717
+# Number of Entries: 7711
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -31,6 +31,7 @@
 0.0.0.0 1ezagbg.cc
 0.0.0.0 1icnh.com
 0.0.0.0 1inch-io.app
+0.0.0.0 1inch-io.xyz
 0.0.0.0 1inch-new-migration.com
 0.0.0.0 1inch-pay.ga
 0.0.0.0 1inch.box
@@ -509,6 +510,7 @@
 0.0.0.0 apicollab.land
 0.0.0.0 apid.tiktokcz.com
 0.0.0.0 apisynchronizer.live
+0.0.0.0 apksave.me
 0.0.0.0 apn.com.np
 0.0.0.0 apnasecure.com
 0.0.0.0 app-aerodorme.finance
@@ -1615,7 +1617,6 @@
 0.0.0.0 collab-land.x10.bz
 0.0.0.0 collab-portal.com
 0.0.0.0 collab-verification.land
-0.0.0.0 collab-verify.io
 0.0.0.0 collab.bot-community.com
 0.0.0.0 collab.defender-system.com
 0.0.0.0 collab.land-verifeds.com
@@ -1684,7 +1685,6 @@
 0.0.0.0 connectextension.info
 0.0.0.0 connectionlog.pages.dev
 0.0.0.0 connectprotocol.42web.io
-0.0.0.0 connects-collabland.com
 0.0.0.0 connects-nibiru.com
 0.0.0.0 connext.fi
 0.0.0.0 conocophillispcorp.com
@@ -2202,7 +2202,6 @@
 0.0.0.0 emiratesgroupae.online
 0.0.0.0 emiratesholiday.net
 0.0.0.0 emiratesvacationspackages.com
-0.0.0.0 emiretes-airline.online
 0.0.0.0 emploeemygochek.com
 0.0.0.0 empowerpersonalasset.com
 0.0.0.0 empowerprivateasset.com
@@ -2768,6 +2767,7 @@
 0.0.0.0 havas9.com
 0.0.0.0 havascake.com
 0.0.0.0 havasht.com
+0.0.0.0 havastapp.com
 0.0.0.0 haven1.vercel.app
 0.0.0.0 hbar-distribution.com
 0.0.0.0 hca-healthcare.com
@@ -2873,6 +2873,7 @@
 0.0.0.0 hyperspace-pythrewards.net
 0.0.0.0 hyperspace-pythrewards.org
 0.0.0.0 hypnoticbrass.net
+0.0.0.0 i2sb20.cn
 0.0.0.0 i6jkg.cc
 0.0.0.0 ia4mb.pro
 0.0.0.0 iavhru.cc
@@ -3798,7 +3799,6 @@
 0.0.0.0 mertamasek.azurewebsites.net
 0.0.0.0 meshjs.net
 0.0.0.0 meskk.app
-0.0.0.0 met-mask-usa-wallet.godaddysites.com
 0.0.0.0 meta-drop.xyz
 0.0.0.0 meta-kyc-activations.io
 0.0.0.0 meta-mask-wallet.com
@@ -3843,7 +3843,6 @@
 0.0.0.0 metamask-app.pages.dev
 0.0.0.0 metamask-app24-kyc.com
 0.0.0.0 metamask-connect.com
-0.0.0.0 metamask-dapp.pages.dev
 0.0.0.0 metamask-dapps.pages.dev
 0.0.0.0 metamask-dl.com
 0.0.0.0 metamask-extensions.pages.dev
@@ -3984,7 +3983,6 @@
 0.0.0.0 mettaaammsk.azurewebsites.net
 0.0.0.0 mettaumaskev.azurewebsites.net
 0.0.0.0 mettvcmaske.azurewebsites.net
-0.0.0.0 metumasklgio.github.io
 0.0.0.0 metwamasnkus.azurewebsites.net
 0.0.0.0 metwamasus.azurewebsites.net
 0.0.0.0 metzhgofk.com
@@ -4488,6 +4486,7 @@
 0.0.0.0 novochevro.online
 0.0.0.0 now.l3-mode.world
 0.0.0.0 nowoplunge.com
+0.0.0.0 npaautocare.zouxiaodong.workers.dev
 0.0.0.0 nqzero.sa.com
 0.0.0.0 ns1.bandwidthserver.com
 0.0.0.0 nsds.cc
@@ -5801,7 +5800,6 @@
 0.0.0.0 secondx.mypsx.net
 0.0.0.0 secure-evy.pages.dev
 0.0.0.0 secure-retry-connecting.alphakreed.com
-0.0.0.0 secure-user-connect.net
 0.0.0.0 secure.ingbhk.com
 0.0.0.0 secure1.ontario407etr.com
 0.0.0.0 secure9.ontario407etr.com
@@ -6264,8 +6262,6 @@
 0.0.0.0 synchronizewallets.on.fleek.co
 0.0.0.0 synckavva.netlify.app
 0.0.0.0 syncprotocols.pagen.dev
-0.0.0.0 syncsactivate.firebaseapp.com
-0.0.0.0 syncsactivate.web.app
 0.0.0.0 syncsdapp.com
 0.0.0.0 syncshot.pages.dev
 0.0.0.0 syncsolutions.pages.dev
@@ -6428,7 +6424,6 @@
 0.0.0.0 tiktokweb.cc
 0.0.0.0 tiktoky.cc
 0.0.0.0 titano.defilama.top
-0.0.0.0 tkiam02.com
 0.0.0.0 tlex.pro
 0.0.0.0 tmedicalpr.lol
 0.0.0.0 tmtmoneyback.pages.dev
@@ -6566,6 +6561,7 @@
 0.0.0.0 ultra-prismafinance.com
 0.0.0.0 umassuigovst.com
 0.0.0.0 umusic-pub.com
+0.0.0.0 umusic.co.in
 0.0.0.0 umusiceu.com
 0.0.0.0 unapatches.com
 0.0.0.0 unblock.pancakeswaapfinance.net
@@ -6625,7 +6621,6 @@
 0.0.0.0 usdc-claimback.online
 0.0.0.0 usdc-gift.top
 0.0.0.0 usdc-r9kaq.github.io
-0.0.0.0 usdc-sol.com
 0.0.0.0 usdc-x828c.github.io
 0.0.0.0 usdc.trasthub.top
 0.0.0.0 usdcbonus.io
@@ -7122,7 +7117,6 @@
 0.0.0.0 www.4pb-gala-games.com
 0.0.0.0 www.911usdt.com
 0.0.0.0 www.ab-earn.xyz
-0.0.0.0 www.account.coinbrack.com
 0.0.0.0 www.account.verificationpaxful.info
 0.0.0.0 www.aflacalabamainsurance.online
 0.0.0.0 www.agoda-jp.net
@@ -7146,7 +7140,6 @@
 0.0.0.0 www.amswallet.cz
 0.0.0.0 www.amz998.com
 0.0.0.0 www.aniarticles.com
-0.0.0.0 www.api05-collab.com
 0.0.0.0 www.apk20.com
 0.0.0.0 www.apkturbo.com
 0.0.0.0 www.app-ait.net
@@ -7478,6 +7471,8 @@
 0.0.0.0 www.swap-omax.pro
 0.0.0.0 www.swisroger.net
 0.0.0.0 www.swordavax.org
+0.0.0.0 www.taylormerch.com
+0.0.0.0 www.taylorswiftsmerch.com
 0.0.0.0 www.theplaybooksol.xyz
 0.0.0.0 www.tiktok-world.shop
 0.0.0.0 www.tiktok8.bond
@@ -7657,7 +7652,6 @@
 0.0.0.0 zetachain.cm
 0.0.0.0 zetachain.one
 0.0.0.0 zetachain.pages.dev
-0.0.0.0 zetachains.app
 0.0.0.0 zetaclaim.pages.dev
 0.0.0.0 zetaswap.cm
 0.0.0.0 zetawil.com

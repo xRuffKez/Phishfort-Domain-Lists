@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Sat Apr 27 17:04:44 UTC 2024
+# PhishFort Small Domain List - Sat Apr 27 18:05:21 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7717
+# Number of Entries: 7711
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -30,6 +30,7 @@
 1ezagbg.cc
 1icnh.com
 1inch-io.app
+1inch-io.xyz
 1inch-new-migration.com
 1inch-pay.ga
 1inch.box
@@ -508,6 +509,7 @@ api8-vulcan.com
 apicollab.land
 apid.tiktokcz.com
 apisynchronizer.live
+apksave.me
 apn.com.np
 apnasecure.com
 app-aerodorme.finance
@@ -1614,7 +1616,6 @@ collab-land.lol
 collab-land.x10.bz
 collab-portal.com
 collab-verification.land
-collab-verify.io
 collab.bot-community.com
 collab.defender-system.com
 collab.land-verifeds.com
@@ -1683,7 +1684,6 @@ connectdappsuniverse.click
 connectextension.info
 connectionlog.pages.dev
 connectprotocol.42web.io
-connects-collabland.com
 connects-nibiru.com
 connext.fi
 conocophillispcorp.com
@@ -2201,7 +2201,6 @@ emiratesgroup.online
 emiratesgroupae.online
 emiratesholiday.net
 emiratesvacationspackages.com
-emiretes-airline.online
 emploeemygochek.com
 empowerpersonalasset.com
 empowerprivateasset.com
@@ -2767,6 +2766,7 @@ havas8.com
 havas9.com
 havascake.com
 havasht.com
+havastapp.com
 haven1.vercel.app
 hbar-distribution.com
 hca-healthcare.com
@@ -2872,6 +2872,7 @@ hyperspace-pythrewards.app
 hyperspace-pythrewards.net
 hyperspace-pythrewards.org
 hypnoticbrass.net
+i2sb20.cn
 i6jkg.cc
 ia4mb.pro
 iavhru.cc
@@ -3797,7 +3798,6 @@ merlinlayer.app
 mertamasek.azurewebsites.net
 meshjs.net
 meskk.app
-met-mask-usa-wallet.godaddysites.com
 meta-drop.xyz
 meta-kyc-activations.io
 meta-mask-wallet.com
@@ -3842,7 +3842,6 @@ metamask-app-kyc.com
 metamask-app.pages.dev
 metamask-app24-kyc.com
 metamask-connect.com
-metamask-dapp.pages.dev
 metamask-dapps.pages.dev
 metamask-dl.com
 metamask-extensions.pages.dev
@@ -3983,7 +3982,6 @@ metsk.app
 mettaaammsk.azurewebsites.net
 mettaumaskev.azurewebsites.net
 mettvcmaske.azurewebsites.net
-metumasklgio.github.io
 metwamasnkus.azurewebsites.net
 metwamasus.azurewebsites.net
 metzhgofk.com
@@ -4487,6 +4485,7 @@ notionalfinance.org
 novochevro.online
 now.l3-mode.world
 nowoplunge.com
+npaautocare.zouxiaodong.workers.dev
 nqzero.sa.com
 ns1.bandwidthserver.com
 nsds.cc
@@ -5800,7 +5799,6 @@ secondllife.tech
 secondx.mypsx.net
 secure-evy.pages.dev
 secure-retry-connecting.alphakreed.com
-secure-user-connect.net
 secure.ingbhk.com
 secure1.ontario407etr.com
 secure9.ontario407etr.com
@@ -6263,8 +6261,6 @@ synchronizerpanel.com
 synchronizewallets.on.fleek.co
 synckavva.netlify.app
 syncprotocols.pagen.dev
-syncsactivate.firebaseapp.com
-syncsactivate.web.app
 syncsdapp.com
 syncshot.pages.dev
 syncsolutions.pages.dev
@@ -6427,7 +6423,6 @@ tiktokvvn.shop
 tiktokweb.cc
 tiktoky.cc
 titano.defilama.top
-tkiam02.com
 tlex.pro
 tmedicalpr.lol
 tmtmoneyback.pages.dev
@@ -6565,6 +6560,7 @@ ulonlinedetma.org
 ultra-prismafinance.com
 umassuigovst.com
 umusic-pub.com
+umusic.co.in
 umusiceu.com
 unapatches.com
 unblock.pancakeswaapfinance.net
@@ -6624,7 +6620,6 @@ usbnkrellacrd.site
 usdc-claimback.online
 usdc-gift.top
 usdc-r9kaq.github.io
-usdc-sol.com
 usdc-x828c.github.io
 usdc.trasthub.top
 usdcbonus.io
@@ -7121,7 +7116,6 @@ www.247liveoptiontrades.com
 www.4pb-gala-games.com
 www.911usdt.com
 www.ab-earn.xyz
-www.account.coinbrack.com
 www.account.verificationpaxful.info
 www.aflacalabamainsurance.online
 www.agoda-jp.net
@@ -7145,7 +7139,6 @@ www.amspresale.cz
 www.amswallet.cz
 www.amz998.com
 www.aniarticles.com
-www.api05-collab.com
 www.apk20.com
 www.apkturbo.com
 www.app-ait.net
@@ -7477,6 +7470,8 @@ www.swap-blast.finance
 www.swap-omax.pro
 www.swisroger.net
 www.swordavax.org
+www.taylormerch.com
+www.taylorswiftsmerch.com
 www.theplaybooksol.xyz
 www.tiktok-world.shop
 www.tiktok8.bond
@@ -7656,7 +7651,6 @@ zeta-chain.pages.dev
 zetachain.cm
 zetachain.one
 zetachain.pages.dev
-zetachains.app
 zetaclaim.pages.dev
 zetaswap.cm
 zetawil.com
