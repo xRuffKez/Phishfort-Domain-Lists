@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sat Apr 27 14:01:55 UTC 2024
+# PhishFort Full Domain List - Sat Apr 27 15:02:13 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108822
+# Number of Entries: 108828
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -64454,6 +64454,7 @@
 0.0.0.0 pancake-swap.store
 0.0.0.0 pancake-swap.tech
 0.0.0.0 pancake-swap.trade
+0.0.0.0 pancake-swap45.vercel.app
 0.0.0.0 pancake-swape.com
 0.0.0.0 pancake-swapfinance.pages.dev
 0.0.0.0 pancake-swapfinances.pages.dev
@@ -64559,6 +64560,7 @@
 0.0.0.0 pancakeclaimz99.vercel.app
 0.0.0.0 pancakeclickclaim02.vercel.app
 0.0.0.0 pancakecoinswap.finance
+0.0.0.0 pancakecoinswap.vercel.app
 0.0.0.0 pancakeconnect.cc
 0.0.0.0 pancakecreator.click
 0.0.0.0 pancakecrypto.com
@@ -65489,6 +65491,7 @@
 0.0.0.0 pancakeswap-web.us
 0.0.0.0 pancakeswap-web3.com
 0.0.0.0 pancakeswap-web3.pages.dev
+0.0.0.0 pancakeswap-webclaim.com
 0.0.0.0 pancakeswap-website.online
 0.0.0.0 pancakeswap-west.com
 0.0.0.0 pancakeswap-win.com
@@ -66759,6 +66762,7 @@
 0.0.0.0 pancakeswapcism.com
 0.0.0.0 pancakeswapclaim-rewardstake.defidappsmainnet.com
 0.0.0.0 pancakeswapclaim.com
+0.0.0.0 pancakeswapclaim34.vercel.app
 0.0.0.0 pancakeswapclaimbox.com
 0.0.0.0 pancakeswapclaims.com
 0.0.0.0 pancakeswapclassic.com
@@ -66971,6 +66975,7 @@
 0.0.0.0 pancakeswapgiftnew-finance.tk
 0.0.0.0 pancakeswapgiv.tech
 0.0.0.0 pancakeswapgiveaway.com
+0.0.0.0 pancakeswapgiveawayclaim.com
 0.0.0.0 pancakeswapgl.tech
 0.0.0.0 pancakeswapglobal.network
 0.0.0.0 pancakeswapglobal.online
@@ -102130,6 +102135,7 @@
 0.0.0.0 www.ns0.pancakeswape.finance
 0.0.0.0 www.ns2.pancakeswape.finance
 0.0.0.0 www.ns4.pancakeswape.finance
+0.0.0.0 www.nslinu.com
 0.0.0.0 www.nuco-cloud.rewardprogram.tech
 0.0.0.0 www.nueno.xyz
 0.0.0.0 www.nvidia-experienceapp.com

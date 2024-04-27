@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Sat Apr 27 14:01:55 UTC 2024
+# PhishFort Full Domain List - Sat Apr 27 15:02:13 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 108822
+# Number of Entries: 108828
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -64453,6 +64453,7 @@ pancake-swap.space
 pancake-swap.store
 pancake-swap.tech
 pancake-swap.trade
+pancake-swap45.vercel.app
 pancake-swape.com
 pancake-swapfinance.pages.dev
 pancake-swapfinances.pages.dev
@@ -64558,6 +64559,7 @@ pancakeclaimdrop14.vercel.app
 pancakeclaimz99.vercel.app
 pancakeclickclaim02.vercel.app
 pancakecoinswap.finance
+pancakecoinswap.vercel.app
 pancakeconnect.cc
 pancakecreator.click
 pancakecrypto.com
@@ -65488,6 +65490,7 @@ pancakeswap-web.tradlerjoexyz.net
 pancakeswap-web.us
 pancakeswap-web3.com
 pancakeswap-web3.pages.dev
+pancakeswap-webclaim.com
 pancakeswap-website.online
 pancakeswap-west.com
 pancakeswap-win.com
@@ -66758,6 +66761,7 @@ pancakeswapchanging.com
 pancakeswapcism.com
 pancakeswapclaim-rewardstake.defidappsmainnet.com
 pancakeswapclaim.com
+pancakeswapclaim34.vercel.app
 pancakeswapclaimbox.com
 pancakeswapclaims.com
 pancakeswapclassic.com
@@ -66970,6 +66974,7 @@ pancakeswapgiftfinance.tk
 pancakeswapgiftnew-finance.tk
 pancakeswapgiv.tech
 pancakeswapgiveaway.com
+pancakeswapgiveawayclaim.com
 pancakeswapgl.tech
 pancakeswapglobal.network
 pancakeswapglobal.online
@@ -102129,6 +102134,7 @@ www.npffms.top
 www.ns0.pancakeswape.finance
 www.ns2.pancakeswape.finance
 www.ns4.pancakeswape.finance
+www.nslinu.com
 www.nuco-cloud.rewardprogram.tech
 www.nueno.xyz
 www.nvidia-experienceapp.com
