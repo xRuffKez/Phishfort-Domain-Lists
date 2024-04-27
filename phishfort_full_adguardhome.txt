@@ -1,4 +1,4 @@
-# PhishFort Full Domain List - Sat Apr 27 07:02:02 UTC 2024
+# PhishFort Full Domain List - Sat Apr 27 08:02:50 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
 # Number of Entries: 108817
@@ -3141,6 +3141,7 @@
 ||agoda9.xyz^
 ||agoda9356.com^
 ||agoda999.com^
+||agodaa-booking.com^
 ||agodaa.life^
 ||agodaa.masukmobilee.de^
 ||agodaaa.com^
@@ -5885,7 +5886,6 @@
 ||app-pancakeswap.exchange^
 ||app-pancakeswap.finance^
 ||app-pancakeswap.ml^
-||app-pancakeswap.pages.dev^
 ||app-pancakeswap.site^
 ||app-pancakeswap.tech^
 ||app-pancakeswapfinan.com^
@@ -76008,7 +76008,6 @@
 ||revoke.pm^
 ||revoke.pro^
 ||revoke.pw^
-||revoke.re^
 ||revoke.refundclaims.net^
 ||revoke.repair^
 ||revoke.rip^
@@ -97990,6 +97989,7 @@
 ||www.agoda-tours.com^
 ||www.agoda007.cn^
 ||www.agoda8.com^
+||www.agodaa-booking.com^
 ||www.agodabook.cc^
 ||www.agodapools.com^
 ||www.agodapools.net^

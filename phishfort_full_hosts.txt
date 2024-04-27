@@ -1,4 +1,4 @@
-# PhishFort Full Domain List - Sat Apr 27 07:02:02 UTC 2024
+# PhishFort Full Domain List - Sat Apr 27 08:02:50 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 108817
@@ -3141,6 +3141,7 @@
 0.0.0.0 agoda9.xyz
 0.0.0.0 agoda9356.com
 0.0.0.0 agoda999.com
+0.0.0.0 agodaa-booking.com
 0.0.0.0 agodaa.life
 0.0.0.0 agodaa.masukmobilee.de
 0.0.0.0 agodaaa.com
@@ -5885,7 +5886,6 @@
 0.0.0.0 app-pancakeswap.exchange
 0.0.0.0 app-pancakeswap.finance
 0.0.0.0 app-pancakeswap.ml
-0.0.0.0 app-pancakeswap.pages.dev
 0.0.0.0 app-pancakeswap.site
 0.0.0.0 app-pancakeswap.tech
 0.0.0.0 app-pancakeswapfinan.com
@@ -76008,7 +76008,6 @@
 0.0.0.0 revoke.pm
 0.0.0.0 revoke.pro
 0.0.0.0 revoke.pw
-0.0.0.0 revoke.re
 0.0.0.0 revoke.refundclaims.net
 0.0.0.0 revoke.repair
 0.0.0.0 revoke.rip
@@ -97990,6 +97989,7 @@
 0.0.0.0 www.agoda-tours.com
 0.0.0.0 www.agoda007.cn
 0.0.0.0 www.agoda8.com
+0.0.0.0 www.agodaa-booking.com
 0.0.0.0 www.agodabook.cc
 0.0.0.0 www.agodapools.com
 0.0.0.0 www.agodapools.net
