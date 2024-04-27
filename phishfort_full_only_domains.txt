@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Sat Apr 27 13:02:03 UTC 2024
+# PhishFort Full Domain List - Sat Apr 27 14:01:55 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 108817
+# Number of Entries: 108822
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -64590,6 +64590,7 @@ pancakedrop.live
 pancakedrop.pw
 pancakedrop.xyz
 pancakedropclaim4600.vercel.app
+pancakedropclaim49.vercel.app
 pancakedropclick17.vercel.app
 pancakedropclick32.vercel.app
 pancakedropclick80.vercel.app
@@ -66980,6 +66981,7 @@ pancakeswapgroup.tech
 pancakeswapgrow.com
 pancakeswapguide.com
 pancakeswaph.github.io
+pancakeswaphelp.pages.dev
 pancakeswaphip.com
 pancakeswaphome.tech
 pancakeswaphopi.com
@@ -67487,6 +67489,7 @@ pancakeswp.xyz
 pancakeswpa-financies.uk
 pancakeswpa.com
 pancakeswpa.info
+pancakeswpclicks.vercel.app
 pancakeswpdrop13.vercel.app
 pancakeswpg.digital
 pancakeswpnet.site
@@ -83823,6 +83826,7 @@ swap-frontend.pages.dev
 swap-jupiter.com
 swap-kiwi.ml
 swap-l2.com
+swap-makerdao.net
 swap-makerdao.org
 swap-metamask.com
 swap-moon.com
@@ -100841,6 +100845,7 @@ www.janushendersoncrm.com
 www.japandoge.app
 www.japaneserestaurantmountairy.com
 www.jcb-co-jp.ascaesneaaa.lklftx.top
+www.jgtwxo.com
 www.jiashengtrader.cn
 www.jingruijx.com
 www.jio.com-booknow.ru

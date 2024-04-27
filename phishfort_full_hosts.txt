@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sat Apr 27 13:02:03 UTC 2024
+# PhishFort Full Domain List - Sat Apr 27 14:01:55 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108817
+# Number of Entries: 108822
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -64591,6 +64591,7 @@
 0.0.0.0 pancakedrop.pw
 0.0.0.0 pancakedrop.xyz
 0.0.0.0 pancakedropclaim4600.vercel.app
+0.0.0.0 pancakedropclaim49.vercel.app
 0.0.0.0 pancakedropclick17.vercel.app
 0.0.0.0 pancakedropclick32.vercel.app
 0.0.0.0 pancakedropclick80.vercel.app
@@ -66981,6 +66982,7 @@
 0.0.0.0 pancakeswapgrow.com
 0.0.0.0 pancakeswapguide.com
 0.0.0.0 pancakeswaph.github.io
+0.0.0.0 pancakeswaphelp.pages.dev
 0.0.0.0 pancakeswaphip.com
 0.0.0.0 pancakeswaphome.tech
 0.0.0.0 pancakeswaphopi.com
@@ -67488,6 +67490,7 @@
 0.0.0.0 pancakeswpa-financies.uk
 0.0.0.0 pancakeswpa.com
 0.0.0.0 pancakeswpa.info
+0.0.0.0 pancakeswpclicks.vercel.app
 0.0.0.0 pancakeswpdrop13.vercel.app
 0.0.0.0 pancakeswpg.digital
 0.0.0.0 pancakeswpnet.site
@@ -83824,6 +83827,7 @@
 0.0.0.0 swap-jupiter.com
 0.0.0.0 swap-kiwi.ml
 0.0.0.0 swap-l2.com
+0.0.0.0 swap-makerdao.net
 0.0.0.0 swap-makerdao.org
 0.0.0.0 swap-metamask.com
 0.0.0.0 swap-moon.com
@@ -100842,6 +100846,7 @@
 0.0.0.0 www.japandoge.app
 0.0.0.0 www.japaneserestaurantmountairy.com
 0.0.0.0 www.jcb-co-jp.ascaesneaaa.lklftx.top
+0.0.0.0 www.jgtwxo.com
 0.0.0.0 www.jiashengtrader.cn
 0.0.0.0 www.jingruijx.com
 0.0.0.0 www.jio.com-booknow.ru
