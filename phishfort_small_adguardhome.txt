@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sat Apr 27 13:04:58 UTC 2024
+# PhishFort Small Domain List - Sat Apr 27 14:04:30 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7728
+# Number of Entries: 7719
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -41,7 +41,6 @@
 ||1inchfinance.com^
 ||1inchnetwork.org^
 ||1inchnetwork156.net^
-||1inchnetwork2024.net^
 ||1inchpool.com^
 ||1inchv4.fi^
 ||1inchwallet.app^
@@ -80,7 +79,6 @@
 ||4ooh.top^
 ||4tyqoaktqb.numirmilap.tech^
 ||4vcf.pro^
-||4xqry.cc^
 ||50000usdt.cc^
 ||50000usdt.top^
 ||5000usdt.us^
@@ -251,7 +249,6 @@
 ||aione-lab.pro^
 ||aipadmainnet.network^
 ||air-hoppersreview.com^
-||air-linea.build^
 ||air-satoshivm.io^
 ||air2-blast.xyz^
 ||aircoinciti.com^
@@ -3696,7 +3693,6 @@
 ||mask.gift^
 ||maskclaim.top^
 ||maskcoin.pages.dev^
-||masktokens.com^
 ||mass-gov.dta-connect-hhs.com^
 ||massachendristr.com^
 ||massgouidetma.org^
@@ -3848,7 +3844,6 @@
 ||metamask-activation.dcsi.com.ar^
 ||metamask-airdrop.de^
 ||metamask-app-kyc.com^
-||metamask-app.cool^
 ||metamask-app.pages.dev^
 ||metamask-app24-kyc.com^
 ||metamask-connect.com^
@@ -3857,7 +3852,6 @@
 ||metamask-dl.com^
 ||metamask-extensions.pages.dev^
 ||metamask-fix.pages.dev^
-||metamask-fixweb.pages.dev^
 ||metamask-flask.com^
 ||metamask-login.nicepage.io^
 ||metamask-platform.codeanyapp.com^
@@ -3918,7 +3912,6 @@
 ||metamaskusan.azurewebsites.net^
 ||metamaskv.net^
 ||metamaskv.org^
-||metamaskv2.pages.dev^
 ||metamaskwallet.pages.dev^
 ||metamaskweb.keplrwalletweb.com^
 ||metamaskz.ink^
@@ -4179,7 +4172,6 @@
 ||msgive.io^
 ||msk-airdrop.live^
 ||msmax.vip^
-||msprogram.biz^
 ||mtamskwalogs.azurewebsites.net^
 ||mtc-speed.web.app^
 ||mtvrs-neotokyo.codes^
@@ -4776,6 +4768,7 @@
 ||pancakedrop.com^
 ||pancakedrop.xyz^
 ||pancakedropclaim4600.vercel.app^
+||pancakedropclaim49.vercel.app^
 ||pancakedropclick17.vercel.app^
 ||pancakedropclick32.vercel.app^
 ||pancakedropclick80.vercel.app^
@@ -4847,6 +4840,7 @@
 ||pancakeswapfinances.pages.dev^
 ||pancakeswapgiveaway.com^
 ||pancakeswaph.github.io^
+||pancakeswaphelp.pages.dev^
 ||pancakeswapp.pages.dev^
 ||pancakeswapp.web.app^
 ||pancakeswapperhub.online^
@@ -4861,6 +4855,7 @@
 ||pancakeswop.pages.dev^
 ||pancakeswop.web.app^
 ||pancakeswp.github.io^
+||pancakeswpclicks.vercel.app^
 ||pancakeswpdrop13.vercel.app^
 ||pancakeswwap.com^
 ||pancaksewaq-finance.com^
@@ -5206,7 +5201,6 @@
 ||portelbrldge.org^
 ||portfolio-mask-mask-master-dedi285032.codeanyapp.com^
 ||portlacoin.xyz^
-||portofilio-meta-mask-dapps.185-253-219-62.cprapid.com^
 ||post-malone.store^
 ||ppcroi.net^
 ||predev-migrazerionzx.pages.dev^
@@ -5678,7 +5672,6 @@
 ||rpc-debugextensiondapps.pages.dev^
 ||rpc-flodapps.online^
 ||rpc-interface.net^
-||rpc-metafix.pages.dev^
 ||rpcchainfix.net^
 ||rpcdebug-extensiondapps.pages.dev^
 ||rpchubnode.com^
@@ -6226,6 +6219,7 @@
 ||swap-dev-git-nx-true-project-cowswap.vercel.app^
 ||swap-jupiter.com^
 ||swap-l2.com^
+||swap-makerdao.net^
 ||swap-makerdao.org^
 ||swap-nft.pages.dev^
 ||swap.dikecoin.net^
@@ -6623,7 +6617,6 @@
 ||unstoppabledomains.mobi^
 ||unstoppableweb.digital^
 ||unstoppablex.domains^
-||update-metamask.pages.dev^
 ||updatedexserver.net^
 ||updatenow.pages.dev^
 ||updates-metamask.pages.dev^
@@ -7271,7 +7264,6 @@
 ||www.forjud.com^
 ||www.frameclaim.com^
 ||www.frameclaim.net^
-||www.frixedfloat.com^
 ||www.fungible-token.laag.site^
 ||www.funwonderful.life^
 ||www.furarivip.click^
@@ -7305,6 +7297,7 @@
 ||www.interdigitalker.com^
 ||www.interdigitaltba.com^
 ||www.investment-fdholdings.com^
+||www.jgtwxo.com^
 ||www.jompyc.com^
 ||www.ju.normbit.online^
 ||www.ju.uiworth.online^
@@ -7433,7 +7426,6 @@
 ||www.pork-event.net^
 ||www.portal-ait.tech^
 ||www.portalcoin.join-airdrop.com^
-||www.practisea.com^
 ||www.provisionstrk.xyz^
 ||www.recovermetawalletio.diviteca.com^
 ||www.reflexer.pro^
@@ -7563,7 +7555,6 @@
 ||xn--fixedflaot-2ub.net^
 ||xn--fixedflaot-k8a.com^
 ||xn--fixedflaot-xub.com^
-||xn--fixedfloat-0ub.com^
 ||xn--fixedfloat-1ub.com^
 ||xn--fixedfloat-2ub.com^
 ||xn--fixedfloat-3ub.com^

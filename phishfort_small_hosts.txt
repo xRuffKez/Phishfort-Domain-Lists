@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sat Apr 27 13:04:58 UTC 2024
+# PhishFort Small Domain List - Sat Apr 27 14:04:30 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7728
+# Number of Entries: 7719
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -41,7 +41,6 @@
 0.0.0.0 1inchfinance.com
 0.0.0.0 1inchnetwork.org
 0.0.0.0 1inchnetwork156.net
-0.0.0.0 1inchnetwork2024.net
 0.0.0.0 1inchpool.com
 0.0.0.0 1inchv4.fi
 0.0.0.0 1inchwallet.app
@@ -80,7 +79,6 @@
 0.0.0.0 4ooh.top
 0.0.0.0 4tyqoaktqb.numirmilap.tech
 0.0.0.0 4vcf.pro
-0.0.0.0 4xqry.cc
 0.0.0.0 50000usdt.cc
 0.0.0.0 50000usdt.top
 0.0.0.0 5000usdt.us
@@ -251,7 +249,6 @@
 0.0.0.0 aione-lab.pro
 0.0.0.0 aipadmainnet.network
 0.0.0.0 air-hoppersreview.com
-0.0.0.0 air-linea.build
 0.0.0.0 air-satoshivm.io
 0.0.0.0 air2-blast.xyz
 0.0.0.0 aircoinciti.com
@@ -3696,7 +3693,6 @@
 0.0.0.0 mask.gift
 0.0.0.0 maskclaim.top
 0.0.0.0 maskcoin.pages.dev
-0.0.0.0 masktokens.com
 0.0.0.0 mass-gov.dta-connect-hhs.com
 0.0.0.0 massachendristr.com
 0.0.0.0 massgouidetma.org
@@ -3848,7 +3844,6 @@
 0.0.0.0 metamask-activation.dcsi.com.ar
 0.0.0.0 metamask-airdrop.de
 0.0.0.0 metamask-app-kyc.com
-0.0.0.0 metamask-app.cool
 0.0.0.0 metamask-app.pages.dev
 0.0.0.0 metamask-app24-kyc.com
 0.0.0.0 metamask-connect.com
@@ -3857,7 +3852,6 @@
 0.0.0.0 metamask-dl.com
 0.0.0.0 metamask-extensions.pages.dev
 0.0.0.0 metamask-fix.pages.dev
-0.0.0.0 metamask-fixweb.pages.dev
 0.0.0.0 metamask-flask.com
 0.0.0.0 metamask-login.nicepage.io
 0.0.0.0 metamask-platform.codeanyapp.com
@@ -3918,7 +3912,6 @@
 0.0.0.0 metamaskusan.azurewebsites.net
 0.0.0.0 metamaskv.net
 0.0.0.0 metamaskv.org
-0.0.0.0 metamaskv2.pages.dev
 0.0.0.0 metamaskwallet.pages.dev
 0.0.0.0 metamaskweb.keplrwalletweb.com
 0.0.0.0 metamaskz.ink
@@ -4179,7 +4172,6 @@
 0.0.0.0 msgive.io
 0.0.0.0 msk-airdrop.live
 0.0.0.0 msmax.vip
-0.0.0.0 msprogram.biz
 0.0.0.0 mtamskwalogs.azurewebsites.net
 0.0.0.0 mtc-speed.web.app
 0.0.0.0 mtvrs-neotokyo.codes
@@ -4776,6 +4768,7 @@
 0.0.0.0 pancakedrop.com
 0.0.0.0 pancakedrop.xyz
 0.0.0.0 pancakedropclaim4600.vercel.app
+0.0.0.0 pancakedropclaim49.vercel.app
 0.0.0.0 pancakedropclick17.vercel.app
 0.0.0.0 pancakedropclick32.vercel.app
 0.0.0.0 pancakedropclick80.vercel.app
@@ -4847,6 +4840,7 @@
 0.0.0.0 pancakeswapfinances.pages.dev
 0.0.0.0 pancakeswapgiveaway.com
 0.0.0.0 pancakeswaph.github.io
+0.0.0.0 pancakeswaphelp.pages.dev
 0.0.0.0 pancakeswapp.pages.dev
 0.0.0.0 pancakeswapp.web.app
 0.0.0.0 pancakeswapperhub.online
@@ -4861,6 +4855,7 @@
 0.0.0.0 pancakeswop.pages.dev
 0.0.0.0 pancakeswop.web.app
 0.0.0.0 pancakeswp.github.io
+0.0.0.0 pancakeswpclicks.vercel.app
 0.0.0.0 pancakeswpdrop13.vercel.app
 0.0.0.0 pancakeswwap.com
 0.0.0.0 pancaksewaq-finance.com
@@ -5206,7 +5201,6 @@
 0.0.0.0 portelbrldge.org
 0.0.0.0 portfolio-mask-mask-master-dedi285032.codeanyapp.com
 0.0.0.0 portlacoin.xyz
-0.0.0.0 portofilio-meta-mask-dapps.185-253-219-62.cprapid.com
 0.0.0.0 post-malone.store
 0.0.0.0 ppcroi.net
 0.0.0.0 predev-migrazerionzx.pages.dev
@@ -5678,7 +5672,6 @@
 0.0.0.0 rpc-debugextensiondapps.pages.dev
 0.0.0.0 rpc-flodapps.online
 0.0.0.0 rpc-interface.net
-0.0.0.0 rpc-metafix.pages.dev
 0.0.0.0 rpcchainfix.net
 0.0.0.0 rpcdebug-extensiondapps.pages.dev
 0.0.0.0 rpchubnode.com
@@ -6226,6 +6219,7 @@
 0.0.0.0 swap-dev-git-nx-true-project-cowswap.vercel.app
 0.0.0.0 swap-jupiter.com
 0.0.0.0 swap-l2.com
+0.0.0.0 swap-makerdao.net
 0.0.0.0 swap-makerdao.org
 0.0.0.0 swap-nft.pages.dev
 0.0.0.0 swap.dikecoin.net
@@ -6623,7 +6617,6 @@
 0.0.0.0 unstoppabledomains.mobi
 0.0.0.0 unstoppableweb.digital
 0.0.0.0 unstoppablex.domains
-0.0.0.0 update-metamask.pages.dev
 0.0.0.0 updatedexserver.net
 0.0.0.0 updatenow.pages.dev
 0.0.0.0 updates-metamask.pages.dev
@@ -7271,7 +7264,6 @@
 0.0.0.0 www.forjud.com
 0.0.0.0 www.frameclaim.com
 0.0.0.0 www.frameclaim.net
-0.0.0.0 www.frixedfloat.com
 0.0.0.0 www.fungible-token.laag.site
 0.0.0.0 www.funwonderful.life
 0.0.0.0 www.furarivip.click
@@ -7305,6 +7297,7 @@
 0.0.0.0 www.interdigitalker.com
 0.0.0.0 www.interdigitaltba.com
 0.0.0.0 www.investment-fdholdings.com
+0.0.0.0 www.jgtwxo.com
 0.0.0.0 www.jompyc.com
 0.0.0.0 www.ju.normbit.online
 0.0.0.0 www.ju.uiworth.online
@@ -7433,7 +7426,6 @@
 0.0.0.0 www.pork-event.net
 0.0.0.0 www.portal-ait.tech
 0.0.0.0 www.portalcoin.join-airdrop.com
-0.0.0.0 www.practisea.com
 0.0.0.0 www.provisionstrk.xyz
 0.0.0.0 www.recovermetawalletio.diviteca.com
 0.0.0.0 www.reflexer.pro
@@ -7563,7 +7555,6 @@
 0.0.0.0 xn--fixedflaot-2ub.net
 0.0.0.0 xn--fixedflaot-k8a.com
 0.0.0.0 xn--fixedflaot-xub.com
-0.0.0.0 xn--fixedfloat-0ub.com
 0.0.0.0 xn--fixedfloat-1ub.com
 0.0.0.0 xn--fixedfloat-2ub.com
 0.0.0.0 xn--fixedfloat-3ub.com
