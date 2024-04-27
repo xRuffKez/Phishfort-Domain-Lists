@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sat Apr 27 17:02:06 UTC 2024
+# PhishFort Full Domain List - Sat Apr 27 18:02:04 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108828
+# Number of Entries: 108827
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -396,6 +396,7 @@
 0.0.0.0 1inch-io.blogspot.com
 0.0.0.0 1inch-io.com
 0.0.0.0 1inch-io.pro
+0.0.0.0 1inch-io.xyz
 0.0.0.0 1inch-lab.top
 0.0.0.0 1inch-lab.xyz
 0.0.0.0 1inch-lauch.com
@@ -58184,14 +58185,12 @@
 0.0.0.0 myetherwallet.soccer
 0.0.0.0 myetherwallet.social
 0.0.0.0 myetherwallet.softbank
-0.0.0.0 myetherwallet.software
 0.0.0.0 myetherwallet.sohu
 0.0.0.0 myetherwallet.solar
 0.0.0.0 myetherwallet.solutions
 0.0.0.0 myetherwallet.song
 0.0.0.0 myetherwallet.sony
 0.0.0.0 myetherwallet.soy
-0.0.0.0 myetherwallet.space
 0.0.0.0 myetherwallet.spiegel
 0.0.0.0 myetherwallet.spot
 0.0.0.0 myetherwallet.spreadbetting

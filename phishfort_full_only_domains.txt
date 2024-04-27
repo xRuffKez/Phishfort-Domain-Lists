@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Sat Apr 27 17:02:06 UTC 2024
+# PhishFort Full Domain List - Sat Apr 27 18:02:04 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 108828
+# Number of Entries: 108827
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -395,6 +395,7 @@
 1inch-io.blogspot.com
 1inch-io.com
 1inch-io.pro
+1inch-io.xyz
 1inch-lab.top
 1inch-lab.xyz
 1inch-lauch.com
@@ -58183,14 +58184,12 @@ myetherwallet.so
 myetherwallet.soccer
 myetherwallet.social
 myetherwallet.softbank
-myetherwallet.software
 myetherwallet.sohu
 myetherwallet.solar
 myetherwallet.solutions
 myetherwallet.song
 myetherwallet.sony
 myetherwallet.soy
-myetherwallet.space
 myetherwallet.spiegel
 myetherwallet.spot
 myetherwallet.spreadbetting
