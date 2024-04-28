@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Sun Apr 28 07:01:55 UTC 2024
+# PhishFort Full Domain List - Sun Apr 28 08:02:11 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 108827
+# Number of Entries: 108826
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -331,7 +331,6 @@
 1inch-app.net
 1inch-app.netlify.app
 1inch-app.org
-1inch-app.pages.dev
 1inch-app.site
 1inch-app.tk
 1inch-apps.io
@@ -16217,6 +16216,7 @@ chainbridgefactory.xyz
 chainbridges.online
 chainbugs.org
 chainbugsfix.com
+chainclaim-zerionindex.pages.dev
 chainclaimzerion.pages.dev
 chaincloudconnect.live
 chaincoin.epizy.com
@@ -64433,7 +64433,6 @@ pancake-swap-finances.pages.dev
 pancake-swap-fjnance.com
 pancake-swap-flnance.org
 pancake-swap-interface-v1-6nx.pages.dev
-pancake-swap-v3.pages.dev
 pancake-swap-v3.pw
 pancake-swap-v3.tech
 pancake-swap.app
