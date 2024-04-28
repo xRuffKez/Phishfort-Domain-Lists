@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sun Apr 28 10:02:08 UTC 2024
+# PhishFort Full Domain List - Sun Apr 28 11:02:00 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108826
+# Number of Entries: 108829
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -64434,6 +64434,7 @@
 0.0.0.0 pancake-swap-fjnance.com
 0.0.0.0 pancake-swap-flnance.org
 0.0.0.0 pancake-swap-interface-v1-6nx.pages.dev
+0.0.0.0 pancake-swap-v3.pages.dev
 0.0.0.0 pancake-swap-v3.pw
 0.0.0.0 pancake-swap-v3.tech
 0.0.0.0 pancake-swap.app
@@ -66760,6 +66761,7 @@
 0.0.0.0 pancakeswapcism.com
 0.0.0.0 pancakeswapclaim-rewardstake.defidappsmainnet.com
 0.0.0.0 pancakeswapclaim.com
+0.0.0.0 pancakeswapclaim.vercel.app
 0.0.0.0 pancakeswapclaim34.vercel.app
 0.0.0.0 pancakeswapclaimbox.com
 0.0.0.0 pancakeswapclaims.com
@@ -67493,6 +67495,7 @@
 0.0.0.0 pancakeswpa-financies.uk
 0.0.0.0 pancakeswpa.com
 0.0.0.0 pancakeswpa.info
+0.0.0.0 pancakeswpclaim55.vercel.app
 0.0.0.0 pancakeswpclicks.vercel.app
 0.0.0.0 pancakeswpdrop13.vercel.app
 0.0.0.0 pancakeswpg.digital
