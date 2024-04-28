@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Sun Apr 28 10:05:02 UTC 2024
+# PhishFort Small Domain List - Sun Apr 28 11:04:38 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7706
+# Number of Entries: 7708
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1682,7 +1682,6 @@ connectapeterminal.io
 connectdappresolve.pages.dev
 connectdappsuniverse.click
 connectextension.info
-connectionlog.pages.dev
 connectprotocol.42web.io
 connects-nibiru.com
 connext.fi
@@ -4725,6 +4724,7 @@ pancaikeswap.finance
 pancakaswap-finance.xyz
 pancakaswaps.com
 pancakaswp-finance.com
+pancakaswp-finance.xyz
 pancake-clalm.xyz
 pancake-finance.net
 pancake-frontend-29e48ga31-chefilip.vercel.app
@@ -4735,6 +4735,7 @@ pancake-projclaim.vercel.app
 pancake-stake.pages.dev
 pancake-swap-airdrop.com
 pancake-swap-finances.pages.dev
+pancake-swap-v3.pages.dev
 pancake-swap.net
 pancake-swap45.vercel.app
 pancake-swapfinance.pages.dev
@@ -4818,6 +4819,7 @@ pancakeswap.godaddysites.com
 pancakeswap.sipf.cc
 pancakeswap92.vercel.app
 pancakeswapairdrop.com
+pancakeswapclaim.vercel.app
 pancakeswapclaim34.vercel.app
 pancakeswapclaimbox.com
 pancakeswapclick04.vercel.app
@@ -4849,6 +4851,7 @@ pancakeswapv4.com
 pancakeswop.pages.dev
 pancakeswop.web.app
 pancakeswp.github.io
+pancakeswpclaim55.vercel.app
 pancakeswpclicks.vercel.app
 pancakeswpdrop13.vercel.app
 pancakeswwap.com
@@ -6791,7 +6794,6 @@ vvebaply-vvall-io.top
 vvebexx.co
 vverify-nibirufi.vercel.app
 vww-1inch.com
-vwxq9vk.pro
 vy.starrcooporate.com
 vystarcu.com
 vystarcu.nah516.com

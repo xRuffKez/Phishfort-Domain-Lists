@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sun Apr 28 10:05:02 UTC 2024
+# PhishFort Small Domain List - Sun Apr 28 11:04:38 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7706
+# Number of Entries: 7708
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1683,7 +1683,6 @@
 0.0.0.0 connectdappresolve.pages.dev
 0.0.0.0 connectdappsuniverse.click
 0.0.0.0 connectextension.info
-0.0.0.0 connectionlog.pages.dev
 0.0.0.0 connectprotocol.42web.io
 0.0.0.0 connects-nibiru.com
 0.0.0.0 connext.fi
@@ -4726,6 +4725,7 @@
 0.0.0.0 pancakaswap-finance.xyz
 0.0.0.0 pancakaswaps.com
 0.0.0.0 pancakaswp-finance.com
+0.0.0.0 pancakaswp-finance.xyz
 0.0.0.0 pancake-clalm.xyz
 0.0.0.0 pancake-finance.net
 0.0.0.0 pancake-frontend-29e48ga31-chefilip.vercel.app
@@ -4736,6 +4736,7 @@
 0.0.0.0 pancake-stake.pages.dev
 0.0.0.0 pancake-swap-airdrop.com
 0.0.0.0 pancake-swap-finances.pages.dev
+0.0.0.0 pancake-swap-v3.pages.dev
 0.0.0.0 pancake-swap.net
 0.0.0.0 pancake-swap45.vercel.app
 0.0.0.0 pancake-swapfinance.pages.dev
@@ -4819,6 +4820,7 @@
 0.0.0.0 pancakeswap.sipf.cc
 0.0.0.0 pancakeswap92.vercel.app
 0.0.0.0 pancakeswapairdrop.com
+0.0.0.0 pancakeswapclaim.vercel.app
 0.0.0.0 pancakeswapclaim34.vercel.app
 0.0.0.0 pancakeswapclaimbox.com
 0.0.0.0 pancakeswapclick04.vercel.app
@@ -4850,6 +4852,7 @@
 0.0.0.0 pancakeswop.pages.dev
 0.0.0.0 pancakeswop.web.app
 0.0.0.0 pancakeswp.github.io
+0.0.0.0 pancakeswpclaim55.vercel.app
 0.0.0.0 pancakeswpclicks.vercel.app
 0.0.0.0 pancakeswpdrop13.vercel.app
 0.0.0.0 pancakeswwap.com
@@ -6792,7 +6795,6 @@
 0.0.0.0 vvebexx.co
 0.0.0.0 vverify-nibirufi.vercel.app
 0.0.0.0 vww-1inch.com
-0.0.0.0 vwxq9vk.pro
 0.0.0.0 vy.starrcooporate.com
 0.0.0.0 vystarcu.com
 0.0.0.0 vystarcu.nah516.com
