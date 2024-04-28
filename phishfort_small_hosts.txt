@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sun Apr 28 07:04:41 UTC 2024
+# PhishFort Small Domain List - Sun Apr 28 08:05:22 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7712
+# Number of Entries: 7706
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -354,7 +354,6 @@
 0.0.0.0 airtm-22.com
 0.0.0.0 airtm-9.com
 0.0.0.0 airtm-buss-pro.netlify.app
-0.0.0.0 airtm-ingrese-aqui.com
 0.0.0.0 airtm.com.br
 0.0.0.0 airtm.help
 0.0.0.0 airtm0o.com
@@ -1317,6 +1316,7 @@
 0.0.0.0 chain-node.pages.dev
 0.0.0.0 chain-strk.com
 0.0.0.0 chainbugs.org
+0.0.0.0 chainclaim-zerionindex.pages.dev
 0.0.0.0 chainclaimzerion.pages.dev
 0.0.0.0 chainflip.team
 0.0.0.0 chaingefinancetoken.pages.dev
@@ -3015,7 +3015,6 @@
 0.0.0.0 islamiccoin.network
 0.0.0.0 issuesdefi.xyz
 0.0.0.0 it.support.swift-ness.com
-0.0.0.0 itaca.in
 0.0.0.0 iykapp.xyz
 0.0.0.0 izumis.finance
 0.0.0.0 j2gkzzu.top
@@ -3064,7 +3063,6 @@
 0.0.0.0 join-porkcoin.io
 0.0.0.0 join-satoshivm.app
 0.0.0.0 join-superverse.org
-0.0.0.0 join-wenwen.com
 0.0.0.0 join-wenwen.network
 0.0.0.0 join.befilab.co
 0.0.0.0 join.bsquare-network.org
@@ -4738,7 +4736,6 @@
 0.0.0.0 pancake-stake.pages.dev
 0.0.0.0 pancake-swap-airdrop.com
 0.0.0.0 pancake-swap-finances.pages.dev
-0.0.0.0 pancake-swap-v3.pages.dev
 0.0.0.0 pancake-swap.net
 0.0.0.0 pancake-swap45.vercel.app
 0.0.0.0 pancake-swapfinance.pages.dev
@@ -5418,7 +5415,6 @@
 0.0.0.0 raydium.lo.web3-connect.pw
 0.0.0.0 raydiumswap.com
 0.0.0.0 raydlum.ink
-0.0.0.0 raydlum.net
 0.0.0.0 raydlumvy.com
 0.0.0.0 rayduims.beauty
 0.0.0.0 rayduims.boats
@@ -6341,7 +6337,6 @@
 0.0.0.0 tether.com.se
 0.0.0.0 tether.is
 0.0.0.0 tetherlaupad.com
-0.0.0.0 tethermetamask.com
 0.0.0.0 texasplasmacenters.info
 0.0.0.0 tgl-me.ru
 0.0.0.0 the-agodahotel.top
@@ -6873,7 +6868,6 @@
 0.0.0.0 web-4w4zabtw9.pancake.run
 0.0.0.0 web-airtm.com
 0.0.0.0 web-connectka.tk
-0.0.0.0 web-connectte.gq
 0.0.0.0 web-defillama.com
 0.0.0.0 web-dextools.com.syncstatics.com
 0.0.0.0 web-kavaa.netlify.app

@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Sun Apr 28 07:04:41 UTC 2024
+# PhishFort Small Domain List - Sun Apr 28 08:05:22 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7712
+# Number of Entries: 7706
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -353,7 +353,6 @@ airswaps.io
 airtm-22.com
 airtm-9.com
 airtm-buss-pro.netlify.app
-airtm-ingrese-aqui.com
 airtm.com.br
 airtm.help
 airtm0o.com
@@ -1316,6 +1315,7 @@ chain-list.top
 chain-node.pages.dev
 chain-strk.com
 chainbugs.org
+chainclaim-zerionindex.pages.dev
 chainclaimzerion.pages.dev
 chainflip.team
 chaingefinancetoken.pages.dev
@@ -3014,7 +3014,6 @@ irrahkar.com
 islamiccoin.network
 issuesdefi.xyz
 it.support.swift-ness.com
-itaca.in
 iykapp.xyz
 izumis.finance
 j2gkzzu.top
@@ -3063,7 +3062,6 @@ join-pendle.com
 join-porkcoin.io
 join-satoshivm.app
 join-superverse.org
-join-wenwen.com
 join-wenwen.network
 join.befilab.co
 join.bsquare-network.org
@@ -4737,7 +4735,6 @@ pancake-projclaim.vercel.app
 pancake-stake.pages.dev
 pancake-swap-airdrop.com
 pancake-swap-finances.pages.dev
-pancake-swap-v3.pages.dev
 pancake-swap.net
 pancake-swap45.vercel.app
 pancake-swapfinance.pages.dev
@@ -5417,7 +5414,6 @@ raydium.ink
 raydium.lo.web3-connect.pw
 raydiumswap.com
 raydlum.ink
-raydlum.net
 raydlumvy.com
 rayduims.beauty
 rayduims.boats
@@ -6340,7 +6336,6 @@ tether-claim-usdt.online
 tether.com.se
 tether.is
 tetherlaupad.com
-tethermetamask.com
 texasplasmacenters.info
 tgl-me.ru
 the-agodahotel.top
@@ -6872,7 +6867,6 @@ wdymdapp.pages.dev
 web-4w4zabtw9.pancake.run
 web-airtm.com
 web-connectka.tk
-web-connectte.gq
 web-defillama.com
 web-dextools.com.syncstatics.com
 web-kavaa.netlify.app
