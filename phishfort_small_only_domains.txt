@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Mon Apr 29 17:04:40 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 18:05:26 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7649
+# Number of Entries: 7654
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2529,6 +2529,7 @@ games-maviacom.pages.dev
 gamesgalina.shop
 gamestop-memes.web.app
 gaming-superverse.com
+gamium.pages.dev
 garbage-dapp.click
 gas-claim-3ag1r.github.io
 gas-claim-4gcsj.github.io
@@ -3170,6 +3171,7 @@ klarnapayment.de
 klarnasecure.com
 klarnashop.cc
 klarnashop.vip
+klkhg-11g.pages.dev
 kmaber.site
 knoxalliance-store.knoxalliance.com
 kofdet.com
@@ -3391,7 +3393,6 @@ lnsgroup.net
 lnsulet.com
 lnter-webtr.jhsw3edasva.life
 lntrac-funds-instnat.digital
-lntrac-web-mobile.digital
 lntracwebfunds-province.agccaiwo.life
 lntwebservice-lnter.f7aanm6hh4e.life
 localethereum.xn--node
@@ -4419,6 +4420,7 @@ nibiry-app.top
 niburufi-registers-verify.vercel.app
 nim-claim.network
 nitro-smartfusionglobeverse.pro
+njkbhjghf.pages.dev
 njmvdu.pro
 nkbihfbeogaeaoehlefnkodbefgpgknn.metamaskk.skyhighfirstclass.com.ng
 nkjs0.ru.com
@@ -6013,6 +6015,7 @@ st.bytenorm.online
 stableusdc.com
 stadrlebs.org
 staekland.com
+staffinghims.com
 stag.token.mlteam.net
 staikewise.net
 stake-ator.app
@@ -6121,6 +6124,7 @@ strknet.network
 strkprimary.pics
 subqueryfoundation-claim.vercel.app
 subsquid.network
+suburloia.com
 sui-airdrop.one
 sui-network.mom
 sui.webs3drop.top
@@ -7172,6 +7176,7 @@ www.du.uibits.online
 www.earn-drop.club
 www.eigen-layer.sale
 www.eigenlaver.magpiexyz.site
+www.elettrovisiongroup.com
 www.eligibility-wenwencoin.com
 www.eligible-porkcoin.com
 www.emidiscount.top

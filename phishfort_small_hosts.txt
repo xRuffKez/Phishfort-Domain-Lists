@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon Apr 29 17:04:40 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 18:05:26 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7649
+# Number of Entries: 7654
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2530,6 +2530,7 @@
 0.0.0.0 gamesgalina.shop
 0.0.0.0 gamestop-memes.web.app
 0.0.0.0 gaming-superverse.com
+0.0.0.0 gamium.pages.dev
 0.0.0.0 garbage-dapp.click
 0.0.0.0 gas-claim-3ag1r.github.io
 0.0.0.0 gas-claim-4gcsj.github.io
@@ -3171,6 +3172,7 @@
 0.0.0.0 klarnasecure.com
 0.0.0.0 klarnashop.cc
 0.0.0.0 klarnashop.vip
+0.0.0.0 klkhg-11g.pages.dev
 0.0.0.0 kmaber.site
 0.0.0.0 knoxalliance-store.knoxalliance.com
 0.0.0.0 kofdet.com
@@ -3392,7 +3394,6 @@
 0.0.0.0 lnsulet.com
 0.0.0.0 lnter-webtr.jhsw3edasva.life
 0.0.0.0 lntrac-funds-instnat.digital
-0.0.0.0 lntrac-web-mobile.digital
 0.0.0.0 lntracwebfunds-province.agccaiwo.life
 0.0.0.0 lntwebservice-lnter.f7aanm6hh4e.life
 0.0.0.0 localethereum.xn--node
@@ -4420,6 +4421,7 @@
 0.0.0.0 niburufi-registers-verify.vercel.app
 0.0.0.0 nim-claim.network
 0.0.0.0 nitro-smartfusionglobeverse.pro
+0.0.0.0 njkbhjghf.pages.dev
 0.0.0.0 njmvdu.pro
 0.0.0.0 nkbihfbeogaeaoehlefnkodbefgpgknn.metamaskk.skyhighfirstclass.com.ng
 0.0.0.0 nkjs0.ru.com
@@ -6014,6 +6016,7 @@
 0.0.0.0 stableusdc.com
 0.0.0.0 stadrlebs.org
 0.0.0.0 staekland.com
+0.0.0.0 staffinghims.com
 0.0.0.0 stag.token.mlteam.net
 0.0.0.0 staikewise.net
 0.0.0.0 stake-ator.app
@@ -6122,6 +6125,7 @@
 0.0.0.0 strkprimary.pics
 0.0.0.0 subqueryfoundation-claim.vercel.app
 0.0.0.0 subsquid.network
+0.0.0.0 suburloia.com
 0.0.0.0 sui-airdrop.one
 0.0.0.0 sui-network.mom
 0.0.0.0 sui.webs3drop.top
@@ -7173,6 +7177,7 @@
 0.0.0.0 www.earn-drop.club
 0.0.0.0 www.eigen-layer.sale
 0.0.0.0 www.eigenlaver.magpiexyz.site
+0.0.0.0 www.elettrovisiongroup.com
 0.0.0.0 www.eligibility-wenwencoin.com
 0.0.0.0 www.eligible-porkcoin.com
 0.0.0.0 www.emidiscount.top
