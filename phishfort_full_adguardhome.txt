@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 14:02:09 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 15:02:12 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108849
+# Number of Entries: 108859
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2222,6 +2222,7 @@
 ||ab-reward.net^
 ||ab-rollup.xyz^
 ||ab.arabbank.ga^
+||ab.datpoint.online^
 ||ab.ebay-asia.com^
 ||ab.ethdefiwin.cc^
 ||ab.xiziwk.vip^
@@ -4842,6 +4843,7 @@
 ||an-metamessk.com^
 ||an-mettmask.com^
 ||an.betiutima.online^
+||an.datpoint.online^
 ||an.intelectui.online^
 ||an.myudetma.online^
 ||anadolsun.site^
@@ -6142,6 +6144,7 @@
 ||app.1insh.io^
 ||app.1lnch.mom^
 ||app.1nch.co^
+||app.2-airtm.cam^
 ||app.7staroptions.ltd^
 ||app.9inchio.com^
 ||app.aave.aspxdesk.com^
@@ -16650,6 +16653,7 @@
 ||chendimassachoist.com^
 ||chendimasslost.com^
 ||chenlisting.com^
+||chensymalst.com^
 ||chessnutrition.info^
 ||chestuniverse.com^
 ||chevroletbajio.com^
@@ -32772,6 +32776,7 @@
 ||exploreboardsync.com^
 ||exploremanta.pages.dev^
 ||exploreopensea.com^
+||explorer-1inch-io.pages.dev^
 ||explorerblockpro.com^
 ||explorerprotocol.live^
 ||explorerrprotocol.live^
@@ -59343,6 +59348,7 @@
 ||mynewmont.net^
 ||mynewmont.us^
 ||mynewmontbonk.com^
+||mynewuimplclaim.com^
 ||mynfmorder.com^
 ||mynftconnectspad.com^
 ||mynftgateway.com^
@@ -64467,6 +64473,7 @@
 ||pancake-swap.store^
 ||pancake-swap.tech^
 ||pancake-swap.trade^
+||pancake-swap45.vercel.app^
 ||pancake-swape.com^
 ||pancake-swapfinance.pages.dev^
 ||pancake-swapfinances.pages.dev^
@@ -65078,6 +65085,7 @@
 ||pancakeswap-claim.com^
 ||pancakeswap-claim.finance^
 ||pancakeswap-claim.herokuapp.com^
+||pancakeswap-claim112.vercel.app^
 ||pancakeswap-claims.com^
 ||pancakeswap-claims.com.do^
 ||pancakeswap-clone-nine.vercel.app^
@@ -91875,6 +91883,7 @@
 ||vipmoodys.com^
 ||vipnewmont.com^
 ||viralethereum-promogive.com^
+||virgin-awareness.com^
 ||virginmoneybusinessbanking.com^
 ||virginmoneychatwithus.web.app^
 ||virginmoneylivechat.com^
@@ -97892,6 +97901,7 @@
 ||www.1metamaks.net-secure.pro^
 ||www.1raydium.sbs^
 ||www.1unch.exchange^
+||www.2--airtm.com^
 ||www.2-collab-land.pro^
 ||www.2023.worldcoinair.org^
 ||www.2023.xn--zksnc-iy1b.com^

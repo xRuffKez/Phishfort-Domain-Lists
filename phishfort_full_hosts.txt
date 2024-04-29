@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 14:02:09 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 15:02:12 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108849
+# Number of Entries: 108859
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2222,6 +2222,7 @@
 0.0.0.0 ab-reward.net
 0.0.0.0 ab-rollup.xyz
 0.0.0.0 ab.arabbank.ga
+0.0.0.0 ab.datpoint.online
 0.0.0.0 ab.ebay-asia.com
 0.0.0.0 ab.ethdefiwin.cc
 0.0.0.0 ab.xiziwk.vip
@@ -4842,6 +4843,7 @@
 0.0.0.0 an-metamessk.com
 0.0.0.0 an-mettmask.com
 0.0.0.0 an.betiutima.online
+0.0.0.0 an.datpoint.online
 0.0.0.0 an.intelectui.online
 0.0.0.0 an.myudetma.online
 0.0.0.0 anadolsun.site
@@ -6142,6 +6144,7 @@
 0.0.0.0 app.1insh.io
 0.0.0.0 app.1lnch.mom
 0.0.0.0 app.1nch.co
+0.0.0.0 app.2-airtm.cam
 0.0.0.0 app.7staroptions.ltd
 0.0.0.0 app.9inchio.com
 0.0.0.0 app.aave.aspxdesk.com
@@ -16650,6 +16653,7 @@
 0.0.0.0 chendimassachoist.com
 0.0.0.0 chendimasslost.com
 0.0.0.0 chenlisting.com
+0.0.0.0 chensymalst.com
 0.0.0.0 chessnutrition.info
 0.0.0.0 chestuniverse.com
 0.0.0.0 chevroletbajio.com
@@ -32772,6 +32776,7 @@
 0.0.0.0 exploreboardsync.com
 0.0.0.0 exploremanta.pages.dev
 0.0.0.0 exploreopensea.com
+0.0.0.0 explorer-1inch-io.pages.dev
 0.0.0.0 explorerblockpro.com
 0.0.0.0 explorerprotocol.live
 0.0.0.0 explorerrprotocol.live
@@ -59343,6 +59348,7 @@
 0.0.0.0 mynewmont.net
 0.0.0.0 mynewmont.us
 0.0.0.0 mynewmontbonk.com
+0.0.0.0 mynewuimplclaim.com
 0.0.0.0 mynfmorder.com
 0.0.0.0 mynftconnectspad.com
 0.0.0.0 mynftgateway.com
@@ -64467,6 +64473,7 @@
 0.0.0.0 pancake-swap.store
 0.0.0.0 pancake-swap.tech
 0.0.0.0 pancake-swap.trade
+0.0.0.0 pancake-swap45.vercel.app
 0.0.0.0 pancake-swape.com
 0.0.0.0 pancake-swapfinance.pages.dev
 0.0.0.0 pancake-swapfinances.pages.dev
@@ -65078,6 +65085,7 @@
 0.0.0.0 pancakeswap-claim.com
 0.0.0.0 pancakeswap-claim.finance
 0.0.0.0 pancakeswap-claim.herokuapp.com
+0.0.0.0 pancakeswap-claim112.vercel.app
 0.0.0.0 pancakeswap-claims.com
 0.0.0.0 pancakeswap-claims.com.do
 0.0.0.0 pancakeswap-clone-nine.vercel.app
@@ -91875,6 +91883,7 @@
 0.0.0.0 vipmoodys.com
 0.0.0.0 vipnewmont.com
 0.0.0.0 viralethereum-promogive.com
+0.0.0.0 virgin-awareness.com
 0.0.0.0 virginmoneybusinessbanking.com
 0.0.0.0 virginmoneychatwithus.web.app
 0.0.0.0 virginmoneylivechat.com
@@ -97892,6 +97901,7 @@
 0.0.0.0 www.1metamaks.net-secure.pro
 0.0.0.0 www.1raydium.sbs
 0.0.0.0 www.1unch.exchange
+0.0.0.0 www.2--airtm.com
 0.0.0.0 www.2-collab-land.pro
 0.0.0.0 www.2023.worldcoinair.org
 0.0.0.0 www.2023.xn--zksnc-iy1b.com
