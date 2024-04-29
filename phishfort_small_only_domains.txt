@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Mon Apr 29 20:05:03 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 21:04:48 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7641
+# Number of Entries: 7639
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1303,7 +1303,6 @@ chainflip.team
 chaingefinancetoken.pages.dev
 chaingev2-airdrop.pages.dev
 chainlabsv2.org
-chainlink-drop.com
 chainlink-network.app
 chainlink.us.to
 chainlinkairdropweb3.org
@@ -1321,7 +1320,6 @@ chainswap-airdrop-claim.pages.dev
 chainzerioncliam.pages.dev
 chalenlest.org
 chamasloustorgst.com
-champion-tactic.com
 chanceportugal.com
 changelly.plus
 chatsistant.com
@@ -1877,7 +1875,6 @@ debugdecentralize.pages.dev
 debugdeconnec.pages.dev
 decentralands.vip
 decentralize-metis.app
-decentralize.metis.wb3s.xyz
 decentralized-dapp.com
 decentralized-link.info
 decentralized-point.info
@@ -2116,7 +2113,6 @@ earn-babylonchain.net
 earn-babylonchaln.app
 earn-cookie.community
 earn-defipool.com
-earn-dmail.com
 earn-drop.asia
 earn-pancakeswap.finance
 earn-taopads.web.app
@@ -2174,7 +2170,6 @@ emirates-procurement.com
 emirates.airfareuk.co.uk
 emirates.flightse.co
 emiratescashreward.com
-emiratesgroup.online
 emiratesgroupae.online
 emiratesholiday.net
 emiratesvacationspackages.com
@@ -3720,6 +3715,7 @@ mee6-connect.xyz
 mee6appeals.xyz
 meetamaskev.azurewebsites.net
 mefamask.com
+megaapps.pages.dev
 meiimask-log-iignin.godaddysites.com
 meleadapp.com
 mell-coin.web.app
@@ -4772,6 +4768,7 @@ pancakeswap-pancakeswap.xyz
 pancakeswap-platform.pages.dev
 pancakeswap-pro.com
 pancakeswap-proclaim.com
+pancakeswap-prodrop.com
 pancakeswap-server.com
 pancakeswap-v3.pages.dev
 pancakeswap-webclaim.com
@@ -5609,6 +5606,7 @@ roninchaln.com
 roninchaon.com
 roninnchain.com
 roninwallet-login4.godaddysites.com
+ronkeeper.com
 ronlnchaiin.top
 ronninwallet.godaddysites.com
 roomfollow.xyz

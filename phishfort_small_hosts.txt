@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon Apr 29 20:05:03 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 21:04:48 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7641
+# Number of Entries: 7639
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1304,7 +1304,6 @@
 0.0.0.0 chaingefinancetoken.pages.dev
 0.0.0.0 chaingev2-airdrop.pages.dev
 0.0.0.0 chainlabsv2.org
-0.0.0.0 chainlink-drop.com
 0.0.0.0 chainlink-network.app
 0.0.0.0 chainlink.us.to
 0.0.0.0 chainlinkairdropweb3.org
@@ -1322,7 +1321,6 @@
 0.0.0.0 chainzerioncliam.pages.dev
 0.0.0.0 chalenlest.org
 0.0.0.0 chamasloustorgst.com
-0.0.0.0 champion-tactic.com
 0.0.0.0 chanceportugal.com
 0.0.0.0 changelly.plus
 0.0.0.0 chatsistant.com
@@ -1878,7 +1876,6 @@
 0.0.0.0 debugdeconnec.pages.dev
 0.0.0.0 decentralands.vip
 0.0.0.0 decentralize-metis.app
-0.0.0.0 decentralize.metis.wb3s.xyz
 0.0.0.0 decentralized-dapp.com
 0.0.0.0 decentralized-link.info
 0.0.0.0 decentralized-point.info
@@ -2117,7 +2114,6 @@
 0.0.0.0 earn-babylonchaln.app
 0.0.0.0 earn-cookie.community
 0.0.0.0 earn-defipool.com
-0.0.0.0 earn-dmail.com
 0.0.0.0 earn-drop.asia
 0.0.0.0 earn-pancakeswap.finance
 0.0.0.0 earn-taopads.web.app
@@ -2175,7 +2171,6 @@
 0.0.0.0 emirates.airfareuk.co.uk
 0.0.0.0 emirates.flightse.co
 0.0.0.0 emiratescashreward.com
-0.0.0.0 emiratesgroup.online
 0.0.0.0 emiratesgroupae.online
 0.0.0.0 emiratesholiday.net
 0.0.0.0 emiratesvacationspackages.com
@@ -3721,6 +3716,7 @@
 0.0.0.0 mee6appeals.xyz
 0.0.0.0 meetamaskev.azurewebsites.net
 0.0.0.0 mefamask.com
+0.0.0.0 megaapps.pages.dev
 0.0.0.0 meiimask-log-iignin.godaddysites.com
 0.0.0.0 meleadapp.com
 0.0.0.0 mell-coin.web.app
@@ -4773,6 +4769,7 @@
 0.0.0.0 pancakeswap-platform.pages.dev
 0.0.0.0 pancakeswap-pro.com
 0.0.0.0 pancakeswap-proclaim.com
+0.0.0.0 pancakeswap-prodrop.com
 0.0.0.0 pancakeswap-server.com
 0.0.0.0 pancakeswap-v3.pages.dev
 0.0.0.0 pancakeswap-webclaim.com
@@ -5610,6 +5607,7 @@
 0.0.0.0 roninchaon.com
 0.0.0.0 roninnchain.com
 0.0.0.0 roninwallet-login4.godaddysites.com
+0.0.0.0 ronkeeper.com
 0.0.0.0 ronlnchaiin.top
 0.0.0.0 ronninwallet.godaddysites.com
 0.0.0.0 roomfollow.xyz
