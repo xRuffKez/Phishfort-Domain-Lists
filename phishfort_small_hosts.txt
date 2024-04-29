@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon Apr 29 01:28:19 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 02:13:37 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7693
+# Number of Entries: 7694
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -4959,6 +4959,7 @@
 0.0.0.0 paxfulpay.com
 0.0.0.0 paxfulpay.net
 0.0.0.0 paxfulpro.cc
+0.0.0.0 paxfuls.top
 0.0.0.0 paxfult.com
 0.0.0.0 paxfultf.com
 0.0.0.0 paxfulvn.com

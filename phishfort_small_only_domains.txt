@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Mon Apr 29 01:28:19 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 02:13:37 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7693
+# Number of Entries: 7694
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -4958,6 +4958,7 @@ paxfulp2p.com
 paxfulpay.com
 paxfulpay.net
 paxfulpro.cc
+paxfuls.top
 paxfult.com
 paxfultf.com
 paxfulvn.com
