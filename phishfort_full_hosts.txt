@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 19:02:02 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 20:02:04 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108872
+# Number of Entries: 108871
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -93413,7 +93413,6 @@
 0.0.0.0 wallet.terezor.io
 0.0.0.0 wallet.terzcr.com
 0.0.0.0 wallet.thetatoken.trade
-0.0.0.0 wallet.ton-kepeer.com
 0.0.0.0 wallet.trczor.com
 0.0.0.0 wallet.trezcr.com
 0.0.0.0 wallet.trezor-io.co

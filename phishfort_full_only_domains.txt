@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Mon Apr 29 19:02:02 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 20:02:04 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 108872
+# Number of Entries: 108871
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -93412,7 +93412,6 @@ wallet.synwalletvalidation.com
 wallet.terezor.io
 wallet.terzcr.com
 wallet.thetatoken.trade
-wallet.ton-kepeer.com
 wallet.trczor.com
 wallet.trezcr.com
 wallet.trezor-io.co
