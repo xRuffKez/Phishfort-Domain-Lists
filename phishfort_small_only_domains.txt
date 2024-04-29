@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Mon Apr 29 05:05:09 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 06:06:05 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7695
+# Number of Entries: 7638
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -13,7 +13,6 @@
 0penseamystery.vercel.app
 0penseapro-click.vercel.app
 0x4ee15erf903e2634abe0e.com
-0xprotocol.site
 1-88y.pages.dev
 1-eu9.pages.dev
 1-lnch.com
@@ -181,7 +180,6 @@ aflacglobal.com
 agent-nulik.org
 ageofgods.eu
 agixreward.xyz
-agoda-88.vip
 agoda-bookhotel.top
 agoda-checkout-id843753.com
 agoda-confirm.com-id591057.com
@@ -191,7 +189,6 @@ agoda-jp.cc
 agoda-jp.co
 agoda-jp.net
 agoda-jp.site
-agoda-jp.vip
 agoda-jp.xyz
 agoda-jps.com
 agoda-offer101079.com
@@ -236,10 +233,6 @@ agodaycs.org
 agveah.cc
 ahora-ingres-aca.netlify.app
 ai-dapp.pages.dev
-ai-decentraldapp.pages.dev
-ai-smadecentrelized.pages.dev
-ai-smartdecentrelised.pages.dev
-ai-smartfixdecentralised.pages.dev
 aibaoinsurance.com
 aicoinex-amm.com
 aidexw.com
@@ -680,7 +673,6 @@ apr-vectorreserve.network
 aps.bifi-yleld.xyz
 apt.500-web3.top
 aptos.trusthubs.top
-apygate.rpctool.net
 apygatercptools.web.app
 aquilibrium.club
 arabbplc-ae.com
@@ -795,7 +787,6 @@ automation-feat-front-3795-display-log-tr-chainlinklabs.vercel.app
 autookde.site
 autorestore.pages.dev
 autotecc.pages.dev
-autovalidateblockchain.com
 autovalidateweb3.pages.dev
 avalaunches.app
 avalchain-bridge.com
@@ -890,7 +881,6 @@ baseswaap.top
 batmansol.com
 baycarepatientportal.net
 bbl-get.com
-bbsyncs.pages.dev
 bdb7.cc
 beacon-usdt.shop
 beanzoff.com
@@ -1082,7 +1072,6 @@ blocknonc.firebaseapp.com
 blocknonc.web.app
 blockresolveweb.pages.dev
 blocktokens.online
-blockunification.asders.icu
 blog.868631.xyz
 blog.drpaulweiss.com
 blog.firstflytravel.com
@@ -1180,7 +1169,6 @@ buildtheenterprise.org
 buildweb3.icu
 buildweb3dev.xyz
 bullsandbearsstore.com
-bullsync.pages.dev
 bungeeswap.exchange
 bups.pro
 burakalpaslan.cc
@@ -1582,7 +1570,6 @@ coinbose.app
 coinchanger.live
 coindappfixes.pages.dev
 coindas.top
-coingeckokyc.kycregulatory.com
 coinlaunchpad.netlify.app
 coinmainnets.com
 coinmarketcap-app-auth.web.app
@@ -1787,7 +1774,6 @@ dapp-aicontract.com
 dapp-issuefix.pages.dev
 dapp-node.vercel.app
 dapp-pendle.finance
-dapp-solution.pages.dev
 dapp-starter-1s2gz5hbg-dunghd.vercel.app
 dapp-starter-ju06cb1h2-dunghd.vercel.app
 dapp-vulcan.xyz
@@ -1823,7 +1809,6 @@ dapps-0auth.net
 dapps-fixed.pages.dev
 dapps-pancakeswap.pages.dev
 dapps-radar.pages.dev
-dapps-web3-connect.in
 dapps.toolsynchr.online
 dappsapi.pages.dev
 dappsconnectapp.pages.dev
@@ -1839,7 +1824,6 @@ dappsprotocol.vercel.app
 dappsradar.lc
 dappsradar.page.link
 dappsresolves.pages.dev
-dappssolution.pages.dev
 dappsswarm.com
 dappstaking.net
 dappswalletsnode.firebaseapp.com
@@ -1970,7 +1954,6 @@ detma-secure.insystdetmaa.in
 detma.online
 detmassonline.com
 detnmama.com
-dev-the-metamask-support.pantheonsite.io
 dev.heliuswork.com
 devapp.pages.dev
 devicaeccess.co.uk
@@ -2122,7 +2105,6 @@ dymensiondrop.eu
 dynamicvisionmanagement.com
 dyvmemsion.xyz
 e-linea.com
-e-node.pages.dev
 e-then-a.fun
 e09c801d297f807b.net
 e4d600ab9141b7a9859511c77e63b9b3.com
@@ -2333,7 +2315,6 @@ events-pancakeswap.finance
 events-pandora.com
 events-pendle.fi
 events-polkadot.network
-eventspancakeswap.finance
 evercoreassets.com
 evercorecapitalgroup.com
 evercoregmbh.com
@@ -2367,7 +2348,6 @@ ezkalibur.com.web3-connect.pw
 f0d0fc.cc
 f47jx6.pro
 f930fi.info
-factsync.pages.dev
 familylink-oracle.com
 familysavingamerica.pro
 fanciful-cat-81da50.netlify.app
@@ -2405,7 +2385,6 @@ fergusonhvacamericanstandard.com
 fffcu.de
 ffj7.sa.com
 fi-woo-org.vercel.app
-fibersync.pages.dev
 fidelityadvancedsaving.com
 figurefourchampionship.com
 fillold.mypsx.net
@@ -2496,7 +2475,6 @@ free.pixelz.tech
 free.plagzcommune.com
 freedompork.net
 freestorecol.online
-freesync.pages.dev
 freshairdrop-website.live
 from-agoda.site.pro
 frontend2.vercel.app
@@ -2959,13 +2937,10 @@ instant-stake.com
 insuarenmaul.com
 insuranmaacachute.com
 int-active.io
-integratebitchainfix.pages.dev
 integratechaindefi.pages.dev
 integratedchain.000.pe
 integratedfix.live
-integratedmultifix.pages.dev
 integratedsystemsconnect.com
-integratemultichainfix.pages.dev
 integrationvaults.com
 intel-pairtokenzerion0i.pages.dev
 intellix-protocol.com
@@ -3005,7 +2980,6 @@ iqz2.sa.com
 ireth.rnag.site
 irrahkar.com
 islamiccoin.network
-issuesdefi.xyz
 it.support.swift-ness.com
 iykapp.xyz
 izumis.finance
@@ -3509,8 +3483,6 @@ mail.xn--pncakeswap-3gb.com
 mail046.mlsend.com
 mailclaimdmail.xyz
 mailinfosec.info
-main-decentralised.pages.dev
-main-decentralized.pages.dev
 main-makerdao.com
 maindexapp.pages.dev
 mainetnodeauth.pages.dev
@@ -4231,7 +4203,6 @@ myjuppy-box.trade
 mymetamasklogin.com
 mymoneronline.info
 mynewmontbonk.com
-myob.business
 myob.finance
 myob.financial
 myob.network
@@ -4713,7 +4684,6 @@ panasonic-in.com
 pancackeswap-claim.web.app
 pancaikeswap.finance
 pancakaswap-finance.xyz
-pancakaswaps.com
 pancakaswp-finance.com
 pancakaswp-finance.xyz
 pancake-clalm.xyz
@@ -4728,7 +4698,6 @@ pancake-swap-airdrop.com
 pancake-swap-finances.pages.dev
 pancake-swap-v3.pages.dev
 pancake-swap.net
-pancake-swap45.vercel.app
 pancake-swapfinance.pages.dev
 pancake-swapfinances.pages.dev
 pancake-swapi.web.app
@@ -4810,8 +4779,6 @@ pancakeswap.godaddysites.com
 pancakeswap.sipf.cc
 pancakeswap92.vercel.app
 pancakeswapairdrop.com
-pancakeswapclaim.vercel.app
-pancakeswapclaim34.vercel.app
 pancakeswapclaimbox.com
 pancakeswapclick04.vercel.app
 pancakeswapcrypto.com
@@ -4829,7 +4796,6 @@ pancakeswapgiveawayclaim.com
 pancakeswaph.github.io
 pancakeswaphelp.pages.dev
 pancakeswapp.pages.dev
-pancakeswapp.web.app
 pancakeswapperhub.online
 pancakeswappro.com
 pancakeswapreward.finance
@@ -4842,7 +4808,6 @@ pancakeswapv4.com
 pancakeswop.pages.dev
 pancakeswop.web.app
 pancakeswp.github.io
-pancakeswpclaim55.vercel.app
 pancakeswpclicks.vercel.app
 pancakeswpdrop13.vercel.app
 pancakeswwap.com
@@ -5236,7 +5201,6 @@ protect-solana.xyz
 protocol-apex.com
 protocol-carv.nl
 protocol-guard.web.app
-protocolnode.com
 protranslated.com
 provision-storknet.com
 provisions-starknet.cc
@@ -5363,7 +5327,6 @@ quests-zora.network
 quests-zora.trading
 quickswap-io.events
 quicksyncdapps.pages.dev
-quicksynced.pages.dev
 quicksystemicexplorer.co
 quickupdateexplorer.co
 quikswap.io
@@ -5394,8 +5357,6 @@ rangevalidator.firebaseapp.com
 rango-exchange-r8n4.onrender.com
 rarible-nft.com
 rarible.quest
-rarity-dapps.online
-rarityauth.online
 rational-zerosolvosmartverse.pro
 ravokecash.org
 raxful.com
@@ -5407,7 +5368,6 @@ raydium.dev
 raydium.fun
 raydium.ink
 raydium.lo.web3-connect.pw
-raydiumswap.com
 raydlum.ink
 raydlumvy.com
 rayduims.beauty
@@ -5511,7 +5471,6 @@ reskst.pages.dev
 resolutionpanel.pages.dev
 resolve-captcha.com
 resolveprotocols.pages.dev
-resolverhq.web.app
 resolverweb3.pages.dev
 restake-fi.xyz
 restake-keelpdao.xyz
@@ -5550,7 +5509,6 @@ revoke-tips.com
 revoke-wallet.com
 revoke-wallet.net
 revoke-web.xyz
-revoke.digital
 revoke.greyh.at
 revoke.host
 revoke.ink
@@ -5608,6 +5566,7 @@ rewards.optimismlabs.org
 rewards.otsea.capital
 rewards.retik.app
 rewardspaalai.app
+rewoke.cash
 rezeptfrei.shop
 rezoprotocol.com
 rg3q9el.cc
@@ -5795,11 +5754,9 @@ secure.ingbhk.com
 secure1.ontario407etr.com
 secure9.ontario407etr.com
 securedmainnetconnect.pages.dev
-securemainnetpad.xyz
 securenetsync.pages.dev
 secureswapupdated.pages.dev
 secureupdradelive.nl
-securewalletapp.xyz
 securewebdapp.pages.dev
 seeddify-fund.com
 seedfry.com
@@ -5933,12 +5890,9 @@ smart-integrate.xyz
 smart-layer-claim.net
 smart-walletconnect.pages.dev
 smartauthrectify.pages.dev
-smartautodebuglive.firebaseapp.com
-smartautodebuglive.web.app
 smartbaseverse.pro
 smartcontapp-audit.com
 smartdappconnect.com
-smartdappfix.pages.dev
 smartdappnodes.pages.dev
 smartiayer.io
 smartiayer.org
@@ -5950,7 +5904,6 @@ smartnoderevoke.pages.dev
 smartrectification.pages.dev
 smartrevokenet.vercel.app
 smartsheetusa.team
-smarttdappfix.pages.dev
 smartwebmultiverse.eu
 smiley-token.network
 smithbrotherrsconstruction.com
@@ -6233,7 +6186,6 @@ swiftdefiauth.pages.dev
 swiftlymerch.uk
 swiftmultichainresolve.pages.dev
 swiftresolvedapps.pages.dev
-swiftsynced.pages.dev
 swiftsyncrectify.pages.dev
 swiissworld.net
 swistonjewellers.com
@@ -6252,7 +6204,6 @@ synchronizewallets.on.fleek.co
 synckavva.netlify.app
 syncprotocols.pagen.dev
 syncsdapp.com
-syncshot.pages.dev
 syncsolutions.pages.dev
 syncsolve-inchpd.com
 syncsswap.app
@@ -6271,7 +6222,6 @@ synthetixreward.com
 t3ct2s2.pro
 t5nv5.cc
 tabi-chest-claim.vercel.app
-tabsync.pages.dev
 tahodistribution.com
 taichinhbidv.com
 taiko.io-c.org
@@ -6301,7 +6251,6 @@ teechdata.com
 tektekdunk.blogspot.com
 telegram-gods.net
 teleperformer.in
-templatesync.pages.dev
 tenser.trade
 tensor-trade-git-tree-tensor.vercel.app
 tensor-trade.netlify.app
@@ -6633,7 +6582,6 @@ ushark-portal.com
 uwv475.com
 uzmanplatform.com
 v1-vlaunch.com
-v2-pancake.pages.dev
 v2-pancakeswap.github.io
 v2-pancakeswap.pages.dev
 v2.stakewise-finance.com
@@ -7091,7 +7039,6 @@ www-orbiter.xyz
 www-peryourhealth.com
 www-safe-global.info
 www-trst-secure.v91x61.ru
-www.0xprotocol.site
 www.1asxhkd.com
 www.1inch.ink
 www.1inchfinance.com
@@ -7141,7 +7088,6 @@ www.applovin.pro
 www.appscallop.io
 www.appsofamon.xyz
 www.appstride.zone
-www.apygate.rpctool.com
 www.assets-gate.com
 www.asx-danman.top
 www.asx-exs.com
@@ -7149,7 +7095,6 @@ www.asx-genten.com
 www.asx-global.com
 www.asx-ice.top
 www.asx-idn.com
-www.asx-panrg.top
 www.asx-trading.top
 www.asx-vips.com
 www.asxcoinic.com
@@ -7617,11 +7562,9 @@ zapper-frontend-next-ikph34jsv-zapper-fi.vercel.app
 zellerscanada.ca
 zenithzest.top
 zens-web3.com
-zerion-uup.pages.dev
 zerion.claimfree.xyz
 zerionpro.com
 zerionu.com
-zerionweb3-noderewards.pages.dev
 zero-lend.app
 zeroiand.xyz
 zerolend.app

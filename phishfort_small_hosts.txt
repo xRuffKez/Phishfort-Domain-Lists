@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon Apr 29 05:05:09 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 06:06:05 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7695
+# Number of Entries: 7638
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -14,7 +14,6 @@
 0.0.0.0 0penseamystery.vercel.app
 0.0.0.0 0penseapro-click.vercel.app
 0.0.0.0 0x4ee15erf903e2634abe0e.com
-0.0.0.0 0xprotocol.site
 0.0.0.0 1-88y.pages.dev
 0.0.0.0 1-eu9.pages.dev
 0.0.0.0 1-lnch.com
@@ -182,7 +181,6 @@
 0.0.0.0 agent-nulik.org
 0.0.0.0 ageofgods.eu
 0.0.0.0 agixreward.xyz
-0.0.0.0 agoda-88.vip
 0.0.0.0 agoda-bookhotel.top
 0.0.0.0 agoda-checkout-id843753.com
 0.0.0.0 agoda-confirm.com-id591057.com
@@ -192,7 +190,6 @@
 0.0.0.0 agoda-jp.co
 0.0.0.0 agoda-jp.net
 0.0.0.0 agoda-jp.site
-0.0.0.0 agoda-jp.vip
 0.0.0.0 agoda-jp.xyz
 0.0.0.0 agoda-jps.com
 0.0.0.0 agoda-offer101079.com
@@ -237,10 +234,6 @@
 0.0.0.0 agveah.cc
 0.0.0.0 ahora-ingres-aca.netlify.app
 0.0.0.0 ai-dapp.pages.dev
-0.0.0.0 ai-decentraldapp.pages.dev
-0.0.0.0 ai-smadecentrelized.pages.dev
-0.0.0.0 ai-smartdecentrelised.pages.dev
-0.0.0.0 ai-smartfixdecentralised.pages.dev
 0.0.0.0 aibaoinsurance.com
 0.0.0.0 aicoinex-amm.com
 0.0.0.0 aidexw.com
@@ -681,7 +674,6 @@
 0.0.0.0 aps.bifi-yleld.xyz
 0.0.0.0 apt.500-web3.top
 0.0.0.0 aptos.trusthubs.top
-0.0.0.0 apygate.rpctool.net
 0.0.0.0 apygatercptools.web.app
 0.0.0.0 aquilibrium.club
 0.0.0.0 arabbplc-ae.com
@@ -796,7 +788,6 @@
 0.0.0.0 autookde.site
 0.0.0.0 autorestore.pages.dev
 0.0.0.0 autotecc.pages.dev
-0.0.0.0 autovalidateblockchain.com
 0.0.0.0 autovalidateweb3.pages.dev
 0.0.0.0 avalaunches.app
 0.0.0.0 avalchain-bridge.com
@@ -891,7 +882,6 @@
 0.0.0.0 batmansol.com
 0.0.0.0 baycarepatientportal.net
 0.0.0.0 bbl-get.com
-0.0.0.0 bbsyncs.pages.dev
 0.0.0.0 bdb7.cc
 0.0.0.0 beacon-usdt.shop
 0.0.0.0 beanzoff.com
@@ -1083,7 +1073,6 @@
 0.0.0.0 blocknonc.web.app
 0.0.0.0 blockresolveweb.pages.dev
 0.0.0.0 blocktokens.online
-0.0.0.0 blockunification.asders.icu
 0.0.0.0 blog.868631.xyz
 0.0.0.0 blog.drpaulweiss.com
 0.0.0.0 blog.firstflytravel.com
@@ -1181,7 +1170,6 @@
 0.0.0.0 buildweb3.icu
 0.0.0.0 buildweb3dev.xyz
 0.0.0.0 bullsandbearsstore.com
-0.0.0.0 bullsync.pages.dev
 0.0.0.0 bungeeswap.exchange
 0.0.0.0 bups.pro
 0.0.0.0 burakalpaslan.cc
@@ -1583,7 +1571,6 @@
 0.0.0.0 coinchanger.live
 0.0.0.0 coindappfixes.pages.dev
 0.0.0.0 coindas.top
-0.0.0.0 coingeckokyc.kycregulatory.com
 0.0.0.0 coinlaunchpad.netlify.app
 0.0.0.0 coinmainnets.com
 0.0.0.0 coinmarketcap-app-auth.web.app
@@ -1788,7 +1775,6 @@
 0.0.0.0 dapp-issuefix.pages.dev
 0.0.0.0 dapp-node.vercel.app
 0.0.0.0 dapp-pendle.finance
-0.0.0.0 dapp-solution.pages.dev
 0.0.0.0 dapp-starter-1s2gz5hbg-dunghd.vercel.app
 0.0.0.0 dapp-starter-ju06cb1h2-dunghd.vercel.app
 0.0.0.0 dapp-vulcan.xyz
@@ -1824,7 +1810,6 @@
 0.0.0.0 dapps-fixed.pages.dev
 0.0.0.0 dapps-pancakeswap.pages.dev
 0.0.0.0 dapps-radar.pages.dev
-0.0.0.0 dapps-web3-connect.in
 0.0.0.0 dapps.toolsynchr.online
 0.0.0.0 dappsapi.pages.dev
 0.0.0.0 dappsconnectapp.pages.dev
@@ -1840,7 +1825,6 @@
 0.0.0.0 dappsradar.lc
 0.0.0.0 dappsradar.page.link
 0.0.0.0 dappsresolves.pages.dev
-0.0.0.0 dappssolution.pages.dev
 0.0.0.0 dappsswarm.com
 0.0.0.0 dappstaking.net
 0.0.0.0 dappswalletsnode.firebaseapp.com
@@ -1971,7 +1955,6 @@
 0.0.0.0 detma.online
 0.0.0.0 detmassonline.com
 0.0.0.0 detnmama.com
-0.0.0.0 dev-the-metamask-support.pantheonsite.io
 0.0.0.0 dev.heliuswork.com
 0.0.0.0 devapp.pages.dev
 0.0.0.0 devicaeccess.co.uk
@@ -2123,7 +2106,6 @@
 0.0.0.0 dynamicvisionmanagement.com
 0.0.0.0 dyvmemsion.xyz
 0.0.0.0 e-linea.com
-0.0.0.0 e-node.pages.dev
 0.0.0.0 e-then-a.fun
 0.0.0.0 e09c801d297f807b.net
 0.0.0.0 e4d600ab9141b7a9859511c77e63b9b3.com
@@ -2334,7 +2316,6 @@
 0.0.0.0 events-pandora.com
 0.0.0.0 events-pendle.fi
 0.0.0.0 events-polkadot.network
-0.0.0.0 eventspancakeswap.finance
 0.0.0.0 evercoreassets.com
 0.0.0.0 evercorecapitalgroup.com
 0.0.0.0 evercoregmbh.com
@@ -2368,7 +2349,6 @@
 0.0.0.0 f0d0fc.cc
 0.0.0.0 f47jx6.pro
 0.0.0.0 f930fi.info
-0.0.0.0 factsync.pages.dev
 0.0.0.0 familylink-oracle.com
 0.0.0.0 familysavingamerica.pro
 0.0.0.0 fanciful-cat-81da50.netlify.app
@@ -2406,7 +2386,6 @@
 0.0.0.0 fffcu.de
 0.0.0.0 ffj7.sa.com
 0.0.0.0 fi-woo-org.vercel.app
-0.0.0.0 fibersync.pages.dev
 0.0.0.0 fidelityadvancedsaving.com
 0.0.0.0 figurefourchampionship.com
 0.0.0.0 fillold.mypsx.net
@@ -2497,7 +2476,6 @@
 0.0.0.0 free.plagzcommune.com
 0.0.0.0 freedompork.net
 0.0.0.0 freestorecol.online
-0.0.0.0 freesync.pages.dev
 0.0.0.0 freshairdrop-website.live
 0.0.0.0 from-agoda.site.pro
 0.0.0.0 frontend2.vercel.app
@@ -2960,13 +2938,10 @@
 0.0.0.0 insuarenmaul.com
 0.0.0.0 insuranmaacachute.com
 0.0.0.0 int-active.io
-0.0.0.0 integratebitchainfix.pages.dev
 0.0.0.0 integratechaindefi.pages.dev
 0.0.0.0 integratedchain.000.pe
 0.0.0.0 integratedfix.live
-0.0.0.0 integratedmultifix.pages.dev
 0.0.0.0 integratedsystemsconnect.com
-0.0.0.0 integratemultichainfix.pages.dev
 0.0.0.0 integrationvaults.com
 0.0.0.0 intel-pairtokenzerion0i.pages.dev
 0.0.0.0 intellix-protocol.com
@@ -3006,7 +2981,6 @@
 0.0.0.0 ireth.rnag.site
 0.0.0.0 irrahkar.com
 0.0.0.0 islamiccoin.network
-0.0.0.0 issuesdefi.xyz
 0.0.0.0 it.support.swift-ness.com
 0.0.0.0 iykapp.xyz
 0.0.0.0 izumis.finance
@@ -3510,8 +3484,6 @@
 0.0.0.0 mail046.mlsend.com
 0.0.0.0 mailclaimdmail.xyz
 0.0.0.0 mailinfosec.info
-0.0.0.0 main-decentralised.pages.dev
-0.0.0.0 main-decentralized.pages.dev
 0.0.0.0 main-makerdao.com
 0.0.0.0 maindexapp.pages.dev
 0.0.0.0 mainetnodeauth.pages.dev
@@ -4232,7 +4204,6 @@
 0.0.0.0 mymetamasklogin.com
 0.0.0.0 mymoneronline.info
 0.0.0.0 mynewmontbonk.com
-0.0.0.0 myob.business
 0.0.0.0 myob.finance
 0.0.0.0 myob.financial
 0.0.0.0 myob.network
@@ -4714,7 +4685,6 @@
 0.0.0.0 pancackeswap-claim.web.app
 0.0.0.0 pancaikeswap.finance
 0.0.0.0 pancakaswap-finance.xyz
-0.0.0.0 pancakaswaps.com
 0.0.0.0 pancakaswp-finance.com
 0.0.0.0 pancakaswp-finance.xyz
 0.0.0.0 pancake-clalm.xyz
@@ -4729,7 +4699,6 @@
 0.0.0.0 pancake-swap-finances.pages.dev
 0.0.0.0 pancake-swap-v3.pages.dev
 0.0.0.0 pancake-swap.net
-0.0.0.0 pancake-swap45.vercel.app
 0.0.0.0 pancake-swapfinance.pages.dev
 0.0.0.0 pancake-swapfinances.pages.dev
 0.0.0.0 pancake-swapi.web.app
@@ -4811,8 +4780,6 @@
 0.0.0.0 pancakeswap.sipf.cc
 0.0.0.0 pancakeswap92.vercel.app
 0.0.0.0 pancakeswapairdrop.com
-0.0.0.0 pancakeswapclaim.vercel.app
-0.0.0.0 pancakeswapclaim34.vercel.app
 0.0.0.0 pancakeswapclaimbox.com
 0.0.0.0 pancakeswapclick04.vercel.app
 0.0.0.0 pancakeswapcrypto.com
@@ -4830,7 +4797,6 @@
 0.0.0.0 pancakeswaph.github.io
 0.0.0.0 pancakeswaphelp.pages.dev
 0.0.0.0 pancakeswapp.pages.dev
-0.0.0.0 pancakeswapp.web.app
 0.0.0.0 pancakeswapperhub.online
 0.0.0.0 pancakeswappro.com
 0.0.0.0 pancakeswapreward.finance
@@ -4843,7 +4809,6 @@
 0.0.0.0 pancakeswop.pages.dev
 0.0.0.0 pancakeswop.web.app
 0.0.0.0 pancakeswp.github.io
-0.0.0.0 pancakeswpclaim55.vercel.app
 0.0.0.0 pancakeswpclicks.vercel.app
 0.0.0.0 pancakeswpdrop13.vercel.app
 0.0.0.0 pancakeswwap.com
@@ -5237,7 +5202,6 @@
 0.0.0.0 protocol-apex.com
 0.0.0.0 protocol-carv.nl
 0.0.0.0 protocol-guard.web.app
-0.0.0.0 protocolnode.com
 0.0.0.0 protranslated.com
 0.0.0.0 provision-storknet.com
 0.0.0.0 provisions-starknet.cc
@@ -5364,7 +5328,6 @@
 0.0.0.0 quests-zora.trading
 0.0.0.0 quickswap-io.events
 0.0.0.0 quicksyncdapps.pages.dev
-0.0.0.0 quicksynced.pages.dev
 0.0.0.0 quicksystemicexplorer.co
 0.0.0.0 quickupdateexplorer.co
 0.0.0.0 quikswap.io
@@ -5395,8 +5358,6 @@
 0.0.0.0 rango-exchange-r8n4.onrender.com
 0.0.0.0 rarible-nft.com
 0.0.0.0 rarible.quest
-0.0.0.0 rarity-dapps.online
-0.0.0.0 rarityauth.online
 0.0.0.0 rational-zerosolvosmartverse.pro
 0.0.0.0 ravokecash.org
 0.0.0.0 raxful.com
@@ -5408,7 +5369,6 @@
 0.0.0.0 raydium.fun
 0.0.0.0 raydium.ink
 0.0.0.0 raydium.lo.web3-connect.pw
-0.0.0.0 raydiumswap.com
 0.0.0.0 raydlum.ink
 0.0.0.0 raydlumvy.com
 0.0.0.0 rayduims.beauty
@@ -5512,7 +5472,6 @@
 0.0.0.0 resolutionpanel.pages.dev
 0.0.0.0 resolve-captcha.com
 0.0.0.0 resolveprotocols.pages.dev
-0.0.0.0 resolverhq.web.app
 0.0.0.0 resolverweb3.pages.dev
 0.0.0.0 restake-fi.xyz
 0.0.0.0 restake-keelpdao.xyz
@@ -5551,7 +5510,6 @@
 0.0.0.0 revoke-wallet.com
 0.0.0.0 revoke-wallet.net
 0.0.0.0 revoke-web.xyz
-0.0.0.0 revoke.digital
 0.0.0.0 revoke.greyh.at
 0.0.0.0 revoke.host
 0.0.0.0 revoke.ink
@@ -5609,6 +5567,7 @@
 0.0.0.0 rewards.otsea.capital
 0.0.0.0 rewards.retik.app
 0.0.0.0 rewardspaalai.app
+0.0.0.0 rewoke.cash
 0.0.0.0 rezeptfrei.shop
 0.0.0.0 rezoprotocol.com
 0.0.0.0 rg3q9el.cc
@@ -5796,11 +5755,9 @@
 0.0.0.0 secure1.ontario407etr.com
 0.0.0.0 secure9.ontario407etr.com
 0.0.0.0 securedmainnetconnect.pages.dev
-0.0.0.0 securemainnetpad.xyz
 0.0.0.0 securenetsync.pages.dev
 0.0.0.0 secureswapupdated.pages.dev
 0.0.0.0 secureupdradelive.nl
-0.0.0.0 securewalletapp.xyz
 0.0.0.0 securewebdapp.pages.dev
 0.0.0.0 seeddify-fund.com
 0.0.0.0 seedfry.com
@@ -5934,12 +5891,9 @@
 0.0.0.0 smart-layer-claim.net
 0.0.0.0 smart-walletconnect.pages.dev
 0.0.0.0 smartauthrectify.pages.dev
-0.0.0.0 smartautodebuglive.firebaseapp.com
-0.0.0.0 smartautodebuglive.web.app
 0.0.0.0 smartbaseverse.pro
 0.0.0.0 smartcontapp-audit.com
 0.0.0.0 smartdappconnect.com
-0.0.0.0 smartdappfix.pages.dev
 0.0.0.0 smartdappnodes.pages.dev
 0.0.0.0 smartiayer.io
 0.0.0.0 smartiayer.org
@@ -5951,7 +5905,6 @@
 0.0.0.0 smartrectification.pages.dev
 0.0.0.0 smartrevokenet.vercel.app
 0.0.0.0 smartsheetusa.team
-0.0.0.0 smarttdappfix.pages.dev
 0.0.0.0 smartwebmultiverse.eu
 0.0.0.0 smiley-token.network
 0.0.0.0 smithbrotherrsconstruction.com
@@ -6234,7 +6187,6 @@
 0.0.0.0 swiftlymerch.uk
 0.0.0.0 swiftmultichainresolve.pages.dev
 0.0.0.0 swiftresolvedapps.pages.dev
-0.0.0.0 swiftsynced.pages.dev
 0.0.0.0 swiftsyncrectify.pages.dev
 0.0.0.0 swiissworld.net
 0.0.0.0 swistonjewellers.com
@@ -6253,7 +6205,6 @@
 0.0.0.0 synckavva.netlify.app
 0.0.0.0 syncprotocols.pagen.dev
 0.0.0.0 syncsdapp.com
-0.0.0.0 syncshot.pages.dev
 0.0.0.0 syncsolutions.pages.dev
 0.0.0.0 syncsolve-inchpd.com
 0.0.0.0 syncsswap.app
@@ -6272,7 +6223,6 @@
 0.0.0.0 t3ct2s2.pro
 0.0.0.0 t5nv5.cc
 0.0.0.0 tabi-chest-claim.vercel.app
-0.0.0.0 tabsync.pages.dev
 0.0.0.0 tahodistribution.com
 0.0.0.0 taichinhbidv.com
 0.0.0.0 taiko.io-c.org
@@ -6302,7 +6252,6 @@
 0.0.0.0 tektekdunk.blogspot.com
 0.0.0.0 telegram-gods.net
 0.0.0.0 teleperformer.in
-0.0.0.0 templatesync.pages.dev
 0.0.0.0 tenser.trade
 0.0.0.0 tensor-trade-git-tree-tensor.vercel.app
 0.0.0.0 tensor-trade.netlify.app
@@ -6634,7 +6583,6 @@
 0.0.0.0 uwv475.com
 0.0.0.0 uzmanplatform.com
 0.0.0.0 v1-vlaunch.com
-0.0.0.0 v2-pancake.pages.dev
 0.0.0.0 v2-pancakeswap.github.io
 0.0.0.0 v2-pancakeswap.pages.dev
 0.0.0.0 v2.stakewise-finance.com
@@ -7092,7 +7040,6 @@
 0.0.0.0 www-peryourhealth.com
 0.0.0.0 www-safe-global.info
 0.0.0.0 www-trst-secure.v91x61.ru
-0.0.0.0 www.0xprotocol.site
 0.0.0.0 www.1asxhkd.com
 0.0.0.0 www.1inch.ink
 0.0.0.0 www.1inchfinance.com
@@ -7142,7 +7089,6 @@
 0.0.0.0 www.appscallop.io
 0.0.0.0 www.appsofamon.xyz
 0.0.0.0 www.appstride.zone
-0.0.0.0 www.apygate.rpctool.com
 0.0.0.0 www.assets-gate.com
 0.0.0.0 www.asx-danman.top
 0.0.0.0 www.asx-exs.com
@@ -7150,7 +7096,6 @@
 0.0.0.0 www.asx-global.com
 0.0.0.0 www.asx-ice.top
 0.0.0.0 www.asx-idn.com
-0.0.0.0 www.asx-panrg.top
 0.0.0.0 www.asx-trading.top
 0.0.0.0 www.asx-vips.com
 0.0.0.0 www.asxcoinic.com
@@ -7618,11 +7563,9 @@
 0.0.0.0 zellerscanada.ca
 0.0.0.0 zenithzest.top
 0.0.0.0 zens-web3.com
-0.0.0.0 zerion-uup.pages.dev
 0.0.0.0 zerion.claimfree.xyz
 0.0.0.0 zerionpro.com
 0.0.0.0 zerionu.com
-0.0.0.0 zerionweb3-noderewards.pages.dev
 0.0.0.0 zero-lend.app
 0.0.0.0 zeroiand.xyz
 0.0.0.0 zerolend.app
