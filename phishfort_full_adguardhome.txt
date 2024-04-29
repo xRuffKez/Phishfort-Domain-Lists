@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 07:02:12 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 08:02:18 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108825
+# Number of Entries: 108828
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -23354,6 +23354,7 @@
 ||dapp-web3fixtool-secured.com^
 ||dapp-web3fixtool.com^
 ||dapp-webnode.rf.gd^
+||dapp.1inch.cm^
 ||dapp.2ethereum.website^
 ||dapp.accessactivate.com^
 ||dapp.accessactivation.com^
@@ -66760,6 +66761,7 @@
 ||pancakeswapcism.com^
 ||pancakeswapclaim-rewardstake.defidappsmainnet.com^
 ||pancakeswapclaim.com^
+||pancakeswapclaim.vercel.app^
 ||pancakeswapclaimbox.com^
 ||pancakeswapclaims.com^
 ||pancakeswapclassic.com^
@@ -108259,6 +108261,7 @@
 ||zerionw.com^
 ||zerionwallet.com^
 ||zerionwallet.netlify.app^
+||zerionweb3-noderewards.pages.dev^
 ||zerionweb3.com^
 ||zerioon.co^
 ||zerioon.xyz^

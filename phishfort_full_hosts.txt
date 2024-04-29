@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 07:02:12 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 08:02:18 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108825
+# Number of Entries: 108828
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -23354,6 +23354,7 @@
 0.0.0.0 dapp-web3fixtool-secured.com
 0.0.0.0 dapp-web3fixtool.com
 0.0.0.0 dapp-webnode.rf.gd
+0.0.0.0 dapp.1inch.cm
 0.0.0.0 dapp.2ethereum.website
 0.0.0.0 dapp.accessactivate.com
 0.0.0.0 dapp.accessactivation.com
@@ -66760,6 +66761,7 @@
 0.0.0.0 pancakeswapcism.com
 0.0.0.0 pancakeswapclaim-rewardstake.defidappsmainnet.com
 0.0.0.0 pancakeswapclaim.com
+0.0.0.0 pancakeswapclaim.vercel.app
 0.0.0.0 pancakeswapclaimbox.com
 0.0.0.0 pancakeswapclaims.com
 0.0.0.0 pancakeswapclassic.com
@@ -108259,6 +108261,7 @@
 0.0.0.0 zerionw.com
 0.0.0.0 zerionwallet.com
 0.0.0.0 zerionwallet.netlify.app
+0.0.0.0 zerionweb3-noderewards.pages.dev
 0.0.0.0 zerionweb3.com
 0.0.0.0 zerioon.co
 0.0.0.0 zerioon.xyz
