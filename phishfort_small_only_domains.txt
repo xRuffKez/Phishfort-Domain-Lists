@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Mon Apr 29 21:04:48 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 22:04:50 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7639
+# Number of Entries: 7647
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2629,8 +2629,6 @@ globalpaymentsvtw.com
 globalpaymentsytww.com
 globalshoptiktok.co
 gmesolana.com
-gmfinancialcareers.com
-gmfinancialjobs.com
 gmn.dvrcam.info
 gmnt.org
 gmvendorbillinginterest.com
@@ -2945,6 +2943,7 @@ inter-chains-bridge.com
 interac-ca.8mslg76dl.life
 interacsecurepayments.com
 interactive-brokers.group
+interactive-brokers.pro
 interactive-brokers.top
 interactivebroker.org
 interactivebrokers.backqxghjpro.com
@@ -6364,6 +6363,7 @@ tmedicalpr.lol
 tmtmoneyback.pages.dev
 tmwr.pro
 to.dataui.online
+tokeeper.com
 token-altsignal.web.app
 token-berachain.com
 token-blast.com
@@ -6390,6 +6390,12 @@ ton.org-community.info
 ton.x-wallet.top
 tonclaim.online
 tonevecher.com
+tonjeeper.com
+tonkeepet.com
+tonkeeprr.com
+tonkeepwr.com
+tonkewper.com
+tonleeper.com
 tool-orb.web.app
 top-payrollservices.com
 top-satoshivm.io
@@ -6403,6 +6409,7 @@ tornova.cash
 toshiithecats.app
 totalwine-sale.shop
 touzhai.cn
+tpnkeeper.com
 track-web3.online
 tracomservices.com
 tradedao-mig.click
@@ -6761,6 +6768,7 @@ wallet.ethenafi.cloud
 wallet.launchpadxy.xyz
 wallet.mulltiversx.com
 wallet.orb-crypto.com
+wallet.zerion-eth.top
 wallet.zkflre.io
 wallet7.vercel.app
 walletconnect-com.vercel.app

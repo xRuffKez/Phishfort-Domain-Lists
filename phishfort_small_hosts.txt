@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon Apr 29 21:04:48 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 22:04:50 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7639
+# Number of Entries: 7647
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2630,8 +2630,6 @@
 0.0.0.0 globalpaymentsytww.com
 0.0.0.0 globalshoptiktok.co
 0.0.0.0 gmesolana.com
-0.0.0.0 gmfinancialcareers.com
-0.0.0.0 gmfinancialjobs.com
 0.0.0.0 gmn.dvrcam.info
 0.0.0.0 gmnt.org
 0.0.0.0 gmvendorbillinginterest.com
@@ -2946,6 +2944,7 @@
 0.0.0.0 interac-ca.8mslg76dl.life
 0.0.0.0 interacsecurepayments.com
 0.0.0.0 interactive-brokers.group
+0.0.0.0 interactive-brokers.pro
 0.0.0.0 interactive-brokers.top
 0.0.0.0 interactivebroker.org
 0.0.0.0 interactivebrokers.backqxghjpro.com
@@ -6365,6 +6364,7 @@
 0.0.0.0 tmtmoneyback.pages.dev
 0.0.0.0 tmwr.pro
 0.0.0.0 to.dataui.online
+0.0.0.0 tokeeper.com
 0.0.0.0 token-altsignal.web.app
 0.0.0.0 token-berachain.com
 0.0.0.0 token-blast.com
@@ -6391,6 +6391,12 @@
 0.0.0.0 ton.x-wallet.top
 0.0.0.0 tonclaim.online
 0.0.0.0 tonevecher.com
+0.0.0.0 tonjeeper.com
+0.0.0.0 tonkeepet.com
+0.0.0.0 tonkeeprr.com
+0.0.0.0 tonkeepwr.com
+0.0.0.0 tonkewper.com
+0.0.0.0 tonleeper.com
 0.0.0.0 tool-orb.web.app
 0.0.0.0 top-payrollservices.com
 0.0.0.0 top-satoshivm.io
@@ -6404,6 +6410,7 @@
 0.0.0.0 toshiithecats.app
 0.0.0.0 totalwine-sale.shop
 0.0.0.0 touzhai.cn
+0.0.0.0 tpnkeeper.com
 0.0.0.0 track-web3.online
 0.0.0.0 tracomservices.com
 0.0.0.0 tradedao-mig.click
@@ -6762,6 +6769,7 @@
 0.0.0.0 wallet.launchpadxy.xyz
 0.0.0.0 wallet.mulltiversx.com
 0.0.0.0 wallet.orb-crypto.com
+0.0.0.0 wallet.zerion-eth.top
 0.0.0.0 wallet.zkflre.io
 0.0.0.0 wallet7.vercel.app
 0.0.0.0 walletconnect-com.vercel.app
