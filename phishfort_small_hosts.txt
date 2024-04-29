@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon Apr 29 10:05:16 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 11:05:14 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7636
+# Number of Entries: 7642
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -633,6 +633,7 @@
 0.0.0.0 appfix.netlify.app
 0.0.0.0 appfrax.finance
 0.0.0.0 apphera.click
+0.0.0.0 appi-zkasino.live
 0.0.0.0 appkiloex.io
 0.0.0.0 applecoin.one
 0.0.0.0 applefi.pro
@@ -770,6 +771,7 @@
 0.0.0.0 auth-gala.games
 0.0.0.0 auth-galagames-io.com
 0.0.0.0 auth-games-galas.online
+0.0.0.0 auth-land.com
 0.0.0.0 auth-metimask.github.io
 0.0.0.0 auth.meta-syncs.com
 0.0.0.0 auth.redapps.icu
@@ -1569,6 +1571,7 @@
 0.0.0.0 coinchanger.live
 0.0.0.0 coindappfixes.pages.dev
 0.0.0.0 coindas.top
+0.0.0.0 coingecko.kycregulatory.com
 0.0.0.0 coingeckokyc.kycregulatory.com
 0.0.0.0 coinlaunchpad.netlify.app
 0.0.0.0 coinmainnets.com
@@ -1748,6 +1751,7 @@
 0.0.0.0 cyberlama.app
 0.0.0.0 cyberx-staging.vercel.app
 0.0.0.0 d.appmooduyh.top
+0.0.0.0 d.moodyimkq.top
 0.0.0.0 d.moodyseokd.top
 0.0.0.0 d.moodysmfof.top
 0.0.0.0 d0cusiqn.hottern.click
@@ -2342,6 +2346,7 @@
 0.0.0.0 exploremanta.pages.dev
 0.0.0.0 express-toll-route407.com
 0.0.0.0 express-tollroute407.com
+0.0.0.0 extensiondapp.pages.dev
 0.0.0.0 externaldapp.com
 0.0.0.0 extranet.agoda-285437.com
 0.0.0.0 exxon-limited.lol
@@ -4585,6 +4590,7 @@
 0.0.0.0 opensenft.vercel.app
 0.0.0.0 openseraffle.com
 0.0.0.0 opensesa.io
+0.0.0.0 opensource-gummysol.live
 0.0.0.0 opensrea.io
 0.0.0.0 operenbox-javis-nyugens-projects.vercel.app
 0.0.0.0 opernsea.io
@@ -6807,7 +6813,6 @@
 0.0.0.0 web-airtm.com
 0.0.0.0 web-connectka.tk
 0.0.0.0 web-defillama.com
-0.0.0.0 web-dextools.com.syncstatics.com
 0.0.0.0 web-kavaa.netlify.app
 0.0.0.0 web-metamesklogin.uteach.io
 0.0.0.0 web.fixsolution.io
@@ -7601,6 +7606,7 @@
 0.0.0.0 zkiink.io
 0.0.0.0 zklink.in
 0.0.0.0 zkmindversatile.pages.dev
+0.0.0.0 zknewdcs.pages.dev
 0.0.0.0 zkpolyhedra.net
 0.0.0.0 zks-labsfoundation.com
 0.0.0.0 zks-labsfoundation.net

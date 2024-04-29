@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon Apr 29 10:05:16 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 11:05:14 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7636
+# Number of Entries: 7642
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -633,6 +633,7 @@
 ||appfix.netlify.app^
 ||appfrax.finance^
 ||apphera.click^
+||appi-zkasino.live^
 ||appkiloex.io^
 ||applecoin.one^
 ||applefi.pro^
@@ -770,6 +771,7 @@
 ||auth-gala.games^
 ||auth-galagames-io.com^
 ||auth-games-galas.online^
+||auth-land.com^
 ||auth-metimask.github.io^
 ||auth.meta-syncs.com^
 ||auth.redapps.icu^
@@ -1569,6 +1571,7 @@
 ||coinchanger.live^
 ||coindappfixes.pages.dev^
 ||coindas.top^
+||coingecko.kycregulatory.com^
 ||coingeckokyc.kycregulatory.com^
 ||coinlaunchpad.netlify.app^
 ||coinmainnets.com^
@@ -1748,6 +1751,7 @@
 ||cyberlama.app^
 ||cyberx-staging.vercel.app^
 ||d.appmooduyh.top^
+||d.moodyimkq.top^
 ||d.moodyseokd.top^
 ||d.moodysmfof.top^
 ||d0cusiqn.hottern.click^
@@ -2342,6 +2346,7 @@
 ||exploremanta.pages.dev^
 ||express-toll-route407.com^
 ||express-tollroute407.com^
+||extensiondapp.pages.dev^
 ||externaldapp.com^
 ||extranet.agoda-285437.com^
 ||exxon-limited.lol^
@@ -4585,6 +4590,7 @@
 ||opensenft.vercel.app^
 ||openseraffle.com^
 ||opensesa.io^
+||opensource-gummysol.live^
 ||opensrea.io^
 ||operenbox-javis-nyugens-projects.vercel.app^
 ||opernsea.io^
@@ -6807,7 +6813,6 @@
 ||web-airtm.com^
 ||web-connectka.tk^
 ||web-defillama.com^
-||web-dextools.com.syncstatics.com^
 ||web-kavaa.netlify.app^
 ||web-metamesklogin.uteach.io^
 ||web.fixsolution.io^
@@ -7601,6 +7606,7 @@
 ||zkiink.io^
 ||zklink.in^
 ||zkmindversatile.pages.dev^
+||zknewdcs.pages.dev^
 ||zkpolyhedra.net^
 ||zks-labsfoundation.com^
 ||zks-labsfoundation.net^
