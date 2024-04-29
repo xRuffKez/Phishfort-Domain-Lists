@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon Apr 29 22:04:50 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 23:05:20 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7647
+# Number of Entries: 7649
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -6392,6 +6392,7 @@
 0.0.0.0 tonclaim.online
 0.0.0.0 tonevecher.com
 0.0.0.0 tonjeeper.com
+0.0.0.0 tonkeeer.com
 0.0.0.0 tonkeepet.com
 0.0.0.0 tonkeeprr.com
 0.0.0.0 tonkeepwr.com
@@ -6471,6 +6472,7 @@
 0.0.0.0 ttec-corp.com
 0.0.0.0 ttec.com.ph
 0.0.0.0 ttkkoopp888.com
+0.0.0.0 ttonkeeper.com
 0.0.0.0 tu3.us
 0.0.0.0 tulip-app.one
 0.0.0.0 tvl-chain.link

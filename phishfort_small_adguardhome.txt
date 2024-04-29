@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon Apr 29 22:04:50 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 23:05:20 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7647
+# Number of Entries: 7649
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -6392,6 +6392,7 @@
 ||tonclaim.online^
 ||tonevecher.com^
 ||tonjeeper.com^
+||tonkeeer.com^
 ||tonkeepet.com^
 ||tonkeeprr.com^
 ||tonkeepwr.com^
@@ -6471,6 +6472,7 @@
 ||ttec-corp.com^
 ||ttec.com.ph^
 ||ttkkoopp888.com^
+||ttonkeeper.com^
 ||tu3.us^
 ||tulip-app.one^
 ||tvl-chain.link^
