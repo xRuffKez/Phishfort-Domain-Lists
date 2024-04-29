@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 05:01:55 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 06:02:17 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108834
+# Number of Entries: 108825
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -9274,7 +9274,6 @@
 ||axieinfinitty.com^
 ||axieinfinitty.website^
 ||axieinfinitu.com^
-||axieinfinity-9ao.pages.dev^
 ||axieinfinity-accountsupdate.com^
 ||axieinfinity-ad.com^
 ||axieinfinity-air.com^
@@ -19160,7 +19159,6 @@
 ||coingecko.work^
 ||coingecko.xenapponazure.com^
 ||coingeckoevent.com^
-||coingeckokyc.kycregulatory.com^
 ||coingeckokyc.kycsregulatory.com^
 ||coingeckoreward.fun^
 ||coingeckoreward.life^
@@ -64455,7 +64453,6 @@
 ||pancake-swap.store^
 ||pancake-swap.tech^
 ||pancake-swap.trade^
-||pancake-swap45.vercel.app^
 ||pancake-swape.com^
 ||pancake-swapfinance.pages.dev^
 ||pancake-swapfinances.pages.dev^
@@ -66763,8 +66760,6 @@
 ||pancakeswapcism.com^
 ||pancakeswapclaim-rewardstake.defidappsmainnet.com^
 ||pancakeswapclaim.com^
-||pancakeswapclaim.vercel.app^
-||pancakeswapclaim34.vercel.app^
 ||pancakeswapclaimbox.com^
 ||pancakeswapclaims.com^
 ||pancakeswapclassic.com^
@@ -67100,7 +67095,6 @@
 ||pancakeswapp.site^
 ||pancakeswapp.su^
 ||pancakeswapp.top^
-||pancakeswapp.web.app^
 ||pancakeswappa.com^
 ||pancakeswappanch.com^
 ||pancakeswappartners.top^
@@ -67497,7 +67491,6 @@
 ||pancakeswpa-financies.uk^
 ||pancakeswpa.com^
 ||pancakeswpa.info^
-||pancakeswpclaim55.vercel.app^
 ||pancakeswpclicks.vercel.app^
 ||pancakeswpdrop13.vercel.app^
 ||pancakeswpg.digital^
@@ -76359,6 +76352,7 @@
 ||rewarduniswap.org^
 ||rewardz.top^
 ||rewebsyn.org^
+||rewoke.cash^
 ||rewvoke.cash^
 ||rexwaletconnect.com^
 ||reydium.net^
@@ -90833,7 +90827,6 @@
 ||v2-lidofi.com^
 ||v2-multibridge.net^
 ||v2-pancake.com^
-||v2-pancake.pages.dev^
 ||v2-pancakefinance.live^
 ||v2-pancakeswap.finance^
 ||v2-pancakeswap.github.io^
@@ -108186,7 +108179,6 @@
 ||zerion-io.events^
 ||zerion-me.com^
 ||zerion-smart.com^
-||zerion-uup.pages.dev^
 ||zerion-wallet.netlify.app^
 ||zerion-web3.pw^
 ||zerion.app^
@@ -108267,7 +108259,6 @@
 ||zerionw.com^
 ||zerionwallet.com^
 ||zerionwallet.netlify.app^
-||zerionweb3-noderewards.pages.dev^
 ||zerionweb3.com^
 ||zerioon.co^
 ||zerioon.xyz^

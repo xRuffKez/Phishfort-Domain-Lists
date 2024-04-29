@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 05:01:55 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 06:02:17 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108834
+# Number of Entries: 108825
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -9274,7 +9274,6 @@
 0.0.0.0 axieinfinitty.com
 0.0.0.0 axieinfinitty.website
 0.0.0.0 axieinfinitu.com
-0.0.0.0 axieinfinity-9ao.pages.dev
 0.0.0.0 axieinfinity-accountsupdate.com
 0.0.0.0 axieinfinity-ad.com
 0.0.0.0 axieinfinity-air.com
@@ -19160,7 +19159,6 @@
 0.0.0.0 coingecko.work
 0.0.0.0 coingecko.xenapponazure.com
 0.0.0.0 coingeckoevent.com
-0.0.0.0 coingeckokyc.kycregulatory.com
 0.0.0.0 coingeckokyc.kycsregulatory.com
 0.0.0.0 coingeckoreward.fun
 0.0.0.0 coingeckoreward.life
@@ -64455,7 +64453,6 @@
 0.0.0.0 pancake-swap.store
 0.0.0.0 pancake-swap.tech
 0.0.0.0 pancake-swap.trade
-0.0.0.0 pancake-swap45.vercel.app
 0.0.0.0 pancake-swape.com
 0.0.0.0 pancake-swapfinance.pages.dev
 0.0.0.0 pancake-swapfinances.pages.dev
@@ -66763,8 +66760,6 @@
 0.0.0.0 pancakeswapcism.com
 0.0.0.0 pancakeswapclaim-rewardstake.defidappsmainnet.com
 0.0.0.0 pancakeswapclaim.com
-0.0.0.0 pancakeswapclaim.vercel.app
-0.0.0.0 pancakeswapclaim34.vercel.app
 0.0.0.0 pancakeswapclaimbox.com
 0.0.0.0 pancakeswapclaims.com
 0.0.0.0 pancakeswapclassic.com
@@ -67100,7 +67095,6 @@
 0.0.0.0 pancakeswapp.site
 0.0.0.0 pancakeswapp.su
 0.0.0.0 pancakeswapp.top
-0.0.0.0 pancakeswapp.web.app
 0.0.0.0 pancakeswappa.com
 0.0.0.0 pancakeswappanch.com
 0.0.0.0 pancakeswappartners.top
@@ -67497,7 +67491,6 @@
 0.0.0.0 pancakeswpa-financies.uk
 0.0.0.0 pancakeswpa.com
 0.0.0.0 pancakeswpa.info
-0.0.0.0 pancakeswpclaim55.vercel.app
 0.0.0.0 pancakeswpclicks.vercel.app
 0.0.0.0 pancakeswpdrop13.vercel.app
 0.0.0.0 pancakeswpg.digital
@@ -76359,6 +76352,7 @@
 0.0.0.0 rewarduniswap.org
 0.0.0.0 rewardz.top
 0.0.0.0 rewebsyn.org
+0.0.0.0 rewoke.cash
 0.0.0.0 rewvoke.cash
 0.0.0.0 rexwaletconnect.com
 0.0.0.0 reydium.net
@@ -90833,7 +90827,6 @@
 0.0.0.0 v2-lidofi.com
 0.0.0.0 v2-multibridge.net
 0.0.0.0 v2-pancake.com
-0.0.0.0 v2-pancake.pages.dev
 0.0.0.0 v2-pancakefinance.live
 0.0.0.0 v2-pancakeswap.finance
 0.0.0.0 v2-pancakeswap.github.io
@@ -108186,7 +108179,6 @@
 0.0.0.0 zerion-io.events
 0.0.0.0 zerion-me.com
 0.0.0.0 zerion-smart.com
-0.0.0.0 zerion-uup.pages.dev
 0.0.0.0 zerion-wallet.netlify.app
 0.0.0.0 zerion-web3.pw
 0.0.0.0 zerion.app
@@ -108267,7 +108259,6 @@
 0.0.0.0 zerionw.com
 0.0.0.0 zerionwallet.com
 0.0.0.0 zerionwallet.netlify.app
-0.0.0.0 zerionweb3-noderewards.pages.dev
 0.0.0.0 zerionweb3.com
 0.0.0.0 zerioon.co
 0.0.0.0 zerioon.xyz
