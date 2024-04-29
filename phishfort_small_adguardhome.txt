@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon Apr 29 18:05:26 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 19:04:38 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7654
+# Number of Entries: 7648
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -178,7 +178,6 @@
 ||aevoxyz.live^
 ||aflac-hr.com^
 ||aflac.socialports.com^
-||aflacglobal.com^
 ||agent-nulik.org^
 ||ageofgods.eu^
 ||agixreward.xyz^
@@ -611,7 +610,6 @@
 ||app.solvsprotocol.com^
 ||app.spy-token.io^
 ||app.stonexvip.top^
-||app.stringwebtools.com^
 ||app.swellnetwork.fi^
 ||app.syncus.mx^
 ||app.trezoriosstart.com^
@@ -1140,7 +1138,6 @@
 ||brave-blog.mylviajes.com.ve^
 ||bravebrowserdl.online^
 ||brc20.su^
-||bridgarbltrum.com^
 ||bridge-a3vigrfjd-pancakeswap.vercel.app^
 ||bridge-modenet.work^
 ||bridge.blockscape.ink^
@@ -1695,7 +1692,6 @@
 ||cow-swap.org^
 ||cow.trading^
 ||cowchange.com^
-||cowitechnical.com^
 ||cowswap.app^
 ||cozartweb.com^
 ||cozymeta.com^
@@ -3257,7 +3253,6 @@
 ||layerzero-superverse.com^
 ||layerzeroclaims.xyz^
 ||layerzeronetwork.io^
-||layerzeroscan.vercel.app^
 ||layerzzero.pics^
 ||layerzzero.shop^
 ||layler3.xyz^
@@ -3731,7 +3726,6 @@
 ||mee6appeals.xyz^
 ||meetamaskev.azurewebsites.net^
 ||mefamask.com^
-||megaapps.pages.dev^
 ||meiimask-log-iignin.godaddysites.com^
 ||meleadapp.com^
 ||mell-coin.web.app^
@@ -5212,7 +5206,6 @@
 ||promochevro.com^
 ||promoochevro.com^
 ||promotg.fun^
-||prompt-0x216.xyz^
 ||promt-088x2.com^
 ||pronkhub.ru^
 ||prophetsbot.app^
@@ -7448,6 +7441,7 @@
 ||www.web3.usertroubleshootdashboard.com^
 ||www.web3mwe.com^
 ||www.webcamrecordings.com^
+||www.werejazzedyourehere.org^
 ||www.wikser.com^
 ||www.windy.network^
 ||www.wregul.com^

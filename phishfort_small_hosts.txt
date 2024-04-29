@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon Apr 29 18:05:26 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 19:04:38 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7654
+# Number of Entries: 7648
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -178,7 +178,6 @@
 0.0.0.0 aevoxyz.live
 0.0.0.0 aflac-hr.com
 0.0.0.0 aflac.socialports.com
-0.0.0.0 aflacglobal.com
 0.0.0.0 agent-nulik.org
 0.0.0.0 ageofgods.eu
 0.0.0.0 agixreward.xyz
@@ -611,7 +610,6 @@
 0.0.0.0 app.solvsprotocol.com
 0.0.0.0 app.spy-token.io
 0.0.0.0 app.stonexvip.top
-0.0.0.0 app.stringwebtools.com
 0.0.0.0 app.swellnetwork.fi
 0.0.0.0 app.syncus.mx
 0.0.0.0 app.trezoriosstart.com
@@ -1140,7 +1138,6 @@
 0.0.0.0 brave-blog.mylviajes.com.ve
 0.0.0.0 bravebrowserdl.online
 0.0.0.0 brc20.su
-0.0.0.0 bridgarbltrum.com
 0.0.0.0 bridge-a3vigrfjd-pancakeswap.vercel.app
 0.0.0.0 bridge-modenet.work
 0.0.0.0 bridge.blockscape.ink
@@ -1695,7 +1692,6 @@
 0.0.0.0 cow-swap.org
 0.0.0.0 cow.trading
 0.0.0.0 cowchange.com
-0.0.0.0 cowitechnical.com
 0.0.0.0 cowswap.app
 0.0.0.0 cozartweb.com
 0.0.0.0 cozymeta.com
@@ -3257,7 +3253,6 @@
 0.0.0.0 layerzero-superverse.com
 0.0.0.0 layerzeroclaims.xyz
 0.0.0.0 layerzeronetwork.io
-0.0.0.0 layerzeroscan.vercel.app
 0.0.0.0 layerzzero.pics
 0.0.0.0 layerzzero.shop
 0.0.0.0 layler3.xyz
@@ -3731,7 +3726,6 @@
 0.0.0.0 mee6appeals.xyz
 0.0.0.0 meetamaskev.azurewebsites.net
 0.0.0.0 mefamask.com
-0.0.0.0 megaapps.pages.dev
 0.0.0.0 meiimask-log-iignin.godaddysites.com
 0.0.0.0 meleadapp.com
 0.0.0.0 mell-coin.web.app
@@ -5212,7 +5206,6 @@
 0.0.0.0 promochevro.com
 0.0.0.0 promoochevro.com
 0.0.0.0 promotg.fun
-0.0.0.0 prompt-0x216.xyz
 0.0.0.0 promt-088x2.com
 0.0.0.0 pronkhub.ru
 0.0.0.0 prophetsbot.app
@@ -7448,6 +7441,7 @@
 0.0.0.0 www.web3.usertroubleshootdashboard.com
 0.0.0.0 www.web3mwe.com
 0.0.0.0 www.webcamrecordings.com
+0.0.0.0 www.werejazzedyourehere.org
 0.0.0.0 www.wikser.com
 0.0.0.0 www.windy.network
 0.0.0.0 www.wregul.com
