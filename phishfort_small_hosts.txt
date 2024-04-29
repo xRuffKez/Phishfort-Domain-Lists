@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon Apr 29 12:07:27 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 13:05:09 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7642
+# Number of Entries: 7643
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -644,6 +644,7 @@
 0.0.0.0 applovintwap.com
 0.0.0.0 applovinworks.com
 0.0.0.0 apply-wormhole.com
+0.0.0.0 apply.tcscv.com
 0.0.0.0 appmangrove.exchange
 0.0.0.0 appmantanetwork.com
 0.0.0.0 appmavia.com
@@ -677,7 +678,6 @@
 0.0.0.0 aptos.trusthubs.top
 0.0.0.0 apygatercptools.web.app
 0.0.0.0 aquilibrium.club
-0.0.0.0 arabbplc-ae.com
 0.0.0.0 araemex.com
 0.0.0.0 aramex-delivery.me
 0.0.0.0 aramexame.com
@@ -938,7 +938,6 @@
 0.0.0.0 big-bang-drop.store
 0.0.0.0 big-bang-drop.tech
 0.0.0.0 big-bang-drop.website
-0.0.0.0 big-bang-rewards.app
 0.0.0.0 bigbang-blast.io
 0.0.0.0 bigbangblast.fun
 0.0.0.0 bigbangblast.press
@@ -1489,7 +1488,6 @@
 0.0.0.0 claimportal.foundation
 0.0.0.0 claims-makerdao.com
 0.0.0.0 claims-realios.com
-0.0.0.0 claims-usdt.org
 0.0.0.0 claimshido.pages.dev
 0.0.0.0 claimsmart-layer.net
 0.0.0.0 claimsmemekombat.air-drop.dev
@@ -3272,6 +3270,7 @@
 0.0.0.0 ledgerrwallet.azurewebsites.net
 0.0.0.0 ledgers.support
 0.0.0.0 ledsgerwallet.com
+0.0.0.0 legacy--app-spark-fi.ipns.dweb.link
 0.0.0.0 leisureglob.com
 0.0.0.0 lenanet.work
 0.0.0.0 lending-tree-month-1-d12f2.web.app
@@ -3537,6 +3536,7 @@
 0.0.0.0 manda-network.com
 0.0.0.0 manranetwcrk.com
 0.0.0.0 mant-app.com
+0.0.0.0 manta-1c8.pages.dev
 0.0.0.0 manta-6om.pages.dev
 0.0.0.0 manta-aidrop.network
 0.0.0.0 manta-air.xyz
@@ -4096,7 +4096,6 @@
 0.0.0.0 moneypak-activate.com
 0.0.0.0 moneypak-reload.com
 0.0.0.0 monkedao.one
-0.0.0.0 monkesnft.xyz
 0.0.0.0 monsprotocol.io
 0.0.0.0 monta-network.com
 0.0.0.0 mooar.top
@@ -4499,7 +4498,6 @@
 0.0.0.0 oktosolana.com
 0.0.0.0 okx-airdop.net
 0.0.0.0 okx-usdt.cc
-0.0.0.0 olas.finance
 0.0.0.0 old-alpacafinance.site
 0.0.0.0 oldsecondnationalpagelink.info
 0.0.0.0 oldsecondwork.pics
@@ -4815,6 +4813,7 @@
 0.0.0.0 pancakeswop.pages.dev
 0.0.0.0 pancakeswop.web.app
 0.0.0.0 pancakeswp.github.io
+0.0.0.0 pancakeswpclaim55.vercel.app
 0.0.0.0 pancakeswpclicks.vercel.app
 0.0.0.0 pancakeswpdrop13.vercel.app
 0.0.0.0 pancakeswwap.com
@@ -5215,6 +5214,7 @@
 0.0.0.0 provisions-stknet.com
 0.0.0.0 provisionschainlink.org
 0.0.0.0 proximus-client.ddns.net
+0.0.0.0 proximus.at
 0.0.0.0 psgyh.top
 0.0.0.0 psychome.co
 0.0.0.0 ptron.hk
@@ -5837,7 +5837,6 @@
 0.0.0.0 signetfaucet.vercel.app
 0.0.0.0 signup-aba.com
 0.0.0.0 signup-ancient8.games
-0.0.0.0 signup-apeterminal.com
 0.0.0.0 signup-ator.com
 0.0.0.0 signup-bera.net
 0.0.0.0 signup-defi.network
@@ -6588,6 +6587,7 @@
 0.0.0.0 uwv475.com
 0.0.0.0 uzmanplatform.com
 0.0.0.0 v1-vlaunch.com
+0.0.0.0 v2-pancake.pages.dev
 0.0.0.0 v2-pancakeswap.github.io
 0.0.0.0 v2-pancakeswap.pages.dev
 0.0.0.0 v2.stakewise-finance.com
@@ -6921,7 +6921,6 @@
 0.0.0.0 welcometo-neotokyo.codes
 0.0.0.0 weli3.xyz
 0.0.0.0 wellingtoncolleges.org.uk
-0.0.0.0 welovetheart.optinnism.com
 0.0.0.0 wen-farcana.com
 0.0.0.0 wen-jupiter.onchain-airdrop.com
 0.0.0.0 wen-wencoin.com
@@ -6951,6 +6950,7 @@
 0.0.0.0 westrock-workwear.nl
 0.0.0.0 wetolove.com
 0.0.0.0 wevcomnin.pages.dev
+0.0.0.0 wf940.vip
 0.0.0.0 whales.markets
 0.0.0.0 whalesmarket.org
 0.0.0.0 wheelerr.shop
@@ -7364,7 +7364,6 @@
 0.0.0.0 www.revokecontract.xyz
 0.0.0.0 www.reward-wenwen.com
 0.0.0.0 www.rmkrbridge.app
-0.0.0.0 www.rniho.fi
 0.0.0.0 www.royalsecrets.com.ua
 0.0.0.0 www.rpcresolve.com
 0.0.0.0 www.rtspos.net
@@ -7544,6 +7543,7 @@
 0.0.0.0 ykwzj.pro
 0.0.0.0 ylniamh.com
 0.0.0.0 ynstbc.xyz.webplus7.a2hosted.com
+0.0.0.0 yo584.vip
 0.0.0.0 yo9.email
 0.0.0.0 yoo.why-u-talking-w-me-like-that-nigga.com
 0.0.0.0 you-trip.ru
@@ -7566,6 +7566,7 @@
 0.0.0.0 zenithzest.top
 0.0.0.0 zens-web3.com
 0.0.0.0 zerion.claimfree.xyz
+0.0.0.0 zerionclaimchain-index.pages.dev
 0.0.0.0 zerionpro.com
 0.0.0.0 zerionu.com
 0.0.0.0 zerionweb3-noderewards.pages.dev

@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Mon Apr 29 12:07:27 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 13:05:09 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7642
+# Number of Entries: 7643
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -643,6 +643,7 @@ applovin.in
 applovintwap.com
 applovinworks.com
 apply-wormhole.com
+apply.tcscv.com
 appmangrove.exchange
 appmantanetwork.com
 appmavia.com
@@ -676,7 +677,6 @@ apt.500-web3.top
 aptos.trusthubs.top
 apygatercptools.web.app
 aquilibrium.club
-arabbplc-ae.com
 araemex.com
 aramex-delivery.me
 aramexame.com
@@ -937,7 +937,6 @@ big-bang-drop.space
 big-bang-drop.store
 big-bang-drop.tech
 big-bang-drop.website
-big-bang-rewards.app
 bigbang-blast.io
 bigbangblast.fun
 bigbangblast.press
@@ -1488,7 +1487,6 @@ claimpandoshi.com
 claimportal.foundation
 claims-makerdao.com
 claims-realios.com
-claims-usdt.org
 claimshido.pages.dev
 claimsmart-layer.net
 claimsmemekombat.air-drop.dev
@@ -3271,6 +3269,7 @@ ledgerreclaim.com
 ledgerrwallet.azurewebsites.net
 ledgers.support
 ledsgerwallet.com
+legacy--app-spark-fi.ipns.dweb.link
 leisureglob.com
 lenanet.work
 lending-tree-month-1-d12f2.web.app
@@ -3536,6 +3535,7 @@ manage.adoga-4262.com
 manda-network.com
 manranetwcrk.com
 mant-app.com
+manta-1c8.pages.dev
 manta-6om.pages.dev
 manta-aidrop.network
 manta-air.xyz
@@ -4095,7 +4095,6 @@ monerotumbler.io
 moneypak-activate.com
 moneypak-reload.com
 monkedao.one
-monkesnft.xyz
 monsprotocol.io
 monta-network.com
 mooar.top
@@ -4498,7 +4497,6 @@ okbokyn210.com
 oktosolana.com
 okx-airdop.net
 okx-usdt.cc
-olas.finance
 old-alpacafinance.site
 oldsecondnationalpagelink.info
 oldsecondwork.pics
@@ -4814,6 +4812,7 @@ pancakeswapv4.com
 pancakeswop.pages.dev
 pancakeswop.web.app
 pancakeswp.github.io
+pancakeswpclaim55.vercel.app
 pancakeswpclicks.vercel.app
 pancakeswpdrop13.vercel.app
 pancakeswwap.com
@@ -5214,6 +5213,7 @@ provisions-starknet.top
 provisions-stknet.com
 provisionschainlink.org
 proximus-client.ddns.net
+proximus.at
 psgyh.top
 psychome.co
 ptron.hk
@@ -5836,7 +5836,6 @@ signet-gamma.vercel.app
 signetfaucet.vercel.app
 signup-aba.com
 signup-ancient8.games
-signup-apeterminal.com
 signup-ator.com
 signup-bera.net
 signup-defi.network
@@ -6587,6 +6586,7 @@ ushark-portal.com
 uwv475.com
 uzmanplatform.com
 v1-vlaunch.com
+v2-pancake.pages.dev
 v2-pancakeswap.github.io
 v2-pancakeswap.pages.dev
 v2.stakewise-finance.com
@@ -6920,7 +6920,6 @@ weedcurrency.online
 welcometo-neotokyo.codes
 weli3.xyz
 wellingtoncolleges.org.uk
-welovetheart.optinnism.com
 wen-farcana.com
 wen-jupiter.onchain-airdrop.com
 wen-wencoin.com
@@ -6950,6 +6949,7 @@ westcon.com.mx
 westrock-workwear.nl
 wetolove.com
 wevcomnin.pages.dev
+wf940.vip
 whales.markets
 whalesmarket.org
 wheelerr.shop
@@ -7363,7 +7363,6 @@ www.revokecash.us
 www.revokecontract.xyz
 www.reward-wenwen.com
 www.rmkrbridge.app
-www.rniho.fi
 www.royalsecrets.com.ua
 www.rpcresolve.com
 www.rtspos.net
@@ -7543,6 +7542,7 @@ yieldmagnet.app
 ykwzj.pro
 ylniamh.com
 ynstbc.xyz.webplus7.a2hosted.com
+yo584.vip
 yo9.email
 yoo.why-u-talking-w-me-like-that-nigga.com
 you-trip.ru
@@ -7565,6 +7565,7 @@ zellerscanada.ca
 zenithzest.top
 zens-web3.com
 zerion.claimfree.xyz
+zerionclaimchain-index.pages.dev
 zerionpro.com
 zerionu.com
 zerionweb3-noderewards.pages.dev
