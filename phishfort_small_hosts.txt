@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon Apr 29 07:04:57 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 08:06:59 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7638
+# Number of Entries: 7640
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1249,7 +1249,6 @@
 0.0.0.0 captainj-dao.vercel.app
 0.0.0.0 caraji.com
 0.0.0.0 career-ecolab.com
-0.0.0.0 careersformneomsa.top
 0.0.0.0 careerskier.co.uk
 0.0.0.0 carlsbergpromo.amcn.in
 0.0.0.0 carv-protocol.com
@@ -1778,6 +1777,7 @@
 0.0.0.0 dapp-starter-1s2gz5hbg-dunghd.vercel.app
 0.0.0.0 dapp-starter-ju06cb1h2-dunghd.vercel.app
 0.0.0.0 dapp-vulcan.xyz
+0.0.0.0 dapp.1inch.cm
 0.0.0.0 dapp.radar.skin
 0.0.0.0 dapp.zkmll.systems
 0.0.0.0 dappbay-bnbchain.net
@@ -4780,6 +4780,7 @@
 0.0.0.0 pancakeswap.sipf.cc
 0.0.0.0 pancakeswap92.vercel.app
 0.0.0.0 pancakeswapairdrop.com
+0.0.0.0 pancakeswapclaim.vercel.app
 0.0.0.0 pancakeswapclaimbox.com
 0.0.0.0 pancakeswapclick04.vercel.app
 0.0.0.0 pancakeswapcrypto.com
@@ -7566,6 +7567,7 @@
 0.0.0.0 zerion.claimfree.xyz
 0.0.0.0 zerionpro.com
 0.0.0.0 zerionu.com
+0.0.0.0 zerionweb3-noderewards.pages.dev
 0.0.0.0 zero-lend.app
 0.0.0.0 zeroiand.xyz
 0.0.0.0 zerolend.app

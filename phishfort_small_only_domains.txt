@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Mon Apr 29 07:04:57 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 08:06:59 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7638
+# Number of Entries: 7640
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1248,7 +1248,6 @@ capsule-zskync.net
 captainj-dao.vercel.app
 caraji.com
 career-ecolab.com
-careersformneomsa.top
 careerskier.co.uk
 carlsbergpromo.amcn.in
 carv-protocol.com
@@ -1777,6 +1776,7 @@ dapp-pendle.finance
 dapp-starter-1s2gz5hbg-dunghd.vercel.app
 dapp-starter-ju06cb1h2-dunghd.vercel.app
 dapp-vulcan.xyz
+dapp.1inch.cm
 dapp.radar.skin
 dapp.zkmll.systems
 dappbay-bnbchain.net
@@ -4779,6 +4779,7 @@ pancakeswap.godaddysites.com
 pancakeswap.sipf.cc
 pancakeswap92.vercel.app
 pancakeswapairdrop.com
+pancakeswapclaim.vercel.app
 pancakeswapclaimbox.com
 pancakeswapclick04.vercel.app
 pancakeswapcrypto.com
@@ -7565,6 +7566,7 @@ zens-web3.com
 zerion.claimfree.xyz
 zerionpro.com
 zerionu.com
+zerionweb3-noderewards.pages.dev
 zero-lend.app
 zeroiand.xyz
 zerolend.app
