@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 16:02:19 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 17:01:56 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108862
+# Number of Entries: 108866
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -37611,6 +37611,7 @@
 0.0.0.0 goplent.site
 0.0.0.0 gopulse.pro
 0.0.0.0 goracle.web3-airdrop.net
+0.0.0.0 gordonserveapps.pages.dev
 0.0.0.0 gorgeousgetaways.com
 0.0.0.0 gorilladefi-io.web.app
 0.0.0.0 gorjs.nft-premint.com
@@ -44561,6 +44562,7 @@
 0.0.0.0 lifefitness.email
 0.0.0.0 lifefitnesscareers.com
 0.0.0.0 lifefitnesshr.com
+0.0.0.0 lifefitnessiran.com
 0.0.0.0 lifeguidedapp.net
 0.0.0.0 lifeishort.work.gd
 0.0.0.0 lifeparallel.app
@@ -76042,6 +76044,7 @@
 0.0.0.0 revoke.pm
 0.0.0.0 revoke.pro
 0.0.0.0 revoke.pw
+0.0.0.0 revoke.re
 0.0.0.0 revoke.refundclaims.net
 0.0.0.0 revoke.repair
 0.0.0.0 revoke.rip
@@ -77851,6 +77854,7 @@
 0.0.0.0 sakuraneko-promogive.com
 0.0.0.0 sal-mining.tools
 0.0.0.0 salahart.com
+0.0.0.0 salampopalam.com
 0.0.0.0 salanert.com
 0.0.0.0 saldias.net
 0.0.0.0 sale-azuki.app

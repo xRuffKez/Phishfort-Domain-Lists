@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Mon Apr 29 16:02:19 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 17:01:56 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 108862
+# Number of Entries: 108866
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -37610,6 +37610,7 @@ gopgda.com
 goplent.site
 gopulse.pro
 goracle.web3-airdrop.net
+gordonserveapps.pages.dev
 gorgeousgetaways.com
 gorilladefi-io.web.app
 gorjs.nft-premint.com
@@ -44560,6 +44561,7 @@ lifefitness-sale.com
 lifefitness.email
 lifefitnesscareers.com
 lifefitnesshr.com
+lifefitnessiran.com
 lifeguidedapp.net
 lifeishort.work.gd
 lifeparallel.app
@@ -76041,6 +76043,7 @@ revoke.plus
 revoke.pm
 revoke.pro
 revoke.pw
+revoke.re
 revoke.refundclaims.net
 revoke.repair
 revoke.rip
@@ -77850,6 +77853,7 @@ sakssof5th.com
 sakuraneko-promogive.com
 sal-mining.tools
 salahart.com
+salampopalam.com
 salanert.com
 saldias.net
 sale-azuki.app
