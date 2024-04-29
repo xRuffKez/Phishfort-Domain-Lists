@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 21:02:10 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 22:02:03 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108874
+# Number of Entries: 108884
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -40687,6 +40687,7 @@
 ||interactive-brokers.cc^
 ||interactive-brokers.group^
 ||interactive-brokers.live^
+||interactive-brokers.pro^
 ||interactive-brokers.top^
 ||interactivebrok3ers.com^
 ||interactivebroker.org^
@@ -86598,6 +86599,7 @@
 ||toke.im^
 ||tokeen.im^
 ||tokeensyu.cloud^
+||tokeeper.com^
 ||tokeh.im^
 ||tokehpokcet-pro.tech^
 ||tokej.im^
@@ -87108,7 +87110,13 @@
 ||tongram.me^
 ||tongramico.com^
 ||tonight.sadwing.za.com^
+||tonjeeper.com^
 ||tonkeeoer.com^
+||tonkeepet.com^
+||tonkeeprr.com^
+||tonkeepwr.com^
+||tonkewper.com^
+||tonleeper.com^
 ||tonogram.org^
 ||tonpocket.com^
 ||tonpresale.com^
@@ -87272,6 +87280,7 @@
 ||tpay-paxful.com^
 ||tpcontact.co.za^
 ||tpe-store.pancakeswape.finance^
+||tpnkeeper.com^
 ||tpoken.im^
 ||tppocketsupport.pro^
 ||tpwalletpro.info^
@@ -93448,6 +93457,7 @@
 ||wallet.xn--mymoner-r0a.com^
 ||wallet.xn--roninchin-hdb.com^
 ||wallet.xn--um-oja.top^
+||wallet.zerion-eth.top^
 ||wallet.zkflre.io^
 ||wallet.zksync-io.site^
 ||wallet.zksyncaiio.site^

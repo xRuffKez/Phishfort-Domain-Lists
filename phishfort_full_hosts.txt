@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 21:02:10 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 22:02:03 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108874
+# Number of Entries: 108884
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -40687,6 +40687,7 @@
 0.0.0.0 interactive-brokers.cc
 0.0.0.0 interactive-brokers.group
 0.0.0.0 interactive-brokers.live
+0.0.0.0 interactive-brokers.pro
 0.0.0.0 interactive-brokers.top
 0.0.0.0 interactivebrok3ers.com
 0.0.0.0 interactivebroker.org
@@ -86598,6 +86599,7 @@
 0.0.0.0 toke.im
 0.0.0.0 tokeen.im
 0.0.0.0 tokeensyu.cloud
+0.0.0.0 tokeeper.com
 0.0.0.0 tokeh.im
 0.0.0.0 tokehpokcet-pro.tech
 0.0.0.0 tokej.im
@@ -87108,7 +87110,13 @@
 0.0.0.0 tongram.me
 0.0.0.0 tongramico.com
 0.0.0.0 tonight.sadwing.za.com
+0.0.0.0 tonjeeper.com
 0.0.0.0 tonkeeoer.com
+0.0.0.0 tonkeepet.com
+0.0.0.0 tonkeeprr.com
+0.0.0.0 tonkeepwr.com
+0.0.0.0 tonkewper.com
+0.0.0.0 tonleeper.com
 0.0.0.0 tonogram.org
 0.0.0.0 tonpocket.com
 0.0.0.0 tonpresale.com
@@ -87272,6 +87280,7 @@
 0.0.0.0 tpay-paxful.com
 0.0.0.0 tpcontact.co.za
 0.0.0.0 tpe-store.pancakeswape.finance
+0.0.0.0 tpnkeeper.com
 0.0.0.0 tpoken.im
 0.0.0.0 tppocketsupport.pro
 0.0.0.0 tpwalletpro.info
@@ -93448,6 +93457,7 @@
 0.0.0.0 wallet.xn--mymoner-r0a.com
 0.0.0.0 wallet.xn--roninchin-hdb.com
 0.0.0.0 wallet.xn--um-oja.top
+0.0.0.0 wallet.zerion-eth.top
 0.0.0.0 wallet.zkflre.io
 0.0.0.0 wallet.zksync-io.site
 0.0.0.0 wallet.zksyncaiio.site
