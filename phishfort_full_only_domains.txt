@@ -1,4 +1,4 @@
-# PhishFort Full Domain List - Mon Apr 29 18:02:04 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 19:02:02 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 108872
 # Project: PhishFort (https://phishfort.com/)
@@ -49179,7 +49179,6 @@ mega-lo.com
 mega-mz.com
 mega-zn.com
 mega168-wallet.com.starflix789.com
-megaapps.pages.dev
 megablackfridaychevrolet.com
 megabokoso.work
 megac-lo.com
@@ -104782,6 +104781,7 @@ www.weccu-bank.sistemaofxcapital.com
 www.welcome-galagames-app.com
 www.welcome-to-a-sushi-usd.me
 www.wepod-io.com
+www.werejazzedyourehere.org
 www.westrock.dongfangfuli.com
 www.wfiitk.top
 www.whm.elasticsearch-uat.arb-chain.com

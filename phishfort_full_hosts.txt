@@ -1,4 +1,4 @@
-# PhishFort Full Domain List - Mon Apr 29 18:02:04 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 19:02:02 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 108872
@@ -49180,7 +49180,6 @@
 0.0.0.0 mega-mz.com
 0.0.0.0 mega-zn.com
 0.0.0.0 mega168-wallet.com.starflix789.com
-0.0.0.0 megaapps.pages.dev
 0.0.0.0 megablackfridaychevrolet.com
 0.0.0.0 megabokoso.work
 0.0.0.0 megac-lo.com
@@ -104783,6 +104782,7 @@
 0.0.0.0 www.welcome-galagames-app.com
 0.0.0.0 www.welcome-to-a-sushi-usd.me
 0.0.0.0 www.wepod-io.com
+0.0.0.0 www.werejazzedyourehere.org
 0.0.0.0 www.westrock.dongfangfuli.com
 0.0.0.0 www.wfiitk.top
 0.0.0.0 www.whm.elasticsearch-uat.arb-chain.com
