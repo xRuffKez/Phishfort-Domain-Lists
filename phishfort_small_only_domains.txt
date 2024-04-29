@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Mon Apr 29 15:04:56 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 16:05:19 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 7649
 # Project: PhishFort (https://phishfort.com/)
@@ -1683,6 +1683,7 @@ convert-dgcoin.com
 convex-finance.xyz
 convexfinance.io
 coqinucoin.claims
+corcentrc.com
 cornerdrop.org
 cornerpunks.org
 corporativojohnson.com
@@ -4062,6 +4063,7 @@ mmapplicationhubs.pages.dev
 mmapplicationshub-bhi.pages.dev
 mmapplicationshub.pages.dev
 mmbalance.com
+mn248.vip
 mndntwrk.org
 mnyetherwallet.com
 mo7l9.top
@@ -4762,6 +4764,7 @@ pancakeswaap.in
 pancakeswaapfinance.net
 pancakeswap-airdrop-giveaway.com
 pancakeswap-claim112.vercel.app
+pancakeswap-claimdrop.com
 pancakeswap-clone-nine.vercel.app
 pancakeswap-connect.xyz
 pancakeswap-earn.pro
@@ -5424,7 +5427,6 @@ refund.shidoprotocols.com
 refund.wallstretmemes.app
 reg-dym.xyz
 reg-etherfi.app
-reg-jup.com
 reg-metis.io
 reg-nibiru.app
 reg-pandora.network
@@ -5855,7 +5857,6 @@ signup-openfabric.com
 signup-orderly.network
 signup-portal.com
 signup-portalcoin.com
-signup-rabbit.com
 signup-starheroes.com
 signup-velodrome.finance
 signups-apeterminal.com
@@ -7514,7 +7515,6 @@ xn--rustwallet-gyd.com
 xn--sandbx-games-iib.pages.dev
 xn--zcr743ah35a.com
 xn66ekl.pro
-xoudwq.cfd
 xpancakeswap.pages.dev
 xpaydappbnb.click
 xpubactivationprotocol.pages.dev
