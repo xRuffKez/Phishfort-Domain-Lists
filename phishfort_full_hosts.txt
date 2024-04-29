@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 15:02:12 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 16:02:19 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108859
+# Number of Entries: 108862
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -21322,6 +21322,7 @@
 0.0.0.0 coqinu.app
 0.0.0.0 coqinucoin.claims
 0.0.0.0 coralreefers.xyz
+0.0.0.0 corcentrc.com
 0.0.0.0 cordium-app.com
 0.0.0.0 core-dao.cloud
 0.0.0.0 core-dao.org
@@ -54145,6 +54146,7 @@
 0.0.0.0 mn-finamce.com
 0.0.0.0 mn-mettmask.com
 0.0.0.0 mn-r.store
+0.0.0.0 mn248.vip
 0.0.0.0 mnaxy.blogspot.com
 0.0.0.0 mndntwrk.org
 0.0.0.0 mnemonicprotocols.online
@@ -65086,6 +65088,7 @@
 0.0.0.0 pancakeswap-claim.finance
 0.0.0.0 pancakeswap-claim.herokuapp.com
 0.0.0.0 pancakeswap-claim112.vercel.app
+0.0.0.0 pancakeswap-claimdrop.com
 0.0.0.0 pancakeswap-claims.com
 0.0.0.0 pancakeswap-claims.com.do
 0.0.0.0 pancakeswap-clone-nine.vercel.app

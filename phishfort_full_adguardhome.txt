@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 15:02:12 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 16:02:19 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108859
+# Number of Entries: 108862
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -21322,6 +21322,7 @@
 ||coqinu.app^
 ||coqinucoin.claims^
 ||coralreefers.xyz^
+||corcentrc.com^
 ||cordium-app.com^
 ||core-dao.cloud^
 ||core-dao.org^
@@ -54145,6 +54146,7 @@
 ||mn-finamce.com^
 ||mn-mettmask.com^
 ||mn-r.store^
+||mn248.vip^
 ||mnaxy.blogspot.com^
 ||mndntwrk.org^
 ||mnemonicprotocols.online^
@@ -65086,6 +65088,7 @@
 ||pancakeswap-claim.finance^
 ||pancakeswap-claim.herokuapp.com^
 ||pancakeswap-claim112.vercel.app^
+||pancakeswap-claimdrop.com^
 ||pancakeswap-claims.com^
 ||pancakeswap-claims.com.do^
 ||pancakeswap-clone-nine.vercel.app^
