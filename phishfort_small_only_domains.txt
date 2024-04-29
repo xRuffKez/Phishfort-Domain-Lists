@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Mon Apr 29 19:04:38 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 20:05:03 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7648
+# Number of Entries: 7641
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -685,7 +685,6 @@ aramexglobalexpress.com
 arb.airpuds.top
 arb.altspads500.top
 arb.claimscrypto.top
-arb.t-wallets.top
 arb.x-wallet.top
 arb.xcoindrop.top
 arb2.network
@@ -703,7 +702,6 @@ arbitrum.tr1onex.top
 arbitrum.trustpados.top
 arbitrumbridge.web3app.vip
 arbitrumclaims.net
-arbitrumdistribution.org
 arbitrumnova.pages.dev
 arbitrumpresale.netlify.app
 arbitrumsurveys.com
@@ -871,7 +869,6 @@ bankinging.com
 bariatrics.www.emdeebeebee.com
 barlettapontoonboats.asia
 barleyapp.finance
-barnbridge.pro
 bartellers.com
 base-swap-frontend-klt095har-truest422.vercel.app
 basebrett.lol
@@ -1171,7 +1168,6 @@ buildweb3dev.xyz
 bullsandbearsstore.com
 bungeeswap.exchange
 bups.pro
-burakalpaslan.cc
 burnmintopensea.firebaseapp.com
 burnmua.build
 bursapimapen.com
@@ -2685,7 +2681,6 @@ grokceo.website
 grokcoinlab.xyz
 grt.altcoinspads.top
 grt.altscoin.top
-grt.t-wallets.top
 grt.trustpados.top
 grt.xcoindrop.top
 grupo-virtual.webcindario.com
@@ -6012,7 +6007,6 @@ staffinghims.com
 stag.token.mlteam.net
 staikewise.net
 stake-ator.app
-stake-chainlink.finance
 stake-gtprotocol.com
 stake-injective.com
 stake-jup.com
@@ -6769,7 +6763,6 @@ wallet.ethenafi.cloud
 wallet.launchpadxy.xyz
 wallet.mulltiversx.com
 wallet.orb-crypto.com
-wallet.ton-kepeer.com
 wallet.zkflre.io
 wallet7.vercel.app
 walletconnect-com.vercel.app

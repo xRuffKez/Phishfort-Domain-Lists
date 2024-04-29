@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon Apr 29 19:04:38 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 20:05:03 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7648
+# Number of Entries: 7641
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -686,7 +686,6 @@
 0.0.0.0 arb.airpuds.top
 0.0.0.0 arb.altspads500.top
 0.0.0.0 arb.claimscrypto.top
-0.0.0.0 arb.t-wallets.top
 0.0.0.0 arb.x-wallet.top
 0.0.0.0 arb.xcoindrop.top
 0.0.0.0 arb2.network
@@ -704,7 +703,6 @@
 0.0.0.0 arbitrum.trustpados.top
 0.0.0.0 arbitrumbridge.web3app.vip
 0.0.0.0 arbitrumclaims.net
-0.0.0.0 arbitrumdistribution.org
 0.0.0.0 arbitrumnova.pages.dev
 0.0.0.0 arbitrumpresale.netlify.app
 0.0.0.0 arbitrumsurveys.com
@@ -872,7 +870,6 @@
 0.0.0.0 bariatrics.www.emdeebeebee.com
 0.0.0.0 barlettapontoonboats.asia
 0.0.0.0 barleyapp.finance
-0.0.0.0 barnbridge.pro
 0.0.0.0 bartellers.com
 0.0.0.0 base-swap-frontend-klt095har-truest422.vercel.app
 0.0.0.0 basebrett.lol
@@ -1172,7 +1169,6 @@
 0.0.0.0 bullsandbearsstore.com
 0.0.0.0 bungeeswap.exchange
 0.0.0.0 bups.pro
-0.0.0.0 burakalpaslan.cc
 0.0.0.0 burnmintopensea.firebaseapp.com
 0.0.0.0 burnmua.build
 0.0.0.0 bursapimapen.com
@@ -2686,7 +2682,6 @@
 0.0.0.0 grokcoinlab.xyz
 0.0.0.0 grt.altcoinspads.top
 0.0.0.0 grt.altscoin.top
-0.0.0.0 grt.t-wallets.top
 0.0.0.0 grt.trustpados.top
 0.0.0.0 grt.xcoindrop.top
 0.0.0.0 grupo-virtual.webcindario.com
@@ -6013,7 +6008,6 @@
 0.0.0.0 stag.token.mlteam.net
 0.0.0.0 staikewise.net
 0.0.0.0 stake-ator.app
-0.0.0.0 stake-chainlink.finance
 0.0.0.0 stake-gtprotocol.com
 0.0.0.0 stake-injective.com
 0.0.0.0 stake-jup.com
@@ -6770,7 +6764,6 @@
 0.0.0.0 wallet.launchpadxy.xyz
 0.0.0.0 wallet.mulltiversx.com
 0.0.0.0 wallet.orb-crypto.com
-0.0.0.0 wallet.ton-kepeer.com
 0.0.0.0 wallet.zkflre.io
 0.0.0.0 wallet7.vercel.app
 0.0.0.0 walletconnect-com.vercel.app
