@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Mon Apr 29 14:05:43 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 15:04:56 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7643
+# Number of Entries: 7649
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -136,6 +136,7 @@ aave.liquidity.org.pl
 aavenetwork.org
 aavve.eu
 aavve.org
+ab.datpoint.online
 ab.ebay-asia.com
 abacoin.website
 abracadebra.money
@@ -452,6 +453,7 @@ amljumper.com
 amlsecure.org
 amlwallet.online
 an.betiutima.online
+an.datpoint.online
 an.intelectui.online
 an.myudetma.online
 analayze.orb-crypto.com
@@ -565,6 +567,7 @@ app-wormhole.com
 app-xpet.tech
 app.1inch.lc
 app.1insh.io
+app.2-airtm.cam
 app.activitye.xyz
 app.agoda-promotion.com
 app.airrtm.com
@@ -1339,6 +1342,7 @@ checksart.top
 cheelee.io-5000-usd-air.info
 chendimassachoist.com
 chendimasslost.com
+chensymalst.com
 chevroletshopdrive.ws
 chevropromoo.com
 childporn.umb.market
@@ -2341,6 +2345,7 @@ exhibitus-inc.com
 exhibitusinc.com
 expertsolver.pages.dev
 exploremanta.pages.dev
+explorer-1inch-io.pages.dev
 express-toll-route407.com
 express-tollroute407.com
 extensiondapp.pages.dev
@@ -4206,6 +4211,7 @@ myjuppy-box.trade
 mymetamasklogin.com
 mymoneronline.info
 mynewmontbonk.com
+mynewuimplclaim.com
 myob.finance
 myob.financial
 myob.network
@@ -4700,6 +4706,7 @@ pancake-swap-airdrop.com
 pancake-swap-finances.pages.dev
 pancake-swap-v3.pages.dev
 pancake-swap.net
+pancake-swap45.vercel.app
 pancake-swapfinance.pages.dev
 pancake-swapfinances.pages.dev
 pancake-swapi.web.app
@@ -4754,6 +4761,7 @@ pancakesvop.com
 pancakeswaap.in
 pancakeswaapfinance.net
 pancakeswap-airdrop-giveaway.com
+pancakeswap-claim112.vercel.app
 pancakeswap-clone-nine.vercel.app
 pancakeswap-connect.xyz
 pancakeswap-earn.pro
@@ -5829,7 +5837,6 @@ shrapnel.store
 shyg618.com
 sideshift.art
 sidus.gift
-siemens-energyltd.co.uk
 siemens-energymall.vip
 siemensgamesare.top
 signet-gamma.vercel.app
@@ -6235,7 +6242,6 @@ tamairdrop.netlify.app
 taob-ai.com
 taobank.net
 taodan2014.com
-tareekhsouria.com
 tasfinancial.co
 tataconsultancy.in
 tataconsultants.com
@@ -6355,7 +6361,6 @@ tiktokorders.vip
 tiktokshop01.cc
 tiktokshop02.cc
 tiktokshop2.com
-tiktokshopdown.cc
 tiktokshopdown.com
 tiktoktech.net
 tiktoktech.org
@@ -6672,6 +6677,7 @@ view.wormmap.xyz
 vikingglobal.linejoinus.com
 viplatii.online
 vipnewmont.com
+virgin-awareness.com
 virginmoneybusinessbanking.com
 virginmoneychatwithus.web.app
 virginmoneylivechat.com
@@ -6928,7 +6934,6 @@ wenbutusedgently.xyz
 wencoin.gg
 wenexchange.net
 wenfarcana.pages.dev
-wenvoucher.com
 wenwencoin-eligibility.com
 wenwencoin-jup.com
 wenwencoin-whitelist.com
@@ -7049,6 +7054,7 @@ www.1inchfinance.com
 www.1inchrewards.com
 www.1inchwallet.app
 www.1lnchfinance.io
+www.2--airtm.com
 www.247liveoptiontrades.com
 www.4pb-gala-games.com
 www.911usdt.com

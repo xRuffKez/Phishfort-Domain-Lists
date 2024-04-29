@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon Apr 29 14:05:43 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 15:04:56 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7643
+# Number of Entries: 7649
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -137,6 +137,7 @@
 0.0.0.0 aavenetwork.org
 0.0.0.0 aavve.eu
 0.0.0.0 aavve.org
+0.0.0.0 ab.datpoint.online
 0.0.0.0 ab.ebay-asia.com
 0.0.0.0 abacoin.website
 0.0.0.0 abracadebra.money
@@ -453,6 +454,7 @@
 0.0.0.0 amlsecure.org
 0.0.0.0 amlwallet.online
 0.0.0.0 an.betiutima.online
+0.0.0.0 an.datpoint.online
 0.0.0.0 an.intelectui.online
 0.0.0.0 an.myudetma.online
 0.0.0.0 analayze.orb-crypto.com
@@ -566,6 +568,7 @@
 0.0.0.0 app-xpet.tech
 0.0.0.0 app.1inch.lc
 0.0.0.0 app.1insh.io
+0.0.0.0 app.2-airtm.cam
 0.0.0.0 app.activitye.xyz
 0.0.0.0 app.agoda-promotion.com
 0.0.0.0 app.airrtm.com
@@ -1340,6 +1343,7 @@
 0.0.0.0 cheelee.io-5000-usd-air.info
 0.0.0.0 chendimassachoist.com
 0.0.0.0 chendimasslost.com
+0.0.0.0 chensymalst.com
 0.0.0.0 chevroletshopdrive.ws
 0.0.0.0 chevropromoo.com
 0.0.0.0 childporn.umb.market
@@ -2342,6 +2346,7 @@
 0.0.0.0 exhibitusinc.com
 0.0.0.0 expertsolver.pages.dev
 0.0.0.0 exploremanta.pages.dev
+0.0.0.0 explorer-1inch-io.pages.dev
 0.0.0.0 express-toll-route407.com
 0.0.0.0 express-tollroute407.com
 0.0.0.0 extensiondapp.pages.dev
@@ -4207,6 +4212,7 @@
 0.0.0.0 mymetamasklogin.com
 0.0.0.0 mymoneronline.info
 0.0.0.0 mynewmontbonk.com
+0.0.0.0 mynewuimplclaim.com
 0.0.0.0 myob.finance
 0.0.0.0 myob.financial
 0.0.0.0 myob.network
@@ -4701,6 +4707,7 @@
 0.0.0.0 pancake-swap-finances.pages.dev
 0.0.0.0 pancake-swap-v3.pages.dev
 0.0.0.0 pancake-swap.net
+0.0.0.0 pancake-swap45.vercel.app
 0.0.0.0 pancake-swapfinance.pages.dev
 0.0.0.0 pancake-swapfinances.pages.dev
 0.0.0.0 pancake-swapi.web.app
@@ -4755,6 +4762,7 @@
 0.0.0.0 pancakeswaap.in
 0.0.0.0 pancakeswaapfinance.net
 0.0.0.0 pancakeswap-airdrop-giveaway.com
+0.0.0.0 pancakeswap-claim112.vercel.app
 0.0.0.0 pancakeswap-clone-nine.vercel.app
 0.0.0.0 pancakeswap-connect.xyz
 0.0.0.0 pancakeswap-earn.pro
@@ -5830,7 +5838,6 @@
 0.0.0.0 shyg618.com
 0.0.0.0 sideshift.art
 0.0.0.0 sidus.gift
-0.0.0.0 siemens-energyltd.co.uk
 0.0.0.0 siemens-energymall.vip
 0.0.0.0 siemensgamesare.top
 0.0.0.0 signet-gamma.vercel.app
@@ -6236,7 +6243,6 @@
 0.0.0.0 taob-ai.com
 0.0.0.0 taobank.net
 0.0.0.0 taodan2014.com
-0.0.0.0 tareekhsouria.com
 0.0.0.0 tasfinancial.co
 0.0.0.0 tataconsultancy.in
 0.0.0.0 tataconsultants.com
@@ -6356,7 +6362,6 @@
 0.0.0.0 tiktokshop01.cc
 0.0.0.0 tiktokshop02.cc
 0.0.0.0 tiktokshop2.com
-0.0.0.0 tiktokshopdown.cc
 0.0.0.0 tiktokshopdown.com
 0.0.0.0 tiktoktech.net
 0.0.0.0 tiktoktech.org
@@ -6673,6 +6678,7 @@
 0.0.0.0 vikingglobal.linejoinus.com
 0.0.0.0 viplatii.online
 0.0.0.0 vipnewmont.com
+0.0.0.0 virgin-awareness.com
 0.0.0.0 virginmoneybusinessbanking.com
 0.0.0.0 virginmoneychatwithus.web.app
 0.0.0.0 virginmoneylivechat.com
@@ -6929,7 +6935,6 @@
 0.0.0.0 wencoin.gg
 0.0.0.0 wenexchange.net
 0.0.0.0 wenfarcana.pages.dev
-0.0.0.0 wenvoucher.com
 0.0.0.0 wenwencoin-eligibility.com
 0.0.0.0 wenwencoin-jup.com
 0.0.0.0 wenwencoin-whitelist.com
@@ -7050,6 +7055,7 @@
 0.0.0.0 www.1inchrewards.com
 0.0.0.0 www.1inchwallet.app
 0.0.0.0 www.1lnchfinance.io
+0.0.0.0 www.2--airtm.com
 0.0.0.0 www.247liveoptiontrades.com
 0.0.0.0 www.4pb-gala-games.com
 0.0.0.0 www.911usdt.com
