@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 12:02:44 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 13:02:19 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108841
+# Number of Entries: 108849
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -6850,6 +6850,7 @@
 ||apply-uniswap.top^
 ||apply-wormhole.com^
 ||apply.giveaway-1inch.info^
+||apply.tcscv.com^
 ||apply.trustpad-reward.info^
 ||applyer.info^
 ||applyvalidate.online^
@@ -42180,7 +42181,6 @@
 ||keyfedne.site^
 ||keyfund.io^
 ||keygenai.com^
-||keyless-repeater.com^
 ||keysstoreactiivate.live^
 ||keysstoreactiivation.live^
 ||keysstorreactivation.live^
@@ -44046,6 +44046,7 @@
 ||leetswap.connects-web3.org^
 ||lefredse.site^
 ||leftwingpinko.com^
+||legacy--app-spark-fi.ipns.dweb.link^
 ||legacy-of-escobar.com^
 ||legacysurgebip.xyz^
 ||legal.paxful.com.se^
@@ -48089,6 +48090,7 @@
 ||manpta.network^
 ||manranetwcrk.com^
 ||mant-app.com^
+||manta-1c8.pages.dev^
 ||manta-6om.pages.dev^
 ||manta-aidrop.network^
 ||manta-air.xyz^
@@ -67505,6 +67507,7 @@
 ||pancakeswpa-financies.uk^
 ||pancakeswpa.com^
 ||pancakeswpa.info^
+||pancakeswpclaim55.vercel.app^
 ||pancakeswpclicks.vercel.app^
 ||pancakeswpdrop13.vercel.app^
 ||pancakeswpg.digital^
@@ -73500,6 +73503,7 @@
 ||proximus-re.was-systems.com^
 ||proximus-recovery.be^
 ||proximus-web.com^
+||proximus.at^
 ||proximus.be-auto-facture.valider.link^
 ||proximus.be.factures-an.online^
 ||proximus.be.factures-annulation.ch^
@@ -90841,6 +90845,7 @@
 ||v2-lidofi.com^
 ||v2-multibridge.net^
 ||v2-pancake.com^
+||v2-pancake.pages.dev^
 ||v2-pancakefinance.live^
 ||v2-pancakeswap.finance^
 ||v2-pancakeswap.github.io^
@@ -96652,6 +96657,7 @@
 ||weway-giveaway.com^
 ||wexrp.org^
 ||weyu.pro^
+||wf940.vip^
 ||wfpodarki.ru^
 ||wg0-apecoin.com^
 ||wgdspfkse.one^
@@ -107851,6 +107857,7 @@
 ||yn4ars45l69dujc3nwab.duzot8a.ru^
 ||ynstbc.xyz.webplus7.a2hosted.com^
 ||yo-channel.com^
+||yo584.vip^
 ||yo9.email^
 ||yoandefi.com^
 ||yobilt.net^
@@ -108238,6 +108245,7 @@
 ||zerion.world^
 ||zerion.xyz^
 ||zerion3.com^
+||zerionclaimchain-index.pages.dev^
 ||zerioncoin.com^
 ||zeriondapps.io^
 ||zerione-io.top^

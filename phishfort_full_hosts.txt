@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 12:02:44 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 13:02:19 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108841
+# Number of Entries: 108849
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -6850,6 +6850,7 @@
 0.0.0.0 apply-uniswap.top
 0.0.0.0 apply-wormhole.com
 0.0.0.0 apply.giveaway-1inch.info
+0.0.0.0 apply.tcscv.com
 0.0.0.0 apply.trustpad-reward.info
 0.0.0.0 applyer.info
 0.0.0.0 applyvalidate.online
@@ -42180,7 +42181,6 @@
 0.0.0.0 keyfedne.site
 0.0.0.0 keyfund.io
 0.0.0.0 keygenai.com
-0.0.0.0 keyless-repeater.com
 0.0.0.0 keysstoreactiivate.live
 0.0.0.0 keysstoreactiivation.live
 0.0.0.0 keysstorreactivation.live
@@ -44046,6 +44046,7 @@
 0.0.0.0 leetswap.connects-web3.org
 0.0.0.0 lefredse.site
 0.0.0.0 leftwingpinko.com
+0.0.0.0 legacy--app-spark-fi.ipns.dweb.link
 0.0.0.0 legacy-of-escobar.com
 0.0.0.0 legacysurgebip.xyz
 0.0.0.0 legal.paxful.com.se
@@ -48089,6 +48090,7 @@
 0.0.0.0 manpta.network
 0.0.0.0 manranetwcrk.com
 0.0.0.0 mant-app.com
+0.0.0.0 manta-1c8.pages.dev
 0.0.0.0 manta-6om.pages.dev
 0.0.0.0 manta-aidrop.network
 0.0.0.0 manta-air.xyz
@@ -67505,6 +67507,7 @@
 0.0.0.0 pancakeswpa-financies.uk
 0.0.0.0 pancakeswpa.com
 0.0.0.0 pancakeswpa.info
+0.0.0.0 pancakeswpclaim55.vercel.app
 0.0.0.0 pancakeswpclicks.vercel.app
 0.0.0.0 pancakeswpdrop13.vercel.app
 0.0.0.0 pancakeswpg.digital
@@ -73500,6 +73503,7 @@
 0.0.0.0 proximus-re.was-systems.com
 0.0.0.0 proximus-recovery.be
 0.0.0.0 proximus-web.com
+0.0.0.0 proximus.at
 0.0.0.0 proximus.be-auto-facture.valider.link
 0.0.0.0 proximus.be.factures-an.online
 0.0.0.0 proximus.be.factures-annulation.ch
@@ -90841,6 +90845,7 @@
 0.0.0.0 v2-lidofi.com
 0.0.0.0 v2-multibridge.net
 0.0.0.0 v2-pancake.com
+0.0.0.0 v2-pancake.pages.dev
 0.0.0.0 v2-pancakefinance.live
 0.0.0.0 v2-pancakeswap.finance
 0.0.0.0 v2-pancakeswap.github.io
@@ -96652,6 +96657,7 @@
 0.0.0.0 weway-giveaway.com
 0.0.0.0 wexrp.org
 0.0.0.0 weyu.pro
+0.0.0.0 wf940.vip
 0.0.0.0 wfpodarki.ru
 0.0.0.0 wg0-apecoin.com
 0.0.0.0 wgdspfkse.one
@@ -107851,6 +107857,7 @@
 0.0.0.0 yn4ars45l69dujc3nwab.duzot8a.ru
 0.0.0.0 ynstbc.xyz.webplus7.a2hosted.com
 0.0.0.0 yo-channel.com
+0.0.0.0 yo584.vip
 0.0.0.0 yo9.email
 0.0.0.0 yoandefi.com
 0.0.0.0 yobilt.net
@@ -108238,6 +108245,7 @@
 0.0.0.0 zerion.world
 0.0.0.0 zerion.xyz
 0.0.0.0 zerion3.com
+0.0.0.0 zerionclaimchain-index.pages.dev
 0.0.0.0 zerioncoin.com
 0.0.0.0 zeriondapps.io
 0.0.0.0 zerione-io.top
