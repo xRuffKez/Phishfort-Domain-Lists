@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Mon Apr 29 16:05:19 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 17:04:40 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 7649
 # Project: PhishFort (https://phishfort.com/)
@@ -894,7 +894,6 @@ beeswap-frontend-web.vercel.app
 befilab.com
 befilabs.foundation
 bellaprotocol.cloud.augusttarget.online
-beltsmania.com
 ben-fi.com
 bendado.xyz
 benddoa.xyz
@@ -2663,6 +2662,7 @@ golem.gift
 goltaa.com
 gomble-gmm.xyz
 gondi.loan
+gordonserveapps.pages.dev
 gorilladefi-io.web.app
 govny.sa.com
 govs.sa.com
@@ -3315,6 +3315,7 @@ lidostak.info
 lidostake.dev
 lidostakecoin.com
 lidostaking-btu.pages.dev
+lifefitnessiran.com
 lilostake.lol
 linae-parks.com
 lindonft.us
@@ -5396,7 +5397,6 @@ rbkm.sa.com
 rdx.vercel.app
 rdxshoes.click
 realio.gift
-realraydium.xyz
 realtyexcellence.com
 rebby.io
 rebirthcreepz.com
@@ -5700,6 +5700,7 @@ saksoff5thyy-kco.com
 saksoff5thyyppl.top
 sakssaks.com
 sakssof5th.com
+salampopalam.com
 sale-webverse.com
 salepeaket.live
 sallybolderson.com
@@ -6260,7 +6261,6 @@ te-rra.cyou
 tectonic.flnance.web3-ap.cfd
 teechdata.com
 tektekdunk.blogspot.com
-telegram-gods.net
 teleperformer.in
 tenser.trade
 tensor-trade-git-tree-tensor.vercel.app

@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Mon Apr 29 16:05:19 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 17:04:40 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 7649
@@ -895,7 +895,6 @@
 0.0.0.0 befilab.com
 0.0.0.0 befilabs.foundation
 0.0.0.0 bellaprotocol.cloud.augusttarget.online
-0.0.0.0 beltsmania.com
 0.0.0.0 ben-fi.com
 0.0.0.0 bendado.xyz
 0.0.0.0 benddoa.xyz
@@ -2664,6 +2663,7 @@
 0.0.0.0 goltaa.com
 0.0.0.0 gomble-gmm.xyz
 0.0.0.0 gondi.loan
+0.0.0.0 gordonserveapps.pages.dev
 0.0.0.0 gorilladefi-io.web.app
 0.0.0.0 govny.sa.com
 0.0.0.0 govs.sa.com
@@ -3316,6 +3316,7 @@
 0.0.0.0 lidostake.dev
 0.0.0.0 lidostakecoin.com
 0.0.0.0 lidostaking-btu.pages.dev
+0.0.0.0 lifefitnessiran.com
 0.0.0.0 lilostake.lol
 0.0.0.0 linae-parks.com
 0.0.0.0 lindonft.us
@@ -5397,7 +5398,6 @@
 0.0.0.0 rdx.vercel.app
 0.0.0.0 rdxshoes.click
 0.0.0.0 realio.gift
-0.0.0.0 realraydium.xyz
 0.0.0.0 realtyexcellence.com
 0.0.0.0 rebby.io
 0.0.0.0 rebirthcreepz.com
@@ -5701,6 +5701,7 @@
 0.0.0.0 saksoff5thyyppl.top
 0.0.0.0 sakssaks.com
 0.0.0.0 sakssof5th.com
+0.0.0.0 salampopalam.com
 0.0.0.0 sale-webverse.com
 0.0.0.0 salepeaket.live
 0.0.0.0 sallybolderson.com
@@ -6261,7 +6262,6 @@
 0.0.0.0 tectonic.flnance.web3-ap.cfd
 0.0.0.0 teechdata.com
 0.0.0.0 tektekdunk.blogspot.com
-0.0.0.0 telegram-gods.net
 0.0.0.0 teleperformer.in
 0.0.0.0 tenser.trade
 0.0.0.0 tensor-trade-git-tree-tensor.vercel.app
