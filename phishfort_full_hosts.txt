@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 01:25:24 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 02:11:02 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108832
+# Number of Entries: 108833
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -69340,6 +69340,7 @@
 0.0.0.0 paxfulreverify.com
 0.0.0.0 paxfuls-login.com
 0.0.0.0 paxfuls.tk
+0.0.0.0 paxfuls.top
 0.0.0.0 paxfuls.xyz
 0.0.0.0 paxfulsec.com
 0.0.0.0 paxfulsecure.com
