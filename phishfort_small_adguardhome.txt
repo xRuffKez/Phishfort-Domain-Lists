@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon Apr 29 00:18:35 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 01:28:19 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7708
+# Number of Entries: 7693
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1120,7 +1120,6 @@
 ||bonus-injective.com^
 ||bonus-pyth.xyz^
 ||bonuses-defi.network^
-||bonuses-manta.network^
 ||bookaflightwithunitedairlines.statuspage.io^
 ||booking.agoda-checkout-id843753.com^
 ||bookinghotel-word.com^
@@ -1320,6 +1319,7 @@
 ||chainclaimzerion.pages.dev^
 ||chainflip.team^
 ||chaingefinancetoken.pages.dev^
+||chaingev2-airdrop.pages.dev^
 ||chainlabsv2.org^
 ||chainlink-drop.com^
 ||chainlink-network.app^
@@ -1438,7 +1438,6 @@
 ||claim-starknet.top^
 ||claim-thrusterfinance.com^
 ||claim-tinyblander.com^
-||claim-wen.army^
 ||claim-wenwen.com^
 ||claim-wormhole.network^
 ||claim-wrm.com^
@@ -1464,7 +1463,6 @@
 ||claim.hundonsoll.com^
 ||claim.hundsonsol.com^
 ||claim.memeskombats.online^
-||claim.memetrumpmaga.com^
 ||claim.memskombat.site^
 ||claim.metacadeco.live^
 ||claim.nftrealm.io^
@@ -2141,7 +2139,6 @@
 ||earn-defipool.com^
 ||earn-dmail.com^
 ||earn-drop.asia^
-||earn-drop.live^
 ||earn-taopads.web.app^
 ||earndrop-checker.com^
 ||earndrop.airdrop-claiming.xyz^
@@ -2400,7 +2397,6 @@
 ||fctone.com^
 ||feereturn.xyz^
 ||feereturns.xyz^
-||fees-407etr.com^
 ||feimoney.app^
 ||feiraochevro.com^
 ||fenterpriseonline.net^
@@ -2795,7 +2791,6 @@
 ||heavensgate.dog^
 ||hedgefund-swap.org^
 ||hedgeswap.org^
-||helio-money.cyou^
 ||helixap.com.ai-web3.cfd^
 ||helixapp.com.web3-connect.pw^
 ||hellothisisatest.com^
@@ -2853,7 +2848,6 @@
 ||housexysounds.com^
 ||hpwhmw10itwo.xyz^
 ||hqq0a7e.info^
-||hswblp.info^
 ||ht52ik.top^
 ||https-loading.site^
 ||hub-injective-network.web.app^
@@ -3145,7 +3139,6 @@
 ||juppyapps.com^
 ||juppycases.trade^
 ||juppystart.app^
-||jupqq.com^
 ||jups.io^
 ||jupvoucher.com^
 ||juups.io^
@@ -3880,7 +3873,6 @@
 ||metamaskarticle.com^
 ||metamaskb.io^
 ||metamaskc.org^
-||metamaskcrypto.com^
 ||metamaskdek.azurewebsites.net^
 ||metamaskes.azurewebsites.net^
 ||metamaskio.cfd^
@@ -3913,7 +3905,6 @@
 ||metamasyk.azurewebsites.net^
 ||metamawesk.azurewebsites.net^
 ||metamcsk.cc^
-||metamcsk.io^
 ||metameask-walat.godaddysites.com^
 ||metamesk-io.me^
 ||metamesk-walate.godaddysites.com^
@@ -5498,7 +5489,6 @@
 ||registration-jup.ag^
 ||registration-linea.com^
 ||registration-mixmob.io^
-||registration-pixels.xyz^
 ||registration-superverse.com^
 ||registration-wehavenohandle.com^
 ||registration-zetachain.com^
@@ -5740,9 +5730,9 @@
 ||sallybolderson.com^
 ||sample.ecsa.com^
 ||sampx8y.info^
-||samurai-nft.pro^
 ||samuraiaward.info^
 ||san-swap.com^
+||sandboxgame.pages.dev^
 ||sanshumigration.web.app^
 ||sanswap.com^
 ||sappy3d.top^
@@ -6088,7 +6078,6 @@
 ||staking-pyth-network.web.app^
 ||staking-wftrw.github.io^
 ||staking-xai.network^
-||staking.app-bitrock.com^
 ||staking.destra-network.live^
 ||staking.k9finance.co^
 ||staking.routerprotocols.net^
@@ -6167,7 +6156,6 @@
 ||subsquid.network^
 ||sui-airdrop.one^
 ||sui-network.mom^
-||sui.trusthubs.top^
 ||sui.webs3drop.top^
 ||suimine.com^
 ||suiswap.tech^
@@ -6423,7 +6411,6 @@
 ||tiktokweb.cc^
 ||tiktoky.cc^
 ||titano.defilama.top^
-||tlex.pro^
 ||tmedicalpr.lol^
 ||tmtmoneyback.pages.dev^
 ||tmwr.pro^
@@ -7312,7 +7299,6 @@
 ||www.magpiexyz.click^
 ||www.mainnet-portal.com^
 ||www.makerdaodai.site^
-||www.mamtanetworkbonus.com^
 ||www.maverickdao.org^
 ||www.mavia.com.maviav.com^
 ||www.mavia.comapp.ceesto.com^
@@ -7343,7 +7329,6 @@
 ||www.metamcvk.com^
 ||www.metemnsk.io^
 ||www.methmantle.xyz^
-||www.metomask.ru^
 ||www.moacverse.xyz^
 ||www.mode.networkapp.hu54.com^
 ||www.moneypak.store^

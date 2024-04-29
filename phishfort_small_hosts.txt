@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon Apr 29 00:18:35 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 01:28:19 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7708
+# Number of Entries: 7693
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1120,7 +1120,6 @@
 0.0.0.0 bonus-injective.com
 0.0.0.0 bonus-pyth.xyz
 0.0.0.0 bonuses-defi.network
-0.0.0.0 bonuses-manta.network
 0.0.0.0 bookaflightwithunitedairlines.statuspage.io
 0.0.0.0 booking.agoda-checkout-id843753.com
 0.0.0.0 bookinghotel-word.com
@@ -1320,6 +1319,7 @@
 0.0.0.0 chainclaimzerion.pages.dev
 0.0.0.0 chainflip.team
 0.0.0.0 chaingefinancetoken.pages.dev
+0.0.0.0 chaingev2-airdrop.pages.dev
 0.0.0.0 chainlabsv2.org
 0.0.0.0 chainlink-drop.com
 0.0.0.0 chainlink-network.app
@@ -1438,7 +1438,6 @@
 0.0.0.0 claim-starknet.top
 0.0.0.0 claim-thrusterfinance.com
 0.0.0.0 claim-tinyblander.com
-0.0.0.0 claim-wen.army
 0.0.0.0 claim-wenwen.com
 0.0.0.0 claim-wormhole.network
 0.0.0.0 claim-wrm.com
@@ -1464,7 +1463,6 @@
 0.0.0.0 claim.hundonsoll.com
 0.0.0.0 claim.hundsonsol.com
 0.0.0.0 claim.memeskombats.online
-0.0.0.0 claim.memetrumpmaga.com
 0.0.0.0 claim.memskombat.site
 0.0.0.0 claim.metacadeco.live
 0.0.0.0 claim.nftrealm.io
@@ -2141,7 +2139,6 @@
 0.0.0.0 earn-defipool.com
 0.0.0.0 earn-dmail.com
 0.0.0.0 earn-drop.asia
-0.0.0.0 earn-drop.live
 0.0.0.0 earn-taopads.web.app
 0.0.0.0 earndrop-checker.com
 0.0.0.0 earndrop.airdrop-claiming.xyz
@@ -2400,7 +2397,6 @@
 0.0.0.0 fctone.com
 0.0.0.0 feereturn.xyz
 0.0.0.0 feereturns.xyz
-0.0.0.0 fees-407etr.com
 0.0.0.0 feimoney.app
 0.0.0.0 feiraochevro.com
 0.0.0.0 fenterpriseonline.net
@@ -2795,7 +2791,6 @@
 0.0.0.0 heavensgate.dog
 0.0.0.0 hedgefund-swap.org
 0.0.0.0 hedgeswap.org
-0.0.0.0 helio-money.cyou
 0.0.0.0 helixap.com.ai-web3.cfd
 0.0.0.0 helixapp.com.web3-connect.pw
 0.0.0.0 hellothisisatest.com
@@ -2853,7 +2848,6 @@
 0.0.0.0 housexysounds.com
 0.0.0.0 hpwhmw10itwo.xyz
 0.0.0.0 hqq0a7e.info
-0.0.0.0 hswblp.info
 0.0.0.0 ht52ik.top
 0.0.0.0 https-loading.site
 0.0.0.0 hub-injective-network.web.app
@@ -3145,7 +3139,6 @@
 0.0.0.0 juppyapps.com
 0.0.0.0 juppycases.trade
 0.0.0.0 juppystart.app
-0.0.0.0 jupqq.com
 0.0.0.0 jups.io
 0.0.0.0 jupvoucher.com
 0.0.0.0 juups.io
@@ -3880,7 +3873,6 @@
 0.0.0.0 metamaskarticle.com
 0.0.0.0 metamaskb.io
 0.0.0.0 metamaskc.org
-0.0.0.0 metamaskcrypto.com
 0.0.0.0 metamaskdek.azurewebsites.net
 0.0.0.0 metamaskes.azurewebsites.net
 0.0.0.0 metamaskio.cfd
@@ -3913,7 +3905,6 @@
 0.0.0.0 metamasyk.azurewebsites.net
 0.0.0.0 metamawesk.azurewebsites.net
 0.0.0.0 metamcsk.cc
-0.0.0.0 metamcsk.io
 0.0.0.0 metameask-walat.godaddysites.com
 0.0.0.0 metamesk-io.me
 0.0.0.0 metamesk-walate.godaddysites.com
@@ -5498,7 +5489,6 @@
 0.0.0.0 registration-jup.ag
 0.0.0.0 registration-linea.com
 0.0.0.0 registration-mixmob.io
-0.0.0.0 registration-pixels.xyz
 0.0.0.0 registration-superverse.com
 0.0.0.0 registration-wehavenohandle.com
 0.0.0.0 registration-zetachain.com
@@ -5740,9 +5730,9 @@
 0.0.0.0 sallybolderson.com
 0.0.0.0 sample.ecsa.com
 0.0.0.0 sampx8y.info
-0.0.0.0 samurai-nft.pro
 0.0.0.0 samuraiaward.info
 0.0.0.0 san-swap.com
+0.0.0.0 sandboxgame.pages.dev
 0.0.0.0 sanshumigration.web.app
 0.0.0.0 sanswap.com
 0.0.0.0 sappy3d.top
@@ -6088,7 +6078,6 @@
 0.0.0.0 staking-pyth-network.web.app
 0.0.0.0 staking-wftrw.github.io
 0.0.0.0 staking-xai.network
-0.0.0.0 staking.app-bitrock.com
 0.0.0.0 staking.destra-network.live
 0.0.0.0 staking.k9finance.co
 0.0.0.0 staking.routerprotocols.net
@@ -6167,7 +6156,6 @@
 0.0.0.0 subsquid.network
 0.0.0.0 sui-airdrop.one
 0.0.0.0 sui-network.mom
-0.0.0.0 sui.trusthubs.top
 0.0.0.0 sui.webs3drop.top
 0.0.0.0 suimine.com
 0.0.0.0 suiswap.tech
@@ -6423,7 +6411,6 @@
 0.0.0.0 tiktokweb.cc
 0.0.0.0 tiktoky.cc
 0.0.0.0 titano.defilama.top
-0.0.0.0 tlex.pro
 0.0.0.0 tmedicalpr.lol
 0.0.0.0 tmtmoneyback.pages.dev
 0.0.0.0 tmwr.pro
@@ -7312,7 +7299,6 @@
 0.0.0.0 www.magpiexyz.click
 0.0.0.0 www.mainnet-portal.com
 0.0.0.0 www.makerdaodai.site
-0.0.0.0 www.mamtanetworkbonus.com
 0.0.0.0 www.maverickdao.org
 0.0.0.0 www.mavia.com.maviav.com
 0.0.0.0 www.mavia.comapp.ceesto.com
@@ -7343,7 +7329,6 @@
 0.0.0.0 www.metamcvk.com
 0.0.0.0 www.metemnsk.io
 0.0.0.0 www.methmantle.xyz
-0.0.0.0 www.metomask.ru
 0.0.0.0 www.moacverse.xyz
 0.0.0.0 www.mode.networkapp.hu54.com
 0.0.0.0 www.moneypak.store
