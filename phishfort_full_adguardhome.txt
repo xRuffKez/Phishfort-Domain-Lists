@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 10:02:00 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 11:03:14 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108833
+# Number of Entries: 108841
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -332,6 +332,7 @@
 ||1inch-app.net^
 ||1inch-app.netlify.app^
 ||1inch-app.org^
+||1inch-app.pages.dev^
 ||1inch-app.site^
 ||1inch-app.tk^
 ||1inch-apps.io^
@@ -6787,6 +6788,7 @@
 ||apphera.click^
 ||appherofi.com^
 ||apphex.net^
+||appi-zkasino.live^
 ||appicomark.com^
 ||appis-galagames.blogspot.com^
 ||appissueresolve.com^
@@ -8553,6 +8555,7 @@
 ||auth-id-password-reset-coinbase.com^
 ||auth-identity-verification-link-coinbase.com^
 ||auth-idverification-coinbase.com^
+||auth-land.com^
 ||auth-metamask.co^
 ||auth-metamask.io^
 ||auth-metimask.github.io^
@@ -19149,6 +19152,7 @@
 ||coingecko.edu.vn^
 ||coingecko.fun^
 ||coingecko.id^
+||coingecko.kycregulatory.com^
 ||coingecko.live^
 ||coingecko.ltd^
 ||coingecko.net^
@@ -22935,6 +22939,7 @@
 ||d.appmooduyh.top^
 ||d.dassincs.com^
 ||d.market-skin.com^
+||d.moodyimkq.top^
 ||d.moodyseokd.top^
 ||d.moodysmfof.top^
 ||d.stonexdmffh.top^
@@ -32838,6 +32843,7 @@
 ||extension.metamsak.co^
 ||extension.recovery.supply^
 ||extension.thebalichili.com^
+||extensiondapp.pages.dev^
 ||extensiondapps.com^
 ||extensiones-metamask.com.dymtecnologia.com^
 ||extensionportfolioupdate.com^
@@ -63181,6 +63187,7 @@
 ||opensoa.xyz^
 ||opensocean.net^
 ||opensosea.com^
+||opensource-gummysol.live^
 ||opensrea.io^
 ||openssea-io.com^
 ||openssea.biz^
@@ -108510,6 +108517,7 @@
 ||zkmoney.mirror-web3.site^
 ||zkmoney.org^
 ||zkmoney.zone^
+||zknewdcs.pages.dev^
 ||zkpolyhedra.net^
 ||zks-allocation.org^
 ||zks-labsfoundation.com^

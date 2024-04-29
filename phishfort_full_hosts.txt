@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 10:02:00 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 11:03:14 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108833
+# Number of Entries: 108841
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -332,6 +332,7 @@
 0.0.0.0 1inch-app.net
 0.0.0.0 1inch-app.netlify.app
 0.0.0.0 1inch-app.org
+0.0.0.0 1inch-app.pages.dev
 0.0.0.0 1inch-app.site
 0.0.0.0 1inch-app.tk
 0.0.0.0 1inch-apps.io
@@ -6787,6 +6788,7 @@
 0.0.0.0 apphera.click
 0.0.0.0 appherofi.com
 0.0.0.0 apphex.net
+0.0.0.0 appi-zkasino.live
 0.0.0.0 appicomark.com
 0.0.0.0 appis-galagames.blogspot.com
 0.0.0.0 appissueresolve.com
@@ -8553,6 +8555,7 @@
 0.0.0.0 auth-id-password-reset-coinbase.com
 0.0.0.0 auth-identity-verification-link-coinbase.com
 0.0.0.0 auth-idverification-coinbase.com
+0.0.0.0 auth-land.com
 0.0.0.0 auth-metamask.co
 0.0.0.0 auth-metamask.io
 0.0.0.0 auth-metimask.github.io
@@ -19149,6 +19152,7 @@
 0.0.0.0 coingecko.edu.vn
 0.0.0.0 coingecko.fun
 0.0.0.0 coingecko.id
+0.0.0.0 coingecko.kycregulatory.com
 0.0.0.0 coingecko.live
 0.0.0.0 coingecko.ltd
 0.0.0.0 coingecko.net
@@ -22935,6 +22939,7 @@
 0.0.0.0 d.appmooduyh.top
 0.0.0.0 d.dassincs.com
 0.0.0.0 d.market-skin.com
+0.0.0.0 d.moodyimkq.top
 0.0.0.0 d.moodyseokd.top
 0.0.0.0 d.moodysmfof.top
 0.0.0.0 d.stonexdmffh.top
@@ -32838,6 +32843,7 @@
 0.0.0.0 extension.metamsak.co
 0.0.0.0 extension.recovery.supply
 0.0.0.0 extension.thebalichili.com
+0.0.0.0 extensiondapp.pages.dev
 0.0.0.0 extensiondapps.com
 0.0.0.0 extensiones-metamask.com.dymtecnologia.com
 0.0.0.0 extensionportfolioupdate.com
@@ -63181,6 +63187,7 @@
 0.0.0.0 opensoa.xyz
 0.0.0.0 opensocean.net
 0.0.0.0 opensosea.com
+0.0.0.0 opensource-gummysol.live
 0.0.0.0 opensrea.io
 0.0.0.0 openssea-io.com
 0.0.0.0 openssea.biz
@@ -108510,6 +108517,7 @@
 0.0.0.0 zkmoney.mirror-web3.site
 0.0.0.0 zkmoney.org
 0.0.0.0 zkmoney.zone
+0.0.0.0 zknewdcs.pages.dev
 0.0.0.0 zkpolyhedra.net
 0.0.0.0 zks-allocation.org
 0.0.0.0 zks-labsfoundation.com
