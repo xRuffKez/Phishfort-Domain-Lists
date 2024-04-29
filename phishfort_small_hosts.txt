@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon Apr 29 02:13:37 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 03:05:11 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7694
+# Number of Entries: 7695
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -5640,6 +5640,7 @@
 0.0.0.0 roninchain.app
 0.0.0.0 roninchain.cc
 0.0.0.0 roninchain.cloud
+0.0.0.0 roninchain.shop
 0.0.0.0 roninchain.wtf
 0.0.0.0 roninchaln.com
 0.0.0.0 roninchaon.com
