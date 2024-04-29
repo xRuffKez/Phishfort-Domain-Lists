@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 20:02:04 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 21:02:10 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108871
+# Number of Entries: 108874
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -49180,6 +49180,7 @@
 0.0.0.0 mega-mz.com
 0.0.0.0 mega-zn.com
 0.0.0.0 mega168-wallet.com.starflix789.com
+0.0.0.0 megaapps.pages.dev
 0.0.0.0 megablackfridaychevrolet.com
 0.0.0.0 megabokoso.work
 0.0.0.0 megac-lo.com
@@ -65444,6 +65445,7 @@
 0.0.0.0 pancakeswap-presaletoken-finance.com
 0.0.0.0 pancakeswap-pro.com
 0.0.0.0 pancakeswap-proclaim.com
+0.0.0.0 pancakeswap-prodrop.com
 0.0.0.0 pancakeswap-profile.online
 0.0.0.0 pancakeswap-promoute.com
 0.0.0.0 pancakeswap-protocol-tool.pages.dev
@@ -77074,6 +77076,7 @@
 0.0.0.0 roninwebapp.com
 0.0.0.0 roninwollatelog.godaddysites.com
 0.0.0.0 roniwallet.xyz
+0.0.0.0 ronkeeper.com
 0.0.0.0 ronlnchaiin.top
 0.0.0.0 ronlnchain.com
 0.0.0.0 ronnilog.azurewebsites.net

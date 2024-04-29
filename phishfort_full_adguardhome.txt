@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 20:02:04 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 21:02:10 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108871
+# Number of Entries: 108874
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -49180,6 +49180,7 @@
 ||mega-mz.com^
 ||mega-zn.com^
 ||mega168-wallet.com.starflix789.com^
+||megaapps.pages.dev^
 ||megablackfridaychevrolet.com^
 ||megabokoso.work^
 ||megac-lo.com^
@@ -65444,6 +65445,7 @@
 ||pancakeswap-presaletoken-finance.com^
 ||pancakeswap-pro.com^
 ||pancakeswap-proclaim.com^
+||pancakeswap-prodrop.com^
 ||pancakeswap-profile.online^
 ||pancakeswap-promoute.com^
 ||pancakeswap-protocol-tool.pages.dev^
@@ -77074,6 +77076,7 @@
 ||roninwebapp.com^
 ||roninwollatelog.godaddysites.com^
 ||roniwallet.xyz^
+||ronkeeper.com^
 ||ronlnchaiin.top^
 ||ronlnchain.com^
 ||ronnilog.azurewebsites.net^
