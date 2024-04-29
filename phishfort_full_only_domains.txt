@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Mon Apr 29 08:02:18 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 09:02:14 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 108828
+# Number of Entries: 108831
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -5885,6 +5885,7 @@ app-pancakeswap.com
 app-pancakeswap.exchange
 app-pancakeswap.finance
 app-pancakeswap.ml
+app-pancakeswap.pages.dev
 app-pancakeswap.site
 app-pancakeswap.tech
 app-pancakeswapfinan.com
@@ -19158,6 +19159,7 @@ coingecko.win
 coingecko.work
 coingecko.xenapponazure.com
 coingeckoevent.com
+coingeckokyc.kycregulatory.com
 coingeckokyc.kycsregulatory.com
 coingeckoreward.fun
 coingeckoreward.life
@@ -66761,6 +66763,7 @@ pancakeswapcism.com
 pancakeswapclaim-rewardstake.defidappsmainnet.com
 pancakeswapclaim.com
 pancakeswapclaim.vercel.app
+pancakeswapclaim34.vercel.app
 pancakeswapclaimbox.com
 pancakeswapclaims.com
 pancakeswapclassic.com

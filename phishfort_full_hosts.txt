@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 08:02:18 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 09:02:14 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108828
+# Number of Entries: 108831
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -5886,6 +5886,7 @@
 0.0.0.0 app-pancakeswap.exchange
 0.0.0.0 app-pancakeswap.finance
 0.0.0.0 app-pancakeswap.ml
+0.0.0.0 app-pancakeswap.pages.dev
 0.0.0.0 app-pancakeswap.site
 0.0.0.0 app-pancakeswap.tech
 0.0.0.0 app-pancakeswapfinan.com
@@ -19159,6 +19160,7 @@
 0.0.0.0 coingecko.work
 0.0.0.0 coingecko.xenapponazure.com
 0.0.0.0 coingeckoevent.com
+0.0.0.0 coingeckokyc.kycregulatory.com
 0.0.0.0 coingeckokyc.kycsregulatory.com
 0.0.0.0 coingeckoreward.fun
 0.0.0.0 coingeckoreward.life
@@ -66762,6 +66764,7 @@
 0.0.0.0 pancakeswapclaim-rewardstake.defidappsmainnet.com
 0.0.0.0 pancakeswapclaim.com
 0.0.0.0 pancakeswapclaim.vercel.app
+0.0.0.0 pancakeswapclaim34.vercel.app
 0.0.0.0 pancakeswapclaimbox.com
 0.0.0.0 pancakeswapclaims.com
 0.0.0.0 pancakeswapclassic.com
