@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Mon Apr 29 17:01:56 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 18:02:04 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 108866
+# Number of Entries: 108872
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -35804,6 +35804,7 @@ gamingrewardsforcryptousers.com
 gamingtools.xyz
 gamini-wallet.com
 gamio.nft-premint.com
+gamium.pages.dev
 gamiworld-promogive.com
 gammadex.net
 gammaswap.net
@@ -42392,6 +42393,7 @@ klimadaov2.finance
 klimadoaoa.finance
 klimasdao.finance
 klinserve.com
+klkhg-11g.pages.dev
 kllmadao.finance
 klmining.org
 klmining.pro
@@ -60875,6 +60877,7 @@ nitrosupplier.gq
 nivbit.com
 nixetrade.com
 njdianarise.com
+njkbhjghf.pages.dev
 njmvdu.pro
 njwc.ah-care.com
 nk-authcoinbase.com
@@ -81981,6 +81984,7 @@ staemconnmunlty.ru
 staemncommunity.site
 staencommunlty.com
 staencornmunity.ru
+staffinghims.com
 stafiratom-promogive.com
 stag.token.mlteam.net
 stage.pancakeswaps.it
@@ -83115,6 +83119,7 @@ subsyncsupports.web.app
 subtaniall.com
 subtantiatepapproval.org
 subulussalamkota.desa.id
+suburloia.com
 subwallet.online
 subwayrats.live
 subwayratsnft.netlify.app
@@ -99968,6 +99973,7 @@ www.ekoteckkra.com
 www.elament.markets
 www.elda-cg.tg
 www.electrum-web-wallet.com
+www.elettrovisiongroup.com
 www.elgenlayer.co.in
 www.eligibility-wenwencoin.com
 www.eligible-pancakeswap.finance

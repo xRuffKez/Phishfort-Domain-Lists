@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 17:01:56 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 18:02:04 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108866
+# Number of Entries: 108872
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -35805,6 +35805,7 @@
 0.0.0.0 gamingtools.xyz
 0.0.0.0 gamini-wallet.com
 0.0.0.0 gamio.nft-premint.com
+0.0.0.0 gamium.pages.dev
 0.0.0.0 gamiworld-promogive.com
 0.0.0.0 gammadex.net
 0.0.0.0 gammaswap.net
@@ -42393,6 +42394,7 @@
 0.0.0.0 klimadoaoa.finance
 0.0.0.0 klimasdao.finance
 0.0.0.0 klinserve.com
+0.0.0.0 klkhg-11g.pages.dev
 0.0.0.0 kllmadao.finance
 0.0.0.0 klmining.org
 0.0.0.0 klmining.pro
@@ -60876,6 +60878,7 @@
 0.0.0.0 nivbit.com
 0.0.0.0 nixetrade.com
 0.0.0.0 njdianarise.com
+0.0.0.0 njkbhjghf.pages.dev
 0.0.0.0 njmvdu.pro
 0.0.0.0 njwc.ah-care.com
 0.0.0.0 nk-authcoinbase.com
@@ -81982,6 +81985,7 @@
 0.0.0.0 staemncommunity.site
 0.0.0.0 staencommunlty.com
 0.0.0.0 staencornmunity.ru
+0.0.0.0 staffinghims.com
 0.0.0.0 stafiratom-promogive.com
 0.0.0.0 stag.token.mlteam.net
 0.0.0.0 stage.pancakeswaps.it
@@ -83116,6 +83120,7 @@
 0.0.0.0 subtaniall.com
 0.0.0.0 subtantiatepapproval.org
 0.0.0.0 subulussalamkota.desa.id
+0.0.0.0 suburloia.com
 0.0.0.0 subwallet.online
 0.0.0.0 subwayrats.live
 0.0.0.0 subwayratsnft.netlify.app
@@ -99969,6 +99974,7 @@
 0.0.0.0 www.elament.markets
 0.0.0.0 www.elda-cg.tg
 0.0.0.0 www.electrum-web-wallet.com
+0.0.0.0 www.elettrovisiongroup.com
 0.0.0.0 www.elgenlayer.co.in
 0.0.0.0 www.eligibility-wenwencoin.com
 0.0.0.0 www.eligible-pancakeswap.finance
