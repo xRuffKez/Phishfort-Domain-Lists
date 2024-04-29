@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 00:06:21 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 01:25:24 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108830
+# Number of Entries: 108832
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -16244,6 +16244,7 @@
 0.0.0.0 chainge.money
 0.0.0.0 chaingefi.com
 0.0.0.0 chaingefinancetoken.pages.dev
+0.0.0.0 chaingev2-airdrop.pages.dev
 0.0.0.0 chaingpt-ai.org
 0.0.0.0 chaingpt-info.com
 0.0.0.0 chaingpt-io.online
@@ -77918,6 +77919,7 @@
 0.0.0.0 sandboxegams.com
 0.0.0.0 sandboxgame-guide.us
 0.0.0.0 sandboxgame.app
+0.0.0.0 sandboxgame.pages.dev
 0.0.0.0 sandboxgiveaway.net
 0.0.0.0 sandboxh.com
 0.0.0.0 sandboxnow.info

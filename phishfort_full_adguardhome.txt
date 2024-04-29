@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 00:06:21 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 01:25:24 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108830
+# Number of Entries: 108832
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -16244,6 +16244,7 @@
 ||chainge.money^
 ||chaingefi.com^
 ||chaingefinancetoken.pages.dev^
+||chaingev2-airdrop.pages.dev^
 ||chaingpt-ai.org^
 ||chaingpt-info.com^
 ||chaingpt-io.online^
@@ -77918,6 +77919,7 @@
 ||sandboxegams.com^
 ||sandboxgame-guide.us^
 ||sandboxgame.app^
+||sandboxgame.pages.dev^
 ||sandboxgiveaway.net^
 ||sandboxh.com^
 ||sandboxnow.info^
