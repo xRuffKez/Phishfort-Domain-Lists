@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Mon Apr 29 08:06:59 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 09:04:55 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7640
+# Number of Entries: 7635
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1414,7 +1414,6 @@ claim-poly.com
 claim-poodlinu.pages.dev
 claim-pork.pages.dev
 claim-qanplatform.net
-claim-raidy.space
 claim-realio.net
 claim-refund.github.io
 claim-retik-finiaces.web.app
@@ -1569,6 +1568,7 @@ coinbose.app
 coinchanger.live
 coindappfixes.pages.dev
 coindas.top
+coingeckokyc.kycregulatory.com
 coinlaunchpad.netlify.app
 coinmainnets.com
 coinmarketcap-app-auth.web.app
@@ -2576,8 +2576,6 @@ get-metamask.io
 get-metis.com
 get-neotokyo.codes
 get-pancake.xyz
-get-raidy.click
-get-raidy.top
 get-rewards.info
 get-sharpnel.net
 get-solanamobile.com
@@ -4273,7 +4271,6 @@ near-lottery.org
 nearraffle.com
 neom-property.com
 neom-staging.klues.ai
-neom-suppliers.com
 neom.day
 neomecolife.com
 neomfuturehub.com
@@ -4780,6 +4777,7 @@ pancakeswap.sipf.cc
 pancakeswap92.vercel.app
 pancakeswapairdrop.com
 pancakeswapclaim.vercel.app
+pancakeswapclaim34.vercel.app
 pancakeswapclaimbox.com
 pancakeswapclick04.vercel.app
 pancakeswapcrypto.com
@@ -5361,7 +5359,6 @@ rarible.quest
 rational-zerosolvosmartverse.pro
 ravokecash.org
 raxful.com
-rayd.ink
 raydeum.io
 raydiu.com
 raydium-frontend.pages.dev
@@ -7477,8 +7474,6 @@ xn--fixedfaot-wpbe.com
 xn--fixedflaot-2ub.net
 xn--fixedflaot-k8a.com
 xn--fixedflaot-xub.com
-xn--fixedfloat-1ub.com
-xn--fixedfloat-2ub.com
 xn--fixedfloat-3ub.com
 xn--fixedfoat-0pb.com
 xn--fixedfoat-wpb.com
