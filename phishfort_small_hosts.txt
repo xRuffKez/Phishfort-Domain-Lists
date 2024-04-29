@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon Apr 29 09:04:55 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 10:05:16 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7635
+# Number of Entries: 7636
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2121,6 +2121,7 @@
 0.0.0.0 earn-defipool.com
 0.0.0.0 earn-dmail.com
 0.0.0.0 earn-drop.asia
+0.0.0.0 earn-pancakeswap.finance
 0.0.0.0 earn-taopads.web.app
 0.0.0.0 earndrop-checker.com
 0.0.0.0 earndrop.airdrop-claiming.xyz

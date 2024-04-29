@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Mon Apr 29 09:04:55 UTC 2024
+# PhishFort Small Domain List - Mon Apr 29 10:05:16 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7635
+# Number of Entries: 7636
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2120,6 +2120,7 @@ earn-cookie.community
 earn-defipool.com
 earn-dmail.com
 earn-drop.asia
+earn-pancakeswap.finance
 earn-taopads.web.app
 earndrop-checker.com
 earndrop.airdrop-claiming.xyz
