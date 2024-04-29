@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Mon Apr 29 09:02:14 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 10:02:00 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 108831
+# Number of Entries: 108833
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -9274,6 +9274,7 @@ axieinfinitty-app.buzz
 axieinfinitty.com
 axieinfinitty.website
 axieinfinitu.com
+axieinfinity-9ao.pages.dev
 axieinfinity-accountsupdate.com
 axieinfinity-ad.com
 axieinfinity-air.com
@@ -28398,6 +28399,7 @@ earn-knm.com
 earn-linge.com
 earn-pancakeswap.art
 earn-pancakeswap.com
+earn-pancakeswap.finance
 earn-taopads.web.app
 earn-taxind.com
 earn.app-1ihch.com

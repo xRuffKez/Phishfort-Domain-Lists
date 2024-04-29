@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon Apr 29 09:02:14 UTC 2024
+# PhishFort Full Domain List - Mon Apr 29 10:02:00 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108831
+# Number of Entries: 108833
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -9275,6 +9275,7 @@
 0.0.0.0 axieinfinitty.com
 0.0.0.0 axieinfinitty.website
 0.0.0.0 axieinfinitu.com
+0.0.0.0 axieinfinity-9ao.pages.dev
 0.0.0.0 axieinfinity-accountsupdate.com
 0.0.0.0 axieinfinity-ad.com
 0.0.0.0 axieinfinity-air.com
@@ -28399,6 +28400,7 @@
 0.0.0.0 earn-linge.com
 0.0.0.0 earn-pancakeswap.art
 0.0.0.0 earn-pancakeswap.com
+0.0.0.0 earn-pancakeswap.finance
 0.0.0.0 earn-taopads.web.app
 0.0.0.0 earn-taxind.com
 0.0.0.0 earn.app-1ihch.com
