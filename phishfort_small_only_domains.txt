@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Tue Apr 30 10:05:54 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 11:05:18 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7638
+# Number of Entries: 7624
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -114,6 +114,7 @@
 9e6e51d6-1af4-46ae-b583-dc84ea67ef6c-00-16rc48b4ompks.kirk.replit.dev
 9inchswap.com
 9macu.info
+a1financialservices.ph
 a1pv.cc
 a26ed5eb.hub-originether.org
 a407info.com
@@ -283,7 +284,6 @@ airdrop-wtoken.com
 airdrop-zeroiand.xyz
 airdrop-zerolend.app
 airdrop-zerolend.network
-airdrop-zetablockchain.com
 airdrop-zkfair.network
 airdrop-zksync.com
 airdrop.activechain.io
@@ -672,7 +672,6 @@ appweb3.site
 appzlink.com
 apr-vectorreserve.network
 aps.bifi-yleld.xyz
-apt.500-web3.top
 aptos.trusthubs.top
 apygatercptools.web.app
 aquilibrium.club
@@ -1305,7 +1304,6 @@ chainlinktreasury.net
 chainlisti-oi.top
 chainlogserver.pages.dev
 chainlsiit.com
-chainmulticoin.pages.dev
 chains-gpt.net
 chains-optimism.com
 chainsextension.com
@@ -1665,6 +1663,7 @@ contractclaim.netlify.app
 convert-dgcoin.com
 convex-finance.xyz
 convexfinance.io
+coplinhealth.local-user.com
 coqinucoin.claims
 corcentrc.com
 cornerdrop.org
@@ -1710,7 +1709,6 @@ cryptohopperclaim.com
 cryptoinfosec.net
 cryptopepedrops.com
 cryptos-rnantas.com
-cryptotech.pages.dev
 cryptoundeeds.com
 cryptovipweb30.com
 cryptovipweb30.top
@@ -2180,7 +2178,6 @@ enlisted-portalgaming.com
 enstoken.net
 entangle-fi.org
 enteerpriserentacar.org
-enter-injective.com
 enter-treasure.trading
 enter-wormhole.network
 enudeekc.one
@@ -2373,7 +2370,6 @@ fergusonhvacamericanstandard.com
 fffcu.de
 ffj7.sa.com
 fi-woo-org.vercel.app
-fidelityadvancedsaving.com
 figurefourchampionship.com
 fillold.mypsx.net
 filsmarttechprompt.pages.dev
@@ -3134,6 +3130,7 @@ keyst-one.com
 kgatn.pro
 kier-careers.co.uk
 kier-group.co.uk
+kier-uk.com
 kingroofing.com
 kitty-inu-dao.com
 kkyphtf0fbvl.ftntpk6ubbx4sk.ru
@@ -3170,7 +3167,6 @@ l1cloudhaut.com
 l2-blast.buzz
 labs.pixelmon.tech
 lakesldecontrols.com
-largedrop.com
 laughcode.conohawing.com
 launch-berachain.com
 launch-mavia.com
@@ -3334,7 +3330,6 @@ liquid-stake.com
 liquidether.org
 liquidether.rip
 liquidetherv2.com
-liquiditypools-uniswap.com
 liquidloanswhitelist.tech
 liquids-ethereum.com
 liquidsync.pages.dev
@@ -3617,7 +3612,6 @@ maplestorysuniverse.io
 maqiceden.web.app
 market-place-bids.com
 marketpalcestatus.com
-marketplace-listings.com
 marketplace-offers.io
 marketplacestatus.com
 markets-csgo.com
@@ -4006,7 +4000,6 @@ mint.stonlix.club
 mint.stonrost.xyz
 mint.suithefrensi.biz
 mintchain.pro
-mintify.trading
 mintlayermigration.org
 mintnobody.online
 mirror-portalgaming.com
@@ -4255,7 +4248,6 @@ neom-staging.klues.ai
 neom.day
 neomecolife.com
 neomfuturehub.com
-neomonlines.info
 neomprojects-ksa.net
 neomsuppliers.net
 neotokyohq.pro
@@ -5682,7 +5674,6 @@ saqa-cases.app
 saqaboxes.trade
 saqacase.vip
 sareachbuy.com
-satisdex.xyz
 satkeland.com
 satoshi-one.vercel.app
 satoshidex-in.web.app
@@ -6252,6 +6243,7 @@ tether.com.se
 tether.is
 tetherlaupad.com
 texasplasmacenters.info
+tg2813portal.com
 tgl-me.ru
 the-agodahotel.top
 the-ethereum-trader-app.net
@@ -6313,7 +6305,6 @@ tiktok1122.com
 tiktok39.com
 tiktok52.com
 tiktok66.cc
-tiktokcl.com
 tiktokeconline.com
 tiktokfw.com
 tiktokjm.com
@@ -6397,7 +6388,6 @@ tornadocash.vn
 tornova.cash
 toshiithecats.app
 totalwine-sale.shop
-touzhai.cn
 tpnkeeper.com
 track-web3.online
 tracomservices.com
@@ -6911,13 +6901,11 @@ webpaxos.com
 websmart-de.fi
 websolverdapp.pages.dev
 webtransfer.vfjikpnlth.life
-weedcurrency.online
 welcometo-neotokyo.codes
 weli3.xyz
 wellingtoncolleges.org.uk
 wen-farcana.com
 wen-jupiter.onchain-airdrop.com
-wen-wencoin.com
 wen.meme
 wenbutusedgently.xyz
 wencoin.gg
@@ -7264,7 +7252,6 @@ www.metamask08.com
 www.metamask12.pro
 www.metamask68.com
 www.metamask88.com
-www.metamaskai.xyz
 www.metamaskarticle.com
 www.metamaskcion.com
 www.metamaske.com.cn
@@ -7421,7 +7408,6 @@ www.vip-asx.com
 www.vippaxos.com
 www.virtualsafetysolutions.net
 www.viziosetup.com
-www.vlaunch.org
 www.vopiow.com
 www.web.resolvebugvvalidly.org
 www.web3-metamask-gateway.com

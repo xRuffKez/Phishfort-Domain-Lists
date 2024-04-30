@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue Apr 30 10:05:54 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 11:05:18 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7638
+# Number of Entries: 7624
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -115,6 +115,7 @@
 0.0.0.0 9e6e51d6-1af4-46ae-b583-dc84ea67ef6c-00-16rc48b4ompks.kirk.replit.dev
 0.0.0.0 9inchswap.com
 0.0.0.0 9macu.info
+0.0.0.0 a1financialservices.ph
 0.0.0.0 a1pv.cc
 0.0.0.0 a26ed5eb.hub-originether.org
 0.0.0.0 a407info.com
@@ -284,7 +285,6 @@
 0.0.0.0 airdrop-zeroiand.xyz
 0.0.0.0 airdrop-zerolend.app
 0.0.0.0 airdrop-zerolend.network
-0.0.0.0 airdrop-zetablockchain.com
 0.0.0.0 airdrop-zkfair.network
 0.0.0.0 airdrop-zksync.com
 0.0.0.0 airdrop.activechain.io
@@ -673,7 +673,6 @@
 0.0.0.0 appzlink.com
 0.0.0.0 apr-vectorreserve.network
 0.0.0.0 aps.bifi-yleld.xyz
-0.0.0.0 apt.500-web3.top
 0.0.0.0 aptos.trusthubs.top
 0.0.0.0 apygatercptools.web.app
 0.0.0.0 aquilibrium.club
@@ -1306,7 +1305,6 @@
 0.0.0.0 chainlisti-oi.top
 0.0.0.0 chainlogserver.pages.dev
 0.0.0.0 chainlsiit.com
-0.0.0.0 chainmulticoin.pages.dev
 0.0.0.0 chains-gpt.net
 0.0.0.0 chains-optimism.com
 0.0.0.0 chainsextension.com
@@ -1666,6 +1664,7 @@
 0.0.0.0 convert-dgcoin.com
 0.0.0.0 convex-finance.xyz
 0.0.0.0 convexfinance.io
+0.0.0.0 coplinhealth.local-user.com
 0.0.0.0 coqinucoin.claims
 0.0.0.0 corcentrc.com
 0.0.0.0 cornerdrop.org
@@ -1711,7 +1710,6 @@
 0.0.0.0 cryptoinfosec.net
 0.0.0.0 cryptopepedrops.com
 0.0.0.0 cryptos-rnantas.com
-0.0.0.0 cryptotech.pages.dev
 0.0.0.0 cryptoundeeds.com
 0.0.0.0 cryptovipweb30.com
 0.0.0.0 cryptovipweb30.top
@@ -2181,7 +2179,6 @@
 0.0.0.0 enstoken.net
 0.0.0.0 entangle-fi.org
 0.0.0.0 enteerpriserentacar.org
-0.0.0.0 enter-injective.com
 0.0.0.0 enter-treasure.trading
 0.0.0.0 enter-wormhole.network
 0.0.0.0 enudeekc.one
@@ -2374,7 +2371,6 @@
 0.0.0.0 fffcu.de
 0.0.0.0 ffj7.sa.com
 0.0.0.0 fi-woo-org.vercel.app
-0.0.0.0 fidelityadvancedsaving.com
 0.0.0.0 figurefourchampionship.com
 0.0.0.0 fillold.mypsx.net
 0.0.0.0 filsmarttechprompt.pages.dev
@@ -3135,6 +3131,7 @@
 0.0.0.0 kgatn.pro
 0.0.0.0 kier-careers.co.uk
 0.0.0.0 kier-group.co.uk
+0.0.0.0 kier-uk.com
 0.0.0.0 kingroofing.com
 0.0.0.0 kitty-inu-dao.com
 0.0.0.0 kkyphtf0fbvl.ftntpk6ubbx4sk.ru
@@ -3171,7 +3168,6 @@
 0.0.0.0 l2-blast.buzz
 0.0.0.0 labs.pixelmon.tech
 0.0.0.0 lakesldecontrols.com
-0.0.0.0 largedrop.com
 0.0.0.0 laughcode.conohawing.com
 0.0.0.0 launch-berachain.com
 0.0.0.0 launch-mavia.com
@@ -3335,7 +3331,6 @@
 0.0.0.0 liquidether.org
 0.0.0.0 liquidether.rip
 0.0.0.0 liquidetherv2.com
-0.0.0.0 liquiditypools-uniswap.com
 0.0.0.0 liquidloanswhitelist.tech
 0.0.0.0 liquids-ethereum.com
 0.0.0.0 liquidsync.pages.dev
@@ -3618,7 +3613,6 @@
 0.0.0.0 maqiceden.web.app
 0.0.0.0 market-place-bids.com
 0.0.0.0 marketpalcestatus.com
-0.0.0.0 marketplace-listings.com
 0.0.0.0 marketplace-offers.io
 0.0.0.0 marketplacestatus.com
 0.0.0.0 markets-csgo.com
@@ -4007,7 +4001,6 @@
 0.0.0.0 mint.stonrost.xyz
 0.0.0.0 mint.suithefrensi.biz
 0.0.0.0 mintchain.pro
-0.0.0.0 mintify.trading
 0.0.0.0 mintlayermigration.org
 0.0.0.0 mintnobody.online
 0.0.0.0 mirror-portalgaming.com
@@ -4256,7 +4249,6 @@
 0.0.0.0 neom.day
 0.0.0.0 neomecolife.com
 0.0.0.0 neomfuturehub.com
-0.0.0.0 neomonlines.info
 0.0.0.0 neomprojects-ksa.net
 0.0.0.0 neomsuppliers.net
 0.0.0.0 neotokyohq.pro
@@ -5683,7 +5675,6 @@
 0.0.0.0 saqaboxes.trade
 0.0.0.0 saqacase.vip
 0.0.0.0 sareachbuy.com
-0.0.0.0 satisdex.xyz
 0.0.0.0 satkeland.com
 0.0.0.0 satoshi-one.vercel.app
 0.0.0.0 satoshidex-in.web.app
@@ -6253,6 +6244,7 @@
 0.0.0.0 tether.is
 0.0.0.0 tetherlaupad.com
 0.0.0.0 texasplasmacenters.info
+0.0.0.0 tg2813portal.com
 0.0.0.0 tgl-me.ru
 0.0.0.0 the-agodahotel.top
 0.0.0.0 the-ethereum-trader-app.net
@@ -6314,7 +6306,6 @@
 0.0.0.0 tiktok39.com
 0.0.0.0 tiktok52.com
 0.0.0.0 tiktok66.cc
-0.0.0.0 tiktokcl.com
 0.0.0.0 tiktokeconline.com
 0.0.0.0 tiktokfw.com
 0.0.0.0 tiktokjm.com
@@ -6398,7 +6389,6 @@
 0.0.0.0 tornova.cash
 0.0.0.0 toshiithecats.app
 0.0.0.0 totalwine-sale.shop
-0.0.0.0 touzhai.cn
 0.0.0.0 tpnkeeper.com
 0.0.0.0 track-web3.online
 0.0.0.0 tracomservices.com
@@ -6912,13 +6902,11 @@
 0.0.0.0 websmart-de.fi
 0.0.0.0 websolverdapp.pages.dev
 0.0.0.0 webtransfer.vfjikpnlth.life
-0.0.0.0 weedcurrency.online
 0.0.0.0 welcometo-neotokyo.codes
 0.0.0.0 weli3.xyz
 0.0.0.0 wellingtoncolleges.org.uk
 0.0.0.0 wen-farcana.com
 0.0.0.0 wen-jupiter.onchain-airdrop.com
-0.0.0.0 wen-wencoin.com
 0.0.0.0 wen.meme
 0.0.0.0 wenbutusedgently.xyz
 0.0.0.0 wencoin.gg
@@ -7265,7 +7253,6 @@
 0.0.0.0 www.metamask12.pro
 0.0.0.0 www.metamask68.com
 0.0.0.0 www.metamask88.com
-0.0.0.0 www.metamaskai.xyz
 0.0.0.0 www.metamaskarticle.com
 0.0.0.0 www.metamaskcion.com
 0.0.0.0 www.metamaske.com.cn
@@ -7422,7 +7409,6 @@
 0.0.0.0 www.vippaxos.com
 0.0.0.0 www.virtualsafetysolutions.net
 0.0.0.0 www.viziosetup.com
-0.0.0.0 www.vlaunch.org
 0.0.0.0 www.vopiow.com
 0.0.0.0 www.web.resolvebugvvalidly.org
 0.0.0.0 www.web3-metamask-gateway.com
