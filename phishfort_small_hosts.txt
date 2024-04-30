@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Tue Apr 30 01:27:08 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 02:12:22 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 7649
@@ -9,7 +9,6 @@
 0.0.0.0 02nat.mypsx.net
 0.0.0.0 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
 0.0.0.0 0l9c6xn.info
-0.0.0.0 0nline.avebenlavebe.click
 0.0.0.0 0pensea-click.vercel.app
 0.0.0.0 0penseamystery.vercel.app
 0.0.0.0 0penseapro-click.vercel.app
@@ -6507,6 +6506,7 @@
 0.0.0.0 umusic-pub.com
 0.0.0.0 umusic.co.in
 0.0.0.0 umusiceu.com
+0.0.0.0 umusicr.com
 0.0.0.0 unapatches.com
 0.0.0.0 unblock.pancakeswaapfinance.net
 0.0.0.0 unclaimeddrops.link-claiming.xyz

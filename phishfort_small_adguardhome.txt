@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Tue Apr 30 01:27:08 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 02:12:22 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
 # Number of Entries: 7649
@@ -9,7 +9,6 @@
 ||02nat.mypsx.net^
 ||090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info^
 ||0l9c6xn.info^
-||0nline.avebenlavebe.click^
 ||0pensea-click.vercel.app^
 ||0penseamystery.vercel.app^
 ||0penseapro-click.vercel.app^
@@ -6507,6 +6506,7 @@
 ||umusic-pub.com^
 ||umusic.co.in^
 ||umusiceu.com^
+||umusicr.com^
 ||unapatches.com^
 ||unblock.pancakeswaapfinance.net^
 ||unclaimeddrops.link-claiming.xyz^
