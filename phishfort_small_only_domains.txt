@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Tue Apr 30 07:04:49 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 08:06:00 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7651
+# Number of Entries: 7639
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -265,7 +265,6 @@ airdrop-ionet.vercel.app
 airdrop-jup.one
 airdrop-jup.vip
 airdrop-magiceden.com
-airdrop-mantaa.pages.dev
 airdrop-mavia.com
 airdrop-nibi.com
 airdrop-pancakeswap.web.app
@@ -692,7 +691,6 @@ arbetrum.foundation
 arbi-dex.one
 arbination.site
 arbinucoin.vercel.app
-arbitrum-air.icu
 arbitrum-airdrop2023.com
 arbitrum-reward.xyz
 arbitrum.devilinu.com
@@ -841,7 +839,6 @@ bac-swappcoin.web.app
 badge-chain.link
 badges-altlayer.io
 badges-chain.link
-badges-chainlink.com
 bafkreiagunr2sbunsmqb7eaoa5x5qeonkicuthxuoq3rzyy3s775dzknie.ipfs.dweb.link
 bafybeiacdlff4jtqcufouraliealwkunukjhozwiy7mdojmsq45xzswlri.ipfs.dweb.link
 bafybeianm7lllm6v2rpyuah5gzsh22gxfikab5ie3xei6f2n3ngfvsx524.ipfs.dweb.link
@@ -1019,7 +1016,6 @@ blast-drop.space
 blast-drop.tech
 blast-drop.website
 blast-io.pro
-blast-l2.dev
 blast-layer.web.app
 blast-newsletter.com
 blast-protocol.xyz
@@ -1915,7 +1911,6 @@ defifix.pages.dev
 defiilama.eu
 defilama.eu
 defilaunchpad.pages.dev
-defimanta.net
 defimining101.com
 defiphantom.io
 defiportfolio.online
@@ -2990,7 +2985,6 @@ jggo.mypi.co
 jiashengint.cn
 jiashengtrader.com
 jils1.pro
-jitocoins-network.com
 jitodrop.net
 jizzx.b4t.to
 jjup.ag
@@ -3579,7 +3573,6 @@ mantacoins-wallet.com
 mantacoins-wallet.net
 mantacoins.com
 mantacoinwallet.com
-mantadex.net
 mantadistribution.net
 mantaintotheblue.com
 mantaintotheblue.net
@@ -3611,7 +3604,6 @@ mantletoday.xyz
 mantnetworks.com
 manto-hetwork.com
 manto-network.com
-manto-networks.com
 mantrachains-io.pages.dev
 manttanetwork.com
 manual-metarestore.pages.dev
@@ -4451,6 +4443,7 @@ nzwinz.com
 o2-cert.com
 o2-kundenverwaltung.info
 o2online-service.de
+o2online.com.de
 oasisprotocols.org
 ob-app.com
 obamacareenrollment.org
@@ -5489,6 +5482,7 @@ revoke-approvals.xyz.polarmates.top
 revoke-cash-i9n0pa5cx-lahana.vercel.app
 revoke-cash-layer2.pages.dev
 revoke-cassh.pages.dev
+revoke-crypto.com
 revoke-eth.xyz
 revoke-etherscan.online
 revoke-paraswap.com
@@ -5910,7 +5904,6 @@ snapshot-defi.xyz
 snapshot-hydroprotocol.com
 snapshot-particle.network
 snapshot-syncswap.com
-snapshot-zksync.io
 snapshots-quai.network
 snapshots-wormhole.xyz
 snexkr.com
@@ -6037,14 +6030,12 @@ starknet-crypto.com
 starknet-foundation.io
 starknet-now.network
 starknet-now.pics
-starknet-pro.icu
 starknet-program.xyz
 starknet-reward.network
 starknet.press
 starknet.pro.in
 starknet.sk
 starknetairdrop.shop
-starknetfond.com
 starknetone.life
 starknetweb3.com
 starkrewards.xyz
@@ -6322,7 +6313,6 @@ tiktok1122.com
 tiktok39.com
 tiktok52.com
 tiktok66.cc
-tiktokcck.com
 tiktokcl.com
 tiktokeconline.com
 tiktokfw.com
@@ -6337,7 +6327,6 @@ tiktokshopdown.com
 tiktoktech.net
 tiktoktech.org
 tiktokv.shop
-tiktokvvn.com
 tiktokweb.cc
 tiktoky.cc
 titano.defilama.top
@@ -7586,7 +7575,6 @@ zerolends.top
 zerollend.one
 zerounibaseslp.pages.dev
 zeta-chain.net
-zeta-chain.pages.dev
 zetachain.cm
 zetachain.one
 zetachain.pages.dev

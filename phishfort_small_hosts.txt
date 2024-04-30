@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue Apr 30 07:04:49 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 08:06:00 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7651
+# Number of Entries: 7639
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -266,7 +266,6 @@
 0.0.0.0 airdrop-jup.one
 0.0.0.0 airdrop-jup.vip
 0.0.0.0 airdrop-magiceden.com
-0.0.0.0 airdrop-mantaa.pages.dev
 0.0.0.0 airdrop-mavia.com
 0.0.0.0 airdrop-nibi.com
 0.0.0.0 airdrop-pancakeswap.web.app
@@ -693,7 +692,6 @@
 0.0.0.0 arbi-dex.one
 0.0.0.0 arbination.site
 0.0.0.0 arbinucoin.vercel.app
-0.0.0.0 arbitrum-air.icu
 0.0.0.0 arbitrum-airdrop2023.com
 0.0.0.0 arbitrum-reward.xyz
 0.0.0.0 arbitrum.devilinu.com
@@ -842,7 +840,6 @@
 0.0.0.0 badge-chain.link
 0.0.0.0 badges-altlayer.io
 0.0.0.0 badges-chain.link
-0.0.0.0 badges-chainlink.com
 0.0.0.0 bafkreiagunr2sbunsmqb7eaoa5x5qeonkicuthxuoq3rzyy3s775dzknie.ipfs.dweb.link
 0.0.0.0 bafybeiacdlff4jtqcufouraliealwkunukjhozwiy7mdojmsq45xzswlri.ipfs.dweb.link
 0.0.0.0 bafybeianm7lllm6v2rpyuah5gzsh22gxfikab5ie3xei6f2n3ngfvsx524.ipfs.dweb.link
@@ -1020,7 +1017,6 @@
 0.0.0.0 blast-drop.tech
 0.0.0.0 blast-drop.website
 0.0.0.0 blast-io.pro
-0.0.0.0 blast-l2.dev
 0.0.0.0 blast-layer.web.app
 0.0.0.0 blast-newsletter.com
 0.0.0.0 blast-protocol.xyz
@@ -1916,7 +1912,6 @@
 0.0.0.0 defiilama.eu
 0.0.0.0 defilama.eu
 0.0.0.0 defilaunchpad.pages.dev
-0.0.0.0 defimanta.net
 0.0.0.0 defimining101.com
 0.0.0.0 defiphantom.io
 0.0.0.0 defiportfolio.online
@@ -2991,7 +2986,6 @@
 0.0.0.0 jiashengint.cn
 0.0.0.0 jiashengtrader.com
 0.0.0.0 jils1.pro
-0.0.0.0 jitocoins-network.com
 0.0.0.0 jitodrop.net
 0.0.0.0 jizzx.b4t.to
 0.0.0.0 jjup.ag
@@ -3580,7 +3574,6 @@
 0.0.0.0 mantacoins-wallet.net
 0.0.0.0 mantacoins.com
 0.0.0.0 mantacoinwallet.com
-0.0.0.0 mantadex.net
 0.0.0.0 mantadistribution.net
 0.0.0.0 mantaintotheblue.com
 0.0.0.0 mantaintotheblue.net
@@ -3612,7 +3605,6 @@
 0.0.0.0 mantnetworks.com
 0.0.0.0 manto-hetwork.com
 0.0.0.0 manto-network.com
-0.0.0.0 manto-networks.com
 0.0.0.0 mantrachains-io.pages.dev
 0.0.0.0 manttanetwork.com
 0.0.0.0 manual-metarestore.pages.dev
@@ -4452,6 +4444,7 @@
 0.0.0.0 o2-cert.com
 0.0.0.0 o2-kundenverwaltung.info
 0.0.0.0 o2online-service.de
+0.0.0.0 o2online.com.de
 0.0.0.0 oasisprotocols.org
 0.0.0.0 ob-app.com
 0.0.0.0 obamacareenrollment.org
@@ -5490,6 +5483,7 @@
 0.0.0.0 revoke-cash-i9n0pa5cx-lahana.vercel.app
 0.0.0.0 revoke-cash-layer2.pages.dev
 0.0.0.0 revoke-cassh.pages.dev
+0.0.0.0 revoke-crypto.com
 0.0.0.0 revoke-eth.xyz
 0.0.0.0 revoke-etherscan.online
 0.0.0.0 revoke-paraswap.com
@@ -5911,7 +5905,6 @@
 0.0.0.0 snapshot-hydroprotocol.com
 0.0.0.0 snapshot-particle.network
 0.0.0.0 snapshot-syncswap.com
-0.0.0.0 snapshot-zksync.io
 0.0.0.0 snapshots-quai.network
 0.0.0.0 snapshots-wormhole.xyz
 0.0.0.0 snexkr.com
@@ -6038,14 +6031,12 @@
 0.0.0.0 starknet-foundation.io
 0.0.0.0 starknet-now.network
 0.0.0.0 starknet-now.pics
-0.0.0.0 starknet-pro.icu
 0.0.0.0 starknet-program.xyz
 0.0.0.0 starknet-reward.network
 0.0.0.0 starknet.press
 0.0.0.0 starknet.pro.in
 0.0.0.0 starknet.sk
 0.0.0.0 starknetairdrop.shop
-0.0.0.0 starknetfond.com
 0.0.0.0 starknetone.life
 0.0.0.0 starknetweb3.com
 0.0.0.0 starkrewards.xyz
@@ -6323,7 +6314,6 @@
 0.0.0.0 tiktok39.com
 0.0.0.0 tiktok52.com
 0.0.0.0 tiktok66.cc
-0.0.0.0 tiktokcck.com
 0.0.0.0 tiktokcl.com
 0.0.0.0 tiktokeconline.com
 0.0.0.0 tiktokfw.com
@@ -6338,7 +6328,6 @@
 0.0.0.0 tiktoktech.net
 0.0.0.0 tiktoktech.org
 0.0.0.0 tiktokv.shop
-0.0.0.0 tiktokvvn.com
 0.0.0.0 tiktokweb.cc
 0.0.0.0 tiktoky.cc
 0.0.0.0 titano.defilama.top
@@ -7587,7 +7576,6 @@
 0.0.0.0 zerollend.one
 0.0.0.0 zerounibaseslp.pages.dev
 0.0.0.0 zeta-chain.net
-0.0.0.0 zeta-chain.pages.dev
 0.0.0.0 zetachain.cm
 0.0.0.0 zetachain.one
 0.0.0.0 zetachain.pages.dev
