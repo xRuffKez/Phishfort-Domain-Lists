@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Tue Apr 30 14:05:49 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 15:04:43 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7624
+# Number of Entries: 7625
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -138,6 +138,7 @@ aavve.org
 ab.datpoint.online
 ab.ebay-asia.com
 abacoin.website
+ablonline.best
 abracadebra.money
 abs-dev.artbyarabbank.ch
 abs-staging.artbyarabbank.ch
@@ -1391,6 +1392,7 @@ claim-paals.com
 claim-pacmon.xyz
 claim-pancakaswap.web.app
 claim-pancakeswap.web.app
+claim-pancakeswep.firebaseapp.com
 claim-pancakeswep.web.app
 claim-pandoshi.web.app
 claim-pendlefinance.com
@@ -3130,6 +3132,7 @@ kgatn.pro
 kier-careers.co.uk
 kier-group.co.uk
 kier-uk.com
+kiergroup.info
 kingroofing.com
 kitty-inu-dao.com
 kkyphtf0fbvl.ftntpk6ubbx4sk.ru
@@ -3333,7 +3336,6 @@ liquidloanswhitelist.tech
 liquids-ethereum.com
 liquidsync.pages.dev
 liquity.gift
-list-jup.app
 list-jup.space
 listing-dymension.xyz
 listings-96655.net
@@ -4062,6 +4064,7 @@ monerotumbler.io
 moneypak-activate.com
 moneypak-reload.com
 monkedao.one
+monline.best
 monsprotocol.io
 monta-network.com
 mooar.top
@@ -4472,7 +4475,6 @@ oldsecondwork.pics
 olympus-dao.finance
 olympus.gift
 olympusv2.net
-omasgovst.com
 omega.sc-stake.com
 omg.altscoin.top
 on-407etr.com
@@ -4489,7 +4491,6 @@ ongcoffice.com
 ongoing-jup.app
 online.subscriibe.shop
 onlinedetma.click
-onlinedetma.online
 onlinedetma.za.com
 onlinelaunchdappsvalidate.vercel.app
 onlinenode.pages.dev
@@ -4711,6 +4712,7 @@ pancakelp.org
 pancakelps.com
 pancakelps.org
 pancakeopenclaim15.vercel.app
+pancakepromos.lol
 pancakeprotectors.pages.dev
 pancakesawpifnance.com
 pancakesdropcclaims36.vercel.app
@@ -5358,7 +5360,6 @@ realio.gift
 realtyexcellence.com
 rebby.io
 rebirthcreepz.com
-receive-jup.app
 receive-zetachaincom.pages.dev
 receive.pilxeisgame.xyz
 received-ethena.app

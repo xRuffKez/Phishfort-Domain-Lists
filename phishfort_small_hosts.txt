@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue Apr 30 14:05:49 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 15:04:43 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7624
+# Number of Entries: 7625
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -139,6 +139,7 @@
 0.0.0.0 ab.datpoint.online
 0.0.0.0 ab.ebay-asia.com
 0.0.0.0 abacoin.website
+0.0.0.0 ablonline.best
 0.0.0.0 abracadebra.money
 0.0.0.0 abs-dev.artbyarabbank.ch
 0.0.0.0 abs-staging.artbyarabbank.ch
@@ -1392,6 +1393,7 @@
 0.0.0.0 claim-pacmon.xyz
 0.0.0.0 claim-pancakaswap.web.app
 0.0.0.0 claim-pancakeswap.web.app
+0.0.0.0 claim-pancakeswep.firebaseapp.com
 0.0.0.0 claim-pancakeswep.web.app
 0.0.0.0 claim-pandoshi.web.app
 0.0.0.0 claim-pendlefinance.com
@@ -3131,6 +3133,7 @@
 0.0.0.0 kier-careers.co.uk
 0.0.0.0 kier-group.co.uk
 0.0.0.0 kier-uk.com
+0.0.0.0 kiergroup.info
 0.0.0.0 kingroofing.com
 0.0.0.0 kitty-inu-dao.com
 0.0.0.0 kkyphtf0fbvl.ftntpk6ubbx4sk.ru
@@ -3334,7 +3337,6 @@
 0.0.0.0 liquids-ethereum.com
 0.0.0.0 liquidsync.pages.dev
 0.0.0.0 liquity.gift
-0.0.0.0 list-jup.app
 0.0.0.0 list-jup.space
 0.0.0.0 listing-dymension.xyz
 0.0.0.0 listings-96655.net
@@ -4063,6 +4065,7 @@
 0.0.0.0 moneypak-activate.com
 0.0.0.0 moneypak-reload.com
 0.0.0.0 monkedao.one
+0.0.0.0 monline.best
 0.0.0.0 monsprotocol.io
 0.0.0.0 monta-network.com
 0.0.0.0 mooar.top
@@ -4473,7 +4476,6 @@
 0.0.0.0 olympus-dao.finance
 0.0.0.0 olympus.gift
 0.0.0.0 olympusv2.net
-0.0.0.0 omasgovst.com
 0.0.0.0 omega.sc-stake.com
 0.0.0.0 omg.altscoin.top
 0.0.0.0 on-407etr.com
@@ -4490,7 +4492,6 @@
 0.0.0.0 ongoing-jup.app
 0.0.0.0 online.subscriibe.shop
 0.0.0.0 onlinedetma.click
-0.0.0.0 onlinedetma.online
 0.0.0.0 onlinedetma.za.com
 0.0.0.0 onlinelaunchdappsvalidate.vercel.app
 0.0.0.0 onlinenode.pages.dev
@@ -4712,6 +4713,7 @@
 0.0.0.0 pancakelps.com
 0.0.0.0 pancakelps.org
 0.0.0.0 pancakeopenclaim15.vercel.app
+0.0.0.0 pancakepromos.lol
 0.0.0.0 pancakeprotectors.pages.dev
 0.0.0.0 pancakesawpifnance.com
 0.0.0.0 pancakesdropcclaims36.vercel.app
@@ -5359,7 +5361,6 @@
 0.0.0.0 realtyexcellence.com
 0.0.0.0 rebby.io
 0.0.0.0 rebirthcreepz.com
-0.0.0.0 receive-jup.app
 0.0.0.0 receive-zetachaincom.pages.dev
 0.0.0.0 receive.pilxeisgame.xyz
 0.0.0.0 received-ethena.app
