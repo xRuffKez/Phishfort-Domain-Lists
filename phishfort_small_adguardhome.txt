@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue Apr 30 13:04:57 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 14:05:49 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7623
+# Number of Entries: 7624
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1255,7 +1255,6 @@
 ||cbreinc.com^
 ||cbrevoke.org^
 ||cchgroupfx.com^
-||cdek.avito.avito.avito.pancakeswap.reid4deeds.com^
 ||cdn1conectionspoint2point12mayresultinotthefolw.pixelmon.tech^
 ||cdnddn24.ihectorchiyani.click^
 ||cdnmdn12.aysugallery.shop^
@@ -1555,6 +1554,7 @@
 ||coinchanger.live^
 ||coindappfixes.pages.dev^
 ||coindas.top^
+||coingecko.kycregulations.com^
 ||coingecko.kycregulatory.com^
 ||coingeckokyc.kycregulatory.com^
 ||coinlaunchpad.netlify.app^
@@ -4688,6 +4688,7 @@
 ||pancake888.com^
 ||pancakeclaimdrop14.vercel.app^
 ||pancakeclaimz99.vercel.app^
+||pancakeclick-claimz.vercel.app^
 ||pancakeclickclaim02.vercel.app^
 ||pancakecoinswap.vercel.app^
 ||pancakecrypto.com^
@@ -6364,6 +6365,7 @@
 ||tonkeeper.cc^
 ||tonkeeper.help^
 ||tonkeeper.io^
+||tonkeeper.pages.dev^
 ||tonkeeper.world^
 ||tonkeeperr.com^
 ||tonkeepet.com^
@@ -6459,7 +6461,6 @@
 ||twt.x-trastpad.top^
 ||txaq.cc^
 ||uasetlog.com^
-||uat-merck.apexportal.net^
 ||ubnr.cc^
 ||uehgdsa.com^
 ||ueplestaret.com^

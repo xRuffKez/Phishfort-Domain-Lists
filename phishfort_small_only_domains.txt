@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Tue Apr 30 13:04:57 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 14:05:49 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7623
+# Number of Entries: 7624
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1254,7 +1254,6 @@ cbrecbre.com
 cbreinc.com
 cbrevoke.org
 cchgroupfx.com
-cdek.avito.avito.avito.pancakeswap.reid4deeds.com
 cdn1conectionspoint2point12mayresultinotthefolw.pixelmon.tech
 cdnddn24.ihectorchiyani.click
 cdnmdn12.aysugallery.shop
@@ -1554,6 +1553,7 @@ coinbose.app
 coinchanger.live
 coindappfixes.pages.dev
 coindas.top
+coingecko.kycregulations.com
 coingecko.kycregulatory.com
 coingeckokyc.kycregulatory.com
 coinlaunchpad.netlify.app
@@ -4687,6 +4687,7 @@ pancake.vinaweb.app
 pancake888.com
 pancakeclaimdrop14.vercel.app
 pancakeclaimz99.vercel.app
+pancakeclick-claimz.vercel.app
 pancakeclickclaim02.vercel.app
 pancakecoinswap.vercel.app
 pancakecrypto.com
@@ -6363,6 +6364,7 @@ tonkeepeer.com
 tonkeeper.cc
 tonkeeper.help
 tonkeeper.io
+tonkeeper.pages.dev
 tonkeeper.world
 tonkeeperr.com
 tonkeepet.com
@@ -6458,7 +6460,6 @@ twt.multipuds.top
 twt.x-trastpad.top
 txaq.cc
 uasetlog.com
-uat-merck.apexportal.net
 ubnr.cc
 uehgdsa.com
 ueplestaret.com

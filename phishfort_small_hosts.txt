@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue Apr 30 13:04:57 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 14:05:49 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7623
+# Number of Entries: 7624
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1255,7 +1255,6 @@
 0.0.0.0 cbreinc.com
 0.0.0.0 cbrevoke.org
 0.0.0.0 cchgroupfx.com
-0.0.0.0 cdek.avito.avito.avito.pancakeswap.reid4deeds.com
 0.0.0.0 cdn1conectionspoint2point12mayresultinotthefolw.pixelmon.tech
 0.0.0.0 cdnddn24.ihectorchiyani.click
 0.0.0.0 cdnmdn12.aysugallery.shop
@@ -1555,6 +1554,7 @@
 0.0.0.0 coinchanger.live
 0.0.0.0 coindappfixes.pages.dev
 0.0.0.0 coindas.top
+0.0.0.0 coingecko.kycregulations.com
 0.0.0.0 coingecko.kycregulatory.com
 0.0.0.0 coingeckokyc.kycregulatory.com
 0.0.0.0 coinlaunchpad.netlify.app
@@ -4688,6 +4688,7 @@
 0.0.0.0 pancake888.com
 0.0.0.0 pancakeclaimdrop14.vercel.app
 0.0.0.0 pancakeclaimz99.vercel.app
+0.0.0.0 pancakeclick-claimz.vercel.app
 0.0.0.0 pancakeclickclaim02.vercel.app
 0.0.0.0 pancakecoinswap.vercel.app
 0.0.0.0 pancakecrypto.com
@@ -6364,6 +6365,7 @@
 0.0.0.0 tonkeeper.cc
 0.0.0.0 tonkeeper.help
 0.0.0.0 tonkeeper.io
+0.0.0.0 tonkeeper.pages.dev
 0.0.0.0 tonkeeper.world
 0.0.0.0 tonkeeperr.com
 0.0.0.0 tonkeepet.com
@@ -6459,7 +6461,6 @@
 0.0.0.0 twt.x-trastpad.top
 0.0.0.0 txaq.cc
 0.0.0.0 uasetlog.com
-0.0.0.0 uat-merck.apexportal.net
 0.0.0.0 ubnr.cc
 0.0.0.0 uehgdsa.com
 0.0.0.0 ueplestaret.com
