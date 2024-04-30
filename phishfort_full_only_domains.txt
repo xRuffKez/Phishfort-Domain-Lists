@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Tue Apr 30 20:02:06 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 21:02:03 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 108938
+# Number of Entries: 108939
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -18088,6 +18088,7 @@ cliffordchance.cadeirasrosa.com.br
 cliffordchance.io
 cliffordchance.pro
 cliffordchance.site
+cliffordchance.top
 cliffordchanceconsulting.com
 cliffordchancecorp.com
 cliffordchancegroup.uk
