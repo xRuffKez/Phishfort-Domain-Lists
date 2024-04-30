@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue Apr 30 02:09:41 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 03:02:09 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108904
+# Number of Entries: 108907
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -87122,6 +87122,9 @@
 ||tonkeepee.com^
 ||tonkeepeer.com^
 ||tonkeeper.cc^
+||tonkeeper.help^
+||tonkeeper.io^
+||tonkeeper.world^
 ||tonkeeperr.com^
 ||tonkeepet.com^
 ||tonkeepper.com^
