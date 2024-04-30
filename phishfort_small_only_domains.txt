@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Mon Apr 29 23:05:20 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 00:17:38 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7649
+# Number of Entries: 7643
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -25,7 +25,6 @@
 18f5384d.chriswsteele.com
 1cancelar-cambio.webcindario.com
 1cbre.com
-1d4f0331-eb63-4d85-9d57-7dacc20bff64-00-3t07qm8fsr0w5.janeway.replit.dev
 1ezagbg.cc
 1icnh.com
 1inch-io.app
@@ -1388,7 +1387,6 @@ claim-ether.fi
 claim-guildofguardians.com
 claim-iyk.xyz
 claim-ju-4i4mf5.vercel.app
-claim-jup.ag
 claim-kimbo.com
 claim-loopring.org
 claim-metis.com
@@ -3202,7 +3200,6 @@ launches-particle.trading
 launches-restakefinance.com
 launches-roninchain.com
 launches-sharpnel.com
-launching-jupiter.network
 launching-pixels.com
 launching-sharpnel.com
 launchpad-bakerswap.com
@@ -3327,7 +3324,6 @@ linear-dapps.top
 linears.finance
 lineas.top
 lineas01.cyou
-lineaxskin.com
 linjective.com
 link-eligible.com
 link-networks.net
@@ -6069,7 +6065,6 @@ starkware.life
 starkynet.com
 starlight-finance.com
 starplumbingelectrical.com
-start-wen.com
 starter-xyz.web.app
 startknet.io
 stately-froyo-8d0a93.netlify.app
@@ -7341,7 +7336,6 @@ www.paxflapp.online
 www.paxful.instenpay.com
 www.paxosweb.top
 www.pcs-farmv3.com
-www.pemanagement.org
 www.penguinrandomshouse.com
 www.pepacoinairtoday.info
 www.pepechain.info

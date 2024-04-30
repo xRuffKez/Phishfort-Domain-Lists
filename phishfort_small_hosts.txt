@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon Apr 29 23:05:20 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 00:17:38 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7649
+# Number of Entries: 7643
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -26,7 +26,6 @@
 0.0.0.0 18f5384d.chriswsteele.com
 0.0.0.0 1cancelar-cambio.webcindario.com
 0.0.0.0 1cbre.com
-0.0.0.0 1d4f0331-eb63-4d85-9d57-7dacc20bff64-00-3t07qm8fsr0w5.janeway.replit.dev
 0.0.0.0 1ezagbg.cc
 0.0.0.0 1icnh.com
 0.0.0.0 1inch-io.app
@@ -1389,7 +1388,6 @@
 0.0.0.0 claim-guildofguardians.com
 0.0.0.0 claim-iyk.xyz
 0.0.0.0 claim-ju-4i4mf5.vercel.app
-0.0.0.0 claim-jup.ag
 0.0.0.0 claim-kimbo.com
 0.0.0.0 claim-loopring.org
 0.0.0.0 claim-metis.com
@@ -3203,7 +3201,6 @@
 0.0.0.0 launches-restakefinance.com
 0.0.0.0 launches-roninchain.com
 0.0.0.0 launches-sharpnel.com
-0.0.0.0 launching-jupiter.network
 0.0.0.0 launching-pixels.com
 0.0.0.0 launching-sharpnel.com
 0.0.0.0 launchpad-bakerswap.com
@@ -3328,7 +3325,6 @@
 0.0.0.0 linears.finance
 0.0.0.0 lineas.top
 0.0.0.0 lineas01.cyou
-0.0.0.0 lineaxskin.com
 0.0.0.0 linjective.com
 0.0.0.0 link-eligible.com
 0.0.0.0 link-networks.net
@@ -6070,7 +6066,6 @@
 0.0.0.0 starkynet.com
 0.0.0.0 starlight-finance.com
 0.0.0.0 starplumbingelectrical.com
-0.0.0.0 start-wen.com
 0.0.0.0 starter-xyz.web.app
 0.0.0.0 startknet.io
 0.0.0.0 stately-froyo-8d0a93.netlify.app
@@ -7342,7 +7337,6 @@
 0.0.0.0 www.paxful.instenpay.com
 0.0.0.0 www.paxosweb.top
 0.0.0.0 www.pcs-farmv3.com
-0.0.0.0 www.pemanagement.org
 0.0.0.0 www.penguinrandomshouse.com
 0.0.0.0 www.pepacoinairtoday.info
 0.0.0.0 www.pepechain.info
