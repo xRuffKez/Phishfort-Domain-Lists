@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue Apr 30 05:02:11 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 06:02:06 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108909
+# Number of Entries: 108911
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3107,6 +3107,7 @@
 ||agoda.offer18239.com^
 ||agoda.partner-extranet.info^
 ||agoda.partner-extranet.life^
+||agoda.res437.com^
 ||agoda.res94219.com^
 ||agoda.reserv19471.org^
 ||agoda.resew-r.world^
@@ -93447,6 +93448,7 @@
 ||wallet.terezor.io^
 ||wallet.terzcr.com^
 ||wallet.thetatoken.trade^
+||wallet.ton-kepeer.com^
 ||wallet.trczor.com^
 ||wallet.trezcr.com^
 ||wallet.trezor-io.co^

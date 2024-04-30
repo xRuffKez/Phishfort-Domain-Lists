@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue Apr 30 05:02:11 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 06:02:06 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108909
+# Number of Entries: 108911
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3107,6 +3107,7 @@
 0.0.0.0 agoda.offer18239.com
 0.0.0.0 agoda.partner-extranet.info
 0.0.0.0 agoda.partner-extranet.life
+0.0.0.0 agoda.res437.com
 0.0.0.0 agoda.res94219.com
 0.0.0.0 agoda.reserv19471.org
 0.0.0.0 agoda.resew-r.world
@@ -93447,6 +93448,7 @@
 0.0.0.0 wallet.terezor.io
 0.0.0.0 wallet.terzcr.com
 0.0.0.0 wallet.thetatoken.trade
+0.0.0.0 wallet.ton-kepeer.com
 0.0.0.0 wallet.trczor.com
 0.0.0.0 wallet.trezcr.com
 0.0.0.0 wallet.trezor-io.co
