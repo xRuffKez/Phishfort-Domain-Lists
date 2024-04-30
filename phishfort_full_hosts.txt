@@ -1,4 +1,4 @@
-# PhishFort Full Domain List - Mon Apr 29 23:02:03 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 00:06:21 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 108886
