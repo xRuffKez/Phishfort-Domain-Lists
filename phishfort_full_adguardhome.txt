@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue Apr 30 13:02:09 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 14:02:37 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108920
+# Number of Entries: 108922
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -19161,6 +19161,7 @@
 ||coingecko.edu.vn^
 ||coingecko.fun^
 ||coingecko.id^
+||coingecko.kycregulations.com^
 ||coingecko.kycregulatory.com^
 ||coingecko.live^
 ||coingecko.ltd^
@@ -64593,6 +64594,7 @@
 ||pancakechwap.com^
 ||pancakeclaimdrop14.vercel.app^
 ||pancakeclaimz99.vercel.app^
+||pancakeclick-claimz.vercel.app^
 ||pancakeclickclaim02.vercel.app^
 ||pancakecoinswap.finance^
 ||pancakecoinswap.vercel.app^
@@ -87134,6 +87136,7 @@
 ||tonkeeper.cc^
 ||tonkeeper.help^
 ||tonkeeper.io^
+||tonkeeper.pages.dev^
 ||tonkeeper.world^
 ||tonkeeperr.com^
 ||tonkeepet.com^
@@ -88719,7 +88722,6 @@
 ||uasetlog.com^
 ||uasfwallet.com^
 ||uasmaconifist.com^
-||uat-merck.apexportal.net^
 ||uat.bakebe.com^
 ||uat.metamaskhelpukr.com^
 ||ub.tee3.co^

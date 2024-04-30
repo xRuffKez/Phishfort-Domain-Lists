@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue Apr 30 13:02:09 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 14:02:37 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108920
+# Number of Entries: 108922
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -19161,6 +19161,7 @@
 0.0.0.0 coingecko.edu.vn
 0.0.0.0 coingecko.fun
 0.0.0.0 coingecko.id
+0.0.0.0 coingecko.kycregulations.com
 0.0.0.0 coingecko.kycregulatory.com
 0.0.0.0 coingecko.live
 0.0.0.0 coingecko.ltd
@@ -64593,6 +64594,7 @@
 0.0.0.0 pancakechwap.com
 0.0.0.0 pancakeclaimdrop14.vercel.app
 0.0.0.0 pancakeclaimz99.vercel.app
+0.0.0.0 pancakeclick-claimz.vercel.app
 0.0.0.0 pancakeclickclaim02.vercel.app
 0.0.0.0 pancakecoinswap.finance
 0.0.0.0 pancakecoinswap.vercel.app
@@ -87134,6 +87136,7 @@
 0.0.0.0 tonkeeper.cc
 0.0.0.0 tonkeeper.help
 0.0.0.0 tonkeeper.io
+0.0.0.0 tonkeeper.pages.dev
 0.0.0.0 tonkeeper.world
 0.0.0.0 tonkeeperr.com
 0.0.0.0 tonkeepet.com
@@ -88719,7 +88722,6 @@
 0.0.0.0 uasetlog.com
 0.0.0.0 uasfwallet.com
 0.0.0.0 uasmaconifist.com
-0.0.0.0 uat-merck.apexportal.net
 0.0.0.0 uat.bakebe.com
 0.0.0.0 uat.metamaskhelpukr.com
 0.0.0.0 ub.tee3.co
