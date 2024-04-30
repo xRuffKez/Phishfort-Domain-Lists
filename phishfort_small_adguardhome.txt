@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue Apr 30 04:06:33 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 05:05:21 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7653
+# Number of Entries: 7651
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -267,7 +267,6 @@
 ||airdrop-magiceden.com^
 ||airdrop-mantaa.pages.dev^
 ||airdrop-mavia.com^
-||airdrop-meta.io^
 ||airdrop-nibi.com^
 ||airdrop-pancakeswap.web.app^
 ||airdrop-pepecoin.net^
@@ -2763,7 +2762,6 @@
 ||help-407-etr.com^
 ||help-407etr.com^
 ||help-avalanche.site^
-||help-tiktok.com^
 ||helpdoc-avalache.online^
 ||helpmetamask.xyz^
 ||herafinance.live^
@@ -6341,7 +6339,6 @@
 ||tiktoktech.org^
 ||tiktokv.shop^
 ||tiktokvvn.com^
-||tiktokvvn.shop^
 ||tiktokweb.cc^
 ||tiktoky.cc^
 ||titano.defilama.top^
@@ -6561,6 +6558,7 @@
 ||updatedexserver.net^
 ||updatenow.pages.dev^
 ||updates-metamask.pages.dev^
+||upload.mbwc333.com^
 ||us-ashleymadison.com^
 ||us-coinmarketcap.com^
 ||us4f.cc^

@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue Apr 30 04:06:33 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 05:05:21 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7653
+# Number of Entries: 7651
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -267,7 +267,6 @@
 0.0.0.0 airdrop-magiceden.com
 0.0.0.0 airdrop-mantaa.pages.dev
 0.0.0.0 airdrop-mavia.com
-0.0.0.0 airdrop-meta.io
 0.0.0.0 airdrop-nibi.com
 0.0.0.0 airdrop-pancakeswap.web.app
 0.0.0.0 airdrop-pepecoin.net
@@ -2763,7 +2762,6 @@
 0.0.0.0 help-407-etr.com
 0.0.0.0 help-407etr.com
 0.0.0.0 help-avalanche.site
-0.0.0.0 help-tiktok.com
 0.0.0.0 helpdoc-avalache.online
 0.0.0.0 helpmetamask.xyz
 0.0.0.0 herafinance.live
@@ -6341,7 +6339,6 @@
 0.0.0.0 tiktoktech.org
 0.0.0.0 tiktokv.shop
 0.0.0.0 tiktokvvn.com
-0.0.0.0 tiktokvvn.shop
 0.0.0.0 tiktokweb.cc
 0.0.0.0 tiktoky.cc
 0.0.0.0 titano.defilama.top
@@ -6561,6 +6558,7 @@
 0.0.0.0 updatedexserver.net
 0.0.0.0 updatenow.pages.dev
 0.0.0.0 updates-metamask.pages.dev
+0.0.0.0 upload.mbwc333.com
 0.0.0.0 us-ashleymadison.com
 0.0.0.0 us-coinmarketcap.com
 0.0.0.0 us4f.cc
