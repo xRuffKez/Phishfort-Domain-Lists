@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue Apr 30 12:06:21 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 13:04:57 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7624
+# Number of Entries: 7623
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1461,6 +1461,7 @@
 0.0.0.0 claim.zkskull.com
 0.0.0.0 claim.zksnyc.in
 0.0.0.0 claim5-connect.live
+0.0.0.0 claimairdropnow.com
 0.0.0.0 claimairdropsaga.xyz
 0.0.0.0 claimdrop.laag.site
 0.0.0.0 claimdymension.xyz
@@ -2190,7 +2191,6 @@
 0.0.0.0 eprd.net
 0.0.0.0 epriceshop02.cc
 0.0.0.0 equinior.com
-0.0.0.0 equinor-ind.net
 0.0.0.0 equty.sa.com
 0.0.0.0 equty.za.com
 0.0.0.0 erc-api.pages.dev
@@ -4090,7 +4090,6 @@
 0.0.0.0 moz-dia-meviplota.com
 0.0.0.0 mrestore.vercel.app
 0.0.0.0 mrgn-alphadao.web.app
-0.0.0.0 mrhcok.local-user.com
 0.0.0.0 mrhcpayroll.local-user.com
 0.0.0.0 msgive.io
 0.0.0.0 msk-airdrop.live
@@ -4669,6 +4668,7 @@
 0.0.0.0 pancake-stake.pages.dev
 0.0.0.0 pancake-swap-airdrop.com
 0.0.0.0 pancake-swap-finances.pages.dev
+0.0.0.0 pancake-swap-v3.pages.dev
 0.0.0.0 pancake-swap.net
 0.0.0.0 pancake-swap45.vercel.app
 0.0.0.0 pancake-swapfinance.pages.dev
@@ -6306,7 +6306,6 @@
 0.0.0.0 tiktok52.com
 0.0.0.0 tiktok66.cc
 0.0.0.0 tiktokeconline.com
-0.0.0.0 tiktokfw.com
 0.0.0.0 tiktokjm.com
 0.0.0.0 tiktoklive.co
 0.0.0.0 tiktokmall01.com

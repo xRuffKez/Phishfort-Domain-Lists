@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Tue Apr 30 12:06:21 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 13:04:57 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7624
+# Number of Entries: 7623
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1460,6 +1460,7 @@ claim.zeta.chain.wb3ox.xyz
 claim.zkskull.com
 claim.zksnyc.in
 claim5-connect.live
+claimairdropnow.com
 claimairdropsaga.xyz
 claimdrop.laag.site
 claimdymension.xyz
@@ -2189,7 +2190,6 @@ eportal-suppliers.online
 eprd.net
 epriceshop02.cc
 equinior.com
-equinor-ind.net
 equty.sa.com
 equty.za.com
 erc-api.pages.dev
@@ -4089,7 +4089,6 @@ motlon-inds.com
 moz-dia-meviplota.com
 mrestore.vercel.app
 mrgn-alphadao.web.app
-mrhcok.local-user.com
 mrhcpayroll.local-user.com
 msgive.io
 msk-airdrop.live
@@ -4668,6 +4667,7 @@ pancake-projclaim.vercel.app
 pancake-stake.pages.dev
 pancake-swap-airdrop.com
 pancake-swap-finances.pages.dev
+pancake-swap-v3.pages.dev
 pancake-swap.net
 pancake-swap45.vercel.app
 pancake-swapfinance.pages.dev
@@ -6305,7 +6305,6 @@ tiktok39.com
 tiktok52.com
 tiktok66.cc
 tiktokeconline.com
-tiktokfw.com
 tiktokjm.com
 tiktoklive.co
 tiktokmall01.com
