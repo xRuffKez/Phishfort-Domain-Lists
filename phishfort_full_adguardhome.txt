@@ -1,4 +1,4 @@
-# PhishFort Full Domain List - Tue Apr 30 22:01:56 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 23:02:11 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
 # Number of Entries: 108939
@@ -76060,7 +76060,6 @@
 ||revoke.digital^
 ||revoke.domains^
 ||revoke.expert^
-||revoke.greyh.at^
 ||revoke.host^
 ||revoke.icu^
 ||revoke.ink^
@@ -84861,6 +84860,7 @@
 ||synmigtok.website^
 ||synmultiwallet.com^
 ||synnex.vip^
+||synnexcorp.com.au^
 ||synnexcorporation.us^
 ||synodes.xyz^
 ||synoeshealths.com^

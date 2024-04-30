@@ -1,4 +1,4 @@
-# PhishFort Full Domain List - Tue Apr 30 22:01:56 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 23:02:11 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 108939
@@ -76060,7 +76060,6 @@
 0.0.0.0 revoke.digital
 0.0.0.0 revoke.domains
 0.0.0.0 revoke.expert
-0.0.0.0 revoke.greyh.at
 0.0.0.0 revoke.host
 0.0.0.0 revoke.icu
 0.0.0.0 revoke.ink
@@ -84861,6 +84860,7 @@
 0.0.0.0 synmigtok.website
 0.0.0.0 synmultiwallet.com
 0.0.0.0 synnex.vip
+0.0.0.0 synnexcorp.com.au
 0.0.0.0 synnexcorporation.us
 0.0.0.0 synodes.xyz
 0.0.0.0 synoeshealths.com
