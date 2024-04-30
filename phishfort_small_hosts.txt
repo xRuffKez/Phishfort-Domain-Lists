@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue Apr 30 22:05:44 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 23:04:50 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7605
+# Number of Entries: 7587
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -39,7 +39,6 @@
 0.0.0.0 1inchfinance.com
 0.0.0.0 1inchnetwork.org
 0.0.0.0 1inchnetwork156.net
-0.0.0.0 1inchpool.com
 0.0.0.0 1inchv4.fi
 0.0.0.0 1inchwallet.app
 0.0.0.0 1inchwallet.org
@@ -1437,7 +1436,6 @@
 0.0.0.0 claim.hundsonsol.com
 0.0.0.0 claim.memeskombats.online
 0.0.0.0 claim.memskombat.site
-0.0.0.0 claim.metacadeco.live
 0.0.0.0 claim.nftrealm.io
 0.0.0.0 claim.ondotreasury.org
 0.0.0.0 claim.paalai.mobi
@@ -2434,7 +2432,6 @@
 0.0.0.0 foeziwo.pro
 0.0.0.0 foolz.sellpass.io
 0.0.0.0 foresamagovi.com
-0.0.0.0 foreverozeal.com
 0.0.0.0 forex-com.holu.workers.dev
 0.0.0.0 forexgcoin-5.com
 0.0.0.0 forexinvest-start.com
@@ -3010,7 +3007,6 @@
 0.0.0.0 join.popeysm.cc
 0.0.0.0 joingrapes.gift
 0.0.0.0 joinneotokyo.com
-0.0.0.0 jointoexposed.com
 0.0.0.0 joltify-get.vercel.app
 0.0.0.0 joltify-scope.vercel.app
 0.0.0.0 joltify-testnet3.vercel.app
@@ -4006,7 +4002,6 @@
 0.0.0.0 mission-particle.network
 0.0.0.0 mission-sharpnel.com
 0.0.0.0 mission-zksync.com
-0.0.0.0 missionoluxury.com
 0.0.0.0 missions-dymension.network
 0.0.0.0 missions-roninchain.com
 0.0.0.0 missions-sharpnel.com
@@ -4411,7 +4406,6 @@
 0.0.0.0 notionalfinance.org
 0.0.0.0 novochevro.online
 0.0.0.0 now.l3-mode.world
-0.0.0.0 nowoplunge.com
 0.0.0.0 npaautocare.zouxiaodong.workers.dev
 0.0.0.0 nqzero.sa.com
 0.0.0.0 ns1.bandwidthserver.com
@@ -5478,7 +5472,6 @@
 0.0.0.0 revoke-wallet.com
 0.0.0.0 revoke-wallet.net
 0.0.0.0 revoke-web.xyz
-0.0.0.0 revoke.greyh.at
 0.0.0.0 revoke.host
 0.0.0.0 revoke.ink
 0.0.0.0 revoke.plus
@@ -6178,6 +6171,7 @@
 0.0.0.0 syneosbiocareer.com
 0.0.0.0 syneoscareer.com
 0.0.0.0 synfuturese.top
+0.0.0.0 synnexcorp.com.au
 0.0.0.0 synthetixreward.com
 0.0.0.0 t3ct2s2.pro
 0.0.0.0 t5nv5.cc
@@ -6283,22 +6277,13 @@
 0.0.0.0 tifi-airdrop.com
 0.0.0.0 tikmallshop.cloud
 0.0.0.0 tiktocoins.info
-0.0.0.0 tiktok-seller.store
-0.0.0.0 tiktok.791950.com
-0.0.0.0 tiktok.878523.com
-0.0.0.0 tiktok.941913.com
-0.0.0.0 tiktok.boloo.tech
-0.0.0.0 tiktok.vipwealth.kr
 0.0.0.0 tiktok1122.com
 0.0.0.0 tiktok39.com
 0.0.0.0 tiktok52.com
 0.0.0.0 tiktok66.cc
-0.0.0.0 tiktokeconline.com
 0.0.0.0 tiktoklive.co
 0.0.0.0 tiktokmall01.com
 0.0.0.0 tiktokorders.vip
-0.0.0.0 tiktokshop01.cc
-0.0.0.0 tiktokshop02.cc
 0.0.0.0 tiktokshopdown.com
 0.0.0.0 tiktoktech.org
 0.0.0.0 tiktokweb.cc
@@ -7206,7 +7191,6 @@
 0.0.0.0 www.lethid.com
 0.0.0.0 www.lifi.promo
 0.0.0.0 www.lite.a.covv.site
-0.0.0.0 www.live-tiktok.shop
 0.0.0.0 www.login.verificationpaxful.info
 0.0.0.0 www.luckywin.x10.bz
 0.0.0.0 www.lusandasentane.com
@@ -7370,8 +7354,6 @@
 0.0.0.0 www.taylormerch.com
 0.0.0.0 www.taylorswiftsmerch.com
 0.0.0.0 www.theplaybooksol.xyz
-0.0.0.0 www.tiktok-world.shop
-0.0.0.0 www.tiktok8.bond
 0.0.0.0 www.ton.org-networks.top
 0.0.0.0 www.toshithecat.org
 0.0.0.0 www.triplewealthbuilders.com

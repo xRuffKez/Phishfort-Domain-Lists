@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue Apr 30 22:05:44 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 23:04:50 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7605
+# Number of Entries: 7587
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -39,7 +39,6 @@
 ||1inchfinance.com^
 ||1inchnetwork.org^
 ||1inchnetwork156.net^
-||1inchpool.com^
 ||1inchv4.fi^
 ||1inchwallet.app^
 ||1inchwallet.org^
@@ -1437,7 +1436,6 @@
 ||claim.hundsonsol.com^
 ||claim.memeskombats.online^
 ||claim.memskombat.site^
-||claim.metacadeco.live^
 ||claim.nftrealm.io^
 ||claim.ondotreasury.org^
 ||claim.paalai.mobi^
@@ -2434,7 +2432,6 @@
 ||foeziwo.pro^
 ||foolz.sellpass.io^
 ||foresamagovi.com^
-||foreverozeal.com^
 ||forex-com.holu.workers.dev^
 ||forexgcoin-5.com^
 ||forexinvest-start.com^
@@ -3010,7 +3007,6 @@
 ||join.popeysm.cc^
 ||joingrapes.gift^
 ||joinneotokyo.com^
-||jointoexposed.com^
 ||joltify-get.vercel.app^
 ||joltify-scope.vercel.app^
 ||joltify-testnet3.vercel.app^
@@ -4006,7 +4002,6 @@
 ||mission-particle.network^
 ||mission-sharpnel.com^
 ||mission-zksync.com^
-||missionoluxury.com^
 ||missions-dymension.network^
 ||missions-roninchain.com^
 ||missions-sharpnel.com^
@@ -4411,7 +4406,6 @@
 ||notionalfinance.org^
 ||novochevro.online^
 ||now.l3-mode.world^
-||nowoplunge.com^
 ||npaautocare.zouxiaodong.workers.dev^
 ||nqzero.sa.com^
 ||ns1.bandwidthserver.com^
@@ -5478,7 +5472,6 @@
 ||revoke-wallet.com^
 ||revoke-wallet.net^
 ||revoke-web.xyz^
-||revoke.greyh.at^
 ||revoke.host^
 ||revoke.ink^
 ||revoke.plus^
@@ -6178,6 +6171,7 @@
 ||syneosbiocareer.com^
 ||syneoscareer.com^
 ||synfuturese.top^
+||synnexcorp.com.au^
 ||synthetixreward.com^
 ||t3ct2s2.pro^
 ||t5nv5.cc^
@@ -6283,22 +6277,13 @@
 ||tifi-airdrop.com^
 ||tikmallshop.cloud^
 ||tiktocoins.info^
-||tiktok-seller.store^
-||tiktok.791950.com^
-||tiktok.878523.com^
-||tiktok.941913.com^
-||tiktok.boloo.tech^
-||tiktok.vipwealth.kr^
 ||tiktok1122.com^
 ||tiktok39.com^
 ||tiktok52.com^
 ||tiktok66.cc^
-||tiktokeconline.com^
 ||tiktoklive.co^
 ||tiktokmall01.com^
 ||tiktokorders.vip^
-||tiktokshop01.cc^
-||tiktokshop02.cc^
 ||tiktokshopdown.com^
 ||tiktoktech.org^
 ||tiktokweb.cc^
@@ -7206,7 +7191,6 @@
 ||www.lethid.com^
 ||www.lifi.promo^
 ||www.lite.a.covv.site^
-||www.live-tiktok.shop^
 ||www.login.verificationpaxful.info^
 ||www.luckywin.x10.bz^
 ||www.lusandasentane.com^
@@ -7370,8 +7354,6 @@
 ||www.taylormerch.com^
 ||www.taylorswiftsmerch.com^
 ||www.theplaybooksol.xyz^
-||www.tiktok-world.shop^
-||www.tiktok8.bond^
 ||www.ton.org-networks.top^
 ||www.toshithecat.org^
 ||www.triplewealthbuilders.com^
