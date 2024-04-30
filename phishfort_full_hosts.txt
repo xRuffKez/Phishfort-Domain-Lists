@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue Apr 30 00:06:21 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 01:24:21 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108886
+# Number of Entries: 108903
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -6241,6 +6241,7 @@
 0.0.0.0 app.axieinfinitsy.com
 0.0.0.0 app.axieinfinity.my-bmi.shop
 0.0.0.0 app.aìrtm.com
+0.0.0.0 app.aỉrtm-2.com
 0.0.0.0 app.bakerynswap.com
 0.0.0.0 app.bakerysswap.com
 0.0.0.0 app.balancer.digital
@@ -86566,6 +86567,7 @@
 0.0.0.0 tn-metasupgrade.com
 0.0.0.0 tnemisexchange.online
 0.0.0.0 tnfuxrz5afjoyz2td5a8.yxz10zi.ru
+0.0.0.0 tnkeeper.com
 0.0.0.0 tnrustwallet.com
 0.0.0.0 tnsr-whitelist.com
 0.0.0.0 tnttoken.co
@@ -86576,6 +86578,7 @@
 0.0.0.0 to.dataui.online
 0.0.0.0 to.uidista.online
 0.0.0.0 toax.exchange
+0.0.0.0 tobkeeper.com
 0.0.0.0 tocbit.com
 0.0.0.0 tocen.web3-airdrop.net
 0.0.0.0 tockenpocket.tech
@@ -87106,17 +87109,28 @@
 0.0.0.0 toncoin.cfd
 0.0.0.0 toncoin.eng-ton.org
 0.0.0.0 toncoln.me
+0.0.0.0 toneeper.com
 0.0.0.0 tonevecher.com
 0.0.0.0 tongram.me
 0.0.0.0 tongramico.com
 0.0.0.0 tonight.sadwing.za.com
 0.0.0.0 tonjeeper.com
+0.0.0.0 tonkeeeper.com
 0.0.0.0 tonkeeer.com
 0.0.0.0 tonkeeoer.com
+0.0.0.0 tonkeepe.com
+0.0.0.0 tonkeepee.com
+0.0.0.0 tonkeepeer.com
+0.0.0.0 tonkeeper.cc
+0.0.0.0 tonkeeperr.com
 0.0.0.0 tonkeepet.com
+0.0.0.0 tonkeepper.com
 0.0.0.0 tonkeeprr.com
 0.0.0.0 tonkeepwr.com
+0.0.0.0 tonkeper.com
+0.0.0.0 tonkerper.com
 0.0.0.0 tonkewper.com
+0.0.0.0 tonkreper.com
 0.0.0.0 tonleeper.com
 0.0.0.0 tonogram.org
 0.0.0.0 tonpocket.com
@@ -107188,6 +107202,7 @@
 0.0.0.0 xn--therdelta-uf7d.com
 0.0.0.0 xn--thr-hna.finance
 0.0.0.0 xn--thrwallet-fibc2070g82a.com
+0.0.0.0 xn--tnkeeper-0rb.com
 0.0.0.0 xn--traderjexyz-keb.com
 0.0.0.0 xn--traderjoxyz-59a.com
 0.0.0.0 xn--travaa-0cb.com
@@ -107930,6 +107945,7 @@
 0.0.0.0 yolunda.site
 0.0.0.0 yomixio.com
 0.0.0.0 yoniex.com
+0.0.0.0 yonkeeper.com
 0.0.0.0 yoo.why-u-talking-w-me-like-that-nigga.com
 0.0.0.0 yoonline.shop
 0.0.0.0 yooshi-promogive.com
@@ -108237,6 +108253,7 @@
 0.0.0.0 zerion-io.events
 0.0.0.0 zerion-me.com
 0.0.0.0 zerion-smart.com
+0.0.0.0 zerion-uup.pages.dev
 0.0.0.0 zerion-wallet.netlify.app
 0.0.0.0 zerion-web3.pw
 0.0.0.0 zerion.app
