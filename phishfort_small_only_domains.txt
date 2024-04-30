@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Tue Apr 30 19:04:33 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 20:04:51 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7621
+# Number of Entries: 7618
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -140,7 +140,6 @@ ab.ebay-asia.com
 abacoin.website
 ablonline.best
 abracadebra.money
-abs-dev.artbyarabbank.ch
 abs-staging.artbyarabbank.ch
 abspaurill.com
 abundant-boots-raspy.on-fleek.app
@@ -1113,7 +1112,6 @@ boson-faucet.pages.dev
 bostonglobemediapr.com
 bots-collabland.pages.dev
 bottlepay.freedim.com.ua
-bouguesteleom.fr
 bouy-plateforme-digitale.online
 bouyguesgroups.com
 bouyguesiptv.fr
@@ -2323,7 +2321,6 @@ expertsolver.pages.dev
 exploremanta.pages.dev
 explorer-1inch-io.pages.dev
 express-toll-route407.com
-express-tollroute407.com
 extenctionchrome.mx
 extensiondapp.pages.dev
 externaldapp.com
@@ -3164,7 +3161,6 @@ kwsnl.com
 kyc-upd-wall.com
 kyc-update-info.com
 kyc.ledger-online.net
-l-s-co-il.com
 l1cloudhaut.com
 l2-blast.buzz
 labs.pixelmon.tech
@@ -3286,6 +3282,7 @@ lidostake.dev
 lidostakecoin.com
 lidostaking-btu.pages.dev
 lifefitnessiran.com
+lifeguardwatson.com
 lilostake.lol
 linae-parks.com
 lindonft.us
@@ -5539,7 +5536,6 @@ rewards.otsea.capital
 rewards.retik.app
 rewardspaalai.app
 rewoke.cash
-rezeptfrei.shop
 rezoprotocol.com
 rg3q9el.cc
 rgrdgddf.pages.dev
@@ -6641,6 +6637,7 @@ verifyvulcan.com
 vermillion-chebakia-72b023.netlify.app
 versity-token.finance
 vertexprotocol.top
+vertiv-ups-dy.cn
 vertiv.dns.cz
 vertiv.jifang365.com
 vertiv.mitarbeiterangebote.de

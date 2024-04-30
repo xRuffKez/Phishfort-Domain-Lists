@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue Apr 30 19:04:33 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 20:04:51 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7621
+# Number of Entries: 7618
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -141,7 +141,6 @@
 0.0.0.0 abacoin.website
 0.0.0.0 ablonline.best
 0.0.0.0 abracadebra.money
-0.0.0.0 abs-dev.artbyarabbank.ch
 0.0.0.0 abs-staging.artbyarabbank.ch
 0.0.0.0 abspaurill.com
 0.0.0.0 abundant-boots-raspy.on-fleek.app
@@ -1114,7 +1113,6 @@
 0.0.0.0 bostonglobemediapr.com
 0.0.0.0 bots-collabland.pages.dev
 0.0.0.0 bottlepay.freedim.com.ua
-0.0.0.0 bouguesteleom.fr
 0.0.0.0 bouy-plateforme-digitale.online
 0.0.0.0 bouyguesgroups.com
 0.0.0.0 bouyguesiptv.fr
@@ -2324,7 +2322,6 @@
 0.0.0.0 exploremanta.pages.dev
 0.0.0.0 explorer-1inch-io.pages.dev
 0.0.0.0 express-toll-route407.com
-0.0.0.0 express-tollroute407.com
 0.0.0.0 extenctionchrome.mx
 0.0.0.0 extensiondapp.pages.dev
 0.0.0.0 externaldapp.com
@@ -3165,7 +3162,6 @@
 0.0.0.0 kyc-upd-wall.com
 0.0.0.0 kyc-update-info.com
 0.0.0.0 kyc.ledger-online.net
-0.0.0.0 l-s-co-il.com
 0.0.0.0 l1cloudhaut.com
 0.0.0.0 l2-blast.buzz
 0.0.0.0 labs.pixelmon.tech
@@ -3287,6 +3283,7 @@
 0.0.0.0 lidostakecoin.com
 0.0.0.0 lidostaking-btu.pages.dev
 0.0.0.0 lifefitnessiran.com
+0.0.0.0 lifeguardwatson.com
 0.0.0.0 lilostake.lol
 0.0.0.0 linae-parks.com
 0.0.0.0 lindonft.us
@@ -5540,7 +5537,6 @@
 0.0.0.0 rewards.retik.app
 0.0.0.0 rewardspaalai.app
 0.0.0.0 rewoke.cash
-0.0.0.0 rezeptfrei.shop
 0.0.0.0 rezoprotocol.com
 0.0.0.0 rg3q9el.cc
 0.0.0.0 rgrdgddf.pages.dev
@@ -6642,6 +6638,7 @@
 0.0.0.0 vermillion-chebakia-72b023.netlify.app
 0.0.0.0 versity-token.finance
 0.0.0.0 vertexprotocol.top
+0.0.0.0 vertiv-ups-dy.cn
 0.0.0.0 vertiv.dns.cz
 0.0.0.0 vertiv.jifang365.com
 0.0.0.0 vertiv.mitarbeiterangebote.de
