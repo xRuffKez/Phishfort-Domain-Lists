@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Tue Apr 30 08:06:00 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 09:05:21 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7639
+# Number of Entries: 7638
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -6640,7 +6640,6 @@ verification.pancakeswapunlock.com
 verificheck.com
 verified-portalgaming.pages.dev
 verify-assets.xyz
-verify-collab.net
 verify-matrica.vercel.app
 verify-vulcan.net
 verify-wallets.com
