@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue Apr 30 07:02:12 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 08:02:36 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108912
+# Number of Entries: 108913
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -75998,6 +75998,7 @@
 0.0.0.0 revoke-caslh.com
 0.0.0.0 revoke-cassh.pages.dev
 0.0.0.0 revoke-control.com
+0.0.0.0 revoke-crypto.com
 0.0.0.0 revoke-eth.xyz
 0.0.0.0 revoke-etherscan.online
 0.0.0.0 revoke-exploit.com

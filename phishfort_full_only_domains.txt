@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Tue Apr 30 07:02:12 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 08:02:36 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 108912
+# Number of Entries: 108913
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -75997,6 +75997,7 @@ revoke-cashr.org
 revoke-caslh.com
 revoke-cassh.pages.dev
 revoke-control.com
+revoke-crypto.com
 revoke-eth.xyz
 revoke-etherscan.online
 revoke-exploit.com
