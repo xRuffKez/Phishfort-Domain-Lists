@@ -1,4 +1,4 @@
-# PhishFort Full Domain List - Tue Apr 30 18:02:09 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 19:01:52 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 108936
@@ -15311,7 +15311,6 @@
 0.0.0.0 buterintoday.eu
 0.0.0.0 butf163.com
 0.0.0.0 butfl63.com
-0.0.0.0 butt-token.com
 0.0.0.0 butterfield-portal.com
 0.0.0.0 butterfieldgroups.com
 0.0.0.0 butterfieldkyc.com
@@ -29911,7 +29910,6 @@
 0.0.0.0 esofa.edu.pe
 0.0.0.0 esp-defiswap.com
 0.0.0.0 esp-gala-games-app.blogspot.com
-0.0.0.0 espace-skynet.hubside.fr
 0.0.0.0 espaciologistico.com.ar
 0.0.0.0 espcoin-promogive.com
 0.0.0.0 esprit-colombia.com.co
@@ -84109,6 +84107,7 @@
 0.0.0.0 swiftfixprotocols.online
 0.0.0.0 swiftful.net
 0.0.0.0 swiftful.xyz
+0.0.0.0 swiftissuesfix.pages.dev
 0.0.0.0 swiftkeyswap.com
 0.0.0.0 swiftkeyswap.info
 0.0.0.0 swiftlyconnect.com
@@ -91818,6 +91817,7 @@
 0.0.0.0 vertiv-vertiv.com
 0.0.0.0 vertiv.dns.cz
 0.0.0.0 vertiv.jifang365.com
+0.0.0.0 vertiv.mitarbeiterangebote.de
 0.0.0.0 vertivups.com.cn
 0.0.0.0 vertivups0.com
 0.0.0.0 vertivv.com

@@ -1,4 +1,4 @@
-# PhishFort Full Domain List - Tue Apr 30 18:02:09 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 19:01:52 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
 # Number of Entries: 108936
@@ -15311,7 +15311,6 @@
 ||buterintoday.eu^
 ||butf163.com^
 ||butfl63.com^
-||butt-token.com^
 ||butterfield-portal.com^
 ||butterfieldgroups.com^
 ||butterfieldkyc.com^
@@ -29911,7 +29910,6 @@
 ||esofa.edu.pe^
 ||esp-defiswap.com^
 ||esp-gala-games-app.blogspot.com^
-||espace-skynet.hubside.fr^
 ||espaciologistico.com.ar^
 ||espcoin-promogive.com^
 ||esprit-colombia.com.co^
@@ -84109,6 +84107,7 @@
 ||swiftfixprotocols.online^
 ||swiftful.net^
 ||swiftful.xyz^
+||swiftissuesfix.pages.dev^
 ||swiftkeyswap.com^
 ||swiftkeyswap.info^
 ||swiftlyconnect.com^
@@ -91818,6 +91817,7 @@
 ||vertiv-vertiv.com^
 ||vertiv.dns.cz^
 ||vertiv.jifang365.com^
+||vertiv.mitarbeiterangebote.de^
 ||vertivups.com.cn^
 ||vertivups0.com^
 ||vertivv.com^
