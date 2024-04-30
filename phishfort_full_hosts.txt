@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue Apr 30 14:02:37 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 15:01:53 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108922
+# Number of Entries: 108926
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2259,6 +2259,7 @@
 0.0.0.0 abitrum.net
 0.0.0.0 abitrum.org
 0.0.0.0 ablaiz.com
+0.0.0.0 ablonline.best
 0.0.0.0 abnbclaim.com
 0.0.0.0 abnodeportal.net
 0.0.0.0 abnodexyz.net
@@ -42253,6 +42254,7 @@
 0.0.0.0 kier-careers.co.uk
 0.0.0.0 kier-group.co.uk
 0.0.0.0 kier-uk.com
+0.0.0.0 kiergroup.info
 0.0.0.0 kiilabears.com
 0.0.0.0 kikidas81.com
 0.0.0.0 kiliancolin.com
@@ -54478,6 +54480,7 @@
 0.0.0.0 monkeypad.top
 0.0.0.0 monkeyzuki.com
 0.0.0.0 monkezplanet.mints-now.com
+0.0.0.0 monline.best
 0.0.0.0 monnero.org
 0.0.0.0 monney-penny.net
 0.0.0.0 monniswap.exchange
@@ -64724,6 +64727,7 @@
 0.0.0.0 pancakepl.com
 0.0.0.0 pancakepoll-promogive.com
 0.0.0.0 pancakeprize.com
+0.0.0.0 pancakepromos.lol
 0.0.0.0 pancakeprotectors.pages.dev
 0.0.0.0 pancakepsawp.com
 0.0.0.0 pancakerecepies.com

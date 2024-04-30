@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue Apr 30 14:02:37 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 15:01:53 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108922
+# Number of Entries: 108926
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2259,6 +2259,7 @@
 ||abitrum.net^
 ||abitrum.org^
 ||ablaiz.com^
+||ablonline.best^
 ||abnbclaim.com^
 ||abnodeportal.net^
 ||abnodexyz.net^
@@ -42253,6 +42254,7 @@
 ||kier-careers.co.uk^
 ||kier-group.co.uk^
 ||kier-uk.com^
+||kiergroup.info^
 ||kiilabears.com^
 ||kikidas81.com^
 ||kiliancolin.com^
@@ -54478,6 +54480,7 @@
 ||monkeypad.top^
 ||monkeyzuki.com^
 ||monkezplanet.mints-now.com^
+||monline.best^
 ||monnero.org^
 ||monney-penny.net^
 ||monniswap.exchange^
@@ -64724,6 +64727,7 @@
 ||pancakepl.com^
 ||pancakepoll-promogive.com^
 ||pancakeprize.com^
+||pancakepromos.lol^
 ||pancakeprotectors.pages.dev^
 ||pancakepsawp.com^
 ||pancakerecepies.com^
