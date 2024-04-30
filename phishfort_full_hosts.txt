@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue Apr 30 01:24:21 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 02:09:41 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108903
+# Number of Entries: 108904
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -88912,6 +88912,7 @@
 0.0.0.0 umusic.co.in
 0.0.0.0 umusiceu.com
 0.0.0.0 umusicpublishinggroup.com
+0.0.0.0 umusicr.com
 0.0.0.0 umwltt.work
 0.0.0.0 umxpc.strovesqu.ru
 0.0.0.0 un-correct.xyz

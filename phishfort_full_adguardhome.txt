@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue Apr 30 01:24:21 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 02:09:41 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108903
+# Number of Entries: 108904
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -88912,6 +88912,7 @@
 ||umusic.co.in^
 ||umusiceu.com^
 ||umusicpublishinggroup.com^
+||umusicr.com^
 ||umwltt.work^
 ||umxpc.strovesqu.ru^
 ||un-correct.xyz^
