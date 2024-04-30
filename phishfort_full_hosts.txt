@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue Apr 30 04:02:51 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 05:02:11 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108907
+# Number of Entries: 108909
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -67130,6 +67130,7 @@
 0.0.0.0 pancakeswapp.site
 0.0.0.0 pancakeswapp.su
 0.0.0.0 pancakeswapp.top
+0.0.0.0 pancakeswapp.web.app
 0.0.0.0 pancakeswappa.com
 0.0.0.0 pancakeswappanch.com
 0.0.0.0 pancakeswappartners.top
@@ -90273,6 +90274,7 @@
 0.0.0.0 uplift-cryp.website
 0.0.0.0 uplinklogon.live
 0.0.0.0 upload-agoda.com
+0.0.0.0 upload.mbwc333.com
 0.0.0.0 upload.pancakeswape.finance
 0.0.0.0 uploadagoda.com
 0.0.0.0 uploadsecure.xyz
