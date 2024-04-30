@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue Apr 30 11:01:53 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 12:02:28 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108917
+# Number of Entries: 108918
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -61246,6 +61246,7 @@
 0.0.0.0 nongfa.arrowgraphix.com
 0.0.0.0 noomes.com
 0.0.0.0 noonees.com
+0.0.0.0 noones-atomicpay.com
 0.0.0.0 noones-log.com
 0.0.0.0 noones.company
 0.0.0.0 noones.es
@@ -64468,7 +64469,6 @@
 0.0.0.0 pancake-swap-fjnance.com
 0.0.0.0 pancake-swap-flnance.org
 0.0.0.0 pancake-swap-interface-v1-6nx.pages.dev
-0.0.0.0 pancake-swap-v3.pages.dev
 0.0.0.0 pancake-swap-v3.pw
 0.0.0.0 pancake-swap-v3.tech
 0.0.0.0 pancake-swap.app
@@ -103289,6 +103289,7 @@
 0.0.0.0 www.powerofwomen.shop
 0.0.0.0 www.practisea.com
 0.0.0.0 www.pramacinterlog.com
+0.0.0.0 www.prc-board.com
 0.0.0.0 www.precisaocontabil.com
 0.0.0.0 www.precmint.xyz
 0.0.0.0 www.predaiaarteenatura.eu

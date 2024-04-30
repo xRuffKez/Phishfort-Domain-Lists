@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Tue Apr 30 11:01:53 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 12:02:28 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 108917
+# Number of Entries: 108918
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -61245,6 +61245,7 @@ nonfungiblefilms-freemint.xyz
 nongfa.arrowgraphix.com
 noomes.com
 noonees.com
+noones-atomicpay.com
 noones-log.com
 noones.company
 noones.es
@@ -64467,7 +64468,6 @@ pancake-swap-finances.pages.dev
 pancake-swap-fjnance.com
 pancake-swap-flnance.org
 pancake-swap-interface-v1-6nx.pages.dev
-pancake-swap-v3.pages.dev
 pancake-swap-v3.pw
 pancake-swap-v3.tech
 pancake-swap.app
@@ -103288,6 +103288,7 @@ www.povocoin-swap.us
 www.powerofwomen.shop
 www.practisea.com
 www.pramacinterlog.com
+www.prc-board.com
 www.precisaocontabil.com
 www.precmint.xyz
 www.predaiaarteenatura.eu
