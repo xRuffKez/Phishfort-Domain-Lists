@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue Apr 30 15:04:43 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 16:06:44 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7625
+# Number of Entries: 7624
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -847,6 +847,7 @@
 0.0.0.0 bafybeiar2pi2heiwfhdlbrulhqyy5oen5k2xx767xss7d5slu5rt3tdpia.ipfs.dweb.link
 0.0.0.0 bafybeic6j3arnlyilwq2grp6f4x25qzssdnluormxdmpzogfn2u7lytrxe.ipfs.dweb.link
 0.0.0.0 bafybeicdv6wvyuhybvf3htmdkcpp7scfw7wq65syuimtv3mslcqhohogla.ipfs.cf-ipfs.com
+0.0.0.0 bafybeicimhrsdhfoifre2dbtwbyjlvahvbuyi5mupckanasogxk64c6st4.ipfs.cf-ipfs.com
 0.0.0.0 bafybeih6f3cnq6rv7w3thp63266fwswwazpnihhzohixzbjw45i5xrxjaq.ipfs.dweb.link
 0.0.0.0 bafybeihbzllhmou7v2n5voxg3ldvflwmzzqwnb4zc4kani4onqpdj2gb7m.ipfs.dweb.link
 0.0.0.0 bag-holding.web.app
@@ -1510,7 +1511,6 @@
 0.0.0.0 clifford-l-chance.com
 0.0.0.0 clifford-law-chance.com
 0.0.0.0 cliffordchance.business
-0.0.0.0 cliffordchance.pro
 0.0.0.0 cliffordchance.site
 0.0.0.0 cliffordchanceconsulting.com
 0.0.0.0 cliffordchancelaw.net
@@ -4253,6 +4253,7 @@
 0.0.0.0 neomprojects-ksa.net
 0.0.0.0 neomsuppliers.net
 0.0.0.0 neotokyohq.pro
+0.0.0.0 netflix-zerionchain.pages.dev
 0.0.0.0 netnodeconnect.com
 0.0.0.0 network-altlayer.com
 0.0.0.0 network-dymension.com
@@ -6712,7 +6713,6 @@
 0.0.0.0 vote.makerdaos.trading
 0.0.0.0 votebnbchain.pages.dev
 0.0.0.0 votemarketstakedao.org
-0.0.0.0 vpunxrf00.urest.org
 0.0.0.0 vsns-distribution.com
 0.0.0.0 vsogl.pro
 0.0.0.0 vulcanforged-claim.com
@@ -6801,7 +6801,6 @@
 0.0.0.0 web-kavaa.netlify.app
 0.0.0.0 web-metamesklogin.uteach.io
 0.0.0.0 web.fixsolution.io
-0.0.0.0 web.paxful-coin.cc
 0.0.0.0 web.resolvebugvvalidly.org
 0.0.0.0 web.siteai.site
 0.0.0.0 web.stakefish.app
