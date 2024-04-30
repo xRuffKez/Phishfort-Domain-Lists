@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue Apr 30 19:01:52 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 20:02:06 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108936
+# Number of Entries: 108938
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2285,7 +2285,6 @@
 0.0.0.0 abracodabra-money.com
 0.0.0.0 abritrums.xyz
 0.0.0.0 abritum.com
-0.0.0.0 abs-dev.artbyarabbank.ch
 0.0.0.0 abs-staging.artbyarabbank.ch
 0.0.0.0 absappdynamics.com
 0.0.0.0 absentlxy.click
@@ -44581,6 +44580,7 @@
 0.0.0.0 lifefitnesscareers.com
 0.0.0.0 lifefitnesshr.com
 0.0.0.0 lifefitnessiran.com
+0.0.0.0 lifeguardwatson.com
 0.0.0.0 lifeguidedapp.net
 0.0.0.0 lifeishort.work.gd
 0.0.0.0 lifeparallel.app
@@ -91814,6 +91814,7 @@
 0.0.0.0 vertiv-emerson.com
 0.0.0.0 vertiv-power.cn
 0.0.0.0 vertiv-power.com.cn
+0.0.0.0 vertiv-ups-dy.cn
 0.0.0.0 vertiv-vertiv.com
 0.0.0.0 vertiv.dns.cz
 0.0.0.0 vertiv.jifang365.com
@@ -100875,6 +100876,7 @@
 0.0.0.0 www.idexmarketllc.com
 0.0.0.0 www.idexmarkketslogin.com
 0.0.0.0 www.idexs.vip
+0.0.0.0 www.idextr.com
 0.0.0.0 www.idolink.com
 0.0.0.0 www.iecopernico.edu.pe
 0.0.0.0 www.ifd-holdings.com

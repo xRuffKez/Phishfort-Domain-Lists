@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Tue Apr 30 19:01:52 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 20:02:06 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 108936
+# Number of Entries: 108938
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2284,7 +2284,6 @@ abracadobramoney.net
 abracodabra-money.com
 abritrums.xyz
 abritum.com
-abs-dev.artbyarabbank.ch
 abs-staging.artbyarabbank.ch
 absappdynamics.com
 absentlxy.click
@@ -44580,6 +44579,7 @@ lifefitness.email
 lifefitnesscareers.com
 lifefitnesshr.com
 lifefitnessiran.com
+lifeguardwatson.com
 lifeguidedapp.net
 lifeishort.work.gd
 lifeparallel.app
@@ -91813,6 +91813,7 @@ vertexprotocol.top
 vertiv-emerson.com
 vertiv-power.cn
 vertiv-power.com.cn
+vertiv-ups-dy.cn
 vertiv-vertiv.com
 vertiv.dns.cz
 vertiv.jifang365.com
@@ -100874,6 +100875,7 @@ www.idexmarket.work
 www.idexmarketllc.com
 www.idexmarkketslogin.com
 www.idexs.vip
+www.idextr.com
 www.idolink.com
 www.iecopernico.edu.pe
 www.ifd-holdings.com
