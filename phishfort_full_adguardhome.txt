@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue Apr 30 17:01:51 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 18:02:09 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108931
+# Number of Entries: 108936
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -15311,6 +15311,7 @@
 ||buterintoday.eu^
 ||butf163.com^
 ||butfl63.com^
+||butt-token.com^
 ||butterfield-portal.com^
 ||butterfieldgroups.com^
 ||butterfieldkyc.com^
@@ -16675,6 +16676,7 @@
 ||chevroletshopdrive.ws^
 ||chevropromoo.com^
 ||chevy.ru^
+||chhatrapatitimes.com^
 ||chhattisgarhnews18.com^
 ||chi-token.com^
 ||chianlink.com^
@@ -29909,6 +29911,7 @@
 ||esofa.edu.pe^
 ||esp-defiswap.com^
 ||esp-gala-games-app.blogspot.com^
+||espace-skynet.hubside.fr^
 ||espaciologistico.com.ar^
 ||espcoin-promogive.com^
 ||esprit-colombia.com.co^
@@ -32817,6 +32820,7 @@
 ||ext.www.b2b.pancakeswape.finance^
 ||extasmetas.com^
 ||extbora.click^
+||extenctionchrome.mx^
 ||extendedpublickeyactivation.pages.dev^
 ||extenonboarding.xyz^
 ||extensioms-ad-chrone-omlines.com^
@@ -98191,6 +98195,7 @@
 ||www.alshayagroup-u.com^
 ||www.alshayagroup-uae.com^
 ||www.alshayagroup.org^
+||www.alshayagroup.store^
 ||www.alshayagroupsu.com^
 ||www.alshayagroupv.com^
 ||www.alshayaoman.net^

@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue Apr 30 17:01:51 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 18:02:09 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108931
+# Number of Entries: 108936
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -15311,6 +15311,7 @@
 0.0.0.0 buterintoday.eu
 0.0.0.0 butf163.com
 0.0.0.0 butfl63.com
+0.0.0.0 butt-token.com
 0.0.0.0 butterfield-portal.com
 0.0.0.0 butterfieldgroups.com
 0.0.0.0 butterfieldkyc.com
@@ -16675,6 +16676,7 @@
 0.0.0.0 chevroletshopdrive.ws
 0.0.0.0 chevropromoo.com
 0.0.0.0 chevy.ru
+0.0.0.0 chhatrapatitimes.com
 0.0.0.0 chhattisgarhnews18.com
 0.0.0.0 chi-token.com
 0.0.0.0 chianlink.com
@@ -29909,6 +29911,7 @@
 0.0.0.0 esofa.edu.pe
 0.0.0.0 esp-defiswap.com
 0.0.0.0 esp-gala-games-app.blogspot.com
+0.0.0.0 espace-skynet.hubside.fr
 0.0.0.0 espaciologistico.com.ar
 0.0.0.0 espcoin-promogive.com
 0.0.0.0 esprit-colombia.com.co
@@ -32817,6 +32820,7 @@
 0.0.0.0 ext.www.b2b.pancakeswape.finance
 0.0.0.0 extasmetas.com
 0.0.0.0 extbora.click
+0.0.0.0 extenctionchrome.mx
 0.0.0.0 extendedpublickeyactivation.pages.dev
 0.0.0.0 extenonboarding.xyz
 0.0.0.0 extensioms-ad-chrone-omlines.com
@@ -98191,6 +98195,7 @@
 0.0.0.0 www.alshayagroup-u.com
 0.0.0.0 www.alshayagroup-uae.com
 0.0.0.0 www.alshayagroup.org
+0.0.0.0 www.alshayagroup.store
 0.0.0.0 www.alshayagroupsu.com
 0.0.0.0 www.alshayagroupv.com
 0.0.0.0 www.alshayaoman.net
