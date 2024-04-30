@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue Apr 30 20:04:51 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 21:06:21 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7618
+# Number of Entries: 7605
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1511,6 +1511,7 @@
 0.0.0.0 clifford-law-chance.com
 0.0.0.0 cliffordchance.business
 0.0.0.0 cliffordchance.site
+0.0.0.0 cliffordchance.top
 0.0.0.0 cliffordchanceconsulting.com
 0.0.0.0 cliffordchancelaw.net
 0.0.0.0 cliffordchanceuk.online
@@ -2177,7 +2178,6 @@
 0.0.0.0 enlisted-portalgaming.com
 0.0.0.0 enstoken.net
 0.0.0.0 entangle-fi.org
-0.0.0.0 enteerpriserentacar.org
 0.0.0.0 enter-treasure.trading
 0.0.0.0 enter-wormhole.network
 0.0.0.0 enudeekc.one
@@ -2186,9 +2186,7 @@
 0.0.0.0 epbhs.net
 0.0.0.0 epic-ae.online
 0.0.0.0 epikstaking.com
-0.0.0.0 eportal-suppliers.online
 0.0.0.0 eprd.net
-0.0.0.0 epriceshop02.cc
 0.0.0.0 equinior.com
 0.0.0.0 equty.sa.com
 0.0.0.0 equty.za.com
@@ -6286,33 +6284,23 @@
 0.0.0.0 tikmallshop.cloud
 0.0.0.0 tiktocoins.info
 0.0.0.0 tiktok-seller.store
-0.0.0.0 tiktok.436319.com
-0.0.0.0 tiktok.671896.com
-0.0.0.0 tiktok.765612.com
 0.0.0.0 tiktok.791950.com
 0.0.0.0 tiktok.878523.com
-0.0.0.0 tiktok.879721.com
 0.0.0.0 tiktok.941913.com
-0.0.0.0 tiktok.958612.com
 0.0.0.0 tiktok.boloo.tech
-0.0.0.0 tiktok.merchantshop.shop
 0.0.0.0 tiktok.vipwealth.kr
 0.0.0.0 tiktok1122.com
 0.0.0.0 tiktok39.com
 0.0.0.0 tiktok52.com
 0.0.0.0 tiktok66.cc
 0.0.0.0 tiktokeconline.com
-0.0.0.0 tiktokjm.com
 0.0.0.0 tiktoklive.co
 0.0.0.0 tiktokmall01.com
 0.0.0.0 tiktokorders.vip
 0.0.0.0 tiktokshop01.cc
 0.0.0.0 tiktokshop02.cc
-0.0.0.0 tiktokshop2.com
 0.0.0.0 tiktokshopdown.com
-0.0.0.0 tiktoktech.net
 0.0.0.0 tiktoktech.org
-0.0.0.0 tiktokv.shop
 0.0.0.0 tiktokweb.cc
 0.0.0.0 tiktoky.cc
 0.0.0.0 titano.defilama.top
@@ -7384,7 +7372,6 @@
 0.0.0.0 www.theplaybooksol.xyz
 0.0.0.0 www.tiktok-world.shop
 0.0.0.0 www.tiktok8.bond
-0.0.0.0 www.tiktokmall-th.com
 0.0.0.0 www.ton.org-networks.top
 0.0.0.0 www.toshithecat.org
 0.0.0.0 www.triplewealthbuilders.com

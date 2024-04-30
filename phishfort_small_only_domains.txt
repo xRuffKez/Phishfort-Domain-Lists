@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Tue Apr 30 20:04:51 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 21:06:21 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7618
+# Number of Entries: 7605
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1510,6 +1510,7 @@ clifford-l-chance.com
 clifford-law-chance.com
 cliffordchance.business
 cliffordchance.site
+cliffordchance.top
 cliffordchanceconsulting.com
 cliffordchancelaw.net
 cliffordchanceuk.online
@@ -2176,7 +2177,6 @@ enlist-mantanetwork.pages.dev
 enlisted-portalgaming.com
 enstoken.net
 entangle-fi.org
-enteerpriserentacar.org
 enter-treasure.trading
 enter-wormhole.network
 enudeekc.one
@@ -2185,9 +2185,7 @@ eonian.live
 epbhs.net
 epic-ae.online
 epikstaking.com
-eportal-suppliers.online
 eprd.net
-epriceshop02.cc
 equinior.com
 equty.sa.com
 equty.za.com
@@ -6285,33 +6283,23 @@ tifi-airdrop.com
 tikmallshop.cloud
 tiktocoins.info
 tiktok-seller.store
-tiktok.436319.com
-tiktok.671896.com
-tiktok.765612.com
 tiktok.791950.com
 tiktok.878523.com
-tiktok.879721.com
 tiktok.941913.com
-tiktok.958612.com
 tiktok.boloo.tech
-tiktok.merchantshop.shop
 tiktok.vipwealth.kr
 tiktok1122.com
 tiktok39.com
 tiktok52.com
 tiktok66.cc
 tiktokeconline.com
-tiktokjm.com
 tiktoklive.co
 tiktokmall01.com
 tiktokorders.vip
 tiktokshop01.cc
 tiktokshop02.cc
-tiktokshop2.com
 tiktokshopdown.com
-tiktoktech.net
 tiktoktech.org
-tiktokv.shop
 tiktokweb.cc
 tiktoky.cc
 titano.defilama.top
@@ -7383,7 +7371,6 @@ www.taylorswiftsmerch.com
 www.theplaybooksol.xyz
 www.tiktok-world.shop
 www.tiktok8.bond
-www.tiktokmall-th.com
 www.ton.org-networks.top
 www.toshithecat.org
 www.triplewealthbuilders.com
