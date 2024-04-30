@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue Apr 30 17:04:52 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 18:06:23 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7621
+# Number of Entries: 7626
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1169,6 +1169,7 @@
 0.0.0.0 burnmua.build
 0.0.0.0 bursapimapen.com
 0.0.0.0 burtonwright.net
+0.0.0.0 butt-token.com
 0.0.0.0 butterfield-portal.com
 0.0.0.0 butterfieldportal.com
 0.0.0.0 buy.scottyai.org
@@ -1329,6 +1330,7 @@
 0.0.0.0 chensymalst.com
 0.0.0.0 chevroletshopdrive.ws
 0.0.0.0 chevropromoo.com
+0.0.0.0 chhatrapatitimes.com
 0.0.0.0 childporn.umb.market
 0.0.0.0 chndemarloonst.com
 0.0.0.0 choupettesolana.com
@@ -2207,6 +2209,7 @@
 0.0.0.0 erydgred.umb.market
 0.0.0.0 erythkor.buzz
 0.0.0.0 esbl.cybertrons.io
+0.0.0.0 espace-skynet.hubside.fr
 0.0.0.0 esprit-colombia.com.co
 0.0.0.0 etena.xyz
 0.0.0.0 eter.fi
@@ -2324,6 +2327,7 @@
 0.0.0.0 explorer-1inch-io.pages.dev
 0.0.0.0 express-toll-route407.com
 0.0.0.0 express-tollroute407.com
+0.0.0.0 extenctionchrome.mx
 0.0.0.0 extensiondapp.pages.dev
 0.0.0.0 externaldapp.com
 0.0.0.0 extranet.agoda-285437.com
@@ -7050,6 +7054,7 @@
 0.0.0.0 www.allchainsfixer.site
 0.0.0.0 www.allianceprotectionservice.com
 0.0.0.0 www.alshaya.great-site.net
+0.0.0.0 www.alshayagroup.store
 0.0.0.0 www.altliayer.xyz
 0.0.0.0 www.amspresale.cz
 0.0.0.0 www.amswallet.cz

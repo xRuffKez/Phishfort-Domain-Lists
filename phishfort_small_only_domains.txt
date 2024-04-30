@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Tue Apr 30 17:04:52 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 18:06:23 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7621
+# Number of Entries: 7626
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1168,6 +1168,7 @@ burnmintopensea.firebaseapp.com
 burnmua.build
 bursapimapen.com
 burtonwright.net
+butt-token.com
 butterfield-portal.com
 butterfieldportal.com
 buy.scottyai.org
@@ -1328,6 +1329,7 @@ chendimasslost.com
 chensymalst.com
 chevroletshopdrive.ws
 chevropromoo.com
+chhatrapatitimes.com
 childporn.umb.market
 chndemarloonst.com
 choupettesolana.com
@@ -2206,6 +2208,7 @@ errorsync.pages.dev
 erydgred.umb.market
 erythkor.buzz
 esbl.cybertrons.io
+espace-skynet.hubside.fr
 esprit-colombia.com.co
 etena.xyz
 eter.fi
@@ -2323,6 +2326,7 @@ exploremanta.pages.dev
 explorer-1inch-io.pages.dev
 express-toll-route407.com
 express-tollroute407.com
+extenctionchrome.mx
 extensiondapp.pages.dev
 externaldapp.com
 extranet.agoda-285437.com
@@ -7049,6 +7053,7 @@ www.airtm.services
 www.allchainsfixer.site
 www.allianceprotectionservice.com
 www.alshaya.great-site.net
+www.alshayagroup.store
 www.altliayer.xyz
 www.amspresale.cz
 www.amswallet.cz
