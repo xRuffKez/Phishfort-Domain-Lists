@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Tue Apr 30 05:05:21 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 06:05:52 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 7651
@@ -202,6 +202,7 @@
 0.0.0.0 agoda.offer18239.com
 0.0.0.0 agoda.partner-extranet.info
 0.0.0.0 agoda.partner-extranet.life
+0.0.0.0 agoda.res437.com
 0.0.0.0 agoda.res94219.com
 0.0.0.0 agoda.reserv19471.org
 0.0.0.0 agoda.weboffer7181.com
@@ -5352,7 +5353,6 @@
 0.0.0.0 rational-zerosolvosmartverse.pro
 0.0.0.0 ravokecash.org
 0.0.0.0 raxful.com
-0.0.0.0 raydeum.io
 0.0.0.0 raydiu.com
 0.0.0.0 raydium-frontend.pages.dev
 0.0.0.0 raydium.dev
@@ -6772,6 +6772,7 @@
 0.0.0.0 wallet.launchpadxy.xyz
 0.0.0.0 wallet.mulltiversx.com
 0.0.0.0 wallet.orb-crypto.com
+0.0.0.0 wallet.ton-kepeer.com
 0.0.0.0 wallet.zerion-eth.top
 0.0.0.0 wallet.zkflre.io
 0.0.0.0 wallet7.vercel.app
@@ -7191,7 +7192,6 @@
 0.0.0.0 www.faq-legal.com
 0.0.0.0 www.fegtokenmigrate.com
 0.0.0.0 www.fixedfloaflt.com
-0.0.0.0 www.fixedtflaot.com
 0.0.0.0 www.forjud.com
 0.0.0.0 www.frameclaim.com
 0.0.0.0 www.frameclaim.net

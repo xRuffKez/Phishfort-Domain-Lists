@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Tue Apr 30 05:05:21 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 06:05:52 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 7651
 # Project: PhishFort (https://phishfort.com/)
@@ -201,6 +201,7 @@ agoda.info631.com
 agoda.offer18239.com
 agoda.partner-extranet.info
 agoda.partner-extranet.life
+agoda.res437.com
 agoda.res94219.com
 agoda.reserv19471.org
 agoda.weboffer7181.com
@@ -5351,7 +5352,6 @@ rarible.quest
 rational-zerosolvosmartverse.pro
 ravokecash.org
 raxful.com
-raydeum.io
 raydiu.com
 raydium-frontend.pages.dev
 raydium.dev
@@ -6771,6 +6771,7 @@ wallet.ethenafi.cloud
 wallet.launchpadxy.xyz
 wallet.mulltiversx.com
 wallet.orb-crypto.com
+wallet.ton-kepeer.com
 wallet.zerion-eth.top
 wallet.zkflre.io
 wallet7.vercel.app
@@ -7190,7 +7191,6 @@ www.f2poolc.com
 www.faq-legal.com
 www.fegtokenmigrate.com
 www.fixedfloaflt.com
-www.fixedtflaot.com
 www.forjud.com
 www.frameclaim.com
 www.frameclaim.net
