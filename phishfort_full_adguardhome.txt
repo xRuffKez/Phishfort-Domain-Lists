@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue Apr 30 10:02:00 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 11:01:53 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108913
+# Number of Entries: 108917
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1645,6 +1645,7 @@
 ||a156metamask.com^
 ||a1drop-giveaway.online^
 ||a1drop-node.online^
+||a1financialservices.ph^
 ||a1pv.cc^
 ||a1rdrop-claimiing.online^
 ||a23.ethwb.com^
@@ -21316,6 +21317,7 @@
 ||copiersolutionsmigrate.live^
 ||copium-connect.xyz^
 ||copiumprotocol.space^
+||coplinhealth.local-user.com^
 ||copmaund.finance^
 ||copyboteth.co^
 ||copymint-blog.com^
@@ -42248,6 +42250,7 @@
 ||kidtings.com^
 ||kier-careers.co.uk^
 ||kier-group.co.uk^
+||kier-uk.com^
 ||kiilabears.com^
 ||kikidas81.com^
 ||kiliancolin.com^
@@ -85816,6 +85819,7 @@
 ||tf2store.zone^
 ||tflxvp.opyyc.tghali.codinglogics.com^
 ||tg.metamaskco.com^
+||tg2813portal.com^
 ||tgcaasino.xyz^
 ||tgetour-finales.com^
 ||tggtoken.top^

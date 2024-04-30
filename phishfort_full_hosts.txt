@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue Apr 30 10:02:00 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 11:01:53 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108913
+# Number of Entries: 108917
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1645,6 +1645,7 @@
 0.0.0.0 a156metamask.com
 0.0.0.0 a1drop-giveaway.online
 0.0.0.0 a1drop-node.online
+0.0.0.0 a1financialservices.ph
 0.0.0.0 a1pv.cc
 0.0.0.0 a1rdrop-claimiing.online
 0.0.0.0 a23.ethwb.com
@@ -21316,6 +21317,7 @@
 0.0.0.0 copiersolutionsmigrate.live
 0.0.0.0 copium-connect.xyz
 0.0.0.0 copiumprotocol.space
+0.0.0.0 coplinhealth.local-user.com
 0.0.0.0 copmaund.finance
 0.0.0.0 copyboteth.co
 0.0.0.0 copymint-blog.com
@@ -42248,6 +42250,7 @@
 0.0.0.0 kidtings.com
 0.0.0.0 kier-careers.co.uk
 0.0.0.0 kier-group.co.uk
+0.0.0.0 kier-uk.com
 0.0.0.0 kiilabears.com
 0.0.0.0 kikidas81.com
 0.0.0.0 kiliancolin.com
@@ -85816,6 +85819,7 @@
 0.0.0.0 tf2store.zone
 0.0.0.0 tflxvp.opyyc.tghali.codinglogics.com
 0.0.0.0 tg.metamaskco.com
+0.0.0.0 tg2813portal.com
 0.0.0.0 tgcaasino.xyz
 0.0.0.0 tgetour-finales.com
 0.0.0.0 tggtoken.top
