@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue Apr 30 16:02:15 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 17:01:51 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108929
+# Number of Entries: 108931
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -34212,7 +34212,9 @@
 0.0.0.0 flufworldnft.io
 0.0.0.0 flufworldnft.xyz
 0.0.0.0 fluidswap.io
+0.0.0.0 flukemalaysia2016.com
 0.0.0.0 flukeoutil.com
+0.0.0.0 flukesuppliermalaysia.com
 0.0.0.0 fluralpha.get-mint.com
 0.0.0.0 flursalpha.xyz
 0.0.0.0 flutter.mykeyconfirm.online

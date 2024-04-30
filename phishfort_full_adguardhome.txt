@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue Apr 30 16:02:15 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 17:01:51 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108929
+# Number of Entries: 108931
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -34212,7 +34212,9 @@
 ||flufworldnft.io^
 ||flufworldnft.xyz^
 ||fluidswap.io^
+||flukemalaysia2016.com^
 ||flukeoutil.com^
+||flukesuppliermalaysia.com^
 ||fluralpha.get-mint.com^
 ||flursalpha.xyz^
 ||flutter.mykeyconfirm.online^
