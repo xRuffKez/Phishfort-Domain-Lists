@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue Apr 30 15:01:53 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 16:02:15 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108926
+# Number of Entries: 108929
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -10259,6 +10259,7 @@
 0.0.0.0 bafybeibvyyt3thiwxdphrcs6qsopvntxhqwznbb54u5z27gapwqpiidp2m.ipfs.dweb.link
 0.0.0.0 bafybeic6j3arnlyilwq2grp6f4x25qzssdnluormxdmpzogfn2u7lytrxe.ipfs.dweb.link
 0.0.0.0 bafybeicdv6wvyuhybvf3htmdkcpp7scfw7wq65syuimtv3mslcqhohogla.ipfs.cf-ipfs.com
+0.0.0.0 bafybeicimhrsdhfoifre2dbtwbyjlvahvbuyi5mupckanasogxk64c6st4.ipfs.cf-ipfs.com
 0.0.0.0 bafybeidawmgytla7csncm7qqkvxbf5riu4ojkolqphz3hbdzdcaugolpne.ipfs.dweb.link
 0.0.0.0 bafybeide4unrcmuocz27bnhwauktb3eal6bnkctmyolhqz27qeuhfjn7ta.ipfs.dweb.link
 0.0.0.0 bafybeiduschaqs6m3jl4qp2yi3dhrrrt5te7b5gjo4aj5ew7fxa7kkjr2y.ipfs.dweb.link
@@ -17276,6 +17277,7 @@
 0.0.0.0 claim-pancakeswap.finance
 0.0.0.0 claim-pancakeswap.org
 0.0.0.0 claim-pancakeswap.web.app
+0.0.0.0 claim-pancakeswep.firebaseapp.com
 0.0.0.0 claim-pancakeswep.web.app
 0.0.0.0 claim-panckakeswap.finance
 0.0.0.0 claim-pandoshi.web.app
@@ -60014,6 +60016,7 @@
 0.0.0.0 netconnectsynccs.net
 0.0.0.0 neterrorfix.online
 0.0.0.0 netexcoins.com
+0.0.0.0 netflix-zerionchain.pages.dev
 0.0.0.0 netherum.com
 0.0.0.0 netintelli.com
 0.0.0.0 netkazanol.site

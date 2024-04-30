@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue Apr 30 15:01:53 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 16:02:15 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108926
+# Number of Entries: 108929
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -10259,6 +10259,7 @@
 ||bafybeibvyyt3thiwxdphrcs6qsopvntxhqwznbb54u5z27gapwqpiidp2m.ipfs.dweb.link^
 ||bafybeic6j3arnlyilwq2grp6f4x25qzssdnluormxdmpzogfn2u7lytrxe.ipfs.dweb.link^
 ||bafybeicdv6wvyuhybvf3htmdkcpp7scfw7wq65syuimtv3mslcqhohogla.ipfs.cf-ipfs.com^
+||bafybeicimhrsdhfoifre2dbtwbyjlvahvbuyi5mupckanasogxk64c6st4.ipfs.cf-ipfs.com^
 ||bafybeidawmgytla7csncm7qqkvxbf5riu4ojkolqphz3hbdzdcaugolpne.ipfs.dweb.link^
 ||bafybeide4unrcmuocz27bnhwauktb3eal6bnkctmyolhqz27qeuhfjn7ta.ipfs.dweb.link^
 ||bafybeiduschaqs6m3jl4qp2yi3dhrrrt5te7b5gjo4aj5ew7fxa7kkjr2y.ipfs.dweb.link^
@@ -17276,6 +17277,7 @@
 ||claim-pancakeswap.finance^
 ||claim-pancakeswap.org^
 ||claim-pancakeswap.web.app^
+||claim-pancakeswep.firebaseapp.com^
 ||claim-pancakeswep.web.app^
 ||claim-panckakeswap.finance^
 ||claim-pandoshi.web.app^
@@ -60014,6 +60016,7 @@
 ||netconnectsynccs.net^
 ||neterrorfix.online^
 ||netexcoins.com^
+||netflix-zerionchain.pages.dev^
 ||netherum.com^
 ||netintelli.com^
 ||netkazanol.site^
