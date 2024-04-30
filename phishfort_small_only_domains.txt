@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Tue Apr 30 00:17:38 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 01:27:08 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7643
+# Number of Entries: 7649
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -582,6 +582,7 @@ app.ankr.live
 app.aribius.com
 app.auth-v2.org
 app.aìrtm.com
+app.aỉrtm-2.com
 app.blastclaim.com
 app.claims-richquack.com
 app.csv-airtm.com
@@ -1257,7 +1258,6 @@ cbgemcredentialorg.web.app
 cbgyf.pages.dev
 cbrecbre.com
 cbreinc.com
-cbrepartners.com
 cbrevoke.org
 cchgroupfx.com
 cdek.avito.avito.avito.pancakeswap.reid4deeds.com
@@ -2584,7 +2584,6 @@ get.personalzomb.xyz
 get.wormscommunity.com
 get.zkfarmir.xyz
 getbcb.app
-getcodesolutions.com
 getgrass-check.com
 getgrass-collect.com
 getgrass.cx
@@ -2630,7 +2629,6 @@ gmesolana.com
 gmn.dvrcam.info
 gmnt.org
 gmvendorbillinginterest.com
-gmws.eu
 gnfymrm14.ukit.me
 gnosis.gift
 go-bookingline.com
@@ -2967,7 +2965,6 @@ invite-sui.com
 io-net.pages.dev
 io-ultra-net.vercel.app
 iotmodysbln.com
-iptv.skin
 iqz2.sa.com
 ireth.rnag.site
 irrahkar.com
@@ -3431,7 +3428,6 @@ m.mitofinance.app
 m.mltofi.app
 m.open-pandora.app
 m.pianistmolecule.cn
-m.shrininow.com
 m.teck-invest.com
 m.v3derivatives.site
 m1.troncan.pro
@@ -4795,7 +4791,6 @@ pancakeswapgiveawayclaim.com
 pancakeswaph.github.io
 pancakeswaphelp.pages.dev
 pancakeswapp.pages.dev
-pancakeswapperhub.online
 pancakeswappro.com
 pancakeswapreward.finance
 pancakeswaps-finnance.com
@@ -5159,9 +5154,7 @@ portlacoin.xyz
 post-malone.store
 ppcroi.net
 predev-migrazerionzx.pages.dev
-preferbehavioral.com
 premium.athene.network
-premiumtvstreamers.com
 presale-cogwise.com
 presale-kelexo-en.web.app
 presale-x.com
@@ -5524,7 +5517,6 @@ revokecashv2.ru
 revokecashv2.xyz
 revokeccash.com
 revokecontract.xyz
-revokee.digital
 revokeecash.com
 revokenode.com
 revokes-cash.xyz
@@ -5605,7 +5597,6 @@ ronkeeper.com
 ronlnchaiin.top
 ronninwallet.godaddysites.com
 roomfollow.xyz
-roomgrade.org
 rooninchain.com
 roost-distributions.net
 round2-wenwencoin.com
@@ -5896,7 +5887,6 @@ smartlayer-drop.com
 smartlayer-drop.net
 smartlayer-drops.com
 smartlivemultiverseconnects.online
-smartnoderevoke.pages.dev
 smartrectification.pages.dev
 smartrevokenet.vercel.app
 smartsheetusa.team
@@ -6357,7 +6347,9 @@ titano.defilama.top
 tmedicalpr.lol
 tmtmoneyback.pages.dev
 tmwr.pro
+tnkeeper.com
 to.dataui.online
+tobkeeper.com
 tokeeper.com
 token-altsignal.web.app
 token-berachain.com
@@ -6384,13 +6376,25 @@ tombmigration.com
 ton.org-community.info
 ton.x-wallet.top
 tonclaim.online
+toneeper.com
 tonevecher.com
 tonjeeper.com
+tonkeeeper.com
 tonkeeer.com
+tonkeeoer.com
+tonkeepe.com
+tonkeepee.com
+tonkeepeer.com
+tonkeeper.cc
+tonkeeperr.com
 tonkeepet.com
+tonkeepper.com
 tonkeeprr.com
 tonkeepwr.com
+tonkeper.com
+tonkerper.com
 tonkewper.com
+tonkreper.com
 tonleeper.com
 tool-orb.web.app
 top-payrollservices.com
@@ -6998,7 +7002,6 @@ world-manta-network.com
 worldcoin-token.org
 worldfruitforest.world
 worldgeowayw.world
-worldtvmobile.com
 worm-hole-airdrop.vercel.app
 wormhole-airdrop.store
 wormhole-dev.netlify.app
@@ -7507,6 +7510,7 @@ xn--fxeldfloat-bub.com
 xn--od5b1rm17a.com
 xn--rustwallet-gyd.com
 xn--sandbx-games-iib.pages.dev
+xn--tnkeeper-0rb.com
 xn--zcr743ah35a.com
 xn66ekl.pro
 xpancakeswap.pages.dev
@@ -7544,6 +7548,7 @@ ylniamh.com
 ynstbc.xyz.webplus7.a2hosted.com
 yo584.vip
 yo9.email
+yonkeeper.com
 yoo.why-u-talking-w-me-like-that-nigga.com
 you-trip.ru
 youcoin.info
@@ -7564,6 +7569,7 @@ zapper-frontend-next-ikph34jsv-zapper-fi.vercel.app
 zellerscanada.ca
 zenithzest.top
 zens-web3.com
+zerion-uup.pages.dev
 zerion.claimfree.xyz
 zerionclaimchain-index.pages.dev
 zerionpro.com

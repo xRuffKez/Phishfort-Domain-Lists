@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue Apr 30 00:17:38 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 01:27:08 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7643
+# Number of Entries: 7649
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -583,6 +583,7 @@
 0.0.0.0 app.aribius.com
 0.0.0.0 app.auth-v2.org
 0.0.0.0 app.aìrtm.com
+0.0.0.0 app.aỉrtm-2.com
 0.0.0.0 app.blastclaim.com
 0.0.0.0 app.claims-richquack.com
 0.0.0.0 app.csv-airtm.com
@@ -1258,7 +1259,6 @@
 0.0.0.0 cbgyf.pages.dev
 0.0.0.0 cbrecbre.com
 0.0.0.0 cbreinc.com
-0.0.0.0 cbrepartners.com
 0.0.0.0 cbrevoke.org
 0.0.0.0 cchgroupfx.com
 0.0.0.0 cdek.avito.avito.avito.pancakeswap.reid4deeds.com
@@ -2585,7 +2585,6 @@
 0.0.0.0 get.wormscommunity.com
 0.0.0.0 get.zkfarmir.xyz
 0.0.0.0 getbcb.app
-0.0.0.0 getcodesolutions.com
 0.0.0.0 getgrass-check.com
 0.0.0.0 getgrass-collect.com
 0.0.0.0 getgrass.cx
@@ -2631,7 +2630,6 @@
 0.0.0.0 gmn.dvrcam.info
 0.0.0.0 gmnt.org
 0.0.0.0 gmvendorbillinginterest.com
-0.0.0.0 gmws.eu
 0.0.0.0 gnfymrm14.ukit.me
 0.0.0.0 gnosis.gift
 0.0.0.0 go-bookingline.com
@@ -2968,7 +2966,6 @@
 0.0.0.0 io-net.pages.dev
 0.0.0.0 io-ultra-net.vercel.app
 0.0.0.0 iotmodysbln.com
-0.0.0.0 iptv.skin
 0.0.0.0 iqz2.sa.com
 0.0.0.0 ireth.rnag.site
 0.0.0.0 irrahkar.com
@@ -3432,7 +3429,6 @@
 0.0.0.0 m.mltofi.app
 0.0.0.0 m.open-pandora.app
 0.0.0.0 m.pianistmolecule.cn
-0.0.0.0 m.shrininow.com
 0.0.0.0 m.teck-invest.com
 0.0.0.0 m.v3derivatives.site
 0.0.0.0 m1.troncan.pro
@@ -4796,7 +4792,6 @@
 0.0.0.0 pancakeswaph.github.io
 0.0.0.0 pancakeswaphelp.pages.dev
 0.0.0.0 pancakeswapp.pages.dev
-0.0.0.0 pancakeswapperhub.online
 0.0.0.0 pancakeswappro.com
 0.0.0.0 pancakeswapreward.finance
 0.0.0.0 pancakeswaps-finnance.com
@@ -5160,9 +5155,7 @@
 0.0.0.0 post-malone.store
 0.0.0.0 ppcroi.net
 0.0.0.0 predev-migrazerionzx.pages.dev
-0.0.0.0 preferbehavioral.com
 0.0.0.0 premium.athene.network
-0.0.0.0 premiumtvstreamers.com
 0.0.0.0 presale-cogwise.com
 0.0.0.0 presale-kelexo-en.web.app
 0.0.0.0 presale-x.com
@@ -5525,7 +5518,6 @@
 0.0.0.0 revokecashv2.xyz
 0.0.0.0 revokeccash.com
 0.0.0.0 revokecontract.xyz
-0.0.0.0 revokee.digital
 0.0.0.0 revokeecash.com
 0.0.0.0 revokenode.com
 0.0.0.0 revokes-cash.xyz
@@ -5606,7 +5598,6 @@
 0.0.0.0 ronlnchaiin.top
 0.0.0.0 ronninwallet.godaddysites.com
 0.0.0.0 roomfollow.xyz
-0.0.0.0 roomgrade.org
 0.0.0.0 rooninchain.com
 0.0.0.0 roost-distributions.net
 0.0.0.0 round2-wenwencoin.com
@@ -5897,7 +5888,6 @@
 0.0.0.0 smartlayer-drop.net
 0.0.0.0 smartlayer-drops.com
 0.0.0.0 smartlivemultiverseconnects.online
-0.0.0.0 smartnoderevoke.pages.dev
 0.0.0.0 smartrectification.pages.dev
 0.0.0.0 smartrevokenet.vercel.app
 0.0.0.0 smartsheetusa.team
@@ -6358,7 +6348,9 @@
 0.0.0.0 tmedicalpr.lol
 0.0.0.0 tmtmoneyback.pages.dev
 0.0.0.0 tmwr.pro
+0.0.0.0 tnkeeper.com
 0.0.0.0 to.dataui.online
+0.0.0.0 tobkeeper.com
 0.0.0.0 tokeeper.com
 0.0.0.0 token-altsignal.web.app
 0.0.0.0 token-berachain.com
@@ -6385,13 +6377,25 @@
 0.0.0.0 ton.org-community.info
 0.0.0.0 ton.x-wallet.top
 0.0.0.0 tonclaim.online
+0.0.0.0 toneeper.com
 0.0.0.0 tonevecher.com
 0.0.0.0 tonjeeper.com
+0.0.0.0 tonkeeeper.com
 0.0.0.0 tonkeeer.com
+0.0.0.0 tonkeeoer.com
+0.0.0.0 tonkeepe.com
+0.0.0.0 tonkeepee.com
+0.0.0.0 tonkeepeer.com
+0.0.0.0 tonkeeper.cc
+0.0.0.0 tonkeeperr.com
 0.0.0.0 tonkeepet.com
+0.0.0.0 tonkeepper.com
 0.0.0.0 tonkeeprr.com
 0.0.0.0 tonkeepwr.com
+0.0.0.0 tonkeper.com
+0.0.0.0 tonkerper.com
 0.0.0.0 tonkewper.com
+0.0.0.0 tonkreper.com
 0.0.0.0 tonleeper.com
 0.0.0.0 tool-orb.web.app
 0.0.0.0 top-payrollservices.com
@@ -6999,7 +7003,6 @@
 0.0.0.0 worldcoin-token.org
 0.0.0.0 worldfruitforest.world
 0.0.0.0 worldgeowayw.world
-0.0.0.0 worldtvmobile.com
 0.0.0.0 worm-hole-airdrop.vercel.app
 0.0.0.0 wormhole-airdrop.store
 0.0.0.0 wormhole-dev.netlify.app
@@ -7508,6 +7511,7 @@
 0.0.0.0 xn--od5b1rm17a.com
 0.0.0.0 xn--rustwallet-gyd.com
 0.0.0.0 xn--sandbx-games-iib.pages.dev
+0.0.0.0 xn--tnkeeper-0rb.com
 0.0.0.0 xn--zcr743ah35a.com
 0.0.0.0 xn66ekl.pro
 0.0.0.0 xpancakeswap.pages.dev
@@ -7545,6 +7549,7 @@
 0.0.0.0 ynstbc.xyz.webplus7.a2hosted.com
 0.0.0.0 yo584.vip
 0.0.0.0 yo9.email
+0.0.0.0 yonkeeper.com
 0.0.0.0 yoo.why-u-talking-w-me-like-that-nigga.com
 0.0.0.0 you-trip.ru
 0.0.0.0 youcoin.info
@@ -7565,6 +7570,7 @@
 0.0.0.0 zellerscanada.ca
 0.0.0.0 zenithzest.top
 0.0.0.0 zens-web3.com
+0.0.0.0 zerion-uup.pages.dev
 0.0.0.0 zerion.claimfree.xyz
 0.0.0.0 zerionclaimchain-index.pages.dev
 0.0.0.0 zerionpro.com
