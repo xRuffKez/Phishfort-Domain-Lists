@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue Apr 30 16:06:44 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 17:04:52 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7624
+# Number of Entries: 7621
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1647,7 +1647,6 @@
 0.0.0.0 connect.gala-games.org
 0.0.0.0 connect.gatekava.top
 0.0.0.0 connect.kavanet.xyz
-0.0.0.0 connect.kavaxyz.one
 0.0.0.0 connect.land.net.pl
 0.0.0.0 connect.nghire.com
 0.0.0.0 connect.web3authenticatehub.com
@@ -1993,7 +1992,6 @@
 0.0.0.0 discord.kavanet.pro
 0.0.0.0 discord.kavanet.xyz
 0.0.0.0 discord.kavasync.xyz
-0.0.0.0 discord.kavaxyz.top
 0.0.0.0 discover-manta.network
 0.0.0.0 disneypinacle.click
 0.0.0.0 distibution-metis.io
@@ -2426,7 +2424,9 @@
 0.0.0.0 flowerand7.xyz
 0.0.0.0 flrtrustlinedaos.digital
 0.0.0.0 fluffy-hotteok-b5b58b.netlify.app
+0.0.0.0 flukemalaysia2016.com
 0.0.0.0 flukeoutil.com
+0.0.0.0 flukesuppliermalaysia.com
 0.0.0.0 fluxfinance.app
 0.0.0.0 fly.saveflights.online
 0.0.0.0 flyemirates.cloud
@@ -2753,7 +2753,6 @@
 0.0.0.0 helixapp.com.web3-connect.pw
 0.0.0.0 hellothisisatest.com
 0.0.0.0 help-407-etr.com
-0.0.0.0 help-407etr.com
 0.0.0.0 help-avalanche.site
 0.0.0.0 helpdoc-avalache.online
 0.0.0.0 helpmetamask.xyz
@@ -3939,7 +3938,6 @@
 0.0.0.0 migrate-aeggs.pro
 0.0.0.0 migrate-dapp.pro
 0.0.0.0 migrate-firsttensor.shop
-0.0.0.0 migrate-fix.pages.dev
 0.0.0.0 migrate-geromigrate.site
 0.0.0.0 migrate-hedron.com
 0.0.0.0 migrate-houdiniswap.com
@@ -5386,7 +5384,6 @@
 0.0.0.0 refund.ethiner.xyz
 0.0.0.0 refund.shidoprotocols.com
 0.0.0.0 refund.wallstretmemes.app
-0.0.0.0 reg-dym.xyz
 0.0.0.0 reg-etherfi.app
 0.0.0.0 reg-metis.io
 0.0.0.0 reg-nibiru.app

@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue Apr 30 16:06:44 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 17:04:52 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7624
+# Number of Entries: 7621
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1647,7 +1647,6 @@
 ||connect.gala-games.org^
 ||connect.gatekava.top^
 ||connect.kavanet.xyz^
-||connect.kavaxyz.one^
 ||connect.land.net.pl^
 ||connect.nghire.com^
 ||connect.web3authenticatehub.com^
@@ -1993,7 +1992,6 @@
 ||discord.kavanet.pro^
 ||discord.kavanet.xyz^
 ||discord.kavasync.xyz^
-||discord.kavaxyz.top^
 ||discover-manta.network^
 ||disneypinacle.click^
 ||distibution-metis.io^
@@ -2426,7 +2424,9 @@
 ||flowerand7.xyz^
 ||flrtrustlinedaos.digital^
 ||fluffy-hotteok-b5b58b.netlify.app^
+||flukemalaysia2016.com^
 ||flukeoutil.com^
+||flukesuppliermalaysia.com^
 ||fluxfinance.app^
 ||fly.saveflights.online^
 ||flyemirates.cloud^
@@ -2753,7 +2753,6 @@
 ||helixapp.com.web3-connect.pw^
 ||hellothisisatest.com^
 ||help-407-etr.com^
-||help-407etr.com^
 ||help-avalanche.site^
 ||helpdoc-avalache.online^
 ||helpmetamask.xyz^
@@ -3939,7 +3938,6 @@
 ||migrate-aeggs.pro^
 ||migrate-dapp.pro^
 ||migrate-firsttensor.shop^
-||migrate-fix.pages.dev^
 ||migrate-geromigrate.site^
 ||migrate-hedron.com^
 ||migrate-houdiniswap.com^
@@ -5386,7 +5384,6 @@
 ||refund.ethiner.xyz^
 ||refund.shidoprotocols.com^
 ||refund.wallstretmemes.app^
-||reg-dym.xyz^
 ||reg-etherfi.app^
 ||reg-metis.io^
 ||reg-nibiru.app^

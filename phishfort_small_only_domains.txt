@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Tue Apr 30 16:06:44 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 17:04:52 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7624
+# Number of Entries: 7621
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1646,7 +1646,6 @@ connect.collabverify.xyz
 connect.gala-games.org
 connect.gatekava.top
 connect.kavanet.xyz
-connect.kavaxyz.one
 connect.land.net.pl
 connect.nghire.com
 connect.web3authenticatehub.com
@@ -1992,7 +1991,6 @@ discord.kavanet.live
 discord.kavanet.pro
 discord.kavanet.xyz
 discord.kavasync.xyz
-discord.kavaxyz.top
 discover-manta.network
 disneypinacle.click
 distibution-metis.io
@@ -2425,7 +2423,9 @@ florencess.test.suopu8.com
 flowerand7.xyz
 flrtrustlinedaos.digital
 fluffy-hotteok-b5b58b.netlify.app
+flukemalaysia2016.com
 flukeoutil.com
+flukesuppliermalaysia.com
 fluxfinance.app
 fly.saveflights.online
 flyemirates.cloud
@@ -2752,7 +2752,6 @@ helixap.com.ai-web3.cfd
 helixapp.com.web3-connect.pw
 hellothisisatest.com
 help-407-etr.com
-help-407etr.com
 help-avalanche.site
 helpdoc-avalache.online
 helpmetamask.xyz
@@ -3938,7 +3937,6 @@ mieconline.com
 migrate-aeggs.pro
 migrate-dapp.pro
 migrate-firsttensor.shop
-migrate-fix.pages.dev
 migrate-geromigrate.site
 migrate-hedron.com
 migrate-houdiniswap.com
@@ -5385,7 +5383,6 @@ refreshingsiqnaccoount.com
 refund.ethiner.xyz
 refund.shidoprotocols.com
 refund.wallstretmemes.app
-reg-dym.xyz
 reg-etherfi.app
 reg-metis.io
 reg-nibiru.app
