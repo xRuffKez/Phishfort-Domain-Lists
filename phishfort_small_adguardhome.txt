@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Tue Apr 30 11:05:18 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 12:06:21 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
 # Number of Entries: 7624
@@ -2156,7 +2156,6 @@
 ||emdeonmd.com^
 ||emiraetes.online^
 ||emirateairlines.net^
-||emiratedistributions.online^
 ||emirates-procurement.com^
 ||emirates.airfareuk.co.uk^
 ||emirates.flightse.co^
@@ -4401,6 +4400,7 @@
 ||nolbody.com^
 ||nomlswlap.tech^
 ||nonceordiperceptive.pages.dev^
+||noones-atomicpay.com^
 ||noones-log.com^
 ||noones.es^
 ||nootcoin.fun^
@@ -4669,7 +4669,6 @@
 ||pancake-stake.pages.dev^
 ||pancake-swap-airdrop.com^
 ||pancake-swap-finances.pages.dev^
-||pancake-swap-v3.pages.dev^
 ||pancake-swap.net^
 ||pancake-swap45.vercel.app^
 ||pancake-swapfinance.pages.dev^
@@ -7330,6 +7329,7 @@
 ||www.pork-event.net^
 ||www.portal-ait.tech^
 ||www.portalcoin.join-airdrop.com^
+||www.prc-board.com^
 ||www.provisionstrk.xyz^
 ||www.recovermetawalletio.diviteca.com^
 ||www.reflexer.pro^

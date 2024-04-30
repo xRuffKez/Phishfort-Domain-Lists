@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Tue Apr 30 11:05:18 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 12:06:21 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 7624
@@ -2156,7 +2156,6 @@
 0.0.0.0 emdeonmd.com
 0.0.0.0 emiraetes.online
 0.0.0.0 emirateairlines.net
-0.0.0.0 emiratedistributions.online
 0.0.0.0 emirates-procurement.com
 0.0.0.0 emirates.airfareuk.co.uk
 0.0.0.0 emirates.flightse.co
@@ -4401,6 +4400,7 @@
 0.0.0.0 nolbody.com
 0.0.0.0 nomlswlap.tech
 0.0.0.0 nonceordiperceptive.pages.dev
+0.0.0.0 noones-atomicpay.com
 0.0.0.0 noones-log.com
 0.0.0.0 noones.es
 0.0.0.0 nootcoin.fun
@@ -4669,7 +4669,6 @@
 0.0.0.0 pancake-stake.pages.dev
 0.0.0.0 pancake-swap-airdrop.com
 0.0.0.0 pancake-swap-finances.pages.dev
-0.0.0.0 pancake-swap-v3.pages.dev
 0.0.0.0 pancake-swap.net
 0.0.0.0 pancake-swap45.vercel.app
 0.0.0.0 pancake-swapfinance.pages.dev
@@ -7330,6 +7329,7 @@
 0.0.0.0 www.pork-event.net
 0.0.0.0 www.portal-ait.tech
 0.0.0.0 www.portalcoin.join-airdrop.com
+0.0.0.0 www.prc-board.com
 0.0.0.0 www.provisionstrk.xyz
 0.0.0.0 www.recovermetawalletio.diviteca.com
 0.0.0.0 www.reflexer.pro
