@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue Apr 30 12:02:28 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 13:02:09 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108918
+# Number of Entries: 108920
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -17622,6 +17622,7 @@
 0.0.0.0 claim500crypto.top
 0.0.0.0 claimable-web3.net
 0.0.0.0 claimairdropnft.com
+0.0.0.0 claimairdropnow.com
 0.0.0.0 claimairdrops.com
 0.0.0.0 claimairdropsaga.xyz
 0.0.0.0 claimairdropsolana.com
@@ -64469,6 +64470,7 @@
 0.0.0.0 pancake-swap-fjnance.com
 0.0.0.0 pancake-swap-flnance.org
 0.0.0.0 pancake-swap-interface-v1-6nx.pages.dev
+0.0.0.0 pancake-swap-v3.pages.dev
 0.0.0.0 pancake-swap-v3.pw
 0.0.0.0 pancake-swap-v3.tech
 0.0.0.0 pancake-swap.app
