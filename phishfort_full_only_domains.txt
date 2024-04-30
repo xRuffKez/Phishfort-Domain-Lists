@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Tue Apr 30 06:02:06 UTC 2024
+# PhishFort Full Domain List - Tue Apr 30 07:02:12 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 108911
+# Number of Entries: 108912
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -61523,6 +61523,7 @@ o11ce.com
 o2-cert.com
 o2-kundenverwaltung.info
 o2online-service.de
+o2online.com.de
 o2p2z.s3o98.com
 o2swap.space
 o3w.livsto.com
