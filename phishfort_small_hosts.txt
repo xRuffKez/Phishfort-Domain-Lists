@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue Apr 30 18:06:23 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 19:04:33 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7626
+# Number of Entries: 7621
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1169,7 +1169,6 @@
 0.0.0.0 burnmua.build
 0.0.0.0 bursapimapen.com
 0.0.0.0 burtonwright.net
-0.0.0.0 butt-token.com
 0.0.0.0 butterfield-portal.com
 0.0.0.0 butterfieldportal.com
 0.0.0.0 buy.scottyai.org
@@ -2209,7 +2208,6 @@
 0.0.0.0 erydgred.umb.market
 0.0.0.0 erythkor.buzz
 0.0.0.0 esbl.cybertrons.io
-0.0.0.0 espace-skynet.hubside.fr
 0.0.0.0 esprit-colombia.com.co
 0.0.0.0 etena.xyz
 0.0.0.0 eter.fi
@@ -2888,7 +2886,6 @@
 0.0.0.0 inaallert.com
 0.0.0.0 incsribe.app
 0.0.0.0 infiniteworks.net
-0.0.0.0 infosa.net
 0.0.0.0 ing-autorizza-cliente.it
 0.0.0.0 ing-bank.info
 0.0.0.0 ingb.online
@@ -4412,7 +4409,6 @@
 0.0.0.0 nooxnft.app
 0.0.0.0 nooxnft.org
 0.0.0.0 nordson.vn
-0.0.0.0 norwegianget.net
 0.0.0.0 notcoin-drop.com
 0.0.0.0 notcoin-network.wiki
 0.0.0.0 notcoin.art
@@ -5950,7 +5946,6 @@
 0.0.0.0 sparkfi.tech
 0.0.0.0 sparkfi.vip
 0.0.0.0 sparkfinance.fi
-0.0.0.0 sparklend.fi
 0.0.0.0 speedylendingtree.com
 0.0.0.0 speedysmartnetwork.com
 0.0.0.0 sperk.fi
@@ -6153,6 +6148,7 @@
 0.0.0.0 swiftdapppad.pages.dev
 0.0.0.0 swiftdapprotocol.pages.dev
 0.0.0.0 swiftdefiauth.pages.dev
+0.0.0.0 swiftissuesfix.pages.dev
 0.0.0.0 swiftlymerch.uk
 0.0.0.0 swiftmultichainresolve.pages.dev
 0.0.0.0 swiftresolvedapps.pages.dev
@@ -6648,6 +6644,7 @@
 0.0.0.0 vertexprotocol.top
 0.0.0.0 vertiv.dns.cz
 0.0.0.0 vertiv.jifang365.com
+0.0.0.0 vertiv.mitarbeiterangebote.de
 0.0.0.0 vfipaxos.org
 0.0.0.0 vhvhgv.pages.dev
 0.0.0.0 viacripto.com
@@ -7194,6 +7191,7 @@
 0.0.0.0 www.holdblur.foundation
 0.0.0.0 www.httpsmining-eth3.com
 0.0.0.0 www.hustlegenix.crd.mvu.mybluehost.me
+0.0.0.0 www.idextr.com
 0.0.0.0 www.imtoken-im.team
 0.0.0.0 www.interactivebroker.live
 0.0.0.0 www.interactivebrokerstrading.com
@@ -7383,7 +7381,6 @@
 0.0.0.0 www.starknet.pro.in
 0.0.0.0 www.swap-blast.finance
 0.0.0.0 www.swap-omax.pro
-0.0.0.0 www.swisroger.net
 0.0.0.0 www.swordavax.org
 0.0.0.0 www.taylormerch.com
 0.0.0.0 www.taylorswiftsmerch.com
@@ -7556,8 +7553,6 @@
 0.0.0.0 zerionweb3-noderewards.pages.dev
 0.0.0.0 zero-lend.app
 0.0.0.0 zeroiand.xyz
-0.0.0.0 zerolend.app
-0.0.0.0 zerolend.trading
 0.0.0.0 zerolend.xyz.guildx.id
 0.0.0.0 zerolends.top
 0.0.0.0 zerollend.one

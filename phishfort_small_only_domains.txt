@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Tue Apr 30 18:06:23 UTC 2024
+# PhishFort Small Domain List - Tue Apr 30 19:04:33 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7626
+# Number of Entries: 7621
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1168,7 +1168,6 @@ burnmintopensea.firebaseapp.com
 burnmua.build
 bursapimapen.com
 burtonwright.net
-butt-token.com
 butterfield-portal.com
 butterfieldportal.com
 buy.scottyai.org
@@ -2208,7 +2207,6 @@ errorsync.pages.dev
 erydgred.umb.market
 erythkor.buzz
 esbl.cybertrons.io
-espace-skynet.hubside.fr
 esprit-colombia.com.co
 etena.xyz
 eter.fi
@@ -2887,7 +2885,6 @@ imxcoin.eu
 inaallert.com
 incsribe.app
 infiniteworks.net
-infosa.net
 ing-autorizza-cliente.it
 ing-bank.info
 ingb.online
@@ -4411,7 +4408,6 @@ nootcoin.fun
 nooxnft.app
 nooxnft.org
 nordson.vn
-norwegianget.net
 notcoin-drop.com
 notcoin-network.wiki
 notcoin.art
@@ -5949,7 +5945,6 @@ sparkfi.org
 sparkfi.tech
 sparkfi.vip
 sparkfinance.fi
-sparklend.fi
 speedylendingtree.com
 speedysmartnetwork.com
 sperk.fi
@@ -6152,6 +6147,7 @@ swiftappsauth.pages.dev
 swiftdapppad.pages.dev
 swiftdapprotocol.pages.dev
 swiftdefiauth.pages.dev
+swiftissuesfix.pages.dev
 swiftlymerch.uk
 swiftmultichainresolve.pages.dev
 swiftresolvedapps.pages.dev
@@ -6647,6 +6643,7 @@ versity-token.finance
 vertexprotocol.top
 vertiv.dns.cz
 vertiv.jifang365.com
+vertiv.mitarbeiterangebote.de
 vfipaxos.org
 vhvhgv.pages.dev
 viacripto.com
@@ -7193,6 +7190,7 @@ www.helpdoc-avalache.online
 www.holdblur.foundation
 www.httpsmining-eth3.com
 www.hustlegenix.crd.mvu.mybluehost.me
+www.idextr.com
 www.imtoken-im.team
 www.interactivebroker.live
 www.interactivebrokerstrading.com
@@ -7382,7 +7380,6 @@ www.stakingritestream.io
 www.starknet.pro.in
 www.swap-blast.finance
 www.swap-omax.pro
-www.swisroger.net
 www.swordavax.org
 www.taylormerch.com
 www.taylorswiftsmerch.com
@@ -7555,8 +7552,6 @@ zerionu.com
 zerionweb3-noderewards.pages.dev
 zero-lend.app
 zeroiand.xyz
-zerolend.app
-zerolend.trading
 zerolend.xyz.guildx.id
 zerolends.top
 zerollend.one
