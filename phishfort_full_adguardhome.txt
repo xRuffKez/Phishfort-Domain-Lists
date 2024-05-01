@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  1 19:01:51 UTC 2024
+# PhishFort Full Domain List - Wed May  1 20:02:20 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108967
+# Number of Entries: 108966
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -44590,7 +44590,6 @@
 ||lifefitnesscareers.com^
 ||lifefitnesshr.com^
 ||lifefitnessiran.com^
-||lifeguardwatson.com^
 ||lifeguidedapp.net^
 ||lifeishort.work.gd^
 ||lifeparallel.app^

@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  1 19:01:51 UTC 2024
+# PhishFort Full Domain List - Wed May  1 20:02:20 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108967
+# Number of Entries: 108966
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -44590,7 +44590,6 @@
 0.0.0.0 lifefitnesscareers.com
 0.0.0.0 lifefitnesshr.com
 0.0.0.0 lifefitnessiran.com
-0.0.0.0 lifeguardwatson.com
 0.0.0.0 lifeguidedapp.net
 0.0.0.0 lifeishort.work.gd
 0.0.0.0 lifeparallel.app
