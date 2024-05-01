@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  1 17:02:12 UTC 2024
+# PhishFort Full Domain List - Wed May  1 18:02:07 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108964
+# Number of Entries: 108967
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -65299,6 +65299,7 @@
 0.0.0.0 pancakeswap-finance.mom
 0.0.0.0 pancakeswap-finance.myvnc.com
 0.0.0.0 pancakeswap-finance.net
+0.0.0.0 pancakeswap-finance.omnicare.com.fj
 0.0.0.0 pancakeswap-finance.ont2off.com
 0.0.0.0 pancakeswap-finance.org
 0.0.0.0 pancakeswap-finance.pages.dev
@@ -88608,6 +88609,7 @@
 0.0.0.0 tvrkstvvallet.com
 0.0.0.0 tw-ftx.com
 0.0.0.0 tw-spaceid.com
+0.0.0.0 tw843.vip
 0.0.0.0 twalletconnect.net
 0.0.0.0 twblocknet.com
 0.0.0.0 twbqkryp.top
@@ -96875,6 +96877,7 @@
 0.0.0.0 whtl-smartsheet.web.app
 0.0.0.0 wi-31.onrender.com
 0.0.0.0 wi.notifier.selfip.org
+0.0.0.0 wi789.vip
 0.0.0.0 wickensnft-mint.pdma.live
 0.0.0.0 wickvalidate.live
 0.0.0.0 widget-additional.pages.dev

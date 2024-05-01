@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  1 17:02:12 UTC 2024
+# PhishFort Full Domain List - Wed May  1 18:02:07 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108964
+# Number of Entries: 108967
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -65299,6 +65299,7 @@
 ||pancakeswap-finance.mom^
 ||pancakeswap-finance.myvnc.com^
 ||pancakeswap-finance.net^
+||pancakeswap-finance.omnicare.com.fj^
 ||pancakeswap-finance.ont2off.com^
 ||pancakeswap-finance.org^
 ||pancakeswap-finance.pages.dev^
@@ -88608,6 +88609,7 @@
 ||tvrkstvvallet.com^
 ||tw-ftx.com^
 ||tw-spaceid.com^
+||tw843.vip^
 ||twalletconnect.net^
 ||twblocknet.com^
 ||twbqkryp.top^
@@ -96875,6 +96877,7 @@
 ||whtl-smartsheet.web.app^
 ||wi-31.onrender.com^
 ||wi.notifier.selfip.org^
+||wi789.vip^
 ||wickensnft-mint.pdma.live^
 ||wickvalidate.live^
 ||widget-additional.pages.dev^
