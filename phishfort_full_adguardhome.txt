@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  1 05:02:06 UTC 2024
+# PhishFort Full Domain List - Wed May  1 06:02:34 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108944
+# Number of Entries: 108946
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -65119,6 +65119,7 @@
 ||pancakeswap-claim.herokuapp.com^
 ||pancakeswap-claim112.vercel.app^
 ||pancakeswap-claimdrop.com^
+||pancakeswap-claimnow.com^
 ||pancakeswap-claims.com^
 ||pancakeswap-claims.com.do^
 ||pancakeswap-clone-nine.vercel.app^
@@ -65287,7 +65288,6 @@
 ||pancakeswap-finance.mom^
 ||pancakeswap-finance.myvnc.com^
 ||pancakeswap-finance.net^
-||pancakeswap-finance.omnicare.com.fj^
 ||pancakeswap-finance.ont2off.com^
 ||pancakeswap-finance.org^
 ||pancakeswap-finance.pages.dev^
@@ -65435,6 +65435,7 @@
 ||pancakeswap-natiur.tech^
 ||pancakeswap-nev.tech^
 ||pancakeswap-nev.tech.audiocenter.biz^
+||pancakeswap-newdrop.com^
 ||pancakeswap-now.gotdns.ch^
 ||pancakeswap-official.online^
 ||pancakeswap-official.org^
@@ -82097,6 +82098,7 @@
 ||stake-pond0x.com^
 ||stake-quant.com^
 ||stake-rewarb.com^
+||stake-roninchain.com^
 ||stake-seedify.com^
 ||stake-slerf.com^
 ||stake-staderlabs.com^

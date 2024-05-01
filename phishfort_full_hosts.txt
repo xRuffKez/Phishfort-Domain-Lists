@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  1 05:02:06 UTC 2024
+# PhishFort Full Domain List - Wed May  1 06:02:34 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108944
+# Number of Entries: 108946
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -65119,6 +65119,7 @@
 0.0.0.0 pancakeswap-claim.herokuapp.com
 0.0.0.0 pancakeswap-claim112.vercel.app
 0.0.0.0 pancakeswap-claimdrop.com
+0.0.0.0 pancakeswap-claimnow.com
 0.0.0.0 pancakeswap-claims.com
 0.0.0.0 pancakeswap-claims.com.do
 0.0.0.0 pancakeswap-clone-nine.vercel.app
@@ -65287,7 +65288,6 @@
 0.0.0.0 pancakeswap-finance.mom
 0.0.0.0 pancakeswap-finance.myvnc.com
 0.0.0.0 pancakeswap-finance.net
-0.0.0.0 pancakeswap-finance.omnicare.com.fj
 0.0.0.0 pancakeswap-finance.ont2off.com
 0.0.0.0 pancakeswap-finance.org
 0.0.0.0 pancakeswap-finance.pages.dev
@@ -65435,6 +65435,7 @@
 0.0.0.0 pancakeswap-natiur.tech
 0.0.0.0 pancakeswap-nev.tech
 0.0.0.0 pancakeswap-nev.tech.audiocenter.biz
+0.0.0.0 pancakeswap-newdrop.com
 0.0.0.0 pancakeswap-now.gotdns.ch
 0.0.0.0 pancakeswap-official.online
 0.0.0.0 pancakeswap-official.org
@@ -82097,6 +82098,7 @@
 0.0.0.0 stake-pond0x.com
 0.0.0.0 stake-quant.com
 0.0.0.0 stake-rewarb.com
+0.0.0.0 stake-roninchain.com
 0.0.0.0 stake-seedify.com
 0.0.0.0 stake-slerf.com
 0.0.0.0 stake-staderlabs.com
