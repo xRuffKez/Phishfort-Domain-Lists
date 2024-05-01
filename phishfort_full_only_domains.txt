@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Wed May  1 04:02:03 UTC 2024
+# PhishFort Full Domain List - Wed May  1 05:02:06 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 108941
+# Number of Entries: 108944
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3071,9 +3071,11 @@ agoda-info.com
 agoda-jp.cc
 agoda-jp.co
 agoda-jp.com
+agoda-jp.life
 agoda-jp.net
 agoda-jp.site
 agoda-jp.vip
+agoda-jp.work
 agoda-jp.xyz
 agoda-jps.com
 agoda-mba.com
@@ -3107,7 +3109,6 @@ agoda.lovestoblog.com
 agoda.offer18239.com
 agoda.partner-extranet.info
 agoda.partner-extranet.life
-agoda.res437.com
 agoda.res94219.com
 agoda.reserv19471.org
 agoda.resew-r.world
@@ -59386,6 +59387,7 @@ myob.finance
 myob.financial
 myob.network
 myob.tax
+myobcollabs.pro
 myofferonlinecheck.xyz
 myoknawell.com
 myomonero.com
@@ -67647,6 +67649,7 @@ pancakewhip.site
 pancakewiss.com
 pancakeworld-net.kimberlyannjacobs.com
 pancakeworld.net
+pancakewsap-rewads.com
 pancakewsap.com
 pancakewsap.net
 pancakewsap.online
