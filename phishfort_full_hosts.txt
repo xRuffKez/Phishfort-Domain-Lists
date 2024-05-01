@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  1 13:02:24 UTC 2024
+# PhishFort Full Domain List - Wed May  1 14:02:02 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108951
+# Number of Entries: 108959
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3110,6 +3110,7 @@
 0.0.0.0 agoda.offer18239.com
 0.0.0.0 agoda.partner-extranet.info
 0.0.0.0 agoda.partner-extranet.life
+0.0.0.0 agoda.res437.com
 0.0.0.0 agoda.res94219.com
 0.0.0.0 agoda.reserv19471.org
 0.0.0.0 agoda.resew-r.world
@@ -16658,6 +16659,7 @@
 0.0.0.0 chendimassachoist.com
 0.0.0.0 chendimasslost.com
 0.0.0.0 chenlisting.com
+0.0.0.0 chensibenifitist.com
 0.0.0.0 chensymalst.com
 0.0.0.0 chessnutrition.info
 0.0.0.0 chestuniverse.com
@@ -36399,6 +36401,7 @@
 0.0.0.0 getmahanews18.com
 0.0.0.0 getmanta.network
 0.0.0.0 getmanta.pages.dev
+0.0.0.0 getmassaulbfnow.com
 0.0.0.0 getmetamask.com
 0.0.0.0 getmetamaskhere.com
 0.0.0.0 getmidjourney.tech
@@ -37533,6 +37536,7 @@
 0.0.0.0 goingtomall-s.info
 0.0.0.0 goken.im
 0.0.0.0 gokti.shijia178.com
+0.0.0.0 golbalpyaents.site
 0.0.0.0 gold-anatomic-ape.xyz
 0.0.0.0 gold-arbitrum.foundation
 0.0.0.0 gold-avalanche.com
@@ -48647,6 +48651,7 @@
 0.0.0.0 massachendristr.com
 0.0.0.0 massachutsuidet.com
 0.0.0.0 massareshaet.net
+0.0.0.0 masscarassist.com
 0.0.0.0 masschutconnect.com
 0.0.0.0 masscompras.com
 0.0.0.0 masscovlog.com
@@ -66823,6 +66828,7 @@
 0.0.0.0 pancakeswapclaim.vercel.app
 0.0.0.0 pancakeswapclaim34.vercel.app
 0.0.0.0 pancakeswapclaimbox.com
+0.0.0.0 pancakeswapclaimdropnow.com
 0.0.0.0 pancakeswapclaims.com
 0.0.0.0 pancakeswapclassic.com
 0.0.0.0 pancakeswapclassic.finance
@@ -98213,6 +98219,7 @@
 0.0.0.0 www.alshayaoman.net
 0.0.0.0 www.alshayasudia.info
 0.0.0.0 www.alskaa.com
+0.0.0.0 www.altamwilalearabiu.com
 0.0.0.0 www.altliayer.xyz
 0.0.0.0 www.am-metisbridge.com
 0.0.0.0 www.amazonbalance.com
@@ -99858,6 +99865,7 @@
 0.0.0.0 www.debcunk.com
 0.0.0.0 www.debcunlk.com
 0.0.0.0 www.debenhams-ae.com
+0.0.0.0 www.debenhams-deals.com
 0.0.0.0 www.debenhamsdeals.com
 0.0.0.0 www.debenk-app.com
 0.0.0.0 www.debugappfix.site

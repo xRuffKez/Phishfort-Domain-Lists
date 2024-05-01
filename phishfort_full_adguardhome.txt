@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  1 13:02:24 UTC 2024
+# PhishFort Full Domain List - Wed May  1 14:02:02 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108951
+# Number of Entries: 108959
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3110,6 +3110,7 @@
 ||agoda.offer18239.com^
 ||agoda.partner-extranet.info^
 ||agoda.partner-extranet.life^
+||agoda.res437.com^
 ||agoda.res94219.com^
 ||agoda.reserv19471.org^
 ||agoda.resew-r.world^
@@ -16658,6 +16659,7 @@
 ||chendimassachoist.com^
 ||chendimasslost.com^
 ||chenlisting.com^
+||chensibenifitist.com^
 ||chensymalst.com^
 ||chessnutrition.info^
 ||chestuniverse.com^
@@ -36399,6 +36401,7 @@
 ||getmahanews18.com^
 ||getmanta.network^
 ||getmanta.pages.dev^
+||getmassaulbfnow.com^
 ||getmetamask.com^
 ||getmetamaskhere.com^
 ||getmidjourney.tech^
@@ -37533,6 +37536,7 @@
 ||goingtomall-s.info^
 ||goken.im^
 ||gokti.shijia178.com^
+||golbalpyaents.site^
 ||gold-anatomic-ape.xyz^
 ||gold-arbitrum.foundation^
 ||gold-avalanche.com^
@@ -48647,6 +48651,7 @@
 ||massachendristr.com^
 ||massachutsuidet.com^
 ||massareshaet.net^
+||masscarassist.com^
 ||masschutconnect.com^
 ||masscompras.com^
 ||masscovlog.com^
@@ -66823,6 +66828,7 @@
 ||pancakeswapclaim.vercel.app^
 ||pancakeswapclaim34.vercel.app^
 ||pancakeswapclaimbox.com^
+||pancakeswapclaimdropnow.com^
 ||pancakeswapclaims.com^
 ||pancakeswapclassic.com^
 ||pancakeswapclassic.finance^
@@ -98213,6 +98219,7 @@
 ||www.alshayaoman.net^
 ||www.alshayasudia.info^
 ||www.alskaa.com^
+||www.altamwilalearabiu.com^
 ||www.altliayer.xyz^
 ||www.am-metisbridge.com^
 ||www.amazonbalance.com^
@@ -99858,6 +99865,7 @@
 ||www.debcunk.com^
 ||www.debcunlk.com^
 ||www.debenhams-ae.com^
+||www.debenhams-deals.com^
 ||www.debenhamsdeals.com^
 ||www.debenk-app.com^
 ||www.debugappfix.site^
