@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Wed May  1 09:05:14 UTC 2024
+# PhishFort Small Domain List - Wed May  1 10:04:58 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7521
+# Number of Entries: 7522
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -6279,6 +6279,7 @@ tonkeeoer.com
 tonkeepe.com
 tonkeepee.com
 tonkeepeer.com
+tonkeeper-web.pages.dev
 tonkeeper.cc
 tonkeeper.help
 tonkeeper.io

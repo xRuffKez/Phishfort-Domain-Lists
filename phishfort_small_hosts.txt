@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  1 09:05:14 UTC 2024
+# PhishFort Small Domain List - Wed May  1 10:04:58 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7521
+# Number of Entries: 7522
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -6280,6 +6280,7 @@
 0.0.0.0 tonkeepe.com
 0.0.0.0 tonkeepee.com
 0.0.0.0 tonkeepeer.com
+0.0.0.0 tonkeeper-web.pages.dev
 0.0.0.0 tonkeeper.cc
 0.0.0.0 tonkeeper.help
 0.0.0.0 tonkeeper.io
