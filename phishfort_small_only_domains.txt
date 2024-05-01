@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Wed May  1 08:06:50 UTC 2024
+# PhishFort Small Domain List - Wed May  1 09:05:14 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7522
+# Number of Entries: 7521
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1498,6 +1498,7 @@ cliffordchancelaw.net
 cliffordchanceuk.online
 clintexmigration.tech
 cliqueop.com
+clone1714515846502.angel-cloner.com
 clone1714516486291.angel-cloner.com
 cloud-base-dapp.vercel.app
 cloudinry.net
@@ -4126,7 +4127,6 @@ myjuppy-box.com
 myjuppy-box.trade
 mymetamasklogin.com
 mymoneronline.info
-mynewmontbonk.com
 mynewuimplclaim.com
 myob.finance
 myob.financial
@@ -5393,6 +5393,7 @@ resolveprotocols.pages.dev
 resolverweb3.pages.dev
 restake-fi.xyz
 restake-keelpdao.xyz
+restorebugs.pages.dev
 restoremetaweb.pages.dev
 retik-de.web.app
 retik-finance-en.web.app
@@ -5516,7 +5517,6 @@ roninchain.cc
 roninchain.cloud
 roninchain.shop
 roninchain.wtf
-roninchaln.com
 roninchaon.com
 roninnchain.com
 roninwallet-login4.godaddysites.com
@@ -5881,7 +5881,6 @@ spadaro.id.au
 spark-claim.org
 spark-fi.xyz
 sparkcircuit.shop
-sparkfi.app
 sparkfi.net
 sparkfi.org
 sparkfi.tech

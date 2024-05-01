@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  1 08:06:50 UTC 2024
+# PhishFort Small Domain List - Wed May  1 09:05:14 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7522
+# Number of Entries: 7521
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1499,6 +1499,7 @@
 0.0.0.0 cliffordchanceuk.online
 0.0.0.0 clintexmigration.tech
 0.0.0.0 cliqueop.com
+0.0.0.0 clone1714515846502.angel-cloner.com
 0.0.0.0 clone1714516486291.angel-cloner.com
 0.0.0.0 cloud-base-dapp.vercel.app
 0.0.0.0 cloudinry.net
@@ -4127,7 +4128,6 @@
 0.0.0.0 myjuppy-box.trade
 0.0.0.0 mymetamasklogin.com
 0.0.0.0 mymoneronline.info
-0.0.0.0 mynewmontbonk.com
 0.0.0.0 mynewuimplclaim.com
 0.0.0.0 myob.finance
 0.0.0.0 myob.financial
@@ -5394,6 +5394,7 @@
 0.0.0.0 resolverweb3.pages.dev
 0.0.0.0 restake-fi.xyz
 0.0.0.0 restake-keelpdao.xyz
+0.0.0.0 restorebugs.pages.dev
 0.0.0.0 restoremetaweb.pages.dev
 0.0.0.0 retik-de.web.app
 0.0.0.0 retik-finance-en.web.app
@@ -5517,7 +5518,6 @@
 0.0.0.0 roninchain.cloud
 0.0.0.0 roninchain.shop
 0.0.0.0 roninchain.wtf
-0.0.0.0 roninchaln.com
 0.0.0.0 roninchaon.com
 0.0.0.0 roninnchain.com
 0.0.0.0 roninwallet-login4.godaddysites.com
@@ -5882,7 +5882,6 @@
 0.0.0.0 spark-claim.org
 0.0.0.0 spark-fi.xyz
 0.0.0.0 sparkcircuit.shop
-0.0.0.0 sparkfi.app
 0.0.0.0 sparkfi.net
 0.0.0.0 sparkfi.org
 0.0.0.0 sparkfi.tech
