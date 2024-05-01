@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Wed May  1 22:05:35 UTC 2024
+# PhishFort Small Domain List - Wed May  1 23:05:59 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7513
+# Number of Entries: 7512
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -4670,6 +4670,7 @@ pancakeswaap.in
 pancakeswaapfinance.net
 pancakeswap-airdrop-giveaway.com
 pancakeswap-airdropclaim.vercel.app
+pancakeswap-app.com
 pancakeswap-claim112.vercel.app
 pancakeswap-claimdrop.com
 pancakeswap-claimnow.com
@@ -5284,7 +5285,6 @@ raydium-frontend.pages.dev
 raydium.fun
 raydium.lo.web3-connect.pw
 raydlumvy.com
-rayduims.beauty
 rayduims.boats
 rayduims.homes
 rayduims.monster
@@ -5499,7 +5499,6 @@ rolluper.pro
 ronienchaim.com
 ronin-app.com
 ronin-chain.app
-ronin-chain.com
 ronin-wallets.godaddysites.com
 roninchain.app
 roninchain.cc
