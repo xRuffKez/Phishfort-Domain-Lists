@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  1 17:05:04 UTC 2024
+# PhishFort Small Domain List - Wed May  1 18:05:27 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7518
+# Number of Entries: 7517
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2577,7 +2577,6 @@
 0.0.0.0 giveaway-neotokyo.codes
 0.0.0.0 givesaiyans.com
 0.0.0.0 gjkf.pro
-0.0.0.0 gl-rsmopt.com
 0.0.0.0 glaberkantonalbank.com.opticsea.org
 0.0.0.0 glacierdivisons.pics
 0.0.0.0 glhfers.xyz
@@ -5537,8 +5536,6 @@
 0.0.0.0 rpcweb3maindapp.com
 0.0.0.0 rroninchain.com
 0.0.0.0 rrspn.pro
-0.0.0.0 rsmopt.com
-0.0.0.0 rsmtop.com
 0.0.0.0 rsr.gift
 0.0.0.0 rtfkt-gem.com
 0.0.0.0 rtfkt.gifts
@@ -6365,6 +6362,7 @@
 0.0.0.0 tu3.us
 0.0.0.0 tulip-app.one
 0.0.0.0 tvl-chain.link
+0.0.0.0 tw843.vip
 0.0.0.0 twiliostatus.com
 0.0.0.0 twt.airpuds.top
 0.0.0.0 twt.altpads500.top
@@ -6860,6 +6858,7 @@
 0.0.0.0 whitelists-getblockgame.com
 0.0.0.0 whitelists-redstone.com
 0.0.0.0 whitelists-roninchain.com
+0.0.0.0 wi789.vip
 0.0.0.0 widget-additional.pages.dev
 0.0.0.0 wigggin.com
 0.0.0.0 wild.gift

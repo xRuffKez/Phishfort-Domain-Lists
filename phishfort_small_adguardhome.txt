@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  1 17:05:04 UTC 2024
+# PhishFort Small Domain List - Wed May  1 18:05:27 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7518
+# Number of Entries: 7517
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2577,7 +2577,6 @@
 ||giveaway-neotokyo.codes^
 ||givesaiyans.com^
 ||gjkf.pro^
-||gl-rsmopt.com^
 ||glaberkantonalbank.com.opticsea.org^
 ||glacierdivisons.pics^
 ||glhfers.xyz^
@@ -5537,8 +5536,6 @@
 ||rpcweb3maindapp.com^
 ||rroninchain.com^
 ||rrspn.pro^
-||rsmopt.com^
-||rsmtop.com^
 ||rsr.gift^
 ||rtfkt-gem.com^
 ||rtfkt.gifts^
@@ -6365,6 +6362,7 @@
 ||tu3.us^
 ||tulip-app.one^
 ||tvl-chain.link^
+||tw843.vip^
 ||twiliostatus.com^
 ||twt.airpuds.top^
 ||twt.altpads500.top^
@@ -6860,6 +6858,7 @@
 ||whitelists-getblockgame.com^
 ||whitelists-redstone.com^
 ||whitelists-roninchain.com^
+||wi789.vip^
 ||widget-additional.pages.dev^
 ||wigggin.com^
 ||wild.gift^
