@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Wed May  1 16:05:16 UTC 2024
+# PhishFort Small Domain List - Wed May  1 17:05:04 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7522
+# Number of Entries: 7518
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3225,7 +3225,6 @@ lido-airdrop.app
 lido-dist.web.app
 lido-fi.digital
 lido-fi.homes
-lido-fi.nl
 lido-finance.net
 lido-g8o.pages.dev
 lido-rewards.pages.dev
@@ -4089,7 +4088,6 @@ multiwalletsystem.web.app
 mumucoin.org
 mundialconsorcios.com.br
 murconseil.com
-murphygroupltd.co.uk
 musicyandex.ru
 muskswap.pages.dev
 mutant-dao.web.app
@@ -6189,7 +6187,6 @@ theblueskytrading.com
 thecouragedoog.live
 theemiraetesgroup.com
 theemirategroups.com
-theemiratesgroupae.com
 theemiratesgroupae.online
 theemiratesgroups-ae.online
 theemiriatesgroup.online
@@ -6655,7 +6652,6 @@ wallet--connect.pages.dev
 wallet-balancer.website
 wallet-collabland.com
 wallet-connect-6pp.pages.dev
-wallet-support.vercel.app
 wallet.browserextension.net
 wallet.ethenafi.cloud
 wallet.launchpadxy.xyz

@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  1 16:05:16 UTC 2024
+# PhishFort Small Domain List - Wed May  1 17:05:04 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7522
+# Number of Entries: 7518
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3226,7 +3226,6 @@
 0.0.0.0 lido-dist.web.app
 0.0.0.0 lido-fi.digital
 0.0.0.0 lido-fi.homes
-0.0.0.0 lido-fi.nl
 0.0.0.0 lido-finance.net
 0.0.0.0 lido-g8o.pages.dev
 0.0.0.0 lido-rewards.pages.dev
@@ -4090,7 +4089,6 @@
 0.0.0.0 mumucoin.org
 0.0.0.0 mundialconsorcios.com.br
 0.0.0.0 murconseil.com
-0.0.0.0 murphygroupltd.co.uk
 0.0.0.0 musicyandex.ru
 0.0.0.0 muskswap.pages.dev
 0.0.0.0 mutant-dao.web.app
@@ -6190,7 +6188,6 @@
 0.0.0.0 thecouragedoog.live
 0.0.0.0 theemiraetesgroup.com
 0.0.0.0 theemirategroups.com
-0.0.0.0 theemiratesgroupae.com
 0.0.0.0 theemiratesgroupae.online
 0.0.0.0 theemiratesgroups-ae.online
 0.0.0.0 theemiriatesgroup.online
@@ -6656,7 +6653,6 @@
 0.0.0.0 wallet-balancer.website
 0.0.0.0 wallet-collabland.com
 0.0.0.0 wallet-connect-6pp.pages.dev
-0.0.0.0 wallet-support.vercel.app
 0.0.0.0 wallet.browserextension.net
 0.0.0.0 wallet.ethenafi.cloud
 0.0.0.0 wallet.launchpadxy.xyz
