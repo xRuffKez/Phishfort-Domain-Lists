@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Wed May  1 15:05:09 UTC 2024
+# PhishFort Small Domain List - Wed May  1 16:05:16 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7529
+# Number of Entries: 7522
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -19,7 +19,6 @@
 1.globalpaymentsyttww.com
 1.globalpaymentsytww.com
 123-bti.pages.dev
-162814-coinbase.com
 176823-coinbase.com
 18f5384d.chriswsteele.com
 1cancelar-cambio.webcindario.com
@@ -1134,7 +1133,6 @@ browsersextension.com
 brustolkmasschendrst.com
 bsc-pancakeswap.pages.dev
 bssmt.pro
-btc-etftoken.web.app
 btcetf-token.net
 btcminetrix.vercel.app
 btctokensfree.online
@@ -1501,6 +1499,7 @@ cliffordchanceuk.online
 clintexmigration.tech
 cliqueop.com
 clone1714515846502.angel-cloner.com
+clone1714516377704.angel-cloner.com
 clone1714516486291.angel-cloner.com
 cloud-base-dapp.vercel.app
 cloudinry.net
@@ -1551,7 +1550,6 @@ coinmarketcap-login-web.web.app
 coinmetronet.live
 coinmultiresolve.firebaseapp.com
 coinmultiresolve.web.app
-coinnbasealphaglobal-servapp.apexsolutionllc.com
 coinnode.online
 coinomize-app.pages.dev
 coinomize-mixer.pages.dev
@@ -1904,7 +1902,6 @@ defisentry.pages.dev
 defispot.app
 defisrhino.net
 deflexseax.xyz
-defuny.cc
 degen.hakunamatatasol.com
 degods-wormhole.com
 deillama.top
@@ -2429,7 +2426,6 @@ frame.markets
 free-altlayer.com
 free-altlayers.com
 free-tias.com
-free.bitiezcommune.xyz
 free.bitzgroup.xyz
 free.mugalife.digital
 free.personalzomb.xyz
@@ -4648,6 +4644,7 @@ pancakedrop.com
 pancakedrop.xyz
 pancakedropclaim4600.vercel.app
 pancakedropclaim49.vercel.app
+pancakedropclaimz323.vercel.app
 pancakedropclick17.vercel.app
 pancakedropclick32.vercel.app
 pancakedropclick80.vercel.app
@@ -4988,9 +4985,7 @@ petsversegames.sale
 petsversegames.site
 pfantmwallet.godaddysites.com
 pgenztokenclaim.pages.dev
-phaintum-wall_it.godaddysites.com
 phammt.xyz
-phamtom-walet.godaddysites.com
 phanntm-walluut.godaddysites.com
 phantjum.xyz
 phantomapp.support
@@ -5129,7 +5124,6 @@ promt-088x2.com
 pronkhub.ru
 prophetsbot.app
 protect-guide.com
-protect-solana.xyz
 protocol-apex.com
 protocol-carv.nl
 protocol-guard.web.app
@@ -5477,7 +5471,6 @@ rewards-ether.com
 rewards-mantanetwork.com
 rewards-mantle.com
 rewards-mode.network
-rewards-multibit.exchange
 rewards-opsec.net
 rewards-solanamobile.com
 rewards-taiko.com

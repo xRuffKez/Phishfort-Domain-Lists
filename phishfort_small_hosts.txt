@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  1 15:05:09 UTC 2024
+# PhishFort Small Domain List - Wed May  1 16:05:16 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7529
+# Number of Entries: 7522
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -20,7 +20,6 @@
 0.0.0.0 1.globalpaymentsyttww.com
 0.0.0.0 1.globalpaymentsytww.com
 0.0.0.0 123-bti.pages.dev
-0.0.0.0 162814-coinbase.com
 0.0.0.0 176823-coinbase.com
 0.0.0.0 18f5384d.chriswsteele.com
 0.0.0.0 1cancelar-cambio.webcindario.com
@@ -1135,7 +1134,6 @@
 0.0.0.0 brustolkmasschendrst.com
 0.0.0.0 bsc-pancakeswap.pages.dev
 0.0.0.0 bssmt.pro
-0.0.0.0 btc-etftoken.web.app
 0.0.0.0 btcetf-token.net
 0.0.0.0 btcminetrix.vercel.app
 0.0.0.0 btctokensfree.online
@@ -1502,6 +1500,7 @@
 0.0.0.0 clintexmigration.tech
 0.0.0.0 cliqueop.com
 0.0.0.0 clone1714515846502.angel-cloner.com
+0.0.0.0 clone1714516377704.angel-cloner.com
 0.0.0.0 clone1714516486291.angel-cloner.com
 0.0.0.0 cloud-base-dapp.vercel.app
 0.0.0.0 cloudinry.net
@@ -1552,7 +1551,6 @@
 0.0.0.0 coinmetronet.live
 0.0.0.0 coinmultiresolve.firebaseapp.com
 0.0.0.0 coinmultiresolve.web.app
-0.0.0.0 coinnbasealphaglobal-servapp.apexsolutionllc.com
 0.0.0.0 coinnode.online
 0.0.0.0 coinomize-app.pages.dev
 0.0.0.0 coinomize-mixer.pages.dev
@@ -1905,7 +1903,6 @@
 0.0.0.0 defispot.app
 0.0.0.0 defisrhino.net
 0.0.0.0 deflexseax.xyz
-0.0.0.0 defuny.cc
 0.0.0.0 degen.hakunamatatasol.com
 0.0.0.0 degods-wormhole.com
 0.0.0.0 deillama.top
@@ -2430,7 +2427,6 @@
 0.0.0.0 free-altlayer.com
 0.0.0.0 free-altlayers.com
 0.0.0.0 free-tias.com
-0.0.0.0 free.bitiezcommune.xyz
 0.0.0.0 free.bitzgroup.xyz
 0.0.0.0 free.mugalife.digital
 0.0.0.0 free.personalzomb.xyz
@@ -4649,6 +4645,7 @@
 0.0.0.0 pancakedrop.xyz
 0.0.0.0 pancakedropclaim4600.vercel.app
 0.0.0.0 pancakedropclaim49.vercel.app
+0.0.0.0 pancakedropclaimz323.vercel.app
 0.0.0.0 pancakedropclick17.vercel.app
 0.0.0.0 pancakedropclick32.vercel.app
 0.0.0.0 pancakedropclick80.vercel.app
@@ -4989,9 +4986,7 @@
 0.0.0.0 petsversegames.site
 0.0.0.0 pfantmwallet.godaddysites.com
 0.0.0.0 pgenztokenclaim.pages.dev
-0.0.0.0 phaintum-wall_it.godaddysites.com
 0.0.0.0 phammt.xyz
-0.0.0.0 phamtom-walet.godaddysites.com
 0.0.0.0 phanntm-walluut.godaddysites.com
 0.0.0.0 phantjum.xyz
 0.0.0.0 phantomapp.support
@@ -5130,7 +5125,6 @@
 0.0.0.0 pronkhub.ru
 0.0.0.0 prophetsbot.app
 0.0.0.0 protect-guide.com
-0.0.0.0 protect-solana.xyz
 0.0.0.0 protocol-apex.com
 0.0.0.0 protocol-carv.nl
 0.0.0.0 protocol-guard.web.app
@@ -5478,7 +5472,6 @@
 0.0.0.0 rewards-mantanetwork.com
 0.0.0.0 rewards-mantle.com
 0.0.0.0 rewards-mode.network
-0.0.0.0 rewards-multibit.exchange
 0.0.0.0 rewards-opsec.net
 0.0.0.0 rewards-solanamobile.com
 0.0.0.0 rewards-taiko.com
