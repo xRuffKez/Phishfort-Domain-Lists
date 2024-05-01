@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  1 01:27:49 UTC 2024
+# PhishFort Full Domain List - Wed May  1 02:13:21 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108939
+# Number of Entries: 108941
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -98591,6 +98591,7 @@
 0.0.0.0 www.asx-download.com
 0.0.0.0 www.asx-exs.com
 0.0.0.0 www.asx-genten.com
+0.0.0.0 www.asx-giabel.com
 0.0.0.0 www.asx-global.com
 0.0.0.0 www.asx-gsncq.top
 0.0.0.0 www.asx-ice.top
@@ -98609,6 +98610,7 @@
 0.0.0.0 www.asxcoinic.com
 0.0.0.0 www.asxcrypto.net
 0.0.0.0 www.asxcryptoo.com
+0.0.0.0 www.asxgloble.com
 0.0.0.0 www.asxhk0.com
 0.0.0.0 www.asxhk7.com
 0.0.0.0 www.asxhk8.com

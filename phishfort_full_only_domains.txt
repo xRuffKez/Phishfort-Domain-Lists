@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Wed May  1 01:27:49 UTC 2024
+# PhishFort Full Domain List - Wed May  1 02:13:21 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 108939
+# Number of Entries: 108941
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -98590,6 +98590,7 @@ www.asx-danman.top
 www.asx-download.com
 www.asx-exs.com
 www.asx-genten.com
+www.asx-giabel.com
 www.asx-global.com
 www.asx-gsncq.top
 www.asx-ice.top
@@ -98608,6 +98609,7 @@ www.asxcions.com
 www.asxcoinic.com
 www.asxcrypto.net
 www.asxcryptoo.com
+www.asxgloble.com
 www.asxhk0.com
 www.asxhk7.com
 www.asxhk8.com
