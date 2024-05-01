@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  1 06:02:34 UTC 2024
+# PhishFort Full Domain List - Wed May  1 07:02:08 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108946
+# Number of Entries: 108948
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -18145,6 +18145,7 @@
 0.0.0.0 clodida.io
 0.0.0.0 cloeisor.com
 0.0.0.0 cloingecko.com
+0.0.0.0 clone1714516486291.angel-cloner.com
 0.0.0.0 cloneforce.net
 0.0.0.0 cloneforce.one
 0.0.0.0 cloneforce.online
@@ -65066,6 +65067,7 @@
 0.0.0.0 pancakeswap-airdrop.site
 0.0.0.0 pancakeswap-airdrop.tech
 0.0.0.0 pancakeswap-airdropcampaign.finance
+0.0.0.0 pancakeswap-airdropclaim.vercel.app
 0.0.0.0 pancakeswap-amer.tech
 0.0.0.0 pancakeswap-amm.com
 0.0.0.0 pancakeswap-amoun.tech
