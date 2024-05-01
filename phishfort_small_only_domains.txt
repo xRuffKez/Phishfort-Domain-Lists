@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Wed May  1 14:05:59 UTC 2024
+# PhishFort Small Domain List - Wed May  1 15:05:09 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 7529
 # Project: PhishFort (https://phishfort.com/)
@@ -2773,7 +2773,6 @@ hopper-rating.com
 hopper.travsrv.com
 horyksmassast.com
 hostbreno.com
-hostilityaristocrat.top
 housexysounds.com
 hpwhmw10itwo.xyz
 hqq0a7e.info
@@ -2825,7 +2824,6 @@ ibllcxo.com
 ibllcxz.com
 ibllcy.com
 icebnb-token-reflection-fix.netlify.app
-identicalentail.top
 idex-crypto.vip
 idextr.com
 idypians.xyz
@@ -6382,6 +6380,7 @@ twt.altpads500.top
 twt.multipuds.top
 twt.x-trastpad.top
 txaq.cc
+tysys.site
 uasetlog.com
 ubnr.cc
 uehgdsa.com
@@ -7197,6 +7196,7 @@ www.mypethooligengame.com
 www.nasxcoins.com
 www.newmontminingcorp.com
 www.newmontvip.com
+www.ni.uipoint.online
 www.node-protocol.net
 www.node.authfxconnector.com
 www.nslinu.com

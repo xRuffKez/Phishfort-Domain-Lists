@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Wed May  1 14:05:59 UTC 2024
+# PhishFort Small Domain List - Wed May  1 15:05:09 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 7529
@@ -2774,7 +2774,6 @@
 0.0.0.0 hopper.travsrv.com
 0.0.0.0 horyksmassast.com
 0.0.0.0 hostbreno.com
-0.0.0.0 hostilityaristocrat.top
 0.0.0.0 housexysounds.com
 0.0.0.0 hpwhmw10itwo.xyz
 0.0.0.0 hqq0a7e.info
@@ -2826,7 +2825,6 @@
 0.0.0.0 ibllcxz.com
 0.0.0.0 ibllcy.com
 0.0.0.0 icebnb-token-reflection-fix.netlify.app
-0.0.0.0 identicalentail.top
 0.0.0.0 idex-crypto.vip
 0.0.0.0 idextr.com
 0.0.0.0 idypians.xyz
@@ -6383,6 +6381,7 @@
 0.0.0.0 twt.multipuds.top
 0.0.0.0 twt.x-trastpad.top
 0.0.0.0 txaq.cc
+0.0.0.0 tysys.site
 0.0.0.0 uasetlog.com
 0.0.0.0 ubnr.cc
 0.0.0.0 uehgdsa.com
@@ -7198,6 +7197,7 @@
 0.0.0.0 www.nasxcoins.com
 0.0.0.0 www.newmontminingcorp.com
 0.0.0.0 www.newmontvip.com
+0.0.0.0 www.ni.uipoint.online
 0.0.0.0 www.node-protocol.net
 0.0.0.0 www.node.authfxconnector.com
 0.0.0.0 www.nslinu.com
