@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  1 06:06:53 UTC 2024
+# PhishFort Small Domain List - Wed May  1 07:05:37 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7523
+# Number of Entries: 7522
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3365,7 +3365,6 @@
 0.0.0.0 m.dscd888.com
 0.0.0.0 m.dzsqc.com
 0.0.0.0 m.ethenaofficial.com
-0.0.0.0 m.hongcsx.cn
 0.0.0.0 m.janalt-tech.com
 0.0.0.0 m.js-xlh.com
 0.0.0.0 m.kinetu.com.cn
@@ -4679,6 +4678,7 @@
 0.0.0.0 pancakeswaap.in
 0.0.0.0 pancakeswaapfinance.net
 0.0.0.0 pancakeswap-airdrop-giveaway.com
+0.0.0.0 pancakeswap-airdropclaim.vercel.app
 0.0.0.0 pancakeswap-claim112.vercel.app
 0.0.0.0 pancakeswap-claimdrop.com
 0.0.0.0 pancakeswap-claimnow.com
@@ -7257,7 +7257,6 @@
 0.0.0.0 www.royalsecrets.com.ua
 0.0.0.0 www.rpcresolve.com
 0.0.0.0 www.rtspos.net
-0.0.0.0 www.rtutgg.cn
 0.0.0.0 www.rubyprotocol.pro
 0.0.0.0 www.sa.detworth.online
 0.0.0.0 www.sabrinacarpentermerch.com

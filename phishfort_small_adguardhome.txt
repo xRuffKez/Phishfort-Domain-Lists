@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  1 06:06:53 UTC 2024
+# PhishFort Small Domain List - Wed May  1 07:05:37 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7523
+# Number of Entries: 7522
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3365,7 +3365,6 @@
 ||m.dscd888.com^
 ||m.dzsqc.com^
 ||m.ethenaofficial.com^
-||m.hongcsx.cn^
 ||m.janalt-tech.com^
 ||m.js-xlh.com^
 ||m.kinetu.com.cn^
@@ -4679,6 +4678,7 @@
 ||pancakeswaap.in^
 ||pancakeswaapfinance.net^
 ||pancakeswap-airdrop-giveaway.com^
+||pancakeswap-airdropclaim.vercel.app^
 ||pancakeswap-claim112.vercel.app^
 ||pancakeswap-claimdrop.com^
 ||pancakeswap-claimnow.com^
@@ -7257,7 +7257,6 @@
 ||www.royalsecrets.com.ua^
 ||www.rpcresolve.com^
 ||www.rtspos.net^
-||www.rtutgg.cn^
 ||www.rubyprotocol.pro^
 ||www.sa.detworth.online^
 ||www.sabrinacarpentermerch.com^
