@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  1 13:05:02 UTC 2024
+# PhishFort Small Domain List - Wed May  1 14:05:59 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7522
+# Number of Entries: 7529
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -15,6 +15,7 @@
 0.0.0.0 0x4ee15erf903e2634abe0e.com
 0.0.0.0 1-88y.pages.dev
 0.0.0.0 1-eu9.pages.dev
+0.0.0.0 1-inch.vercel.app
 0.0.0.0 1-lnch.com
 0.0.0.0 1.globalpaymentsyttww.com
 0.0.0.0 1.globalpaymentsytww.com
@@ -201,6 +202,7 @@
 0.0.0.0 agoda.offer18239.com
 0.0.0.0 agoda.partner-extranet.info
 0.0.0.0 agoda.partner-extranet.life
+0.0.0.0 agoda.res437.com
 0.0.0.0 agoda.res94219.com
 0.0.0.0 agoda.reserv19471.org
 0.0.0.0 agoda.weboffer7181.com
@@ -384,7 +386,6 @@
 0.0.0.0 alphatrace.pro
 0.0.0.0 alphatrace.tech
 0.0.0.0 alrajh.prokhaliij.com
-0.0.0.0 alshaya-group-ae.company.site
 0.0.0.0 alshaya-group-ua.company.site
 0.0.0.0 alshayae.shop
 0.0.0.0 alshayagrooup.shop
@@ -1309,6 +1310,7 @@
 0.0.0.0 cheelee.io-5000-usd-air.info
 0.0.0.0 chendimassachoist.com
 0.0.0.0 chendimasslost.com
+0.0.0.0 chensibenifitist.com
 0.0.0.0 chensymalst.com
 0.0.0.0 chevroletshopdrive.ws
 0.0.0.0 chevropromoo.com
@@ -2552,6 +2554,7 @@
 0.0.0.0 getgrass.cx
 0.0.0.0 getmanta.network
 0.0.0.0 getmanta.pages.dev
+0.0.0.0 getmassaulbfnow.com
 0.0.0.0 getmidjourney.tech
 0.0.0.0 getrewards.life
 0.0.0.0 gets.dappsradars.online
@@ -2599,6 +2602,7 @@
 0.0.0.0 go.stakewise-finance.com
 0.0.0.0 gocleanersgo.com
 0.0.0.0 godaddy-ens.domains
+0.0.0.0 golbalpyaents.site
 0.0.0.0 goldberg-trust.com
 0.0.0.0 goldcloudglobal.world
 0.0.0.0 goldsolana.org
@@ -3584,6 +3588,7 @@
 0.0.0.0 maskcoin.pages.dev
 0.0.0.0 mass-gov.dta-connect-hhs.com
 0.0.0.0 massachendristr.com
+0.0.0.0 masscarassist.com
 0.0.0.0 massgouidetma.org
 0.0.0.0 masslorelictorganospaychsetc.com
 0.0.0.0 masslottery.lotteryvault.net
@@ -4373,7 +4378,6 @@
 0.0.0.0 ns1.bandwidthserver.com
 0.0.0.0 nsds.cc
 0.0.0.0 numboost.ru
-0.0.0.0 nusuk.site
 0.0.0.0 nusukroadshow.com
 0.0.0.0 nvenergy.customersupports.network
 0.0.0.0 nvidia.gives
@@ -4714,6 +4718,7 @@
 0.0.0.0 pancakeswapclaim.vercel.app
 0.0.0.0 pancakeswapclaim34.vercel.app
 0.0.0.0 pancakeswapclaimbox.com
+0.0.0.0 pancakeswapclaimdropnow.com
 0.0.0.0 pancakeswapclick04.vercel.app
 0.0.0.0 pancakeswapcrypto.com
 0.0.0.0 pancakeswapdrop.com
@@ -6967,6 +6972,7 @@
 0.0.0.0 www.allianceprotectionservice.com
 0.0.0.0 www.alshaya.great-site.net
 0.0.0.0 www.alshayagroup.store
+0.0.0.0 www.altamwilalearabiu.com
 0.0.0.0 www.amspresale.cz
 0.0.0.0 www.amswallet.cz
 0.0.0.0 www.amz998.com
@@ -7052,6 +7058,7 @@
 0.0.0.0 www.dapphyperblast.io
 0.0.0.0 www.dappsresolver.com
 0.0.0.0 www.dartya.cc
+0.0.0.0 www.debenhams-deals.com
 0.0.0.0 www.decntralnd.one
 0.0.0.0 www.decora-cabinets.com
 0.0.0.0 www.degen.hakunamatatasol.com

@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Wed May  1 13:05:02 UTC 2024
+# PhishFort Small Domain List - Wed May  1 14:05:59 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7522
+# Number of Entries: 7529
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -14,6 +14,7 @@
 0x4ee15erf903e2634abe0e.com
 1-88y.pages.dev
 1-eu9.pages.dev
+1-inch.vercel.app
 1-lnch.com
 1.globalpaymentsyttww.com
 1.globalpaymentsytww.com
@@ -200,6 +201,7 @@ agoda.info631.com
 agoda.offer18239.com
 agoda.partner-extranet.info
 agoda.partner-extranet.life
+agoda.res437.com
 agoda.res94219.com
 agoda.reserv19471.org
 agoda.weboffer7181.com
@@ -383,7 +385,6 @@ alphalobstarpal.pages.dev
 alphatrace.pro
 alphatrace.tech
 alrajh.prokhaliij.com
-alshaya-group-ae.company.site
 alshaya-group-ua.company.site
 alshayae.shop
 alshayagrooup.shop
@@ -1308,6 +1309,7 @@ checksart.top
 cheelee.io-5000-usd-air.info
 chendimassachoist.com
 chendimasslost.com
+chensibenifitist.com
 chensymalst.com
 chevroletshopdrive.ws
 chevropromoo.com
@@ -2551,6 +2553,7 @@ getgrass-collect.com
 getgrass.cx
 getmanta.network
 getmanta.pages.dev
+getmassaulbfnow.com
 getmidjourney.tech
 getrewards.life
 gets.dappsradars.online
@@ -2598,6 +2601,7 @@ go-pyth.network
 go.stakewise-finance.com
 gocleanersgo.com
 godaddy-ens.domains
+golbalpyaents.site
 goldberg-trust.com
 goldcloudglobal.world
 goldsolana.org
@@ -3583,6 +3587,7 @@ maskclaim.top
 maskcoin.pages.dev
 mass-gov.dta-connect-hhs.com
 massachendristr.com
+masscarassist.com
 massgouidetma.org
 masslorelictorganospaychsetc.com
 masslottery.lotteryvault.net
@@ -4372,7 +4377,6 @@ nqzero.sa.com
 ns1.bandwidthserver.com
 nsds.cc
 numboost.ru
-nusuk.site
 nusukroadshow.com
 nvenergy.customersupports.network
 nvidia.gives
@@ -4713,6 +4717,7 @@ pancakeswapairdrop.com
 pancakeswapclaim.vercel.app
 pancakeswapclaim34.vercel.app
 pancakeswapclaimbox.com
+pancakeswapclaimdropnow.com
 pancakeswapclick04.vercel.app
 pancakeswapcrypto.com
 pancakeswapdrop.com
@@ -6966,6 +6971,7 @@ www.allchainsfixer.site
 www.allianceprotectionservice.com
 www.alshaya.great-site.net
 www.alshayagroup.store
+www.altamwilalearabiu.com
 www.amspresale.cz
 www.amswallet.cz
 www.amz998.com
@@ -7051,6 +7057,7 @@ www.dappbrowser.info
 www.dapphyperblast.io
 www.dappsresolver.com
 www.dartya.cc
+www.debenhams-deals.com
 www.decntralnd.one
 www.decora-cabinets.com
 www.degen.hakunamatatasol.com
