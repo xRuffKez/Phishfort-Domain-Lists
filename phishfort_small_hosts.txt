@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  1 04:05:20 UTC 2024
+# PhishFort Small Domain List - Wed May  1 05:05:02 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7516
+# Number of Entries: 7519
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -183,8 +183,10 @@
 0.0.0.0 agoda-hotelreservation.top
 0.0.0.0 agoda-jp.cc
 0.0.0.0 agoda-jp.co
+0.0.0.0 agoda-jp.life
 0.0.0.0 agoda-jp.net
 0.0.0.0 agoda-jp.site
+0.0.0.0 agoda-jp.work
 0.0.0.0 agoda-jp.xyz
 0.0.0.0 agoda-jps.com
 0.0.0.0 agoda-offer101079.com
@@ -199,7 +201,6 @@
 0.0.0.0 agoda.offer18239.com
 0.0.0.0 agoda.partner-extranet.info
 0.0.0.0 agoda.partner-extranet.life
-0.0.0.0 agoda.res437.com
 0.0.0.0 agoda.res94219.com
 0.0.0.0 agoda.reserv19471.org
 0.0.0.0 agoda.weboffer7181.com
@@ -4132,6 +4133,7 @@
 0.0.0.0 myob.financial
 0.0.0.0 myob.network
 0.0.0.0 myob.tax
+0.0.0.0 myobcollabs.pro
 0.0.0.0 mypivalidations.com
 0.0.0.0 myria-game.com
 0.0.0.0 mysecond.mypsx.net
@@ -4741,6 +4743,7 @@
 0.0.0.0 pancakeswpclicks.vercel.app
 0.0.0.0 pancakeswpdrop13.vercel.app
 0.0.0.0 pancakeswwap.com
+0.0.0.0 pancakewsap-rewads.com
 0.0.0.0 pancaksewaq-finance.com
 0.0.0.0 pancakswaip.com
 0.0.0.0 pancakswap.fi

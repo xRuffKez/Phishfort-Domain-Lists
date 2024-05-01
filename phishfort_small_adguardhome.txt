@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  1 04:05:20 UTC 2024
+# PhishFort Small Domain List - Wed May  1 05:05:02 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7516
+# Number of Entries: 7519
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -183,8 +183,10 @@
 ||agoda-hotelreservation.top^
 ||agoda-jp.cc^
 ||agoda-jp.co^
+||agoda-jp.life^
 ||agoda-jp.net^
 ||agoda-jp.site^
+||agoda-jp.work^
 ||agoda-jp.xyz^
 ||agoda-jps.com^
 ||agoda-offer101079.com^
@@ -199,7 +201,6 @@
 ||agoda.offer18239.com^
 ||agoda.partner-extranet.info^
 ||agoda.partner-extranet.life^
-||agoda.res437.com^
 ||agoda.res94219.com^
 ||agoda.reserv19471.org^
 ||agoda.weboffer7181.com^
@@ -4132,6 +4133,7 @@
 ||myob.financial^
 ||myob.network^
 ||myob.tax^
+||myobcollabs.pro^
 ||mypivalidations.com^
 ||myria-game.com^
 ||mysecond.mypsx.net^
@@ -4741,6 +4743,7 @@
 ||pancakeswpclicks.vercel.app^
 ||pancakeswpdrop13.vercel.app^
 ||pancakeswwap.com^
+||pancakewsap-rewads.com^
 ||pancaksewaq-finance.com^
 ||pancakswaip.com^
 ||pancakswap.fi^
