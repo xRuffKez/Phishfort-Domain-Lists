@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Wed May  1 08:02:39 UTC 2024
+# PhishFort Full Domain List - Wed May  1 09:02:06 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 108948
+# Number of Entries: 108950
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -18144,6 +18144,7 @@ clodida.com
 clodida.io
 cloeisor.com
 cloingecko.com
+clone1714515846502.angel-cloner.com
 clone1714516486291.angel-cloner.com
 cloneforce.net
 cloneforce.one
@@ -75839,6 +75840,7 @@ restoreallnodes.network
 restoreappconnect.com
 restoreassets.online
 restoreassets.org
+restorebugs.pages.dev
 restorecryptowallet.com
 restoredapp.digital
 restoredappapp.com
