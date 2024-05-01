@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Wed May  1 19:05:20 UTC 2024
+# PhishFort Small Domain List - Wed May  1 20:05:54 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7517
+# Number of Entries: 7513
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -936,7 +936,6 @@ bigbangdrop.website
 bigbangdrop.xyz
 bigestcontests.com
 bikramind.com
-bill-407etr.com
 bill-tel.com
 billaccount-407etr.com
 billmelinda.online
@@ -2296,7 +2295,6 @@ exhibitusinc.com
 expertsolver.pages.dev
 exploremanta.pages.dev
 explorer-1inch-io.pages.dev
-express-toll-route407.com
 extenctionchrome.mx
 extensiondapp.pages.dev
 externaldapp.com
@@ -3241,7 +3239,6 @@ lidostake.dev
 lidostakecoin.com
 lidostaking-btu.pages.dev
 lifefitnessiran.com
-lifeguardwatson.com
 lilostake.lol
 linae-parks.com
 lindonft.us
@@ -3589,7 +3586,6 @@ massmutualintermountainwest.hirevue.com
 massonline.mprofile.org
 massposos.com
 massulonllnedet.org
-master-brain.com
 mate-mask.com
 matemank.io
 matemask.cc

@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  1 19:05:20 UTC 2024
+# PhishFort Small Domain List - Wed May  1 20:05:54 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7517
+# Number of Entries: 7513
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -937,7 +937,6 @@
 0.0.0.0 bigbangdrop.xyz
 0.0.0.0 bigestcontests.com
 0.0.0.0 bikramind.com
-0.0.0.0 bill-407etr.com
 0.0.0.0 bill-tel.com
 0.0.0.0 billaccount-407etr.com
 0.0.0.0 billmelinda.online
@@ -2297,7 +2296,6 @@
 0.0.0.0 expertsolver.pages.dev
 0.0.0.0 exploremanta.pages.dev
 0.0.0.0 explorer-1inch-io.pages.dev
-0.0.0.0 express-toll-route407.com
 0.0.0.0 extenctionchrome.mx
 0.0.0.0 extensiondapp.pages.dev
 0.0.0.0 externaldapp.com
@@ -3242,7 +3240,6 @@
 0.0.0.0 lidostakecoin.com
 0.0.0.0 lidostaking-btu.pages.dev
 0.0.0.0 lifefitnessiran.com
-0.0.0.0 lifeguardwatson.com
 0.0.0.0 lilostake.lol
 0.0.0.0 linae-parks.com
 0.0.0.0 lindonft.us
@@ -3590,7 +3587,6 @@
 0.0.0.0 massonline.mprofile.org
 0.0.0.0 massposos.com
 0.0.0.0 massulonllnedet.org
-0.0.0.0 master-brain.com
 0.0.0.0 mate-mask.com
 0.0.0.0 matemank.io
 0.0.0.0 matemask.cc
