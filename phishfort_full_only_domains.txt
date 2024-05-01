@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Wed May  1 14:02:02 UTC 2024
+# PhishFort Full Domain List - Wed May  1 15:02:02 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 108959
+# Number of Entries: 108962
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -139,6 +139,7 @@
 1-inch.site
 1-inch.store
 1-inch.tech
+1-inch.vercel.app
 1-inch.website
 1-inch.xyz
 1-inche.com
@@ -88715,6 +88716,7 @@ typicalfriends.net
 typicaltigers.live
 tyredbed.shop
 tyrh.io
+tysys.site
 tyzxf.pages.dev
 tz5.isecurity.site
 tzero-ico.com
@@ -102186,6 +102188,7 @@ www.nftsolscan.fun
 www.nftsteamer.shop
 www.nftzone.shop
 www.ngn-hyperconsulting.com
+www.ni.uipoint.online
 www.nicedeals.org
 www.niche.cool
 www.niftygatevay.com

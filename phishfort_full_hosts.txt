@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  1 14:02:02 UTC 2024
+# PhishFort Full Domain List - Wed May  1 15:02:02 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108959
+# Number of Entries: 108962
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -140,6 +140,7 @@
 0.0.0.0 1-inch.site
 0.0.0.0 1-inch.store
 0.0.0.0 1-inch.tech
+0.0.0.0 1-inch.vercel.app
 0.0.0.0 1-inch.website
 0.0.0.0 1-inch.xyz
 0.0.0.0 1-inche.com
@@ -88716,6 +88717,7 @@
 0.0.0.0 typicaltigers.live
 0.0.0.0 tyredbed.shop
 0.0.0.0 tyrh.io
+0.0.0.0 tysys.site
 0.0.0.0 tyzxf.pages.dev
 0.0.0.0 tz5.isecurity.site
 0.0.0.0 tzero-ico.com
@@ -102187,6 +102189,7 @@
 0.0.0.0 www.nftsteamer.shop
 0.0.0.0 www.nftzone.shop
 0.0.0.0 www.ngn-hyperconsulting.com
+0.0.0.0 www.ni.uipoint.online
 0.0.0.0 www.nicedeals.org
 0.0.0.0 www.niche.cool
 0.0.0.0 www.niftygatevay.com
