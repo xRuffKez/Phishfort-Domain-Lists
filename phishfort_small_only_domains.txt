@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Wed May  1 05:05:02 UTC 2024
+# PhishFort Small Domain List - Wed May  1 06:06:53 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7519
+# Number of Entries: 7523
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1498,6 +1498,7 @@ cliffordchancelaw.net
 cliffordchanceuk.online
 clintexmigration.tech
 cliqueop.com
+clone1714516486291.angel-cloner.com
 cloud-base-dapp.vercel.app
 cloudinry.net
 clrscr.net
@@ -4679,6 +4680,7 @@ pancakeswaapfinance.net
 pancakeswap-airdrop-giveaway.com
 pancakeswap-claim112.vercel.app
 pancakeswap-claimdrop.com
+pancakeswap-claimnow.com
 pancakeswap-clone-nine.vercel.app
 pancakeswap-connect.xyz
 pancakeswap-earn.pro
@@ -4689,6 +4691,7 @@ pancakeswap-flnance.com
 pancakeswap-frontend-git-fix-refactors-and-bugs-dopex-io.vercel.app
 pancakeswap-giveaway.com
 pancakeswap-live.pages.dev
+pancakeswap-newdrop.com
 pancakeswap-pancakeswap.com
 pancakeswap-pancakeswap.xyz
 pancakeswap-platform.pages.dev
@@ -5912,6 +5915,7 @@ stake-gtprotocol.com
 stake-injective.com
 stake-jup.com
 stake-official-online.com
+stake-roninchain.com
 stake-slerf.com
 stake-tish.com
 stake-us.in.net.mammonmarketing.com

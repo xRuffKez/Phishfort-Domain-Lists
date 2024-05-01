@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  1 05:05:02 UTC 2024
+# PhishFort Small Domain List - Wed May  1 06:06:53 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7519
+# Number of Entries: 7523
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1499,6 +1499,7 @@
 0.0.0.0 cliffordchanceuk.online
 0.0.0.0 clintexmigration.tech
 0.0.0.0 cliqueop.com
+0.0.0.0 clone1714516486291.angel-cloner.com
 0.0.0.0 cloud-base-dapp.vercel.app
 0.0.0.0 cloudinry.net
 0.0.0.0 clrscr.net
@@ -4680,6 +4681,7 @@
 0.0.0.0 pancakeswap-airdrop-giveaway.com
 0.0.0.0 pancakeswap-claim112.vercel.app
 0.0.0.0 pancakeswap-claimdrop.com
+0.0.0.0 pancakeswap-claimnow.com
 0.0.0.0 pancakeswap-clone-nine.vercel.app
 0.0.0.0 pancakeswap-connect.xyz
 0.0.0.0 pancakeswap-earn.pro
@@ -4690,6 +4692,7 @@
 0.0.0.0 pancakeswap-frontend-git-fix-refactors-and-bugs-dopex-io.vercel.app
 0.0.0.0 pancakeswap-giveaway.com
 0.0.0.0 pancakeswap-live.pages.dev
+0.0.0.0 pancakeswap-newdrop.com
 0.0.0.0 pancakeswap-pancakeswap.com
 0.0.0.0 pancakeswap-pancakeswap.xyz
 0.0.0.0 pancakeswap-platform.pages.dev
@@ -5913,6 +5916,7 @@
 0.0.0.0 stake-injective.com
 0.0.0.0 stake-jup.com
 0.0.0.0 stake-official-online.com
+0.0.0.0 stake-roninchain.com
 0.0.0.0 stake-slerf.com
 0.0.0.0 stake-tish.com
 0.0.0.0 stake-us.in.net.mammonmarketing.com
