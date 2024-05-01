@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  1 22:02:12 UTC 2024
+# PhishFort Full Domain List - Wed May  1 23:02:02 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108966
+# Number of Entries: 108967
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -65081,6 +65081,7 @@
 ||pancakeswap-amoun.tech^
 ||pancakeswap-any.tech^
 ||pancakeswap-apli.com^
+||pancakeswap-app.com^
 ||pancakeswap-app.finance^
 ||pancakeswap-app.github.io^
 ||pancakeswap-app.godaddysites.com^

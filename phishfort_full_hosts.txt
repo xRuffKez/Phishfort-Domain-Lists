@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  1 22:02:12 UTC 2024
+# PhishFort Full Domain List - Wed May  1 23:02:02 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108966
+# Number of Entries: 108967
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -65081,6 +65081,7 @@
 0.0.0.0 pancakeswap-amoun.tech
 0.0.0.0 pancakeswap-any.tech
 0.0.0.0 pancakeswap-apli.com
+0.0.0.0 pancakeswap-app.com
 0.0.0.0 pancakeswap-app.finance
 0.0.0.0 pancakeswap-app.github.io
 0.0.0.0 pancakeswap-app.godaddysites.com
