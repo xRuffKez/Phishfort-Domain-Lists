@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  2 12:03:03 UTC 2024
+# PhishFort Full Domain List - Thu May  2 13:02:25 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108969
+# Number of Entries: 108972
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -62169,6 +62169,7 @@
 0.0.0.0 onixcrypt.com
 0.0.0.0 onkbit.com
 0.0.0.0 onl8can.com
+0.0.0.0 onldermassachus.com
 0.0.0.0 onliinedappsync.trade
 0.0.0.0 online-banking-vystar.live
 0.0.0.0 online-detma.com
@@ -62283,6 +62284,7 @@
 0.0.0.0 onpo1ntcu-mble.com
 0.0.0.0 onpodx.net
 0.0.0.0 onpointcu-n2.com
+0.0.0.0 onpointulma.org
 0.0.0.0 onpolkadot.js.org
 0.0.0.0 onroutetrading.org
 0.0.0.0 onschain.live
@@ -99875,6 +99877,7 @@
 0.0.0.0 www.debcunk.com
 0.0.0.0 www.debcunlk.com
 0.0.0.0 www.debenhams-ae.com
+0.0.0.0 www.debenhams-deals.com
 0.0.0.0 www.debenhamsdeals.com
 0.0.0.0 www.debenk-app.com
 0.0.0.0 www.debugappfix.site

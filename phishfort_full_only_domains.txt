@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Thu May  2 12:03:03 UTC 2024
+# PhishFort Full Domain List - Thu May  2 13:02:25 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 108969
+# Number of Entries: 108972
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -62168,6 +62168,7 @@ oniswaps.site
 onixcrypt.com
 onkbit.com
 onl8can.com
+onldermassachus.com
 onliinedappsync.trade
 online-banking-vystar.live
 online-detma.com
@@ -62282,6 +62283,7 @@ onpenssea.com
 onpo1ntcu-mble.com
 onpodx.net
 onpointcu-n2.com
+onpointulma.org
 onpolkadot.js.org
 onroutetrading.org
 onschain.live
@@ -99874,6 +99876,7 @@ www.debcnlk.com
 www.debcunk.com
 www.debcunlk.com
 www.debenhams-ae.com
+www.debenhams-deals.com
 www.debenhamsdeals.com
 www.debenk-app.com
 www.debugappfix.site
