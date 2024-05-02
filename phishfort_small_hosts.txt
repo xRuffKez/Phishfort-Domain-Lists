@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  2 06:05:47 UTC 2024
+# PhishFort Small Domain List - Thu May  2 07:04:56 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7483
+# Number of Entries: 7475
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -15,7 +15,6 @@
 0.0.0.0 0x4ee15erf903e2634abe0e.com
 0.0.0.0 1-88y.pages.dev
 0.0.0.0 1-eu9.pages.dev
-0.0.0.0 1-inch.vercel.app
 0.0.0.0 1-lnch.com
 0.0.0.0 1.globalpaymentsyttww.com
 0.0.0.0 1.globalpaymentsytww.com
@@ -1495,9 +1494,6 @@
 0.0.0.0 cliffordchancelaw.net
 0.0.0.0 cliffordchanceuk.online
 0.0.0.0 clintexmigration.tech
-0.0.0.0 clone1714515846502.angel-cloner.com
-0.0.0.0 clone1714516377704.angel-cloner.com
-0.0.0.0 clone1714516486291.angel-cloner.com
 0.0.0.0 cloud-base-dapp.vercel.app
 0.0.0.0 cloudinry.net
 0.0.0.0 clrscr.net
@@ -1758,7 +1754,6 @@
 0.0.0.0 dappmainhub.pages.dev
 0.0.0.0 dappnetsfp.com
 0.0.0.0 dapppaxos.co
-0.0.0.0 dapprad.net
 0.0.0.0 dappradaar.net
 0.0.0.0 dappradar-ads-x.com
 0.0.0.0 dappradar-token.com
@@ -1789,7 +1784,6 @@
 0.0.0.0 dappspanelauth.pages.dev
 0.0.0.0 dappsprotocol.vercel.app
 0.0.0.0 dappsradar.lc
-0.0.0.0 dappsradar.page.link
 0.0.0.0 dappsresolves.pages.dev
 0.0.0.0 dappsswarm.com
 0.0.0.0 dappstaking.net
@@ -2091,6 +2085,7 @@
 0.0.0.0 earnifinance.xyz
 0.0.0.0 earningdrop.dev
 0.0.0.0 earnm.org
+0.0.0.0 eastofeatonapiary.com
 0.0.0.0 easyfixwallet.pages.dev
 0.0.0.0 easyfixwallets.pages.dev
 0.0.0.0 ebayshop-us.com
@@ -2407,7 +2402,6 @@
 0.0.0.0 forex-com.holu.workers.dev
 0.0.0.0 forexgcoin-5.com
 0.0.0.0 forexinvest-start.com
-0.0.0.0 form-agooda.com
 0.0.0.0 fortanetwork.eu
 0.0.0.0 fortewebklap.pages.dev
 0.0.0.0 foundarb.xyz
@@ -2762,7 +2756,6 @@
 0.0.0.0 ht52ik.top
 0.0.0.0 https-loading.site
 0.0.0.0 hub-injective-network.web.app
-0.0.0.0 hub-maker.org
 0.0.0.0 hubsoasys.games
 0.0.0.0 hubuoasys-games.com
 0.0.0.0 humminglinkgg.world
@@ -3016,7 +3009,6 @@
 0.0.0.0 jupdrop99.com
 0.0.0.0 jupit-eth.com
 0.0.0.0 jupiter-cats.org
-0.0.0.0 jupiter-eg7kfz9c1-wowcats.vercel.app
 0.0.0.0 jupiter-ethereum.com
 0.0.0.0 jupiter-swap.net
 0.0.0.0 jupiter-web.network
@@ -3065,6 +3057,7 @@
 0.0.0.0 kcs-airdrop.com
 0.0.0.0 kduo.cc
 0.0.0.0 kdvrp.cc
+0.0.0.0 keeper.claims
 0.0.0.0 kelpdaa.xyz
 0.0.0.0 kelpdao.fun
 0.0.0.0 kelpdao.link
@@ -3740,7 +3733,6 @@
 0.0.0.0 metamask.i98.xyz
 0.0.0.0 metamask.imtoken.hk.cn
 0.0.0.0 metamask.io.circletokenhub.com
-0.0.0.0 metamask.io.in
 0.0.0.0 metamask.ioqj.live
 0.0.0.0 metamask.je
 0.0.0.0 metamask.land
@@ -4673,6 +4665,7 @@
 0.0.0.0 pancakeswap-giveaway.com
 0.0.0.0 pancakeswap-live.pages.dev
 0.0.0.0 pancakeswap-newdrop.com
+0.0.0.0 pancakeswap-offers.com
 0.0.0.0 pancakeswap-pancakeswap.com
 0.0.0.0 pancakeswap-pancakeswap.xyz
 0.0.0.0 pancakeswap-platform.pages.dev
@@ -5107,6 +5100,7 @@
 0.0.0.0 protect-guide.com
 0.0.0.0 protocol-apex.com
 0.0.0.0 protocol-carv.nl
+0.0.0.0 protocol-claimzerion.pages.dev
 0.0.0.0 protocol-guard.web.app
 0.0.0.0 protranslated.com
 0.0.0.0 provision-storknet.com
@@ -6150,7 +6144,6 @@
 0.0.0.0 the-one-staking.cc
 0.0.0.0 the-one-staking.com
 0.0.0.0 the-wormhole.buzz
-0.0.0.0 thebaycompany-ca.com
 0.0.0.0 thebaysc.com
 0.0.0.0 theblueskytrading.com
 0.0.0.0 thecouragedoog.live
@@ -7015,7 +7008,6 @@
 0.0.0.0 www.dapphyperblast.io
 0.0.0.0 www.dappsresolver.com
 0.0.0.0 www.dartya.cc
-0.0.0.0 www.debenhams-deals.com
 0.0.0.0 www.decntralnd.one
 0.0.0.0 www.decora-cabinets.com
 0.0.0.0 www.degen.hakunamatatasol.com

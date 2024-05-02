@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  2 06:05:47 UTC 2024
+# PhishFort Small Domain List - Thu May  2 07:04:56 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7483
+# Number of Entries: 7475
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -15,7 +15,6 @@
 ||0x4ee15erf903e2634abe0e.com^
 ||1-88y.pages.dev^
 ||1-eu9.pages.dev^
-||1-inch.vercel.app^
 ||1-lnch.com^
 ||1.globalpaymentsyttww.com^
 ||1.globalpaymentsytww.com^
@@ -1495,9 +1494,6 @@
 ||cliffordchancelaw.net^
 ||cliffordchanceuk.online^
 ||clintexmigration.tech^
-||clone1714515846502.angel-cloner.com^
-||clone1714516377704.angel-cloner.com^
-||clone1714516486291.angel-cloner.com^
 ||cloud-base-dapp.vercel.app^
 ||cloudinry.net^
 ||clrscr.net^
@@ -1758,7 +1754,6 @@
 ||dappmainhub.pages.dev^
 ||dappnetsfp.com^
 ||dapppaxos.co^
-||dapprad.net^
 ||dappradaar.net^
 ||dappradar-ads-x.com^
 ||dappradar-token.com^
@@ -1789,7 +1784,6 @@
 ||dappspanelauth.pages.dev^
 ||dappsprotocol.vercel.app^
 ||dappsradar.lc^
-||dappsradar.page.link^
 ||dappsresolves.pages.dev^
 ||dappsswarm.com^
 ||dappstaking.net^
@@ -2091,6 +2085,7 @@
 ||earnifinance.xyz^
 ||earningdrop.dev^
 ||earnm.org^
+||eastofeatonapiary.com^
 ||easyfixwallet.pages.dev^
 ||easyfixwallets.pages.dev^
 ||ebayshop-us.com^
@@ -2407,7 +2402,6 @@
 ||forex-com.holu.workers.dev^
 ||forexgcoin-5.com^
 ||forexinvest-start.com^
-||form-agooda.com^
 ||fortanetwork.eu^
 ||fortewebklap.pages.dev^
 ||foundarb.xyz^
@@ -2762,7 +2756,6 @@
 ||ht52ik.top^
 ||https-loading.site^
 ||hub-injective-network.web.app^
-||hub-maker.org^
 ||hubsoasys.games^
 ||hubuoasys-games.com^
 ||humminglinkgg.world^
@@ -3016,7 +3009,6 @@
 ||jupdrop99.com^
 ||jupit-eth.com^
 ||jupiter-cats.org^
-||jupiter-eg7kfz9c1-wowcats.vercel.app^
 ||jupiter-ethereum.com^
 ||jupiter-swap.net^
 ||jupiter-web.network^
@@ -3065,6 +3057,7 @@
 ||kcs-airdrop.com^
 ||kduo.cc^
 ||kdvrp.cc^
+||keeper.claims^
 ||kelpdaa.xyz^
 ||kelpdao.fun^
 ||kelpdao.link^
@@ -3740,7 +3733,6 @@
 ||metamask.i98.xyz^
 ||metamask.imtoken.hk.cn^
 ||metamask.io.circletokenhub.com^
-||metamask.io.in^
 ||metamask.ioqj.live^
 ||metamask.je^
 ||metamask.land^
@@ -4673,6 +4665,7 @@
 ||pancakeswap-giveaway.com^
 ||pancakeswap-live.pages.dev^
 ||pancakeswap-newdrop.com^
+||pancakeswap-offers.com^
 ||pancakeswap-pancakeswap.com^
 ||pancakeswap-pancakeswap.xyz^
 ||pancakeswap-platform.pages.dev^
@@ -5107,6 +5100,7 @@
 ||protect-guide.com^
 ||protocol-apex.com^
 ||protocol-carv.nl^
+||protocol-claimzerion.pages.dev^
 ||protocol-guard.web.app^
 ||protranslated.com^
 ||provision-storknet.com^
@@ -6150,7 +6144,6 @@
 ||the-one-staking.cc^
 ||the-one-staking.com^
 ||the-wormhole.buzz^
-||thebaycompany-ca.com^
 ||thebaysc.com^
 ||theblueskytrading.com^
 ||thecouragedoog.live^
@@ -7015,7 +7008,6 @@
 ||www.dapphyperblast.io^
 ||www.dappsresolver.com^
 ||www.dartya.cc^
-||www.debenhams-deals.com^
 ||www.decntralnd.one^
 ||www.decora-cabinets.com^
 ||www.degen.hakunamatatasol.com^
