@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  2 18:05:16 UTC 2024
+# PhishFort Small Domain List - Thu May  2 19:04:31 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7488
+# Number of Entries: 7495
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -836,6 +836,7 @@
 0.0.0.0 bafybeicimhrsdhfoifre2dbtwbyjlvahvbuyi5mupckanasogxk64c6st4.ipfs.cf-ipfs.com
 0.0.0.0 bafybeih6f3cnq6rv7w3thp63266fwswwazpnihhzohixzbjw45i5xrxjaq.ipfs.dweb.link
 0.0.0.0 bafybeihbzllhmou7v2n5voxg3ldvflwmzzqwnb4zc4kani4onqpdj2gb7m.ipfs.dweb.link
+0.0.0.0 bafybeihdbtgftpyyfjjv6ajfrhorvdi2nmycvekox4fieipx6ofb5a7v7i.ipfs.dweb.link
 0.0.0.0 bag-holding.web.app
 0.0.0.0 balahcer.fi
 0.0.0.0 balancer-exchange.io
@@ -1044,6 +1045,7 @@
 0.0.0.0 blockchaindapp.pro
 0.0.0.0 blockchainrectification-1tu.pages.dev
 0.0.0.0 blockchainrectification088.pages.dev
+0.0.0.0 blockdag.info
 0.0.0.0 blockdexresolve.pages.dev
 0.0.0.0 blockgames-registration.com
 0.0.0.0 blocknodechains.com
@@ -1707,6 +1709,7 @@
 0.0.0.0 cwboffshoreonline.com
 0.0.0.0 cwestba.com
 0.0.0.0 cwrestorevercelapp.com
+0.0.0.0 cxmdidazc.com
 0.0.0.0 cyan-coyote-68763.zap.cloud
 0.0.0.0 cyberdogecoin.org
 0.0.0.0 cyberdogecoin.top
@@ -3103,6 +3106,7 @@
 0.0.0.0 krroma.network
 0.0.0.0 kstmple.pages.dev
 0.0.0.0 kuduips.com
+0.0.0.0 kumtari.com
 0.0.0.0 kuytrk.com
 0.0.0.0 kwool.ap-south-1.linodeobjects.com
 0.0.0.0 kwsnl.com
@@ -6273,6 +6277,8 @@
 0.0.0.0 toshiithecats.app
 0.0.0.0 toshithecat.one
 0.0.0.0 totalwine-sale.shop
+0.0.0.0 tpgcapitallca.com
+0.0.0.0 tpgcapitallia.com
 0.0.0.0 tpgcapitalrul.com
 0.0.0.0 tpnkeeper.com
 0.0.0.0 track-web3.online
@@ -7238,6 +7244,7 @@
 0.0.0.0 www.seedifyfund.support
 0.0.0.0 www.seijpe.com
 0.0.0.0 www.shibus.site
+0.0.0.0 www.sinfutures.com
 0.0.0.0 www.sitemap.project-altlayer.io
 0.0.0.0 www.smart-square.net
 0.0.0.0 www.smartlayer-claim.com

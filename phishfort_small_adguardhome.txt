@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  2 18:05:16 UTC 2024
+# PhishFort Small Domain List - Thu May  2 19:04:31 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7488
+# Number of Entries: 7495
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -836,6 +836,7 @@
 ||bafybeicimhrsdhfoifre2dbtwbyjlvahvbuyi5mupckanasogxk64c6st4.ipfs.cf-ipfs.com^
 ||bafybeih6f3cnq6rv7w3thp63266fwswwazpnihhzohixzbjw45i5xrxjaq.ipfs.dweb.link^
 ||bafybeihbzllhmou7v2n5voxg3ldvflwmzzqwnb4zc4kani4onqpdj2gb7m.ipfs.dweb.link^
+||bafybeihdbtgftpyyfjjv6ajfrhorvdi2nmycvekox4fieipx6ofb5a7v7i.ipfs.dweb.link^
 ||bag-holding.web.app^
 ||balahcer.fi^
 ||balancer-exchange.io^
@@ -1044,6 +1045,7 @@
 ||blockchaindapp.pro^
 ||blockchainrectification-1tu.pages.dev^
 ||blockchainrectification088.pages.dev^
+||blockdag.info^
 ||blockdexresolve.pages.dev^
 ||blockgames-registration.com^
 ||blocknodechains.com^
@@ -1707,6 +1709,7 @@
 ||cwboffshoreonline.com^
 ||cwestba.com^
 ||cwrestorevercelapp.com^
+||cxmdidazc.com^
 ||cyan-coyote-68763.zap.cloud^
 ||cyberdogecoin.org^
 ||cyberdogecoin.top^
@@ -3103,6 +3106,7 @@
 ||krroma.network^
 ||kstmple.pages.dev^
 ||kuduips.com^
+||kumtari.com^
 ||kuytrk.com^
 ||kwool.ap-south-1.linodeobjects.com^
 ||kwsnl.com^
@@ -6273,6 +6277,8 @@
 ||toshiithecats.app^
 ||toshithecat.one^
 ||totalwine-sale.shop^
+||tpgcapitallca.com^
+||tpgcapitallia.com^
 ||tpgcapitalrul.com^
 ||tpnkeeper.com^
 ||track-web3.online^
@@ -7238,6 +7244,7 @@
 ||www.seedifyfund.support^
 ||www.seijpe.com^
 ||www.shibus.site^
+||www.sinfutures.com^
 ||www.sitemap.project-altlayer.io^
 ||www.smart-square.net^
 ||www.smartlayer-claim.com^
