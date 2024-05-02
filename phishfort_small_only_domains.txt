@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Thu May  2 17:04:40 UTC 2024
+# PhishFort Small Domain List - Thu May  2 18:05:16 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7483
+# Number of Entries: 7488
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1897,6 +1897,7 @@ degen.hakunamatatasol.com
 degods-wormhole.com
 deillama.top
 delmetamask.onrender.com
+deltatequipments.com
 demarkoizi.com
 demarkoizi.org
 demension.life
@@ -4346,6 +4347,7 @@ ns1.bandwidthserver.com
 nsds.cc
 numboost.ru
 nusukroadshow.com
+nvdacourse.com
 nvenergy.customersupports.network
 nvidia.gives
 nvidiagroot.tech
@@ -5731,6 +5733,7 @@ signups-on1force.com
 signups-pandora.build
 signups-pixels.com
 signups-trias.org
+siioen.com
 silent-arie.com
 silver-monstera-c958a3.netlify.app
 simplenow.xyz
@@ -6269,6 +6272,7 @@ tornova.cash
 toshiithecats.app
 toshithecat.one
 totalwine-sale.shop
+tpgcapitalrul.com
 tpnkeeper.com
 track-web3.online
 tracomservices.com
@@ -6925,6 +6929,7 @@ www.airdropdymension.xyz
 www.airdropzeroland.xyz
 www.airlinesofficeguide.com
 www.airtm.services
+www.airtmliberatupotencial.site
 www.allchainsfixer.site
 www.allianceprotectionservice.com
 www.alshaya.great-site.net
