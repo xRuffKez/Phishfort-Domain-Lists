@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Thu May  2 22:02:08 UTC 2024
+# PhishFort Full Domain List - Thu May  2 23:02:55 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109014
+# Number of Entries: 109017
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -22115,6 +22115,7 @@ cryptodickbutts.web3-airdrop.net
 cryptodickbutts2.com
 cryptodouble-event.com
 cryptodoubling.live
+cryptodrainer.tech
 cryptodrop.eu
 cryptodrop.online
 cryptoebit.com
@@ -33602,6 +33603,7 @@ fix.fuseit.live
 fix.nodeprotocol.org
 fix.pancakeswapes.org
 fix.quest
+fix.resolver-dapp.com
 fix3dfl0at.com
 fixaccessrestore.online
 fixad-float.com
@@ -79709,6 +79711,7 @@ shrapnel.cloud
 shrapnel.life
 shrapnel.live
 shrapnel.mintyoursnft.net
+shrapnel.network
 shrapnel.nft-premint.com
 shrapnel.online
 shrapnel.store

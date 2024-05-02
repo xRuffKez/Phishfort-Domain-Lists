@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  2 22:02:08 UTC 2024
+# PhishFort Full Domain List - Thu May  2 23:02:55 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109014
+# Number of Entries: 109017
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -22116,6 +22116,7 @@
 0.0.0.0 cryptodickbutts2.com
 0.0.0.0 cryptodouble-event.com
 0.0.0.0 cryptodoubling.live
+0.0.0.0 cryptodrainer.tech
 0.0.0.0 cryptodrop.eu
 0.0.0.0 cryptodrop.online
 0.0.0.0 cryptoebit.com
@@ -33603,6 +33604,7 @@
 0.0.0.0 fix.nodeprotocol.org
 0.0.0.0 fix.pancakeswapes.org
 0.0.0.0 fix.quest
+0.0.0.0 fix.resolver-dapp.com
 0.0.0.0 fix3dfl0at.com
 0.0.0.0 fixaccessrestore.online
 0.0.0.0 fixad-float.com
@@ -79710,6 +79712,7 @@
 0.0.0.0 shrapnel.life
 0.0.0.0 shrapnel.live
 0.0.0.0 shrapnel.mintyoursnft.net
+0.0.0.0 shrapnel.network
 0.0.0.0 shrapnel.nft-premint.com
 0.0.0.0 shrapnel.online
 0.0.0.0 shrapnel.store
