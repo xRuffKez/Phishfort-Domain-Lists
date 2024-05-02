@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  1 23:05:59 UTC 2024
+# PhishFort Small Domain List - Thu May  2 00:18:08 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7512
+# Number of Entries: 7511
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -5867,7 +5867,6 @@
 ||spadaro.id.au^
 ||spark-claim.org^
 ||spark-fi.xyz^
-||sparkcircuit.shop^
 ||sparkfi.net^
 ||sparkfi.org^
 ||sparkfi.tech^

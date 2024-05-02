@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  1 23:05:59 UTC 2024
+# PhishFort Small Domain List - Thu May  2 00:18:08 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7512
+# Number of Entries: 7511
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -5867,7 +5867,6 @@
 0.0.0.0 spadaro.id.au
 0.0.0.0 spark-claim.org
 0.0.0.0 spark-fi.xyz
-0.0.0.0 sparkcircuit.shop
 0.0.0.0 sparkfi.net
 0.0.0.0 sparkfi.org
 0.0.0.0 sparkfi.tech
