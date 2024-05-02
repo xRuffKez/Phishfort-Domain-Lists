@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  2 08:02:16 UTC 2024
+# PhishFort Full Domain List - Thu May  2 09:02:10 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108965
+# Number of Entries: 108967
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -65447,6 +65447,7 @@
 0.0.0.0 pancakeswap-nev.tech.audiocenter.biz
 0.0.0.0 pancakeswap-newdrop.com
 0.0.0.0 pancakeswap-now.gotdns.ch
+0.0.0.0 pancakeswap-offer.finance
 0.0.0.0 pancakeswap-offers.com
 0.0.0.0 pancakeswap-official.online
 0.0.0.0 pancakeswap-official.org
@@ -78614,6 +78615,7 @@
 0.0.0.0 secureid0cu.info
 0.0.0.0 secureintegrator.net
 0.0.0.0 secureinternalnetwork.com
+0.0.0.0 secureklarna.com
 0.0.0.0 secureloginlogon.yamahakaka.com
 0.0.0.0 securely-asstes.blogspot.com
 0.0.0.0 securemail.metamask.cglgc.com

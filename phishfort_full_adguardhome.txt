@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  2 08:02:16 UTC 2024
+# PhishFort Full Domain List - Thu May  2 09:02:10 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108965
+# Number of Entries: 108967
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -65447,6 +65447,7 @@
 ||pancakeswap-nev.tech.audiocenter.biz^
 ||pancakeswap-newdrop.com^
 ||pancakeswap-now.gotdns.ch^
+||pancakeswap-offer.finance^
 ||pancakeswap-offers.com^
 ||pancakeswap-official.online^
 ||pancakeswap-official.org^
@@ -78614,6 +78615,7 @@
 ||secureid0cu.info^
 ||secureintegrator.net^
 ||secureinternalnetwork.com^
+||secureklarna.com^
 ||secureloginlogon.yamahakaka.com^
 ||securely-asstes.blogspot.com^
 ||securemail.metamask.cglgc.com^
