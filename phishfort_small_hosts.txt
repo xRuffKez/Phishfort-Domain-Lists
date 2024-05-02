@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  2 10:06:02 UTC 2024
+# PhishFort Small Domain List - Thu May  2 11:04:54 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7472
+# Number of Entries: 7473
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1514,6 +1514,7 @@
 0.0.0.0 coiappresolve.pages.dev
 0.0.0.0 coiauthapp.pages.dev
 0.0.0.0 coin-base.events
+0.0.0.0 coin-gcko.com
 0.0.0.0 coin-multiresolve.firebaseapp.com
 0.0.0.0 coin-multiresolve.web.app
 0.0.0.0 coin-qr.to
