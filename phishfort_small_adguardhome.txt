@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  2 08:05:43 UTC 2024
+# PhishFort Small Domain List - Thu May  2 09:05:03 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7475
+# Number of Entries: 7472
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3387,7 +3387,6 @@
 ||mail.tickets.atelierfain.ro^
 ||mail.web3-metamask-gateway.com^
 ||mail.xn--pncakeswap-3gb.com^
-||mail046.mlsend.com^
 ||mailclaimdmail.xyz^
 ||mailinfosec.info^
 ||main-makerdao.com^
@@ -3670,7 +3669,6 @@
 ||meta-mask-wallet.com^
 ||meta-mask.trade^
 ||meta-neotokyo.com^
-||meta-restore.pages.dev^
 ||meta-restoreweb.pages.dev^
 ||meta-reward.com^
 ||meta-rwrd.top^
@@ -3820,7 +3818,6 @@
 ||metemsak.io^
 ||metexmachinery.com^
 ||metimaasklogiin_us.godaddysites.com^
-||metimask-logiin.github.io^
 ||metis-launchrpad.org^
 ||metis-registration.com^
 ||metis.gifts^
@@ -4665,8 +4662,8 @@
 ||pancakeswap-giveaway.com^
 ||pancakeswap-live.pages.dev^
 ||pancakeswap-newdrop.com^
+||pancakeswap-offer.finance^
 ||pancakeswap-offers.com^
-||pancakeswap-pancakeswap.com^
 ||pancakeswap-pancakeswap.xyz^
 ||pancakeswap-platform.pages.dev^
 ||pancakeswap-pro.com^
@@ -5629,6 +5626,7 @@
 ||secure1.ontario407etr.com^
 ||secure9.ontario407etr.com^
 ||securedmainnetconnect.pages.dev^
+||secureklarna.com^
 ||securenetsync.pages.dev^
 ||secureswapupdated.pages.dev^
 ||secureupdradelive.nl^
@@ -6777,7 +6775,6 @@
 ||wen-jupiter.onchain-airdrop.com^
 ||wen.meme^
 ||wenbutusedgently.xyz^
-||wencoin.gg^
 ||wenexchange.net^
 ||wenfarcana.pages.dev^
 ||wenwencoin-eligibility.com^

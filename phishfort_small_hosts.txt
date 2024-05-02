@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  2 08:05:43 UTC 2024
+# PhishFort Small Domain List - Thu May  2 09:05:03 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7475
+# Number of Entries: 7472
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3387,7 +3387,6 @@
 0.0.0.0 mail.tickets.atelierfain.ro
 0.0.0.0 mail.web3-metamask-gateway.com
 0.0.0.0 mail.xn--pncakeswap-3gb.com
-0.0.0.0 mail046.mlsend.com
 0.0.0.0 mailclaimdmail.xyz
 0.0.0.0 mailinfosec.info
 0.0.0.0 main-makerdao.com
@@ -3670,7 +3669,6 @@
 0.0.0.0 meta-mask-wallet.com
 0.0.0.0 meta-mask.trade
 0.0.0.0 meta-neotokyo.com
-0.0.0.0 meta-restore.pages.dev
 0.0.0.0 meta-restoreweb.pages.dev
 0.0.0.0 meta-reward.com
 0.0.0.0 meta-rwrd.top
@@ -3820,7 +3818,6 @@
 0.0.0.0 metemsak.io
 0.0.0.0 metexmachinery.com
 0.0.0.0 metimaasklogiin_us.godaddysites.com
-0.0.0.0 metimask-logiin.github.io
 0.0.0.0 metis-launchrpad.org
 0.0.0.0 metis-registration.com
 0.0.0.0 metis.gifts
@@ -4665,8 +4662,8 @@
 0.0.0.0 pancakeswap-giveaway.com
 0.0.0.0 pancakeswap-live.pages.dev
 0.0.0.0 pancakeswap-newdrop.com
+0.0.0.0 pancakeswap-offer.finance
 0.0.0.0 pancakeswap-offers.com
-0.0.0.0 pancakeswap-pancakeswap.com
 0.0.0.0 pancakeswap-pancakeswap.xyz
 0.0.0.0 pancakeswap-platform.pages.dev
 0.0.0.0 pancakeswap-pro.com
@@ -5629,6 +5626,7 @@
 0.0.0.0 secure1.ontario407etr.com
 0.0.0.0 secure9.ontario407etr.com
 0.0.0.0 securedmainnetconnect.pages.dev
+0.0.0.0 secureklarna.com
 0.0.0.0 securenetsync.pages.dev
 0.0.0.0 secureswapupdated.pages.dev
 0.0.0.0 secureupdradelive.nl
@@ -6777,7 +6775,6 @@
 0.0.0.0 wen-jupiter.onchain-airdrop.com
 0.0.0.0 wen.meme
 0.0.0.0 wenbutusedgently.xyz
-0.0.0.0 wencoin.gg
 0.0.0.0 wenexchange.net
 0.0.0.0 wenfarcana.pages.dev
 0.0.0.0 wenwencoin-eligibility.com
