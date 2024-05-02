@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  2 07:02:15 UTC 2024
+# PhishFort Full Domain List - Thu May  2 08:02:16 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108968
+# Number of Entries: 108965
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -140,7 +140,6 @@
 ||1-inch.site^
 ||1-inch.store^
 ||1-inch.tech^
-||1-inch.vercel.app^
 ||1-inch.website^
 ||1-inch.xyz^
 ||1-inche.com^
@@ -18148,9 +18147,6 @@
 ||clodida.io^
 ||cloeisor.com^
 ||cloingecko.com^
-||clone1714515846502.angel-cloner.com^
-||clone1714516377704.angel-cloner.com^
-||clone1714516486291.angel-cloner.com^
 ||cloneforce.net^
 ||cloneforce.one^
 ||cloneforce.online^
@@ -73453,6 +73449,7 @@
 ||protocol-atlendis.com^
 ||protocol-auth.vercel.app^
 ||protocol-carv.nl^
+||protocol-claimzerion.pages.dev^
 ||protocol-connect.pages.dev^
 ||protocol-debridge.com^
 ||protocol-defi.com^
