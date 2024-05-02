@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Thu May  2 11:04:54 UTC 2024
+# PhishFort Small Domain List - Thu May  2 12:07:29 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7473
+# Number of Entries: 7470
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -376,7 +376,6 @@ allocation-roninchain.com
 allocation-satoshivm.com
 allocation-satoshivm.pages.dev
 alp.local-user.com
-alp.systemupdates.org
 alpha-fetch.com
 alpha-tokens.web.app
 alphalobstarpal.pages.dev
@@ -847,7 +846,6 @@ bancontact.startauth-pay.com
 bang-blast.io
 bank-ai.org
 bank-sell.com
-bankinging.com
 bariatrics.www.emdeebeebee.com
 barlettapontoonboats.asia
 barleyapp.finance
@@ -3078,6 +3076,7 @@ kingroofing.com
 kitty-inu-dao.com
 kkyphtf0fbvl.ftntpk6ubbx4sk.ru
 klarnacasino.nl
+klarnafestival.pt
 klarnaitalysrl.welfare.it
 klarnapayment.de
 klarnasecure.com
@@ -6028,7 +6027,6 @@ swapdly.javaswap.io
 swapify.exchange
 swapnet.pages.dev
 swapnftdefi.online
-swappanca1a.store
 swappancake.wtf
 swaptoken1inch.org
 swatches-vulcan.xyz
@@ -7177,7 +7175,6 @@ www.paradigmagbi.ru
 www.paxflapp.online
 www.paxful.instenpay.com
 www.paxosweb.top
-www.pcs-farmv3.com
 www.penguinrandomshouse.com
 www.pepacoinairtoday.info
 www.pepechain.info

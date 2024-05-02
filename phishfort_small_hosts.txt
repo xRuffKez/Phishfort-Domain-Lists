@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  2 11:04:54 UTC 2024
+# PhishFort Small Domain List - Thu May  2 12:07:29 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7473
+# Number of Entries: 7470
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -377,7 +377,6 @@
 0.0.0.0 allocation-satoshivm.com
 0.0.0.0 allocation-satoshivm.pages.dev
 0.0.0.0 alp.local-user.com
-0.0.0.0 alp.systemupdates.org
 0.0.0.0 alpha-fetch.com
 0.0.0.0 alpha-tokens.web.app
 0.0.0.0 alphalobstarpal.pages.dev
@@ -848,7 +847,6 @@
 0.0.0.0 bang-blast.io
 0.0.0.0 bank-ai.org
 0.0.0.0 bank-sell.com
-0.0.0.0 bankinging.com
 0.0.0.0 bariatrics.www.emdeebeebee.com
 0.0.0.0 barlettapontoonboats.asia
 0.0.0.0 barleyapp.finance
@@ -3079,6 +3077,7 @@
 0.0.0.0 kitty-inu-dao.com
 0.0.0.0 kkyphtf0fbvl.ftntpk6ubbx4sk.ru
 0.0.0.0 klarnacasino.nl
+0.0.0.0 klarnafestival.pt
 0.0.0.0 klarnaitalysrl.welfare.it
 0.0.0.0 klarnapayment.de
 0.0.0.0 klarnasecure.com
@@ -6029,7 +6028,6 @@
 0.0.0.0 swapify.exchange
 0.0.0.0 swapnet.pages.dev
 0.0.0.0 swapnftdefi.online
-0.0.0.0 swappanca1a.store
 0.0.0.0 swappancake.wtf
 0.0.0.0 swaptoken1inch.org
 0.0.0.0 swatches-vulcan.xyz
@@ -7178,7 +7176,6 @@
 0.0.0.0 www.paxflapp.online
 0.0.0.0 www.paxful.instenpay.com
 0.0.0.0 www.paxosweb.top
-0.0.0.0 www.pcs-farmv3.com
 0.0.0.0 www.penguinrandomshouse.com
 0.0.0.0 www.pepacoinairtoday.info
 0.0.0.0 www.pepechain.info
