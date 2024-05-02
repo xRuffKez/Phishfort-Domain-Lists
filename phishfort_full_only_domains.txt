@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Thu May  2 17:02:02 UTC 2024
+# PhishFort Full Domain List - Thu May  2 18:02:14 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 108986
+# Number of Entries: 108991
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -26394,6 +26394,7 @@ deltaflare.live
 deltaflare.web-minting.com
 deltafork.app
 deltanodeactivation.com
+deltatequipments.com
 deluxepluxwallet.com
 delysium.nft-premint.com
 delysium.pro
@@ -61483,6 +61484,7 @@ nusukroadshow.com
 nutsplay.xyz
 nv3cjcrlmqdyejc.www.beta-openselling.pancakeswasap.one
 nvavid.com
+nvdacourse.com
 nvenergy.customersupports.network
 nvidia-bios-editor.com
 nvidia-bios-editor.ru
@@ -79829,6 +79831,7 @@ sigortacekilis.site
 sii.yongwudi.net
 siiiydragons.com
 siillydragon.io
+siioen.com
 sikyisnsmacsdjicail.ru
 silent-arie.com
 silk.mint-launch.com
@@ -87362,6 +87365,7 @@ tpadrewards.net
 tpay-paxful.com
 tpcontact.co.za
 tpe-store.pancakeswape.finance
+tpgcapitalrul.com
 tpnkeeper.com
 tpoken.im
 tppocketsupport.pro
@@ -98204,6 +98208,7 @@ www.airticket4fly.com
 www.airtm-app2.iceiy.com
 www.airtm.services
 www.airtm.us
+www.airtmliberatupotencial.site
 www.ait-claim.com
 www.ait.gift
 www.ajiomall.com

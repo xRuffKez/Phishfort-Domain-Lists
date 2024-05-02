@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  2 17:02:02 UTC 2024
+# PhishFort Full Domain List - Thu May  2 18:02:14 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108986
+# Number of Entries: 108991
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -26395,6 +26395,7 @@
 0.0.0.0 deltaflare.web-minting.com
 0.0.0.0 deltafork.app
 0.0.0.0 deltanodeactivation.com
+0.0.0.0 deltatequipments.com
 0.0.0.0 deluxepluxwallet.com
 0.0.0.0 delysium.nft-premint.com
 0.0.0.0 delysium.pro
@@ -61484,6 +61485,7 @@
 0.0.0.0 nutsplay.xyz
 0.0.0.0 nv3cjcrlmqdyejc.www.beta-openselling.pancakeswasap.one
 0.0.0.0 nvavid.com
+0.0.0.0 nvdacourse.com
 0.0.0.0 nvenergy.customersupports.network
 0.0.0.0 nvidia-bios-editor.com
 0.0.0.0 nvidia-bios-editor.ru
@@ -79830,6 +79832,7 @@
 0.0.0.0 sii.yongwudi.net
 0.0.0.0 siiiydragons.com
 0.0.0.0 siillydragon.io
+0.0.0.0 siioen.com
 0.0.0.0 sikyisnsmacsdjicail.ru
 0.0.0.0 silent-arie.com
 0.0.0.0 silk.mint-launch.com
@@ -87363,6 +87366,7 @@
 0.0.0.0 tpay-paxful.com
 0.0.0.0 tpcontact.co.za
 0.0.0.0 tpe-store.pancakeswape.finance
+0.0.0.0 tpgcapitalrul.com
 0.0.0.0 tpnkeeper.com
 0.0.0.0 tpoken.im
 0.0.0.0 tppocketsupport.pro
@@ -98205,6 +98209,7 @@
 0.0.0.0 www.airtm-app2.iceiy.com
 0.0.0.0 www.airtm.services
 0.0.0.0 www.airtm.us
+0.0.0.0 www.airtmliberatupotencial.site
 0.0.0.0 www.ait-claim.com
 0.0.0.0 www.ait.gift
 0.0.0.0 www.ajiomall.com
