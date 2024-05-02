@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Thu May  2 13:05:08 UTC 2024
+# PhishFort Small Domain List - Thu May  2 14:04:57 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7472
+# Number of Entries: 7475
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2456,7 +2456,6 @@ games-gala-xx.com
 games-mavia.com
 games-maviacom.pages.dev
 gamesgalina.shop
-gamestop-memes.web.app
 gaming-superverse.com
 gamium.pages.dev
 garbage-dapp.click
@@ -2976,6 +2975,7 @@ jubilant-meme.vercel.app
 judi10.com
 juiceboxmoney.xyz
 julswap.co
+jumper-exchange-2ba.pages.dev
 jumper-exchange.live
 jumper-exchange.network
 jumper.capital
@@ -4672,6 +4672,7 @@ pancakeswap-proclaim.com
 pancakeswap-prodrop.com
 pancakeswap-server.com
 pancakeswap-v3.pages.dev
+pancakeswap-v4-offers.com
 pancakeswap-webclaim.com
 pancakeswap.airdrop-cake-v3.com
 pancakeswap.cake-web3.com
@@ -4852,6 +4853,7 @@ paxosestm.com
 paxosevct.com
 paxosg.com
 paxoskop.com
+paxovdsa.com
 paxxful.live
 pay-en407etr.com
 pay407etr.com
@@ -5106,6 +5108,7 @@ provisions-starknet.top
 provisions-stknet.com
 provisionschainlink.org
 proximus-client.ddns.net
+proximus-recovery.be
 proximus.at
 psgyh.top
 psychome.co

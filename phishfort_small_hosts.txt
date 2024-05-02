@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  2 13:05:08 UTC 2024
+# PhishFort Small Domain List - Thu May  2 14:04:57 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7472
+# Number of Entries: 7475
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2457,7 +2457,6 @@
 0.0.0.0 games-mavia.com
 0.0.0.0 games-maviacom.pages.dev
 0.0.0.0 gamesgalina.shop
-0.0.0.0 gamestop-memes.web.app
 0.0.0.0 gaming-superverse.com
 0.0.0.0 gamium.pages.dev
 0.0.0.0 garbage-dapp.click
@@ -2977,6 +2976,7 @@
 0.0.0.0 judi10.com
 0.0.0.0 juiceboxmoney.xyz
 0.0.0.0 julswap.co
+0.0.0.0 jumper-exchange-2ba.pages.dev
 0.0.0.0 jumper-exchange.live
 0.0.0.0 jumper-exchange.network
 0.0.0.0 jumper.capital
@@ -4673,6 +4673,7 @@
 0.0.0.0 pancakeswap-prodrop.com
 0.0.0.0 pancakeswap-server.com
 0.0.0.0 pancakeswap-v3.pages.dev
+0.0.0.0 pancakeswap-v4-offers.com
 0.0.0.0 pancakeswap-webclaim.com
 0.0.0.0 pancakeswap.airdrop-cake-v3.com
 0.0.0.0 pancakeswap.cake-web3.com
@@ -4853,6 +4854,7 @@
 0.0.0.0 paxosevct.com
 0.0.0.0 paxosg.com
 0.0.0.0 paxoskop.com
+0.0.0.0 paxovdsa.com
 0.0.0.0 paxxful.live
 0.0.0.0 pay-en407etr.com
 0.0.0.0 pay407etr.com
@@ -5107,6 +5109,7 @@
 0.0.0.0 provisions-stknet.com
 0.0.0.0 provisionschainlink.org
 0.0.0.0 proximus-client.ddns.net
+0.0.0.0 proximus-recovery.be
 0.0.0.0 proximus.at
 0.0.0.0 psgyh.top
 0.0.0.0 psychome.co
