@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  2 12:07:29 UTC 2024
+# PhishFort Small Domain List - Thu May  2 13:05:08 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7470
+# Number of Entries: 7472
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -4407,6 +4407,7 @@
 0.0.0.0 ongcmumbaihigh.in
 0.0.0.0 ongcoffice.com
 0.0.0.0 ongoing-jup.app
+0.0.0.0 onldermassachus.com
 0.0.0.0 online.subscriibe.shop
 0.0.0.0 onlinedetma.click
 0.0.0.0 onlinedetma.za.com
@@ -4414,6 +4415,7 @@
 0.0.0.0 onlinenode.pages.dev
 0.0.0.0 onlysaitachain.migration.rxi.app
 0.0.0.0 onno-vaultdapp.click
+0.0.0.0 onpointulma.org
 0.0.0.0 ontario407etr.com
 0.0.0.0 ooderr.github.io
 0.0.0.0 op-earn.xyz
@@ -4674,7 +4676,6 @@
 0.0.0.0 pancakeswap-webclaim.com
 0.0.0.0 pancakeswap.airdrop-cake-v3.com
 0.0.0.0 pancakeswap.cake-web3.com
-0.0.0.0 pancakeswap.cc
 0.0.0.0 pancakeswap.click
 0.0.0.0 pancakeswap.dikecoin.com
 0.0.0.0 pancakeswap.godaddysites.com
@@ -7004,6 +7005,7 @@
 0.0.0.0 www.dapphyperblast.io
 0.0.0.0 www.dappsresolver.com
 0.0.0.0 www.dartya.cc
+0.0.0.0 www.debenhams-deals.com
 0.0.0.0 www.decntralnd.one
 0.0.0.0 www.decora-cabinets.com
 0.0.0.0 www.degen.hakunamatatasol.com

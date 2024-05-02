@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Thu May  2 12:07:29 UTC 2024
+# PhishFort Small Domain List - Thu May  2 13:05:08 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7470
+# Number of Entries: 7472
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -4406,6 +4406,7 @@ ongc.net
 ongcmumbaihigh.in
 ongcoffice.com
 ongoing-jup.app
+onldermassachus.com
 online.subscriibe.shop
 onlinedetma.click
 onlinedetma.za.com
@@ -4413,6 +4414,7 @@ onlinelaunchdappsvalidate.vercel.app
 onlinenode.pages.dev
 onlysaitachain.migration.rxi.app
 onno-vaultdapp.click
+onpointulma.org
 ontario407etr.com
 ooderr.github.io
 op-earn.xyz
@@ -4673,7 +4675,6 @@ pancakeswap-v3.pages.dev
 pancakeswap-webclaim.com
 pancakeswap.airdrop-cake-v3.com
 pancakeswap.cake-web3.com
-pancakeswap.cc
 pancakeswap.click
 pancakeswap.dikecoin.com
 pancakeswap.godaddysites.com
@@ -7003,6 +7004,7 @@ www.dappbrowser.info
 www.dapphyperblast.io
 www.dappsresolver.com
 www.dartya.cc
+www.debenhams-deals.com
 www.decntralnd.one
 www.decora-cabinets.com
 www.degen.hakunamatatasol.com
