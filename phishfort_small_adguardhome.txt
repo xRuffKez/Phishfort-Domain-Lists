@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Thu May  2 22:05:36 UTC 2024
+# PhishFort Small Domain List - Thu May  2 23:05:21 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
 # Number of Entries: 7510
@@ -1691,6 +1691,7 @@
 ||crypto-starknets.com^
 ||crypto.wormscommunity.xyz^
 ||cryptoairdropclaim.com^
+||cryptodrainer.tech^
 ||cryptohopperclaim.com^
 ||cryptoinfosec.net^
 ||cryptopepedrops.com^
@@ -2368,6 +2369,7 @@
 ||fitness-solution24.de^
 ||fix-metamask.pages.dev^
 ||fix.errorsolution.org^
+||fix.resolver-dapp.com^
 ||fixbugmigrate.pages.dev^
 ||fixedfloat.bar^
 ||fixedfloat.best^
@@ -5391,7 +5393,6 @@
 ||retikfinance.click^
 ||retlik.com^
 ||retratandoimagens.com^
-||retro.magicilyeden.io^
 ||retyuiopjhfaxcvbnmjyrsatyuiiopllkhdsa.com^
 ||revardthededtbox.online^
 ||revardthededtbox.site^
@@ -5446,7 +5447,6 @@
 ||reward-satoshivm.com^
 ||reward-strk.network^
 ||reward-wenwen.com^
-||reward.magleden.com^
 ||reward.memeslands.net^
 ||reward.netvr.app^
 ||reward.shib-memu.com^
@@ -5719,6 +5719,7 @@
 ||shoptiktok.club^
 ||shrapnel.cloud^
 ||shrapnel.life^
+||shrapnel.network^
 ||shrapnel.store^
 ||shyg618.com^
 ||sideshift.art^
@@ -6817,7 +6818,6 @@
 ||wenwencoin-whitelist.com^
 ||wenwencoin-wl.com^
 ||wenwencoin.network^
-||wenwencoin.vip^
 ||wenwencoin.xyz^
 ||wenwencoineth.com^
 ||wenwencoins.network^

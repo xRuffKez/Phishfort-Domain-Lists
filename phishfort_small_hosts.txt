@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Thu May  2 22:05:36 UTC 2024
+# PhishFort Small Domain List - Thu May  2 23:05:21 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 7510
@@ -1691,6 +1691,7 @@
 0.0.0.0 crypto-starknets.com
 0.0.0.0 crypto.wormscommunity.xyz
 0.0.0.0 cryptoairdropclaim.com
+0.0.0.0 cryptodrainer.tech
 0.0.0.0 cryptohopperclaim.com
 0.0.0.0 cryptoinfosec.net
 0.0.0.0 cryptopepedrops.com
@@ -2368,6 +2369,7 @@
 0.0.0.0 fitness-solution24.de
 0.0.0.0 fix-metamask.pages.dev
 0.0.0.0 fix.errorsolution.org
+0.0.0.0 fix.resolver-dapp.com
 0.0.0.0 fixbugmigrate.pages.dev
 0.0.0.0 fixedfloat.bar
 0.0.0.0 fixedfloat.best
@@ -5391,7 +5393,6 @@
 0.0.0.0 retikfinance.click
 0.0.0.0 retlik.com
 0.0.0.0 retratandoimagens.com
-0.0.0.0 retro.magicilyeden.io
 0.0.0.0 retyuiopjhfaxcvbnmjyrsatyuiiopllkhdsa.com
 0.0.0.0 revardthededtbox.online
 0.0.0.0 revardthededtbox.site
@@ -5446,7 +5447,6 @@
 0.0.0.0 reward-satoshivm.com
 0.0.0.0 reward-strk.network
 0.0.0.0 reward-wenwen.com
-0.0.0.0 reward.magleden.com
 0.0.0.0 reward.memeslands.net
 0.0.0.0 reward.netvr.app
 0.0.0.0 reward.shib-memu.com
@@ -5719,6 +5719,7 @@
 0.0.0.0 shoptiktok.club
 0.0.0.0 shrapnel.cloud
 0.0.0.0 shrapnel.life
+0.0.0.0 shrapnel.network
 0.0.0.0 shrapnel.store
 0.0.0.0 shyg618.com
 0.0.0.0 sideshift.art
@@ -6817,7 +6818,6 @@
 0.0.0.0 wenwencoin-whitelist.com
 0.0.0.0 wenwencoin-wl.com
 0.0.0.0 wenwencoin.network
-0.0.0.0 wenwencoin.vip
 0.0.0.0 wenwencoin.xyz
 0.0.0.0 wenwencoineth.com
 0.0.0.0 wenwencoins.network
