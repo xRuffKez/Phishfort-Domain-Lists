@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  2 18:02:14 UTC 2024
+# PhishFort Full Domain List - Thu May  2 19:01:47 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108991
+# Number of Entries: 108998
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -10270,6 +10270,7 @@
 ||bafybeig344zqrb6llkbjzlsa5bcnozn4g6nhlebje77tzksfid74pleyeq.ipfs.dweb.link^
 ||bafybeih6f3cnq6rv7w3thp63266fwswwazpnihhzohixzbjw45i5xrxjaq.ipfs.dweb.link^
 ||bafybeihbzllhmou7v2n5voxg3ldvflwmzzqwnb4zc4kani4onqpdj2gb7m.ipfs.dweb.link^
+||bafybeihdbtgftpyyfjjv6ajfrhorvdi2nmycvekox4fieipx6ofb5a7v7i.ipfs.dweb.link^
 ||bafybeihqbkq4wy4c75d3eu7zvvpl4qwgjgzt5tcr3fmz5z4mmklagvz2py.ipfs.dweb.link^
 ||bag-holding.web.app^
 ||bagencesib.info^
@@ -13291,6 +13292,7 @@
 ||blockcnaln.com^
 ||blockcnode.com^
 ||blockcrein.info^
+||blockdag.info^
 ||blockdapconnect.net^
 ||blockdapp.net^
 ||blockdappfix.pages.dev^
@@ -22812,6 +22814,7 @@
 ||cx-mooeny.com^
 ||cxadmin.gzyh.cc^
 ||cxblocmer.ru.com^
+||cxmdidazc.com^
 ||cxmooeny.com^
 ||cxoingecko.link^
 ||cxzlyusqlt70wd2a6qgwitizaiyejo30lffsajzgfcmxx6w8mfp2z0qdmpmy.online^
@@ -42922,6 +42925,7 @@
 ||kulssentres.site^
 ||kulswap.com^
 ||kumaleon.live^
+||kumtari.com^
 ||kundenportal-oberbank.eu^
 ||kungfubeasts.club^
 ||kungmedia.com^
@@ -87366,6 +87370,8 @@
 ||tpay-paxful.com^
 ||tpcontact.co.za^
 ||tpe-store.pancakeswape.finance^
+||tpgcapitallca.com^
+||tpgcapitallia.com^
 ||tpgcapitalrul.com^
 ||tpnkeeper.com^
 ||tpoken.im^
@@ -103905,6 +103911,7 @@
 ||www.simplcswap.io^
 ||www.simpleswap.ca^
 ||www.simpleswap.ws^
+||www.sinfutures.com^
 ||www.site-application.online^
 ||www.sitemap.project-altlayer.io^
 ||www.sitemaps.newpardigm-manta.network^

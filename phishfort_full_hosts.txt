@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  2 18:02:14 UTC 2024
+# PhishFort Full Domain List - Thu May  2 19:01:47 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108991
+# Number of Entries: 108998
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -10270,6 +10270,7 @@
 0.0.0.0 bafybeig344zqrb6llkbjzlsa5bcnozn4g6nhlebje77tzksfid74pleyeq.ipfs.dweb.link
 0.0.0.0 bafybeih6f3cnq6rv7w3thp63266fwswwazpnihhzohixzbjw45i5xrxjaq.ipfs.dweb.link
 0.0.0.0 bafybeihbzllhmou7v2n5voxg3ldvflwmzzqwnb4zc4kani4onqpdj2gb7m.ipfs.dweb.link
+0.0.0.0 bafybeihdbtgftpyyfjjv6ajfrhorvdi2nmycvekox4fieipx6ofb5a7v7i.ipfs.dweb.link
 0.0.0.0 bafybeihqbkq4wy4c75d3eu7zvvpl4qwgjgzt5tcr3fmz5z4mmklagvz2py.ipfs.dweb.link
 0.0.0.0 bag-holding.web.app
 0.0.0.0 bagencesib.info
@@ -13291,6 +13292,7 @@
 0.0.0.0 blockcnaln.com
 0.0.0.0 blockcnode.com
 0.0.0.0 blockcrein.info
+0.0.0.0 blockdag.info
 0.0.0.0 blockdapconnect.net
 0.0.0.0 blockdapp.net
 0.0.0.0 blockdappfix.pages.dev
@@ -22812,6 +22814,7 @@
 0.0.0.0 cx-mooeny.com
 0.0.0.0 cxadmin.gzyh.cc
 0.0.0.0 cxblocmer.ru.com
+0.0.0.0 cxmdidazc.com
 0.0.0.0 cxmooeny.com
 0.0.0.0 cxoingecko.link
 0.0.0.0 cxzlyusqlt70wd2a6qgwitizaiyejo30lffsajzgfcmxx6w8mfp2z0qdmpmy.online
@@ -42922,6 +42925,7 @@
 0.0.0.0 kulssentres.site
 0.0.0.0 kulswap.com
 0.0.0.0 kumaleon.live
+0.0.0.0 kumtari.com
 0.0.0.0 kundenportal-oberbank.eu
 0.0.0.0 kungfubeasts.club
 0.0.0.0 kungmedia.com
@@ -87366,6 +87370,8 @@
 0.0.0.0 tpay-paxful.com
 0.0.0.0 tpcontact.co.za
 0.0.0.0 tpe-store.pancakeswape.finance
+0.0.0.0 tpgcapitallca.com
+0.0.0.0 tpgcapitallia.com
 0.0.0.0 tpgcapitalrul.com
 0.0.0.0 tpnkeeper.com
 0.0.0.0 tpoken.im
@@ -103905,6 +103911,7 @@
 0.0.0.0 www.simplcswap.io
 0.0.0.0 www.simpleswap.ca
 0.0.0.0 www.simpleswap.ws
+0.0.0.0 www.sinfutures.com
 0.0.0.0 www.site-application.online
 0.0.0.0 www.sitemap.project-altlayer.io
 0.0.0.0 www.sitemaps.newpardigm-manta.network
