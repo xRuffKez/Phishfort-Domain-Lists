@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  2 14:04:57 UTC 2024
+# PhishFort Small Domain List - Thu May  2 15:05:24 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7475
+# Number of Entries: 7481
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -15,6 +15,7 @@
 0.0.0.0 0x4ee15erf903e2634abe0e.com
 0.0.0.0 1-88y.pages.dev
 0.0.0.0 1-eu9.pages.dev
+0.0.0.0 1-inch.vercel.app
 0.0.0.0 1-lnch.com
 0.0.0.0 1.globalpaymentsyttww.com
 0.0.0.0 1.globalpaymentsytww.com
@@ -1492,6 +1493,8 @@
 0.0.0.0 cliffordchancelaw.net
 0.0.0.0 cliffordchanceuk.online
 0.0.0.0 clintexmigration.tech
+0.0.0.0 clone1714515846502.angel-cloner.com
+0.0.0.0 clone1714516486291.angel-cloner.com
 0.0.0.0 cloud-base-dapp.vercel.app
 0.0.0.0 cloudinry.net
 0.0.0.0 clrscr.net
@@ -2272,6 +2275,7 @@
 0.0.0.0 evrrec.com
 0.0.0.0 ewjh.pro
 0.0.0.0 exampleee-site.online
+0.0.0.0 exchange-dex.web.app
 0.0.0.0 exchange-makerdao.org
 0.0.0.0 exchangecode.online
 0.0.0.0 exchangepancakeswap.workers.dev
@@ -2747,6 +2751,7 @@
 0.0.0.0 hopexchange.top
 0.0.0.0 hopper-rating.com
 0.0.0.0 hopper.travsrv.com
+0.0.0.0 horizonblue.firstlight.am
 0.0.0.0 horyksmassast.com
 0.0.0.0 hostbreno.com
 0.0.0.0 housexysounds.com
@@ -2771,6 +2776,7 @@
 0.0.0.0 i2sb20.cn
 0.0.0.0 ia4mb.pro
 0.0.0.0 iavhru.cc
+0.0.0.0 ibbotssons.com
 0.0.0.0 ibkrindia.com
 0.0.0.0 ibkrindia.xyz
 0.0.0.0 ibkrx.xyz
@@ -2918,7 +2924,6 @@
 0.0.0.0 jeffwealth.com
 0.0.0.0 jenkins.codefinity.de
 0.0.0.0 jenpower.net
-0.0.0.0 jerrybeers.com
 0.0.0.0 jfrsgrp.com
 0.0.0.0 jiashengint.cn
 0.0.0.0 jiashengtrader.com
@@ -4719,6 +4724,7 @@
 0.0.0.0 pancakeswpclicks.vercel.app
 0.0.0.0 pancakeswpdrop13.vercel.app
 0.0.0.0 pancakeswwap.com
+0.0.0.0 pancakev4swap.com
 0.0.0.0 pancakewsap-rewads.com
 0.0.0.0 pancaksewaq-finance.com
 0.0.0.0 pancakswaip.com

@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  2 14:04:57 UTC 2024
+# PhishFort Small Domain List - Thu May  2 15:05:24 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7475
+# Number of Entries: 7481
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -15,6 +15,7 @@
 ||0x4ee15erf903e2634abe0e.com^
 ||1-88y.pages.dev^
 ||1-eu9.pages.dev^
+||1-inch.vercel.app^
 ||1-lnch.com^
 ||1.globalpaymentsyttww.com^
 ||1.globalpaymentsytww.com^
@@ -1492,6 +1493,8 @@
 ||cliffordchancelaw.net^
 ||cliffordchanceuk.online^
 ||clintexmigration.tech^
+||clone1714515846502.angel-cloner.com^
+||clone1714516486291.angel-cloner.com^
 ||cloud-base-dapp.vercel.app^
 ||cloudinry.net^
 ||clrscr.net^
@@ -2272,6 +2275,7 @@
 ||evrrec.com^
 ||ewjh.pro^
 ||exampleee-site.online^
+||exchange-dex.web.app^
 ||exchange-makerdao.org^
 ||exchangecode.online^
 ||exchangepancakeswap.workers.dev^
@@ -2747,6 +2751,7 @@
 ||hopexchange.top^
 ||hopper-rating.com^
 ||hopper.travsrv.com^
+||horizonblue.firstlight.am^
 ||horyksmassast.com^
 ||hostbreno.com^
 ||housexysounds.com^
@@ -2771,6 +2776,7 @@
 ||i2sb20.cn^
 ||ia4mb.pro^
 ||iavhru.cc^
+||ibbotssons.com^
 ||ibkrindia.com^
 ||ibkrindia.xyz^
 ||ibkrx.xyz^
@@ -2918,7 +2924,6 @@
 ||jeffwealth.com^
 ||jenkins.codefinity.de^
 ||jenpower.net^
-||jerrybeers.com^
 ||jfrsgrp.com^
 ||jiashengint.cn^
 ||jiashengtrader.com^
@@ -4719,6 +4724,7 @@
 ||pancakeswpclicks.vercel.app^
 ||pancakeswpdrop13.vercel.app^
 ||pancakeswwap.com^
+||pancakev4swap.com^
 ||pancakewsap-rewads.com^
 ||pancaksewaq-finance.com^
 ||pancakswaip.com^
