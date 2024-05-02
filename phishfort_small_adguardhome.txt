@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  2 03:05:05 UTC 2024
+# PhishFort Small Domain List - Thu May  2 04:05:22 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7511
+# Number of Entries: 7483
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -643,7 +643,6 @@
 ||appmavia.com^
 ||appmavia.org^
 ||appmilkyway.zone^
-||appmultinitroverse.pro^
 ||appnetworksupport.pages.dev^
 ||appnodecon.pages.dev^
 ||appresolvefix.pages.dev^
@@ -1116,7 +1115,6 @@
 ||brc20.su^
 ||bridge-a3vigrfjd-pancakeswap.vercel.app^
 ||bridge-modenet.work^
-||bridge.blockscape.ink^
 ||bridge.carier.xyz^
 ||bridge.jumper.limo^
 ||bridge.metisdao.net^
@@ -1497,7 +1495,6 @@
 ||cliffordchancelaw.net^
 ||cliffordchanceuk.online^
 ||clintexmigration.tech^
-||cliqueop.com^
 ||clone1714515846502.angel-cloner.com^
 ||clone1714516377704.angel-cloner.com^
 ||clone1714516486291.angel-cloner.com^
@@ -1532,7 +1529,6 @@
 ||coinbase-verify-password-global.oxygeneapp.com^
 ||coinbase-walletconnectv4.vercel.app^
 ||coinbase-walltvip.net^
-||coinbaseoc.com^
 ||coinbaseprose.com^
 ||coinbaserewardsclaim.com^
 ||coinbinan.com^
@@ -1596,7 +1592,6 @@
 ||collabland.wf^
 ||collabland.x10.mx^
 ||collablandconnect.xyz^
-||collaboration-rainbow.me^
 ||collad-land.me^
 ||collbalnand.pages.dev^
 ||colleb-verify.xyz^
@@ -1950,7 +1945,6 @@
 ||diamondhands-ethereum.web.app^
 ||digitaldefi.pro^
 ||digitalsec.mypsx.net^
-||digitdef.com^
 ||digitoads.cc^
 ||diis.fluentflow.io^
 ||dinolfg.gift^
@@ -2426,7 +2420,6 @@
 ||free-altlayers.com^
 ||free-tias.com^
 ||free.bitzgroup.xyz^
-||free.mugalife.digital^
 ||free.personalzomb.xyz^
 ||freedompork.net^
 ||freestorecol.online^
@@ -2570,7 +2563,6 @@
 ||giftmanta.net^
 ||giftsteam.ru^
 ||gitcoin-dr-explorer.vercel.app^
-||give.manta.center^
 ||giveaway-manta.network^
 ||giveaway-neotokyo.codes^
 ||givesaiyans.com^
@@ -2640,7 +2632,6 @@
 ||gt-protocol.trading^
 ||gtmmypayroll.com^
 ||gtoswapportal.pages.dev^
-||gtprotocol.net^
 ||guest-info9016.com^
 ||gulbelt.top^
 ||gunitswiftcommunityswap.com^
@@ -2747,7 +2738,6 @@
 ||holumasshedvist.com^
 ||home-aave.net^
 ||home-ocean.net^
-||home.brickmark.club^
 ||home.earnclout.com^
 ||home.ethiner.xyz^
 ||home.itsearn.biz^
@@ -2769,7 +2759,6 @@
 ||hostbreno.com^
 ||housexysounds.com^
 ||hpwhmw10itwo.xyz^
-||hqq0a7e.info^
 ||ht52ik.top^
 ||https-loading.site^
 ||hub-injective-network.web.app^
@@ -3114,7 +3103,6 @@
 ||kroma.trading^
 ||krroma.network^
 ||kstmple.pages.dev^
-||ktogaza.pro^
 ||kuduips.com^
 ||kuytrk.com^
 ||kwool.ap-south-1.linodeobjects.com^
@@ -3994,7 +3982,6 @@
 ||modenetwork.netlify.app^
 ||modhr.org^
 ||modulares.icu^
-||modulef.com^
 ||moduler.network^
 ||moe-ukraine.com^
 ||moe-ukraine.info^
@@ -5101,7 +5088,6 @@
 ||prof1111.pages.dev^
 ||profit-dydx.com^
 ||project-0xconnect.pages.dev^
-||project-lucky-hamster.com^
 ||project-manta.com^
 ||project-openseaclick.vercel.app^
 ||projectmainnetweb.com^
@@ -5202,7 +5188,6 @@
 ||pythnetwork.connect-claiming.pro^
 ||pythnetwork.connect-claiming.run^
 ||pythnetwork.link-claiming.cc^
-||pythnetwork.link-claiming.icu^
 ||pythnetwork.link-claiming.live^
 ||pythnetwork.link-claiming.xyz^
 ||pythnetwork.manage-claim.pro^
@@ -5216,7 +5201,6 @@
 ||qna3.io^
 ||qna3.sbs^
 ||qna3token.net^
-||qnt.infinitedrops.top^
 ||qorpos.world^
 ||qpcuxbi.pro^
 ||qq5v9zjc.top^
@@ -5286,8 +5270,6 @@
 ||raydium.fun^
 ||raydium.lo.web3-connect.pw^
 ||raydlumvy.com^
-||rayduims.boats^
-||rayduims.homes^
 ||rayduims.monster^
 ||rayzonfinance.com^
 ||raze-drops.top^
@@ -5334,7 +5316,6 @@
 ||register-lineabuild.com^
 ||register-metis.io^
 ||register-optimism.org^
-||register-orderly.network^
 ||register-pandora.app^
 ||register-qubic.org^
 ||register-smartlayer.network^
@@ -5471,7 +5452,6 @@
 ||rewards-wenwencoin.com^
 ||rewards.carrbify.com^
 ||rewards.optimismlabs.org^
-||rewards.otsea.capital^
 ||rewards.retik.app^
 ||rewardspaalai.app^
 ||rewoke.cash^
@@ -5493,7 +5473,6 @@
 ||rockelpool.net^
 ||rocketpool.org^
 ||rocketpool.pro^
-||rocketpool.xlaunchpad.live^
 ||roinen-wallit.godaddysites.com^
 ||rolldym.app^
 ||rolluper.pro^
@@ -5986,7 +5965,6 @@
 ||stonexkr.com^
 ||stonexkr.me^
 ||stonfx.com^
-||stride-zone.vercel.app^
 ||strk-coin.xyz^
 ||strkclaim.space^
 ||strkclaims.com^
@@ -6157,7 +6135,6 @@
 ||test3123123132.pages.dev^
 ||testnet-berachain.com^
 ||testnet-vm.web.app^
-||testnets-reform.com^
 ||testrunner111.pages.dev^
 ||testrunner222.pages.dev^
 ||testrunner333.pages.dev^
@@ -6835,7 +6812,6 @@
 ||whalesmarket.org^
 ||wheelerr.shop^
 ||whitel-probablynothing.net^
-||whitel-syncus.com^
 ||whitelist-cellmates.com^
 ||whitelist-creepz.com^
 ||whitelist-farcana.com^
@@ -7072,7 +7048,6 @@
 ||www.forjud.com^
 ||www.fungible-token.laag.site^
 ||www.funwonderful.life^
-||www.furarivip.click^
 ||www.gala-games-7qx.com^
 ||www.games-galla-iiio.com^
 ||www.genesis-dimension.xyz^
@@ -7162,7 +7137,6 @@
 ||www.mode.networkapp.hu54.com^
 ||www.moneypak.store^
 ||www.multichain-web.de^
-||www.multiversechainx.com^
 ||www.mwallet8.com^
 ||www.my43.icu^
 ||www.myetherewallet.org^
@@ -7300,7 +7274,6 @@
 ||www.verify-collab-land.com^
 ||www.verify-collabland.xyz^
 ||www.vip-asx.com^
-||www.vippaxos.com^
 ||www.virtualsafetysolutions.net^
 ||www.viziosetup.com^
 ||www.vopiow.com^
@@ -7467,7 +7440,6 @@
 ||zk-look.org^
 ||zk-manta-airdrop.pages.dev^
 ||zk-polyhedra.com^
-||zk.scrllpunkface.icu^
 ||zkeztrade.com^
 ||zkfair.events^
 ||zkfair.supply^

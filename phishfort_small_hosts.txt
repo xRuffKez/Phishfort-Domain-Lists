@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  2 03:05:05 UTC 2024
+# PhishFort Small Domain List - Thu May  2 04:05:22 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7511
+# Number of Entries: 7483
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -643,7 +643,6 @@
 0.0.0.0 appmavia.com
 0.0.0.0 appmavia.org
 0.0.0.0 appmilkyway.zone
-0.0.0.0 appmultinitroverse.pro
 0.0.0.0 appnetworksupport.pages.dev
 0.0.0.0 appnodecon.pages.dev
 0.0.0.0 appresolvefix.pages.dev
@@ -1116,7 +1115,6 @@
 0.0.0.0 brc20.su
 0.0.0.0 bridge-a3vigrfjd-pancakeswap.vercel.app
 0.0.0.0 bridge-modenet.work
-0.0.0.0 bridge.blockscape.ink
 0.0.0.0 bridge.carier.xyz
 0.0.0.0 bridge.jumper.limo
 0.0.0.0 bridge.metisdao.net
@@ -1497,7 +1495,6 @@
 0.0.0.0 cliffordchancelaw.net
 0.0.0.0 cliffordchanceuk.online
 0.0.0.0 clintexmigration.tech
-0.0.0.0 cliqueop.com
 0.0.0.0 clone1714515846502.angel-cloner.com
 0.0.0.0 clone1714516377704.angel-cloner.com
 0.0.0.0 clone1714516486291.angel-cloner.com
@@ -1532,7 +1529,6 @@
 0.0.0.0 coinbase-verify-password-global.oxygeneapp.com
 0.0.0.0 coinbase-walletconnectv4.vercel.app
 0.0.0.0 coinbase-walltvip.net
-0.0.0.0 coinbaseoc.com
 0.0.0.0 coinbaseprose.com
 0.0.0.0 coinbaserewardsclaim.com
 0.0.0.0 coinbinan.com
@@ -1596,7 +1592,6 @@
 0.0.0.0 collabland.wf
 0.0.0.0 collabland.x10.mx
 0.0.0.0 collablandconnect.xyz
-0.0.0.0 collaboration-rainbow.me
 0.0.0.0 collad-land.me
 0.0.0.0 collbalnand.pages.dev
 0.0.0.0 colleb-verify.xyz
@@ -1950,7 +1945,6 @@
 0.0.0.0 diamondhands-ethereum.web.app
 0.0.0.0 digitaldefi.pro
 0.0.0.0 digitalsec.mypsx.net
-0.0.0.0 digitdef.com
 0.0.0.0 digitoads.cc
 0.0.0.0 diis.fluentflow.io
 0.0.0.0 dinolfg.gift
@@ -2426,7 +2420,6 @@
 0.0.0.0 free-altlayers.com
 0.0.0.0 free-tias.com
 0.0.0.0 free.bitzgroup.xyz
-0.0.0.0 free.mugalife.digital
 0.0.0.0 free.personalzomb.xyz
 0.0.0.0 freedompork.net
 0.0.0.0 freestorecol.online
@@ -2570,7 +2563,6 @@
 0.0.0.0 giftmanta.net
 0.0.0.0 giftsteam.ru
 0.0.0.0 gitcoin-dr-explorer.vercel.app
-0.0.0.0 give.manta.center
 0.0.0.0 giveaway-manta.network
 0.0.0.0 giveaway-neotokyo.codes
 0.0.0.0 givesaiyans.com
@@ -2640,7 +2632,6 @@
 0.0.0.0 gt-protocol.trading
 0.0.0.0 gtmmypayroll.com
 0.0.0.0 gtoswapportal.pages.dev
-0.0.0.0 gtprotocol.net
 0.0.0.0 guest-info9016.com
 0.0.0.0 gulbelt.top
 0.0.0.0 gunitswiftcommunityswap.com
@@ -2747,7 +2738,6 @@
 0.0.0.0 holumasshedvist.com
 0.0.0.0 home-aave.net
 0.0.0.0 home-ocean.net
-0.0.0.0 home.brickmark.club
 0.0.0.0 home.earnclout.com
 0.0.0.0 home.ethiner.xyz
 0.0.0.0 home.itsearn.biz
@@ -2769,7 +2759,6 @@
 0.0.0.0 hostbreno.com
 0.0.0.0 housexysounds.com
 0.0.0.0 hpwhmw10itwo.xyz
-0.0.0.0 hqq0a7e.info
 0.0.0.0 ht52ik.top
 0.0.0.0 https-loading.site
 0.0.0.0 hub-injective-network.web.app
@@ -3114,7 +3103,6 @@
 0.0.0.0 kroma.trading
 0.0.0.0 krroma.network
 0.0.0.0 kstmple.pages.dev
-0.0.0.0 ktogaza.pro
 0.0.0.0 kuduips.com
 0.0.0.0 kuytrk.com
 0.0.0.0 kwool.ap-south-1.linodeobjects.com
@@ -3994,7 +3982,6 @@
 0.0.0.0 modenetwork.netlify.app
 0.0.0.0 modhr.org
 0.0.0.0 modulares.icu
-0.0.0.0 modulef.com
 0.0.0.0 moduler.network
 0.0.0.0 moe-ukraine.com
 0.0.0.0 moe-ukraine.info
@@ -5101,7 +5088,6 @@
 0.0.0.0 prof1111.pages.dev
 0.0.0.0 profit-dydx.com
 0.0.0.0 project-0xconnect.pages.dev
-0.0.0.0 project-lucky-hamster.com
 0.0.0.0 project-manta.com
 0.0.0.0 project-openseaclick.vercel.app
 0.0.0.0 projectmainnetweb.com
@@ -5202,7 +5188,6 @@
 0.0.0.0 pythnetwork.connect-claiming.pro
 0.0.0.0 pythnetwork.connect-claiming.run
 0.0.0.0 pythnetwork.link-claiming.cc
-0.0.0.0 pythnetwork.link-claiming.icu
 0.0.0.0 pythnetwork.link-claiming.live
 0.0.0.0 pythnetwork.link-claiming.xyz
 0.0.0.0 pythnetwork.manage-claim.pro
@@ -5216,7 +5201,6 @@
 0.0.0.0 qna3.io
 0.0.0.0 qna3.sbs
 0.0.0.0 qna3token.net
-0.0.0.0 qnt.infinitedrops.top
 0.0.0.0 qorpos.world
 0.0.0.0 qpcuxbi.pro
 0.0.0.0 qq5v9zjc.top
@@ -5286,8 +5270,6 @@
 0.0.0.0 raydium.fun
 0.0.0.0 raydium.lo.web3-connect.pw
 0.0.0.0 raydlumvy.com
-0.0.0.0 rayduims.boats
-0.0.0.0 rayduims.homes
 0.0.0.0 rayduims.monster
 0.0.0.0 rayzonfinance.com
 0.0.0.0 raze-drops.top
@@ -5334,7 +5316,6 @@
 0.0.0.0 register-lineabuild.com
 0.0.0.0 register-metis.io
 0.0.0.0 register-optimism.org
-0.0.0.0 register-orderly.network
 0.0.0.0 register-pandora.app
 0.0.0.0 register-qubic.org
 0.0.0.0 register-smartlayer.network
@@ -5471,7 +5452,6 @@
 0.0.0.0 rewards-wenwencoin.com
 0.0.0.0 rewards.carrbify.com
 0.0.0.0 rewards.optimismlabs.org
-0.0.0.0 rewards.otsea.capital
 0.0.0.0 rewards.retik.app
 0.0.0.0 rewardspaalai.app
 0.0.0.0 rewoke.cash
@@ -5493,7 +5473,6 @@
 0.0.0.0 rockelpool.net
 0.0.0.0 rocketpool.org
 0.0.0.0 rocketpool.pro
-0.0.0.0 rocketpool.xlaunchpad.live
 0.0.0.0 roinen-wallit.godaddysites.com
 0.0.0.0 rolldym.app
 0.0.0.0 rolluper.pro
@@ -5986,7 +5965,6 @@
 0.0.0.0 stonexkr.com
 0.0.0.0 stonexkr.me
 0.0.0.0 stonfx.com
-0.0.0.0 stride-zone.vercel.app
 0.0.0.0 strk-coin.xyz
 0.0.0.0 strkclaim.space
 0.0.0.0 strkclaims.com
@@ -6157,7 +6135,6 @@
 0.0.0.0 test3123123132.pages.dev
 0.0.0.0 testnet-berachain.com
 0.0.0.0 testnet-vm.web.app
-0.0.0.0 testnets-reform.com
 0.0.0.0 testrunner111.pages.dev
 0.0.0.0 testrunner222.pages.dev
 0.0.0.0 testrunner333.pages.dev
@@ -6835,7 +6812,6 @@
 0.0.0.0 whalesmarket.org
 0.0.0.0 wheelerr.shop
 0.0.0.0 whitel-probablynothing.net
-0.0.0.0 whitel-syncus.com
 0.0.0.0 whitelist-cellmates.com
 0.0.0.0 whitelist-creepz.com
 0.0.0.0 whitelist-farcana.com
@@ -7072,7 +7048,6 @@
 0.0.0.0 www.forjud.com
 0.0.0.0 www.fungible-token.laag.site
 0.0.0.0 www.funwonderful.life
-0.0.0.0 www.furarivip.click
 0.0.0.0 www.gala-games-7qx.com
 0.0.0.0 www.games-galla-iiio.com
 0.0.0.0 www.genesis-dimension.xyz
@@ -7162,7 +7137,6 @@
 0.0.0.0 www.mode.networkapp.hu54.com
 0.0.0.0 www.moneypak.store
 0.0.0.0 www.multichain-web.de
-0.0.0.0 www.multiversechainx.com
 0.0.0.0 www.mwallet8.com
 0.0.0.0 www.my43.icu
 0.0.0.0 www.myetherewallet.org
@@ -7300,7 +7274,6 @@
 0.0.0.0 www.verify-collab-land.com
 0.0.0.0 www.verify-collabland.xyz
 0.0.0.0 www.vip-asx.com
-0.0.0.0 www.vippaxos.com
 0.0.0.0 www.virtualsafetysolutions.net
 0.0.0.0 www.viziosetup.com
 0.0.0.0 www.vopiow.com
@@ -7467,7 +7440,6 @@
 0.0.0.0 zk-look.org
 0.0.0.0 zk-manta-airdrop.pages.dev
 0.0.0.0 zk-polyhedra.com
-0.0.0.0 zk.scrllpunkface.icu
 0.0.0.0 zkeztrade.com
 0.0.0.0 zkfair.events
 0.0.0.0 zkfair.supply
