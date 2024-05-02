@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  2 06:02:19 UTC 2024
+# PhishFort Full Domain List - Thu May  2 07:02:15 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108967
+# Number of Entries: 108968
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -28539,6 +28539,7 @@
 0.0.0.0 easrndrop.net
 0.0.0.0 eassecon.com
 0.0.0.0 eassytravels.com
+0.0.0.0 eastofeatonapiary.com
 0.0.0.0 easy-connect.xyz
 0.0.0.0 easy-ethers.com
 0.0.0.0 easy-protocol.com
@@ -42148,6 +42149,7 @@
 0.0.0.0 kebeb.site
 0.0.0.0 kecamatan.xyz
 0.0.0.0 keep-network.com
+0.0.0.0 keeper.claims
 0.0.0.0 keepkey.app
 0.0.0.0 keepstake.github.io
 0.0.0.0 kefu.pancackswap.com
@@ -65449,6 +65451,7 @@
 0.0.0.0 pancakeswap-nev.tech.audiocenter.biz
 0.0.0.0 pancakeswap-newdrop.com
 0.0.0.0 pancakeswap-now.gotdns.ch
+0.0.0.0 pancakeswap-offers.com
 0.0.0.0 pancakeswap-official.online
 0.0.0.0 pancakeswap-official.org
 0.0.0.0 pancakeswap-official.tech
@@ -65943,7 +65946,6 @@
 0.0.0.0 pancakeswap.finance.presestalagpa.cf
 0.0.0.0 pancakeswap.finance.proceed-change.in
 0.0.0.0 pancakeswap.finance.proceed-trade.in
-0.0.0.0 pancakeswap.finance.promodinamic.com
 0.0.0.0 pancakeswap.finance.puitimartere.tk
 0.0.0.0 pancakeswap.finance.ready.fastservicetrack.com
 0.0.0.0 pancakeswap.finance.ready.goodsservicedogs.com
@@ -99872,7 +99874,6 @@
 0.0.0.0 www.debcunk.com
 0.0.0.0 www.debcunlk.com
 0.0.0.0 www.debenhams-ae.com
-0.0.0.0 www.debenhams-deals.com
 0.0.0.0 www.debenhamsdeals.com
 0.0.0.0 www.debenk-app.com
 0.0.0.0 www.debugappfix.site

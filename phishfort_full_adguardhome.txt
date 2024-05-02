@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  2 06:02:19 UTC 2024
+# PhishFort Full Domain List - Thu May  2 07:02:15 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108967
+# Number of Entries: 108968
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -28539,6 +28539,7 @@
 ||easrndrop.net^
 ||eassecon.com^
 ||eassytravels.com^
+||eastofeatonapiary.com^
 ||easy-connect.xyz^
 ||easy-ethers.com^
 ||easy-protocol.com^
@@ -42148,6 +42149,7 @@
 ||kebeb.site^
 ||kecamatan.xyz^
 ||keep-network.com^
+||keeper.claims^
 ||keepkey.app^
 ||keepstake.github.io^
 ||kefu.pancackswap.com^
@@ -65449,6 +65451,7 @@
 ||pancakeswap-nev.tech.audiocenter.biz^
 ||pancakeswap-newdrop.com^
 ||pancakeswap-now.gotdns.ch^
+||pancakeswap-offers.com^
 ||pancakeswap-official.online^
 ||pancakeswap-official.org^
 ||pancakeswap-official.tech^
@@ -65943,7 +65946,6 @@
 ||pancakeswap.finance.presestalagpa.cf^
 ||pancakeswap.finance.proceed-change.in^
 ||pancakeswap.finance.proceed-trade.in^
-||pancakeswap.finance.promodinamic.com^
 ||pancakeswap.finance.puitimartere.tk^
 ||pancakeswap.finance.ready.fastservicetrack.com^
 ||pancakeswap.finance.ready.goodsservicedogs.com^
@@ -99872,7 +99874,6 @@
 ||www.debcunk.com^
 ||www.debcunlk.com^
 ||www.debenhams-ae.com^
-||www.debenhams-deals.com^
 ||www.debenhamsdeals.com^
 ||www.debenk-app.com^
 ||www.debugappfix.site^
