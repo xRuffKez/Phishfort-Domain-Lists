@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Thu May  2 21:04:50 UTC 2024
+# PhishFort Small Domain List - Thu May  2 22:05:36 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7505
+# Number of Entries: 7510
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1556,6 +1556,7 @@ coinresearchlab.site
 coins-holders.web.app
 coins.tr1onex.top
 coinsquarelogin.com
+coinswalletsystem.web.app
 coinswiftresolve.web.app
 cointiger-airdrop.com
 cointransaction.finance
@@ -2232,6 +2233,7 @@ etherfi.one
 ethergas.eu
 ethergases.com
 ethermegas.org
+etheruem.site
 etherugases.xyz
 ethfi.global
 ethfundg.xyz
@@ -4154,6 +4156,7 @@ mysteryclicks23.vercel.app
 mysteryclicks81.vercel.app
 mysteryclicksclaim1.vercel.app
 mysteryclicksnft.vercel.app
+mysterynft84.vercel.app
 mysterynfts.vercel.app
 mysteryobox.vercel.app
 mysteryopn.vercel.app
@@ -5657,6 +5660,7 @@ seedfry.com
 seedifyfund.click
 seedifyfund.co
 seedifyfunds.app
+seeditfy.fund
 segurototal2024.com
 sei-io.web.app
 seicoingeckolearnandearn.pages.dev
@@ -6333,6 +6337,7 @@ trustdrops.xyz
 trustfloki.netlify.app
 trustpad-gs.com
 trustpud.life
+trustvvallet-drawgift.com
 trustwall.xyz
 trustwallectconnect.vercel.app
 trustwallet-support.com

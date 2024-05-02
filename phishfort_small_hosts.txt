@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  2 21:04:50 UTC 2024
+# PhishFort Small Domain List - Thu May  2 22:05:36 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7505
+# Number of Entries: 7510
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1557,6 +1557,7 @@
 0.0.0.0 coins-holders.web.app
 0.0.0.0 coins.tr1onex.top
 0.0.0.0 coinsquarelogin.com
+0.0.0.0 coinswalletsystem.web.app
 0.0.0.0 coinswiftresolve.web.app
 0.0.0.0 cointiger-airdrop.com
 0.0.0.0 cointransaction.finance
@@ -2233,6 +2234,7 @@
 0.0.0.0 ethergas.eu
 0.0.0.0 ethergases.com
 0.0.0.0 ethermegas.org
+0.0.0.0 etheruem.site
 0.0.0.0 etherugases.xyz
 0.0.0.0 ethfi.global
 0.0.0.0 ethfundg.xyz
@@ -4155,6 +4157,7 @@
 0.0.0.0 mysteryclicks81.vercel.app
 0.0.0.0 mysteryclicksclaim1.vercel.app
 0.0.0.0 mysteryclicksnft.vercel.app
+0.0.0.0 mysterynft84.vercel.app
 0.0.0.0 mysterynfts.vercel.app
 0.0.0.0 mysteryobox.vercel.app
 0.0.0.0 mysteryopn.vercel.app
@@ -5658,6 +5661,7 @@
 0.0.0.0 seedifyfund.click
 0.0.0.0 seedifyfund.co
 0.0.0.0 seedifyfunds.app
+0.0.0.0 seeditfy.fund
 0.0.0.0 segurototal2024.com
 0.0.0.0 sei-io.web.app
 0.0.0.0 seicoingeckolearnandearn.pages.dev
@@ -6334,6 +6338,7 @@
 0.0.0.0 trustfloki.netlify.app
 0.0.0.0 trustpad-gs.com
 0.0.0.0 trustpud.life
+0.0.0.0 trustvvallet-drawgift.com
 0.0.0.0 trustwall.xyz
 0.0.0.0 trustwallectconnect.vercel.app
 0.0.0.0 trustwallet-support.com
