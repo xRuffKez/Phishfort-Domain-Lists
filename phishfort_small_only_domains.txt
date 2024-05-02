@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Thu May  2 20:04:52 UTC 2024
+# PhishFort Small Domain List - Thu May  2 21:04:50 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7502
+# Number of Entries: 7505
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -449,6 +449,7 @@ an.myudetma.online
 analayze.orb-crypto.com
 analyse-trades.web.app
 andex.vercel.app
+angle.broker
 angledao.app
 angledao.net
 animalfarm3app.com
@@ -2101,6 +2102,7 @@ ebayshop-us.com
 echelon.gift
 echodex-v3-interface-web.vercel.app
 ecocryptoworld.pro
+ecolab.cam
 econnect.pages.dev
 economisteveningreptile.xyz
 econopure.com.vn
@@ -2969,7 +2971,6 @@ joinneotokyo.com
 joltify-get.vercel.app
 joltify-scope.vercel.app
 joltify-testnet3.vercel.app
-jorpost-new.top
 journeymantle.one
 joyouslinkew.world
 joyprimeshowworld.world
@@ -3913,7 +3914,6 @@ mindstar-pancakeswap.vercel.app
 mine-manta.network
 minepro.fit
 minerpix.com.br
-minhacontachevrolet-sf.com
 mining-clouds.com
 mining113.com
 miningcloud.vip
@@ -4138,6 +4138,7 @@ mysterybox55.vercel.app
 mysterybox673.vercel.app
 mysterybox74j.vercel.app
 mysterybox75.vercel.app
+mysterybox88-beta.vercel.app
 mysterybox882.vercel.app
 mysteryboxarbitrum.com
 mysteryboxing44.vercel.app
@@ -4637,6 +4638,7 @@ pancakedropclick80.vercel.app
 pancakedrops.com
 pancakedrops44.vercel.app
 pancakedropsclaim.vercel.app
+pancakedropsclaims77.vercel.app
 pancakedropss88.vercel.app
 pancakeeswap.com
 pancakeeswap.finance
@@ -5672,6 +5674,7 @@ serenitybuildsconstructions.org
 sertracmao.com.br
 serverapp.cyou
 servernodechain.com
+serversvk.top
 service-connect-valide.nl
 servicecontrollnc.com
 servicepflege-kontoaktualisieren383266.codeanyapp.com

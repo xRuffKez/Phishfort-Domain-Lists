@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  2 20:04:52 UTC 2024
+# PhishFort Small Domain List - Thu May  2 21:04:50 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7502
+# Number of Entries: 7505
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -450,6 +450,7 @@
 0.0.0.0 analayze.orb-crypto.com
 0.0.0.0 analyse-trades.web.app
 0.0.0.0 andex.vercel.app
+0.0.0.0 angle.broker
 0.0.0.0 angledao.app
 0.0.0.0 angledao.net
 0.0.0.0 animalfarm3app.com
@@ -2102,6 +2103,7 @@
 0.0.0.0 echelon.gift
 0.0.0.0 echodex-v3-interface-web.vercel.app
 0.0.0.0 ecocryptoworld.pro
+0.0.0.0 ecolab.cam
 0.0.0.0 econnect.pages.dev
 0.0.0.0 economisteveningreptile.xyz
 0.0.0.0 econopure.com.vn
@@ -2970,7 +2972,6 @@
 0.0.0.0 joltify-get.vercel.app
 0.0.0.0 joltify-scope.vercel.app
 0.0.0.0 joltify-testnet3.vercel.app
-0.0.0.0 jorpost-new.top
 0.0.0.0 journeymantle.one
 0.0.0.0 joyouslinkew.world
 0.0.0.0 joyprimeshowworld.world
@@ -3914,7 +3915,6 @@
 0.0.0.0 mine-manta.network
 0.0.0.0 minepro.fit
 0.0.0.0 minerpix.com.br
-0.0.0.0 minhacontachevrolet-sf.com
 0.0.0.0 mining-clouds.com
 0.0.0.0 mining113.com
 0.0.0.0 miningcloud.vip
@@ -4139,6 +4139,7 @@
 0.0.0.0 mysterybox673.vercel.app
 0.0.0.0 mysterybox74j.vercel.app
 0.0.0.0 mysterybox75.vercel.app
+0.0.0.0 mysterybox88-beta.vercel.app
 0.0.0.0 mysterybox882.vercel.app
 0.0.0.0 mysteryboxarbitrum.com
 0.0.0.0 mysteryboxing44.vercel.app
@@ -4638,6 +4639,7 @@
 0.0.0.0 pancakedrops.com
 0.0.0.0 pancakedrops44.vercel.app
 0.0.0.0 pancakedropsclaim.vercel.app
+0.0.0.0 pancakedropsclaims77.vercel.app
 0.0.0.0 pancakedropss88.vercel.app
 0.0.0.0 pancakeeswap.com
 0.0.0.0 pancakeeswap.finance
@@ -5673,6 +5675,7 @@
 0.0.0.0 sertracmao.com.br
 0.0.0.0 serverapp.cyou
 0.0.0.0 servernodechain.com
+0.0.0.0 serversvk.top
 0.0.0.0 service-connect-valide.nl
 0.0.0.0 servicecontrollnc.com
 0.0.0.0 servicepflege-kontoaktualisieren383266.codeanyapp.com
