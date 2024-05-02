@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  2 13:02:25 UTC 2024
+# PhishFort Full Domain List - Thu May  2 14:02:06 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108972
+# Number of Entries: 108974
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -35808,7 +35808,6 @@
 ||gamesgalina.shop^
 ||gamesmarket.place^
 ||gamestaratlas.pw^
-||gamestop-memes.web.app^
 ||gamestops.xyz^
 ||gametv-torney.ru^
 ||gamfinode.online^
@@ -41709,6 +41708,7 @@
 ||julianar.site^
 ||julieannehoover.com^
 ||julswap.co^
+||jumper-exchange-2ba.pages.dev^
 ||jumper-exchange.live^
 ||jumper-exchange.network^
 ||jumper-exchange.org^
@@ -65541,6 +65541,7 @@
 ||pancakeswap-v3.pages.dev^
 ||pancakeswap-v3.pw^
 ||pancakeswap-v3.site^
+||pancakeswap-v4-offers.com^
 ||pancakeswap-v4.pw^
 ||pancakeswap-v4.site^
 ||pancakeswap-verificationvhost207777.lowhost.ru^
@@ -69537,6 +69538,7 @@
 ||paxostrades.com^
 ||paxosus.com^
 ||paxosvip.com^
+||paxovdsa.com^
 ||paxportal.xyz^
 ||paxpul.com^
 ||paxrful.com^
