@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  2 10:01:57 UTC 2024
+# PhishFort Full Domain List - Thu May  2 11:02:19 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108967
+# Number of Entries: 108968
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -18382,6 +18382,7 @@
 ||coin-fast.com^
 ||coin-free-exchange.cf^
 ||coin-fx.ltd^
+||coin-gcko.com^
 ||coin-gecko.app^
 ||coin-gecko.info^
 ||coin-geckorewards.fun^

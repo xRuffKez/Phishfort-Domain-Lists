@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  2 10:01:57 UTC 2024
+# PhishFort Full Domain List - Thu May  2 11:02:19 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108967
+# Number of Entries: 108968
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -18382,6 +18382,7 @@
 0.0.0.0 coin-fast.com
 0.0.0.0 coin-free-exchange.cf
 0.0.0.0 coin-fx.ltd
+0.0.0.0 coin-gcko.com
 0.0.0.0 coin-gecko.app
 0.0.0.0 coin-gecko.info
 0.0.0.0 coin-geckorewards.fun
