@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  2 14:02:06 UTC 2024
+# PhishFort Full Domain List - Thu May  2 15:02:50 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108974
+# Number of Entries: 108981
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -140,6 +140,7 @@
 ||1-inch.site^
 ||1-inch.store^
 ||1-inch.tech^
+||1-inch.vercel.app^
 ||1-inch.website^
 ||1-inch.xyz^
 ||1-inche.com^
@@ -18147,6 +18148,8 @@
 ||clodida.io^
 ||cloeisor.com^
 ||cloingecko.com^
+||clone1714515846502.angel-cloner.com^
+||clone1714516486291.angel-cloner.com^
 ||cloneforce.net^
 ||cloneforce.one^
 ||cloneforce.online^
@@ -32388,6 +32391,7 @@
 ||exchange-chem.com^
 ||exchange-coindesk.com^
 ||exchange-cryptonetwork.com^
+||exchange-dex.web.app^
 ||exchange-fast.xyz^
 ||exchange-fastex.life^
 ||exchange-gmxio.com^
@@ -38980,6 +38984,7 @@
 ||horadojogo.site^
 ||hordanas.site^
 ||horizen.plus^
+||horizonblue.firstlight.am^
 ||hormald.xyz^
 ||hornhub-promogive.com^
 ||horoi.user-paxful.com^
@@ -39375,6 +39380,7 @@
 ||ib-stocks.com^
 ||ib.sam24.vip^
 ||ibank.hbng.nom.vc^
+||ibbotssons.com^
 ||ibcexofmarket.com^
 ||iberostarhotelsresorts.com^
 ||ibex-28.netlify.app^
@@ -67644,6 +67650,7 @@
 ||pancakeuswap.com^
 ||pancakeuswap.online^
 ||pancakev2ex.com^
+||pancakev4swap.com^
 ||pancakeverifications.com.bscwalletconnect.com^
 ||pancakevwapp.com^
 ||pancakewalet.com^
