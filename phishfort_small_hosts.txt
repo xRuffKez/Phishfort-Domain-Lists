@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  2 19:04:31 UTC 2024
+# PhishFort Small Domain List - Thu May  2 20:04:52 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7495
+# Number of Entries: 7502
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1541,6 +1541,7 @@
 0.0.0.0 coingecko.kycregulatory.com
 0.0.0.0 coingeckokyc.kycregulatory.com
 0.0.0.0 coinlaunchpad.netlify.app
+0.0.0.0 coinlist-subsquids.vercel.app
 0.0.0.0 coinmainnets.com
 0.0.0.0 coinmarketcap-app-auth.web.app
 0.0.0.0 coinmarketcap-login-web.web.app
@@ -1601,6 +1602,7 @@
 0.0.0.0 collection-satoshivm.io
 0.0.0.0 collecttion.store
 0.0.0.0 colllab.xyz
+0.0.0.0 com3.sa.com
 0.0.0.0 community-center.shop
 0.0.0.0 community-coindesk.com
 0.0.0.0 community-dappradar.com
@@ -1791,6 +1793,7 @@
 0.0.0.0 dappsprotocol.vercel.app
 0.0.0.0 dappsradar.lc
 0.0.0.0 dappsresolves.pages.dev
+0.0.0.0 dappsrpcresolver.app
 0.0.0.0 dappsswarm.com
 0.0.0.0 dappstaking.net
 0.0.0.0 dappsxfix.pages.dev
@@ -4066,6 +4069,7 @@
 0.0.0.0 multinoderesolve.pages.dev
 0.0.0.0 multiplier.aitsprotcol.com
 0.0.0.0 multisystemcoinwallet.web.app
+0.0.0.0 multiwalletresolve.vercel.app
 0.0.0.0 multiwalletsystem.web.app
 0.0.0.0 mumucoin.org
 0.0.0.0 mundialconsorcios.com.br
@@ -5748,6 +5752,7 @@
 0.0.0.0 sinbad.bio
 0.0.0.0 singularity-sale.net
 0.0.0.0 singularitydao.app
+0.0.0.0 siothana.o8l.xyz
 0.0.0.0 siteai.site
 0.0.0.0 sitemap.allocation-ether.fi
 0.0.0.0 sk-sangvich.cyou
@@ -6213,6 +6218,7 @@
 0.0.0.0 tmwr.pro
 0.0.0.0 tnkeeper.com
 0.0.0.0 to.dataui.online
+0.0.0.0 toad-swap.org
 0.0.0.0 tobkeeper.com
 0.0.0.0 tokeeper.com
 0.0.0.0 token-altsignal.web.app
@@ -7419,6 +7425,7 @@
 0.0.0.0 zapper-frontend-next-6zj2ju3qm-zapper-fi.vercel.app
 0.0.0.0 zapper-frontend-next-h5ht7yy42-zapper-fi.vercel.app
 0.0.0.0 zapper-frontend-next-ikph34jsv-zapper-fi.vercel.app
+0.0.0.0 zealy-plena.com
 0.0.0.0 zellerscanada.ca
 0.0.0.0 zenithzest.top
 0.0.0.0 zens-web3.com

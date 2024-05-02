@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  2 19:04:31 UTC 2024
+# PhishFort Small Domain List - Thu May  2 20:04:52 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7495
+# Number of Entries: 7502
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1541,6 +1541,7 @@
 ||coingecko.kycregulatory.com^
 ||coingeckokyc.kycregulatory.com^
 ||coinlaunchpad.netlify.app^
+||coinlist-subsquids.vercel.app^
 ||coinmainnets.com^
 ||coinmarketcap-app-auth.web.app^
 ||coinmarketcap-login-web.web.app^
@@ -1601,6 +1602,7 @@
 ||collection-satoshivm.io^
 ||collecttion.store^
 ||colllab.xyz^
+||com3.sa.com^
 ||community-center.shop^
 ||community-coindesk.com^
 ||community-dappradar.com^
@@ -1791,6 +1793,7 @@
 ||dappsprotocol.vercel.app^
 ||dappsradar.lc^
 ||dappsresolves.pages.dev^
+||dappsrpcresolver.app^
 ||dappsswarm.com^
 ||dappstaking.net^
 ||dappsxfix.pages.dev^
@@ -4066,6 +4069,7 @@
 ||multinoderesolve.pages.dev^
 ||multiplier.aitsprotcol.com^
 ||multisystemcoinwallet.web.app^
+||multiwalletresolve.vercel.app^
 ||multiwalletsystem.web.app^
 ||mumucoin.org^
 ||mundialconsorcios.com.br^
@@ -5748,6 +5752,7 @@
 ||sinbad.bio^
 ||singularity-sale.net^
 ||singularitydao.app^
+||siothana.o8l.xyz^
 ||siteai.site^
 ||sitemap.allocation-ether.fi^
 ||sk-sangvich.cyou^
@@ -6213,6 +6218,7 @@
 ||tmwr.pro^
 ||tnkeeper.com^
 ||to.dataui.online^
+||toad-swap.org^
 ||tobkeeper.com^
 ||tokeeper.com^
 ||token-altsignal.web.app^
@@ -7419,6 +7425,7 @@
 ||zapper-frontend-next-6zj2ju3qm-zapper-fi.vercel.app^
 ||zapper-frontend-next-h5ht7yy42-zapper-fi.vercel.app^
 ||zapper-frontend-next-ikph34jsv-zapper-fi.vercel.app^
+||zealy-plena.com^
 ||zellerscanada.ca^
 ||zenithzest.top^
 ||zens-web3.com^
