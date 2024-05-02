@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  2 15:02:50 UTC 2024
+# PhishFort Full Domain List - Thu May  2 16:02:09 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108981
+# Number of Entries: 108982
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -67755,6 +67755,7 @@
 0.0.0.0 pancakoswaps.sbs
 0.0.0.0 pancakqswap.com
 0.0.0.0 pancakrneswap.finance
+0.0.0.0 pancaks.com
 0.0.0.0 pancaksafswap.net
 0.0.0.0 pancaksafswap.org
 0.0.0.0 pancaksawp.com

@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Thu May  2 15:02:50 UTC 2024
+# PhishFort Full Domain List - Thu May  2 16:02:09 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 108981
+# Number of Entries: 108982
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -67754,6 +67754,7 @@ pancakoswaps.one
 pancakoswaps.sbs
 pancakqswap.com
 pancakrneswap.finance
+pancaks.com
 pancaksafswap.net
 pancaksafswap.org
 pancaksawp.com
