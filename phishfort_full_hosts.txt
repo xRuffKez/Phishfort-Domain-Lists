@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  2 11:02:19 UTC 2024
+# PhishFort Full Domain List - Thu May  2 12:03:03 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108968
+# Number of Entries: 108969
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -42395,6 +42395,7 @@
 0.0.0.0 klarna-sms.info
 0.0.0.0 klarna.ctpe.info
 0.0.0.0 klarnacasino.nl
+0.0.0.0 klarnafestival.pt
 0.0.0.0 klarnaitalysrl.welfare.it
 0.0.0.0 klarnapay.eu
 0.0.0.0 klarnapay.to
