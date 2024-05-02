@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  2 16:02:09 UTC 2024
+# PhishFort Full Domain List - Thu May  2 17:02:02 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108982
+# Number of Entries: 108986
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -11336,6 +11336,7 @@
 0.0.0.0 bezacan.online
 0.0.0.0 bezbenter.site
 0.0.0.0 bezoawblocksio.live
+0.0.0.0 bezoeknummer48912543221.info
 0.0.0.0 bezoioblocks.best
 0.0.0.0 bezos-amazon.top
 0.0.0.0 bezos.xyz
@@ -44088,6 +44089,7 @@
 0.0.0.0 leftwingpinko.com
 0.0.0.0 legacy--app-spark-fi.ipns.dweb.link
 0.0.0.0 legacy-of-escobar.com
+0.0.0.0 legacy-unibot.web.app
 0.0.0.0 legacysurgebip.xyz
 0.0.0.0 legal.paxful.com.se
 0.0.0.0 legal.paxful.support
@@ -81344,6 +81346,7 @@
 0.0.0.0 solehart.com
 0.0.0.0 solend.dev
 0.0.0.0 solend.icu
+0.0.0.0 solfiare.net
 0.0.0.0 solfinance.live
 0.0.0.0 solflane.com
 0.0.0.0 solflare-extension.io
@@ -87313,6 +87316,7 @@
 0.0.0.0 toshiesnft.live
 0.0.0.0 toshiithecats.app
 0.0.0.0 toshithecat.io
+0.0.0.0 toshithecat.one
 0.0.0.0 toskan.xyz
 0.0.0.0 total-handshake.com
 0.0.0.0 totalcoiin.com

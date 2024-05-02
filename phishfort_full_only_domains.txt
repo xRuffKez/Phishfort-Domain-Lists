@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Thu May  2 16:02:09 UTC 2024
+# PhishFort Full Domain List - Thu May  2 17:02:02 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 108982
+# Number of Entries: 108986
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -11335,6 +11335,7 @@ beyten.store
 bezacan.online
 bezbenter.site
 bezoawblocksio.live
+bezoeknummer48912543221.info
 bezoioblocks.best
 bezos-amazon.top
 bezos.xyz
@@ -44087,6 +44088,7 @@ lefredse.site
 leftwingpinko.com
 legacy--app-spark-fi.ipns.dweb.link
 legacy-of-escobar.com
+legacy-unibot.web.app
 legacysurgebip.xyz
 legal.paxful.com.se
 legal.paxful.support
@@ -81343,6 +81345,7 @@ soldrops.org
 solehart.com
 solend.dev
 solend.icu
+solfiare.net
 solfinance.live
 solflane.com
 solflare-extension.io
@@ -87312,6 +87315,7 @@ toshies.world
 toshiesnft.live
 toshiithecats.app
 toshithecat.io
+toshithecat.one
 toskan.xyz
 total-handshake.com
 totalcoiin.com
