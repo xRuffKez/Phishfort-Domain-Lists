@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  2 19:01:47 UTC 2024
+# PhishFort Full Domain List - Thu May  2 20:02:02 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 108998
+# Number of Entries: 109005
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -19322,6 +19322,7 @@
 0.0.0.0 coinlinker.org
 0.0.0.0 coinlinker.pro
 0.0.0.0 coinlinks.pro
+0.0.0.0 coinlist-subsquids.vercel.app
 0.0.0.0 coinlistx2.net
 0.0.0.0 coinlmarkertcap.us
 0.0.0.0 coinlmarketcap.com
@@ -20331,6 +20332,7 @@
 0.0.0.0 com1735835.gq
 0.0.0.0 com1865236.ga
 0.0.0.0 com188565235654846.ml
+0.0.0.0 com3.sa.com
 0.0.0.0 com56457.ml
 0.0.0.0 com723781231.online
 0.0.0.0 com763271231.gq
@@ -24490,6 +24492,7 @@
 0.0.0.0 dappsrestors.org
 0.0.0.0 dappsrevalidator.org
 0.0.0.0 dappsreveal.xyz
+0.0.0.0 dappsrpcresolver.app
 0.0.0.0 dappsrunup.com
 0.0.0.0 dappss-bridge.live
 0.0.0.0 dappss-connect.netlify.app
@@ -55380,6 +55383,7 @@
 0.0.0.0 multiwalletconnects.com
 0.0.0.0 multiwalletexplore.on.fleek.co
 0.0.0.0 multiwalletlab.com
+0.0.0.0 multiwalletresolve.vercel.app
 0.0.0.0 multiwalletsconnect.com
 0.0.0.0 multiwalletsolution.net
 0.0.0.0 multiwalletsystem.web.app
@@ -79923,6 +79927,7 @@
 0.0.0.0 sintrdantx.website
 0.0.0.0 sinucasx.blogspot.com
 0.0.0.0 sinverse.web3fast.net
+0.0.0.0 siothana.o8l.xyz
 0.0.0.0 siovitanteentnither.ml
 0.0.0.0 siphernft.live
 0.0.0.0 sippyflow.com
@@ -86646,6 +86651,7 @@
 0.0.0.0 to-stellar.org
 0.0.0.0 to.dataui.online
 0.0.0.0 to.uidista.online
+0.0.0.0 toad-swap.org
 0.0.0.0 toax.exchange
 0.0.0.0 tobkeeper.com
 0.0.0.0 tocbit.com
@@ -108261,6 +108267,7 @@
 0.0.0.0 zealry.org
 0.0.0.0 zealy-kyotoblockchain.com
 0.0.0.0 zealy-kyotoblockchain.xyz
+0.0.0.0 zealy-plena.com
 0.0.0.0 zealy.app
 0.0.0.0 zealyy.net
 0.0.0.0 zeanly.com

@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  2 19:01:47 UTC 2024
+# PhishFort Full Domain List - Thu May  2 20:02:02 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 108998
+# Number of Entries: 109005
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -19322,6 +19322,7 @@
 ||coinlinker.org^
 ||coinlinker.pro^
 ||coinlinks.pro^
+||coinlist-subsquids.vercel.app^
 ||coinlistx2.net^
 ||coinlmarkertcap.us^
 ||coinlmarketcap.com^
@@ -20331,6 +20332,7 @@
 ||com1735835.gq^
 ||com1865236.ga^
 ||com188565235654846.ml^
+||com3.sa.com^
 ||com56457.ml^
 ||com723781231.online^
 ||com763271231.gq^
@@ -24490,6 +24492,7 @@
 ||dappsrestors.org^
 ||dappsrevalidator.org^
 ||dappsreveal.xyz^
+||dappsrpcresolver.app^
 ||dappsrunup.com^
 ||dappss-bridge.live^
 ||dappss-connect.netlify.app^
@@ -55380,6 +55383,7 @@
 ||multiwalletconnects.com^
 ||multiwalletexplore.on.fleek.co^
 ||multiwalletlab.com^
+||multiwalletresolve.vercel.app^
 ||multiwalletsconnect.com^
 ||multiwalletsolution.net^
 ||multiwalletsystem.web.app^
@@ -79923,6 +79927,7 @@
 ||sintrdantx.website^
 ||sinucasx.blogspot.com^
 ||sinverse.web3fast.net^
+||siothana.o8l.xyz^
 ||siovitanteentnither.ml^
 ||siphernft.live^
 ||sippyflow.com^
@@ -86646,6 +86651,7 @@
 ||to-stellar.org^
 ||to.dataui.online^
 ||to.uidista.online^
+||toad-swap.org^
 ||toax.exchange^
 ||tobkeeper.com^
 ||tocbit.com^
@@ -108261,6 +108267,7 @@
 ||zealry.org^
 ||zealy-kyotoblockchain.com^
 ||zealy-kyotoblockchain.xyz^
+||zealy-plena.com^
 ||zealy.app^
 ||zealyy.net^
 ||zeanly.com^
