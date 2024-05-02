@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  2 16:04:59 UTC 2024
+# PhishFort Small Domain List - Thu May  2 17:04:40 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7482
+# Number of Entries: 7483
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -894,6 +894,7 @@
 ||bestchnage.com^
 ||bestweightlist.com^
 ||beta-opensea.com^
+||bezoeknummer48912543221.info^
 ||biasts.me^
 ||bibangblast.pages.dev^
 ||biblecoderesearch.org^
@@ -2907,7 +2908,6 @@
 ||ireth.rnag.site^
 ||irrahkar.com^
 ||islamiccoin.network^
-||it.support.swift-ness.com^
 ||iykapp.xyz^
 ||izumis.finance^
 ||j2gkzzu.top^
@@ -3187,6 +3187,7 @@
 ||ledgers.support^
 ||ledsgerwallet.com^
 ||legacy--app-spark-fi.ipns.dweb.link^
+||legacy-unibot.web.app^
 ||leisureglob.com^
 ||lenanet.work^
 ||lending-tree-month-1-d12f2.web.app^
@@ -3844,7 +3845,6 @@
 ||metrsamasknig.azurewebsites.net^
 ||metsafnmaske.azurewebsites.net^
 ||metsfghmaskus.azurewebsites.net^
-||metsk.app^
 ||mettaaammsk.azurewebsites.net^
 ||mettaumaskev.azurewebsites.net^
 ||mettvcmaske.azurewebsites.net^
@@ -5252,7 +5252,6 @@
 ||radardapp.org^
 ||radiocacas3.com^
 ||radix.gift^
-||raduim.app^
 ||raffleopnsea.com^
 ||raffleusdc.com^
 ||rainbow.trading^
@@ -5829,6 +5828,7 @@
 ||solaptops.vercel.app^
 ||solarmy.eu^
 ||solback.wefinex.org^
+||solfiare.net^
 ||solgift6.com^
 ||solicitudesberkley.es^
 ||sollfare.com^
@@ -6268,6 +6268,7 @@
 ||tornadocash.vn^
 ||tornova.cash^
 ||toshiithecats.app^
+||toshithecat.one^
 ||totalwine-sale.shop^
 ||tpnkeeper.com^
 ||track-web3.online^

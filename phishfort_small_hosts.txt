@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  2 16:04:59 UTC 2024
+# PhishFort Small Domain List - Thu May  2 17:04:40 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7482
+# Number of Entries: 7483
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -894,6 +894,7 @@
 0.0.0.0 bestchnage.com
 0.0.0.0 bestweightlist.com
 0.0.0.0 beta-opensea.com
+0.0.0.0 bezoeknummer48912543221.info
 0.0.0.0 biasts.me
 0.0.0.0 bibangblast.pages.dev
 0.0.0.0 biblecoderesearch.org
@@ -2907,7 +2908,6 @@
 0.0.0.0 ireth.rnag.site
 0.0.0.0 irrahkar.com
 0.0.0.0 islamiccoin.network
-0.0.0.0 it.support.swift-ness.com
 0.0.0.0 iykapp.xyz
 0.0.0.0 izumis.finance
 0.0.0.0 j2gkzzu.top
@@ -3187,6 +3187,7 @@
 0.0.0.0 ledgers.support
 0.0.0.0 ledsgerwallet.com
 0.0.0.0 legacy--app-spark-fi.ipns.dweb.link
+0.0.0.0 legacy-unibot.web.app
 0.0.0.0 leisureglob.com
 0.0.0.0 lenanet.work
 0.0.0.0 lending-tree-month-1-d12f2.web.app
@@ -3844,7 +3845,6 @@
 0.0.0.0 metrsamasknig.azurewebsites.net
 0.0.0.0 metsafnmaske.azurewebsites.net
 0.0.0.0 metsfghmaskus.azurewebsites.net
-0.0.0.0 metsk.app
 0.0.0.0 mettaaammsk.azurewebsites.net
 0.0.0.0 mettaumaskev.azurewebsites.net
 0.0.0.0 mettvcmaske.azurewebsites.net
@@ -5252,7 +5252,6 @@
 0.0.0.0 radardapp.org
 0.0.0.0 radiocacas3.com
 0.0.0.0 radix.gift
-0.0.0.0 raduim.app
 0.0.0.0 raffleopnsea.com
 0.0.0.0 raffleusdc.com
 0.0.0.0 rainbow.trading
@@ -5829,6 +5828,7 @@
 0.0.0.0 solaptops.vercel.app
 0.0.0.0 solarmy.eu
 0.0.0.0 solback.wefinex.org
+0.0.0.0 solfiare.net
 0.0.0.0 solgift6.com
 0.0.0.0 solicitudesberkley.es
 0.0.0.0 sollfare.com
@@ -6268,6 +6268,7 @@
 0.0.0.0 tornadocash.vn
 0.0.0.0 tornova.cash
 0.0.0.0 toshiithecats.app
+0.0.0.0 toshithecat.one
 0.0.0.0 totalwine-sale.shop
 0.0.0.0 tpnkeeper.com
 0.0.0.0 track-web3.online
