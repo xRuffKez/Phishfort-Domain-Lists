@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Thu May  2 15:05:24 UTC 2024
+# PhishFort Small Domain List - Thu May  2 16:04:59 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7481
+# Number of Entries: 7482
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -4725,6 +4725,7 @@ pancakeswpdrop13.vercel.app
 pancakeswwap.com
 pancakev4swap.com
 pancakewsap-rewads.com
+pancaks.com
 pancaksewaq-finance.com
 pancakswaip.com
 pancakswap.fi

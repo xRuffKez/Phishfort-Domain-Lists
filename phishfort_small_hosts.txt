@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  2 15:05:24 UTC 2024
+# PhishFort Small Domain List - Thu May  2 16:04:59 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7481
+# Number of Entries: 7482
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -4726,6 +4726,7 @@
 0.0.0.0 pancakeswwap.com
 0.0.0.0 pancakev4swap.com
 0.0.0.0 pancakewsap-rewads.com
+0.0.0.0 pancaks.com
 0.0.0.0 pancaksewaq-finance.com
 0.0.0.0 pancakswaip.com
 0.0.0.0 pancakswap.fi
