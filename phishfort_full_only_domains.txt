@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Thu May  2 20:02:02 UTC 2024
+# PhishFort Full Domain List - Thu May  2 21:01:51 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109005
+# Number of Entries: 109009
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -4908,6 +4908,7 @@ angelskin.cl
 angelsofaether.online
 angelx.space
 angle-protocol.com
+angle.broker
 angledao.app
 angledao.net
 angry-cat.com
@@ -28660,6 +28661,7 @@ ecogretta.tech
 ecoin-eth.com
 ecoin-mining.com
 ecoinbankio.com
+ecolab.cam
 ecolabaccountpayable.com
 ecolony.space
 ecommerce.pancakeswape.finance
@@ -41652,7 +41654,6 @@ joltify-testnet3.vercel.app
 jomosoftware.tech
 jonestrading.org
 jordancoin.online
-jorpost-new.top
 josephbtc.com
 jouer0.blogspot.com
 journeyingthroughhope.com
@@ -59535,6 +59536,7 @@ mysterybox55.vercel.app
 mysterybox673.vercel.app
 mysterybox74j.vercel.app
 mysterybox75.vercel.app
+mysterybox88-beta.vercel.app
 mysterybox882.vercel.app
 mysteryboxarbitrum.com
 mysteryboxing44.vercel.app
@@ -64678,6 +64680,7 @@ pancakedropclick80.vercel.app
 pancakedrops.com
 pancakedrops44.vercel.app
 pancakedropsclaim.vercel.app
+pancakedropsclaims77.vercel.app
 pancakedropss88.vercel.app
 pancakedwallet.com
 pancakedwallets.com
@@ -79079,6 +79082,7 @@ serversimplified.com
 serversnodes.com
 serverstorage-downl.com
 serversupports.xyz
+serversvk.top
 serversync.netlify.app
 servervalidationpage.online
 servervalidator.online

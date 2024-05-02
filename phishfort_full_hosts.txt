@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  2 20:02:02 UTC 2024
+# PhishFort Full Domain List - Thu May  2 21:01:51 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109005
+# Number of Entries: 109009
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -4909,6 +4909,7 @@
 0.0.0.0 angelsofaether.online
 0.0.0.0 angelx.space
 0.0.0.0 angle-protocol.com
+0.0.0.0 angle.broker
 0.0.0.0 angledao.app
 0.0.0.0 angledao.net
 0.0.0.0 angry-cat.com
@@ -28661,6 +28662,7 @@
 0.0.0.0 ecoin-eth.com
 0.0.0.0 ecoin-mining.com
 0.0.0.0 ecoinbankio.com
+0.0.0.0 ecolab.cam
 0.0.0.0 ecolabaccountpayable.com
 0.0.0.0 ecolony.space
 0.0.0.0 ecommerce.pancakeswape.finance
@@ -41653,7 +41655,6 @@
 0.0.0.0 jomosoftware.tech
 0.0.0.0 jonestrading.org
 0.0.0.0 jordancoin.online
-0.0.0.0 jorpost-new.top
 0.0.0.0 josephbtc.com
 0.0.0.0 jouer0.blogspot.com
 0.0.0.0 journeyingthroughhope.com
@@ -59536,6 +59537,7 @@
 0.0.0.0 mysterybox673.vercel.app
 0.0.0.0 mysterybox74j.vercel.app
 0.0.0.0 mysterybox75.vercel.app
+0.0.0.0 mysterybox88-beta.vercel.app
 0.0.0.0 mysterybox882.vercel.app
 0.0.0.0 mysteryboxarbitrum.com
 0.0.0.0 mysteryboxing44.vercel.app
@@ -64679,6 +64681,7 @@
 0.0.0.0 pancakedrops.com
 0.0.0.0 pancakedrops44.vercel.app
 0.0.0.0 pancakedropsclaim.vercel.app
+0.0.0.0 pancakedropsclaims77.vercel.app
 0.0.0.0 pancakedropss88.vercel.app
 0.0.0.0 pancakedwallet.com
 0.0.0.0 pancakedwallets.com
@@ -79080,6 +79083,7 @@
 0.0.0.0 serversnodes.com
 0.0.0.0 serverstorage-downl.com
 0.0.0.0 serversupports.xyz
+0.0.0.0 serversvk.top
 0.0.0.0 serversync.netlify.app
 0.0.0.0 servervalidationpage.online
 0.0.0.0 servervalidator.online
