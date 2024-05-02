@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  2 21:01:51 UTC 2024
+# PhishFort Full Domain List - Thu May  2 22:02:08 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109009
+# Number of Entries: 109014
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -19735,6 +19735,7 @@
 0.0.0.0 coinsvmarketcap.us
 0.0.0.0 coinsvortexnft.com
 0.0.0.0 coinswallet.info
+0.0.0.0 coinswalletsystem.web.app
 0.0.0.0 coinswgecko.link
 0.0.0.0 coinswiftresolve.web.app
 0.0.0.0 coinswp.exchange
@@ -31343,6 +31344,7 @@
 0.0.0.0 ethertake.org
 0.0.0.0 ethertoken.online
 0.0.0.0 ethertw.com
+0.0.0.0 etheruem.site
 0.0.0.0 etherugases.xyz
 0.0.0.0 etherum.giveaway-coinbase.com
 0.0.0.0 etherume.io
@@ -59554,6 +59556,7 @@
 0.0.0.0 mysteryclicksclaim1.vercel.app
 0.0.0.0 mysteryclicksnft.vercel.app
 0.0.0.0 mysterydropnft.com
+0.0.0.0 mysterynft84.vercel.app
 0.0.0.0 mysterynfts.vercel.app
 0.0.0.0 mysteryobox.vercel.app
 0.0.0.0 mysteryopn.vercel.app
@@ -78854,6 +78857,7 @@
 0.0.0.0 seediify.com
 0.0.0.0 seediify.site
 0.0.0.0 seedirfy.org
+0.0.0.0 seeditfy.fund
 0.0.0.0 seedjfy-fund.com
 0.0.0.0 seedlfy-fund.com
 0.0.0.0 seedlfy-fund.nl
@@ -88326,6 +88330,7 @@
 0.0.0.0 trusttwallet.duckdns.org
 0.0.0.0 trustval.live
 0.0.0.0 trustvips.com
+0.0.0.0 trustvvallet-drawgift.com
 0.0.0.0 trustwalet.space
 0.0.0.0 trustwalet.vip
 0.0.0.0 trustwaletru.com

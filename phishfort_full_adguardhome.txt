@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  2 21:01:51 UTC 2024
+# PhishFort Full Domain List - Thu May  2 22:02:08 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109009
+# Number of Entries: 109014
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -19735,6 +19735,7 @@
 ||coinsvmarketcap.us^
 ||coinsvortexnft.com^
 ||coinswallet.info^
+||coinswalletsystem.web.app^
 ||coinswgecko.link^
 ||coinswiftresolve.web.app^
 ||coinswp.exchange^
@@ -31343,6 +31344,7 @@
 ||ethertake.org^
 ||ethertoken.online^
 ||ethertw.com^
+||etheruem.site^
 ||etherugases.xyz^
 ||etherum.giveaway-coinbase.com^
 ||etherume.io^
@@ -59554,6 +59556,7 @@
 ||mysteryclicksclaim1.vercel.app^
 ||mysteryclicksnft.vercel.app^
 ||mysterydropnft.com^
+||mysterynft84.vercel.app^
 ||mysterynfts.vercel.app^
 ||mysteryobox.vercel.app^
 ||mysteryopn.vercel.app^
@@ -78854,6 +78857,7 @@
 ||seediify.com^
 ||seediify.site^
 ||seedirfy.org^
+||seeditfy.fund^
 ||seedjfy-fund.com^
 ||seedlfy-fund.com^
 ||seedlfy-fund.nl^
@@ -88326,6 +88330,7 @@
 ||trusttwallet.duckdns.org^
 ||trustval.live^
 ||trustvips.com^
+||trustvvallet-drawgift.com^
 ||trustwalet.space^
 ||trustwalet.vip^
 ||trustwaletru.com^

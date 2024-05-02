@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Thu May  2 21:01:51 UTC 2024
+# PhishFort Full Domain List - Thu May  2 22:02:08 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109009
+# Number of Entries: 109014
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -19734,6 +19734,7 @@ coinsvex.com
 coinsvmarketcap.us
 coinsvortexnft.com
 coinswallet.info
+coinswalletsystem.web.app
 coinswgecko.link
 coinswiftresolve.web.app
 coinswp.exchange
@@ -31342,6 +31343,7 @@ etherswaps.xyz
 ethertake.org
 ethertoken.online
 ethertw.com
+etheruem.site
 etherugases.xyz
 etherum.giveaway-coinbase.com
 etherume.io
@@ -59553,6 +59555,7 @@ mysteryclicks81.vercel.app
 mysteryclicksclaim1.vercel.app
 mysteryclicksnft.vercel.app
 mysterydropnft.com
+mysterynft84.vercel.app
 mysterynfts.vercel.app
 mysteryobox.vercel.app
 mysteryopn.vercel.app
@@ -78853,6 +78856,7 @@ seedifypro.com
 seediify.com
 seediify.site
 seedirfy.org
+seeditfy.fund
 seedjfy-fund.com
 seedlfy-fund.com
 seedlfy-fund.nl
@@ -88325,6 +88329,7 @@ trusttpad.top
 trusttwallet.duckdns.org
 trustval.live
 trustvips.com
+trustvvallet-drawgift.com
 trustwalet.space
 trustwalet.vip
 trustwaletru.com
