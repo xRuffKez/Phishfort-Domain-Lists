@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Fri May  3 03:02:04 UTC 2024
+# PhishFort Full Domain List - Fri May  3 04:02:26 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109044
+# Number of Entries: 109074
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3069,7 +3069,6 @@ agoda-hk-booking.com
 agoda-hotel.com
 agoda-hotelreservation.top
 agoda-info.com
-agoda-japan.co
 agoda-jp.cc
 agoda-jp.co
 agoda-jp.com
@@ -3093,6 +3092,7 @@ agoda-partner.store
 agoda-pools.com
 agoda-promotion.com
 agoda-purple.com
+agoda-vip.cc
 agoda-vn.com
 agoda-vn.vip
 agoda.ba
@@ -5044,6 +5044,7 @@ ao-panda.com
 aocl-bd.com
 aoconn.co
 aoi.freemint-vip.com
+aojz.cc
 aoki-hack.psyop.org
 aonchange.com
 aoneseller.com
@@ -5332,6 +5333,7 @@ apesxmaxs.online
 apetarminal.pro
 apeteirminal.app
 apeterminal.link
+apeterminal.lol
 apetoken-usser.online
 apetokenrewards.org
 apeunverse.xyz
@@ -16322,6 +16324,7 @@ chainlink.bond
 chainlink.bz
 chainlink.click
 chainlink.codes
+chainlink.com.co
 chainlink.gallery
 chainlink.gift
 chainlink.gifts
@@ -17494,6 +17497,7 @@ claim.circlestable.org
 claim.circleusd.io
 claim.circleusds.net
 claim.circleweekly.org
+claim.clintex.shop
 claim.coinappconnect.live
 claim.coinappprotocol.live
 claim.coinbabydoge.org
@@ -28030,6 +28034,7 @@ dropcoins.club
 dropcoln.club
 dropcryptogtp.top
 dropcryptos.top
+dropdao-pro.web.app
 dropdao.io
 dropdoodles.com
 dropdot.info
@@ -31892,6 +31897,7 @@ ethrk.top
 ethrl.top
 ethrm.top
 ethrn.top
+ethrnn.com
 ethroscar.site
 ethrp.top
 ethrq.top
@@ -38323,6 +38329,7 @@ helixmixer.io
 helixrecords.nft-premint.com
 helkin-promogive.com
 hell.spottytech.com
+hello-reward.com
 hello-world-sweet-poetry-ebb0.vpnserver-vps.workers.dev
 hello.privatemint.space
 hello.web3-airdrop.net
@@ -40860,6 +40867,7 @@ investment-oi.com
 investment2x.online
 investmentdoubler.online
 investmentfundsdirectgroup.com
+investments.bitsol.org.pk
 investmentworld.site
 investmetlife.com
 investmicro.net
@@ -41066,6 +41074,7 @@ irozindia.suth.in
 irrahkar.com
 irs.us.irssm.co
 is-boredapeyachtclub.com
+is9dvm.pro
 isabellanoviyaonlinetechblog.blogspot.com
 isecurecoinbase.live
 isecuredapps.net
@@ -45356,6 +45365,7 @@ lnvisible-friends.space
 lnvsiblefriends.io
 lo0ksrare.com
 lo0ksrare.org
+lo1u.pro
 loaave.xyz
 loaclbitcoins.com
 loaclbitcoins.net
@@ -60909,6 +60919,7 @@ nilstiers.com
 nim-claim.network
 nimbtabriu.tk
 nimiq.su
+nimnetwork-gateways.com
 ninja-dao.art
 ninja-dao.nft-premint.com
 ninja-dao.top
@@ -61516,6 +61527,7 @@ nv3cjcrlmqdyejc.www.beta-openselling.pancakeswasap.one
 nvavid.com
 nvdacourse.com
 nvenergy.customersupports.network
+nvfmr.cc
 nvidia-bios-editor.com
 nvidia-bios-editor.ru
 nvidia-control-panel-app.com
@@ -62308,6 +62320,7 @@ onlyappsauthenpoint.online
 onlydice.xyz
 onlyinnofixboard.live
 onlyintermeritapps.netlify.app
+onlylegitbicomigrationport.com
 onlymigrator-access.online
 onlysaitachain.migration.rxi.app
 onlywcappsprojects.netlify.app
@@ -63006,6 +63019,7 @@ openseacatch.com
 openseacentr.com
 openseachat.online
 openseaciaim.com
+openseaclaim43.vercel.app
 openseaclaimnfts.com
 openseaclaims.io
 openseaco.com
@@ -71299,6 +71313,7 @@ poikastarter.org
 poincaceswep-trade.com
 poincakesvvip.finance
 poinexwork.com
+point-jup.web.app
 pointconnect.live
 pointconnect.site
 pointosleek.com
@@ -74462,9 +74477,11 @@ qzukiofficial.com
 r-oketpulswapcom.space
 r-skymavis.xyz
 r.rocketspool.site
+r02bren.cc
 r0ninvallet.godaddysites.com
 r114.usdt6188.top
 r125.usdt6188.top
+r1y4t.pro
 r20.rs6.net
 r3born.cc
 r3born.shop
@@ -80219,6 +80236,7 @@ sleeplessai.dev
 sleeplessai.presale-ico.org
 sleepyraffle.live
 sleratlas.com
+slerfdrop.net
 slerflabs.com
 slerfrewards.net
 slgnup-dymension.com
@@ -80243,6 +80261,7 @@ slotie-mint.app
 slowniicnhcredityuiobenresolvnvderlast.site
 sloyalfarm.com
 slprotocol.live
+slrfdrop.net
 slrongblockl.com
 sltarkdrop.site
 sltarkdrop.website
@@ -81383,6 +81402,7 @@ solascan.net
 solback.wefinex.org
 solblaze.cx
 solcoin.online
+solcrabsmint2.vercel.app
 soldiernodecorrection.com
 soldrop.pages.dev
 soldrops.org
@@ -81559,6 +81579,7 @@ solvetechdapp.com
 solvetechsdapps.com
 solvewalletconectsproblems.com
 solvewalletissue.site
+solvprotocoi.com
 solwatchesnft.info
 solwl-saga.web.app
 solxmasevent.com
@@ -82537,6 +82558,7 @@ stargateflnance.com
 stargateflnance.fun
 stargategold.trading
 stargatepass.org
+stargateprotcols.live
 stargaterewards.com
 stargatesfinance.org
 stargatesnetwork.com
@@ -85443,6 +85465,7 @@ tenset.pro
 tenset.top
 tensetverification.com
 tensolana.web.app
+tensor-alpha.web.app
 tensor-samurai.io
 tensor-trade-git-tree-tensor.vercel.app
 tensor-trade.netlify.app
@@ -90275,6 +90298,7 @@ unwieldyprevailingtexts--edgardomartine2.repl.co
 unwrapnftgift.com
 unxdnft.live
 unxswap.com
+uoda5m.cc
 uogyee.com
 uoni-sowap.com
 uoniswap.com
@@ -91122,7 +91146,9 @@ v53xw-sqaaa-aaaad-qf42a-cai.icp0.io
 v5multibridgefixconnect.com
 v5myetherwallet.com
 v6.ethdifi20cy.com
+v6hd3.pro
 v70bowv4vx4adzc.shared-www.mx2.pancakeswape.finance
+v9d8w.pro
 v9si.cc
 va4zuzxs1soe7zo.nautilusoutlook.pancakeswape.finance
 va4zuzxs1soe7zo.www.nautiluswww.outlook.pancakeswape.finance
@@ -95479,6 +95505,7 @@ wallstreetmemes.space
 wallstreetmemes.website
 wallstreetsbets.xyz
 wallstrememe.com
+wallstretmemes.site
 wallstretmems.com
 wallstrewards.site
 wallstrmem.com
@@ -98192,6 +98219,8 @@ www.agoda-hk.com
 www.agoda-jp.net
 www.agoda-org.com
 www.agoda-tours.com
+www.agoda-vip.cc
+www.agoda-vip.com
 www.agoda007.cn
 www.agoda8.com
 www.agodaa-booking.com
@@ -107642,6 +107671,7 @@ xqjs.gdborneol.com
 xquietth.xyz
 xr-claims.top
 xr7j5v.pro
+xrb3.pro
 xreators.crew3.xyz
 xres.org
 xrimerfa.com

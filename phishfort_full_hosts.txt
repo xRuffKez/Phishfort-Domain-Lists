@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May  3 03:02:04 UTC 2024
+# PhishFort Full Domain List - Fri May  3 04:02:26 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109044
+# Number of Entries: 109074
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3070,7 +3070,6 @@
 0.0.0.0 agoda-hotel.com
 0.0.0.0 agoda-hotelreservation.top
 0.0.0.0 agoda-info.com
-0.0.0.0 agoda-japan.co
 0.0.0.0 agoda-jp.cc
 0.0.0.0 agoda-jp.co
 0.0.0.0 agoda-jp.com
@@ -3094,6 +3093,7 @@
 0.0.0.0 agoda-pools.com
 0.0.0.0 agoda-promotion.com
 0.0.0.0 agoda-purple.com
+0.0.0.0 agoda-vip.cc
 0.0.0.0 agoda-vn.com
 0.0.0.0 agoda-vn.vip
 0.0.0.0 agoda.ba
@@ -5045,6 +5045,7 @@
 0.0.0.0 aocl-bd.com
 0.0.0.0 aoconn.co
 0.0.0.0 aoi.freemint-vip.com
+0.0.0.0 aojz.cc
 0.0.0.0 aoki-hack.psyop.org
 0.0.0.0 aonchange.com
 0.0.0.0 aoneseller.com
@@ -5333,6 +5334,7 @@
 0.0.0.0 apetarminal.pro
 0.0.0.0 apeteirminal.app
 0.0.0.0 apeterminal.link
+0.0.0.0 apeterminal.lol
 0.0.0.0 apetoken-usser.online
 0.0.0.0 apetokenrewards.org
 0.0.0.0 apeunverse.xyz
@@ -16323,6 +16325,7 @@
 0.0.0.0 chainlink.bz
 0.0.0.0 chainlink.click
 0.0.0.0 chainlink.codes
+0.0.0.0 chainlink.com.co
 0.0.0.0 chainlink.gallery
 0.0.0.0 chainlink.gift
 0.0.0.0 chainlink.gifts
@@ -17495,6 +17498,7 @@
 0.0.0.0 claim.circleusd.io
 0.0.0.0 claim.circleusds.net
 0.0.0.0 claim.circleweekly.org
+0.0.0.0 claim.clintex.shop
 0.0.0.0 claim.coinappconnect.live
 0.0.0.0 claim.coinappprotocol.live
 0.0.0.0 claim.coinbabydoge.org
@@ -28031,6 +28035,7 @@
 0.0.0.0 dropcoln.club
 0.0.0.0 dropcryptogtp.top
 0.0.0.0 dropcryptos.top
+0.0.0.0 dropdao-pro.web.app
 0.0.0.0 dropdao.io
 0.0.0.0 dropdoodles.com
 0.0.0.0 dropdot.info
@@ -31893,6 +31898,7 @@
 0.0.0.0 ethrl.top
 0.0.0.0 ethrm.top
 0.0.0.0 ethrn.top
+0.0.0.0 ethrnn.com
 0.0.0.0 ethroscar.site
 0.0.0.0 ethrp.top
 0.0.0.0 ethrq.top
@@ -38324,6 +38330,7 @@
 0.0.0.0 helixrecords.nft-premint.com
 0.0.0.0 helkin-promogive.com
 0.0.0.0 hell.spottytech.com
+0.0.0.0 hello-reward.com
 0.0.0.0 hello-world-sweet-poetry-ebb0.vpnserver-vps.workers.dev
 0.0.0.0 hello.privatemint.space
 0.0.0.0 hello.web3-airdrop.net
@@ -40861,6 +40868,7 @@
 0.0.0.0 investment2x.online
 0.0.0.0 investmentdoubler.online
 0.0.0.0 investmentfundsdirectgroup.com
+0.0.0.0 investments.bitsol.org.pk
 0.0.0.0 investmentworld.site
 0.0.0.0 investmetlife.com
 0.0.0.0 investmicro.net
@@ -41067,6 +41075,7 @@
 0.0.0.0 irrahkar.com
 0.0.0.0 irs.us.irssm.co
 0.0.0.0 is-boredapeyachtclub.com
+0.0.0.0 is9dvm.pro
 0.0.0.0 isabellanoviyaonlinetechblog.blogspot.com
 0.0.0.0 isecurecoinbase.live
 0.0.0.0 isecuredapps.net
@@ -45357,6 +45366,7 @@
 0.0.0.0 lnvsiblefriends.io
 0.0.0.0 lo0ksrare.com
 0.0.0.0 lo0ksrare.org
+0.0.0.0 lo1u.pro
 0.0.0.0 loaave.xyz
 0.0.0.0 loaclbitcoins.com
 0.0.0.0 loaclbitcoins.net
@@ -60910,6 +60920,7 @@
 0.0.0.0 nim-claim.network
 0.0.0.0 nimbtabriu.tk
 0.0.0.0 nimiq.su
+0.0.0.0 nimnetwork-gateways.com
 0.0.0.0 ninja-dao.art
 0.0.0.0 ninja-dao.nft-premint.com
 0.0.0.0 ninja-dao.top
@@ -61517,6 +61528,7 @@
 0.0.0.0 nvavid.com
 0.0.0.0 nvdacourse.com
 0.0.0.0 nvenergy.customersupports.network
+0.0.0.0 nvfmr.cc
 0.0.0.0 nvidia-bios-editor.com
 0.0.0.0 nvidia-bios-editor.ru
 0.0.0.0 nvidia-control-panel-app.com
@@ -62309,6 +62321,7 @@
 0.0.0.0 onlydice.xyz
 0.0.0.0 onlyinnofixboard.live
 0.0.0.0 onlyintermeritapps.netlify.app
+0.0.0.0 onlylegitbicomigrationport.com
 0.0.0.0 onlymigrator-access.online
 0.0.0.0 onlysaitachain.migration.rxi.app
 0.0.0.0 onlywcappsprojects.netlify.app
@@ -63007,6 +63020,7 @@
 0.0.0.0 openseacentr.com
 0.0.0.0 openseachat.online
 0.0.0.0 openseaciaim.com
+0.0.0.0 openseaclaim43.vercel.app
 0.0.0.0 openseaclaimnfts.com
 0.0.0.0 openseaclaims.io
 0.0.0.0 openseaco.com
@@ -71300,6 +71314,7 @@
 0.0.0.0 poincaceswep-trade.com
 0.0.0.0 poincakesvvip.finance
 0.0.0.0 poinexwork.com
+0.0.0.0 point-jup.web.app
 0.0.0.0 pointconnect.live
 0.0.0.0 pointconnect.site
 0.0.0.0 pointosleek.com
@@ -74463,9 +74478,11 @@
 0.0.0.0 r-oketpulswapcom.space
 0.0.0.0 r-skymavis.xyz
 0.0.0.0 r.rocketspool.site
+0.0.0.0 r02bren.cc
 0.0.0.0 r0ninvallet.godaddysites.com
 0.0.0.0 r114.usdt6188.top
 0.0.0.0 r125.usdt6188.top
+0.0.0.0 r1y4t.pro
 0.0.0.0 r20.rs6.net
 0.0.0.0 r3born.cc
 0.0.0.0 r3born.shop
@@ -80220,6 +80237,7 @@
 0.0.0.0 sleeplessai.presale-ico.org
 0.0.0.0 sleepyraffle.live
 0.0.0.0 sleratlas.com
+0.0.0.0 slerfdrop.net
 0.0.0.0 slerflabs.com
 0.0.0.0 slerfrewards.net
 0.0.0.0 slgnup-dymension.com
@@ -80244,6 +80262,7 @@
 0.0.0.0 slowniicnhcredityuiobenresolvnvderlast.site
 0.0.0.0 sloyalfarm.com
 0.0.0.0 slprotocol.live
+0.0.0.0 slrfdrop.net
 0.0.0.0 slrongblockl.com
 0.0.0.0 sltarkdrop.site
 0.0.0.0 sltarkdrop.website
@@ -81384,6 +81403,7 @@
 0.0.0.0 solback.wefinex.org
 0.0.0.0 solblaze.cx
 0.0.0.0 solcoin.online
+0.0.0.0 solcrabsmint2.vercel.app
 0.0.0.0 soldiernodecorrection.com
 0.0.0.0 soldrop.pages.dev
 0.0.0.0 soldrops.org
@@ -81560,6 +81580,7 @@
 0.0.0.0 solvetechsdapps.com
 0.0.0.0 solvewalletconectsproblems.com
 0.0.0.0 solvewalletissue.site
+0.0.0.0 solvprotocoi.com
 0.0.0.0 solwatchesnft.info
 0.0.0.0 solwl-saga.web.app
 0.0.0.0 solxmasevent.com
@@ -82538,6 +82559,7 @@
 0.0.0.0 stargateflnance.fun
 0.0.0.0 stargategold.trading
 0.0.0.0 stargatepass.org
+0.0.0.0 stargateprotcols.live
 0.0.0.0 stargaterewards.com
 0.0.0.0 stargatesfinance.org
 0.0.0.0 stargatesnetwork.com
@@ -85444,6 +85466,7 @@
 0.0.0.0 tenset.top
 0.0.0.0 tensetverification.com
 0.0.0.0 tensolana.web.app
+0.0.0.0 tensor-alpha.web.app
 0.0.0.0 tensor-samurai.io
 0.0.0.0 tensor-trade-git-tree-tensor.vercel.app
 0.0.0.0 tensor-trade.netlify.app
@@ -90276,6 +90299,7 @@
 0.0.0.0 unwrapnftgift.com
 0.0.0.0 unxdnft.live
 0.0.0.0 unxswap.com
+0.0.0.0 uoda5m.cc
 0.0.0.0 uogyee.com
 0.0.0.0 uoni-sowap.com
 0.0.0.0 uoniswap.com
@@ -91123,7 +91147,9 @@
 0.0.0.0 v5multibridgefixconnect.com
 0.0.0.0 v5myetherwallet.com
 0.0.0.0 v6.ethdifi20cy.com
+0.0.0.0 v6hd3.pro
 0.0.0.0 v70bowv4vx4adzc.shared-www.mx2.pancakeswape.finance
+0.0.0.0 v9d8w.pro
 0.0.0.0 v9si.cc
 0.0.0.0 va4zuzxs1soe7zo.nautilusoutlook.pancakeswape.finance
 0.0.0.0 va4zuzxs1soe7zo.www.nautiluswww.outlook.pancakeswape.finance
@@ -95480,6 +95506,7 @@
 0.0.0.0 wallstreetmemes.website
 0.0.0.0 wallstreetsbets.xyz
 0.0.0.0 wallstrememe.com
+0.0.0.0 wallstretmemes.site
 0.0.0.0 wallstretmems.com
 0.0.0.0 wallstrewards.site
 0.0.0.0 wallstrmem.com
@@ -98193,6 +98220,8 @@
 0.0.0.0 www.agoda-jp.net
 0.0.0.0 www.agoda-org.com
 0.0.0.0 www.agoda-tours.com
+0.0.0.0 www.agoda-vip.cc
+0.0.0.0 www.agoda-vip.com
 0.0.0.0 www.agoda007.cn
 0.0.0.0 www.agoda8.com
 0.0.0.0 www.agodaa-booking.com
@@ -107643,6 +107672,7 @@
 0.0.0.0 xquietth.xyz
 0.0.0.0 xr-claims.top
 0.0.0.0 xr7j5v.pro
+0.0.0.0 xrb3.pro
 0.0.0.0 xreators.crew3.xyz
 0.0.0.0 xres.org
 0.0.0.0 xrimerfa.com
