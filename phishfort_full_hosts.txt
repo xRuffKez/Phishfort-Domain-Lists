@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May  3 18:02:12 UTC 2024
+# PhishFort Full Domain List - Fri May  3 19:01:48 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109089
+# Number of Entries: 109091
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -22450,6 +22450,7 @@
 0.0.0.0 cryptoundeeds.com
 0.0.0.0 cryptounion-trades.co
 0.0.0.0 cryptousd.host
+0.0.0.0 cryptousdts.com
 0.0.0.0 cryptovalidator.live
 0.0.0.0 cryptovalidator.org
 0.0.0.0 cryptoverse-token.sale
@@ -35904,6 +35905,7 @@
 0.0.0.0 gashawk.xyz
 0.0.0.0 gaslinessocalgas.com
 0.0.0.0 gasoline.freemiting.cyou
+0.0.0.0 gasp-web3.vercel.app
 0.0.0.0 gatcoin.in
 0.0.0.0 gatcoins.io
 0.0.0.0 gate-io-gate.org

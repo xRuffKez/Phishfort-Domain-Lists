@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Fri May  3 18:02:12 UTC 2024
+# PhishFort Full Domain List - Fri May  3 19:01:48 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109089
+# Number of Entries: 109091
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -22449,6 +22449,7 @@ cryptounbinaryexpert.com
 cryptoundeeds.com
 cryptounion-trades.co
 cryptousd.host
+cryptousdts.com
 cryptovalidator.live
 cryptovalidator.org
 cryptoverse-token.sale
@@ -35903,6 +35904,7 @@ gasfeecal.com
 gashawk.xyz
 gaslinessocalgas.com
 gasoline.freemiting.cyou
+gasp-web3.vercel.app
 gatcoin.in
 gatcoins.io
 gate-io-gate.org
