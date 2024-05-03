@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May  3 03:06:04 UTC 2024
+# PhishFort Small Domain List - Fri May  3 04:06:41 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7523
+# Number of Entries: 7551
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -193,6 +193,7 @@
 ||agoda-offer11279.com^
 ||agoda-offer18239.com^
 ||agoda-promotion.com^
+||agoda-vip.cc^
 ||agoda.config-guest178.com^
 ||agoda.confirm139233.com^
 ||agoda.extra-checks.com^
@@ -459,6 +460,7 @@
 ||animalias.events^
 ||anisovil.pro^
 ||ankr.world^
+||aojz.cc^
 ||ape-pylh.network^
 ||apechainreload.com^
 ||apecoin-aidrop-claim.codeanyapp.com^
@@ -475,6 +477,7 @@
 ||apeswap.us^
 ||apetarminal.pro^
 ||apeterminal.link^
+||apeterminal.lol^
 ||apexexchenge.com^
 ||api-collabland.land^
 ||api-collabland.web.app^
@@ -1283,6 +1286,7 @@
 ||chaingev2-airdrop.pages.dev^
 ||chainlabsv2.org^
 ||chainlink-network.app^
+||chainlink.com.co^
 ||chainlink.us.to^
 ||chainlinkairdropweb3.org^
 ||chainlinklabsv2.com^
@@ -1411,6 +1415,7 @@
 ||claim.bitetfs.net^
 ||claim.celatisx.top^
 ||claim.chainngpt.com^
+||claim.clintex.shop^
 ||claim.coingecko.news^
 ||claim.dotfinance.ltd^
 ||claim.dotfinance.solutions^
@@ -2046,6 +2051,7 @@
 ||drop-ether.fi^
 ||drop-mogcoin.com^
 ||drop.lfgjup.xyz^
+||dropdao-pro.web.app^
 ||dropnibiru.link^
 ||drops-satoshivm.com^
 ||dropusdt.com^
@@ -2252,6 +2258,7 @@
 ||ethorv.com^
 ||ethpeg.com^
 ||ethrefund.xyz^
+||ethrnn.com^
 ||ethswaps.org^
 ||ethtoken-defi.com^
 ||ethuegas.com^
@@ -2723,6 +2730,7 @@
 ||helio-ravedrop.web.app^
 ||helixap.com.ai-web3.cfd^
 ||helixapp.com.web3-connect.pw^
+||hello-reward.com^
 ||hellothisisatest.com^
 ||help-407-etr.com^
 ||help-avalanche.site^
@@ -2913,6 +2921,7 @@
 ||intraconline-instantly.live^
 ||inugonz.com^
 ||invest-destreams.web.app^
+||investments.bitsol.org.pk^
 ||invite-blaster.com^
 ||invite-pacmoon.xyz^
 ||invite-pepe.com^
@@ -2924,6 +2933,7 @@
 ||iqz2.sa.com^
 ||ireth.rnag.site^
 ||irrahkar.com^
+||is9dvm.pro^
 ||islamiccoin.network^
 ||iykapp.xyz^
 ||izumis.finance^
@@ -3318,6 +3328,7 @@
 ||lntrac-funds-instnat.digital^
 ||lntracwebfunds-province.agccaiwo.life^
 ||lntwebservice-lnter.f7aanm6hh4e.life^
+||lo1u.pro^
 ||localethereum.xn--node^
 ||locinews.com^
 ||locopepecoin.com^
@@ -4328,6 +4339,7 @@
 ||nibiry-app.top^
 ||niburufi-registers-verify.vercel.app^
 ||nim-claim.network^
+||nimnetwork-gateways.com^
 ||nitro-smartfusionglobeverse.pro^
 ||njkbhjghf.pages.dev^
 ||njmvdu.pro^
@@ -4372,6 +4384,7 @@
 ||nusukroadshow.com^
 ||nvdacourse.com^
 ||nvenergy.customersupports.network^
+||nvfmr.cc^
 ||nvidia.gives^
 ||nvidiagroot.tech^
 ||nvidiaint.shop^
@@ -4442,6 +4455,7 @@
 ||onlinedetma.za.com^
 ||onlinelaunchdappsvalidate.vercel.app^
 ||onlinenode.pages.dev^
+||onlylegitbicomigrationport.com^
 ||onlysaitachain.migration.rxi.app^
 ||onno-vaultdapp.click^
 ||onpointulma.org^
@@ -4481,6 +4495,7 @@
 ||opensea.i-o.eth.co^
 ||opensea.io.in^
 ||opensea.lc^
+||openseaclaim43.vercel.app^
 ||openseaclaimnfts.com^
 ||openseanft-projs.vercel.app^
 ||openseanft.one^
@@ -4865,7 +4880,6 @@
 ||paxfulpay.net^
 ||paxfulpro.cc^
 ||paxfuls.top^
-||paxfult.com^
 ||paxfultf.com^
 ||paxfulvn.com^
 ||paxobcxr.com^
@@ -5050,6 +5064,7 @@
 ||pocakedefi.top^
 ||pocakedefi.xyz^
 ||pogbl.top^
+||point-jup.web.app^
 ||poiuhjkgfcvbnmawertyuxhqwezt.com^
 ||poiygon.com^
 ||pokarswaps.space^
@@ -5263,6 +5278,8 @@
 ||quicksystemicexplorer.co^
 ||quickupdateexplorer.co^
 ||quikswap.io^
+||r02bren.cc^
+||r1y4t.pro^
 ||r20.rs6.net^
 ||r7ixec9.cc^
 ||rabbitx.reward-share.info^
@@ -5297,7 +5314,6 @@
 ||raydium.fun^
 ||raydium.lo.web3-connect.pw^
 ||raydlumvy.com^
-||rayduims.monster^
 ||rayzonfinance.com^
 ||raze-drops.top^
 ||rbkm.sa.com^
@@ -5788,10 +5804,12 @@
 ||skywardsemirates.com^
 ||skywardsglobal.com^
 ||slavic402wws.com^
+||slerfdrop.net^
 ||slerflabs.com^
 ||slerfrewards.net^
 ||slgnup-dymension.com^
 ||slitty.me^
+||slrfdrop.net^
 ||sltarkdrop.website^
 ||smaarhtmaiigrathhe.com^
 ||smahtconhtraact.com^
@@ -5860,6 +5878,7 @@
 ||solaptops.vercel.app^
 ||solarmy.eu^
 ||solback.wefinex.org^
+||solcrabsmint2.vercel.app^
 ||solfiare.net^
 ||solgift6.com^
 ||solicitudesberkley.es^
@@ -5867,6 +5886,7 @@
 ||sols-meta.web.app^
 ||soltrading-bots.web.app^
 ||solventumcareers.com^
+||solvprotocoi.com^
 ||solwl-saga.web.app^
 ||sommelier-finance.web.app^
 ||sonicswall.com^
@@ -5950,6 +5970,7 @@
 ||stardexairdrop.com^
 ||stargate-app.pages.dev^
 ||stargate-finance.io^
+||stargateprotcols.live^
 ||stark-event.com^
 ||starkclaim.pro^
 ||starkclaim.services^
@@ -6150,6 +6171,7 @@
 ||teleperformer.in^
 ||tenser.trade^
 ||tensolana.web.app^
+||tensor-alpha.web.app^
 ||tensor-trade-git-tree-tensor.vercel.app^
 ||tensor-trade.netlify.app^
 ||tensors.site^
@@ -6453,6 +6475,7 @@
 ||unstoppabledomains.mobi^
 ||unstoppableweb.digital^
 ||unstoppablex.domains^
+||uoda5m.cc^
 ||updatedexserver.net^
 ||updatenow.pages.dev^
 ||updates-metamask.pages.dev^
@@ -6500,6 +6523,7 @@
 ||v3.stakewise-finance.com^
 ||v3everrise.app^
 ||v6hd3.pro^
+||v9d8w.pro^
 ||v9si.cc^
 ||vailddapps.pages.dev^
 ||validatechains.pages.dev^
@@ -6688,6 +6712,7 @@
 ||walletweb3803.top^
 ||walletxconnect.live^
 ||wallstmemesrewards.com^
+||wallstretmemes.site^
 ||wallstrewards.site^
 ||walltmetamask.com^
 ||wamr.xyz^
@@ -6952,6 +6977,8 @@
 ||www.account.verificationpaxful.info^
 ||www.aflacalabamainsurance.online^
 ||www.agoda-jp.net^
+||www.agoda-vip.cc^
+||www.agoda-vip.com^
 ||www.agodaa-booking.com^
 ||www.agodaycs.net^
 ||www.agrtech.tech^
@@ -7398,6 +7425,7 @@
 ||xpubactivationprotocol.pages.dev^
 ||xpubweb-rectify.pages.dev^
 ||xr7j5v.pro^
+||xrb3.pro^
 ||xrp-2024.org^
 ||xrp-drop.web.app^
 ||xrp.excopad.top^

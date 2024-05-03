@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Fri May  3 03:06:04 UTC 2024
+# PhishFort Small Domain List - Fri May  3 04:06:41 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7523
+# Number of Entries: 7551
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -192,6 +192,7 @@ agoda-offer101079.com
 agoda-offer11279.com
 agoda-offer18239.com
 agoda-promotion.com
+agoda-vip.cc
 agoda.config-guest178.com
 agoda.confirm139233.com
 agoda.extra-checks.com
@@ -458,6 +459,7 @@ animalia.trading
 animalias.events
 anisovil.pro
 ankr.world
+aojz.cc
 ape-pylh.network
 apechainreload.com
 apecoin-aidrop-claim.codeanyapp.com
@@ -474,6 +476,7 @@ apeswap-finance.info
 apeswap.us
 apetarminal.pro
 apeterminal.link
+apeterminal.lol
 apexexchenge.com
 api-collabland.land
 api-collabland.web.app
@@ -1282,6 +1285,7 @@ chaingefinancetoken.pages.dev
 chaingev2-airdrop.pages.dev
 chainlabsv2.org
 chainlink-network.app
+chainlink.com.co
 chainlink.us.to
 chainlinkairdropweb3.org
 chainlinklabsv2.com
@@ -1410,6 +1414,7 @@ claim.beefmeme.xyz
 claim.bitetfs.net
 claim.celatisx.top
 claim.chainngpt.com
+claim.clintex.shop
 claim.coingecko.news
 claim.dotfinance.ltd
 claim.dotfinance.solutions
@@ -2045,6 +2050,7 @@ drop-alphax.web.app
 drop-ether.fi
 drop-mogcoin.com
 drop.lfgjup.xyz
+dropdao-pro.web.app
 dropnibiru.link
 drops-satoshivm.com
 dropusdt.com
@@ -2251,6 +2257,7 @@ ethnft.app
 ethorv.com
 ethpeg.com
 ethrefund.xyz
+ethrnn.com
 ethswaps.org
 ethtoken-defi.com
 ethuegas.com
@@ -2722,6 +2729,7 @@ hedgeswap.org
 helio-ravedrop.web.app
 helixap.com.ai-web3.cfd
 helixapp.com.web3-connect.pw
+hello-reward.com
 hellothisisatest.com
 help-407-etr.com
 help-avalanche.site
@@ -2912,6 +2920,7 @@ intothebluemanta.xyz
 intraconline-instantly.live
 inugonz.com
 invest-destreams.web.app
+investments.bitsol.org.pk
 invite-blaster.com
 invite-pacmoon.xyz
 invite-pepe.com
@@ -2923,6 +2932,7 @@ iotmodysbln.com
 iqz2.sa.com
 ireth.rnag.site
 irrahkar.com
+is9dvm.pro
 islamiccoin.network
 iykapp.xyz
 izumis.finance
@@ -3317,6 +3327,7 @@ lnter-webtr.jhsw3edasva.life
 lntrac-funds-instnat.digital
 lntracwebfunds-province.agccaiwo.life
 lntwebservice-lnter.f7aanm6hh4e.life
+lo1u.pro
 localethereum.xn--node
 locinews.com
 locopepecoin.com
@@ -4327,6 +4338,7 @@ nibiruprojectdrop.xyz
 nibiry-app.top
 niburufi-registers-verify.vercel.app
 nim-claim.network
+nimnetwork-gateways.com
 nitro-smartfusionglobeverse.pro
 njkbhjghf.pages.dev
 njmvdu.pro
@@ -4371,6 +4383,7 @@ numboost.ru
 nusukroadshow.com
 nvdacourse.com
 nvenergy.customersupports.network
+nvfmr.cc
 nvidia.gives
 nvidiagroot.tech
 nvidiaint.shop
@@ -4441,6 +4454,7 @@ onlinedetma.click
 onlinedetma.za.com
 onlinelaunchdappsvalidate.vercel.app
 onlinenode.pages.dev
+onlylegitbicomigrationport.com
 onlysaitachain.migration.rxi.app
 onno-vaultdapp.click
 onpointulma.org
@@ -4480,6 +4494,7 @@ opensea.app
 opensea.i-o.eth.co
 opensea.io.in
 opensea.lc
+openseaclaim43.vercel.app
 openseaclaimnfts.com
 openseanft-projs.vercel.app
 openseanft.one
@@ -4864,7 +4879,6 @@ paxfulpay.com
 paxfulpay.net
 paxfulpro.cc
 paxfuls.top
-paxfult.com
 paxfultf.com
 paxfulvn.com
 paxobcxr.com
@@ -5049,6 +5063,7 @@ pocakedefi.cfd
 pocakedefi.top
 pocakedefi.xyz
 pogbl.top
+point-jup.web.app
 poiuhjkgfcvbnmawertyuxhqwezt.com
 poiygon.com
 pokarswaps.space
@@ -5262,6 +5277,8 @@ quicksyncdapps.pages.dev
 quicksystemicexplorer.co
 quickupdateexplorer.co
 quikswap.io
+r02bren.cc
+r1y4t.pro
 r20.rs6.net
 r7ixec9.cc
 rabbitx.reward-share.info
@@ -5296,7 +5313,6 @@ raydium-frontend.pages.dev
 raydium.fun
 raydium.lo.web3-connect.pw
 raydlumvy.com
-rayduims.monster
 rayzonfinance.com
 raze-drops.top
 rbkm.sa.com
@@ -5787,10 +5803,12 @@ skynet229.godaddysites.com
 skywardsemirates.com
 skywardsglobal.com
 slavic402wws.com
+slerfdrop.net
 slerflabs.com
 slerfrewards.net
 slgnup-dymension.com
 slitty.me
+slrfdrop.net
 sltarkdrop.website
 smaarhtmaiigrathhe.com
 smahtconhtraact.com
@@ -5859,6 +5877,7 @@ solanapad.in
 solaptops.vercel.app
 solarmy.eu
 solback.wefinex.org
+solcrabsmint2.vercel.app
 solfiare.net
 solgift6.com
 solicitudesberkley.es
@@ -5866,6 +5885,7 @@ sollfare.com
 sols-meta.web.app
 soltrading-bots.web.app
 solventumcareers.com
+solvprotocoi.com
 solwl-saga.web.app
 sommelier-finance.web.app
 sonicswall.com
@@ -5949,6 +5969,7 @@ stardefyloomfil.pages.dev
 stardexairdrop.com
 stargate-app.pages.dev
 stargate-finance.io
+stargateprotcols.live
 stark-event.com
 starkclaim.pro
 starkclaim.services
@@ -6149,6 +6170,7 @@ tektekdunk.blogspot.com
 teleperformer.in
 tenser.trade
 tensolana.web.app
+tensor-alpha.web.app
 tensor-trade-git-tree-tensor.vercel.app
 tensor-trade.netlify.app
 tensors.site
@@ -6452,6 +6474,7 @@ unstoppabledomains.metaducks.com.ru
 unstoppabledomains.mobi
 unstoppableweb.digital
 unstoppablex.domains
+uoda5m.cc
 updatedexserver.net
 updatenow.pages.dev
 updates-metamask.pages.dev
@@ -6499,6 +6522,7 @@ v3.app.staging.tgf.nyuki.io
 v3.stakewise-finance.com
 v3everrise.app
 v6hd3.pro
+v9d8w.pro
 v9si.cc
 vailddapps.pages.dev
 validatechains.pages.dev
@@ -6687,6 +6711,7 @@ walletweb3082.top
 walletweb3803.top
 walletxconnect.live
 wallstmemesrewards.com
+wallstretmemes.site
 wallstrewards.site
 walltmetamask.com
 wamr.xyz
@@ -6951,6 +6976,8 @@ www.ab-earn.xyz
 www.account.verificationpaxful.info
 www.aflacalabamainsurance.online
 www.agoda-jp.net
+www.agoda-vip.cc
+www.agoda-vip.com
 www.agodaa-booking.com
 www.agodaycs.net
 www.agrtech.tech
@@ -7397,6 +7424,7 @@ xpaydappbnb.click
 xpubactivationprotocol.pages.dev
 xpubweb-rectify.pages.dev
 xr7j5v.pro
+xrb3.pro
 xrp-2024.org
 xrp-drop.web.app
 xrp.excopad.top
