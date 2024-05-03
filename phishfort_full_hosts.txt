@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May  3 04:02:26 UTC 2024
+# PhishFort Full Domain List - Fri May  3 05:02:25 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109074
+# Number of Entries: 109075
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3094,6 +3094,7 @@
 0.0.0.0 agoda-promotion.com
 0.0.0.0 agoda-purple.com
 0.0.0.0 agoda-vip.cc
+0.0.0.0 agoda-vip.com
 0.0.0.0 agoda-vn.com
 0.0.0.0 agoda-vn.vip
 0.0.0.0 agoda.ba

@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May  3 04:02:26 UTC 2024
+# PhishFort Full Domain List - Fri May  3 05:02:25 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109074
+# Number of Entries: 109075
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3094,6 +3094,7 @@
 ||agoda-promotion.com^
 ||agoda-purple.com^
 ||agoda-vip.cc^
+||agoda-vip.com^
 ||agoda-vn.com^
 ||agoda-vn.vip^
 ||agoda.ba^
