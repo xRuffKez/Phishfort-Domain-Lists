@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May  3 21:01:59 UTC 2024
+# PhishFort Full Domain List - Fri May  3 22:01:57 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109097
+# Number of Entries: 109098
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -8477,6 +8477,7 @@
 0.0.0.0 atsnft.nft-premint.com
 0.0.0.0 atsnftwar-bonds.xyz
 0.0.0.0 atssnft.xyz
+0.0.0.0 att-100402.weeblysite.com
 0.0.0.0 attach-bridge.com
 0.0.0.0 attached.walletsgrid.company
 0.0.0.0 attachment.trades-paxful.com
