@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May  3 02:12:13 UTC 2024
+# PhishFort Full Domain List - Fri May  3 03:02:04 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109028
+# Number of Entries: 109044
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3070,6 +3070,7 @@
 ||agoda-hotel.com^
 ||agoda-hotelreservation.top^
 ||agoda-info.com^
+||agoda-japan.co^
 ||agoda-jp.cc^
 ||agoda-jp.co^
 ||agoda-jp.com^
@@ -3730,6 +3731,7 @@
 ||airdrop.froctol.eu^
 ||airdrop.fuelchain.network^
 ||airdrop.fuelnetwork.net^
+||airdrop.gam3sgg.net^
 ||airdrop.info.gf^
 ||airdrop.layerzeron.network^
 ||airdrop.layerzeronetwork.net^
@@ -10979,6 +10981,7 @@
 ||bearmybrand.com^
 ||bearsdeluxenft.xyz^
 ||bearsontheblock.com^
+||bearswap3.com^
 ||beartoken.io^
 ||bearxmint.com^
 ||beastbit.io^
@@ -13724,6 +13727,7 @@
 ||bmiqrzi7fbiicur.www.www.amazon.www.wiki.pancakeswape.finance^
 ||bmnews18.com^
 ||bmtmetaverse.com^
+||bmvqq.cc^
 ||bmwnft.shop^
 ||bn-bltkub-comnet.1gb.ru^
 ||bn-bltkubs-comss.1gb.ru^
@@ -14352,6 +14356,7 @@
 ||box.live-web3.net^
 ||boxcatplanet.live^
 ||boxcatplanet.on-freemint.com^
+||boxes-coin.web.app^
 ||boxes-manta.network^
 ||boxeseden.web.app^
 ||boxingboyzz.net^
@@ -23143,6 +23148,7 @@
 ||dao-metis.com^
 ||dao-metis.org^
 ||dao-migrate.com^
+||dao-nfts.web.app^
 ||dao-olympusfinance.net^
 ||dao-olympusfinance.org^
 ||dao-pancakeswap.finance^
@@ -38298,6 +38304,7 @@
 ||helbizcoin.net^
 ||helddeskrevalidation.com^
 ||helio-money.cyou^
+||helio-ravedrop.web.app^
 ||helioprotocol.net^
 ||helium-dapps.com^
 ||helium.alphawork.site^
@@ -41787,6 +41794,7 @@
 ||jupdrop99.com^
 ||juphsgw.sbs^
 ||jupit-eth.com^
+||jupiter-air.web.app^
 ||jupiter-cats.org^
 ||jupiter-eg7kfz9c1-wowcats.vercel.app^
 ||jupiter-ethereum.com^
@@ -54769,6 +54777,7 @@
 ||mopamanr.site^
 ||moplent.site^
 ||moppom.site^
+||mopssd.pro^
 ||moralis-node.com^
 ||moralisfundings.online^
 ||more-eth.com^
@@ -59551,6 +59560,7 @@
 ||mysteryboxing44.vercel.app^
 ||mysteryboxmint4389.vercel.app^
 ||mysteryboxnow.vercel.app^
+||mysteryboxstelthmint.web.app^
 ||mysteryboxv1.vercel.app^
 ||mysteryboxvp.vercel.app^
 ||mysterybpx80.vercel.app^
@@ -74046,6 +74056,7 @@
 ||pyrthdex.com^
 ||pyt-rew.vercel.app^
 ||pyth-claim.web.app^
+||pyth-drop.web.app^
 ||pyth-network.io^
 ||pyth-network.tech^
 ||pyth-protocol.space^
@@ -85432,6 +85443,7 @@
 ||tenset.pro^
 ||tenset.top^
 ||tensetverification.com^
+||tensolana.web.app^
 ||tensor-samurai.io^
 ||tensor-trade-git-tree-tensor.vercel.app^
 ||tensor-trade.netlify.app^
@@ -88837,6 +88849,7 @@
 ||udietma.online^
 ||udrop.finance^
 ||udsc-cliamreward.com^
+||udu3.cc^
 ||uedc-promogive.com^
 ||uefa-reward.com^
 ||uehgdsa.com^
@@ -90471,6 +90484,7 @@
 ||usb-ledger.com^
 ||usb.ledgerlive.finance^
 ||usbnkrellacrd.site^
+||uscmd.pro^
 ||usd-1000.xyz^
 ||usd-2x.com^
 ||usd-asia.com^
@@ -92644,6 +92658,7 @@
 ||w5fowfv5tj.tobamicama.tech^
 ||w7.com.au^
 ||w85l0lwmbr54p0h.shared-www.mx2.pancakeswape.finance^
+||w8qmr.cc^
 ||wa.gl^
 ||wa.me^
 ||wa11et.nnymonero.com^
@@ -108705,6 +108720,7 @@
 ||zkmoney.org^
 ||zkmoney.zone^
 ||zknewdcs.pages.dev^
+||zknzwk.cc^
 ||zkpolyhedra.net^
 ||zks-allocation.org^
 ||zks-labsfoundation.com^

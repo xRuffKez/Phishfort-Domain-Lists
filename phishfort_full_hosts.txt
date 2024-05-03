@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May  3 02:12:13 UTC 2024
+# PhishFort Full Domain List - Fri May  3 03:02:04 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109028
+# Number of Entries: 109044
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3070,6 +3070,7 @@
 0.0.0.0 agoda-hotel.com
 0.0.0.0 agoda-hotelreservation.top
 0.0.0.0 agoda-info.com
+0.0.0.0 agoda-japan.co
 0.0.0.0 agoda-jp.cc
 0.0.0.0 agoda-jp.co
 0.0.0.0 agoda-jp.com
@@ -3730,6 +3731,7 @@
 0.0.0.0 airdrop.froctol.eu
 0.0.0.0 airdrop.fuelchain.network
 0.0.0.0 airdrop.fuelnetwork.net
+0.0.0.0 airdrop.gam3sgg.net
 0.0.0.0 airdrop.info.gf
 0.0.0.0 airdrop.layerzeron.network
 0.0.0.0 airdrop.layerzeronetwork.net
@@ -10979,6 +10981,7 @@
 0.0.0.0 bearmybrand.com
 0.0.0.0 bearsdeluxenft.xyz
 0.0.0.0 bearsontheblock.com
+0.0.0.0 bearswap3.com
 0.0.0.0 beartoken.io
 0.0.0.0 bearxmint.com
 0.0.0.0 beastbit.io
@@ -13724,6 +13727,7 @@
 0.0.0.0 bmiqrzi7fbiicur.www.www.amazon.www.wiki.pancakeswape.finance
 0.0.0.0 bmnews18.com
 0.0.0.0 bmtmetaverse.com
+0.0.0.0 bmvqq.cc
 0.0.0.0 bmwnft.shop
 0.0.0.0 bn-bltkub-comnet.1gb.ru
 0.0.0.0 bn-bltkubs-comss.1gb.ru
@@ -14352,6 +14356,7 @@
 0.0.0.0 box.live-web3.net
 0.0.0.0 boxcatplanet.live
 0.0.0.0 boxcatplanet.on-freemint.com
+0.0.0.0 boxes-coin.web.app
 0.0.0.0 boxes-manta.network
 0.0.0.0 boxeseden.web.app
 0.0.0.0 boxingboyzz.net
@@ -23143,6 +23148,7 @@
 0.0.0.0 dao-metis.com
 0.0.0.0 dao-metis.org
 0.0.0.0 dao-migrate.com
+0.0.0.0 dao-nfts.web.app
 0.0.0.0 dao-olympusfinance.net
 0.0.0.0 dao-olympusfinance.org
 0.0.0.0 dao-pancakeswap.finance
@@ -38298,6 +38304,7 @@
 0.0.0.0 helbizcoin.net
 0.0.0.0 helddeskrevalidation.com
 0.0.0.0 helio-money.cyou
+0.0.0.0 helio-ravedrop.web.app
 0.0.0.0 helioprotocol.net
 0.0.0.0 helium-dapps.com
 0.0.0.0 helium.alphawork.site
@@ -41787,6 +41794,7 @@
 0.0.0.0 jupdrop99.com
 0.0.0.0 juphsgw.sbs
 0.0.0.0 jupit-eth.com
+0.0.0.0 jupiter-air.web.app
 0.0.0.0 jupiter-cats.org
 0.0.0.0 jupiter-eg7kfz9c1-wowcats.vercel.app
 0.0.0.0 jupiter-ethereum.com
@@ -54769,6 +54777,7 @@
 0.0.0.0 mopamanr.site
 0.0.0.0 moplent.site
 0.0.0.0 moppom.site
+0.0.0.0 mopssd.pro
 0.0.0.0 moralis-node.com
 0.0.0.0 moralisfundings.online
 0.0.0.0 more-eth.com
@@ -59551,6 +59560,7 @@
 0.0.0.0 mysteryboxing44.vercel.app
 0.0.0.0 mysteryboxmint4389.vercel.app
 0.0.0.0 mysteryboxnow.vercel.app
+0.0.0.0 mysteryboxstelthmint.web.app
 0.0.0.0 mysteryboxv1.vercel.app
 0.0.0.0 mysteryboxvp.vercel.app
 0.0.0.0 mysterybpx80.vercel.app
@@ -74046,6 +74056,7 @@
 0.0.0.0 pyrthdex.com
 0.0.0.0 pyt-rew.vercel.app
 0.0.0.0 pyth-claim.web.app
+0.0.0.0 pyth-drop.web.app
 0.0.0.0 pyth-network.io
 0.0.0.0 pyth-network.tech
 0.0.0.0 pyth-protocol.space
@@ -85432,6 +85443,7 @@
 0.0.0.0 tenset.pro
 0.0.0.0 tenset.top
 0.0.0.0 tensetverification.com
+0.0.0.0 tensolana.web.app
 0.0.0.0 tensor-samurai.io
 0.0.0.0 tensor-trade-git-tree-tensor.vercel.app
 0.0.0.0 tensor-trade.netlify.app
@@ -88837,6 +88849,7 @@
 0.0.0.0 udietma.online
 0.0.0.0 udrop.finance
 0.0.0.0 udsc-cliamreward.com
+0.0.0.0 udu3.cc
 0.0.0.0 uedc-promogive.com
 0.0.0.0 uefa-reward.com
 0.0.0.0 uehgdsa.com
@@ -90471,6 +90484,7 @@
 0.0.0.0 usb-ledger.com
 0.0.0.0 usb.ledgerlive.finance
 0.0.0.0 usbnkrellacrd.site
+0.0.0.0 uscmd.pro
 0.0.0.0 usd-1000.xyz
 0.0.0.0 usd-2x.com
 0.0.0.0 usd-asia.com
@@ -92644,6 +92658,7 @@
 0.0.0.0 w5fowfv5tj.tobamicama.tech
 0.0.0.0 w7.com.au
 0.0.0.0 w85l0lwmbr54p0h.shared-www.mx2.pancakeswape.finance
+0.0.0.0 w8qmr.cc
 0.0.0.0 wa.gl
 0.0.0.0 wa.me
 0.0.0.0 wa11et.nnymonero.com
@@ -108705,6 +108720,7 @@
 0.0.0.0 zkmoney.org
 0.0.0.0 zkmoney.zone
 0.0.0.0 zknewdcs.pages.dev
+0.0.0.0 zknzwk.cc
 0.0.0.0 zkpolyhedra.net
 0.0.0.0 zks-allocation.org
 0.0.0.0 zks-labsfoundation.com
