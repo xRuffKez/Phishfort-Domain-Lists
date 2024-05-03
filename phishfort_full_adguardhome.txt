@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May  3 00:06:49 UTC 2024
+# PhishFort Full Domain List - Fri May  3 01:26:13 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109019
+# Number of Entries: 109023
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -59960,6 +59960,7 @@
 ||nefvfk.com^
 ||negociosbr.site^
 ||neilian75516.artnudephotoprints.com^
+||neimanmarcus-last-call.shop^
 ||neives.online^
 ||nekomura.top^
 ||nelnetblog.com^
@@ -77892,6 +77893,9 @@
 ||saksoff5th.online^
 ||saksoff5th.store^
 ||saksoff5th.vip^
+||saksoff5th01.com^
+||saksoff5th02.com^
+||saksoff5th03.com^
 ||saksoff5th1.com^
 ||saksoff5th2.com^
 ||saksoff5th3.com^
