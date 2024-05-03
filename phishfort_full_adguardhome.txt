@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May  3 14:01:54 UTC 2024
+# PhishFort Full Domain List - Fri May  3 15:02:02 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109085
+# Number of Entries: 109086
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -63411,6 +63411,7 @@
 ||opsnsea.io^
 ||opstimim.io^
 ||opt.red^
+||optguen.com^
 ||opti.claims^
 ||opti.gifts^
 ||optic-bridge.com^

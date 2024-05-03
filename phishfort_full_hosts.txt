@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May  3 14:01:54 UTC 2024
+# PhishFort Full Domain List - Fri May  3 15:02:02 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109085
+# Number of Entries: 109086
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -63411,6 +63411,7 @@
 0.0.0.0 opsnsea.io
 0.0.0.0 opstimim.io
 0.0.0.0 opt.red
+0.0.0.0 optguen.com
 0.0.0.0 opti.claims
 0.0.0.0 opti.gifts
 0.0.0.0 optic-bridge.com
