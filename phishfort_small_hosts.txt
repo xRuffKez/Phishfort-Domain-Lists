@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Fri May  3 06:05:47 UTC 2024
+# PhishFort Small Domain List - Fri May  3 07:04:52 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 7551
@@ -3741,7 +3741,6 @@
 0.0.0.0 metamask-activation.dcsi.com.ar
 0.0.0.0 metamask-airdrop.de
 0.0.0.0 metamask-app-kyc.com
-0.0.0.0 metamask-app.pages.dev
 0.0.0.0 metamask-app24-kyc.com
 0.0.0.0 metamask-connect.com
 0.0.0.0 metamask-dapps.pages.dev
@@ -4348,7 +4347,6 @@
 0.0.0.0 nkjs0.ru.com
 0.0.0.0 nnass-unempl.com
 0.0.0.0 nnetannask.io
-0.0.0.0 nnttn.cn
 0.0.0.0 nobody-raffle.com
 0.0.0.0 nobodynft.trading
 0.0.0.0 node-connect-fix.vercel.app
@@ -4467,6 +4465,7 @@
 0.0.0.0 op.x500-drop.top
 0.0.0.0 opebnsea.io
 0.0.0.0 opemnsea.io
+0.0.0.0 open-6lz.pages.dev
 0.0.0.0 open-sea.systeme.io
 0.0.0.0 open-seaio.github.io
 0.0.0.0 open-seasclick.vercel.app
@@ -4624,6 +4623,7 @@
 0.0.0.0 pancakaswp-finance.com
 0.0.0.0 pancakaswp-finance.xyz
 0.0.0.0 pancake-clalm.xyz
+0.0.0.0 pancake-frontend-9urm4h6ap-chefilip.vercel.app
 0.0.0.0 pancake-frontend-flznr5rp3-chefilip.vercel.app
 0.0.0.0 pancake-ifo.pages.dev
 0.0.0.0 pancake-magpiexyz.pages.dev
@@ -5309,7 +5309,6 @@
 0.0.0.0 ravokecash.org
 0.0.0.0 raxful.com
 0.0.0.0 raydiu.com
-0.0.0.0 raydium-frontend.pages.dev
 0.0.0.0 raydium.fun
 0.0.0.0 raydium.lo.web3-connect.pw
 0.0.0.0 raydlumvy.com
@@ -6298,6 +6297,7 @@
 0.0.0.0 tonkeepeer.com
 0.0.0.0 tonkeeper-web.pages.dev
 0.0.0.0 tonkeeper.cc
+0.0.0.0 tonkeeper.digital
 0.0.0.0 tonkeeper.help
 0.0.0.0 tonkeeper.io
 0.0.0.0 tonkeeper.pages.dev

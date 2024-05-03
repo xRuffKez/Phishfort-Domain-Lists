@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Fri May  3 06:05:47 UTC 2024
+# PhishFort Small Domain List - Fri May  3 07:04:52 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 7551
 # Project: PhishFort (https://phishfort.com/)
@@ -3740,7 +3740,6 @@ metamask-831.pages.dev
 metamask-activation.dcsi.com.ar
 metamask-airdrop.de
 metamask-app-kyc.com
-metamask-app.pages.dev
 metamask-app24-kyc.com
 metamask-connect.com
 metamask-dapps.pages.dev
@@ -4347,7 +4346,6 @@ nkbihfbeogaeaoehlefnkodbefgpgknn.metamaskk.skyhighfirstclass.com.ng
 nkjs0.ru.com
 nnass-unempl.com
 nnetannask.io
-nnttn.cn
 nobody-raffle.com
 nobodynft.trading
 node-connect-fix.vercel.app
@@ -4466,6 +4464,7 @@ op.coinslabs.top
 op.x500-drop.top
 opebnsea.io
 opemnsea.io
+open-6lz.pages.dev
 open-sea.systeme.io
 open-seaio.github.io
 open-seasclick.vercel.app
@@ -4623,6 +4622,7 @@ pancakaswap-finance.xyz
 pancakaswp-finance.com
 pancakaswp-finance.xyz
 pancake-clalm.xyz
+pancake-frontend-9urm4h6ap-chefilip.vercel.app
 pancake-frontend-flznr5rp3-chefilip.vercel.app
 pancake-ifo.pages.dev
 pancake-magpiexyz.pages.dev
@@ -5308,7 +5308,6 @@ rational-zerosolvosmartverse.pro
 ravokecash.org
 raxful.com
 raydiu.com
-raydium-frontend.pages.dev
 raydium.fun
 raydium.lo.web3-connect.pw
 raydlumvy.com
@@ -6297,6 +6296,7 @@ tonkeepee.com
 tonkeepeer.com
 tonkeeper-web.pages.dev
 tonkeeper.cc
+tonkeeper.digital
 tonkeeper.help
 tonkeeper.io
 tonkeeper.pages.dev
