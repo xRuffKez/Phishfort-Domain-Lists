@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May  3 05:02:25 UTC 2024
+# PhishFort Full Domain List - Fri May  3 06:02:18 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109075
+# Number of Entries: 109078
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3070,6 +3070,7 @@
 ||agoda-hotel.com^
 ||agoda-hotelreservation.top^
 ||agoda-info.com^
+||agoda-japan.co^
 ||agoda-jp.cc^
 ||agoda-jp.co^
 ||agoda-jp.com^
@@ -81734,6 +81735,7 @@
 ||spacetesla.info^
 ||spacewalkernft.xyz^
 ||spacex-5000btc.com^
+||spacex-airdrop-1f381.web.app^
 ||spacex-crew5.space^
 ||spacex-eth.biz^
 ||spacex-new2023.net^
@@ -96787,6 +96789,7 @@
 ||wen.meme^
 ||wenbutusedgently.xyz^
 ||wencoin.gg^
+||wencoins.xyz^
 ||wendrops.com^
 ||wenexchange.net^
 ||wenfarcana.pages.dev^

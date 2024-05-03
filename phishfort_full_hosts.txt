@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May  3 05:02:25 UTC 2024
+# PhishFort Full Domain List - Fri May  3 06:02:18 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109075
+# Number of Entries: 109078
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3070,6 +3070,7 @@
 0.0.0.0 agoda-hotel.com
 0.0.0.0 agoda-hotelreservation.top
 0.0.0.0 agoda-info.com
+0.0.0.0 agoda-japan.co
 0.0.0.0 agoda-jp.cc
 0.0.0.0 agoda-jp.co
 0.0.0.0 agoda-jp.com
@@ -81734,6 +81735,7 @@
 0.0.0.0 spacetesla.info
 0.0.0.0 spacewalkernft.xyz
 0.0.0.0 spacex-5000btc.com
+0.0.0.0 spacex-airdrop-1f381.web.app
 0.0.0.0 spacex-crew5.space
 0.0.0.0 spacex-eth.biz
 0.0.0.0 spacex-new2023.net
@@ -96787,6 +96789,7 @@
 0.0.0.0 wen.meme
 0.0.0.0 wenbutusedgently.xyz
 0.0.0.0 wencoin.gg
+0.0.0.0 wencoins.xyz
 0.0.0.0 wendrops.com
 0.0.0.0 wenexchange.net
 0.0.0.0 wenfarcana.pages.dev
