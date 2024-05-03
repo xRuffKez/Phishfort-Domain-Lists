@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Fri May  3 19:04:41 UTC 2024
+# PhishFort Small Domain List - Fri May  3 20:05:39 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7539
+# Number of Entries: 7532
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -837,7 +837,6 @@ bafybeianm7lllm6v2rpyuah5gzsh22gxfikab5ie3xei6f2n3ngfvsx524.ipfs.dweb.link
 bafybeiaqyixakyqz7ywj3o6yeug5bsxp5fro6s55uh32j4mmhrdrjgsluq.ipfs.dweb.link
 bafybeiar2pi2heiwfhdlbrulhqyy5oen5k2xx767xss7d5slu5rt3tdpia.ipfs.dweb.link
 bafybeic6j3arnlyilwq2grp6f4x25qzssdnluormxdmpzogfn2u7lytrxe.ipfs.dweb.link
-bafybeicdv6wvyuhybvf3htmdkcpp7scfw7wq65syuimtv3mslcqhohogla.ipfs.cf-ipfs.com
 bafybeicimhrsdhfoifre2dbtwbyjlvahvbuyi5mupckanasogxk64c6st4.ipfs.cf-ipfs.com
 bafybeih6f3cnq6rv7w3thp63266fwswwazpnihhzohixzbjw45i5xrxjaq.ipfs.dweb.link
 bafybeihbzllhmou7v2n5voxg3ldvflwmzzqwnb4zc4kani4onqpdj2gb7m.ipfs.dweb.link
@@ -854,7 +853,6 @@ bancontact.startauth-pay.com
 bang-blast.io
 bank-ai.org
 bank-sell.com
-bariatrics.www.emdeebeebee.com
 barlettapontoonboats.asia
 barleyapp.finance
 bartellers.com
@@ -1454,6 +1452,7 @@ claimairdropsaga.xyz
 claimdrop.laag.site
 claimdymension.xyz
 claimether.finance
+claimethnafianancerewards.vercel.app
 claimfreeairdrop.com
 claimmetadrop.nl
 claimopeaseamysterydrop.com
@@ -1605,7 +1604,6 @@ collad-land.me
 collbalnand.pages.dev
 colleb-verify.xyz
 collect-blast.com
-collect-wenwencoin.com
 collection-satoshivm.io
 collecttion.store
 colllab.xyz
@@ -2133,7 +2131,6 @@ eigenlayers.club
 eigenpie.saydbaeaumca.xyz
 elgenlayer.xyz.web3-ap.cfd
 elgenlayerz.xyz
-eligibility-wenwencoin.com
 eligibility.ventory.network
 eligible-chaln.link
 elite-bit.net
@@ -2143,7 +2140,6 @@ elon-x.info
 em-suppliers.online
 emdeonmd.com
 emiraetes.online
-emirateairlines.net
 emirates-procurement.com
 emirates.airfareuk.co.uk
 emirates.flightse.co
@@ -3039,6 +3035,7 @@ jupiter-air.web.app
 jupiter-cats.org
 jupiter-ethereum.com
 jupiter-web.network
+jupiter.services-claiming.cc
 jupiterairdrop.org
 jupitercatdet.com
 jupiterexchange.link
@@ -3690,6 +3687,7 @@ mergeappseversd.pages.dev
 mergeben.tech
 mergebitswap.com
 merkle.cash
+merlin-chain-chi.vercel.app
 merlin-chain.com
 merlin.meson.fi
 merlinchain.network
@@ -4661,7 +4659,6 @@ pancakedropsclaim.vercel.app
 pancakedropsclaims77.vercel.app
 pancakedropss88.vercel.app
 pancakeeswap.com
-pancakeeswap.finance
 pancakefinances-swap.pages.dev
 pancakefinances-swaps.pages.dev
 pancakefx.vercel.app
@@ -5366,6 +5363,7 @@ registration-basedbrett.com
 registration-bounce.com
 registration-defi.com
 registration-defi.trade
+registration-fantasy.top
 registration-fantom.network
 registration-jup.ag
 registration-linea.com
@@ -5475,7 +5473,6 @@ rewards-mode.network
 rewards-opsec.net
 rewards-solanamobile.com
 rewards-taiko.com
-rewards-wenwencoin.com
 rewards.carrbify.com
 rewards.optimismlabs.org
 rewards.retik.app
@@ -6841,11 +6838,9 @@ wenbutusedgently.xyz
 wencoins.xyz
 wenexchange.net
 wenfarcana.pages.dev
-wenwencoin-eligibility.com
 wenwencoin-jup.com
 wenwencoin-whitelist.com
 wenwencoin-wl.com
-wenwencoin.network
 wenwencoin.xyz
 wenwencoineth.com
 wenwencoins.network
@@ -6873,7 +6868,6 @@ whitelist-parcl.com
 whitelist-personajourney.co
 whitelist-porkcoin.com
 whitelist-satoshivm.io
-whitelist-wenwencoin.com
 whitelist-woo.org
 whitelistedonly.pages.dev
 whitelisting-wormhole.com
@@ -7081,7 +7075,6 @@ www.earn-drop.club
 www.eigen-layer.sale
 www.eigenlaver.magpiexyz.site
 www.elettrovisiongroup.com
-www.eligibility-wenwencoin.com
 www.eligible-porkcoin.com
 www.emidiscount.top
 www.empowerwealth.biz
