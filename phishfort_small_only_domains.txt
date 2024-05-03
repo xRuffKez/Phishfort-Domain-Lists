@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Fri May  3 05:05:00 UTC 2024
+# PhishFort Small Domain List - Fri May  3 06:05:47 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7550
+# Number of Entries: 7551
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -180,6 +180,7 @@ agoda-checkout-id843753.com
 agoda-confirm.com-id591057.com
 agoda-global.pro
 agoda-hotelreservation.top
+agoda-japan.co
 agoda-jp.cc
 agoda-jp.co
 agoda-jp.life
@@ -4622,7 +4623,6 @@ pancakaswap-finance.xyz
 pancakaswp-finance.com
 pancakaswp-finance.xyz
 pancake-clalm.xyz
-pancake-frontend-29e48ga31-chefilip.vercel.app
 pancake-frontend-flznr5rp3-chefilip.vercel.app
 pancake-ifo.pages.dev
 pancake-magpiexyz.pages.dev
@@ -5896,6 +5896,7 @@ spaceid.claiming-link.live
 spaceid.connect-claiming.icu
 spaceld.cyou
 spacequest-jup.ag
+spacex-airdrop-1f381.web.app
 spadaro.id.au
 spark-claim.org
 spark-fi.xyz
@@ -6848,6 +6849,7 @@ wen-farcana.com
 wen-jupiter.onchain-airdrop.com
 wen.meme
 wenbutusedgently.xyz
+wencoins.xyz
 wenexchange.net
 wenfarcana.pages.dev
 wenwencoin-eligibility.com
@@ -6963,7 +6965,6 @@ www-peryourhealth.com
 www-trst-secure.v91x61.ru
 www.1asxhkd.com
 www.1inch.ink
-www.1inchfinance.com
 www.1inchrewards.com
 www.1inchwallet.app
 www.1lnchfinance.io
