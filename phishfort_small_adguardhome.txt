@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May  3 01:29:05 UTC 2024
+# PhishFort Small Domain List - Fri May  3 02:14:45 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7510
+# Number of Entries: 7512
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -592,6 +592,7 @@
 ||app.moonbeam-web.com^
 ||app.moonbeamer-swap.com^
 ||app.opsecgifts.com^
+||app.overtrip.xyz^
 ||app.parallelfl.network^
 ||app.pepepay.finance^
 ||app.prisrnafinance.com^
@@ -3073,6 +3074,7 @@
 ||kduo.cc^
 ||kdvrp.cc^
 ||keeper.claims^
+||kegwat.pro^
 ||kelpdaa.xyz^
 ||kelpdao.fun^
 ||kelpdao.link^
@@ -3123,6 +3125,7 @@
 ||l2-blast.buzz^
 ||labs.pixelmon.tech^
 ||lakesldecontrols.com^
+||lama.pinksailes.com^
 ||laughcode.conohawing.com^
 ||launch-berachain.com^
 ||launch-mavia.com^
@@ -3492,6 +3495,7 @@
 ||manta.claimw.xyz^
 ||manta.layerbank.cc^
 ||manta.layerbank.network^
+||manta.mainnet-airdrop.xyz^
 ||manta.pages.dev^
 ||manta10.pages.dev^
 ||manta11.pages.dev^
@@ -5531,6 +5535,7 @@
 ||runjokab.wpenginepowered.com^
 ||rwa.meme^
 ||rx-nt.duckdns.org^
+||rx0k8.getmobox.buzz^
 ||rz7wjw.info^
 ||s-app-reaktivieren.su^
 ||s7w0ymu.top^
@@ -6050,7 +6055,6 @@
 ||swap-makerdao.org^
 ||swap-nft.pages.dev^
 ||swap.dikecoin.net^
-||swap.pancake.us.com^
 ||swap.pancake.us.org^
 ||swapcake.cc^
 ||swapdacake.com^
@@ -6699,7 +6703,6 @@
 ||wcryptoeslogins.azurewebsites.net^
 ||wdymcrypto-migration.app^
 ||wdymdapp.pages.dev^
-||web-4w4zabtw9.pancake.run^
 ||web-airtm.com^
 ||web-connectka.tk^
 ||web-defillama.com^
@@ -6998,7 +7001,6 @@
 ||www.ator.claimfree.xyz^
 ||www.auth-collab.net^
 ||www.axieinfinity-global.com^
-||www.axiemarketplace.lol^
 ||www.baoninpingan.com^
 ||www.bcilor.com^
 ||www.big-x-drops.top^

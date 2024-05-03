@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May  3 01:29:05 UTC 2024
+# PhishFort Small Domain List - Fri May  3 02:14:45 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7510
+# Number of Entries: 7512
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -592,6 +592,7 @@
 0.0.0.0 app.moonbeam-web.com
 0.0.0.0 app.moonbeamer-swap.com
 0.0.0.0 app.opsecgifts.com
+0.0.0.0 app.overtrip.xyz
 0.0.0.0 app.parallelfl.network
 0.0.0.0 app.pepepay.finance
 0.0.0.0 app.prisrnafinance.com
@@ -3073,6 +3074,7 @@
 0.0.0.0 kduo.cc
 0.0.0.0 kdvrp.cc
 0.0.0.0 keeper.claims
+0.0.0.0 kegwat.pro
 0.0.0.0 kelpdaa.xyz
 0.0.0.0 kelpdao.fun
 0.0.0.0 kelpdao.link
@@ -3123,6 +3125,7 @@
 0.0.0.0 l2-blast.buzz
 0.0.0.0 labs.pixelmon.tech
 0.0.0.0 lakesldecontrols.com
+0.0.0.0 lama.pinksailes.com
 0.0.0.0 laughcode.conohawing.com
 0.0.0.0 launch-berachain.com
 0.0.0.0 launch-mavia.com
@@ -3492,6 +3495,7 @@
 0.0.0.0 manta.claimw.xyz
 0.0.0.0 manta.layerbank.cc
 0.0.0.0 manta.layerbank.network
+0.0.0.0 manta.mainnet-airdrop.xyz
 0.0.0.0 manta.pages.dev
 0.0.0.0 manta10.pages.dev
 0.0.0.0 manta11.pages.dev
@@ -5531,6 +5535,7 @@
 0.0.0.0 runjokab.wpenginepowered.com
 0.0.0.0 rwa.meme
 0.0.0.0 rx-nt.duckdns.org
+0.0.0.0 rx0k8.getmobox.buzz
 0.0.0.0 rz7wjw.info
 0.0.0.0 s-app-reaktivieren.su
 0.0.0.0 s7w0ymu.top
@@ -6050,7 +6055,6 @@
 0.0.0.0 swap-makerdao.org
 0.0.0.0 swap-nft.pages.dev
 0.0.0.0 swap.dikecoin.net
-0.0.0.0 swap.pancake.us.com
 0.0.0.0 swap.pancake.us.org
 0.0.0.0 swapcake.cc
 0.0.0.0 swapdacake.com
@@ -6699,7 +6703,6 @@
 0.0.0.0 wcryptoeslogins.azurewebsites.net
 0.0.0.0 wdymcrypto-migration.app
 0.0.0.0 wdymdapp.pages.dev
-0.0.0.0 web-4w4zabtw9.pancake.run
 0.0.0.0 web-airtm.com
 0.0.0.0 web-connectka.tk
 0.0.0.0 web-defillama.com
@@ -6998,7 +7001,6 @@
 0.0.0.0 www.ator.claimfree.xyz
 0.0.0.0 www.auth-collab.net
 0.0.0.0 www.axieinfinity-global.com
-0.0.0.0 www.axiemarketplace.lol
 0.0.0.0 www.baoninpingan.com
 0.0.0.0 www.bcilor.com
 0.0.0.0 www.big-x-drops.top
