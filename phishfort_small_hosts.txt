@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May  3 18:05:30 UTC 2024
+# PhishFort Small Domain List - Fri May  3 19:04:41 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7538
+# Number of Entries: 7539
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1701,6 +1701,7 @@
 0.0.0.0 cryptopepedrops.com
 0.0.0.0 cryptos-rnantas.com
 0.0.0.0 cryptoundeeds.com
+0.0.0.0 cryptousdts.com
 0.0.0.0 cryptovipweb30.com
 0.0.0.0 cryptovipweb30.top
 0.0.0.0 cryptovipweb30.vip
@@ -2500,6 +2501,7 @@
 0.0.0.0 gas-ethereum.com
 0.0.0.0 gas-lido.com
 0.0.0.0 gasfeecal.com
+0.0.0.0 gasp-web3.vercel.app
 0.0.0.0 gateway-collab.com
 0.0.0.0 gayjoygo.com
 0.0.0.0 geezyy.github.io
@@ -4047,7 +4049,6 @@
 0.0.0.0 mtamskwalogs.azurewebsites.net
 0.0.0.0 mtc-speed.web.app
 0.0.0.0 mtvrs-neotokyo.codes
-0.0.0.0 muitamask-login.blogspot.com
 0.0.0.0 mujeresautistas.com
 0.0.0.0 mulltibits.sbs
 0.0.0.0 multchain.net

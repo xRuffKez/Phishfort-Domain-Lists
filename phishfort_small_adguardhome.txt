@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May  3 18:05:30 UTC 2024
+# PhishFort Small Domain List - Fri May  3 19:04:41 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7538
+# Number of Entries: 7539
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1701,6 +1701,7 @@
 ||cryptopepedrops.com^
 ||cryptos-rnantas.com^
 ||cryptoundeeds.com^
+||cryptousdts.com^
 ||cryptovipweb30.com^
 ||cryptovipweb30.top^
 ||cryptovipweb30.vip^
@@ -2500,6 +2501,7 @@
 ||gas-ethereum.com^
 ||gas-lido.com^
 ||gasfeecal.com^
+||gasp-web3.vercel.app^
 ||gateway-collab.com^
 ||gayjoygo.com^
 ||geezyy.github.io^
@@ -4047,7 +4049,6 @@
 ||mtamskwalogs.azurewebsites.net^
 ||mtc-speed.web.app^
 ||mtvrs-neotokyo.codes^
-||muitamask-login.blogspot.com^
 ||mujeresautistas.com^
 ||mulltibits.sbs^
 ||multchain.net^
