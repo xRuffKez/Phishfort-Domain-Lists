@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May  3 13:02:07 UTC 2024
+# PhishFort Full Domain List - Fri May  3 14:01:54 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109082
+# Number of Entries: 109085
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -12480,6 +12480,7 @@
 ||bitkub-airdrop.com^
 ||bitkub-app-gesso.blogspot.com^
 ||bitkub-bitcoin-cryptocurrency-exchange.apk.watch^
+||bitkub-capital.org^
 ||bitkub-casahoteis.blogspot.com^
 ||bitkub-com.ml^
 ||bitkub-crypto-exchange.blogspot.com^
@@ -61605,6 +61606,7 @@
 ||o11ce.com^
 ||o2-cert.com^
 ||o2-kundenverwaltung.info^
+||o2-mobilefunkvetrag.de^
 ||o2online-service.de^
 ||o2online.com.de^
 ||o2p2z.s3o98.com^
@@ -88868,6 +88870,7 @@
 ||ubro.space^
 ||ubskscoin.com^
 ||ubsteau.xyz^
+||uchendibenefist.com^
 ||ucofez.cf^
 ||udefi.ueth.cc^
 ||udemical.com^

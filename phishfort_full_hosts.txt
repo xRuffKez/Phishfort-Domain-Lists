@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May  3 13:02:07 UTC 2024
+# PhishFort Full Domain List - Fri May  3 14:01:54 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109082
+# Number of Entries: 109085
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -12480,6 +12480,7 @@
 0.0.0.0 bitkub-airdrop.com
 0.0.0.0 bitkub-app-gesso.blogspot.com
 0.0.0.0 bitkub-bitcoin-cryptocurrency-exchange.apk.watch
+0.0.0.0 bitkub-capital.org
 0.0.0.0 bitkub-casahoteis.blogspot.com
 0.0.0.0 bitkub-com.ml
 0.0.0.0 bitkub-crypto-exchange.blogspot.com
@@ -61605,6 +61606,7 @@
 0.0.0.0 o11ce.com
 0.0.0.0 o2-cert.com
 0.0.0.0 o2-kundenverwaltung.info
+0.0.0.0 o2-mobilefunkvetrag.de
 0.0.0.0 o2online-service.de
 0.0.0.0 o2online.com.de
 0.0.0.0 o2p2z.s3o98.com
@@ -88868,6 +88870,7 @@
 0.0.0.0 ubro.space
 0.0.0.0 ubskscoin.com
 0.0.0.0 ubsteau.xyz
+0.0.0.0 uchendibenefist.com
 0.0.0.0 ucofez.cf
 0.0.0.0 udefi.ueth.cc
 0.0.0.0 udemical.com
