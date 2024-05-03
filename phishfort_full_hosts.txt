@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May  3 12:02:37 UTC 2024
+# PhishFort Full Domain List - Fri May  3 13:02:07 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109081
+# Number of Entries: 109082
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -48696,6 +48696,7 @@
 0.0.0.0 mass.govdtaconnecthhs.com
 0.0.0.0 massachendristr.com
 0.0.0.0 massachutsuidet.com
+0.0.0.0 massagetulbenef.com
 0.0.0.0 massareshaet.net
 0.0.0.0 masscarassist.com
 0.0.0.0 masschutconnect.com
