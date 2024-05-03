@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May  3 01:26:13 UTC 2024
+# PhishFort Full Domain List - Fri May  3 02:12:13 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109023
+# Number of Entries: 109028
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -6458,6 +6458,7 @@
 ||app.optimism.run^
 ||app.ordinate-protocol.com^
 ||app.osimosis.com^
+||app.overtrip.xyz^
 ||app.pancaekeswap.net^
 ||app.pancaekeswap.org^
 ||app.pancakefork.finance^
@@ -42171,6 +42172,7 @@
 ||kefu.pancackswap.com^
 ||kefu.pancakesvap.bar^
 ||kefu.uniswap9.org^
+||kegwat.pro^
 ||kekpads.top^
 ||keldantecollections.com^
 ||kelleenonline.com^
@@ -43183,6 +43185,7 @@
 ||lalalalamanans.com^
 ||laliy1.ru.com^
 ||lalunamodaq.blogspot.com^
+||lama.pinksailes.com^
 ||lambent-llama.netlify.app^
 ||lamborghininft.xyz^
 ||lamothyadjuncan.com^
@@ -48206,6 +48209,7 @@
 ||manta.hair^
 ||manta.layerbank.cc^
 ||manta.layerbank.network^
+||manta.mainnet-airdrop.xyz^
 ||manta.nettwork.site^
 ||manta.netvork.xyz^
 ||manta.newupdate.io^
@@ -77489,6 +77493,7 @@
 ||rwvconstruction.com^
 ||rwvoke.cash^
 ||rx-nt.duckdns.org^
+||rx0k8.getmobox.buzz^
 ||rxcran-promogive.com^
 ||rxdappsmainnet.online^
 ||ry.elegiac.site^
