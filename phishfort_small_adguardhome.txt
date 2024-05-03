@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May  3 04:06:41 UTC 2024
+# PhishFort Small Domain List - Fri May  3 05:05:00 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7551
+# Number of Entries: 7550
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -194,6 +194,7 @@
 ||agoda-offer18239.com^
 ||agoda-promotion.com^
 ||agoda-vip.cc^
+||agoda-vip.com^
 ||agoda.config-guest178.com^
 ||agoda.confirm139233.com^
 ||agoda.extra-checks.com^
@@ -1201,7 +1202,6 @@
 ||cakes-reward.xyz^
 ||cakespie.org^
 ||cakesw-offers.com^
-||cakeswap.me^
 ||cakeswp.app^
 ||cakeudefi.biz^
 ||cakeudefi.com^
@@ -4623,7 +4623,6 @@
 ||pancakaswp-finance.com^
 ||pancakaswp-finance.xyz^
 ||pancake-clalm.xyz^
-||pancake-finance.net^
 ||pancake-frontend-29e48ga31-chefilip.vercel.app^
 ||pancake-frontend-flznr5rp3-chefilip.vercel.app^
 ||pancake-ifo.pages.dev^

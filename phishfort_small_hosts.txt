@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May  3 04:06:41 UTC 2024
+# PhishFort Small Domain List - Fri May  3 05:05:00 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7551
+# Number of Entries: 7550
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -194,6 +194,7 @@
 0.0.0.0 agoda-offer18239.com
 0.0.0.0 agoda-promotion.com
 0.0.0.0 agoda-vip.cc
+0.0.0.0 agoda-vip.com
 0.0.0.0 agoda.config-guest178.com
 0.0.0.0 agoda.confirm139233.com
 0.0.0.0 agoda.extra-checks.com
@@ -1201,7 +1202,6 @@
 0.0.0.0 cakes-reward.xyz
 0.0.0.0 cakespie.org
 0.0.0.0 cakesw-offers.com
-0.0.0.0 cakeswap.me
 0.0.0.0 cakeswp.app
 0.0.0.0 cakeudefi.biz
 0.0.0.0 cakeudefi.com
@@ -4623,7 +4623,6 @@
 0.0.0.0 pancakaswp-finance.com
 0.0.0.0 pancakaswp-finance.xyz
 0.0.0.0 pancake-clalm.xyz
-0.0.0.0 pancake-finance.net
 0.0.0.0 pancake-frontend-29e48ga31-chefilip.vercel.app
 0.0.0.0 pancake-frontend-flznr5rp3-chefilip.vercel.app
 0.0.0.0 pancake-ifo.pages.dev
