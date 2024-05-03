@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May  3 15:05:32 UTC 2024
+# PhishFort Small Domain List - Fri May  3 16:04:58 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7538
+# Number of Entries: 7539
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -138,6 +138,7 @@
 ||abracadebra.money^
 ||abs-staging.artbyarabbank.ch^
 ||abspaurill.com^
+||abstra-bot-interface-web.vercel.app^
 ||abundant-boots-raspy.on-fleek.app^
 ||academy.topbundalle.com^
 ||acahealthinsure.com^
@@ -802,7 +803,6 @@
 ||axielnfinity.pages.dev^
 ||axiemarketplace.beauty^
 ||axiemarketplace.homes^
-||axiemarketplace.pics^
 ||axiemarketplace.rest^
 ||axiemarketplace.skin^
 ||axonnet.xyz^
@@ -3695,7 +3695,6 @@
 ||merlinlayer.app^
 ||mertamasek.azurewebsites.net^
 ||meshjs.net^
-||meskk.app^
 ||meta-drop.xyz^
 ||meta-kyc-activations.io^
 ||meta-mask-wallet.com^
@@ -5790,6 +5789,7 @@
 ||skipton-login.com^
 ||skymavis.cfd^
 ||skynet229.godaddysites.com^
+||skynettbe.ulcraft.com^
 ||skywardsemirates.com^
 ||skywardsglobal.com^
 ||slavic402wws.com^
@@ -5875,6 +5875,7 @@
 ||sols-meta.web.app^
 ||soltrading-bots.web.app^
 ||solventumcareers.com^
+||solventumrewards.com^
 ||solvprotocoi.com^
 ||solwl-saga.web.app^
 ||sommelier-finance.web.app^

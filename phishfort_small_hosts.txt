@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May  3 15:05:32 UTC 2024
+# PhishFort Small Domain List - Fri May  3 16:04:58 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7538
+# Number of Entries: 7539
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -138,6 +138,7 @@
 0.0.0.0 abracadebra.money
 0.0.0.0 abs-staging.artbyarabbank.ch
 0.0.0.0 abspaurill.com
+0.0.0.0 abstra-bot-interface-web.vercel.app
 0.0.0.0 abundant-boots-raspy.on-fleek.app
 0.0.0.0 academy.topbundalle.com
 0.0.0.0 acahealthinsure.com
@@ -802,7 +803,6 @@
 0.0.0.0 axielnfinity.pages.dev
 0.0.0.0 axiemarketplace.beauty
 0.0.0.0 axiemarketplace.homes
-0.0.0.0 axiemarketplace.pics
 0.0.0.0 axiemarketplace.rest
 0.0.0.0 axiemarketplace.skin
 0.0.0.0 axonnet.xyz
@@ -3695,7 +3695,6 @@
 0.0.0.0 merlinlayer.app
 0.0.0.0 mertamasek.azurewebsites.net
 0.0.0.0 meshjs.net
-0.0.0.0 meskk.app
 0.0.0.0 meta-drop.xyz
 0.0.0.0 meta-kyc-activations.io
 0.0.0.0 meta-mask-wallet.com
@@ -5790,6 +5789,7 @@
 0.0.0.0 skipton-login.com
 0.0.0.0 skymavis.cfd
 0.0.0.0 skynet229.godaddysites.com
+0.0.0.0 skynettbe.ulcraft.com
 0.0.0.0 skywardsemirates.com
 0.0.0.0 skywardsglobal.com
 0.0.0.0 slavic402wws.com
@@ -5875,6 +5875,7 @@
 0.0.0.0 sols-meta.web.app
 0.0.0.0 soltrading-bots.web.app
 0.0.0.0 solventumcareers.com
+0.0.0.0 solventumrewards.com
 0.0.0.0 solvprotocoi.com
 0.0.0.0 solwl-saga.web.app
 0.0.0.0 sommelier-finance.web.app
