@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Fri May  3 22:04:56 UTC 2024
+# PhishFort Small Domain List - Fri May  3 23:05:15 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7536
+# Number of Entries: 7540
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -53,11 +53,13 @@
 26grbw.cc
 2acnmzzlink.webcindario.com
 2crlw.pro
+2er.hzgold.net
 2eth.org
 2fa-metamask.online.snackbarko.nl
 2faprotector.com
 3000usdt.xyz
 32f79d9c.7cdb6f3702a09bbbd3afc136.workers.dev
+338465.kossuthneedshousing.com
 365cash.store
 3pzlywh.info
 3rdandtaylor.com
@@ -2962,6 +2964,7 @@ joblessconnect.net
 joblessconnect.org
 jobquestsolutions.com
 jobs-teleperformance.com
+jobs.www.coolgrids.com
 join-befilabs.com
 join-blockgames.com
 join-blockgames.xyz
@@ -4380,6 +4383,7 @@ nvidiagroot.tech
 nvidiaint.shop
 nviidia.com
 nw6.us
+nwe0s.radonpa.com
 ny9.us
 nycdepartmentoffinance.powerappsportals.us
 nyurbanonli.com

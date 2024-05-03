@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May  3 22:04:56 UTC 2024
+# PhishFort Small Domain List - Fri May  3 23:05:15 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7536
+# Number of Entries: 7540
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -54,11 +54,13 @@
 0.0.0.0 26grbw.cc
 0.0.0.0 2acnmzzlink.webcindario.com
 0.0.0.0 2crlw.pro
+0.0.0.0 2er.hzgold.net
 0.0.0.0 2eth.org
 0.0.0.0 2fa-metamask.online.snackbarko.nl
 0.0.0.0 2faprotector.com
 0.0.0.0 3000usdt.xyz
 0.0.0.0 32f79d9c.7cdb6f3702a09bbbd3afc136.workers.dev
+0.0.0.0 338465.kossuthneedshousing.com
 0.0.0.0 365cash.store
 0.0.0.0 3pzlywh.info
 0.0.0.0 3rdandtaylor.com
@@ -2963,6 +2965,7 @@
 0.0.0.0 joblessconnect.org
 0.0.0.0 jobquestsolutions.com
 0.0.0.0 jobs-teleperformance.com
+0.0.0.0 jobs.www.coolgrids.com
 0.0.0.0 join-befilabs.com
 0.0.0.0 join-blockgames.com
 0.0.0.0 join-blockgames.xyz
@@ -4381,6 +4384,7 @@
 0.0.0.0 nvidiaint.shop
 0.0.0.0 nviidia.com
 0.0.0.0 nw6.us
+0.0.0.0 nwe0s.radonpa.com
 0.0.0.0 ny9.us
 0.0.0.0 nycdepartmentoffinance.powerappsportals.us
 0.0.0.0 nyurbanonli.com
