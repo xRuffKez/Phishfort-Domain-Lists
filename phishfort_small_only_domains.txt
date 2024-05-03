@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Fri May  3 12:06:41 UTC 2024
+# PhishFort Small Domain List - Fri May  3 13:05:01 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7551
+# Number of Entries: 7552
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3593,6 +3593,7 @@ maskclaim.top
 maskcoin.pages.dev
 mass-gov.dta-connect-hhs.com
 massachendristr.com
+massagetulbenef.com
 masscarassist.com
 massgouidetma.org
 masslorelictorganospaychsetc.com
