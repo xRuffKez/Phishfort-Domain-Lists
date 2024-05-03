@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Fri May  3 13:05:01 UTC 2024
+# PhishFort Small Domain List - Fri May  3 14:05:27 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7552
+# Number of Entries: 7547
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -975,6 +975,7 @@ bitimeta.space
 bitinaut.top
 bitinautsmeta.space
 bitinteractivebrokers.org
+bitkub-capital.org
 bitkub-th.pro
 bitkub-th.vip
 bitkub.fafa855casino.com
@@ -1471,7 +1472,6 @@ claimspl20.web.app
 claimstrk.fun
 claimstrk.today
 claimstrk.xyz
-claimvoucher2.glitch.me
 claimzerion-protocol.pages.dev
 claimzeriondapps.pages.dev
 clarckconstruction.com
@@ -1662,7 +1662,6 @@ coqinucoin.claims
 corcentrc.com
 cornerdrop.org
 cornerpunks.org
-corporativojohnson.com
 corporativolear.com
 cosmos-networks.net
 coti.xcoindrop.top
@@ -3752,7 +3751,6 @@ metamask-login.nicepage.io
 metamask-platform.codeanyapp.com
 metamask-restorehome.cryptobase.ng
 metamask-restoreteam.com
-metamask-rewards.site
 metamask-updatextension.pages.dev
 metamask-verfiy.diaitologostopouza.gr
 metamask-verse.pages.dev
@@ -3773,7 +3771,6 @@ metamask.land
 metamask.managementcommunity.pro
 metamask.nodelinks.net
 metamask.so
-metamask.ss3.app
 metamask.tokenapp.top
 metamask.wallet-app.com
 metamask3.pw
@@ -4050,7 +4047,6 @@ motlon-inds.com
 moz-dia-meviplota.com
 mrestore.vercel.app
 mrgn-alphadao.web.app
-mrhcpayroll.local-user.com
 msgive.io
 msk-airdrop.live
 msmax.vip
@@ -4395,6 +4391,7 @@ nyurbanonli.com
 nzwinz.com
 o2-cert.com
 o2-kundenverwaltung.info
+o2-mobilefunkvetrag.de
 o2online-service.de
 o2online.com.de
 oasisprotocols.org
@@ -4999,7 +4996,6 @@ personajourney.trading
 peryourhealth.be
 peryourhealth.biz
 peryourhealth.blog
-peryourhealth.org
 peryourhealth.us
 petsversegames.sale
 petsversegames.site
@@ -6257,7 +6253,6 @@ tmedicalpr.lol
 tmtmoneyback.pages.dev
 tmwr.pro
 tnkeeper.com
-to.dataui.online
 toad-swap.org
 tobkeeper.com
 tokeeper.com
@@ -6403,6 +6398,7 @@ txaq.cc
 tysys.site
 uasetlog.com
 ubnr.cc
+uchendibenefist.com
 udu3.cc
 uehgdsa.com
 ueplestaret.com
@@ -6813,7 +6809,6 @@ web3love78.top
 web3mask.netlify.app
 web3nexa.com
 web3nodeconnection.org
-web3pancakeswap.com
 web3portal.com
 web3resolve.pages.dev
 web3resolvepage.tech

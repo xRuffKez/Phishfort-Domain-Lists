@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May  3 13:05:01 UTC 2024
+# PhishFort Small Domain List - Fri May  3 14:05:27 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7552
+# Number of Entries: 7547
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -976,6 +976,7 @@
 0.0.0.0 bitinaut.top
 0.0.0.0 bitinautsmeta.space
 0.0.0.0 bitinteractivebrokers.org
+0.0.0.0 bitkub-capital.org
 0.0.0.0 bitkub-th.pro
 0.0.0.0 bitkub-th.vip
 0.0.0.0 bitkub.fafa855casino.com
@@ -1472,7 +1473,6 @@
 0.0.0.0 claimstrk.fun
 0.0.0.0 claimstrk.today
 0.0.0.0 claimstrk.xyz
-0.0.0.0 claimvoucher2.glitch.me
 0.0.0.0 claimzerion-protocol.pages.dev
 0.0.0.0 claimzeriondapps.pages.dev
 0.0.0.0 clarckconstruction.com
@@ -1663,7 +1663,6 @@
 0.0.0.0 corcentrc.com
 0.0.0.0 cornerdrop.org
 0.0.0.0 cornerpunks.org
-0.0.0.0 corporativojohnson.com
 0.0.0.0 corporativolear.com
 0.0.0.0 cosmos-networks.net
 0.0.0.0 coti.xcoindrop.top
@@ -3753,7 +3752,6 @@
 0.0.0.0 metamask-platform.codeanyapp.com
 0.0.0.0 metamask-restorehome.cryptobase.ng
 0.0.0.0 metamask-restoreteam.com
-0.0.0.0 metamask-rewards.site
 0.0.0.0 metamask-updatextension.pages.dev
 0.0.0.0 metamask-verfiy.diaitologostopouza.gr
 0.0.0.0 metamask-verse.pages.dev
@@ -3774,7 +3772,6 @@
 0.0.0.0 metamask.managementcommunity.pro
 0.0.0.0 metamask.nodelinks.net
 0.0.0.0 metamask.so
-0.0.0.0 metamask.ss3.app
 0.0.0.0 metamask.tokenapp.top
 0.0.0.0 metamask.wallet-app.com
 0.0.0.0 metamask3.pw
@@ -4051,7 +4048,6 @@
 0.0.0.0 moz-dia-meviplota.com
 0.0.0.0 mrestore.vercel.app
 0.0.0.0 mrgn-alphadao.web.app
-0.0.0.0 mrhcpayroll.local-user.com
 0.0.0.0 msgive.io
 0.0.0.0 msk-airdrop.live
 0.0.0.0 msmax.vip
@@ -4396,6 +4392,7 @@
 0.0.0.0 nzwinz.com
 0.0.0.0 o2-cert.com
 0.0.0.0 o2-kundenverwaltung.info
+0.0.0.0 o2-mobilefunkvetrag.de
 0.0.0.0 o2online-service.de
 0.0.0.0 o2online.com.de
 0.0.0.0 oasisprotocols.org
@@ -5000,7 +4997,6 @@
 0.0.0.0 peryourhealth.be
 0.0.0.0 peryourhealth.biz
 0.0.0.0 peryourhealth.blog
-0.0.0.0 peryourhealth.org
 0.0.0.0 peryourhealth.us
 0.0.0.0 petsversegames.sale
 0.0.0.0 petsversegames.site
@@ -6258,7 +6254,6 @@
 0.0.0.0 tmtmoneyback.pages.dev
 0.0.0.0 tmwr.pro
 0.0.0.0 tnkeeper.com
-0.0.0.0 to.dataui.online
 0.0.0.0 toad-swap.org
 0.0.0.0 tobkeeper.com
 0.0.0.0 tokeeper.com
@@ -6404,6 +6399,7 @@
 0.0.0.0 tysys.site
 0.0.0.0 uasetlog.com
 0.0.0.0 ubnr.cc
+0.0.0.0 uchendibenefist.com
 0.0.0.0 udu3.cc
 0.0.0.0 uehgdsa.com
 0.0.0.0 ueplestaret.com
@@ -6814,7 +6810,6 @@
 0.0.0.0 web3mask.netlify.app
 0.0.0.0 web3nexa.com
 0.0.0.0 web3nodeconnection.org
-0.0.0.0 web3pancakeswap.com
 0.0.0.0 web3portal.com
 0.0.0.0 web3resolve.pages.dev
 0.0.0.0 web3resolvepage.tech
