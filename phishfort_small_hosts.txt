@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Fri May  3 00:18:15 UTC 2024
+# PhishFort Small Domain List - Fri May  3 01:29:05 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 7510
@@ -2617,7 +2617,6 @@
 0.0.0.0 graviex-defi.club
 0.0.0.0 graviex-defi.xyz
 0.0.0.0 graybar.com.ng
-0.0.0.0 graybarz.com
 0.0.0.0 grayscaletokens.com
 0.0.0.0 greenbitcoin-en.web.app
 0.0.0.0 greenbitscoin.pages.dev
@@ -3090,7 +3089,6 @@
 0.0.0.0 kier-group.co.uk
 0.0.0.0 kier-uk.com
 0.0.0.0 kiergroup.info
-0.0.0.0 kingroofing.com
 0.0.0.0 kitty-inu-dao.com
 0.0.0.0 kkyphtf0fbvl.ftntpk6ubbx4sk.ru
 0.0.0.0 klarnacasino.nl
@@ -3407,7 +3405,6 @@
 0.0.0.0 mail.web3-metamask-gateway.com
 0.0.0.0 mail.xn--pncakeswap-3gb.com
 0.0.0.0 mailclaimdmail.xyz
-0.0.0.0 mailinfosec.info
 0.0.0.0 main-makerdao.com
 0.0.0.0 maindexapp.pages.dev
 0.0.0.0 mainetnodeauth.pages.dev
@@ -4185,6 +4182,7 @@
 0.0.0.0 nd8.us
 0.0.0.0 near-lottery.org
 0.0.0.0 nearraffle.com
+0.0.0.0 neimanmarcus-last-call.shop
 0.0.0.0 neom-property.com
 0.0.0.0 neom.day
 0.0.0.0 neomecolife.com
@@ -5562,6 +5560,9 @@
 0.0.0.0 saksoff5th.club
 0.0.0.0 saksoff5th.love
 0.0.0.0 saksoff5th.store
+0.0.0.0 saksoff5th01.com
+0.0.0.0 saksoff5th02.com
+0.0.0.0 saksoff5th03.com
 0.0.0.0 saksoff5th1.com
 0.0.0.0 saksoff5th2.com
 0.0.0.0 saksoff5th3.com
@@ -5983,7 +5984,6 @@
 0.0.0.0 stethpool.xyz
 0.0.0.0 stip-radiantcapital.com
 0.0.0.0 stonedr.xyz
-0.0.0.0 stonesolsteveaustin.com
 0.0.0.0 stonex12.com
 0.0.0.0 stonexkr.com
 0.0.0.0 stonexkr.me

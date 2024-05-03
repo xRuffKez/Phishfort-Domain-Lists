@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Fri May  3 00:18:15 UTC 2024
+# PhishFort Small Domain List - Fri May  3 01:29:05 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 7510
 # Project: PhishFort (https://phishfort.com/)
@@ -2616,7 +2616,6 @@ grape-officialx.pages.dev
 graviex-defi.club
 graviex-defi.xyz
 graybar.com.ng
-graybarz.com
 grayscaletokens.com
 greenbitcoin-en.web.app
 greenbitscoin.pages.dev
@@ -3089,7 +3088,6 @@ kier-careers.co.uk
 kier-group.co.uk
 kier-uk.com
 kiergroup.info
-kingroofing.com
 kitty-inu-dao.com
 kkyphtf0fbvl.ftntpk6ubbx4sk.ru
 klarnacasino.nl
@@ -3406,7 +3404,6 @@ mail.tickets.atelierfain.ro
 mail.web3-metamask-gateway.com
 mail.xn--pncakeswap-3gb.com
 mailclaimdmail.xyz
-mailinfosec.info
 main-makerdao.com
 maindexapp.pages.dev
 mainetnodeauth.pages.dev
@@ -4184,6 +4181,7 @@ navia.work
 nd8.us
 near-lottery.org
 nearraffle.com
+neimanmarcus-last-call.shop
 neom-property.com
 neom.day
 neomecolife.com
@@ -5561,6 +5559,9 @@ saksoff5th-us1.com
 saksoff5th.club
 saksoff5th.love
 saksoff5th.store
+saksoff5th01.com
+saksoff5th02.com
+saksoff5th03.com
 saksoff5th1.com
 saksoff5th2.com
 saksoff5th3.com
@@ -5982,7 +5983,6 @@ stethers.com
 stethpool.xyz
 stip-radiantcapital.com
 stonedr.xyz
-stonesolsteveaustin.com
 stonex12.com
 stonexkr.com
 stonexkr.me
