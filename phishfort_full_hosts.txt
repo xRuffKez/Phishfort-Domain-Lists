@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May  3 15:02:02 UTC 2024
+# PhishFort Full Domain List - Fri May  3 16:02:15 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109086
+# Number of Entries: 109089
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2291,6 +2291,7 @@
 0.0.0.0 absentlxy.click
 0.0.0.0 abso.site
 0.0.0.0 abspaurill.com
+0.0.0.0 abstra-bot-interface-web.vercel.app
 0.0.0.0 abstractgobblers.art
 0.0.0.0 abstractnouveau.live
 0.0.0.0 abstsmentglances.com
@@ -80210,6 +80211,7 @@
 0.0.0.0 skynet229.godaddysites.com
 0.0.0.0 skynetbe1452.usluga.me
 0.0.0.0 skynetconnectassist.com
+0.0.0.0 skynettbe.ulcraft.com
 0.0.0.0 skypassairlines.com
 0.0.0.0 skyppee.com
 0.0.0.0 skyprojectaio.com
@@ -81581,6 +81583,7 @@
 0.0.0.0 solveerror.org
 0.0.0.0 solvencyvault.net
 0.0.0.0 solventumcareers.com
+0.0.0.0 solventumrewards.com
 0.0.0.0 solverexpress.live
 0.0.0.0 solverse.space
 0.0.0.0 solvetech.info

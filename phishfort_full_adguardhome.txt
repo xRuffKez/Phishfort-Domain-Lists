@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May  3 15:02:02 UTC 2024
+# PhishFort Full Domain List - Fri May  3 16:02:15 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109086
+# Number of Entries: 109089
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2291,6 +2291,7 @@
 ||absentlxy.click^
 ||abso.site^
 ||abspaurill.com^
+||abstra-bot-interface-web.vercel.app^
 ||abstractgobblers.art^
 ||abstractnouveau.live^
 ||abstsmentglances.com^
@@ -80210,6 +80211,7 @@
 ||skynet229.godaddysites.com^
 ||skynetbe1452.usluga.me^
 ||skynetconnectassist.com^
+||skynettbe.ulcraft.com^
 ||skypassairlines.com^
 ||skyppee.com^
 ||skyprojectaio.com^
@@ -81581,6 +81583,7 @@
 ||solveerror.org^
 ||solvencyvault.net^
 ||solventumcareers.com^
+||solventumrewards.com^
 ||solverexpress.live^
 ||solverse.space^
 ||solvetech.info^
