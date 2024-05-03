@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Fri May  3 19:01:48 UTC 2024
+# PhishFort Full Domain List - Fri May  3 20:02:07 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109091
+# Number of Entries: 109093
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -10711,7 +10711,6 @@ barberig.com
 barcodesincs.com
 barcorr-barcos.com
 bardy-protocol.com
-bariatrics.www.emdeebeebee.com
 barkscoffe.de
 barlettapontoonboats.asia
 barleyapp.finance
@@ -17720,6 +17719,7 @@ claimether.finance
 claimether.one
 claimethereum.org
 claimethers.org
+claimethnafianancerewards.vercel.app
 claimevmpx.io
 claimfreeairdrop.com
 claimfreemint.com
@@ -49587,6 +49587,7 @@ meritrustcu.site
 meritsync-presalestoken.com
 merkle-root.com
 merkle.cash
+merlin-chain-chi.vercel.app
 merlin-chain.com
 merlin.meson.fi
 merlinchain.network
@@ -75590,6 +75591,7 @@ registration-blur.io
 registration-bounce.com
 registration-defi.com
 registration-defi.trade
+registration-fantasy.top
 registration-fantom.network
 registration-jup.ag
 registration-layerzero.network

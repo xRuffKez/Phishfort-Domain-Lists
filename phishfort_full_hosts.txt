@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May  3 19:01:48 UTC 2024
+# PhishFort Full Domain List - Fri May  3 20:02:07 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109091
+# Number of Entries: 109093
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -10712,7 +10712,6 @@
 0.0.0.0 barcodesincs.com
 0.0.0.0 barcorr-barcos.com
 0.0.0.0 bardy-protocol.com
-0.0.0.0 bariatrics.www.emdeebeebee.com
 0.0.0.0 barkscoffe.de
 0.0.0.0 barlettapontoonboats.asia
 0.0.0.0 barleyapp.finance
@@ -17721,6 +17720,7 @@
 0.0.0.0 claimether.one
 0.0.0.0 claimethereum.org
 0.0.0.0 claimethers.org
+0.0.0.0 claimethnafianancerewards.vercel.app
 0.0.0.0 claimevmpx.io
 0.0.0.0 claimfreeairdrop.com
 0.0.0.0 claimfreemint.com
@@ -49588,6 +49588,7 @@
 0.0.0.0 meritsync-presalestoken.com
 0.0.0.0 merkle-root.com
 0.0.0.0 merkle.cash
+0.0.0.0 merlin-chain-chi.vercel.app
 0.0.0.0 merlin-chain.com
 0.0.0.0 merlin.meson.fi
 0.0.0.0 merlinchain.network
@@ -75591,6 +75592,7 @@
 0.0.0.0 registration-bounce.com
 0.0.0.0 registration-defi.com
 0.0.0.0 registration-defi.trade
+0.0.0.0 registration-fantasy.top
 0.0.0.0 registration-fantom.network
 0.0.0.0 registration-jup.ag
 0.0.0.0 registration-layerzero.network
