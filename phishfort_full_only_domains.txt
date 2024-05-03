@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Fri May  3 20:02:07 UTC 2024
+# PhishFort Full Domain List - Fri May  3 21:01:59 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109093
+# Number of Entries: 109097
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -11345,6 +11345,7 @@ beyten.store
 bezacan.online
 bezbenter.site
 bezoawblocksio.live
+bezoeknummer0734859938.info
 bezoeknummer48912543221.info
 bezoioblocks.best
 bezos-amazon.top
@@ -17607,6 +17608,7 @@ claim.thetipcoin.press
 claim.thetipcoin.space
 claim.tokencake.org
 claim.tokenlido.org
+claim.ton-telegram.xyz
 claim.uni-rebates.com
 claim.uniswap.gg
 claim.uscircle.org
@@ -41817,6 +41819,7 @@ jupiter-swap.net
 jupiter-web.network
 jupiter-web3.net
 jupiter-web3.org
+jupiter.services-claiming.cc
 jupiterairdrop.org
 jupitercatdet.com
 jupiterexchange.events
@@ -93152,6 +93155,7 @@ wallet-metamask.com
 wallet-metamask.ddnss.eu
 wallet-metamask.net
 wallet-metamask.online
+wallet-metamask.org
 wallet-metamosk.com
 wallet-metomack.com
 wallet-metomask.com
