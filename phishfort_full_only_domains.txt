@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Fri May  3 22:01:57 UTC 2024
+# PhishFort Full Domain List - Fri May  3 23:02:00 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109098
+# Number of Entries: 109102
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1059,6 +1059,7 @@
 2chainencrypt.com
 2crlw.pro
 2ed8a364-896c-4965-b6c7-e38f88fa82ce.htmlpasta.com
+2er.hzgold.net
 2eth.org
 2eth.site
 2ethereum.org
@@ -1152,6 +1153,7 @@
 33333myetherwallet.site
 333club.xyz
 3365cad5-455b-4ed0-a944-2b9bd0191501.htmlpasta.com
+338465.kossuthneedshousing.com
 33b6bfc0.4179b8e9601e93865902334b.workers.dev
 344erte634rt44434tet43rt45446-profile-update-unitedairline.pages.dev
 3494429810c0.ngrok.io
@@ -41472,6 +41474,7 @@ joblessconnect.org
 jobquestsolutions.com
 jobs-adastragrp.com
 jobs-teleperformance.com
+jobs.www.coolgrids.com
 jocbit.com
 joejoassociate.com
 joerogan.fund
@@ -61572,6 +61575,7 @@ nw-bridgebnb.com
 nw-swordofblood.com
 nw.xlzzdn.com
 nw6.us
+nwe0s.radonpa.com
 nwphysician.mesoforhair
 nwstate.vercel.app
 nxconnector.tk
