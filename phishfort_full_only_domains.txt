@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Fri May  3 06:02:18 UTC 2024
+# PhishFort Full Domain List - Fri May  3 07:02:09 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109078
+# Number of Entries: 109081
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -62468,6 +62468,7 @@ opemsea.io
 opemsea.net
 opemsea.pw
 opemseaq.com
+open-6lz.pages.dev
 open-aave.com
 open-adidas.com
 open-ai.events
@@ -64517,6 +64518,7 @@ pancake-frontend-29e48ga31-chefilip.vercel.app
 pancake-frontend-3hy.pages.dev
 pancake-frontend-6hdusry7s-chefmomota.vercel.app
 pancake-frontend-8in.pages.dev
+pancake-frontend-9urm4h6ap-chefilip.vercel.app
 pancake-frontend-dejmy38ut-chefilip.vercel.app
 pancake-frontend-flznr5rp3-chefilip.vercel.app
 pancake-frontend-oftl8ivug-chefilip.vercel.app
@@ -87256,6 +87258,7 @@ tonkeepee.com
 tonkeepeer.com
 tonkeeper-web.pages.dev
 tonkeeper.cc
+tonkeeper.digital
 tonkeeper.help
 tonkeeper.io
 tonkeeper.pages.dev

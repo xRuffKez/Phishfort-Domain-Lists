@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May  3 06:02:18 UTC 2024
+# PhishFort Full Domain List - Fri May  3 07:02:09 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109078
+# Number of Entries: 109081
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -62469,6 +62469,7 @@
 0.0.0.0 opemsea.net
 0.0.0.0 opemsea.pw
 0.0.0.0 opemseaq.com
+0.0.0.0 open-6lz.pages.dev
 0.0.0.0 open-aave.com
 0.0.0.0 open-adidas.com
 0.0.0.0 open-ai.events
@@ -64518,6 +64519,7 @@
 0.0.0.0 pancake-frontend-3hy.pages.dev
 0.0.0.0 pancake-frontend-6hdusry7s-chefmomota.vercel.app
 0.0.0.0 pancake-frontend-8in.pages.dev
+0.0.0.0 pancake-frontend-9urm4h6ap-chefilip.vercel.app
 0.0.0.0 pancake-frontend-dejmy38ut-chefilip.vercel.app
 0.0.0.0 pancake-frontend-flznr5rp3-chefilip.vercel.app
 0.0.0.0 pancake-frontend-oftl8ivug-chefilip.vercel.app
@@ -87257,6 +87259,7 @@
 0.0.0.0 tonkeepeer.com
 0.0.0.0 tonkeeper-web.pages.dev
 0.0.0.0 tonkeeper.cc
+0.0.0.0 tonkeeper.digital
 0.0.0.0 tonkeeper.help
 0.0.0.0 tonkeeper.io
 0.0.0.0 tonkeeper.pages.dev
