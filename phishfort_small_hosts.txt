@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May  3 21:04:42 UTC 2024
+# PhishFort Small Domain List - Fri May  3 22:04:56 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7535
+# Number of Entries: 7536
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -756,6 +756,7 @@
 0.0.0.0 atltayer-reward.top
 0.0.0.0 atmospipelinestorage.com
 0.0.0.0 atom.trasthub.top
+0.0.0.0 att-100402.weeblysite.com
 0.0.0.0 audius.gift
 0.0.0.0 aura-migration.live
 0.0.0.0 auroravortex.org

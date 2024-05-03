@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Fri May  3 21:04:42 UTC 2024
+# PhishFort Small Domain List - Fri May  3 22:04:56 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7535
+# Number of Entries: 7536
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -755,6 +755,7 @@ atlas3io-prime-kongz.web.app
 atltayer-reward.top
 atmospipelinestorage.com
 atom.trasthub.top
+att-100402.weeblysite.com
 audius.gift
 aura-migration.live
 auroravortex.org
