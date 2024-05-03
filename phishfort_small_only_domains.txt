@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Fri May  3 14:05:27 UTC 2024
+# PhishFort Small Domain List - Fri May  3 15:05:32 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7547
+# Number of Entries: 7538
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -56,7 +56,6 @@
 2eth.org
 2fa-metamask.online.snackbarko.nl
 2faprotector.com
-2ham.pro
 3000usdt.xyz
 32f79d9c.7cdb6f3702a09bbbd3afc136.workers.dev
 365cash.store
@@ -256,7 +255,6 @@ airdrop-arkham.com
 airdrop-atlayer.io
 airdrop-blast.network
 airdrop-caga.web.app
-airdrop-de.fi
 airdrop-defi.online
 airdrop-eesee.com
 airdrop-gomble.app
@@ -1175,7 +1173,6 @@ c0nnects.pages.dev
 c7ed7c0a-a3f0-4a62-9092-b1bb34dc0ec4-00-2hhxxwsgft7jv.janeway.replit.dev
 cabinet-customs.com.ua
 cabinet-customs.org.ua
-cadenceprotocol.net
 cadenerranks.cc
 cadillac-usdt.com
 cafaland.com
@@ -1629,7 +1626,6 @@ connect-dymension.xyz
 connect-mavia.com
 connect-protocol.com
 connect-rpcdefi.com
-connect-wenwencoin.com
 connect-xai.games
 connect.coilab.xyz
 connect.collabiand.com
@@ -3040,7 +3036,6 @@ jupit-eth.com
 jupiter-air.web.app
 jupiter-cats.org
 jupiter-ethereum.com
-jupiter-swap.net
 jupiter-web.network
 jupiterairdrop.org
 jupitercatdet.com
@@ -3730,7 +3725,6 @@ metaiask.xyz
 metamaaskus.azurewebsites.net
 metamaesk-wellet.godaddysites.com
 metamainnetfix.netlify.app
-metamank.io
 metamaok.cn
 metamaok.com
 metamasauk.azurewebsites.net
@@ -4531,6 +4525,7 @@ ops-drop.live
 opsecai-claim.com
 opsecc.software
 opsecloud.com
+optguen.com
 optic-bridge.com
 optics-bridge.xyz
 optimism-drop.com
@@ -4852,7 +4847,6 @@ partnershlp-satoshivm.com
 partnerwithequinor.com
 parurhealth.com
 pass-vulcan.xyz
-passes.top
 patcoin.xyz
 paulmulleracademico.com
 pax-f.netlify.app
@@ -6342,7 +6336,6 @@ treasuredao.qa
 treasuredao.rip
 treasury.keipdao.net
 treasury.roninschains.com
-trekki1-2ao7ciwr8-scgllr.vercel.app
 trestleprotocol.net
 treszorwallest.azurewebsites.net
 trezorsuite-web3.com
@@ -6352,7 +6345,6 @@ trinet.za.com
 trinity-healthusa.org
 trippletradingteam.com
 tron-claim.top
-tron.sync-rectifier.com
 tronado.cash
 trrecoin.com
 trsutwallexension.godaddysites.com
@@ -7165,7 +7157,6 @@ www.mag-pie.xyz
 www.magpiexyz.click
 www.mainnet-portal.com
 www.makerdaodai.site
-www.maverickdao.org
 www.mavia.com.maviav.com
 www.mavia.comapp.ceesto.com
 www.mavia.comapp.hu54.com

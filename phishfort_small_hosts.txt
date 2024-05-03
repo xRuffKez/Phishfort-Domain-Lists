@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May  3 14:05:27 UTC 2024
+# PhishFort Small Domain List - Fri May  3 15:05:32 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7547
+# Number of Entries: 7538
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -57,7 +57,6 @@
 0.0.0.0 2eth.org
 0.0.0.0 2fa-metamask.online.snackbarko.nl
 0.0.0.0 2faprotector.com
-0.0.0.0 2ham.pro
 0.0.0.0 3000usdt.xyz
 0.0.0.0 32f79d9c.7cdb6f3702a09bbbd3afc136.workers.dev
 0.0.0.0 365cash.store
@@ -257,7 +256,6 @@
 0.0.0.0 airdrop-atlayer.io
 0.0.0.0 airdrop-blast.network
 0.0.0.0 airdrop-caga.web.app
-0.0.0.0 airdrop-de.fi
 0.0.0.0 airdrop-defi.online
 0.0.0.0 airdrop-eesee.com
 0.0.0.0 airdrop-gomble.app
@@ -1176,7 +1174,6 @@
 0.0.0.0 c7ed7c0a-a3f0-4a62-9092-b1bb34dc0ec4-00-2hhxxwsgft7jv.janeway.replit.dev
 0.0.0.0 cabinet-customs.com.ua
 0.0.0.0 cabinet-customs.org.ua
-0.0.0.0 cadenceprotocol.net
 0.0.0.0 cadenerranks.cc
 0.0.0.0 cadillac-usdt.com
 0.0.0.0 cafaland.com
@@ -1630,7 +1627,6 @@
 0.0.0.0 connect-mavia.com
 0.0.0.0 connect-protocol.com
 0.0.0.0 connect-rpcdefi.com
-0.0.0.0 connect-wenwencoin.com
 0.0.0.0 connect-xai.games
 0.0.0.0 connect.coilab.xyz
 0.0.0.0 connect.collabiand.com
@@ -3041,7 +3037,6 @@
 0.0.0.0 jupiter-air.web.app
 0.0.0.0 jupiter-cats.org
 0.0.0.0 jupiter-ethereum.com
-0.0.0.0 jupiter-swap.net
 0.0.0.0 jupiter-web.network
 0.0.0.0 jupiterairdrop.org
 0.0.0.0 jupitercatdet.com
@@ -3731,7 +3726,6 @@
 0.0.0.0 metamaaskus.azurewebsites.net
 0.0.0.0 metamaesk-wellet.godaddysites.com
 0.0.0.0 metamainnetfix.netlify.app
-0.0.0.0 metamank.io
 0.0.0.0 metamaok.cn
 0.0.0.0 metamaok.com
 0.0.0.0 metamasauk.azurewebsites.net
@@ -4532,6 +4526,7 @@
 0.0.0.0 opsecai-claim.com
 0.0.0.0 opsecc.software
 0.0.0.0 opsecloud.com
+0.0.0.0 optguen.com
 0.0.0.0 optic-bridge.com
 0.0.0.0 optics-bridge.xyz
 0.0.0.0 optimism-drop.com
@@ -4853,7 +4848,6 @@
 0.0.0.0 partnerwithequinor.com
 0.0.0.0 parurhealth.com
 0.0.0.0 pass-vulcan.xyz
-0.0.0.0 passes.top
 0.0.0.0 patcoin.xyz
 0.0.0.0 paulmulleracademico.com
 0.0.0.0 pax-f.netlify.app
@@ -6343,7 +6337,6 @@
 0.0.0.0 treasuredao.rip
 0.0.0.0 treasury.keipdao.net
 0.0.0.0 treasury.roninschains.com
-0.0.0.0 trekki1-2ao7ciwr8-scgllr.vercel.app
 0.0.0.0 trestleprotocol.net
 0.0.0.0 treszorwallest.azurewebsites.net
 0.0.0.0 trezorsuite-web3.com
@@ -6353,7 +6346,6 @@
 0.0.0.0 trinity-healthusa.org
 0.0.0.0 trippletradingteam.com
 0.0.0.0 tron-claim.top
-0.0.0.0 tron.sync-rectifier.com
 0.0.0.0 tronado.cash
 0.0.0.0 trrecoin.com
 0.0.0.0 trsutwallexension.godaddysites.com
@@ -7166,7 +7158,6 @@
 0.0.0.0 www.magpiexyz.click
 0.0.0.0 www.mainnet-portal.com
 0.0.0.0 www.makerdaodai.site
-0.0.0.0 www.maverickdao.org
 0.0.0.0 www.mavia.com.maviav.com
 0.0.0.0 www.mavia.comapp.ceesto.com
 0.0.0.0 www.mavia.comapp.hu54.com
