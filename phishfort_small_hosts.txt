@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May  3 02:14:45 UTC 2024
+# PhishFort Small Domain List - Fri May  3 03:06:04 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7512
+# Number of Entries: 7523
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -295,6 +295,7 @@
 0.0.0.0 airdrop.everyworld.one
 0.0.0.0 airdrop.fuelchain.network
 0.0.0.0 airdrop.fuelnetwork.net
+0.0.0.0 airdrop.gam3sgg.net
 0.0.0.0 airdrop.manto.network
 0.0.0.0 airdrop.mfi.expert
 0.0.0.0 airdrop.modenetwork.xyz
@@ -869,6 +870,7 @@
 0.0.0.0 bdb7.cc
 0.0.0.0 beacon-usdt.shop
 0.0.0.0 beanzoff.com
+0.0.0.0 bearswap3.com
 0.0.0.0 beefydefi.sbs
 0.0.0.0 beeswap-frontend-web.vercel.app
 0.0.0.0 befilab.com
@@ -895,7 +897,6 @@
 0.0.0.0 berrachain.shop
 0.0.0.0 beshealtahq.website
 0.0.0.0 bestchnage.com
-0.0.0.0 bestweightlist.com
 0.0.0.0 beta-opensea.com
 0.0.0.0 bezoeknummer48912543221.info
 0.0.0.0 biasts.me
@@ -1065,6 +1066,7 @@
 0.0.0.0 blueseanice.com
 0.0.0.0 blur-drop.claims
 0.0.0.0 blurprotocol.us
+0.0.0.0 bmvqq.cc
 0.0.0.0 bnb-crypto.xyz
 0.0.0.0 bnbheibaie.quest
 0.0.0.0 bnbmakerdao.online
@@ -1107,6 +1109,7 @@
 0.0.0.0 box-nftburn.web.app
 0.0.0.0 box-nftlive.com
 0.0.0.0 box-nftmint.web.app
+0.0.0.0 boxes-coin.web.app
 0.0.0.0 boxeseden.web.app
 0.0.0.0 boxmint-project.web.app
 0.0.0.0 bpxtoken.network
@@ -1114,7 +1117,6 @@
 0.0.0.0 brands4less.com.py
 0.0.0.0 bratishkaa.com
 0.0.0.0 brave-blog.mylviajes.com.ve
-0.0.0.0 bravebrowserdl.online
 0.0.0.0 brc20.su
 0.0.0.0 bridge-a3vigrfjd-pancakeswap.vercel.app
 0.0.0.0 bridge-modenet.work
@@ -1734,6 +1736,7 @@
 0.0.0.0 dalarnas.site
 0.0.0.0 dalarnas.website
 0.0.0.0 dama.or.tz
+0.0.0.0 dao-nfts.web.app
 0.0.0.0 dao-solana.web.app
 0.0.0.0 daoblend.xyz
 0.0.0.0 daoblender.xyz
@@ -2717,6 +2720,7 @@
 0.0.0.0 heavensgate.dog
 0.0.0.0 hedgefund-swap.org
 0.0.0.0 hedgeswap.org
+0.0.0.0 helio-ravedrop.web.app
 0.0.0.0 helixap.com.ai-web3.cfd
 0.0.0.0 helixapp.com.web3-connect.pw
 0.0.0.0 hellothisisatest.com
@@ -3024,6 +3028,7 @@
 0.0.0.0 jupdrop88.com
 0.0.0.0 jupdrop99.com
 0.0.0.0 jupit-eth.com
+0.0.0.0 jupiter-air.web.app
 0.0.0.0 jupiter-cats.org
 0.0.0.0 jupiter-ethereum.com
 0.0.0.0 jupiter-swap.net
@@ -4020,6 +4025,7 @@
 0.0.0.0 moonbeams-web3.com
 0.0.0.0 moonsama.tech
 0.0.0.0 moonwel.finance
+0.0.0.0 mopssd.pro
 0.0.0.0 morganwallenshirt.store
 0.0.0.0 morosnet.xyz
 0.0.0.0 morossnet.xyz
@@ -4150,6 +4156,7 @@
 0.0.0.0 mysteryboxing44.vercel.app
 0.0.0.0 mysteryboxmint4389.vercel.app
 0.0.0.0 mysteryboxnow.vercel.app
+0.0.0.0 mysteryboxstelthmint.web.app
 0.0.0.0 mysteryboxv1.vercel.app
 0.0.0.0 mysteryboxvp.vercel.app
 0.0.0.0 mysterybpx80.vercel.app
@@ -5164,6 +5171,7 @@
 0.0.0.0 pxffsite.web.app
 0.0.0.0 pyrthdex.com
 0.0.0.0 pyth-claim.web.app
+0.0.0.0 pyth-drop.web.app
 0.0.0.0 pyth-web3.org
 0.0.0.0 pyth.party
 0.0.0.0 pythnetwork.airdrop-claiming.xyz
@@ -5418,7 +5426,6 @@
 0.0.0.0 revoke-tips.com
 0.0.0.0 revoke-wallet.com
 0.0.0.0 revoke-wallet.net
-0.0.0.0 revoke-web.xyz
 0.0.0.0 revoke.host
 0.0.0.0 revoke.ink
 0.0.0.0 revoke.plus
@@ -5438,7 +5445,6 @@
 0.0.0.0 revokecontract.xyz
 0.0.0.0 revokeecash.com
 0.0.0.0 revokenode.com
-0.0.0.0 revokes-cash.xyz
 0.0.0.0 revokeu.cash
 0.0.0.0 revvmotorsport.tech
 0.0.0.0 revweb3-access.pages.dev
@@ -6143,6 +6149,7 @@
 0.0.0.0 tektekdunk.blogspot.com
 0.0.0.0 teleperformer.in
 0.0.0.0 tenser.trade
+0.0.0.0 tensolana.web.app
 0.0.0.0 tensor-trade-git-tree-tensor.vercel.app
 0.0.0.0 tensor-trade.netlify.app
 0.0.0.0 tensors.site
@@ -6374,6 +6381,7 @@
 0.0.0.0 tysys.site
 0.0.0.0 uasetlog.com
 0.0.0.0 ubnr.cc
+0.0.0.0 udu3.cc
 0.0.0.0 uehgdsa.com
 0.0.0.0 ueplestaret.com
 0.0.0.0 ufalmassuissat.com
@@ -6454,6 +6462,7 @@
 0.0.0.0 us4f.cc
 0.0.0.0 us_mettmsika_en_us3.godaddysites.com
 0.0.0.0 usbnkrellacrd.site
+0.0.0.0 uscmd.pro
 0.0.0.0 usdc-claimback.online
 0.0.0.0 usdc-gift.top
 0.0.0.0 usdc-r9kaq.github.io
@@ -6470,7 +6479,6 @@
 0.0.0.0 usdonbsc.tech
 0.0.0.0 usdt-drop.top
 0.0.0.0 usdt-v2.com
-0.0.0.0 usdt.is
 0.0.0.0 usdt.nz
 0.0.0.0 usdt.trarchst.com
 0.0.0.0 usdt.wine
@@ -6491,6 +6499,7 @@
 0.0.0.0 v3.app.staging.tgf.nyuki.io
 0.0.0.0 v3.stakewise-finance.com
 0.0.0.0 v3everrise.app
+0.0.0.0 v6hd3.pro
 0.0.0.0 v9si.cc
 0.0.0.0 vailddapps.pages.dev
 0.0.0.0 validatechains.pages.dev
@@ -6640,6 +6649,7 @@
 0.0.0.0 w.contract-deployer.live
 0.0.0.0 w.optimalsmart-sync.buzz
 0.0.0.0 w40y.pro
+0.0.0.0 w8qmr.cc
 0.0.0.0 wa.me
 0.0.0.0 wabanetworks.com
 0.0.0.0 wagmi-ethereum.com
@@ -7479,6 +7489,7 @@
 0.0.0.0 zklink.in
 0.0.0.0 zkmindversatile.pages.dev
 0.0.0.0 zknewdcs.pages.dev
+0.0.0.0 zknzwk.cc
 0.0.0.0 zkpolyhedra.net
 0.0.0.0 zks-labsfoundation.com
 0.0.0.0 zks-labsfoundation.net

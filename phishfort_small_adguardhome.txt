@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May  3 02:14:45 UTC 2024
+# PhishFort Small Domain List - Fri May  3 03:06:04 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7512
+# Number of Entries: 7523
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -295,6 +295,7 @@
 ||airdrop.everyworld.one^
 ||airdrop.fuelchain.network^
 ||airdrop.fuelnetwork.net^
+||airdrop.gam3sgg.net^
 ||airdrop.manto.network^
 ||airdrop.mfi.expert^
 ||airdrop.modenetwork.xyz^
@@ -869,6 +870,7 @@
 ||bdb7.cc^
 ||beacon-usdt.shop^
 ||beanzoff.com^
+||bearswap3.com^
 ||beefydefi.sbs^
 ||beeswap-frontend-web.vercel.app^
 ||befilab.com^
@@ -895,7 +897,6 @@
 ||berrachain.shop^
 ||beshealtahq.website^
 ||bestchnage.com^
-||bestweightlist.com^
 ||beta-opensea.com^
 ||bezoeknummer48912543221.info^
 ||biasts.me^
@@ -1065,6 +1066,7 @@
 ||blueseanice.com^
 ||blur-drop.claims^
 ||blurprotocol.us^
+||bmvqq.cc^
 ||bnb-crypto.xyz^
 ||bnbheibaie.quest^
 ||bnbmakerdao.online^
@@ -1107,6 +1109,7 @@
 ||box-nftburn.web.app^
 ||box-nftlive.com^
 ||box-nftmint.web.app^
+||boxes-coin.web.app^
 ||boxeseden.web.app^
 ||boxmint-project.web.app^
 ||bpxtoken.network^
@@ -1114,7 +1117,6 @@
 ||brands4less.com.py^
 ||bratishkaa.com^
 ||brave-blog.mylviajes.com.ve^
-||bravebrowserdl.online^
 ||brc20.su^
 ||bridge-a3vigrfjd-pancakeswap.vercel.app^
 ||bridge-modenet.work^
@@ -1734,6 +1736,7 @@
 ||dalarnas.site^
 ||dalarnas.website^
 ||dama.or.tz^
+||dao-nfts.web.app^
 ||dao-solana.web.app^
 ||daoblend.xyz^
 ||daoblender.xyz^
@@ -2717,6 +2720,7 @@
 ||heavensgate.dog^
 ||hedgefund-swap.org^
 ||hedgeswap.org^
+||helio-ravedrop.web.app^
 ||helixap.com.ai-web3.cfd^
 ||helixapp.com.web3-connect.pw^
 ||hellothisisatest.com^
@@ -3024,6 +3028,7 @@
 ||jupdrop88.com^
 ||jupdrop99.com^
 ||jupit-eth.com^
+||jupiter-air.web.app^
 ||jupiter-cats.org^
 ||jupiter-ethereum.com^
 ||jupiter-swap.net^
@@ -4020,6 +4025,7 @@
 ||moonbeams-web3.com^
 ||moonsama.tech^
 ||moonwel.finance^
+||mopssd.pro^
 ||morganwallenshirt.store^
 ||morosnet.xyz^
 ||morossnet.xyz^
@@ -4150,6 +4156,7 @@
 ||mysteryboxing44.vercel.app^
 ||mysteryboxmint4389.vercel.app^
 ||mysteryboxnow.vercel.app^
+||mysteryboxstelthmint.web.app^
 ||mysteryboxv1.vercel.app^
 ||mysteryboxvp.vercel.app^
 ||mysterybpx80.vercel.app^
@@ -5164,6 +5171,7 @@
 ||pxffsite.web.app^
 ||pyrthdex.com^
 ||pyth-claim.web.app^
+||pyth-drop.web.app^
 ||pyth-web3.org^
 ||pyth.party^
 ||pythnetwork.airdrop-claiming.xyz^
@@ -5418,7 +5426,6 @@
 ||revoke-tips.com^
 ||revoke-wallet.com^
 ||revoke-wallet.net^
-||revoke-web.xyz^
 ||revoke.host^
 ||revoke.ink^
 ||revoke.plus^
@@ -5438,7 +5445,6 @@
 ||revokecontract.xyz^
 ||revokeecash.com^
 ||revokenode.com^
-||revokes-cash.xyz^
 ||revokeu.cash^
 ||revvmotorsport.tech^
 ||revweb3-access.pages.dev^
@@ -6143,6 +6149,7 @@
 ||tektekdunk.blogspot.com^
 ||teleperformer.in^
 ||tenser.trade^
+||tensolana.web.app^
 ||tensor-trade-git-tree-tensor.vercel.app^
 ||tensor-trade.netlify.app^
 ||tensors.site^
@@ -6374,6 +6381,7 @@
 ||tysys.site^
 ||uasetlog.com^
 ||ubnr.cc^
+||udu3.cc^
 ||uehgdsa.com^
 ||ueplestaret.com^
 ||ufalmassuissat.com^
@@ -6454,6 +6462,7 @@
 ||us4f.cc^
 ||us_mettmsika_en_us3.godaddysites.com^
 ||usbnkrellacrd.site^
+||uscmd.pro^
 ||usdc-claimback.online^
 ||usdc-gift.top^
 ||usdc-r9kaq.github.io^
@@ -6470,7 +6479,6 @@
 ||usdonbsc.tech^
 ||usdt-drop.top^
 ||usdt-v2.com^
-||usdt.is^
 ||usdt.nz^
 ||usdt.trarchst.com^
 ||usdt.wine^
@@ -6491,6 +6499,7 @@
 ||v3.app.staging.tgf.nyuki.io^
 ||v3.stakewise-finance.com^
 ||v3everrise.app^
+||v6hd3.pro^
 ||v9si.cc^
 ||vailddapps.pages.dev^
 ||validatechains.pages.dev^
@@ -6640,6 +6649,7 @@
 ||w.contract-deployer.live^
 ||w.optimalsmart-sync.buzz^
 ||w40y.pro^
+||w8qmr.cc^
 ||wa.me^
 ||wabanetworks.com^
 ||wagmi-ethereum.com^
@@ -7479,6 +7489,7 @@
 ||zklink.in^
 ||zkmindversatile.pages.dev^
 ||zknewdcs.pages.dev^
+||zknzwk.cc^
 ||zkpolyhedra.net^
 ||zks-labsfoundation.com^
 ||zks-labsfoundation.net^
