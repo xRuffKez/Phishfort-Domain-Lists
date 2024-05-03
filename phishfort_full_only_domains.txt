@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Thu May  2 23:02:55 UTC 2024
+# PhishFort Full Domain List - Fri May  3 00:06:49 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109017
+# Number of Entries: 109019
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -79716,6 +79716,7 @@ shrapnel.nft-premint.com
 shrapnel.online
 shrapnel.store
 shrapnel.web3fast.net
+shrapnelnet.com
 shrapnelsp.com
 shrembtc.com
 shrembtc.org
@@ -95552,6 +95553,7 @@ wasabimixer.com
 washignton-post.com
 washignton-post.com.gianlucaungaro.it
 washington-posts.com
+washingtonfinancialpost.com
 washingtonpost.asia
 washingtonpost.careers
 washingtonpost.com.cz03149.tw1.ru
