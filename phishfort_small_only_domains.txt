@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Thu May  2 23:05:21 UTC 2024
+# PhishFort Small Domain List - Fri May  3 00:18:15 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 7510
 # Project: PhishFort (https://phishfort.com/)
@@ -4347,7 +4347,6 @@ noones.es
 nootcoin.fun
 nooxnft.app
 nooxnft.org
-nordson.vn
 notcoin-drop.com
 notcoin-network.wiki
 notcoin.art
@@ -5720,6 +5719,7 @@ shrapnel.cloud
 shrapnel.life
 shrapnel.network
 shrapnel.store
+shrapnelnet.com
 shyg618.com
 sideshift.art
 sidus.gift
@@ -6689,6 +6689,7 @@ waprcast.com
 wardenswap.netlify.app
 washignton-post.com
 washignton-post.com.gianlucaungaro.it
+washingtonfinancialpost.com
 washingtonpost.in
 washingtonpost.pm
 wassies.vip
@@ -7454,7 +7455,6 @@ zetachain.one
 zetachain.pages.dev
 zetaclaim.pages.dev
 zetaswap.cm
-zetawil.com
 zircuit-app.one
 zircuit-app.org
 zircuitprotocol.xyz

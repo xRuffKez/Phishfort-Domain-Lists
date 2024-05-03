@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Thu May  2 23:05:21 UTC 2024
+# PhishFort Small Domain List - Fri May  3 00:18:15 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 7510
@@ -4348,7 +4348,6 @@
 0.0.0.0 nootcoin.fun
 0.0.0.0 nooxnft.app
 0.0.0.0 nooxnft.org
-0.0.0.0 nordson.vn
 0.0.0.0 notcoin-drop.com
 0.0.0.0 notcoin-network.wiki
 0.0.0.0 notcoin.art
@@ -5721,6 +5720,7 @@
 0.0.0.0 shrapnel.life
 0.0.0.0 shrapnel.network
 0.0.0.0 shrapnel.store
+0.0.0.0 shrapnelnet.com
 0.0.0.0 shyg618.com
 0.0.0.0 sideshift.art
 0.0.0.0 sidus.gift
@@ -6690,6 +6690,7 @@
 0.0.0.0 wardenswap.netlify.app
 0.0.0.0 washignton-post.com
 0.0.0.0 washignton-post.com.gianlucaungaro.it
+0.0.0.0 washingtonfinancialpost.com
 0.0.0.0 washingtonpost.in
 0.0.0.0 washingtonpost.pm
 0.0.0.0 wassies.vip
@@ -7455,7 +7456,6 @@
 0.0.0.0 zetachain.pages.dev
 0.0.0.0 zetaclaim.pages.dev
 0.0.0.0 zetaswap.cm
-0.0.0.0 zetawil.com
 0.0.0.0 zircuit-app.one
 0.0.0.0 zircuit-app.org
 0.0.0.0 zircuitprotocol.xyz
