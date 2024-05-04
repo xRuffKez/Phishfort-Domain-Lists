@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Sat May  4 07:02:13 UTC 2024
+# PhishFort Full Domain List - Sat May  4 08:02:03 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109189
+# Number of Entries: 109207
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -4424,6 +4424,7 @@ allocate-starknet.com
 allocation-ether.fi
 allocation-getgrass.com
 allocation-jup.trading
+allocation-layerzero.app
 allocation-layerzero.network
 allocation-pixels.com
 allocation-roninchain.com
@@ -6244,6 +6245,7 @@ app.ape-stake.com
 app.apestake.io-authoriztion.us
 app.app-airtm.com
 app.app-omsosis.zone
+app.app-thfrurster.finance
 app.app-trhrusfter.finance
 app.app-trhrusrter.finance
 app.apparel419-securechase.com
@@ -13015,6 +13017,7 @@ blastrio.xyz
 blastscore.xyz
 blastt.io
 blasttup.top
+blastup-io.web.app
 blastxs.com
 blats.io
 blav.s3o98.com
@@ -14409,6 +14412,7 @@ bqbyswap.com
 bqlancer.com
 bqllancer.com
 bqlqncer.com
+bqyzcn2.cc
 br-paxfulcoin.com
 br-paxfulcoinbase.com
 br-shein.ru
@@ -17861,6 +17865,7 @@ claims-chain.link
 claims-chimpers.xyz
 claims-circle.com
 claims-decentraland.org
+claims-eigenfoundation.com
 claims-friend.tech
 claims-friends.tech
 claims-friendtech.com
@@ -26329,6 +26334,7 @@ defiwarrior-promogive.com
 defiweb-interface.org
 defiweb.firebaseapp.com
 defiweb3.ga
+defiweb3480.top
 defiwebchain.com
 defiwebchains.org
 defiwebconnect.com
@@ -28903,6 +28909,7 @@ eigeinlayner.xyz
 eigen-layer.com
 eigen-layer.idvenezia.com
 eigen-layer.live
+eigenfundation.com
 eigenilayer.com
 eigenlaver.magpiexyz.site
 eigenlayer-airdrop.claims
@@ -31741,6 +31748,7 @@ ethn.li
 ethn.pw
 ethn.vu
 ethna.vip
+ethnafinace-claimrewards.vercel.app
 ethnew.store
 ethnewpromo.com
 ethnewpromoaway.com
@@ -59627,6 +59635,8 @@ mysterybox75.vercel.app
 mysterybox88-beta.vercel.app
 mysterybox882.vercel.app
 mysteryboxarbitrum.com
+mysteryboxes32.vercel.app
+mysteryboxes36.vercel.app
 mysteryboxing44.vercel.app
 mysteryboxmint4389.vercel.app
 mysteryboxnow.vercel.app
@@ -59644,6 +59654,7 @@ mysteryclicks81.vercel.app
 mysteryclicksclaim1.vercel.app
 mysteryclicksnft.vercel.app
 mysterydropnft.com
+mysterymintt15.vercel.app
 mysterynft84.vercel.app
 mysterynfts.vercel.app
 mysteryobox.vercel.app
@@ -72815,6 +72826,7 @@ portal.zksnyck.club
 portal.zksnyck.cyou
 portal.zksyenc.com
 portalbridgefast.com
+portalclaim.co
 portalcoin.cc
 portalcoin.cfd
 portaldrop.io
@@ -73061,6 +73073,7 @@ ppoocoih.com
 ppoocoiin.com
 ppoocoin.com
 ppoocoinn.com
+pppnto.top
 pproximus.be
 ppusd.pro
 ppwallet.pro
@@ -75819,6 +75832,7 @@ renq-token.com
 renqiiio.com
 renwen.yongwudi.net
 renzelnavarro.com
+renzo-protocol.web.app
 renzo-protocols.com
 reobit.com
 reoke.cash
@@ -80343,6 +80357,7 @@ slmmarketingdigital.com
 slmpleswap.site
 slnbad.io
 slolzfr.com
+slothana-airdrop.xyz
 slotie-mint.app
 slowniicnhcredityuiobenresolvnvderlast.site
 sloyalfarm.com
@@ -81681,6 +81696,7 @@ somethingisbrewing.live
 somethingofficial.xyz
 sommelier-finance.com
 sommelier-finance.web.app
+somnia-network-web3.vercel.app
 somoscorujasbraz.blogspot.com
 somtu.edu.np
 sonae.sale
@@ -108690,9 +108706,11 @@ zetachain.technology
 zetachain.web3-bounty.pro
 zetachain.web3-claims.network
 zetachain.website
+zetachainairdrop.vercel.app
 zetachaine.com
 zetachains.app
 zetachainsairdrop.com
+zetaclaim.pages.dev
 zetads.tech
 zetaflyers.com
 zetalbs.com
