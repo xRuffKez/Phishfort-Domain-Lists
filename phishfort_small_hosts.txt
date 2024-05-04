@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sat May  4 07:05:42 UTC 2024
+# PhishFort Small Domain List - Sat May  4 08:05:17 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7606
+# Number of Entries: 7624
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -385,6 +385,7 @@
 0.0.0.0 allocation-ether.fi
 0.0.0.0 allocation-getgrass.com
 0.0.0.0 allocation-jup.trading
+0.0.0.0 allocation-layerzero.app
 0.0.0.0 allocation-pixels.com
 0.0.0.0 allocation-roninchain.com
 0.0.0.0 allocation-satoshivm.com
@@ -585,6 +586,7 @@
 0.0.0.0 app.allocations-chihuahua.com
 0.0.0.0 app.allocations-vanarchain.com
 0.0.0.0 app.ankr.live
+0.0.0.0 app.app-thfrurster.finance
 0.0.0.0 app.app-trhrusfter.finance
 0.0.0.0 app.app-trhrusrter.finance
 0.0.0.0 app.aribius.com
@@ -1047,6 +1049,7 @@
 0.0.0.0 blastscore.xyz
 0.0.0.0 blastt.io
 0.0.0.0 blasttup.top
+0.0.0.0 blastup-io.web.app
 0.0.0.0 blastxs.com
 0.0.0.0 blazetokeen.com
 0.0.0.0 blend-protocol.com
@@ -1129,6 +1132,7 @@
 0.0.0.0 boxeseden.web.app
 0.0.0.0 boxmint-project.web.app
 0.0.0.0 bpxtoken.network
+0.0.0.0 bqyzcn2.cc
 0.0.0.0 brailex.com
 0.0.0.0 brands4less.com.py
 0.0.0.0 bratishkaa.com
@@ -1480,6 +1484,7 @@
 0.0.0.0 claimpancakeswap.finance
 0.0.0.0 claimpandoshi.com
 0.0.0.0 claimportal.foundation
+0.0.0.0 claims-eigenfoundation.com
 0.0.0.0 claims-makerdao.com
 0.0.0.0 claims-realios.com
 0.0.0.0 claimshido.pages.dev
@@ -1930,6 +1935,7 @@
 0.0.0.0 defisentry.pages.dev
 0.0.0.0 defispot.app
 0.0.0.0 defisrhino.net
+0.0.0.0 defiweb3480.top
 0.0.0.0 deflexseax.xyz
 0.0.0.0 degen.hakunamatatasol.com
 0.0.0.0 degenstoken.vip
@@ -2152,6 +2158,7 @@
 0.0.0.0 egymonuments.net
 0.0.0.0 ehajj.ph
 0.0.0.0 eigen-layer.live
+0.0.0.0 eigenfundation.com
 0.0.0.0 eigenlaver.magpiexyz.site
 0.0.0.0 eigenlayer-airdrop.claims
 0.0.0.0 eigenlayer-app-magpie-eigenpie-staking.kemi-g.com
@@ -2279,6 +2286,7 @@
 0.0.0.0 ethibainu.network
 0.0.0.0 ethmintairdrop.com
 0.0.0.0 ethna.vip
+0.0.0.0 ethnafinace-claimrewards.vercel.app
 0.0.0.0 ethnft.app
 0.0.0.0 ethorv.com
 0.0.0.0 ethpeg.com
@@ -4195,6 +4203,8 @@
 0.0.0.0 mysterybox88-beta.vercel.app
 0.0.0.0 mysterybox882.vercel.app
 0.0.0.0 mysteryboxarbitrum.com
+0.0.0.0 mysteryboxes32.vercel.app
+0.0.0.0 mysteryboxes36.vercel.app
 0.0.0.0 mysteryboxing44.vercel.app
 0.0.0.0 mysteryboxmint4389.vercel.app
 0.0.0.0 mysteryboxnow.vercel.app
@@ -4211,6 +4221,7 @@
 0.0.0.0 mysteryclicks81.vercel.app
 0.0.0.0 mysteryclicksclaim1.vercel.app
 0.0.0.0 mysteryclicksnft.vercel.app
+0.0.0.0 mysterymintt15.vercel.app
 0.0.0.0 mysterynft84.vercel.app
 0.0.0.0 mysterynfts.vercel.app
 0.0.0.0 mysteryobox.vercel.app
@@ -5138,6 +5149,7 @@
 0.0.0.0 portal-gaming-project.pages.dev
 0.0.0.0 portal-gaming.pages.dev
 0.0.0.0 portal.dymension.wb3i.xyz
+0.0.0.0 portalclaim.co
 0.0.0.0 portaldrop.io
 0.0.0.0 portaldrop.net
 0.0.0.0 portalgaming.vip
@@ -5152,6 +5164,7 @@
 0.0.0.0 portlacoin.xyz
 0.0.0.0 post-malone.store
 0.0.0.0 ppcroi.net
+0.0.0.0 pppnto.top
 0.0.0.0 predev-migrazerionzx.pages.dev
 0.0.0.0 premium.athene.network
 0.0.0.0 presale-cogwise.com
@@ -5439,6 +5452,7 @@
 0.0.0.0 rendernetwork.support
 0.0.0.0 renovation-globale-maprimerenov.aides-gouv-fr.info
 0.0.0.0 renqiiio.com
+0.0.0.0 renzo-protocol.web.app
 0.0.0.0 renzo-protocols.com
 0.0.0.0 res9219.com
 0.0.0.0 research.rada.gov-ua.ru
@@ -5854,6 +5868,7 @@
 0.0.0.0 slerfrewards.net
 0.0.0.0 slgnup-dymension.com
 0.0.0.0 slitty.me
+0.0.0.0 slothana-airdrop.xyz
 0.0.0.0 slrfdrop.net
 0.0.0.0 sltarkdrop.website
 0.0.0.0 smaarhtmaiigrathhe.com
@@ -5934,6 +5949,7 @@
 0.0.0.0 solvprotocoi.com
 0.0.0.0 solwl-saga.web.app
 0.0.0.0 sommelier-finance.web.app
+0.0.0.0 somnia-network-web3.vercel.app
 0.0.0.0 sonicswall.com
 0.0.0.0 sophon-registrations.com
 0.0.0.0 sor-nft.web.app
@@ -7550,6 +7566,8 @@
 0.0.0.0 zetachain.cm
 0.0.0.0 zetachain.one
 0.0.0.0 zetachain.pages.dev
+0.0.0.0 zetachainairdrop.vercel.app
+0.0.0.0 zetaclaim.pages.dev
 0.0.0.0 zetaswap.cm
 0.0.0.0 zircuit-app.one
 0.0.0.0 zircuit-app.org

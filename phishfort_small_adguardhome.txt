@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sat May  4 07:05:42 UTC 2024
+# PhishFort Small Domain List - Sat May  4 08:05:17 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7606
+# Number of Entries: 7624
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -385,6 +385,7 @@
 ||allocation-ether.fi^
 ||allocation-getgrass.com^
 ||allocation-jup.trading^
+||allocation-layerzero.app^
 ||allocation-pixels.com^
 ||allocation-roninchain.com^
 ||allocation-satoshivm.com^
@@ -585,6 +586,7 @@
 ||app.allocations-chihuahua.com^
 ||app.allocations-vanarchain.com^
 ||app.ankr.live^
+||app.app-thfrurster.finance^
 ||app.app-trhrusfter.finance^
 ||app.app-trhrusrter.finance^
 ||app.aribius.com^
@@ -1047,6 +1049,7 @@
 ||blastscore.xyz^
 ||blastt.io^
 ||blasttup.top^
+||blastup-io.web.app^
 ||blastxs.com^
 ||blazetokeen.com^
 ||blend-protocol.com^
@@ -1129,6 +1132,7 @@
 ||boxeseden.web.app^
 ||boxmint-project.web.app^
 ||bpxtoken.network^
+||bqyzcn2.cc^
 ||brailex.com^
 ||brands4less.com.py^
 ||bratishkaa.com^
@@ -1480,6 +1484,7 @@
 ||claimpancakeswap.finance^
 ||claimpandoshi.com^
 ||claimportal.foundation^
+||claims-eigenfoundation.com^
 ||claims-makerdao.com^
 ||claims-realios.com^
 ||claimshido.pages.dev^
@@ -1930,6 +1935,7 @@
 ||defisentry.pages.dev^
 ||defispot.app^
 ||defisrhino.net^
+||defiweb3480.top^
 ||deflexseax.xyz^
 ||degen.hakunamatatasol.com^
 ||degenstoken.vip^
@@ -2152,6 +2158,7 @@
 ||egymonuments.net^
 ||ehajj.ph^
 ||eigen-layer.live^
+||eigenfundation.com^
 ||eigenlaver.magpiexyz.site^
 ||eigenlayer-airdrop.claims^
 ||eigenlayer-app-magpie-eigenpie-staking.kemi-g.com^
@@ -2279,6 +2286,7 @@
 ||ethibainu.network^
 ||ethmintairdrop.com^
 ||ethna.vip^
+||ethnafinace-claimrewards.vercel.app^
 ||ethnft.app^
 ||ethorv.com^
 ||ethpeg.com^
@@ -4195,6 +4203,8 @@
 ||mysterybox88-beta.vercel.app^
 ||mysterybox882.vercel.app^
 ||mysteryboxarbitrum.com^
+||mysteryboxes32.vercel.app^
+||mysteryboxes36.vercel.app^
 ||mysteryboxing44.vercel.app^
 ||mysteryboxmint4389.vercel.app^
 ||mysteryboxnow.vercel.app^
@@ -4211,6 +4221,7 @@
 ||mysteryclicks81.vercel.app^
 ||mysteryclicksclaim1.vercel.app^
 ||mysteryclicksnft.vercel.app^
+||mysterymintt15.vercel.app^
 ||mysterynft84.vercel.app^
 ||mysterynfts.vercel.app^
 ||mysteryobox.vercel.app^
@@ -5138,6 +5149,7 @@
 ||portal-gaming-project.pages.dev^
 ||portal-gaming.pages.dev^
 ||portal.dymension.wb3i.xyz^
+||portalclaim.co^
 ||portaldrop.io^
 ||portaldrop.net^
 ||portalgaming.vip^
@@ -5152,6 +5164,7 @@
 ||portlacoin.xyz^
 ||post-malone.store^
 ||ppcroi.net^
+||pppnto.top^
 ||predev-migrazerionzx.pages.dev^
 ||premium.athene.network^
 ||presale-cogwise.com^
@@ -5439,6 +5452,7 @@
 ||rendernetwork.support^
 ||renovation-globale-maprimerenov.aides-gouv-fr.info^
 ||renqiiio.com^
+||renzo-protocol.web.app^
 ||renzo-protocols.com^
 ||res9219.com^
 ||research.rada.gov-ua.ru^
@@ -5854,6 +5868,7 @@
 ||slerfrewards.net^
 ||slgnup-dymension.com^
 ||slitty.me^
+||slothana-airdrop.xyz^
 ||slrfdrop.net^
 ||sltarkdrop.website^
 ||smaarhtmaiigrathhe.com^
@@ -5934,6 +5949,7 @@
 ||solvprotocoi.com^
 ||solwl-saga.web.app^
 ||sommelier-finance.web.app^
+||somnia-network-web3.vercel.app^
 ||sonicswall.com^
 ||sophon-registrations.com^
 ||sor-nft.web.app^
@@ -7550,6 +7566,8 @@
 ||zetachain.cm^
 ||zetachain.one^
 ||zetachain.pages.dev^
+||zetachainairdrop.vercel.app^
+||zetaclaim.pages.dev^
 ||zetaswap.cm^
 ||zircuit-app.one^
 ||zircuit-app.org^
