@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sat May  4 04:02:08 UTC 2024
+# PhishFort Full Domain List - Sat May  4 05:02:00 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109134
+# Number of Entries: 109142
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -18012,6 +18012,7 @@
 ||clay.rewards.ink^
 ||claynosaurz-claim.web.app^
 ||claynosaurz-money.web.app^
+||claynosaurz-nft.web.app^
 ||claynosaurz-pack.web.app^
 ||claynosaurz-sol.netlify.app^
 ||claynosaurz.club^
@@ -27290,6 +27291,7 @@
 ||discover-spaceid.com^
 ||disgextension.com^
 ||disgustevasive.top^
+||disney-pncle.web.app^
 ||disneynft.xyz^
 ||disneypinacle.click^
 ||dispatchweekly.com^
@@ -30275,6 +30277,7 @@
 ||eth-wintermute.com^
 ||eth-wintermute.net^
 ||eth-wintermute.xyz^
+||eth-wpos.xyz^
 ||eth-yieldfarming.org^
 ||eth.744a.cc^
 ||eth.abict.org^
@@ -33135,6 +33138,7 @@
 ||fasleska.site^
 ||fasmet.site^
 ||fasrrermigr.com^
+||fassstokenguidepapy.com^
 ||fast-autheswallet.org^
 ||fast-fixnow.live^
 ||fast-offer.online^
@@ -48903,6 +48907,7 @@
 ||matr1x.web3-frmint.com^
 ||matr1x.web3fast.net^
 ||matr1xkuku.org^
+||matrica-labs.com^
 ||matrica-two.vercel.app^
 ||matrica-verify.com^
 ||matrica.cc^
@@ -76968,6 +76973,7 @@
 ||rodseopenky.com^
 ||roffer.paidperecharge.com^
 ||rogindowns.com^
+||rohp.cc^
 ||roinen-wallit.godaddysites.com^
 ||roininchaln.com^
 ||roken.im^
@@ -87314,6 +87320,8 @@
 ||tonkeeper.help^
 ||tonkeeper.io^
 ||tonkeeper.pages.dev^
+||tonkeeper.su^
+||tonkeeper.us^
 ||tonkeeper.world^
 ||tonkeeperr.com^
 ||tonkeepet.com^
