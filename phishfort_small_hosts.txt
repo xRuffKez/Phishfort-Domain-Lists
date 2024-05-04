@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sat May  4 05:05:02 UTC 2024
+# PhishFort Small Domain List - Sat May  4 06:05:18 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7559
+# Number of Entries: 7573
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -583,6 +583,7 @@
 0.0.0.0 app.allocations-chihuahua.com
 0.0.0.0 app.allocations-vanarchain.com
 0.0.0.0 app.ankr.live
+0.0.0.0 app.app-trhrusfter.finance
 0.0.0.0 app.app-trhrusrter.finance
 0.0.0.0 app.aribius.com
 0.0.0.0 app.auth-v2.org
@@ -596,6 +597,7 @@
 0.0.0.0 app.etheir.fi
 0.0.0.0 app.etherfi.us
 0.0.0.0 app.ethgas-refund.com
+0.0.0.0 app.expertcapitalsus.com
 0.0.0.0 app.farmersonly.fi
 0.0.0.0 app.financeglobal.trade
 0.0.0.0 app.ibkr-ex.com
@@ -1425,6 +1427,7 @@
 0.0.0.0 claim.chainngpt.com
 0.0.0.0 claim.clintex.shop
 0.0.0.0 claim.coingecko.news
+0.0.0.0 claim.curvances.pw
 0.0.0.0 claim.dotfinance.ltd
 0.0.0.0 claim.dotfinance.solutions
 0.0.0.0 claim.dymensionall.club
@@ -1451,6 +1454,7 @@
 0.0.0.0 claim.sharkscatsol.xyz
 0.0.0.0 claim.smogxtoken.com
 0.0.0.0 claim.spongeonerc.com
+0.0.0.0 claim.spongev2tokens.vip
 0.0.0.0 claim.ton-telegram.xyz
 0.0.0.0 claim.wallstretmemes.app
 0.0.0.0 claim.wormhole.fitness
@@ -2292,6 +2296,7 @@
 0.0.0.0 event.airpud.top
 0.0.0.0 event.rewardcoin.top
 0.0.0.0 event.stockcoin.top
+0.0.0.0 event.velodrome-fi.xyz
 0.0.0.0 eventfarcana-airdrop.vercel.app
 0.0.0.0 events-altlayer.com
 0.0.0.0 events-mantanetwork.com
@@ -2321,6 +2326,7 @@
 0.0.0.0 exhibitus-inc.com
 0.0.0.0 exhibitusinc.com
 0.0.0.0 expertsolver.pages.dev
+0.0.0.0 expl2.firstchain-zksync-90ee95.zeeve.net
 0.0.0.0 exploremanta.pages.dev
 0.0.0.0 explorer-1inch-io.pages.dev
 0.0.0.0 extenctionchrome.mx
@@ -4185,6 +4191,7 @@
 0.0.0.0 mysteryclaim74.vercel.app
 0.0.0.0 mysteryclaims37g.vercel.app
 0.0.0.0 mysteryclaimsnft.vercel.app
+0.0.0.0 mysteryclaimz48.vercel.app
 0.0.0.0 mysteryclicks23.vercel.app
 0.0.0.0 mysteryclicks81.vercel.app
 0.0.0.0 mysteryclicksclaim1.vercel.app
@@ -4427,6 +4434,7 @@
 0.0.0.0 offer-marketplace.io
 0.0.0.0 offer-rarible.com
 0.0.0.0 offers-opensae-io.codeanyapp.com
+0.0.0.0 offers.opensea.io.grueneslichtfuerkinder.de
 0.0.0.0 official-dappradar.com
 0.0.0.0 officialalerts.xyz
 0.0.0.0 officialdapps.org
@@ -4483,6 +4491,7 @@
 0.0.0.0 open-seaio.github.io
 0.0.0.0 open-seasclick.vercel.app
 0.0.0.0 open-zkbridge.com
+0.0.0.0 open2mysterybox.vercel.app
 0.0.0.0 openbookraydium.com
 0.0.0.0 openboxclaimz12.vercel.app
 0.0.0.0 openclickclaim.vercel.app
@@ -5675,6 +5684,7 @@
 0.0.0.0 scroll-swap-web.vercel.app
 0.0.0.0 scrolli.space
 0.0.0.0 scrolllayerbank.pages.dev
+0.0.0.0 scybautosolution.com
 0.0.0.0 sdb-trk.0ybq.info
 0.0.0.0 sea-claim.live
 0.0.0.0 sea-list.com
@@ -6017,6 +6027,7 @@
 0.0.0.0 steaam.umb.market
 0.0.0.0 steady-creponne-871786.netlify.app
 0.0.0.0 steam.umb.market
+0.0.0.0 steamcommounity.ru
 0.0.0.0 steamcommujity.com
 0.0.0.0 steamcommunity.umb.market
 0.0.0.0 steamcommunityskintradeoffermadito.com
@@ -6044,6 +6055,7 @@
 0.0.0.0 strknet.com
 0.0.0.0 strknet.network
 0.0.0.0 strkprimary.pics
+0.0.0.0 stroom-network-web3.vercel.app
 0.0.0.0 subqueryfoundation-claim.vercel.app
 0.0.0.0 subsquid.network
 0.0.0.0 suburloia.com
@@ -6558,6 +6570,7 @@
 0.0.0.0 valortage.com
 0.0.0.0 valoxeno.com
 0.0.0.0 vanar.trading
+0.0.0.0 vanarchaiin.com
 0.0.0.0 vansanhome.com
 0.0.0.0 vaultedvibes.online
 0.0.0.0 vdermo.us
@@ -6630,6 +6643,7 @@
 0.0.0.0 visit-frame.xyz
 0.0.0.0 visit-jup.app
 0.0.0.0 visit-orivium.io
+0.0.0.0 visit-otherside.xyz
 0.0.0.0 visit-overworld.games
 0.0.0.0 visit-porkcoin.com
 0.0.0.0 visit-shellprotocol.io

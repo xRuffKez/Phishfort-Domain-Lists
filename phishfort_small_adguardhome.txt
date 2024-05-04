@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sat May  4 05:05:02 UTC 2024
+# PhishFort Small Domain List - Sat May  4 06:05:18 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7559
+# Number of Entries: 7573
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -583,6 +583,7 @@
 ||app.allocations-chihuahua.com^
 ||app.allocations-vanarchain.com^
 ||app.ankr.live^
+||app.app-trhrusfter.finance^
 ||app.app-trhrusrter.finance^
 ||app.aribius.com^
 ||app.auth-v2.org^
@@ -596,6 +597,7 @@
 ||app.etheir.fi^
 ||app.etherfi.us^
 ||app.ethgas-refund.com^
+||app.expertcapitalsus.com^
 ||app.farmersonly.fi^
 ||app.financeglobal.trade^
 ||app.ibkr-ex.com^
@@ -1425,6 +1427,7 @@
 ||claim.chainngpt.com^
 ||claim.clintex.shop^
 ||claim.coingecko.news^
+||claim.curvances.pw^
 ||claim.dotfinance.ltd^
 ||claim.dotfinance.solutions^
 ||claim.dymensionall.club^
@@ -1451,6 +1454,7 @@
 ||claim.sharkscatsol.xyz^
 ||claim.smogxtoken.com^
 ||claim.spongeonerc.com^
+||claim.spongev2tokens.vip^
 ||claim.ton-telegram.xyz^
 ||claim.wallstretmemes.app^
 ||claim.wormhole.fitness^
@@ -2292,6 +2296,7 @@
 ||event.airpud.top^
 ||event.rewardcoin.top^
 ||event.stockcoin.top^
+||event.velodrome-fi.xyz^
 ||eventfarcana-airdrop.vercel.app^
 ||events-altlayer.com^
 ||events-mantanetwork.com^
@@ -2321,6 +2326,7 @@
 ||exhibitus-inc.com^
 ||exhibitusinc.com^
 ||expertsolver.pages.dev^
+||expl2.firstchain-zksync-90ee95.zeeve.net^
 ||exploremanta.pages.dev^
 ||explorer-1inch-io.pages.dev^
 ||extenctionchrome.mx^
@@ -4185,6 +4191,7 @@
 ||mysteryclaim74.vercel.app^
 ||mysteryclaims37g.vercel.app^
 ||mysteryclaimsnft.vercel.app^
+||mysteryclaimz48.vercel.app^
 ||mysteryclicks23.vercel.app^
 ||mysteryclicks81.vercel.app^
 ||mysteryclicksclaim1.vercel.app^
@@ -4427,6 +4434,7 @@
 ||offer-marketplace.io^
 ||offer-rarible.com^
 ||offers-opensae-io.codeanyapp.com^
+||offers.opensea.io.grueneslichtfuerkinder.de^
 ||official-dappradar.com^
 ||officialalerts.xyz^
 ||officialdapps.org^
@@ -4483,6 +4491,7 @@
 ||open-seaio.github.io^
 ||open-seasclick.vercel.app^
 ||open-zkbridge.com^
+||open2mysterybox.vercel.app^
 ||openbookraydium.com^
 ||openboxclaimz12.vercel.app^
 ||openclickclaim.vercel.app^
@@ -5675,6 +5684,7 @@
 ||scroll-swap-web.vercel.app^
 ||scrolli.space^
 ||scrolllayerbank.pages.dev^
+||scybautosolution.com^
 ||sdb-trk.0ybq.info^
 ||sea-claim.live^
 ||sea-list.com^
@@ -6017,6 +6027,7 @@
 ||steaam.umb.market^
 ||steady-creponne-871786.netlify.app^
 ||steam.umb.market^
+||steamcommounity.ru^
 ||steamcommujity.com^
 ||steamcommunity.umb.market^
 ||steamcommunityskintradeoffermadito.com^
@@ -6044,6 +6055,7 @@
 ||strknet.com^
 ||strknet.network^
 ||strkprimary.pics^
+||stroom-network-web3.vercel.app^
 ||subqueryfoundation-claim.vercel.app^
 ||subsquid.network^
 ||suburloia.com^
@@ -6558,6 +6570,7 @@
 ||valortage.com^
 ||valoxeno.com^
 ||vanar.trading^
+||vanarchaiin.com^
 ||vansanhome.com^
 ||vaultedvibes.online^
 ||vdermo.us^
@@ -6630,6 +6643,7 @@
 ||visit-frame.xyz^
 ||visit-jup.app^
 ||visit-orivium.io^
+||visit-otherside.xyz^
 ||visit-overworld.games^
 ||visit-porkcoin.com^
 ||visit-shellprotocol.io^
