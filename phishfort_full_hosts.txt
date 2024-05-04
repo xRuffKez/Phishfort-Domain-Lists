@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sat May  4 06:02:03 UTC 2024
+# PhishFort Full Domain List - Sat May  4 07:02:13 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109155
+# Number of Entries: 109189
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3759,6 +3759,7 @@
 0.0.0.0 airdrop.mfi.expert
 0.0.0.0 airdrop.minting-exclusive.com
 0.0.0.0 airdrop.mintvese.live
+0.0.0.0 airdrop.mobox-token.homes
 0.0.0.0 airdrop.modenetwork.xyz
 0.0.0.0 airdrop.mogicedan.eu
 0.0.0.0 airdrop.mogiceden.nu
@@ -3804,6 +3805,7 @@
 0.0.0.0 airdrop.supraoracle.tech
 0.0.0.0 airdrop.systems
 0.0.0.0 airdrop.teleportdao.su
+0.0.0.0 airdrop.tonchain.blog
 0.0.0.0 airdrop.tropiclegends.com
 0.0.0.0 airdrop.trustpadclaims.com
 0.0.0.0 airdrop.uniwswap.com
@@ -17626,6 +17628,7 @@
 0.0.0.0 claim.tokencake.org
 0.0.0.0 claim.tokenlido.org
 0.0.0.0 claim.ton-telegram.xyz
+0.0.0.0 claim.tontelegram.top
 0.0.0.0 claim.uni-rebates.com
 0.0.0.0 claim.uniswap.gg
 0.0.0.0 claim.uscircle.org
@@ -17643,6 +17646,7 @@
 0.0.0.0 claim.wen.ag
 0.0.0.0 claim.wormhole.fitness
 0.0.0.0 claim.wormhole.si
+0.0.0.0 claim.www-catc0in.org
 0.0.0.0 claim.www-catcoin.com
 0.0.0.0 claim.xn--optimsm-ffb.net
 0.0.0.0 claim.xn--optmism-tfb.net
@@ -17952,6 +17956,7 @@
 0.0.0.0 claimtoken.live
 0.0.0.0 claimtokenauth.com
 0.0.0.0 claimton.com
+0.0.0.0 claimton.org
 0.0.0.0 claimtrumx.xyz
 0.0.0.0 claimu.xyz
 0.0.0.0 claimud.com
@@ -18212,6 +18217,7 @@
 0.0.0.0 cloudconnectwallet.com
 0.0.0.0 cloudcryptoresolver.com
 0.0.0.0 clouddatasupport.com
+0.0.0.0 cloudflare-colinbese-nft.com
 0.0.0.0 cloudhq-mkt12.us
 0.0.0.0 cloudinry.net
 0.0.0.0 cloudkeysecure.com
@@ -19770,6 +19776,7 @@
 0.0.0.0 coinswallet.info
 0.0.0.0 coinswalletsystem.web.app
 0.0.0.0 coinswgecko.link
+0.0.0.0 coinswiftapp.web.app
 0.0.0.0 coinswiftresolve.web.app
 0.0.0.0 coinswp.exchange
 0.0.0.0 coinsync.online
@@ -20357,6 +20364,7 @@
 0.0.0.0 com-blltcupn-net.1gb.ru
 0.0.0.0 com-eth.top
 0.0.0.0 com-mywalletonline.com
+0.0.0.0 com-official.top
 0.0.0.0 com-signinwallet.com
 0.0.0.0 com.merge.corpbancafinance.com
 0.0.0.0 com12334567736789854.ml
@@ -29026,6 +29034,8 @@
 0.0.0.0 eligibility-lens.com
 0.0.0.0 eligibility-sbtpg.com
 0.0.0.0 eligibility-wenwencoin.com
+0.0.0.0 eligibility.ton-telegram.click
+0.0.0.0 eligibility.tontelegram.cc
 0.0.0.0 eligibility.ventory.network
 0.0.0.0 eligible-chaln.link
 0.0.0.0 eligible-circle.com
@@ -29060,6 +29070,7 @@
 0.0.0.0 elmusk2x.com
 0.0.0.0 elnaggar-importexport.net
 0.0.0.0 elnmtu.cc
+0.0.0.0 elno0x69420.net
 0.0.0.0 elnur.123.com
 0.0.0.0 elogged.pages.dev
 0.0.0.0 elon--musk.net
@@ -32234,6 +32245,7 @@
 0.0.0.0 event.exchangemarket.services
 0.0.0.0 event.expertpads.top
 0.0.0.0 event.farcanaofficial.com
+0.0.0.0 event.gamer-hash.xyz
 0.0.0.0 event.leapfrog.blog
 0.0.0.0 event.leapfrog.green
 0.0.0.0 event.melea.app
@@ -47428,6 +47440,7 @@
 0.0.0.0 mail-coinbase.biz
 0.0.0.0 mail-metamask.com
 0.0.0.0 mail-opensea.com
+0.0.0.0 mail.45-61-151-79.cprapid.com
 0.0.0.0 mail.4lifeconstructions.com.au
 0.0.0.0 mail.a-paxful.com
 0.0.0.0 mail.adidas-capsule.com
@@ -54726,6 +54739,7 @@
 0.0.0.0 moondao.life
 0.0.0.0 moondao.lol
 0.0.0.0 moondaodrop.com
+0.0.0.0 moondefink.live
 0.0.0.0 moondens.xyz
 0.0.0.0 moonebeam.com
 0.0.0.0 moonero.xyz
@@ -59624,7 +59638,9 @@
 0.0.0.0 mysteryclaim74.vercel.app
 0.0.0.0 mysteryclaims37g.vercel.app
 0.0.0.0 mysteryclaimsnft.vercel.app
+0.0.0.0 mysteryclaimz48.vercel.app
 0.0.0.0 mysteryclicks23.vercel.app
+0.0.0.0 mysteryclicks71.vercel.app
 0.0.0.0 mysteryclicks81.vercel.app
 0.0.0.0 mysteryclicksclaim1.vercel.app
 0.0.0.0 mysteryclicksnft.vercel.app
@@ -61721,6 +61737,7 @@
 0.0.0.0 ocean-protocol.airdrop-whitelist.com
 0.0.0.0 ocean-protocol.web3-airdrop.net
 0.0.0.0 ocean-protocol.xyz
+0.0.0.0 ocean-trades.co
 0.0.0.0 oceanairdrop.info
 0.0.0.0 oceanclub-fourseasons.com
 0.0.0.0 oceania.www.development.pancakeswape.finance
@@ -76437,6 +76454,7 @@
 0.0.0.0 reward-cyberconnect.site
 0.0.0.0 reward-ens.domains
 0.0.0.0 reward-gari.network
+0.0.0.0 reward-layerzero.net
 0.0.0.0 reward-memecoin.com
 0.0.0.0 reward-multichain.org
 0.0.0.0 reward-optimism.com
@@ -77287,6 +77305,7 @@
 0.0.0.0 rottenfloki-promogive.com
 0.0.0.0 roulatin.com
 0.0.0.0 roumeliotis.ca
+0.0.0.0 round1-uniswap.org
 0.0.0.0 round2-wenwencoin.com
 0.0.0.0 round3-optimism.com
 0.0.0.0 roupa-gratis.com.br
@@ -86894,6 +86913,7 @@
 0.0.0.0 token.njhfgy.com
 0.0.0.0 token.pepe-vip.xyz
 0.0.0.0 token.strks-rocket.club
+0.0.0.0 token.tonblockchain.click
 0.0.0.0 token568.im
 0.0.0.0 token9.xyz
 0.0.0.0 tokenairdrops.net
@@ -87290,6 +87310,8 @@
 0.0.0.0 tomsachsrocketsfactory.com
 0.0.0.0 tomtakx.site
 0.0.0.0 ton-blockchain.xyz
+0.0.0.0 ton-chain.one
+0.0.0.0 ton-chain.top
 0.0.0.0 ton-credit.bond
 0.0.0.0 ton-drop.org
 0.0.0.0 ton-gramico.com
@@ -87299,19 +87321,27 @@
 0.0.0.0 ton-reward.com
 0.0.0.0 ton-sale.com
 0.0.0.0 ton-stn-app.xyz
+0.0.0.0 ton-telegram.click
 0.0.0.0 ton-telegram.com
 0.0.0.0 ton-telegram.net
+0.0.0.0 ton-telegram.xyz
 0.0.0.0 ton-wallet.store
 0.0.0.0 ton.fund
 0.0.0.0 ton.org-community.info
+0.0.0.0 ton.org-ethsendair.xyz
 0.0.0.0 ton.org-newyear.fun
 0.0.0.0 ton.vu
 0.0.0.0 ton.x-wallet.top
+0.0.0.0 tonblockchain.click
 0.0.0.0 tonc0in.website
+0.0.0.0 tonchains.one
 0.0.0.0 tonclaim.online
 0.0.0.0 toncoin-event.com
+0.0.0.0 toncoin.bnbethbtc.xyz
 0.0.0.0 toncoin.cfd
 0.0.0.0 toncoin.eng-ton.org
+0.0.0.0 toncoins.org
+0.0.0.0 toncoinwallet.co
 0.0.0.0 toncoln.me
 0.0.0.0 toneeper.com
 0.0.0.0 tonevecher.com
@@ -87349,6 +87379,9 @@
 0.0.0.0 tonpresale.com
 0.0.0.0 tonpublic.org
 0.0.0.0 tonreward.com
+0.0.0.0 tontelegram.cc
+0.0.0.0 tontelegram.top
+0.0.0.0 tontelegram24.click
 0.0.0.0 tontonfriends.org
 0.0.0.0 tonwallet.club
 0.0.0.0 tonwallet.online
@@ -102464,6 +102497,7 @@
 0.0.0.0 www.oakstreethealth.us
 0.0.0.0 www.oasis-app.pro
 0.0.0.0 www.oasisnetworkapp.net
+0.0.0.0 www.obrevc.com
 0.0.0.0 www.oceanofnfts.com
 0.0.0.0 www.octusbridge-app.com
 0.0.0.0 www.octusbridge-s.com

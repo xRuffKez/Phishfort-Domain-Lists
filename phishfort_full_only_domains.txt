@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Sat May  4 06:02:03 UTC 2024
+# PhishFort Full Domain List - Sat May  4 07:02:13 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109155
+# Number of Entries: 109189
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3758,6 +3758,7 @@ airdrop.metamsak.io.angeliquecabezas.com
 airdrop.mfi.expert
 airdrop.minting-exclusive.com
 airdrop.mintvese.live
+airdrop.mobox-token.homes
 airdrop.modenetwork.xyz
 airdrop.mogicedan.eu
 airdrop.mogiceden.nu
@@ -3803,6 +3804,7 @@ airdrop.suilabs.net
 airdrop.supraoracle.tech
 airdrop.systems
 airdrop.teleportdao.su
+airdrop.tonchain.blog
 airdrop.tropiclegends.com
 airdrop.trustpadclaims.com
 airdrop.uniwswap.com
@@ -17625,6 +17627,7 @@ claim.thetipcoin.space
 claim.tokencake.org
 claim.tokenlido.org
 claim.ton-telegram.xyz
+claim.tontelegram.top
 claim.uni-rebates.com
 claim.uniswap.gg
 claim.uscircle.org
@@ -17642,6 +17645,7 @@ claim.wbtccoin.org
 claim.wen.ag
 claim.wormhole.fitness
 claim.wormhole.si
+claim.www-catc0in.org
 claim.www-catcoin.com
 claim.xn--optimsm-ffb.net
 claim.xn--optmism-tfb.net
@@ -17951,6 +17955,7 @@ claimthememe.com
 claimtoken.live
 claimtokenauth.com
 claimton.com
+claimton.org
 claimtrumx.xyz
 claimu.xyz
 claimud.com
@@ -18211,6 +18216,7 @@ cloud.walletconnect.alessandrocampos.com.br
 cloudconnectwallet.com
 cloudcryptoresolver.com
 clouddatasupport.com
+cloudflare-colinbese-nft.com
 cloudhq-mkt12.us
 cloudinry.net
 cloudkeysecure.com
@@ -19769,6 +19775,7 @@ coinsvortexnft.com
 coinswallet.info
 coinswalletsystem.web.app
 coinswgecko.link
+coinswiftapp.web.app
 coinswiftresolve.web.app
 coinswp.exchange
 coinsync.online
@@ -20356,6 +20363,7 @@ com-bitcoins.com
 com-blltcupn-net.1gb.ru
 com-eth.top
 com-mywalletonline.com
+com-official.top
 com-signinwallet.com
 com.merge.corpbancafinance.com
 com12334567736789854.ml
@@ -29025,6 +29033,8 @@ eligibility-chain.link
 eligibility-lens.com
 eligibility-sbtpg.com
 eligibility-wenwencoin.com
+eligibility.ton-telegram.click
+eligibility.tontelegram.cc
 eligibility.ventory.network
 eligible-chaln.link
 eligible-circle.com
@@ -29059,6 +29069,7 @@ elmusk2023.com
 elmusk2x.com
 elnaggar-importexport.net
 elnmtu.cc
+elno0x69420.net
 elnur.123.com
 elogged.pages.dev
 elon--musk.net
@@ -32233,6 +32244,7 @@ event.exchangejersey.top
 event.exchangemarket.services
 event.expertpads.top
 event.farcanaofficial.com
+event.gamer-hash.xyz
 event.leapfrog.blog
 event.leapfrog.green
 event.melea.app
@@ -47427,6 +47439,7 @@ mail-celsius.network
 mail-coinbase.biz
 mail-metamask.com
 mail-opensea.com
+mail.45-61-151-79.cprapid.com
 mail.4lifeconstructions.com.au
 mail.a-paxful.com
 mail.adidas-capsule.com
@@ -54725,6 +54738,7 @@ moondao.icu
 moondao.life
 moondao.lol
 moondaodrop.com
+moondefink.live
 moondens.xyz
 moonebeam.com
 moonero.xyz
@@ -59623,7 +59637,9 @@ mysterybpx80.vercel.app
 mysteryclaim74.vercel.app
 mysteryclaims37g.vercel.app
 mysteryclaimsnft.vercel.app
+mysteryclaimz48.vercel.app
 mysteryclicks23.vercel.app
+mysteryclicks71.vercel.app
 mysteryclicks81.vercel.app
 mysteryclicksclaim1.vercel.app
 mysteryclicksnft.vercel.app
@@ -61720,6 +61736,7 @@ ocean-open.xyz
 ocean-protocol.airdrop-whitelist.com
 ocean-protocol.web3-airdrop.net
 ocean-protocol.xyz
+ocean-trades.co
 oceanairdrop.info
 oceanclub-fourseasons.com
 oceania.www.development.pancakeswape.finance
@@ -76436,6 +76453,7 @@ reward-cyber.org
 reward-cyberconnect.site
 reward-ens.domains
 reward-gari.network
+reward-layerzero.net
 reward-memecoin.com
 reward-multichain.org
 reward-optimism.com
@@ -77286,6 +77304,7 @@ rothschild.de.com
 rottenfloki-promogive.com
 roulatin.com
 roumeliotis.ca
+round1-uniswap.org
 round2-wenwencoin.com
 round3-optimism.com
 roupa-gratis.com.br
@@ -86893,6 +86912,7 @@ token.men
 token.njhfgy.com
 token.pepe-vip.xyz
 token.strks-rocket.club
+token.tonblockchain.click
 token568.im
 token9.xyz
 tokenairdrops.net
@@ -87289,6 +87309,8 @@ tompert.com
 tomsachsrocketsfactory.com
 tomtakx.site
 ton-blockchain.xyz
+ton-chain.one
+ton-chain.top
 ton-credit.bond
 ton-drop.org
 ton-gramico.com
@@ -87298,19 +87320,27 @@ ton-keeper.world
 ton-reward.com
 ton-sale.com
 ton-stn-app.xyz
+ton-telegram.click
 ton-telegram.com
 ton-telegram.net
+ton-telegram.xyz
 ton-wallet.store
 ton.fund
 ton.org-community.info
+ton.org-ethsendair.xyz
 ton.org-newyear.fun
 ton.vu
 ton.x-wallet.top
+tonblockchain.click
 tonc0in.website
+tonchains.one
 tonclaim.online
 toncoin-event.com
+toncoin.bnbethbtc.xyz
 toncoin.cfd
 toncoin.eng-ton.org
+toncoins.org
+toncoinwallet.co
 toncoln.me
 toneeper.com
 tonevecher.com
@@ -87348,6 +87378,9 @@ tonpocket.com
 tonpresale.com
 tonpublic.org
 tonreward.com
+tontelegram.cc
+tontelegram.top
+tontelegram24.click
 tontonfriends.org
 tonwallet.club
 tonwallet.online
@@ -102463,6 +102496,7 @@ www.oakapex.com
 www.oakstreethealth.us
 www.oasis-app.pro
 www.oasisnetworkapp.net
+www.obrevc.com
 www.oceanofnfts.com
 www.octusbridge-app.com
 www.octusbridge-s.com
