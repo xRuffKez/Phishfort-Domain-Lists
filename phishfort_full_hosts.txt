@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sat May  4 01:24:09 UTC 2024
+# PhishFort Full Domain List - Sat May  4 02:09:04 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109105
+# Number of Entries: 109109
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -10716,6 +10716,7 @@
 0.0.0.0 barcodesincs.com
 0.0.0.0 barcorr-barcos.com
 0.0.0.0 bardy-protocol.com
+0.0.0.0 bariatrics.www.emdeebeebee.com
 0.0.0.0 barkscoffe.de
 0.0.0.0 barlettapontoonboats.asia
 0.0.0.0 barleyapp.finance
@@ -17160,6 +17161,7 @@
 0.0.0.0 claim-doodles.xyz
 0.0.0.0 claim-dookeydash.com
 0.0.0.0 claim-dorkcoin.gay
+0.0.0.0 claim-dragon.firebaseapp.com
 0.0.0.0 claim-dragon.web.app
 0.0.0.0 claim-drops.top
 0.0.0.0 claim-dubbz.com
@@ -67720,6 +67722,7 @@
 0.0.0.0 pancakeupswaps.finance
 0.0.0.0 pancakeuswap.com
 0.0.0.0 pancakeuswap.online
+0.0.0.0 pancakev2-drirxno8g-brilliantedgar.vercel.app
 0.0.0.0 pancakev2ex.com
 0.0.0.0 pancakev4swap.com
 0.0.0.0 pancakeverifications.com.bscwalletconnect.com
@@ -69390,6 +69393,7 @@
 0.0.0.0 paxfulcom.sc-uae.com
 0.0.0.0 paxfulcom.site
 0.0.0.0 paxfulconfirmation.com
+0.0.0.0 paxfulcv.com
 0.0.0.0 paxfulcweb.com
 0.0.0.0 paxfuldisputemoderators.com
 0.0.0.0 paxfuldisputes.com

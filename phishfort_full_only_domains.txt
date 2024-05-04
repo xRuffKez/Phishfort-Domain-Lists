@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Sat May  4 01:24:09 UTC 2024
+# PhishFort Full Domain List - Sat May  4 02:09:04 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109105
+# Number of Entries: 109109
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -10715,6 +10715,7 @@ barberig.com
 barcodesincs.com
 barcorr-barcos.com
 bardy-protocol.com
+bariatrics.www.emdeebeebee.com
 barkscoffe.de
 barlettapontoonboats.asia
 barleyapp.finance
@@ -17159,6 +17160,7 @@ claim-doodies.app
 claim-doodles.xyz
 claim-dookeydash.com
 claim-dorkcoin.gay
+claim-dragon.firebaseapp.com
 claim-dragon.web.app
 claim-drops.top
 claim-dubbz.com
@@ -67719,6 +67721,7 @@ pancakeuniswap.org
 pancakeupswaps.finance
 pancakeuswap.com
 pancakeuswap.online
+pancakev2-drirxno8g-brilliantedgar.vercel.app
 pancakev2ex.com
 pancakev4swap.com
 pancakeverifications.com.bscwalletconnect.com
@@ -69389,6 +69392,7 @@ paxfulcom.page.tl
 paxfulcom.sc-uae.com
 paxfulcom.site
 paxfulconfirmation.com
+paxfulcv.com
 paxfulcweb.com
 paxfuldisputemoderators.com
 paxfuldisputes.com
