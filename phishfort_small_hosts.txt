@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Sat May  4 20:06:13 UTC 2024
+# PhishFort Small Domain List - Sat May  4 21:05:45 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 7618
