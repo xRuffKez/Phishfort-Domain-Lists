@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sat May  4 02:09:04 UTC 2024
+# PhishFort Full Domain List - Sat May  4 03:02:04 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109109
+# Number of Entries: 109128
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3123,6 +3123,7 @@
 ||agoda.resew-r.world^
 ||agoda.shop^
 ||agoda.take-t.top^
+||agoda.tkffw888.icu^
 ||agoda.u-resew.cfd^
 ||agoda.weboffer7181.com^
 ||agoda.ycs-id.info^
@@ -3879,6 +3880,7 @@
 ||airdrophost.net^
 ||airdropi.top^
 ||airdropit.org^
+||airdropjup.web.app^
 ||airdroplink.net^
 ||airdroplooksrare.org^
 ||airdroploot.com^
@@ -6239,6 +6241,7 @@
 ||app.apestake.io-authoriztion.us^
 ||app.app-airtm.com^
 ||app.app-omsosis.zone^
+||app.app-trhrusrter.finance^
 ||app.apparel419-securechase.com^
 ||app.appsdevonline.live^
 ||app.appsresolves.com^
@@ -12989,6 +12992,7 @@
 ||blastdrop.store^
 ||blaste-io.com^
 ||blaster-airdrop.com^
+||blaster-eth.pages.dev^
 ||blasterscore.io^
 ||blasteventih.com^
 ||blasteventio.com^
@@ -26362,6 +26366,7 @@
 ||degenscore.co^
 ||degensheim.com^
 ||degensreborn.com^
+||degenstoken.vip^
 ||degentoonz-freemint.xyz^
 ||degentoonz.fast-mints.com^
 ||degentoonz.forfreenfts.com^
@@ -26982,6 +26987,7 @@
 ||diamond-magiceden.network^
 ||diamond-rare.com^
 ||diamondcoinstrade.com^
+||diamondhand.pages.dev^
 ||diamondhands-ethereum.web.app^
 ||diamondminer.net^
 ||diamondminers.xyz^
@@ -29719,6 +29725,7 @@
 ||entries.pch-lc.com^
 ||entrolok.com^
 ||entry-nakamigos.io^
+||entry.secureentry.live^
 ||entryportalservice.xyz^
 ||enudeekc.one^
 ||envelop.icu^
@@ -37788,6 +37795,7 @@
 ||graphbridge.live^
 ||graphlinq.rewardsprogram.tech^
 ||graphtoken.net^
+||grass-1o.netlify.app^
 ||grassetti.mint-airdrop.com^
 ||graviex-defi.club^
 ||graviex-defi.xyz^
@@ -43580,6 +43588,7 @@
 ||layerzero-airdrop.space^
 ||layerzero-airdrop.us^
 ||layerzero-airnetwork.com^
+||layerzero-alpha.com^
 ||layerzero-chain.com^
 ||layerzero-claim.generate-coin.world^
 ||layerzero-claiming.take-token.com^
@@ -47000,6 +47009,7 @@
 ||lyetherwallet.com^
 ||lynodes.com^
 ||lyouxi-5e.com^
+||lyra-finance.pages.dev^
 ||lyra.sale^
 ||lyredcsez.site^
 ||lyscapital-promogive.com^
@@ -52545,6 +52555,7 @@
 ||metamasuak.azurewebsites.net^
 ||metamasusak.azurewebsites.net^
 ||metamasvk.com^
+||metamaswtsk.azurewebsites.net^
 ||metamasx.xyz^
 ||metamasyk.azurewebsites.net^
 ||metamaszk.com^
@@ -55152,6 +55163,7 @@
 ||multichain-rectify.com^
 ||multichain-resolveapp.online^
 ||multichain-sync.com^
+||multichain-tokenguidehigh.online^
 ||multichain-tokenguidemaxx.shop^
 ||multichain-web.de^
 ||multichain-web.live^
@@ -63045,6 +63057,7 @@
 ||openseaclaim43.vercel.app^
 ||openseaclaimnfts.com^
 ||openseaclaims.io^
+||openseaclickclaims01.vercel.app^
 ||openseaco.com^
 ||openseacoin.su^
 ||openseaconnect.cloud^
@@ -66914,6 +66927,7 @@
 ||pancakeswapclaim.com^
 ||pancakeswapclaim.vercel.app^
 ||pancakeswapclaim34.vercel.app^
+||pancakeswapclaim6754.vercel.app^
 ||pancakeswapclaimbox.com^
 ||pancakeswapclaimdropnow.com^
 ||pancakeswapclaims.com^
@@ -68802,6 +68816,7 @@
 ||paradigml.su^
 ||paradigmmanta.com^
 ||paradise-app.com^
+||paradisetycoon.vercel.app^
 ||paradoxmeta-io-free.xyz^
 ||paradoxmeta-io2-free.xyz^
 ||paradoxmeta-io3-free.xyz^
@@ -72737,6 +72752,8 @@
 ||portal-esferasantade.blogspot.com^
 ||portal-fantasy.web3fast.net^
 ||portal-flare.network^
+||portal-gaming-project.pages.dev^
+||portal-gaming.pages.dev^
 ||portal-gmxio.com^
 ||portal-matic.com^
 ||portal-presale.web.app^
@@ -79509,6 +79526,7 @@
 ||shibainut.com^
 ||shibainux2.com^
 ||shibair.net^
+||shibairdop.com^
 ||shibakiller.org^
 ||shibalite-promogive.com^
 ||shibalnu-claimnow.rf.gd^
@@ -84085,6 +84103,7 @@
 ||swap.shibariumnft.info^
 ||swap.thinkincoin.com^
 ||swap.tw.cn^
+||swap.uni-swapv4.com^
 ||swap.vikingsinu.co^
 ||swap.website^
 ||swap24.net^
@@ -90158,6 +90177,7 @@
 ||univ2rewards.com^
 ||univ3.fi^
 ||univ3lp.org^
+||univ4-platform.pages.dev^
 ||univapxchng.godaddysites.com^
 ||universa.sale^
 ||universal-gateway.live^
@@ -91456,7 +91476,6 @@
 ||valvecsgo.com^
 ||vanage.crystalcloud.xyz^
 ||vanar.trading^
-||vanarchaiin.com^
 ||vanarman-free.xyz^
 ||vandal-city.com^
 ||vandalcity.shop^
@@ -96182,6 +96201,7 @@
 ||web3coins848.top^
 ||web3coinsolution.live^
 ||web3collab.land^
+||web3conection.vercel.app^
 ||web3connect.icu^
 ||web3connect.net^
 ||web3connected.pages.dev^
@@ -108613,7 +108633,6 @@
 ||zetachaine.com^
 ||zetachains.app^
 ||zetachainsairdrop.com^
-||zetaclaim.pages.dev^
 ||zetads.tech^
 ||zetaflyers.com^
 ||zetalbs.com^

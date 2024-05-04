@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sat May  4 02:09:04 UTC 2024
+# PhishFort Full Domain List - Sat May  4 03:02:04 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109109
+# Number of Entries: 109128
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3123,6 +3123,7 @@
 0.0.0.0 agoda.resew-r.world
 0.0.0.0 agoda.shop
 0.0.0.0 agoda.take-t.top
+0.0.0.0 agoda.tkffw888.icu
 0.0.0.0 agoda.u-resew.cfd
 0.0.0.0 agoda.weboffer7181.com
 0.0.0.0 agoda.ycs-id.info
@@ -3879,6 +3880,7 @@
 0.0.0.0 airdrophost.net
 0.0.0.0 airdropi.top
 0.0.0.0 airdropit.org
+0.0.0.0 airdropjup.web.app
 0.0.0.0 airdroplink.net
 0.0.0.0 airdroplooksrare.org
 0.0.0.0 airdroploot.com
@@ -6239,6 +6241,7 @@
 0.0.0.0 app.apestake.io-authoriztion.us
 0.0.0.0 app.app-airtm.com
 0.0.0.0 app.app-omsosis.zone
+0.0.0.0 app.app-trhrusrter.finance
 0.0.0.0 app.apparel419-securechase.com
 0.0.0.0 app.appsdevonline.live
 0.0.0.0 app.appsresolves.com
@@ -12989,6 +12992,7 @@
 0.0.0.0 blastdrop.store
 0.0.0.0 blaste-io.com
 0.0.0.0 blaster-airdrop.com
+0.0.0.0 blaster-eth.pages.dev
 0.0.0.0 blasterscore.io
 0.0.0.0 blasteventih.com
 0.0.0.0 blasteventio.com
@@ -26362,6 +26366,7 @@
 0.0.0.0 degenscore.co
 0.0.0.0 degensheim.com
 0.0.0.0 degensreborn.com
+0.0.0.0 degenstoken.vip
 0.0.0.0 degentoonz-freemint.xyz
 0.0.0.0 degentoonz.fast-mints.com
 0.0.0.0 degentoonz.forfreenfts.com
@@ -26982,6 +26987,7 @@
 0.0.0.0 diamond-magiceden.network
 0.0.0.0 diamond-rare.com
 0.0.0.0 diamondcoinstrade.com
+0.0.0.0 diamondhand.pages.dev
 0.0.0.0 diamondhands-ethereum.web.app
 0.0.0.0 diamondminer.net
 0.0.0.0 diamondminers.xyz
@@ -29719,6 +29725,7 @@
 0.0.0.0 entries.pch-lc.com
 0.0.0.0 entrolok.com
 0.0.0.0 entry-nakamigos.io
+0.0.0.0 entry.secureentry.live
 0.0.0.0 entryportalservice.xyz
 0.0.0.0 enudeekc.one
 0.0.0.0 envelop.icu
@@ -37788,6 +37795,7 @@
 0.0.0.0 graphbridge.live
 0.0.0.0 graphlinq.rewardsprogram.tech
 0.0.0.0 graphtoken.net
+0.0.0.0 grass-1o.netlify.app
 0.0.0.0 grassetti.mint-airdrop.com
 0.0.0.0 graviex-defi.club
 0.0.0.0 graviex-defi.xyz
@@ -43580,6 +43588,7 @@
 0.0.0.0 layerzero-airdrop.space
 0.0.0.0 layerzero-airdrop.us
 0.0.0.0 layerzero-airnetwork.com
+0.0.0.0 layerzero-alpha.com
 0.0.0.0 layerzero-chain.com
 0.0.0.0 layerzero-claim.generate-coin.world
 0.0.0.0 layerzero-claiming.take-token.com
@@ -47000,6 +47009,7 @@
 0.0.0.0 lyetherwallet.com
 0.0.0.0 lynodes.com
 0.0.0.0 lyouxi-5e.com
+0.0.0.0 lyra-finance.pages.dev
 0.0.0.0 lyra.sale
 0.0.0.0 lyredcsez.site
 0.0.0.0 lyscapital-promogive.com
@@ -52545,6 +52555,7 @@
 0.0.0.0 metamasuak.azurewebsites.net
 0.0.0.0 metamasusak.azurewebsites.net
 0.0.0.0 metamasvk.com
+0.0.0.0 metamaswtsk.azurewebsites.net
 0.0.0.0 metamasx.xyz
 0.0.0.0 metamasyk.azurewebsites.net
 0.0.0.0 metamaszk.com
@@ -55152,6 +55163,7 @@
 0.0.0.0 multichain-rectify.com
 0.0.0.0 multichain-resolveapp.online
 0.0.0.0 multichain-sync.com
+0.0.0.0 multichain-tokenguidehigh.online
 0.0.0.0 multichain-tokenguidemaxx.shop
 0.0.0.0 multichain-web.de
 0.0.0.0 multichain-web.live
@@ -63045,6 +63057,7 @@
 0.0.0.0 openseaclaim43.vercel.app
 0.0.0.0 openseaclaimnfts.com
 0.0.0.0 openseaclaims.io
+0.0.0.0 openseaclickclaims01.vercel.app
 0.0.0.0 openseaco.com
 0.0.0.0 openseacoin.su
 0.0.0.0 openseaconnect.cloud
@@ -66914,6 +66927,7 @@
 0.0.0.0 pancakeswapclaim.com
 0.0.0.0 pancakeswapclaim.vercel.app
 0.0.0.0 pancakeswapclaim34.vercel.app
+0.0.0.0 pancakeswapclaim6754.vercel.app
 0.0.0.0 pancakeswapclaimbox.com
 0.0.0.0 pancakeswapclaimdropnow.com
 0.0.0.0 pancakeswapclaims.com
@@ -68802,6 +68816,7 @@
 0.0.0.0 paradigml.su
 0.0.0.0 paradigmmanta.com
 0.0.0.0 paradise-app.com
+0.0.0.0 paradisetycoon.vercel.app
 0.0.0.0 paradoxmeta-io-free.xyz
 0.0.0.0 paradoxmeta-io2-free.xyz
 0.0.0.0 paradoxmeta-io3-free.xyz
@@ -72737,6 +72752,8 @@
 0.0.0.0 portal-esferasantade.blogspot.com
 0.0.0.0 portal-fantasy.web3fast.net
 0.0.0.0 portal-flare.network
+0.0.0.0 portal-gaming-project.pages.dev
+0.0.0.0 portal-gaming.pages.dev
 0.0.0.0 portal-gmxio.com
 0.0.0.0 portal-matic.com
 0.0.0.0 portal-presale.web.app
@@ -79509,6 +79526,7 @@
 0.0.0.0 shibainut.com
 0.0.0.0 shibainux2.com
 0.0.0.0 shibair.net
+0.0.0.0 shibairdop.com
 0.0.0.0 shibakiller.org
 0.0.0.0 shibalite-promogive.com
 0.0.0.0 shibalnu-claimnow.rf.gd
@@ -84085,6 +84103,7 @@
 0.0.0.0 swap.shibariumnft.info
 0.0.0.0 swap.thinkincoin.com
 0.0.0.0 swap.tw.cn
+0.0.0.0 swap.uni-swapv4.com
 0.0.0.0 swap.vikingsinu.co
 0.0.0.0 swap.website
 0.0.0.0 swap24.net
@@ -90158,6 +90177,7 @@
 0.0.0.0 univ2rewards.com
 0.0.0.0 univ3.fi
 0.0.0.0 univ3lp.org
+0.0.0.0 univ4-platform.pages.dev
 0.0.0.0 univapxchng.godaddysites.com
 0.0.0.0 universa.sale
 0.0.0.0 universal-gateway.live
@@ -91456,7 +91476,6 @@
 0.0.0.0 valvecsgo.com
 0.0.0.0 vanage.crystalcloud.xyz
 0.0.0.0 vanar.trading
-0.0.0.0 vanarchaiin.com
 0.0.0.0 vanarman-free.xyz
 0.0.0.0 vandal-city.com
 0.0.0.0 vandalcity.shop
@@ -96182,6 +96201,7 @@
 0.0.0.0 web3coins848.top
 0.0.0.0 web3coinsolution.live
 0.0.0.0 web3collab.land
+0.0.0.0 web3conection.vercel.app
 0.0.0.0 web3connect.icu
 0.0.0.0 web3connect.net
 0.0.0.0 web3connected.pages.dev
@@ -108613,7 +108633,6 @@
 0.0.0.0 zetachaine.com
 0.0.0.0 zetachains.app
 0.0.0.0 zetachainsairdrop.com
-0.0.0.0 zetaclaim.pages.dev
 0.0.0.0 zetads.tech
 0.0.0.0 zetaflyers.com
 0.0.0.0 zetalbs.com
