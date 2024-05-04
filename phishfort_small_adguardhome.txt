@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May  3 23:05:15 UTC 2024
+# PhishFort Small Domain List - Sat May  4 00:18:11 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7540
+# Number of Entries: 7542
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -239,6 +239,7 @@
 ||ai-dapp.pages.dev^
 ||aibaoinsurance.com^
 ||aicoinex-amm.com^
+||aidexi.net^
 ||aidexw.com^
 ||aidogedrop.org^
 ||aiearni.com^
@@ -2831,6 +2832,7 @@
 ||icebnb-token-reflection-fix.netlify.app^
 ||idex-crypto.vip^
 ||idextr.com^
+||idn-hosting.com^
 ||idypians.xyz^
 ||iexeces.app^
 ||igxegift.com^
