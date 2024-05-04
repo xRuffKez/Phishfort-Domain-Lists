@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sat May  4 05:02:00 UTC 2024
+# PhishFort Full Domain List - Sat May  4 06:02:03 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109142
+# Number of Entries: 109155
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -6243,6 +6243,7 @@
 0.0.0.0 app.apestake.io-authoriztion.us
 0.0.0.0 app.app-airtm.com
 0.0.0.0 app.app-omsosis.zone
+0.0.0.0 app.app-trhrusfter.finance
 0.0.0.0 app.app-trhrusrter.finance
 0.0.0.0 app.apparel419-securechase.com
 0.0.0.0 app.appsdevonline.live
@@ -6355,6 +6356,7 @@
 0.0.0.0 app.exodus.com.cukcu.org
 0.0.0.0 app.exodus.com.feetkartz.com
 0.0.0.0 app.exodus.com.hotelemperadortacna.com
+0.0.0.0 app.expertcapitalsus.com
 0.0.0.0 app.farmersonly.fi
 0.0.0.0 app.fastappsolutions.com
 0.0.0.0 app.fasterresolver.com
@@ -17525,6 +17527,7 @@
 0.0.0.0 claim.coinuni.org
 0.0.0.0 claim.compountoken.org
 0.0.0.0 claim.creditor-ftx.com
+0.0.0.0 claim.curvances.pw
 0.0.0.0 claim.cybzducks.lol
 0.0.0.0 claim.daicoin.org
 0.0.0.0 claim.dex-btc20.app
@@ -17615,6 +17618,7 @@
 0.0.0.0 claim.sonikcoin.network
 0.0.0.0 claim.spazecommune.com
 0.0.0.0 claim.spongeonerc.com
+0.0.0.0 claim.spongev2tokens.vip
 0.0.0.0 claim.status-eth.top
 0.0.0.0 claim.support-layerzero.network
 0.0.0.0 claim.thetipcoin.press
@@ -32238,6 +32242,7 @@
 0.0.0.0 event.shibatoken.space
 0.0.0.0 event.stariink.net
 0.0.0.0 event.stockcoin.top
+0.0.0.0 event.velodrome-fi.xyz
 0.0.0.0 event.xfinespad.top
 0.0.0.0 event2022.org
 0.0.0.0 event2btc.org
@@ -32834,6 +32839,7 @@
 0.0.0.0 expertminingpools.com
 0.0.0.0 expertsolver.pages.dev
 0.0.0.0 expirebit.com
+0.0.0.0 expl2.firstchain-zksync-90ee95.zeeve.net
 0.0.0.0 explainthisbob.net
 0.0.0.0 exploit-revoke.cash
 0.0.0.0 exploitrevoke.com
@@ -61809,6 +61815,7 @@
 0.0.0.0 offers-opensae-io.codeanyapp.com
 0.0.0.0 offers-opensea.io
 0.0.0.0 offers.openesea.io.franciscogarcias87.com
+0.0.0.0 offers.opensea.io.grueneslichtfuerkinder.de
 0.0.0.0 offersactive.online
 0.0.0.0 offerspecials.online
 0.0.0.0 office.pamcakeswap.info
@@ -62561,6 +62568,7 @@
 0.0.0.0 open-sseae.site
 0.0.0.0 open-token.sale
 0.0.0.0 open-zkbridge.com
+0.0.0.0 open2mysterybox.vercel.app
 0.0.0.0 openaea.io
 0.0.0.0 openai-airdrop.com
 0.0.0.0 openai-connect.io
@@ -78388,6 +78396,7 @@
 0.0.0.0 sculhecorlart.tk
 0.0.0.0 sculptedapeyachtclub.com
 0.0.0.0 scurencrypt.com
+0.0.0.0 scybautosolution.com
 0.0.0.0 scyn-walletsbackup.com
 0.0.0.0 scyn-walletsecure.com
 0.0.0.0 scythe-inexpensive-link.glitch.me
@@ -82837,6 +82846,7 @@
 0.0.0.0 steamcommnurnity.com
 0.0.0.0 steamcommnuuity.com
 0.0.0.0 steamcommnuurtiy.com
+0.0.0.0 steamcommounity.ru
 0.0.0.0 steamcommujity.com
 0.0.0.0 steamcommunety.ru
 0.0.0.0 steamcommuneuity.com
@@ -83254,6 +83264,7 @@
 0.0.0.0 stronglp.com
 0.0.0.0 strongtd.com
 0.0.0.0 strongv3.com
+0.0.0.0 stroom-network-web3.vercel.app
 0.0.0.0 strretto.com
 0.0.0.0 structurefilms.com
 0.0.0.0 sts-genetec-33e4af7a.glcvkruathoorueac.com
@@ -91490,6 +91501,7 @@
 0.0.0.0 valvecsgo.com
 0.0.0.0 vanage.crystalcloud.xyz
 0.0.0.0 vanar.trading
+0.0.0.0 vanarchaiin.com
 0.0.0.0 vanarman-free.xyz
 0.0.0.0 vandal-city.com
 0.0.0.0 vandalcity.shop
@@ -92169,6 +92181,7 @@
 0.0.0.0 visit-frame.xyz
 0.0.0.0 visit-jup.app
 0.0.0.0 visit-orivium.io
+0.0.0.0 visit-otherside.xyz
 0.0.0.0 visit-overworld.games
 0.0.0.0 visit-porkcoin.com
 0.0.0.0 visit-shellprotocol.io

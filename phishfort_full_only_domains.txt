@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Sat May  4 05:02:00 UTC 2024
+# PhishFort Full Domain List - Sat May  4 06:02:03 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109142
+# Number of Entries: 109155
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -6242,6 +6242,7 @@ app.ape-stake.com
 app.apestake.io-authoriztion.us
 app.app-airtm.com
 app.app-omsosis.zone
+app.app-trhrusfter.finance
 app.app-trhrusrter.finance
 app.apparel419-securechase.com
 app.appsdevonline.live
@@ -6354,6 +6355,7 @@ app.exodus.com.alexandertechnique-montreal.com
 app.exodus.com.cukcu.org
 app.exodus.com.feetkartz.com
 app.exodus.com.hotelemperadortacna.com
+app.expertcapitalsus.com
 app.farmersonly.fi
 app.fastappsolutions.com
 app.fasterresolver.com
@@ -17524,6 +17526,7 @@ claim.coinpepe.org
 claim.coinuni.org
 claim.compountoken.org
 claim.creditor-ftx.com
+claim.curvances.pw
 claim.cybzducks.lol
 claim.daicoin.org
 claim.dex-btc20.app
@@ -17614,6 +17617,7 @@ claim.sonikapp.live
 claim.sonikcoin.network
 claim.spazecommune.com
 claim.spongeonerc.com
+claim.spongev2tokens.vip
 claim.status-eth.top
 claim.support-layerzero.network
 claim.thetipcoin.press
@@ -32237,6 +32241,7 @@ event.rewardcoin.top
 event.shibatoken.space
 event.stariink.net
 event.stockcoin.top
+event.velodrome-fi.xyz
 event.xfinespad.top
 event2022.org
 event2btc.org
@@ -32833,6 +32838,7 @@ expertelover.com
 expertminingpools.com
 expertsolver.pages.dev
 expirebit.com
+expl2.firstchain-zksync-90ee95.zeeve.net
 explainthisbob.net
 exploit-revoke.cash
 exploitrevoke.com
@@ -61808,6 +61814,7 @@ offers-opennsea.io
 offers-opensae-io.codeanyapp.com
 offers-opensea.io
 offers.openesea.io.franciscogarcias87.com
+offers.opensea.io.grueneslichtfuerkinder.de
 offersactive.online
 offerspecials.online
 office.pamcakeswap.info
@@ -62560,6 +62567,7 @@ open-soa.com
 open-sseae.site
 open-token.sale
 open-zkbridge.com
+open2mysterybox.vercel.app
 openaea.io
 openai-airdrop.com
 openai-connect.io
@@ -78387,6 +78395,7 @@ scuihubscuiportal.net
 sculhecorlart.tk
 sculptedapeyachtclub.com
 scurencrypt.com
+scybautosolution.com
 scyn-walletsbackup.com
 scyn-walletsecure.com
 scythe-inexpensive-link.glitch.me
@@ -82836,6 +82845,7 @@ steamcommnunlity.com
 steamcommnurnity.com
 steamcommnuuity.com
 steamcommnuurtiy.com
+steamcommounity.ru
 steamcommujity.com
 steamcommunety.ru
 steamcommuneuity.com
@@ -83253,6 +83263,7 @@ stronginu-promogive.com
 stronglp.com
 strongtd.com
 strongv3.com
+stroom-network-web3.vercel.app
 strretto.com
 structurefilms.com
 sts-genetec-33e4af7a.glcvkruathoorueac.com
@@ -91489,6 +91500,7 @@ valuepenguin.online
 valvecsgo.com
 vanage.crystalcloud.xyz
 vanar.trading
+vanarchaiin.com
 vanarman-free.xyz
 vandal-city.com
 vandalcity.shop
@@ -92168,6 +92180,7 @@ visit-farcana.pages.dev
 visit-frame.xyz
 visit-jup.app
 visit-orivium.io
+visit-otherside.xyz
 visit-overworld.games
 visit-porkcoin.com
 visit-shellprotocol.io
