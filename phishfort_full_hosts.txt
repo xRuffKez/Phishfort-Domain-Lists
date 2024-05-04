@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sat May  4 03:02:04 UTC 2024
+# PhishFort Full Domain List - Sat May  4 04:02:08 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109128
+# Number of Entries: 109134
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3178,6 +3178,8 @@
 0.0.0.0 agodainquiry.com
 0.0.0.0 agodajob.com
 0.0.0.0 agodajp.vip
+0.0.0.0 agodajpvip.cc
+0.0.0.0 agodajpvip.com
 0.0.0.0 agodalogical.com
 0.0.0.0 agodalucky.com
 0.0.0.0 agodamall-hk.com
@@ -41714,6 +41716,8 @@
 0.0.0.0 jp-pancakeswap.net
 0.0.0.0 jp.ib-fx7.com
 0.0.0.0 jpagod.com
+0.0.0.0 jpagods.com
+0.0.0.0 jpagods.vip
 0.0.0.0 jpancakesewap.me
 0.0.0.0 jpancke-swap.net
 0.0.0.0 jpawinu-promogive.com
@@ -47458,6 +47462,7 @@
 0.0.0.0 mail.commbank-updates.com
 0.0.0.0 mail.consensys-nft.online
 0.0.0.0 mail.cpcalendars.gitlab.mail.pancakefiance.org
+0.0.0.0 mail.csagoda.site
 0.0.0.0 mail.cyber-connect.online
 0.0.0.0 mail.dapps-revoke.com
 0.0.0.0 mail.drops-dogecoin.com
@@ -87273,6 +87278,7 @@
 0.0.0.0 ton-gramico.com
 0.0.0.0 ton-ico.com
 0.0.0.0 ton-ico.ga
+0.0.0.0 ton-keeper.world
 0.0.0.0 ton-reward.com
 0.0.0.0 ton-sale.com
 0.0.0.0 ton-stn-app.xyz

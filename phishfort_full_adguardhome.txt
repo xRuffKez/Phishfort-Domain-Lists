@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sat May  4 03:02:04 UTC 2024
+# PhishFort Full Domain List - Sat May  4 04:02:08 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109128
+# Number of Entries: 109134
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3178,6 +3178,8 @@
 ||agodainquiry.com^
 ||agodajob.com^
 ||agodajp.vip^
+||agodajpvip.cc^
+||agodajpvip.com^
 ||agodalogical.com^
 ||agodalucky.com^
 ||agodamall-hk.com^
@@ -41714,6 +41716,8 @@
 ||jp-pancakeswap.net^
 ||jp.ib-fx7.com^
 ||jpagod.com^
+||jpagods.com^
+||jpagods.vip^
 ||jpancakesewap.me^
 ||jpancke-swap.net^
 ||jpawinu-promogive.com^
@@ -47458,6 +47462,7 @@
 ||mail.commbank-updates.com^
 ||mail.consensys-nft.online^
 ||mail.cpcalendars.gitlab.mail.pancakefiance.org^
+||mail.csagoda.site^
 ||mail.cyber-connect.online^
 ||mail.dapps-revoke.com^
 ||mail.drops-dogecoin.com^
@@ -87273,6 +87278,7 @@
 ||ton-gramico.com^
 ||ton-ico.com^
 ||ton-ico.ga^
+||ton-keeper.world^
 ||ton-reward.com^
 ||ton-sale.com^
 ||ton-stn-app.xyz^
