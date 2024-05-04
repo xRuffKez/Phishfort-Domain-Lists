@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Sat May  4 03:05:37 UTC 2024
+# PhishFort Small Domain List - Sat May  4 04:06:16 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 7563
@@ -224,6 +224,8 @@
 0.0.0.0 agodahotels.store
 0.0.0.0 agodahotels.world
 0.0.0.0 agodajp.vip
+0.0.0.0 agodajpvip.cc
+0.0.0.0 agodajpvip.com
 0.0.0.0 agodanewcomplaint.com
 0.0.0.0 agodaonline.com
 0.0.0.0 agodaranking.top
@@ -403,7 +405,6 @@
 0.0.0.0 alshayamegastore.online
 0.0.0.0 alshayeagroup.com
 0.0.0.0 alt-layers.com
-0.0.0.0 alt-token.net
 0.0.0.0 alt-zerolend.xyz
 0.0.0.0 altdentifiys.com
 0.0.0.0 altidentlfler.net
@@ -831,7 +832,6 @@
 0.0.0.0 babygrok-ai.top
 0.0.0.0 babyionchain.app
 0.0.0.0 babylon-registrationlive-pas.vercel.app
-0.0.0.0 babylon.trading
 0.0.0.0 babylonnchain.app
 0.0.0.0 bac-swapcoins.web.app
 0.0.0.0 bac-swapp.web.app
@@ -3009,6 +3009,8 @@
 0.0.0.0 joysonseafety.com
 0.0.0.0 jp.ib-fx7.com
 0.0.0.0 jpagod.com
+0.0.0.0 jpagods.com
+0.0.0.0 jpagods.vip
 0.0.0.0 jrt8fm.pro
 0.0.0.0 jsebastiao.com
 0.0.0.0 jsjtgroup.cn
@@ -3084,7 +3086,6 @@
 0.0.0.0 kamino.life
 0.0.0.0 kamno.finance
 0.0.0.0 karatdao.eu
-0.0.0.0 karatdao.v6.rocks
 0.0.0.0 karnatakaaromas.com
 0.0.0.0 kasgca.com
 0.0.0.0 kaspamining.app
@@ -3423,6 +3424,7 @@
 0.0.0.0 mahta-networks.com
 0.0.0.0 mahto-network.com
 0.0.0.0 mail-celsius.network
+0.0.0.0 mail.csagoda.site
 0.0.0.0 mail.ethxgas.com
 0.0.0.0 mail.layerszero.pics
 0.0.0.0 mail.lendingtree.website
@@ -5786,7 +5788,6 @@
 0.0.0.0 signup-orderly.network
 0.0.0.0 signup-portal.com
 0.0.0.0 signup-portalcoin.com
-0.0.0.0 signup-starheroes.com
 0.0.0.0 signup-velodrome.finance
 0.0.0.0 signups-apeterminal.com
 0.0.0.0 signups-befilabs.com
@@ -5971,7 +5972,6 @@
 0.0.0.0 stakezircuit.xyz
 0.0.0.0 staking-0lz83.github.io
 0.0.0.0 staking-farms.com
-0.0.0.0 staking-immutable.com
 0.0.0.0 staking-meritcircle.com
 0.0.0.0 staking-probase.app
 0.0.0.0 staking-pyth-network.web.app
@@ -6301,6 +6301,7 @@
 0.0.0.0 tollvest.org
 0.0.0.0 tomandgerimail.com
 0.0.0.0 tombmigration.com
+0.0.0.0 ton-keeper.world
 0.0.0.0 ton.org-community.info
 0.0.0.0 ton.x-wallet.top
 0.0.0.0 tonclaim.online
@@ -7293,7 +7294,6 @@
 0.0.0.0 www.revokecash.store
 0.0.0.0 www.revokecash.us
 0.0.0.0 www.revokecontract.xyz
-0.0.0.0 www.reward-wenwen.com
 0.0.0.0 www.rmkrbridge.app
 0.0.0.0 www.royalsecrets.com.ua
 0.0.0.0 www.rpcresolve.com

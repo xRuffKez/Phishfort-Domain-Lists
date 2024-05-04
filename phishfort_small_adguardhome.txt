@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Sat May  4 03:05:37 UTC 2024
+# PhishFort Small Domain List - Sat May  4 04:06:16 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
 # Number of Entries: 7563
@@ -224,6 +224,8 @@
 ||agodahotels.store^
 ||agodahotels.world^
 ||agodajp.vip^
+||agodajpvip.cc^
+||agodajpvip.com^
 ||agodanewcomplaint.com^
 ||agodaonline.com^
 ||agodaranking.top^
@@ -403,7 +405,6 @@
 ||alshayamegastore.online^
 ||alshayeagroup.com^
 ||alt-layers.com^
-||alt-token.net^
 ||alt-zerolend.xyz^
 ||altdentifiys.com^
 ||altidentlfler.net^
@@ -831,7 +832,6 @@
 ||babygrok-ai.top^
 ||babyionchain.app^
 ||babylon-registrationlive-pas.vercel.app^
-||babylon.trading^
 ||babylonnchain.app^
 ||bac-swapcoins.web.app^
 ||bac-swapp.web.app^
@@ -3009,6 +3009,8 @@
 ||joysonseafety.com^
 ||jp.ib-fx7.com^
 ||jpagod.com^
+||jpagods.com^
+||jpagods.vip^
 ||jrt8fm.pro^
 ||jsebastiao.com^
 ||jsjtgroup.cn^
@@ -3084,7 +3086,6 @@
 ||kamino.life^
 ||kamno.finance^
 ||karatdao.eu^
-||karatdao.v6.rocks^
 ||karnatakaaromas.com^
 ||kasgca.com^
 ||kaspamining.app^
@@ -3423,6 +3424,7 @@
 ||mahta-networks.com^
 ||mahto-network.com^
 ||mail-celsius.network^
+||mail.csagoda.site^
 ||mail.ethxgas.com^
 ||mail.layerszero.pics^
 ||mail.lendingtree.website^
@@ -5786,7 +5788,6 @@
 ||signup-orderly.network^
 ||signup-portal.com^
 ||signup-portalcoin.com^
-||signup-starheroes.com^
 ||signup-velodrome.finance^
 ||signups-apeterminal.com^
 ||signups-befilabs.com^
@@ -5971,7 +5972,6 @@
 ||stakezircuit.xyz^
 ||staking-0lz83.github.io^
 ||staking-farms.com^
-||staking-immutable.com^
 ||staking-meritcircle.com^
 ||staking-probase.app^
 ||staking-pyth-network.web.app^
@@ -6301,6 +6301,7 @@
 ||tollvest.org^
 ||tomandgerimail.com^
 ||tombmigration.com^
+||ton-keeper.world^
 ||ton.org-community.info^
 ||ton.x-wallet.top^
 ||tonclaim.online^
@@ -7293,7 +7294,6 @@
 ||www.revokecash.store^
 ||www.revokecash.us^
 ||www.revokecontract.xyz^
-||www.reward-wenwen.com^
 ||www.rmkrbridge.app^
 ||www.royalsecrets.com.ua^
 ||www.rpcresolve.com^
