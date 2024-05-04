@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sat May  4 06:05:18 UTC 2024
+# PhishFort Small Domain List - Sat May  4 07:05:42 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7573
+# Number of Entries: 7606
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -306,6 +306,7 @@
 ||airdrop.gam3sgg.net^
 ||airdrop.manto.network^
 ||airdrop.mfi.expert^
+||airdrop.mobox-token.homes^
 ||airdrop.modenetwork.xyz^
 ||airdrop.nibiru-web3.com^
 ||airdrop.orbiterfinancial.com^
@@ -315,6 +316,7 @@
 ||airdrop.riftswap.net^
 ||airdrop.starheros.community^
 ||airdrop.teleportdao.su^
+||airdrop.tonchain.blog^
 ||airdrop.wrlomhole.net^
 ||airdrop.yuliverse.net^
 ||airdrop.zerolendd.xyz^
@@ -1456,9 +1458,11 @@
 ||claim.spongeonerc.com^
 ||claim.spongev2tokens.vip^
 ||claim.ton-telegram.xyz^
+||claim.tontelegram.top^
 ||claim.wallstretmemes.app^
 ||claim.wormhole.fitness^
 ||claim.wormhole.si^
+||claim.www-catc0in.org^
 ||claim.www-catcoin.com^
 ||claim.zeta.chain.wb3ox.xyz^
 ||claim.zkskull.com^
@@ -1485,6 +1489,7 @@
 ||claimstrk.fun^
 ||claimstrk.today^
 ||claimstrk.xyz^
+||claimton.org^
 ||claimzerion-protocol.pages.dev^
 ||claimzeriondapps.pages.dev^
 ||clarckconstruction.com^
@@ -1522,6 +1527,7 @@
 ||clone1714515846502.angel-cloner.com^
 ||clone1714516486291.angel-cloner.com^
 ||cloud-base-dapp.vercel.app^
+||cloudflare-colinbese-nft.com^
 ||cloudinry.net^
 ||clrscr.net^
 ||cm-dap.online^
@@ -1580,6 +1586,7 @@
 ||coins.tr1onex.top^
 ||coinsquarelogin.com^
 ||coinswalletsystem.web.app^
+||coinswiftapp.web.app^
 ||coinswiftresolve.web.app^
 ||cointiger-airdrop.com^
 ||cointransaction.finance^
@@ -1625,6 +1632,7 @@
 ||collection-satoshivm.io^
 ||collecttion.store^
 ||colllab.xyz^
+||com-official.top^
 ||com3.sa.com^
 ||community-center.shop^
 ||community-coindesk.com^
@@ -2151,10 +2159,13 @@
 ||eigenpie.saydbaeaumca.xyz^
 ||elgenlayer.xyz.web3-ap.cfd^
 ||elgenlayerz.xyz^
+||eligibility.ton-telegram.click^
+||eligibility.tontelegram.cc^
 ||eligibility.ventory.network^
 ||eligible-chaln.link^
 ||elite-bit.net^
 ||elnmtu.cc^
+||elno0x69420.net^
 ||elogged.pages.dev^
 ||elon-x.info^
 ||em-suppliers.online^
@@ -2294,6 +2305,7 @@
 ||event-realios.com^
 ||event-woo.co^
 ||event.airpud.top^
+||event.gamer-hash.xyz^
 ||event.rewardcoin.top^
 ||event.stockcoin.top^
 ||event.velodrome-fi.xyz^
@@ -3428,6 +3440,7 @@
 ||mahta-networks.com^
 ||mahto-network.com^
 ||mail-celsius.network^
+||mail.45-61-151-79.cprapid.com^
 ||mail.csagoda.site^
 ||mail.ethxgas.com^
 ||mail.layerszero.pics^
@@ -4052,6 +4065,7 @@
 ||moonbeamm.online^
 ||moonbeams-web.com^
 ||moonbeams-web3.com^
+||moondefink.live^
 ||moonsama.tech^
 ||moonwel.finance^
 ||mopssd.pro^
@@ -4193,6 +4207,7 @@
 ||mysteryclaimsnft.vercel.app^
 ||mysteryclaimz48.vercel.app^
 ||mysteryclicks23.vercel.app^
+||mysteryclicks71.vercel.app^
 ||mysteryclicks81.vercel.app^
 ||mysteryclicksclaim1.vercel.app^
 ||mysteryclicksnft.vercel.app^
@@ -4424,6 +4439,7 @@
 ||oberbankat.com^
 ||obtain-manta.pages.dev^
 ||ocbre.com^
+||ocean-trades.co^
 ||ocmordinals.xyz^
 ||ocmtoys.xyz^
 ||octonodedapp.pages.dev^
@@ -5491,6 +5507,7 @@
 ||revweb3-access.pages.dev^
 ||rewad.earnifin.com^
 ||reward-1inch.com^
+||reward-layerzero.net^
 ||reward-paalai.finance^
 ||reward-satoshivm.com^
 ||reward-strk.network^
@@ -5557,6 +5574,7 @@
 ||ronninwallet.godaddysites.com^
 ||rooninchain.com^
 ||roost-distributions.net^
+||round1-uniswap.org^
 ||round2-wenwencoin.com^
 ||route.claims^
 ||router.gifts^
@@ -6302,6 +6320,7 @@
 ||token-swap-seven.vercel.app^
 ||token-theblock.co^
 ||token.strks-rocket.club^
+||token.tonblockchain.click^
 ||tokenlon.app^
 ||tokenprojectrarity.site^
 ||tokens-zk.link^
@@ -6311,10 +6330,20 @@
 ||tollvest.org^
 ||tomandgerimail.com^
 ||tombmigration.com^
+||ton-chain.one^
+||ton-chain.top^
 ||ton-keeper.world^
+||ton-telegram.click^
+||ton-telegram.xyz^
 ||ton.org-community.info^
+||ton.org-ethsendair.xyz^
 ||ton.x-wallet.top^
+||tonblockchain.click^
+||tonchains.one^
 ||tonclaim.online^
+||toncoin.bnbethbtc.xyz^
+||toncoins.org^
+||toncoinwallet.co^
 ||toneeper.com^
 ||tonevecher.com^
 ||tonjeeper.com^
@@ -6343,6 +6372,9 @@
 ||tonkewper.com^
 ||tonkreper.com^
 ||tonleeper.com^
+||tontelegram.cc^
+||tontelegram.top^
+||tontelegram24.click^
 ||tool-orb.web.app^
 ||top-payrollservices.com^
 ||top-satoshivm.io^
@@ -7249,6 +7281,7 @@
 ||www.nslinu.com^
 ||www.o2-login.info^
 ||www.oakapex.com^
+||www.obrevc.com^
 ||www.offer-4301.shop^
 ||www.ondo-finance.info^
 ||www.opbnb-friend3.xyz^

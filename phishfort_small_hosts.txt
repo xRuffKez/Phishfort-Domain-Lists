@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sat May  4 06:05:18 UTC 2024
+# PhishFort Small Domain List - Sat May  4 07:05:42 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7573
+# Number of Entries: 7606
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -306,6 +306,7 @@
 0.0.0.0 airdrop.gam3sgg.net
 0.0.0.0 airdrop.manto.network
 0.0.0.0 airdrop.mfi.expert
+0.0.0.0 airdrop.mobox-token.homes
 0.0.0.0 airdrop.modenetwork.xyz
 0.0.0.0 airdrop.nibiru-web3.com
 0.0.0.0 airdrop.orbiterfinancial.com
@@ -315,6 +316,7 @@
 0.0.0.0 airdrop.riftswap.net
 0.0.0.0 airdrop.starheros.community
 0.0.0.0 airdrop.teleportdao.su
+0.0.0.0 airdrop.tonchain.blog
 0.0.0.0 airdrop.wrlomhole.net
 0.0.0.0 airdrop.yuliverse.net
 0.0.0.0 airdrop.zerolendd.xyz
@@ -1456,9 +1458,11 @@
 0.0.0.0 claim.spongeonerc.com
 0.0.0.0 claim.spongev2tokens.vip
 0.0.0.0 claim.ton-telegram.xyz
+0.0.0.0 claim.tontelegram.top
 0.0.0.0 claim.wallstretmemes.app
 0.0.0.0 claim.wormhole.fitness
 0.0.0.0 claim.wormhole.si
+0.0.0.0 claim.www-catc0in.org
 0.0.0.0 claim.www-catcoin.com
 0.0.0.0 claim.zeta.chain.wb3ox.xyz
 0.0.0.0 claim.zkskull.com
@@ -1485,6 +1489,7 @@
 0.0.0.0 claimstrk.fun
 0.0.0.0 claimstrk.today
 0.0.0.0 claimstrk.xyz
+0.0.0.0 claimton.org
 0.0.0.0 claimzerion-protocol.pages.dev
 0.0.0.0 claimzeriondapps.pages.dev
 0.0.0.0 clarckconstruction.com
@@ -1522,6 +1527,7 @@
 0.0.0.0 clone1714515846502.angel-cloner.com
 0.0.0.0 clone1714516486291.angel-cloner.com
 0.0.0.0 cloud-base-dapp.vercel.app
+0.0.0.0 cloudflare-colinbese-nft.com
 0.0.0.0 cloudinry.net
 0.0.0.0 clrscr.net
 0.0.0.0 cm-dap.online
@@ -1580,6 +1586,7 @@
 0.0.0.0 coins.tr1onex.top
 0.0.0.0 coinsquarelogin.com
 0.0.0.0 coinswalletsystem.web.app
+0.0.0.0 coinswiftapp.web.app
 0.0.0.0 coinswiftresolve.web.app
 0.0.0.0 cointiger-airdrop.com
 0.0.0.0 cointransaction.finance
@@ -1625,6 +1632,7 @@
 0.0.0.0 collection-satoshivm.io
 0.0.0.0 collecttion.store
 0.0.0.0 colllab.xyz
+0.0.0.0 com-official.top
 0.0.0.0 com3.sa.com
 0.0.0.0 community-center.shop
 0.0.0.0 community-coindesk.com
@@ -2151,10 +2159,13 @@
 0.0.0.0 eigenpie.saydbaeaumca.xyz
 0.0.0.0 elgenlayer.xyz.web3-ap.cfd
 0.0.0.0 elgenlayerz.xyz
+0.0.0.0 eligibility.ton-telegram.click
+0.0.0.0 eligibility.tontelegram.cc
 0.0.0.0 eligibility.ventory.network
 0.0.0.0 eligible-chaln.link
 0.0.0.0 elite-bit.net
 0.0.0.0 elnmtu.cc
+0.0.0.0 elno0x69420.net
 0.0.0.0 elogged.pages.dev
 0.0.0.0 elon-x.info
 0.0.0.0 em-suppliers.online
@@ -2294,6 +2305,7 @@
 0.0.0.0 event-realios.com
 0.0.0.0 event-woo.co
 0.0.0.0 event.airpud.top
+0.0.0.0 event.gamer-hash.xyz
 0.0.0.0 event.rewardcoin.top
 0.0.0.0 event.stockcoin.top
 0.0.0.0 event.velodrome-fi.xyz
@@ -3428,6 +3440,7 @@
 0.0.0.0 mahta-networks.com
 0.0.0.0 mahto-network.com
 0.0.0.0 mail-celsius.network
+0.0.0.0 mail.45-61-151-79.cprapid.com
 0.0.0.0 mail.csagoda.site
 0.0.0.0 mail.ethxgas.com
 0.0.0.0 mail.layerszero.pics
@@ -4052,6 +4065,7 @@
 0.0.0.0 moonbeamm.online
 0.0.0.0 moonbeams-web.com
 0.0.0.0 moonbeams-web3.com
+0.0.0.0 moondefink.live
 0.0.0.0 moonsama.tech
 0.0.0.0 moonwel.finance
 0.0.0.0 mopssd.pro
@@ -4193,6 +4207,7 @@
 0.0.0.0 mysteryclaimsnft.vercel.app
 0.0.0.0 mysteryclaimz48.vercel.app
 0.0.0.0 mysteryclicks23.vercel.app
+0.0.0.0 mysteryclicks71.vercel.app
 0.0.0.0 mysteryclicks81.vercel.app
 0.0.0.0 mysteryclicksclaim1.vercel.app
 0.0.0.0 mysteryclicksnft.vercel.app
@@ -4424,6 +4439,7 @@
 0.0.0.0 oberbankat.com
 0.0.0.0 obtain-manta.pages.dev
 0.0.0.0 ocbre.com
+0.0.0.0 ocean-trades.co
 0.0.0.0 ocmordinals.xyz
 0.0.0.0 ocmtoys.xyz
 0.0.0.0 octonodedapp.pages.dev
@@ -5491,6 +5507,7 @@
 0.0.0.0 revweb3-access.pages.dev
 0.0.0.0 rewad.earnifin.com
 0.0.0.0 reward-1inch.com
+0.0.0.0 reward-layerzero.net
 0.0.0.0 reward-paalai.finance
 0.0.0.0 reward-satoshivm.com
 0.0.0.0 reward-strk.network
@@ -5557,6 +5574,7 @@
 0.0.0.0 ronninwallet.godaddysites.com
 0.0.0.0 rooninchain.com
 0.0.0.0 roost-distributions.net
+0.0.0.0 round1-uniswap.org
 0.0.0.0 round2-wenwencoin.com
 0.0.0.0 route.claims
 0.0.0.0 router.gifts
@@ -6302,6 +6320,7 @@
 0.0.0.0 token-swap-seven.vercel.app
 0.0.0.0 token-theblock.co
 0.0.0.0 token.strks-rocket.club
+0.0.0.0 token.tonblockchain.click
 0.0.0.0 tokenlon.app
 0.0.0.0 tokenprojectrarity.site
 0.0.0.0 tokens-zk.link
@@ -6311,10 +6330,20 @@
 0.0.0.0 tollvest.org
 0.0.0.0 tomandgerimail.com
 0.0.0.0 tombmigration.com
+0.0.0.0 ton-chain.one
+0.0.0.0 ton-chain.top
 0.0.0.0 ton-keeper.world
+0.0.0.0 ton-telegram.click
+0.0.0.0 ton-telegram.xyz
 0.0.0.0 ton.org-community.info
+0.0.0.0 ton.org-ethsendair.xyz
 0.0.0.0 ton.x-wallet.top
+0.0.0.0 tonblockchain.click
+0.0.0.0 tonchains.one
 0.0.0.0 tonclaim.online
+0.0.0.0 toncoin.bnbethbtc.xyz
+0.0.0.0 toncoins.org
+0.0.0.0 toncoinwallet.co
 0.0.0.0 toneeper.com
 0.0.0.0 tonevecher.com
 0.0.0.0 tonjeeper.com
@@ -6343,6 +6372,9 @@
 0.0.0.0 tonkewper.com
 0.0.0.0 tonkreper.com
 0.0.0.0 tonleeper.com
+0.0.0.0 tontelegram.cc
+0.0.0.0 tontelegram.top
+0.0.0.0 tontelegram24.click
 0.0.0.0 tool-orb.web.app
 0.0.0.0 top-payrollservices.com
 0.0.0.0 top-satoshivm.io
@@ -7249,6 +7281,7 @@
 0.0.0.0 www.nslinu.com
 0.0.0.0 www.o2-login.info
 0.0.0.0 www.oakapex.com
+0.0.0.0 www.obrevc.com
 0.0.0.0 www.offer-4301.shop
 0.0.0.0 www.ondo-finance.info
 0.0.0.0 www.opbnb-friend3.xyz
