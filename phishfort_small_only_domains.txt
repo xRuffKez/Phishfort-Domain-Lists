@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Sat May  4 13:05:16 UTC 2024
+# PhishFort Small Domain List - Sat May  4 14:05:03 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7624
+# Number of Entries: 7618
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2055,7 +2055,6 @@ dona-v3-3s0phmf7t-donaswap.vercel.app
 dop-en.web.app
 dop-io.web.app
 dopamine-dop.com
-dopamine-dop.org
 dopaminedop.pages.dev
 doporg.com
 doraemoncoin.live
@@ -2222,7 +2221,6 @@ erp.incomys.com
 erp.tcharra.com
 erp.tharity.com
 errorsync.pages.dev
-erydgred.umb.market
 erythkor.buzz
 esbl.cybertrons.io
 esprit-colombia.com.co
@@ -2568,7 +2566,6 @@ genixs.co
 genpartstore.com
 gensis-dymension.xyz
 george-watson.co.uk
-gesit-logistik.com
 get-24a.pages.dev
 get-blast.com
 get-dmail.app
@@ -2610,7 +2607,6 @@ gfdg.tokenfor.vip
 gfe3ox.csb.app
 gftj7.pro
 ghaph.com
-ghnrryfd.umb.market
 gift-altlayer.io
 gift-dydx.net
 gift-hex.com
@@ -6057,13 +6053,11 @@ starplumbingelectrical.com
 starter-xyz.web.app
 startknet.io
 stately-froyo-8d0a93.netlify.app
-steaam.umb.market
 steady-creponne-871786.netlify.app
-steam.umb.market
 steamcommounity.ru
 steamcommujity.com
-steamcommunity.umb.market
 steamcommunityskintradeoffermadito.com
+steams.app
 steancomrnunity.com
 stepnboxx.netlify.app
 stepnconnectactivation.pages.dev
@@ -6188,7 +6182,6 @@ syncprotocols.pagen.dev
 syncsdapp.com
 syncsolutions.pages.dev
 syncsolve-inchpd.com
-syncsswap.app
 syncswap.cldsxm.com
 syncswap.cloudscom.xyz
 syncswap.day
@@ -7436,6 +7429,7 @@ x-launches.com
 x-woo.net
 x.alts-pads500.top
 x01e8b2d6cbc38.anondns.net
+x8cm.xyz
 xaidao.app
 xaimint.com
 xaimint.net

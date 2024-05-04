@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sat May  4 13:05:16 UTC 2024
+# PhishFort Small Domain List - Sat May  4 14:05:03 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7624
+# Number of Entries: 7618
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2056,7 +2056,6 @@
 0.0.0.0 dop-en.web.app
 0.0.0.0 dop-io.web.app
 0.0.0.0 dopamine-dop.com
-0.0.0.0 dopamine-dop.org
 0.0.0.0 dopaminedop.pages.dev
 0.0.0.0 doporg.com
 0.0.0.0 doraemoncoin.live
@@ -2223,7 +2222,6 @@
 0.0.0.0 erp.tcharra.com
 0.0.0.0 erp.tharity.com
 0.0.0.0 errorsync.pages.dev
-0.0.0.0 erydgred.umb.market
 0.0.0.0 erythkor.buzz
 0.0.0.0 esbl.cybertrons.io
 0.0.0.0 esprit-colombia.com.co
@@ -2569,7 +2567,6 @@
 0.0.0.0 genpartstore.com
 0.0.0.0 gensis-dymension.xyz
 0.0.0.0 george-watson.co.uk
-0.0.0.0 gesit-logistik.com
 0.0.0.0 get-24a.pages.dev
 0.0.0.0 get-blast.com
 0.0.0.0 get-dmail.app
@@ -2611,7 +2608,6 @@
 0.0.0.0 gfe3ox.csb.app
 0.0.0.0 gftj7.pro
 0.0.0.0 ghaph.com
-0.0.0.0 ghnrryfd.umb.market
 0.0.0.0 gift-altlayer.io
 0.0.0.0 gift-dydx.net
 0.0.0.0 gift-hex.com
@@ -6058,13 +6054,11 @@
 0.0.0.0 starter-xyz.web.app
 0.0.0.0 startknet.io
 0.0.0.0 stately-froyo-8d0a93.netlify.app
-0.0.0.0 steaam.umb.market
 0.0.0.0 steady-creponne-871786.netlify.app
-0.0.0.0 steam.umb.market
 0.0.0.0 steamcommounity.ru
 0.0.0.0 steamcommujity.com
-0.0.0.0 steamcommunity.umb.market
 0.0.0.0 steamcommunityskintradeoffermadito.com
+0.0.0.0 steams.app
 0.0.0.0 steancomrnunity.com
 0.0.0.0 stepnboxx.netlify.app
 0.0.0.0 stepnconnectactivation.pages.dev
@@ -6189,7 +6183,6 @@
 0.0.0.0 syncsdapp.com
 0.0.0.0 syncsolutions.pages.dev
 0.0.0.0 syncsolve-inchpd.com
-0.0.0.0 syncsswap.app
 0.0.0.0 syncswap.cldsxm.com
 0.0.0.0 syncswap.cloudscom.xyz
 0.0.0.0 syncswap.day
@@ -7437,6 +7430,7 @@
 0.0.0.0 x-woo.net
 0.0.0.0 x.alts-pads500.top
 0.0.0.0 x01e8b2d6cbc38.anondns.net
+0.0.0.0 x8cm.xyz
 0.0.0.0 xaidao.app
 0.0.0.0 xaimint.com
 0.0.0.0 xaimint.net
