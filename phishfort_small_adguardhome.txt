@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sat May  4 00:18:11 UTC 2024
+# PhishFort Small Domain List - Sat May  4 01:26:57 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7542
+# Number of Entries: 7543
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -5392,6 +5392,7 @@
 ||remarkable-queijadas-77facb.netlify.app^
 ||remotenodesauth.pages.dev^
 ||rendernetwork.support^
+||renovation-globale-maprimerenov.aides-gouv-fr.info^
 ||renqiiio.com^
 ||renzo-protocols.com^
 ||res9219.com^

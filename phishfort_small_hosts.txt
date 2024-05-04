@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sat May  4 00:18:11 UTC 2024
+# PhishFort Small Domain List - Sat May  4 01:26:57 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7542
+# Number of Entries: 7543
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -5392,6 +5392,7 @@
 0.0.0.0 remarkable-queijadas-77facb.netlify.app
 0.0.0.0 remotenodesauth.pages.dev
 0.0.0.0 rendernetwork.support
+0.0.0.0 renovation-globale-maprimerenov.aides-gouv-fr.info
 0.0.0.0 renqiiio.com
 0.0.0.0 renzo-protocols.com
 0.0.0.0 res9219.com
