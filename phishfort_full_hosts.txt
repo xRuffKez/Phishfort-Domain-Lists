@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sat May  4 00:06:29 UTC 2024
+# PhishFort Full Domain List - Sat May  4 01:24:09 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109104
+# Number of Entries: 109105
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -75757,6 +75757,7 @@
 0.0.0.0 reninchaino.cam
 0.0.0.0 rennga.xyz
 0.0.0.0 renodepad.net
+0.0.0.0 renovation-globale-maprimerenov.aides-gouv-fr.info
 0.0.0.0 renproject-token.sale
 0.0.0.0 renq-cloud.com
 0.0.0.0 renq-token.com

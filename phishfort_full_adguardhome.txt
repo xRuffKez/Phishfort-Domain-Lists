@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sat May  4 00:06:29 UTC 2024
+# PhishFort Full Domain List - Sat May  4 01:24:09 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109104
+# Number of Entries: 109105
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -75757,6 +75757,7 @@
 ||reninchaino.cam^
 ||rennga.xyz^
 ||renodepad.net^
+||renovation-globale-maprimerenov.aides-gouv-fr.info^
 ||renproject-token.sale^
 ||renq-cloud.com^
 ||renq-token.com^
