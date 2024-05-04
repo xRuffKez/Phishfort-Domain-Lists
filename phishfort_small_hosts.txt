@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sat May  4 04:06:16 UTC 2024
+# PhishFort Small Domain List - Sat May  4 05:05:02 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7563
+# Number of Entries: 7559
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1487,6 +1487,7 @@
 0.0.0.0 clark-constructions.org
 0.0.0.0 clarkcorstruction.com
 0.0.0.0 clarkgroup-us.co
+0.0.0.0 claynosaurz-nft.web.app
 0.0.0.0 cldss.xyz
 0.0.0.0 cliamsolana.c3mongtho.edu.vn
 0.0.0.0 clickclaimnft.vercel.app
@@ -1674,7 +1675,6 @@
 0.0.0.0 coti.xcoindrop.top
 0.0.0.0 cov.us-mia-1.linodeobjects.com
 0.0.0.0 cow-swap.app
-0.0.0.0 cow-swap.org
 0.0.0.0 cow.trading
 0.0.0.0 cowchange.com
 0.0.0.0 cowswap.app
@@ -1991,6 +1991,7 @@
 0.0.0.0 discord.kavanet.xyz
 0.0.0.0 discord.kavasync.xyz
 0.0.0.0 discover-manta.network
+0.0.0.0 disney-pncle.web.app
 0.0.0.0 disneypinacle.click
 0.0.0.0 distibution-metis.io
 0.0.0.0 distribute-hbar.com
@@ -2213,6 +2214,7 @@
 0.0.0.0 eth-denver.com
 0.0.0.0 eth-ensdao.net
 0.0.0.0 eth-gasfee.com
+0.0.0.0 eth-wpos.xyz
 0.0.0.0 eth-yieldfarming.org
 0.0.0.0 ethdefivip.cc
 0.0.0.0 ethdrop.xyz
@@ -2343,6 +2345,7 @@
 0.0.0.0 farming-taiko.org-c.co
 0.0.0.0 farmlayerai.xyz
 0.0.0.0 fasrrermigr.com
+0.0.0.0 fassstokenguidepapy.com
 0.0.0.0 fastauthewalletethersync.com
 0.0.0.0 fastdevmigrathaslite.pro
 0.0.0.0 fastdevmigrathxqnzv.pro
@@ -2451,7 +2454,6 @@
 0.0.0.0 free-altlayers.com
 0.0.0.0 free-tias.com
 0.0.0.0 free.bitzgroup.xyz
-0.0.0.0 free.personalzomb.xyz
 0.0.0.0 freedompork.net
 0.0.0.0 freestorecol.online
 0.0.0.0 from-agoda.site.pro
@@ -2563,7 +2565,6 @@
 0.0.0.0 get.etherumrefgas.xyz
 0.0.0.0 get.ethiner.xyz
 0.0.0.0 get.onedropx.top
-0.0.0.0 get.personalzomb.xyz
 0.0.0.0 get.wormscommunity.com
 0.0.0.0 get.zkfarmir.xyz
 0.0.0.0 getbcb.app
@@ -2993,7 +2994,6 @@
 0.0.0.0 join-porkcoin.io
 0.0.0.0 join-satoshivm.app
 0.0.0.0 join-superverse.org
-0.0.0.0 join-wenwen.network
 0.0.0.0 join.befilab.co
 0.0.0.0 join.bsquare-network.org
 0.0.0.0 join.popeysm.biz
@@ -3172,12 +3172,10 @@
 0.0.0.0 launches-sharpnel.com
 0.0.0.0 launching-pixels.com
 0.0.0.0 launching-sharpnel.com
-0.0.0.0 launchpad-bakerswap.com
 0.0.0.0 launchpad-dydx.com
 0.0.0.0 launchpad-dymension.com
 0.0.0.0 launchpad-etherfi.com
 0.0.0.0 launchpad-metis.app
-0.0.0.0 launchpad-optimism.network
 0.0.0.0 launchpad-overlord.xyz
 0.0.0.0 launchpad-pancake.com
 0.0.0.0 launchpad-qubic.com
@@ -3626,6 +3624,7 @@
 0.0.0.0 matemasksio.life
 0.0.0.0 matemsak.biz
 0.0.0.0 matr1xkuku.org
+0.0.0.0 matrica-labs.com
 0.0.0.0 matrica-two.vercel.app
 0.0.0.0 matrica-verify.com
 0.0.0.0 matrica.vip
@@ -5392,7 +5391,6 @@
 0.0.0.0 registration-ator.com
 0.0.0.0 registration-ator.io
 0.0.0.0 registration-basedbrett.com
-0.0.0.0 registration-bounce.com
 0.0.0.0 registration-defi.com
 0.0.0.0 registration-defi.trade
 0.0.0.0 registration-fantasy.top
@@ -5529,6 +5527,7 @@
 0.0.0.0 rockelpool.net
 0.0.0.0 rocketpool.org
 0.0.0.0 rocketpool.pro
+0.0.0.0 rohp.cc
 0.0.0.0 roinen-wallit.godaddysites.com
 0.0.0.0 rolldym.app
 0.0.0.0 rolluper.pro
@@ -5872,7 +5871,6 @@
 0.0.0.0 snapshot-hydroprotocol.com
 0.0.0.0 snapshot-particle.network
 0.0.0.0 snapshot-syncswap.com
-0.0.0.0 snapshots-quai.network
 0.0.0.0 snapshots-wormhole.xyz
 0.0.0.0 snexkr.com
 0.0.0.0 snexkr.plus
@@ -6320,6 +6318,8 @@
 0.0.0.0 tonkeeper.help
 0.0.0.0 tonkeeper.io
 0.0.0.0 tonkeeper.pages.dev
+0.0.0.0 tonkeeper.su
+0.0.0.0 tonkeeper.us
 0.0.0.0 tonkeeper.world
 0.0.0.0 tonkeeperr.com
 0.0.0.0 tonkeepet.com
@@ -6873,11 +6873,8 @@
 0.0.0.0 wenexchange.net
 0.0.0.0 wenfarcana.pages.dev
 0.0.0.0 wenwencoin-jup.com
-0.0.0.0 wenwencoin-whitelist.com
-0.0.0.0 wenwencoin-wl.com
 0.0.0.0 wenwencoin.xyz
 0.0.0.0 wenwencoineth.com
-0.0.0.0 wenwencoins.network
 0.0.0.0 wenwencoins.xyz
 0.0.0.0 wenwencoln.com
 0.0.0.0 wenwenofficial.com
@@ -7019,7 +7016,6 @@
 0.0.0.0 www.aniarticles.com
 0.0.0.0 www.apk20.com
 0.0.0.0 www.apkturbo.com
-0.0.0.0 www.app-ait.net
 0.0.0.0 www.app-ethena.finance
 0.0.0.0 www.app-milkyway.zone
 0.0.0.0 www.app-parrallel-network-dashbroads.danushi.com

@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sat May  4 04:06:16 UTC 2024
+# PhishFort Small Domain List - Sat May  4 05:05:02 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 7563
+# Number of Entries: 7559
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1487,6 +1487,7 @@
 ||clark-constructions.org^
 ||clarkcorstruction.com^
 ||clarkgroup-us.co^
+||claynosaurz-nft.web.app^
 ||cldss.xyz^
 ||cliamsolana.c3mongtho.edu.vn^
 ||clickclaimnft.vercel.app^
@@ -1674,7 +1675,6 @@
 ||coti.xcoindrop.top^
 ||cov.us-mia-1.linodeobjects.com^
 ||cow-swap.app^
-||cow-swap.org^
 ||cow.trading^
 ||cowchange.com^
 ||cowswap.app^
@@ -1991,6 +1991,7 @@
 ||discord.kavanet.xyz^
 ||discord.kavasync.xyz^
 ||discover-manta.network^
+||disney-pncle.web.app^
 ||disneypinacle.click^
 ||distibution-metis.io^
 ||distribute-hbar.com^
@@ -2213,6 +2214,7 @@
 ||eth-denver.com^
 ||eth-ensdao.net^
 ||eth-gasfee.com^
+||eth-wpos.xyz^
 ||eth-yieldfarming.org^
 ||ethdefivip.cc^
 ||ethdrop.xyz^
@@ -2343,6 +2345,7 @@
 ||farming-taiko.org-c.co^
 ||farmlayerai.xyz^
 ||fasrrermigr.com^
+||fassstokenguidepapy.com^
 ||fastauthewalletethersync.com^
 ||fastdevmigrathaslite.pro^
 ||fastdevmigrathxqnzv.pro^
@@ -2451,7 +2454,6 @@
 ||free-altlayers.com^
 ||free-tias.com^
 ||free.bitzgroup.xyz^
-||free.personalzomb.xyz^
 ||freedompork.net^
 ||freestorecol.online^
 ||from-agoda.site.pro^
@@ -2563,7 +2565,6 @@
 ||get.etherumrefgas.xyz^
 ||get.ethiner.xyz^
 ||get.onedropx.top^
-||get.personalzomb.xyz^
 ||get.wormscommunity.com^
 ||get.zkfarmir.xyz^
 ||getbcb.app^
@@ -2993,7 +2994,6 @@
 ||join-porkcoin.io^
 ||join-satoshivm.app^
 ||join-superverse.org^
-||join-wenwen.network^
 ||join.befilab.co^
 ||join.bsquare-network.org^
 ||join.popeysm.biz^
@@ -3172,12 +3172,10 @@
 ||launches-sharpnel.com^
 ||launching-pixels.com^
 ||launching-sharpnel.com^
-||launchpad-bakerswap.com^
 ||launchpad-dydx.com^
 ||launchpad-dymension.com^
 ||launchpad-etherfi.com^
 ||launchpad-metis.app^
-||launchpad-optimism.network^
 ||launchpad-overlord.xyz^
 ||launchpad-pancake.com^
 ||launchpad-qubic.com^
@@ -3626,6 +3624,7 @@
 ||matemasksio.life^
 ||matemsak.biz^
 ||matr1xkuku.org^
+||matrica-labs.com^
 ||matrica-two.vercel.app^
 ||matrica-verify.com^
 ||matrica.vip^
@@ -5392,7 +5391,6 @@
 ||registration-ator.com^
 ||registration-ator.io^
 ||registration-basedbrett.com^
-||registration-bounce.com^
 ||registration-defi.com^
 ||registration-defi.trade^
 ||registration-fantasy.top^
@@ -5529,6 +5527,7 @@
 ||rockelpool.net^
 ||rocketpool.org^
 ||rocketpool.pro^
+||rohp.cc^
 ||roinen-wallit.godaddysites.com^
 ||rolldym.app^
 ||rolluper.pro^
@@ -5872,7 +5871,6 @@
 ||snapshot-hydroprotocol.com^
 ||snapshot-particle.network^
 ||snapshot-syncswap.com^
-||snapshots-quai.network^
 ||snapshots-wormhole.xyz^
 ||snexkr.com^
 ||snexkr.plus^
@@ -6320,6 +6318,8 @@
 ||tonkeeper.help^
 ||tonkeeper.io^
 ||tonkeeper.pages.dev^
+||tonkeeper.su^
+||tonkeeper.us^
 ||tonkeeper.world^
 ||tonkeeperr.com^
 ||tonkeepet.com^
@@ -6873,11 +6873,8 @@
 ||wenexchange.net^
 ||wenfarcana.pages.dev^
 ||wenwencoin-jup.com^
-||wenwencoin-whitelist.com^
-||wenwencoin-wl.com^
 ||wenwencoin.xyz^
 ||wenwencoineth.com^
-||wenwencoins.network^
 ||wenwencoins.xyz^
 ||wenwencoln.com^
 ||wenwenofficial.com^
@@ -7019,7 +7016,6 @@
 ||www.aniarticles.com^
 ||www.apk20.com^
 ||www.apkturbo.com^
-||www.app-ait.net^
 ||www.app-ethena.finance^
 ||www.app-milkyway.zone^
 ||www.app-parrallel-network-dashbroads.danushi.com^
