@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sat May  4 13:01:57 UTC 2024
+# PhishFort Full Domain List - Sat May  4 14:02:15 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109207
+# Number of Entries: 109209
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -82945,6 +82945,7 @@
 ||steamnocomrnunity.com^
 ||steampowered-register.ru^
 ||steamrcomrnunily.ru^
+||steams.app^
 ||steamscommunty.ru^
 ||steamxpanel.com^
 ||steancommnunyty.com^
@@ -105585,6 +105586,7 @@
 ||x2yy2.host^
 ||x4pbzj.calasavacj.com^
 ||x7pndc.com^
+||x8cm.xyz^
 ||xacrypto.live^
 ||xaerna.ga^
 ||xagoda365.com^

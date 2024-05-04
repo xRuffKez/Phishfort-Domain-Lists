@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sat May  4 13:01:57 UTC 2024
+# PhishFort Full Domain List - Sat May  4 14:02:15 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109207
+# Number of Entries: 109209
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -82945,6 +82945,7 @@
 0.0.0.0 steamnocomrnunity.com
 0.0.0.0 steampowered-register.ru
 0.0.0.0 steamrcomrnunily.ru
+0.0.0.0 steams.app
 0.0.0.0 steamscommunty.ru
 0.0.0.0 steamxpanel.com
 0.0.0.0 steancommnunyty.com
@@ -105585,6 +105586,7 @@
 0.0.0.0 x2yy2.host
 0.0.0.0 x4pbzj.calasavacj.com
 0.0.0.0 x7pndc.com
+0.0.0.0 x8cm.xyz
 0.0.0.0 xacrypto.live
 0.0.0.0 xaerna.ga
 0.0.0.0 xagoda365.com
