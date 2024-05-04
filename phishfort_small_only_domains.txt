@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Sat May  4 02:11:38 UTC 2024
+# PhishFort Small Domain List - Sat May  4 03:05:37 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7548
+# Number of Entries: 7563
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -208,6 +208,7 @@ agoda.partner-extranet.life
 agoda.res437.com
 agoda.res94219.com
 agoda.reserv19471.org
+agoda.tkffw888.icu
 agoda.weboffer7181.com
 agoda.ycs-id.info
 agoda.ycs.my.id
@@ -317,6 +318,7 @@ airdrop.zerolendd.xyz
 airdrop.zk-sync.io
 airdropclaim.live
 airdropclaimdev.netlify.app
+airdropjup.web.app
 airdroplooksrare.org
 airdropmainnetprotocol.firebaseapp.com
 airdropmainnetprotocol.web.app
@@ -579,6 +581,7 @@ app.airtms.com
 app.allocations-chihuahua.com
 app.allocations-vanarchain.com
 app.ankr.live
+app.app-trhrusrter.finance
 app.aribius.com
 app.auth-v2.org
 app.aìrtm.com
@@ -1024,6 +1027,7 @@ blastambient.finance
 blastcoi.com
 blastdrop.store
 blaster-airdrop.com
+blaster-eth.pages.dev
 blasterscore.io
 blasteventih.com
 blasteventio.com
@@ -1915,6 +1919,7 @@ defispot.app
 defisrhino.net
 deflexseax.xyz
 degen.hakunamatatasol.com
+degenstoken.vip
 degods-wormhole.com
 deillama.top
 delmetamask.onrender.com
@@ -1960,6 +1965,7 @@ dg1ph.pro
 dhk6y.cc
 diag-bracco.com
 diamond-magiceden.network
+diamondhand.pages.dev
 diamondhands-ethereum.web.app
 digitaldefi.pro
 digitalsec.mypsx.net
@@ -2171,6 +2177,7 @@ enstoken.net
 entangle-fi.org
 enter-treasure.trading
 enter-wormhole.network
+entry.secureentry.live
 enudeekc.one
 eonexvip.com
 eonian.live
@@ -2274,6 +2281,7 @@ event-blockgames.com
 event-chaingpt.org
 event-etf.com
 event-faccana.com
+event-grayscale.com
 event-lidofinance.com
 event-pandora.community
 event-realios.com
@@ -2626,6 +2634,7 @@ grab-farcanacom.pages.dev
 grab-zetachain.com
 grandomaster.com
 grape-officialx.pages.dev
+grass-1o.netlify.app
 graviex-defi.club
 graviex-defi.xyz
 graybar.com.ng
@@ -3065,7 +3074,6 @@ juppyapps.com
 juppycases.trade
 juppystart.app
 jups.io
-jupvoucher.com
 juups.io
 jwsco.pro
 kaijutoys.shop
@@ -3146,7 +3154,6 @@ lakesldecontrols.com
 lama.pinksailes.com
 laughcode.conohawing.com
 launch-berachain.com
-launch-mavia.com
 launch-overlord.xyz
 launch-pixels.com
 launch-uniswapv3.com
@@ -3196,6 +3203,7 @@ layerbank.trading
 layerdank.finance
 layernetwork.ink
 layerszero.pics
+layerzero-alpha.com
 layerzero-superverse.com
 layerzeroclaims.xyz
 layerzeronetwork.io
@@ -3372,6 +3380,7 @@ lvrmjm.pro
 lwve.top
 lxp-linea.build
 lybriaflnance.xyz
+lyra-finance.pages.dev
 lzas3.pro
 m-mask.top
 m-usdt.xyz
@@ -3811,6 +3820,7 @@ metamassk.cc
 metamastesk.azurewebsites.net
 metamasuak.azurewebsites.net
 metamasusak.azurewebsites.net
+metamaswtsk.azurewebsites.net
 metamasyk.azurewebsites.net
 metamawesk.azurewebsites.net
 metamcsk.cc
@@ -4071,6 +4081,7 @@ multiblocksauth.pages.dev
 multichain-auth.netlify.app
 multichain-dappconnect.netlify.app
 multichain-evm.pages.dev
+multichain-tokenguidehigh.online
 multichain-tokenguidemaxx.shop
 multichain-web.de
 multichain.dappx.icu
@@ -4497,6 +4508,7 @@ opensea.io.in
 opensea.lc
 openseaclaim43.vercel.app
 openseaclaimnfts.com
+openseaclickclaims01.vercel.app
 openseanft-projs.vercel.app
 openseanft.one
 openseanft0.vercel.app
@@ -4846,6 +4858,7 @@ paperrhands.com
 papetokenss.com
 para.xcoindrop.top
 paradigmclaims.vercel.app
+paradisetycoon.vercel.app
 parclllimited.com
 parknationalkgt.pics
 parriss2024.org
@@ -5095,6 +5108,8 @@ porkcoin.wtf
 porlfoliomelamack.com
 porpport.ink
 porshe-taycan.nfts2.me
+portal-gaming-project.pages.dev
+portal-gaming.pages.dev
 portal.dymension.wb3i.xyz
 portaldrop.io
 portaldrop.net
@@ -5727,6 +5742,7 @@ shiba-tokens.best
 shiba.free-500.top
 shiba2.xyz
 shibainu.airdropnow.net
+shibairdop.com
 shibariumwin.com
 shibememu.tech
 shidc.io
@@ -5925,7 +5941,6 @@ srsdistribution-us.com
 srtoos.com
 st.betiutima.online
 st.bytenorm.online
-stableusdc.com
 stadrlebs.org
 staekland.com
 staffinghims.com
@@ -6085,6 +6100,7 @@ swap-makerdao.org
 swap-nft.pages.dev
 swap.dikecoin.net
 swap.pancake.us.org
+swap.uni-swapv4.com
 swapcake.cc
 swapdacake.com
 swapdao.app
@@ -6197,7 +6213,6 @@ testrunner222.pages.dev
 testrunner333.pages.dev
 tether-claim-usdt.online
 tether.com.se
-tether.is
 tetherlaupad.com
 texasplasmacenters.info
 tg2813portal.com
@@ -6464,6 +6479,7 @@ uniswapv4-pool-select.web.app
 uniswapv4-pool-waitlist.web.app
 unitedhealthvip.com
 unitycryptotrading.com
+univ4-platform.pages.dev
 unknownbasenfts2.me
 unniswapp.com
 unpacknft1.pages.dev
@@ -6540,7 +6556,6 @@ valoklin.com
 valortage.com
 valoxeno.com
 vanar.trading
-vanarchaiin.com
 vansanhome.com
 vaultedvibes.online
 vdermo.us
@@ -6793,6 +6808,7 @@ web3coins1.top
 web3coins10.top
 web3coins201.top
 web3coins848.top
+web3conection.vercel.app
 web3console.icu
 web3dapptoolevault.com
 web3defi07.top
@@ -7490,7 +7506,6 @@ zeta-chain.net
 zetachain.cm
 zetachain.one
 zetachain.pages.dev
-zetaclaim.pages.dev
 zetaswap.cm
 zircuit-app.one
 zircuit-app.org

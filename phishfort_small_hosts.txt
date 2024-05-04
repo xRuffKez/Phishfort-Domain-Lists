@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sat May  4 02:11:38 UTC 2024
+# PhishFort Small Domain List - Sat May  4 03:05:37 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7548
+# Number of Entries: 7563
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -209,6 +209,7 @@
 0.0.0.0 agoda.res437.com
 0.0.0.0 agoda.res94219.com
 0.0.0.0 agoda.reserv19471.org
+0.0.0.0 agoda.tkffw888.icu
 0.0.0.0 agoda.weboffer7181.com
 0.0.0.0 agoda.ycs-id.info
 0.0.0.0 agoda.ycs.my.id
@@ -318,6 +319,7 @@
 0.0.0.0 airdrop.zk-sync.io
 0.0.0.0 airdropclaim.live
 0.0.0.0 airdropclaimdev.netlify.app
+0.0.0.0 airdropjup.web.app
 0.0.0.0 airdroplooksrare.org
 0.0.0.0 airdropmainnetprotocol.firebaseapp.com
 0.0.0.0 airdropmainnetprotocol.web.app
@@ -580,6 +582,7 @@
 0.0.0.0 app.allocations-chihuahua.com
 0.0.0.0 app.allocations-vanarchain.com
 0.0.0.0 app.ankr.live
+0.0.0.0 app.app-trhrusrter.finance
 0.0.0.0 app.aribius.com
 0.0.0.0 app.auth-v2.org
 0.0.0.0 app.aìrtm.com
@@ -1025,6 +1028,7 @@
 0.0.0.0 blastcoi.com
 0.0.0.0 blastdrop.store
 0.0.0.0 blaster-airdrop.com
+0.0.0.0 blaster-eth.pages.dev
 0.0.0.0 blasterscore.io
 0.0.0.0 blasteventih.com
 0.0.0.0 blasteventio.com
@@ -1916,6 +1920,7 @@
 0.0.0.0 defisrhino.net
 0.0.0.0 deflexseax.xyz
 0.0.0.0 degen.hakunamatatasol.com
+0.0.0.0 degenstoken.vip
 0.0.0.0 degods-wormhole.com
 0.0.0.0 deillama.top
 0.0.0.0 delmetamask.onrender.com
@@ -1961,6 +1966,7 @@
 0.0.0.0 dhk6y.cc
 0.0.0.0 diag-bracco.com
 0.0.0.0 diamond-magiceden.network
+0.0.0.0 diamondhand.pages.dev
 0.0.0.0 diamondhands-ethereum.web.app
 0.0.0.0 digitaldefi.pro
 0.0.0.0 digitalsec.mypsx.net
@@ -2172,6 +2178,7 @@
 0.0.0.0 entangle-fi.org
 0.0.0.0 enter-treasure.trading
 0.0.0.0 enter-wormhole.network
+0.0.0.0 entry.secureentry.live
 0.0.0.0 enudeekc.one
 0.0.0.0 eonexvip.com
 0.0.0.0 eonian.live
@@ -2275,6 +2282,7 @@
 0.0.0.0 event-chaingpt.org
 0.0.0.0 event-etf.com
 0.0.0.0 event-faccana.com
+0.0.0.0 event-grayscale.com
 0.0.0.0 event-lidofinance.com
 0.0.0.0 event-pandora.community
 0.0.0.0 event-realios.com
@@ -2627,6 +2635,7 @@
 0.0.0.0 grab-zetachain.com
 0.0.0.0 grandomaster.com
 0.0.0.0 grape-officialx.pages.dev
+0.0.0.0 grass-1o.netlify.app
 0.0.0.0 graviex-defi.club
 0.0.0.0 graviex-defi.xyz
 0.0.0.0 graybar.com.ng
@@ -3066,7 +3075,6 @@
 0.0.0.0 juppycases.trade
 0.0.0.0 juppystart.app
 0.0.0.0 jups.io
-0.0.0.0 jupvoucher.com
 0.0.0.0 juups.io
 0.0.0.0 jwsco.pro
 0.0.0.0 kaijutoys.shop
@@ -3147,7 +3155,6 @@
 0.0.0.0 lama.pinksailes.com
 0.0.0.0 laughcode.conohawing.com
 0.0.0.0 launch-berachain.com
-0.0.0.0 launch-mavia.com
 0.0.0.0 launch-overlord.xyz
 0.0.0.0 launch-pixels.com
 0.0.0.0 launch-uniswapv3.com
@@ -3197,6 +3204,7 @@
 0.0.0.0 layerdank.finance
 0.0.0.0 layernetwork.ink
 0.0.0.0 layerszero.pics
+0.0.0.0 layerzero-alpha.com
 0.0.0.0 layerzero-superverse.com
 0.0.0.0 layerzeroclaims.xyz
 0.0.0.0 layerzeronetwork.io
@@ -3373,6 +3381,7 @@
 0.0.0.0 lwve.top
 0.0.0.0 lxp-linea.build
 0.0.0.0 lybriaflnance.xyz
+0.0.0.0 lyra-finance.pages.dev
 0.0.0.0 lzas3.pro
 0.0.0.0 m-mask.top
 0.0.0.0 m-usdt.xyz
@@ -3812,6 +3821,7 @@
 0.0.0.0 metamastesk.azurewebsites.net
 0.0.0.0 metamasuak.azurewebsites.net
 0.0.0.0 metamasusak.azurewebsites.net
+0.0.0.0 metamaswtsk.azurewebsites.net
 0.0.0.0 metamasyk.azurewebsites.net
 0.0.0.0 metamawesk.azurewebsites.net
 0.0.0.0 metamcsk.cc
@@ -4072,6 +4082,7 @@
 0.0.0.0 multichain-auth.netlify.app
 0.0.0.0 multichain-dappconnect.netlify.app
 0.0.0.0 multichain-evm.pages.dev
+0.0.0.0 multichain-tokenguidehigh.online
 0.0.0.0 multichain-tokenguidemaxx.shop
 0.0.0.0 multichain-web.de
 0.0.0.0 multichain.dappx.icu
@@ -4498,6 +4509,7 @@
 0.0.0.0 opensea.lc
 0.0.0.0 openseaclaim43.vercel.app
 0.0.0.0 openseaclaimnfts.com
+0.0.0.0 openseaclickclaims01.vercel.app
 0.0.0.0 openseanft-projs.vercel.app
 0.0.0.0 openseanft.one
 0.0.0.0 openseanft0.vercel.app
@@ -4847,6 +4859,7 @@
 0.0.0.0 papetokenss.com
 0.0.0.0 para.xcoindrop.top
 0.0.0.0 paradigmclaims.vercel.app
+0.0.0.0 paradisetycoon.vercel.app
 0.0.0.0 parclllimited.com
 0.0.0.0 parknationalkgt.pics
 0.0.0.0 parriss2024.org
@@ -5096,6 +5109,8 @@
 0.0.0.0 porlfoliomelamack.com
 0.0.0.0 porpport.ink
 0.0.0.0 porshe-taycan.nfts2.me
+0.0.0.0 portal-gaming-project.pages.dev
+0.0.0.0 portal-gaming.pages.dev
 0.0.0.0 portal.dymension.wb3i.xyz
 0.0.0.0 portaldrop.io
 0.0.0.0 portaldrop.net
@@ -5728,6 +5743,7 @@
 0.0.0.0 shiba.free-500.top
 0.0.0.0 shiba2.xyz
 0.0.0.0 shibainu.airdropnow.net
+0.0.0.0 shibairdop.com
 0.0.0.0 shibariumwin.com
 0.0.0.0 shibememu.tech
 0.0.0.0 shidc.io
@@ -5926,7 +5942,6 @@
 0.0.0.0 srtoos.com
 0.0.0.0 st.betiutima.online
 0.0.0.0 st.bytenorm.online
-0.0.0.0 stableusdc.com
 0.0.0.0 stadrlebs.org
 0.0.0.0 staekland.com
 0.0.0.0 staffinghims.com
@@ -6086,6 +6101,7 @@
 0.0.0.0 swap-nft.pages.dev
 0.0.0.0 swap.dikecoin.net
 0.0.0.0 swap.pancake.us.org
+0.0.0.0 swap.uni-swapv4.com
 0.0.0.0 swapcake.cc
 0.0.0.0 swapdacake.com
 0.0.0.0 swapdao.app
@@ -6198,7 +6214,6 @@
 0.0.0.0 testrunner333.pages.dev
 0.0.0.0 tether-claim-usdt.online
 0.0.0.0 tether.com.se
-0.0.0.0 tether.is
 0.0.0.0 tetherlaupad.com
 0.0.0.0 texasplasmacenters.info
 0.0.0.0 tg2813portal.com
@@ -6465,6 +6480,7 @@
 0.0.0.0 uniswapv4-pool-waitlist.web.app
 0.0.0.0 unitedhealthvip.com
 0.0.0.0 unitycryptotrading.com
+0.0.0.0 univ4-platform.pages.dev
 0.0.0.0 unknownbasenfts2.me
 0.0.0.0 unniswapp.com
 0.0.0.0 unpacknft1.pages.dev
@@ -6541,7 +6557,6 @@
 0.0.0.0 valortage.com
 0.0.0.0 valoxeno.com
 0.0.0.0 vanar.trading
-0.0.0.0 vanarchaiin.com
 0.0.0.0 vansanhome.com
 0.0.0.0 vaultedvibes.online
 0.0.0.0 vdermo.us
@@ -6794,6 +6809,7 @@
 0.0.0.0 web3coins10.top
 0.0.0.0 web3coins201.top
 0.0.0.0 web3coins848.top
+0.0.0.0 web3conection.vercel.app
 0.0.0.0 web3console.icu
 0.0.0.0 web3dapptoolevault.com
 0.0.0.0 web3defi07.top
@@ -7491,7 +7507,6 @@
 0.0.0.0 zetachain.cm
 0.0.0.0 zetachain.one
 0.0.0.0 zetachain.pages.dev
-0.0.0.0 zetaclaim.pages.dev
 0.0.0.0 zetaswap.cm
 0.0.0.0 zircuit-app.one
 0.0.0.0 zircuit-app.org
