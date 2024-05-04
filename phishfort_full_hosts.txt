@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May  3 23:02:00 UTC 2024
+# PhishFort Full Domain List - Sat May  4 00:06:29 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109102
+# Number of Entries: 109104
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3283,6 +3283,7 @@
 0.0.0.0 aidanphantom.co.uk
 0.0.0.0 aidex6.com
 0.0.0.0 aidexfussion.online
+0.0.0.0 aidexi.net
 0.0.0.0 aidexr.com
 0.0.0.0 aidexw.com
 0.0.0.0 aidoge-claim.network
@@ -39825,6 +39826,7 @@
 0.0.0.0 idme.stellarholdings.site
 0.0.0.0 idmeverification.com
 0.0.0.0 idmining.site
+0.0.0.0 idn-hosting.com
 0.0.0.0 idnex.market
 0.0.0.0 ido-polkastarter.com
 0.0.0.0 ido-polkastarter.net

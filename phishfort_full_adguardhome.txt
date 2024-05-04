@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May  3 23:02:00 UTC 2024
+# PhishFort Full Domain List - Sat May  4 00:06:29 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109102
+# Number of Entries: 109104
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3283,6 +3283,7 @@
 ||aidanphantom.co.uk^
 ||aidex6.com^
 ||aidexfussion.online^
+||aidexi.net^
 ||aidexr.com^
 ||aidexw.com^
 ||aidoge-claim.network^
@@ -39825,6 +39826,7 @@
 ||idme.stellarholdings.site^
 ||idmeverification.com^
 ||idmining.site^
+||idn-hosting.com^
 ||idnex.market^
 ||ido-polkastarter.com^
 ||ido-polkastarter.net^
