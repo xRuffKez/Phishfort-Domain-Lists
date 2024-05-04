@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Sat May  4 01:26:57 UTC 2024
+# PhishFort Small Domain List - Sat May  4 02:11:38 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7543
+# Number of Entries: 7548
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -857,6 +857,7 @@ bancontact.startauth-pay.com
 bang-blast.io
 bank-ai.org
 bank-sell.com
+bariatrics.www.emdeebeebee.com
 barlettapontoonboats.asia
 barleyapp.finance
 bartellers.com
@@ -1362,6 +1363,7 @@ claim-chaln.link
 claim-dacat-dapp.live
 claim-dapps.pages.dev
 claim-dookeydash.com
+claim-dragon.firebaseapp.com
 claim-dragon.web.app
 claim-dubbz.com
 claim-dubbz.net
@@ -4727,6 +4729,7 @@ pancakeswap92.vercel.app
 pancakeswapairdrop.com
 pancakeswapclaim.vercel.app
 pancakeswapclaim34.vercel.app
+pancakeswapclaim6754.vercel.app
 pancakeswapclaimbox.com
 pancakeswapclaimdropnow.com
 pancakeswapclick04.vercel.app
@@ -4761,6 +4764,7 @@ pancakeswpclaim55.vercel.app
 pancakeswpclicks.vercel.app
 pancakeswpdrop13.vercel.app
 pancakeswwap.com
+pancakev2-drirxno8g-brilliantedgar.vercel.app
 pancakev4swap.com
 pancakewsap-rewads.com
 pancaks.com
@@ -4868,6 +4872,7 @@ paxfulb.com
 paxfulbb.com
 paxfulbit.top
 paxfulbw.com
+paxfulcv.com
 paxfulfe.com
 paxfulft.com
 paxfulhack.site

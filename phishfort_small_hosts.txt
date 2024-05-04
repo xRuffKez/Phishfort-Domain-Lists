@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sat May  4 01:26:57 UTC 2024
+# PhishFort Small Domain List - Sat May  4 02:11:38 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7543
+# Number of Entries: 7548
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -858,6 +858,7 @@
 0.0.0.0 bang-blast.io
 0.0.0.0 bank-ai.org
 0.0.0.0 bank-sell.com
+0.0.0.0 bariatrics.www.emdeebeebee.com
 0.0.0.0 barlettapontoonboats.asia
 0.0.0.0 barleyapp.finance
 0.0.0.0 bartellers.com
@@ -1363,6 +1364,7 @@
 0.0.0.0 claim-dacat-dapp.live
 0.0.0.0 claim-dapps.pages.dev
 0.0.0.0 claim-dookeydash.com
+0.0.0.0 claim-dragon.firebaseapp.com
 0.0.0.0 claim-dragon.web.app
 0.0.0.0 claim-dubbz.com
 0.0.0.0 claim-dubbz.net
@@ -4728,6 +4730,7 @@
 0.0.0.0 pancakeswapairdrop.com
 0.0.0.0 pancakeswapclaim.vercel.app
 0.0.0.0 pancakeswapclaim34.vercel.app
+0.0.0.0 pancakeswapclaim6754.vercel.app
 0.0.0.0 pancakeswapclaimbox.com
 0.0.0.0 pancakeswapclaimdropnow.com
 0.0.0.0 pancakeswapclick04.vercel.app
@@ -4762,6 +4765,7 @@
 0.0.0.0 pancakeswpclicks.vercel.app
 0.0.0.0 pancakeswpdrop13.vercel.app
 0.0.0.0 pancakeswwap.com
+0.0.0.0 pancakev2-drirxno8g-brilliantedgar.vercel.app
 0.0.0.0 pancakev4swap.com
 0.0.0.0 pancakewsap-rewads.com
 0.0.0.0 pancaks.com
@@ -4869,6 +4873,7 @@
 0.0.0.0 paxfulbb.com
 0.0.0.0 paxfulbit.top
 0.0.0.0 paxfulbw.com
+0.0.0.0 paxfulcv.com
 0.0.0.0 paxfulfe.com
 0.0.0.0 paxfulft.com
 0.0.0.0 paxfulhack.site
