@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sun May  5 05:02:01 UTC 2024
+# PhishFort Full Domain List - Sun May  5 06:02:05 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109211
+# Number of Entries: 109215
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3179,6 +3179,7 @@
 0.0.0.0 agodajob.com
 0.0.0.0 agodajp.vip
 0.0.0.0 agodajpvip.cc
+0.0.0.0 agodajpvip.com
 0.0.0.0 agodalogical.com
 0.0.0.0 agodalucky.com
 0.0.0.0 agodamall-hk.com
@@ -42245,6 +42246,8 @@
 0.0.0.0 kecamatan.xyz
 0.0.0.0 keep-network.com
 0.0.0.0 keeper.claims
+0.0.0.0 keepertoken.org
+0.0.0.0 keepertoken.xyz
 0.0.0.0 keepkey.app
 0.0.0.0 keepstake.github.io
 0.0.0.0 kefu.pancackswap.com
@@ -87379,6 +87382,7 @@
 0.0.0.0 tonkeeper.digital
 0.0.0.0 tonkeeper.help
 0.0.0.0 tonkeeper.io
+0.0.0.0 tonkeeper.page
 0.0.0.0 tonkeeper.pages.dev
 0.0.0.0 tonkeeper.su
 0.0.0.0 tonkeeper.us
