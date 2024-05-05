@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sun May  5 03:05:18 UTC 2024
+# PhishFort Small Domain List - Sun May  5 04:06:01 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7618
+# Number of Entries: 7614
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -36,7 +36,6 @@
 0.0.0.0 1inchcode.newfinancialmarketworld.com
 0.0.0.0 1inchfinance.com
 0.0.0.0 1inchnetwork.org
-0.0.0.0 1inchnetwork156.net
 0.0.0.0 1inchv4.fi
 0.0.0.0 1inchwallet.app
 0.0.0.0 1inchwallet.org
@@ -225,7 +224,6 @@
 0.0.0.0 agodahotels.world
 0.0.0.0 agodajp.vip
 0.0.0.0 agodajpvip.cc
-0.0.0.0 agodajpvip.com
 0.0.0.0 agodanewcomplaint.com
 0.0.0.0 agodaonline.com
 0.0.0.0 agodaranking.top
@@ -1161,7 +1159,6 @@
 0.0.0.0 btctokensfree.online
 0.0.0.0 btsemarket.cc
 0.0.0.0 btsemarket.top
-0.0.0.0 build-121.com
 0.0.0.0 build.astarlabs.org
 0.0.0.0 buildtheenterprise.org
 0.0.0.0 buildweb3.icu
@@ -2055,7 +2052,6 @@
 0.0.0.0 dona-v3-3s0phmf7t-donaswap.vercel.app
 0.0.0.0 dop-en.web.app
 0.0.0.0 dop-io.web.app
-0.0.0.0 dopamine-dop.com
 0.0.0.0 dopaminedop.pages.dev
 0.0.0.0 doporg.com
 0.0.0.0 doraemoncoin.live
@@ -2700,7 +2696,6 @@
 0.0.0.0 h8fl00.cc
 0.0.0.0 ha3netchexsalast.com
 0.0.0.0 habit-tracker-ten-pearl.vercel.app
-0.0.0.0 hajjdomestic-sa.info
 0.0.0.0 halefiuamamalst.com
 0.0.0.0 halenchimaletma.com
 0.0.0.0 halestramasslost.com
@@ -3031,7 +3026,10 @@
 0.0.0.0 joysonseafety.com
 0.0.0.0 jp.ib-fx7.com
 0.0.0.0 jpagod.com
+0.0.0.0 jpagoda.icu
+0.0.0.0 jpagoda.top
 0.0.0.0 jpagods.com
+0.0.0.0 jpagods.top
 0.0.0.0 jpagods.vip
 0.0.0.0 jrt8fm.pro
 0.0.0.0 jsebastiao.com
@@ -4059,7 +4057,6 @@
 0.0.0.0 monkedao.one
 0.0.0.0 monline.best
 0.0.0.0 monsprotocol.io
-0.0.0.0 monta-network.com
 0.0.0.0 mooar.top
 0.0.0.0 moodinohzh.site
 0.0.0.0 mooky-io.com
@@ -4822,7 +4819,6 @@
 0.0.0.0 panccakeswapp.com
 0.0.0.0 panceksawap.finance
 0.0.0.0 panckaeswap.xyz
-0.0.0.0 panckakeswap.finance
 0.0.0.0 panckedrops48.vercel.app
 0.0.0.0 panckswap.com
 0.0.0.0 pandefi-staking.com

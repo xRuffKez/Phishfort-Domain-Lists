@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Sun May  5 03:05:18 UTC 2024
+# PhishFort Small Domain List - Sun May  5 04:06:01 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7618
+# Number of Entries: 7614
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -35,7 +35,6 @@
 1inchcode.newfinancialmarketworld.com
 1inchfinance.com
 1inchnetwork.org
-1inchnetwork156.net
 1inchv4.fi
 1inchwallet.app
 1inchwallet.org
@@ -224,7 +223,6 @@ agodahotels.store
 agodahotels.world
 agodajp.vip
 agodajpvip.cc
-agodajpvip.com
 agodanewcomplaint.com
 agodaonline.com
 agodaranking.top
@@ -1160,7 +1158,6 @@ btcminetrix.vercel.app
 btctokensfree.online
 btsemarket.cc
 btsemarket.top
-build-121.com
 build.astarlabs.org
 buildtheenterprise.org
 buildweb3.icu
@@ -2054,7 +2051,6 @@ dona-v3-2cct1wst3-donaswap.vercel.app
 dona-v3-3s0phmf7t-donaswap.vercel.app
 dop-en.web.app
 dop-io.web.app
-dopamine-dop.com
 dopaminedop.pages.dev
 doporg.com
 doraemoncoin.live
@@ -2699,7 +2695,6 @@ h5.ptldxjfu.com
 h8fl00.cc
 ha3netchexsalast.com
 habit-tracker-ten-pearl.vercel.app
-hajjdomestic-sa.info
 halefiuamamalst.com
 halenchimaletma.com
 halestramasslost.com
@@ -3030,7 +3025,10 @@ joyprimeshowworld.world
 joysonseafety.com
 jp.ib-fx7.com
 jpagod.com
+jpagoda.icu
+jpagoda.top
 jpagods.com
+jpagods.top
 jpagods.vip
 jrt8fm.pro
 jsebastiao.com
@@ -4058,7 +4056,6 @@ moneypak-reload.com
 monkedao.one
 monline.best
 monsprotocol.io
-monta-network.com
 mooar.top
 moodinohzh.site
 mooky-io.com
@@ -4821,7 +4818,6 @@ pancaqeswap-earn.com
 panccakeswapp.com
 panceksawap.finance
 panckaeswap.xyz
-panckakeswap.finance
 panckedrops48.vercel.app
 panckswap.com
 pandefi-staking.com
