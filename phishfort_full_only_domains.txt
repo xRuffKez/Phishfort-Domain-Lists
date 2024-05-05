@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Sun May  5 19:01:54 UTC 2024
+# PhishFort Full Domain List - Sun May  5 20:02:02 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109220
+# Number of Entries: 109221
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -34588,6 +34588,7 @@ fphantom-wallert.godaddysites.com
 fplenrgyproject.com
 fplutility.com
 fpundation.app
+fqb5hw.cn
 fr-ledger.com
 fr-sheinshop.site
 fr-worldcoin.web.app
