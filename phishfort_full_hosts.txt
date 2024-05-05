@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sun May  5 07:01:50 UTC 2024
+# PhishFort Full Domain List - Sun May  5 08:02:03 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109215
+# Number of Entries: 109217
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -17204,6 +17204,7 @@
 0.0.0.0 claim-frenbot.tech
 0.0.0.0 claim-friend.com
 0.0.0.0 claim-galagames.com
+0.0.0.0 claim-gecko.com
 0.0.0.0 claim-gemini.com
 0.0.0.0 claim-genie.xyz
 0.0.0.0 claim-gifts.com
@@ -65532,6 +65533,7 @@
 0.0.0.0 pancakeswap-giveaway.com
 0.0.0.0 pancakeswap-giveaway.net.do
 0.0.0.0 pancakeswap-giveaway.online
+0.0.0.0 pancakeswap-giveawayclaim.com
 0.0.0.0 pancakeswap-global.com
 0.0.0.0 pancakeswap-global.network
 0.0.0.0 pancakeswap-global.online

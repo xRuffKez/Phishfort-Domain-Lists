@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sun May  5 07:01:50 UTC 2024
+# PhishFort Full Domain List - Sun May  5 08:02:03 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109215
+# Number of Entries: 109217
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -17204,6 +17204,7 @@
 ||claim-frenbot.tech^
 ||claim-friend.com^
 ||claim-galagames.com^
+||claim-gecko.com^
 ||claim-gemini.com^
 ||claim-genie.xyz^
 ||claim-gifts.com^
@@ -65532,6 +65533,7 @@
 ||pancakeswap-giveaway.com^
 ||pancakeswap-giveaway.net.do^
 ||pancakeswap-giveaway.online^
+||pancakeswap-giveawayclaim.com^
 ||pancakeswap-global.com^
 ||pancakeswap-global.network^
 ||pancakeswap-global.online^
