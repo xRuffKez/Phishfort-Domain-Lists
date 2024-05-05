@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Sun May  5 19:04:45 UTC 2024
+# PhishFort Small Domain List - Sun May  5 20:05:12 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6616
+# Number of Entries: 6611
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -838,9 +838,6 @@ bitkub-th.pro
 bitkub-th.vip
 bitkub.fafa855casino.com
 bitkub.trade
-bitkubb.lockchain.net
-bitkubbloc.kchain.net
-bitkubblockch.ain.net
 bitkubonlineslot.com
 bitkubvip.com
 bitpulseportal.com
@@ -2157,6 +2154,7 @@ foundarb.xyz
 fourseasonsmsk.ru
 fox-club.xyz
 fox-dao.web.app
+fqb5hw.cn
 fr-worldcoin.web.app
 frame.markets
 free.bitzgroup.xyz
@@ -5426,9 +5424,7 @@ tikmallshop.cloud
 tiktocoins.info
 tiktok1122.com
 tiktok39.com
-tiktok52.com
 tiktok66.cc
-tiktoklive.co
 tiktokmall01.com
 tiktokorders.vip
 tiktokshopdown.com
@@ -5544,7 +5540,6 @@ treasury.roninschains.com
 trestleprotocol.net
 treszorwallest.azurewebsites.net
 trezorsuite-web3.com
-trimaax.us
 trindadeadvocacia.com
 trinet.za.com
 trinity-healthusa.org
