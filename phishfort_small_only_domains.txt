@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Sun May  5 07:04:43 UTC 2024
+# PhishFort Small Domain List - Sun May  5 08:05:24 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6701
+# Number of Entries: 6703
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1200,6 +1200,7 @@ claim-es.com
 claim-ethena.marc.com.pk
 claim-ethenalab.com
 claim-ether.fi
+claim-gecko.com
 claim-iyk.xyz
 claim-ju-4i4mf5.vercel.app
 claim-metis.com
@@ -4128,6 +4129,7 @@ pancakeswap-finances.pages.dev
 pancakeswap-flnance.com
 pancakeswap-frontend-git-fix-refactors-and-bugs-dopex-io.vercel.app
 pancakeswap-giveaway.com
+pancakeswap-giveawayclaim.com
 pancakeswap-live.pages.dev
 pancakeswap-newdrop.com
 pancakeswap-offer.finance

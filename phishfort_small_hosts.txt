@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sun May  5 07:04:43 UTC 2024
+# PhishFort Small Domain List - Sun May  5 08:05:24 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6701
+# Number of Entries: 6703
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1201,6 +1201,7 @@
 0.0.0.0 claim-ethena.marc.com.pk
 0.0.0.0 claim-ethenalab.com
 0.0.0.0 claim-ether.fi
+0.0.0.0 claim-gecko.com
 0.0.0.0 claim-iyk.xyz
 0.0.0.0 claim-ju-4i4mf5.vercel.app
 0.0.0.0 claim-metis.com
@@ -4129,6 +4130,7 @@
 0.0.0.0 pancakeswap-flnance.com
 0.0.0.0 pancakeswap-frontend-git-fix-refactors-and-bugs-dopex-io.vercel.app
 0.0.0.0 pancakeswap-giveaway.com
+0.0.0.0 pancakeswap-giveawayclaim.com
 0.0.0.0 pancakeswap-live.pages.dev
 0.0.0.0 pancakeswap-newdrop.com
 0.0.0.0 pancakeswap-offer.finance
