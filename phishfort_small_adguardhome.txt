@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sun May  5 22:04:46 UTC 2024
+# PhishFort Small Domain List - Sun May  5 23:04:46 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6611
+# Number of Entries: 6587
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -544,7 +544,6 @@
 ||appbalancer.finance^
 ||appcitadelswap.xyz^
 ||appdaomaker.com^
-||appeigenlayer.xyz^
 ||appethena.finance^
 ||appethena.vip^
 ||appfhruster.finance^
@@ -771,8 +770,6 @@
 ||bentenwif.com^
 ||benzksync.nfts2.me^
 ||beoible.app^
-||bera-claim.app^
-||bera-claim.net^
 ||bera-names.com^
 ||bera-olympusdao.finance^
 ||berachainairdrop.com^
@@ -853,8 +850,6 @@
 ||blast-airdrop-io.site^
 ||blast-app.world^
 ||blast-bridge-ui.netlify.app^
-||blast-drop.pw^
-||blast-drop.shop^
 ||blast-drop.space^
 ||blast-drop.website^
 ||blast-io.pro^
@@ -1752,7 +1747,6 @@
 ||docs-lybra.network^
 ||docs-lybras.trade^
 ||docs.coinality.dev^
-||docu.ax9j.com^
 ||documentation-lybra.finance^
 ||dodoeex.cc^
 ||dogecoin.love^
@@ -2455,9 +2449,6 @@
 ||hxig64w.pro^
 ||hyper-liquid.com^
 ||hyperpaytech.com^
-||hyperspace-pythrewards.app^
-||hyperspace-pythrewards.net^
-||hyperspace-pythrewards.org^
 ||hypnoticbrass.net^
 ||i2sb20.cn^
 ||ia4mb.pro^
@@ -2492,7 +2483,6 @@
 ||idex-crypto.vip^
 ||idextr.com^
 ||idn-hosting.com^
-||iexeces.app^
 ||igxegift.com^
 ||ijktea.top^
 ||iktrjrfusah.icu^
@@ -2630,7 +2620,6 @@
 ||joltify-testnet3.vercel.app^
 ||joyouslinkew.world^
 ||joyprimeshowworld.world^
-||joysonseafety.com^
 ||jp.ib-fx7.com^
 ||jpagod.com^
 ||jpagoda.icu^
@@ -2683,7 +2672,6 @@
 ||jupitercatdet.com^
 ||jupiterexchange.link^
 ||jupiterlaunch.network^
-||jupiterproject.website^
 ||jupjup2.com^
 ||jupjup8.com^
 ||jupjup9.com^
@@ -2792,7 +2780,6 @@
 ||launchpad-dydx.com^
 ||launchpad-dymension.com^
 ||launchpad-etherfi.com^
-||launchpad-metis.app^
 ||launchpad-overlord.xyz^
 ||launchpad-pancake.com^
 ||launchpad-qubic.com^
@@ -2804,7 +2791,6 @@
 ||launchpadangle.net^
 ||launchpaddapp.eu^
 ||launchs-inscribe.com^
-||launchs-pads.app^
 ||laurentian-verif.com^
 ||layer-3.cyou^
 ||layer-network.com^
@@ -2935,7 +2921,6 @@
 ||login-metamaskwallet.ddnss.eu^
 ||login.cw1.ir^
 ||login.lbpiaccess.workers.dev^
-||login.microsoftonlineportal.ppp-gov.online^
 ||login.niviyi4094.workers.dev^
 ||login.wapstore.duckdns.org^
 ||login1-blockgames.xyz^
@@ -3359,7 +3344,6 @@
 ||metemsak.io^
 ||metexmachinery.com^
 ||metimaasklogiin_us.godaddysites.com^
-||metis-launchrpad.org^
 ||metis-registration.com^
 ||metis.gifts^
 ||metisdaovotings.com^
@@ -4142,7 +4126,6 @@
 ||pancaksewaq-finance.com^
 ||pancakswap.fi^
 ||pancakswapv3.com^
-||panceksawap.finance^
 ||panckaeswap.xyz^
 ||panckedrops48.vercel.app^
 ||panckswap.com^
@@ -4527,7 +4510,6 @@
 ||qtnkpaxos.net^
 ||quantumcats.trading^
 ||qubics.trading^
-||quest-aevo.com^
 ||quest-pixels.com^
 ||quest-sharpnel.com^
 ||quest-starknet.io^
@@ -5424,14 +5406,9 @@
 ||tikmallshop.cloud^
 ||tiktocoins.info^
 ||tiktok1122.com^
-||tiktok39.com^
-||tiktok66.cc^
 ||tiktokmall01.com^
 ||tiktokorders.vip^
-||tiktokshopdown.com^
-||tiktoktech.org^
 ||tiktokweb.cc^
-||tiktoky.cc^
 ||titano.defilama.top^
 ||tmedicalpr.lol^
 ||tmtmoneyback.pages.dev^
@@ -6406,7 +6383,6 @@
 ||www.stakeyearn.fi^
 ||www.staking-eigenpie-magpiexyz.77clube.com^
 ||www.staking-zircuit-network.724koli.com^
-||www.stakingritestream.io^
 ||www.starknet.pro.in^
 ||www.swap-blast.finance^
 ||www.swap-omax.pro^

@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sun May  5 22:04:46 UTC 2024
+# PhishFort Small Domain List - Sun May  5 23:04:46 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6611
+# Number of Entries: 6587
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -544,7 +544,6 @@
 0.0.0.0 appbalancer.finance
 0.0.0.0 appcitadelswap.xyz
 0.0.0.0 appdaomaker.com
-0.0.0.0 appeigenlayer.xyz
 0.0.0.0 appethena.finance
 0.0.0.0 appethena.vip
 0.0.0.0 appfhruster.finance
@@ -771,8 +770,6 @@
 0.0.0.0 bentenwif.com
 0.0.0.0 benzksync.nfts2.me
 0.0.0.0 beoible.app
-0.0.0.0 bera-claim.app
-0.0.0.0 bera-claim.net
 0.0.0.0 bera-names.com
 0.0.0.0 bera-olympusdao.finance
 0.0.0.0 berachainairdrop.com
@@ -853,8 +850,6 @@
 0.0.0.0 blast-airdrop-io.site
 0.0.0.0 blast-app.world
 0.0.0.0 blast-bridge-ui.netlify.app
-0.0.0.0 blast-drop.pw
-0.0.0.0 blast-drop.shop
 0.0.0.0 blast-drop.space
 0.0.0.0 blast-drop.website
 0.0.0.0 blast-io.pro
@@ -1752,7 +1747,6 @@
 0.0.0.0 docs-lybra.network
 0.0.0.0 docs-lybras.trade
 0.0.0.0 docs.coinality.dev
-0.0.0.0 docu.ax9j.com
 0.0.0.0 documentation-lybra.finance
 0.0.0.0 dodoeex.cc
 0.0.0.0 dogecoin.love
@@ -2455,9 +2449,6 @@
 0.0.0.0 hxig64w.pro
 0.0.0.0 hyper-liquid.com
 0.0.0.0 hyperpaytech.com
-0.0.0.0 hyperspace-pythrewards.app
-0.0.0.0 hyperspace-pythrewards.net
-0.0.0.0 hyperspace-pythrewards.org
 0.0.0.0 hypnoticbrass.net
 0.0.0.0 i2sb20.cn
 0.0.0.0 ia4mb.pro
@@ -2492,7 +2483,6 @@
 0.0.0.0 idex-crypto.vip
 0.0.0.0 idextr.com
 0.0.0.0 idn-hosting.com
-0.0.0.0 iexeces.app
 0.0.0.0 igxegift.com
 0.0.0.0 ijktea.top
 0.0.0.0 iktrjrfusah.icu
@@ -2630,7 +2620,6 @@
 0.0.0.0 joltify-testnet3.vercel.app
 0.0.0.0 joyouslinkew.world
 0.0.0.0 joyprimeshowworld.world
-0.0.0.0 joysonseafety.com
 0.0.0.0 jp.ib-fx7.com
 0.0.0.0 jpagod.com
 0.0.0.0 jpagoda.icu
@@ -2683,7 +2672,6 @@
 0.0.0.0 jupitercatdet.com
 0.0.0.0 jupiterexchange.link
 0.0.0.0 jupiterlaunch.network
-0.0.0.0 jupiterproject.website
 0.0.0.0 jupjup2.com
 0.0.0.0 jupjup8.com
 0.0.0.0 jupjup9.com
@@ -2792,7 +2780,6 @@
 0.0.0.0 launchpad-dydx.com
 0.0.0.0 launchpad-dymension.com
 0.0.0.0 launchpad-etherfi.com
-0.0.0.0 launchpad-metis.app
 0.0.0.0 launchpad-overlord.xyz
 0.0.0.0 launchpad-pancake.com
 0.0.0.0 launchpad-qubic.com
@@ -2804,7 +2791,6 @@
 0.0.0.0 launchpadangle.net
 0.0.0.0 launchpaddapp.eu
 0.0.0.0 launchs-inscribe.com
-0.0.0.0 launchs-pads.app
 0.0.0.0 laurentian-verif.com
 0.0.0.0 layer-3.cyou
 0.0.0.0 layer-network.com
@@ -2935,7 +2921,6 @@
 0.0.0.0 login-metamaskwallet.ddnss.eu
 0.0.0.0 login.cw1.ir
 0.0.0.0 login.lbpiaccess.workers.dev
-0.0.0.0 login.microsoftonlineportal.ppp-gov.online
 0.0.0.0 login.niviyi4094.workers.dev
 0.0.0.0 login.wapstore.duckdns.org
 0.0.0.0 login1-blockgames.xyz
@@ -3359,7 +3344,6 @@
 0.0.0.0 metemsak.io
 0.0.0.0 metexmachinery.com
 0.0.0.0 metimaasklogiin_us.godaddysites.com
-0.0.0.0 metis-launchrpad.org
 0.0.0.0 metis-registration.com
 0.0.0.0 metis.gifts
 0.0.0.0 metisdaovotings.com
@@ -4142,7 +4126,6 @@
 0.0.0.0 pancaksewaq-finance.com
 0.0.0.0 pancakswap.fi
 0.0.0.0 pancakswapv3.com
-0.0.0.0 panceksawap.finance
 0.0.0.0 panckaeswap.xyz
 0.0.0.0 panckedrops48.vercel.app
 0.0.0.0 panckswap.com
@@ -4527,7 +4510,6 @@
 0.0.0.0 qtnkpaxos.net
 0.0.0.0 quantumcats.trading
 0.0.0.0 qubics.trading
-0.0.0.0 quest-aevo.com
 0.0.0.0 quest-pixels.com
 0.0.0.0 quest-sharpnel.com
 0.0.0.0 quest-starknet.io
@@ -5424,14 +5406,9 @@
 0.0.0.0 tikmallshop.cloud
 0.0.0.0 tiktocoins.info
 0.0.0.0 tiktok1122.com
-0.0.0.0 tiktok39.com
-0.0.0.0 tiktok66.cc
 0.0.0.0 tiktokmall01.com
 0.0.0.0 tiktokorders.vip
-0.0.0.0 tiktokshopdown.com
-0.0.0.0 tiktoktech.org
 0.0.0.0 tiktokweb.cc
-0.0.0.0 tiktoky.cc
 0.0.0.0 titano.defilama.top
 0.0.0.0 tmedicalpr.lol
 0.0.0.0 tmtmoneyback.pages.dev
@@ -6406,7 +6383,6 @@
 0.0.0.0 www.stakeyearn.fi
 0.0.0.0 www.staking-eigenpie-magpiexyz.77clube.com
 0.0.0.0 www.staking-zircuit-network.724koli.com
-0.0.0.0 www.stakingritestream.io
 0.0.0.0 www.starknet.pro.in
 0.0.0.0 www.swap-blast.finance
 0.0.0.0 www.swap-omax.pro
