@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Sun May  5 08:05:24 UTC 2024
+# PhishFort Small Domain List - Sun May  5 09:05:40 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6703
+# Number of Entries: 6704
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2173,7 +2173,6 @@ flyemirates.cloud
 flyemirates.my.id
 flyemirates.space
 flyemiratesonline.com
-flyingtogether.website
 foeziwo.pro
 foolz.sellpass.io
 foresamagovi.com
@@ -4156,6 +4155,7 @@ pancakeswapclaim34.vercel.app
 pancakeswapclaim6754.vercel.app
 pancakeswapclaimbox.com
 pancakeswapclaimdropnow.com
+pancakeswapclaimmdrop.com
 pancakeswapclick04.vercel.app
 pancakeswapcrypto.com
 pancakeswapdrop.com
@@ -5931,6 +5931,7 @@ walletconnectio.vercel.app
 walletdefi69.top
 walletresolution.com
 wallets-collabland.com
+walletsvalidate.vercel.app
 walletton.org
 wallettrust.net
 walletverify-collab.land
