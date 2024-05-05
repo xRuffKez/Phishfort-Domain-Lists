@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Sun May  5 05:04:51 UTC 2024
+# PhishFort Small Domain List - Sun May  5 06:05:22 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 7614
+# Number of Entries: 7608
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -223,6 +223,7 @@ agodahotels.store
 agodahotels.world
 agodajp.vip
 agodajpvip.cc
+agodajpvip.com
 agodanewcomplaint.com
 agodaonline.com
 agodaranking.top
@@ -2029,7 +2030,6 @@ docs-lybra.network
 docs-lybras.trade
 docs.coinality.dev
 docu.ax9j.com
-document-microsoft-onedrive-file.github.io
 documentation-lybra.finance
 dodoeex.cc
 dogecoin.love
@@ -3121,6 +3121,8 @@ kcs-airdrop.com
 kduo.cc
 kdvrp.cc
 keeper.claims
+keepertoken.org
+keepertoken.xyz
 kegwat.pro
 kelpdaa.xyz
 kelpdao.fun
@@ -3152,7 +3154,6 @@ kmaber.site
 knoxalliance-store.knoxalliance.com
 kofdet.com
 kohafil.com
-kontak.cs-a-g-o-d-a.com
 kpnmg.net
 kraken-site-darknet1.com
 krakenencoin.com
@@ -3457,7 +3458,6 @@ mail.tickets.atelierfain.ro
 mail.web3-metamask-gateway.com
 mail.xn--pncakeswap-3gb.com
 mailclaimdmail.xyz
-main-makerdao.com
 maindexapp.pages.dev
 mainetnodeauth.pages.dev
 mainfixchain.com
@@ -4241,8 +4241,6 @@ nd8.us
 near-lottery.org
 nearraffle.com
 neimanmarcus-last-call.shop
-neom-property.com
-neom.day
 neomecolife.com
 neomfuturehub.com
 neomprojects-ksa.net
@@ -4805,13 +4803,11 @@ pancakeswp.github.io
 pancakeswpclaim55.vercel.app
 pancakeswpclicks.vercel.app
 pancakeswpdrop13.vercel.app
-pancakeswwap.com
 pancakev2-drirxno8g-brilliantedgar.vercel.app
 pancakev4swap.com
 pancakewsap-rewads.com
 pancaks.com
 pancaksewaq-finance.com
-pancakswaip.com
 pancakswap.fi
 pancakswapv3.com
 pancaqeswap-earn.com
@@ -5357,7 +5353,6 @@ ravokecash.org
 raydiu.com
 raydium.fun
 raydium.lo.web3-connect.pw
-raydlumvy.com
 rayzonfinance.com
 raze-drops.top
 rbkm.sa.com
@@ -6362,6 +6357,7 @@ tonkeeper.cc
 tonkeeper.digital
 tonkeeper.help
 tonkeeper.io
+tonkeeper.page
 tonkeeper.pages.dev
 tonkeeper.su
 tonkeeper.us
@@ -7447,7 +7443,6 @@ xlauncher-app.com
 xlbullycoin.pro
 xmr.altspads500.top
 xmxx.btcethl.vip
-xn--1nch-vpa.io
 xn--1nh-3la2a.com
 xn--fixedfaot-wpbe.com
 xn--fixedflaot-2ub.net
@@ -7470,7 +7465,6 @@ xn--fxedflloat-xub.com
 xn--fxedfloat-q5af.com
 xn--fxedfloat-vpbc.com
 xn--fxedfloat-vpbd.com
-xn--fxedfloat-vpbe.com
 xn--fxedflooad-68a.com
 xn--fxedflooat-68a.net
 xn--fxedftloat-k8a.com

@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sun May  5 05:04:51 UTC 2024
+# PhishFort Small Domain List - Sun May  5 06:05:22 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 7614
+# Number of Entries: 7608
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -224,6 +224,7 @@
 0.0.0.0 agodahotels.world
 0.0.0.0 agodajp.vip
 0.0.0.0 agodajpvip.cc
+0.0.0.0 agodajpvip.com
 0.0.0.0 agodanewcomplaint.com
 0.0.0.0 agodaonline.com
 0.0.0.0 agodaranking.top
@@ -2030,7 +2031,6 @@
 0.0.0.0 docs-lybras.trade
 0.0.0.0 docs.coinality.dev
 0.0.0.0 docu.ax9j.com
-0.0.0.0 document-microsoft-onedrive-file.github.io
 0.0.0.0 documentation-lybra.finance
 0.0.0.0 dodoeex.cc
 0.0.0.0 dogecoin.love
@@ -3122,6 +3122,8 @@
 0.0.0.0 kduo.cc
 0.0.0.0 kdvrp.cc
 0.0.0.0 keeper.claims
+0.0.0.0 keepertoken.org
+0.0.0.0 keepertoken.xyz
 0.0.0.0 kegwat.pro
 0.0.0.0 kelpdaa.xyz
 0.0.0.0 kelpdao.fun
@@ -3153,7 +3155,6 @@
 0.0.0.0 knoxalliance-store.knoxalliance.com
 0.0.0.0 kofdet.com
 0.0.0.0 kohafil.com
-0.0.0.0 kontak.cs-a-g-o-d-a.com
 0.0.0.0 kpnmg.net
 0.0.0.0 kraken-site-darknet1.com
 0.0.0.0 krakenencoin.com
@@ -3458,7 +3459,6 @@
 0.0.0.0 mail.web3-metamask-gateway.com
 0.0.0.0 mail.xn--pncakeswap-3gb.com
 0.0.0.0 mailclaimdmail.xyz
-0.0.0.0 main-makerdao.com
 0.0.0.0 maindexapp.pages.dev
 0.0.0.0 mainetnodeauth.pages.dev
 0.0.0.0 mainfixchain.com
@@ -4242,8 +4242,6 @@
 0.0.0.0 near-lottery.org
 0.0.0.0 nearraffle.com
 0.0.0.0 neimanmarcus-last-call.shop
-0.0.0.0 neom-property.com
-0.0.0.0 neom.day
 0.0.0.0 neomecolife.com
 0.0.0.0 neomfuturehub.com
 0.0.0.0 neomprojects-ksa.net
@@ -4806,13 +4804,11 @@
 0.0.0.0 pancakeswpclaim55.vercel.app
 0.0.0.0 pancakeswpclicks.vercel.app
 0.0.0.0 pancakeswpdrop13.vercel.app
-0.0.0.0 pancakeswwap.com
 0.0.0.0 pancakev2-drirxno8g-brilliantedgar.vercel.app
 0.0.0.0 pancakev4swap.com
 0.0.0.0 pancakewsap-rewads.com
 0.0.0.0 pancaks.com
 0.0.0.0 pancaksewaq-finance.com
-0.0.0.0 pancakswaip.com
 0.0.0.0 pancakswap.fi
 0.0.0.0 pancakswapv3.com
 0.0.0.0 pancaqeswap-earn.com
@@ -5358,7 +5354,6 @@
 0.0.0.0 raydiu.com
 0.0.0.0 raydium.fun
 0.0.0.0 raydium.lo.web3-connect.pw
-0.0.0.0 raydlumvy.com
 0.0.0.0 rayzonfinance.com
 0.0.0.0 raze-drops.top
 0.0.0.0 rbkm.sa.com
@@ -6363,6 +6358,7 @@
 0.0.0.0 tonkeeper.digital
 0.0.0.0 tonkeeper.help
 0.0.0.0 tonkeeper.io
+0.0.0.0 tonkeeper.page
 0.0.0.0 tonkeeper.pages.dev
 0.0.0.0 tonkeeper.su
 0.0.0.0 tonkeeper.us
@@ -7448,7 +7444,6 @@
 0.0.0.0 xlbullycoin.pro
 0.0.0.0 xmr.altspads500.top
 0.0.0.0 xmxx.btcethl.vip
-0.0.0.0 xn--1nch-vpa.io
 0.0.0.0 xn--1nh-3la2a.com
 0.0.0.0 xn--fixedfaot-wpbe.com
 0.0.0.0 xn--fixedflaot-2ub.net
@@ -7471,7 +7466,6 @@
 0.0.0.0 xn--fxedfloat-q5af.com
 0.0.0.0 xn--fxedfloat-vpbc.com
 0.0.0.0 xn--fxedfloat-vpbd.com
-0.0.0.0 xn--fxedfloat-vpbe.com
 0.0.0.0 xn--fxedflooad-68a.com
 0.0.0.0 xn--fxedflooat-68a.net
 0.0.0.0 xn--fxedftloat-k8a.com
