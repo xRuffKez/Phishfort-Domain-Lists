@@ -1,4 +1,4 @@
-# PhishFort Full Domain List - Sun May  5 21:01:45 UTC 2024
+# PhishFort Full Domain List - Sun May  5 22:01:49 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 109221
 # Project: PhishFort (https://phishfort.com/)
