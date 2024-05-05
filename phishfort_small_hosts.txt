@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sun May  5 18:04:59 UTC 2024
+# PhishFort Small Domain List - Sun May  5 19:04:45 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6704
+# Number of Entries: 6616
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -10,7 +10,6 @@
 0.0.0.0 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
 0.0.0.0 0l9c6xn.info
 0.0.0.0 0pensea-click.vercel.app
-0.0.0.0 0penseamystery.vercel.app
 0.0.0.0 0x4ee15erf903e2634abe0e.com
 0.0.0.0 1-eu9.pages.dev
 0.0.0.0 1-inch.vercel.app
@@ -27,7 +26,6 @@
 0.0.0.0 1inch-io.app
 0.0.0.0 1inch-io.xyz
 0.0.0.0 1inch-new-migration.com
-0.0.0.0 1inch-pay.ga
 0.0.0.0 1inch.box
 0.0.0.0 1inch.fyi
 0.0.0.0 1inch.web3connect.mom
@@ -37,7 +35,6 @@
 0.0.0.0 1inchv4.fi
 0.0.0.0 1inchwallet.app
 0.0.0.0 1inchwallet.org
-0.0.0.0 1innch.digital
 0.0.0.0 1lnch-claim.com
 0.0.0.0 1lnch.network
 0.0.0.0 1yagodame.com
@@ -127,7 +124,6 @@
 0.0.0.0 aavve.org
 0.0.0.0 ab.datpoint.online
 0.0.0.0 ab.ebay-asia.com
-0.0.0.0 abacoin.website
 0.0.0.0 ablonline.best
 0.0.0.0 abracadebra.money
 0.0.0.0 abs-staging.artbyarabbank.ch
@@ -140,7 +136,6 @@
 0.0.0.0 accboxi.com
 0.0.0.0 accepts-lnterweb.life
 0.0.0.0 access.bdc.support
-0.0.0.0 access.roninchain.app
 0.0.0.0 accesspoint01.challengedrumstreet.ru
 0.0.0.0 account-407etr.com
 0.0.0.0 account.cityindexinternational.com
@@ -152,6 +147,7 @@
 0.0.0.0 acecoins.pro
 0.0.0.0 acefusionist.network
 0.0.0.0 achtama.info
+0.0.0.0 acquaintrecurrence.top
 0.0.0.0 acrosss-bridge.xyz
 0.0.0.0 acrossto-v2.org
 0.0.0.0 active-supp-ort-meta.netlify.app
@@ -232,7 +228,6 @@
 0.0.0.0 aibaoinsurance.com
 0.0.0.0 aicoinex-amm.com
 0.0.0.0 aidexi.net
-0.0.0.0 aidexw.com
 0.0.0.0 aidogedrop.org
 0.0.0.0 aiearni.com
 0.0.0.0 aigentx.gift
@@ -352,7 +347,6 @@
 0.0.0.0 allocation-layerzero.app
 0.0.0.0 allocation-pixels.com
 0.0.0.0 allocation-roninchain.com
-0.0.0.0 allocation-satoshivm.com
 0.0.0.0 alp.local-user.com
 0.0.0.0 alpha-fetch.com
 0.0.0.0 alpha-tokens.web.app
@@ -464,7 +458,6 @@
 0.0.0.0 app-pancakesvap.github.io
 0.0.0.0 app-pandora.com
 0.0.0.0 app-parcl.site
-0.0.0.0 app-pendle.financial
 0.0.0.0 app-planetrefi.com
 0.0.0.0 app-rage-trades.com
 0.0.0.0 app-renzoprotocol.com
@@ -521,7 +514,6 @@
 0.0.0.0 app.farmersonly.fi
 0.0.0.0 app.financeglobal.trade
 0.0.0.0 app.ibkr-ex.com
-0.0.0.0 app.kiloex-airdrop.com
 0.0.0.0 app.lumiwallet.live
 0.0.0.0 app.moonbeam-web.com
 0.0.0.0 app.moonbeamer-swap.com
@@ -691,7 +683,6 @@
 0.0.0.0 autorestore.pages.dev
 0.0.0.0 autotecc.pages.dev
 0.0.0.0 autovalidateweb3.pages.dev
-0.0.0.0 avalaunches.app
 0.0.0.0 avalchain-bridge.com
 0.0.0.0 avantiengineering.org
 0.0.0.0 avax-chain-staking.pages.dev
@@ -730,7 +721,6 @@
 0.0.0.0 babylon-registrationlive-pas.vercel.app
 0.0.0.0 babylonnchain.app
 0.0.0.0 bac-swapcoins.web.app
-0.0.0.0 bac-swapp.web.app
 0.0.0.0 bac-swappcoin.web.app
 0.0.0.0 badge-chain.link
 0.0.0.0 badges-altlayer.io
@@ -803,7 +793,6 @@
 0.0.0.0 bidvbsk.bidven.com
 0.0.0.0 bidvzsf.bidven.com
 0.0.0.0 biennvnido.com
-0.0.0.0 big-bang-blast.site
 0.0.0.0 big-bang-drop.fun
 0.0.0.0 big-bang-drop.online
 0.0.0.0 big-bang-drop.press
@@ -856,10 +845,8 @@
 0.0.0.0 bitkubonlineslot.com
 0.0.0.0 bitkubvip.com
 0.0.0.0 bitpulseportal.com
-0.0.0.0 bitrock-app.com
 0.0.0.0 bitsgapmis.com
 0.0.0.0 bittechsolutionz.online
-0.0.0.0 bitukub.com
 0.0.0.0 bks-at.com
 0.0.0.0 bks-partsners.com
 0.0.0.0 blackrockbtc-etf.org
@@ -937,7 +924,6 @@
 0.0.0.0 bnbminner.com
 0.0.0.0 bncoparticlar-apps.systeme.io
 0.0.0.0 boardversepromptfil.pages.dev
-0.0.0.0 boba.x2drop.top
 0.0.0.0 bobaoppas.xyz
 0.0.0.0 bobindefi.xyz
 0.0.0.0 bobotokenhub.top
@@ -949,7 +935,6 @@
 0.0.0.0 bonk-premium.web.app
 0.0.0.0 bonk-token.xyz
 0.0.0.0 bonus-defi.network
-0.0.0.0 bonus-hex.com
 0.0.0.0 bonus-injective.com
 0.0.0.0 bonus-pyth.xyz
 0.0.0.0 bonuses-defi.network
@@ -995,7 +980,6 @@
 0.0.0.0 bssmt.pro
 0.0.0.0 btcetf-token.net
 0.0.0.0 btctokensfree.online
-0.0.0.0 btsemarket.cc
 0.0.0.0 btsemarket.top
 0.0.0.0 build.astarlabs.org
 0.0.0.0 buildtheenterprise.org
@@ -1176,7 +1160,6 @@
 0.0.0.0 ciscosystemsinc.online
 0.0.0.0 cittyindex.com
 0.0.0.0 city-index.net
-0.0.0.0 cityindex-china.com
 0.0.0.0 claiimmystreyboxnft.com
 0.0.0.0 claiimopenboxnfts.com
 0.0.0.0 clailmreward.xyz
@@ -1447,11 +1430,9 @@
 0.0.0.0 connect-arbitrum.io
 0.0.0.0 connect-collabland.app
 0.0.0.0 connect-collabs.com
-0.0.0.0 connect-dymension.xyz
 0.0.0.0 connect-mavia.com
 0.0.0.0 connect-protocol.com
 0.0.0.0 connect-rpcdefi.com
-0.0.0.0 connect-xai.games
 0.0.0.0 connect.coilab.xyz
 0.0.0.0 connect.collabiand.com
 0.0.0.0 connect.collabland-web.com
@@ -1525,7 +1506,6 @@
 0.0.0.0 cuadrosblangar.es
 0.0.0.0 cubeexchange.co
 0.0.0.0 cumminsusa.com
-0.0.0.0 custom-fender.com
 0.0.0.0 cwboffshoreonl.com
 0.0.0.0 cwboffshoreonline.com
 0.0.0.0 cwestba.com
@@ -1585,7 +1565,6 @@
 0.0.0.0 dappradar-token.com
 0.0.0.0 dappradar.co.in
 0.0.0.0 dappradar.cx
-0.0.0.0 dappradar.ec
 0.0.0.0 dappradar.mom
 0.0.0.0 dappradar.qa
 0.0.0.0 dappradar.works
@@ -1718,15 +1697,12 @@
 0.0.0.0 desblq-davi.waw.pl
 0.0.0.0 descontosgm.com
 0.0.0.0 descriptionconnect.onrender.com
-0.0.0.0 deskmainnetsynch.com
 0.0.0.0 detma-secure.insystdetmaa.in
-0.0.0.0 detma.online
 0.0.0.0 detmassonline.com
 0.0.0.0 detnmama.com
 0.0.0.0 dev.heliuswork.com
 0.0.0.0 devapp.pages.dev
 0.0.0.0 devicaeccess.co.uk
-0.0.0.0 devnet-dymension.com
 0.0.0.0 deworm.xyz
 0.0.0.0 dex-migration.firebaseapp.com
 0.0.0.0 dex-support.web.app
@@ -1832,7 +1808,6 @@
 0.0.0.0 dumb-coin.fun
 0.0.0.0 durexwalletbridge.co.za
 0.0.0.0 dvhuh.pages.dev
-0.0.0.0 dws-team-vs.de
 0.0.0.0 dydconnect.click
 0.0.0.0 dydxdao.net
 0.0.0.0 dykemagosettantoney.online
@@ -1921,7 +1896,6 @@
 0.0.0.0 en-suiswap.net
 0.0.0.0 en.clcejuun.life
 0.0.0.0 en.coifixupresolver.com
-0.0.0.0 en.ingaccessbn.com
 0.0.0.0 en.pushdstore.xyz
 0.0.0.0 en407etr.com
 0.0.0.0 enchor-roofs.com
@@ -2003,7 +1977,6 @@
 0.0.0.0 etherfi.finance
 0.0.0.0 etherfi.one
 0.0.0.0 ethergas.eu
-0.0.0.0 ethergases.com
 0.0.0.0 ethermegas.org
 0.0.0.0 etheruem.site
 0.0.0.0 etherugases.xyz
@@ -2179,7 +2152,6 @@
 0.0.0.0 foresamagovi.com
 0.0.0.0 forex-com.holu.workers.dev
 0.0.0.0 forexgcoin-5.com
-0.0.0.0 forexinvest-start.com
 0.0.0.0 fortanetwork.eu
 0.0.0.0 fortewebklap.pages.dev
 0.0.0.0 foundarb.xyz
@@ -2296,8 +2268,6 @@
 0.0.0.0 gfe3ox.csb.app
 0.0.0.0 gftj7.pro
 0.0.0.0 ghaph.com
-0.0.0.0 gift-dydx.net
-0.0.0.0 gift-hex.com
 0.0.0.0 gift-porkcoin.com
 0.0.0.0 gift-puffer.com
 0.0.0.0 giftsteam.ru
@@ -2464,13 +2434,10 @@
 0.0.0.0 holder-nexo.com
 0.0.0.0 holtec-international.ltd
 0.0.0.0 holumasshedvist.com
-0.0.0.0 home-aave.net
-0.0.0.0 home-ocean.net
 0.0.0.0 home.earnclout.com
 0.0.0.0 home.ethiner.xyz
 0.0.0.0 home.itsearn.biz
 0.0.0.0 home.monsprotocol.cc
-0.0.0.0 home.stoniz.biz
 0.0.0.0 hopper-rating.com
 0.0.0.0 hopper.travsrv.com
 0.0.0.0 horizonblue.firstlight.am
@@ -2507,7 +2474,6 @@
 0.0.0.0 ibllcgo.com
 0.0.0.0 ibllcic.com
 0.0.0.0 ibllcim.com
-0.0.0.0 ibllcit.com
 0.0.0.0 ibllck.com
 0.0.0.0 ibllcku.com
 0.0.0.0 ibllckw.com
@@ -2535,7 +2501,6 @@
 0.0.0.0 ilie.zerion.biz
 0.0.0.0 illivium-techsupport.com
 0.0.0.0 illuvium-community.com
-0.0.0.0 illuvium-community.sbs
 0.0.0.0 illuvium-connect.com
 0.0.0.0 illuvium.gift
 0.0.0.0 ilvrewards-io.com
@@ -2656,7 +2621,6 @@
 0.0.0.0 join-etherfi.work
 0.0.0.0 join-galxe.com
 0.0.0.0 join-nocturnes.xyz
-0.0.0.0 join-pendle.com
 0.0.0.0 join-porkcoin.io
 0.0.0.0 join-satoshivm.app
 0.0.0.0 join-superverse.org
@@ -2809,7 +2773,6 @@
 0.0.0.0 kyc.ledger-online.net
 0.0.0.0 l1cloudhaut.com
 0.0.0.0 l2-blast.buzz
-0.0.0.0 lakesldecontrols.com
 0.0.0.0 lama.pinksailes.com
 0.0.0.0 laughcode.conohawing.com
 0.0.0.0 launch-berachain.com
@@ -2842,7 +2805,6 @@
 0.0.0.0 launchpad.solhero.org
 0.0.0.0 launchpadangle.net
 0.0.0.0 launchpaddapp.eu
-0.0.0.0 launchpads-satoshivm.io
 0.0.0.0 launchs-inscribe.com
 0.0.0.0 launchs-pads.app
 0.0.0.0 laurentian-verif.com
@@ -2946,7 +2908,6 @@
 0.0.0.0 link.kavashield.help
 0.0.0.0 link.kavashield.icu
 0.0.0.0 link.kavaverse.one
-0.0.0.0 link3.hair
 0.0.0.0 links-airtm.com
 0.0.0.0 liquidether.rip
 0.0.0.0 liquidetherv2.com
@@ -2964,7 +2925,6 @@
 0.0.0.0 lnsgroup.net
 0.0.0.0 lnsulet.com
 0.0.0.0 lnter-webtr.jhsw3edasva.life
-0.0.0.0 lntrac-funds-instnat.digital
 0.0.0.0 lntracwebfunds-province.agccaiwo.life
 0.0.0.0 lntwebservice-lnter.f7aanm6hh4e.life
 0.0.0.0 lo1u.pro
@@ -2999,7 +2959,6 @@
 0.0.0.0 luxurybooms.com
 0.0.0.0 lvrmjm.pro
 0.0.0.0 lwve.top
-0.0.0.0 lxp-linea.build
 0.0.0.0 lybriaflnance.xyz
 0.0.0.0 lyra-finance.pages.dev
 0.0.0.0 lzas3.pro
@@ -3035,7 +2994,6 @@
 0.0.0.0 magicsquares.io
 0.0.0.0 magpiesxyz.site
 0.0.0.0 magpiexyz.in
-0.0.0.0 magpiexyz.xyz
 0.0.0.0 magpiiexyz.cyou
 0.0.0.0 magplexyz.site
 0.0.0.0 magppiexyz.com
@@ -3181,7 +3139,6 @@
 0.0.0.0 matemasksio.life
 0.0.0.0 matemsak.biz
 0.0.0.0 matrica-labs.com
-0.0.0.0 matrica-two.vercel.app
 0.0.0.0 matrica-verify.com
 0.0.0.0 matrica.vip
 0.0.0.0 matricaapp.com
@@ -3216,7 +3173,6 @@
 0.0.0.0 mcfrzev.cc
 0.0.0.0 mcnabhi.github.io
 0.0.0.0 mducksspace.com
-0.0.0.0 mduresources.mamawannago.com
 0.0.0.0 me9.us
 0.0.0.0 meatmesk.com
 0.0.0.0 mediaflex.live
@@ -3257,9 +3213,7 @@
 0.0.0.0 mergeappseversd.pages.dev
 0.0.0.0 mergeben.tech
 0.0.0.0 merlin-chain-chi.vercel.app
-0.0.0.0 merlin-chain.com
 0.0.0.0 merlin.meson.fi
-0.0.0.0 merlinchain.network
 0.0.0.0 merlinlayer.app
 0.0.0.0 mertamasek.azurewebsites.net
 0.0.0.0 meta-drop.xyz
@@ -3479,7 +3433,6 @@
 0.0.0.0 mint-nakamigos.vercel.app
 0.0.0.0 mint-opeansea.web.app
 0.0.0.0 mint-swap.buzz
-0.0.0.0 mint-usdc.web.app
 0.0.0.0 mint.apps-looty.com
 0.0.0.0 mint.lamavox.wtf
 0.0.0.0 mint.scrollbi.biz
@@ -3547,7 +3500,6 @@
 0.0.0.0 moodinohzh.site
 0.0.0.0 mooky-io.com
 0.0.0.0 moombeam.top
-0.0.0.0 moonbeamm.online
 0.0.0.0 moonbeams-web.com
 0.0.0.0 moonbeams-web3.com
 0.0.0.0 moondefink.live
@@ -3749,7 +3701,6 @@
 0.0.0.0 nexisnetwork.xyz
 0.0.0.0 nexo-event.com
 0.0.0.0 nextgenfintech.lat
-0.0.0.0 nfclaimopensea.vercel.app
 0.0.0.0 nfprompt-io.web.app
 0.0.0.0 nfpromptsio.vercel.app
 0.0.0.0 nft-2clicks.vercel.app
@@ -3803,7 +3754,6 @@
 0.0.0.0 nkjs0.ru.com
 0.0.0.0 nnass-unempl.com
 0.0.0.0 nnetannask.io
-0.0.0.0 nobody-raffle.com
 0.0.0.0 nobodynft.trading
 0.0.0.0 node-connect-fix.vercel.app
 0.0.0.0 node-miner-collector.pages.dev
@@ -4176,7 +4126,6 @@
 0.0.0.0 pancakeswapp.web.app
 0.0.0.0 pancakeswappro.com
 0.0.0.0 pancakeswapreward.finance
-0.0.0.0 pancakeswaps-finnance.com
 0.0.0.0 pancakeswapsclaim02.vercel.app
 0.0.0.0 pancakeswapsfinance.pages.dev
 0.0.0.0 pancakeswapunlock.com
@@ -4195,7 +4144,6 @@
 0.0.0.0 pancaksewaq-finance.com
 0.0.0.0 pancakswap.fi
 0.0.0.0 pancakswapv3.com
-0.0.0.0 pancaqeswap-earn.com
 0.0.0.0 panceksawap.finance
 0.0.0.0 panckaeswap.xyz
 0.0.0.0 panckedrops48.vercel.app
@@ -4244,9 +4192,7 @@
 0.0.0.0 parriss2024.org
 0.0.0.0 partenariat-bouygues-telecom-entreprises.fr
 0.0.0.0 partners-ait.tech
-0.0.0.0 partners-zerolend.com
 0.0.0.0 partnership-ait.com
-0.0.0.0 partnershlp-satoshivm.com
 0.0.0.0 partnerwithequinor.com
 0.0.0.0 parurhealth.com
 0.0.0.0 pass-vulcan.xyz
@@ -4312,7 +4258,6 @@
 0.0.0.0 paylccity.com
 0.0.0.0 paylink.fun.augusttarget.online
 0.0.0.0 paylocily.com
-0.0.0.0 paylocity-login.com
 0.0.0.0 paylocity-sso.com
 0.0.0.0 paylooity.com
 0.0.0.0 payment-etr407.com
@@ -4324,7 +4269,6 @@
 0.0.0.0 pcasiapool.com
 0.0.0.0 pceme.cc
 0.0.0.0 pckweb3-platform.com
-0.0.0.0 pcpgxr.top
 0.0.0.0 pcs-cakexdefi.com
 0.0.0.0 pcs-defistakeexc-v3.com
 0.0.0.0 pcs-defistakeexcv3.com
@@ -4466,12 +4410,10 @@
 0.0.0.0 polyhedrazk.foundation
 0.0.0.0 pond0x.trading
 0.0.0.0 pond0xtreasury.com
-0.0.0.0 ponke-claim.netlify.app
 0.0.0.0 pool-liquidfarm.com
 0.0.0.0 pool-nftbox.web.app
 0.0.0.0 poolstarter.net
 0.0.0.0 porkcoin-airdrop.com
-0.0.0.0 porkcoin.wtf
 0.0.0.0 porlfoliomelamack.com
 0.0.0.0 porpport.ink
 0.0.0.0 porshe-taycan.nfts2.me
@@ -4742,7 +4684,6 @@
 0.0.0.0 reviews-airhopper.com
 0.0.0.0 revok.online
 0.0.0.0 revok.site
-0.0.0.0 revokcashue.com
 0.0.0.0 revoke--cash.pages.dev
 0.0.0.0 revoke-approvals.xyz
 0.0.0.0 revoke-approvals.xyz.polarmates.top
@@ -4758,7 +4699,6 @@
 0.0.0.0 revoke-wallet.com
 0.0.0.0 revoke-wallet.net
 0.0.0.0 revoke.host
-0.0.0.0 revoke.ink
 0.0.0.0 revoke.plus
 0.0.0.0 revokeca.com
 0.0.0.0 revokeca.xyz
@@ -4783,7 +4723,6 @@
 0.0.0.0 reward-layerzero.net
 0.0.0.0 reward-paalai.finance
 0.0.0.0 reward-strk.network
-0.0.0.0 reward.netvr.app
 0.0.0.0 rewardbase.click
 0.0.0.0 rewarding-strk.network
 0.0.0.0 rewarding-zks.pics
@@ -4806,7 +4745,6 @@
 0.0.0.0 rhhrpka.pro
 0.0.0.0 rhinodao.app
 0.0.0.0 rhodium.live
-0.0.0.0 riboutlaw.top
 0.0.0.0 ripplelimited-ceo.com
 0.0.0.0 ripplelimited-event.info
 0.0.0.0 ritual-registers-livebetaopens.vercel.app
@@ -4823,14 +4761,12 @@
 0.0.0.0 ronin-app.com
 0.0.0.0 ronin-chain.app
 0.0.0.0 ronin-wallets.godaddysites.com
-0.0.0.0 roninchain.app
 0.0.0.0 roninchain.cc
 0.0.0.0 roninchain.cloud
 0.0.0.0 roninchain.shop
 0.0.0.0 roninchain.wtf
 0.0.0.0 roninchaon.com
 0.0.0.0 roninnchain.com
-0.0.0.0 roninwallet-login4.godaddysites.com
 0.0.0.0 ronkeeper.com
 0.0.0.0 ronlnchaiin.top
 0.0.0.0 ronninwallet.godaddysites.com
@@ -4838,7 +4774,6 @@
 0.0.0.0 roost-distributions.net
 0.0.0.0 round1-uniswap.org
 0.0.0.0 round2-wenwencoin.com
-0.0.0.0 route.claims
 0.0.0.0 router.gifts
 0.0.0.0 routerprotocol.finance
 0.0.0.0 routerprotocol.network
@@ -4863,7 +4798,6 @@
 0.0.0.0 rx-nt.duckdns.org
 0.0.0.0 rx0k8.getmobox.buzz
 0.0.0.0 rz7wjw.info
-0.0.0.0 s-app-reaktivieren.su
 0.0.0.0 s7w0ymu.top
 0.0.0.0 saaksoff5th.com
 0.0.0.0 safe-nodebrigde.online
@@ -4914,7 +4848,6 @@
 0.0.0.0 salampopalam.com
 0.0.0.0 sale-webverse.com
 0.0.0.0 salepeaket.live
-0.0.0.0 sallybolderson.com
 0.0.0.0 sample.ecsa.com
 0.0.0.0 sampx8y.info
 0.0.0.0 samuraiaward.info
@@ -4939,7 +4872,6 @@
 0.0.0.0 sautikenya.com
 0.0.0.0 savm-app.net
 0.0.0.0 savmtoken.net
-0.0.0.0 sawox.com
 0.0.0.0 scallop-airdrop-claim.com
 0.0.0.0 scansairdrops.ca
 0.0.0.0 scapemania.live
@@ -5140,8 +5072,6 @@
 0.0.0.0 snexkr.com
 0.0.0.0 snexkr.plus
 0.0.0.0 sniperapp.cc
-0.0.0.0 snowsniper.com
-0.0.0.0 snug-zetachain.com
 0.0.0.0 soaiv2.com
 0.0.0.0 sol-drain.vercel.app
 0.0.0.0 sol-sola.web.app
@@ -5158,7 +5088,6 @@
 0.0.0.0 solanapad.in
 0.0.0.0 solaptops.vercel.app
 0.0.0.0 solarmy.eu
-0.0.0.0 solback.wefinex.org
 0.0.0.0 solcrabsmint2.vercel.app
 0.0.0.0 solfiare.net
 0.0.0.0 solgift6.com
@@ -5209,7 +5138,6 @@
 0.0.0.0 staffinghims.com
 0.0.0.0 stag.token.mlteam.net
 0.0.0.0 staikewise.net
-0.0.0.0 stake-ator.app
 0.0.0.0 stake-gtprotocol.com
 0.0.0.0 stake-injective.com
 0.0.0.0 stake-jup.com
@@ -5219,7 +5147,6 @@
 0.0.0.0 stake-tish.com
 0.0.0.0 stake-us.in.net.mammonmarketing.com
 0.0.0.0 stake.emeraldsco.org
-0.0.0.0 stake.nobodynfts.today
 0.0.0.0 stakeamnis.finance
 0.0.0.0 stakeiand.com
 0.0.0.0 stakepcss-v3.com
@@ -5636,7 +5563,6 @@
 0.0.0.0 trustpud.life
 0.0.0.0 trustvvallet-drawgift.com
 0.0.0.0 trustwallectconnect.vercel.app
-0.0.0.0 trustwallet-support.com
 0.0.0.0 trustwalletsupport.vercel.app
 0.0.0.0 tryingffixedd.pages.dev
 0.0.0.0 tryingfixedxl.pages.dev
@@ -5691,7 +5617,6 @@
 0.0.0.0 unapatches.com
 0.0.0.0 unblock.pancakeswaapfinance.net
 0.0.0.0 unclaimeddrops.link-claiming.xyz
-0.0.0.0 unfi-mall.vip
 0.0.0.0 uni-swap-v4.web.app
 0.0.0.0 uni.mrr7.za.com
 0.0.0.0 uni.pro-coins.top
@@ -5751,7 +5676,6 @@
 0.0.0.0 usdctip.net
 0.0.0.0 usdfi-git-kyberswap-widget-tbot.vercel.app
 0.0.0.0 usdonbsc.tech
-0.0.0.0 usdt-drop.top
 0.0.0.0 usdt.nz
 0.0.0.0 usdt.trarchst.com
 0.0.0.0 usdt.wine
@@ -6083,7 +6007,6 @@
 0.0.0.0 whitelist-joingrapes.com
 0.0.0.0 whitelist-parcl.com
 0.0.0.0 whitelist-personajourney.co
-0.0.0.0 whitelist-porkcoin.com
 0.0.0.0 whitelistedonly.pages.dev
 0.0.0.0 whitelisting-wormhole.com
 0.0.0.0 whitelistings-wormhole.com
@@ -6157,7 +6080,6 @@
 0.0.0.0 www.2--airtm.com
 0.0.0.0 www.247liveoptiontrades.com
 0.0.0.0 www.4pb-gala-games.com
-0.0.0.0 www.911usdt.com
 0.0.0.0 www.ab-earn.xyz
 0.0.0.0 www.account.verificationpaxful.info
 0.0.0.0 www.aflacalabamainsurance.online
@@ -6172,7 +6094,6 @@
 0.0.0.0 www.aionedrop.xyz
 0.0.0.0 www.air-altlayer.com
 0.0.0.0 www.airdrop-subquery.foundation
-0.0.0.0 www.airdropdymension.xyz
 0.0.0.0 www.airdropzeroland.xyz
 0.0.0.0 www.airlinesofficeguide.com
 0.0.0.0 www.airtm.services
@@ -6236,7 +6157,6 @@
 0.0.0.0 www.brothernz.com
 0.0.0.0 www.buhgeexhange.com
 0.0.0.0 www.burakglobalfirm.com
-0.0.0.0 www.butterfieldoffshore.com
 0.0.0.0 www.c592.top
 0.0.0.0 www.cake-reward.shop
 0.0.0.0 www.cakes-reward.xyz
@@ -6256,7 +6176,6 @@
 0.0.0.0 www.clients-407etr.com
 0.0.0.0 www.cloud-telephonie.net
 0.0.0.0 www.codefinity.de
-0.0.0.0 www.coinbase-fogexter.top
 0.0.0.0 www.colloky.online
 0.0.0.0 www.comethena.ethenaofficial.com
 0.0.0.0 www.creepz-rebirth.com
@@ -6417,10 +6336,8 @@
 0.0.0.0 www.openseaclaimdropbox.com
 0.0.0.0 www.optbtcv.com
 0.0.0.0 www.optenvos.com
-0.0.0.0 www.optgous.com
 0.0.0.0 www.optorgo.com
 0.0.0.0 www.optovdk.com
-0.0.0.0 www.optusdt.com
 0.0.0.0 www.ordibridge.xyz
 0.0.0.0 www.organiconetexas.com
 0.0.0.0 www.orivium.dev
@@ -6438,7 +6355,6 @@
 0.0.0.0 www.paxful.instenpay.com
 0.0.0.0 www.paxosweb.top
 0.0.0.0 www.penguinrandomshouse.com
-0.0.0.0 www.pepacoinairtoday.info
 0.0.0.0 www.pepechain.info
 0.0.0.0 www.pepeoncrack.fun
 0.0.0.0 www.per-empower.com.affiliateadvantageventures.com
@@ -6472,9 +6388,7 @@
 0.0.0.0 www.sabrinacarpentermerch.com
 0.0.0.0 www.sbtpgs.com
 0.0.0.0 www.sdxbtcc.com
-0.0.0.0 www.sdxgood.com
 0.0.0.0 www.sdxlimited.com
-0.0.0.0 www.sdxtld.com
 0.0.0.0 www.sdxtrc20.com
 0.0.0.0 www.sdxusdt.com
 0.0.0.0 www.seedifyfund.support
@@ -6651,7 +6565,6 @@
 0.0.0.0 zerionpro.com
 0.0.0.0 zerionu.com
 0.0.0.0 zerionweb3-noderewards.pages.dev
-0.0.0.0 zero-lend.app
 0.0.0.0 zerollend.one
 0.0.0.0 zerounibaseslp.pages.dev
 0.0.0.0 zetachain.cm
@@ -6669,7 +6582,6 @@
 0.0.0.0 zk-look.org
 0.0.0.0 zk-manta-airdrop.pages.dev
 0.0.0.0 zk-polyhedra.com
-0.0.0.0 zkfair.events
 0.0.0.0 zkfair.supply
 0.0.0.0 zklink.in
 0.0.0.0 zkmindversatile.pages.dev
