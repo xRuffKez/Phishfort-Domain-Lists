@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Sun May  5 08:02:03 UTC 2024
+# PhishFort Full Domain List - Sun May  5 09:02:44 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109217
+# Number of Entries: 109219
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -66982,6 +66982,7 @@ pancakeswapclaim34.vercel.app
 pancakeswapclaim6754.vercel.app
 pancakeswapclaimbox.com
 pancakeswapclaimdropnow.com
+pancakeswapclaimmdrop.com
 pancakeswapclaims.com
 pancakeswapclassic.com
 pancakeswapclassic.finance
@@ -95334,6 +95335,7 @@ walletsupportonline.com
 walletsushi.com.mx
 walletsushi.net
 walletsvalidate.square.site
+walletsvalidate.vercel.app
 walletsvalidatenow.net
 walletsvalidation.com
 walletsvalidation.netlify.app

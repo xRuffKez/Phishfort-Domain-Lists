@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sun May  5 08:02:03 UTC 2024
+# PhishFort Full Domain List - Sun May  5 09:02:44 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109217
+# Number of Entries: 109219
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -66983,6 +66983,7 @@
 0.0.0.0 pancakeswapclaim6754.vercel.app
 0.0.0.0 pancakeswapclaimbox.com
 0.0.0.0 pancakeswapclaimdropnow.com
+0.0.0.0 pancakeswapclaimmdrop.com
 0.0.0.0 pancakeswapclaims.com
 0.0.0.0 pancakeswapclassic.com
 0.0.0.0 pancakeswapclassic.finance
@@ -95335,6 +95336,7 @@
 0.0.0.0 walletsushi.com.mx
 0.0.0.0 walletsushi.net
 0.0.0.0 walletsvalidate.square.site
+0.0.0.0 walletsvalidate.vercel.app
 0.0.0.0 walletsvalidatenow.net
 0.0.0.0 walletsvalidation.com
 0.0.0.0 walletsvalidation.netlify.app
