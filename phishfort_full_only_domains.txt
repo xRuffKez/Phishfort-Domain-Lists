@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Sun May  5 03:02:01 UTC 2024
+# PhishFort Full Domain List - Sun May  5 04:02:00 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109209
+# Number of Entries: 109211
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3178,7 +3178,6 @@ agodainquiry.com
 agodajob.com
 agodajp.vip
 agodajpvip.cc
-agodajpvip.com
 agodalogical.com
 agodalucky.com
 agodamall-hk.com
@@ -41745,7 +41744,10 @@ jp-metamask.org
 jp-pancakeswap.net
 jp.ib-fx7.com
 jpagod.com
+jpagoda.icu
+jpagoda.top
 jpagods.com
+jpagods.top
 jpagods.vip
 jpancakesewap.me
 jpancke-swap.net

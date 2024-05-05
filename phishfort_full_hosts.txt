@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sun May  5 03:02:01 UTC 2024
+# PhishFort Full Domain List - Sun May  5 04:02:00 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109209
+# Number of Entries: 109211
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3179,7 +3179,6 @@
 0.0.0.0 agodajob.com
 0.0.0.0 agodajp.vip
 0.0.0.0 agodajpvip.cc
-0.0.0.0 agodajpvip.com
 0.0.0.0 agodalogical.com
 0.0.0.0 agodalucky.com
 0.0.0.0 agodamall-hk.com
@@ -41746,7 +41745,10 @@
 0.0.0.0 jp-pancakeswap.net
 0.0.0.0 jp.ib-fx7.com
 0.0.0.0 jpagod.com
+0.0.0.0 jpagoda.icu
+0.0.0.0 jpagoda.top
 0.0.0.0 jpagods.com
+0.0.0.0 jpagods.top
 0.0.0.0 jpagods.vip
 0.0.0.0 jpancakesewap.me
 0.0.0.0 jpancke-swap.net
