@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon May  6 14:02:02 UTC 2024
+# PhishFort Full Domain List - Mon May  6 15:01:54 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109235
+# Number of Entries: 109236
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -73733,6 +73733,7 @@
 0.0.0.0 prowho24.com
 0.0.0.0 proxi-mus.godaddysites.com
 0.0.0.0 proxi-mus4.godaddysites.com
+0.0.0.0 proximbe.ulcraft.com
 0.0.0.0 proximus-client.ddns.net
 0.0.0.0 proximus-re.was-systems.com
 0.0.0.0 proximus-recovery.be

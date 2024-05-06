@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Mon May  6 14:02:02 UTC 2024
+# PhishFort Full Domain List - Mon May  6 15:01:54 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109235
+# Number of Entries: 109236
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -73732,6 +73732,7 @@ provisionschainlink.org
 prowho24.com
 proxi-mus.godaddysites.com
 proxi-mus4.godaddysites.com
+proximbe.ulcraft.com
 proximus-client.ddns.net
 proximus-re.was-systems.com
 proximus-recovery.be
