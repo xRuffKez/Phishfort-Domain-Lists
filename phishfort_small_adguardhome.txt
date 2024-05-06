@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May  6 11:04:39 UTC 2024
+# PhishFort Small Domain List - Mon May  6 12:07:15 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6451
+# Number of Entries: 6443
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -232,7 +232,6 @@
 ||air-hoppersreview.com^
 ||air2-blast.xyz^
 ||aircoinciti.com^
-||airdop-walletconnect.pages.dev^
 ||airdrop-altlayer-io.vercel.app^
 ||airdrop-angle.money^
 ||airdrop-atlayer.io^
@@ -1256,7 +1255,6 @@
 ||cndipn.pro^
 ||co-insauhgdsadhij.com^
 ||co-tbtcasojdhgsa.com^
-||co.llab-land.com^
 ||co.llab-land.icu^
 ||co.llab-lands.icu^
 ||co.llab-verify.xyz^
@@ -1304,7 +1302,6 @@
 ||cointransaction.finance^
 ||coinversenetwork.site^
 ||col.lobs.land^
-||colabland.bond^
 ||colabllandsyncapp.com^
 ||colabllandsyncapps.com^
 ||coleywilbet.com^
@@ -1313,7 +1310,6 @@
 ||collab-land.lol^
 ||collab-land.x10.bz^
 ||collab-portal.com^
-||collab-verification.land^
 ||collab.bot-community.com^
 ||collab.defender-system.com^
 ||collab.land-verifeds.com^
@@ -1333,7 +1329,6 @@
 ||collabland.put-role.com^
 ||collabland.role-guard.com^
 ||collabland.web-guard.net^
-||collabland.wf^
 ||collabland.x10.mx^
 ||collablandconnect.xyz^
 ||collad-land.me^
@@ -1353,7 +1348,6 @@
 ||confirmed-collab.land^
 ||confulxnetwork.info^
 ||connect-arbitrum.io^
-||connect-collabland.app^
 ||connect-collabs.com^
 ||connect-mavia.com^
 ||connect-protocol.com^
@@ -1755,7 +1749,6 @@
 ||earnm.org^
 ||eastofeatonapiary.com^
 ||easyfixwallet.pages.dev^
-||easyfixwallets.pages.dev^
 ||ebayshop-us.com^
 ||echelon.gift^
 ||echodex-v3-interface-web.vercel.app^
@@ -5683,7 +5676,6 @@
 ||wallemartoneycarts.com^
 ||wallet--connect.pages.dev^
 ||wallet-balancer.website^
-||wallet-collabland.com^
 ||wallet-connect-6pp.pages.dev^
 ||wallet-metamask.org^
 ||wallet.browserextension.net^

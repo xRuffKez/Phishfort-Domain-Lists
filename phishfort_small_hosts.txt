@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May  6 11:04:39 UTC 2024
+# PhishFort Small Domain List - Mon May  6 12:07:15 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6451
+# Number of Entries: 6443
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -232,7 +232,6 @@
 0.0.0.0 air-hoppersreview.com
 0.0.0.0 air2-blast.xyz
 0.0.0.0 aircoinciti.com
-0.0.0.0 airdop-walletconnect.pages.dev
 0.0.0.0 airdrop-altlayer-io.vercel.app
 0.0.0.0 airdrop-angle.money
 0.0.0.0 airdrop-atlayer.io
@@ -1256,7 +1255,6 @@
 0.0.0.0 cndipn.pro
 0.0.0.0 co-insauhgdsadhij.com
 0.0.0.0 co-tbtcasojdhgsa.com
-0.0.0.0 co.llab-land.com
 0.0.0.0 co.llab-land.icu
 0.0.0.0 co.llab-lands.icu
 0.0.0.0 co.llab-verify.xyz
@@ -1304,7 +1302,6 @@
 0.0.0.0 cointransaction.finance
 0.0.0.0 coinversenetwork.site
 0.0.0.0 col.lobs.land
-0.0.0.0 colabland.bond
 0.0.0.0 colabllandsyncapp.com
 0.0.0.0 colabllandsyncapps.com
 0.0.0.0 coleywilbet.com
@@ -1313,7 +1310,6 @@
 0.0.0.0 collab-land.lol
 0.0.0.0 collab-land.x10.bz
 0.0.0.0 collab-portal.com
-0.0.0.0 collab-verification.land
 0.0.0.0 collab.bot-community.com
 0.0.0.0 collab.defender-system.com
 0.0.0.0 collab.land-verifeds.com
@@ -1333,7 +1329,6 @@
 0.0.0.0 collabland.put-role.com
 0.0.0.0 collabland.role-guard.com
 0.0.0.0 collabland.web-guard.net
-0.0.0.0 collabland.wf
 0.0.0.0 collabland.x10.mx
 0.0.0.0 collablandconnect.xyz
 0.0.0.0 collad-land.me
@@ -1353,7 +1348,6 @@
 0.0.0.0 confirmed-collab.land
 0.0.0.0 confulxnetwork.info
 0.0.0.0 connect-arbitrum.io
-0.0.0.0 connect-collabland.app
 0.0.0.0 connect-collabs.com
 0.0.0.0 connect-mavia.com
 0.0.0.0 connect-protocol.com
@@ -1755,7 +1749,6 @@
 0.0.0.0 earnm.org
 0.0.0.0 eastofeatonapiary.com
 0.0.0.0 easyfixwallet.pages.dev
-0.0.0.0 easyfixwallets.pages.dev
 0.0.0.0 ebayshop-us.com
 0.0.0.0 echelon.gift
 0.0.0.0 echodex-v3-interface-web.vercel.app
@@ -5683,7 +5676,6 @@
 0.0.0.0 wallemartoneycarts.com
 0.0.0.0 wallet--connect.pages.dev
 0.0.0.0 wallet-balancer.website
-0.0.0.0 wallet-collabland.com
 0.0.0.0 wallet-connect-6pp.pages.dev
 0.0.0.0 wallet-metamask.org
 0.0.0.0 wallet.browserextension.net
