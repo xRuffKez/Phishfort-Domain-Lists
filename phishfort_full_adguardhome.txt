@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon May  6 10:01:55 UTC 2024
+# PhishFort Full Domain List - Mon May  6 11:01:59 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109229
+# Number of Entries: 109232
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -18199,6 +18199,7 @@
 ||cloeisor.com^
 ||cloingecko.com^
 ||clone1714515846502.angel-cloner.com^
+||clone1714516377704.angel-cloner.com^
 ||clone1714516486291.angel-cloner.com^
 ||cloneforce.net^
 ||cloneforce.one^
@@ -60093,6 +60094,7 @@
 ||neojune.blogspot.com^
 ||neojunex2.blogspot.com^
 ||neokucoin.blogspot.com^
+||neom-management.com^
 ||neom-property.com^
 ||neom-registrations.com^
 ||neom-staging.klues.ai^
@@ -92140,6 +92142,7 @@
 ||viberate.bettermost.net^
 ||vibeth-vvip.com^
 ||vic1.info-equinor.com^
+||vic2.info-equinor.com^
 ||vicpromo.com^
 ||victorgarcia.blog^
 ||victoria-event.xyz^
