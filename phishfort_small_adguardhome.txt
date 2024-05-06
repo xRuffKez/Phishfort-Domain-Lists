@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May  6 08:06:18 UTC 2024
+# PhishFort Small Domain List - Mon May  6 09:05:17 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6475
+# Number of Entries: 6470
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2687,7 +2687,6 @@
 ||launches-pancake.com^
 ||launches-particle.network^
 ||launches-particle.trading^
-||launches-restakefinance.com^
 ||launches-roninchain.com^
 ||launches-sharpnel.com^
 ||launching-pixels.com^
@@ -2696,7 +2695,6 @@
 ||launchpad-dymension.com^
 ||launchpad-etherfi.com^
 ||launchpad-overlord.xyz^
-||launchpad-pancake.com^
 ||launchpad-qubic.com^
 ||launchpad-sharpnel.com^
 ||launchpad-starknet.top^
@@ -3558,6 +3556,7 @@
 ||near-lottery.org^
 ||nearraffle.com^
 ||neimanmarcus-last-call.shop^
+||neom-registrations.com^
 ||neomecolife.com^
 ||neomfuturehub.com^
 ||neomprojects-ksa.net^
@@ -3674,7 +3673,6 @@
 ||ns1.bandwidthserver.com^
 ||nsds.cc^
 ||numboost.ru^
-||nusukroadshow.com^
 ||nvdacourse.com^
 ||nvenergy.customersupports.network^
 ||nvfmr.cc^
@@ -4025,7 +4023,6 @@
 ||pancakeswapv4.com^
 ||pancakeswop.pages.dev^
 ||pancakeswop.web.app^
-||pancakeswp.github.io^
 ||pancakeswpclaim55.vercel.app^
 ||pancakeswpclicks.vercel.app^
 ||pancakeswpdrop13.vercel.app^
@@ -4433,7 +4430,6 @@
 ||quests-sharpnel.com^
 ||quests-superverse.com^
 ||quests-treasure.trading^
-||quests-zora.trading^
 ||quickswap-io.events^
 ||quicksyncdapps.pages.dev^
 ||quicksystemicexplorer.co^
@@ -6355,7 +6351,6 @@
 ||xn--fxedflloat-xub.com^
 ||xn--fxedfloat-q5af.com^
 ||xn--fxedfloat-vpbc.com^
-||xn--fxedfloat-vpbd.com^
 ||xn--fxedflooad-68a.com^
 ||xn--fxedflooat-68a.net^
 ||xn--fxedftloat-k8a.com^

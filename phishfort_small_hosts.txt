@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May  6 08:06:18 UTC 2024
+# PhishFort Small Domain List - Mon May  6 09:05:17 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6475
+# Number of Entries: 6470
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2687,7 +2687,6 @@
 0.0.0.0 launches-pancake.com
 0.0.0.0 launches-particle.network
 0.0.0.0 launches-particle.trading
-0.0.0.0 launches-restakefinance.com
 0.0.0.0 launches-roninchain.com
 0.0.0.0 launches-sharpnel.com
 0.0.0.0 launching-pixels.com
@@ -2696,7 +2695,6 @@
 0.0.0.0 launchpad-dymension.com
 0.0.0.0 launchpad-etherfi.com
 0.0.0.0 launchpad-overlord.xyz
-0.0.0.0 launchpad-pancake.com
 0.0.0.0 launchpad-qubic.com
 0.0.0.0 launchpad-sharpnel.com
 0.0.0.0 launchpad-starknet.top
@@ -3558,6 +3556,7 @@
 0.0.0.0 near-lottery.org
 0.0.0.0 nearraffle.com
 0.0.0.0 neimanmarcus-last-call.shop
+0.0.0.0 neom-registrations.com
 0.0.0.0 neomecolife.com
 0.0.0.0 neomfuturehub.com
 0.0.0.0 neomprojects-ksa.net
@@ -3674,7 +3673,6 @@
 0.0.0.0 ns1.bandwidthserver.com
 0.0.0.0 nsds.cc
 0.0.0.0 numboost.ru
-0.0.0.0 nusukroadshow.com
 0.0.0.0 nvdacourse.com
 0.0.0.0 nvenergy.customersupports.network
 0.0.0.0 nvfmr.cc
@@ -4025,7 +4023,6 @@
 0.0.0.0 pancakeswapv4.com
 0.0.0.0 pancakeswop.pages.dev
 0.0.0.0 pancakeswop.web.app
-0.0.0.0 pancakeswp.github.io
 0.0.0.0 pancakeswpclaim55.vercel.app
 0.0.0.0 pancakeswpclicks.vercel.app
 0.0.0.0 pancakeswpdrop13.vercel.app
@@ -4433,7 +4430,6 @@
 0.0.0.0 quests-sharpnel.com
 0.0.0.0 quests-superverse.com
 0.0.0.0 quests-treasure.trading
-0.0.0.0 quests-zora.trading
 0.0.0.0 quickswap-io.events
 0.0.0.0 quicksyncdapps.pages.dev
 0.0.0.0 quicksystemicexplorer.co
@@ -6355,7 +6351,6 @@
 0.0.0.0 xn--fxedflloat-xub.com
 0.0.0.0 xn--fxedfloat-q5af.com
 0.0.0.0 xn--fxedfloat-vpbc.com
-0.0.0.0 xn--fxedfloat-vpbd.com
 0.0.0.0 xn--fxedflooad-68a.com
 0.0.0.0 xn--fxedflooat-68a.net
 0.0.0.0 xn--fxedftloat-k8a.com
