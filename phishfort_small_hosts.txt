@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May  6 19:04:56 UTC 2024
+# PhishFort Small Domain List - Mon May  6 20:05:17 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6417
+# Number of Entries: 6420
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1833,6 +1833,7 @@
 0.0.0.0 errorsync.pages.dev
 0.0.0.0 erythkor.buzz
 0.0.0.0 esbl.cybertrons.io
+0.0.0.0 espace-skynet012.hubside.fr
 0.0.0.0 esprit-colombia.com.co
 0.0.0.0 etena.xyz
 0.0.0.0 eter.fi
@@ -2070,6 +2071,7 @@
 0.0.0.0 from-agoda.site.pro
 0.0.0.0 frontend2.vercel.app
 0.0.0.0 frp.bio
+0.0.0.0 fsafeds.combid.sa.com
 0.0.0.0 fsafeds.comet.sa.com
 0.0.0.0 fsafeds.comt.sa.com
 0.0.0.0 fsafeds.sa.com
@@ -6157,6 +6159,7 @@
 0.0.0.0 www.paidnetworkstaking.com
 0.0.0.0 www.pancakes.rectifysync.xyz
 0.0.0.0 www.pancakeswap-v3.com
+0.0.0.0 www.pancakeswap.today
 0.0.0.0 www.pancakeswapairdrop.com
 0.0.0.0 www.pancakeswapreward.finance
 0.0.0.0 www.pancakeswapv3.xyz

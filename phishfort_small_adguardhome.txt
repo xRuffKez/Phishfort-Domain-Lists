@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May  6 19:04:56 UTC 2024
+# PhishFort Small Domain List - Mon May  6 20:05:17 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6417
+# Number of Entries: 6420
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1833,6 +1833,7 @@
 ||errorsync.pages.dev^
 ||erythkor.buzz^
 ||esbl.cybertrons.io^
+||espace-skynet012.hubside.fr^
 ||esprit-colombia.com.co^
 ||etena.xyz^
 ||eter.fi^
@@ -2070,6 +2071,7 @@
 ||from-agoda.site.pro^
 ||frontend2.vercel.app^
 ||frp.bio^
+||fsafeds.combid.sa.com^
 ||fsafeds.comet.sa.com^
 ||fsafeds.comt.sa.com^
 ||fsafeds.sa.com^
@@ -6157,6 +6159,7 @@
 ||www.paidnetworkstaking.com^
 ||www.pancakes.rectifysync.xyz^
 ||www.pancakeswap-v3.com^
+||www.pancakeswap.today^
 ||www.pancakeswapairdrop.com^
 ||www.pancakeswapreward.finance^
 ||www.pancakeswapv3.xyz^
