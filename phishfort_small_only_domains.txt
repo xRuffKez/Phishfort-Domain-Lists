@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Mon May  6 03:05:11 UTC 2024
+# PhishFort Small Domain List - Mon May  6 04:05:51 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 6498
 # Project: PhishFort (https://phishfort.com/)
@@ -1451,7 +1451,6 @@ d.moodyimkq.top
 d.moodyseokd.top
 d.moodysmfof.top
 d0cusiqn.hottern.click
-d7bjeie8jevolt5j.pdqptpohlhxle6.ru
 d858069ef3b9e6df858069ef3b9e.pages.dev
 dac2yur.cc
 dadawgs.tech
@@ -2555,6 +2554,7 @@ jpagoda.top
 jpagods.com
 jpagods.top
 jpagods.vip
+jpool.me
 jrt8fm.pro
 jsebastiao.com
 jsjtgroup.cn
@@ -4050,6 +4050,7 @@ pancaks.com
 pancaksewaq-finance.com
 pancakswap.fi
 pancakswapv3.com
+pancekaswap.com
 panckaeswap.xyz
 panckedrops48.vercel.app
 panckswap.com
@@ -5024,7 +5025,6 @@ sponge-claim.online
 spongeev2.online
 spongtoken.live
 spornft.space
-sprak.fi
 springbokinfo.co.za
 sprooker.codefishstudio.com
 square-dream-wailing.on-fleek.app
@@ -5378,6 +5378,7 @@ tonkeepeer.com
 tonkeeper-web.pages.dev
 tonkeeper.cc
 tonkeeper.digital
+tonkeeper.domains
 tonkeeper.help
 tonkeeper.io
 tonkeeper.page
@@ -6183,7 +6184,6 @@ www.metamasks.info
 www.metamcvk.com
 www.metemnsk.io
 www.methmantle.xyz
-www.moacverse.xyz
 www.mode.networkapp.hu54.com
 www.moneypak.store
 www.multichain-web.de
@@ -6266,7 +6266,6 @@ www.rmkrbridge.app
 www.royalsecrets.com.ua
 www.rpcresolve.com
 www.rtspos.net
-www.rubyprotocol.pro
 www.sa.detworth.online
 www.sabrinacarpentermerch.com
 www.sbtpgs.com
@@ -6302,6 +6301,7 @@ www.taylormerch.com
 www.taylorswiftsmerch.com
 www.theplaybooksol.xyz
 www.ton.org-networks.top
+www.tonkeeper.domains
 www.toshithecat.org
 www.triplewealthbuilders.com
 www.troyswop.org

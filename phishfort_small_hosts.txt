@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Mon May  6 03:05:11 UTC 2024
+# PhishFort Small Domain List - Mon May  6 04:05:51 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 6498
@@ -1452,7 +1452,6 @@
 0.0.0.0 d.moodyseokd.top
 0.0.0.0 d.moodysmfof.top
 0.0.0.0 d0cusiqn.hottern.click
-0.0.0.0 d7bjeie8jevolt5j.pdqptpohlhxle6.ru
 0.0.0.0 d858069ef3b9e6df858069ef3b9e.pages.dev
 0.0.0.0 dac2yur.cc
 0.0.0.0 dadawgs.tech
@@ -2556,6 +2555,7 @@
 0.0.0.0 jpagods.com
 0.0.0.0 jpagods.top
 0.0.0.0 jpagods.vip
+0.0.0.0 jpool.me
 0.0.0.0 jrt8fm.pro
 0.0.0.0 jsebastiao.com
 0.0.0.0 jsjtgroup.cn
@@ -4051,6 +4051,7 @@
 0.0.0.0 pancaksewaq-finance.com
 0.0.0.0 pancakswap.fi
 0.0.0.0 pancakswapv3.com
+0.0.0.0 pancekaswap.com
 0.0.0.0 panckaeswap.xyz
 0.0.0.0 panckedrops48.vercel.app
 0.0.0.0 panckswap.com
@@ -5025,7 +5026,6 @@
 0.0.0.0 spongeev2.online
 0.0.0.0 spongtoken.live
 0.0.0.0 spornft.space
-0.0.0.0 sprak.fi
 0.0.0.0 springbokinfo.co.za
 0.0.0.0 sprooker.codefishstudio.com
 0.0.0.0 square-dream-wailing.on-fleek.app
@@ -5379,6 +5379,7 @@
 0.0.0.0 tonkeeper-web.pages.dev
 0.0.0.0 tonkeeper.cc
 0.0.0.0 tonkeeper.digital
+0.0.0.0 tonkeeper.domains
 0.0.0.0 tonkeeper.help
 0.0.0.0 tonkeeper.io
 0.0.0.0 tonkeeper.page
@@ -6184,7 +6185,6 @@
 0.0.0.0 www.metamcvk.com
 0.0.0.0 www.metemnsk.io
 0.0.0.0 www.methmantle.xyz
-0.0.0.0 www.moacverse.xyz
 0.0.0.0 www.mode.networkapp.hu54.com
 0.0.0.0 www.moneypak.store
 0.0.0.0 www.multichain-web.de
@@ -6267,7 +6267,6 @@
 0.0.0.0 www.royalsecrets.com.ua
 0.0.0.0 www.rpcresolve.com
 0.0.0.0 www.rtspos.net
-0.0.0.0 www.rubyprotocol.pro
 0.0.0.0 www.sa.detworth.online
 0.0.0.0 www.sabrinacarpentermerch.com
 0.0.0.0 www.sbtpgs.com
@@ -6303,6 +6302,7 @@
 0.0.0.0 www.taylorswiftsmerch.com
 0.0.0.0 www.theplaybooksol.xyz
 0.0.0.0 www.ton.org-networks.top
+0.0.0.0 www.tonkeeper.domains
 0.0.0.0 www.toshithecat.org
 0.0.0.0 www.triplewealthbuilders.com
 0.0.0.0 www.troyswop.org
