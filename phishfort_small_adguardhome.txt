@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May  6 12:07:15 UTC 2024
+# PhishFort Small Domain List - Mon May  6 13:05:16 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6443
+# Number of Entries: 6442
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -695,6 +695,7 @@
 ||bafybeiar2pi2heiwfhdlbrulhqyy5oen5k2xx767xss7d5slu5rt3tdpia.ipfs.dweb.link^
 ||bafybeic6j3arnlyilwq2grp6f4x25qzssdnluormxdmpzogfn2u7lytrxe.ipfs.dweb.link^
 ||bafybeicimhrsdhfoifre2dbtwbyjlvahvbuyi5mupckanasogxk64c6st4.ipfs.cf-ipfs.com^
+||bafybeigjxmg3ulqmytt642sjwzluuvy7s2m2z4xbd4pqokaid5z3upavoi.ipfs.cf-ipfs.com^
 ||bafybeih6f3cnq6rv7w3thp63266fwswwazpnihhzohixzbjw45i5xrxjaq.ipfs.dweb.link^
 ||bafybeihbzllhmou7v2n5voxg3ldvflwmzzqwnb4zc4kani4onqpdj2gb7m.ipfs.dweb.link^
 ||bafybeihdbtgftpyyfjjv6ajfrhorvdi2nmycvekox4fieipx6ofb5a7v7i.ipfs.dweb.link^
@@ -4401,13 +4402,11 @@
 ||quests-defi.trade^
 ||quests-dymension.network^
 ||quests-dymension.xyz^
-||quests-dymenslon.network^
 ||quests-injective.com^
 ||quests-multibits.com^
 ||quests-particle.network^
 ||quests-sharpnel.com^
 ||quests-superverse.com^
-||quests-treasure.trading^
 ||quickswap-io.events^
 ||quicksyncdapps.pages.dev^
 ||quicksystemicexplorer.co^

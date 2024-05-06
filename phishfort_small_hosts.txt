@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May  6 12:07:15 UTC 2024
+# PhishFort Small Domain List - Mon May  6 13:05:16 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6443
+# Number of Entries: 6442
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -695,6 +695,7 @@
 0.0.0.0 bafybeiar2pi2heiwfhdlbrulhqyy5oen5k2xx767xss7d5slu5rt3tdpia.ipfs.dweb.link
 0.0.0.0 bafybeic6j3arnlyilwq2grp6f4x25qzssdnluormxdmpzogfn2u7lytrxe.ipfs.dweb.link
 0.0.0.0 bafybeicimhrsdhfoifre2dbtwbyjlvahvbuyi5mupckanasogxk64c6st4.ipfs.cf-ipfs.com
+0.0.0.0 bafybeigjxmg3ulqmytt642sjwzluuvy7s2m2z4xbd4pqokaid5z3upavoi.ipfs.cf-ipfs.com
 0.0.0.0 bafybeih6f3cnq6rv7w3thp63266fwswwazpnihhzohixzbjw45i5xrxjaq.ipfs.dweb.link
 0.0.0.0 bafybeihbzllhmou7v2n5voxg3ldvflwmzzqwnb4zc4kani4onqpdj2gb7m.ipfs.dweb.link
 0.0.0.0 bafybeihdbtgftpyyfjjv6ajfrhorvdi2nmycvekox4fieipx6ofb5a7v7i.ipfs.dweb.link
@@ -4401,13 +4402,11 @@
 0.0.0.0 quests-defi.trade
 0.0.0.0 quests-dymension.network
 0.0.0.0 quests-dymension.xyz
-0.0.0.0 quests-dymenslon.network
 0.0.0.0 quests-injective.com
 0.0.0.0 quests-multibits.com
 0.0.0.0 quests-particle.network
 0.0.0.0 quests-sharpnel.com
 0.0.0.0 quests-superverse.com
-0.0.0.0 quests-treasure.trading
 0.0.0.0 quickswap-io.events
 0.0.0.0 quicksyncdapps.pages.dev
 0.0.0.0 quicksystemicexplorer.co
