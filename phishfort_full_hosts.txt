@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon May  6 17:02:55 UTC 2024
+# PhishFort Full Domain List - Mon May  6 18:03:00 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109228
+# Number of Entries: 109230
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2877,6 +2877,7 @@
 0.0.0.0 admin-protocol.com
 0.0.0.0 admin.addepar-crypto.com
 0.0.0.0 admin.booking-login.com
+0.0.0.0 admin.ebay9988.com
 0.0.0.0 admin.idex-ico.info
 0.0.0.0 admin.lcryptos.com
 0.0.0.0 admin.makerdao.top
@@ -21470,6 +21471,7 @@
 0.0.0.0 cors01.binanceview.com
 0.0.0.0 corscrypt.com
 0.0.0.0 corscryptexchange.com
+0.0.0.0 cortevainc.com
 0.0.0.0 cosamonstra.truly-minting.com
 0.0.0.0 cosamonstranft.live
 0.0.0.0 cosmiccats-free.xyz

@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon May  6 17:02:55 UTC 2024
+# PhishFort Full Domain List - Mon May  6 18:03:00 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109228
+# Number of Entries: 109230
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2877,6 +2877,7 @@
 ||admin-protocol.com^
 ||admin.addepar-crypto.com^
 ||admin.booking-login.com^
+||admin.ebay9988.com^
 ||admin.idex-ico.info^
 ||admin.lcryptos.com^
 ||admin.makerdao.top^
@@ -21470,6 +21471,7 @@
 ||cors01.binanceview.com^
 ||corscrypt.com^
 ||corscryptexchange.com^
+||cortevainc.com^
 ||cosamonstra.truly-minting.com^
 ||cosamonstranft.live^
 ||cosmiccats-free.xyz^
