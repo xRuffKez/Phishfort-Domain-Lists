@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon May  6 02:12:23 UTC 2024
+# PhishFort Full Domain List - Mon May  6 03:02:07 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109221
+# Number of Entries: 109224
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -182,6 +182,7 @@
 ||11tesorosibericos.com^
 ||1213161-ce67017.tw1.ru^
 ||121d132df123d.obs.ap-southeast-2.myhuaweicloud.com^
+||123-13p.pages.dev^
 ||123-bti.pages.dev^
 ||12345678987654321.link^
 ||12acdskjc8743.ru^
@@ -53690,6 +53691,7 @@
 ||mindblowon.top^
 ||mindstar-pancakeswap.vercel.app^
 ||mine-manta.network^
+||mine-mantanetwork.pages.dev^
 ||mine.prisoner.pics^
 ||minebitcoin.club^
 ||minebitcoin.online^
@@ -67064,6 +67066,7 @@
 ||pancakeswaperud.fun^
 ||pancakeswapes.com^
 ||pancakeswapes.company^
+||pancakeswapes.finance^
 ||pancakeswapes.finance-sw.com^
 ||pancakeswapes.financial^
 ||pancakeswapes.icu^

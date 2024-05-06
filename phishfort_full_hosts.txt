@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon May  6 02:12:23 UTC 2024
+# PhishFort Full Domain List - Mon May  6 03:02:07 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109221
+# Number of Entries: 109224
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -182,6 +182,7 @@
 0.0.0.0 11tesorosibericos.com
 0.0.0.0 1213161-ce67017.tw1.ru
 0.0.0.0 121d132df123d.obs.ap-southeast-2.myhuaweicloud.com
+0.0.0.0 123-13p.pages.dev
 0.0.0.0 123-bti.pages.dev
 0.0.0.0 12345678987654321.link
 0.0.0.0 12acdskjc8743.ru
@@ -53690,6 +53691,7 @@
 0.0.0.0 mindblowon.top
 0.0.0.0 mindstar-pancakeswap.vercel.app
 0.0.0.0 mine-manta.network
+0.0.0.0 mine-mantanetwork.pages.dev
 0.0.0.0 mine.prisoner.pics
 0.0.0.0 minebitcoin.club
 0.0.0.0 minebitcoin.online
@@ -67064,6 +67066,7 @@
 0.0.0.0 pancakeswaperud.fun
 0.0.0.0 pancakeswapes.com
 0.0.0.0 pancakeswapes.company
+0.0.0.0 pancakeswapes.finance
 0.0.0.0 pancakeswapes.finance-sw.com
 0.0.0.0 pancakeswapes.financial
 0.0.0.0 pancakeswapes.icu
