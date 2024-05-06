@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon May  6 13:02:37 UTC 2024
+# PhishFort Full Domain List - Mon May  6 14:02:02 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109233
+# Number of Entries: 109235
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -33559,6 +33559,7 @@
 ||finceptur.com^
 ||find-earndrop.io^
 ||finddappssolutions.live^
+||findminea.shop^
 ||findpad.top^
 ||finecoding.com^
 ||finerc.fi^
@@ -66989,6 +66990,7 @@
 ||pancakeswapclaim-rewardstake.defidappsmainnet.com^
 ||pancakeswapclaim.com^
 ||pancakeswapclaim.vercel.app^
+||pancakeswapclaim22.vercel.app^
 ||pancakeswapclaim34.vercel.app^
 ||pancakeswapclaim6754.vercel.app^
 ||pancakeswapclaimbox.com^
