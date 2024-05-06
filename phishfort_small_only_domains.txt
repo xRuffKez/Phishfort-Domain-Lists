@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Mon May  6 16:06:02 UTC 2024
+# PhishFort Small Domain List - Mon May  6 17:05:07 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 6425
 # Project: PhishFort (https://phishfort.com/)
