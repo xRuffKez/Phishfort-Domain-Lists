@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Mon May  6 18:03:00 UTC 2024
+# PhishFort Full Domain List - Mon May  6 19:02:17 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109230
+# Number of Entries: 109231
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -16718,6 +16718,7 @@ chevroletpromocao.com
 chevroletseminuevoslinares.com.mx
 chevroletshopdrive.ws
 chevropromoo.com
+chevroservice.syspartech.com
 chevy.ru
 chhatrapatitimes.com
 chhattisgarhnews18.com

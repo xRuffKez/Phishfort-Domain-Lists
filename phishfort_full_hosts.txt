@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon May  6 18:03:00 UTC 2024
+# PhishFort Full Domain List - Mon May  6 19:02:17 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109230
+# Number of Entries: 109231
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -16719,6 +16719,7 @@
 0.0.0.0 chevroletseminuevoslinares.com.mx
 0.0.0.0 chevroletshopdrive.ws
 0.0.0.0 chevropromoo.com
+0.0.0.0 chevroservice.syspartech.com
 0.0.0.0 chevy.ru
 0.0.0.0 chhatrapatitimes.com
 0.0.0.0 chhattisgarhnews18.com
