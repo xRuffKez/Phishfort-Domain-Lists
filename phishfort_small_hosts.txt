@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May  6 18:06:35 UTC 2024
+# PhishFort Small Domain List - Mon May  6 19:04:56 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6420
+# Number of Entries: 6417
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1078,6 +1078,7 @@
 0.0.0.0 chensymalst.com
 0.0.0.0 chevroletshopdrive.ws
 0.0.0.0 chevropromoo.com
+0.0.0.0 chevroservice.syspartech.com
 0.0.0.0 chhatrapatitimes.com
 0.0.0.0 childporn.umb.market
 0.0.0.0 chndemarloonst.com
@@ -2791,7 +2792,6 @@
 0.0.0.0 liquids-ethereum.com
 0.0.0.0 liquidsync.pages.dev
 0.0.0.0 liquity.gift
-0.0.0.0 listing-dymension.xyz
 0.0.0.0 live-algo.site
 0.0.0.0 liveblocksrectify.pages.dev
 0.0.0.0 livepersonatunitedairlin.amebaownd.com
@@ -6149,8 +6149,6 @@
 0.0.0.0 www.openlab.live
 0.0.0.0 www.openseaclaimdropbox.com
 0.0.0.0 www.optbtcv.com
-0.0.0.0 www.optenvos.com
-0.0.0.0 www.optorgo.com
 0.0.0.0 www.optovdk.com
 0.0.0.0 www.ordibridge.xyz
 0.0.0.0 www.organiconetexas.com
@@ -6200,7 +6198,6 @@
 0.0.0.0 www.sa.detworth.online
 0.0.0.0 www.sabrinacarpentermerch.com
 0.0.0.0 www.sbtpgs.com
-0.0.0.0 www.sdxbtcc.com
 0.0.0.0 www.seedifyfund.support
 0.0.0.0 www.seijpe.com
 0.0.0.0 www.shibus.site

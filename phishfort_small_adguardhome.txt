@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May  6 18:06:35 UTC 2024
+# PhishFort Small Domain List - Mon May  6 19:04:56 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6420
+# Number of Entries: 6417
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1078,6 +1078,7 @@
 ||chensymalst.com^
 ||chevroletshopdrive.ws^
 ||chevropromoo.com^
+||chevroservice.syspartech.com^
 ||chhatrapatitimes.com^
 ||childporn.umb.market^
 ||chndemarloonst.com^
@@ -2791,7 +2792,6 @@
 ||liquids-ethereum.com^
 ||liquidsync.pages.dev^
 ||liquity.gift^
-||listing-dymension.xyz^
 ||live-algo.site^
 ||liveblocksrectify.pages.dev^
 ||livepersonatunitedairlin.amebaownd.com^
@@ -6149,8 +6149,6 @@
 ||www.openlab.live^
 ||www.openseaclaimdropbox.com^
 ||www.optbtcv.com^
-||www.optenvos.com^
-||www.optorgo.com^
 ||www.optovdk.com^
 ||www.ordibridge.xyz^
 ||www.organiconetexas.com^
@@ -6200,7 +6198,6 @@
 ||www.sa.detworth.online^
 ||www.sabrinacarpentermerch.com^
 ||www.sbtpgs.com^
-||www.sdxbtcc.com^
 ||www.seedifyfund.support^
 ||www.seijpe.com^
 ||www.shibus.site^
