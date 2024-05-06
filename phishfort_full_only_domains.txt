@@ -1,4 +1,4 @@
-# PhishFort Full Domain List - Mon May  6 20:02:04 UTC 2024
+# PhishFort Full Domain List - Mon May  6 21:02:47 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 109234
 # Project: PhishFort (https://phishfort.com/)
@@ -6865,7 +6865,6 @@ applinch.network
 applindex.online
 applive-polkadot.tech
 applock.top
-applovin-jb.cc
 applovin-jbs.com
 applovin.admin608297838.com
 applovin.in
@@ -104297,6 +104296,7 @@ www.sseedify.com
 www.sseetgykxpnwiwr.com
 www.ssh.imap.api.mail.pancakeswaps.org
 www.ssuii-home.com
+www.st.blancui.online
 www.st.uiworth.online
 www.stable-venusprotocol.com
 www.stablestakedao.com

@@ -1,4 +1,4 @@
-# PhishFort Full Domain List - Mon May  6 20:02:04 UTC 2024
+# PhishFort Full Domain List - Mon May  6 21:02:47 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 109234
@@ -6866,7 +6866,6 @@
 0.0.0.0 applindex.online
 0.0.0.0 applive-polkadot.tech
 0.0.0.0 applock.top
-0.0.0.0 applovin-jb.cc
 0.0.0.0 applovin-jbs.com
 0.0.0.0 applovin.admin608297838.com
 0.0.0.0 applovin.in
@@ -104298,6 +104297,7 @@
 0.0.0.0 www.sseetgykxpnwiwr.com
 0.0.0.0 www.ssh.imap.api.mail.pancakeswaps.org
 0.0.0.0 www.ssuii-home.com
+0.0.0.0 www.st.blancui.online
 0.0.0.0 www.st.uiworth.online
 0.0.0.0 www.stable-venusprotocol.com
 0.0.0.0 www.stablestakedao.com
