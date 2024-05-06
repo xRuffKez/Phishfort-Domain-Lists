@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May  6 20:05:17 UTC 2024
+# PhishFort Small Domain List - Mon May  6 21:05:14 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6420
+# Number of Entries: 6417
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -27,7 +27,6 @@
 0.0.0.0 1inch-io.app
 0.0.0.0 1inch-io.xyz
 0.0.0.0 1inch-new-migration.com
-0.0.0.0 1inch.box
 0.0.0.0 1inch.fyi
 0.0.0.0 1inch.web3connect.mom
 0.0.0.0 1inchfinance.com
@@ -592,7 +591,6 @@
 0.0.0.0 artegiron.co
 0.0.0.0 artprocollect.pro
 0.0.0.0 asals.info
-0.0.0.0 aserolanarcissashop.com
 0.0.0.0 asolgift.com
 0.0.0.0 asset-collab.netlify.app
 0.0.0.0 asset-validation.info
@@ -2526,6 +2524,7 @@
 0.0.0.0 joltify-get.vercel.app
 0.0.0.0 joltify-scope.vercel.app
 0.0.0.0 joltify-testnet3.vercel.app
+0.0.0.0 joteervaastu.com
 0.0.0.0 joyouslinkew.world
 0.0.0.0 joyprimeshowworld.world
 0.0.0.0 jp.ib-fx7.com
@@ -2642,7 +2641,6 @@
 0.0.0.0 klarnashop.vip
 0.0.0.0 klkhg-11g.pages.dev
 0.0.0.0 kmaber.site
-0.0.0.0 kofdet.com
 0.0.0.0 kohafil.com
 0.0.0.0 kpnmg.net
 0.0.0.0 kraken-site-darknet1.com
@@ -2729,7 +2727,6 @@
 0.0.0.0 lendingtree1.mydurable.com
 0.0.0.0 lendingtreeincusa.com
 0.0.0.0 lendingtreellc.org
-0.0.0.0 lendingtreeusa.us
 0.0.0.0 lendingworld.online
 0.0.0.0 lengthepengkiller.xyz
 0.0.0.0 lfg-jup-claims.pages.dev
@@ -4472,7 +4469,6 @@
 0.0.0.0 register-dop.com
 0.0.0.0 register-lineabuild.com
 0.0.0.0 register-metis.io
-0.0.0.0 register-optimism.org
 0.0.0.0 register-pandora.app
 0.0.0.0 register-qubic.org
 0.0.0.0 register-smartlayer.network
@@ -4596,7 +4592,6 @@
 0.0.0.0 rhinodao.app
 0.0.0.0 rhodium.live
 0.0.0.0 ripplelimited-ceo.com
-0.0.0.0 ripplelimited-event.info
 0.0.0.0 ritual-registers-livebetaopens.vercel.app
 0.0.0.0 rnmnt.pages.dev
 0.0.0.0 roachcoin.in
@@ -4701,6 +4696,7 @@
 0.0.0.0 sampx8y.info
 0.0.0.0 samuraiaward.info
 0.0.0.0 san-swap.com
+0.0.0.0 san.blancui.online
 0.0.0.0 sandboxgame.pages.dev
 0.0.0.0 sanshumigration.web.app
 0.0.0.0 sanswap.com
@@ -6216,6 +6212,7 @@
 0.0.0.0 www.somethingbad.com
 0.0.0.0 www.spatco.shop
 0.0.0.0 www.sporemashrm.top
+0.0.0.0 www.st.blancui.online
 0.0.0.0 www.st.uiworth.online
 0.0.0.0 www.staging.chat.login.fixedfloat.pw
 0.0.0.0 www.stakeyearn.fi

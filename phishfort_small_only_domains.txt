@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Mon May  6 20:05:17 UTC 2024
+# PhishFort Small Domain List - Mon May  6 21:05:14 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6420
+# Number of Entries: 6417
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -26,7 +26,6 @@
 1inch-io.app
 1inch-io.xyz
 1inch-new-migration.com
-1inch.box
 1inch.fyi
 1inch.web3connect.mom
 1inchfinance.com
@@ -591,7 +590,6 @@ arraklls.flnance.web3-ap.cfd
 artegiron.co
 artprocollect.pro
 asals.info
-aserolanarcissashop.com
 asolgift.com
 asset-collab.netlify.app
 asset-validation.info
@@ -2525,6 +2523,7 @@ joingrapes.gift
 joltify-get.vercel.app
 joltify-scope.vercel.app
 joltify-testnet3.vercel.app
+joteervaastu.com
 joyouslinkew.world
 joyprimeshowworld.world
 jp.ib-fx7.com
@@ -2641,7 +2640,6 @@ klarnashop.cc
 klarnashop.vip
 klkhg-11g.pages.dev
 kmaber.site
-kofdet.com
 kohafil.com
 kpnmg.net
 kraken-site-darknet1.com
@@ -2728,7 +2726,6 @@ lendingtree.website
 lendingtree1.mydurable.com
 lendingtreeincusa.com
 lendingtreellc.org
-lendingtreeusa.us
 lendingworld.online
 lengthepengkiller.xyz
 lfg-jup-claims.pages.dev
@@ -4471,7 +4468,6 @@ registarzuki.com
 register-dop.com
 register-lineabuild.com
 register-metis.io
-register-optimism.org
 register-pandora.app
 register-qubic.org
 register-smartlayer.network
@@ -4595,7 +4591,6 @@ rhhrpka.pro
 rhinodao.app
 rhodium.live
 ripplelimited-ceo.com
-ripplelimited-event.info
 ritual-registers-livebetaopens.vercel.app
 rnmnt.pages.dev
 roachcoin.in
@@ -4700,6 +4695,7 @@ sample.ecsa.com
 sampx8y.info
 samuraiaward.info
 san-swap.com
+san.blancui.online
 sandboxgame.pages.dev
 sanshumigration.web.app
 sanswap.com
@@ -6215,6 +6211,7 @@ www.snapshot-multibit.com
 www.somethingbad.com
 www.spatco.shop
 www.sporemashrm.top
+www.st.blancui.online
 www.st.uiworth.online
 www.staging.chat.login.fixedfloat.pw
 www.stakeyearn.fi
