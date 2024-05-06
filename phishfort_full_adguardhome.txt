@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon May  6 21:02:47 UTC 2024
+# PhishFort Full Domain List - Mon May  6 22:02:02 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109234
+# Number of Entries: 109240
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -607,6 +607,7 @@
 ||1inch2023.com^
 ||1inch23.com^
 ||1inch23.net^
+||1incha.coinmarketcap-app.com^
 ||1incha.com^
 ||1incha.net^
 ||1incha.org^
@@ -6866,6 +6867,7 @@
 ||applindex.online^
 ||applive-polkadot.tech^
 ||applock.top^
+||applovin-jb.cc^
 ||applovin-jbs.com^
 ||applovin.admin608297838.com^
 ||applovin.in^
@@ -41746,6 +41748,7 @@
 ||jonestrading.org^
 ||jordancoin.online^
 ||josephbtc.com^
+||joteervaastu.com^
 ||jouer0.blogspot.com^
 ||journeyingthroughhope.com^
 ||journeymantle.one^
@@ -54455,6 +54458,7 @@
 ||mod.bc8kwz7u.com^
 ||modadasemana.fun^
 ||modafemininbr.com^
+||modaggm.com^
 ||modaxtei.com^
 ||modde.network^
 ||mode-network.org^
@@ -78025,6 +78029,7 @@
 ||saksfifthavenueusa.shop^
 ||saksfifthavenueysl.com^
 ||saksfifthavenuezone.com^
+||saksfifthpartner.com^
 ||saksof5th.club^
 ||saksoff-55th.com^
 ||saksoff.sakskoesad.com^
@@ -78153,6 +78158,7 @@
 ||san-official.xyz^
 ||san-swap.com^
 ||san.airdrops-mint.com^
+||san.blancui.online^
 ||san.giving-freemint.com^
 ||sanabilprint.com^
 ||sanbdox.tech^

@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon May  6 21:02:47 UTC 2024
+# PhishFort Full Domain List - Mon May  6 22:02:02 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109234
+# Number of Entries: 109240
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -607,6 +607,7 @@
 0.0.0.0 1inch2023.com
 0.0.0.0 1inch23.com
 0.0.0.0 1inch23.net
+0.0.0.0 1incha.coinmarketcap-app.com
 0.0.0.0 1incha.com
 0.0.0.0 1incha.net
 0.0.0.0 1incha.org
@@ -6866,6 +6867,7 @@
 0.0.0.0 applindex.online
 0.0.0.0 applive-polkadot.tech
 0.0.0.0 applock.top
+0.0.0.0 applovin-jb.cc
 0.0.0.0 applovin-jbs.com
 0.0.0.0 applovin.admin608297838.com
 0.0.0.0 applovin.in
@@ -41746,6 +41748,7 @@
 0.0.0.0 jonestrading.org
 0.0.0.0 jordancoin.online
 0.0.0.0 josephbtc.com
+0.0.0.0 joteervaastu.com
 0.0.0.0 jouer0.blogspot.com
 0.0.0.0 journeyingthroughhope.com
 0.0.0.0 journeymantle.one
@@ -54455,6 +54458,7 @@
 0.0.0.0 mod.bc8kwz7u.com
 0.0.0.0 modadasemana.fun
 0.0.0.0 modafemininbr.com
+0.0.0.0 modaggm.com
 0.0.0.0 modaxtei.com
 0.0.0.0 modde.network
 0.0.0.0 mode-network.org
@@ -78025,6 +78029,7 @@
 0.0.0.0 saksfifthavenueusa.shop
 0.0.0.0 saksfifthavenueysl.com
 0.0.0.0 saksfifthavenuezone.com
+0.0.0.0 saksfifthpartner.com
 0.0.0.0 saksof5th.club
 0.0.0.0 saksoff-55th.com
 0.0.0.0 saksoff.sakskoesad.com
@@ -78153,6 +78158,7 @@
 0.0.0.0 san-official.xyz
 0.0.0.0 san-swap.com
 0.0.0.0 san.airdrops-mint.com
+0.0.0.0 san.blancui.online
 0.0.0.0 san.giving-freemint.com
 0.0.0.0 sanabilprint.com
 0.0.0.0 sanbdox.tech
