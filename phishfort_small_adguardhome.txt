@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Mon May  6 00:18:58 UTC 2024
+# PhishFort Small Domain List - Mon May  6 01:28:55 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
 # Number of Entries: 6587
