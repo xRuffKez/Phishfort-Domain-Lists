@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon May  6 15:01:54 UTC 2024
+# PhishFort Full Domain List - Mon May  6 16:01:59 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109236
+# Number of Entries: 109228
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -6748,6 +6748,7 @@
 ||appaave.github.io^
 ||appaavecom.online^
 ||appadrenalinawebradio.i7nove.com.br^
+||appadvice.com^
 ||appair-hopper.com^
 ||appaloe.capital^
 ||appancakeswap.com^
@@ -13897,6 +13898,7 @@
 ||bncdgndkdfrjkxicebgmgjnguqfdgekftxkingptwqqeb.66ghz.com^
 ||bncoparticlar-apps.systeme.io^
 ||bndrop.org^
+||bnfran.lat^
 ||bni7j3.s3o98.com^
 ||bnk-claim.com^
 ||bnk-en.app-1ench.com^
@@ -28608,7 +28610,6 @@
 ||easrndrop.net^
 ||eassecon.com^
 ||eassytravels.com^
-||eastofeatonapiary.com^
 ||easy-connect.xyz^
 ||easy-ethers.com^
 ||easy-protocol.com^
@@ -42254,9 +42255,6 @@
 ||kebeb.site^
 ||kecamatan.xyz^
 ||keep-network.com^
-||keeper.claims^
-||keepertoken.org^
-||keepertoken.xyz^
 ||keepkey.app^
 ||keepstake.github.io^
 ||kefu.pancackswap.com^
@@ -87356,7 +87354,6 @@
 ||ton-gramico.com^
 ||ton-ico.com^
 ||ton-ico.ga^
-||ton-keeper.world^
 ||ton-reward.com^
 ||ton-sale.com^
 ||ton-stn-app.xyz^
@@ -87395,16 +87392,11 @@
 ||tonkeepee.com^
 ||tonkeepeer.com^
 ||tonkeeper-web.pages.dev^
-||tonkeeper.cc^
-||tonkeeper.digital^
 ||tonkeeper.domains^
 ||tonkeeper.help^
 ||tonkeeper.io^
-||tonkeeper.page^
 ||tonkeeper.pages.dev^
 ||tonkeeper.su^
-||tonkeeper.us^
-||tonkeeper.world^
 ||tonkeeperr.com^
 ||tonkeepet.com^
 ||tonkeepper.com^

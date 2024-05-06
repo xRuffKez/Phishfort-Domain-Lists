@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon May  6 15:01:54 UTC 2024
+# PhishFort Full Domain List - Mon May  6 16:01:59 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109236
+# Number of Entries: 109228
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -6748,6 +6748,7 @@
 0.0.0.0 appaave.github.io
 0.0.0.0 appaavecom.online
 0.0.0.0 appadrenalinawebradio.i7nove.com.br
+0.0.0.0 appadvice.com
 0.0.0.0 appair-hopper.com
 0.0.0.0 appaloe.capital
 0.0.0.0 appancakeswap.com
@@ -13897,6 +13898,7 @@
 0.0.0.0 bncdgndkdfrjkxicebgmgjnguqfdgekftxkingptwqqeb.66ghz.com
 0.0.0.0 bncoparticlar-apps.systeme.io
 0.0.0.0 bndrop.org
+0.0.0.0 bnfran.lat
 0.0.0.0 bni7j3.s3o98.com
 0.0.0.0 bnk-claim.com
 0.0.0.0 bnk-en.app-1ench.com
@@ -28608,7 +28610,6 @@
 0.0.0.0 easrndrop.net
 0.0.0.0 eassecon.com
 0.0.0.0 eassytravels.com
-0.0.0.0 eastofeatonapiary.com
 0.0.0.0 easy-connect.xyz
 0.0.0.0 easy-ethers.com
 0.0.0.0 easy-protocol.com
@@ -42254,9 +42255,6 @@
 0.0.0.0 kebeb.site
 0.0.0.0 kecamatan.xyz
 0.0.0.0 keep-network.com
-0.0.0.0 keeper.claims
-0.0.0.0 keepertoken.org
-0.0.0.0 keepertoken.xyz
 0.0.0.0 keepkey.app
 0.0.0.0 keepstake.github.io
 0.0.0.0 kefu.pancackswap.com
@@ -87356,7 +87354,6 @@
 0.0.0.0 ton-gramico.com
 0.0.0.0 ton-ico.com
 0.0.0.0 ton-ico.ga
-0.0.0.0 ton-keeper.world
 0.0.0.0 ton-reward.com
 0.0.0.0 ton-sale.com
 0.0.0.0 ton-stn-app.xyz
@@ -87395,16 +87392,11 @@
 0.0.0.0 tonkeepee.com
 0.0.0.0 tonkeepeer.com
 0.0.0.0 tonkeeper-web.pages.dev
-0.0.0.0 tonkeeper.cc
-0.0.0.0 tonkeeper.digital
 0.0.0.0 tonkeeper.domains
 0.0.0.0 tonkeeper.help
 0.0.0.0 tonkeeper.io
-0.0.0.0 tonkeeper.page
 0.0.0.0 tonkeeper.pages.dev
 0.0.0.0 tonkeeper.su
-0.0.0.0 tonkeeper.us
-0.0.0.0 tonkeeper.world
 0.0.0.0 tonkeeperr.com
 0.0.0.0 tonkeepet.com
 0.0.0.0 tonkeepper.com
