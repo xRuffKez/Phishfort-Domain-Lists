@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon May  6 03:02:07 UTC 2024
+# PhishFort Full Domain List - Mon May  6 04:02:04 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109224
+# Number of Entries: 109227
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -41762,6 +41762,7 @@
 0.0.0.0 jpg-store.pages.dev
 0.0.0.0 jpkxezchnmd5tdt.03-www.host25.pancakeswape.finance
 0.0.0.0 jpolkadot.js.org
+0.0.0.0 jpool.me
 0.0.0.0 jpsouls.xyz
 0.0.0.0 jpzhgw.sbs
 0.0.0.0 jqhzzmo.s3o98.com
@@ -87388,6 +87389,7 @@
 0.0.0.0 tonkeeper-web.pages.dev
 0.0.0.0 tonkeeper.cc
 0.0.0.0 tonkeeper.digital
+0.0.0.0 tonkeeper.domains
 0.0.0.0 tonkeeper.help
 0.0.0.0 tonkeeper.io
 0.0.0.0 tonkeeper.page
@@ -104650,6 +104652,7 @@
 0.0.0.0 www.tombfivance.xyz
 0.0.0.0 www.ton.org-networks.top
 0.0.0.0 www.tonb.finance
+0.0.0.0 www.tonkeeper.domains
 0.0.0.0 www.top-layer3.com
 0.0.0.0 www.topmainconnect.com
 0.0.0.0 www.topup-asset.live
