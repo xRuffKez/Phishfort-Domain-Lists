@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Mon May  6 10:05:10 UTC 2024
+# PhishFort Small Domain List - Mon May  6 11:04:39 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6469
+# Number of Entries: 6451
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1245,6 +1245,7 @@ cliffordchancelaw.net
 cliffordchanceuk.online
 clintexmigration.tech
 clone1714515846502.angel-cloner.com
+clone1714516377704.angel-cloner.com
 clone1714516486291.angel-cloner.com
 cloud-base-dapp.vercel.app
 cloudflare-colinbese-nft.com
@@ -1326,7 +1327,6 @@ collabland-verification.xyz
 collabland-walet.com
 collabland-wallets.com
 collabland.api-role.land
-collabland.boo
 collabland.interact-guard.com
 collabland.pm
 collabland.put-role.com
@@ -1363,7 +1363,6 @@ connect.collabland-web.com
 connect.collabverify.xyz
 connect.gala-games.org
 connect.gatekava.top
-connect.land.net.pl
 connect.web3authenticatehub.com
 connect1038.lol
 connectapeterminal.io
@@ -1419,7 +1418,6 @@ cryptovipweb30.com
 cryptovipweb30.top
 cryptovipweb30.vip
 cryptowrapped.cc
-cs2polygonx.top
 csagoda.co
 csagoda.my.id
 csagoda.store
@@ -2244,7 +2242,6 @@ gt-ai.org
 gt-ai.xyz
 gt-protocol.trading
 gtmmypayroll.com
-gtoswapportal.pages.dev
 guest-info9016.com
 gulbelt.top
 gunitswiftcommunityswap.com
@@ -2424,7 +2421,6 @@ imxcoin.eu
 inaallert.com
 incsribe.app
 infiniteworks.net
-ing-autorizza-cliente.it
 ing-bank.info
 ingb.online
 inggroupe1logen.blogspot.com
@@ -2684,7 +2680,6 @@ launch.apeterminal.cc
 launches-aofverse.com
 launches-injective.com
 launches-pancake.com
-launches-particle.network
 launches-particle.trading
 launches-roninchain.com
 launches-sharpnel.com
@@ -2701,7 +2696,6 @@ launchpad.register-trias.one
 launchpad.smartlayernetwork.app
 launchpad.solhero.org
 launchpadangle.net
-launchpaddapp.eu
 launchs-inscribe.com
 laurentian-verif.com
 layer-3.cyou
@@ -2726,7 +2720,6 @@ layrocvisions.com
 lbast.io
 lcfmusb.cc
 ldofi-promos.com
-leakhub.io
 learcorporativo.com
 learn-unibot.app
 ledger-wallet-ledger.biz
@@ -2892,9 +2885,6 @@ magpiexyz.in
 magpiiexyz.cyou
 magplexyz.site
 magppiexyz.com
-mahta-hetworks.com
-mahta-networks.com
-mahto-network.com
 mail-celsius.network
 mail.45-61-151-79.cprapid.com
 mail.csagoda.site
@@ -2953,11 +2943,9 @@ manta-aidrop.network
 manta-air.xyz
 manta-airdrop.7eel.com
 manta-eiu.pages.dev
-manta-evm.pages.dev
 manta-ndn.xyz
 manta-network-7ct.pages.dev
 manta-network.click
-manta-network.cloud
 manta-network.de
 manta-networks.mom
 manta-paciffic.online
@@ -2991,7 +2979,6 @@ mantledao.net
 mantletoday.xyz
 mantnetworks.com
 manto-hetwork.com
-manto-network.com
 mantrachains-io.pages.dev
 manttanetwork.com
 manual-metarestore.pages.dev
@@ -3554,6 +3541,7 @@ nd8.us
 near-lottery.org
 nearraffle.com
 neimanmarcus-last-call.shop
+neom-management.com
 neom-registrations.com
 neomecolife.com
 neomfuturehub.com
@@ -3647,7 +3635,6 @@ nnass-unempl.com
 nnetannask.io
 nobodynft.trading
 node-connect-fix.vercel.app
-node-miner-collector.pages.dev
 node3-zerionrewards.pages.dev
 nodebug.vercel.app
 nodemultichainprotcol.pages.dev
@@ -4351,7 +4338,6 @@ promoochevro.com
 promotg.fun
 promt-088x2.com
 pronkhub.ru
-prophetsbot.app
 protect-guide.com
 protocol-apex.com
 protocol-carv.nl
@@ -4515,7 +4501,6 @@ registrar-traderjoexyz.com
 registration-ator.com
 registration-ator.io
 registration-basedbrett.com
-registration-defi.com
 registration-defi.trade
 registration-fantasy.top
 registration-fantom.network
@@ -4814,7 +4799,6 @@ servernodechain.com
 serversvk.top
 service-connect-valide.nl
 servicecontrollnc.com
-servicepflege-kontoaktualisieren383266.codeanyapp.com
 serviciosbanconsorcio.com
 sewllnetwork.io
 sfccrcc.shop
@@ -5093,7 +5077,6 @@ stonfx.com
 strk-coin.xyz
 strkclaim.space
 strkclaims.com
-strklabsfnd.net
 strknet.com
 strknet.network
 strkprimary.pics
@@ -5164,7 +5147,6 @@ sweatsync.pages.dev
 sweetwater.fun
 swellnetwork.exchange
 swfitblocksresolve.pages.dev
-swift-wallet.pages.dev
 swiftappsauth.pages.dev
 swiftdapppad.pages.dev
 swiftdapprotocol.pages.dev
@@ -5616,6 +5598,7 @@ vfipaxos.org
 vhvhgv.pages.dev
 viacripto.com
 vic1.info-equinor.com
+vic2.info-equinor.com
 victorianwoodsstudio.com
 view.nugpoint.com
 view.wormmap.xyz
@@ -6456,7 +6439,6 @@ zksync-era-isa.nfts2.me
 zksync-era-zktv.nfts2.me
 zksync-era.firebaseapp.com
 zksync-era.web.app
-zksync-net.com
 zksync-now.com
 zksync.line.pm
 zksync.nirbhik.com

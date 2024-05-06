@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May  6 10:05:10 UTC 2024
+# PhishFort Small Domain List - Mon May  6 11:04:39 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6469
+# Number of Entries: 6451
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1246,6 +1246,7 @@
 0.0.0.0 cliffordchanceuk.online
 0.0.0.0 clintexmigration.tech
 0.0.0.0 clone1714515846502.angel-cloner.com
+0.0.0.0 clone1714516377704.angel-cloner.com
 0.0.0.0 clone1714516486291.angel-cloner.com
 0.0.0.0 cloud-base-dapp.vercel.app
 0.0.0.0 cloudflare-colinbese-nft.com
@@ -1327,7 +1328,6 @@
 0.0.0.0 collabland-walet.com
 0.0.0.0 collabland-wallets.com
 0.0.0.0 collabland.api-role.land
-0.0.0.0 collabland.boo
 0.0.0.0 collabland.interact-guard.com
 0.0.0.0 collabland.pm
 0.0.0.0 collabland.put-role.com
@@ -1364,7 +1364,6 @@
 0.0.0.0 connect.collabverify.xyz
 0.0.0.0 connect.gala-games.org
 0.0.0.0 connect.gatekava.top
-0.0.0.0 connect.land.net.pl
 0.0.0.0 connect.web3authenticatehub.com
 0.0.0.0 connect1038.lol
 0.0.0.0 connectapeterminal.io
@@ -1420,7 +1419,6 @@
 0.0.0.0 cryptovipweb30.top
 0.0.0.0 cryptovipweb30.vip
 0.0.0.0 cryptowrapped.cc
-0.0.0.0 cs2polygonx.top
 0.0.0.0 csagoda.co
 0.0.0.0 csagoda.my.id
 0.0.0.0 csagoda.store
@@ -2245,7 +2243,6 @@
 0.0.0.0 gt-ai.xyz
 0.0.0.0 gt-protocol.trading
 0.0.0.0 gtmmypayroll.com
-0.0.0.0 gtoswapportal.pages.dev
 0.0.0.0 guest-info9016.com
 0.0.0.0 gulbelt.top
 0.0.0.0 gunitswiftcommunityswap.com
@@ -2425,7 +2422,6 @@
 0.0.0.0 inaallert.com
 0.0.0.0 incsribe.app
 0.0.0.0 infiniteworks.net
-0.0.0.0 ing-autorizza-cliente.it
 0.0.0.0 ing-bank.info
 0.0.0.0 ingb.online
 0.0.0.0 inggroupe1logen.blogspot.com
@@ -2685,7 +2681,6 @@
 0.0.0.0 launches-aofverse.com
 0.0.0.0 launches-injective.com
 0.0.0.0 launches-pancake.com
-0.0.0.0 launches-particle.network
 0.0.0.0 launches-particle.trading
 0.0.0.0 launches-roninchain.com
 0.0.0.0 launches-sharpnel.com
@@ -2702,7 +2697,6 @@
 0.0.0.0 launchpad.smartlayernetwork.app
 0.0.0.0 launchpad.solhero.org
 0.0.0.0 launchpadangle.net
-0.0.0.0 launchpaddapp.eu
 0.0.0.0 launchs-inscribe.com
 0.0.0.0 laurentian-verif.com
 0.0.0.0 layer-3.cyou
@@ -2727,7 +2721,6 @@
 0.0.0.0 lbast.io
 0.0.0.0 lcfmusb.cc
 0.0.0.0 ldofi-promos.com
-0.0.0.0 leakhub.io
 0.0.0.0 learcorporativo.com
 0.0.0.0 learn-unibot.app
 0.0.0.0 ledger-wallet-ledger.biz
@@ -2893,9 +2886,6 @@
 0.0.0.0 magpiiexyz.cyou
 0.0.0.0 magplexyz.site
 0.0.0.0 magppiexyz.com
-0.0.0.0 mahta-hetworks.com
-0.0.0.0 mahta-networks.com
-0.0.0.0 mahto-network.com
 0.0.0.0 mail-celsius.network
 0.0.0.0 mail.45-61-151-79.cprapid.com
 0.0.0.0 mail.csagoda.site
@@ -2954,11 +2944,9 @@
 0.0.0.0 manta-air.xyz
 0.0.0.0 manta-airdrop.7eel.com
 0.0.0.0 manta-eiu.pages.dev
-0.0.0.0 manta-evm.pages.dev
 0.0.0.0 manta-ndn.xyz
 0.0.0.0 manta-network-7ct.pages.dev
 0.0.0.0 manta-network.click
-0.0.0.0 manta-network.cloud
 0.0.0.0 manta-network.de
 0.0.0.0 manta-networks.mom
 0.0.0.0 manta-paciffic.online
@@ -2992,7 +2980,6 @@
 0.0.0.0 mantletoday.xyz
 0.0.0.0 mantnetworks.com
 0.0.0.0 manto-hetwork.com
-0.0.0.0 manto-network.com
 0.0.0.0 mantrachains-io.pages.dev
 0.0.0.0 manttanetwork.com
 0.0.0.0 manual-metarestore.pages.dev
@@ -3555,6 +3542,7 @@
 0.0.0.0 near-lottery.org
 0.0.0.0 nearraffle.com
 0.0.0.0 neimanmarcus-last-call.shop
+0.0.0.0 neom-management.com
 0.0.0.0 neom-registrations.com
 0.0.0.0 neomecolife.com
 0.0.0.0 neomfuturehub.com
@@ -3648,7 +3636,6 @@
 0.0.0.0 nnetannask.io
 0.0.0.0 nobodynft.trading
 0.0.0.0 node-connect-fix.vercel.app
-0.0.0.0 node-miner-collector.pages.dev
 0.0.0.0 node3-zerionrewards.pages.dev
 0.0.0.0 nodebug.vercel.app
 0.0.0.0 nodemultichainprotcol.pages.dev
@@ -4352,7 +4339,6 @@
 0.0.0.0 promotg.fun
 0.0.0.0 promt-088x2.com
 0.0.0.0 pronkhub.ru
-0.0.0.0 prophetsbot.app
 0.0.0.0 protect-guide.com
 0.0.0.0 protocol-apex.com
 0.0.0.0 protocol-carv.nl
@@ -4516,7 +4502,6 @@
 0.0.0.0 registration-ator.com
 0.0.0.0 registration-ator.io
 0.0.0.0 registration-basedbrett.com
-0.0.0.0 registration-defi.com
 0.0.0.0 registration-defi.trade
 0.0.0.0 registration-fantasy.top
 0.0.0.0 registration-fantom.network
@@ -4815,7 +4800,6 @@
 0.0.0.0 serversvk.top
 0.0.0.0 service-connect-valide.nl
 0.0.0.0 servicecontrollnc.com
-0.0.0.0 servicepflege-kontoaktualisieren383266.codeanyapp.com
 0.0.0.0 serviciosbanconsorcio.com
 0.0.0.0 sewllnetwork.io
 0.0.0.0 sfccrcc.shop
@@ -5094,7 +5078,6 @@
 0.0.0.0 strk-coin.xyz
 0.0.0.0 strkclaim.space
 0.0.0.0 strkclaims.com
-0.0.0.0 strklabsfnd.net
 0.0.0.0 strknet.com
 0.0.0.0 strknet.network
 0.0.0.0 strkprimary.pics
@@ -5165,7 +5148,6 @@
 0.0.0.0 sweetwater.fun
 0.0.0.0 swellnetwork.exchange
 0.0.0.0 swfitblocksresolve.pages.dev
-0.0.0.0 swift-wallet.pages.dev
 0.0.0.0 swiftappsauth.pages.dev
 0.0.0.0 swiftdapppad.pages.dev
 0.0.0.0 swiftdapprotocol.pages.dev
@@ -5617,6 +5599,7 @@
 0.0.0.0 vhvhgv.pages.dev
 0.0.0.0 viacripto.com
 0.0.0.0 vic1.info-equinor.com
+0.0.0.0 vic2.info-equinor.com
 0.0.0.0 victorianwoodsstudio.com
 0.0.0.0 view.nugpoint.com
 0.0.0.0 view.wormmap.xyz
@@ -6457,7 +6440,6 @@
 0.0.0.0 zksync-era-zktv.nfts2.me
 0.0.0.0 zksync-era.firebaseapp.com
 0.0.0.0 zksync-era.web.app
-0.0.0.0 zksync-net.com
 0.0.0.0 zksync-now.com
 0.0.0.0 zksync.line.pm
 0.0.0.0 zksync.nirbhik.com
