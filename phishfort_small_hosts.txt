@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May  6 15:05:03 UTC 2024
+# PhishFort Small Domain List - Mon May  6 16:06:02 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6436
+# Number of Entries: 6425
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -510,6 +510,7 @@
 0.0.0.0 app.wormholider.com
 0.0.0.0 app.xn--1nch-qpa.io
 0.0.0.0 app.zenomedequipment.com
+0.0.0.0 appadvice.com
 0.0.0.0 appair-hopper.com
 0.0.0.0 appaloe.capital
 0.0.0.0 apparrakis.finance
@@ -873,6 +874,7 @@
 0.0.0.0 bnbmakerdao.online
 0.0.0.0 bnbminner.com
 0.0.0.0 bncoparticlar-apps.systeme.io
+0.0.0.0 bnfran.lat
 0.0.0.0 boardversepromptfil.pages.dev
 0.0.0.0 bobaoppas.xyz
 0.0.0.0 bobindefi.xyz
@@ -1746,7 +1748,6 @@
 0.0.0.0 earnifinance.xyz
 0.0.0.0 earningdrop.dev
 0.0.0.0 earnm.org
-0.0.0.0 eastofeatonapiary.com
 0.0.0.0 easyfixwallet.pages.dev
 0.0.0.0 ebayshop-us.com
 0.0.0.0 echelon.gift
@@ -2613,9 +2614,6 @@
 0.0.0.0 kcs-airdrop.com
 0.0.0.0 kduo.cc
 0.0.0.0 kdvrp.cc
-0.0.0.0 keeper.claims
-0.0.0.0 keepertoken.org
-0.0.0.0 keepertoken.xyz
 0.0.0.0 kegwat.pro
 0.0.0.0 kelpdaa.xyz
 0.0.0.0 kelpdao.link
@@ -5299,7 +5297,6 @@
 0.0.0.0 tombmigration.com
 0.0.0.0 ton-chain.one
 0.0.0.0 ton-chain.top
-0.0.0.0 ton-keeper.world
 0.0.0.0 ton-telegram.click
 0.0.0.0 ton-telegram.xyz
 0.0.0.0 ton.org-ethsendair.xyz
@@ -5320,16 +5317,11 @@
 0.0.0.0 tonkeepee.com
 0.0.0.0 tonkeepeer.com
 0.0.0.0 tonkeeper-web.pages.dev
-0.0.0.0 tonkeeper.cc
-0.0.0.0 tonkeeper.digital
 0.0.0.0 tonkeeper.domains
 0.0.0.0 tonkeeper.help
 0.0.0.0 tonkeeper.io
-0.0.0.0 tonkeeper.page
 0.0.0.0 tonkeeper.pages.dev
 0.0.0.0 tonkeeper.su
-0.0.0.0 tonkeeper.us
-0.0.0.0 tonkeeper.world
 0.0.0.0 tonkeeperr.com
 0.0.0.0 tonkeepet.com
 0.0.0.0 tonkeepper.com
@@ -6214,9 +6206,6 @@
 0.0.0.0 www.sabrinacarpentermerch.com
 0.0.0.0 www.sbtpgs.com
 0.0.0.0 www.sdxbtcc.com
-0.0.0.0 www.sdxlimited.com
-0.0.0.0 www.sdxtrc20.com
-0.0.0.0 www.sdxusdt.com
 0.0.0.0 www.seedifyfund.support
 0.0.0.0 www.seijpe.com
 0.0.0.0 www.shibus.site

@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May  6 15:05:03 UTC 2024
+# PhishFort Small Domain List - Mon May  6 16:06:02 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6436
+# Number of Entries: 6425
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -510,6 +510,7 @@
 ||app.wormholider.com^
 ||app.xn--1nch-qpa.io^
 ||app.zenomedequipment.com^
+||appadvice.com^
 ||appair-hopper.com^
 ||appaloe.capital^
 ||apparrakis.finance^
@@ -873,6 +874,7 @@
 ||bnbmakerdao.online^
 ||bnbminner.com^
 ||bncoparticlar-apps.systeme.io^
+||bnfran.lat^
 ||boardversepromptfil.pages.dev^
 ||bobaoppas.xyz^
 ||bobindefi.xyz^
@@ -1746,7 +1748,6 @@
 ||earnifinance.xyz^
 ||earningdrop.dev^
 ||earnm.org^
-||eastofeatonapiary.com^
 ||easyfixwallet.pages.dev^
 ||ebayshop-us.com^
 ||echelon.gift^
@@ -2613,9 +2614,6 @@
 ||kcs-airdrop.com^
 ||kduo.cc^
 ||kdvrp.cc^
-||keeper.claims^
-||keepertoken.org^
-||keepertoken.xyz^
 ||kegwat.pro^
 ||kelpdaa.xyz^
 ||kelpdao.link^
@@ -5299,7 +5297,6 @@
 ||tombmigration.com^
 ||ton-chain.one^
 ||ton-chain.top^
-||ton-keeper.world^
 ||ton-telegram.click^
 ||ton-telegram.xyz^
 ||ton.org-ethsendair.xyz^
@@ -5320,16 +5317,11 @@
 ||tonkeepee.com^
 ||tonkeepeer.com^
 ||tonkeeper-web.pages.dev^
-||tonkeeper.cc^
-||tonkeeper.digital^
 ||tonkeeper.domains^
 ||tonkeeper.help^
 ||tonkeeper.io^
-||tonkeeper.page^
 ||tonkeeper.pages.dev^
 ||tonkeeper.su^
-||tonkeeper.us^
-||tonkeeper.world^
 ||tonkeeperr.com^
 ||tonkeepet.com^
 ||tonkeepper.com^
@@ -6214,9 +6206,6 @@
 ||www.sabrinacarpentermerch.com^
 ||www.sbtpgs.com^
 ||www.sdxbtcc.com^
-||www.sdxlimited.com^
-||www.sdxtrc20.com^
-||www.sdxusdt.com^
 ||www.seedifyfund.support^
 ||www.seijpe.com^
 ||www.shibus.site^
