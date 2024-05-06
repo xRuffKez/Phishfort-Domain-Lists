@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Mon May  6 04:05:51 UTC 2024
+# PhishFort Small Domain List - Mon May  6 05:05:20 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6498
+# Number of Entries: 6484
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -307,7 +307,6 @@ airmexc.life
 airstyleart.co.uk
 airswaps.io
 airtm-22.com
-airtm-9.com
 airtm.com.br
 airtm.help
 airtm11.com
@@ -759,13 +758,6 @@ biennvnido.com
 big-bang-drop.fun
 big-bang-drop.online
 big-bang-drop.press
-big-bang-drop.pro
-big-bang-drop.shop
-big-bang-drop.space
-bigbangdrop.fun
-bigbangdrop.pro
-bigbangdrop.pw
-bigbangdrop.shop
 bigbangdrop.xyz
 bikramind.com
 bill-tel.com
@@ -2115,6 +2107,7 @@ game.schrapnel.co
 gamee-snapshots.vercel.app
 games-gala-xx.com
 gamesgalina.shop
+gamestop-memes.web.app
 gaming-superverse.com
 gamium.pages.dev
 gas-claim-3ag1r.github.io
@@ -2343,7 +2336,6 @@ hft-fyfc.com
 hhfh.cc
 hidden-airdrops.xyz
 highllght.com
-hippies-world.com
 hkasia-pooldefi.com
 hlbtn-company.ltd
 hlxfsx.com
@@ -2500,7 +2492,6 @@ irrahkar.com
 is9dvm.pro
 islamiccoin.network
 iykapp.xyz
-izumis.finance
 j2gkzzu.top
 jaguarlandrover.kmmediagroup.com
 jamesthurmankahn.com
@@ -3742,7 +3733,6 @@ olympusv2.net
 omg.altscoin.top
 on-407etr.com
 on-chainfix.com
-on1force.web.app
 oncbhue.cc
 oneamerica.icu
 ongc.net
@@ -3780,7 +3770,6 @@ openprojectmystery.vercel.app
 opensaea.io
 opensaebox.vercel.app
 opensaepro.vercel.app
-opensaeproclaim.vercel.app
 opensea-air.vercel.app
 opensea-claim.de
 opensea-doc.rf.gd
@@ -4437,7 +4426,6 @@ qubics.trading
 quest-pixels.com
 quest-sharpnel.com
 quest-starknet.io
-quest-zora.network
 quest.puffer.events
 quests-defi.trade
 quests-dymension.network
@@ -4604,7 +4592,6 @@ revoke.plus
 revokeca.com
 revokeca.xyz
 revokecash-portal.pages.dev
-revokecash-web3.org
 revokecash.lol
 revokecash.ru
 revokecash.store
@@ -4775,7 +4762,6 @@ savm-app.net
 savmtoken.net
 scallop-airdrop-claim.com
 scansairdrops.ca
-scapemania.live
 scapemania.sale
 scburnet.okta.acmecorp.name
 schoolfirstcenter0reversalonline.duckdns.org

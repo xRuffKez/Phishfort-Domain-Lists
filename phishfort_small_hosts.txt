@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May  6 04:05:51 UTC 2024
+# PhishFort Small Domain List - Mon May  6 05:05:20 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6498
+# Number of Entries: 6484
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -308,7 +308,6 @@
 0.0.0.0 airstyleart.co.uk
 0.0.0.0 airswaps.io
 0.0.0.0 airtm-22.com
-0.0.0.0 airtm-9.com
 0.0.0.0 airtm.com.br
 0.0.0.0 airtm.help
 0.0.0.0 airtm11.com
@@ -760,13 +759,6 @@
 0.0.0.0 big-bang-drop.fun
 0.0.0.0 big-bang-drop.online
 0.0.0.0 big-bang-drop.press
-0.0.0.0 big-bang-drop.pro
-0.0.0.0 big-bang-drop.shop
-0.0.0.0 big-bang-drop.space
-0.0.0.0 bigbangdrop.fun
-0.0.0.0 bigbangdrop.pro
-0.0.0.0 bigbangdrop.pw
-0.0.0.0 bigbangdrop.shop
 0.0.0.0 bigbangdrop.xyz
 0.0.0.0 bikramind.com
 0.0.0.0 bill-tel.com
@@ -2116,6 +2108,7 @@
 0.0.0.0 gamee-snapshots.vercel.app
 0.0.0.0 games-gala-xx.com
 0.0.0.0 gamesgalina.shop
+0.0.0.0 gamestop-memes.web.app
 0.0.0.0 gaming-superverse.com
 0.0.0.0 gamium.pages.dev
 0.0.0.0 gas-claim-3ag1r.github.io
@@ -2344,7 +2337,6 @@
 0.0.0.0 hhfh.cc
 0.0.0.0 hidden-airdrops.xyz
 0.0.0.0 highllght.com
-0.0.0.0 hippies-world.com
 0.0.0.0 hkasia-pooldefi.com
 0.0.0.0 hlbtn-company.ltd
 0.0.0.0 hlxfsx.com
@@ -2501,7 +2493,6 @@
 0.0.0.0 is9dvm.pro
 0.0.0.0 islamiccoin.network
 0.0.0.0 iykapp.xyz
-0.0.0.0 izumis.finance
 0.0.0.0 j2gkzzu.top
 0.0.0.0 jaguarlandrover.kmmediagroup.com
 0.0.0.0 jamesthurmankahn.com
@@ -3743,7 +3734,6 @@
 0.0.0.0 omg.altscoin.top
 0.0.0.0 on-407etr.com
 0.0.0.0 on-chainfix.com
-0.0.0.0 on1force.web.app
 0.0.0.0 oncbhue.cc
 0.0.0.0 oneamerica.icu
 0.0.0.0 ongc.net
@@ -3781,7 +3771,6 @@
 0.0.0.0 opensaea.io
 0.0.0.0 opensaebox.vercel.app
 0.0.0.0 opensaepro.vercel.app
-0.0.0.0 opensaeproclaim.vercel.app
 0.0.0.0 opensea-air.vercel.app
 0.0.0.0 opensea-claim.de
 0.0.0.0 opensea-doc.rf.gd
@@ -4438,7 +4427,6 @@
 0.0.0.0 quest-pixels.com
 0.0.0.0 quest-sharpnel.com
 0.0.0.0 quest-starknet.io
-0.0.0.0 quest-zora.network
 0.0.0.0 quest.puffer.events
 0.0.0.0 quests-defi.trade
 0.0.0.0 quests-dymension.network
@@ -4605,7 +4593,6 @@
 0.0.0.0 revokeca.com
 0.0.0.0 revokeca.xyz
 0.0.0.0 revokecash-portal.pages.dev
-0.0.0.0 revokecash-web3.org
 0.0.0.0 revokecash.lol
 0.0.0.0 revokecash.ru
 0.0.0.0 revokecash.store
@@ -4776,7 +4763,6 @@
 0.0.0.0 savmtoken.net
 0.0.0.0 scallop-airdrop-claim.com
 0.0.0.0 scansairdrops.ca
-0.0.0.0 scapemania.live
 0.0.0.0 scapemania.sale
 0.0.0.0 scburnet.okta.acmecorp.name
 0.0.0.0 schoolfirstcenter0reversalonline.duckdns.org
