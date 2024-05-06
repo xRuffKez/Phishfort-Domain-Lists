@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Mon May  6 13:05:16 UTC 2024
+# PhishFort Small Domain List - Mon May  6 14:05:32 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
 # Number of Entries: 6442
@@ -2001,6 +2001,7 @@
 ||financeswap.xyz^
 ||financialpanache.com^
 ||finceptorportals.click^
+||findminea.shop^
 ||fireblockscrypto.com^
 ||firevisionaries.com^
 ||firmware-data.pages.dev^
@@ -2674,7 +2675,6 @@
 ||launch.apeterminal.cc^
 ||launches-aofverse.com^
 ||launches-injective.com^
-||launches-pancake.com^
 ||launches-particle.trading^
 ||launches-roninchain.com^
 ||launches-sharpnel.com^
@@ -3971,6 +3971,7 @@
 ||pancakeswap92.vercel.app^
 ||pancakeswapairdrop.com^
 ||pancakeswapclaim.vercel.app^
+||pancakeswapclaim22.vercel.app^
 ||pancakeswapclaim34.vercel.app^
 ||pancakeswapclaim6754.vercel.app^
 ||pancakeswapclaimbox.com^
@@ -6323,7 +6324,6 @@
 ||xn--fxedfllaot-k8a.com^
 ||xn--fxedflloat-xub.com^
 ||xn--fxedfloat-q5af.com^
-||xn--fxedfloat-vpbc.com^
 ||xn--fxedflooad-68a.com^
 ||xn--fxedflooat-68a.net^
 ||xn--fxedftloat-k8a.com^

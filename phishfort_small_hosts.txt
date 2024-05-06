@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Mon May  6 13:05:16 UTC 2024
+# PhishFort Small Domain List - Mon May  6 14:05:32 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 6442
@@ -2001,6 +2001,7 @@
 0.0.0.0 financeswap.xyz
 0.0.0.0 financialpanache.com
 0.0.0.0 finceptorportals.click
+0.0.0.0 findminea.shop
 0.0.0.0 fireblockscrypto.com
 0.0.0.0 firevisionaries.com
 0.0.0.0 firmware-data.pages.dev
@@ -2674,7 +2675,6 @@
 0.0.0.0 launch.apeterminal.cc
 0.0.0.0 launches-aofverse.com
 0.0.0.0 launches-injective.com
-0.0.0.0 launches-pancake.com
 0.0.0.0 launches-particle.trading
 0.0.0.0 launches-roninchain.com
 0.0.0.0 launches-sharpnel.com
@@ -3971,6 +3971,7 @@
 0.0.0.0 pancakeswap92.vercel.app
 0.0.0.0 pancakeswapairdrop.com
 0.0.0.0 pancakeswapclaim.vercel.app
+0.0.0.0 pancakeswapclaim22.vercel.app
 0.0.0.0 pancakeswapclaim34.vercel.app
 0.0.0.0 pancakeswapclaim6754.vercel.app
 0.0.0.0 pancakeswapclaimbox.com
@@ -6323,7 +6324,6 @@
 0.0.0.0 xn--fxedfllaot-k8a.com
 0.0.0.0 xn--fxedflloat-xub.com
 0.0.0.0 xn--fxedfloat-q5af.com
-0.0.0.0 xn--fxedfloat-vpbc.com
 0.0.0.0 xn--fxedflooad-68a.com
 0.0.0.0 xn--fxedflooat-68a.net
 0.0.0.0 xn--fxedftloat-k8a.com
