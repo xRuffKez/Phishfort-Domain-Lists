@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Mon May  6 21:05:14 UTC 2024
+# PhishFort Small Domain List - Mon May  6 22:05:35 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 6417
 # Project: PhishFort (https://phishfort.com/)
@@ -28,6 +28,7 @@
 1inch-new-migration.com
 1inch.fyi
 1inch.web3connect.mom
+1incha.coinmarketcap-app.com
 1inchfinance.com
 1inchnetwork.org
 1inchv4.fi
@@ -3160,7 +3161,6 @@ metamaskio.sbs
 metamaskio.xyz
 metamasklo.cfd
 metamaskmal.ru
-metamaskmarket.com
 metamaskmarket.net
 metamaskn.io
 metamaskrich.life
@@ -3332,6 +3332,7 @@ moboxlabs.org
 moboxlabs.xyz
 mocaverse.zone
 mod.bc8kwz7u.com
+modaggm.com
 modaxtei.com
 mode-network.top
 mode-network.web3-apps.com
@@ -4654,6 +4655,7 @@ saita.vercel.app
 saitama.gift
 saitapro.vercel.app
 saks5.store
+saksfifthpartner.com
 saksof5th.club
 saksoff.sakskoesad.com
 saksoff05.com
@@ -5120,7 +5122,6 @@ swapdao.app
 swapdly.javaswap.io
 swapify.exchange
 swapnet.pages.dev
-swapnftdefi.online
 swappancake.wtf
 swaptoken1inch.org
 swatches-vulcan.xyz
@@ -6015,7 +6016,6 @@ www.estoer.top
 www.ethena.finance
 www.ethereumdrop.com
 www.ethereumrefund.com
-www.ethfi.farm
 www.ethswe.com
 www.etokensolana.aysarr.in
 www.evercoreglobal.com

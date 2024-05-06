@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Mon May  6 21:05:14 UTC 2024
+# PhishFort Small Domain List - Mon May  6 22:05:35 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 6417
@@ -29,6 +29,7 @@
 0.0.0.0 1inch-new-migration.com
 0.0.0.0 1inch.fyi
 0.0.0.0 1inch.web3connect.mom
+0.0.0.0 1incha.coinmarketcap-app.com
 0.0.0.0 1inchfinance.com
 0.0.0.0 1inchnetwork.org
 0.0.0.0 1inchv4.fi
@@ -3161,7 +3162,6 @@
 0.0.0.0 metamaskio.xyz
 0.0.0.0 metamasklo.cfd
 0.0.0.0 metamaskmal.ru
-0.0.0.0 metamaskmarket.com
 0.0.0.0 metamaskmarket.net
 0.0.0.0 metamaskn.io
 0.0.0.0 metamaskrich.life
@@ -3333,6 +3333,7 @@
 0.0.0.0 moboxlabs.xyz
 0.0.0.0 mocaverse.zone
 0.0.0.0 mod.bc8kwz7u.com
+0.0.0.0 modaggm.com
 0.0.0.0 modaxtei.com
 0.0.0.0 mode-network.top
 0.0.0.0 mode-network.web3-apps.com
@@ -4655,6 +4656,7 @@
 0.0.0.0 saitama.gift
 0.0.0.0 saitapro.vercel.app
 0.0.0.0 saks5.store
+0.0.0.0 saksfifthpartner.com
 0.0.0.0 saksof5th.club
 0.0.0.0 saksoff.sakskoesad.com
 0.0.0.0 saksoff05.com
@@ -5121,7 +5123,6 @@
 0.0.0.0 swapdly.javaswap.io
 0.0.0.0 swapify.exchange
 0.0.0.0 swapnet.pages.dev
-0.0.0.0 swapnftdefi.online
 0.0.0.0 swappancake.wtf
 0.0.0.0 swaptoken1inch.org
 0.0.0.0 swatches-vulcan.xyz
@@ -6016,7 +6017,6 @@
 0.0.0.0 www.ethena.finance
 0.0.0.0 www.ethereumdrop.com
 0.0.0.0 www.ethereumrefund.com
-0.0.0.0 www.ethfi.farm
 0.0.0.0 www.ethswe.com
 0.0.0.0 www.etokensolana.aysarr.in
 0.0.0.0 www.evercoreglobal.com
