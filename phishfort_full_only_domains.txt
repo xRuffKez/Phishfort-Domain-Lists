@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Mon May  6 08:02:19 UTC 2024
+# PhishFort Full Domain List - Mon May  6 09:02:01 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109228
+# Number of Entries: 109229
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -60093,6 +60093,7 @@ neojune.blogspot.com
 neojunex2.blogspot.com
 neokucoin.blogspot.com
 neom-property.com
+neom-registrations.com
 neom-staging.klues.ai
 neom-suppliers.com
 neom-suppliers.net
