@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon May  6 19:02:17 UTC 2024
+# PhishFort Full Domain List - Mon May  6 20:02:04 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109231
+# Number of Entries: 109234
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -29997,6 +29997,7 @@
 ||esofa.edu.pe^
 ||esp-defiswap.com^
 ||esp-gala-games-app.blogspot.com^
+||espace-skynet012.hubside.fr^
 ||espaciologistico.com.ar^
 ||espcoin-promogive.com^
 ||esprit-colombia.com.co^
@@ -34898,6 +34899,7 @@
 ||frutizbeach.space^
 ||frvcommunity.com^
 ||fs.pancakesvqp.com^
+||fsafeds.combid.sa.com^
 ||fsafeds.comet.sa.com^
 ||fsafeds.comt.sa.com^
 ||fsafeds.sa.com^
@@ -102897,6 +102899,7 @@
 ||www.pancakeswap.linkconnection.net^
 ||www.pancakeswap.ltd^
 ||www.pancakeswap.stake-claim-rewards.com^
+||www.pancakeswap.today^
 ||www.pancakeswap.v3beta.finance^
 ||www.pancakeswap.veriflcation.finance^
 ||www.pancakeswap.vip^
