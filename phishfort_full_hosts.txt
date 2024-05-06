@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon May  6 04:02:04 UTC 2024
+# PhishFort Full Domain List - Mon May  6 05:02:01 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109227
+# Number of Entries: 109228
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -35895,6 +35895,7 @@
 0.0.0.0 gamesgalina.shop
 0.0.0.0 gamesmarket.place
 0.0.0.0 gamestaratlas.pw
+0.0.0.0 gamestop-memes.web.app
 0.0.0.0 gamestops.xyz
 0.0.0.0 gametv-torney.ru
 0.0.0.0 gamfinode.online

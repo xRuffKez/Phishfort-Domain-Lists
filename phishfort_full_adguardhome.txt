@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon May  6 04:02:04 UTC 2024
+# PhishFort Full Domain List - Mon May  6 05:02:01 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109227
+# Number of Entries: 109228
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -35895,6 +35895,7 @@
 ||gamesgalina.shop^
 ||gamesmarket.place^
 ||gamestaratlas.pw^
+||gamestop-memes.web.app^
 ||gamestops.xyz^
 ||gametv-torney.ru^
 ||gamfinode.online^
