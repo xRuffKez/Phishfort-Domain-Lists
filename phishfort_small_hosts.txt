@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May  6 05:05:20 UTC 2024
+# PhishFort Small Domain List - Mon May  6 06:06:25 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6484
+# Number of Entries: 6475
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -139,7 +139,6 @@
 0.0.0.0 account.cityindexinternational.com
 0.0.0.0 account407etr.com
 0.0.0.0 accounts.paxf-ful.com
-0.0.0.0 accountsvalidator.com
 0.0.0.0 accretivetechnologygroupcareers.com
 0.0.0.0 acdbcml3.wildcatexpressdelivery.com
 0.0.0.0 acecoins.pro
@@ -1276,7 +1275,6 @@
 0.0.0.0 coinbase-ashen.vercel.app
 0.0.0.0 coinbase-blush.vercel.app
 0.0.0.0 coinbase-qr.net
-0.0.0.0 coinbase-verify-password-global.oxygeneapp.com
 0.0.0.0 coinbase-walltvip.net
 0.0.0.0 coinbaseprose.com
 0.0.0.0 coinbaserewardsclaim.com
@@ -3133,7 +3131,6 @@
 0.0.0.0 metaemaesk-waleet.godaddysites.com
 0.0.0.0 metaemaskk-wwallit.godaddysites.com
 0.0.0.0 metafix.vercel.app
-0.0.0.0 metaget.xyz
 0.0.0.0 metagmask.azurewebsites.net
 0.0.0.0 metaiask.xyz
 0.0.0.0 metamaaskus.azurewebsites.net
@@ -3177,7 +3174,6 @@
 0.0.0.0 metamask.je
 0.0.0.0 metamask.land
 0.0.0.0 metamask.managementcommunity.pro
-0.0.0.0 metamask.nodelinks.net
 0.0.0.0 metamask.so
 0.0.0.0 metamask.tokenapp.top
 0.0.0.0 metamask.wallet-app.com
@@ -4423,7 +4419,6 @@
 0.0.0.0 qt5872.xyz
 0.0.0.0 qtnkpaxos.net
 0.0.0.0 quantumcats.trading
-0.0.0.0 qubics.trading
 0.0.0.0 quest-pixels.com
 0.0.0.0 quest-sharpnel.com
 0.0.0.0 quest-starknet.io
@@ -4438,7 +4433,6 @@
 0.0.0.0 quests-sharpnel.com
 0.0.0.0 quests-superverse.com
 0.0.0.0 quests-treasure.trading
-0.0.0.0 quests-zora.network
 0.0.0.0 quests-zora.trading
 0.0.0.0 quickswap-io.events
 0.0.0.0 quicksyncdapps.pages.dev
@@ -4915,7 +4909,6 @@
 0.0.0.0 slerfdrop.net
 0.0.0.0 slerflabs.com
 0.0.0.0 slerfrewards.net
-0.0.0.0 slgnup-dymension.com
 0.0.0.0 slitty.me
 0.0.0.0 slothana-airdrop.xyz
 0.0.0.0 slrfdrop.net
@@ -5333,7 +5326,6 @@
 0.0.0.0 token.strks-rocket.club
 0.0.0.0 token.tonblockchain.click
 0.0.0.0 tokenlon.app
-0.0.0.0 tokenprojectrarity.site
 0.0.0.0 tokensynced.pages.dev
 0.0.0.0 toll.a407info.com
 0.0.0.0 tolls-407express.com
@@ -6317,7 +6309,6 @@
 0.0.0.0 www.wikser.com
 0.0.0.0 www.windy.network
 0.0.0.0 www.wregul.com
-0.0.0.0 www.wwwdymension.xyz
 0.0.0.0 www.x-swap.link
 0.0.0.0 www.ylouch.com
 0.0.0.0 www.zerion.claimfree.xyz

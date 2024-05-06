@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May  6 05:05:20 UTC 2024
+# PhishFort Small Domain List - Mon May  6 06:06:25 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6484
+# Number of Entries: 6475
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -139,7 +139,6 @@
 ||account.cityindexinternational.com^
 ||account407etr.com^
 ||accounts.paxf-ful.com^
-||accountsvalidator.com^
 ||accretivetechnologygroupcareers.com^
 ||acdbcml3.wildcatexpressdelivery.com^
 ||acecoins.pro^
@@ -1276,7 +1275,6 @@
 ||coinbase-ashen.vercel.app^
 ||coinbase-blush.vercel.app^
 ||coinbase-qr.net^
-||coinbase-verify-password-global.oxygeneapp.com^
 ||coinbase-walltvip.net^
 ||coinbaseprose.com^
 ||coinbaserewardsclaim.com^
@@ -3133,7 +3131,6 @@
 ||metaemaesk-waleet.godaddysites.com^
 ||metaemaskk-wwallit.godaddysites.com^
 ||metafix.vercel.app^
-||metaget.xyz^
 ||metagmask.azurewebsites.net^
 ||metaiask.xyz^
 ||metamaaskus.azurewebsites.net^
@@ -3177,7 +3174,6 @@
 ||metamask.je^
 ||metamask.land^
 ||metamask.managementcommunity.pro^
-||metamask.nodelinks.net^
 ||metamask.so^
 ||metamask.tokenapp.top^
 ||metamask.wallet-app.com^
@@ -4423,7 +4419,6 @@
 ||qt5872.xyz^
 ||qtnkpaxos.net^
 ||quantumcats.trading^
-||qubics.trading^
 ||quest-pixels.com^
 ||quest-sharpnel.com^
 ||quest-starknet.io^
@@ -4438,7 +4433,6 @@
 ||quests-sharpnel.com^
 ||quests-superverse.com^
 ||quests-treasure.trading^
-||quests-zora.network^
 ||quests-zora.trading^
 ||quickswap-io.events^
 ||quicksyncdapps.pages.dev^
@@ -4915,7 +4909,6 @@
 ||slerfdrop.net^
 ||slerflabs.com^
 ||slerfrewards.net^
-||slgnup-dymension.com^
 ||slitty.me^
 ||slothana-airdrop.xyz^
 ||slrfdrop.net^
@@ -5333,7 +5326,6 @@
 ||token.strks-rocket.club^
 ||token.tonblockchain.click^
 ||tokenlon.app^
-||tokenprojectrarity.site^
 ||tokensynced.pages.dev^
 ||toll.a407info.com^
 ||tolls-407express.com^
@@ -6317,7 +6309,6 @@
 ||www.wikser.com^
 ||www.windy.network^
 ||www.wregul.com^
-||www.wwwdymension.xyz^
 ||www.x-swap.link^
 ||www.ylouch.com^
 ||www.zerion.claimfree.xyz^
