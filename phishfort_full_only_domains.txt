@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Mon May  6 12:02:54 UTC 2024
+# PhishFort Full Domain List - Mon May  6 13:02:37 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109232
+# Number of Entries: 109233
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -10293,6 +10293,7 @@ bafybeiduschaqs6m3jl4qp2yi3dhrrrt5te7b5gjo4aj5ew7fxa7kkjr2y.ipfs.dweb.link
 bafybeifr5enzd7wye4zu5cotfbrwedtrrzo5jc2mbnln3kd5g7yjmwml6u.ipfs.4everland.io
 bafybeifsstznsohw64nhizzahf3ii32ybd5o6cht4dig237v55nroqjqzy.ipfs.dweb.link
 bafybeig344zqrb6llkbjzlsa5bcnozn4g6nhlebje77tzksfid74pleyeq.ipfs.dweb.link
+bafybeigjxmg3ulqmytt642sjwzluuvy7s2m2z4xbd4pqokaid5z3upavoi.ipfs.cf-ipfs.com
 bafybeih6f3cnq6rv7w3thp63266fwswwazpnihhzohixzbjw45i5xrxjaq.ipfs.dweb.link
 bafybeihbzllhmou7v2n5voxg3ldvflwmzzqwnb4zc4kani4onqpdj2gb7m.ipfs.dweb.link
 bafybeihdbtgftpyyfjjv6ajfrhorvdi2nmycvekox4fieipx6ofb5a7v7i.ipfs.dweb.link
