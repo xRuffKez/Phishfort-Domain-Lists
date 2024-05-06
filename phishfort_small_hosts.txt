@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May  6 14:05:32 UTC 2024
+# PhishFort Small Domain List - Mon May  6 15:05:03 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6442
+# Number of Entries: 6436
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1060,7 +1060,6 @@
 0.0.0.0 chainswap-airdrop-claim.pages.dev
 0.0.0.0 chainzerioncliam.pages.dev
 0.0.0.0 chalenlest.org
-0.0.0.0 chamasloustorgst.com
 0.0.0.0 chanceportugal.com
 0.0.0.0 changelly.plus
 0.0.0.0 chatsistant.com
@@ -1469,7 +1468,6 @@
 0.0.0.0 dapplinks.net
 0.0.0.0 dappmainhub.pages.dev
 0.0.0.0 dappnetsfp.com
-0.0.0.0 dapppaxos.co
 0.0.0.0 dappradaar.net
 0.0.0.0 dappradar-ads-x.com
 0.0.0.0 dappradar-token.com
@@ -2010,7 +2008,6 @@
 0.0.0.0 firstports.co.uk
 0.0.0.0 fitness-seven.com
 0.0.0.0 fitness-solution24.com
-0.0.0.0 fitness-solution24.de
 0.0.0.0 fix-metamask.pages.dev
 0.0.0.0 fix.errorsolution.org
 0.0.0.0 fix.resolver-dapp.com
@@ -2181,7 +2178,6 @@
 0.0.0.0 glaberkantonalbank.com.opticsea.org
 0.0.0.0 glacierdivisons.pics
 0.0.0.0 glhfers.xyz
-0.0.0.0 global.onlineyshire-uk.com
 0.0.0.0 global2605tw.com
 0.0.0.0 globalgoldcloudworld.world
 0.0.0.0 globalpaymentsvtw.com
@@ -2560,7 +2556,6 @@
 0.0.0.0 jup-cases.trade
 0.0.0.0 jup-e.com
 0.0.0.0 jup-evm.com
-0.0.0.0 jup005.com
 0.0.0.0 jup111.com
 0.0.0.0 jup222.com
 0.0.0.0 jup333.com
@@ -4345,6 +4340,7 @@
 0.0.0.0 provisions-starknet.top
 0.0.0.0 provisions-stknet.com
 0.0.0.0 provisionschainlink.org
+0.0.0.0 proximbe.ulcraft.com
 0.0.0.0 proximus-client.ddns.net
 0.0.0.0 proximus-recovery.be
 0.0.0.0 proximus.at
@@ -4946,7 +4942,6 @@
 0.0.0.0 solicitudesberkley.es
 0.0.0.0 sollfare.com
 0.0.0.0 sols-meta.web.app
-0.0.0.0 soltrading-bots.web.app
 0.0.0.0 solventumcareers.com
 0.0.0.0 solventumrewards.com
 0.0.0.0 solvprotocoi.com
@@ -6350,7 +6345,6 @@
 0.0.0.0 xversewebwallets.com
 0.0.0.0 xwallconect.pages.dev
 0.0.0.0 y-predict.web.app
-0.0.0.0 y2srob.info
 0.0.0.0 y5tmtb.info
 0.0.0.0 yasno-gov.pages.dev
 0.0.0.0 ybixfed.pro

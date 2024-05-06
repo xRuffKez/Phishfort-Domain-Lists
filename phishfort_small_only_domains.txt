@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Mon May  6 14:05:32 UTC 2024
+# PhishFort Small Domain List - Mon May  6 15:05:03 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6442
+# Number of Entries: 6436
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1059,7 +1059,6 @@ chainsprotocol.com
 chainswap-airdrop-claim.pages.dev
 chainzerioncliam.pages.dev
 chalenlest.org
-chamasloustorgst.com
 chanceportugal.com
 changelly.plus
 chatsistant.com
@@ -1468,7 +1467,6 @@ dappkaavaa.netlify.app
 dapplinks.net
 dappmainhub.pages.dev
 dappnetsfp.com
-dapppaxos.co
 dappradaar.net
 dappradar-ads-x.com
 dappradar-token.com
@@ -2009,7 +2007,6 @@ first-braved.info
 firstports.co.uk
 fitness-seven.com
 fitness-solution24.com
-fitness-solution24.de
 fix-metamask.pages.dev
 fix.errorsolution.org
 fix.resolver-dapp.com
@@ -2180,7 +2177,6 @@ gjkf.pro
 glaberkantonalbank.com.opticsea.org
 glacierdivisons.pics
 glhfers.xyz
-global.onlineyshire-uk.com
 global2605tw.com
 globalgoldcloudworld.world
 globalpaymentsvtw.com
@@ -2559,7 +2555,6 @@ jumperweb3.pro
 jup-cases.trade
 jup-e.com
 jup-evm.com
-jup005.com
 jup111.com
 jup222.com
 jup333.com
@@ -4344,6 +4339,7 @@ provisions-starknet.cc
 provisions-starknet.top
 provisions-stknet.com
 provisionschainlink.org
+proximbe.ulcraft.com
 proximus-client.ddns.net
 proximus-recovery.be
 proximus.at
@@ -4945,7 +4941,6 @@ solgift6.com
 solicitudesberkley.es
 sollfare.com
 sols-meta.web.app
-soltrading-bots.web.app
 solventumcareers.com
 solventumrewards.com
 solvprotocoi.com
@@ -6349,7 +6344,6 @@ xushuishiwu.cn
 xversewebwallets.com
 xwallconect.pages.dev
 y-predict.web.app
-y2srob.info
 y5tmtb.info
 yasno-gov.pages.dev
 ybixfed.pro
