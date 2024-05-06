@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Mon May  6 02:15:01 UTC 2024
+# PhishFort Small Domain List - Mon May  6 03:05:11 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 6498
 # Project: PhishFort (https://phishfort.com/)
@@ -15,6 +15,7 @@
 1-lnch.com
 1.globalpaymentsyttww.com
 1.globalpaymentsytww.com
+123-13p.pages.dev
 123-bti.pages.dev
 176823-coinbase.com
 18f5384d.chriswsteele.com
@@ -358,7 +359,6 @@ alt-zerolend.xyz
 altdentifiys.com
 altidentlfler.net
 altlayer-airdrop.onrender.com
-altlayer-labs.com
 altlayer-rollup.io
 altlayer.claim-connect.click
 altlayer.mom
@@ -1825,7 +1825,6 @@ enlist-mantanetwork.pages.dev
 enlisted-portalgaming.com
 enstoken.net
 entangle-fi.org
-enter-treasure.trading
 enter-wormhole.network
 entry.secureentry.live
 enudeekc.one
@@ -3328,6 +3327,7 @@ mike-token-web-olj7orfr7-percenal-miketoken.vercel.app
 mike-token-web-qdclhqzos-miketoken.vercel.app
 miltamasklog.github.io
 mindstar-pancakeswap.vercel.app
+mine-mantanetwork.pages.dev
 minerpix.com.br
 mining-clouds.com
 mining113.com
@@ -4018,6 +4018,7 @@ pancakeswapdrop.com
 pancakeswapdrop78.vercel.app
 pancakeswaper.app
 pancakeswapertoday.xyz
+pancakeswapes.finance
 pancakeswapfiinance.xyz
 pancakeswapfinance-catamoto.pages.dev
 pancakeswapfinance-gg3.pages.dev
@@ -4476,7 +4477,6 @@ rango-exchange-r8n4.onrender.com
 rarible-nft.com
 rarible.quest
 rational-zerosolvosmartverse.pro
-ravokecash.org
 raydiu.com
 raydium.fun
 raydium.lo.web3-connect.pw

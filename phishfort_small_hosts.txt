@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Mon May  6 02:15:01 UTC 2024
+# PhishFort Small Domain List - Mon May  6 03:05:11 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 6498
@@ -16,6 +16,7 @@
 0.0.0.0 1-lnch.com
 0.0.0.0 1.globalpaymentsyttww.com
 0.0.0.0 1.globalpaymentsytww.com
+0.0.0.0 123-13p.pages.dev
 0.0.0.0 123-bti.pages.dev
 0.0.0.0 176823-coinbase.com
 0.0.0.0 18f5384d.chriswsteele.com
@@ -359,7 +360,6 @@
 0.0.0.0 altdentifiys.com
 0.0.0.0 altidentlfler.net
 0.0.0.0 altlayer-airdrop.onrender.com
-0.0.0.0 altlayer-labs.com
 0.0.0.0 altlayer-rollup.io
 0.0.0.0 altlayer.claim-connect.click
 0.0.0.0 altlayer.mom
@@ -1826,7 +1826,6 @@
 0.0.0.0 enlisted-portalgaming.com
 0.0.0.0 enstoken.net
 0.0.0.0 entangle-fi.org
-0.0.0.0 enter-treasure.trading
 0.0.0.0 enter-wormhole.network
 0.0.0.0 entry.secureentry.live
 0.0.0.0 enudeekc.one
@@ -3329,6 +3328,7 @@
 0.0.0.0 mike-token-web-qdclhqzos-miketoken.vercel.app
 0.0.0.0 miltamasklog.github.io
 0.0.0.0 mindstar-pancakeswap.vercel.app
+0.0.0.0 mine-mantanetwork.pages.dev
 0.0.0.0 minerpix.com.br
 0.0.0.0 mining-clouds.com
 0.0.0.0 mining113.com
@@ -4019,6 +4019,7 @@
 0.0.0.0 pancakeswapdrop78.vercel.app
 0.0.0.0 pancakeswaper.app
 0.0.0.0 pancakeswapertoday.xyz
+0.0.0.0 pancakeswapes.finance
 0.0.0.0 pancakeswapfiinance.xyz
 0.0.0.0 pancakeswapfinance-catamoto.pages.dev
 0.0.0.0 pancakeswapfinance-gg3.pages.dev
@@ -4477,7 +4478,6 @@
 0.0.0.0 rarible-nft.com
 0.0.0.0 rarible.quest
 0.0.0.0 rational-zerosolvosmartverse.pro
-0.0.0.0 ravokecash.org
 0.0.0.0 raydiu.com
 0.0.0.0 raydium.fun
 0.0.0.0 raydium.lo.web3-connect.pw
