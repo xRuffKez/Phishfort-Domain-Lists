@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May  6 01:28:55 UTC 2024
+# PhishFort Small Domain List - Mon May  6 02:15:01 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6587
+# Number of Entries: 6498
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -29,7 +29,6 @@
 ||1inch.box^
 ||1inch.fyi^
 ||1inch.web3connect.mom^
-||1inchcode.newfinancialmarketworld.com^
 ||1inchfinance.com^
 ||1inchnetwork.org^
 ||1inchv4.fi^
@@ -40,7 +39,6 @@
 ||1yagodame.com^
 ||2-fa-metmask.io^
 ||2000usdc.net^
-||2000usdt.net^
 ||2024gmcsilverado.website^
 ||24x7enterpriserental.agency^
 ||25j0.cc^
@@ -113,7 +111,6 @@
 ||aark.finance^
 ||aark.pm^
 ||aatranferinc.com^
-||aave-aave.lt^
 ||aave-finance.net^
 ||aave-gifts.com^
 ||aave-pi.vercel.app^
@@ -231,7 +228,6 @@
 ||aidogedrop.org^
 ||aiearni.com^
 ||aigentx.gift^
-||aione-lab.pro^
 ||aipadmainnet.network^
 ||air-hoppersreview.com^
 ||air2-blast.xyz^
@@ -266,7 +262,6 @@
 ||airdrop-zerolend.app^
 ||airdrop-zerolend.network^
 ||airdrop-zksync.com^
-||airdrop.activechain.io^
 ||airdrop.altaver.xyz^
 ||airdrop.altlayer.ai^
 ||airdrop.atlayer.io^
@@ -313,7 +308,6 @@
 ||airswaps.io^
 ||airtm-22.com^
 ||airtm-9.com^
-||airtm-buss-pro.netlify.app^
 ||airtm.com.br^
 ||airtm.help^
 ||airtm11.com^
@@ -330,11 +324,9 @@
 ||albersafewayst.com^
 ||aleixogomes.com.br^
 ||algogold.com^
-||alienswape.shop^
 ||all4whitelisted.pages.dev^
 ||allenanna.com^
 ||allfixednodes.pages.dev^
-||allianceblock-io.events^
 ||allied.newapponline.best^
 ||allied.online-portal.best^
 ||allin1.cx^
@@ -370,9 +362,7 @@
 ||altlayer-labs.com^
 ||altlayer-rollup.io^
 ||altlayer.claim-connect.click^
-||altlayer.fo^
 ||altlayer.mom^
-||altlayer.top^
 ||altlayers.top^
 ||altlayre.cloud^
 ||altredx.com^
@@ -407,13 +397,11 @@
 ||apechainreload.com^
 ||apecoin-aidrop-claim.codeanyapp.com^
 ||apecoin-airdrop-claim-pooldrop.codeanyapp.com^
-||apecoin-drop.web.app^
 ||apecoin-pass.com^
 ||apecoin-web3.com^
 ||aperiron.rxp.app^
 ||apes-coinz-claim.com^
 ||apesglves.com^
-||apeswap-finance.info^
 ||apeswap.us^
 ||apeterminal.link^
 ||apeterminal.lol^
@@ -431,8 +419,6 @@
 ||apn.com.np^
 ||apnasecure.com^
 ||app-aerodorme.finance^
-||app-ait.pages.dev^
-||app-amulet-amuverse.pages.dev^
 ||app-angle.money^
 ||app-axeinifnity.com^
 ||app-betafinance.org^
@@ -451,7 +437,6 @@
 ||app-mdex.one^
 ||app-metamask-kyc-auth.com^
 ||app-metamsak-io-conditionapp.netlify.app^
-||app-metis.io^
 ||app-moonhq.com^
 ||app-nibirufi-checkers.vercel.app^
 ||app-pacmoon.org^
@@ -461,10 +446,6 @@
 ||app-planetrefi.com^
 ||app-rage-trades.com^
 ||app-renzoprotocol.com^
-||app-safeswap-io.pages.dev^
-||app-sakaivaults.pages.dev^
-||app-shapeshift.xyz^
-||app-sheesha.pages.dev^
 ||app-spaks.sbs^
 ||app-spark-fi.ipns.dweb.link^
 ||app-starknet.io^
@@ -472,7 +453,6 @@
 ||app-susa.exchange^
 ||app-thruster-finance.aadhyaca.com^
 ||app-thruster.finance^
-||app-ubeswap.vercel.app^
 ||app-uniswaps.com^
 ||app-velvet.capital^
 ||app-venus.io^
@@ -503,7 +483,6 @@
 ||app.aìrtm.com^
 ||app.aỉrtm-2.com^
 ||app.blastclaim.com^
-||app.claims-richquack.com^
 ||app.csv-airtm.com^
 ||app.defi-origin.com^
 ||app.earn-swellnetwork.com^
@@ -523,8 +502,6 @@
 ||app.pepepay.finance^
 ||app.prisrnafinance.com^
 ||app.qirtm.com^
-||app.raticswap.xyz^
-||app.refundcoinstake.com^
 ||app.renzoprotocols.net^
 ||app.solvsprotocol.com^
 ||app.spy-token.io^
@@ -532,9 +509,7 @@
 ||app.swellnetwork.fi^
 ||app.syncus.mx^
 ||app.trezoriosstart.com^
-||app.unsiwap.us.com^
 ||app.vertexprotocoi.com^
-||app.walletguard.cloud^
 ||app.wormholider.com^
 ||app.xn--1nch-qpa.io^
 ||app.zenomedequipment.com^
@@ -579,11 +554,9 @@
 ||appsweb-server787.pages.dev^
 ||appsyncsmartversal.pro^
 ||apptokenmint.com^
-||appvirtuals.webcindario.com^
 ||appzlink.com^
 ||apr-vectorreserve.network^
 ||aps.bifi-yleld.xyz^
-||aptos.trusthubs.top^
 ||apygatercptools.web.app^
 ||aquilibrium.club^
 ||araemex.com^
@@ -605,9 +578,6 @@
 ||arbitrum.tr1onex.top^
 ||arbitrum.trustpados.top^
 ||arbitrumbridge.web3app.vip^
-||arbitrumclaims.net^
-||arbitrumnova.pages.dev^
-||arbitrumpresale.netlify.app^
 ||arbitrumsurveys.com^
 ||arbitrurrm.foundation^
 ||arbiusupgrade.ai^
@@ -656,7 +626,6 @@
 ||atf.mkwk.one^
 ||atlas3io-prime-kongz.web.app^
 ||atmospipelinestorage.com^
-||atom.trasthub.top^
 ||att-100402.weeblysite.com^
 ||audius.gift^
 ||auroravortex.org^
@@ -682,9 +651,7 @@
 ||autorestore.pages.dev^
 ||autotecc.pages.dev^
 ||autovalidateweb3.pages.dev^
-||avalchain-bridge.com^
 ||avantiengineering.org^
-||avax-chain-staking.pages.dev^
 ||avax-gains.xyz^
 ||avaxtoken.pro^
 ||awesomestrawberry.za.com^
@@ -935,12 +902,9 @@
 ||bookinghotel-word.com^
 ||bopan.xyz^
 ||borgverse.app^
-||borovik.foundation^
-||borroefinnance.web.app^
 ||boson-faucet.pages.dev^
 ||bostonglobemediapr.com^
 ||bots-collabland.pages.dev^
-||bottlepay.freedim.com.ua^
 ||bouyguesgroups.com^
 ||bouyguesiptv.fr^
 ||bovr8d.cc^
@@ -950,7 +914,6 @@
 ||boxes-coin.web.app^
 ||boxeseden.web.app^
 ||boxmint-project.web.app^
-||bpxtoken.network^
 ||bqyzcn2.cc^
 ||brailex.com^
 ||brands4less.com.py^
@@ -976,7 +939,6 @@
 ||build.astarlabs.org^
 ||buildtheenterprise.org^
 ||buildweb3dev.xyz^
-||bullsandbearsstore.com^
 ||bups.pro^
 ||burnmintopensea.firebaseapp.com^
 ||bursapimapen.com^
@@ -1014,7 +976,6 @@
 ||cake-swapper.com^
 ||cake.5degrees.io^
 ||cakedefi-web3.com^
-||cakedpie.net^
 ||cakekoreanswap.site^
 ||cakelottery.finance^
 ||cakelottery.online^
@@ -1022,7 +983,6 @@
 ||cakepies-web3.app^
 ||cakepiexyz.pages.dev^
 ||cakes-reward.xyz^
-||cakespie.org^
 ||cakesw-offers.com^
 ||cakeswp.app^
 ||cakeudefi.biz^
@@ -1034,8 +994,6 @@
 ||camaroterj-ticketm.online^
 ||cambridgesecure.seconfirmationdev.com^
 ||cambridgetraders.com^
-||camel-e8m.pages.dev^
-||camelot.exchange.pe^
 ||camelot.magpiexyz.io.wallet-connect.site^
 ||camelot.magpiexyz.io.web-3.li^
 ||cancelar-ahorat.webcindario.com^
@@ -1045,7 +1003,6 @@
 ||canhanbidv.com^
 ||cantermexi.com^
 ||capcutforpc.store^
-||capsule-zskync.net^
 ||caraji.com^
 ||career-ecolab.com^
 ||careerskier.co.uk^
@@ -1081,7 +1038,6 @@
 ||centralpoultryprocessingscoltd.com^
 ||centralseedandchem.co.nz^
 ||centurysgold.net^
-||ceoltis.com^
 ||cfdconnect.online^
 ||chaemlist.org^
 ||chaenlict.org^
@@ -1095,7 +1051,6 @@
 ||chainbugs.org^
 ||chainclaim-zerionindex.pages.dev^
 ||chainclaimzerion.pages.dev^
-||chainflip.team^
 ||chaingefinancetoken.pages.dev^
 ||chaingev2-airdrop.pages.dev^
 ||chainlabsv2.org^
@@ -1137,9 +1092,7 @@
 ||chriscraft.shop^
 ||chrome-extension-nkbihfbeogaeaoeh.mx^
 ||chrome.pancakeswap.finance.multichains.live^
-||chronoforgedeed.xyz^
 ||chronoforgenft.com^
-||chugsblue.com^
 ||ciaiming.com^
 ||ciel-tower.ae^
 ||ciel-tower.goldpillars.ae^
@@ -1147,23 +1100,18 @@
 ||circuloargo.net^
 ||ciscoconnecctt.com^
 ||ciscoinvetments.com^
-||ciscojobsapply.com^
 ||ciscojobsform.com^
-||ciscosystemsinc.online^
 ||cittyindex.com^
 ||city-index.net^
 ||claiimmystreyboxnft.com^
 ||claiimopenboxnfts.com^
-||clailmreward.xyz^
 ||claim-1inch.org^
 ||claim-all-rewards.pages.dev^
-||claim-argent.xyz^
 ||claim-bigeyes.network^
 ||claim-binance.net^
 ||claim-blast-io.com^
 ||claim-blastgg.xlaunch-pad.xyz^
 ||claim-block.com^
-||claim-bob.me^
 ||claim-cake.web.app^
 ||claim-dacat-dapp.live^
 ||claim-dapps.pages.dev^
@@ -1193,7 +1141,6 @@
 ||claim-pancakeswep.web.app^
 ||claim-pandoshi.web.app^
 ||claim-pendlefinance.com^
-||claim-pepev2.com^
 ||claim-poodlinu.pages.dev^
 ||claim-realio.net^
 ||claim-refund.github.io^
@@ -1238,7 +1185,6 @@
 ||claim.pancakeswap.cfd^
 ||claim.penddle.fun^
 ||claim.pendle.solutions^
-||claim.renqapp.live^
 ||claim.retikapps.com^
 ||claim.riftswap.net^
 ||claim.sharkscatsol.xyz^
@@ -1314,7 +1260,6 @@
 ||cloudflare-colinbese-nft.com^
 ||cloudinry.net^
 ||clrscr.net^
-||cmlink.xyz^
 ||cmtzconstructionllc.com^
 ||cndipn.pro^
 ||co-insauhgdsadhij.com^
@@ -1406,13 +1351,11 @@
 ||colleb-verify.xyz^
 ||collect-blast.com^
 ||collection-satoshivm.io^
-||collecttion.store^
 ||colllab.xyz^
 ||com-official.top^
 ||com3.sa.com^
 ||community-center.shop^
 ||community-coindesk.com^
-||community-dappradar.com^
 ||community-guard.com^
 ||compoundtrades.net^
 ||con-wall-3web.pages.dev^
@@ -1445,7 +1388,6 @@
 ||consensysclaim.com^
 ||consorciochevroletmd.com.br^
 ||contractclaim.netlify.app^
-||convex-finance.xyz^
 ||convexfinance.io^
 ||coplinhealth.local-user.com^
 ||coqinucoin.claims^
@@ -1456,7 +1398,6 @@
 ||coti.xcoindrop.top^
 ||cov.us-mia-1.linodeobjects.com^
 ||cow-swap.app^
-||cow.trading^
 ||cowchange.com^
 ||cowswap.app^
 ||cozartweb.com^
@@ -1465,7 +1406,6 @@
 ||cpf-sponsoring.com^
 ||cpluselephznt.ru.com^
 ||crashout.run^
-||create-starknet-app.xyz^
 ||creatvedestructionlab.com^
 ||creepezco.com^
 ||creepzrebirth.com^
@@ -1499,7 +1439,6 @@
 ||cubeexchange.co^
 ||cumminsusa.com^
 ||cwboffshoreonl.com^
-||cwboffshoreonline.com^
 ||cwestba.com^
 ||cwrestorevercelapp.com^
 ||cxmdidazc.com^
@@ -1517,8 +1456,6 @@
 ||d858069ef3b9e6df858069ef3b9e.pages.dev^
 ||dac2yur.cc^
 ||dadawgs.tech^
-||dalarnas.site^
-||dalarnas.website^
 ||dama.or.tz^
 ||dao-nfts.web.app^
 ||dao-solana.web.app^
@@ -1540,7 +1477,6 @@
 ||dapp-vulcan.xyz^
 ||dapp.1inch.cm^
 ||dapp.zkmll.systems^
-||dappbay-bnbchain.net^
 ||dappconnect-6w3.pages.dev^
 ||dappconnect.coinmerges.live^
 ||dappconnectauth.pages.dev^
@@ -1608,7 +1544,6 @@
 ||daviplataseeg.webcindario.com^
 ||davitahealthcarepartners.com^
 ||daviviendainforma.zya.me^
-||daviviendaportal.webcindario.com^
 ||dbdefi-discover.com^
 ||dbrs-fin.com^
 ||dbrs-ltd.com^
@@ -1624,7 +1559,6 @@
 ||dealsync.pages.dev^
 ||debank-web3.web.app^
 ||debnhaimes.company.site^
-||debnk.net^
 ||debug-metamask.pages.dev^
 ||debug-multichain.pages.dev^
 ||debug-x.pages.dev^
@@ -1640,7 +1574,6 @@
 ||dechatclaim.pages.dev^
 ||decline1.dvrcam.info^
 ||decrypt-news.com^
-||decryptcoin.online^
 ||dee-lance.net^
 ||deelanceair.co^
 ||deepcoin-trade.com^
@@ -1884,7 +1817,6 @@
 ||emploeemygochek.com^
 ||empowerpersonalasset.com^
 ||empowerprivateasset.com^
-||en-suiswap.net^
 ||en.clcejuun.life^
 ||en.coifixupresolver.com^
 ||en.pushdstore.xyz^
@@ -2003,7 +1935,6 @@
 ||event-pandora.community^
 ||event-realios.com^
 ||event-woo.co^
-||event.airpud.top^
 ||event.gamer-hash.xyz^
 ||event.rewardcoin.top^
 ||event.stockcoin.top^
@@ -2250,7 +2181,6 @@
 ||getgrass.cx^
 ||getmanta.pages.dev^
 ||getmassaulbfnow.com^
-||getmidjourney.tech^
 ||getrewards.life^
 ||gets.dappsradars.online^
 ||getshib.io^
@@ -2714,11 +2644,8 @@
 ||keepertoken.xyz^
 ||kegwat.pro^
 ||kelpdaa.xyz^
-||kelpdao.fun^
 ||kelpdao.link^
 ||kelpdao.live^
-||kelpdao.lol^
-||kelpdao.pro^
 ||kelpdaostoken.xyz^
 ||kelpdeo.xyz^
 ||kelpdoasteke.org^
@@ -3049,7 +2976,6 @@
 ||manta-network.de^
 ||manta-networks.mom^
 ||manta-paciffic.online^
-||manta-project.com^
 ||manta.claimw.xyz^
 ||manta.layerbank.network^
 ||manta.mainnet-airdrop.xyz^
@@ -3652,7 +3578,6 @@
 ||neotokyohq.pro^
 ||netflix-zerionchain.pages.dev^
 ||netnodeconnect.com^
-||network-dymension.com^
 ||network-metamask.com^
 ||network.app--jito.network^
 ||nevadaenergy.customersupports.network^
@@ -4079,7 +4004,6 @@
 ||pancakeswap.cake-web3.com^
 ||pancakeswap.click^
 ||pancakeswap.dikecoin.com^
-||pancakeswap.godaddysites.com^
 ||pancakeswap.sipf.cc^
 ||pancakeswap92.vercel.app^
 ||pancakeswapairdrop.com^
@@ -4430,7 +4354,6 @@
 ||priorityonebank.protectedpayroll.com^
 ||private-degenape.com^
 ||pro-collab.land^
-||pro-zetachain.com^
 ||profit-dydx.com^
 ||project-0xconnect.pages.dev^
 ||project-openseaclick.vercel.app^
@@ -4578,7 +4501,6 @@
 ||rectifier-sync.pages.dev^
 ||rectifytrust.com^
 ||rectifywallet.42web.io^
-||redeem-manta.com^
 ||redstonefi.net^
 ||reeboks.ink^
 ||reevoke.app^
@@ -4628,7 +4550,6 @@
 ||registration-zetachain.com^
 ||registry-blockgames.com^
 ||registry-linea.build^
-||registry-monad.xyz^
 ||rehapp.xyz^
 ||reiki-web3go.xyz^
 ||reloadsula.pages.dev^
@@ -4876,7 +4797,6 @@
 ||sea-list.com^
 ||seapro.tech^
 ||season1-nobody.com^
-||season1-zetachain.com^
 ||seatoken-airdrop.com^
 ||seatokenclaim.com^
 ||seatsent.com^
@@ -5089,7 +5009,6 @@
 ||spaceld.cyou^
 ||spacequest-jup.ag^
 ||spacex-airdrop-1f381.web.app^
-||spadaro.id.au^
 ||spark-claim.org^
 ||spark-fi.xyz^
 ||sparkfi.net^
@@ -5119,7 +5038,6 @@
 ||stag.token.mlteam.net^
 ||staikewise.net^
 ||stake-gtprotocol.com^
-||stake-injective.com^
 ||stake-jup.com^
 ||stake-official-online.com^
 ||stake-roninchain.com^
@@ -5134,7 +5052,6 @@
 ||stakestone.mom^
 ||stakestone.site^
 ||stakewise.li^
-||stakewise.tech^
 ||stakeyieldmagnet.io^
 ||stakezircuit.xyz^
 ||staking-0lz83.github.io^
@@ -5350,7 +5267,6 @@
 ||tensors.site^
 ||terminal-befilabs.com^
 ||terra-claim.xyz^
-||terradrop.net^
 ||tesairdrop.online^
 ||tesdt56n.pages.dev^
 ||test-project-llfwf7bel-artemkk787-gmailcom.vercel.app^
@@ -5786,7 +5702,6 @@
 ||vulcanforged-claim.com^
 ||vult.codefinesse.com^
 ||vvebaply-vvall-io.top^
-||vvebexx.co^
 ||vverify-nibirufi.vercel.app^
 ||vww-1inch.com^
 ||vy.starrcooporate.com^
@@ -5962,7 +5877,6 @@
 ||wenwencoineth.com^
 ||wenwencoins.xyz^
 ||wenwencoln.com^
-||wenwenofficial.com^
 ||wesltchekspas.com^
 ||west-braves.info^
 ||westcon.com.mx^
@@ -6157,14 +6071,12 @@
 ||www.dappsresolver.com^
 ||www.dartya.cc^
 ||www.debenhams-deals.com^
-||www.decntralnd.one^
 ||www.decora-cabinets.com^
 ||www.degen.hakunamatatasol.com^
 ||www.deramavia.com^
 ||www.dex-bitconnect.lol^
 ||www.du.normbyte.online^
 ||www.du.uibits.online^
-||www.earn-drop.club^
 ||www.eigen-layer.sale^
 ||www.eigenlaver.magpiexyz.site^
 ||www.elettrovisiongroup.com^
@@ -6484,7 +6396,6 @@
 ||xrb3.pro^
 ||xrp-2024.org^
 ||xrp-drop.web.app^
-||xrp.excopad.top^
 ||xrpdistributions.firebaseapp.com^
 ||xrpdistributions.web.app^
 ||xrpepeofficial.com^
