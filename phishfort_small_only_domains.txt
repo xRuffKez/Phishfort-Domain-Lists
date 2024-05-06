@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Mon May  6 17:05:07 UTC 2024
+# PhishFort Small Domain List - Mon May  6 18:06:35 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6425
+# Number of Entries: 6420
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -147,6 +147,7 @@ acquaintrecurrence.top
 acrosss-bridge.xyz
 acrossto-v2.org
 active-supp-ort-meta.netlify.app
+admin.ebay9988.com
 admin.makerdao.top
 admincoinbase.the123456789.com
 adslauncher.eu
@@ -1378,6 +1379,7 @@ coqinucoin.claims
 corcentrc.com
 cornerpunks.org
 corporativolear.com
+cortevainc.com
 cosmos-networks.net
 coti.xcoindrop.top
 cov.us-mia-1.linodeobjects.com
@@ -1394,7 +1396,6 @@ creatvedestructionlab.com
 creepezco.com
 creepzrebirth.com
 crepzz.app
-crgauctions.com
 cronos-bridge.org
 cronus-airdrop.info
 croptyloanhub.com
@@ -2351,7 +2352,6 @@ hubuoasys-games.com
 humminglinkgg.world
 hunnerdimental.com
 hvqk.pro
-hwy407etr.com
 hxig64w.pro
 hyper-liquid.com
 hyperpaytech.com
@@ -3385,7 +3385,6 @@ mrestore.vercel.app
 mrgn-alphadao.web.app
 msgive.io
 msk-airdrop.live
-msmax.vip
 mtamskwalogs.azurewebsites.net
 mtc-speed.web.app
 mujeresautistas.com
@@ -4493,7 +4492,6 @@ registration-fantasy.top
 registration-fantom.network
 registration-jup.ag
 registration-linea.com
-registration-mixmob.io
 registration-superverse.com
 registration-wehavenohandle.com
 registration-zetachain.com
@@ -4610,7 +4608,6 @@ ronienchaim.com
 ronin-app.com
 ronin-chain.app
 ronin-wallets.godaddysites.com
-roninchain.cc
 roninchain.cloud
 roninchain.shop
 roninchain.wtf
@@ -5182,7 +5179,6 @@ takeitnow.pro
 tamairdrop.netlify.app
 taob-ai.com
 taobank.net
-taodan2014.com
 tasfinancial.co
 tataconsultancy.in
 tataconsultants.com
@@ -5838,7 +5834,6 @@ wi789.vip
 widget-additional.pages.dev
 wigggin.com
 wild.gift
-winnebagoindustries.online
 winnings-beam.net
 winsolana.org
 wizink.app-cartaopt.site
