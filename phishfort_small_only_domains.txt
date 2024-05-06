@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Mon May  6 09:05:17 UTC 2024
+# PhishFort Small Domain List - Mon May  6 10:05:10 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6470
+# Number of Entries: 6469
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3321,7 +3321,6 @@ minipepe-coins.com
 ministerstwosprawiedliwosci.com
 minnimi.com.ua
 minootv.com
-mint-brewriders.com
 mint-nakamigos.vercel.app
 mint-opeansea.web.app
 mint-swap.buzz

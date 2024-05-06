@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May  6 09:05:17 UTC 2024
+# PhishFort Small Domain List - Mon May  6 10:05:10 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6470
+# Number of Entries: 6469
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3322,7 +3322,6 @@
 0.0.0.0 ministerstwosprawiedliwosci.com
 0.0.0.0 minnimi.com.ua
 0.0.0.0 minootv.com
-0.0.0.0 mint-brewriders.com
 0.0.0.0 mint-nakamigos.vercel.app
 0.0.0.0 mint-opeansea.web.app
 0.0.0.0 mint-swap.buzz
