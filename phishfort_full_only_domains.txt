@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Tue May  7 19:01:59 UTC 2024
+# PhishFort Full Domain List - Tue May  7 20:01:59 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109275
+# Number of Entries: 109276
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -69627,6 +69627,7 @@ paxfulsys.com
 paxfulsystem.com
 paxfult.com
 paxfulteams.com
+paxfultechnicals.com.ng
 paxfulterm.com
 paxfultf.com
 paxfultrade.gq
