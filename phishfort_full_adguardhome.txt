@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 20:01:59 UTC 2024
+# PhishFort Full Domain List - Tue May  7 21:01:49 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109276
+# Number of Entries: 109278
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -81758,6 +81758,7 @@
 ||somnia-network-web3.vercel.app^
 ||somoscorujasbraz.blogspot.com^
 ||somtu.edu.np^
+||sonae.com.ng^
 ||sonae.sale^
 ||sonalt.com^
 ||sonicliquidateforum.website^
@@ -100525,6 +100526,7 @@
 ||www.fastharmonybridge.com^
 ||www.fastmining.pro^
 ||www.faucet-earn.site^
+||www.fcmdlo.com^
 ||www.fcrohne.top^
 ||www.fearlessnetpreneur.com^
 ||www.fegtoken.live^

@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 20:01:59 UTC 2024
+# PhishFort Full Domain List - Tue May  7 21:01:49 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109276
+# Number of Entries: 109278
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -81758,6 +81758,7 @@
 0.0.0.0 somnia-network-web3.vercel.app
 0.0.0.0 somoscorujasbraz.blogspot.com
 0.0.0.0 somtu.edu.np
+0.0.0.0 sonae.com.ng
 0.0.0.0 sonae.sale
 0.0.0.0 sonalt.com
 0.0.0.0 sonicliquidateforum.website
@@ -100525,6 +100526,7 @@
 0.0.0.0 www.fastharmonybridge.com
 0.0.0.0 www.fastmining.pro
 0.0.0.0 www.faucet-earn.site
+0.0.0.0 www.fcmdlo.com
 0.0.0.0 www.fcrohne.top
 0.0.0.0 www.fearlessnetpreneur.com
 0.0.0.0 www.fegtoken.live
