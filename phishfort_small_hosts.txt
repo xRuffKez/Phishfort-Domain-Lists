@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Tue May  7 00:18:33 UTC 2024
+# PhishFort Small Domain List - Tue May  7 01:28:27 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 6421
@@ -2725,7 +2725,6 @@
 0.0.0.0 legacy-unibot.web.app
 0.0.0.0 leisureglob.com
 0.0.0.0 lenanet.work
-0.0.0.0 lending-tree-month-1-d12f2.web.app
 0.0.0.0 lendingtree.website
 0.0.0.0 lendingtree1.mydurable.com
 0.0.0.0 lendingtreeincusa.com
@@ -4453,6 +4452,7 @@
 0.0.0.0 rectifier-sync.pages.dev
 0.0.0.0 rectifytrust.com
 0.0.0.0 rectifywallet.42web.io
+0.0.0.0 redirect-airtm.com
 0.0.0.0 redstonefi.net
 0.0.0.0 reeboks.ink
 0.0.0.0 reevoke.app

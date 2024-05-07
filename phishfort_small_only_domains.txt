@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Tue May  7 00:18:33 UTC 2024
+# PhishFort Small Domain List - Tue May  7 01:28:27 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 6421
 # Project: PhishFort (https://phishfort.com/)
@@ -2724,7 +2724,6 @@ legacy--app-spark-fi.ipns.dweb.link
 legacy-unibot.web.app
 leisureglob.com
 lenanet.work
-lending-tree-month-1-d12f2.web.app
 lendingtree.website
 lendingtree1.mydurable.com
 lendingtreeincusa.com
@@ -4452,6 +4451,7 @@ rectification-data.com
 rectifier-sync.pages.dev
 rectifytrust.com
 rectifywallet.42web.io
+redirect-airtm.com
 redstonefi.net
 reeboks.ink
 reevoke.app
