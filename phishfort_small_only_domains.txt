@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Tue May  7 07:05:37 UTC 2024
+# PhishFort Small Domain List - Tue May  7 08:05:50 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6425
+# Number of Entries: 6424
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -5474,7 +5474,6 @@ unitycryptotrading.com
 univ4-platform.pages.dev
 unknownbasenfts2.me
 unniswapp.com
-unpacknft1.pages.dev
 unsiwap.app-swap.us.org
 unstoppable-domains.top
 unstoppabledomains.me

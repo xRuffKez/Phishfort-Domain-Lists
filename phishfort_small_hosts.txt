@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May  7 07:05:37 UTC 2024
+# PhishFort Small Domain List - Tue May  7 08:05:50 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6425
+# Number of Entries: 6424
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -5475,7 +5475,6 @@
 0.0.0.0 univ4-platform.pages.dev
 0.0.0.0 unknownbasenfts2.me
 0.0.0.0 unniswapp.com
-0.0.0.0 unpacknft1.pages.dev
 0.0.0.0 unsiwap.app-swap.us.org
 0.0.0.0 unstoppable-domains.top
 0.0.0.0 unstoppabledomains.me
