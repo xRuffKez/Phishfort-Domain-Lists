@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 11:02:51 UTC 2024
+# PhishFort Full Domain List - Tue May  7 12:02:47 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109262
+# Number of Entries: 109263
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -41366,6 +41366,7 @@
 0.0.0.0 jedz.co.za
 0.0.0.0 jeepgarageve.com
 0.0.0.0 jeepvult.org
+0.0.0.0 jefferies.asia
 0.0.0.0 jefferies.ceo
 0.0.0.0 jefferies.top
 0.0.0.0 jefferies.tw

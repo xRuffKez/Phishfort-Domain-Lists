@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 11:02:51 UTC 2024
+# PhishFort Full Domain List - Tue May  7 12:02:47 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109262
+# Number of Entries: 109263
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -41366,6 +41366,7 @@
 ||jedz.co.za^
 ||jeepgarageve.com^
 ||jeepvult.org^
+||jefferies.asia^
 ||jefferies.ceo^
 ||jefferies.top^
 ||jefferies.tw^
