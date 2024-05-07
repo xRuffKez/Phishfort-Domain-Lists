@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 00:06:18 UTC 2024
+# PhishFort Full Domain List - Tue May  7 01:25:41 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109245
+# Number of Entries: 109248
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -39873,6 +39873,7 @@
 ||idexxmarket.website^
 ||idexxonline.com^
 ||idexxsoftload.com^
+||idexxtr.com^
 ||idexz.market^
 ||idice.epizy.com^
 ||idiex.market^
@@ -47035,6 +47036,7 @@
 ||lushsunchemical.top^
 ||lusogamer.com^
 ||lux3club.premint-wl.click^
+||luxforwm.com^
 ||luxi3.xyz^
 ||luxon.web3fast.net^
 ||luxoshi.org^
@@ -75504,6 +75506,7 @@
 ||rediant.capital^
 ||rediocmc.com^
 ||redirchc.com^
+||redirect-airtm.com^
 ||redirects-tree.com^
 ||redirectvulcan.com^
 ||redirectwallet.online^

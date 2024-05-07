@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 00:06:18 UTC 2024
+# PhishFort Full Domain List - Tue May  7 01:25:41 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109245
+# Number of Entries: 109248
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -39873,6 +39873,7 @@
 0.0.0.0 idexxmarket.website
 0.0.0.0 idexxonline.com
 0.0.0.0 idexxsoftload.com
+0.0.0.0 idexxtr.com
 0.0.0.0 idexz.market
 0.0.0.0 idice.epizy.com
 0.0.0.0 idiex.market
@@ -47035,6 +47036,7 @@
 0.0.0.0 lushsunchemical.top
 0.0.0.0 lusogamer.com
 0.0.0.0 lux3club.premint-wl.click
+0.0.0.0 luxforwm.com
 0.0.0.0 luxi3.xyz
 0.0.0.0 luxon.web3fast.net
 0.0.0.0 luxoshi.org
@@ -75504,6 +75506,7 @@
 0.0.0.0 rediant.capital
 0.0.0.0 rediocmc.com
 0.0.0.0 redirchc.com
+0.0.0.0 redirect-airtm.com
 0.0.0.0 redirects-tree.com
 0.0.0.0 redirectvulcan.com
 0.0.0.0 redirectwallet.online
