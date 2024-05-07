@@ -1,14 +1,13 @@
-# PhishFort Small Domain List - Tue May  7 13:05:04 UTC 2024
+# PhishFort Small Domain List - Tue May  7 14:04:53 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6392
+# Number of Entries: 6369
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
 0.0.0.0 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 0.0.0.0 02nat.mypsx.net
 0.0.0.0 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
-0.0.0.0 0l9c6xn.info
 0.0.0.0 0pensea-click.vercel.app
 0.0.0.0 0x4ee15erf903e2634abe0e.com
 0.0.0.0 1-eu9.pages.dev
@@ -236,7 +235,6 @@
 0.0.0.0 airdrop-atlayer.io
 0.0.0.0 airdrop-blast.network
 0.0.0.0 airdrop-caga.web.app
-0.0.0.0 airdrop-defi.online
 0.0.0.0 airdrop-eesee.com
 0.0.0.0 airdrop-gomble.app
 0.0.0.0 airdrop-gomble.digital
@@ -387,7 +385,6 @@
 0.0.0.0 angledao.net
 0.0.0.0 animalfarm3app.com
 0.0.0.0 animalia.trading
-0.0.0.0 animalias.events
 0.0.0.0 anisovil.pro
 0.0.0.0 ankr.world
 0.0.0.0 aojz.cc
@@ -451,10 +448,8 @@
 0.0.0.0 app-thruster-finance.aadhyaca.com
 0.0.0.0 app-thruster.finance
 0.0.0.0 app-uniswaps.com
-0.0.0.0 app-velvet.capital
 0.0.0.0 app-venus.io
 0.0.0.0 app-vulcan.org
-0.0.0.0 app-whales.market
 0.0.0.0 app-wormhole.com
 0.0.0.0 app-xpet.tech
 0.0.0.0 app.1inch.lc
@@ -780,7 +775,6 @@
 0.0.0.0 bitcoin-whales.wales
 0.0.0.0 bitcoindogsclub-65w.pages.dev
 0.0.0.0 bitcoinxcash.com
-0.0.0.0 bithotel.co
 0.0.0.0 biticlash.com
 0.0.0.0 bitilandos.com
 0.0.0.0 bitimeta.space
@@ -870,7 +864,6 @@
 0.0.0.0 bnbheibaie.quest
 0.0.0.0 bnbmakerdao.online
 0.0.0.0 bnbminner.com
-0.0.0.0 bncoparticlar-apps.systeme.io
 0.0.0.0 bnfran.lat
 0.0.0.0 boardversepromptfil.pages.dev
 0.0.0.0 bobaoppas.xyz
@@ -883,7 +876,6 @@
 0.0.0.0 bonelp.com
 0.0.0.0 bonk-premium.web.app
 0.0.0.0 bonk-token.xyz
-0.0.0.0 bonus-defi.network
 0.0.0.0 bonus-injective.com
 0.0.0.0 bonuses-defi.network
 0.0.0.0 bookaflightwithunitedairlines.statuspage.io
@@ -1295,7 +1287,6 @@
 0.0.0.0 coinomize-app.pages.dev
 0.0.0.0 coinomize-mixer.pages.dev
 0.0.0.0 coinrectifynode.live
-0.0.0.0 coinresearchlab.site
 0.0.0.0 coins.tr1onex.top
 0.0.0.0 coinsquarelogin.com
 0.0.0.0 coinswalletsystem.web.app
@@ -1438,6 +1429,7 @@
 0.0.0.0 d0cusiqn.hottern.click
 0.0.0.0 d858069ef3b9e6df858069ef3b9e.pages.dev
 0.0.0.0 dac2yur.cc
+0.0.0.0 dad.bcust.eu
 0.0.0.0 dadawgs.tech
 0.0.0.0 dama.or.tz
 0.0.0.0 dao-nfts.web.app
@@ -2094,7 +2086,6 @@
 0.0.0.0 games-gala-xx.com
 0.0.0.0 gamesgalina.shop
 0.0.0.0 gamestop-memes.web.app
-0.0.0.0 gaming-superverse.com
 0.0.0.0 gamium.pages.dev
 0.0.0.0 gas-claim-3ag1r.github.io
 0.0.0.0 gas-claim-4gcsj.github.io
@@ -2592,7 +2583,6 @@
 0.0.0.0 juups.io
 0.0.0.0 jwsco.pro
 0.0.0.0 kaijutoys.shop
-0.0.0.0 kameiot.exchange.web3-l2.cfd
 0.0.0.0 kamino-allocation.vercel.app
 0.0.0.0 kamino-financec.one
 0.0.0.0 kamino.life
@@ -2664,7 +2654,6 @@
 0.0.0.0 launch.ansembullish.net
 0.0.0.0 launch.apeterminal.cc
 0.0.0.0 launches-aofverse.com
-0.0.0.0 launches-injective.com
 0.0.0.0 launches-particle.trading
 0.0.0.0 launches-roninchain.com
 0.0.0.0 launches-sharpnel.com
@@ -3636,7 +3625,6 @@
 0.0.0.0 nqzero.sa.com
 0.0.0.0 ns1.bandwidthserver.com
 0.0.0.0 nsds.cc
-0.0.0.0 numboost.ru
 0.0.0.0 nvdacourse.com
 0.0.0.0 nvenergy.customersupports.network
 0.0.0.0 nvfmr.cc
@@ -4284,7 +4272,6 @@
 0.0.0.0 portelbridges.org
 0.0.0.0 portelbrldge.org
 0.0.0.0 portfolio-mask-mask-master-dedi285032.codeanyapp.com
-0.0.0.0 portlacoin.xyz
 0.0.0.0 post-malone.store
 0.0.0.0 ppcroi.net
 0.0.0.0 pppnto.top
@@ -4476,7 +4463,6 @@
 0.0.0.0 registration-fantom.network
 0.0.0.0 registration-jup.ag
 0.0.0.0 registration-linea.com
-0.0.0.0 registration-superverse.com
 0.0.0.0 registration-wehavenohandle.com
 0.0.0.0 registration-zetachain.com
 0.0.0.0 registry-blockgames.com
@@ -4700,7 +4686,6 @@
 0.0.0.0 satoshivm-promo.com
 0.0.0.0 satoshivm.cc
 0.0.0.0 satoshivm.communltiy.com
-0.0.0.0 satoshivn.io
 0.0.0.0 sautikenya.com
 0.0.0.0 savm-app.net
 0.0.0.0 savmtoken.net
@@ -5189,7 +5174,6 @@
 0.0.0.0 test-project-llfwf7bel-artemkk787-gmailcom.vercel.app
 0.0.0.0 test.saf9gti25klom8xz79iyn2s.xyz
 0.0.0.0 test.vortexcapitaltrade.com
-0.0.0.0 testnet-berachain.com
 0.0.0.0 testnet-vm.web.app
 0.0.0.0 testrunner111.pages.dev
 0.0.0.0 testrunner222.pages.dev
@@ -5274,7 +5258,6 @@
 0.0.0.0 ton-telegram.click
 0.0.0.0 ton-telegram.xyz
 0.0.0.0 ton.org-ethsendair.xyz
-0.0.0.0 ton.x-wallet.top
 0.0.0.0 tonblockchain.click
 0.0.0.0 tonchains.one
 0.0.0.0 tonclaim.online
@@ -5393,7 +5376,6 @@
 0.0.0.0 uehgdsa.com
 0.0.0.0 ueplestaret.com
 0.0.0.0 ufalmassuissat.com
-0.0.0.0 ufgw.top
 0.0.0.0 uhcdapp-apply-srv-eligible.glitch.me
 0.0.0.0 uhcrecruit.com
 0.0.0.0 uhcthankyou.com
@@ -5645,7 +5627,6 @@
 0.0.0.0 wallet.ton-kepeer.com
 0.0.0.0 wallet.zerion-eth.top
 0.0.0.0 wallet7.vercel.app
-0.0.0.0 walletconnect-com.vercel.app
 0.0.0.0 walletconnect.app-net.top
 0.0.0.0 walletconnect.dappsynchronizer.live
 0.0.0.0 walletconnect.pages.dev
@@ -5886,8 +5867,6 @@
 0.0.0.0 www.agrtech.tech
 0.0.0.0 www.ahikec.com
 0.0.0.0 www.ai-meme.xyz
-0.0.0.0 www.aionedrop.xyz
-0.0.0.0 www.air-altlayer.com
 0.0.0.0 www.airdropzeroland.xyz
 0.0.0.0 www.airlinesofficeguide.com
 0.0.0.0 www.airtm.services
@@ -5952,7 +5931,6 @@
 0.0.0.0 www.buhgeexhange.com
 0.0.0.0 www.burakglobalfirm.com
 0.0.0.0 www.c592.top
-0.0.0.0 www.cake-reward.shop
 0.0.0.0 www.cakes-reward.xyz
 0.0.0.0 www.catholicf-la.org
 0.0.0.0 www.cbrevokedapp.org
@@ -6011,7 +5989,6 @@
 0.0.0.0 www.games-galla-iiio.com
 0.0.0.0 www.genesis-dimension.xyz
 0.0.0.0 www.genesisdmension.xyz
-0.0.0.0 www.getben.xyz
 0.0.0.0 www.gifts-airtm.com
 0.0.0.0 www.globalpaymentsvtw.com
 0.0.0.0 www.globalpaymentsyttww.com

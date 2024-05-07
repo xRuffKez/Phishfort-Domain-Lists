@@ -1,13 +1,12 @@
-# PhishFort Small Domain List - Tue May  7 13:05:04 UTC 2024
+# PhishFort Small Domain List - Tue May  7 14:04:53 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6392
+# Number of Entries: 6369
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 02nat.mypsx.net
 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
-0l9c6xn.info
 0pensea-click.vercel.app
 0x4ee15erf903e2634abe0e.com
 1-eu9.pages.dev
@@ -235,7 +234,6 @@ airdrop-angle.money
 airdrop-atlayer.io
 airdrop-blast.network
 airdrop-caga.web.app
-airdrop-defi.online
 airdrop-eesee.com
 airdrop-gomble.app
 airdrop-gomble.digital
@@ -386,7 +384,6 @@ angledao.app
 angledao.net
 animalfarm3app.com
 animalia.trading
-animalias.events
 anisovil.pro
 ankr.world
 aojz.cc
@@ -450,10 +447,8 @@ app-susa.exchange
 app-thruster-finance.aadhyaca.com
 app-thruster.finance
 app-uniswaps.com
-app-velvet.capital
 app-venus.io
 app-vulcan.org
-app-whales.market
 app-wormhole.com
 app-xpet.tech
 app.1inch.lc
@@ -779,7 +774,6 @@ bitcasino.rocks
 bitcoin-whales.wales
 bitcoindogsclub-65w.pages.dev
 bitcoinxcash.com
-bithotel.co
 biticlash.com
 bitilandos.com
 bitimeta.space
@@ -869,7 +863,6 @@ bnb-crypto.xyz
 bnbheibaie.quest
 bnbmakerdao.online
 bnbminner.com
-bncoparticlar-apps.systeme.io
 bnfran.lat
 boardversepromptfil.pages.dev
 bobaoppas.xyz
@@ -882,7 +875,6 @@ bondexapp.network
 bonelp.com
 bonk-premium.web.app
 bonk-token.xyz
-bonus-defi.network
 bonus-injective.com
 bonuses-defi.network
 bookaflightwithunitedairlines.statuspage.io
@@ -1294,7 +1286,6 @@ coinnode.online
 coinomize-app.pages.dev
 coinomize-mixer.pages.dev
 coinrectifynode.live
-coinresearchlab.site
 coins.tr1onex.top
 coinsquarelogin.com
 coinswalletsystem.web.app
@@ -1437,6 +1428,7 @@ d.moodysmfof.top
 d0cusiqn.hottern.click
 d858069ef3b9e6df858069ef3b9e.pages.dev
 dac2yur.cc
+dad.bcust.eu
 dadawgs.tech
 dama.or.tz
 dao-nfts.web.app
@@ -2093,7 +2085,6 @@ gamee-snapshots.vercel.app
 games-gala-xx.com
 gamesgalina.shop
 gamestop-memes.web.app
-gaming-superverse.com
 gamium.pages.dev
 gas-claim-3ag1r.github.io
 gas-claim-4gcsj.github.io
@@ -2591,7 +2582,6 @@ jups.io
 juups.io
 jwsco.pro
 kaijutoys.shop
-kameiot.exchange.web3-l2.cfd
 kamino-allocation.vercel.app
 kamino-financec.one
 kamino.life
@@ -2663,7 +2653,6 @@ launch-uniswapv3.com
 launch.ansembullish.net
 launch.apeterminal.cc
 launches-aofverse.com
-launches-injective.com
 launches-particle.trading
 launches-roninchain.com
 launches-sharpnel.com
@@ -3635,7 +3624,6 @@ npaautocare.zouxiaodong.workers.dev
 nqzero.sa.com
 ns1.bandwidthserver.com
 nsds.cc
-numboost.ru
 nvdacourse.com
 nvenergy.customersupports.network
 nvfmr.cc
@@ -4283,7 +4271,6 @@ portalsbridg.com
 portelbridges.org
 portelbrldge.org
 portfolio-mask-mask-master-dedi285032.codeanyapp.com
-portlacoin.xyz
 post-malone.store
 ppcroi.net
 pppnto.top
@@ -4475,7 +4462,6 @@ registration-fantasy.top
 registration-fantom.network
 registration-jup.ag
 registration-linea.com
-registration-superverse.com
 registration-wehavenohandle.com
 registration-zetachain.com
 registry-blockgames.com
@@ -4699,7 +4685,6 @@ satoshivm-finance.com
 satoshivm-promo.com
 satoshivm.cc
 satoshivm.communltiy.com
-satoshivn.io
 sautikenya.com
 savm-app.net
 savmtoken.net
@@ -5188,7 +5173,6 @@ tesdt56n.pages.dev
 test-project-llfwf7bel-artemkk787-gmailcom.vercel.app
 test.saf9gti25klom8xz79iyn2s.xyz
 test.vortexcapitaltrade.com
-testnet-berachain.com
 testnet-vm.web.app
 testrunner111.pages.dev
 testrunner222.pages.dev
@@ -5273,7 +5257,6 @@ ton-chain.top
 ton-telegram.click
 ton-telegram.xyz
 ton.org-ethsendair.xyz
-ton.x-wallet.top
 tonblockchain.click
 tonchains.one
 tonclaim.online
@@ -5392,7 +5375,6 @@ udu3.cc
 uehgdsa.com
 ueplestaret.com
 ufalmassuissat.com
-ufgw.top
 uhcdapp-apply-srv-eligible.glitch.me
 uhcrecruit.com
 uhcthankyou.com
@@ -5644,7 +5626,6 @@ wallet.orb-crypto.com
 wallet.ton-kepeer.com
 wallet.zerion-eth.top
 wallet7.vercel.app
-walletconnect-com.vercel.app
 walletconnect.app-net.top
 walletconnect.dappsynchronizer.live
 walletconnect.pages.dev
@@ -5885,8 +5866,6 @@ www.agodaycs.net
 www.agrtech.tech
 www.ahikec.com
 www.ai-meme.xyz
-www.aionedrop.xyz
-www.air-altlayer.com
 www.airdropzeroland.xyz
 www.airlinesofficeguide.com
 www.airtm.services
@@ -5951,7 +5930,6 @@ www.brothernz.com
 www.buhgeexhange.com
 www.burakglobalfirm.com
 www.c592.top
-www.cake-reward.shop
 www.cakes-reward.xyz
 www.catholicf-la.org
 www.cbrevokedapp.org
@@ -6010,7 +5988,6 @@ www.gala-games-7qx.com
 www.games-galla-iiio.com
 www.genesis-dimension.xyz
 www.genesisdmension.xyz
-www.getben.xyz
 www.gifts-airtm.com
 www.globalpaymentsvtw.com
 www.globalpaymentsyttww.com
