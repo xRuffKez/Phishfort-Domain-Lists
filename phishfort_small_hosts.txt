@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May  7 21:05:33 UTC 2024
+# PhishFort Small Domain List - Tue May  7 22:05:33 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6351
+# Number of Entries: 6352
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1921,6 +1921,7 @@
 0.0.0.0 exchanges-backpack.app
 0.0.0.0 exchangewenx.pro
 0.0.0.0 exclusive-blast.com
+0.0.0.0 execnetinc.com
 0.0.0.0 exhibitus-inc.com
 0.0.0.0 exhibitusinc.com
 0.0.0.0 expertsolver.pages.dev
@@ -1951,6 +1952,7 @@
 0.0.0.0 fastdevmigrathxqnzv.pro
 0.0.0.0 fatehelpsthebrave.com
 0.0.0.0 faucetsankoscan.io
+0.0.0.0 fcovcs.com
 0.0.0.0 fcstone.dsar.privally.io
 0.0.0.0 fcstone.one
 0.0.0.0 fcstone.plus
@@ -5036,8 +5038,6 @@
 0.0.0.0 superclaim-defi.com
 0.0.0.0 superclaims-defi.com
 0.0.0.0 superformxyz-rpcdebug.pages.dev
-0.0.0.0 suport-cch.com
-0.0.0.0 support-cch.com
 0.0.0.0 support-manta.pages.dev
 0.0.0.0 support-pancakeswaps.pages.dev
 0.0.0.0 support-requires.com
@@ -5088,6 +5088,7 @@
 0.0.0.0 swiftdapppad.pages.dev
 0.0.0.0 swiftdapprotocol.pages.dev
 0.0.0.0 swiftdefiauth.pages.dev
+0.0.0.0 swiftinvestmentrecovery.com
 0.0.0.0 swiftissuesfix.pages.dev
 0.0.0.0 swiftlymerch.uk
 0.0.0.0 swiftmultichainresolve.pages.dev

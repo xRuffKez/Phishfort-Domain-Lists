@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Tue May  7 21:05:33 UTC 2024
+# PhishFort Small Domain List - Tue May  7 22:05:33 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6351
+# Number of Entries: 6352
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1920,6 +1920,7 @@ exchangeros.com
 exchanges-backpack.app
 exchangewenx.pro
 exclusive-blast.com
+execnetinc.com
 exhibitus-inc.com
 exhibitusinc.com
 expertsolver.pages.dev
@@ -1950,6 +1951,7 @@ fastdevmigrathaslite.pro
 fastdevmigrathxqnzv.pro
 fatehelpsthebrave.com
 faucetsankoscan.io
+fcovcs.com
 fcstone.dsar.privally.io
 fcstone.one
 fcstone.plus
@@ -5035,8 +5037,6 @@ superbraves.info
 superclaim-defi.com
 superclaims-defi.com
 superformxyz-rpcdebug.pages.dev
-suport-cch.com
-support-cch.com
 support-manta.pages.dev
 support-pancakeswaps.pages.dev
 support-requires.com
@@ -5087,6 +5087,7 @@ swiftappsauth.pages.dev
 swiftdapppad.pages.dev
 swiftdapprotocol.pages.dev
 swiftdefiauth.pages.dev
+swiftinvestmentrecovery.com
 swiftissuesfix.pages.dev
 swiftlymerch.uk
 swiftmultichainresolve.pages.dev
