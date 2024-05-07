@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May  7 19:04:41 UTC 2024
+# PhishFort Small Domain List - Tue May  7 20:04:52 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6354
+# Number of Entries: 6353
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1361,7 +1361,6 @@
 0.0.0.0 conocophillispcorp.com
 0.0.0.0 consensys-kycverifcation.com
 0.0.0.0 consensysclaim.com
-0.0.0.0 consorciochevroletmd.com.br
 0.0.0.0 contractclaim.netlify.app
 0.0.0.0 convexfinance.io
 0.0.0.0 coplinhealth.local-user.com
@@ -4055,6 +4054,7 @@
 0.0.0.0 paxfulpay.net
 0.0.0.0 paxfulpro.cc
 0.0.0.0 paxfuls.top
+0.0.0.0 paxfultechnicals.com.ng
 0.0.0.0 paxfultf.com
 0.0.0.0 paxfulvn.com
 0.0.0.0 paxobcxr.com
@@ -5475,7 +5475,6 @@
 0.0.0.0 valimest.com
 0.0.0.0 valitame.com
 0.0.0.0 valoklin.com
-0.0.0.0 valortage.com
 0.0.0.0 valoxeno.com
 0.0.0.0 vanar.trading
 0.0.0.0 vansanhome.com

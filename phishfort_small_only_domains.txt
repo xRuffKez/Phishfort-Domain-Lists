@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Tue May  7 19:04:41 UTC 2024
+# PhishFort Small Domain List - Tue May  7 20:04:52 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6354
+# Number of Entries: 6353
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1360,7 +1360,6 @@ connects-nibiru.com
 conocophillispcorp.com
 consensys-kycverifcation.com
 consensysclaim.com
-consorciochevroletmd.com.br
 contractclaim.netlify.app
 convexfinance.io
 coplinhealth.local-user.com
@@ -4054,6 +4053,7 @@ paxfulpay.com
 paxfulpay.net
 paxfulpro.cc
 paxfuls.top
+paxfultechnicals.com.ng
 paxfultf.com
 paxfulvn.com
 paxobcxr.com
@@ -5474,7 +5474,6 @@ valilake.com
 valimest.com
 valitame.com
 valoklin.com
-valortage.com
 valoxeno.com
 vanar.trading
 vansanhome.com
