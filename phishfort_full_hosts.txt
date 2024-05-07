@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 21:01:49 UTC 2024
+# PhishFort Full Domain List - Tue May  7 22:02:03 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109278
+# Number of Entries: 109282
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -32686,6 +32686,7 @@
 0.0.0.0 excodus.io
 0.0.0.0 excrewoffersonline.com.ng
 0.0.0.0 exdrainer5.site
+0.0.0.0 execnetinc.com
 0.0.0.0 exeed-me.online
 0.0.0.0 exentionen.info
 0.0.0.0 exhibitus-inc.com
@@ -33294,6 +33295,7 @@
 0.0.0.0 fcbackup.com
 0.0.0.0 fckit.live
 0.0.0.0 fcmetanft.com
+0.0.0.0 fcovcs.com
 0.0.0.0 fcpandamen.com
 0.0.0.0 fcstone.dsar.privally.io
 0.0.0.0 fcstone.one
@@ -84377,6 +84379,7 @@
 0.0.0.0 swiftfixprotocols.online
 0.0.0.0 swiftful.net
 0.0.0.0 swiftful.xyz
+0.0.0.0 swiftinvestmentrecovery.com
 0.0.0.0 swiftissuesfix.pages.dev
 0.0.0.0 swiftkeyswap.com
 0.0.0.0 swiftkeyswap.info
@@ -85441,6 +85444,7 @@
 0.0.0.0 tdg7gr.pro
 0.0.0.0 tdlsynnex.com
 0.0.0.0 tdserv.com
+0.0.0.0 tdsynmex.com
 0.0.0.0 tdsynnex-vip.com
 0.0.0.0 tdsynnex.cc
 0.0.0.0 tdsynnexlive.com

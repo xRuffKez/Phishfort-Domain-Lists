@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 21:01:49 UTC 2024
+# PhishFort Full Domain List - Tue May  7 22:02:03 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109278
+# Number of Entries: 109282
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -32686,6 +32686,7 @@
 ||excodus.io^
 ||excrewoffersonline.com.ng^
 ||exdrainer5.site^
+||execnetinc.com^
 ||exeed-me.online^
 ||exentionen.info^
 ||exhibitus-inc.com^
@@ -33294,6 +33295,7 @@
 ||fcbackup.com^
 ||fckit.live^
 ||fcmetanft.com^
+||fcovcs.com^
 ||fcpandamen.com^
 ||fcstone.dsar.privally.io^
 ||fcstone.one^
@@ -84377,6 +84379,7 @@
 ||swiftfixprotocols.online^
 ||swiftful.net^
 ||swiftful.xyz^
+||swiftinvestmentrecovery.com^
 ||swiftissuesfix.pages.dev^
 ||swiftkeyswap.com^
 ||swiftkeyswap.info^
@@ -85441,6 +85444,7 @@
 ||tdg7gr.pro^
 ||tdlsynnex.com^
 ||tdserv.com^
+||tdsynmex.com^
 ||tdsynnex-vip.com^
 ||tdsynnex.cc^
 ||tdsynnexlive.com^

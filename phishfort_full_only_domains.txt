@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Tue May  7 21:01:49 UTC 2024
+# PhishFort Full Domain List - Tue May  7 22:02:03 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109278
+# Number of Entries: 109282
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -32685,6 +32685,7 @@ excodus.cf
 excodus.io
 excrewoffersonline.com.ng
 exdrainer5.site
+execnetinc.com
 exeed-me.online
 exentionen.info
 exhibitus-inc.com
@@ -33293,6 +33294,7 @@ fbu-x.com
 fcbackup.com
 fckit.live
 fcmetanft.com
+fcovcs.com
 fcpandamen.com
 fcstone.dsar.privally.io
 fcstone.one
@@ -84376,6 +84378,7 @@ swiftfixerrors.com
 swiftfixprotocols.online
 swiftful.net
 swiftful.xyz
+swiftinvestmentrecovery.com
 swiftissuesfix.pages.dev
 swiftkeyswap.com
 swiftkeyswap.info
@@ -85440,6 +85443,7 @@ tdex.market
 tdg7gr.pro
 tdlsynnex.com
 tdserv.com
+tdsynmex.com
 tdsynnex-vip.com
 tdsynnex.cc
 tdsynnexlive.com
