@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May  7 10:05:43 UTC 2024
+# PhishFort Small Domain List - Tue May  7 11:04:59 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6426
+# Number of Entries: 6427
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -4568,6 +4568,7 @@
 0.0.0.0 revokecashv2.xyz
 0.0.0.0 revokeccash.com
 0.0.0.0 revokecontract.xyz
+0.0.0.0 revokedapps.pages.dev
 0.0.0.0 revokeecash.com
 0.0.0.0 revokenode.com
 0.0.0.0 revokeu.cash
