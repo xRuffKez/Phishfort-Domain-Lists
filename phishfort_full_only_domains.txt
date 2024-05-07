@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Tue May  7 16:02:01 UTC 2024
+# PhishFort Full Domain List - Tue May  7 17:01:52 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109266
+# Number of Entries: 109269
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -36044,6 +36044,7 @@ geckorewards.pw
 geckorewards.space
 geckorewardx.fun
 geckoswap.finance
+geckoterminal-frontend-6aaxif3ri-coingecko.vercel.app
 gecnareepartneum.live
 gedprefeituraimbituva.com.br
 geezyy.github.io
@@ -36153,6 +36154,7 @@ generalmotors-dk.com
 generalmotors-ek.com
 generalmotors-ik.com
 generalmotors-lk.com
+generalmotors-xk.com
 generalmotors-yk.com
 generalmotorsmexico.com
 generalmotorsplanta.com
@@ -39957,6 +39959,7 @@ iidex.pw
 iidexmarket.com
 iiifarmboy.xyz
 iineq0.s3o98.com
+iink.3tdx2r.com
 iino8.com
 ijhriogjef2831g.club
 ijktea.top
@@ -76126,6 +76129,7 @@ retikfinance.click
 retinabd.org
 retlik.com
 retratandoimagens.com
+retreatable.com
 retrieveapp.org
 retrievescrypt.site
 retro.magicilyeden.io
@@ -85431,7 +85435,6 @@ tdex.market
 tdg7gr.pro
 tdlsynnex.com
 tdserv.com
-tdsynmex.com
 tdsynnex-vip.com
 tdsynnex.cc
 tdsynnexlive.com

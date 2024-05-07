@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 16:02:01 UTC 2024
+# PhishFort Full Domain List - Tue May  7 17:01:52 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109266
+# Number of Entries: 109269
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -36045,6 +36045,7 @@
 0.0.0.0 geckorewards.space
 0.0.0.0 geckorewardx.fun
 0.0.0.0 geckoswap.finance
+0.0.0.0 geckoterminal-frontend-6aaxif3ri-coingecko.vercel.app
 0.0.0.0 gecnareepartneum.live
 0.0.0.0 gedprefeituraimbituva.com.br
 0.0.0.0 geezyy.github.io
@@ -36154,6 +36155,7 @@
 0.0.0.0 generalmotors-ek.com
 0.0.0.0 generalmotors-ik.com
 0.0.0.0 generalmotors-lk.com
+0.0.0.0 generalmotors-xk.com
 0.0.0.0 generalmotors-yk.com
 0.0.0.0 generalmotorsmexico.com
 0.0.0.0 generalmotorsplanta.com
@@ -39958,6 +39960,7 @@
 0.0.0.0 iidexmarket.com
 0.0.0.0 iiifarmboy.xyz
 0.0.0.0 iineq0.s3o98.com
+0.0.0.0 iink.3tdx2r.com
 0.0.0.0 iino8.com
 0.0.0.0 ijhriogjef2831g.club
 0.0.0.0 ijktea.top
@@ -76127,6 +76130,7 @@
 0.0.0.0 retinabd.org
 0.0.0.0 retlik.com
 0.0.0.0 retratandoimagens.com
+0.0.0.0 retreatable.com
 0.0.0.0 retrieveapp.org
 0.0.0.0 retrievescrypt.site
 0.0.0.0 retro.magicilyeden.io
@@ -85432,7 +85436,6 @@
 0.0.0.0 tdg7gr.pro
 0.0.0.0 tdlsynnex.com
 0.0.0.0 tdserv.com
-0.0.0.0 tdsynmex.com
 0.0.0.0 tdsynnex-vip.com
 0.0.0.0 tdsynnex.cc
 0.0.0.0 tdsynnexlive.com
