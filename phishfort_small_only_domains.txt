@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Tue May  7 04:05:10 UTC 2024
+# PhishFort Small Domain List - Tue May  7 05:05:16 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6421
+# Number of Entries: 6423
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -197,8 +197,6 @@ agoda.ycs-id.info
 agoda.ycs.my.id
 agodaa-booking.com
 agodaa.life
-agodaa.masukmobilee.de
-agodachina.cn
 agodahotel.cc
 agodahotel.cyou
 agodahotel.pw
@@ -774,6 +772,7 @@ biraxy.xyz
 birbmigrate.live
 birdeye-ya3sbou-frontned.onrender.com
 biscottiboyzca.com
+bit-kub.org
 bit-nvidia.com
 bit-venus.com
 bitcasino.pw
@@ -1196,6 +1195,9 @@ claim.zksnyc.in
 claim5-connect.live
 claimairdropnow.com
 claimairdropsaga.xyz
+claimcakereward.pages.dev
+claimcakerewards.pages.dev
+claimcakesrewards.pages.dev
 claimdrop.laag.site
 claimdymension.xyz
 claimether.finance
@@ -1419,7 +1421,6 @@ cryptowrapped.cc
 csagoda.co
 csagoda.my.id
 csagoda.store
-csagodaonline.masukmobilee.de
 cuadrosblangar.es
 cubeexchange.co
 cumminsusa.com
@@ -2067,7 +2068,6 @@ frame.markets
 free.bitzgroup.xyz
 freedompork.net
 freestorecol.online
-from-agoda.site.pro
 frontend2.vercel.app
 frp.bio
 fsafeds.combid.sa.com
@@ -5316,9 +5316,11 @@ tonkeepeer.com
 tonkeeper-web.pages.dev
 tonkeeper.domains
 tonkeeper.help
+tonkeeper.in
 tonkeeper.io
 tonkeeper.pages.dev
 tonkeeper.su
+tonkeeper.website
 tonkeeperr.com
 tonkeepet.com
 tonkeepper.com

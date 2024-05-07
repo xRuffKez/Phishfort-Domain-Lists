@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May  7 04:05:10 UTC 2024
+# PhishFort Small Domain List - Tue May  7 05:05:16 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6421
+# Number of Entries: 6423
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -198,8 +198,6 @@
 0.0.0.0 agoda.ycs.my.id
 0.0.0.0 agodaa-booking.com
 0.0.0.0 agodaa.life
-0.0.0.0 agodaa.masukmobilee.de
-0.0.0.0 agodachina.cn
 0.0.0.0 agodahotel.cc
 0.0.0.0 agodahotel.cyou
 0.0.0.0 agodahotel.pw
@@ -775,6 +773,7 @@
 0.0.0.0 birbmigrate.live
 0.0.0.0 birdeye-ya3sbou-frontned.onrender.com
 0.0.0.0 biscottiboyzca.com
+0.0.0.0 bit-kub.org
 0.0.0.0 bit-nvidia.com
 0.0.0.0 bit-venus.com
 0.0.0.0 bitcasino.pw
@@ -1197,6 +1196,9 @@
 0.0.0.0 claim5-connect.live
 0.0.0.0 claimairdropnow.com
 0.0.0.0 claimairdropsaga.xyz
+0.0.0.0 claimcakereward.pages.dev
+0.0.0.0 claimcakerewards.pages.dev
+0.0.0.0 claimcakesrewards.pages.dev
 0.0.0.0 claimdrop.laag.site
 0.0.0.0 claimdymension.xyz
 0.0.0.0 claimether.finance
@@ -1420,7 +1422,6 @@
 0.0.0.0 csagoda.co
 0.0.0.0 csagoda.my.id
 0.0.0.0 csagoda.store
-0.0.0.0 csagodaonline.masukmobilee.de
 0.0.0.0 cuadrosblangar.es
 0.0.0.0 cubeexchange.co
 0.0.0.0 cumminsusa.com
@@ -2068,7 +2069,6 @@
 0.0.0.0 free.bitzgroup.xyz
 0.0.0.0 freedompork.net
 0.0.0.0 freestorecol.online
-0.0.0.0 from-agoda.site.pro
 0.0.0.0 frontend2.vercel.app
 0.0.0.0 frp.bio
 0.0.0.0 fsafeds.combid.sa.com
@@ -5317,9 +5317,11 @@
 0.0.0.0 tonkeeper-web.pages.dev
 0.0.0.0 tonkeeper.domains
 0.0.0.0 tonkeeper.help
+0.0.0.0 tonkeeper.in
 0.0.0.0 tonkeeper.io
 0.0.0.0 tonkeeper.pages.dev
 0.0.0.0 tonkeeper.su
+0.0.0.0 tonkeeper.website
 0.0.0.0 tonkeeperr.com
 0.0.0.0 tonkeepet.com
 0.0.0.0 tonkeepper.com
