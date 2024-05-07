@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 09:02:06 UTC 2024
+# PhishFort Full Domain List - Tue May  7 10:02:06 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109259
+# Number of Entries: 109261
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -4571,6 +4571,7 @@
 0.0.0.0 alshaya-group-ae.company.site
 0.0.0.0 alshaya-group-ua.company.site
 0.0.0.0 alshaya-group.site
+0.0.0.0 alshaya.site
 0.0.0.0 alshayadeals.net
 0.0.0.0 alshayadealss.com
 0.0.0.0 alshayae.shop
@@ -34188,6 +34189,7 @@
 0.0.0.0 flexedifload.com
 0.0.0.0 flexport.club
 0.0.0.0 flickplay.live
+0.0.0.0 flight.beehiiv.net
 0.0.0.0 flightairdesk.com
 0.0.0.0 flightbookhub.com
 0.0.0.0 flightbookingreservation.online

@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 09:02:06 UTC 2024
+# PhishFort Full Domain List - Tue May  7 10:02:06 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109259
+# Number of Entries: 109261
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -4571,6 +4571,7 @@
 ||alshaya-group-ae.company.site^
 ||alshaya-group-ua.company.site^
 ||alshaya-group.site^
+||alshaya.site^
 ||alshayadeals.net^
 ||alshayadealss.com^
 ||alshayae.shop^
@@ -34188,6 +34189,7 @@
 ||flexedifload.com^
 ||flexport.club^
 ||flickplay.live^
+||flight.beehiiv.net^
 ||flightairdesk.com^
 ||flightbookhub.com^
 ||flightbookingreservation.online^
