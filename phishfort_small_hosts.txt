@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May  7 05:05:16 UTC 2024
+# PhishFort Small Domain List - Tue May  7 06:06:00 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6423
+# Number of Entries: 6425
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -27,6 +27,7 @@
 0.0.0.0 1inch-io.app
 0.0.0.0 1inch-io.xyz
 0.0.0.0 1inch-new-migration.com
+0.0.0.0 1inch.coinmarketcap-app.com
 0.0.0.0 1inch.fyi
 0.0.0.0 1inch.web3connect.mom
 0.0.0.0 1incha.coinmarketcap-app.com
@@ -1198,6 +1199,7 @@
 0.0.0.0 claimairdropsaga.xyz
 0.0.0.0 claimcakereward.pages.dev
 0.0.0.0 claimcakerewards.pages.dev
+0.0.0.0 claimcakesreward.pages.dev
 0.0.0.0 claimcakesrewards.pages.dev
 0.0.0.0 claimdrop.laag.site
 0.0.0.0 claimdymension.xyz
@@ -3164,7 +3166,6 @@
 0.0.0.0 metamaskio.xyz
 0.0.0.0 metamasklo.cfd
 0.0.0.0 metamaskmal.ru
-0.0.0.0 metamaskmarket.net
 0.0.0.0 metamaskn.io
 0.0.0.0 metamaskrich.life
 0.0.0.0 metamaskrich.xyz
@@ -3351,6 +3352,7 @@
 0.0.0.0 moeamask.com
 0.0.0.0 mogcoin-xyz.vercel.app
 0.0.0.0 mogcoin.rewardshare.info
+0.0.0.0 mohpn.com
 0.0.0.0 molina-healthcareinc.com
 0.0.0.0 molinahealthcare-careers.com
 0.0.0.0 molinahealthcare.empyreandemo.com

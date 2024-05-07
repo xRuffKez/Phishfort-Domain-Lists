@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May  7 05:05:16 UTC 2024
+# PhishFort Small Domain List - Tue May  7 06:06:00 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6423
+# Number of Entries: 6425
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -27,6 +27,7 @@
 ||1inch-io.app^
 ||1inch-io.xyz^
 ||1inch-new-migration.com^
+||1inch.coinmarketcap-app.com^
 ||1inch.fyi^
 ||1inch.web3connect.mom^
 ||1incha.coinmarketcap-app.com^
@@ -1198,6 +1199,7 @@
 ||claimairdropsaga.xyz^
 ||claimcakereward.pages.dev^
 ||claimcakerewards.pages.dev^
+||claimcakesreward.pages.dev^
 ||claimcakesrewards.pages.dev^
 ||claimdrop.laag.site^
 ||claimdymension.xyz^
@@ -3164,7 +3166,6 @@
 ||metamaskio.xyz^
 ||metamasklo.cfd^
 ||metamaskmal.ru^
-||metamaskmarket.net^
 ||metamaskn.io^
 ||metamaskrich.life^
 ||metamaskrich.xyz^
@@ -3351,6 +3352,7 @@
 ||moeamask.com^
 ||mogcoin-xyz.vercel.app^
 ||mogcoin.rewardshare.info^
+||mohpn.com^
 ||molina-healthcareinc.com^
 ||molinahealthcare-careers.com^
 ||molinahealthcare.empyreandemo.com^
