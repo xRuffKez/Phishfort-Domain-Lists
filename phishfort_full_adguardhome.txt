@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 04:02:11 UTC 2024
+# PhishFort Full Domain List - Tue May  7 05:02:40 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109249
+# Number of Entries: 109255
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -12199,6 +12199,7 @@
 ||bit-kub-official-platform.blogspot.com^
 ||bit-kub-official-website.blogspot.com^
 ||bit-kub.com^
+||bit-kub.org^
 ||bit-kub.web.app^
 ||bit-miner.io^
 ||bit-mix.info^
@@ -17719,6 +17720,9 @@
 ||claimbtc.org^
 ||claimbtc.xyz^
 ||claimcake.com^
+||claimcakereward.pages.dev^
+||claimcakerewards.pages.dev^
+||claimcakesrewards.pages.dev^
 ||claimcare.app^
 ||claimcfx.com^
 ||claimchain.link^
@@ -87410,9 +87414,11 @@
 ||tonkeeper-web.pages.dev^
 ||tonkeeper.domains^
 ||tonkeeper.help^
+||tonkeeper.in^
 ||tonkeeper.io^
 ||tonkeeper.pages.dev^
 ||tonkeeper.su^
+||tonkeeper.website^
 ||tonkeeperr.com^
 ||tonkeepet.com^
 ||tonkeepper.com^

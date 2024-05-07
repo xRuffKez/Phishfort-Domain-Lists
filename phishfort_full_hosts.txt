@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 04:02:11 UTC 2024
+# PhishFort Full Domain List - Tue May  7 05:02:40 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109249
+# Number of Entries: 109255
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -12199,6 +12199,7 @@
 0.0.0.0 bit-kub-official-platform.blogspot.com
 0.0.0.0 bit-kub-official-website.blogspot.com
 0.0.0.0 bit-kub.com
+0.0.0.0 bit-kub.org
 0.0.0.0 bit-kub.web.app
 0.0.0.0 bit-miner.io
 0.0.0.0 bit-mix.info
@@ -17719,6 +17720,9 @@
 0.0.0.0 claimbtc.org
 0.0.0.0 claimbtc.xyz
 0.0.0.0 claimcake.com
+0.0.0.0 claimcakereward.pages.dev
+0.0.0.0 claimcakerewards.pages.dev
+0.0.0.0 claimcakesrewards.pages.dev
 0.0.0.0 claimcare.app
 0.0.0.0 claimcfx.com
 0.0.0.0 claimchain.link
@@ -87410,9 +87414,11 @@
 0.0.0.0 tonkeeper-web.pages.dev
 0.0.0.0 tonkeeper.domains
 0.0.0.0 tonkeeper.help
+0.0.0.0 tonkeeper.in
 0.0.0.0 tonkeeper.io
 0.0.0.0 tonkeeper.pages.dev
 0.0.0.0 tonkeeper.su
+0.0.0.0 tonkeeper.website
 0.0.0.0 tonkeeperr.com
 0.0.0.0 tonkeepet.com
 0.0.0.0 tonkeepper.com
