@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May  6 23:05:23 UTC 2024
+# PhishFort Small Domain List - Tue May  7 00:18:33 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6417
+# Number of Entries: 6421
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -912,6 +912,7 @@
 0.0.0.0 brands4less.com.py
 0.0.0.0 bratishkaa.com
 0.0.0.0 brave-blog.mylviajes.com.ve
+0.0.0.0 bravekto.com
 0.0.0.0 bridge-a3vigrfjd-pancakeswap.vercel.app
 0.0.0.0 bridge.carier.xyz
 0.0.0.0 bridge.jumper.limo
@@ -2391,6 +2392,7 @@
 0.0.0.0 icebnb-token-reflection-fix.netlify.app
 0.0.0.0 idex-crypto.vip
 0.0.0.0 idextr.com
+0.0.0.0 idexxtr.com
 0.0.0.0 idn-hosting.com
 0.0.0.0 igxegift.com
 0.0.0.0 ijktea.top
@@ -2832,6 +2834,7 @@
 0.0.0.0 lrt-eigenlayer.xyz
 0.0.0.0 lubrizolcorp.cn
 0.0.0.0 lubrlzol.com
+0.0.0.0 luxforwm.com
 0.0.0.0 luxurybooms.com
 0.0.0.0 lvrmjm.pro
 0.0.0.0 lwve.top
@@ -4428,7 +4431,6 @@
 0.0.0.0 rarible-nft.com
 0.0.0.0 rarible.quest
 0.0.0.0 rational-zerosolvosmartverse.pro
-0.0.0.0 raydiu.com
 0.0.0.0 raydium.fun
 0.0.0.0 raydium.lo.web3-connect.pw
 0.0.0.0 raze-drops.top
@@ -4496,7 +4498,6 @@
 0.0.0.0 registration-wehavenohandle.com
 0.0.0.0 registration-zetachain.com
 0.0.0.0 registry-blockgames.com
-0.0.0.0 registry-linea.build
 0.0.0.0 rehapp.xyz
 0.0.0.0 reiki-web3go.xyz
 0.0.0.0 reloadsula.pages.dev
@@ -4655,6 +4656,7 @@
 0.0.0.0 saita.vercel.app
 0.0.0.0 saitama.gift
 0.0.0.0 saitapro.vercel.app
+0.0.0.0 sakoff5thshop.com
 0.0.0.0 saks5.store
 0.0.0.0 saksfifthpartner.com
 0.0.0.0 saksof5th.club
@@ -6035,6 +6037,7 @@
 0.0.0.0 www.genesisdmension.xyz
 0.0.0.0 www.get-metis.com
 0.0.0.0 www.getben.xyz
+0.0.0.0 www.gifts-airtm.com
 0.0.0.0 www.globalpaymentsvtw.com
 0.0.0.0 www.globalpaymentsyttww.com
 0.0.0.0 www.globalpaymentsytww.com
@@ -6066,6 +6069,7 @@
 0.0.0.0 www.ju.uiworth.online
 0.0.0.0 www.jutsunft.com.soillabs.app
 0.0.0.0 www.jympurexhange.org
+0.0.0.0 www.ka.bpoint.online
 0.0.0.0 www.kenetix.finance
 0.0.0.0 www.kinetx.finance
 0.0.0.0 www.kmjm.shop
@@ -6147,7 +6151,6 @@
 0.0.0.0 www.openlab.live
 0.0.0.0 www.openseaclaimdropbox.com
 0.0.0.0 www.optbtcv.com
-0.0.0.0 www.optovdk.com
 0.0.0.0 www.ordibridge.xyz
 0.0.0.0 www.organiconetexas.com
 0.0.0.0 www.orivium.dev
@@ -6256,6 +6259,7 @@
 0.0.0.0 www.windy.network
 0.0.0.0 www.wregul.com
 0.0.0.0 www.x-swap.link
+0.0.0.0 www.yiup.net
 0.0.0.0 www.ylouch.com
 0.0.0.0 www.zerion.claimfree.xyz
 0.0.0.0 wwwjup.ag

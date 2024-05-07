@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May  6 23:05:23 UTC 2024
+# PhishFort Small Domain List - Tue May  7 00:18:33 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6417
+# Number of Entries: 6421
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -912,6 +912,7 @@
 ||brands4less.com.py^
 ||bratishkaa.com^
 ||brave-blog.mylviajes.com.ve^
+||bravekto.com^
 ||bridge-a3vigrfjd-pancakeswap.vercel.app^
 ||bridge.carier.xyz^
 ||bridge.jumper.limo^
@@ -2391,6 +2392,7 @@
 ||icebnb-token-reflection-fix.netlify.app^
 ||idex-crypto.vip^
 ||idextr.com^
+||idexxtr.com^
 ||idn-hosting.com^
 ||igxegift.com^
 ||ijktea.top^
@@ -2832,6 +2834,7 @@
 ||lrt-eigenlayer.xyz^
 ||lubrizolcorp.cn^
 ||lubrlzol.com^
+||luxforwm.com^
 ||luxurybooms.com^
 ||lvrmjm.pro^
 ||lwve.top^
@@ -4428,7 +4431,6 @@
 ||rarible-nft.com^
 ||rarible.quest^
 ||rational-zerosolvosmartverse.pro^
-||raydiu.com^
 ||raydium.fun^
 ||raydium.lo.web3-connect.pw^
 ||raze-drops.top^
@@ -4496,7 +4498,6 @@
 ||registration-wehavenohandle.com^
 ||registration-zetachain.com^
 ||registry-blockgames.com^
-||registry-linea.build^
 ||rehapp.xyz^
 ||reiki-web3go.xyz^
 ||reloadsula.pages.dev^
@@ -4655,6 +4656,7 @@
 ||saita.vercel.app^
 ||saitama.gift^
 ||saitapro.vercel.app^
+||sakoff5thshop.com^
 ||saks5.store^
 ||saksfifthpartner.com^
 ||saksof5th.club^
@@ -6035,6 +6037,7 @@
 ||www.genesisdmension.xyz^
 ||www.get-metis.com^
 ||www.getben.xyz^
+||www.gifts-airtm.com^
 ||www.globalpaymentsvtw.com^
 ||www.globalpaymentsyttww.com^
 ||www.globalpaymentsytww.com^
@@ -6066,6 +6069,7 @@
 ||www.ju.uiworth.online^
 ||www.jutsunft.com.soillabs.app^
 ||www.jympurexhange.org^
+||www.ka.bpoint.online^
 ||www.kenetix.finance^
 ||www.kinetx.finance^
 ||www.kmjm.shop^
@@ -6147,7 +6151,6 @@
 ||www.openlab.live^
 ||www.openseaclaimdropbox.com^
 ||www.optbtcv.com^
-||www.optovdk.com^
 ||www.ordibridge.xyz^
 ||www.organiconetexas.com^
 ||www.orivium.dev^
@@ -6256,6 +6259,7 @@
 ||www.windy.network^
 ||www.wregul.com^
 ||www.x-swap.link^
+||www.yiup.net^
 ||www.ylouch.com^
 ||www.zerion.claimfree.xyz^
 ||wwwjup.ag^
