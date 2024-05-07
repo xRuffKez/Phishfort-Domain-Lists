@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon May  6 23:02:06 UTC 2024
+# PhishFort Full Domain List - Tue May  7 00:06:18 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109240
+# Number of Entries: 109245
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -14480,6 +14480,7 @@
 0.0.0.0 bravecto.shop
 0.0.0.0 bravecto.su
 0.0.0.0 bravecto.vet
+0.0.0.0 bravekto.com
 0.0.0.0 braveofficial.info
 0.0.0.0 braverbrowser.tech
 0.0.0.0 braveser.com
@@ -77963,6 +77964,7 @@
 0.0.0.0 saiyansdrop.com
 0.0.0.0 sakamanb.site
 0.0.0.0 saketprakashan.in
+0.0.0.0 sakoff5thshop.com
 0.0.0.0 saks-off5th.shop
 0.0.0.0 saks-off5th.top
 0.0.0.0 saks-off5thonline.shop
@@ -100860,6 +100862,7 @@
 0.0.0.0 www.gicwallet.xyz
 0.0.0.0 www.giftboxsolana.com
 0.0.0.0 www.giftclaim.buzz
+0.0.0.0 www.gifts-airtm.com
 0.0.0.0 www.gigzio.com
 0.0.0.0 www.git.home.hostmaster.coingecko.hatsuqat.com
 0.0.0.0 www.gitcoinpresents.xyz
@@ -101271,6 +101274,7 @@
 0.0.0.0 www.jyetherwallet.com
 0.0.0.0 www.jympurexhange.org
 0.0.0.0 www.jytyydxx.com
+0.0.0.0 www.ka.bpoint.online
 0.0.0.0 www.kacofinance.io
 0.0.0.0 www.kadeng.xyz
 0.0.0.0 www.kenetix.finance
@@ -105316,6 +105320,7 @@
 0.0.0.0 www.yffi.finance
 0.0.0.0 www.yfi-vaults.com
 0.0.0.0 www.yingvalidate.live
+0.0.0.0 www.yiup.net
 0.0.0.0 www.yiyingjuquan.top
 0.0.0.0 www.yjoji.com
 0.0.0.0 www.ykcglqr.top

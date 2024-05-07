@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Mon May  6 23:02:06 UTC 2024
+# PhishFort Full Domain List - Tue May  7 00:06:18 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109240
+# Number of Entries: 109245
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -14479,6 +14479,7 @@ bravecto.pro
 bravecto.shop
 bravecto.su
 bravecto.vet
+bravekto.com
 braveofficial.info
 braverbrowser.tech
 braveser.com
@@ -77962,6 +77963,7 @@ saitodai.app
 saiyansdrop.com
 sakamanb.site
 saketprakashan.in
+sakoff5thshop.com
 saks-off5th.shop
 saks-off5th.top
 saks-off5thonline.shop
@@ -100859,6 +100861,7 @@ www.gh.rootooshbashi.com
 www.gicwallet.xyz
 www.giftboxsolana.com
 www.giftclaim.buzz
+www.gifts-airtm.com
 www.gigzio.com
 www.git.home.hostmaster.coingecko.hatsuqat.com
 www.gitcoinpresents.xyz
@@ -101270,6 +101273,7 @@ www.jutsunft.com.soillabs.app
 www.jyetherwallet.com
 www.jympurexhange.org
 www.jytyydxx.com
+www.ka.bpoint.online
 www.kacofinance.io
 www.kadeng.xyz
 www.kenetix.finance
@@ -105315,6 +105319,7 @@ www.yetherwallet.com
 www.yffi.finance
 www.yfi-vaults.com
 www.yingvalidate.live
+www.yiup.net
 www.yiyingjuquan.top
 www.yjoji.com
 www.ykcglqr.top
