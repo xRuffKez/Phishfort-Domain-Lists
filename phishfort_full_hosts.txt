@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 05:02:40 UTC 2024
+# PhishFort Full Domain List - Tue May  7 06:02:18 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109255
+# Number of Entries: 109258
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -470,6 +470,7 @@
 0.0.0.0 1inch.click
 0.0.0.0 1inch.co.in
 0.0.0.0 1inch.co.uk
+0.0.0.0 1inch.coinmarketcap-app.com
 0.0.0.0 1inch.com.au
 0.0.0.0 1inch.com.co
 0.0.0.0 1inch.com.tr
@@ -17722,6 +17723,7 @@
 0.0.0.0 claimcake.com
 0.0.0.0 claimcakereward.pages.dev
 0.0.0.0 claimcakerewards.pages.dev
+0.0.0.0 claimcakesreward.pages.dev
 0.0.0.0 claimcakesrewards.pages.dev
 0.0.0.0 claimcare.app
 0.0.0.0 claimcfx.com
@@ -54518,6 +54520,7 @@
 0.0.0.0 mogiceneden.io
 0.0.0.0 mogieceden.io
 0.0.0.0 mohitprajapati.com
+0.0.0.0 mohpn.com
 0.0.0.0 moinulalam.com
 0.0.0.0 mojitoswep.finance
 0.0.0.0 mojoenergy-promogive.com

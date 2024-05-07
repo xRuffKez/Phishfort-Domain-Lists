@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Tue May  7 05:02:40 UTC 2024
+# PhishFort Full Domain List - Tue May  7 06:02:18 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109255
+# Number of Entries: 109258
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -469,6 +469,7 @@
 1inch.click
 1inch.co.in
 1inch.co.uk
+1inch.coinmarketcap-app.com
 1inch.com.au
 1inch.com.co
 1inch.com.tr
@@ -17721,6 +17722,7 @@ claimbtc.xyz
 claimcake.com
 claimcakereward.pages.dev
 claimcakerewards.pages.dev
+claimcakesreward.pages.dev
 claimcakesrewards.pages.dev
 claimcare.app
 claimcfx.com
@@ -54517,6 +54519,7 @@ mogcoin.rewardshare.info
 mogiceneden.io
 mogieceden.io
 mohitprajapati.com
+mohpn.com
 moinulalam.com
 mojitoswep.finance
 mojoenergy-promogive.com
