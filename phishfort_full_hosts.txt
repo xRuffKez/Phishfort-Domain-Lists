@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 02:13:42 UTC 2024
+# PhishFort Full Domain List - Tue May  7 03:02:06 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109248
+# Number of Entries: 109249
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -69881,6 +69881,7 @@
 0.0.0.0 pcs-farmv4.net
 0.0.0.0 pcs-myteam.com
 0.0.0.0 pcs-myteam3.com
+0.0.0.0 pcs.mailtenset.com
 0.0.0.0 pcs.payflowtoken.com
 0.0.0.0 pcsdf-mining.com
 0.0.0.0 pcsfarm-v3.com
