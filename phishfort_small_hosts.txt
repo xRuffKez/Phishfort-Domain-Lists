@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May  7 09:05:04 UTC 2024
+# PhishFort Small Domain List - Tue May  7 10:05:43 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6425
+# Number of Entries: 6426
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -344,6 +344,7 @@
 0.0.0.0 alphatrace.pro
 0.0.0.0 alrajh.prokhaliij.com
 0.0.0.0 alshaya-group-ua.company.site
+0.0.0.0 alshaya.site
 0.0.0.0 alshayae.shop
 0.0.0.0 alshayagrooup.shop
 0.0.0.0 alshayagrooup.store
@@ -2031,6 +2032,7 @@
 0.0.0.0 flagship.luc.edu
 0.0.0.0 flareairdrop.vercel.app
 0.0.0.0 flash-arbitrage.xyz
+0.0.0.0 flight.beehiiv.net
 0.0.0.0 flightreservations.xyz
 0.0.0.0 floadfixed.com
 0.0.0.0 flojet.com.vn
@@ -5165,7 +5167,6 @@
 0.0.0.0 syncswap.cloudscom.xyz
 0.0.0.0 syncswap.day
 0.0.0.0 syncus-fi.app
-0.0.0.0 syncvalidator.firebaseapp.com
 0.0.0.0 syncwebsolution.com
 0.0.0.0 syncxolution-inchpd.com
 0.0.0.0 syneosbio.com

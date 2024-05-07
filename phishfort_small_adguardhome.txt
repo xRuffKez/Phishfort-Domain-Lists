@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May  7 09:05:04 UTC 2024
+# PhishFort Small Domain List - Tue May  7 10:05:43 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6425
+# Number of Entries: 6426
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -344,6 +344,7 @@
 ||alphatrace.pro^
 ||alrajh.prokhaliij.com^
 ||alshaya-group-ua.company.site^
+||alshaya.site^
 ||alshayae.shop^
 ||alshayagrooup.shop^
 ||alshayagrooup.store^
@@ -2031,6 +2032,7 @@
 ||flagship.luc.edu^
 ||flareairdrop.vercel.app^
 ||flash-arbitrage.xyz^
+||flight.beehiiv.net^
 ||flightreservations.xyz^
 ||floadfixed.com^
 ||flojet.com.vn^
@@ -5165,7 +5167,6 @@
 ||syncswap.cloudscom.xyz^
 ||syncswap.day^
 ||syncus-fi.app^
-||syncvalidator.firebaseapp.com^
 ||syncwebsolution.com^
 ||syncxolution-inchpd.com^
 ||syneosbio.com^
