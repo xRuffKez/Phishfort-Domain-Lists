@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May  7 15:04:56 UTC 2024
+# PhishFort Small Domain List - Tue May  7 16:05:22 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6351
+# Number of Entries: 6350
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -403,7 +403,6 @@
 ||api-collabland.web.app^
 ||api.kavaglobal.one^
 ||api.kavashield.icu^
-||api.worldskava.xyz^
 ||api05-collab.com^
 ||api15vulcan.com^
 ||api8-vulcan.com^
