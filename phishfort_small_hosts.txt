@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Tue May  7 01:28:27 UTC 2024
+# PhishFort Small Domain List - Tue May  7 02:16:43 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 6421
@@ -4141,6 +4141,7 @@
 0.0.0.0 pcs-farmv4.net
 0.0.0.0 pcs-myteam.com
 0.0.0.0 pcs-myteam3.com
+0.0.0.0 pcs.mailtenset.com
 0.0.0.0 pcs.payflowtoken.com
 0.0.0.0 pcsfarm-v3.com
 0.0.0.0 pcsstake-v3.com
@@ -6300,7 +6301,6 @@
 0.0.0.0 xn--fxedflaot-vpb.net
 0.0.0.0 xn--fxedflaot-vpbc.com
 0.0.0.0 xn--fxedflcoat-68a.com
-0.0.0.0 xn--fxedflioat-xub.com
 0.0.0.0 xn--fxedfllaot-k8a.com
 0.0.0.0 xn--fxedflloat-xub.com
 0.0.0.0 xn--fxedfloat-q5af.com

@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Tue May  7 01:28:27 UTC 2024
+# PhishFort Small Domain List - Tue May  7 02:16:43 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 6421
 # Project: PhishFort (https://phishfort.com/)
@@ -4140,6 +4140,7 @@ pcs-farmv4.com
 pcs-farmv4.net
 pcs-myteam.com
 pcs-myteam3.com
+pcs.mailtenset.com
 pcs.payflowtoken.com
 pcsfarm-v3.com
 pcsstake-v3.com
@@ -6299,7 +6300,6 @@ xn--fxadfloat-vpb.com
 xn--fxedflaot-vpb.net
 xn--fxedflaot-vpbc.com
 xn--fxedflcoat-68a.com
-xn--fxedflioat-xub.com
 xn--fxedfllaot-k8a.com
 xn--fxedflloat-xub.com
 xn--fxedfloat-q5af.com
