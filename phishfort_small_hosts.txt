@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May  7 14:04:53 UTC 2024
+# PhishFort Small Domain List - Tue May  7 15:04:56 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6369
+# Number of Entries: 6351
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -877,7 +877,6 @@
 0.0.0.0 bonk-premium.web.app
 0.0.0.0 bonk-token.xyz
 0.0.0.0 bonus-injective.com
-0.0.0.0 bonuses-defi.network
 0.0.0.0 bookaflightwithunitedairlines.statuspage.io
 0.0.0.0 booking.agoda-checkout-id843753.com
 0.0.0.0 bookinghotel-word.com
@@ -1096,7 +1095,6 @@
 0.0.0.0 claim-block.com
 0.0.0.0 claim-cake.web.app
 0.0.0.0 claim-dacat-dapp.live
-0.0.0.0 claim-dapps.pages.dev
 0.0.0.0 claim-dookeydash.com
 0.0.0.0 claim-dragon.firebaseapp.com
 0.0.0.0 claim-dragon.web.app
@@ -1440,7 +1438,6 @@
 0.0.0.0 daomaker.company
 0.0.0.0 daomaker.fyi
 0.0.0.0 daomaker.my.id
-0.0.0.0 daoprotocol.pages.dev
 0.0.0.0 dap-radar.com
 0.0.0.0 dapi.re
 0.0.0.0 dapp-aicontract.com
@@ -1484,7 +1481,6 @@
 0.0.0.0 dappsfixerweb.42web.io
 0.0.0.0 dappsfixing.pages.dev
 0.0.0.0 dappslog.vercel.app
-0.0.0.0 dappsly.pages.dev
 0.0.0.0 dappsnodesauthenticator.com
 0.0.0.0 dappspanelauth.pages.dev
 0.0.0.0 dappsprotocol.vercel.app
@@ -1567,7 +1563,6 @@
 0.0.0.0 defichain-rewards.pages.dev
 0.0.0.0 deficoinsolutions.netlify.app
 0.0.0.0 defidydx.app
-0.0.0.0 defifix.pages.dev
 0.0.0.0 defiilama.eu
 0.0.0.0 defilama.eu
 0.0.0.0 defilaunchpad.pages.dev
@@ -1712,7 +1707,6 @@
 0.0.0.0 dymension-claimdappstoolkit.pages.dev
 0.0.0.0 dymension.pages.dev
 0.0.0.0 dymensiondrop.com
-0.0.0.0 dymensiondrop.eu
 0.0.0.0 dynamicvisionmanagement.com
 0.0.0.0 dyvmemsion.xyz
 0.0.0.0 e-linea.com
@@ -1887,7 +1881,6 @@
 0.0.0.0 ethuegas.com
 0.0.0.0 ethurgas.com
 0.0.0.0 ethvnn.com
-0.0.0.0 ethyourgas.com
 0.0.0.0 etr-407-payment.com
 0.0.0.0 etr407.ca
 0.0.0.0 etr407en.com
@@ -1999,7 +1992,6 @@
 0.0.0.0 fix-metamask.pages.dev
 0.0.0.0 fix.errorsolution.org
 0.0.0.0 fix.resolver-dapp.com
-0.0.0.0 fixbugmigrate.pages.dev
 0.0.0.0 fixedfloat.bar
 0.0.0.0 fixedfloat.best
 0.0.0.0 fixedfloat.xyz
@@ -2511,7 +2503,6 @@
 0.0.0.0 joltify-get.vercel.app
 0.0.0.0 joltify-scope.vercel.app
 0.0.0.0 joltify-testnet3.vercel.app
-0.0.0.0 joteervaastu.com
 0.0.0.0 joyouslinkew.world
 0.0.0.0 joyprimeshowworld.world
 0.0.0.0 jp.ib-fx7.com
@@ -2711,7 +2702,6 @@
 0.0.0.0 lendingtreellc.org
 0.0.0.0 lendingworld.online
 0.0.0.0 lengthepengkiller.xyz
-0.0.0.0 lfg-jup-claims.pages.dev
 0.0.0.0 lfg-jup.io
 0.0.0.0 lfg-up.icu
 0.0.0.0 lgwttt.pro
@@ -2982,6 +2972,7 @@
 0.0.0.0 massmutualintermountainwest.hirevue.com
 0.0.0.0 massonline.mprofile.org
 0.0.0.0 massposos.com
+0.0.0.0 massulbenefitget.com
 0.0.0.0 massulonllnedet.org
 0.0.0.0 mate-mask.com
 0.0.0.0 matemank.io
@@ -4140,6 +4131,7 @@
 0.0.0.0 pendlenetwork.com
 0.0.0.0 pengsolana.co
 0.0.0.0 pengsolana.org
+0.0.0.0 penguin-iq.com
 0.0.0.0 penguin-verlagsgruppe.de
 0.0.0.0 penguinrandomh0use.com
 0.0.0.0 penguinrandomhouseworldwide.com
@@ -4284,11 +4276,9 @@
 0.0.0.0 presale.taotradex.io
 0.0.0.0 presales.blockgamess.com
 0.0.0.0 primematesbc.com
-0.0.0.0 primepaymyservi.com
 0.0.0.0 primesacelicst.com
 0.0.0.0 priorityonebank.protectedpayroll.com
 0.0.0.0 private-degenape.com
-0.0.0.0 pro-collab.land
 0.0.0.0 profit-dydx.com
 0.0.0.0 project-0xconnect.pages.dev
 0.0.0.0 project-openseaclick.vercel.app
@@ -4374,7 +4364,6 @@
 0.0.0.0 quests-sharpnel.com
 0.0.0.0 quests-superverse.com
 0.0.0.0 quickswap-io.events
-0.0.0.0 quicksyncdapps.pages.dev
 0.0.0.0 quicksystemicexplorer.co
 0.0.0.0 quickupdateexplorer.co
 0.0.0.0 r02bren.cc
@@ -4417,7 +4406,6 @@
 0.0.0.0 reckonmexico.com
 0.0.0.0 reconnectto.org
 0.0.0.0 recoveryportal.pages.dev
-0.0.0.0 rect-fixdapps.pages.dev
 0.0.0.0 rectification-data.com
 0.0.0.0 rectifier-sync.pages.dev
 0.0.0.0 rectifytrust.com
@@ -5392,7 +5380,6 @@
 0.0.0.0 ulonlinedetma.org
 0.0.0.0 ultra-prismafinance.com
 0.0.0.0 umassuigovst.com
-0.0.0.0 umusic-pub.com
 0.0.0.0 umusic.co.in
 0.0.0.0 umusiceu.com
 0.0.0.0 umusicr.com
@@ -5507,7 +5494,6 @@
 0.0.0.0 verasity-io.live
 0.0.0.0 verbosedapp.pages.dev
 0.0.0.0 verif-nulink.vercel.app
-0.0.0.0 verif-secureconnect.com
 0.0.0.0 verifi-vulcan.xyz
 0.0.0.0 verification-assets.com
 0.0.0.0 verification-collabland.xyz
@@ -5706,7 +5692,6 @@
 0.0.0.0 web39999.com
 0.0.0.0 web3antiv.com
 0.0.0.0 web3app-connect.xyz
-0.0.0.0 web3bugrectify.pages.dev
 0.0.0.0 web3check.cfd
 0.0.0.0 web3coins1.top
 0.0.0.0 web3coins10.top
@@ -5749,7 +5734,6 @@
 0.0.0.0 webfix-net.pages.dev
 0.0.0.0 webfixnet.pages.dev
 0.0.0.0 webfixrpc.online
-0.0.0.0 webguardprotocol.xyz
 0.0.0.0 weblinknode.firebaseapp.com
 0.0.0.0 weblinknode.web.app
 0.0.0.0 weblinknodeapp.web.app
@@ -6164,7 +6148,6 @@
 0.0.0.0 www.smartweb3.live
 0.0.0.0 www.snapshot-multibit.com
 0.0.0.0 www.somethingbad.com
-0.0.0.0 www.spatco.shop
 0.0.0.0 www.st.blancui.online
 0.0.0.0 www.st.uiworth.online
 0.0.0.0 www.staging.chat.login.fixedfloat.pw
@@ -6245,7 +6228,6 @@
 0.0.0.0 xn--fxadflaot-vpb.com
 0.0.0.0 xn--fxadfloaot-xub.com
 0.0.0.0 xn--fxadfloat-05a.com
-0.0.0.0 xn--fxadfloat-vpb.com
 0.0.0.0 xn--fxedflaot-vpb.net
 0.0.0.0 xn--fxedflaot-vpbc.com
 0.0.0.0 xn--fxedflcoat-68a.com

@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May  7 14:04:53 UTC 2024
+# PhishFort Small Domain List - Tue May  7 15:04:56 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6369
+# Number of Entries: 6351
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -877,7 +877,6 @@
 ||bonk-premium.web.app^
 ||bonk-token.xyz^
 ||bonus-injective.com^
-||bonuses-defi.network^
 ||bookaflightwithunitedairlines.statuspage.io^
 ||booking.agoda-checkout-id843753.com^
 ||bookinghotel-word.com^
@@ -1096,7 +1095,6 @@
 ||claim-block.com^
 ||claim-cake.web.app^
 ||claim-dacat-dapp.live^
-||claim-dapps.pages.dev^
 ||claim-dookeydash.com^
 ||claim-dragon.firebaseapp.com^
 ||claim-dragon.web.app^
@@ -1440,7 +1438,6 @@
 ||daomaker.company^
 ||daomaker.fyi^
 ||daomaker.my.id^
-||daoprotocol.pages.dev^
 ||dap-radar.com^
 ||dapi.re^
 ||dapp-aicontract.com^
@@ -1484,7 +1481,6 @@
 ||dappsfixerweb.42web.io^
 ||dappsfixing.pages.dev^
 ||dappslog.vercel.app^
-||dappsly.pages.dev^
 ||dappsnodesauthenticator.com^
 ||dappspanelauth.pages.dev^
 ||dappsprotocol.vercel.app^
@@ -1567,7 +1563,6 @@
 ||defichain-rewards.pages.dev^
 ||deficoinsolutions.netlify.app^
 ||defidydx.app^
-||defifix.pages.dev^
 ||defiilama.eu^
 ||defilama.eu^
 ||defilaunchpad.pages.dev^
@@ -1712,7 +1707,6 @@
 ||dymension-claimdappstoolkit.pages.dev^
 ||dymension.pages.dev^
 ||dymensiondrop.com^
-||dymensiondrop.eu^
 ||dynamicvisionmanagement.com^
 ||dyvmemsion.xyz^
 ||e-linea.com^
@@ -1887,7 +1881,6 @@
 ||ethuegas.com^
 ||ethurgas.com^
 ||ethvnn.com^
-||ethyourgas.com^
 ||etr-407-payment.com^
 ||etr407.ca^
 ||etr407en.com^
@@ -1999,7 +1992,6 @@
 ||fix-metamask.pages.dev^
 ||fix.errorsolution.org^
 ||fix.resolver-dapp.com^
-||fixbugmigrate.pages.dev^
 ||fixedfloat.bar^
 ||fixedfloat.best^
 ||fixedfloat.xyz^
@@ -2511,7 +2503,6 @@
 ||joltify-get.vercel.app^
 ||joltify-scope.vercel.app^
 ||joltify-testnet3.vercel.app^
-||joteervaastu.com^
 ||joyouslinkew.world^
 ||joyprimeshowworld.world^
 ||jp.ib-fx7.com^
@@ -2711,7 +2702,6 @@
 ||lendingtreellc.org^
 ||lendingworld.online^
 ||lengthepengkiller.xyz^
-||lfg-jup-claims.pages.dev^
 ||lfg-jup.io^
 ||lfg-up.icu^
 ||lgwttt.pro^
@@ -2982,6 +2972,7 @@
 ||massmutualintermountainwest.hirevue.com^
 ||massonline.mprofile.org^
 ||massposos.com^
+||massulbenefitget.com^
 ||massulonllnedet.org^
 ||mate-mask.com^
 ||matemank.io^
@@ -4140,6 +4131,7 @@
 ||pendlenetwork.com^
 ||pengsolana.co^
 ||pengsolana.org^
+||penguin-iq.com^
 ||penguin-verlagsgruppe.de^
 ||penguinrandomh0use.com^
 ||penguinrandomhouseworldwide.com^
@@ -4284,11 +4276,9 @@
 ||presale.taotradex.io^
 ||presales.blockgamess.com^
 ||primematesbc.com^
-||primepaymyservi.com^
 ||primesacelicst.com^
 ||priorityonebank.protectedpayroll.com^
 ||private-degenape.com^
-||pro-collab.land^
 ||profit-dydx.com^
 ||project-0xconnect.pages.dev^
 ||project-openseaclick.vercel.app^
@@ -4374,7 +4364,6 @@
 ||quests-sharpnel.com^
 ||quests-superverse.com^
 ||quickswap-io.events^
-||quicksyncdapps.pages.dev^
 ||quicksystemicexplorer.co^
 ||quickupdateexplorer.co^
 ||r02bren.cc^
@@ -4417,7 +4406,6 @@
 ||reckonmexico.com^
 ||reconnectto.org^
 ||recoveryportal.pages.dev^
-||rect-fixdapps.pages.dev^
 ||rectification-data.com^
 ||rectifier-sync.pages.dev^
 ||rectifytrust.com^
@@ -5392,7 +5380,6 @@
 ||ulonlinedetma.org^
 ||ultra-prismafinance.com^
 ||umassuigovst.com^
-||umusic-pub.com^
 ||umusic.co.in^
 ||umusiceu.com^
 ||umusicr.com^
@@ -5507,7 +5494,6 @@
 ||verasity-io.live^
 ||verbosedapp.pages.dev^
 ||verif-nulink.vercel.app^
-||verif-secureconnect.com^
 ||verifi-vulcan.xyz^
 ||verification-assets.com^
 ||verification-collabland.xyz^
@@ -5706,7 +5692,6 @@
 ||web39999.com^
 ||web3antiv.com^
 ||web3app-connect.xyz^
-||web3bugrectify.pages.dev^
 ||web3check.cfd^
 ||web3coins1.top^
 ||web3coins10.top^
@@ -5749,7 +5734,6 @@
 ||webfix-net.pages.dev^
 ||webfixnet.pages.dev^
 ||webfixrpc.online^
-||webguardprotocol.xyz^
 ||weblinknode.firebaseapp.com^
 ||weblinknode.web.app^
 ||weblinknodeapp.web.app^
@@ -6164,7 +6148,6 @@
 ||www.smartweb3.live^
 ||www.snapshot-multibit.com^
 ||www.somethingbad.com^
-||www.spatco.shop^
 ||www.st.blancui.online^
 ||www.st.uiworth.online^
 ||www.staging.chat.login.fixedfloat.pw^
@@ -6245,7 +6228,6 @@
 ||xn--fxadflaot-vpb.com^
 ||xn--fxadfloaot-xub.com^
 ||xn--fxadfloat-05a.com^
-||xn--fxadfloat-vpb.com^
 ||xn--fxedflaot-vpb.net^
 ||xn--fxedflaot-vpbc.com^
 ||xn--fxedflcoat-68a.com^
