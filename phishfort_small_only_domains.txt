@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Tue May  7 17:04:55 UTC 2024
+# PhishFort Small Domain List - Tue May  7 18:05:43 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6349
+# Number of Entries: 6354
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1257,6 +1257,7 @@ coiappresolve.pages.dev
 coiauthapp.pages.dev
 coin-base.events
 coin-gcko.com
+coin-geko.com
 coin-multiresolve.firebaseapp.com
 coin-multiresolve.web.app
 coin-qr.to
@@ -2296,6 +2297,7 @@ help-407-etr.com
 help-avalanche.site
 helpdoc-avalache.online
 helpmetamask.xyz
+hengstler.imall.pro
 heroes-of-mavia.online
 hex-distributions.com
 hex-multipliers.com
@@ -2330,6 +2332,7 @@ hubuoasys-games.com
 humminglinkgg.world
 hunnerdimental.com
 hvqk.pro
+hw.eingeenuity.net
 hxig64w.pro
 hyper-liquid.com
 hyperpaytech.com
@@ -2435,7 +2438,6 @@ interactive-brokers.pro
 interactive-brokers.top
 interactivebroker.org
 interactivebrokers.backqxghjpro.com
-interactivebrokers.store
 interactivebrokersrle.com
 interactivebrokersrue.com
 interactivebrokerstrading.com
@@ -5367,6 +5369,7 @@ uhcthankyou.com
 uhrecruits.online
 uimplmassa.com
 uiolinemassprofilleupdate.dynamic-dns.net
+uionlinedet.com
 uionlineheda.com
 uionlineletma.com
 uiredofmassucherndy.com
@@ -5547,6 +5550,7 @@ voltamelectrik.com
 volvotrucksinc.us
 vormassuinst.com
 vote-ambires.org
+vote-daomaker.com
 vote-makerdao.com
 vote.biast.support
 vote.daomakerfi.com
@@ -6013,6 +6017,7 @@ www.layer-3.xyz
 www.lethid.com
 www.lifi.promo
 www.lite.a.covv.site
+www.livewebpxfl.site
 www.login.verificationpaxful.info
 www.luckywin.x10.bz
 www.lusandasentane.com

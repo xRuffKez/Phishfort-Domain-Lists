@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May  7 17:04:55 UTC 2024
+# PhishFort Small Domain List - Tue May  7 18:05:43 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6349
+# Number of Entries: 6354
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1258,6 +1258,7 @@
 0.0.0.0 coiauthapp.pages.dev
 0.0.0.0 coin-base.events
 0.0.0.0 coin-gcko.com
+0.0.0.0 coin-geko.com
 0.0.0.0 coin-multiresolve.firebaseapp.com
 0.0.0.0 coin-multiresolve.web.app
 0.0.0.0 coin-qr.to
@@ -2297,6 +2298,7 @@
 0.0.0.0 help-avalanche.site
 0.0.0.0 helpdoc-avalache.online
 0.0.0.0 helpmetamask.xyz
+0.0.0.0 hengstler.imall.pro
 0.0.0.0 heroes-of-mavia.online
 0.0.0.0 hex-distributions.com
 0.0.0.0 hex-multipliers.com
@@ -2331,6 +2333,7 @@
 0.0.0.0 humminglinkgg.world
 0.0.0.0 hunnerdimental.com
 0.0.0.0 hvqk.pro
+0.0.0.0 hw.eingeenuity.net
 0.0.0.0 hxig64w.pro
 0.0.0.0 hyper-liquid.com
 0.0.0.0 hyperpaytech.com
@@ -2436,7 +2439,6 @@
 0.0.0.0 interactive-brokers.top
 0.0.0.0 interactivebroker.org
 0.0.0.0 interactivebrokers.backqxghjpro.com
-0.0.0.0 interactivebrokers.store
 0.0.0.0 interactivebrokersrle.com
 0.0.0.0 interactivebrokersrue.com
 0.0.0.0 interactivebrokerstrading.com
@@ -5368,6 +5370,7 @@
 0.0.0.0 uhrecruits.online
 0.0.0.0 uimplmassa.com
 0.0.0.0 uiolinemassprofilleupdate.dynamic-dns.net
+0.0.0.0 uionlinedet.com
 0.0.0.0 uionlineheda.com
 0.0.0.0 uionlineletma.com
 0.0.0.0 uiredofmassucherndy.com
@@ -5548,6 +5551,7 @@
 0.0.0.0 volvotrucksinc.us
 0.0.0.0 vormassuinst.com
 0.0.0.0 vote-ambires.org
+0.0.0.0 vote-daomaker.com
 0.0.0.0 vote-makerdao.com
 0.0.0.0 vote.biast.support
 0.0.0.0 vote.daomakerfi.com
@@ -6014,6 +6018,7 @@
 0.0.0.0 www.lethid.com
 0.0.0.0 www.lifi.promo
 0.0.0.0 www.lite.a.covv.site
+0.0.0.0 www.livewebpxfl.site
 0.0.0.0 www.login.verificationpaxful.info
 0.0.0.0 www.luckywin.x10.bz
 0.0.0.0 www.lusandasentane.com
