@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 12:02:47 UTC 2024
+# PhishFort Full Domain List - Tue May  7 13:01:50 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109263
+# Number of Entries: 109264
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -18211,7 +18211,6 @@
 0.0.0.0 clodida.com
 0.0.0.0 clodida.io
 0.0.0.0 cloeisor.com
-0.0.0.0 cloingecko.com
 0.0.0.0 clone1714515846502.angel-cloner.com
 0.0.0.0 clone1714516377704.angel-cloner.com
 0.0.0.0 clone1714516486291.angel-cloner.com
@@ -69412,6 +69411,7 @@
 0.0.0.0 paxful.response.lithium.com
 0.0.0.0 paxful.rest
 0.0.0.0 paxful.reviews
+0.0.0.0 paxful.sawstreets.com
 0.0.0.0 paxful.securepayments.trade
 0.0.0.0 paxful.services
 0.0.0.0 paxful.site11.com
@@ -85436,6 +85436,7 @@
 0.0.0.0 tdsynnexlive.com
 0.0.0.0 tdsynnexlive.net
 0.0.0.0 tdsynnexs.com
+0.0.0.0 tdsynnexx.com
 0.0.0.0 tdsynnxe.com
 0.0.0.0 tdwmvifc.top
 0.0.0.0 tdxinsurance.com

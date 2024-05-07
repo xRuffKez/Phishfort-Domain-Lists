@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 12:02:47 UTC 2024
+# PhishFort Full Domain List - Tue May  7 13:01:50 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109263
+# Number of Entries: 109264
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -18211,7 +18211,6 @@
 ||clodida.com^
 ||clodida.io^
 ||cloeisor.com^
-||cloingecko.com^
 ||clone1714515846502.angel-cloner.com^
 ||clone1714516377704.angel-cloner.com^
 ||clone1714516486291.angel-cloner.com^
@@ -69412,6 +69411,7 @@
 ||paxful.response.lithium.com^
 ||paxful.rest^
 ||paxful.reviews^
+||paxful.sawstreets.com^
 ||paxful.securepayments.trade^
 ||paxful.services^
 ||paxful.site11.com^
@@ -85436,6 +85436,7 @@
 ||tdsynnexlive.com^
 ||tdsynnexlive.net^
 ||tdsynnexs.com^
+||tdsynnexx.com^
 ||tdsynnxe.com^
 ||tdwmvifc.top^
 ||tdxinsurance.com^
