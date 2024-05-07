@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May  7 12:07:01 UTC 2024
+# PhishFort Small Domain List - Tue May  7 13:05:04 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6420
+# Number of Entries: 6392
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -577,7 +577,6 @@
 0.0.0.0 arbitrum.trustpados.top
 0.0.0.0 arbitrumbridge.web3app.vip
 0.0.0.0 arbitrumsurveys.com
-0.0.0.0 arbitrurrm.foundation
 0.0.0.0 arbiusupgrade.ai
 0.0.0.0 arc-ai.net
 0.0.0.0 archetives.com
@@ -649,7 +648,6 @@
 0.0.0.0 autotecc.pages.dev
 0.0.0.0 autovalidateweb3.pages.dev
 0.0.0.0 avantiengineering.org
-0.0.0.0 avax-gains.xyz
 0.0.0.0 avaxtoken.pro
 0.0.0.0 awesomestrawberry.za.com
 0.0.0.0 axie.valimrocha.workers.dev
@@ -784,7 +782,6 @@
 0.0.0.0 bitcoinxcash.com
 0.0.0.0 bithotel.co
 0.0.0.0 biticlash.com
-0.0.0.0 biticlubs.com
 0.0.0.0 bitilandos.com
 0.0.0.0 bitimeta.space
 0.0.0.0 bitinaut.top
@@ -1476,7 +1473,6 @@
 0.0.0.0 dappradaar.net
 0.0.0.0 dappradar-ads-x.com
 0.0.0.0 dappradar-token.com
-0.0.0.0 dappradar.co.in
 0.0.0.0 dappradar.cx
 0.0.0.0 dappradar.mom
 0.0.0.0 dappradar.qa
@@ -1662,8 +1658,6 @@
 0.0.0.0 dn.yrioa1.sa.com
 0.0.0.0 dnaata.com
 0.0.0.0 docs-lybra.finance
-0.0.0.0 docs-lybra.network
-0.0.0.0 docs-lybras.trade
 0.0.0.0 docs.coinality.dev
 0.0.0.0 documentation-lybra.finance
 0.0.0.0 dodoeex.cc
@@ -1724,7 +1718,6 @@
 0.0.0.0 dymension-approval.netlify.app
 0.0.0.0 dymension-claim.netlify.app
 0.0.0.0 dymension-claimdappstoolkit.pages.dev
-0.0.0.0 dymension.financial
 0.0.0.0 dymension.pages.dev
 0.0.0.0 dymensiondrop.com
 0.0.0.0 dymensiondrop.eu
@@ -2336,7 +2329,6 @@
 0.0.0.0 holder-nexo.com
 0.0.0.0 holtec-international.ltd
 0.0.0.0 holumasshedvist.com
-0.0.0.0 home.earnclout.com
 0.0.0.0 home.ethiner.xyz
 0.0.0.0 home.itsearn.biz
 0.0.0.0 home.monsprotocol.cc
@@ -2695,7 +2687,6 @@
 0.0.0.0 layer-network.com
 0.0.0.0 layer-swap.xyz
 0.0.0.0 layer-zera.top
-0.0.0.0 layer-zero.mom
 0.0.0.0 layer2-metis.io
 0.0.0.0 layer3.cyou
 0.0.0.0 layerbank.trading
@@ -3581,7 +3572,6 @@
 0.0.0.0 nft-opense.vercel.app
 0.0.0.0 nft-openseaz.vercel.app
 0.0.0.0 nft-opesea.vercel.app
-0.0.0.0 nft-projects-sand.vercel.app
 0.0.0.0 nft-reward.pages.dev
 0.0.0.0 nft-shards-tech.vercel.app
 0.0.0.0 nft-sidusheroes.com
@@ -3730,7 +3720,6 @@
 0.0.0.0 open2mysterybox.vercel.app
 0.0.0.0 openbookraydium.com
 0.0.0.0 openboxclaimz12.vercel.app
-0.0.0.0 openclickclaim.vercel.app
 0.0.0.0 openmsea.io
 0.0.0.0 openmysterybox44.vercel.app
 0.0.0.0 openmysteryboxx19.vercel.app
@@ -3749,7 +3738,6 @@
 0.0.0.0 opensea.io.in
 0.0.0.0 opensea.lc
 0.0.0.0 openseaclaim43.vercel.app
-0.0.0.0 openseaclaimnfts.com
 0.0.0.0 openseaclickclaims01.vercel.app
 0.0.0.0 openseanft-projs.vercel.app
 0.0.0.0 openseanft.one
@@ -3764,7 +3752,6 @@
 0.0.0.0 openseaproject83.vercel.app
 0.0.0.0 openseaprojectnft.vercel.app
 0.0.0.0 opensearbox.vercel.app
-0.0.0.0 openseclicks.vercel.app
 0.0.0.0 openseek.xyz
 0.0.0.0 opensenft.vercel.app
 0.0.0.0 openseraffle.com
@@ -4068,6 +4055,7 @@
 0.0.0.0 paxful-web.com
 0.0.0.0 paxful.club
 0.0.0.0 paxful.instenpay.com
+0.0.0.0 paxful.sawstreets.com
 0.0.0.0 paxful78291047.com.ng
 0.0.0.0 paxful987.com
 0.0.0.0 paxfula.com
@@ -4360,7 +4348,6 @@
 0.0.0.0 pulsex.pages.dev
 0.0.0.0 pulsexapp.io
 0.0.0.0 puncakeswap-finance.org
-0.0.0.0 punkbits-airdrop.xyz
 0.0.0.0 punkbits.xyz
 0.0.0.0 putffer.fi
 0.0.0.0 pvth-network.com
@@ -4370,12 +4357,10 @@
 0.0.0.0 pyrthdex.com
 0.0.0.0 pyth-claim.web.app
 0.0.0.0 pyth-drop.web.app
-0.0.0.0 pyth-web3.org
 0.0.0.0 pyth.party
 0.0.0.0 pythnetwork.claiming-airdrop.cc
 0.0.0.0 pythnetwork.claiming-airdrops.click
 0.0.0.0 pythnetwork.claiming-connect.one
-0.0.0.0 pythnetwork.claiming-connect.site
 0.0.0.0 pythnetwork.claiming-link.site
 0.0.0.0 pythnetwork.connect-claiming.run
 0.0.0.0 pythnetwork.link-claiming.xyz
@@ -4391,14 +4376,12 @@
 0.0.0.0 qrayber.com
 0.0.0.0 qt5872.xyz
 0.0.0.0 qtnkpaxos.net
-0.0.0.0 quantumcats.trading
 0.0.0.0 quest-pixels.com
 0.0.0.0 quest-sharpnel.com
 0.0.0.0 quest-starknet.io
 0.0.0.0 quest.puffer.events
 0.0.0.0 quests-defi.trade
 0.0.0.0 quests-dymension.network
-0.0.0.0 quests-injective.com
 0.0.0.0 quests-multibits.com
 0.0.0.0 quests-particle.network
 0.0.0.0 quests-sharpnel.com
@@ -4936,7 +4919,6 @@
 0.0.0.0 solfiare.net
 0.0.0.0 solgift6.com
 0.0.0.0 solicitudesberkley.es
-0.0.0.0 sollfare.com
 0.0.0.0 sols-meta.web.app
 0.0.0.0 solventumcareers.com
 0.0.0.0 solventumrewards.com
@@ -4948,7 +4930,6 @@
 0.0.0.0 sophon-registrations.com
 0.0.0.0 sor-nft.web.app
 0.0.0.0 space-catch.web.app
-0.0.0.0 spaceid.claiming-link.live
 0.0.0.0 spaceld.cyou
 0.0.0.0 spacequest-jup.ag
 0.0.0.0 spacex-airdrop-1f381.web.app
@@ -5068,7 +5049,6 @@
 0.0.0.0 stroom-network-web3.vercel.app
 0.0.0.0 subqueryfoundation-claim.vercel.app
 0.0.0.0 suburloia.com
-0.0.0.0 sui-airdrop.one
 0.0.0.0 sui-network.mom
 0.0.0.0 sui.webs3drop.top
 0.0.0.0 suimine.com
@@ -5171,7 +5151,6 @@
 0.0.0.0 t3ct2s2.pro
 0.0.0.0 t5nv5.cc
 0.0.0.0 tabi-chest-claim.vercel.app
-0.0.0.0 tahodistribution.com
 0.0.0.0 taichinhbidv.com
 0.0.0.0 taiko.io-c.org
 0.0.0.0 taiko.org-t.co
@@ -5217,7 +5196,6 @@
 0.0.0.0 testrunner333.pages.dev
 0.0.0.0 tether-claim-usdt.online
 0.0.0.0 tether.com.se
-0.0.0.0 tetherlaupad.com
 0.0.0.0 texasplasmacenters.info
 0.0.0.0 tg2813portal.com
 0.0.0.0 tgl-me.ru
@@ -5531,7 +5509,6 @@
 0.0.0.0 valoxeno.com
 0.0.0.0 vanar.trading
 0.0.0.0 vansanhome.com
-0.0.0.0 vaultedvibes.online
 0.0.0.0 vdermo.us
 0.0.0.0 vdwdz.top
 0.0.0.0 veeam.careers
@@ -5911,7 +5888,6 @@
 0.0.0.0 www.ai-meme.xyz
 0.0.0.0 www.aionedrop.xyz
 0.0.0.0 www.air-altlayer.com
-0.0.0.0 www.airdrop-subquery.foundation
 0.0.0.0 www.airdropzeroland.xyz
 0.0.0.0 www.airlinesofficeguide.com
 0.0.0.0 www.airtm.services
@@ -6035,7 +6011,6 @@
 0.0.0.0 www.games-galla-iiio.com
 0.0.0.0 www.genesis-dimension.xyz
 0.0.0.0 www.genesisdmension.xyz
-0.0.0.0 www.get-metis.com
 0.0.0.0 www.getben.xyz
 0.0.0.0 www.gifts-airtm.com
 0.0.0.0 www.globalpaymentsvtw.com
@@ -6157,7 +6132,6 @@
 0.0.0.0 www.osais.app
 0.0.0.0 www.paidnetworkstaking.com
 0.0.0.0 www.pancakes.rectifysync.xyz
-0.0.0.0 www.pancakeswap-v3.com
 0.0.0.0 www.pancakeswap.today
 0.0.0.0 www.pancakeswapairdrop.com
 0.0.0.0 www.pancakeswapreward.finance
@@ -6214,11 +6188,9 @@
 0.0.0.0 www.snapshot-multibit.com
 0.0.0.0 www.somethingbad.com
 0.0.0.0 www.spatco.shop
-0.0.0.0 www.sporemashrm.top
 0.0.0.0 www.st.blancui.online
 0.0.0.0 www.st.uiworth.online
 0.0.0.0 www.staging.chat.login.fixedfloat.pw
-0.0.0.0 www.stakeyearn.fi
 0.0.0.0 www.staking-eigenpie-magpiexyz.77clube.com
 0.0.0.0 www.staking-zircuit-network.724koli.com
 0.0.0.0 www.starknet.pro.in

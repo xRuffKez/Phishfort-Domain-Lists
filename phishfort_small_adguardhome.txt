@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May  7 12:07:01 UTC 2024
+# PhishFort Small Domain List - Tue May  7 13:05:04 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6420
+# Number of Entries: 6392
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -577,7 +577,6 @@
 ||arbitrum.trustpados.top^
 ||arbitrumbridge.web3app.vip^
 ||arbitrumsurveys.com^
-||arbitrurrm.foundation^
 ||arbiusupgrade.ai^
 ||arc-ai.net^
 ||archetives.com^
@@ -649,7 +648,6 @@
 ||autotecc.pages.dev^
 ||autovalidateweb3.pages.dev^
 ||avantiengineering.org^
-||avax-gains.xyz^
 ||avaxtoken.pro^
 ||awesomestrawberry.za.com^
 ||axie.valimrocha.workers.dev^
@@ -784,7 +782,6 @@
 ||bitcoinxcash.com^
 ||bithotel.co^
 ||biticlash.com^
-||biticlubs.com^
 ||bitilandos.com^
 ||bitimeta.space^
 ||bitinaut.top^
@@ -1476,7 +1473,6 @@
 ||dappradaar.net^
 ||dappradar-ads-x.com^
 ||dappradar-token.com^
-||dappradar.co.in^
 ||dappradar.cx^
 ||dappradar.mom^
 ||dappradar.qa^
@@ -1662,8 +1658,6 @@
 ||dn.yrioa1.sa.com^
 ||dnaata.com^
 ||docs-lybra.finance^
-||docs-lybra.network^
-||docs-lybras.trade^
 ||docs.coinality.dev^
 ||documentation-lybra.finance^
 ||dodoeex.cc^
@@ -1724,7 +1718,6 @@
 ||dymension-approval.netlify.app^
 ||dymension-claim.netlify.app^
 ||dymension-claimdappstoolkit.pages.dev^
-||dymension.financial^
 ||dymension.pages.dev^
 ||dymensiondrop.com^
 ||dymensiondrop.eu^
@@ -2336,7 +2329,6 @@
 ||holder-nexo.com^
 ||holtec-international.ltd^
 ||holumasshedvist.com^
-||home.earnclout.com^
 ||home.ethiner.xyz^
 ||home.itsearn.biz^
 ||home.monsprotocol.cc^
@@ -2695,7 +2687,6 @@
 ||layer-network.com^
 ||layer-swap.xyz^
 ||layer-zera.top^
-||layer-zero.mom^
 ||layer2-metis.io^
 ||layer3.cyou^
 ||layerbank.trading^
@@ -3581,7 +3572,6 @@
 ||nft-opense.vercel.app^
 ||nft-openseaz.vercel.app^
 ||nft-opesea.vercel.app^
-||nft-projects-sand.vercel.app^
 ||nft-reward.pages.dev^
 ||nft-shards-tech.vercel.app^
 ||nft-sidusheroes.com^
@@ -3730,7 +3720,6 @@
 ||open2mysterybox.vercel.app^
 ||openbookraydium.com^
 ||openboxclaimz12.vercel.app^
-||openclickclaim.vercel.app^
 ||openmsea.io^
 ||openmysterybox44.vercel.app^
 ||openmysteryboxx19.vercel.app^
@@ -3749,7 +3738,6 @@
 ||opensea.io.in^
 ||opensea.lc^
 ||openseaclaim43.vercel.app^
-||openseaclaimnfts.com^
 ||openseaclickclaims01.vercel.app^
 ||openseanft-projs.vercel.app^
 ||openseanft.one^
@@ -3764,7 +3752,6 @@
 ||openseaproject83.vercel.app^
 ||openseaprojectnft.vercel.app^
 ||opensearbox.vercel.app^
-||openseclicks.vercel.app^
 ||openseek.xyz^
 ||opensenft.vercel.app^
 ||openseraffle.com^
@@ -4068,6 +4055,7 @@
 ||paxful-web.com^
 ||paxful.club^
 ||paxful.instenpay.com^
+||paxful.sawstreets.com^
 ||paxful78291047.com.ng^
 ||paxful987.com^
 ||paxfula.com^
@@ -4360,7 +4348,6 @@
 ||pulsex.pages.dev^
 ||pulsexapp.io^
 ||puncakeswap-finance.org^
-||punkbits-airdrop.xyz^
 ||punkbits.xyz^
 ||putffer.fi^
 ||pvth-network.com^
@@ -4370,12 +4357,10 @@
 ||pyrthdex.com^
 ||pyth-claim.web.app^
 ||pyth-drop.web.app^
-||pyth-web3.org^
 ||pyth.party^
 ||pythnetwork.claiming-airdrop.cc^
 ||pythnetwork.claiming-airdrops.click^
 ||pythnetwork.claiming-connect.one^
-||pythnetwork.claiming-connect.site^
 ||pythnetwork.claiming-link.site^
 ||pythnetwork.connect-claiming.run^
 ||pythnetwork.link-claiming.xyz^
@@ -4391,14 +4376,12 @@
 ||qrayber.com^
 ||qt5872.xyz^
 ||qtnkpaxos.net^
-||quantumcats.trading^
 ||quest-pixels.com^
 ||quest-sharpnel.com^
 ||quest-starknet.io^
 ||quest.puffer.events^
 ||quests-defi.trade^
 ||quests-dymension.network^
-||quests-injective.com^
 ||quests-multibits.com^
 ||quests-particle.network^
 ||quests-sharpnel.com^
@@ -4936,7 +4919,6 @@
 ||solfiare.net^
 ||solgift6.com^
 ||solicitudesberkley.es^
-||sollfare.com^
 ||sols-meta.web.app^
 ||solventumcareers.com^
 ||solventumrewards.com^
@@ -4948,7 +4930,6 @@
 ||sophon-registrations.com^
 ||sor-nft.web.app^
 ||space-catch.web.app^
-||spaceid.claiming-link.live^
 ||spaceld.cyou^
 ||spacequest-jup.ag^
 ||spacex-airdrop-1f381.web.app^
@@ -5068,7 +5049,6 @@
 ||stroom-network-web3.vercel.app^
 ||subqueryfoundation-claim.vercel.app^
 ||suburloia.com^
-||sui-airdrop.one^
 ||sui-network.mom^
 ||sui.webs3drop.top^
 ||suimine.com^
@@ -5171,7 +5151,6 @@
 ||t3ct2s2.pro^
 ||t5nv5.cc^
 ||tabi-chest-claim.vercel.app^
-||tahodistribution.com^
 ||taichinhbidv.com^
 ||taiko.io-c.org^
 ||taiko.org-t.co^
@@ -5217,7 +5196,6 @@
 ||testrunner333.pages.dev^
 ||tether-claim-usdt.online^
 ||tether.com.se^
-||tetherlaupad.com^
 ||texasplasmacenters.info^
 ||tg2813portal.com^
 ||tgl-me.ru^
@@ -5531,7 +5509,6 @@
 ||valoxeno.com^
 ||vanar.trading^
 ||vansanhome.com^
-||vaultedvibes.online^
 ||vdermo.us^
 ||vdwdz.top^
 ||veeam.careers^
@@ -5911,7 +5888,6 @@
 ||www.ai-meme.xyz^
 ||www.aionedrop.xyz^
 ||www.air-altlayer.com^
-||www.airdrop-subquery.foundation^
 ||www.airdropzeroland.xyz^
 ||www.airlinesofficeguide.com^
 ||www.airtm.services^
@@ -6035,7 +6011,6 @@
 ||www.games-galla-iiio.com^
 ||www.genesis-dimension.xyz^
 ||www.genesisdmension.xyz^
-||www.get-metis.com^
 ||www.getben.xyz^
 ||www.gifts-airtm.com^
 ||www.globalpaymentsvtw.com^
@@ -6157,7 +6132,6 @@
 ||www.osais.app^
 ||www.paidnetworkstaking.com^
 ||www.pancakes.rectifysync.xyz^
-||www.pancakeswap-v3.com^
 ||www.pancakeswap.today^
 ||www.pancakeswapairdrop.com^
 ||www.pancakeswapreward.finance^
@@ -6214,11 +6188,9 @@
 ||www.snapshot-multibit.com^
 ||www.somethingbad.com^
 ||www.spatco.shop^
-||www.sporemashrm.top^
 ||www.st.blancui.online^
 ||www.st.uiworth.online^
 ||www.staging.chat.login.fixedfloat.pw^
-||www.stakeyearn.fi^
 ||www.staking-eigenpie-magpiexyz.77clube.com^
 ||www.staking-zircuit-network.724koli.com^
 ||www.starknet.pro.in^
