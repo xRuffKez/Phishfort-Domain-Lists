@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 18:02:26 UTC 2024
+# PhishFort Full Domain List - Tue May  7 19:01:59 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109274
+# Number of Entries: 109275
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -40858,6 +40858,7 @@
 0.0.0.0 interactivebrolkers.com
 0.0.0.0 interactivecfds.com
 0.0.0.0 interactivehkvip.com
+0.0.0.0 interactivesbroker.com
 0.0.0.0 interactivetradepro.com
 0.0.0.0 interactuivebrokers.com
 0.0.0.0 interadtivebrokers.com

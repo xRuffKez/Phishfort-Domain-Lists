@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 18:02:26 UTC 2024
+# PhishFort Full Domain List - Tue May  7 19:01:59 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109274
+# Number of Entries: 109275
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -40858,6 +40858,7 @@
 ||interactivebrolkers.com^
 ||interactivecfds.com^
 ||interactivehkvip.com^
+||interactivesbroker.com^
 ||interactivetradepro.com^
 ||interactuivebrokers.com^
 ||interadtivebrokers.com^
