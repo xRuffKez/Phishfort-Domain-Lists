@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 17:01:52 UTC 2024
+# PhishFort Full Domain List - Tue May  7 18:02:26 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109269
+# Number of Entries: 109274
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -5528,7 +5528,6 @@
 ||apkdownload.com^
 ||apkdownmod.com^
 ||apkfab.com^
-||apkgk.com^
 ||apkmodhere.com^
 ||apkmody.io^
 ||apksave.me^
@@ -18456,6 +18455,7 @@
 ||coin-geckorewards.fun^
 ||coin-geckorewards.life^
 ||coin-geckorewards.space^
+||coin-geko.com^
 ||coin-give.com^
 ||coin-hold.web.app^
 ||coin-interest.info^
@@ -38501,6 +38501,7 @@
 ||hempgg.com^
 ||hendersonglobal.net^
 ||henexcapital.com^
+||hengstler.imall.pro^
 ||heni-drop.shop^
 ||heninft.live^
 ||henry-crown.com^
@@ -39329,6 +39330,7 @@
 ||hvu24h.atacadista.site^
 ||hvww-metams.top^
 ||hvwwv-metamas.top^
+||hw.eingeenuity.net^
 ||hwcdnwww.redmine.pancakeswape.finance^
 ||hwliecg.top^
 ||hwy407etr.com^
@@ -89155,6 +89157,7 @@
 ||uionlineddetmaa.com^
 ||uionlineddetmaa.net^
 ||uionlineddetmaa.org^
+||uionlinedet.com^
 ||uionlinedetma.com^
 ||uionlinedetmaea.com^
 ||uionlineheda.com^
@@ -92396,6 +92399,7 @@
 ||vote-ambire.org^
 ||vote-ambires.com^
 ||vote-ambires.org^
+||vote-daomaker.com^
 ||vote-makerdao.com^
 ||vote.biast.support^
 ||vote.daomakerfi.com^
@@ -101498,6 +101502,7 @@
 ||www.livecontact-ron.com^
 ||www.livesyncdapp.com^
 ||www.livewconnects.com^
+||www.livewebpxfl.site^
 ||www.lkpmg.com^
 ||www.lkybarswap.com^
 ||www.lkyberswap.net^

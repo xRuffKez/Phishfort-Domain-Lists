@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 17:01:52 UTC 2024
+# PhishFort Full Domain List - Tue May  7 18:02:26 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109269
+# Number of Entries: 109274
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -5528,7 +5528,6 @@
 0.0.0.0 apkdownload.com
 0.0.0.0 apkdownmod.com
 0.0.0.0 apkfab.com
-0.0.0.0 apkgk.com
 0.0.0.0 apkmodhere.com
 0.0.0.0 apkmody.io
 0.0.0.0 apksave.me
@@ -18456,6 +18455,7 @@
 0.0.0.0 coin-geckorewards.fun
 0.0.0.0 coin-geckorewards.life
 0.0.0.0 coin-geckorewards.space
+0.0.0.0 coin-geko.com
 0.0.0.0 coin-give.com
 0.0.0.0 coin-hold.web.app
 0.0.0.0 coin-interest.info
@@ -38501,6 +38501,7 @@
 0.0.0.0 hempgg.com
 0.0.0.0 hendersonglobal.net
 0.0.0.0 henexcapital.com
+0.0.0.0 hengstler.imall.pro
 0.0.0.0 heni-drop.shop
 0.0.0.0 heninft.live
 0.0.0.0 henry-crown.com
@@ -39329,6 +39330,7 @@
 0.0.0.0 hvu24h.atacadista.site
 0.0.0.0 hvww-metams.top
 0.0.0.0 hvwwv-metamas.top
+0.0.0.0 hw.eingeenuity.net
 0.0.0.0 hwcdnwww.redmine.pancakeswape.finance
 0.0.0.0 hwliecg.top
 0.0.0.0 hwy407etr.com
@@ -89155,6 +89157,7 @@
 0.0.0.0 uionlineddetmaa.com
 0.0.0.0 uionlineddetmaa.net
 0.0.0.0 uionlineddetmaa.org
+0.0.0.0 uionlinedet.com
 0.0.0.0 uionlinedetma.com
 0.0.0.0 uionlinedetmaea.com
 0.0.0.0 uionlineheda.com
@@ -92396,6 +92399,7 @@
 0.0.0.0 vote-ambire.org
 0.0.0.0 vote-ambires.com
 0.0.0.0 vote-ambires.org
+0.0.0.0 vote-daomaker.com
 0.0.0.0 vote-makerdao.com
 0.0.0.0 vote.biast.support
 0.0.0.0 vote.daomakerfi.com
@@ -101498,6 +101502,7 @@
 0.0.0.0 www.livecontact-ron.com
 0.0.0.0 www.livesyncdapp.com
 0.0.0.0 www.livewconnects.com
+0.0.0.0 www.livewebpxfl.site
 0.0.0.0 www.lkpmg.com
 0.0.0.0 www.lkybarswap.com
 0.0.0.0 www.lkyberswap.net
