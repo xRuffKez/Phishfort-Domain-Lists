@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May  7 08:05:50 UTC 2024
+# PhishFort Small Domain List - Tue May  7 09:05:04 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6424
+# Number of Entries: 6425
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2494,6 +2494,7 @@
 0.0.0.0 jazzy-puffpuff-8f1eac.netlify.app
 0.0.0.0 jblspeakes.com
 0.0.0.0 jcijobs.com
+0.0.0.0 jefferies.ceo
 0.0.0.0 jefferiesacademy.com
 0.0.0.0 jeffwealth.com
 0.0.0.0 jenkins.codefinity.de
