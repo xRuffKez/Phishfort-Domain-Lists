@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Tue May  7 16:05:22 UTC 2024
+# PhishFort Small Domain List - Tue May  7 17:04:55 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6350
+# Number of Entries: 6349
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2095,6 +2095,7 @@ gasfeecal.com
 gasp-web3.vercel.app
 gateway-collab.com
 gayjoygo.com
+geckoterminal-frontend-6aaxif3ri-coingecko.vercel.app
 geezyy.github.io
 gemlink.xyz
 geneitec.com
@@ -2102,6 +2103,7 @@ generalmotors-dk.com
 generalmotors-ek.com
 generalmotors-ik.com
 generalmotors-lk.com
+generalmotors-xk.com
 generalmotors-yk.com
 genesis-dem.eu
 genesis-dem.xyz
@@ -2367,6 +2369,7 @@ idextr.com
 idexxtr.com
 idn-hosting.com
 igxegift.com
+iink.3tdx2r.com
 ijktea.top
 iktrjrfusah.icu
 ilie.zerion.biz
@@ -4200,7 +4203,6 @@ pixxelnft.eu
 pl.xpiym.shop
 pl.zkndv.club
 planet-zksync.nfts2.me
-plantagmseminuevos.com.mx
 plantajohnsoncontrols.com
 plantaseminuevos.com
 platform-blast.com
@@ -4287,7 +4289,6 @@ projwctclaim.vercel.app
 prokccin.com
 promocaochevro.com
 promocaochevrobr.ws
-promochevro.com
 promoochevro.com
 promotg.fun
 promt-088x2.com
@@ -4480,6 +4481,7 @@ retikclaim.web.app
 retikfinance.click
 retlik.com
 retratandoimagens.com
+retreatable.com
 retyuiopjhfaxcvbnmjyrsatyuiiopllkhdsa.com
 reveal-manta.pages.dev
 revest-finance.com
@@ -4823,7 +4825,6 @@ skynet229.godaddysites.com
 skynettbe.ulcraft.com
 skywardsemirates.com
 skywardsglobal.com
-slavic402wws.com
 slerfdrop.net
 slerflabs.com
 slerfrewards.net
@@ -5209,8 +5210,6 @@ tikmallshop.cloud
 tiktocoins.info
 tiktok1122.com
 tiktokmall01.com
-tiktokorders.vip
-tiktokweb.cc
 titano.defilama.top
 tmedicalpr.lol
 tmtmoneyback.pages.dev

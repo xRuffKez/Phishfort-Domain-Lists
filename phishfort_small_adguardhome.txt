@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May  7 16:05:22 UTC 2024
+# PhishFort Small Domain List - Tue May  7 17:04:55 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6350
+# Number of Entries: 6349
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2096,6 +2096,7 @@
 ||gasp-web3.vercel.app^
 ||gateway-collab.com^
 ||gayjoygo.com^
+||geckoterminal-frontend-6aaxif3ri-coingecko.vercel.app^
 ||geezyy.github.io^
 ||gemlink.xyz^
 ||geneitec.com^
@@ -2103,6 +2104,7 @@
 ||generalmotors-ek.com^
 ||generalmotors-ik.com^
 ||generalmotors-lk.com^
+||generalmotors-xk.com^
 ||generalmotors-yk.com^
 ||genesis-dem.eu^
 ||genesis-dem.xyz^
@@ -2368,6 +2370,7 @@
 ||idexxtr.com^
 ||idn-hosting.com^
 ||igxegift.com^
+||iink.3tdx2r.com^
 ||ijktea.top^
 ||iktrjrfusah.icu^
 ||ilie.zerion.biz^
@@ -4201,7 +4204,6 @@
 ||pl.xpiym.shop^
 ||pl.zkndv.club^
 ||planet-zksync.nfts2.me^
-||plantagmseminuevos.com.mx^
 ||plantajohnsoncontrols.com^
 ||plantaseminuevos.com^
 ||platform-blast.com^
@@ -4288,7 +4290,6 @@
 ||prokccin.com^
 ||promocaochevro.com^
 ||promocaochevrobr.ws^
-||promochevro.com^
 ||promoochevro.com^
 ||promotg.fun^
 ||promt-088x2.com^
@@ -4481,6 +4482,7 @@
 ||retikfinance.click^
 ||retlik.com^
 ||retratandoimagens.com^
+||retreatable.com^
 ||retyuiopjhfaxcvbnmjyrsatyuiiopllkhdsa.com^
 ||reveal-manta.pages.dev^
 ||revest-finance.com^
@@ -4824,7 +4826,6 @@
 ||skynettbe.ulcraft.com^
 ||skywardsemirates.com^
 ||skywardsglobal.com^
-||slavic402wws.com^
 ||slerfdrop.net^
 ||slerflabs.com^
 ||slerfrewards.net^
@@ -5210,8 +5211,6 @@
 ||tiktocoins.info^
 ||tiktok1122.com^
 ||tiktokmall01.com^
-||tiktokorders.vip^
-||tiktokweb.cc^
 ||titano.defilama.top^
 ||tmedicalpr.lol^
 ||tmtmoneyback.pages.dev^

@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May  7 16:05:22 UTC 2024
+# PhishFort Small Domain List - Tue May  7 17:04:55 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6350
+# Number of Entries: 6349
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2096,6 +2096,7 @@
 0.0.0.0 gasp-web3.vercel.app
 0.0.0.0 gateway-collab.com
 0.0.0.0 gayjoygo.com
+0.0.0.0 geckoterminal-frontend-6aaxif3ri-coingecko.vercel.app
 0.0.0.0 geezyy.github.io
 0.0.0.0 gemlink.xyz
 0.0.0.0 geneitec.com
@@ -2103,6 +2104,7 @@
 0.0.0.0 generalmotors-ek.com
 0.0.0.0 generalmotors-ik.com
 0.0.0.0 generalmotors-lk.com
+0.0.0.0 generalmotors-xk.com
 0.0.0.0 generalmotors-yk.com
 0.0.0.0 genesis-dem.eu
 0.0.0.0 genesis-dem.xyz
@@ -2368,6 +2370,7 @@
 0.0.0.0 idexxtr.com
 0.0.0.0 idn-hosting.com
 0.0.0.0 igxegift.com
+0.0.0.0 iink.3tdx2r.com
 0.0.0.0 ijktea.top
 0.0.0.0 iktrjrfusah.icu
 0.0.0.0 ilie.zerion.biz
@@ -4201,7 +4204,6 @@
 0.0.0.0 pl.xpiym.shop
 0.0.0.0 pl.zkndv.club
 0.0.0.0 planet-zksync.nfts2.me
-0.0.0.0 plantagmseminuevos.com.mx
 0.0.0.0 plantajohnsoncontrols.com
 0.0.0.0 plantaseminuevos.com
 0.0.0.0 platform-blast.com
@@ -4288,7 +4290,6 @@
 0.0.0.0 prokccin.com
 0.0.0.0 promocaochevro.com
 0.0.0.0 promocaochevrobr.ws
-0.0.0.0 promochevro.com
 0.0.0.0 promoochevro.com
 0.0.0.0 promotg.fun
 0.0.0.0 promt-088x2.com
@@ -4481,6 +4482,7 @@
 0.0.0.0 retikfinance.click
 0.0.0.0 retlik.com
 0.0.0.0 retratandoimagens.com
+0.0.0.0 retreatable.com
 0.0.0.0 retyuiopjhfaxcvbnmjyrsatyuiiopllkhdsa.com
 0.0.0.0 reveal-manta.pages.dev
 0.0.0.0 revest-finance.com
@@ -4824,7 +4826,6 @@
 0.0.0.0 skynettbe.ulcraft.com
 0.0.0.0 skywardsemirates.com
 0.0.0.0 skywardsglobal.com
-0.0.0.0 slavic402wws.com
 0.0.0.0 slerfdrop.net
 0.0.0.0 slerflabs.com
 0.0.0.0 slerfrewards.net
@@ -5210,8 +5211,6 @@
 0.0.0.0 tiktocoins.info
 0.0.0.0 tiktok1122.com
 0.0.0.0 tiktokmall01.com
-0.0.0.0 tiktokorders.vip
-0.0.0.0 tiktokweb.cc
 0.0.0.0 titano.defilama.top
 0.0.0.0 tmedicalpr.lol
 0.0.0.0 tmtmoneyback.pages.dev
