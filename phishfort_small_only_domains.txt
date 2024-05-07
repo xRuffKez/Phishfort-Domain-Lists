@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Tue May  7 18:05:43 UTC 2024
+# PhishFort Small Domain List - Tue May  7 19:04:41 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 6354
 # Project: PhishFort (https://phishfort.com/)
@@ -2442,6 +2442,7 @@ interactivebrokersrle.com
 interactivebrokersrue.com
 interactivebrokerstrading.com
 interactivehkvip.com
+interactivesbroker.com
 interactivetradepro.com
 interdigitaltbn.com
 intraconline-instantly.live
@@ -3687,7 +3688,6 @@ onlinelaunchdappsvalidate.vercel.app
 onlinenode.pages.dev
 onlylegitbicomigrationport.com
 onpointulma.org
-ontario407etr.com
 ooderr.github.io
 op-earn.xyz
 op.coinslabs.top

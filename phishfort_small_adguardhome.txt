@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Tue May  7 18:05:43 UTC 2024
+# PhishFort Small Domain List - Tue May  7 19:04:41 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
 # Number of Entries: 6354
@@ -2443,6 +2443,7 @@
 ||interactivebrokersrue.com^
 ||interactivebrokerstrading.com^
 ||interactivehkvip.com^
+||interactivesbroker.com^
 ||interactivetradepro.com^
 ||interdigitaltbn.com^
 ||intraconline-instantly.live^
@@ -3688,7 +3689,6 @@
 ||onlinenode.pages.dev^
 ||onlylegitbicomigrationport.com^
 ||onpointulma.org^
-||ontario407etr.com^
 ||ooderr.github.io^
 ||op-earn.xyz^
 ||op.coinslabs.top^

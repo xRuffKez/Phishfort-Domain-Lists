@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Tue May  7 18:05:43 UTC 2024
+# PhishFort Small Domain List - Tue May  7 19:04:41 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 6354
@@ -2443,6 +2443,7 @@
 0.0.0.0 interactivebrokersrue.com
 0.0.0.0 interactivebrokerstrading.com
 0.0.0.0 interactivehkvip.com
+0.0.0.0 interactivesbroker.com
 0.0.0.0 interactivetradepro.com
 0.0.0.0 interdigitaltbn.com
 0.0.0.0 intraconline-instantly.live
@@ -3688,7 +3689,6 @@
 0.0.0.0 onlinenode.pages.dev
 0.0.0.0 onlylegitbicomigrationport.com
 0.0.0.0 onpointulma.org
-0.0.0.0 ontario407etr.com
 0.0.0.0 ooderr.github.io
 0.0.0.0 op-earn.xyz
 0.0.0.0 op.coinslabs.top
