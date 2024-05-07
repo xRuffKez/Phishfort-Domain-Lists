@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May  7 20:04:52 UTC 2024
+# PhishFort Small Domain List - Tue May  7 21:05:33 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6353
+# Number of Entries: 6351
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1878,7 +1878,6 @@
 0.0.0.0 ethrnn.com
 0.0.0.0 ethtoken-defi.com
 0.0.0.0 ethuegas.com
-0.0.0.0 ethurgas.com
 0.0.0.0 ethvnn.com
 0.0.0.0 etr-407-payment.com
 0.0.0.0 etr407.ca
@@ -3281,7 +3280,6 @@
 0.0.0.0 mintchain.pro
 0.0.0.0 mintnobody.online
 0.0.0.0 mirror-portalgaming.com
-0.0.0.0 mission-berachain.com
 0.0.0.0 mission-defi.trade
 0.0.0.0 mission-dymension.network
 0.0.0.0 mission-multibits.com
@@ -4362,7 +4360,6 @@
 0.0.0.0 quests-defi.trade
 0.0.0.0 quests-dymension.network
 0.0.0.0 quests-multibits.com
-0.0.0.0 quests-particle.network
 0.0.0.0 quests-sharpnel.com
 0.0.0.0 quests-superverse.com
 0.0.0.0 quickswap-io.events
@@ -4901,6 +4898,7 @@
 0.0.0.0 solwl-saga.web.app
 0.0.0.0 sommelier-finance.web.app
 0.0.0.0 somnia-network-web3.vercel.app
+0.0.0.0 sonae.com.ng
 0.0.0.0 sonicswall.com
 0.0.0.0 sophon-registrations.com
 0.0.0.0 sor-nft.web.app
@@ -5951,7 +5949,6 @@
 0.0.0.0 www.eigen-layer.sale
 0.0.0.0 www.eigenlaver.magpiexyz.site
 0.0.0.0 www.elettrovisiongroup.com
-0.0.0.0 www.eligible-porkcoin.com
 0.0.0.0 www.emidiscount.top
 0.0.0.0 www.empowerwealth.biz
 0.0.0.0 www.estoer.top
@@ -5965,6 +5962,7 @@
 0.0.0.0 www.express-tollroute407.com
 0.0.0.0 www.f2poolc.com
 0.0.0.0 www.faq-legal.com
+0.0.0.0 www.fcmdlo.com
 0.0.0.0 www.fegtokenmigrate.com
 0.0.0.0 www.fixedfloaflt.com
 0.0.0.0 www.forjud.com

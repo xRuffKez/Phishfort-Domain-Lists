@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May  7 20:04:52 UTC 2024
+# PhishFort Small Domain List - Tue May  7 21:05:33 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6353
+# Number of Entries: 6351
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1878,7 +1878,6 @@
 ||ethrnn.com^
 ||ethtoken-defi.com^
 ||ethuegas.com^
-||ethurgas.com^
 ||ethvnn.com^
 ||etr-407-payment.com^
 ||etr407.ca^
@@ -3281,7 +3280,6 @@
 ||mintchain.pro^
 ||mintnobody.online^
 ||mirror-portalgaming.com^
-||mission-berachain.com^
 ||mission-defi.trade^
 ||mission-dymension.network^
 ||mission-multibits.com^
@@ -4362,7 +4360,6 @@
 ||quests-defi.trade^
 ||quests-dymension.network^
 ||quests-multibits.com^
-||quests-particle.network^
 ||quests-sharpnel.com^
 ||quests-superverse.com^
 ||quickswap-io.events^
@@ -4901,6 +4898,7 @@
 ||solwl-saga.web.app^
 ||sommelier-finance.web.app^
 ||somnia-network-web3.vercel.app^
+||sonae.com.ng^
 ||sonicswall.com^
 ||sophon-registrations.com^
 ||sor-nft.web.app^
@@ -5951,7 +5949,6 @@
 ||www.eigen-layer.sale^
 ||www.eigenlaver.magpiexyz.site^
 ||www.elettrovisiongroup.com^
-||www.eligible-porkcoin.com^
 ||www.emidiscount.top^
 ||www.empowerwealth.biz^
 ||www.estoer.top^
@@ -5965,6 +5962,7 @@
 ||www.express-tollroute407.com^
 ||www.f2poolc.com^
 ||www.faq-legal.com^
+||www.fcmdlo.com^
 ||www.fegtokenmigrate.com^
 ||www.fixedfloaflt.com^
 ||www.forjud.com^
