@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Tue May  7 10:02:06 UTC 2024
+# PhishFort Full Domain List - Tue May  7 11:02:51 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109261
+# Number of Entries: 109262
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -76386,6 +76386,7 @@ revokecrypto.app
 revokecrypto.info
 revoked.xyz
 revokedapp.support
+revokedapps.pages.dev
 revokedcash.io
 revokedcash.xyz
 revokedeveloper.pages.dev
