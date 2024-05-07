@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Tue May  7 11:04:59 UTC 2024
+# PhishFort Small Domain List - Tue May  7 12:07:01 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6427
+# Number of Entries: 6420
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -153,7 +153,6 @@ admin.makerdao.top
 admincoinbase.the123456789.com
 adslauncher.eu
 advancelobstarhifi.pages.dev
-aerodrom.flnance.web3-l2.cfd
 aerordome.finance
 aevoxyz.live
 aflac-hr.com
@@ -888,7 +887,6 @@ bonk-premium.web.app
 bonk-token.xyz
 bonus-defi.network
 bonus-injective.com
-bonus-pyth.xyz
 bonuses-defi.network
 bookaflightwithunitedairlines.statuspage.io
 booking.agoda-checkout-id843753.com
@@ -1121,7 +1119,6 @@ claim-ether.fi
 claim-gecko.com
 claim-iyk.xyz
 claim-ju-4i4mf5.vercel.app
-claim-metis.com
 claim-molly.xyz
 claim-nftpro.web.app
 claim-nibiru.top
@@ -1872,7 +1869,6 @@ ethereum-events.tiiny.co
 ethereum-rewards.tiiny.co
 ethereum-wpos.club
 ethereum.com.tr
-ethereumfees.xyz
 ethereumgas.org
 ethereumgasfee.com
 ethereummixer.cc
@@ -1916,7 +1912,6 @@ event-chaingpt.org
 event-etf.com
 event-faccana.com
 event-grayscale.com
-event-lidofinance.com
 event-pandora.community
 event-realios.com
 event-woo.co
@@ -2495,6 +2490,7 @@ jasmy.coinsglass.top
 jazzy-puffpuff-8f1eac.netlify.app
 jblspeakes.com
 jcijobs.com
+jefferies.asia
 jefferies.ceo
 jefferiesacademy.com
 jeffwealth.com
@@ -2705,7 +2701,6 @@ layerbank.trading
 layerdank.finance
 layerszero.pics
 layerzero-alpha.com
-layerzero-superverse.com
 layerzeroclaims.xyz
 layerzeronetwork.io
 layerzzero.pics
@@ -4402,7 +4397,6 @@ quest-starknet.io
 quest.puffer.events
 quests-defi.trade
 quests-dymension.network
-quests-dymension.xyz
 quests-injective.com
 quests-multibits.com
 quests-particle.network
@@ -4494,7 +4488,6 @@ registrar-traderjoexyz.com
 registration-ator.com
 registration-ator.io
 registration-basedbrett.com
-registration-defi.trade
 registration-fantasy.top
 registration-fantom.network
 registration-jup.ag
@@ -4793,7 +4786,6 @@ serversvk.top
 service-connect-valide.nl
 servicecontrollnc.com
 serviciosbanconsorcio.com
-sewllnetwork.io
 sfccrcc.shop
 shardeum-airdrops-register-live.vercel.app
 shardeumorg.vercel.app
@@ -5198,6 +5190,7 @@ taytaymerch.com
 tdg7gr.pro
 tdserv.com
 tdsynnexs.com
+tdsynnexx.com
 te-rra.cyou
 tectonic.flnance.web3-ap.cfd
 teechdata.com

@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May  7 11:04:59 UTC 2024
+# PhishFort Small Domain List - Tue May  7 12:07:01 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6427
+# Number of Entries: 6420
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -154,7 +154,6 @@
 0.0.0.0 admincoinbase.the123456789.com
 0.0.0.0 adslauncher.eu
 0.0.0.0 advancelobstarhifi.pages.dev
-0.0.0.0 aerodrom.flnance.web3-l2.cfd
 0.0.0.0 aerordome.finance
 0.0.0.0 aevoxyz.live
 0.0.0.0 aflac-hr.com
@@ -889,7 +888,6 @@
 0.0.0.0 bonk-token.xyz
 0.0.0.0 bonus-defi.network
 0.0.0.0 bonus-injective.com
-0.0.0.0 bonus-pyth.xyz
 0.0.0.0 bonuses-defi.network
 0.0.0.0 bookaflightwithunitedairlines.statuspage.io
 0.0.0.0 booking.agoda-checkout-id843753.com
@@ -1122,7 +1120,6 @@
 0.0.0.0 claim-gecko.com
 0.0.0.0 claim-iyk.xyz
 0.0.0.0 claim-ju-4i4mf5.vercel.app
-0.0.0.0 claim-metis.com
 0.0.0.0 claim-molly.xyz
 0.0.0.0 claim-nftpro.web.app
 0.0.0.0 claim-nibiru.top
@@ -1873,7 +1870,6 @@
 0.0.0.0 ethereum-rewards.tiiny.co
 0.0.0.0 ethereum-wpos.club
 0.0.0.0 ethereum.com.tr
-0.0.0.0 ethereumfees.xyz
 0.0.0.0 ethereumgas.org
 0.0.0.0 ethereumgasfee.com
 0.0.0.0 ethereummixer.cc
@@ -1917,7 +1913,6 @@
 0.0.0.0 event-etf.com
 0.0.0.0 event-faccana.com
 0.0.0.0 event-grayscale.com
-0.0.0.0 event-lidofinance.com
 0.0.0.0 event-pandora.community
 0.0.0.0 event-realios.com
 0.0.0.0 event-woo.co
@@ -2496,6 +2491,7 @@
 0.0.0.0 jazzy-puffpuff-8f1eac.netlify.app
 0.0.0.0 jblspeakes.com
 0.0.0.0 jcijobs.com
+0.0.0.0 jefferies.asia
 0.0.0.0 jefferies.ceo
 0.0.0.0 jefferiesacademy.com
 0.0.0.0 jeffwealth.com
@@ -2706,7 +2702,6 @@
 0.0.0.0 layerdank.finance
 0.0.0.0 layerszero.pics
 0.0.0.0 layerzero-alpha.com
-0.0.0.0 layerzero-superverse.com
 0.0.0.0 layerzeroclaims.xyz
 0.0.0.0 layerzeronetwork.io
 0.0.0.0 layerzzero.pics
@@ -4403,7 +4398,6 @@
 0.0.0.0 quest.puffer.events
 0.0.0.0 quests-defi.trade
 0.0.0.0 quests-dymension.network
-0.0.0.0 quests-dymension.xyz
 0.0.0.0 quests-injective.com
 0.0.0.0 quests-multibits.com
 0.0.0.0 quests-particle.network
@@ -4495,7 +4489,6 @@
 0.0.0.0 registration-ator.com
 0.0.0.0 registration-ator.io
 0.0.0.0 registration-basedbrett.com
-0.0.0.0 registration-defi.trade
 0.0.0.0 registration-fantasy.top
 0.0.0.0 registration-fantom.network
 0.0.0.0 registration-jup.ag
@@ -4794,7 +4787,6 @@
 0.0.0.0 service-connect-valide.nl
 0.0.0.0 servicecontrollnc.com
 0.0.0.0 serviciosbanconsorcio.com
-0.0.0.0 sewllnetwork.io
 0.0.0.0 sfccrcc.shop
 0.0.0.0 shardeum-airdrops-register-live.vercel.app
 0.0.0.0 shardeumorg.vercel.app
@@ -5199,6 +5191,7 @@
 0.0.0.0 tdg7gr.pro
 0.0.0.0 tdserv.com
 0.0.0.0 tdsynnexs.com
+0.0.0.0 tdsynnexx.com
 0.0.0.0 te-rra.cyou
 0.0.0.0 tectonic.flnance.web3-ap.cfd
 0.0.0.0 teechdata.com
