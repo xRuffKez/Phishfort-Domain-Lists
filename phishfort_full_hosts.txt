@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 14:01:52 UTC 2024
+# PhishFort Full Domain List - Tue May  7 15:01:56 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109265
+# Number of Entries: 109266
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -41760,7 +41760,6 @@
 0.0.0.0 jonestrading.org
 0.0.0.0 jordancoin.online
 0.0.0.0 josephbtc.com
-0.0.0.0 joteervaastu.com
 0.0.0.0 jouer0.blogspot.com
 0.0.0.0 journeyingthroughhope.com
 0.0.0.0 journeymantle.one
@@ -48822,6 +48821,7 @@
 0.0.0.0 masssccaradd.com
 0.0.0.0 masssosatgo.com
 0.0.0.0 massuiprofilelogin.onrender.com
+0.0.0.0 massulbenefitget.com
 0.0.0.0 massulonllnedet.org
 0.0.0.0 mast-dpp.firebaseapp.com
 0.0.0.0 mast-dpp.web.app
@@ -70010,6 +70010,7 @@
 0.0.0.0 pengsolana.co
 0.0.0.0 pengsolana.org
 0.0.0.0 pengsolana.xyz
+0.0.0.0 penguin-iq.com
 0.0.0.0 penguin-verlagsgruppe.de
 0.0.0.0 penguincoin.xyz
 0.0.0.0 penguinrandomh0use.com

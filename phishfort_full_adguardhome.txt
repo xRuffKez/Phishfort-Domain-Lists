@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 14:01:52 UTC 2024
+# PhishFort Full Domain List - Tue May  7 15:01:56 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109265
+# Number of Entries: 109266
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -41760,7 +41760,6 @@
 ||jonestrading.org^
 ||jordancoin.online^
 ||josephbtc.com^
-||joteervaastu.com^
 ||jouer0.blogspot.com^
 ||journeyingthroughhope.com^
 ||journeymantle.one^
@@ -48822,6 +48821,7 @@
 ||masssccaradd.com^
 ||masssosatgo.com^
 ||massuiprofilelogin.onrender.com^
+||massulbenefitget.com^
 ||massulonllnedet.org^
 ||mast-dpp.firebaseapp.com^
 ||mast-dpp.web.app^
@@ -70010,6 +70010,7 @@
 ||pengsolana.co^
 ||pengsolana.org^
 ||pengsolana.xyz^
+||penguin-iq.com^
 ||penguin-verlagsgruppe.de^
 ||penguincoin.xyz^
 ||penguinrandomh0use.com^
