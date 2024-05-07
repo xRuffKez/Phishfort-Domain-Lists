@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May  7 13:01:50 UTC 2024
+# PhishFort Full Domain List - Tue May  7 14:01:52 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109264
+# Number of Entries: 109265
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -23106,6 +23106,7 @@
 ||dackieofficial.live^
 ||dackofficcommynit.com^
 ||dacontral-gomes.com^
+||dad.bcust.eu^
 ||dadake.site^
 ||dadawgs.tech^
 ||dadcake.app^
