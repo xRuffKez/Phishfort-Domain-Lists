@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  8 00:06:04 UTC 2024
+# PhishFort Full Domain List - Wed May  8 01:15:38 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109282
+# Number of Entries: 109285
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -15580,6 +15580,7 @@
 0.0.0.0 cakeswap.myliveappio.com
 0.0.0.0 cakeswap.network
 0.0.0.0 cakeswap.pro
+0.0.0.0 cakeswapfinancial.in
 0.0.0.0 cakeswapl.com
 0.0.0.0 cakeswaps.com
 0.0.0.0 cakeswp.app
@@ -41912,6 +41913,7 @@
 0.0.0.0 jupiter.services-claiming.cc
 0.0.0.0 jupiterairdrop.org
 0.0.0.0 jupitercatdet.com
+0.0.0.0 jupiterexchange.app
 0.0.0.0 jupiterexchange.events
 0.0.0.0 jupiterexchange.link
 0.0.0.0 jupiterlaunch.network
@@ -73498,6 +73500,7 @@
 0.0.0.0 projectmainnetweb.com
 0.0.0.0 projectmainserver.com
 0.0.0.0 projectmanual-syncronisation.online
+0.0.0.0 projectmig.pages.dev
 0.0.0.0 projectnetsolution.com
 0.0.0.0 projectnft-xi.vercel.app
 0.0.0.0 projectnodes.online

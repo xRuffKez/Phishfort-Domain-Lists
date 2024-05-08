@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Wed May  8 00:06:04 UTC 2024
+# PhishFort Full Domain List - Wed May  8 01:15:38 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109282
+# Number of Entries: 109285
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -15579,6 +15579,7 @@ cakeswap.me
 cakeswap.myliveappio.com
 cakeswap.network
 cakeswap.pro
+cakeswapfinancial.in
 cakeswapl.com
 cakeswaps.com
 cakeswp.app
@@ -41911,6 +41912,7 @@ jupiter-web3.org
 jupiter.services-claiming.cc
 jupiterairdrop.org
 jupitercatdet.com
+jupiterexchange.app
 jupiterexchange.events
 jupiterexchange.link
 jupiterlaunch.network
@@ -73497,6 +73499,7 @@ projectmainnet.netlify.app
 projectmainnetweb.com
 projectmainserver.com
 projectmanual-syncronisation.online
+projectmig.pages.dev
 projectnetsolution.com
 projectnft-xi.vercel.app
 projectnodes.online
