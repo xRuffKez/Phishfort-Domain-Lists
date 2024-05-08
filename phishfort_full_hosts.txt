@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  8 06:02:14 UTC 2024
+# PhishFort Full Domain List - Wed May  8 07:01:51 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109289
+# Number of Entries: 109290
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -55549,6 +55549,7 @@
 0.0.0.0 mun.web3fast.net
 0.0.0.0 mundialconsorcios.com.br
 0.0.0.0 mundodelibrosxyz.com
+0.0.0.0 muniorcatest.azurewebsites.net
 0.0.0.0 munshihr.com
 0.0.0.0 muon-token.sale
 0.0.0.0 murahkiu.com
