@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  8 06:06:17 UTC 2024
+# PhishFort Small Domain List - Wed May  8 07:06:02 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6257
+# Number of Entries: 6251
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2538,7 +2538,6 @@
 ||juppboxes.cc^
 ||juppcases.work^
 ||jupptrullo.cc^
-||juppy-box.com^
 ||juppyapps.com^
 ||juppycases.trade^
 ||juppystart.app^
@@ -3351,6 +3350,7 @@
 ||multiwalletsystem.web.app^
 ||mumucoin.org^
 ||mundialconsorcios.com.br^
+||muniorcatest.azurewebsites.net^
 ||murconseil.com^
 ||musicyandex.ru^
 ||muskswap.pages.dev^
@@ -3513,7 +3513,6 @@
 ||nft-starknet-project.vercel.app^
 ||nft-swellnetwork.io^
 ||nft-tradee.web.app^
-||nft-win.pages.dev^
 ||nft.cologne^
 ||nftairdropclub.com^
 ||nftclaimnetwork.space^
@@ -4344,7 +4343,6 @@
 ||receive.pilxeisgame.xyz^
 ||received-ethena.app^
 ||receivemetamask.com^
-||receiveusdc.com^
 ||reckonmexico.com^
 ||reconnectto.org^
 ||recoveryportal.pages.dev^
@@ -5089,9 +5087,6 @@
 ||test.saf9gti25klom8xz79iyn2s.xyz^
 ||test.vortexcapitaltrade.com^
 ||testnet-vm.web.app^
-||testrunner111.pages.dev^
-||testrunner222.pages.dev^
-||testrunner333.pages.dev^
 ||tether-claim-usdt.online^
 ||tether.com.se^
 ||texasplasmacenters.info^
@@ -5638,7 +5633,6 @@
 ||web3nodeconnection.org^
 ||web3portal.com^
 ||web3resolve.pages.dev^
-||web3resolvepage.tech^
 ||web3rewards.app^
 ||web3trade.net^
 ||web3trubtc.cc^

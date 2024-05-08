@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  8 06:06:17 UTC 2024
+# PhishFort Small Domain List - Wed May  8 07:06:02 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6257
+# Number of Entries: 6251
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2538,7 +2538,6 @@
 0.0.0.0 juppboxes.cc
 0.0.0.0 juppcases.work
 0.0.0.0 jupptrullo.cc
-0.0.0.0 juppy-box.com
 0.0.0.0 juppyapps.com
 0.0.0.0 juppycases.trade
 0.0.0.0 juppystart.app
@@ -3351,6 +3350,7 @@
 0.0.0.0 multiwalletsystem.web.app
 0.0.0.0 mumucoin.org
 0.0.0.0 mundialconsorcios.com.br
+0.0.0.0 muniorcatest.azurewebsites.net
 0.0.0.0 murconseil.com
 0.0.0.0 musicyandex.ru
 0.0.0.0 muskswap.pages.dev
@@ -3513,7 +3513,6 @@
 0.0.0.0 nft-starknet-project.vercel.app
 0.0.0.0 nft-swellnetwork.io
 0.0.0.0 nft-tradee.web.app
-0.0.0.0 nft-win.pages.dev
 0.0.0.0 nft.cologne
 0.0.0.0 nftairdropclub.com
 0.0.0.0 nftclaimnetwork.space
@@ -4344,7 +4343,6 @@
 0.0.0.0 receive.pilxeisgame.xyz
 0.0.0.0 received-ethena.app
 0.0.0.0 receivemetamask.com
-0.0.0.0 receiveusdc.com
 0.0.0.0 reckonmexico.com
 0.0.0.0 reconnectto.org
 0.0.0.0 recoveryportal.pages.dev
@@ -5089,9 +5087,6 @@
 0.0.0.0 test.saf9gti25klom8xz79iyn2s.xyz
 0.0.0.0 test.vortexcapitaltrade.com
 0.0.0.0 testnet-vm.web.app
-0.0.0.0 testrunner111.pages.dev
-0.0.0.0 testrunner222.pages.dev
-0.0.0.0 testrunner333.pages.dev
 0.0.0.0 tether-claim-usdt.online
 0.0.0.0 tether.com.se
 0.0.0.0 texasplasmacenters.info
@@ -5638,7 +5633,6 @@
 0.0.0.0 web3nodeconnection.org
 0.0.0.0 web3portal.com
 0.0.0.0 web3resolve.pages.dev
-0.0.0.0 web3resolvepage.tech
 0.0.0.0 web3rewards.app
 0.0.0.0 web3trade.net
 0.0.0.0 web3trubtc.cc
