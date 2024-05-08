@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  8 16:02:18 UTC 2024
+# PhishFort Full Domain List - Wed May  8 17:01:51 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109300
+# Number of Entries: 109304
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2490,6 +2490,7 @@
 0.0.0.0 accounting.pancokeswap.com
 0.0.0.0 accountlogin2fa.com
 0.0.0.0 accountmetalives.tk
+0.0.0.0 accountpaxful.com
 0.0.0.0 accountreconnection.com
 0.0.0.0 accountresolution.top
 0.0.0.0 accountresolvedapps.web.app
@@ -2949,6 +2950,7 @@
 0.0.0.0 adventurers2023.nft-premint.com
 0.0.0.0 advertiseagoda.com
 0.0.0.0 advisorywiki.com
+0.0.0.0 advma.co
 0.0.0.0 adzb.weirendong.com
 0.0.0.0 ae-coinbase.com
 0.0.0.0 aekten.store
@@ -4903,6 +4905,7 @@
 0.0.0.0 anchorstation.host
 0.0.0.0 anchorswap.app
 0.0.0.0 anchortrustgrp.com
+0.0.0.0 anchorwayne.ru
 0.0.0.0 anchorwebprotocol.com
 0.0.0.0 ancient-ape-club.wtf
 0.0.0.0 ancient-step-road.vercel.app
@@ -96100,6 +96103,7 @@
 0.0.0.0 web.pancakeswaps.it
 0.0.0.0 web.paxful-coin.cc
 0.0.0.0 web.paxful-coin.xyz
+0.0.0.0 web.paxfulusdt.com
 0.0.0.0 web.projectservices.live
 0.0.0.0 web.protocoldapp.io
 0.0.0.0 web.resolvebugvvalidly.org

@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Wed May  8 16:02:18 UTC 2024
+# PhishFort Full Domain List - Wed May  8 17:01:51 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109300
+# Number of Entries: 109304
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2489,6 +2489,7 @@ accounting-team.com
 accounting.pancokeswap.com
 accountlogin2fa.com
 accountmetalives.tk
+accountpaxful.com
 accountreconnection.com
 accountresolution.top
 accountresolvedapps.web.app
@@ -2948,6 +2949,7 @@ adventurers2023.imints.xyz
 adventurers2023.nft-premint.com
 advertiseagoda.com
 advisorywiki.com
+advma.co
 adzb.weirendong.com
 ae-coinbase.com
 aekten.store
@@ -4902,6 +4904,7 @@ anchorprotocolsapp.com
 anchorstation.host
 anchorswap.app
 anchortrustgrp.com
+anchorwayne.ru
 anchorwebprotocol.com
 ancient-ape-club.wtf
 ancient-step-road.vercel.app
@@ -96099,6 +96102,7 @@ web.pancakesupport.live
 web.pancakeswaps.it
 web.paxful-coin.cc
 web.paxful-coin.xyz
+web.paxfulusdt.com
 web.projectservices.live
 web.protocoldapp.io
 web.resolvebugvvalidly.org
