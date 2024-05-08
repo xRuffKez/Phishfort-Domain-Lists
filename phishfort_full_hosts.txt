@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  8 21:02:11 UTC 2024
+# PhishFort Full Domain List - Wed May  8 22:01:53 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109305
+# Number of Entries: 109306
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -92284,6 +92284,7 @@
 0.0.0.0 vipmoodys.com
 0.0.0.0 vipnewmont.com
 0.0.0.0 viralethereum-promogive.com
+0.0.0.0 virgeeny.shop
 0.0.0.0 virgin-awareness.com
 0.0.0.0 virginmoneybusinessbanking.com
 0.0.0.0 virginmoneychatwithus.web.app

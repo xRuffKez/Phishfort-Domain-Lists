@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Wed May  8 21:02:11 UTC 2024
+# PhishFort Full Domain List - Wed May  8 22:01:53 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109305
+# Number of Entries: 109306
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -92283,6 +92283,7 @@ vipmagija.com
 vipmoodys.com
 vipnewmont.com
 viralethereum-promogive.com
+virgeeny.shop
 virgin-awareness.com
 virginmoneybusinessbanking.com
 virginmoneychatwithus.web.app
