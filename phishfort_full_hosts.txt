@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  8 04:01:54 UTC 2024
+# PhishFort Full Domain List - Wed May  8 05:01:50 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109285
+# Number of Entries: 109289
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -15985,6 +15985,7 @@
 0.0.0.0 cdgae.com
 0.0.0.0 cdn-stellar.org
 0.0.0.0 cdn.cdn.secure.pancakefiance.org
+0.0.0.0 cdn.iomovo.io
 0.0.0.0 cdn.pancakeswape.finance
 0.0.0.0 cdn1conectionspoint2point12mayresultinotthefolw.pixelmon.tech
 0.0.0.0 cdnddn24.ihectorchiyani.click
@@ -30045,6 +30046,7 @@
 0.0.0.0 etcv-wallet.com
 0.0.0.0 etcwallet.atomburg.com
 0.0.0.0 etcwallet.net
+0.0.0.0 etdefi.com
 0.0.0.0 eteclum.org
 0.0.0.0 etena.xyz
 0.0.0.0 eter.fi
@@ -76006,6 +76008,7 @@
 0.0.0.0 resolveprotocols.site
 0.0.0.0 resolver-paneldapp.com
 0.0.0.0 resolver-protocol.com
+0.0.0.0 resolver-string.pages.dev
 0.0.0.0 resolverfinance.com
 0.0.0.0 resolverhq.firebaseapp.com
 0.0.0.0 resolverhq.web.app
@@ -102092,6 +102095,7 @@
 0.0.0.0 www.mutliclhain.com
 0.0.0.0 www.mwallet8.com
 0.0.0.0 www.mwallpapers.com
+0.0.0.0 www.mwwbyin.com
 0.0.0.0 www.mx2.pancakeswape.finance
 0.0.0.0 www.mxklar.com
 0.0.0.0 www.my-ethewrallet.com

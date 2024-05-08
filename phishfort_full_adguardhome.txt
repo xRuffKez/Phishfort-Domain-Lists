@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  8 04:01:54 UTC 2024
+# PhishFort Full Domain List - Wed May  8 05:01:50 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109285
+# Number of Entries: 109289
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -15985,6 +15985,7 @@
 ||cdgae.com^
 ||cdn-stellar.org^
 ||cdn.cdn.secure.pancakefiance.org^
+||cdn.iomovo.io^
 ||cdn.pancakeswape.finance^
 ||cdn1conectionspoint2point12mayresultinotthefolw.pixelmon.tech^
 ||cdnddn24.ihectorchiyani.click^
@@ -30045,6 +30046,7 @@
 ||etcv-wallet.com^
 ||etcwallet.atomburg.com^
 ||etcwallet.net^
+||etdefi.com^
 ||eteclum.org^
 ||etena.xyz^
 ||eter.fi^
@@ -76006,6 +76008,7 @@
 ||resolveprotocols.site^
 ||resolver-paneldapp.com^
 ||resolver-protocol.com^
+||resolver-string.pages.dev^
 ||resolverfinance.com^
 ||resolverhq.firebaseapp.com^
 ||resolverhq.web.app^
@@ -102092,6 +102095,7 @@
 ||www.mutliclhain.com^
 ||www.mwallet8.com^
 ||www.mwallpapers.com^
+||www.mwwbyin.com^
 ||www.mx2.pancakeswape.finance^
 ||www.mxklar.com^
 ||www.my-ethewrallet.com^
