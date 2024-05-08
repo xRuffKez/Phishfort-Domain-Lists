@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  8 12:07:03 UTC 2024
+# PhishFort Small Domain List - Wed May  8 13:06:10 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6225
+# Number of Entries: 6218
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -326,7 +326,6 @@
 0.0.0.0 allocation-getgrass.com
 0.0.0.0 allocation-jup.trading
 0.0.0.0 allocation-layerzero.app
-0.0.0.0 allocation-pixels.com
 0.0.0.0 allocation-roninchain.com
 0.0.0.0 alp.local-user.com
 0.0.0.0 alpha-fetch.com
@@ -431,7 +430,6 @@
 0.0.0.0 app-parcl.site
 0.0.0.0 app-planetrefi.com
 0.0.0.0 app-rage-trades.com
-0.0.0.0 app-renzoprotocol.com
 0.0.0.0 app-spaks.sbs
 0.0.0.0 app-spark-fi.ipns.dweb.link
 0.0.0.0 app-starknet.io
@@ -508,7 +506,6 @@
 0.0.0.0 appethena.vip
 0.0.0.0 appfhruster.finance
 0.0.0.0 appfix.netlify.app
-0.0.0.0 appfrax.finance
 0.0.0.0 appi-zkasino.live
 0.0.0.0 appkiloex.io
 0.0.0.0 appleid.raydiunexchange.pro
@@ -1314,7 +1311,6 @@
 0.0.0.0 colleb-verify.xyz
 0.0.0.0 collect-blast.com
 0.0.0.0 collection-satoshivm.io
-0.0.0.0 colllab.xyz
 0.0.0.0 com-official.top
 0.0.0.0 com3.sa.com
 0.0.0.0 community-center.shop
@@ -1704,7 +1700,6 @@
 0.0.0.0 earnifinance.xyz
 0.0.0.0 earningdrop.dev
 0.0.0.0 earnm.org
-0.0.0.0 easyfixwallet.pages.dev
 0.0.0.0 ebayshop-us.com
 0.0.0.0 echelon.gift
 0.0.0.0 echodex-v3-interface-web.vercel.app
@@ -2627,7 +2622,6 @@
 0.0.0.0 layer-zera.top
 0.0.0.0 layer3.cyou
 0.0.0.0 layerdank.finance
-0.0.0.0 layerszero.pics
 0.0.0.0 layerzero-alpha.com
 0.0.0.0 layerzeroclaims.xyz
 0.0.0.0 layerzeronetwork.io
@@ -3557,6 +3551,7 @@
 0.0.0.0 nqzero.sa.com
 0.0.0.0 ns1.bandwidthserver.com
 0.0.0.0 nsds.cc
+0.0.0.0 nutronshop.com.br
 0.0.0.0 nvdacourse.com
 0.0.0.0 nvenergy.customersupports.network
 0.0.0.0 nvfmr.cc
@@ -3830,7 +3825,6 @@
 0.0.0.0 pancakesswap.pages.dev
 0.0.0.0 pancakesswap.xyz
 0.0.0.0 pancakesvap-app.github.io
-0.0.0.0 pancakesvop.com
 0.0.0.0 pancakeswaap.in
 0.0.0.0 pancakeswaapfinance.net
 0.0.0.0 pancakeswap-airdrop-giveaway.com
@@ -3916,6 +3910,7 @@
 0.0.0.0 panckaeswap.xyz
 0.0.0.0 panckedrops48.vercel.app
 0.0.0.0 panckswap.com
+0.0.0.0 pancretaonline-grnew.com
 0.0.0.0 pandefi-staking.com
 0.0.0.0 pandefi.cc
 0.0.0.0 pandefi.co
@@ -4748,7 +4743,6 @@
 0.0.0.0 smainchain-1d1.pages.dev
 0.0.0.0 smart-integrate.xyz
 0.0.0.0 smart-layer-claim.net
-0.0.0.0 smart-walletconnect.pages.dev
 0.0.0.0 smartauthrectify.pages.dev
 0.0.0.0 smartcontapp-audit.com
 0.0.0.0 smartdappconnect.com
@@ -5387,7 +5381,6 @@
 0.0.0.0 venue.markets
 0.0.0.0 veolidetamast.com
 0.0.0.0 verasity-io.live
-0.0.0.0 verbosedapp.pages.dev
 0.0.0.0 verif-nulink.vercel.app
 0.0.0.0 verifi-vulcan.xyz
 0.0.0.0 verification-assets.com

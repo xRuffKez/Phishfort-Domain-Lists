@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  8 12:07:03 UTC 2024
+# PhishFort Small Domain List - Wed May  8 13:06:10 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6225
+# Number of Entries: 6218
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -326,7 +326,6 @@
 ||allocation-getgrass.com^
 ||allocation-jup.trading^
 ||allocation-layerzero.app^
-||allocation-pixels.com^
 ||allocation-roninchain.com^
 ||alp.local-user.com^
 ||alpha-fetch.com^
@@ -431,7 +430,6 @@
 ||app-parcl.site^
 ||app-planetrefi.com^
 ||app-rage-trades.com^
-||app-renzoprotocol.com^
 ||app-spaks.sbs^
 ||app-spark-fi.ipns.dweb.link^
 ||app-starknet.io^
@@ -508,7 +506,6 @@
 ||appethena.vip^
 ||appfhruster.finance^
 ||appfix.netlify.app^
-||appfrax.finance^
 ||appi-zkasino.live^
 ||appkiloex.io^
 ||appleid.raydiunexchange.pro^
@@ -1314,7 +1311,6 @@
 ||colleb-verify.xyz^
 ||collect-blast.com^
 ||collection-satoshivm.io^
-||colllab.xyz^
 ||com-official.top^
 ||com3.sa.com^
 ||community-center.shop^
@@ -1704,7 +1700,6 @@
 ||earnifinance.xyz^
 ||earningdrop.dev^
 ||earnm.org^
-||easyfixwallet.pages.dev^
 ||ebayshop-us.com^
 ||echelon.gift^
 ||echodex-v3-interface-web.vercel.app^
@@ -2627,7 +2622,6 @@
 ||layer-zera.top^
 ||layer3.cyou^
 ||layerdank.finance^
-||layerszero.pics^
 ||layerzero-alpha.com^
 ||layerzeroclaims.xyz^
 ||layerzeronetwork.io^
@@ -3557,6 +3551,7 @@
 ||nqzero.sa.com^
 ||ns1.bandwidthserver.com^
 ||nsds.cc^
+||nutronshop.com.br^
 ||nvdacourse.com^
 ||nvenergy.customersupports.network^
 ||nvfmr.cc^
@@ -3830,7 +3825,6 @@
 ||pancakesswap.pages.dev^
 ||pancakesswap.xyz^
 ||pancakesvap-app.github.io^
-||pancakesvop.com^
 ||pancakeswaap.in^
 ||pancakeswaapfinance.net^
 ||pancakeswap-airdrop-giveaway.com^
@@ -3916,6 +3910,7 @@
 ||panckaeswap.xyz^
 ||panckedrops48.vercel.app^
 ||panckswap.com^
+||pancretaonline-grnew.com^
 ||pandefi-staking.com^
 ||pandefi.cc^
 ||pandefi.co^
@@ -4748,7 +4743,6 @@
 ||smainchain-1d1.pages.dev^
 ||smart-integrate.xyz^
 ||smart-layer-claim.net^
-||smart-walletconnect.pages.dev^
 ||smartauthrectify.pages.dev^
 ||smartcontapp-audit.com^
 ||smartdappconnect.com^
@@ -5387,7 +5381,6 @@
 ||venue.markets^
 ||veolidetamast.com^
 ||verasity-io.live^
-||verbosedapp.pages.dev^
 ||verif-nulink.vercel.app^
 ||verifi-vulcan.xyz^
 ||verification-assets.com^
