@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Wed May  8 20:04:57 UTC 2024
+# PhishFort Small Domain List - Wed May  8 21:05:38 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
 # Number of Entries: 6195
@@ -1582,7 +1582,6 @@
 ||dfx-stablecoin.web.app^
 ||dg1ph.pro^
 ||dhk6y.cc^
-||diag-bracco.com^
 ||diamondhand.pages.dev^
 ||diamondhands-ethereum.web.app^
 ||digitaldefi.pro^
@@ -5393,6 +5392,7 @@
 ||vikingglobal.linejoinus.com^
 ||viplatii.online^
 ||vipnewmont.com^
+||virgeeny.shop^
 ||virgin-awareness.com^
 ||virginmoneybusinessbanking.com^
 ||virginmoneychatwithus.web.app^

@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Wed May  8 20:04:57 UTC 2024
+# PhishFort Small Domain List - Wed May  8 21:05:38 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 6195
 # Project: PhishFort (https://phishfort.com/)
@@ -1581,7 +1581,6 @@ dfacows.net
 dfx-stablecoin.web.app
 dg1ph.pro
 dhk6y.cc
-diag-bracco.com
 diamondhand.pages.dev
 diamondhands-ethereum.web.app
 digitaldefi.pro
@@ -5392,6 +5391,7 @@ view.wormmap.xyz
 vikingglobal.linejoinus.com
 viplatii.online
 vipnewmont.com
+virgeeny.shop
 virgin-awareness.com
 virginmoneybusinessbanking.com
 virginmoneychatwithus.web.app

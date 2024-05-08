@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Wed May  8 20:04:57 UTC 2024
+# PhishFort Small Domain List - Wed May  8 21:05:38 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 6195
@@ -1582,7 +1582,6 @@
 0.0.0.0 dfx-stablecoin.web.app
 0.0.0.0 dg1ph.pro
 0.0.0.0 dhk6y.cc
-0.0.0.0 diag-bracco.com
 0.0.0.0 diamondhand.pages.dev
 0.0.0.0 diamondhands-ethereum.web.app
 0.0.0.0 digitaldefi.pro
@@ -5393,6 +5392,7 @@
 0.0.0.0 vikingglobal.linejoinus.com
 0.0.0.0 viplatii.online
 0.0.0.0 vipnewmont.com
+0.0.0.0 virgeeny.shop
 0.0.0.0 virgin-awareness.com
 0.0.0.0 virginmoneybusinessbanking.com
 0.0.0.0 virginmoneychatwithus.web.app
