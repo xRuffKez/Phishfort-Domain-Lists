@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  8 12:02:48 UTC 2024
+# PhishFort Full Domain List - Wed May  8 13:03:31 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109293
+# Number of Entries: 109295
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -61649,6 +61649,7 @@
 0.0.0.0 nusukbaitullahint.id
 0.0.0.0 nusukbusiness.technoapps.net
 0.0.0.0 nusukroadshow.com
+0.0.0.0 nutronshop.com.br
 0.0.0.0 nutsplay.xyz
 0.0.0.0 nv3cjcrlmqdyejc.www.beta-openselling.pancakeswasap.one
 0.0.0.0 nvavid.com
@@ -68395,6 +68396,7 @@
 0.0.0.0 pancoockieswap.us
 0.0.0.0 pancookie.finance
 0.0.0.0 pancqkeswap.com
+0.0.0.0 pancretaonline-grnew.com
 0.0.0.0 pancryptodex.godaddysites.com
 0.0.0.0 pancsaceswep.co.uk
 0.0.0.0 pancsakeswads.com

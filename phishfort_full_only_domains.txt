@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Wed May  8 12:02:48 UTC 2024
+# PhishFort Full Domain List - Wed May  8 13:03:31 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109293
+# Number of Entries: 109295
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -61648,6 +61648,7 @@ nusuk.site
 nusukbaitullahint.id
 nusukbusiness.technoapps.net
 nusukroadshow.com
+nutronshop.com.br
 nutsplay.xyz
 nv3cjcrlmqdyejc.www.beta-openselling.pancakeswasap.one
 nvavid.com
@@ -68394,6 +68395,7 @@ pancoockie-swap.us
 pancoockieswap.us
 pancookie.finance
 pancqkeswap.com
+pancretaonline-grnew.com
 pancryptodex.godaddysites.com
 pancsaceswep.co.uk
 pancsakeswads.com
