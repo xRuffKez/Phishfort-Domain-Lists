@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  8 07:01:51 UTC 2024
+# PhishFort Full Domain List - Wed May  8 08:02:48 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109290
+# Number of Entries: 109292
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -23036,6 +23036,7 @@
 0.0.0.0 d-metamask.io
 0.0.0.0 d-proapps.com
 0.0.0.0 d.appmooduyh.top
+0.0.0.0 d.appmoodyhu8.top
 0.0.0.0 d.dassincs.com
 0.0.0.0 d.market-skin.com
 0.0.0.0 d.moodyimkq.top
@@ -41323,6 +41324,7 @@
 0.0.0.0 janushenderson.agenciastatus.com.br
 0.0.0.0 janushendersongroups.com
 0.0.0.0 janushendersoninv.com
+0.0.0.0 janushendersonplc.com
 0.0.0.0 januviagoli.com
 0.0.0.0 japandreamcollection.com
 0.0.0.0 japanese.this-premint.com

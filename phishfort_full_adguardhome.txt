@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  8 07:01:51 UTC 2024
+# PhishFort Full Domain List - Wed May  8 08:02:48 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109290
+# Number of Entries: 109292
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -23036,6 +23036,7 @@
 ||d-metamask.io^
 ||d-proapps.com^
 ||d.appmooduyh.top^
+||d.appmoodyhu8.top^
 ||d.dassincs.com^
 ||d.market-skin.com^
 ||d.moodyimkq.top^
@@ -41323,6 +41324,7 @@
 ||janushenderson.agenciastatus.com.br^
 ||janushendersongroups.com^
 ||janushendersoninv.com^
+||janushendersonplc.com^
 ||januviagoli.com^
 ||japandreamcollection.com^
 ||japanese.this-premint.com^
