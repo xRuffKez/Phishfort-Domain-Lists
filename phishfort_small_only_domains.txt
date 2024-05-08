@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Wed May  8 19:04:49 UTC 2024
+# PhishFort Small Domain List - Wed May  8 20:04:57 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6196
+# Number of Entries: 6195
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1871,7 +1871,6 @@ evercoregmbh.com
 evernode-airdrop.com
 everyconnects.com
 evm-rectificationhub.onrender.com
-evolverlnc.com
 evrrec.com
 ewjh.pro
 exampleee-site.online
@@ -3360,6 +3359,7 @@ myob.network
 myob.tax
 myobcollabs.pro
 mypivalidations.com
+mypsegconnect.com
 myria-game.com
 mysecond.mypsx.net
 mysonicwall.ir
@@ -4262,7 +4262,6 @@ qrayber.com
 qt5872.xyz
 qtnkpaxos.net
 quest-sharpnel.com
-quest-starknet.io
 quest.puffer.events
 quests-sharpnel.com
 quickswap-io.events

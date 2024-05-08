@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  8 19:04:49 UTC 2024
+# PhishFort Small Domain List - Wed May  8 20:04:57 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6196
+# Number of Entries: 6195
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1872,7 +1872,6 @@
 0.0.0.0 evernode-airdrop.com
 0.0.0.0 everyconnects.com
 0.0.0.0 evm-rectificationhub.onrender.com
-0.0.0.0 evolverlnc.com
 0.0.0.0 evrrec.com
 0.0.0.0 ewjh.pro
 0.0.0.0 exampleee-site.online
@@ -3361,6 +3360,7 @@
 0.0.0.0 myob.tax
 0.0.0.0 myobcollabs.pro
 0.0.0.0 mypivalidations.com
+0.0.0.0 mypsegconnect.com
 0.0.0.0 myria-game.com
 0.0.0.0 mysecond.mypsx.net
 0.0.0.0 mysonicwall.ir
@@ -4263,7 +4263,6 @@
 0.0.0.0 qt5872.xyz
 0.0.0.0 qtnkpaxos.net
 0.0.0.0 quest-sharpnel.com
-0.0.0.0 quest-starknet.io
 0.0.0.0 quest.puffer.events
 0.0.0.0 quests-sharpnel.com
 0.0.0.0 quickswap-io.events
