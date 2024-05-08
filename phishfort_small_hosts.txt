@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  8 05:05:53 UTC 2024
+# PhishFort Small Domain List - Wed May  8 06:06:17 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6265
+# Number of Entries: 6257
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1015,7 +1015,6 @@
 0.0.0.0 chaibenefitmassimui.com
 0.0.0.0 chain-base.pages.dev
 0.0.0.0 chain-linklabs.live
-0.0.0.0 chain-linknetwork.io
 0.0.0.0 chain-list.top
 0.0.0.0 chain-node.pages.dev
 0.0.0.0 chain-strk.com
@@ -1027,7 +1026,6 @@
 0.0.0.0 chainlabsv2.org
 0.0.0.0 chainlink-network.app
 0.0.0.0 chainlink.com.co
-0.0.0.0 chainlink.us.to
 0.0.0.0 chainlinkairdropweb3.org
 0.0.0.0 chainlinklabsv2.com
 0.0.0.0 chainlinktreasury.net
@@ -1207,7 +1205,6 @@
 0.0.0.0 cliamsolana.c3mongtho.edu.vn
 0.0.0.0 client.plataformainteractivebrokers.com
 0.0.0.0 clifardchancegroups.com
-0.0.0.0 cliffardchance.com
 0.0.0.0 clifford-chance-consulting.com
 0.0.0.0 clifford-chance-holding.com
 0.0.0.0 clifford-chance-llp.uk
@@ -2619,7 +2616,6 @@
 0.0.0.0 launches-particle.trading
 0.0.0.0 launches-roninchain.com
 0.0.0.0 launches-sharpnel.com
-0.0.0.0 launching-pixels.com
 0.0.0.0 launching-sharpnel.com
 0.0.0.0 launchpad-dydx.com
 0.0.0.0 launchpad-dymension.com
@@ -4315,7 +4311,6 @@
 0.0.0.0 quickupdateexplorer.co
 0.0.0.0 r02bren.cc
 0.0.0.0 r1y4t.pro
-0.0.0.0 r20.rs6.net
 0.0.0.0 r7ixec9.cc
 0.0.0.0 rabbitx.reward-share.info
 0.0.0.0 rabby.ai
@@ -4514,7 +4509,6 @@
 0.0.0.0 ronin-wallets.godaddysites.com
 0.0.0.0 roninchain.cloud
 0.0.0.0 roninchain.shop
-0.0.0.0 roninchain.wtf
 0.0.0.0 roninchaon.com
 0.0.0.0 roninnchain.com
 0.0.0.0 ronkeeper.com
@@ -4636,7 +4630,6 @@
 0.0.0.0 scottyystheai.xyz
 0.0.0.0 scotyttheai.pro
 0.0.0.0 scroll-reward.com
-0.0.0.0 scroll-swap-web.vercel.app
 0.0.0.0 scrolli.space
 0.0.0.0 scybautosolution.com
 0.0.0.0 sdb-trk.0ybq.info
@@ -5647,7 +5640,6 @@
 0.0.0.0 web3resolve.pages.dev
 0.0.0.0 web3resolvepage.tech
 0.0.0.0 web3rewards.app
-0.0.0.0 web3sy.top
 0.0.0.0 web3trade.net
 0.0.0.0 web3trubtc.cc
 0.0.0.0 web3zerion-claim.pages.dev

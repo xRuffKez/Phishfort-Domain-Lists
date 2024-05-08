@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  8 05:05:53 UTC 2024
+# PhishFort Small Domain List - Wed May  8 06:06:17 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6265
+# Number of Entries: 6257
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1015,7 +1015,6 @@
 ||chaibenefitmassimui.com^
 ||chain-base.pages.dev^
 ||chain-linklabs.live^
-||chain-linknetwork.io^
 ||chain-list.top^
 ||chain-node.pages.dev^
 ||chain-strk.com^
@@ -1027,7 +1026,6 @@
 ||chainlabsv2.org^
 ||chainlink-network.app^
 ||chainlink.com.co^
-||chainlink.us.to^
 ||chainlinkairdropweb3.org^
 ||chainlinklabsv2.com^
 ||chainlinktreasury.net^
@@ -1207,7 +1205,6 @@
 ||cliamsolana.c3mongtho.edu.vn^
 ||client.plataformainteractivebrokers.com^
 ||clifardchancegroups.com^
-||cliffardchance.com^
 ||clifford-chance-consulting.com^
 ||clifford-chance-holding.com^
 ||clifford-chance-llp.uk^
@@ -2619,7 +2616,6 @@
 ||launches-particle.trading^
 ||launches-roninchain.com^
 ||launches-sharpnel.com^
-||launching-pixels.com^
 ||launching-sharpnel.com^
 ||launchpad-dydx.com^
 ||launchpad-dymension.com^
@@ -4315,7 +4311,6 @@
 ||quickupdateexplorer.co^
 ||r02bren.cc^
 ||r1y4t.pro^
-||r20.rs6.net^
 ||r7ixec9.cc^
 ||rabbitx.reward-share.info^
 ||rabby.ai^
@@ -4514,7 +4509,6 @@
 ||ronin-wallets.godaddysites.com^
 ||roninchain.cloud^
 ||roninchain.shop^
-||roninchain.wtf^
 ||roninchaon.com^
 ||roninnchain.com^
 ||ronkeeper.com^
@@ -4636,7 +4630,6 @@
 ||scottyystheai.xyz^
 ||scotyttheai.pro^
 ||scroll-reward.com^
-||scroll-swap-web.vercel.app^
 ||scrolli.space^
 ||scybautosolution.com^
 ||sdb-trk.0ybq.info^
@@ -5647,7 +5640,6 @@
 ||web3resolve.pages.dev^
 ||web3resolvepage.tech^
 ||web3rewards.app^
-||web3sy.top^
 ||web3trade.net^
 ||web3trubtc.cc^
 ||web3zerion-claim.pages.dev^
