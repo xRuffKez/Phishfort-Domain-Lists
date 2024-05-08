@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  8 07:06:02 UTC 2024
+# PhishFort Small Domain List - Wed May  8 08:05:35 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6251
+# Number of Entries: 6249
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1407,6 +1407,7 @@
 ||cyberlama.app^
 ||cyberx-staging.vercel.app^
 ||d.appmooduyh.top^
+||d.appmoodyhu8.top^
 ||d.moodyimkq.top^
 ||d.moodyseokd.top^
 ||d.moodysmfof.top^
@@ -1465,7 +1466,6 @@
 ||dappslog.vercel.app^
 ||dappsnodesauthenticator.com^
 ||dappspanelauth.pages.dev^
-||dappsprotocol.vercel.app^
 ||dappsradar.lc^
 ||dappsresolves.pages.dev^
 ||dappsrpcresolver.app^
@@ -2438,6 +2438,7 @@
 ||jamesthurmankahn.com^
 ||janushenderson.agenciastatus.com.br^
 ||janushendersoninv.com^
+||janushendersonplc.com^
 ||jasmy.coinsglass.top^
 ||jazzy-puffpuff-8f1eac.netlify.app^
 ||jblspeakes.com^
@@ -4375,7 +4376,6 @@
 ||register-snap.com^
 ||register-solanamobile.com^
 ||register-syncus.com^
-||register-wenwencoin.com^
 ||register-yuliverse.app^
 ||register.availproject.trading^
 ||register.befislabs.events^
@@ -4734,7 +4734,6 @@
 ||signups-befilabs.com^
 ||signups-on1force.com^
 ||signups-pandora.build^
-||signups-pixels.com^
 ||signups-trias.org^
 ||siioen.com^
 ||silent-arie.com^
@@ -5069,7 +5068,6 @@
 ||tdsynnexs.com^
 ||tdsynnexx.com^
 ||te-rra.cyou^
-||tectonic.flnance.web3-ap.cfd^
 ||teechdata.com^
 ||tektekdunk.blogspot.com^
 ||teleperformer.in^

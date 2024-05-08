@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  8 07:06:02 UTC 2024
+# PhishFort Small Domain List - Wed May  8 08:05:35 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6251
+# Number of Entries: 6249
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1407,6 +1407,7 @@
 0.0.0.0 cyberlama.app
 0.0.0.0 cyberx-staging.vercel.app
 0.0.0.0 d.appmooduyh.top
+0.0.0.0 d.appmoodyhu8.top
 0.0.0.0 d.moodyimkq.top
 0.0.0.0 d.moodyseokd.top
 0.0.0.0 d.moodysmfof.top
@@ -1465,7 +1466,6 @@
 0.0.0.0 dappslog.vercel.app
 0.0.0.0 dappsnodesauthenticator.com
 0.0.0.0 dappspanelauth.pages.dev
-0.0.0.0 dappsprotocol.vercel.app
 0.0.0.0 dappsradar.lc
 0.0.0.0 dappsresolves.pages.dev
 0.0.0.0 dappsrpcresolver.app
@@ -2438,6 +2438,7 @@
 0.0.0.0 jamesthurmankahn.com
 0.0.0.0 janushenderson.agenciastatus.com.br
 0.0.0.0 janushendersoninv.com
+0.0.0.0 janushendersonplc.com
 0.0.0.0 jasmy.coinsglass.top
 0.0.0.0 jazzy-puffpuff-8f1eac.netlify.app
 0.0.0.0 jblspeakes.com
@@ -4375,7 +4376,6 @@
 0.0.0.0 register-snap.com
 0.0.0.0 register-solanamobile.com
 0.0.0.0 register-syncus.com
-0.0.0.0 register-wenwencoin.com
 0.0.0.0 register-yuliverse.app
 0.0.0.0 register.availproject.trading
 0.0.0.0 register.befislabs.events
@@ -4734,7 +4734,6 @@
 0.0.0.0 signups-befilabs.com
 0.0.0.0 signups-on1force.com
 0.0.0.0 signups-pandora.build
-0.0.0.0 signups-pixels.com
 0.0.0.0 signups-trias.org
 0.0.0.0 siioen.com
 0.0.0.0 silent-arie.com
@@ -5069,7 +5068,6 @@
 0.0.0.0 tdsynnexs.com
 0.0.0.0 tdsynnexx.com
 0.0.0.0 te-rra.cyou
-0.0.0.0 tectonic.flnance.web3-ap.cfd
 0.0.0.0 teechdata.com
 0.0.0.0 tektekdunk.blogspot.com
 0.0.0.0 teleperformer.in
