@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Wed May  8 15:04:55 UTC 2024
+# PhishFort Small Domain List - Wed May  8 16:05:10 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6206
+# Number of Entries: 6197
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1072,7 +1072,6 @@ claim-blast-io.com
 claim-blastgg.xlaunch-pad.xyz
 claim-block.com
 claim-cake.web.app
-claim-dacat-dapp.live
 claim-dookeydash.com
 claim-dragon.firebaseapp.com
 claim-dragon.web.app
@@ -1604,13 +1603,11 @@ distribution-blast.com
 distribution-manta.events
 distribution-metis.com
 distribution-pancakeswap.xyz
-distribution-pondcoin.com
 diving-mantanetwork.pages.dev
 dlkipcv.cc
 dlogdapp.pages.dev
 dn.yrioa1.sa.com
 dnaata.com
-docs-lybra.finance
 docs.coinality.dev
 documentation-lybra.finance
 dodoeex.cc
@@ -2074,7 +2071,6 @@ genesis-x-ads.com
 genesis.dynmension.xyz
 genesis.puffsthedragon.xyz
 genesisdems.com
-genesisroll.com
 genixs.co
 genpartstore.com
 gensis-dymension.xyz
@@ -2776,7 +2772,6 @@ magamemeccin.com
 magamemecoin.cash
 maggpiexyz.cyou
 maggpiexyz.xyz
-magic-eden-wallet.net
 magic-square.info
 magic-square.org
 magiceden-rewards.netlify.app
@@ -3010,7 +3005,6 @@ metaamsskk-wallet.godaddysites.com
 metabmasskus.azurewebsites.net
 metabolt.io
 metaconfirmed.io
-metadrop-us.com
 metaemaesk-waleet.godaddysites.com
 metaemaskk-wwallit.godaddysites.com
 metafix.vercel.app
@@ -3137,7 +3131,6 @@ metemnsk.io
 metemsak.io
 metexmachinery.com
 metimaasklogiin_us.godaddysites.com
-metis-registration.com
 metis.gifts
 metisdaovotings.com
 metisdex.io
@@ -3521,7 +3514,6 @@ nkbihfbeogaeaoehlefnkodbefgpgknn.metamaskk.skyhighfirstclass.com.ng
 nkjs0.ru.com
 nnass-unempl.com
 nnetannask.io
-nobodynft.trading
 node-connect-fix.vercel.app
 node3-zerionrewards.pages.dev
 nodebug.vercel.app
@@ -3608,7 +3600,6 @@ ongcoffice.com
 onldermassachus.com
 online.subscriibe.shop
 onlinedetma.click
-onlinedetma.za.com
 onlinelaunchdappsvalidate.vercel.app
 onlinenode.pages.dev
 onlylegitbicomigrationport.com
@@ -5048,6 +5039,7 @@ tesdt56n.pages.dev
 test-project-llfwf7bel-artemkk787-gmailcom.vercel.app
 test.saf9gti25klom8xz79iyn2s.xyz
 test.vortexcapitaltrade.com
+testingdrxx.web.app
 testnet-vm.web.app
 tether-claim-usdt.online
 tether.com.se
@@ -5192,7 +5184,6 @@ treasuredao.qa
 treasuredao.rip
 treasury.keipdao.net
 treasury.roninschains.com
-trestleprotocol.net
 treszorwallest.azurewebsites.net
 trezorsuite-web3.com
 trindadeadvocacia.com
@@ -5872,6 +5863,7 @@ www.krakenusdt.com
 www.latoken-exchange.com
 www.launchpad.sporess.pro
 www.layer-3.xyz
+www.lendmarkfs.com
 www.lethid.com
 www.lifi.promo
 www.lite.a.covv.site
@@ -6027,7 +6019,6 @@ www.tufreb.com
 www.ucem.edu.mx
 www.unitedaircareers.com
 www.useneuxs.org
-www.usenxeus.org
 www.ustaylorsshop.com
 www.ustaylorsshops.com
 www.verifoneentire.com

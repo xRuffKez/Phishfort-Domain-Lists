@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  8 15:04:55 UTC 2024
+# PhishFort Small Domain List - Wed May  8 16:05:10 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6206
+# Number of Entries: 6197
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1073,7 +1073,6 @@
 0.0.0.0 claim-blastgg.xlaunch-pad.xyz
 0.0.0.0 claim-block.com
 0.0.0.0 claim-cake.web.app
-0.0.0.0 claim-dacat-dapp.live
 0.0.0.0 claim-dookeydash.com
 0.0.0.0 claim-dragon.firebaseapp.com
 0.0.0.0 claim-dragon.web.app
@@ -1605,13 +1604,11 @@
 0.0.0.0 distribution-manta.events
 0.0.0.0 distribution-metis.com
 0.0.0.0 distribution-pancakeswap.xyz
-0.0.0.0 distribution-pondcoin.com
 0.0.0.0 diving-mantanetwork.pages.dev
 0.0.0.0 dlkipcv.cc
 0.0.0.0 dlogdapp.pages.dev
 0.0.0.0 dn.yrioa1.sa.com
 0.0.0.0 dnaata.com
-0.0.0.0 docs-lybra.finance
 0.0.0.0 docs.coinality.dev
 0.0.0.0 documentation-lybra.finance
 0.0.0.0 dodoeex.cc
@@ -2075,7 +2072,6 @@
 0.0.0.0 genesis.dynmension.xyz
 0.0.0.0 genesis.puffsthedragon.xyz
 0.0.0.0 genesisdems.com
-0.0.0.0 genesisroll.com
 0.0.0.0 genixs.co
 0.0.0.0 genpartstore.com
 0.0.0.0 gensis-dymension.xyz
@@ -2777,7 +2773,6 @@
 0.0.0.0 magamemecoin.cash
 0.0.0.0 maggpiexyz.cyou
 0.0.0.0 maggpiexyz.xyz
-0.0.0.0 magic-eden-wallet.net
 0.0.0.0 magic-square.info
 0.0.0.0 magic-square.org
 0.0.0.0 magiceden-rewards.netlify.app
@@ -3011,7 +3006,6 @@
 0.0.0.0 metabmasskus.azurewebsites.net
 0.0.0.0 metabolt.io
 0.0.0.0 metaconfirmed.io
-0.0.0.0 metadrop-us.com
 0.0.0.0 metaemaesk-waleet.godaddysites.com
 0.0.0.0 metaemaskk-wwallit.godaddysites.com
 0.0.0.0 metafix.vercel.app
@@ -3138,7 +3132,6 @@
 0.0.0.0 metemsak.io
 0.0.0.0 metexmachinery.com
 0.0.0.0 metimaasklogiin_us.godaddysites.com
-0.0.0.0 metis-registration.com
 0.0.0.0 metis.gifts
 0.0.0.0 metisdaovotings.com
 0.0.0.0 metisdex.io
@@ -3522,7 +3515,6 @@
 0.0.0.0 nkjs0.ru.com
 0.0.0.0 nnass-unempl.com
 0.0.0.0 nnetannask.io
-0.0.0.0 nobodynft.trading
 0.0.0.0 node-connect-fix.vercel.app
 0.0.0.0 node3-zerionrewards.pages.dev
 0.0.0.0 nodebug.vercel.app
@@ -3609,7 +3601,6 @@
 0.0.0.0 onldermassachus.com
 0.0.0.0 online.subscriibe.shop
 0.0.0.0 onlinedetma.click
-0.0.0.0 onlinedetma.za.com
 0.0.0.0 onlinelaunchdappsvalidate.vercel.app
 0.0.0.0 onlinenode.pages.dev
 0.0.0.0 onlylegitbicomigrationport.com
@@ -5049,6 +5040,7 @@
 0.0.0.0 test-project-llfwf7bel-artemkk787-gmailcom.vercel.app
 0.0.0.0 test.saf9gti25klom8xz79iyn2s.xyz
 0.0.0.0 test.vortexcapitaltrade.com
+0.0.0.0 testingdrxx.web.app
 0.0.0.0 testnet-vm.web.app
 0.0.0.0 tether-claim-usdt.online
 0.0.0.0 tether.com.se
@@ -5193,7 +5185,6 @@
 0.0.0.0 treasuredao.rip
 0.0.0.0 treasury.keipdao.net
 0.0.0.0 treasury.roninschains.com
-0.0.0.0 trestleprotocol.net
 0.0.0.0 treszorwallest.azurewebsites.net
 0.0.0.0 trezorsuite-web3.com
 0.0.0.0 trindadeadvocacia.com
@@ -5873,6 +5864,7 @@
 0.0.0.0 www.latoken-exchange.com
 0.0.0.0 www.launchpad.sporess.pro
 0.0.0.0 www.layer-3.xyz
+0.0.0.0 www.lendmarkfs.com
 0.0.0.0 www.lethid.com
 0.0.0.0 www.lifi.promo
 0.0.0.0 www.lite.a.covv.site
@@ -6028,7 +6020,6 @@
 0.0.0.0 www.ucem.edu.mx
 0.0.0.0 www.unitedaircareers.com
 0.0.0.0 www.useneuxs.org
-0.0.0.0 www.usenxeus.org
 0.0.0.0 www.ustaylorsshop.com
 0.0.0.0 www.ustaylorsshops.com
 0.0.0.0 www.verifoneentire.com
