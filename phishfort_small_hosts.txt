@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  8 00:15:36 UTC 2024
+# PhishFort Small Domain List - Wed May  8 01:18:27 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6352
+# Number of Entries: 6334
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -32,7 +32,6 @@
 0.0.0.0 1incha.coinmarketcap-app.com
 0.0.0.0 1inchfinance.com
 0.0.0.0 1inchnetwork.org
-0.0.0.0 1inchv4.fi
 0.0.0.0 1inchwallet.app
 0.0.0.0 1inchwallet.org
 0.0.0.0 1lnch-claim.com
@@ -964,6 +963,7 @@
 0.0.0.0 cakepiexyz.pages.dev
 0.0.0.0 cakes-reward.xyz
 0.0.0.0 cakesw-offers.com
+0.0.0.0 cakeswapfinancial.in
 0.0.0.0 cakeswp.app
 0.0.0.0 cakeudefi.biz
 0.0.0.0 cakeudefi.com
@@ -1740,7 +1740,6 @@
 0.0.0.0 econopure.com.vn
 0.0.0.0 edgemarketdcx.online
 0.0.0.0 eeogresources.com
-0.0.0.0 eesee.trading
 0.0.0.0 efther.fi
 0.0.0.0 efwefwef-6io.pages.dev
 0.0.0.0 egrowmax.com
@@ -1851,7 +1850,6 @@
 0.0.0.0 ethereumgas.org
 0.0.0.0 ethereumgasfee.com
 0.0.0.0 ethereummixer.cc
-0.0.0.0 ethereumx.cc
 0.0.0.0 ethereumxfee.com
 0.0.0.0 etherfi-airdrop.com
 0.0.0.0 etherfi-staking.site
@@ -1877,7 +1875,6 @@
 0.0.0.0 ethrefund.xyz
 0.0.0.0 ethrnn.com
 0.0.0.0 ethtoken-defi.com
-0.0.0.0 ethuegas.com
 0.0.0.0 ethvnn.com
 0.0.0.0 etr-407-payment.com
 0.0.0.0 etr407.ca
@@ -2498,7 +2495,6 @@
 0.0.0.0 join-etherfi.com
 0.0.0.0 join-etherfi.work
 0.0.0.0 join-galxe.com
-0.0.0.0 join-nocturnes.xyz
 0.0.0.0 join-porkcoin.io
 0.0.0.0 join-satoshivm.app
 0.0.0.0 join-superverse.org
@@ -2542,7 +2538,6 @@
 0.0.0.0 jup-cases.trade
 0.0.0.0 jup-e.com
 0.0.0.0 jup-evm.com
-0.0.0.0 jup111.com
 0.0.0.0 jup222.com
 0.0.0.0 jup333.com
 0.0.0.0 jup444.com
@@ -2560,6 +2555,7 @@
 0.0.0.0 jupiter-web.network
 0.0.0.0 jupiter.services-claiming.cc
 0.0.0.0 jupitercatdet.com
+0.0.0.0 jupiterexchange.app
 0.0.0.0 jupiterexchange.link
 0.0.0.0 jupiterlaunch.network
 0.0.0.0 jupjup2.com
@@ -2601,7 +2597,6 @@
 0.0.0.0 kegwat.pro
 0.0.0.0 kelpdaa.xyz
 0.0.0.0 kelpdao.link
-0.0.0.0 kelpdao.live
 0.0.0.0 kelpdaostoken.xyz
 0.0.0.0 kelpdeo.xyz
 0.0.0.0 kelpdoasteke.org
@@ -2613,7 +2608,6 @@
 0.0.0.0 kier-uk.com
 0.0.0.0 kiergroup.info
 0.0.0.0 kitty-inu-dao.com
-0.0.0.0 kkyphtf0fbvl.ftntpk6ubbx4sk.ru
 0.0.0.0 klarnacasino.nl
 0.0.0.0 klarnafestival.pt
 0.0.0.0 klarnaitalysrl.welfare.it
@@ -2868,7 +2862,6 @@
 0.0.0.0 mainetnodeauth.pages.dev
 0.0.0.0 mainfixchain.com
 0.0.0.0 mainnet-blaster.com
-0.0.0.0 mainnet-pryzm.com
 0.0.0.0 mainnetapp.net
 0.0.0.0 mainnetdappns.netlify.app
 0.0.0.0 mainnetdapps.site
@@ -3076,7 +3069,6 @@
 0.0.0.0 metabolt.io
 0.0.0.0 metaconfirmed.io
 0.0.0.0 metadrop-us.com
-0.0.0.0 metadrop.cloud
 0.0.0.0 metadrop.dev
 0.0.0.0 metaemaesk-waleet.godaddysites.com
 0.0.0.0 metaemaskk-wwallit.godaddysites.com
@@ -3433,7 +3425,6 @@
 0.0.0.0 mymetamasklogin.com
 0.0.0.0 mymoneronline.info
 0.0.0.0 mynewuimplclaim.com
-0.0.0.0 myob.finance
 0.0.0.0 myob.financial
 0.0.0.0 myob.network
 0.0.0.0 myob.tax
@@ -3876,7 +3867,6 @@
 0.0.0.0 pancakedropsclaim.vercel.app
 0.0.0.0 pancakedropsclaims77.vercel.app
 0.0.0.0 pancakedropss88.vercel.app
-0.0.0.0 pancakeeswap.com
 0.0.0.0 pancakefinances-swap.pages.dev
 0.0.0.0 pancakefinances-swaps.pages.dev
 0.0.0.0 pancakefx.vercel.app
@@ -4233,7 +4223,6 @@
 0.0.0.0 poiygon.com
 0.0.0.0 pokarswaps.space
 0.0.0.0 pol.ahyxi.club
-0.0.0.0 pol.zcadk.cn
 0.0.0.0 polarbearsnft.top
 0.0.0.0 polkabridge-network.org
 0.0.0.0 polkadex.online
@@ -4286,6 +4275,7 @@
 0.0.0.0 project-0xconnect.pages.dev
 0.0.0.0 project-openseaclick.vercel.app
 0.0.0.0 projectmainnetweb.com
+0.0.0.0 projectmig.pages.dev
 0.0.0.0 projectnetsolution.com
 0.0.0.0 projopensea.vercel.app
 0.0.0.0 projwctclaim.vercel.app
@@ -4363,7 +4353,6 @@
 0.0.0.0 quests-dymension.network
 0.0.0.0 quests-multibits.com
 0.0.0.0 quests-sharpnel.com
-0.0.0.0 quests-superverse.com
 0.0.0.0 quickswap-io.events
 0.0.0.0 quicksystemicexplorer.co
 0.0.0.0 quickupdateexplorer.co
@@ -4637,7 +4626,6 @@
 0.0.0.0 saksoff5th2.com
 0.0.0.0 saksoff5th3.com
 0.0.0.0 saksoff5thboool.top
-0.0.0.0 saksoff5thf.com
 0.0.0.0 saksoff5thkppltpj.com
 0.0.0.0 saksoff5thnn-us.com
 0.0.0.0 saksoff5thnns.com
@@ -5539,7 +5527,6 @@
 0.0.0.0 visitlinea.com
 0.0.0.0 vivintflorida.com
 0.0.0.0 vladime3rboaten.sa.com
-0.0.0.0 vmfla7a.pro
 0.0.0.0 vna7.pro
 0.0.0.0 vncrypto.cc
 0.0.0.0 vocal-kataifi-5e514d.netlify.app
@@ -5769,8 +5756,6 @@
 0.0.0.0 whitelist-parcl.com
 0.0.0.0 whitelist-personajourney.co
 0.0.0.0 whitelistedonly.pages.dev
-0.0.0.0 whitelisting-wormhole.com
-0.0.0.0 whitelistings-wormhole.com
 0.0.0.0 whitelists-getblockgame.com
 0.0.0.0 whitelists-redstone.com
 0.0.0.0 whitelists-roninchain.com
@@ -5782,7 +5767,6 @@
 0.0.0.0 winsolana.org
 0.0.0.0 wizink.app-cartaopt.site
 0.0.0.0 wizink.cartoespt-app.online
-0.0.0.0 wkjyd.top
 0.0.0.0 wkkuail.vip
 0.0.0.0 wlcbdqs.org.cn
 0.0.0.0 wo1cw.pro
@@ -5871,7 +5855,6 @@
 0.0.0.0 www.app-parrallel-network-dashbroads.danushi.com
 0.0.0.0 www.app-personalles-wps.cc
 0.0.0.0 www.app-portal-wps-personas.cc
-0.0.0.0 www.app-wasabi.xyz
 0.0.0.0 www.app.defi-connect.xyz
 0.0.0.0 www.app.trust-reward.live
 0.0.0.0 www.applovin.club
@@ -6109,7 +6092,6 @@
 0.0.0.0 www.pepeoncrack.fun
 0.0.0.0 www.per-empower.com.affiliateadvantageventures.com
 0.0.0.0 www.perps-wasabi.xyz
-0.0.0.0 www.perpswasabi.xyz
 0.0.0.0 www.personalles-accesoscolombia.online
 0.0.0.0 www.pfizer.i.ng.sba-sales.com.ng
 0.0.0.0 www.pmaxw.com

@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  8 00:15:36 UTC 2024
+# PhishFort Small Domain List - Wed May  8 01:18:27 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6352
+# Number of Entries: 6334
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -32,7 +32,6 @@
 ||1incha.coinmarketcap-app.com^
 ||1inchfinance.com^
 ||1inchnetwork.org^
-||1inchv4.fi^
 ||1inchwallet.app^
 ||1inchwallet.org^
 ||1lnch-claim.com^
@@ -964,6 +963,7 @@
 ||cakepiexyz.pages.dev^
 ||cakes-reward.xyz^
 ||cakesw-offers.com^
+||cakeswapfinancial.in^
 ||cakeswp.app^
 ||cakeudefi.biz^
 ||cakeudefi.com^
@@ -1740,7 +1740,6 @@
 ||econopure.com.vn^
 ||edgemarketdcx.online^
 ||eeogresources.com^
-||eesee.trading^
 ||efther.fi^
 ||efwefwef-6io.pages.dev^
 ||egrowmax.com^
@@ -1851,7 +1850,6 @@
 ||ethereumgas.org^
 ||ethereumgasfee.com^
 ||ethereummixer.cc^
-||ethereumx.cc^
 ||ethereumxfee.com^
 ||etherfi-airdrop.com^
 ||etherfi-staking.site^
@@ -1877,7 +1875,6 @@
 ||ethrefund.xyz^
 ||ethrnn.com^
 ||ethtoken-defi.com^
-||ethuegas.com^
 ||ethvnn.com^
 ||etr-407-payment.com^
 ||etr407.ca^
@@ -2498,7 +2495,6 @@
 ||join-etherfi.com^
 ||join-etherfi.work^
 ||join-galxe.com^
-||join-nocturnes.xyz^
 ||join-porkcoin.io^
 ||join-satoshivm.app^
 ||join-superverse.org^
@@ -2542,7 +2538,6 @@
 ||jup-cases.trade^
 ||jup-e.com^
 ||jup-evm.com^
-||jup111.com^
 ||jup222.com^
 ||jup333.com^
 ||jup444.com^
@@ -2560,6 +2555,7 @@
 ||jupiter-web.network^
 ||jupiter.services-claiming.cc^
 ||jupitercatdet.com^
+||jupiterexchange.app^
 ||jupiterexchange.link^
 ||jupiterlaunch.network^
 ||jupjup2.com^
@@ -2601,7 +2597,6 @@
 ||kegwat.pro^
 ||kelpdaa.xyz^
 ||kelpdao.link^
-||kelpdao.live^
 ||kelpdaostoken.xyz^
 ||kelpdeo.xyz^
 ||kelpdoasteke.org^
@@ -2613,7 +2608,6 @@
 ||kier-uk.com^
 ||kiergroup.info^
 ||kitty-inu-dao.com^
-||kkyphtf0fbvl.ftntpk6ubbx4sk.ru^
 ||klarnacasino.nl^
 ||klarnafestival.pt^
 ||klarnaitalysrl.welfare.it^
@@ -2868,7 +2862,6 @@
 ||mainetnodeauth.pages.dev^
 ||mainfixchain.com^
 ||mainnet-blaster.com^
-||mainnet-pryzm.com^
 ||mainnetapp.net^
 ||mainnetdappns.netlify.app^
 ||mainnetdapps.site^
@@ -3076,7 +3069,6 @@
 ||metabolt.io^
 ||metaconfirmed.io^
 ||metadrop-us.com^
-||metadrop.cloud^
 ||metadrop.dev^
 ||metaemaesk-waleet.godaddysites.com^
 ||metaemaskk-wwallit.godaddysites.com^
@@ -3433,7 +3425,6 @@
 ||mymetamasklogin.com^
 ||mymoneronline.info^
 ||mynewuimplclaim.com^
-||myob.finance^
 ||myob.financial^
 ||myob.network^
 ||myob.tax^
@@ -3876,7 +3867,6 @@
 ||pancakedropsclaim.vercel.app^
 ||pancakedropsclaims77.vercel.app^
 ||pancakedropss88.vercel.app^
-||pancakeeswap.com^
 ||pancakefinances-swap.pages.dev^
 ||pancakefinances-swaps.pages.dev^
 ||pancakefx.vercel.app^
@@ -4233,7 +4223,6 @@
 ||poiygon.com^
 ||pokarswaps.space^
 ||pol.ahyxi.club^
-||pol.zcadk.cn^
 ||polarbearsnft.top^
 ||polkabridge-network.org^
 ||polkadex.online^
@@ -4286,6 +4275,7 @@
 ||project-0xconnect.pages.dev^
 ||project-openseaclick.vercel.app^
 ||projectmainnetweb.com^
+||projectmig.pages.dev^
 ||projectnetsolution.com^
 ||projopensea.vercel.app^
 ||projwctclaim.vercel.app^
@@ -4363,7 +4353,6 @@
 ||quests-dymension.network^
 ||quests-multibits.com^
 ||quests-sharpnel.com^
-||quests-superverse.com^
 ||quickswap-io.events^
 ||quicksystemicexplorer.co^
 ||quickupdateexplorer.co^
@@ -4637,7 +4626,6 @@
 ||saksoff5th2.com^
 ||saksoff5th3.com^
 ||saksoff5thboool.top^
-||saksoff5thf.com^
 ||saksoff5thkppltpj.com^
 ||saksoff5thnn-us.com^
 ||saksoff5thnns.com^
@@ -5539,7 +5527,6 @@
 ||visitlinea.com^
 ||vivintflorida.com^
 ||vladime3rboaten.sa.com^
-||vmfla7a.pro^
 ||vna7.pro^
 ||vncrypto.cc^
 ||vocal-kataifi-5e514d.netlify.app^
@@ -5769,8 +5756,6 @@
 ||whitelist-parcl.com^
 ||whitelist-personajourney.co^
 ||whitelistedonly.pages.dev^
-||whitelisting-wormhole.com^
-||whitelistings-wormhole.com^
 ||whitelists-getblockgame.com^
 ||whitelists-redstone.com^
 ||whitelists-roninchain.com^
@@ -5782,7 +5767,6 @@
 ||winsolana.org^
 ||wizink.app-cartaopt.site^
 ||wizink.cartoespt-app.online^
-||wkjyd.top^
 ||wkkuail.vip^
 ||wlcbdqs.org.cn^
 ||wo1cw.pro^
@@ -5871,7 +5855,6 @@
 ||www.app-parrallel-network-dashbroads.danushi.com^
 ||www.app-personalles-wps.cc^
 ||www.app-portal-wps-personas.cc^
-||www.app-wasabi.xyz^
 ||www.app.defi-connect.xyz^
 ||www.app.trust-reward.live^
 ||www.applovin.club^
@@ -6109,7 +6092,6 @@
 ||www.pepeoncrack.fun^
 ||www.per-empower.com.affiliateadvantageventures.com^
 ||www.perps-wasabi.xyz^
-||www.perpswasabi.xyz^
 ||www.personalles-accesoscolombia.online^
 ||www.pfizer.i.ng.sba-sales.com.ng^
 ||www.pmaxw.com^
