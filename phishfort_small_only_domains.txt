@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Wed May  8 22:04:53 UTC 2024
+# PhishFort Small Domain List - Wed May  8 23:05:22 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6195
+# Number of Entries: 6187
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -59,7 +59,6 @@
 444444-ai9.pages.dev
 48444453456.cloud
 4g5g544g54g5.pages.dev
-4ooh.top
 4tyqoaktqb.numirmilap.tech
 4vcf.pro
 50000usdt.cc
@@ -821,7 +820,6 @@ blendrrnetwork.org
 blendswaps.xyz
 blknoiz06.net
 bllaast.com
-block.nodereset.com
 blockchain-node-beta.vercel.app
 blockchaindapp-dri.pages.dev
 blockchaindapp.pro
@@ -2074,7 +2072,6 @@ genixs.co
 genpartstore.com
 gensis-dymension.xyz
 george-watson.co.uk
-get-24a.pages.dev
 get-blast.com
 get-entangle.com
 get-grass.io
@@ -2490,12 +2487,10 @@ jumpers.trading
 jumperweb3.pro
 jup-cases.trade
 jup222.com
-jup333.com
 jup444.com
 jupairdrop.com
 jupcase.io
 jupcases.xyz
-jupclaim.org
 jupdrop66.com
 jupdrop88.com
 jupdrop99.com
@@ -2515,10 +2510,8 @@ juppboxes.app
 juppboxes.cc
 juppcases.work
 jupptrullo.cc
-juppyapps.com
 juppycases.trade
 juppystart.app
-jups.io
 juups.io
 jwsco.pro
 kaijutoys.shop
@@ -4942,7 +4935,6 @@ swap-jupiter.com
 swap-l2.com
 swap-makerdao.net
 swap-makerdao.org
-swap-nft.pages.dev
 swap.dikecoin.net
 swap.pancake.us.org
 swap.uni-swapv4.com

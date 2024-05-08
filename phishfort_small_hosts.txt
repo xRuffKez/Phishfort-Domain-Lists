@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  8 22:04:53 UTC 2024
+# PhishFort Small Domain List - Wed May  8 23:05:22 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6195
+# Number of Entries: 6187
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -60,7 +60,6 @@
 0.0.0.0 444444-ai9.pages.dev
 0.0.0.0 48444453456.cloud
 0.0.0.0 4g5g544g54g5.pages.dev
-0.0.0.0 4ooh.top
 0.0.0.0 4tyqoaktqb.numirmilap.tech
 0.0.0.0 4vcf.pro
 0.0.0.0 50000usdt.cc
@@ -822,7 +821,6 @@
 0.0.0.0 blendswaps.xyz
 0.0.0.0 blknoiz06.net
 0.0.0.0 bllaast.com
-0.0.0.0 block.nodereset.com
 0.0.0.0 blockchain-node-beta.vercel.app
 0.0.0.0 blockchaindapp-dri.pages.dev
 0.0.0.0 blockchaindapp.pro
@@ -2075,7 +2073,6 @@
 0.0.0.0 genpartstore.com
 0.0.0.0 gensis-dymension.xyz
 0.0.0.0 george-watson.co.uk
-0.0.0.0 get-24a.pages.dev
 0.0.0.0 get-blast.com
 0.0.0.0 get-entangle.com
 0.0.0.0 get-grass.io
@@ -2491,12 +2488,10 @@
 0.0.0.0 jumperweb3.pro
 0.0.0.0 jup-cases.trade
 0.0.0.0 jup222.com
-0.0.0.0 jup333.com
 0.0.0.0 jup444.com
 0.0.0.0 jupairdrop.com
 0.0.0.0 jupcase.io
 0.0.0.0 jupcases.xyz
-0.0.0.0 jupclaim.org
 0.0.0.0 jupdrop66.com
 0.0.0.0 jupdrop88.com
 0.0.0.0 jupdrop99.com
@@ -2516,10 +2511,8 @@
 0.0.0.0 juppboxes.cc
 0.0.0.0 juppcases.work
 0.0.0.0 jupptrullo.cc
-0.0.0.0 juppyapps.com
 0.0.0.0 juppycases.trade
 0.0.0.0 juppystart.app
-0.0.0.0 jups.io
 0.0.0.0 juups.io
 0.0.0.0 jwsco.pro
 0.0.0.0 kaijutoys.shop
@@ -4943,7 +4936,6 @@
 0.0.0.0 swap-l2.com
 0.0.0.0 swap-makerdao.net
 0.0.0.0 swap-makerdao.org
-0.0.0.0 swap-nft.pages.dev
 0.0.0.0 swap.dikecoin.net
 0.0.0.0 swap.pancake.us.org
 0.0.0.0 swap.uni-swapv4.com
