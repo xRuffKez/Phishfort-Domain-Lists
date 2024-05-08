@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  8 14:04:42 UTC 2024
+# PhishFort Small Domain List - Wed May  8 15:04:55 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6218
+# Number of Entries: 6206
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -57,7 +57,6 @@
 0.0.0.0 3rdandtaylor.com
 0.0.0.0 407-etr-help.com
 0.0.0.0 407etr-paytrip.com
-0.0.0.0 407express-tollroute.com
 0.0.0.0 407on.com
 0.0.0.0 444444-ai9.pages.dev
 0.0.0.0 48444453456.cloud
@@ -439,7 +438,6 @@
 0.0.0.0 app-thruster.finance
 0.0.0.0 app-uniswaps.com
 0.0.0.0 app-venus.io
-0.0.0.0 app-vulcan.org
 0.0.0.0 app-wormhole.com
 0.0.0.0 app-xpet.tech
 0.0.0.0 app.1inch.lc
@@ -532,11 +530,11 @@
 0.0.0.0 appsuperform.xyz
 0.0.0.0 appsuperverse.org
 0.0.0.0 appsweb-server787.pages.dev
-0.0.0.0 appsyncsmartversal.pro
 0.0.0.0 apptokenmint.com
 0.0.0.0 appzlink.com
 0.0.0.0 apr-vectorreserve.network
 0.0.0.0 aps.bifi-yleld.xyz
+0.0.0.0 apskentuckystcapers.com
 0.0.0.0 apygatercptools.web.app
 0.0.0.0 aquilibrium.club
 0.0.0.0 araemex.com
@@ -766,7 +764,6 @@
 0.0.0.0 bitimeta.space
 0.0.0.0 bitinaut.top
 0.0.0.0 bitinautsmeta.space
-0.0.0.0 bitinteractivebrokers.org
 0.0.0.0 bitkub-capital.org
 0.0.0.0 bitkub-th.pro
 0.0.0.0 bitkub-th.vip
@@ -862,7 +859,6 @@
 0.0.0.0 bonelp.com
 0.0.0.0 bonk-premium.web.app
 0.0.0.0 bonk-token.xyz
-0.0.0.0 bonus-injective.com
 0.0.0.0 bookaflightwithunitedairlines.statuspage.io
 0.0.0.0 booking.agoda-checkout-id843753.com
 0.0.0.0 bookinghotel-word.com
@@ -2263,7 +2259,6 @@
 0.0.0.0 helpmetamask.xyz
 0.0.0.0 hengstler.imall.pro
 0.0.0.0 heroes-of-mavia.online
-0.0.0.0 hex-distributions.com
 0.0.0.0 hft-fyfc.com
 0.0.0.0 hhfh.cc
 0.0.0.0 hidden-airdrops.xyz
@@ -3643,17 +3638,14 @@
 0.0.0.0 opensaepro.vercel.app
 0.0.0.0 opensea-air.vercel.app
 0.0.0.0 opensea-claim.de
-0.0.0.0 opensea-doc.rf.gd
 0.0.0.0 opensea-drainer.vercel.app
 0.0.0.0 opensea-pronfts.vercel.app
 0.0.0.0 opensea.app
-0.0.0.0 opensea.i-o.eth.co
 0.0.0.0 opensea.io.in
 0.0.0.0 opensea.lc
 0.0.0.0 openseaclaim43.vercel.app
 0.0.0.0 openseaclickclaims01.vercel.app
 0.0.0.0 openseanft-projs.vercel.app
-0.0.0.0 openseanft.one
 0.0.0.0 openseanft0.vercel.app
 0.0.0.0 openseap1.vercel.app
 0.0.0.0 openseapro-package.firebaseapp.com
@@ -3712,6 +3704,7 @@
 0.0.0.0 ordivalifusion.pages.dev
 0.0.0.0 orgderma.com
 0.0.0.0 orgnlt.me
+0.0.0.0 origindollar.net
 0.0.0.0 orlandoplasmacenters.com
 0.0.0.0 osaic-wisconsin.com
 0.0.0.0 osmososis-zone.xyz
@@ -4163,7 +4156,6 @@
 0.0.0.0 polarbearsnft.top
 0.0.0.0 polkabridge-network.org
 0.0.0.0 polkadex.online
-0.0.0.0 poloniex-assets.com
 0.0.0.0 polupokespics.rosamonddunlop665.workers.dev
 0.0.0.0 polyhedra-network.pro
 0.0.0.0 polyhedra-network.vercel.app
@@ -4279,7 +4271,6 @@
 0.0.0.0 qrayber.com
 0.0.0.0 qt5872.xyz
 0.0.0.0 qtnkpaxos.net
-0.0.0.0 quest-pixels.com
 0.0.0.0 quest-sharpnel.com
 0.0.0.0 quest-starknet.io
 0.0.0.0 quest.puffer.events
@@ -4299,6 +4290,7 @@
 0.0.0.0 radix.gift
 0.0.0.0 raffleopnsea.com
 0.0.0.0 raffleusdc.com
+0.0.0.0 raiffeisenfast.com
 0.0.0.0 rainbow.trading
 0.0.0.0 rainy.synology-ds.de
 0.0.0.0 raksfifthavenue.com
@@ -4595,7 +4587,6 @@
 0.0.0.0 scapemania.sale
 0.0.0.0 scburnet.okta.acmecorp.name
 0.0.0.0 schoolfirstcenter0reversalonline.duckdns.org
-0.0.0.0 scorpion-casino.shop
 0.0.0.0 scorpioncasinos.pages.dev
 0.0.0.0 scotltytheai.xyz
 0.0.0.0 scotlytheais.club
@@ -4772,7 +4763,6 @@
 0.0.0.0 snapshot-defi.com
 0.0.0.0 snapshot-hydroprotocol.com
 0.0.0.0 snapshot-syncswap.com
-0.0.0.0 snapshots-wormhole.xyz
 0.0.0.0 snexkr.com
 0.0.0.0 snexkr.plus
 0.0.0.0 sniperapp.cc
@@ -4785,7 +4775,6 @@
 0.0.0.0 solana-profit.web.app
 0.0.0.0 solana-promo.info
 0.0.0.0 solana-value-average-frontend.vercel.app
-0.0.0.0 solana.ag
 0.0.0.0 solana.laag.site
 0.0.0.0 solanadrainer.pages.dev
 0.0.0.0 solanaetoken.e-classes.pro
@@ -5330,7 +5319,6 @@
 0.0.0.0 usdcbonus.io
 0.0.0.0 usdcbonus.net
 0.0.0.0 usdcevent.us
-0.0.0.0 usdcollect.com
 0.0.0.0 usdctip.net
 0.0.0.0 usdfi-git-kyberswap-widget-tbot.vercel.app
 0.0.0.0 usdonbsc.tech
@@ -5420,6 +5408,7 @@
 0.0.0.0 virginmoneybusinessbanking.com
 0.0.0.0 virginmoneychatwithus.web.app
 0.0.0.0 virginmoneylivechat.com
+0.0.0.0 virginmoneysupport.com
 0.0.0.0 virginmoneyverify.web.app
 0.0.0.0 virtua.gift
 0.0.0.0 virtualsecrets.org
@@ -5527,7 +5516,6 @@
 0.0.0.0 wappconnectnode.pages.dev
 0.0.0.0 wappmaindefiblock.pages.dev
 0.0.0.0 wapprecktconnt.pages.dev
-0.0.0.0 waprcast.com
 0.0.0.0 wardenswap.netlify.app
 0.0.0.0 washignton-post.com
 0.0.0.0 washignton-post.com.gianlucaungaro.it

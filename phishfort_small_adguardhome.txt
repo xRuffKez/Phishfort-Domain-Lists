@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  8 14:04:42 UTC 2024
+# PhishFort Small Domain List - Wed May  8 15:04:55 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6218
+# Number of Entries: 6206
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -57,7 +57,6 @@
 ||3rdandtaylor.com^
 ||407-etr-help.com^
 ||407etr-paytrip.com^
-||407express-tollroute.com^
 ||407on.com^
 ||444444-ai9.pages.dev^
 ||48444453456.cloud^
@@ -439,7 +438,6 @@
 ||app-thruster.finance^
 ||app-uniswaps.com^
 ||app-venus.io^
-||app-vulcan.org^
 ||app-wormhole.com^
 ||app-xpet.tech^
 ||app.1inch.lc^
@@ -532,11 +530,11 @@
 ||appsuperform.xyz^
 ||appsuperverse.org^
 ||appsweb-server787.pages.dev^
-||appsyncsmartversal.pro^
 ||apptokenmint.com^
 ||appzlink.com^
 ||apr-vectorreserve.network^
 ||aps.bifi-yleld.xyz^
+||apskentuckystcapers.com^
 ||apygatercptools.web.app^
 ||aquilibrium.club^
 ||araemex.com^
@@ -766,7 +764,6 @@
 ||bitimeta.space^
 ||bitinaut.top^
 ||bitinautsmeta.space^
-||bitinteractivebrokers.org^
 ||bitkub-capital.org^
 ||bitkub-th.pro^
 ||bitkub-th.vip^
@@ -862,7 +859,6 @@
 ||bonelp.com^
 ||bonk-premium.web.app^
 ||bonk-token.xyz^
-||bonus-injective.com^
 ||bookaflightwithunitedairlines.statuspage.io^
 ||booking.agoda-checkout-id843753.com^
 ||bookinghotel-word.com^
@@ -2263,7 +2259,6 @@
 ||helpmetamask.xyz^
 ||hengstler.imall.pro^
 ||heroes-of-mavia.online^
-||hex-distributions.com^
 ||hft-fyfc.com^
 ||hhfh.cc^
 ||hidden-airdrops.xyz^
@@ -3643,17 +3638,14 @@
 ||opensaepro.vercel.app^
 ||opensea-air.vercel.app^
 ||opensea-claim.de^
-||opensea-doc.rf.gd^
 ||opensea-drainer.vercel.app^
 ||opensea-pronfts.vercel.app^
 ||opensea.app^
-||opensea.i-o.eth.co^
 ||opensea.io.in^
 ||opensea.lc^
 ||openseaclaim43.vercel.app^
 ||openseaclickclaims01.vercel.app^
 ||openseanft-projs.vercel.app^
-||openseanft.one^
 ||openseanft0.vercel.app^
 ||openseap1.vercel.app^
 ||openseapro-package.firebaseapp.com^
@@ -3712,6 +3704,7 @@
 ||ordivalifusion.pages.dev^
 ||orgderma.com^
 ||orgnlt.me^
+||origindollar.net^
 ||orlandoplasmacenters.com^
 ||osaic-wisconsin.com^
 ||osmososis-zone.xyz^
@@ -4163,7 +4156,6 @@
 ||polarbearsnft.top^
 ||polkabridge-network.org^
 ||polkadex.online^
-||poloniex-assets.com^
 ||polupokespics.rosamonddunlop665.workers.dev^
 ||polyhedra-network.pro^
 ||polyhedra-network.vercel.app^
@@ -4279,7 +4271,6 @@
 ||qrayber.com^
 ||qt5872.xyz^
 ||qtnkpaxos.net^
-||quest-pixels.com^
 ||quest-sharpnel.com^
 ||quest-starknet.io^
 ||quest.puffer.events^
@@ -4299,6 +4290,7 @@
 ||radix.gift^
 ||raffleopnsea.com^
 ||raffleusdc.com^
+||raiffeisenfast.com^
 ||rainbow.trading^
 ||rainy.synology-ds.de^
 ||raksfifthavenue.com^
@@ -4595,7 +4587,6 @@
 ||scapemania.sale^
 ||scburnet.okta.acmecorp.name^
 ||schoolfirstcenter0reversalonline.duckdns.org^
-||scorpion-casino.shop^
 ||scorpioncasinos.pages.dev^
 ||scotltytheai.xyz^
 ||scotlytheais.club^
@@ -4772,7 +4763,6 @@
 ||snapshot-defi.com^
 ||snapshot-hydroprotocol.com^
 ||snapshot-syncswap.com^
-||snapshots-wormhole.xyz^
 ||snexkr.com^
 ||snexkr.plus^
 ||sniperapp.cc^
@@ -4785,7 +4775,6 @@
 ||solana-profit.web.app^
 ||solana-promo.info^
 ||solana-value-average-frontend.vercel.app^
-||solana.ag^
 ||solana.laag.site^
 ||solanadrainer.pages.dev^
 ||solanaetoken.e-classes.pro^
@@ -5330,7 +5319,6 @@
 ||usdcbonus.io^
 ||usdcbonus.net^
 ||usdcevent.us^
-||usdcollect.com^
 ||usdctip.net^
 ||usdfi-git-kyberswap-widget-tbot.vercel.app^
 ||usdonbsc.tech^
@@ -5420,6 +5408,7 @@
 ||virginmoneybusinessbanking.com^
 ||virginmoneychatwithus.web.app^
 ||virginmoneylivechat.com^
+||virginmoneysupport.com^
 ||virginmoneyverify.web.app^
 ||virtua.gift^
 ||virtualsecrets.org^
@@ -5527,7 +5516,6 @@
 ||wappconnectnode.pages.dev^
 ||wappmaindefiblock.pages.dev^
 ||wapprecktconnt.pages.dev^
-||waprcast.com^
 ||wardenswap.netlify.app^
 ||washignton-post.com^
 ||washignton-post.com.gianlucaungaro.it^
