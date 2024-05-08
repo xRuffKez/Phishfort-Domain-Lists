@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  8 08:02:48 UTC 2024
+# PhishFort Full Domain List - Wed May  8 09:02:12 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109292
+# Number of Entries: 109293
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -74178,6 +74178,7 @@
 0.0.0.0 purohotell.com
 0.0.0.0 purolites.com
 0.0.0.0 purpleladies.xyz
+0.0.0.0 pursuitlending.cloud
 0.0.0.0 push-claims.org
 0.0.0.0 push-solana.com
 0.0.0.0 pushd.mainnetpro.com

@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  8 08:02:48 UTC 2024
+# PhishFort Full Domain List - Wed May  8 09:02:12 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109292
+# Number of Entries: 109293
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -74178,6 +74178,7 @@
 ||purohotell.com^
 ||purolites.com^
 ||purpleladies.xyz^
+||pursuitlending.cloud^
 ||push-claims.org^
 ||push-solana.com^
 ||pushd.mainnetpro.com^
