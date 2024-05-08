@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  8 15:01:57 UTC 2024
+# PhishFort Full Domain List - Wed May  8 16:02:18 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109299
+# Number of Entries: 109300
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -86021,6 +86021,7 @@
 ||testing.pancakeswaps.it^
 ||testing.pancokeswap.com^
 ||testingdomainlz.com^
+||testingdrxx.web.app^
 ||testingproject12345.pages.dev^
 ||testingtesting123.com^
 ||testlivewallet.com^
@@ -97187,7 +97188,6 @@
 ||whop-connect.live^
 ||whops.xyz^
 ||whsir.io^
-||whtl-smartsheet.web.app^
 ||wi-31.onrender.com^
 ||wi.notifier.selfip.org^
 ||wi789.vip^
@@ -101425,6 +101425,7 @@
 ||www.lendingtree.click^
 ||www.lendingtreefinancialsolutions.com^
 ||www.lendingtreeinfo.com^
+||www.lendmarkfs.com^
 ||www.lensshare.xyz^
 ||www.lenzprotocl.xyz^
 ||www.leopolcio.com^

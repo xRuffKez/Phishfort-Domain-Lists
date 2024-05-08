@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  8 15:01:57 UTC 2024
+# PhishFort Full Domain List - Wed May  8 16:02:18 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109299
+# Number of Entries: 109300
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -86021,6 +86021,7 @@
 0.0.0.0 testing.pancakeswaps.it
 0.0.0.0 testing.pancokeswap.com
 0.0.0.0 testingdomainlz.com
+0.0.0.0 testingdrxx.web.app
 0.0.0.0 testingproject12345.pages.dev
 0.0.0.0 testingtesting123.com
 0.0.0.0 testlivewallet.com
@@ -97187,7 +97188,6 @@
 0.0.0.0 whop-connect.live
 0.0.0.0 whops.xyz
 0.0.0.0 whsir.io
-0.0.0.0 whtl-smartsheet.web.app
 0.0.0.0 wi-31.onrender.com
 0.0.0.0 wi.notifier.selfip.org
 0.0.0.0 wi789.vip
@@ -101425,6 +101425,7 @@
 0.0.0.0 www.lendingtree.click
 0.0.0.0 www.lendingtreefinancialsolutions.com
 0.0.0.0 www.lendingtreeinfo.com
+0.0.0.0 www.lendmarkfs.com
 0.0.0.0 www.lensshare.xyz
 0.0.0.0 www.lenzprotocl.xyz
 0.0.0.0 www.leopolcio.com
