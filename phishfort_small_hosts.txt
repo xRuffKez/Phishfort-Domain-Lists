@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  8 16:05:10 UTC 2024
+# PhishFort Small Domain List - Wed May  8 17:04:44 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6197
+# Number of Entries: 6196
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -55,7 +55,6 @@
 0.0.0.0 365cash.store
 0.0.0.0 3pzlywh.info
 0.0.0.0 3rdandtaylor.com
-0.0.0.0 407-etr-help.com
 0.0.0.0 407etr-paytrip.com
 0.0.0.0 407on.com
 0.0.0.0 444444-ai9.pages.dev
@@ -134,6 +133,7 @@
 0.0.0.0 account-407etr.com
 0.0.0.0 account.cityindexinternational.com
 0.0.0.0 account407etr.com
+0.0.0.0 accountpaxful.com
 0.0.0.0 accounts.paxf-ful.com
 0.0.0.0 accretivetechnologygroupcareers.com
 0.0.0.0 acdbcml3.wildcatexpressdelivery.com
@@ -149,6 +149,7 @@
 0.0.0.0 admincoinbase.the123456789.com
 0.0.0.0 adslauncher.eu
 0.0.0.0 advancelobstarhifi.pages.dev
+0.0.0.0 advma.co
 0.0.0.0 aerordome.finance
 0.0.0.0 aevoxyz.live
 0.0.0.0 aflac.socialports.com
@@ -370,6 +371,7 @@
 0.0.0.0 an.intelectui.online
 0.0.0.0 an.myudetma.online
 0.0.0.0 analayze.orb-crypto.com
+0.0.0.0 anchorwayne.ru
 0.0.0.0 andex.vercel.app
 0.0.0.0 angle.broker
 0.0.0.0 angledao.app
@@ -1990,7 +1992,6 @@
 0.0.0.0 flyemirates.space
 0.0.0.0 flyemiratesonline.com
 0.0.0.0 foeziwo.pro
-0.0.0.0 foolz.sellpass.io
 0.0.0.0 foresamagovi.com
 0.0.0.0 forexgcoin-5.com
 0.0.0.0 fortanetwork.eu
@@ -2155,7 +2156,6 @@
 0.0.0.0 greencorp.online
 0.0.0.0 greendot-group-team.pages.dev
 0.0.0.0 greens-bitcoins.web.app
-0.0.0.0 grendot.online
 0.0.0.0 grin.pages.dev
 0.0.0.0 grit-finance.com
 0.0.0.0 grokcoinlab.xyz
@@ -4658,7 +4658,6 @@
 0.0.0.0 shift4strategy.com
 0.0.0.0 shirbclaime.netlify.app
 0.0.0.0 shirbreward.netlify.app
-0.0.0.0 shitzuapes.fun
 0.0.0.0 shjq3rw.cc
 0.0.0.0 shlba-3.live
 0.0.0.0 shop-morganwallenmerch.com
@@ -5521,6 +5520,7 @@
 0.0.0.0 web-defillama.com
 0.0.0.0 web-metamesklogin.uteach.io
 0.0.0.0 web.fixsolution.io
+0.0.0.0 web.paxfulusdt.com
 0.0.0.0 web.resolvebugvvalidly.org
 0.0.0.0 web.stakefish.app
 0.0.0.0 web3-bitget.pages.dev
@@ -5970,7 +5970,6 @@
 0.0.0.0 www.reflexer.pro
 0.0.0.0 www.registrar-mavia.com
 0.0.0.0 www.resolve-mm.com
-0.0.0.0 www.restake-pendle.finance
 0.0.0.0 www.revoke-approvals.xyz.polarmates.top
 0.0.0.0 www.revoke-wallet.com
 0.0.0.0 www.revoke-wallet.net

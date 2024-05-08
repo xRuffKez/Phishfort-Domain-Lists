@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Wed May  8 16:05:10 UTC 2024
+# PhishFort Small Domain List - Wed May  8 17:04:44 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6197
+# Number of Entries: 6196
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -54,7 +54,6 @@
 365cash.store
 3pzlywh.info
 3rdandtaylor.com
-407-etr-help.com
 407etr-paytrip.com
 407on.com
 444444-ai9.pages.dev
@@ -133,6 +132,7 @@ accesspoint01.challengedrumstreet.ru
 account-407etr.com
 account.cityindexinternational.com
 account407etr.com
+accountpaxful.com
 accounts.paxf-ful.com
 accretivetechnologygroupcareers.com
 acdbcml3.wildcatexpressdelivery.com
@@ -148,6 +148,7 @@ admin.makerdao.top
 admincoinbase.the123456789.com
 adslauncher.eu
 advancelobstarhifi.pages.dev
+advma.co
 aerordome.finance
 aevoxyz.live
 aflac.socialports.com
@@ -369,6 +370,7 @@ an.datpoint.online
 an.intelectui.online
 an.myudetma.online
 analayze.orb-crypto.com
+anchorwayne.ru
 andex.vercel.app
 angle.broker
 angledao.app
@@ -1989,7 +1991,6 @@ flyemirates.my.id
 flyemirates.space
 flyemiratesonline.com
 foeziwo.pro
-foolz.sellpass.io
 foresamagovi.com
 forexgcoin-5.com
 fortanetwork.eu
@@ -2154,7 +2155,6 @@ greenbitscoin.pages.dev
 greencorp.online
 greendot-group-team.pages.dev
 greens-bitcoins.web.app
-grendot.online
 grin.pages.dev
 grit-finance.com
 grokcoinlab.xyz
@@ -4657,7 +4657,6 @@ shidoapp.work
 shift4strategy.com
 shirbclaime.netlify.app
 shirbreward.netlify.app
-shitzuapes.fun
 shjq3rw.cc
 shlba-3.live
 shop-morganwallenmerch.com
@@ -5520,6 +5519,7 @@ web-airtm.com
 web-defillama.com
 web-metamesklogin.uteach.io
 web.fixsolution.io
+web.paxfulusdt.com
 web.resolvebugvvalidly.org
 web.stakefish.app
 web3-bitget.pages.dev
@@ -5969,7 +5969,6 @@ www.recovermetawalletio.diviteca.com
 www.reflexer.pro
 www.registrar-mavia.com
 www.resolve-mm.com
-www.restake-pendle.finance
 www.revoke-approvals.xyz.polarmates.top
 www.revoke-wallet.com
 www.revoke-wallet.net
