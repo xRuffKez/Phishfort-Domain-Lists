@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  8 14:01:54 UTC 2024
+# PhishFort Full Domain List - Wed May  8 15:01:57 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109295
+# Number of Entries: 109299
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -7164,6 +7164,7 @@
 0.0.0.0 april.trade
 0.0.0.0 apriloracle-promogive.com
 0.0.0.0 aps.bifi-yleld.xyz
+0.0.0.0 apskentuckystcapers.com
 0.0.0.0 apsonk.com
 0.0.0.0 apst-foundation.com
 0.0.0.0 apstos.com
@@ -63883,6 +63884,7 @@
 0.0.0.0 origin.foundation
 0.0.0.0 origin.roninwallets.link
 0.0.0.0 originaltradeoffer.online
+0.0.0.0 origindollar.net
 0.0.0.0 originprofocol.com
 0.0.0.0 originprotocol.io
 0.0.0.0 originprotocol.online
@@ -74757,6 +74759,7 @@
 0.0.0.0 raiffeisen-token.com
 0.0.0.0 raiffeisendecred.com
 0.0.0.0 raiffeisendefi.com
+0.0.0.0 raiffeisenfast.com
 0.0.0.0 raiffeisengolem.com
 0.0.0.0 raiffeisenlivepeer.com
 0.0.0.0 raiffeisenmining.com
@@ -92281,6 +92284,7 @@
 0.0.0.0 virginmoneychatwithus.web.app
 0.0.0.0 virginmoneylivechat.com
 0.0.0.0 virginmoneynetwork.com
+0.0.0.0 virginmoneysupport.com
 0.0.0.0 virginmoneyverify.web.app
 0.0.0.0 virtua.gift
 0.0.0.0 virtua.web3-airdrop.net
