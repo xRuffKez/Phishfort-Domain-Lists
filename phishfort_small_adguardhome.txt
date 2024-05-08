@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  8 10:05:02 UTC 2024
+# PhishFort Small Domain List - Wed May  8 11:05:15 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6250
+# Number of Entries: 6225
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -527,13 +527,11 @@
 ||appnodecon.pages.dev^
 ||appresolvefix.pages.dev^
 ||apprestakefinance.com^
-||approved-received.pages.dev^
 ||apps-aevo.xyz^
 ||apps-intercessor.live^
 ||apps-linea.build^
 ||apps-pancakeswap.finance^
 ||appserversdex.network^
-||appsintercessor-server.live^
 ||appsuperform.xyz^
 ||appsuperverse.org^
 ||appsweb-server787.pages.dev^
@@ -2006,7 +2004,6 @@
 ||foeziwo.pro^
 ||foolz.sellpass.io^
 ||foresamagovi.com^
-||forex-com.holu.workers.dev^
 ||forexgcoin-5.com^
 ||fortanetwork.eu^
 ||fortewebklap.pages.dev^
@@ -2016,7 +2013,6 @@
 ||fox-dao.web.app^
 ||fqb5hw.cn^
 ||fr-worldcoin.web.app^
-||frame.markets^
 ||free.bitzgroup.xyz^
 ||freedompork.net^
 ||freestorecol.online^
@@ -2128,7 +2124,6 @@
 ||gift-puffer.com^
 ||giftsteam.ru^
 ||gitcoin-dr-explorer.vercel.app^
-||givesaiyans.com^
 ||gjkf.pro^
 ||glaberkantonalbank.com.opticsea.org^
 ||glacierdivisons.pics^
@@ -2511,7 +2506,6 @@
 ||jumpers.trading^
 ||jumperweb3.pro^
 ||jup-cases.trade^
-||jup-e.com^
 ||jup222.com^
 ||jup333.com^
 ||jup444.com^
@@ -2522,7 +2516,6 @@
 ||jupdrop66.com^
 ||jupdrop88.com^
 ||jupdrop99.com^
-||jupit-eth.com^
 ||jupiter-air.web.app^
 ||jupiter-cats.org^
 ||jupiter.services-claiming.cc^
@@ -2594,7 +2587,6 @@
 ||kroma.events^
 ||kroma.trading^
 ||krroma.network^
-||kstmple.pages.dev^
 ||kuduips.com^
 ||kumtari.com^
 ||kuytrk.com^
@@ -2634,7 +2626,6 @@
 ||layer-swap.xyz^
 ||layer-zera.top^
 ||layer3.cyou^
-||layerbank.trading^
 ||layerdank.finance^
 ||layerszero.pics^
 ||layerzero-alpha.com^
@@ -3032,7 +3023,6 @@
 ||metabolt.io^
 ||metaconfirmed.io^
 ||metadrop-us.com^
-||metadrop.dev^
 ||metaemaesk-waleet.godaddysites.com^
 ||metaemaskk-wwallit.godaddysites.com^
 ||metafix.vercel.app^
@@ -3237,12 +3227,9 @@
 ||mintchain.pro^
 ||mintnobody.online^
 ||mirror-portalgaming.com^
-||mission-defi.trade^
-||mission-dymension.network^
 ||mission-multibits.com^
 ||mission-particle.network^
 ||mission-sharpnel.com^
-||missions-dymension.network^
 ||missions-roninchain.com^
 ||missions-sharpnel.com^
 ||missions-zksync.com^
@@ -3508,7 +3495,6 @@
 ||nft-offers.com^
 ||nft-openseaz.vercel.app^
 ||nft-opesea.vercel.app^
-||nft-reward.pages.dev^
 ||nft-shards-tech.vercel.app^
 ||nft-sidusheroes.com^
 ||nft-starknet-project.vercel.app^
@@ -4055,7 +4041,6 @@
 ||pcs-cakexdefi.com^
 ||pcs-defistakeexc-v3.com^
 ||pcs-defistakeexcv3.com^
-||pcs-defistakev3.com^
 ||pcs-farmv4.com^
 ||pcs-farmv4.net^
 ||pcs-myteam.com^
@@ -4303,9 +4288,6 @@
 ||quest-sharpnel.com^
 ||quest-starknet.io^
 ||quest.puffer.events^
-||quests-defi.trade^
-||quests-dymension.network^
-||quests-multibits.com^
 ||quests-sharpnel.com^
 ||quickswap-io.events^
 ||quicksystemicexplorer.co^
@@ -4533,7 +4515,6 @@
 ||rrspn.pro^
 ||rsr.gift^
 ||rtfkt-gem.com^
-||rtfkt.gifts^
 ||rubytechnology360.com^
 ||runjokab.wpenginepowered.com^
 ||rwa.meme^
@@ -5125,11 +5106,9 @@
 ||ticket.universalprotocoldapp.io^
 ||ticketparis24.com^
 ||tickets-paris24.com^
-||tidex.icu^
 ||tifi-airdrop.com^
 ||tikmallshop.cloud^
 ||tiktocoins.info^
-||tiktok1122.com^
 ||tiktokmall01.com^
 ||titano.defilama.top^
 ||tmedicalpr.lol^
@@ -5158,7 +5137,6 @@
 ||tolls-407express.com^
 ||tollvest.org^
 ||tomandgerimail.com^
-||tombmigration.com^
 ||ton-chain.one^
 ||ton-chain.top^
 ||ton-telegram.click^
@@ -5359,7 +5337,6 @@
 ||usdcbonus.net^
 ||usdcevent.us^
 ||usdcollect.com^
-||usdcpayout.com^
 ||usdctip.net^
 ||usdfi-git-kyberswap-widget-tbot.vercel.app^
 ||usdonbsc.tech^
@@ -5758,7 +5735,6 @@
 ||www.agrtech.tech^
 ||www.ahikec.com^
 ||www.ai-meme.xyz^
-||www.airdropzeroland.xyz^
 ||www.airlinesofficeguide.com^
 ||www.airtm.services^
 ||www.airtmliberatupotencial.site^
@@ -6009,7 +5985,6 @@
 ||www.pepechain.info^
 ||www.pepeoncrack.fun^
 ||www.per-empower.com.affiliateadvantageventures.com^
-||www.perps-wasabi.xyz^
 ||www.personalles-accesoscolombia.online^
 ||www.pfizer.i.ng.sba-sales.com.ng^
 ||www.pmaxw.com^

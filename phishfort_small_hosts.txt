@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  8 10:05:02 UTC 2024
+# PhishFort Small Domain List - Wed May  8 11:05:15 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6250
+# Number of Entries: 6225
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -527,13 +527,11 @@
 0.0.0.0 appnodecon.pages.dev
 0.0.0.0 appresolvefix.pages.dev
 0.0.0.0 apprestakefinance.com
-0.0.0.0 approved-received.pages.dev
 0.0.0.0 apps-aevo.xyz
 0.0.0.0 apps-intercessor.live
 0.0.0.0 apps-linea.build
 0.0.0.0 apps-pancakeswap.finance
 0.0.0.0 appserversdex.network
-0.0.0.0 appsintercessor-server.live
 0.0.0.0 appsuperform.xyz
 0.0.0.0 appsuperverse.org
 0.0.0.0 appsweb-server787.pages.dev
@@ -2006,7 +2004,6 @@
 0.0.0.0 foeziwo.pro
 0.0.0.0 foolz.sellpass.io
 0.0.0.0 foresamagovi.com
-0.0.0.0 forex-com.holu.workers.dev
 0.0.0.0 forexgcoin-5.com
 0.0.0.0 fortanetwork.eu
 0.0.0.0 fortewebklap.pages.dev
@@ -2016,7 +2013,6 @@
 0.0.0.0 fox-dao.web.app
 0.0.0.0 fqb5hw.cn
 0.0.0.0 fr-worldcoin.web.app
-0.0.0.0 frame.markets
 0.0.0.0 free.bitzgroup.xyz
 0.0.0.0 freedompork.net
 0.0.0.0 freestorecol.online
@@ -2128,7 +2124,6 @@
 0.0.0.0 gift-puffer.com
 0.0.0.0 giftsteam.ru
 0.0.0.0 gitcoin-dr-explorer.vercel.app
-0.0.0.0 givesaiyans.com
 0.0.0.0 gjkf.pro
 0.0.0.0 glaberkantonalbank.com.opticsea.org
 0.0.0.0 glacierdivisons.pics
@@ -2511,7 +2506,6 @@
 0.0.0.0 jumpers.trading
 0.0.0.0 jumperweb3.pro
 0.0.0.0 jup-cases.trade
-0.0.0.0 jup-e.com
 0.0.0.0 jup222.com
 0.0.0.0 jup333.com
 0.0.0.0 jup444.com
@@ -2522,7 +2516,6 @@
 0.0.0.0 jupdrop66.com
 0.0.0.0 jupdrop88.com
 0.0.0.0 jupdrop99.com
-0.0.0.0 jupit-eth.com
 0.0.0.0 jupiter-air.web.app
 0.0.0.0 jupiter-cats.org
 0.0.0.0 jupiter.services-claiming.cc
@@ -2594,7 +2587,6 @@
 0.0.0.0 kroma.events
 0.0.0.0 kroma.trading
 0.0.0.0 krroma.network
-0.0.0.0 kstmple.pages.dev
 0.0.0.0 kuduips.com
 0.0.0.0 kumtari.com
 0.0.0.0 kuytrk.com
@@ -2634,7 +2626,6 @@
 0.0.0.0 layer-swap.xyz
 0.0.0.0 layer-zera.top
 0.0.0.0 layer3.cyou
-0.0.0.0 layerbank.trading
 0.0.0.0 layerdank.finance
 0.0.0.0 layerszero.pics
 0.0.0.0 layerzero-alpha.com
@@ -3032,7 +3023,6 @@
 0.0.0.0 metabolt.io
 0.0.0.0 metaconfirmed.io
 0.0.0.0 metadrop-us.com
-0.0.0.0 metadrop.dev
 0.0.0.0 metaemaesk-waleet.godaddysites.com
 0.0.0.0 metaemaskk-wwallit.godaddysites.com
 0.0.0.0 metafix.vercel.app
@@ -3237,12 +3227,9 @@
 0.0.0.0 mintchain.pro
 0.0.0.0 mintnobody.online
 0.0.0.0 mirror-portalgaming.com
-0.0.0.0 mission-defi.trade
-0.0.0.0 mission-dymension.network
 0.0.0.0 mission-multibits.com
 0.0.0.0 mission-particle.network
 0.0.0.0 mission-sharpnel.com
-0.0.0.0 missions-dymension.network
 0.0.0.0 missions-roninchain.com
 0.0.0.0 missions-sharpnel.com
 0.0.0.0 missions-zksync.com
@@ -3508,7 +3495,6 @@
 0.0.0.0 nft-offers.com
 0.0.0.0 nft-openseaz.vercel.app
 0.0.0.0 nft-opesea.vercel.app
-0.0.0.0 nft-reward.pages.dev
 0.0.0.0 nft-shards-tech.vercel.app
 0.0.0.0 nft-sidusheroes.com
 0.0.0.0 nft-starknet-project.vercel.app
@@ -4055,7 +4041,6 @@
 0.0.0.0 pcs-cakexdefi.com
 0.0.0.0 pcs-defistakeexc-v3.com
 0.0.0.0 pcs-defistakeexcv3.com
-0.0.0.0 pcs-defistakev3.com
 0.0.0.0 pcs-farmv4.com
 0.0.0.0 pcs-farmv4.net
 0.0.0.0 pcs-myteam.com
@@ -4303,9 +4288,6 @@
 0.0.0.0 quest-sharpnel.com
 0.0.0.0 quest-starknet.io
 0.0.0.0 quest.puffer.events
-0.0.0.0 quests-defi.trade
-0.0.0.0 quests-dymension.network
-0.0.0.0 quests-multibits.com
 0.0.0.0 quests-sharpnel.com
 0.0.0.0 quickswap-io.events
 0.0.0.0 quicksystemicexplorer.co
@@ -4533,7 +4515,6 @@
 0.0.0.0 rrspn.pro
 0.0.0.0 rsr.gift
 0.0.0.0 rtfkt-gem.com
-0.0.0.0 rtfkt.gifts
 0.0.0.0 rubytechnology360.com
 0.0.0.0 runjokab.wpenginepowered.com
 0.0.0.0 rwa.meme
@@ -5125,11 +5106,9 @@
 0.0.0.0 ticket.universalprotocoldapp.io
 0.0.0.0 ticketparis24.com
 0.0.0.0 tickets-paris24.com
-0.0.0.0 tidex.icu
 0.0.0.0 tifi-airdrop.com
 0.0.0.0 tikmallshop.cloud
 0.0.0.0 tiktocoins.info
-0.0.0.0 tiktok1122.com
 0.0.0.0 tiktokmall01.com
 0.0.0.0 titano.defilama.top
 0.0.0.0 tmedicalpr.lol
@@ -5158,7 +5137,6 @@
 0.0.0.0 tolls-407express.com
 0.0.0.0 tollvest.org
 0.0.0.0 tomandgerimail.com
-0.0.0.0 tombmigration.com
 0.0.0.0 ton-chain.one
 0.0.0.0 ton-chain.top
 0.0.0.0 ton-telegram.click
@@ -5359,7 +5337,6 @@
 0.0.0.0 usdcbonus.net
 0.0.0.0 usdcevent.us
 0.0.0.0 usdcollect.com
-0.0.0.0 usdcpayout.com
 0.0.0.0 usdctip.net
 0.0.0.0 usdfi-git-kyberswap-widget-tbot.vercel.app
 0.0.0.0 usdonbsc.tech
@@ -5758,7 +5735,6 @@
 0.0.0.0 www.agrtech.tech
 0.0.0.0 www.ahikec.com
 0.0.0.0 www.ai-meme.xyz
-0.0.0.0 www.airdropzeroland.xyz
 0.0.0.0 www.airlinesofficeguide.com
 0.0.0.0 www.airtm.services
 0.0.0.0 www.airtmliberatupotencial.site
@@ -6009,7 +5985,6 @@
 0.0.0.0 www.pepechain.info
 0.0.0.0 www.pepeoncrack.fun
 0.0.0.0 www.per-empower.com.affiliateadvantageventures.com
-0.0.0.0 www.perps-wasabi.xyz
 0.0.0.0 www.personalles-accesoscolombia.online
 0.0.0.0 www.pfizer.i.ng.sba-sales.com.ng
 0.0.0.0 www.pmaxw.com
