@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  8 19:02:09 UTC 2024
+# PhishFort Full Domain List - Wed May  8 20:01:56 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109304
+# Number of Entries: 109305
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -59609,6 +59609,7 @@
 0.0.0.0 myproperty.pages.dev
 0.0.0.0 myproximus-billing.com
 0.0.0.0 myproximus.serveftp.com
+0.0.0.0 mypsegconnect.com
 0.0.0.0 mypunks.live
 0.0.0.0 myrcrypto.com
 0.0.0.0 myrestoration.info
