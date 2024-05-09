@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  9 03:02:09 UTC 2024
+# PhishFort Full Domain List - Thu May  9 04:02:04 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109312
+# Number of Entries: 109314
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -64649,6 +64649,7 @@
 0.0.0.0 pancake-exchange.arhamsoft.org
 0.0.0.0 pancake-exchange.finance
 0.0.0.0 pancake-filnance.com
+0.0.0.0 pancake-finance-swaps.pages.dev
 0.0.0.0 pancake-finance.exchange
 0.0.0.0 pancake-finance.net
 0.0.0.0 pancake-finance.online
@@ -64970,6 +64971,7 @@
 0.0.0.0 pancakes-swap.online
 0.0.0.0 pancakes-swap.site
 0.0.0.0 pancakes-swaps.finance
+0.0.0.0 pancakes-swaps.pages.dev
 0.0.0.0 pancakes-wap.com
 0.0.0.0 pancakes-waps.online
 0.0.0.0 pancakes.bid

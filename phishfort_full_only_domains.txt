@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Thu May  9 03:02:09 UTC 2024
+# PhishFort Full Domain List - Thu May  9 04:02:04 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109312
+# Number of Entries: 109314
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -64648,6 +64648,7 @@ pancake-crypto.online
 pancake-exchange.arhamsoft.org
 pancake-exchange.finance
 pancake-filnance.com
+pancake-finance-swaps.pages.dev
 pancake-finance.exchange
 pancake-finance.net
 pancake-finance.online
@@ -64969,6 +64970,7 @@ pancakes-swap.ga
 pancakes-swap.online
 pancakes-swap.site
 pancakes-swaps.finance
+pancakes-swaps.pages.dev
 pancakes-wap.com
 pancakes-waps.online
 pancakes.bid
