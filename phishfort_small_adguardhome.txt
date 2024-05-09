@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  8 23:05:22 UTC 2024
+# PhishFort Small Domain List - Thu May  9 00:18:14 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6187
+# Number of Entries: 6189
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -991,7 +991,6 @@
 ||celebrators.pk^
 ||celestia-event.com^
 ||celestialabs.dev^
-||celetsia.online^
 ||cellframenetwork.com^
 ||cellnextelecomservice.in^
 ||celowallet.finance^
@@ -3146,6 +3145,7 @@
 ||metwamasnkus.azurewebsites.net^
 ||metwamasus.azurewebsites.net^
 ||metzhgofk.com^
+||mew-portfolio.web.app^
 ||mew-wallet.com^
 ||mew.best^
 ||mewt-token-swap-restore.netlify.app^
@@ -4926,6 +4926,7 @@
 ||sushiswap.mom^
 ||sutherland-globalservice.com^
 ||sw-syncswap.com^
+||swagelokwa.com^
 ||swanchain-register-opennow.vercel.app^
 ||swanchain.vercel.app^
 ||swancrypto.net^
@@ -6012,6 +6013,7 @@
 ||www.useneuxs.org^
 ||www.ustaylorsshop.com^
 ||www.ustaylorsshops.com^
+||www.verifone-entire.com^
 ||www.verifoneentire.com^
 ||www.verify-collab-land.com^
 ||www.verify-collabland.xyz^

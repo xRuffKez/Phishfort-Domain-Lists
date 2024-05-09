@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May  8 23:05:22 UTC 2024
+# PhishFort Small Domain List - Thu May  9 00:18:14 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6187
+# Number of Entries: 6189
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -991,7 +991,6 @@
 0.0.0.0 celebrators.pk
 0.0.0.0 celestia-event.com
 0.0.0.0 celestialabs.dev
-0.0.0.0 celetsia.online
 0.0.0.0 cellframenetwork.com
 0.0.0.0 cellnextelecomservice.in
 0.0.0.0 celowallet.finance
@@ -3146,6 +3145,7 @@
 0.0.0.0 metwamasnkus.azurewebsites.net
 0.0.0.0 metwamasus.azurewebsites.net
 0.0.0.0 metzhgofk.com
+0.0.0.0 mew-portfolio.web.app
 0.0.0.0 mew-wallet.com
 0.0.0.0 mew.best
 0.0.0.0 mewt-token-swap-restore.netlify.app
@@ -4926,6 +4926,7 @@
 0.0.0.0 sushiswap.mom
 0.0.0.0 sutherland-globalservice.com
 0.0.0.0 sw-syncswap.com
+0.0.0.0 swagelokwa.com
 0.0.0.0 swanchain-register-opennow.vercel.app
 0.0.0.0 swanchain.vercel.app
 0.0.0.0 swancrypto.net
@@ -6012,6 +6013,7 @@
 0.0.0.0 www.useneuxs.org
 0.0.0.0 www.ustaylorsshop.com
 0.0.0.0 www.ustaylorsshops.com
+0.0.0.0 www.verifone-entire.com
 0.0.0.0 www.verifoneentire.com
 0.0.0.0 www.verify-collab-land.com
 0.0.0.0 www.verify-collabland.xyz
