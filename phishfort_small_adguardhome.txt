@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  9 22:04:49 UTC 2024
+# PhishFort Small Domain List - Thu May  9 23:04:54 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6166
+# Number of Entries: 6148
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -37,7 +37,6 @@
 ||1lnch.network^
 ||1yagodame.com^
 ||2-fa-metmask.io^
-||2000usdc.net^
 ||2024gmcsilverado.website^
 ||24x7enterpriserental.agency^
 ||25j0.cc^
@@ -52,7 +51,6 @@
 ||32f79d9c.7cdb6f3702a09bbbd3afc136.workers.dev^
 ||338465.kossuthneedshousing.com^
 ||365cash.store^
-||3pzlywh.info^
 ||3rdandtaylor.com^
 ||407etr-paytrip.com^
 ||407on.com^
@@ -1062,7 +1060,6 @@
 ||claim-cake.web.app^
 ||claim-dookeydash.com^
 ||claim-dragon.firebaseapp.com^
-||claim-dragon.web.app^
 ||claim-dubbz.net^
 ||claim-eesee.com^
 ||claim-es.com^
@@ -1384,7 +1381,6 @@
 ||cyberdogecoin.org^
 ||cyberdogecoin.top^
 ||cyberlama.app^
-||cyberx-staging.vercel.app^
 ||d.appmooduyh.top^
 ||d.appmoodyhu8.top^
 ||d.moodyimkq.top^
@@ -2105,7 +2101,6 @@
 ||globalpaymentsvtw.com^
 ||globalpaymentsytww.com^
 ||globalshoptiktok.co^
-||gmesolana.com^
 ||gmn.dvrcam.info^
 ||gmnt.org^
 ||gmvendorbillinginterest.com^
@@ -2118,7 +2113,6 @@
 ||golbalpyaents.site^
 ||goldberg-trust.com^
 ||goldcloudglobal.world^
-||goldsolana.org^
 ||golem.gift^
 ||goltaa.com^
 ||gomble-gmm.xyz^
@@ -2324,7 +2318,6 @@
 ||immutabie.co^
 ||immutable.defi-community.com^
 ||immutablle.me^
-||imsvf.cc^
 ||imtoken-qw.pro^
 ||imx-news.com^
 ||imx.airdrop.cfd^
@@ -2474,7 +2467,6 @@
 ||jumpers.trading^
 ||jumperweb3.pro^
 ||jup-cases.trade^
-||jup222.com^
 ||jup444.com^
 ||jupairdrop.com^
 ||jupcase.io^
@@ -2600,7 +2592,6 @@
 ||layrocvisions.com^
 ||lbast.io^
 ||lcfmusb.cc^
-||ldofi-promos.com^
 ||learcorporativo.com^
 ||learn-unibot.app^
 ||ledger-wallet-ledger.biz^
@@ -3712,7 +3703,6 @@
 ||panacakeswap.tech^
 ||panasonic-in.com^
 ||pancacke-flnahce.org^
-||pancackeswap-claim.web.app^
 ||pancaikeswap.finance^
 ||pancakaswap-finance.xyz^
 ||pancakaswp-finance.com^
@@ -3732,7 +3722,6 @@
 ||pancake-swap45.vercel.app^
 ||pancake-swapfinance.pages.dev^
 ||pancake-swapfinances.pages.dev^
-||pancake-swapi.web.app^
 ||pancake-swapp.github.io^
 ||pancake-swaps-finance.pages.dev^
 ||pancake-swaps.org^
@@ -3853,7 +3842,6 @@
 ||pancakeswapv3.net^
 ||pancakeswapv4.com^
 ||pancakeswop.pages.dev^
-||pancakeswop.web.app^
 ||pancakeswpclaim55.vercel.app^
 ||pancakeswpclicks.vercel.app^
 ||pancakeswpdrop13.vercel.app^
@@ -4318,7 +4306,6 @@
 ||registration-basedbrett.com^
 ||registration-fantasy.top^
 ||registration-fantom.network^
-||registration-jup.ag^
 ||registration-linea.com^
 ||registration-zetachain.com^
 ||registry-blockgames.com^
@@ -4371,7 +4358,6 @@
 ||revoke-realio.com^
 ||revoke-tips.com^
 ||revoke-wallet.com^
-||revoke.host^
 ||revoke.plus^
 ||revokeca.com^
 ||revokeca.xyz^
@@ -4882,7 +4868,6 @@
 ||superbraves.info^
 ||superformxyz-rpcdebug.pages.dev^
 ||support-manta.pages.dev^
-||support-pancakeswaps.pages.dev^
 ||support-requires.com^
 ||support-ticket337826.com^
 ||support-ticket6753.com^
@@ -4911,7 +4896,6 @@
 ||swap-makerdao.net^
 ||swap-makerdao.org^
 ||swap.dikecoin.net^
-||swap.pancake.us.org^
 ||swap.uni-swapv4.com^
 ||swapcake.cc^
 ||swapdacake.com^
@@ -5720,7 +5704,6 @@
 ||www.asxhkd1.com^
 ||www.asxidn.com^
 ||www.asxopt.com^
-||www.ator.claimfree.xyz^
 ||www.auth-collab.net^
 ||www.axieinfinity-global.com^
 ||www.baoninpingan.com^
@@ -5941,7 +5924,6 @@
 ||www.resolve-mm.com^
 ||www.revoke-approvals.xyz.polarmates.top^
 ||www.revoke-wallet.com^
-||www.revoke-wallet.net^
 ||www.revokecash.store^
 ||www.revokecash.us^
 ||www.revokecontract.xyz^

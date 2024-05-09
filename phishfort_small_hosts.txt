@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  9 22:04:49 UTC 2024
+# PhishFort Small Domain List - Thu May  9 23:04:54 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6166
+# Number of Entries: 6148
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -37,7 +37,6 @@
 0.0.0.0 1lnch.network
 0.0.0.0 1yagodame.com
 0.0.0.0 2-fa-metmask.io
-0.0.0.0 2000usdc.net
 0.0.0.0 2024gmcsilverado.website
 0.0.0.0 24x7enterpriserental.agency
 0.0.0.0 25j0.cc
@@ -52,7 +51,6 @@
 0.0.0.0 32f79d9c.7cdb6f3702a09bbbd3afc136.workers.dev
 0.0.0.0 338465.kossuthneedshousing.com
 0.0.0.0 365cash.store
-0.0.0.0 3pzlywh.info
 0.0.0.0 3rdandtaylor.com
 0.0.0.0 407etr-paytrip.com
 0.0.0.0 407on.com
@@ -1062,7 +1060,6 @@
 0.0.0.0 claim-cake.web.app
 0.0.0.0 claim-dookeydash.com
 0.0.0.0 claim-dragon.firebaseapp.com
-0.0.0.0 claim-dragon.web.app
 0.0.0.0 claim-dubbz.net
 0.0.0.0 claim-eesee.com
 0.0.0.0 claim-es.com
@@ -1384,7 +1381,6 @@
 0.0.0.0 cyberdogecoin.org
 0.0.0.0 cyberdogecoin.top
 0.0.0.0 cyberlama.app
-0.0.0.0 cyberx-staging.vercel.app
 0.0.0.0 d.appmooduyh.top
 0.0.0.0 d.appmoodyhu8.top
 0.0.0.0 d.moodyimkq.top
@@ -2105,7 +2101,6 @@
 0.0.0.0 globalpaymentsvtw.com
 0.0.0.0 globalpaymentsytww.com
 0.0.0.0 globalshoptiktok.co
-0.0.0.0 gmesolana.com
 0.0.0.0 gmn.dvrcam.info
 0.0.0.0 gmnt.org
 0.0.0.0 gmvendorbillinginterest.com
@@ -2118,7 +2113,6 @@
 0.0.0.0 golbalpyaents.site
 0.0.0.0 goldberg-trust.com
 0.0.0.0 goldcloudglobal.world
-0.0.0.0 goldsolana.org
 0.0.0.0 golem.gift
 0.0.0.0 goltaa.com
 0.0.0.0 gomble-gmm.xyz
@@ -2324,7 +2318,6 @@
 0.0.0.0 immutabie.co
 0.0.0.0 immutable.defi-community.com
 0.0.0.0 immutablle.me
-0.0.0.0 imsvf.cc
 0.0.0.0 imtoken-qw.pro
 0.0.0.0 imx-news.com
 0.0.0.0 imx.airdrop.cfd
@@ -2474,7 +2467,6 @@
 0.0.0.0 jumpers.trading
 0.0.0.0 jumperweb3.pro
 0.0.0.0 jup-cases.trade
-0.0.0.0 jup222.com
 0.0.0.0 jup444.com
 0.0.0.0 jupairdrop.com
 0.0.0.0 jupcase.io
@@ -2600,7 +2592,6 @@
 0.0.0.0 layrocvisions.com
 0.0.0.0 lbast.io
 0.0.0.0 lcfmusb.cc
-0.0.0.0 ldofi-promos.com
 0.0.0.0 learcorporativo.com
 0.0.0.0 learn-unibot.app
 0.0.0.0 ledger-wallet-ledger.biz
@@ -3712,7 +3703,6 @@
 0.0.0.0 panacakeswap.tech
 0.0.0.0 panasonic-in.com
 0.0.0.0 pancacke-flnahce.org
-0.0.0.0 pancackeswap-claim.web.app
 0.0.0.0 pancaikeswap.finance
 0.0.0.0 pancakaswap-finance.xyz
 0.0.0.0 pancakaswp-finance.com
@@ -3732,7 +3722,6 @@
 0.0.0.0 pancake-swap45.vercel.app
 0.0.0.0 pancake-swapfinance.pages.dev
 0.0.0.0 pancake-swapfinances.pages.dev
-0.0.0.0 pancake-swapi.web.app
 0.0.0.0 pancake-swapp.github.io
 0.0.0.0 pancake-swaps-finance.pages.dev
 0.0.0.0 pancake-swaps.org
@@ -3853,7 +3842,6 @@
 0.0.0.0 pancakeswapv3.net
 0.0.0.0 pancakeswapv4.com
 0.0.0.0 pancakeswop.pages.dev
-0.0.0.0 pancakeswop.web.app
 0.0.0.0 pancakeswpclaim55.vercel.app
 0.0.0.0 pancakeswpclicks.vercel.app
 0.0.0.0 pancakeswpdrop13.vercel.app
@@ -4318,7 +4306,6 @@
 0.0.0.0 registration-basedbrett.com
 0.0.0.0 registration-fantasy.top
 0.0.0.0 registration-fantom.network
-0.0.0.0 registration-jup.ag
 0.0.0.0 registration-linea.com
 0.0.0.0 registration-zetachain.com
 0.0.0.0 registry-blockgames.com
@@ -4371,7 +4358,6 @@
 0.0.0.0 revoke-realio.com
 0.0.0.0 revoke-tips.com
 0.0.0.0 revoke-wallet.com
-0.0.0.0 revoke.host
 0.0.0.0 revoke.plus
 0.0.0.0 revokeca.com
 0.0.0.0 revokeca.xyz
@@ -4882,7 +4868,6 @@
 0.0.0.0 superbraves.info
 0.0.0.0 superformxyz-rpcdebug.pages.dev
 0.0.0.0 support-manta.pages.dev
-0.0.0.0 support-pancakeswaps.pages.dev
 0.0.0.0 support-requires.com
 0.0.0.0 support-ticket337826.com
 0.0.0.0 support-ticket6753.com
@@ -4911,7 +4896,6 @@
 0.0.0.0 swap-makerdao.net
 0.0.0.0 swap-makerdao.org
 0.0.0.0 swap.dikecoin.net
-0.0.0.0 swap.pancake.us.org
 0.0.0.0 swap.uni-swapv4.com
 0.0.0.0 swapcake.cc
 0.0.0.0 swapdacake.com
@@ -5720,7 +5704,6 @@
 0.0.0.0 www.asxhkd1.com
 0.0.0.0 www.asxidn.com
 0.0.0.0 www.asxopt.com
-0.0.0.0 www.ator.claimfree.xyz
 0.0.0.0 www.auth-collab.net
 0.0.0.0 www.axieinfinity-global.com
 0.0.0.0 www.baoninpingan.com
@@ -5941,7 +5924,6 @@
 0.0.0.0 www.resolve-mm.com
 0.0.0.0 www.revoke-approvals.xyz.polarmates.top
 0.0.0.0 www.revoke-wallet.com
-0.0.0.0 www.revoke-wallet.net
 0.0.0.0 www.revokecash.store
 0.0.0.0 www.revokecash.us
 0.0.0.0 www.revokecontract.xyz
