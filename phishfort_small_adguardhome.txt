@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  9 16:05:14 UTC 2024
+# PhishFort Small Domain List - Thu May  9 17:04:45 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6187
+# Number of Entries: 6175
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -309,7 +309,6 @@
 ||aleixogomes.com.br^
 ||algogold.com^
 ||all4whitelisted.pages.dev^
-||allenanna.com^
 ||allfixednodes.pages.dev^
 ||allied.newapponline.best^
 ||allied.online-portal.best^
@@ -350,7 +349,6 @@
 ||altlayre.cloud^
 ||altredx.com^
 ||altsidentifier.com^
-||altsignaltokens.com^
 ||ambires-event.com^
 ||ambitefinance.com^
 ||ambitefinance.eu^
@@ -459,7 +457,6 @@
 ||app.auth-v2.org^
 ||app.aìrtm.com^
 ||app.aỉrtm-2.com^
-||app.blastclaim.com^
 ||app.csv-airtm.com^
 ||app.defi-origin.com^
 ||app.earn-swellnetwork.com^
@@ -803,7 +800,6 @@
 ||blastof.eu^
 ||blastoffs.eu^
 ||blastreward.eu^
-||blastscore.xyz^
 ||blasttup.top^
 ||blastup-io.web.app^
 ||blastxs.com^
@@ -1152,6 +1148,7 @@
 ||claim.zeta.chain.wb3ox.xyz^
 ||claim.zksnyc.in^
 ||claim5-connect.live^
+||claimairdrop-slothana.pages.dev^
 ||claimairdropnow.com^
 ||claimairdropsaga.xyz^
 ||claimcakereward.pages.dev^
@@ -1470,7 +1467,6 @@
 ||dashboard-sol-fran8393.live^
 ||dashboard-spark.fi^
 ||dashboard-synthetix.net^
-||dashboardpixels.xyz^
 ||dashbprd-charli3.live^
 ||dashliquid.com^
 ||data-trustwallet.com^
@@ -1809,7 +1805,6 @@
 ||ethereum-wpos.club^
 ||ethereum.com.tr^
 ||ethereumgas.org^
-||ethereumgasfee.com^
 ||ethereummixer.cc^
 ||ethereumxfee.com^
 ||etherfi-airdrop.com^
@@ -1825,7 +1820,6 @@
 ||ethfi.global^
 ||ethfundg.xyz^
 ||ethgases.xyz^
-||ethgasrefund.net^
 ||ethibainu.network^
 ||ethmintairdrop.com^
 ||ethna.vip^
@@ -2271,7 +2265,6 @@
 ||housexysounds.com^
 ||hpwhmw10itwo.xyz^
 ||ht52ik.top^
-||https-loading.site^
 ||hub-injective-network.web.app^
 ||hubsoasys.games^
 ||hubuoasys-games.com^
@@ -2627,6 +2620,7 @@
 ||lenanet.work^
 ||lendingtree.website^
 ||lendingtree1.mydurable.com^
+||lendingtreecalifornia.com^
 ||lendingtreeincusa.com^
 ||lendingtreellc.org^
 ||lendingworld.online^
@@ -3597,7 +3591,6 @@
 ||ooderr.github.io^
 ||op-earn.xyz^
 ||op.coinslabs.top^
-||op.x500-drop.top^
 ||opebnsea.io^
 ||opemnsea.io^
 ||open-6lz.pages.dev^
@@ -3651,7 +3644,6 @@
 ||oprensea.io^
 ||ops-drop.live^
 ||opsecai-claim.com^
-||opsecc.software^
 ||opsecloud.com^
 ||optguen.com^
 ||optics-bridge.xyz^
@@ -4062,7 +4054,6 @@
 ||per-empower.com^
 ||per-empower.com.affiliateadvantageventures.com^
 ||peraxel.com^
-||perdashboard.online^
 ||perks-pepe.com^
 ||perponschainrewards.pages.dev^
 ||persistent.com.es^
@@ -4239,7 +4230,6 @@
 ||pythnetwork.claiming-airdrops.click^
 ||pythnetwork.claiming-connect.one^
 ||pythnetwork.claiming-link.site^
-||pythnetwork.link-claiming.xyz^
 ||pytlh-network.one^
 ||q5tn.cc^
 ||qbit-rewards.com^
@@ -4277,6 +4267,7 @@
 ||rango-exchange-r8n4.onrender.com^
 ||rarible-nft.com^
 ||rarible.quest^
+||rastreo-envia.com^
 ||rational-zerosolvosmartverse.pro^
 ||raydium.fun^
 ||raydium.lo.web3-connect.pw^
@@ -4408,7 +4399,6 @@
 ||revokenode.com^
 ||revokeu.cash^
 ||revweb3-access.pages.dev^
-||rewad.earnifin.com^
 ||reward-1inch.com^
 ||reward-layerzero.net^
 ||reward-paalai.finance^
@@ -4854,6 +4844,7 @@
 ||starkware.life^
 ||starkynet.com^
 ||starlight-finance.com^
+||starmissteenindia.com^
 ||starplumbingelectrical.com^
 ||starter-xyz.web.app^
 ||startknet.io^
@@ -4921,7 +4912,6 @@
 ||swagelokwa.com^
 ||swanchain-register-opennow.vercel.app^
 ||swanchain.vercel.app^
-||swancrypto.net^
 ||swap-defilama.com^
 ||swap-dev-git-fix-wc2-cowswap.vercel.app^
 ||swap-dev-git-nx-true-project-cowswap.vercel.app^
@@ -5239,7 +5229,6 @@
 ||umusicr.com^
 ||unapatches.com^
 ||unblock.pancakeswaapfinance.net^
-||unclaimeddrops.link-claiming.xyz^
 ||uni-swap-v4.web.app^
 ||uni.mrr7.za.com^
 ||uni.pro-coins.top^
@@ -5520,6 +5509,7 @@
 ||web3-manta.pages.dev^
 ||web3-metamask-gateway.com^
 ||web3-modenetwork.org^
+||web3-multichainfix.pages.dev^
 ||web3-pcsecosystem.com^
 ||web3-phantom.net^
 ||web3-phemex.com^
@@ -5765,10 +5755,8 @@
 ||www.chicfash.com^
 ||www.cizw4jh.tribunaledinola.net^
 ||www.claim-seda.site^
-||www.claim-topg.com^
 ||www.claim.magpiexyz.live^
 ||www.claimit-op.xyz^
-||www.claims-jupiter.com^
 ||www.claimsloth.com^
 ||www.clients-407etr.com^
 ||www.cloud-telephonie.net^

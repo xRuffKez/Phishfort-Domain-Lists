@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  9 16:05:14 UTC 2024
+# PhishFort Small Domain List - Thu May  9 17:04:45 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6187
+# Number of Entries: 6175
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -309,7 +309,6 @@
 0.0.0.0 aleixogomes.com.br
 0.0.0.0 algogold.com
 0.0.0.0 all4whitelisted.pages.dev
-0.0.0.0 allenanna.com
 0.0.0.0 allfixednodes.pages.dev
 0.0.0.0 allied.newapponline.best
 0.0.0.0 allied.online-portal.best
@@ -350,7 +349,6 @@
 0.0.0.0 altlayre.cloud
 0.0.0.0 altredx.com
 0.0.0.0 altsidentifier.com
-0.0.0.0 altsignaltokens.com
 0.0.0.0 ambires-event.com
 0.0.0.0 ambitefinance.com
 0.0.0.0 ambitefinance.eu
@@ -459,7 +457,6 @@
 0.0.0.0 app.auth-v2.org
 0.0.0.0 app.aìrtm.com
 0.0.0.0 app.aỉrtm-2.com
-0.0.0.0 app.blastclaim.com
 0.0.0.0 app.csv-airtm.com
 0.0.0.0 app.defi-origin.com
 0.0.0.0 app.earn-swellnetwork.com
@@ -803,7 +800,6 @@
 0.0.0.0 blastof.eu
 0.0.0.0 blastoffs.eu
 0.0.0.0 blastreward.eu
-0.0.0.0 blastscore.xyz
 0.0.0.0 blasttup.top
 0.0.0.0 blastup-io.web.app
 0.0.0.0 blastxs.com
@@ -1152,6 +1148,7 @@
 0.0.0.0 claim.zeta.chain.wb3ox.xyz
 0.0.0.0 claim.zksnyc.in
 0.0.0.0 claim5-connect.live
+0.0.0.0 claimairdrop-slothana.pages.dev
 0.0.0.0 claimairdropnow.com
 0.0.0.0 claimairdropsaga.xyz
 0.0.0.0 claimcakereward.pages.dev
@@ -1470,7 +1467,6 @@
 0.0.0.0 dashboard-sol-fran8393.live
 0.0.0.0 dashboard-spark.fi
 0.0.0.0 dashboard-synthetix.net
-0.0.0.0 dashboardpixels.xyz
 0.0.0.0 dashbprd-charli3.live
 0.0.0.0 dashliquid.com
 0.0.0.0 data-trustwallet.com
@@ -1809,7 +1805,6 @@
 0.0.0.0 ethereum-wpos.club
 0.0.0.0 ethereum.com.tr
 0.0.0.0 ethereumgas.org
-0.0.0.0 ethereumgasfee.com
 0.0.0.0 ethereummixer.cc
 0.0.0.0 ethereumxfee.com
 0.0.0.0 etherfi-airdrop.com
@@ -1825,7 +1820,6 @@
 0.0.0.0 ethfi.global
 0.0.0.0 ethfundg.xyz
 0.0.0.0 ethgases.xyz
-0.0.0.0 ethgasrefund.net
 0.0.0.0 ethibainu.network
 0.0.0.0 ethmintairdrop.com
 0.0.0.0 ethna.vip
@@ -2271,7 +2265,6 @@
 0.0.0.0 housexysounds.com
 0.0.0.0 hpwhmw10itwo.xyz
 0.0.0.0 ht52ik.top
-0.0.0.0 https-loading.site
 0.0.0.0 hub-injective-network.web.app
 0.0.0.0 hubsoasys.games
 0.0.0.0 hubuoasys-games.com
@@ -2627,6 +2620,7 @@
 0.0.0.0 lenanet.work
 0.0.0.0 lendingtree.website
 0.0.0.0 lendingtree1.mydurable.com
+0.0.0.0 lendingtreecalifornia.com
 0.0.0.0 lendingtreeincusa.com
 0.0.0.0 lendingtreellc.org
 0.0.0.0 lendingworld.online
@@ -3597,7 +3591,6 @@
 0.0.0.0 ooderr.github.io
 0.0.0.0 op-earn.xyz
 0.0.0.0 op.coinslabs.top
-0.0.0.0 op.x500-drop.top
 0.0.0.0 opebnsea.io
 0.0.0.0 opemnsea.io
 0.0.0.0 open-6lz.pages.dev
@@ -3651,7 +3644,6 @@
 0.0.0.0 oprensea.io
 0.0.0.0 ops-drop.live
 0.0.0.0 opsecai-claim.com
-0.0.0.0 opsecc.software
 0.0.0.0 opsecloud.com
 0.0.0.0 optguen.com
 0.0.0.0 optics-bridge.xyz
@@ -4062,7 +4054,6 @@
 0.0.0.0 per-empower.com
 0.0.0.0 per-empower.com.affiliateadvantageventures.com
 0.0.0.0 peraxel.com
-0.0.0.0 perdashboard.online
 0.0.0.0 perks-pepe.com
 0.0.0.0 perponschainrewards.pages.dev
 0.0.0.0 persistent.com.es
@@ -4239,7 +4230,6 @@
 0.0.0.0 pythnetwork.claiming-airdrops.click
 0.0.0.0 pythnetwork.claiming-connect.one
 0.0.0.0 pythnetwork.claiming-link.site
-0.0.0.0 pythnetwork.link-claiming.xyz
 0.0.0.0 pytlh-network.one
 0.0.0.0 q5tn.cc
 0.0.0.0 qbit-rewards.com
@@ -4277,6 +4267,7 @@
 0.0.0.0 rango-exchange-r8n4.onrender.com
 0.0.0.0 rarible-nft.com
 0.0.0.0 rarible.quest
+0.0.0.0 rastreo-envia.com
 0.0.0.0 rational-zerosolvosmartverse.pro
 0.0.0.0 raydium.fun
 0.0.0.0 raydium.lo.web3-connect.pw
@@ -4408,7 +4399,6 @@
 0.0.0.0 revokenode.com
 0.0.0.0 revokeu.cash
 0.0.0.0 revweb3-access.pages.dev
-0.0.0.0 rewad.earnifin.com
 0.0.0.0 reward-1inch.com
 0.0.0.0 reward-layerzero.net
 0.0.0.0 reward-paalai.finance
@@ -4854,6 +4844,7 @@
 0.0.0.0 starkware.life
 0.0.0.0 starkynet.com
 0.0.0.0 starlight-finance.com
+0.0.0.0 starmissteenindia.com
 0.0.0.0 starplumbingelectrical.com
 0.0.0.0 starter-xyz.web.app
 0.0.0.0 startknet.io
@@ -4921,7 +4912,6 @@
 0.0.0.0 swagelokwa.com
 0.0.0.0 swanchain-register-opennow.vercel.app
 0.0.0.0 swanchain.vercel.app
-0.0.0.0 swancrypto.net
 0.0.0.0 swap-defilama.com
 0.0.0.0 swap-dev-git-fix-wc2-cowswap.vercel.app
 0.0.0.0 swap-dev-git-nx-true-project-cowswap.vercel.app
@@ -5239,7 +5229,6 @@
 0.0.0.0 umusicr.com
 0.0.0.0 unapatches.com
 0.0.0.0 unblock.pancakeswaapfinance.net
-0.0.0.0 unclaimeddrops.link-claiming.xyz
 0.0.0.0 uni-swap-v4.web.app
 0.0.0.0 uni.mrr7.za.com
 0.0.0.0 uni.pro-coins.top
@@ -5520,6 +5509,7 @@
 0.0.0.0 web3-manta.pages.dev
 0.0.0.0 web3-metamask-gateway.com
 0.0.0.0 web3-modenetwork.org
+0.0.0.0 web3-multichainfix.pages.dev
 0.0.0.0 web3-pcsecosystem.com
 0.0.0.0 web3-phantom.net
 0.0.0.0 web3-phemex.com
@@ -5765,10 +5755,8 @@
 0.0.0.0 www.chicfash.com
 0.0.0.0 www.cizw4jh.tribunaledinola.net
 0.0.0.0 www.claim-seda.site
-0.0.0.0 www.claim-topg.com
 0.0.0.0 www.claim.magpiexyz.live
 0.0.0.0 www.claimit-op.xyz
-0.0.0.0 www.claims-jupiter.com
 0.0.0.0 www.claimsloth.com
 0.0.0.0 www.clients-407etr.com
 0.0.0.0 www.cloud-telephonie.net
