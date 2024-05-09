@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Thu May  9 21:05:34 UTC 2024
+# PhishFort Small Domain List - Thu May  9 22:04:49 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6168
+# Number of Entries: 6166
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2905,7 +2905,6 @@ matriica.vercel.app
 matrika.vercel.app
 maunemploymentcenter.com
 mavia-airdrop.club
-mavia-claim.top
 mavia-home.com
 mavia-web3.org
 mavia.bz
@@ -4320,7 +4319,6 @@ registration-fantasy.top
 registration-fantom.network
 registration-jup.ag
 registration-linea.com
-registration-wehavenohandle.com
 registration-zetachain.com
 registry-blockgames.com
 rehapp.xyz

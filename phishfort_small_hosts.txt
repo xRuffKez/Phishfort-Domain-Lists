@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  9 21:05:34 UTC 2024
+# PhishFort Small Domain List - Thu May  9 22:04:49 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6168
+# Number of Entries: 6166
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2906,7 +2906,6 @@
 0.0.0.0 matrika.vercel.app
 0.0.0.0 maunemploymentcenter.com
 0.0.0.0 mavia-airdrop.club
-0.0.0.0 mavia-claim.top
 0.0.0.0 mavia-home.com
 0.0.0.0 mavia-web3.org
 0.0.0.0 mavia.bz
@@ -4321,7 +4320,6 @@
 0.0.0.0 registration-fantom.network
 0.0.0.0 registration-jup.ag
 0.0.0.0 registration-linea.com
-0.0.0.0 registration-wehavenohandle.com
 0.0.0.0 registration-zetachain.com
 0.0.0.0 registry-blockgames.com
 0.0.0.0 rehapp.xyz
