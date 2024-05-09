@@ -1,13 +1,12 @@
-# PhishFort Small Domain List - Thu May  9 00:18:14 UTC 2024
+# PhishFort Small Domain List - Thu May  9 01:28:34 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6189
+# Number of Entries: 6188
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
 ||00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com^
 ||02nat.mypsx.net^
-||090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info^
 ||0pensea-click.vercel.app^
 ||0x4ee15erf903e2634abe0e.com^
 ||1-eu9.pages.dev^
@@ -1255,6 +1254,7 @@
 ||coingecko.kycregulatory.com^
 ||coingeckokyc.kycregulatory.com^
 ||coinlist-subsquids.vercel.app^
+||coinlist.fun^
 ||coinmainnets.com^
 ||coinmultiresolve.firebaseapp.com^
 ||coinmultiresolve.web.app^
@@ -1862,7 +1862,6 @@
 ||events-pandora.com^
 ||events-pendle.fi^
 ||events-polkadot.network^
-||evercoreassets.com^
 ||evercorecapitalgroup.com^
 ||evercoregmbh.com^
 ||evernode-airdrop.com^
@@ -5030,6 +5029,7 @@
 ||test-project-llfwf7bel-artemkk787-gmailcom.vercel.app^
 ||test.saf9gti25klom8xz79iyn2s.xyz^
 ||test.vortexcapitaltrade.com^
+||test3.amlbotscheck.site^
 ||testingdrxx.web.app^
 ||testnet-vm.web.app^
 ||tether-claim-usdt.online^
@@ -5225,7 +5225,6 @@
 ||ueplestaret.com^
 ||ufalmassuissat.com^
 ||uhcdapp-apply-srv-eligible.glitch.me^
-||uhcrecruit.com^
 ||uhcthankyou.com^
 ||uhrecruits.online^
 ||uimplmassa.com^

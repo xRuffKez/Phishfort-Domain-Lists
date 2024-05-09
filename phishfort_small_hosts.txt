@@ -1,13 +1,12 @@
-# PhishFort Small Domain List - Thu May  9 00:18:14 UTC 2024
+# PhishFort Small Domain List - Thu May  9 01:28:34 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6189
+# Number of Entries: 6188
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
 0.0.0.0 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 0.0.0.0 02nat.mypsx.net
-0.0.0.0 090000001-4mb4014-00073106b7c528-1qw7-495f-910skuiqqi30000.sffhgfh.info
 0.0.0.0 0pensea-click.vercel.app
 0.0.0.0 0x4ee15erf903e2634abe0e.com
 0.0.0.0 1-eu9.pages.dev
@@ -1255,6 +1254,7 @@
 0.0.0.0 coingecko.kycregulatory.com
 0.0.0.0 coingeckokyc.kycregulatory.com
 0.0.0.0 coinlist-subsquids.vercel.app
+0.0.0.0 coinlist.fun
 0.0.0.0 coinmainnets.com
 0.0.0.0 coinmultiresolve.firebaseapp.com
 0.0.0.0 coinmultiresolve.web.app
@@ -1862,7 +1862,6 @@
 0.0.0.0 events-pandora.com
 0.0.0.0 events-pendle.fi
 0.0.0.0 events-polkadot.network
-0.0.0.0 evercoreassets.com
 0.0.0.0 evercorecapitalgroup.com
 0.0.0.0 evercoregmbh.com
 0.0.0.0 evernode-airdrop.com
@@ -5030,6 +5029,7 @@
 0.0.0.0 test-project-llfwf7bel-artemkk787-gmailcom.vercel.app
 0.0.0.0 test.saf9gti25klom8xz79iyn2s.xyz
 0.0.0.0 test.vortexcapitaltrade.com
+0.0.0.0 test3.amlbotscheck.site
 0.0.0.0 testingdrxx.web.app
 0.0.0.0 testnet-vm.web.app
 0.0.0.0 tether-claim-usdt.online
@@ -5225,7 +5225,6 @@
 0.0.0.0 ueplestaret.com
 0.0.0.0 ufalmassuissat.com
 0.0.0.0 uhcdapp-apply-srv-eligible.glitch.me
-0.0.0.0 uhcrecruit.com
 0.0.0.0 uhcthankyou.com
 0.0.0.0 uhrecruits.online
 0.0.0.0 uimplmassa.com
