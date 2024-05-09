@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Thu May  9 18:02:17 UTC 2024
+# PhishFort Full Domain List - Thu May  9 19:01:50 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109341
+# Number of Entries: 109344
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -14688,6 +14688,7 @@ briofex.com
 brivnarnce.com
 brldgeharmone.org
 brldgemantle.com
+brldgewanchaln.org
 brldgmantle.com
 brm.10000eth-gift.com
 broad-side.xyz
@@ -69913,6 +69914,8 @@ pcbkcominstpay-001-site1.gtempurl.com
 pcccareer.com
 pcci.top
 pcdealnets.com
+pcdefimy.com
+pcearnweb3.com
 pceme.cc
 pcertification.xyz
 pchocoishoes2.gq
