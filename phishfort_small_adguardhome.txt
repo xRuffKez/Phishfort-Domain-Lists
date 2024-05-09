@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  9 03:05:19 UTC 2024
+# PhishFort Small Domain List - Thu May  9 04:06:09 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6188
+# Number of Entries: 6189
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3341,7 +3341,6 @@
 ||myetherwalmet.com^
 ||myfirstproject.pages.dev^
 ||mygoemployerthesaw.com^
-||myjuppy-box.com^
 ||myjuppy-box.trade^
 ||mymetamasklogin.com^
 ||mymoneronline.info^
@@ -3737,6 +3736,7 @@
 ||pancakaswp-finance.com^
 ||pancakaswp-finance.xyz^
 ||pancake-clalm.xyz^
+||pancake-finance-swaps.pages.dev^
 ||pancake-frontend-9urm4h6ap-chefilip.vercel.app^
 ||pancake-frontend-flznr5rp3-chefilip.vercel.app^
 ||pancake-ifo.pages.dev^
@@ -3791,6 +3791,7 @@
 ||pancakeopenclaim15.vercel.app^
 ||pancakepromos.lol^
 ||pancakeprotectors.pages.dev^
+||pancakes-swaps.pages.dev^
 ||pancakesawpifnance.com^
 ||pancakesdropcclaims36.vercel.app^
 ||pancakesfinances-swap.pages.dev^

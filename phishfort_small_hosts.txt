@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  9 03:05:19 UTC 2024
+# PhishFort Small Domain List - Thu May  9 04:06:09 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6188
+# Number of Entries: 6189
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3341,7 +3341,6 @@
 0.0.0.0 myetherwalmet.com
 0.0.0.0 myfirstproject.pages.dev
 0.0.0.0 mygoemployerthesaw.com
-0.0.0.0 myjuppy-box.com
 0.0.0.0 myjuppy-box.trade
 0.0.0.0 mymetamasklogin.com
 0.0.0.0 mymoneronline.info
@@ -3737,6 +3736,7 @@
 0.0.0.0 pancakaswp-finance.com
 0.0.0.0 pancakaswp-finance.xyz
 0.0.0.0 pancake-clalm.xyz
+0.0.0.0 pancake-finance-swaps.pages.dev
 0.0.0.0 pancake-frontend-9urm4h6ap-chefilip.vercel.app
 0.0.0.0 pancake-frontend-flznr5rp3-chefilip.vercel.app
 0.0.0.0 pancake-ifo.pages.dev
@@ -3791,6 +3791,7 @@
 0.0.0.0 pancakeopenclaim15.vercel.app
 0.0.0.0 pancakepromos.lol
 0.0.0.0 pancakeprotectors.pages.dev
+0.0.0.0 pancakes-swaps.pages.dev
 0.0.0.0 pancakesawpifnance.com
 0.0.0.0 pancakesdropcclaims36.vercel.app
 0.0.0.0 pancakesfinances-swap.pages.dev
