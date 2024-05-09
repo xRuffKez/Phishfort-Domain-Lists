@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  9 18:05:01 UTC 2024
+# PhishFort Small Domain List - Thu May  9 19:04:36 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6167
+# Number of Entries: 6170
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -880,6 +880,7 @@
 0.0.0.0 bridgermrk.app
 0.0.0.0 brldgeharmone.org
 0.0.0.0 brldgemantle.com
+0.0.0.0 brldgewanchaln.org
 0.0.0.0 brldgmantle.com
 0.0.0.0 broscogrp.com
 0.0.0.0 browserkitchen.com
@@ -3990,6 +3991,8 @@
 0.0.0.0 paywithklarna.de
 0.0.0.0 pc.dbrslimited.com
 0.0.0.0 pcasiapool.com
+0.0.0.0 pcdefimy.com
+0.0.0.0 pcearnweb3.com
 0.0.0.0 pceme.cc
 0.0.0.0 pckweb3-platform.com
 0.0.0.0 pcs-cakexdefi.com
