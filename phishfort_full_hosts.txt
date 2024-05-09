@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  9 10:02:23 UTC 2024
+# PhishFort Full Domain List - Thu May  9 11:02:13 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109316
+# Number of Entries: 109324
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -13095,6 +13095,7 @@
 0.0.0.0 bllur.co
 0.0.0.0 bllur.net
 0.0.0.0 bllur.xyz
+0.0.0.0 blmbrdoo.pages.dev
 0.0.0.0 blnance.org
 0.0.0.0 blnnance.com
 0.0.0.0 blocckchainn.com
@@ -15418,6 +15419,7 @@
 0.0.0.0 bvlgari.buzz
 0.0.0.0 bvrefe.pages.dev
 0.0.0.0 bvu6p.ljwltg.com
+0.0.0.0 bvutyf.pages.dev
 0.0.0.0 bvuvs.info
 0.0.0.0 bvvvvvw-metamas.top
 0.0.0.0 bvvvwv-metamas.top
@@ -40423,6 +40425,7 @@
 0.0.0.0 incwalletvalidates.net
 0.0.0.0 ind.millemniumbcp-pt.com
 0.0.0.0 indadax.com
+0.0.0.0 indeconnec.pages.dev
 0.0.0.0 indecstokcog.com
 0.0.0.0 indeed.rentcharm.best
 0.0.0.0 indeedindiarecruitment.com
@@ -80727,6 +80730,7 @@
 0.0.0.0 smartlayer-drop.net
 0.0.0.0 smartlayer-drops.com
 0.0.0.0 smartlinkrectifier.info
+0.0.0.0 smartliquidify.pages.dev
 0.0.0.0 smartlivechain.com
 0.0.0.0 smartliveconnect.org
 0.0.0.0 smartliveioapps.com
@@ -87459,6 +87463,8 @@
 0.0.0.0 tonkeeeper.com
 0.0.0.0 tonkeeer.com
 0.0.0.0 tonkeeoer.com
+0.0.0.0 tonkeep.net
+0.0.0.0 tonkeep.org
 0.0.0.0 tonkeepe.com
 0.0.0.0 tonkeepee.com
 0.0.0.0 tonkeepeer.com
@@ -95970,6 +95976,7 @@
 0.0.0.0 web-blockfix-online.com
 0.0.0.0 web-blocks-core-fix.com
 0.0.0.0 web-blocksfixx-online.com
+0.0.0.0 web-bugfix.pages.dev
 0.0.0.0 web-coinsbit-wallet.ga
 0.0.0.0 web-coinsbit-wallet.gq
 0.0.0.0 web-coinsbit-wallet.ml
@@ -99588,6 +99595,7 @@
 0.0.0.0 www.charlottjunkowalsh.com
 0.0.0.0 www.charting-view.co
 0.0.0.0 www.chatpgt-trader.com
+0.0.0.0 www.chauinilst.org
 0.0.0.0 www.checkmatesnft.xyz
 0.0.0.0 www.cherryaerospace.com.cn
 0.0.0.0 www.chibiheadnft.com

@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  9 10:02:23 UTC 2024
+# PhishFort Full Domain List - Thu May  9 11:02:13 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109316
+# Number of Entries: 109324
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -13095,6 +13095,7 @@
 ||bllur.co^
 ||bllur.net^
 ||bllur.xyz^
+||blmbrdoo.pages.dev^
 ||blnance.org^
 ||blnnance.com^
 ||blocckchainn.com^
@@ -15418,6 +15419,7 @@
 ||bvlgari.buzz^
 ||bvrefe.pages.dev^
 ||bvu6p.ljwltg.com^
+||bvutyf.pages.dev^
 ||bvuvs.info^
 ||bvvvvvw-metamas.top^
 ||bvvvwv-metamas.top^
@@ -40423,6 +40425,7 @@
 ||incwalletvalidates.net^
 ||ind.millemniumbcp-pt.com^
 ||indadax.com^
+||indeconnec.pages.dev^
 ||indecstokcog.com^
 ||indeed.rentcharm.best^
 ||indeedindiarecruitment.com^
@@ -80727,6 +80730,7 @@
 ||smartlayer-drop.net^
 ||smartlayer-drops.com^
 ||smartlinkrectifier.info^
+||smartliquidify.pages.dev^
 ||smartlivechain.com^
 ||smartliveconnect.org^
 ||smartliveioapps.com^
@@ -87459,6 +87463,8 @@
 ||tonkeeeper.com^
 ||tonkeeer.com^
 ||tonkeeoer.com^
+||tonkeep.net^
+||tonkeep.org^
 ||tonkeepe.com^
 ||tonkeepee.com^
 ||tonkeepeer.com^
@@ -95970,6 +95976,7 @@
 ||web-blockfix-online.com^
 ||web-blocks-core-fix.com^
 ||web-blocksfixx-online.com^
+||web-bugfix.pages.dev^
 ||web-coinsbit-wallet.ga^
 ||web-coinsbit-wallet.gq^
 ||web-coinsbit-wallet.ml^
@@ -99588,6 +99595,7 @@
 ||www.charlottjunkowalsh.com^
 ||www.charting-view.co^
 ||www.chatpgt-trader.com^
+||www.chauinilst.org^
 ||www.checkmatesnft.xyz^
 ||www.cherryaerospace.com.cn^
 ||www.chibiheadnft.com^
