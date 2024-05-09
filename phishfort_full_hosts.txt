@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May  8 23:02:10 UTC 2024
+# PhishFort Full Domain List - Thu May  9 00:06:32 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109306
+# Number of Entries: 109310
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -53343,6 +53343,7 @@
 0.0.0.0 mew-ehterwallat.com
 0.0.0.0 mew-myetherwallet.com
 0.0.0.0 mew-offlclal.info
+0.0.0.0 mew-portfolio.web.app
 0.0.0.0 mew-wallet.blogspot.com
 0.0.0.0 mew-wallet.com
 0.0.0.0 mew-wallet.net
@@ -84152,6 +84153,7 @@
 0.0.0.0 sw3rm-world.com
 0.0.0.0 sw3rm.com
 0.0.0.0 swaapy.network
+0.0.0.0 swagelokwa.com
 0.0.0.0 swagga.freemiting.cyou
 0.0.0.0 swagganft-mint.pdma.io
 0.0.0.0 swaggywhales.free-link.co
@@ -97194,6 +97196,7 @@
 0.0.0.0 whop-connect.live
 0.0.0.0 whops.xyz
 0.0.0.0 whsir.io
+0.0.0.0 whtl-smartsheet.web.app
 0.0.0.0 wi-31.onrender.com
 0.0.0.0 wi.notifier.selfip.org
 0.0.0.0 wi789.vip
@@ -104961,6 +104964,7 @@
 0.0.0.0 www.verificationmetamask.com
 0.0.0.0 www.verificationnoticemetamsk.duckdns.org
 0.0.0.0 www.verificationserver.cloud
+0.0.0.0 www.verifone-entire.com
 0.0.0.0 www.verifoneentire.com
 0.0.0.0 www.verify-collab-land.com
 0.0.0.0 www.verify-collabland.com
