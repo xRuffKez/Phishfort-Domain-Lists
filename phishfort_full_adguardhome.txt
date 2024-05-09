@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  9 05:01:56 UTC 2024
+# PhishFort Full Domain List - Thu May  9 06:02:20 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109314
+# Number of Entries: 109315
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -48154,6 +48154,7 @@
 ||maker.migrate.tools^
 ||makeradao.com^
 ||makerdaicoin.com^
+||makerdao-ai.com^
 ||makerdao-airdrop.pages.dev^
 ||makerdao-claim.com^
 ||makerdao-dropcampaigns.com^
