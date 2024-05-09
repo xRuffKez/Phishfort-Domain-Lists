@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Thu May  9 15:05:25 UTC 2024
+# PhishFort Small Domain List - Thu May  9 16:05:14 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6185
+# Number of Entries: 6187
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1669,6 +1669,7 @@ dynamicvisionmanagement.com
 dyvmemsion.xyz
 e-linea.com
 e-then-a.fun
+e-tradefxmarket.com
 e4d600ab9141b7a9859511c77e63b9b3.com
 e4mu.pro
 e4utbp2.cc
@@ -2544,6 +2545,7 @@ kier-group.co.uk
 kier-uk.com
 kiergroup.info
 kitty-inu-dao.com
+kivzag.online
 klarnacasino.nl
 klarnafestival.pt
 klarnaitalysrl.welfare.it

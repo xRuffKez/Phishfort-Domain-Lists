@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  9 15:05:25 UTC 2024
+# PhishFort Small Domain List - Thu May  9 16:05:14 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6185
+# Number of Entries: 6187
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1670,6 +1670,7 @@
 0.0.0.0 dyvmemsion.xyz
 0.0.0.0 e-linea.com
 0.0.0.0 e-then-a.fun
+0.0.0.0 e-tradefxmarket.com
 0.0.0.0 e4d600ab9141b7a9859511c77e63b9b3.com
 0.0.0.0 e4mu.pro
 0.0.0.0 e4utbp2.cc
@@ -2545,6 +2546,7 @@
 0.0.0.0 kier-uk.com
 0.0.0.0 kiergroup.info
 0.0.0.0 kitty-inu-dao.com
+0.0.0.0 kivzag.online
 0.0.0.0 klarnacasino.nl
 0.0.0.0 klarnafestival.pt
 0.0.0.0 klarnaitalysrl.welfare.it
