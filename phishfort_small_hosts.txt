@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  9 14:05:43 UTC 2024
+# PhishFort Small Domain List - Thu May  9 15:05:25 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6191
+# Number of Entries: 6185
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -136,7 +136,6 @@
 0.0.0.0 accretivetechnologygroupcareers.com
 0.0.0.0 acdbcml3.wildcatexpressdelivery.com
 0.0.0.0 acecoins.pro
-0.0.0.0 acefusionist.network
 0.0.0.0 achtama.info
 0.0.0.0 acquaintrecurrence.top
 0.0.0.0 acrosss-bridge.xyz
@@ -287,7 +286,6 @@
 0.0.0.0 airdropvalidate.web.app
 0.0.0.0 airhopper-review.com
 0.0.0.0 airhopper-reviews.com
-0.0.0.0 airhopperreviews.com
 0.0.0.0 airjetfly.online.swiftplumbingsolutions.online
 0.0.0.0 airlinesmanagebooking.com
 0.0.0.0 airmexc.life
@@ -1184,6 +1182,7 @@
 0.0.0.0 claimzeriondapps.pages.dev
 0.0.0.0 clarckconstruction.com
 0.0.0.0 clark-constructions.org
+0.0.0.0 clarkconstr.com
 0.0.0.0 clarkcorstruction.com
 0.0.0.0 clarkgroup-us.co
 0.0.0.0 claynosaurz-nft.web.app
@@ -1477,6 +1476,7 @@
 0.0.0.0 data-trustwallet.com
 0.0.0.0 dataownership-verification.vercel.app
 0.0.0.0 dataownership-verify-open.vercel.app
+0.0.0.0 davicupo.site
 0.0.0.0 daviplatanotific.webcindario.com
 0.0.0.0 daviplataseeg.webcindario.com
 0.0.0.0 davitahealthcarepartners.com
@@ -1557,6 +1557,7 @@
 0.0.0.0 detma-secure.insystdetmaa.in
 0.0.0.0 detmassonline.com
 0.0.0.0 detnmama.com
+0.0.0.0 dev-nanocredito-daviplata.pantheonsite.io
 0.0.0.0 dev.heliuswork.com
 0.0.0.0 devapp.pages.dev
 0.0.0.0 devicaeccess.co.uk
@@ -1578,7 +1579,6 @@
 0.0.0.0 dg1ph.pro
 0.0.0.0 dhk6y.cc
 0.0.0.0 diamondhand.pages.dev
-0.0.0.0 diamondhands-ethereum.web.app
 0.0.0.0 digitaldefi.pro
 0.0.0.0 digitalsec.mypsx.net
 0.0.0.0 digitoads.cc
@@ -1657,6 +1657,7 @@
 0.0.0.0 dumb-coin.fun
 0.0.0.0 durexwalletbridge.co.za
 0.0.0.0 dvhuh.pages.dev
+0.0.0.0 dvvnda.com
 0.0.0.0 dydconnect.click
 0.0.0.0 dydxdao.net
 0.0.0.0 dykemagosettantoney.online
@@ -2364,7 +2365,6 @@
 0.0.0.0 inspect-crypto.firebaseapp.com
 0.0.0.0 inspect-crypto.web.app
 0.0.0.0 inspireaj.com
-0.0.0.0 instadapp.app
 0.0.0.0 instant-bravet.info
 0.0.0.0 instant-stake.com
 0.0.0.0 insuarenmaul.com
@@ -2553,7 +2553,6 @@
 0.0.0.0 klarnashop.cc
 0.0.0.0 klarnashop.vip
 0.0.0.0 klkhg-11g.pages.dev
-0.0.0.0 kmaber.site
 0.0.0.0 kohafil.com
 0.0.0.0 kpnmg.net
 0.0.0.0 kraken-site-darknet1.com
@@ -3349,7 +3348,6 @@
 0.0.0.0 myob.tax
 0.0.0.0 myobcollabs.pro
 0.0.0.0 mypivalidations.com
-0.0.0.0 mypsegconnect.com
 0.0.0.0 myria-game.com
 0.0.0.0 mysecond.mypsx.net
 0.0.0.0 mysonicwall.ir
@@ -3637,7 +3635,6 @@
 0.0.0.0 openseaproject83.vercel.app
 0.0.0.0 openseaprojectnft.vercel.app
 0.0.0.0 opensearbox.vercel.app
-0.0.0.0 openseek.xyz
 0.0.0.0 opensenft.vercel.app
 0.0.0.0 openseraffle.com
 0.0.0.0 opensesa.io
@@ -3999,7 +3996,6 @@
 0.0.0.0 paylocily.com
 0.0.0.0 paylocity-sso.com
 0.0.0.0 paylooity.com
-0.0.0.0 payment-etr407.com
 0.0.0.0 payment407etr.com
 0.0.0.0 payrollfrommyhel.com
 0.0.0.0 paytoll-407etr.com
@@ -4103,7 +4099,6 @@
 0.0.0.0 pixelsapp-play.xyz
 0.0.0.0 pixelscoin.com
 0.0.0.0 pixelsgame.world
-0.0.0.0 pixsmart-tv.com
 0.0.0.0 pixxelnft.eu
 0.0.0.0 pl.xpiym.shop
 0.0.0.0 pl.zkndv.club
@@ -4270,7 +4265,6 @@
 0.0.0.0 radar-dapp.dev
 0.0.0.0 radix.gift
 0.0.0.0 raffleopnsea.com
-0.0.0.0 raffleusdc.com
 0.0.0.0 raiffeisenfast.com
 0.0.0.0 rainbow.trading
 0.0.0.0 rainy.synology-ds.de
@@ -4312,7 +4306,6 @@
 0.0.0.0 refund.wallstretmemes.app
 0.0.0.0 reg-etherfi.app
 0.0.0.0 reg-metis.io
-0.0.0.0 reg-pandora.network
 0.0.0.0 reg-shib.com
 0.0.0.0 reg-shido.app
 0.0.0.0 regdioneprotocol.com
@@ -4648,7 +4641,6 @@
 0.0.0.0 shirbclaime.netlify.app
 0.0.0.0 shirbreward.netlify.app
 0.0.0.0 shjq3rw.cc
-0.0.0.0 shlba-3.live
 0.0.0.0 shop-morganwallenmerch.com
 0.0.0.0 shop-taylorswift.com
 0.0.0.0 shoptiktok.club
@@ -5721,6 +5713,7 @@
 0.0.0.0 www.app-portal-wps-personas.cc
 0.0.0.0 www.app.defi-connect.xyz
 0.0.0.0 www.app.trust-reward.live
+0.0.0.0 www.appersonalesingresohome.com
 0.0.0.0 www.applovin.club
 0.0.0.0 www.applovin.pro
 0.0.0.0 www.appscallop.io
@@ -5797,6 +5790,7 @@
 0.0.0.0 www.eigenlaver.magpiexyz.site
 0.0.0.0 www.elettrovisiongroup.com
 0.0.0.0 www.emidiscount.top
+0.0.0.0 www.empassetsmanagement.com
 0.0.0.0 www.empowerwealth.biz
 0.0.0.0 www.estoer.top
 0.0.0.0 www.ethena.finance

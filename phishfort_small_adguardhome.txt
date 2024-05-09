@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  9 14:05:43 UTC 2024
+# PhishFort Small Domain List - Thu May  9 15:05:25 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6191
+# Number of Entries: 6185
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -136,7 +136,6 @@
 ||accretivetechnologygroupcareers.com^
 ||acdbcml3.wildcatexpressdelivery.com^
 ||acecoins.pro^
-||acefusionist.network^
 ||achtama.info^
 ||acquaintrecurrence.top^
 ||acrosss-bridge.xyz^
@@ -287,7 +286,6 @@
 ||airdropvalidate.web.app^
 ||airhopper-review.com^
 ||airhopper-reviews.com^
-||airhopperreviews.com^
 ||airjetfly.online.swiftplumbingsolutions.online^
 ||airlinesmanagebooking.com^
 ||airmexc.life^
@@ -1184,6 +1182,7 @@
 ||claimzeriondapps.pages.dev^
 ||clarckconstruction.com^
 ||clark-constructions.org^
+||clarkconstr.com^
 ||clarkcorstruction.com^
 ||clarkgroup-us.co^
 ||claynosaurz-nft.web.app^
@@ -1477,6 +1476,7 @@
 ||data-trustwallet.com^
 ||dataownership-verification.vercel.app^
 ||dataownership-verify-open.vercel.app^
+||davicupo.site^
 ||daviplatanotific.webcindario.com^
 ||daviplataseeg.webcindario.com^
 ||davitahealthcarepartners.com^
@@ -1557,6 +1557,7 @@
 ||detma-secure.insystdetmaa.in^
 ||detmassonline.com^
 ||detnmama.com^
+||dev-nanocredito-daviplata.pantheonsite.io^
 ||dev.heliuswork.com^
 ||devapp.pages.dev^
 ||devicaeccess.co.uk^
@@ -1578,7 +1579,6 @@
 ||dg1ph.pro^
 ||dhk6y.cc^
 ||diamondhand.pages.dev^
-||diamondhands-ethereum.web.app^
 ||digitaldefi.pro^
 ||digitalsec.mypsx.net^
 ||digitoads.cc^
@@ -1657,6 +1657,7 @@
 ||dumb-coin.fun^
 ||durexwalletbridge.co.za^
 ||dvhuh.pages.dev^
+||dvvnda.com^
 ||dydconnect.click^
 ||dydxdao.net^
 ||dykemagosettantoney.online^
@@ -2364,7 +2365,6 @@
 ||inspect-crypto.firebaseapp.com^
 ||inspect-crypto.web.app^
 ||inspireaj.com^
-||instadapp.app^
 ||instant-bravet.info^
 ||instant-stake.com^
 ||insuarenmaul.com^
@@ -2553,7 +2553,6 @@
 ||klarnashop.cc^
 ||klarnashop.vip^
 ||klkhg-11g.pages.dev^
-||kmaber.site^
 ||kohafil.com^
 ||kpnmg.net^
 ||kraken-site-darknet1.com^
@@ -3349,7 +3348,6 @@
 ||myob.tax^
 ||myobcollabs.pro^
 ||mypivalidations.com^
-||mypsegconnect.com^
 ||myria-game.com^
 ||mysecond.mypsx.net^
 ||mysonicwall.ir^
@@ -3637,7 +3635,6 @@
 ||openseaproject83.vercel.app^
 ||openseaprojectnft.vercel.app^
 ||opensearbox.vercel.app^
-||openseek.xyz^
 ||opensenft.vercel.app^
 ||openseraffle.com^
 ||opensesa.io^
@@ -3999,7 +3996,6 @@
 ||paylocily.com^
 ||paylocity-sso.com^
 ||paylooity.com^
-||payment-etr407.com^
 ||payment407etr.com^
 ||payrollfrommyhel.com^
 ||paytoll-407etr.com^
@@ -4103,7 +4099,6 @@
 ||pixelsapp-play.xyz^
 ||pixelscoin.com^
 ||pixelsgame.world^
-||pixsmart-tv.com^
 ||pixxelnft.eu^
 ||pl.xpiym.shop^
 ||pl.zkndv.club^
@@ -4270,7 +4265,6 @@
 ||radar-dapp.dev^
 ||radix.gift^
 ||raffleopnsea.com^
-||raffleusdc.com^
 ||raiffeisenfast.com^
 ||rainbow.trading^
 ||rainy.synology-ds.de^
@@ -4312,7 +4306,6 @@
 ||refund.wallstretmemes.app^
 ||reg-etherfi.app^
 ||reg-metis.io^
-||reg-pandora.network^
 ||reg-shib.com^
 ||reg-shido.app^
 ||regdioneprotocol.com^
@@ -4648,7 +4641,6 @@
 ||shirbclaime.netlify.app^
 ||shirbreward.netlify.app^
 ||shjq3rw.cc^
-||shlba-3.live^
 ||shop-morganwallenmerch.com^
 ||shop-taylorswift.com^
 ||shoptiktok.club^
@@ -5721,6 +5713,7 @@
 ||www.app-portal-wps-personas.cc^
 ||www.app.defi-connect.xyz^
 ||www.app.trust-reward.live^
+||www.appersonalesingresohome.com^
 ||www.applovin.club^
 ||www.applovin.pro^
 ||www.appscallop.io^
@@ -5797,6 +5790,7 @@
 ||www.eigenlaver.magpiexyz.site^
 ||www.elettrovisiongroup.com^
 ||www.emidiscount.top^
+||www.empassetsmanagement.com^
 ||www.empowerwealth.biz^
 ||www.estoer.top^
 ||www.ethena.finance^
