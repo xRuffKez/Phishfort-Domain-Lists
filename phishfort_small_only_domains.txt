@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Thu May  9 10:05:56 UTC 2024
+# PhishFort Small Domain List - Thu May  9 11:04:54 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6183
+# Number of Entries: 6190
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -817,6 +817,7 @@ blendrrnetwork.org
 blendswaps.xyz
 blknoiz06.net
 bllaast.com
+blmbrdoo.pages.dev
 blockchain-node-beta.vercel.app
 blockchaindapp-dri.pages.dev
 blockchaindapp.pro
@@ -908,6 +909,7 @@ buy.scottyai.org
 buy1inch.org
 buzz-bsquared.store
 buzz.bsquareed.online
+bvutyf.pages.dev
 bvuvs.info
 bwflexibiesystems.com
 by-pay.net
@@ -2335,6 +2337,7 @@ imx.airdrop.cfd
 imxcoin.eu
 inaallert.com
 incsribe.app
+indeconnec.pages.dev
 infiniteworks.net
 ing-bank.info
 ingb.online
@@ -4718,6 +4721,7 @@ smartiayer.org
 smartlayer-drop.com
 smartlayer-drop.net
 smartlayer-drops.com
+smartliquidify.pages.dev
 smartrectification.pages.dev
 smartrevokenet.vercel.app
 smartsheetusa.team
@@ -4939,7 +4943,6 @@ swapdao.app
 swapdly.javaswap.io
 swapify.exchange
 swapnet.pages.dev
-swappancake.wtf
 swaptoken1inch.org
 swatches-vulcan.xyz
 sweatsync.pages.dev
@@ -5113,6 +5116,8 @@ tonjeeper.com
 tonkeeeper.com
 tonkeeer.com
 tonkeeoer.com
+tonkeep.net
+tonkeep.org
 tonkeepe.com
 tonkeepee.com
 tonkeepeer.com
@@ -5502,6 +5507,7 @@ wclaiming.net
 wcryptoeslogins.azurewebsites.net
 wdymcrypto-migration.app
 web-airtm.com
+web-bugfix.pages.dev
 web-defillama.com
 web-metamesklogin.uteach.io
 web.fixsolution.io
@@ -5758,6 +5764,7 @@ www.cakes-reward.xyz
 www.catholicf-la.org
 www.cbrevokedapp.org
 www.celerswap.top
+www.chauinilst.org
 www.chicfash.com
 www.cizw4jh.tribunaledinola.net
 www.claim-seda.site
