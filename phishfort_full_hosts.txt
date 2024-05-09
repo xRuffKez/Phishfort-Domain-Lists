@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  9 16:01:58 UTC 2024
+# PhishFort Full Domain List - Thu May  9 17:02:05 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109332
+# Number of Entries: 109337
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -17691,6 +17691,7 @@
 0.0.0.0 claim500.tech
 0.0.0.0 claim500crypto.top
 0.0.0.0 claimable-web3.net
+0.0.0.0 claimairdrop-slothana.pages.dev
 0.0.0.0 claimairdropnft.com
 0.0.0.0 claimairdropnow.com
 0.0.0.0 claimairdrops.com
@@ -44304,6 +44305,7 @@
 0.0.0.0 lendingtree.website
 0.0.0.0 lendingtree01.netlify.app
 0.0.0.0 lendingtree1.mydurable.com
+0.0.0.0 lendingtreecalifornia.com
 0.0.0.0 lendingtreee.in
 0.0.0.0 lendingtreefin.club
 0.0.0.0 lendingtreefinance.info
@@ -74948,6 +74950,7 @@
 0.0.0.0 rarrible-nft.us
 0.0.0.0 rarvible.us
 0.0.0.0 rascalsnft.web.app
+0.0.0.0 rastreo-envia.com
 0.0.0.0 ratdium.io
 0.0.0.0 ratefairdoor.com
 0.0.0.0 ratelage.repl.co
@@ -82867,6 +82870,7 @@
 0.0.0.0 starlofficial.xyz
 0.0.0.0 starlproject.claims
 0.0.0.0 starltoken.com
+0.0.0.0 starmissteenindia.com
 0.0.0.0 starotlas.co
 0.0.0.0 starplumbingelectrical.com
 0.0.0.0 starpunksupport.online
@@ -96257,6 +96261,7 @@
 0.0.0.0 web3-mint.live
 0.0.0.0 web3-modenetwork.org
 0.0.0.0 web3-multichain-dapp.xyz
+0.0.0.0 web3-multichainfix.pages.dev
 0.0.0.0 web3-multiverse.dappz.one
 0.0.0.0 web3-nftpad.com
 0.0.0.0 web3-node-app.netlify.app

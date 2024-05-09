@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  9 16:01:58 UTC 2024
+# PhishFort Full Domain List - Thu May  9 17:02:05 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109332
+# Number of Entries: 109337
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -17691,6 +17691,7 @@
 ||claim500.tech^
 ||claim500crypto.top^
 ||claimable-web3.net^
+||claimairdrop-slothana.pages.dev^
 ||claimairdropnft.com^
 ||claimairdropnow.com^
 ||claimairdrops.com^
@@ -44304,6 +44305,7 @@
 ||lendingtree.website^
 ||lendingtree01.netlify.app^
 ||lendingtree1.mydurable.com^
+||lendingtreecalifornia.com^
 ||lendingtreee.in^
 ||lendingtreefin.club^
 ||lendingtreefinance.info^
@@ -74948,6 +74950,7 @@
 ||rarrible-nft.us^
 ||rarvible.us^
 ||rascalsnft.web.app^
+||rastreo-envia.com^
 ||ratdium.io^
 ||ratefairdoor.com^
 ||ratelage.repl.co^
@@ -82867,6 +82870,7 @@
 ||starlofficial.xyz^
 ||starlproject.claims^
 ||starltoken.com^
+||starmissteenindia.com^
 ||starotlas.co^
 ||starplumbingelectrical.com^
 ||starpunksupport.online^
@@ -96257,6 +96261,7 @@
 ||web3-mint.live^
 ||web3-modenetwork.org^
 ||web3-multichain-dapp.xyz^
+||web3-multichainfix.pages.dev^
 ||web3-multiverse.dappz.one^
 ||web3-nftpad.com^
 ||web3-node-app.netlify.app^
