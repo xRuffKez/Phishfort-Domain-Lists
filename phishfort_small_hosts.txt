@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  9 05:05:32 UTC 2024
+# PhishFort Small Domain List - Thu May  9 06:05:50 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6189
+# Number of Entries: 6187
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -203,7 +203,6 @@
 0.0.0.0 agodanewcomplaint.com
 0.0.0.0 agodaonline.com
 0.0.0.0 agodaranking.top
-0.0.0.0 agodatikethotelcom.masukmobilee.de
 0.0.0.0 agodavipbook.top
 0.0.0.0 agodawork.cyou
 0.0.0.0 agodawork.pw
@@ -1023,7 +1022,6 @@
 0.0.0.0 chainlsiit.com
 0.0.0.0 chains-gpt.net
 0.0.0.0 chains-optimism.com
-0.0.0.0 chainsprotocol.com
 0.0.0.0 chainswap-airdrop-claim.pages.dev
 0.0.0.0 chainzerioncliam.pages.dev
 0.0.0.0 chalenlest.org
@@ -1082,7 +1080,6 @@
 0.0.0.0 claim-ether.fi
 0.0.0.0 claim-gecko.com
 0.0.0.0 claim-iyk.xyz
-0.0.0.0 claim-ju-4i4mf5.vercel.app
 0.0.0.0 claim-molly.xyz
 0.0.0.0 claim-nftpro.web.app
 0.0.0.0 claim-nibiru.top
@@ -2811,6 +2808,7 @@
 0.0.0.0 maker-dao.network
 0.0.0.0 maker-fnd.net
 0.0.0.0 makerdaicoin.com
+0.0.0.0 makerdao-ai.com
 0.0.0.0 makerdao-swap.com
 0.0.0.0 makerdao.digital
 0.0.0.0 makerdao.vip

@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Thu May  9 05:05:32 UTC 2024
+# PhishFort Small Domain List - Thu May  9 06:05:50 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6189
+# Number of Entries: 6187
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -202,7 +202,6 @@ agodajpvip.com
 agodanewcomplaint.com
 agodaonline.com
 agodaranking.top
-agodatikethotelcom.masukmobilee.de
 agodavipbook.top
 agodawork.cyou
 agodawork.pw
@@ -1022,7 +1021,6 @@ chainlogserver.pages.dev
 chainlsiit.com
 chains-gpt.net
 chains-optimism.com
-chainsprotocol.com
 chainswap-airdrop-claim.pages.dev
 chainzerioncliam.pages.dev
 chalenlest.org
@@ -1081,7 +1079,6 @@ claim-ethenalab.com
 claim-ether.fi
 claim-gecko.com
 claim-iyk.xyz
-claim-ju-4i4mf5.vercel.app
 claim-molly.xyz
 claim-nftpro.web.app
 claim-nibiru.top
@@ -2810,6 +2807,7 @@ maker-dao.life
 maker-dao.network
 maker-fnd.net
 makerdaicoin.com
+makerdao-ai.com
 makerdao-swap.com
 makerdao.digital
 makerdao.vip
