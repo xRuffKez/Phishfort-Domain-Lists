@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  9 14:02:03 UTC 2024
+# PhishFort Full Domain List - Thu May  9 15:01:56 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109325
+# Number of Entries: 109329
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -18032,6 +18032,7 @@
 0.0.0.0 clark-constructions.org
 0.0.0.0 clarkcconstruction.com
 0.0.0.0 clarkconsstruction.com
+0.0.0.0 clarkconstr.com
 0.0.0.0 clarkconstructions.us
 0.0.0.0 clarkconstructionusa.com
 0.0.0.0 clarkconstruvction.com
@@ -25091,6 +25092,7 @@
 0.0.0.0 dave.claim-mint.com
 0.0.0.0 davekrugman.xyz
 0.0.0.0 davi.pse-ssl.win
+0.0.0.0 davicupo.site
 0.0.0.0 davidbar.co.uk
 0.0.0.0 davidramsay.org
 0.0.0.0 davienlinea.bncr.win
@@ -26669,6 +26671,7 @@
 0.0.0.0 dev-kjd8eei3.pantheonsite.io
 0.0.0.0 dev-metamask.org
 0.0.0.0 dev-metamasksupport.pantheonsite.io
+0.0.0.0 dev-nanocredito-daviplata.pantheonsite.io
 0.0.0.0 dev-openselling.pancakeswasap.one
 0.0.0.0 dev-polkaapp.pantheonsite.io
 0.0.0.0 dev-the-metamask-support.pantheonsite.io
@@ -28286,6 +28289,7 @@
 0.0.0.0 dvalidator.live
 0.0.0.0 dveryirazdvyzhniesystemy.com
 0.0.0.0 dvhuh.pages.dev
+0.0.0.0 dvvnda.com
 0.0.0.0 dvwwv-metams.top
 0.0.0.0 dwalletintegrate.com
 0.0.0.0 dwappios1.com
@@ -59617,7 +59621,6 @@
 0.0.0.0 myproperty.pages.dev
 0.0.0.0 myproximus-billing.com
 0.0.0.0 myproximus.serveftp.com
-0.0.0.0 mypsegconnect.com
 0.0.0.0 mypunks.live
 0.0.0.0 myrcrypto.com
 0.0.0.0 myrestoration.info
@@ -100418,6 +100421,7 @@
 0.0.0.0 www.emetal-malks.live
 0.0.0.0 www.emidiscount.top
 0.0.0.0 www.emiratess.co.uk
+0.0.0.0 www.empassetsmanagement.com
 0.0.0.0 www.empowerwealth.biz
 0.0.0.0 www.emulador-creditlens.sorianoariza.com
 0.0.0.0 www.emusk2x.cc

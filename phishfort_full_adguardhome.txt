@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  9 14:02:03 UTC 2024
+# PhishFort Full Domain List - Thu May  9 15:01:56 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109325
+# Number of Entries: 109329
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -18032,6 +18032,7 @@
 ||clark-constructions.org^
 ||clarkcconstruction.com^
 ||clarkconsstruction.com^
+||clarkconstr.com^
 ||clarkconstructions.us^
 ||clarkconstructionusa.com^
 ||clarkconstruvction.com^
@@ -25091,6 +25092,7 @@
 ||dave.claim-mint.com^
 ||davekrugman.xyz^
 ||davi.pse-ssl.win^
+||davicupo.site^
 ||davidbar.co.uk^
 ||davidramsay.org^
 ||davienlinea.bncr.win^
@@ -26669,6 +26671,7 @@
 ||dev-kjd8eei3.pantheonsite.io^
 ||dev-metamask.org^
 ||dev-metamasksupport.pantheonsite.io^
+||dev-nanocredito-daviplata.pantheonsite.io^
 ||dev-openselling.pancakeswasap.one^
 ||dev-polkaapp.pantheonsite.io^
 ||dev-the-metamask-support.pantheonsite.io^
@@ -28286,6 +28289,7 @@
 ||dvalidator.live^
 ||dveryirazdvyzhniesystemy.com^
 ||dvhuh.pages.dev^
+||dvvnda.com^
 ||dvwwv-metams.top^
 ||dwalletintegrate.com^
 ||dwappios1.com^
@@ -59617,7 +59621,6 @@
 ||myproperty.pages.dev^
 ||myproximus-billing.com^
 ||myproximus.serveftp.com^
-||mypsegconnect.com^
 ||mypunks.live^
 ||myrcrypto.com^
 ||myrestoration.info^
@@ -100418,6 +100421,7 @@
 ||www.emetal-malks.live^
 ||www.emidiscount.top^
 ||www.emiratess.co.uk^
+||www.empassetsmanagement.com^
 ||www.empowerwealth.biz^
 ||www.emulador-creditlens.sorianoariza.com^
 ||www.emusk2x.cc^
