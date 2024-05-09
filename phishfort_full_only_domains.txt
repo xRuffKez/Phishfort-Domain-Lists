@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Thu May  9 15:01:56 UTC 2024
+# PhishFort Full Domain List - Thu May  9 16:01:58 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109329
+# Number of Entries: 109332
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -28452,6 +28452,7 @@ e-pancakesawp.com
 e-paxful.com
 e-posts-ag-at.com
 e-then-a.fun
+e-tradefxmarket.com
 e-trustpad.com
 e-vault.buzz
 e-walletcoin.com
@@ -42504,6 +42505,7 @@ kittpad.com
 kitty-inu-dao.com
 kittyfinance.io.holders-airdrop.info
 kittystat.com
+kivzag.online
 kiwaminft.live
 kiwipolkadot.js.org
 kiwisupport.nz
@@ -98832,6 +98834,7 @@ www.appdaviviendapersonalles.live
 www.appdefisavers.com
 www.appe-slingshot.finance
 www.appe-zapper.com
+www.appersonalesingresohome.com
 www.appfi-zapper.com
 www.appgaalagemas.xyz
 www.appgala-games-account.com

@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  9 15:01:56 UTC 2024
+# PhishFort Full Domain List - Thu May  9 16:01:58 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109329
+# Number of Entries: 109332
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -28453,6 +28453,7 @@
 0.0.0.0 e-paxful.com
 0.0.0.0 e-posts-ag-at.com
 0.0.0.0 e-then-a.fun
+0.0.0.0 e-tradefxmarket.com
 0.0.0.0 e-trustpad.com
 0.0.0.0 e-vault.buzz
 0.0.0.0 e-walletcoin.com
@@ -42505,6 +42506,7 @@
 0.0.0.0 kitty-inu-dao.com
 0.0.0.0 kittyfinance.io.holders-airdrop.info
 0.0.0.0 kittystat.com
+0.0.0.0 kivzag.online
 0.0.0.0 kiwaminft.live
 0.0.0.0 kiwipolkadot.js.org
 0.0.0.0 kiwisupport.nz
@@ -98833,6 +98835,7 @@
 0.0.0.0 www.appdefisavers.com
 0.0.0.0 www.appe-slingshot.finance
 0.0.0.0 www.appe-zapper.com
+0.0.0.0 www.appersonalesingresohome.com
 0.0.0.0 www.appfi-zapper.com
 0.0.0.0 www.appgaalagemas.xyz
 0.0.0.0 www.appgala-games-account.com
