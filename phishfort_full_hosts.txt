@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  9 17:02:05 UTC 2024
+# PhishFort Full Domain List - Thu May  9 18:02:17 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109337
+# Number of Entries: 109341
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -36175,6 +36175,8 @@
 0.0.0.0 generalmotors-ek.com
 0.0.0.0 generalmotors-ik.com
 0.0.0.0 generalmotors-lk.com
+0.0.0.0 generalmotors-rk.com
+0.0.0.0 generalmotors-vk.com
 0.0.0.0 generalmotors-xk.com
 0.0.0.0 generalmotors-yk.com
 0.0.0.0 generalmotorsmexico.com
@@ -64555,6 +64557,7 @@
 0.0.0.0 pancaciswqp-cash.com
 0.0.0.0 pancaciswqp-earn.com
 0.0.0.0 pancaciswqp-money.com
+0.0.0.0 pancacke-flnahce.org
 0.0.0.0 pancackenswap.com
 0.0.0.0 pancackesapp.com
 0.0.0.0 pancackesuite.top
@@ -75565,6 +75568,7 @@
 0.0.0.0 rediant.capital
 0.0.0.0 rediocmc.com
 0.0.0.0 redirchc.com
+0.0.0.0 redirect-airtm.com
 0.0.0.0 redirects-tree.com
 0.0.0.0 redirectvulcan.com
 0.0.0.0 redirectwallet.online

@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  9 17:02:05 UTC 2024
+# PhishFort Full Domain List - Thu May  9 18:02:17 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109337
+# Number of Entries: 109341
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -36175,6 +36175,8 @@
 ||generalmotors-ek.com^
 ||generalmotors-ik.com^
 ||generalmotors-lk.com^
+||generalmotors-rk.com^
+||generalmotors-vk.com^
 ||generalmotors-xk.com^
 ||generalmotors-yk.com^
 ||generalmotorsmexico.com^
@@ -64555,6 +64557,7 @@
 ||pancaciswqp-cash.com^
 ||pancaciswqp-earn.com^
 ||pancaciswqp-money.com^
+||pancacke-flnahce.org^
 ||pancackenswap.com^
 ||pancackesapp.com^
 ||pancackesuite.top^
@@ -75565,6 +75568,7 @@
 ||rediant.capital^
 ||rediocmc.com^
 ||redirchc.com^
+||redirect-airtm.com^
 ||redirects-tree.com^
 ||redirectvulcan.com^
 ||redirectwallet.online^
