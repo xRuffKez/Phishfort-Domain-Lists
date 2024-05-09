@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  9 00:06:32 UTC 2024
+# PhishFort Full Domain List - Thu May  9 01:25:35 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109310
+# Number of Entries: 109312
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -19391,6 +19391,7 @@
 ||coinlinker.pro^
 ||coinlinks.pro^
 ||coinlist-subsquids.vercel.app^
+||coinlist.fun^
 ||coinlistx2.net^
 ||coinlmarkertcap.us^
 ||coinlmarketcap.com^
@@ -86020,6 +86021,7 @@
 ||test1.smartinu.club^
 ||test1login.pancakeswape.finance^
 ||test2.itsallaboutdigital.com^
+||test3.amlbotscheck.site^
 ||test3123123132.pages.dev^
 ||testdomainstesting2.com^
 ||testelionx.com^

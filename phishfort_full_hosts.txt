@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  9 00:06:32 UTC 2024
+# PhishFort Full Domain List - Thu May  9 01:25:35 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109310
+# Number of Entries: 109312
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -19391,6 +19391,7 @@
 0.0.0.0 coinlinker.pro
 0.0.0.0 coinlinks.pro
 0.0.0.0 coinlist-subsquids.vercel.app
+0.0.0.0 coinlist.fun
 0.0.0.0 coinlistx2.net
 0.0.0.0 coinlmarkertcap.us
 0.0.0.0 coinlmarketcap.com
@@ -86020,6 +86021,7 @@
 0.0.0.0 test1.smartinu.club
 0.0.0.0 test1login.pancakeswape.finance
 0.0.0.0 test2.itsallaboutdigital.com
+0.0.0.0 test3.amlbotscheck.site
 0.0.0.0 test3123123132.pages.dev
 0.0.0.0 testdomainstesting2.com
 0.0.0.0 testelionx.com
