@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  9 17:04:45 UTC 2024
+# PhishFort Small Domain List - Thu May  9 18:05:01 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6175
+# Number of Entries: 6167
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -416,7 +416,6 @@
 ||app-mdex.one^
 ||app-metamask-kyc-auth.com^
 ||app-metamsak-io-conditionapp.netlify.app^
-||app-moonhq.com^
 ||app-nibirufi-checkers.vercel.app^
 ||app-pacmoon.org^
 ||app-pancakesvap.github.io^
@@ -947,7 +946,6 @@
 ||cakeui-dife.com^
 ||cakevalidator.pages.dev^
 ||calindaly.com^
-||camaroterj-ticketm.online^
 ||cambridgesecure.seconfirmationdev.com^
 ||cambridgetraders.com^
 ||camelot.magpiexyz.io.wallet-connect.site^
@@ -990,7 +988,6 @@
 ||cels1us.network^
 ||centerjobless.online^
 ||centralpoultryprocessingscoltd.com^
-||centralseedandchem.co.nz^
 ||centurysgold.net^
 ||cfdconnect.online^
 ||chaemlist.org^
@@ -2050,6 +2047,8 @@
 ||generalmotors-ek.com^
 ||generalmotors-ik.com^
 ||generalmotors-lk.com^
+||generalmotors-rk.com^
+||generalmotors-vk.com^
 ||generalmotors-xk.com^
 ||generalmotors-yk.com^
 ||genesis-dem.eu^
@@ -2326,7 +2325,6 @@
 ||immutabie.co^
 ||immutable.defi-community.com^
 ||immutablle.me^
-||impostorsland.xyz^
 ||imsvf.cc^
 ||imtoken-qw.pro^
 ||imx-news.com^
@@ -2439,7 +2437,6 @@
 ||join-galxe.com^
 ||join-porkcoin.io^
 ||join-satoshivm.app^
-||join-superverse.org^
 ||join.befilab.co^
 ||join.bsquare-network.org^
 ||joingrapes.gift^
@@ -2891,7 +2888,6 @@
 ||masslottery.online^
 ||massmutualauth.com^
 ||massmutualintermountainwest.hirevue.com^
-||massonline.mprofile.org^
 ||massposos.com^
 ||massulbenefitget.com^
 ||massulonllnedet.org^
@@ -2902,7 +2898,6 @@
 ||matemasksio.life^
 ||matemsak.biz^
 ||matrica-labs.com^
-||matrica-verify.com^
 ||matrica.vip^
 ||matricaapp.com^
 ||matricaclaim.eu^
@@ -3347,7 +3342,6 @@
 ||myria-game.com^
 ||mysecond.mypsx.net^
 ||mysonicwall.ir^
-||mystery-axieinfinity.claims^
 ||mystery-clicc.vercel.app^
 ||mystery-illuvium.io^
 ||mystery-polygon.claims^
@@ -3679,7 +3673,6 @@
 ||orlandoplasmacenters.com^
 ||osaic-wisconsin.com^
 ||osmososis-zone.xyz^
-||otcsea.app^
 ||otsea.gift^
 ||outildecisionregimederetraitesunchemical.ca^
 ||overrik.com^
@@ -3720,6 +3713,7 @@
 ||pan-team3.com^
 ||panacakeswap.tech^
 ||panasonic-in.com^
+||pancacke-flnahce.org^
 ||pancackeswap-claim.web.app^
 ||pancaikeswap.finance^
 ||pancakaswap-finance.xyz^
@@ -4289,6 +4283,7 @@
 ||rectifier-sync.pages.dev^
 ||rectifytrust.com^
 ||rectifywallet.42web.io^
+||redirect-airtm.com^
 ||redstonefi.net^
 ||reeboks.ink^
 ||reevoke.app^
@@ -4720,12 +4715,10 @@
 ||smogxtoken.com^
 ||smolesol.com^
 ||smoogtoken.shop^
-||smuhg.cc^
 ||sn.uibyte.online^
 ||snap-dioneprotocol.com^
 ||snap-pixels.com^
 ||snapshot-defi.com^
-||snapshot-hydroprotocol.com^
 ||snapshot-syncswap.com^
 ||snexkr.com^
 ||snexkr.plus^
@@ -5618,7 +5611,6 @@
 ||wizink.cartoespt-app.online^
 ||wkkuail.vip^
 ||wlcbdqs.org.cn^
-||wo1cw.pro^
 ||wodlressxs.ru.com^
 ||wojak.gifts^
 ||wollet.cc^
