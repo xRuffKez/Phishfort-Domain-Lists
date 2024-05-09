@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Thu May  9 19:04:36 UTC 2024
+# PhishFort Small Domain List - Thu May  9 20:04:53 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6170
+# Number of Entries: 6167
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -786,7 +786,6 @@ blast.spacesbar.xyz
 blast2l.com
 blastambient.finance
 blastcoi.com
-blastdrop.store
 blaster-airdrop.com
 blaster-eth.pages.dev
 blasteventih.com
@@ -931,7 +930,6 @@ cake-swap.co
 cake-swapper.com
 cake.5degrees.io
 cakekoreanswap.site
-cakelottery.finance
 cakelottery.online
 cakemagpie.pages.dev
 cakepies-web3.app
@@ -3979,7 +3977,6 @@ pay8-2v-gbz1keyte-ekontetevi-gmailcom.vercel.app
 pay8-2v-kbawr6w4i-ekontetevi-gmailcom.vercel.app
 paybnb.top
 paybyklarna.de
-paylccity.com
 paylink.fun.augusttarget.online
 paylocily.com
 paylocity-sso.com
@@ -4375,7 +4372,6 @@ revoke-paraswap.com
 revoke-realio.com
 revoke-tips.com
 revoke-wallet.com
-revoke-wallet.net
 revoke.host
 revoke.plus
 revokeca.com
@@ -4927,6 +4923,7 @@ swaptoken1inch.org
 swatches-vulcan.xyz
 sweatsync.pages.dev
 sweetwater.fun
+sweetwaterstore.com
 swellnetwork.exchange
 swfitblocksresolve.pages.dev
 swiftappsauth.pages.dev

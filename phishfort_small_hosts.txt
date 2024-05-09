@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  9 19:04:36 UTC 2024
+# PhishFort Small Domain List - Thu May  9 20:04:53 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6170
+# Number of Entries: 6167
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -787,7 +787,6 @@
 0.0.0.0 blast2l.com
 0.0.0.0 blastambient.finance
 0.0.0.0 blastcoi.com
-0.0.0.0 blastdrop.store
 0.0.0.0 blaster-airdrop.com
 0.0.0.0 blaster-eth.pages.dev
 0.0.0.0 blasteventih.com
@@ -932,7 +931,6 @@
 0.0.0.0 cake-swapper.com
 0.0.0.0 cake.5degrees.io
 0.0.0.0 cakekoreanswap.site
-0.0.0.0 cakelottery.finance
 0.0.0.0 cakelottery.online
 0.0.0.0 cakemagpie.pages.dev
 0.0.0.0 cakepies-web3.app
@@ -3980,7 +3978,6 @@
 0.0.0.0 pay8-2v-kbawr6w4i-ekontetevi-gmailcom.vercel.app
 0.0.0.0 paybnb.top
 0.0.0.0 paybyklarna.de
-0.0.0.0 paylccity.com
 0.0.0.0 paylink.fun.augusttarget.online
 0.0.0.0 paylocily.com
 0.0.0.0 paylocity-sso.com
@@ -4376,7 +4373,6 @@
 0.0.0.0 revoke-realio.com
 0.0.0.0 revoke-tips.com
 0.0.0.0 revoke-wallet.com
-0.0.0.0 revoke-wallet.net
 0.0.0.0 revoke.host
 0.0.0.0 revoke.plus
 0.0.0.0 revokeca.com
@@ -4928,6 +4924,7 @@
 0.0.0.0 swatches-vulcan.xyz
 0.0.0.0 sweatsync.pages.dev
 0.0.0.0 sweetwater.fun
+0.0.0.0 sweetwaterstore.com
 0.0.0.0 swellnetwork.exchange
 0.0.0.0 swfitblocksresolve.pages.dev
 0.0.0.0 swiftappsauth.pages.dev
