@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  9 12:07:02 UTC 2024
+# PhishFort Small Domain List - Thu May  9 13:04:58 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6190
+# Number of Entries: 6191
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2284,6 +2284,7 @@
 0.0.0.0 i2sb20.cn
 0.0.0.0 ia4mb.pro
 0.0.0.0 ibbotssons.com
+0.0.0.0 ibkrapps.com
 0.0.0.0 ibkrindia.com
 0.0.0.0 ibkrindia.xyz
 0.0.0.0 ibkrx.xyz
@@ -4301,7 +4302,6 @@
 0.0.0.0 rectifier-sync.pages.dev
 0.0.0.0 rectifytrust.com
 0.0.0.0 rectifywallet.42web.io
-0.0.0.0 redirect-airtm.com
 0.0.0.0 redstonefi.net
 0.0.0.0 reeboks.ink
 0.0.0.0 reevoke.app
@@ -5680,6 +5680,7 @@
 0.0.0.0 www-orbiter.xyz
 0.0.0.0 www-peryourhealth.com
 0.0.0.0 www-trst-secure.v91x61.ru
+0.0.0.0 www.01-airtm.cam
 0.0.0.0 www.1asxhkd.com
 0.0.0.0 www.1inch.ink
 0.0.0.0 www.1inchrewards.com

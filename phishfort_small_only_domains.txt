@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Thu May  9 12:07:02 UTC 2024
+# PhishFort Small Domain List - Thu May  9 13:04:58 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6190
+# Number of Entries: 6191
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2283,6 +2283,7 @@ hypnoticbrass.net
 i2sb20.cn
 ia4mb.pro
 ibbotssons.com
+ibkrapps.com
 ibkrindia.com
 ibkrindia.xyz
 ibkrx.xyz
@@ -4300,7 +4301,6 @@ rectification-data.com
 rectifier-sync.pages.dev
 rectifytrust.com
 rectifywallet.42web.io
-redirect-airtm.com
 redstonefi.net
 reeboks.ink
 reevoke.app
@@ -5679,6 +5679,7 @@ www-nvidia.com
 www-orbiter.xyz
 www-peryourhealth.com
 www-trst-secure.v91x61.ru
+www.01-airtm.cam
 www.1asxhkd.com
 www.1inch.ink
 www.1inchrewards.com
