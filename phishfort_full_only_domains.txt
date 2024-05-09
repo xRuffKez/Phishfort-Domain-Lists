@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Thu May  9 09:01:56 UTC 2024
+# PhishFort Full Domain List - Thu May  9 10:02:23 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109315
+# Number of Entries: 109316
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -18153,6 +18153,7 @@ clifford-law-chance.com
 cliffordandchancelaw.com
 cliffordandchancellp.com
 cliffordchance-attorney.com
+cliffordchance-international.com
 cliffordchance-legal.co.uk
 cliffordchance-llp.com
 cliffordchance.akrdesign.co
