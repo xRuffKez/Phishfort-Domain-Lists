@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Thu May  9 20:04:53 UTC 2024
+# PhishFort Small Domain List - Thu May  9 21:05:34 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6167
+# Number of Entries: 6168
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -4495,6 +4495,7 @@ saksoff5th.store
 saksoff5th01.com
 saksoff5th02.com
 saksoff5th03.com
+saksoff5th06.com
 saksoff5th1.com
 saksoff5th2.com
 saksoff5th3.com

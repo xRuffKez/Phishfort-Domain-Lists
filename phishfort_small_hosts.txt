@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  9 20:04:53 UTC 2024
+# PhishFort Small Domain List - Thu May  9 21:05:34 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6167
+# Number of Entries: 6168
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -4496,6 +4496,7 @@
 0.0.0.0 saksoff5th01.com
 0.0.0.0 saksoff5th02.com
 0.0.0.0 saksoff5th03.com
+0.0.0.0 saksoff5th06.com
 0.0.0.0 saksoff5th1.com
 0.0.0.0 saksoff5th2.com
 0.0.0.0 saksoff5th3.com
