@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  9 09:05:33 UTC 2024
+# PhishFort Small Domain List - Thu May  9 10:05:56 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6187
+# Number of Entries: 6183
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -522,7 +522,6 @@
 ||appresolvefix.pages.dev^
 ||apprestakefinance.com^
 ||apps-aevo.xyz^
-||apps-intercessor.live^
 ||apps-linea.build^
 ||apps-pancakeswap.finance^
 ||appserversdex.network^
@@ -1202,6 +1201,7 @@
 ||clifford-chance.miami^
 ||clifford-l-chance.com^
 ||clifford-law-chance.com^
+||cliffordchance-international.com^
 ||cliffordchance.business^
 ||cliffordchance.site^
 ||cliffordchance.top^
@@ -1495,7 +1495,6 @@
 ||debank-web3.web.app^
 ||debnhaimes.company.site^
 ||debug-metamask.pages.dev^
-||debug-multichain.pages.dev^
 ||debug-x.pages.dev^
 ||debugdecentralize.pages.dev^
 ||debugdeconnec.pages.dev^
@@ -1662,7 +1661,6 @@
 ||dymeansion.io^
 ||dymension-approval.netlify.app^
 ||dymension-claim.netlify.app^
-||dymension-claimdappstoolkit.pages.dev^
 ||dymension.pages.dev^
 ||dymensiondrop.com^
 ||dynamicvisionmanagement.com^
@@ -3286,7 +3284,6 @@
 ||multibitstaking.com^
 ||multichain-auth.netlify.app^
 ||multichain-dappconnect.netlify.app^
-||multichain-evm.pages.dev^
 ||multichain-tokenguidehigh.online^
 ||multichain-tokenguidemaxx.shop^
 ||multichain-web.de^
@@ -4886,7 +4883,6 @@
 ||stonfx.com^
 ||strk-coin.xyz^
 ||strkclaim.space^
-||strkclaims.com^
 ||strknet.com^
 ||strknet.network^
 ||strkprimary.pics^

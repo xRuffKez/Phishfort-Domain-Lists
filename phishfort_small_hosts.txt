@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May  9 09:05:33 UTC 2024
+# PhishFort Small Domain List - Thu May  9 10:05:56 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6187
+# Number of Entries: 6183
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -522,7 +522,6 @@
 0.0.0.0 appresolvefix.pages.dev
 0.0.0.0 apprestakefinance.com
 0.0.0.0 apps-aevo.xyz
-0.0.0.0 apps-intercessor.live
 0.0.0.0 apps-linea.build
 0.0.0.0 apps-pancakeswap.finance
 0.0.0.0 appserversdex.network
@@ -1202,6 +1201,7 @@
 0.0.0.0 clifford-chance.miami
 0.0.0.0 clifford-l-chance.com
 0.0.0.0 clifford-law-chance.com
+0.0.0.0 cliffordchance-international.com
 0.0.0.0 cliffordchance.business
 0.0.0.0 cliffordchance.site
 0.0.0.0 cliffordchance.top
@@ -1495,7 +1495,6 @@
 0.0.0.0 debank-web3.web.app
 0.0.0.0 debnhaimes.company.site
 0.0.0.0 debug-metamask.pages.dev
-0.0.0.0 debug-multichain.pages.dev
 0.0.0.0 debug-x.pages.dev
 0.0.0.0 debugdecentralize.pages.dev
 0.0.0.0 debugdeconnec.pages.dev
@@ -1662,7 +1661,6 @@
 0.0.0.0 dymeansion.io
 0.0.0.0 dymension-approval.netlify.app
 0.0.0.0 dymension-claim.netlify.app
-0.0.0.0 dymension-claimdappstoolkit.pages.dev
 0.0.0.0 dymension.pages.dev
 0.0.0.0 dymensiondrop.com
 0.0.0.0 dynamicvisionmanagement.com
@@ -3286,7 +3284,6 @@
 0.0.0.0 multibitstaking.com
 0.0.0.0 multichain-auth.netlify.app
 0.0.0.0 multichain-dappconnect.netlify.app
-0.0.0.0 multichain-evm.pages.dev
 0.0.0.0 multichain-tokenguidehigh.online
 0.0.0.0 multichain-tokenguidemaxx.shop
 0.0.0.0 multichain-web.de
@@ -4886,7 +4883,6 @@
 0.0.0.0 stonfx.com
 0.0.0.0 strk-coin.xyz
 0.0.0.0 strkclaim.space
-0.0.0.0 strkclaims.com
 0.0.0.0 strknet.com
 0.0.0.0 strknet.network
 0.0.0.0 strkprimary.pics
