@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  9 12:02:54 UTC 2024
+# PhishFort Full Domain List - Thu May  9 13:02:18 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109324
+# Number of Entries: 109325
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -39519,6 +39519,7 @@
 0.0.0.0 ibizablancocastillo.com
 0.0.0.0 ibkr-trade.com
 0.0.0.0 ibkr.ru
+0.0.0.0 ibkrapps.com
 0.0.0.0 ibkrcorporation.com
 0.0.0.0 ibkrcrypto.com
 0.0.0.0 ibkrcryptoriskmgt.com
@@ -75556,7 +75557,6 @@
 0.0.0.0 rediant.capital
 0.0.0.0 rediocmc.com
 0.0.0.0 redirchc.com
-0.0.0.0 redirect-airtm.com
 0.0.0.0 redirects-tree.com
 0.0.0.0 redirectvulcan.com
 0.0.0.0 redirectwallet.online
@@ -98279,6 +98279,7 @@
 0.0.0.0 www-zerion.online
 0.0.0.0 www-zksync-com.xyz
 0.0.0.0 www.009aksd55.com
+0.0.0.0 www.01-airtm.cam
 0.0.0.0 www.0376web.com
 0.0.0.0 www.0x0portal.com
 0.0.0.0 www.0xcococoin.com

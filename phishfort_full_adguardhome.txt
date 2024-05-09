@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  9 12:02:54 UTC 2024
+# PhishFort Full Domain List - Thu May  9 13:02:18 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109324
+# Number of Entries: 109325
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -39519,6 +39519,7 @@
 ||ibizablancocastillo.com^
 ||ibkr-trade.com^
 ||ibkr.ru^
+||ibkrapps.com^
 ||ibkrcorporation.com^
 ||ibkrcrypto.com^
 ||ibkrcryptoriskmgt.com^
@@ -75556,7 +75557,6 @@
 ||rediant.capital^
 ||rediocmc.com^
 ||redirchc.com^
-||redirect-airtm.com^
 ||redirects-tree.com^
 ||redirectvulcan.com^
 ||redirectwallet.online^
@@ -98279,6 +98279,7 @@
 ||www-zerion.online^
 ||www-zksync-com.xyz^
 ||www.009aksd55.com^
+||www.01-airtm.cam^
 ||www.0376web.com^
 ||www.0x0portal.com^
 ||www.0xcococoin.com^
