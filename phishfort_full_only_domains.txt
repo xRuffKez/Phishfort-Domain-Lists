@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Thu May  9 20:02:10 UTC 2024
+# PhishFort Full Domain List - Thu May  9 21:02:58 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109344
+# Number of Entries: 109346
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -78127,6 +78127,7 @@ saksoff5th.vip
 saksoff5th01.com
 saksoff5th02.com
 saksoff5th03.com
+saksoff5th06.com
 saksoff5th1.com
 saksoff5th2.com
 saksoff5th3.com
@@ -84382,6 +84383,7 @@ sweetooth.wl-now.com
 sweetppie.info
 sweetwater.fun
 sweetwatermusic.shop
+sweetwaterstore.com
 sweetyswap.online
 swellnetwork.exchange
 swensonwallet-protocol.boobiesandbabies.com

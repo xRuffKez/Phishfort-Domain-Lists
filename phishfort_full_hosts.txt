@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May  9 20:02:10 UTC 2024
+# PhishFort Full Domain List - Thu May  9 21:02:58 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109344
+# Number of Entries: 109346
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -78128,6 +78128,7 @@
 0.0.0.0 saksoff5th01.com
 0.0.0.0 saksoff5th02.com
 0.0.0.0 saksoff5th03.com
+0.0.0.0 saksoff5th06.com
 0.0.0.0 saksoff5th1.com
 0.0.0.0 saksoff5th2.com
 0.0.0.0 saksoff5th3.com
@@ -84383,6 +84384,7 @@
 0.0.0.0 sweetppie.info
 0.0.0.0 sweetwater.fun
 0.0.0.0 sweetwatermusic.shop
+0.0.0.0 sweetwaterstore.com
 0.0.0.0 sweetyswap.online
 0.0.0.0 swellnetwork.exchange
 0.0.0.0 swensonwallet-protocol.boobiesandbabies.com
