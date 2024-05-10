@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Fri May 10 04:05:15 UTC 2024
+# PhishFort Small Domain List - Fri May 10 05:04:52 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6095
+# Number of Entries: 6097
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1204,6 +1204,7 @@ co.llab-lands.icu
 co.llab-verify.xyz
 co.llabz.land
 co11ab-1and.com
+code-iq.com
 codexchain.org
 codexlabs.xyz
 coiappresolve.pages.dev
@@ -3951,6 +3952,7 @@ pcs-myteam.com
 pcs-myteam3.com
 pcs.mailtenset.com
 pcs.payflowtoken.com
+pcsearn-pool.com
 pcsfarm-v3.com
 pcsstake-v3.com
 pcsstake-v3.net

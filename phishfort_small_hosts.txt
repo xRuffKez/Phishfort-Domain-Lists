@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May 10 04:05:15 UTC 2024
+# PhishFort Small Domain List - Fri May 10 05:04:52 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6095
+# Number of Entries: 6097
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1205,6 +1205,7 @@
 0.0.0.0 co.llab-verify.xyz
 0.0.0.0 co.llabz.land
 0.0.0.0 co11ab-1and.com
+0.0.0.0 code-iq.com
 0.0.0.0 codexchain.org
 0.0.0.0 codexlabs.xyz
 0.0.0.0 coiappresolve.pages.dev
@@ -3952,6 +3953,7 @@
 0.0.0.0 pcs-myteam3.com
 0.0.0.0 pcs.mailtenset.com
 0.0.0.0 pcs.payflowtoken.com
+0.0.0.0 pcsearn-pool.com
 0.0.0.0 pcsfarm-v3.com
 0.0.0.0 pcsstake-v3.com
 0.0.0.0 pcsstake-v3.net
