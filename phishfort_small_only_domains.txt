@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Fri May 10 20:04:56 UTC 2024
+# PhishFort Small Domain List - Fri May 10 21:04:41 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6078
+# Number of Entries: 6077
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -454,7 +454,6 @@ app.etheir.fi
 app.etherfi.us
 app.ethgas-refund.com
 app.expertcapitalsus.com
-app.farmersonly.fi
 app.financeglobal.trade
 app.ibkr-ex.com
 app.lumiwallet.live
