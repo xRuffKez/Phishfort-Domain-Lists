@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May 10 07:05:01 UTC 2024
+# PhishFort Small Domain List - Fri May 10 08:06:14 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6097
+# Number of Entries: 6096
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -4252,7 +4252,6 @@
 0.0.0.0 registarzuki.com
 0.0.0.0 register-lineabuild.com
 0.0.0.0 register-metis.io
-0.0.0.0 register-pandora.app
 0.0.0.0 register-qubic.org
 0.0.0.0 register-smartlayer.network
 0.0.0.0 register-snap.com

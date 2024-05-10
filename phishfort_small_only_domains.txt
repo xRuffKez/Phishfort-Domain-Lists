@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Fri May 10 07:05:01 UTC 2024
+# PhishFort Small Domain List - Fri May 10 08:06:14 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6097
+# Number of Entries: 6096
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -4251,7 +4251,6 @@ regdioneprotocol.com
 registarzuki.com
 register-lineabuild.com
 register-metis.io
-register-pandora.app
 register-qubic.org
 register-smartlayer.network
 register-snap.com
