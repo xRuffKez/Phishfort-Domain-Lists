@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May 10 22:02:06 UTC 2024
+# PhishFort Full Domain List - Fri May 10 23:02:12 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109365
+# Number of Entries: 109366
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -22877,6 +22877,7 @@
 0.0.0.0 cuz.quest
 0.0.0.0 cvbty.com
 0.0.0.0 cverelo1.sbs
+0.0.0.0 cvhddy.mypi.co
 0.0.0.0 cvifex.blogspot.com
 0.0.0.0 cvoingecko.link
 0.0.0.0 cvrve.info

@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Fri May 10 22:02:06 UTC 2024
+# PhishFort Full Domain List - Fri May 10 23:02:12 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109365
+# Number of Entries: 109366
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -22876,6 +22876,7 @@ cuvre.fr
 cuz.quest
 cvbty.com
 cverelo1.sbs
+cvhddy.mypi.co
 cvifex.blogspot.com
 cvoingecko.link
 cvrve.info
