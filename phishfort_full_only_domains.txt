@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Fri May 10 16:02:08 UTC 2024
+# PhishFort Full Domain List - Fri May 10 17:02:04 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109361
+# Number of Entries: 109363
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -18164,6 +18164,7 @@ cliffordchance-attorney.com
 cliffordchance-international.com
 cliffordchance-legal.co.uk
 cliffordchance-llp.com
+cliffordchance-merger-acquisition.com
 cliffordchance.akrdesign.co
 cliffordchance.business
 cliffordchance.cadeirasrosa.com.br
@@ -97867,6 +97868,7 @@ wwesmackdown.us
 wwesolana.com
 wwesupercard.top
 wwevbnet-com.1gb.ru
+wwewatch.com
 wwewrestlers.com
 wwewrestlingbelts.com
 wwhbltkub-win.1gb.ru

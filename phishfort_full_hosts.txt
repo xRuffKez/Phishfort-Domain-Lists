@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May 10 16:02:08 UTC 2024
+# PhishFort Full Domain List - Fri May 10 17:02:04 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109361
+# Number of Entries: 109363
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -18165,6 +18165,7 @@
 0.0.0.0 cliffordchance-international.com
 0.0.0.0 cliffordchance-legal.co.uk
 0.0.0.0 cliffordchance-llp.com
+0.0.0.0 cliffordchance-merger-acquisition.com
 0.0.0.0 cliffordchance.akrdesign.co
 0.0.0.0 cliffordchance.business
 0.0.0.0 cliffordchance.cadeirasrosa.com.br
@@ -97868,6 +97869,7 @@
 0.0.0.0 wwesolana.com
 0.0.0.0 wwesupercard.top
 0.0.0.0 wwevbnet-com.1gb.ru
+0.0.0.0 wwewatch.com
 0.0.0.0 wwewrestlers.com
 0.0.0.0 wwewrestlingbelts.com
 0.0.0.0 wwhbltkub-win.1gb.ru

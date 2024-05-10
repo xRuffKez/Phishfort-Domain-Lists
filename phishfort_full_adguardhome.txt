@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May 10 16:02:08 UTC 2024
+# PhishFort Full Domain List - Fri May 10 17:02:04 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109361
+# Number of Entries: 109363
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -18165,6 +18165,7 @@
 ||cliffordchance-international.com^
 ||cliffordchance-legal.co.uk^
 ||cliffordchance-llp.com^
+||cliffordchance-merger-acquisition.com^
 ||cliffordchance.akrdesign.co^
 ||cliffordchance.business^
 ||cliffordchance.cadeirasrosa.com.br^
@@ -97868,6 +97869,7 @@
 ||wwesolana.com^
 ||wwesupercard.top^
 ||wwevbnet-com.1gb.ru^
+||wwewatch.com^
 ||wwewrestlers.com^
 ||wwewrestlingbelts.com^
 ||wwhbltkub-win.1gb.ru^
