@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May 10 03:02:09 UTC 2024
+# PhishFort Full Domain List - Fri May 10 04:02:12 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109347
+# Number of Entries: 109349
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3119,6 +3119,7 @@
 0.0.0.0 agoda.host
 0.0.0.0 agoda.ib-web.online
 0.0.0.0 agoda.icu
+0.0.0.0 agoda.info5886.com
 0.0.0.0 agoda.info631.com
 0.0.0.0 agoda.lovestoblog.com
 0.0.0.0 agoda.offer18239.com
@@ -28532,6 +28533,7 @@
 0.0.0.0 earn-pancakeswap.finance
 0.0.0.0 earn-taopads.web.app
 0.0.0.0 earn-taxind.com
+0.0.0.0 earn-web3pool.com
 0.0.0.0 earn.app-1ihch.com
 0.0.0.0 earn.app-1lnch.com
 0.0.0.0 earn.dailydivs.com

@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Fri May 10 03:02:09 UTC 2024
+# PhishFort Full Domain List - Fri May 10 04:02:12 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109347
+# Number of Entries: 109349
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3118,6 +3118,7 @@ agoda.gologonow.website
 agoda.host
 agoda.ib-web.online
 agoda.icu
+agoda.info5886.com
 agoda.info631.com
 agoda.lovestoblog.com
 agoda.offer18239.com
@@ -28531,6 +28532,7 @@ earn-pancakeswap.com
 earn-pancakeswap.finance
 earn-taopads.web.app
 earn-taxind.com
+earn-web3pool.com
 earn.app-1ihch.com
 earn.app-1lnch.com
 earn.dailydivs.com
