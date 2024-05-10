@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May 10 02:13:58 UTC 2024
+# PhishFort Full Domain List - Fri May 10 03:02:09 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109346
+# Number of Entries: 109347
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -100783,6 +100783,7 @@
 ||www.g2-galas-apps.games^
 ||www.ga-gala-games-app-in.com^
 ||www.gaalagammess.gq^
+||www.gabkrje.com^
 ||www.gaiixe.com^
 ||www.gailagames.cf^
 ||www.gailagames.ga^

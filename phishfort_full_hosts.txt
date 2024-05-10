@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May 10 02:13:58 UTC 2024
+# PhishFort Full Domain List - Fri May 10 03:02:09 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109346
+# Number of Entries: 109347
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -100783,6 +100783,7 @@
 0.0.0.0 www.g2-galas-apps.games
 0.0.0.0 www.ga-gala-games-app-in.com
 0.0.0.0 www.gaalagammess.gq
+0.0.0.0 www.gabkrje.com
 0.0.0.0 www.gaiixe.com
 0.0.0.0 www.gailagames.cf
 0.0.0.0 www.gailagames.ga
