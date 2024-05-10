@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Fri May 10 22:04:57 UTC 2024
+# PhishFort Small Domain List - Fri May 10 23:05:19 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 6077
 # Project: PhishFort (https://phishfort.com/)
@@ -291,7 +291,6 @@ airtm.help
 airtm11.com
 airtm30.com
 airtm9.com
-airusd.xyz
 aitechblockresolve.pages.dev
 ajbell-mall.com.ng.swift-pay.site
 ajbell.top
@@ -1358,6 +1357,7 @@ csagoda.store
 cuadrosblangar.es
 cubeexchange.co
 cumminsusa.com
+cvhddy.mypi.co
 cwboffshoreonl.com
 cwestba.com
 cwrestorevercelapp.com

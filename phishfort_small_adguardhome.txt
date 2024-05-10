@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Fri May 10 22:04:57 UTC 2024
+# PhishFort Small Domain List - Fri May 10 23:05:19 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
 # Number of Entries: 6077
@@ -292,7 +292,6 @@
 ||airtm11.com^
 ||airtm30.com^
 ||airtm9.com^
-||airusd.xyz^
 ||aitechblockresolve.pages.dev^
 ||ajbell-mall.com.ng.swift-pay.site^
 ||ajbell.top^
@@ -1359,6 +1358,7 @@
 ||cuadrosblangar.es^
 ||cubeexchange.co^
 ||cumminsusa.com^
+||cvhddy.mypi.co^
 ||cwboffshoreonl.com^
 ||cwestba.com^
 ||cwrestorevercelapp.com^

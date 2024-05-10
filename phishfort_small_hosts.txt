@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Fri May 10 22:04:57 UTC 2024
+# PhishFort Small Domain List - Fri May 10 23:05:19 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 6077
@@ -292,7 +292,6 @@
 0.0.0.0 airtm11.com
 0.0.0.0 airtm30.com
 0.0.0.0 airtm9.com
-0.0.0.0 airusd.xyz
 0.0.0.0 aitechblockresolve.pages.dev
 0.0.0.0 ajbell-mall.com.ng.swift-pay.site
 0.0.0.0 ajbell.top
@@ -1359,6 +1358,7 @@
 0.0.0.0 cuadrosblangar.es
 0.0.0.0 cubeexchange.co
 0.0.0.0 cumminsusa.com
+0.0.0.0 cvhddy.mypi.co
 0.0.0.0 cwboffshoreonl.com
 0.0.0.0 cwestba.com
 0.0.0.0 cwrestorevercelapp.com
