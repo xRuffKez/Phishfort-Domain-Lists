@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Fri May 10 12:06:49 UTC 2024
+# PhishFort Small Domain List - Fri May 10 13:05:29 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6084
+# Number of Entries: 6087
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2503,6 +2503,8 @@ klarnacasino.nl
 klarnafestival.pt
 klarnaitalysrl.welfare.it
 klarnapayment.de
+klarnas.cc
+klarnas.shop
 klarnasecure.com
 klarnashop.cc
 klarnashop.vip
@@ -4311,7 +4313,6 @@ revoke-etherscan.online
 revoke-paraswap.com
 revoke-realio.com
 revoke-tips.com
-revoke-wallet.com
 revoke.plus
 revokeca.com
 revokeca.xyz
@@ -5537,6 +5538,7 @@ wlcbdqs.org.cn
 wodlressxs.ru.com
 wojak.gifts
 wollet.cc
+womensecretoutlet.shop
 woo-fi.vercel.app
 woofibit.space
 workforcenow.adp.returnlite.com
@@ -5602,6 +5604,7 @@ www.ai-meme.xyz
 www.airlinesofficeguide.com
 www.airtm.services
 www.airtmliberatupotencial.site
+www.ajbell-co.com
 www.allchainsfixer.site
 www.allianceprotectionservice.com
 www.alshaya.great-site.net

@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May 10 12:06:49 UTC 2024
+# PhishFort Small Domain List - Fri May 10 13:05:29 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6084
+# Number of Entries: 6087
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2504,6 +2504,8 @@
 0.0.0.0 klarnafestival.pt
 0.0.0.0 klarnaitalysrl.welfare.it
 0.0.0.0 klarnapayment.de
+0.0.0.0 klarnas.cc
+0.0.0.0 klarnas.shop
 0.0.0.0 klarnasecure.com
 0.0.0.0 klarnashop.cc
 0.0.0.0 klarnashop.vip
@@ -4312,7 +4314,6 @@
 0.0.0.0 revoke-paraswap.com
 0.0.0.0 revoke-realio.com
 0.0.0.0 revoke-tips.com
-0.0.0.0 revoke-wallet.com
 0.0.0.0 revoke.plus
 0.0.0.0 revokeca.com
 0.0.0.0 revokeca.xyz
@@ -5538,6 +5539,7 @@
 0.0.0.0 wodlressxs.ru.com
 0.0.0.0 wojak.gifts
 0.0.0.0 wollet.cc
+0.0.0.0 womensecretoutlet.shop
 0.0.0.0 woo-fi.vercel.app
 0.0.0.0 woofibit.space
 0.0.0.0 workforcenow.adp.returnlite.com
@@ -5603,6 +5605,7 @@
 0.0.0.0 www.airlinesofficeguide.com
 0.0.0.0 www.airtm.services
 0.0.0.0 www.airtmliberatupotencial.site
+0.0.0.0 www.ajbell-co.com
 0.0.0.0 www.allchainsfixer.site
 0.0.0.0 www.allianceprotectionservice.com
 0.0.0.0 www.alshaya.great-site.net
