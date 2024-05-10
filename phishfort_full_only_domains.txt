@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Fri May 10 04:02:12 UTC 2024
+# PhishFort Full Domain List - Fri May 10 05:02:06 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109349
+# Number of Entries: 109351
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -18375,6 +18375,7 @@ cockpunch.cloud
 cockpunch.nft-premint.xyz
 cockpunchgame.xyz
 cockpunchmeta.xyz
+code-iq.com
 codeartenterprises.com.au
 codebucket.net
 codeflick.site
@@ -69944,6 +69945,7 @@ pcs-myteam3.com
 pcs.mailtenset.com
 pcs.payflowtoken.com
 pcsdf-mining.com
+pcsearn-pool.com
 pcsfarm-v3.com
 pcshelpdesk.co
 pcsstake-v3.com

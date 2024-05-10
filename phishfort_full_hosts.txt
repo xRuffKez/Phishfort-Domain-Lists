@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May 10 04:02:12 UTC 2024
+# PhishFort Full Domain List - Fri May 10 05:02:06 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109349
+# Number of Entries: 109351
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -18376,6 +18376,7 @@
 0.0.0.0 cockpunch.nft-premint.xyz
 0.0.0.0 cockpunchgame.xyz
 0.0.0.0 cockpunchmeta.xyz
+0.0.0.0 code-iq.com
 0.0.0.0 codeartenterprises.com.au
 0.0.0.0 codebucket.net
 0.0.0.0 codeflick.site
@@ -69945,6 +69946,7 @@
 0.0.0.0 pcs.mailtenset.com
 0.0.0.0 pcs.payflowtoken.com
 0.0.0.0 pcsdf-mining.com
+0.0.0.0 pcsearn-pool.com
 0.0.0.0 pcsfarm-v3.com
 0.0.0.0 pcshelpdesk.co
 0.0.0.0 pcsstake-v3.com
