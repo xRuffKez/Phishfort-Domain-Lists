@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Fri May 10 11:07:53 UTC 2024
+# PhishFort Small Domain List - Fri May 10 12:06:49 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6096
+# Number of Entries: 6084
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -30,6 +30,7 @@
 1incha.coinmarketcap-app.com
 1inchfinance.com
 1inchnetwork.org
+1inchnetwork.top
 1inchwallet.app
 1inchwallet.org
 1lnch-claim.com
@@ -101,7 +102,6 @@ aark.cc
 aark.finance
 aark.pm
 aatranferinc.com
-aave-finance.net
 aave-gifts.com
 aave-pi.vercel.app
 aave.asia
@@ -1417,7 +1417,6 @@ dapps-pancakeswap.pages.dev
 dapps-radar.pages.dev
 dapps.toolsynchr.online
 dappsapi.pages.dev
-dappsconnectapp.pages.dev
 dappsdropclaim.com
 dappsfixed.pages.dev
 dappsfixerweb.42web.io
@@ -1633,7 +1632,6 @@ dykemagosettantoney.online
 dymeansion.io
 dymension-approval.netlify.app
 dymension-claim.netlify.app
-dymension.pages.dev
 dymensiondrop.com
 dynamicvisionmanagement.com
 dyvmemsion.xyz
@@ -2802,7 +2800,6 @@ manta6.pages.dev
 manta7.pages.dev
 manta8.pages.dev
 mantaclick.vercel.app
-mantacoins-wallet.com
 mantanetwork.events
 mantao-network.life
 mantao-network.xyz
@@ -3545,7 +3542,6 @@ opebnsea.io
 opemnsea.io
 open-6lz.pages.dev
 open-sea.systeme.io
-open-seaio.github.io
 open-seasclick.vercel.app
 open-zkbridge.com
 open2mysterybox.vercel.app
@@ -3564,7 +3560,6 @@ opensea-drainer.vercel.app
 opensea-pronfts.vercel.app
 opensea.app
 opensea.io.in
-opensea.lc
 openseaclaim43.vercel.app
 openseaclickclaims01.vercel.app
 openseanft-projs.vercel.app
@@ -3647,7 +3642,6 @@ pacific-bridge-manta-network.cyou
 pacific-bridge-manta.cyou
 pacific-bridge.manta.nework.live
 pacificmanta.vercel.app
-pacificparadigm.org
 pacifics-manta-network.pages.dev
 pacificswap.app
 pacmoon.cash
@@ -3782,6 +3776,7 @@ pancakeswapclaim6754.vercel.app
 pancakeswapclaimbox.com
 pancakeswapclaimdropnow.com
 pancakeswapclaimmdrop.com
+pancakeswapclaimz01.vercel.app
 pancakeswapclick04.vercel.app
 pancakeswapcrypto.com
 pancakeswapdrop.com
@@ -3840,7 +3835,6 @@ panexpode.com
 pangolin-x.com
 pankaceswap.tech
 pankcakeswap.com
-panoshidaapsintegration.netlify.app
 panteamspark.com
 pape-coin.net
 pape-tokens.org
@@ -4521,7 +4515,6 @@ secureklarna.com
 securenetsync.pages.dev
 secureswapupdated.pages.dev
 secureupdradelive.nl
-securewebdapp.pages.dev
 seeddify-fund.com
 seedfry.com
 seedifyfund.click
@@ -4692,7 +4685,6 @@ sophon-registrations.com
 sor-nft.web.app
 space-catch.web.app
 spaceld.cyou
-spacequest-jup.ag
 spacex-airdrop-1f381.web.app
 spark-claim.org
 spark-fi.xyz
@@ -4734,7 +4726,6 @@ stakeiand.com
 stakepcss-v3.com
 stakestone.iostone.lodhapetro.com
 stakestone.mom
-stakestone.site
 stakewise.li
 stakezircuit.xyz
 staking-0lz83.github.io
@@ -5977,7 +5968,6 @@ xn--fxadfloat-05a.com
 xn--fxedflaot-vpb.net
 xn--fxedflaot-vpbc.com
 xn--fxedflcoat-68a.com
-xn--fxedfllaot-k8a.com
 xn--fxedflloat-xub.com
 xn--fxedfloat-q5af.com
 xn--fxedflooad-68a.com
@@ -5990,7 +5980,6 @@ xn--sandbx-games-iib.pages.dev
 xn--tnkeeper-0rb.com
 xn66ekl.pro
 xpancakeswap.pages.dev
-xpubactivationprotocol.pages.dev
 xpubweb-rectify.pages.dev
 xr7j5v.pro
 xrb3.pro
@@ -6047,7 +6036,6 @@ zerionu.com
 zerionweb3-noderewards.pages.dev
 zerollend.one
 zerounibaseslp.pages.dev
-zetachain.cm
 zetachain.one
 zetachainairdrop.vercel.app
 zetaswap.cm

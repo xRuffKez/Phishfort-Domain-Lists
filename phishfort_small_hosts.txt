@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May 10 11:07:53 UTC 2024
+# PhishFort Small Domain List - Fri May 10 12:06:49 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6096
+# Number of Entries: 6084
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -31,6 +31,7 @@
 0.0.0.0 1incha.coinmarketcap-app.com
 0.0.0.0 1inchfinance.com
 0.0.0.0 1inchnetwork.org
+0.0.0.0 1inchnetwork.top
 0.0.0.0 1inchwallet.app
 0.0.0.0 1inchwallet.org
 0.0.0.0 1lnch-claim.com
@@ -102,7 +103,6 @@
 0.0.0.0 aark.finance
 0.0.0.0 aark.pm
 0.0.0.0 aatranferinc.com
-0.0.0.0 aave-finance.net
 0.0.0.0 aave-gifts.com
 0.0.0.0 aave-pi.vercel.app
 0.0.0.0 aave.asia
@@ -1418,7 +1418,6 @@
 0.0.0.0 dapps-radar.pages.dev
 0.0.0.0 dapps.toolsynchr.online
 0.0.0.0 dappsapi.pages.dev
-0.0.0.0 dappsconnectapp.pages.dev
 0.0.0.0 dappsdropclaim.com
 0.0.0.0 dappsfixed.pages.dev
 0.0.0.0 dappsfixerweb.42web.io
@@ -1634,7 +1633,6 @@
 0.0.0.0 dymeansion.io
 0.0.0.0 dymension-approval.netlify.app
 0.0.0.0 dymension-claim.netlify.app
-0.0.0.0 dymension.pages.dev
 0.0.0.0 dymensiondrop.com
 0.0.0.0 dynamicvisionmanagement.com
 0.0.0.0 dyvmemsion.xyz
@@ -2803,7 +2801,6 @@
 0.0.0.0 manta7.pages.dev
 0.0.0.0 manta8.pages.dev
 0.0.0.0 mantaclick.vercel.app
-0.0.0.0 mantacoins-wallet.com
 0.0.0.0 mantanetwork.events
 0.0.0.0 mantao-network.life
 0.0.0.0 mantao-network.xyz
@@ -3546,7 +3543,6 @@
 0.0.0.0 opemnsea.io
 0.0.0.0 open-6lz.pages.dev
 0.0.0.0 open-sea.systeme.io
-0.0.0.0 open-seaio.github.io
 0.0.0.0 open-seasclick.vercel.app
 0.0.0.0 open-zkbridge.com
 0.0.0.0 open2mysterybox.vercel.app
@@ -3565,7 +3561,6 @@
 0.0.0.0 opensea-pronfts.vercel.app
 0.0.0.0 opensea.app
 0.0.0.0 opensea.io.in
-0.0.0.0 opensea.lc
 0.0.0.0 openseaclaim43.vercel.app
 0.0.0.0 openseaclickclaims01.vercel.app
 0.0.0.0 openseanft-projs.vercel.app
@@ -3648,7 +3643,6 @@
 0.0.0.0 pacific-bridge-manta.cyou
 0.0.0.0 pacific-bridge.manta.nework.live
 0.0.0.0 pacificmanta.vercel.app
-0.0.0.0 pacificparadigm.org
 0.0.0.0 pacifics-manta-network.pages.dev
 0.0.0.0 pacificswap.app
 0.0.0.0 pacmoon.cash
@@ -3783,6 +3777,7 @@
 0.0.0.0 pancakeswapclaimbox.com
 0.0.0.0 pancakeswapclaimdropnow.com
 0.0.0.0 pancakeswapclaimmdrop.com
+0.0.0.0 pancakeswapclaimz01.vercel.app
 0.0.0.0 pancakeswapclick04.vercel.app
 0.0.0.0 pancakeswapcrypto.com
 0.0.0.0 pancakeswapdrop.com
@@ -3841,7 +3836,6 @@
 0.0.0.0 pangolin-x.com
 0.0.0.0 pankaceswap.tech
 0.0.0.0 pankcakeswap.com
-0.0.0.0 panoshidaapsintegration.netlify.app
 0.0.0.0 panteamspark.com
 0.0.0.0 pape-coin.net
 0.0.0.0 pape-tokens.org
@@ -4522,7 +4516,6 @@
 0.0.0.0 securenetsync.pages.dev
 0.0.0.0 secureswapupdated.pages.dev
 0.0.0.0 secureupdradelive.nl
-0.0.0.0 securewebdapp.pages.dev
 0.0.0.0 seeddify-fund.com
 0.0.0.0 seedfry.com
 0.0.0.0 seedifyfund.click
@@ -4693,7 +4686,6 @@
 0.0.0.0 sor-nft.web.app
 0.0.0.0 space-catch.web.app
 0.0.0.0 spaceld.cyou
-0.0.0.0 spacequest-jup.ag
 0.0.0.0 spacex-airdrop-1f381.web.app
 0.0.0.0 spark-claim.org
 0.0.0.0 spark-fi.xyz
@@ -4735,7 +4727,6 @@
 0.0.0.0 stakepcss-v3.com
 0.0.0.0 stakestone.iostone.lodhapetro.com
 0.0.0.0 stakestone.mom
-0.0.0.0 stakestone.site
 0.0.0.0 stakewise.li
 0.0.0.0 stakezircuit.xyz
 0.0.0.0 staking-0lz83.github.io
@@ -5978,7 +5969,6 @@
 0.0.0.0 xn--fxedflaot-vpb.net
 0.0.0.0 xn--fxedflaot-vpbc.com
 0.0.0.0 xn--fxedflcoat-68a.com
-0.0.0.0 xn--fxedfllaot-k8a.com
 0.0.0.0 xn--fxedflloat-xub.com
 0.0.0.0 xn--fxedfloat-q5af.com
 0.0.0.0 xn--fxedflooad-68a.com
@@ -5991,7 +5981,6 @@
 0.0.0.0 xn--tnkeeper-0rb.com
 0.0.0.0 xn66ekl.pro
 0.0.0.0 xpancakeswap.pages.dev
-0.0.0.0 xpubactivationprotocol.pages.dev
 0.0.0.0 xpubweb-rectify.pages.dev
 0.0.0.0 xr7j5v.pro
 0.0.0.0 xrb3.pro
@@ -6048,7 +6037,6 @@
 0.0.0.0 zerionweb3-noderewards.pages.dev
 0.0.0.0 zerollend.one
 0.0.0.0 zerounibaseslp.pages.dev
-0.0.0.0 zetachain.cm
 0.0.0.0 zetachain.one
 0.0.0.0 zetachainairdrop.vercel.app
 0.0.0.0 zetaswap.cm
