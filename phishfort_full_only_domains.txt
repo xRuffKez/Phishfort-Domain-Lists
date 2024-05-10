@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Fri May 10 15:01:58 UTC 2024
+# PhishFort Full Domain List - Fri May 10 16:02:08 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109358
+# Number of Entries: 109361
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -5077,6 +5077,7 @@ aopandaparty.penfts.com
 aopandaparty.shop
 aoption.online
 aosfl.com
+aoshearmanllp.com
 aotuworld.nft-premint.com
 aotuworld.xyz
 ap-apestaking.com
@@ -25163,6 +25164,7 @@ dbrsleader.com
 dbrsleader.net
 dbrsltd.com
 dbrspro.com
+dbrspro.net
 dbrspty.com
 dbslogistic.com
 dbsxpress.com
@@ -97848,6 +97850,7 @@ wwe-envivo.com
 wwebeltsfans.store
 wwebltkubnetc.1gb.ru
 wwebsbltkubs-com.1gb.ru
+wwechampionsbelts.com
 wwecorp-okta.com
 wwedapps.pages.dev
 wwefanhop.com
