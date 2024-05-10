@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Fri May 10 03:05:22 UTC 2024
+# PhishFort Small Domain List - Fri May 10 04:05:15 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 6095
@@ -173,6 +173,7 @@
 0.0.0.0 agoda.confirm139233.com
 0.0.0.0 agoda.extra-checks.com
 0.0.0.0 agoda.host
+0.0.0.0 agoda.info5886.com
 0.0.0.0 agoda.info631.com
 0.0.0.0 agoda.offer18239.com
 0.0.0.0 agoda.partner-extranet.info
@@ -648,7 +649,6 @@
 0.0.0.0 bac-swappcoin.web.app
 0.0.0.0 badge-chain.link
 0.0.0.0 badges-chain.link
-0.0.0.0 bafkreiagunr2sbunsmqb7eaoa5x5qeonkicuthxuoq3rzyy3s775dzknie.ipfs.dweb.link
 0.0.0.0 bafybeiacdlff4jtqcufouraliealwkunukjhozwiy7mdojmsq45xzswlri.ipfs.dweb.link
 0.0.0.0 bafybeianm7lllm6v2rpyuah5gzsh22gxfikab5ie3xei6f2n3ngfvsx524.ipfs.dweb.link
 0.0.0.0 bafybeiaqyixakyqz7ywj3o6yeug5bsxp5fro6s55uh32j4mmhrdrjgsluq.ipfs.dweb.link

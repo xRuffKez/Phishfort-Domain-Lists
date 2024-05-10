@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Fri May 10 03:05:22 UTC 2024
+# PhishFort Small Domain List - Fri May 10 04:05:15 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 6095
 # Project: PhishFort (https://phishfort.com/)
@@ -172,6 +172,7 @@ agoda.config-guest178.com
 agoda.confirm139233.com
 agoda.extra-checks.com
 agoda.host
+agoda.info5886.com
 agoda.info631.com
 agoda.offer18239.com
 agoda.partner-extranet.info
@@ -647,7 +648,6 @@ bac-swapcoins.web.app
 bac-swappcoin.web.app
 badge-chain.link
 badges-chain.link
-bafkreiagunr2sbunsmqb7eaoa5x5qeonkicuthxuoq3rzyy3s775dzknie.ipfs.dweb.link
 bafybeiacdlff4jtqcufouraliealwkunukjhozwiy7mdojmsq45xzswlri.ipfs.dweb.link
 bafybeianm7lllm6v2rpyuah5gzsh22gxfikab5ie3xei6f2n3ngfvsx524.ipfs.dweb.link
 bafybeiaqyixakyqz7ywj3o6yeug5bsxp5fro6s55uh32j4mmhrdrjgsluq.ipfs.dweb.link
