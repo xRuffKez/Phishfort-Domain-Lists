@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May 10 11:02:03 UTC 2024
+# PhishFort Full Domain List - Fri May 10 12:02:37 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109351
+# Number of Entries: 109353
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -696,6 +696,7 @@
 ||1inchnetwork-web.com^
 ||1inchnetwork.claims^
 ||1inchnetwork.org^
+||1inchnetwork.top^
 ||1inchnetwork156.net^
 ||1inchnetwork2024.net^
 ||1inchnetworkclaim.com^
@@ -67063,6 +67064,7 @@
 ||pancakeswapclaimdropnow.com^
 ||pancakeswapclaimmdrop.com^
 ||pancakeswapclaims.com^
+||pancakeswapclaimz01.vercel.app^
 ||pancakeswapclassic.com^
 ||pancakeswapclassic.finance^
 ||pancakeswapclean.pages.dev^

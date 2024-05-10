@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May 10 11:02:03 UTC 2024
+# PhishFort Full Domain List - Fri May 10 12:02:37 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109351
+# Number of Entries: 109353
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -696,6 +696,7 @@
 0.0.0.0 1inchnetwork-web.com
 0.0.0.0 1inchnetwork.claims
 0.0.0.0 1inchnetwork.org
+0.0.0.0 1inchnetwork.top
 0.0.0.0 1inchnetwork156.net
 0.0.0.0 1inchnetwork2024.net
 0.0.0.0 1inchnetworkclaim.com
@@ -67063,6 +67064,7 @@
 0.0.0.0 pancakeswapclaimdropnow.com
 0.0.0.0 pancakeswapclaimmdrop.com
 0.0.0.0 pancakeswapclaims.com
+0.0.0.0 pancakeswapclaimz01.vercel.app
 0.0.0.0 pancakeswapclassic.com
 0.0.0.0 pancakeswapclassic.finance
 0.0.0.0 pancakeswapclean.pages.dev
