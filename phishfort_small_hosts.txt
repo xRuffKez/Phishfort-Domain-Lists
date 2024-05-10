@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May 10 14:05:04 UTC 2024
+# PhishFort Small Domain List - Fri May 10 15:05:12 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6087
+# Number of Entries: 6084
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1022,7 +1022,6 @@
 0.0.0.0 chevropromoo.com
 0.0.0.0 chevroservice.syspartech.com
 0.0.0.0 chhatrapatitimes.com
-0.0.0.0 childporn.umb.market
 0.0.0.0 chndemarloonst.com
 0.0.0.0 choupettesolana.com
 0.0.0.0 chriscraft.shop
@@ -2035,7 +2034,6 @@
 0.0.0.0 genpartstore.com
 0.0.0.0 gensis-dymension.xyz
 0.0.0.0 george-watson.co.uk
-0.0.0.0 get-blast.com
 0.0.0.0 get-entangle.com
 0.0.0.0 get-grass.io
 0.0.0.0 get-link.tech
@@ -2874,7 +2872,6 @@
 0.0.0.0 mavia.cc
 0.0.0.0 mavia.land
 0.0.0.0 mavia.lc
-0.0.0.0 mavia.pages.dev
 0.0.0.0 mavia.pm
 0.0.0.0 mavia.website
 0.0.0.0 mavia.work
@@ -3974,6 +3971,7 @@
 0.0.0.0 penguin-iq.com
 0.0.0.0 penguin-verlagsgruppe.de
 0.0.0.0 penguinrandomh0use.com
+0.0.0.0 penguinrandomhouse.pro
 0.0.0.0 penguinrandomhouseworldwide.com
 0.0.0.0 pepe-memes.com
 0.0.0.0 pepe-now.network
@@ -5866,7 +5864,6 @@
 0.0.0.0 www.registrar-mavia.com
 0.0.0.0 www.resolve-mm.com
 0.0.0.0 www.revoke-approvals.xyz.polarmates.top
-0.0.0.0 www.revoke-wallet.com
 0.0.0.0 www.revokecash.store
 0.0.0.0 www.revokecash.us
 0.0.0.0 www.revokecontract.xyz

@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Fri May 10 14:05:04 UTC 2024
+# PhishFort Small Domain List - Fri May 10 15:05:12 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6087
+# Number of Entries: 6084
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1021,7 +1021,6 @@ chevroletshopdrive.ws
 chevropromoo.com
 chevroservice.syspartech.com
 chhatrapatitimes.com
-childporn.umb.market
 chndemarloonst.com
 choupettesolana.com
 chriscraft.shop
@@ -2034,7 +2033,6 @@ genixs.co
 genpartstore.com
 gensis-dymension.xyz
 george-watson.co.uk
-get-blast.com
 get-entangle.com
 get-grass.io
 get-link.tech
@@ -2873,7 +2871,6 @@ mavia.bz
 mavia.cc
 mavia.land
 mavia.lc
-mavia.pages.dev
 mavia.pm
 mavia.website
 mavia.work
@@ -3973,6 +3970,7 @@ pengsolana.org
 penguin-iq.com
 penguin-verlagsgruppe.de
 penguinrandomh0use.com
+penguinrandomhouse.pro
 penguinrandomhouseworldwide.com
 pepe-memes.com
 pepe-now.network
@@ -5865,7 +5863,6 @@ www.reflexer.pro
 www.registrar-mavia.com
 www.resolve-mm.com
 www.revoke-approvals.xyz.polarmates.top
-www.revoke-wallet.com
 www.revokecash.store
 www.revokecash.us
 www.revokecontract.xyz
