@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Fri May 10 15:05:12 UTC 2024
+# PhishFort Small Domain List - Fri May 10 16:06:09 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 6084
@@ -368,6 +368,7 @@
 0.0.0.0 anisovil.pro
 0.0.0.0 ankr.world
 0.0.0.0 aojz.cc
+0.0.0.0 aoshearmanllp.com
 0.0.0.0 apechainreload.com
 0.0.0.0 apecoin-aidrop-claim.codeanyapp.com
 0.0.0.0 apecoin-airdrop-claim-pooldrop.codeanyapp.com
@@ -1459,6 +1460,7 @@
 0.0.0.0 dbrsfin.com
 0.0.0.0 dbrsfin.net
 0.0.0.0 dbrspro.com
+0.0.0.0 dbrspro.net
 0.0.0.0 dddow.com
 0.0.0.0 dddx.cnxunkewang.vip
 0.0.0.0 de-fi.events
@@ -2108,7 +2110,6 @@
 0.0.0.0 greendot-group-team.pages.dev
 0.0.0.0 greens-bitcoins.web.app
 0.0.0.0 grin.pages.dev
-0.0.0.0 grit-finance.com
 0.0.0.0 grokcoinlab.xyz
 0.0.0.0 grt.altcoinspads.top
 0.0.0.0 grt.altscoin.top
@@ -4148,7 +4149,6 @@
 0.0.0.0 pudgypenguines.com
 0.0.0.0 puffer-quesst.info
 0.0.0.0 puffer-quest-app.info
-0.0.0.0 puffer.pages.dev
 0.0.0.0 pull-750.mavis-hub.axieinfinity.services
 0.0.0.0 pulse-bridge.app
 0.0.0.0 pulsebitclaim.live
@@ -4328,7 +4328,6 @@
 0.0.0.0 revokecontract.xyz
 0.0.0.0 revokedapps.pages.dev
 0.0.0.0 revokeecash.com
-0.0.0.0 revokenode.com
 0.0.0.0 revokeu.cash
 0.0.0.0 revweb3-access.pages.dev
 0.0.0.0 reward-1inch.com
@@ -5564,6 +5563,7 @@
 0.0.0.0 wub6y7o.pro
 0.0.0.0 wuqqrf3t7.life
 0.0.0.0 wwe-envivo.com
+0.0.0.0 wwechampionsbelts.com
 0.0.0.0 wwecorp-okta.com
 0.0.0.0 wwemerch.shop
 0.0.0.0 wwenser.xyz

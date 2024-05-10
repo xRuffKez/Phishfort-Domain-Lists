@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Fri May 10 15:05:12 UTC 2024
+# PhishFort Small Domain List - Fri May 10 16:06:09 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
 # Number of Entries: 6084
@@ -368,6 +368,7 @@
 ||anisovil.pro^
 ||ankr.world^
 ||aojz.cc^
+||aoshearmanllp.com^
 ||apechainreload.com^
 ||apecoin-aidrop-claim.codeanyapp.com^
 ||apecoin-airdrop-claim-pooldrop.codeanyapp.com^
@@ -1459,6 +1460,7 @@
 ||dbrsfin.com^
 ||dbrsfin.net^
 ||dbrspro.com^
+||dbrspro.net^
 ||dddow.com^
 ||dddx.cnxunkewang.vip^
 ||de-fi.events^
@@ -2108,7 +2110,6 @@
 ||greendot-group-team.pages.dev^
 ||greens-bitcoins.web.app^
 ||grin.pages.dev^
-||grit-finance.com^
 ||grokcoinlab.xyz^
 ||grt.altcoinspads.top^
 ||grt.altscoin.top^
@@ -4148,7 +4149,6 @@
 ||pudgypenguines.com^
 ||puffer-quesst.info^
 ||puffer-quest-app.info^
-||puffer.pages.dev^
 ||pull-750.mavis-hub.axieinfinity.services^
 ||pulse-bridge.app^
 ||pulsebitclaim.live^
@@ -4328,7 +4328,6 @@
 ||revokecontract.xyz^
 ||revokedapps.pages.dev^
 ||revokeecash.com^
-||revokenode.com^
 ||revokeu.cash^
 ||revweb3-access.pages.dev^
 ||reward-1inch.com^
@@ -5564,6 +5563,7 @@
 ||wub6y7o.pro^
 ||wuqqrf3t7.life^
 ||wwe-envivo.com^
+||wwechampionsbelts.com^
 ||wwecorp-okta.com^
 ||wwemerch.shop^
 ||wwenser.xyz^
