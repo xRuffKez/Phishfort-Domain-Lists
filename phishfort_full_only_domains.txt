@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Fri May 10 14:02:11 UTC 2024
+# PhishFort Full Domain List - Fri May 10 15:01:58 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109357
+# Number of Entries: 109358
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -70068,6 +70068,7 @@ penguin-iq.com
 penguin-verlagsgruppe.de
 penguincoin.xyz
 penguinrandomh0use.com
+penguinrandomhouse.pro
 penguinrandomhouseglobal.com
 penguinrandomhouseofficial.com
 penguinrandomhouseworldwide.com

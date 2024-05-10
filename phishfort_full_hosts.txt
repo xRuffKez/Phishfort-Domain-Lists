@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May 10 14:02:11 UTC 2024
+# PhishFort Full Domain List - Fri May 10 15:01:58 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109357
+# Number of Entries: 109358
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -70069,6 +70069,7 @@
 0.0.0.0 penguin-verlagsgruppe.de
 0.0.0.0 penguincoin.xyz
 0.0.0.0 penguinrandomh0use.com
+0.0.0.0 penguinrandomhouse.pro
 0.0.0.0 penguinrandomhouseglobal.com
 0.0.0.0 penguinrandomhouseofficial.com
 0.0.0.0 penguinrandomhouseworldwide.com
