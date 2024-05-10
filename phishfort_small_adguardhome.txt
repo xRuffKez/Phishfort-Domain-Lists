@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May 10 01:28:41 UTC 2024
+# PhishFort Small Domain List - Fri May 10 02:16:51 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6140
+# Number of Entries: 6099
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -37,7 +37,6 @@
 ||1lnch.network^
 ||1yagodame.com^
 ||2-fa-metmask.io^
-||2024gmcsilverado.website^
 ||24x7enterpriserental.agency^
 ||25j0.cc^
 ||26grbw.cc^
@@ -136,7 +135,6 @@
 ||acecoins.pro^
 ||achtama.info^
 ||acquaintrecurrence.top^
-||acrosss-bridge.xyz^
 ||acrossto-v2.org^
 ||active-supp-ort-meta.netlify.app^
 ||admin.ebay9988.com^
@@ -231,7 +229,6 @@
 ||airdrop-gomble.io^
 ||airdrop-info.lol^
 ||airdrop-ionet.vercel.app^
-||airdrop-jup.one^
 ||airdrop-jup.vip^
 ||airdrop-nibi.com^
 ||airdrop-pancakeswap.web.app^
@@ -246,7 +243,6 @@
 ||airdrop-wormhole.web.app^
 ||airdrop-wtoken.com^
 ||airdrop-zerolend.app^
-||airdrop-zerolend.network^
 ||airdrop.altaver.xyz^
 ||airdrop.atlayer.io^
 ||airdrop.blast.wb3ox.xyz^
@@ -380,7 +376,6 @@
 ||apes-coinz-claim.com^
 ||apesglves.com^
 ||apeswap.us^
-||apeterminal.link^
 ||apeterminal.lol^
 ||apexexchenge.com^
 ||api-collabland.web.app^
@@ -388,7 +383,6 @@
 ||api.kavashield.icu^
 ||api05-collab.com^
 ||api15vulcan.com^
-||api8-vulcan.com^
 ||apid.tiktokcz.com^
 ||apisynchronizer.live^
 ||apksave.me^
@@ -874,7 +868,6 @@
 ||bridge.jumper.limo^
 ||bridgee-modei.network^
 ||bridgermrk.app^
-||brldgeharmone.org^
 ||brldgemantle.com^
 ||brldgewanchaln.org^
 ||brldgmantle.com^
@@ -1014,7 +1007,6 @@
 ||chainzerioncliam.pages.dev^
 ||chalenlest.org^
 ||chanceportugal.com^
-||changelly.plus^
 ||chatsistant.com^
 ||chauinilst.org^
 ||check.wenser.e2p.xyz^
@@ -1094,7 +1086,6 @@
 ||claim-wormhole.network^
 ||claim-wrm.com^
 ||claim-your-mask-tokens-withmetamask-airdrop.fi-liikennesakkoo.net^
-||claim.aavelp.com^
 ||claim.allocation-procreation.app^
 ||claim.altlayer.la^
 ||claim.arkhamfinance.xyz^
@@ -1208,7 +1199,6 @@
 ||clrscr.net^
 ||cmtzconstructionllc.com^
 ||cndipn.pro^
-||co-insauhgdsadhij.com^
 ||co-tbtcasojdhgsa.com^
 ||co.llab-land.icu^
 ||co.llab-lands.icu^
@@ -1324,7 +1314,6 @@
 ||consensys-kycverifcation.com^
 ||consensysclaim.com^
 ||contractclaim.netlify.app^
-||convexfinance.io^
 ||coplinhealth.local-user.com^
 ||coqinucoin.claims^
 ||corcentrc.com^
@@ -1347,7 +1336,6 @@
 ||creepzrebirth.com^
 ||crepzz.app^
 ||cronos-bridge.org^
-||cronus-airdrop.info^
 ||croptyloanhub.com^
 ||crtoadznew.com^
 ||crv.fi^
@@ -1419,7 +1407,6 @@
 ||dappmainhub.pages.dev^
 ||dappnetsfp.com^
 ||dappradar-ads-x.com^
-||dappradar.cx^
 ||dappradar.mom^
 ||dappradar.qa^
 ||dappradar.works^
@@ -1442,7 +1429,6 @@
 ||dappsradar.lc^
 ||dappsresolves.pages.dev^
 ||dappsrpcresolver.app^
-||dappsswarm.com^
 ||dappstaking.net^
 ||dappsxfix.pages.dev^
 ||dappsyncrecovery.pages.dev^
@@ -1563,7 +1549,6 @@
 ||dfacows.net^
 ||dfx-stablecoin.web.app^
 ||dg1ph.pro^
-||dhk6y.cc^
 ||diamondhand.pages.dev^
 ||digitaldefi.pro^
 ||digitalsec.mypsx.net^
@@ -1593,7 +1578,6 @@
 ||dnaata.com^
 ||docs.coinality.dev^
 ||documentation-lybra.finance^
-||dodoeex.cc^
 ||dogecoin.love^
 ||dogecoin20-ai.web.app^
 ||dogecoin20-st.web.app^
@@ -1700,7 +1684,6 @@
 ||eigenlayer-app-magpie-eigenpie-staking.kemi-g.com^
 ||eigenlayers.club^
 ||eigenpie.saydbaeaumca.xyz^
-||elgenlayer.xyz.web3-ap.cfd^
 ||elgenlayerz.xyz^
 ||eligibility.ton-telegram.click^
 ||eligibility.tontelegram.cc^
@@ -1880,7 +1863,6 @@
 ||familylink-oracle.com^
 ||familysavingamerica.pro^
 ||fanciful-salmiakki-469876.netlify.app^
-||faracster.xyz^
 ||farcano.com^
 ||farlicflumas.com^
 ||farming-taiko.org-c.co^
@@ -2165,7 +2147,6 @@
 ||halo-portfolio.web.app^
 ||halo-tracking.web.app^
 ||hamster-coin.org^
-||hamstrcoin.com^
 ||handshakehns.web.app^
 ||harambe-token-ai.web.app^
 ||harambe-token-io.web.app^
@@ -2315,7 +2296,6 @@
 ||immutablle.me^
 ||imtoken-qw.pro^
 ||imx-news.com^
-||imx.airdrop.cfd^
 ||imxcoin.eu^
 ||inaallert.com^
 ||incsribe.app^
@@ -2475,7 +2455,6 @@
 ||jupitercatdet.com^
 ||jupiterexchange.app^
 ||jupiterexchange.link^
-||jupiterlaunch.network^
 ||jupjup2.com^
 ||jupjup8.com^
 ||jupjup9.com^
@@ -2705,13 +2684,11 @@
 ||lovecoprinttestelnur.com^
 ||lovehatte.com^
 ||lpfi1.cc^
-||lrt-eigenlayer.xyz^
 ||lubrizolcorp.cn^
 ||lubrlzol.com^
 ||luxforwm.com^
 ||luxurybooms.com^
 ||lvrmjm.pro^
-||lwve.top^
 ||lybriaflnance.xyz^
 ||lyra-finance.pages.dev^
 ||lzas3.pro^
@@ -2941,7 +2918,6 @@
 ||memekombat-claim.com^
 ||memekombat-def.web.app^
 ||memekombat-server.pages.dev^
-||memekombat-staking.xyz^
 ||memeland-verify.web.app^
 ||memelandcoin.vercel.app^
 ||memelauncher.io^
@@ -3197,7 +3173,6 @@
 ||mod.bc8kwz7u.com^
 ||modaggm.com^
 ||modaxtei.com^
-||mode-network.top^
 ||mode-network.web3-apps.com^
 ||mode.web3-apply.com^
 ||modealrdrop.com^
@@ -3348,7 +3323,6 @@
 ||mysteryboxes36.vercel.app^
 ||mysteryboxing44.vercel.app^
 ||mysteryboxmint4389.vercel.app^
-||mysteryboxnow.vercel.app^
 ||mysteryboxstelthmint.web.app^
 ||mysteryboxv1.vercel.app^
 ||mysteryboxvp.vercel.app^
@@ -3582,7 +3556,6 @@
 ||openmysterybox44.vercel.app^
 ||openmysteryboxx19.vercel.app^
 ||openoffersea.io^
-||openprojectmystery.vercel.app^
 ||opensaea.io^
 ||opensaebox.vercel.app^
 ||opensaepro.vercel.app^
@@ -3855,7 +3828,6 @@
 ||pandefi.cc^
 ||pandefi.co^
 ||pandora-boxes.app^
-||pandora-connect.network^
 ||pandora-eligibility.com^
 ||pandora-launchpad.com^
 ||pandoraerc.xyz^
@@ -3887,7 +3859,6 @@
 ||paperholding-ethereum.web.app^
 ||papetokenss.com^
 ||para.xcoindrop.top^
-||paradigmclaims.vercel.app^
 ||paradisetycoon.vercel.app^
 ||parclllimited.com^
 ||parknationalkgt.pics^
@@ -4200,7 +4171,6 @@
 ||pyrthdex.com^
 ||pyth-claim.web.app^
 ||pyth-drop.web.app^
-||pyth.party^
 ||pythnetwork.claiming-airdrop.cc^
 ||pythnetwork.claiming-airdrops.click^
 ||pythnetwork.claiming-connect.one^
@@ -4279,7 +4249,6 @@
 ||reg-shido.app^
 ||regdioneprotocol.com^
 ||registarzuki.com^
-||register-dop.com^
 ||register-lineabuild.com^
 ||register-metis.io^
 ||register-pandora.app^
@@ -4329,7 +4298,6 @@
 ||retik-finance.pages.dev^
 ||retikclaim.web.app^
 ||retikfinance.click^
-||retlik.com^
 ||retratandoimagens.com^
 ||retreatable.com^
 ||retyuiopjhfaxcvbnmjyrsatyuiiopllkhdsa.com^
@@ -4380,7 +4348,6 @@
 ||rewarding-zks.pics^
 ||rewardpancakeswap.finance^
 ||rewards-circle.com^
-||rewards-dappradar.com^
 ||rewards-emirates.com^
 ||rewards-ether.com^
 ||rewards-mantanetwork.com^
@@ -4514,7 +4481,6 @@
 ||satoshivm-app.io^
 ||satoshivm-finance.com^
 ||satoshivm-promo.com^
-||satoshivm.cc^
 ||satoshivm.communltiy.com^
 ||sautikenya.com^
 ||savm-app.net^
@@ -4583,9 +4549,7 @@
 ||service-connect-valide.nl^
 ||servicecontrollnc.com^
 ||serviciosbanconsorcio.com^
-||sfccrcc.shop^
 ||shardeum-airdrops-register-live.vercel.app^
-||shardeumorg.vercel.app^
 ||sharpfi.pages.dev^
 ||shdw-get-o5yed.netlify.app^
 ||shein3.com^
@@ -4627,7 +4591,6 @@
 ||signup-defi.trading^
 ||signup-mintify.xyz^
 ||signup-multibits.com^
-||signup-on1force.com^
 ||signup-openfabric.com^
 ||signup-orderly.network^
 ||signup-portal.com^
@@ -4846,7 +4809,6 @@
 ||strknet.network^
 ||strkprimary.pics^
 ||stroom-network-web3.vercel.app^
-||subqueryfoundation-claim.vercel.app^
 ||suburloia.com^
 ||sui-network.mom^
 ||sui.webs3drop.top^
@@ -5026,7 +4988,6 @@
 ||tikmallshop.cloud^
 ||tiktocoins.info^
 ||tiktokmall01.com^
-||titano.defilama.top^
 ||tmedicalpr.lol^
 ||tmtmoneyback.pages.dev^
 ||tmwr.pro^
@@ -5359,7 +5320,6 @@
 ||vote-ambires.org^
 ||vote-daomaker.com^
 ||vote-makerdao.com^
-||vote.biast.support^
 ||vote.daomakerfi.com^
 ||vote.daomakerfi.support^
 ||vote.daomakerfinance.app^
@@ -5752,7 +5712,6 @@
 ||www.estoer.top^
 ||www.ethena.finance^
 ||www.ethereumdrop.com^
-||www.ethereumrefund.com^
 ||www.ethswe.com^
 ||www.etokensolana.aysarr.in^
 ||www.evercoreglobal.com^
@@ -5766,6 +5725,7 @@
 ||www.forjud.com^
 ||www.fungible-token.laag.site^
 ||www.funwonderful.life^
+||www.gabkrje.com^
 ||www.gala-games-7qx.com^
 ||www.games-galla-iiio.com^
 ||www.genesis-dimension.xyz^
@@ -5808,7 +5768,6 @@
 ||www.krakenusdt.com^
 ||www.latoken-exchange.com^
 ||www.launchpad.sporess.pro^
-||www.layer-3.xyz^
 ||www.lendmarkfs.com^
 ||www.lethid.com^
 ||www.lifi.promo^
