@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May 10 00:18:28 UTC 2024
+# PhishFort Small Domain List - Fri May 10 01:28:41 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6148
+# Number of Entries: 6140
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -345,7 +345,6 @@
 ||altlayer.mom^
 ||altlayers.top^
 ||altlayre.cloud^
-||altredx.com^
 ||altsidentifier.com^
 ||ambires-event.com^
 ||ambitefinance.com^
@@ -1334,7 +1333,6 @@
 ||cortevainc.com^
 ||cosmos-networks.net^
 ||coti.xcoindrop.top^
-||cov.us-mia-1.linodeobjects.com^
 ||cow-swap.app^
 ||cowchange.com^
 ||cowswap.app^
@@ -1722,7 +1720,6 @@
 ||emiratesgroupae.online^
 ||emiratesholiday.net^
 ||emiratesvacationspackages.com^
-||emploeemygochek.com^
 ||empowerpersonalasset.com^
 ||empowerprivateasset.com^
 ||en.clcejuun.life^
@@ -2067,7 +2064,6 @@
 ||get-pancake.xyz^
 ||get-rewards.info^
 ||get-sharpnel.net^
-||get-solanamobile.com^
 ||get-starknet.io^
 ||get-wormhole.com^
 ||get.etherugas.wtf^
@@ -2103,7 +2099,6 @@
 ||globalshoptiktok.co^
 ||gmn.dvrcam.info^
 ||gmnt.org^
-||gmvendorbillinginterest.com^
 ||gnfymrm14.ukit.me^
 ||gnosis.gift^
 ||go-bookingline.com^
@@ -3319,7 +3314,6 @@
 ||myetherwalmet.com^
 ||myfirstproject.pages.dev^
 ||mygoemployerthesaw.com^
-||myjuppy-box.trade^
 ||mymetamasklogin.com^
 ||mymoneronline.info^
 ||mynewuimplclaim.com^
@@ -4392,7 +4386,6 @@
 ||rewards-mantanetwork.com^
 ||rewards-mantle.com^
 ||rewards-opsec.net^
-||rewards-solanamobile.com^
 ||rewards-taiko.com^
 ||rewards.carrbify.com^
 ||rewards.optimismlabs.org^
@@ -6040,7 +6033,6 @@
 ||xn--rustwallet-gyd.com^
 ||xn--sandbx-games-iib.pages.dev^
 ||xn--tnkeeper-0rb.com^
-||xn--zcr743ah35a.com^
 ||xn66ekl.pro^
 ||xpancakeswap.pages.dev^
 ||xpubactivationprotocol.pages.dev^

@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May 10 00:18:28 UTC 2024
+# PhishFort Small Domain List - Fri May 10 01:28:41 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6148
+# Number of Entries: 6140
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -345,7 +345,6 @@
 0.0.0.0 altlayer.mom
 0.0.0.0 altlayers.top
 0.0.0.0 altlayre.cloud
-0.0.0.0 altredx.com
 0.0.0.0 altsidentifier.com
 0.0.0.0 ambires-event.com
 0.0.0.0 ambitefinance.com
@@ -1334,7 +1333,6 @@
 0.0.0.0 cortevainc.com
 0.0.0.0 cosmos-networks.net
 0.0.0.0 coti.xcoindrop.top
-0.0.0.0 cov.us-mia-1.linodeobjects.com
 0.0.0.0 cow-swap.app
 0.0.0.0 cowchange.com
 0.0.0.0 cowswap.app
@@ -1722,7 +1720,6 @@
 0.0.0.0 emiratesgroupae.online
 0.0.0.0 emiratesholiday.net
 0.0.0.0 emiratesvacationspackages.com
-0.0.0.0 emploeemygochek.com
 0.0.0.0 empowerpersonalasset.com
 0.0.0.0 empowerprivateasset.com
 0.0.0.0 en.clcejuun.life
@@ -2067,7 +2064,6 @@
 0.0.0.0 get-pancake.xyz
 0.0.0.0 get-rewards.info
 0.0.0.0 get-sharpnel.net
-0.0.0.0 get-solanamobile.com
 0.0.0.0 get-starknet.io
 0.0.0.0 get-wormhole.com
 0.0.0.0 get.etherugas.wtf
@@ -2103,7 +2099,6 @@
 0.0.0.0 globalshoptiktok.co
 0.0.0.0 gmn.dvrcam.info
 0.0.0.0 gmnt.org
-0.0.0.0 gmvendorbillinginterest.com
 0.0.0.0 gnfymrm14.ukit.me
 0.0.0.0 gnosis.gift
 0.0.0.0 go-bookingline.com
@@ -3319,7 +3314,6 @@
 0.0.0.0 myetherwalmet.com
 0.0.0.0 myfirstproject.pages.dev
 0.0.0.0 mygoemployerthesaw.com
-0.0.0.0 myjuppy-box.trade
 0.0.0.0 mymetamasklogin.com
 0.0.0.0 mymoneronline.info
 0.0.0.0 mynewuimplclaim.com
@@ -4392,7 +4386,6 @@
 0.0.0.0 rewards-mantanetwork.com
 0.0.0.0 rewards-mantle.com
 0.0.0.0 rewards-opsec.net
-0.0.0.0 rewards-solanamobile.com
 0.0.0.0 rewards-taiko.com
 0.0.0.0 rewards.carrbify.com
 0.0.0.0 rewards.optimismlabs.org
@@ -6040,7 +6033,6 @@
 0.0.0.0 xn--rustwallet-gyd.com
 0.0.0.0 xn--sandbx-games-iib.pages.dev
 0.0.0.0 xn--tnkeeper-0rb.com
-0.0.0.0 xn--zcr743ah35a.com
 0.0.0.0 xn66ekl.pro
 0.0.0.0 xpancakeswap.pages.dev
 0.0.0.0 xpubactivationprotocol.pages.dev
