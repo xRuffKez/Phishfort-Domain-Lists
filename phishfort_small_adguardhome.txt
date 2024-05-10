@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May 10 18:05:27 UTC 2024
+# PhishFort Small Domain List - Fri May 10 19:04:43 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6080
+# Number of Entries: 6078
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -692,6 +692,7 @@
 ||benddoa.xyz^
 ||bendogsolana.top^
 ||benefits-blast.com^
+||benicikovet.com^
 ||bentenwif.com^
 ||benzksync.nfts2.me^
 ||beoible.app^
@@ -4123,7 +4124,6 @@
 ||promocaochevrobr.ws^
 ||promoochevro.com^
 ||promt-088x2.com^
-||pronkhub.ru^
 ||protect-guide.com^
 ||protocol-apex.com^
 ||protocol-carv.nl^
@@ -4513,7 +4513,6 @@
 ||secureupdradelive.nl^
 ||seeddify-fund.com^
 ||seedfry.com^
-||seedifyfund.click^
 ||seedifyfund.co^
 ||seeditfy.fund^
 ||segurototal2024.com^
@@ -4632,7 +4631,6 @@
 ||smartrectification.pages.dev^
 ||smartrevokenet.vercel.app^
 ||smartsheetusa.team^
-||smiley-token.network^
 ||smithbrotherrsconstruction.com^
 ||smog-token-st.web.app^
 ||smogtoken-io.web.app^
@@ -4662,6 +4660,7 @@
 ||solanadrainer.pages.dev^
 ||solanaetoken.e-classes.pro^
 ||solanapad.in^
+||solanawwe.com^
 ||solaptops.vercel.app^
 ||solarmy.eu^
 ||solcrabsmint2.vercel.app^
@@ -5839,7 +5838,6 @@
 ||www.pancakeswapv3.xyz^
 ||www.pandoras-build.com^
 ||www.pandoshi.net.bakery-swap.com^
-||www.paradigmagbi.ru^
 ||www.paxflapp.online^
 ||www.paxful.instenpay.com^
 ||www.paxosweb.top^

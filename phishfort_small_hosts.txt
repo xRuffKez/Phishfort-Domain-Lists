@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May 10 18:05:27 UTC 2024
+# PhishFort Small Domain List - Fri May 10 19:04:43 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6080
+# Number of Entries: 6078
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -692,6 +692,7 @@
 0.0.0.0 benddoa.xyz
 0.0.0.0 bendogsolana.top
 0.0.0.0 benefits-blast.com
+0.0.0.0 benicikovet.com
 0.0.0.0 bentenwif.com
 0.0.0.0 benzksync.nfts2.me
 0.0.0.0 beoible.app
@@ -4123,7 +4124,6 @@
 0.0.0.0 promocaochevrobr.ws
 0.0.0.0 promoochevro.com
 0.0.0.0 promt-088x2.com
-0.0.0.0 pronkhub.ru
 0.0.0.0 protect-guide.com
 0.0.0.0 protocol-apex.com
 0.0.0.0 protocol-carv.nl
@@ -4513,7 +4513,6 @@
 0.0.0.0 secureupdradelive.nl
 0.0.0.0 seeddify-fund.com
 0.0.0.0 seedfry.com
-0.0.0.0 seedifyfund.click
 0.0.0.0 seedifyfund.co
 0.0.0.0 seeditfy.fund
 0.0.0.0 segurototal2024.com
@@ -4632,7 +4631,6 @@
 0.0.0.0 smartrectification.pages.dev
 0.0.0.0 smartrevokenet.vercel.app
 0.0.0.0 smartsheetusa.team
-0.0.0.0 smiley-token.network
 0.0.0.0 smithbrotherrsconstruction.com
 0.0.0.0 smog-token-st.web.app
 0.0.0.0 smogtoken-io.web.app
@@ -4662,6 +4660,7 @@
 0.0.0.0 solanadrainer.pages.dev
 0.0.0.0 solanaetoken.e-classes.pro
 0.0.0.0 solanapad.in
+0.0.0.0 solanawwe.com
 0.0.0.0 solaptops.vercel.app
 0.0.0.0 solarmy.eu
 0.0.0.0 solcrabsmint2.vercel.app
@@ -5839,7 +5838,6 @@
 0.0.0.0 www.pancakeswapv3.xyz
 0.0.0.0 www.pandoras-build.com
 0.0.0.0 www.pandoshi.net.bakery-swap.com
-0.0.0.0 www.paradigmagbi.ru
 0.0.0.0 www.paxflapp.online
 0.0.0.0 www.paxful.instenpay.com
 0.0.0.0 www.paxosweb.top
