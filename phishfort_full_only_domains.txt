@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Fri May 10 12:02:37 UTC 2024
+# PhishFort Full Domain List - Fri May 10 13:02:48 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109353
+# Number of Entries: 109357
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -42564,6 +42564,8 @@ klarnaitalysrl.welfare.it
 klarnapay.eu
 klarnapay.to
 klarnapayment.de
+klarnas.cc
+klarnas.shop
 klarnasecure.com
 klarnashop.cc
 klarnashop.vip
@@ -97466,6 +97468,7 @@ womenapeyachtclub-mint.netlify.app
 womenapeyachtclub.truly-mints.com
 womenapeyc-mints.netlify.app
 womenapeyc.minting-list.com
+womensecretoutlet.shop
 womsbat.com
 wonder-land.app
 wonderful-licorice-edcaea.netlify.app
@@ -98551,6 +98554,7 @@ www.airtm.us
 www.airtmliberatupotencial.site
 www.ait-claim.com
 www.ait.gift
+www.ajbell-co.com
 www.ajiomall.com
 www.akidcalledbeast-claims.com
 www.alameda-assets.site

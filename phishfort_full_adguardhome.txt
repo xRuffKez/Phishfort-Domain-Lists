@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May 10 12:02:37 UTC 2024
+# PhishFort Full Domain List - Fri May 10 13:02:48 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109353
+# Number of Entries: 109357
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -42565,6 +42565,8 @@
 ||klarnapay.eu^
 ||klarnapay.to^
 ||klarnapayment.de^
+||klarnas.cc^
+||klarnas.shop^
 ||klarnasecure.com^
 ||klarnashop.cc^
 ||klarnashop.vip^
@@ -97467,6 +97469,7 @@
 ||womenapeyachtclub.truly-mints.com^
 ||womenapeyc-mints.netlify.app^
 ||womenapeyc.minting-list.com^
+||womensecretoutlet.shop^
 ||womsbat.com^
 ||wonder-land.app^
 ||wonderful-licorice-edcaea.netlify.app^
@@ -98552,6 +98555,7 @@
 ||www.airtmliberatupotencial.site^
 ||www.ait-claim.com^
 ||www.ait.gift^
+||www.ajbell-co.com^
 ||www.ajiomall.com^
 ||www.akidcalledbeast-claims.com^
 ||www.alameda-assets.site^

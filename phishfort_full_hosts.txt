@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May 10 12:02:37 UTC 2024
+# PhishFort Full Domain List - Fri May 10 13:02:48 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109353
+# Number of Entries: 109357
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -42565,6 +42565,8 @@
 0.0.0.0 klarnapay.eu
 0.0.0.0 klarnapay.to
 0.0.0.0 klarnapayment.de
+0.0.0.0 klarnas.cc
+0.0.0.0 klarnas.shop
 0.0.0.0 klarnasecure.com
 0.0.0.0 klarnashop.cc
 0.0.0.0 klarnashop.vip
@@ -97467,6 +97469,7 @@
 0.0.0.0 womenapeyachtclub.truly-mints.com
 0.0.0.0 womenapeyc-mints.netlify.app
 0.0.0.0 womenapeyc.minting-list.com
+0.0.0.0 womensecretoutlet.shop
 0.0.0.0 womsbat.com
 0.0.0.0 wonder-land.app
 0.0.0.0 wonderful-licorice-edcaea.netlify.app
@@ -98552,6 +98555,7 @@
 0.0.0.0 www.airtmliberatupotencial.site
 0.0.0.0 www.ait-claim.com
 0.0.0.0 www.ait.gift
+0.0.0.0 www.ajbell-co.com
 0.0.0.0 www.ajiomall.com
 0.0.0.0 www.akidcalledbeast-claims.com
 0.0.0.0 www.alameda-assets.site
