@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Fri May 10 18:01:59 UTC 2024
+# PhishFort Full Domain List - Fri May 10 19:01:58 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109363
+# Number of Entries: 109365
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -11143,6 +11143,7 @@ benefits-aave.com
 benefits-blast.com
 benefy.finance
 beneth.co
+benicikovet.com
 benitriodel.top
 benkent.site
 bennychophouse.com
@@ -81584,6 +81585,7 @@ solanawen.com
 solanawilton.com
 solanawinter.digital
 solanawinter.live
+solanawwe.com
 solanax10.info
 solanax10.net
 solanax2.net

@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May 10 18:01:59 UTC 2024
+# PhishFort Full Domain List - Fri May 10 19:01:58 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109363
+# Number of Entries: 109365
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -11144,6 +11144,7 @@
 0.0.0.0 benefits-blast.com
 0.0.0.0 benefy.finance
 0.0.0.0 beneth.co
+0.0.0.0 benicikovet.com
 0.0.0.0 benitriodel.top
 0.0.0.0 benkent.site
 0.0.0.0 bennychophouse.com
@@ -81585,6 +81586,7 @@
 0.0.0.0 solanawilton.com
 0.0.0.0 solanawinter.digital
 0.0.0.0 solanawinter.live
+0.0.0.0 solanawwe.com
 0.0.0.0 solanax10.info
 0.0.0.0 solanax10.net
 0.0.0.0 solanax2.net
