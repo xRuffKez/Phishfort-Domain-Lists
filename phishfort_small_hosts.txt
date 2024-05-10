@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May 10 02:16:51 UTC 2024
+# PhishFort Small Domain List - Fri May 10 03:05:22 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6099
+# Number of Entries: 6095
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1309,7 +1309,6 @@
 0.0.0.0 connectdappsuniverse.click
 0.0.0.0 connectextension.info
 0.0.0.0 connectprotocol.42web.io
-0.0.0.0 connects-nibiru.com
 0.0.0.0 conocophillispcorp.com
 0.0.0.0 consensys-kycverifcation.com
 0.0.0.0 consensysclaim.com
@@ -1654,6 +1653,7 @@
 0.0.0.0 earn-defipool.com
 0.0.0.0 earn-pancakeswap.finance
 0.0.0.0 earn-taopads.web.app
+0.0.0.0 earn-web3pool.com
 0.0.0.0 earndrop-checker.com
 0.0.0.0 earned-linea.com
 0.0.0.0 earnifiapp.xyz
@@ -1826,7 +1826,6 @@
 0.0.0.0 events-pancakeswap.finance
 0.0.0.0 events-pandora.com
 0.0.0.0 events-pendle.fi
-0.0.0.0 events-polkadot.network
 0.0.0.0 evercorecapitalgroup.com
 0.0.0.0 evercoregmbh.com
 0.0.0.0 evernode-airdrop.com
@@ -4255,7 +4254,6 @@
 0.0.0.0 register-qubic.org
 0.0.0.0 register-smartlayer.network
 0.0.0.0 register-snap.com
-0.0.0.0 register-solanamobile.com
 0.0.0.0 register-syncus.com
 0.0.0.0 register-yuliverse.app
 0.0.0.0 register.availproject.trading
@@ -4648,7 +4646,6 @@
 0.0.0.0 smiley-token.network
 0.0.0.0 smithbrotherrsconstruction.com
 0.0.0.0 smog-token-st.web.app
-0.0.0.0 smogsolana.com
 0.0.0.0 smogtoken-io.web.app
 0.0.0.0 smogtokens.vip
 0.0.0.0 smogtokens.xyz
@@ -5191,7 +5188,6 @@
 0.0.0.0 univ4-platform.pages.dev
 0.0.0.0 unknownbasenfts2.me
 0.0.0.0 unniswapp.com
-0.0.0.0 unsiwap.app-swap.us.org
 0.0.0.0 unstoppable-domains.top
 0.0.0.0 unstoppabledomains.me
 0.0.0.0 unstoppableweb.digital

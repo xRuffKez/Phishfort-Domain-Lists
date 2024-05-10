@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May 10 02:16:51 UTC 2024
+# PhishFort Small Domain List - Fri May 10 03:05:22 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6099
+# Number of Entries: 6095
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1309,7 +1309,6 @@
 ||connectdappsuniverse.click^
 ||connectextension.info^
 ||connectprotocol.42web.io^
-||connects-nibiru.com^
 ||conocophillispcorp.com^
 ||consensys-kycverifcation.com^
 ||consensysclaim.com^
@@ -1654,6 +1653,7 @@
 ||earn-defipool.com^
 ||earn-pancakeswap.finance^
 ||earn-taopads.web.app^
+||earn-web3pool.com^
 ||earndrop-checker.com^
 ||earned-linea.com^
 ||earnifiapp.xyz^
@@ -1826,7 +1826,6 @@
 ||events-pancakeswap.finance^
 ||events-pandora.com^
 ||events-pendle.fi^
-||events-polkadot.network^
 ||evercorecapitalgroup.com^
 ||evercoregmbh.com^
 ||evernode-airdrop.com^
@@ -4255,7 +4254,6 @@
 ||register-qubic.org^
 ||register-smartlayer.network^
 ||register-snap.com^
-||register-solanamobile.com^
 ||register-syncus.com^
 ||register-yuliverse.app^
 ||register.availproject.trading^
@@ -4648,7 +4646,6 @@
 ||smiley-token.network^
 ||smithbrotherrsconstruction.com^
 ||smog-token-st.web.app^
-||smogsolana.com^
 ||smogtoken-io.web.app^
 ||smogtokens.vip^
 ||smogtokens.xyz^
@@ -5191,7 +5188,6 @@
 ||univ4-platform.pages.dev^
 ||unknownbasenfts2.me^
 ||unniswapp.com^
-||unsiwap.app-swap.us.org^
 ||unstoppable-domains.top^
 ||unstoppabledomains.me^
 ||unstoppableweb.digital^
