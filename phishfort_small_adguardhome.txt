@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May 10 16:06:09 UTC 2024
+# PhishFort Small Domain List - Fri May 10 17:04:43 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6084
+# Number of Entries: 6080
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -427,7 +427,6 @@
 ||app-venus.io^
 ||app-wormhole.com^
 ||app-xpet.tech^
-||app.1inch.lc^
 ||app.1insh.io^
 ||app.2-airtm.cam^
 ||app.activitye.xyz^
@@ -1183,6 +1182,7 @@
 ||clifford-l-chance.com^
 ||clifford-law-chance.com^
 ||cliffordchance-international.com^
+||cliffordchance-merger-acquisition.com^
 ||cliffordchance.business^
 ||cliffordchance.site^
 ||cliffordchance.top^
@@ -1654,7 +1654,6 @@
 ||earn-pancakeswap.finance^
 ||earn-taopads.web.app^
 ||earn-web3pool.com^
-||earndrop-checker.com^
 ||earned-linea.com^
 ||earnifiapp.xyz^
 ||earnifinance.xyz^
@@ -2708,7 +2707,6 @@
 ||m.teck-invest.com^
 ||m.v3derivatives.site^
 ||m1.troncan.pro^
-||maekrdao.com^
 ||mag-boxdao.web.app^
 ||magamemeccin.com^
 ||magamemecoin.cash^
@@ -4239,7 +4237,6 @@
 ||refund.shidoprotocols.com^
 ||refund.wallstretmemes.app^
 ||reg-etherfi.app^
-||reg-metis.io^
 ||reg-shib.com^
 ||reg-shido.app^
 ||regdioneprotocol.com^
@@ -5227,8 +5224,6 @@
 ||validatorsync.net^
 ||valikane.com^
 ||valikut.com^
-||valilake.com^
-||valimest.com^
 ||valitame.com^
 ||valoklin.com^
 ||valoxeno.com^
@@ -5568,6 +5563,7 @@
 ||wwemerch.shop^
 ||wwenser.xyz^
 ||wwepunch.shop^
+||wwewatch.com^
 ||www-1inch.top^
 ||www-adpworkforcenow.com^
 ||www-app-1inch.com^

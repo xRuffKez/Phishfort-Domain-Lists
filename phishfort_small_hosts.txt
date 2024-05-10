@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May 10 16:06:09 UTC 2024
+# PhishFort Small Domain List - Fri May 10 17:04:43 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6084
+# Number of Entries: 6080
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -427,7 +427,6 @@
 0.0.0.0 app-venus.io
 0.0.0.0 app-wormhole.com
 0.0.0.0 app-xpet.tech
-0.0.0.0 app.1inch.lc
 0.0.0.0 app.1insh.io
 0.0.0.0 app.2-airtm.cam
 0.0.0.0 app.activitye.xyz
@@ -1183,6 +1182,7 @@
 0.0.0.0 clifford-l-chance.com
 0.0.0.0 clifford-law-chance.com
 0.0.0.0 cliffordchance-international.com
+0.0.0.0 cliffordchance-merger-acquisition.com
 0.0.0.0 cliffordchance.business
 0.0.0.0 cliffordchance.site
 0.0.0.0 cliffordchance.top
@@ -1654,7 +1654,6 @@
 0.0.0.0 earn-pancakeswap.finance
 0.0.0.0 earn-taopads.web.app
 0.0.0.0 earn-web3pool.com
-0.0.0.0 earndrop-checker.com
 0.0.0.0 earned-linea.com
 0.0.0.0 earnifiapp.xyz
 0.0.0.0 earnifinance.xyz
@@ -2708,7 +2707,6 @@
 0.0.0.0 m.teck-invest.com
 0.0.0.0 m.v3derivatives.site
 0.0.0.0 m1.troncan.pro
-0.0.0.0 maekrdao.com
 0.0.0.0 mag-boxdao.web.app
 0.0.0.0 magamemeccin.com
 0.0.0.0 magamemecoin.cash
@@ -4239,7 +4237,6 @@
 0.0.0.0 refund.shidoprotocols.com
 0.0.0.0 refund.wallstretmemes.app
 0.0.0.0 reg-etherfi.app
-0.0.0.0 reg-metis.io
 0.0.0.0 reg-shib.com
 0.0.0.0 reg-shido.app
 0.0.0.0 regdioneprotocol.com
@@ -5227,8 +5224,6 @@
 0.0.0.0 validatorsync.net
 0.0.0.0 valikane.com
 0.0.0.0 valikut.com
-0.0.0.0 valilake.com
-0.0.0.0 valimest.com
 0.0.0.0 valitame.com
 0.0.0.0 valoklin.com
 0.0.0.0 valoxeno.com
@@ -5568,6 +5563,7 @@
 0.0.0.0 wwemerch.shop
 0.0.0.0 wwenser.xyz
 0.0.0.0 wwepunch.shop
+0.0.0.0 wwewatch.com
 0.0.0.0 www-1inch.top
 0.0.0.0 www-adpworkforcenow.com
 0.0.0.0 www-app-1inch.com
