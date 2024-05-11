@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May 10 23:02:12 UTC 2024
+# PhishFort Full Domain List - Sat May 11 00:06:52 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109366
+# Number of Entries: 109369
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -40068,6 +40068,7 @@
 0.0.0.0 ilmusk.com
 0.0.0.0 ilogivemus-2021.info
 0.0.0.0 ilooksrare.com
+0.0.0.0 ilossa.za.com
 0.0.0.0 ilpaxful.com
 0.0.0.0 iluminatto.com.br
 0.0.0.0 iluoksriare.com
@@ -69613,6 +69614,7 @@
 0.0.0.0 paxfulme.com
 0.0.0.0 paxfulmenu.com
 0.0.0.0 paxfulmethod.com
+0.0.0.0 paxfulmj.com
 0.0.0.0 paxfulmoderater.com
 0.0.0.0 paxfulmoderator.com
 0.0.0.0 paxfulmy.com
@@ -69691,6 +69693,7 @@
 0.0.0.0 paxfulup.com
 0.0.0.0 paxfulupdate.com
 0.0.0.0 paxfulus.com
+0.0.0.0 paxfulusdt.cc
 0.0.0.0 paxfuluser.com
 0.0.0.0 paxfulusers.com
 0.0.0.0 paxfulvalidate.com
