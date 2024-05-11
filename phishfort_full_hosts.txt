@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sat May 11 06:02:14 UTC 2024
+# PhishFort Full Domain List - Sat May 11 07:01:52 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109380
+# Number of Entries: 109381
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -92169,6 +92169,7 @@
 0.0.0.0 verifysolana.com
 0.0.0.0 verifystepnwallconn.online
 0.0.0.0 verifytocontinue.x2y2.pii.at
+0.0.0.0 verifytonkeeper.com
 0.0.0.0 verifyvanilla-prepaid.com
 0.0.0.0 verifyvulcan.com
 0.0.0.0 verifyvyster.seedngokarur.com
