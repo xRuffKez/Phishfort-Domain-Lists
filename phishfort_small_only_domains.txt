@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Sat May 11 07:05:40 UTC 2024
+# PhishFort Small Domain List - Sat May 11 08:05:19 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 6085
 # Project: PhishFort (https://phishfort.com/)
@@ -2077,6 +2077,7 @@ globalpaymentsytww.com
 globalshoptiktok.co
 gmn.dvrcam.info
 gmnt.org
+gmoassure.vip
 gnfymrm14.ukit.me
 gnosis.gift
 go-bookingline.com
@@ -5908,7 +5909,6 @@ www.troyswop.org
 www.trustlimitedinvestment.com
 www.trustwalletdefi.icu
 www.tufreb.com
-www.ucem.edu.mx
 www.unitedaircareers.com
 www.useneuxs.org
 www.ustaylorsshop.com
