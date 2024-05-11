@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Sat May 11 03:05:07 UTC 2024
+# PhishFort Small Domain List - Sat May 11 04:05:25 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6078
+# Number of Entries: 6084
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -186,6 +186,7 @@ agoda.ycs-id.info
 agoda.ycs.my.id
 agodaa-booking.com
 agodaa.life
+agodabusiness.pro
 agodahotel.cc
 agodahotel.cyou
 agodahotel.pw
@@ -2757,6 +2758,7 @@ maker-dao.network
 maker-fnd.net
 makerdaicoin.com
 makerdao-ai.com
+makerdao-event.net
 makerdao-swap.com
 makerdao.digital
 makerdao.vip
@@ -3878,6 +3880,8 @@ paxfulfe.com
 paxfulft.com
 paxfulhack.site
 paxfulmj.com
+paxfulmk.com
+paxfulml.com
 paxfulp2p.com
 paxfulpay.com
 paxfulpay.net
@@ -5020,12 +5024,14 @@ tonkeepe.com
 tonkeepee.com
 tonkeepeer.com
 tonkeeper-web.pages.dev
+tonkeeper.bio
 tonkeeper.domains
 tonkeeper.help
 tonkeeper.in
 tonkeeper.io
 tonkeeper.pages.dev
 tonkeeper.su
+tonkeeper.support
 tonkeeper.website
 tonkeeperr.com
 tonkeepet.com
@@ -5591,6 +5597,7 @@ www.agoda-jp.net
 www.agoda-vip.cc
 www.agoda-vip.com
 www.agodaa-booking.com
+www.agodabusiness.pro
 www.agodaycs.net
 www.agrtech.tech
 www.ahikec.com
@@ -5956,7 +5963,6 @@ xn--fixedfoat-0pb.com
 xn--fixedfoat-wpb.com
 xn--flxedfloat-78a.com
 xn--flxedfloat-yub.com
-xn--fxadflaot-vpb.com
 xn--fxadfloaot-xub.com
 xn--fxadfloat-05a.com
 xn--fxedflaot-vpb.net

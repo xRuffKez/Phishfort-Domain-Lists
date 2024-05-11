@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sat May 11 03:05:07 UTC 2024
+# PhishFort Small Domain List - Sat May 11 04:05:25 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6078
+# Number of Entries: 6084
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -187,6 +187,7 @@
 0.0.0.0 agoda.ycs.my.id
 0.0.0.0 agodaa-booking.com
 0.0.0.0 agodaa.life
+0.0.0.0 agodabusiness.pro
 0.0.0.0 agodahotel.cc
 0.0.0.0 agodahotel.cyou
 0.0.0.0 agodahotel.pw
@@ -2758,6 +2759,7 @@
 0.0.0.0 maker-fnd.net
 0.0.0.0 makerdaicoin.com
 0.0.0.0 makerdao-ai.com
+0.0.0.0 makerdao-event.net
 0.0.0.0 makerdao-swap.com
 0.0.0.0 makerdao.digital
 0.0.0.0 makerdao.vip
@@ -3879,6 +3881,8 @@
 0.0.0.0 paxfulft.com
 0.0.0.0 paxfulhack.site
 0.0.0.0 paxfulmj.com
+0.0.0.0 paxfulmk.com
+0.0.0.0 paxfulml.com
 0.0.0.0 paxfulp2p.com
 0.0.0.0 paxfulpay.com
 0.0.0.0 paxfulpay.net
@@ -5021,12 +5025,14 @@
 0.0.0.0 tonkeepee.com
 0.0.0.0 tonkeepeer.com
 0.0.0.0 tonkeeper-web.pages.dev
+0.0.0.0 tonkeeper.bio
 0.0.0.0 tonkeeper.domains
 0.0.0.0 tonkeeper.help
 0.0.0.0 tonkeeper.in
 0.0.0.0 tonkeeper.io
 0.0.0.0 tonkeeper.pages.dev
 0.0.0.0 tonkeeper.su
+0.0.0.0 tonkeeper.support
 0.0.0.0 tonkeeper.website
 0.0.0.0 tonkeeperr.com
 0.0.0.0 tonkeepet.com
@@ -5592,6 +5598,7 @@
 0.0.0.0 www.agoda-vip.cc
 0.0.0.0 www.agoda-vip.com
 0.0.0.0 www.agodaa-booking.com
+0.0.0.0 www.agodabusiness.pro
 0.0.0.0 www.agodaycs.net
 0.0.0.0 www.agrtech.tech
 0.0.0.0 www.ahikec.com
@@ -5957,7 +5964,6 @@
 0.0.0.0 xn--fixedfoat-wpb.com
 0.0.0.0 xn--flxedfloat-78a.com
 0.0.0.0 xn--flxedfloat-yub.com
-0.0.0.0 xn--fxadflaot-vpb.com
 0.0.0.0 xn--fxadfloaot-xub.com
 0.0.0.0 xn--fxadfloat-05a.com
 0.0.0.0 xn--fxedflaot-vpb.net
