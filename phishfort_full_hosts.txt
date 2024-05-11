@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sat May 11 03:02:07 UTC 2024
+# PhishFort Full Domain List - Sat May 11 04:02:07 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109373
+# Number of Entries: 109380
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3172,6 +3172,7 @@
 0.0.0.0 agodaaffiliate.com
 0.0.0.0 agodaagency.com
 0.0.0.0 agodabook.com
+0.0.0.0 agodabusiness.pro
 0.0.0.0 agodachina.cn
 0.0.0.0 agodacs.online
 0.0.0.0 agodaexpert.vip
@@ -48186,6 +48187,7 @@
 0.0.0.0 makerdao-airdrop.pages.dev
 0.0.0.0 makerdao-claim.com
 0.0.0.0 makerdao-dropcampaigns.com
+0.0.0.0 makerdao-event.net
 0.0.0.0 makerdao-info.com
 0.0.0.0 makerdao-network.makerdao.workers.dev
 0.0.0.0 makerdao-news.com
@@ -69616,6 +69618,8 @@
 0.0.0.0 paxfulmenu.com
 0.0.0.0 paxfulmethod.com
 0.0.0.0 paxfulmj.com
+0.0.0.0 paxfulmk.com
+0.0.0.0 paxfulml.com
 0.0.0.0 paxfulmoderater.com
 0.0.0.0 paxfulmoderator.com
 0.0.0.0 paxfulmy.com
@@ -87509,12 +87513,14 @@
 0.0.0.0 tonkeepee.com
 0.0.0.0 tonkeepeer.com
 0.0.0.0 tonkeeper-web.pages.dev
+0.0.0.0 tonkeeper.bio
 0.0.0.0 tonkeeper.domains
 0.0.0.0 tonkeeper.help
 0.0.0.0 tonkeeper.in
 0.0.0.0 tonkeeper.io
 0.0.0.0 tonkeeper.pages.dev
 0.0.0.0 tonkeeper.su
+0.0.0.0 tonkeeper.support
 0.0.0.0 tonkeeper.website
 0.0.0.0 tonkeeperr.com
 0.0.0.0 tonkeepet.com
@@ -98506,6 +98512,7 @@
 0.0.0.0 www.agoda8.com
 0.0.0.0 www.agodaa-booking.com
 0.0.0.0 www.agodabook.cc
+0.0.0.0 www.agodabusiness.pro
 0.0.0.0 www.agodapools.com
 0.0.0.0 www.agodapools.net
 0.0.0.0 www.agodapools.net.prediksidisinitoto.com
