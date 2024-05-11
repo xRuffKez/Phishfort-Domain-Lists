@@ -1,4 +1,4 @@
-# PhishFort Full Domain List - Sat May 11 07:01:52 UTC 2024
+# PhishFort Full Domain List - Sat May 11 08:02:03 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 109381
@@ -37473,6 +37473,7 @@
 0.0.0.0 gmn.dvrcam.info
 0.0.0.0 gmnomemines.com
 0.0.0.0 gmnt.org
+0.0.0.0 gmoassure.vip
 0.0.0.0 gmoneyclaim.netlify.app
 0.0.0.0 gmpnol.info
 0.0.0.0 gmsstatistics.com
@@ -104904,7 +104905,6 @@
 0.0.0.0 www.u1932556.cp.regruhosting.ru
 0.0.0.0 www.uaenft.org
 0.0.0.0 www.uboxnjiz.com
-0.0.0.0 www.ucem.edu.mx
 0.0.0.0 www.uforce-defi.com
 0.0.0.0 www.uiw-kub.ga
 0.0.0.0 www.uiw-kub.tk

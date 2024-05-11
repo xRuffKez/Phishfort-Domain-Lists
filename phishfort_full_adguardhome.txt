@@ -1,4 +1,4 @@
-# PhishFort Full Domain List - Sat May 11 07:01:52 UTC 2024
+# PhishFort Full Domain List - Sat May 11 08:02:03 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
 # Number of Entries: 109381
@@ -37473,6 +37473,7 @@
 ||gmn.dvrcam.info^
 ||gmnomemines.com^
 ||gmnt.org^
+||gmoassure.vip^
 ||gmoneyclaim.netlify.app^
 ||gmpnol.info^
 ||gmsstatistics.com^
@@ -104904,7 +104905,6 @@
 ||www.u1932556.cp.regruhosting.ru^
 ||www.uaenft.org^
 ||www.uboxnjiz.com^
-||www.ucem.edu.mx^
 ||www.uforce-defi.com^
 ||www.uiw-kub.ga^
 ||www.uiw-kub.tk^
