@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Sat May 11 11:04:38 UTC 2024
+# PhishFort Small Domain List - Sat May 11 12:06:21 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
 # Number of Entries: 6085
@@ -3281,7 +3281,6 @@
 ||myethertools.web.app^
 ||myetherwalletie.com^
 ||myetherwalmet.com^
-||myfirstproject.pages.dev^
 ||mygoemployerthesaw.com^
 ||mymetamasklogin.com^
 ||mymoneronline.info^
@@ -3775,6 +3774,7 @@
 ||pancakeswapclaimdropnow.com^
 ||pancakeswapclaimmdrop.com^
 ||pancakeswapclaimz01.vercel.app^
+||pancakeswapclaimz96.vercel.app^
 ||pancakeswapclick04.vercel.app^
 ||pancakeswapcrypto.com^
 ||pancakeswapdrop.com^
