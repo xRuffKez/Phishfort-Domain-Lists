@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sat May 11 02:12:37 UTC 2024
+# PhishFort Small Domain List - Sat May 11 03:05:07 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6075
+# Number of Entries: 6078
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3801,6 +3801,7 @@
 0.0.0.0 pancakeswpclaim55.vercel.app
 0.0.0.0 pancakeswpclicks.vercel.app
 0.0.0.0 pancakeswpdrop13.vercel.app
+0.0.0.0 pancakeswpdrops0922.vercel.app
 0.0.0.0 pancakev2-drirxno8g-brilliantedgar.vercel.app
 0.0.0.0 pancakev4swap.com
 0.0.0.0 pancakewsap-rewads.com
@@ -4075,6 +4076,7 @@
 0.0.0.0 pond0xtreasury.com
 0.0.0.0 pool-liquidfarm.com
 0.0.0.0 pool-nftbox.web.app
+0.0.0.0 poolearnn.com
 0.0.0.0 poolstarter.net
 0.0.0.0 porkcoin-airdrop.com
 0.0.0.0 porlfoliomelamack.com
@@ -4273,6 +4275,7 @@
 0.0.0.0 research.rada.gov-ua.ru
 0.0.0.0 reskst.pages.dev
 0.0.0.0 resolutionpanel.pages.dev
+0.0.0.0 resolutionv2.pages.dev
 0.0.0.0 resolve-captcha.com
 0.0.0.0 resolveprotocols.pages.dev
 0.0.0.0 resolver-string.pages.dev
