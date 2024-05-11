@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Sat May 11 02:10:00 UTC 2024
+# PhishFort Full Domain List - Sat May 11 03:02:07 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109370
+# Number of Entries: 109373
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -67806,6 +67806,7 @@ pancakeswpa.info
 pancakeswpclaim55.vercel.app
 pancakeswpclicks.vercel.app
 pancakeswpdrop13.vercel.app
+pancakeswpdrops0922.vercel.app
 pancakeswpg.digital
 pancakeswpnet.site
 pancakeswpnet.sure
@@ -72797,6 +72798,7 @@ pool.panckeswap.finance
 poolcoin-swap.us
 poolcoin.1gb.ru
 poolcoon.net
+poolearnn.com
 poolethereum.online
 poolex.gold-coinbase.com
 poolkadot.com
@@ -76013,6 +76015,7 @@ resolution-mainnet.live
 resolution-mainnets.live
 resolutionpanel.pages.dev
 resolutionsync.link
+resolutionv2.pages.dev
 resolutionvalidationet.link
 resolvbinanreg.monster
 resolve-captcha.com

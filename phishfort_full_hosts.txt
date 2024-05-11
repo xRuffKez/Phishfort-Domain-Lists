@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sat May 11 02:10:00 UTC 2024
+# PhishFort Full Domain List - Sat May 11 03:02:07 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109370
+# Number of Entries: 109373
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -67807,6 +67807,7 @@
 0.0.0.0 pancakeswpclaim55.vercel.app
 0.0.0.0 pancakeswpclicks.vercel.app
 0.0.0.0 pancakeswpdrop13.vercel.app
+0.0.0.0 pancakeswpdrops0922.vercel.app
 0.0.0.0 pancakeswpg.digital
 0.0.0.0 pancakeswpnet.site
 0.0.0.0 pancakeswpnet.sure
@@ -72798,6 +72799,7 @@
 0.0.0.0 poolcoin-swap.us
 0.0.0.0 poolcoin.1gb.ru
 0.0.0.0 poolcoon.net
+0.0.0.0 poolearnn.com
 0.0.0.0 poolethereum.online
 0.0.0.0 poolex.gold-coinbase.com
 0.0.0.0 poolkadot.com
@@ -76014,6 +76016,7 @@
 0.0.0.0 resolution-mainnets.live
 0.0.0.0 resolutionpanel.pages.dev
 0.0.0.0 resolutionsync.link
+0.0.0.0 resolutionv2.pages.dev
 0.0.0.0 resolutionvalidationet.link
 0.0.0.0 resolvbinanreg.monster
 0.0.0.0 resolve-captcha.com
