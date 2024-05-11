@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sat May 11 06:05:10 UTC 2024
+# PhishFort Small Domain List - Sat May 11 07:05:40 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6084
+# Number of Entries: 6085
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -5266,6 +5266,7 @@
 ||verify.api55-collab.com^
 ||verifyconnection.info^
 ||verifymywallets.com^
+||verifytonkeeper.com^
 ||verifyvulcan.com^
 ||vermillion-chebakia-72b023.netlify.app^
 ||versity-token.finance^
