@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sat May 11 01:25:03 UTC 2024
+# PhishFort Full Domain List - Sat May 11 02:10:00 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109369
+# Number of Entries: 109370
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -71175,6 +71175,7 @@
 0.0.0.0 pixelmon.wl-free.com
 0.0.0.0 pixelmongen1-official.netlify.app
 0.0.0.0 pixelmonnfts.xyz
+0.0.0.0 pixels-dashboard.pages.dev
 0.0.0.0 pixels-online.com
 0.0.0.0 pixels-verify.pages.dev
 0.0.0.0 pixels.claims

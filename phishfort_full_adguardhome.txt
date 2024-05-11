@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sat May 11 01:25:03 UTC 2024
+# PhishFort Full Domain List - Sat May 11 02:10:00 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109369
+# Number of Entries: 109370
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -71175,6 +71175,7 @@
 ||pixelmon.wl-free.com^
 ||pixelmongen1-official.netlify.app^
 ||pixelmonnfts.xyz^
+||pixels-dashboard.pages.dev^
 ||pixels-online.com^
 ||pixels-verify.pages.dev^
 ||pixels.claims^
