@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sat May 11 01:27:52 UTC 2024
+# PhishFort Small Domain List - Sat May 11 02:12:37 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6080
+# Number of Entries: 6075
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1623,7 +1623,6 @@
 0.0.0.0 dsjgfsdjifsdjifsji.web.app
 0.0.0.0 dualboardmoonify.pages.dev
 0.0.0.0 dualdappsconnect.pages.dev
-0.0.0.0 duegaigh.buzz
 0.0.0.0 dumb-coin.fun
 0.0.0.0 durexwalletbridge.co.za
 0.0.0.0 dvhuh.pages.dev
@@ -2376,7 +2375,6 @@
 0.0.0.0 jefferies.ceo
 0.0.0.0 jefferiesacademy.com
 0.0.0.0 jeffwealth.com
-0.0.0.0 jenkins.codefinity.de
 0.0.0.0 jenpower.net
 0.0.0.0 jfrsgrp.com
 0.0.0.0 jiashengint.cn
@@ -2438,7 +2436,6 @@
 0.0.0.0 jumpers-exchanges.xyz
 0.0.0.0 jumpers.trading
 0.0.0.0 jumperweb3.pro
-0.0.0.0 jup-cases.trade
 0.0.0.0 jup444.com
 0.0.0.0 jupairdrop.com
 0.0.0.0 jupcase.io
@@ -2461,9 +2458,7 @@
 0.0.0.0 juppboxes.cc
 0.0.0.0 juppcases.work
 0.0.0.0 jupptrullo.cc
-0.0.0.0 juppycases.trade
 0.0.0.0 juppystart.app
-0.0.0.0 juups.io
 0.0.0.0 jwsco.pro
 0.0.0.0 kaijutoys.shop
 0.0.0.0 kamino-allocation.vercel.app
@@ -4030,6 +4025,7 @@
 0.0.0.0 pipsyl.top
 0.0.0.0 pixel-lands.com
 0.0.0.0 pixelmon-mint.com
+0.0.0.0 pixels-dashboard.pages.dev
 0.0.0.0 pixels-verify.pages.dev
 0.0.0.0 pixelsairdrop.com
 0.0.0.0 pixelsapp-play.xyz
@@ -5673,7 +5669,6 @@
 0.0.0.0 www.claimsloth.com
 0.0.0.0 www.clients-407etr.com
 0.0.0.0 www.cloud-telephonie.net
-0.0.0.0 www.codefinity.de
 0.0.0.0 www.colloky.online
 0.0.0.0 www.comethena.ethenaofficial.com
 0.0.0.0 www.creepz-rebirth.com

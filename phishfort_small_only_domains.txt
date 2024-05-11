@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Sat May 11 01:27:52 UTC 2024
+# PhishFort Small Domain List - Sat May 11 02:12:37 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 6080
+# Number of Entries: 6075
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1622,7 +1622,6 @@ dsadsadsadsaeq.pages.dev
 dsjgfsdjifsdjifsji.web.app
 dualboardmoonify.pages.dev
 dualdappsconnect.pages.dev
-duegaigh.buzz
 dumb-coin.fun
 durexwalletbridge.co.za
 dvhuh.pages.dev
@@ -2375,7 +2374,6 @@ jefferies.asia
 jefferies.ceo
 jefferiesacademy.com
 jeffwealth.com
-jenkins.codefinity.de
 jenpower.net
 jfrsgrp.com
 jiashengint.cn
@@ -2437,7 +2435,6 @@ jumperexchange.xyz
 jumpers-exchanges.xyz
 jumpers.trading
 jumperweb3.pro
-jup-cases.trade
 jup444.com
 jupairdrop.com
 jupcase.io
@@ -2460,9 +2457,7 @@ juppboxes.app
 juppboxes.cc
 juppcases.work
 jupptrullo.cc
-juppycases.trade
 juppystart.app
-juups.io
 jwsco.pro
 kaijutoys.shop
 kamino-allocation.vercel.app
@@ -4029,6 +4024,7 @@ pinswap.xyz
 pipsyl.top
 pixel-lands.com
 pixelmon-mint.com
+pixels-dashboard.pages.dev
 pixels-verify.pages.dev
 pixelsairdrop.com
 pixelsapp-play.xyz
@@ -5672,7 +5668,6 @@ www.claimit-op.xyz
 www.claimsloth.com
 www.clients-407etr.com
 www.cloud-telephonie.net
-www.codefinity.de
 www.colloky.online
 www.comethena.ethenaofficial.com
 www.creepz-rebirth.com
