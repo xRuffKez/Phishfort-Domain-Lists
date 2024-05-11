@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May 10 23:05:19 UTC 2024
+# PhishFort Small Domain List - Sat May 11 00:18:20 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6077
+# Number of Entries: 6080
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2283,6 +2283,7 @@
 0.0.0.0 illuvium-community.com
 0.0.0.0 illuvium-connect.com
 0.0.0.0 illuvium.gift
+0.0.0.0 ilossa.za.com
 0.0.0.0 ilvrewards-io.com
 0.0.0.0 imaginary-ones.com
 0.0.0.0 img.coolpayvn.com
@@ -3881,6 +3882,7 @@
 0.0.0.0 paxfulfe.com
 0.0.0.0 paxfulft.com
 0.0.0.0 paxfulhack.site
+0.0.0.0 paxfulmj.com
 0.0.0.0 paxfulp2p.com
 0.0.0.0 paxfulpay.com
 0.0.0.0 paxfulpay.net
@@ -3888,6 +3890,7 @@
 0.0.0.0 paxfuls.top
 0.0.0.0 paxfultechnicals.com.ng
 0.0.0.0 paxfultf.com
+0.0.0.0 paxfulusdt.cc
 0.0.0.0 paxfulvn.com
 0.0.0.0 paxobcxr.com
 0.0.0.0 paxobopr.com

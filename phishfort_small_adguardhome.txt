@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May 10 23:05:19 UTC 2024
+# PhishFort Small Domain List - Sat May 11 00:18:20 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 6077
+# Number of Entries: 6080
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -2283,6 +2283,7 @@
 ||illuvium-community.com^
 ||illuvium-connect.com^
 ||illuvium.gift^
+||ilossa.za.com^
 ||ilvrewards-io.com^
 ||imaginary-ones.com^
 ||img.coolpayvn.com^
@@ -3881,6 +3882,7 @@
 ||paxfulfe.com^
 ||paxfulft.com^
 ||paxfulhack.site^
+||paxfulmj.com^
 ||paxfulp2p.com^
 ||paxfulpay.com^
 ||paxfulpay.net^
@@ -3888,6 +3890,7 @@
 ||paxfuls.top^
 ||paxfultechnicals.com.ng^
 ||paxfultf.com^
+||paxfulusdt.cc^
 ||paxfulvn.com^
 ||paxobcxr.com^
 ||paxobopr.com^
