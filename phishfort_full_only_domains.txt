@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Sat May 11 11:02:00 UTC 2024
+# PhishFort Full Domain List - Sat May 11 12:02:32 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109381
+# Number of Entries: 109382
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -67075,6 +67075,7 @@ pancakeswapclaimdropnow.com
 pancakeswapclaimmdrop.com
 pancakeswapclaims.com
 pancakeswapclaimz01.vercel.app
+pancakeswapclaimz96.vercel.app
 pancakeswapclassic.com
 pancakeswapclassic.finance
 pancakeswapclean.pages.dev
