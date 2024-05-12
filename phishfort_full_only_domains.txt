@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Sun May 12 06:04:39 UTC 2024
+# PhishFort Full Domain List - Sun May 12 12:05:24 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109382
+# Number of Entries: 109384
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3171,7 +3171,6 @@ agodaacom.online
 agodaaffiliate.com
 agodaagency.com
 agodabook.com
-agodabusiness.pro
 agodachina.cn
 agodacs.online
 agodaexpert.vip
@@ -65021,6 +65020,7 @@ pancakesap.info
 pancakesap.tech
 pancakesapp.com
 pancakesapp.finance
+pancakesavp.org
 pancakesawp-app.com
 pancakesawp-crypto.com
 pancakesawp-exchange.com
@@ -76299,6 +76299,7 @@ revoke-approvals.xyz.polarmates.top
 revoke-asset.cash
 revoke-assets.xyz
 revoke-balancer.finance
+revoke-cash-auv.pages.dev
 revoke-cash-i9n0pa5cx-lahana.vercel.app
 revoke-cash-layer2.pages.dev
 revoke-cash-wallet.com
@@ -87515,6 +87516,7 @@ tonkeepee.com
 tonkeepeer.com
 tonkeeper-web.pages.dev
 tonkeeper.bio
+tonkeeper.dev
 tonkeeper.domains
 tonkeeper.help
 tonkeeper.in
