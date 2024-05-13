@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Mon May 13 06:02:39 UTC 2024
+# PhishFort Small Domain List - Mon May 13 12:02:56 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 5967
+# Number of Entries: 5966
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -23,6 +23,7 @@
 1inch-io.app
 1inch-io.xyz
 1inch-new-migration.com
+1inch-usdt.vip
 1inch.coinmarketcap-app.com
 1inch.fyi
 1inch.web3connect.mom
@@ -392,7 +393,6 @@ app-gala-games-login-now.com
 app-gala-games-wallet.com
 app-juilce.finance
 app-kaspanet.com
-app-mantle.site
 app-mdex.one
 app-metamask-kyc-auth.com
 app-metamsak-io-conditionapp.netlify.app
@@ -576,7 +576,6 @@ auth-galagames-io.com
 auth-games-galas.online
 auth-land.com
 auth-metimask.github.io
-auth.meta-syncs.com
 auth.redapps.icu
 auth0discord-collab.world
 authcontractsync.pages.dev
@@ -662,6 +661,7 @@ basedtrump-token-swap-restore.netlify.app
 batmansol.com
 baycarepatientportal.net
 bbl-get.com
+bbxo.duckdns.org
 bdb7.cc
 beacon-usdt.shop
 beanzoff.com
@@ -956,6 +956,7 @@ cels1us.network
 centerjobless.online
 centralpoultryprocessingscoltd.com
 centurysgold.net
+ceshi.wix-ecwid.com
 cfdconnect.online
 chaemlist.org
 chaenlict.org
@@ -1437,7 +1438,6 @@ dddx.cnxunkewang.vip
 de-fi.events
 dealerhuntersg.com
 dealsync.pages.dev
-debnhaimes.company.site
 debug-metamask.pages.dev
 debug-x.pages.dev
 debugdecentralize.pages.dev
@@ -1975,7 +1975,6 @@ gasfeecal.com
 gasp-web3.vercel.app
 gateway-collab.com
 gayjoygo.com
-geckoterminal-frontend-6aaxif3ri-coingecko.vercel.app
 geezyy.github.io
 geneitec.com
 generalmotors-dk.com
@@ -2979,7 +2978,6 @@ metamskaskse.azurewebsites.net
 metamuaskingghlohgin.godaddysites.com
 metanaskio.xyz
 metanmasak.azurewebsites.net
-metapass.fyi
 metaportfolioconnect.com
 metarestore.vercel.app
 metareward.top
@@ -3086,6 +3084,7 @@ mistersos.pages.dev
 mitratokped.com
 mj3.us
 mkyetherwallet.com
+mmagpiexyz.io
 mmapplicationhub.pages.dev
 mmapplicationhubs.pages.dev
 mmapplicationshub-bhi.pages.dev
@@ -3225,7 +3224,6 @@ myria-game.com
 mysecond.mypsx.net
 mysonicwall.ir
 mystery-illuvium.io
-mystery-polygon.claims
 mysterybox-arbi.claims
 mysterybox-claimm.vercel.app
 mysterybox11.vercel.app
@@ -3679,6 +3677,7 @@ pancakeswap-prodrop.com
 pancakeswap-server.com
 pancakeswap-v3.pages.dev
 pancakeswap-v4-offers.com
+pancakeswap-v4.com
 pancakeswap-webclaim.com
 pancakeswap.airdrop-cake-v3.com
 pancakeswap.cake-web3.com
@@ -3702,6 +3701,7 @@ pancakeswapcrypto.com
 pancakeswapdrop.com
 pancakeswapdrop15.vercel.app
 pancakeswapdrop78.vercel.app
+pancakeswapdrops076.vercel.app
 pancakeswaper.app
 pancakeswapertoday.xyz
 pancakeswapes.finance
@@ -4378,7 +4378,6 @@ sanshumigration.web.app
 sanswap.com
 sappy3d.top
 saqa-cases.app
-saqaboxes.trade
 saqacase.vip
 sareachbuy.com
 satoshi-one.vercel.app
@@ -4858,7 +4857,6 @@ theemiratesgroups-ae.online
 theemiriatesgroup.online
 theemiriatesgroupae.com
 theemiriatesgroupuae.com
-theemriatesgroup.online
 thefamiilytoken.com
 thefamilytokens.vercel.app
 thegamehubs.org
@@ -4966,6 +4964,8 @@ tornova.cash
 toshiithecats.app
 toshithecat.one
 totalwine-sale.shop
+tpgcapitalage.com
+tpgcapitaljks.com
 tpgcapitallca.com
 tpgcapitallia.com
 tpgcapitalrul.com
@@ -5470,7 +5470,6 @@ wwepunch.shop
 wwewatch.com
 www-1inch.top
 www-adpworkforcenow.com
-www-app-1inch.com
 www-ddao-v0-0-21.bb.dp.ua
 www-delfilama.com
 www-eigenlayer.xyz

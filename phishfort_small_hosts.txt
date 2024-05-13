@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May 13 06:02:39 UTC 2024
+# PhishFort Small Domain List - Mon May 13 12:02:56 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 5967
+# Number of Entries: 5966
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -24,6 +24,7 @@
 0.0.0.0 1inch-io.app
 0.0.0.0 1inch-io.xyz
 0.0.0.0 1inch-new-migration.com
+0.0.0.0 1inch-usdt.vip
 0.0.0.0 1inch.coinmarketcap-app.com
 0.0.0.0 1inch.fyi
 0.0.0.0 1inch.web3connect.mom
@@ -393,7 +394,6 @@
 0.0.0.0 app-gala-games-wallet.com
 0.0.0.0 app-juilce.finance
 0.0.0.0 app-kaspanet.com
-0.0.0.0 app-mantle.site
 0.0.0.0 app-mdex.one
 0.0.0.0 app-metamask-kyc-auth.com
 0.0.0.0 app-metamsak-io-conditionapp.netlify.app
@@ -577,7 +577,6 @@
 0.0.0.0 auth-games-galas.online
 0.0.0.0 auth-land.com
 0.0.0.0 auth-metimask.github.io
-0.0.0.0 auth.meta-syncs.com
 0.0.0.0 auth.redapps.icu
 0.0.0.0 auth0discord-collab.world
 0.0.0.0 authcontractsync.pages.dev
@@ -663,6 +662,7 @@
 0.0.0.0 batmansol.com
 0.0.0.0 baycarepatientportal.net
 0.0.0.0 bbl-get.com
+0.0.0.0 bbxo.duckdns.org
 0.0.0.0 bdb7.cc
 0.0.0.0 beacon-usdt.shop
 0.0.0.0 beanzoff.com
@@ -957,6 +957,7 @@
 0.0.0.0 centerjobless.online
 0.0.0.0 centralpoultryprocessingscoltd.com
 0.0.0.0 centurysgold.net
+0.0.0.0 ceshi.wix-ecwid.com
 0.0.0.0 cfdconnect.online
 0.0.0.0 chaemlist.org
 0.0.0.0 chaenlict.org
@@ -1438,7 +1439,6 @@
 0.0.0.0 de-fi.events
 0.0.0.0 dealerhuntersg.com
 0.0.0.0 dealsync.pages.dev
-0.0.0.0 debnhaimes.company.site
 0.0.0.0 debug-metamask.pages.dev
 0.0.0.0 debug-x.pages.dev
 0.0.0.0 debugdecentralize.pages.dev
@@ -1976,7 +1976,6 @@
 0.0.0.0 gasp-web3.vercel.app
 0.0.0.0 gateway-collab.com
 0.0.0.0 gayjoygo.com
-0.0.0.0 geckoterminal-frontend-6aaxif3ri-coingecko.vercel.app
 0.0.0.0 geezyy.github.io
 0.0.0.0 geneitec.com
 0.0.0.0 generalmotors-dk.com
@@ -2980,7 +2979,6 @@
 0.0.0.0 metamuaskingghlohgin.godaddysites.com
 0.0.0.0 metanaskio.xyz
 0.0.0.0 metanmasak.azurewebsites.net
-0.0.0.0 metapass.fyi
 0.0.0.0 metaportfolioconnect.com
 0.0.0.0 metarestore.vercel.app
 0.0.0.0 metareward.top
@@ -3087,6 +3085,7 @@
 0.0.0.0 mitratokped.com
 0.0.0.0 mj3.us
 0.0.0.0 mkyetherwallet.com
+0.0.0.0 mmagpiexyz.io
 0.0.0.0 mmapplicationhub.pages.dev
 0.0.0.0 mmapplicationhubs.pages.dev
 0.0.0.0 mmapplicationshub-bhi.pages.dev
@@ -3226,7 +3225,6 @@
 0.0.0.0 mysecond.mypsx.net
 0.0.0.0 mysonicwall.ir
 0.0.0.0 mystery-illuvium.io
-0.0.0.0 mystery-polygon.claims
 0.0.0.0 mysterybox-arbi.claims
 0.0.0.0 mysterybox-claimm.vercel.app
 0.0.0.0 mysterybox11.vercel.app
@@ -3680,6 +3678,7 @@
 0.0.0.0 pancakeswap-server.com
 0.0.0.0 pancakeswap-v3.pages.dev
 0.0.0.0 pancakeswap-v4-offers.com
+0.0.0.0 pancakeswap-v4.com
 0.0.0.0 pancakeswap-webclaim.com
 0.0.0.0 pancakeswap.airdrop-cake-v3.com
 0.0.0.0 pancakeswap.cake-web3.com
@@ -3703,6 +3702,7 @@
 0.0.0.0 pancakeswapdrop.com
 0.0.0.0 pancakeswapdrop15.vercel.app
 0.0.0.0 pancakeswapdrop78.vercel.app
+0.0.0.0 pancakeswapdrops076.vercel.app
 0.0.0.0 pancakeswaper.app
 0.0.0.0 pancakeswapertoday.xyz
 0.0.0.0 pancakeswapes.finance
@@ -4379,7 +4379,6 @@
 0.0.0.0 sanswap.com
 0.0.0.0 sappy3d.top
 0.0.0.0 saqa-cases.app
-0.0.0.0 saqaboxes.trade
 0.0.0.0 saqacase.vip
 0.0.0.0 sareachbuy.com
 0.0.0.0 satoshi-one.vercel.app
@@ -4859,7 +4858,6 @@
 0.0.0.0 theemiriatesgroup.online
 0.0.0.0 theemiriatesgroupae.com
 0.0.0.0 theemiriatesgroupuae.com
-0.0.0.0 theemriatesgroup.online
 0.0.0.0 thefamiilytoken.com
 0.0.0.0 thefamilytokens.vercel.app
 0.0.0.0 thegamehubs.org
@@ -4967,6 +4965,8 @@
 0.0.0.0 toshiithecats.app
 0.0.0.0 toshithecat.one
 0.0.0.0 totalwine-sale.shop
+0.0.0.0 tpgcapitalage.com
+0.0.0.0 tpgcapitaljks.com
 0.0.0.0 tpgcapitallca.com
 0.0.0.0 tpgcapitallia.com
 0.0.0.0 tpgcapitalrul.com
@@ -5471,7 +5471,6 @@
 0.0.0.0 wwewatch.com
 0.0.0.0 www-1inch.top
 0.0.0.0 www-adpworkforcenow.com
-0.0.0.0 www-app-1inch.com
 0.0.0.0 www-ddao-v0-0-21.bb.dp.ua
 0.0.0.0 www-delfilama.com
 0.0.0.0 www-eigenlayer.xyz
