@@ -1,11 +1,10 @@
-# PhishFort Small Domain List - Sun May 12 18:02:35 UTC 2024
+# PhishFort Small Domain List - Mon May 13 00:07:32 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 6005
+# Number of Entries: 5965
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
-0.0.0.0 00000001-0ff1-c4300-00073106b7c528-5ec7-495f-91000q.ponyviaggi.com
 0.0.0.0 02nat.mypsx.net
 0.0.0.0 0pensea-click.vercel.app
 0.0.0.0 0x4ee15erf903e2634abe0e.com
@@ -77,7 +76,6 @@
 0.0.0.0 79.137.202.34.sslip.io
 0.0.0.0 7ggtru.cc
 0.0.0.0 7kdgw.pro
-0.0.0.0 7x7gx.pro
 0.0.0.0 7xfwglj.cc
 0.0.0.0 827032971.pages.dev
 0.0.0.0 8866651.za.com
@@ -221,7 +219,6 @@
 0.0.0.0 airdrop-angle.money
 0.0.0.0 airdrop-atlayer.io
 0.0.0.0 airdrop-blast.network
-0.0.0.0 airdrop-caga.web.app
 0.0.0.0 airdrop-eesee.com
 0.0.0.0 airdrop-gomble.app
 0.0.0.0 airdrop-gomble.digital
@@ -318,7 +315,6 @@
 0.0.0.0 alrajh.prokhaliij.com
 0.0.0.0 alshaya-group-ua.company.site
 0.0.0.0 alshaya.site
-0.0.0.0 alshayae.shop
 0.0.0.0 alshayagrooup.shop
 0.0.0.0 alshayagrooup.store
 0.0.0.0 alshayagroup.blog
@@ -600,7 +596,6 @@
 0.0.0.0 autorestore.pages.dev
 0.0.0.0 autotecc.pages.dev
 0.0.0.0 autovalidateweb3.pages.dev
-0.0.0.0 avantiengineering.org
 0.0.0.0 avaxtoken.pro
 0.0.0.0 awesomestrawberry.za.com
 0.0.0.0 axie.valimrocha.workers.dev
@@ -893,7 +888,6 @@
 0.0.0.0 c7ed7c0a-a3f0-4a62-9092-b1bb34dc0ec4-00-2hhxxwsgft7jv.janeway.replit.dev
 0.0.0.0 cabinet-customs.com.ua
 0.0.0.0 cabinet-customs.org.ua
-0.0.0.0 cadenerranks.cc
 0.0.0.0 cadillac-usdt.com
 0.0.0.0 cafaland.com
 0.0.0.0 caga-eth.web.app
@@ -935,7 +929,6 @@
 0.0.0.0 cantermexi.com
 0.0.0.0 capcutforpc.store
 0.0.0.0 caraji.com
-0.0.0.0 career-ecolab.com
 0.0.0.0 careerskier.co.uk
 0.0.0.0 carlsbergpromo.amcn.in
 0.0.0.0 carvnprotocol.com
@@ -983,7 +976,6 @@
 0.0.0.0 chainlink-network.app
 0.0.0.0 chainlink.com.co
 0.0.0.0 chainlinkairdropweb3.org
-0.0.0.0 chainlinklabsv2.com
 0.0.0.0 chainlinktreasury.net
 0.0.0.0 chainlisti-oi.top
 0.0.0.0 chainlogserver.pages.dev
@@ -1248,7 +1240,6 @@
 0.0.0.0 collab.land-verifeds.com
 0.0.0.0 collab.role-bot.net
 0.0.0.0 collab.web-role.com
-0.0.0.0 collabandverify.onrender.com
 0.0.0.0 collabandverify.vercel.app
 0.0.0.0 collabland-log.com
 0.0.0.0 collabland-pad.com
@@ -1281,7 +1272,6 @@
 0.0.0.0 confulxnetwork.info
 0.0.0.0 connect-arbitrum.io
 0.0.0.0 connect-collabs.com
-0.0.0.0 connect-mavia.com
 0.0.0.0 connect-protocol.com
 0.0.0.0 connect-rpcdefi.com
 0.0.0.0 connect.coilab.xyz
@@ -1344,7 +1334,6 @@
 0.0.0.0 cuadrosblangar.es
 0.0.0.0 cumminsusa.com
 0.0.0.0 cvhddy.mypi.co
-0.0.0.0 cwboffshoreonl.com
 0.0.0.0 cwestba.com
 0.0.0.0 cwrestorevercelapp.com
 0.0.0.0 cxmdidazc.com
@@ -2020,8 +2009,6 @@
 0.0.0.0 get-pancake.xyz
 0.0.0.0 get-rewards.info
 0.0.0.0 get-sharpnel.net
-0.0.0.0 get-starknet.io
-0.0.0.0 get-wormhole.com
 0.0.0.0 get.etherugas.wtf
 0.0.0.0 get.etherumrefgas.xyz
 0.0.0.0 get.ethiner.xyz
@@ -2175,7 +2162,6 @@
 0.0.0.0 helixapp.com.web3-connect.pw
 0.0.0.0 hello-reward.com
 0.0.0.0 hellothisisatest.com
-0.0.0.0 help-407-etr.com
 0.0.0.0 help-avalanche.site
 0.0.0.0 helpdoc-avalache.online
 0.0.0.0 helpmetamask.xyz
@@ -2203,6 +2189,7 @@
 0.0.0.0 horyksmassast.com
 0.0.0.0 hostbreno.com
 0.0.0.0 housexysounds.com
+0.0.0.0 howling-train-prehistoric.on-fleek.app
 0.0.0.0 hpwhmw10itwo.xyz
 0.0.0.0 ht52ik.top
 0.0.0.0 hub-injective-network.web.app
@@ -2336,8 +2323,6 @@
 0.0.0.0 irrahkar.com
 0.0.0.0 is9dvm.pro
 0.0.0.0 islamiccoin.network
-0.0.0.0 iykapp.xyz
-0.0.0.0 j2gkzzu.top
 0.0.0.0 jaguarlandrover.kmmediagroup.com
 0.0.0.0 jamesthurmankahn.com
 0.0.0.0 janushenderson.agenciastatus.com.br
@@ -2403,9 +2388,6 @@
 0.0.0.0 jumper-exchange-2ba.pages.dev
 0.0.0.0 jumper-exchange.live
 0.0.0.0 jumper-exchange.network
-0.0.0.0 jumper.capital
-0.0.0.0 jumper.markets
-0.0.0.0 jumper.trading
 0.0.0.0 jumperexchange.info
 0.0.0.0 jumperexchange.xyz
 0.0.0.0 jumpers-exchanges.xyz
@@ -2617,7 +2599,6 @@
 0.0.0.0 livetecreset.pages.dev
 0.0.0.0 lnscribe.app
 0.0.0.0 lnsgroup.net
-0.0.0.0 lnsulet.com
 0.0.0.0 lnter-webtr.jhsw3edasva.life
 0.0.0.0 lntracwebfunds-province.agccaiwo.life
 0.0.0.0 lntwebservice-lnter.f7aanm6hh4e.life
@@ -2837,8 +2818,6 @@
 0.0.0.0 mavia.pm
 0.0.0.0 mavia.website
 0.0.0.0 mavia.work
-0.0.0.0 maviagames.network
-0.0.0.0 maviagames.xyz
 0.0.0.0 mavialore.com
 0.0.0.0 mavias.click
 0.0.0.0 maviau.com
@@ -2898,7 +2877,6 @@
 0.0.0.0 meta-rwrd.top
 0.0.0.0 meta-safelogin.com
 0.0.0.0 meta2fa.io
-0.0.0.0 metaamsskk-wallet.godaddysites.com
 0.0.0.0 metabmasskus.azurewebsites.net
 0.0.0.0 metabolt.io
 0.0.0.0 metaconfirmed.io
@@ -2921,7 +2899,6 @@
 0.0.0.0 metamask-app-kyc.com
 0.0.0.0 metamask-app24-kyc.com
 0.0.0.0 metamask-connect.com
-0.0.0.0 metamask-dapps.pages.dev
 0.0.0.0 metamask-dl.com
 0.0.0.0 metamask-extensions.pages.dev
 0.0.0.0 metamask-fix.pages.dev
@@ -3094,7 +3071,6 @@
 0.0.0.0 miningcloud.vip
 0.0.0.0 minipepe-coins.com
 0.0.0.0 ministerstwosprawiedliwosci.com
-0.0.0.0 minnimi.com.ua
 0.0.0.0 minootv.com
 0.0.0.0 mint-nakamigos.vercel.app
 0.0.0.0 mint-opeansea.web.app
@@ -3141,7 +3117,6 @@
 0.0.0.0 mogcoin.rewardshare.info
 0.0.0.0 mohpn.com
 0.0.0.0 molina-healthcareinc.com
-0.0.0.0 molinahealthcare-careers.com
 0.0.0.0 molinahealthcare.empyreandemo.com
 0.0.0.0 monad--chain.com
 0.0.0.0 mondoffices.com
@@ -3325,7 +3300,6 @@
 0.0.0.0 nevadaenergy.customersupports.network
 0.0.0.0 nevadaspower.customercare.network
 0.0.0.0 new-neotokyo.com
-0.0.0.0 new-pyth.network
 0.0.0.0 new.blockchainbets-vault.com
 0.0.0.0 new.ethiner.xyz
 0.0.0.0 new.nugpoint.com
@@ -3359,7 +3333,6 @@
 0.0.0.0 nft-manta.network
 0.0.0.0 nft-offers.com
 0.0.0.0 nft-openseaz.vercel.app
-0.0.0.0 nft-opesea.vercel.app
 0.0.0.0 nft-shards-tech.vercel.app
 0.0.0.0 nft-sidusheroes.com
 0.0.0.0 nft-starknet-project.vercel.app
@@ -3411,7 +3384,6 @@
 0.0.0.0 noones.es
 0.0.0.0 nootcoin.fun
 0.0.0.0 nooxnft.app
-0.0.0.0 nooxnft.org
 0.0.0.0 notionalfinance.org
 0.0.0.0 novochevro.online
 0.0.0.0 now.l3-mode.world
@@ -3612,7 +3584,6 @@
 0.0.0.0 panacakeswap.tech
 0.0.0.0 panasonic-in.com
 0.0.0.0 pancacke-flnahce.org
-0.0.0.0 pancaikeswap.finance
 0.0.0.0 pancakaswap-finance.xyz
 0.0.0.0 pancakaswp-finance.com
 0.0.0.0 pancakaswp-finance.xyz
@@ -3728,9 +3699,11 @@
 0.0.0.0 pancakeswapclaimmdrop.com
 0.0.0.0 pancakeswapclaimz01.vercel.app
 0.0.0.0 pancakeswapclaimz96.vercel.app
+0.0.0.0 pancakeswapclick032.vercel.app
 0.0.0.0 pancakeswapclick04.vercel.app
 0.0.0.0 pancakeswapcrypto.com
 0.0.0.0 pancakeswapdrop.com
+0.0.0.0 pancakeswapdrop15.vercel.app
 0.0.0.0 pancakeswapdrop78.vercel.app
 0.0.0.0 pancakeswaper.app
 0.0.0.0 pancakeswapertoday.xyz
@@ -3765,6 +3738,7 @@
 0.0.0.0 pancaksewaq-finance.com
 0.0.0.0 pancakswap.fi
 0.0.0.0 pancakswapv3.com
+0.0.0.0 panccakeswarp.netlify.app
 0.0.0.0 pancekaswap.com
 0.0.0.0 panckaeswap.xyz
 0.0.0.0 panckedrops48.vercel.app
@@ -4026,6 +4000,7 @@
 0.0.0.0 polyhedrazk.foundation
 0.0.0.0 pond0x.trading
 0.0.0.0 pond0xtreasury.com
+0.0.0.0 pool-earnweb3.com
 0.0.0.0 pool-liquidfarm.com
 0.0.0.0 pool-nftbox.web.app
 0.0.0.0 poolearnn.com
@@ -4087,7 +4062,6 @@
 0.0.0.0 provisions-stknet.com
 0.0.0.0 provisionschainlink.org
 0.0.0.0 proximbe.ulcraft.com
-0.0.0.0 proximus-client.ddns.net
 0.0.0.0 proximus-recovery.be
 0.0.0.0 proximus.at
 0.0.0.0 psgyh.top
@@ -4230,7 +4204,6 @@
 0.0.0.0 resolveprotocols.pages.dev
 0.0.0.0 resolver-string.pages.dev
 0.0.0.0 resolverweb3.pages.dev
-0.0.0.0 restake-fi.xyz
 0.0.0.0 restorebugs.pages.dev
 0.0.0.0 restoremetaweb.pages.dev
 0.0.0.0 retik-de.web.app
@@ -4348,7 +4321,6 @@
 0.0.0.0 rwa.meme
 0.0.0.0 rx-nt.duckdns.org
 0.0.0.0 rx0k8.getmobox.buzz
-0.0.0.0 rz7wjw.info
 0.0.0.0 saaksoff5th.com
 0.0.0.0 safe-nodebrigde.online
 0.0.0.0 safeaccess-meta.com
@@ -4531,7 +4503,6 @@
 0.0.0.0 signup-portalcoin.com
 0.0.0.0 signup-velodrome.finance
 0.0.0.0 signups-befilabs.com
-0.0.0.0 signups-on1force.com
 0.0.0.0 signups-trias.org
 0.0.0.0 siioen.com
 0.0.0.0 silent-arie.com
@@ -4550,7 +4521,6 @@
 0.0.0.0 skinsmonkey.combine.tundragon.com
 0.0.0.0 skipton-login.com
 0.0.0.0 skymavis.cfd
-0.0.0.0 skynet229.godaddysites.com
 0.0.0.0 skynettbe.ulcraft.com
 0.0.0.0 skywardsemirates.com
 0.0.0.0 skywardsglobal.com
@@ -4577,7 +4547,6 @@
 0.0.0.0 smartrectification.pages.dev
 0.0.0.0 smartrevokenet.vercel.app
 0.0.0.0 smartsheetusa.team
-0.0.0.0 smithbrotherrsconstruction.com
 0.0.0.0 smog-token-st.web.app
 0.0.0.0 smogtoken-io.web.app
 0.0.0.0 smogtokens.vip
@@ -4924,7 +4893,6 @@
 0.0.0.0 tobkeeper.com
 0.0.0.0 tokeeper.com
 0.0.0.0 token-altsignal.web.app
-0.0.0.0 token-berachain.com
 0.0.0.0 token-blast.com
 0.0.0.0 token-dife.club
 0.0.0.0 token-dife.digital
@@ -5049,7 +5017,6 @@
 0.0.0.0 tsuka.gift
 0.0.0.0 ttec-corp.com
 0.0.0.0 ttec.com.ph
-0.0.0.0 ttkkoopp888.com
 0.0.0.0 ttonkeeper.com
 0.0.0.0 tu3.us
 0.0.0.0 tulip-app.one
@@ -5146,7 +5113,6 @@
 0.0.0.0 usdonbsc.tech
 0.0.0.0 usdt.nz
 0.0.0.0 usdt.trarchst.com
-0.0.0.0 usdt.wine
 0.0.0.0 usdtclaims.co
 0.0.0.0 usdtreward.info
 0.0.0.0 usemexus.org
@@ -5180,7 +5146,6 @@
 0.0.0.0 velocimeteer.com
 0.0.0.0 veloxlinknode.pages.dev
 0.0.0.0 vendorseuae.com
-0.0.0.0 vendoruae.com
 0.0.0.0 venomairdrop.pro
 0.0.0.0 venomairdrop.vercel.app
 0.0.0.0 venomcrypto-io.com
@@ -5544,7 +5509,6 @@
 0.0.0.0 www.ajbell-co.com
 0.0.0.0 www.allchainsfixer.site
 0.0.0.0 www.allianceprotectionservice.com
-0.0.0.0 www.alshaya.great-site.net
 0.0.0.0 www.alshayagroup.store
 0.0.0.0 www.altamwilalearabiu.com
 0.0.0.0 www.amspresale.cz
@@ -5681,7 +5645,6 @@
 0.0.0.0 www.ju.normbit.online
 0.0.0.0 www.ju.uiworth.online
 0.0.0.0 www.jutsunft.com.soillabs.app
-0.0.0.0 www.jympurexhange.org
 0.0.0.0 www.ka.bpoint.online
 0.0.0.0 www.kenetix.finance
 0.0.0.0 www.kinetx.finance
@@ -5887,7 +5850,6 @@
 0.0.0.0 xn--fixedfoat-wpb.com
 0.0.0.0 xn--flxedfloat-78a.com
 0.0.0.0 xn--flxedfloat-yub.com
-0.0.0.0 xn--fxadfloaot-xub.com
 0.0.0.0 xn--fxadfloat-05a.com
 0.0.0.0 xn--fxedflaot-vpbc.com
 0.0.0.0 xn--fxedflcoat-68a.com
@@ -5895,7 +5857,6 @@
 0.0.0.0 xn--fxedfloat-q5af.com
 0.0.0.0 xn--fxedflooad-68a.com
 0.0.0.0 xn--fxedflooat-68a.net
-0.0.0.0 xn--fxedftloat-k8a.com
 0.0.0.0 xn--fxeldfloat-bub.com
 0.0.0.0 xn--od5b1rm17a.com
 0.0.0.0 xn--rustwallet-gyd.com
@@ -5917,7 +5878,6 @@
 0.0.0.0 xversewebwallets.com
 0.0.0.0 xwallconect.pages.dev
 0.0.0.0 y-predict.web.app
-0.0.0.0 y5tmtb.info
 0.0.0.0 yasno-gov.pages.dev
 0.0.0.0 ybixfed.pro
 0.0.0.0 ycs-agoda.cc
