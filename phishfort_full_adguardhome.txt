@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon May 13 06:05:06 UTC 2024
+# PhishFort Full Domain List - Mon May 13 12:05:44 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109400
+# Number of Entries: 109407
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -437,6 +437,7 @@
 ||1inch-token.org^
 ||1inch-usdc.com^
 ||1inch-usdc.site^
+||1inch-usdt.vip^
 ||1inch-v1.com^
 ||1inch-v2.com^
 ||1inch-v2.pro^
@@ -10926,6 +10927,7 @@
 ||bbuff163.com^
 ||bbvasecurelog.info^
 ||bbwallet.website^
+||bbxo.duckdns.org^
 ||bbxotc.tech^
 ||bbyc-official.xyz^
 ||bc-coinbase.com^
@@ -16191,6 +16193,7 @@
 ||certifyingdapps.com^
 ||certifywallmesh.net^
 ||ceruloplasmini.org^
+||ceshi.wix-ecwid.com^
 ||ceszf.cobopay.cn^
 ||cetprice.org^
 ||cetsenty.site^
@@ -36077,7 +36080,6 @@
 ||geckorewards.space^
 ||geckorewardx.fun^
 ||geckoswap.finance^
-||geckoterminal-frontend-6aaxif3ri-coingecko.vercel.app^
 ||gecnareepartneum.live^
 ||gedprefeituraimbituva.com.br^
 ||geezyy.github.io^
@@ -54293,6 +54295,7 @@
 ||mm.metamaskio.cc^
 ||mm3.fwnfts.com^
 ||mmaetamsmk.azurewebsites.net^
+||mmagpiexyz.io^
 ||mmakerdao.com^
 ||mmap.cyi168.com^
 ||mmap.etokens.in^
@@ -65779,6 +65782,7 @@
 ||pancakeswap-v3.pw^
 ||pancakeswap-v3.site^
 ||pancakeswap-v4-offers.com^
+||pancakeswap-v4.com^
 ||pancakeswap-v4.pw^
 ||pancakeswap-v4.site^
 ||pancakeswap-verificationvhost207777.lowhost.ru^
@@ -67131,6 +67135,7 @@
 ||pancakeswapdrop.com^
 ||pancakeswapdrop15.vercel.app^
 ||pancakeswapdrop78.vercel.app^
+||pancakeswapdrops076.vercel.app^
 ||pancakeswapdutch.com^
 ||pancakeswape-finance.site^
 ||pancakeswape-finnance-finance.co.uk^
@@ -87715,6 +87720,8 @@
 ||tpay-paxful.com^
 ||tpcontact.co.za^
 ||tpe-store.pancakeswape.finance^
+||tpgcapitalage.com^
+||tpgcapitaljks.com^
 ||tpgcapitallca.com^
 ||tpgcapitallia.com^
 ||tpgcapitalrul.com^

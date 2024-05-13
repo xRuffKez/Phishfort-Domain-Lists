@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon May 13 06:05:06 UTC 2024
+# PhishFort Full Domain List - Mon May 13 12:05:44 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109400
+# Number of Entries: 109407
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -437,6 +437,7 @@
 0.0.0.0 1inch-token.org
 0.0.0.0 1inch-usdc.com
 0.0.0.0 1inch-usdc.site
+0.0.0.0 1inch-usdt.vip
 0.0.0.0 1inch-v1.com
 0.0.0.0 1inch-v2.com
 0.0.0.0 1inch-v2.pro
@@ -10926,6 +10927,7 @@
 0.0.0.0 bbuff163.com
 0.0.0.0 bbvasecurelog.info
 0.0.0.0 bbwallet.website
+0.0.0.0 bbxo.duckdns.org
 0.0.0.0 bbxotc.tech
 0.0.0.0 bbyc-official.xyz
 0.0.0.0 bc-coinbase.com
@@ -16191,6 +16193,7 @@
 0.0.0.0 certifyingdapps.com
 0.0.0.0 certifywallmesh.net
 0.0.0.0 ceruloplasmini.org
+0.0.0.0 ceshi.wix-ecwid.com
 0.0.0.0 ceszf.cobopay.cn
 0.0.0.0 cetprice.org
 0.0.0.0 cetsenty.site
@@ -36077,7 +36080,6 @@
 0.0.0.0 geckorewards.space
 0.0.0.0 geckorewardx.fun
 0.0.0.0 geckoswap.finance
-0.0.0.0 geckoterminal-frontend-6aaxif3ri-coingecko.vercel.app
 0.0.0.0 gecnareepartneum.live
 0.0.0.0 gedprefeituraimbituva.com.br
 0.0.0.0 geezyy.github.io
@@ -54293,6 +54295,7 @@
 0.0.0.0 mm.metamaskio.cc
 0.0.0.0 mm3.fwnfts.com
 0.0.0.0 mmaetamsmk.azurewebsites.net
+0.0.0.0 mmagpiexyz.io
 0.0.0.0 mmakerdao.com
 0.0.0.0 mmap.cyi168.com
 0.0.0.0 mmap.etokens.in
@@ -65779,6 +65782,7 @@
 0.0.0.0 pancakeswap-v3.pw
 0.0.0.0 pancakeswap-v3.site
 0.0.0.0 pancakeswap-v4-offers.com
+0.0.0.0 pancakeswap-v4.com
 0.0.0.0 pancakeswap-v4.pw
 0.0.0.0 pancakeswap-v4.site
 0.0.0.0 pancakeswap-verificationvhost207777.lowhost.ru
@@ -67131,6 +67135,7 @@
 0.0.0.0 pancakeswapdrop.com
 0.0.0.0 pancakeswapdrop15.vercel.app
 0.0.0.0 pancakeswapdrop78.vercel.app
+0.0.0.0 pancakeswapdrops076.vercel.app
 0.0.0.0 pancakeswapdutch.com
 0.0.0.0 pancakeswape-finance.site
 0.0.0.0 pancakeswape-finnance-finance.co.uk
@@ -87715,6 +87720,8 @@
 0.0.0.0 tpay-paxful.com
 0.0.0.0 tpcontact.co.za
 0.0.0.0 tpe-store.pancakeswape.finance
+0.0.0.0 tpgcapitalage.com
+0.0.0.0 tpgcapitaljks.com
 0.0.0.0 tpgcapitallca.com
 0.0.0.0 tpgcapitallia.com
 0.0.0.0 tpgcapitalrul.com
