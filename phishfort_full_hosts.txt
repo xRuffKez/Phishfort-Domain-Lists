@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Sun May 12 18:04:30 UTC 2024
+# PhishFort Full Domain List - Mon May 13 00:15:37 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109384
+# Number of Entries: 109389
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -39194,6 +39194,7 @@
 0.0.0.0 housing-aj5.pages.dev
 0.0.0.0 hovbit.com
 0.0.0.0 howhookup.com
+0.0.0.0 howling-train-prehistoric.on-fleek.app
 0.0.0.0 howsty-takenes-gifts.github.io
 0.0.0.0 howtforextrading.com
 0.0.0.0 howtoadd-metamask.com
@@ -67080,6 +67081,7 @@
 0.0.0.0 pancakeswapclassic.com
 0.0.0.0 pancakeswapclassic.finance
 0.0.0.0 pancakeswapclean.pages.dev
+0.0.0.0 pancakeswapclick032.vercel.app
 0.0.0.0 pancakeswapclick04.vercel.app
 0.0.0.0 pancakeswapclient.com
 0.0.0.0 pancakeswapclone.com
@@ -67125,6 +67127,7 @@
 0.0.0.0 pancakeswapdone.com
 0.0.0.0 pancakeswapdrive.com
 0.0.0.0 pancakeswapdrop.com
+0.0.0.0 pancakeswapdrop15.vercel.app
 0.0.0.0 pancakeswapdrop78.vercel.app
 0.0.0.0 pancakeswapdutch.com
 0.0.0.0 pancakeswape-finance.site
@@ -68164,6 +68167,7 @@
 0.0.0.0 panccakeswapp.com
 0.0.0.0 panccakeswaps.com
 0.0.0.0 panccakeswaq-flnance.online
+0.0.0.0 panccakeswarp.netlify.app
 0.0.0.0 panccakeswarp.online
 0.0.0.0 panccakeswwap.finance
 0.0.0.0 panccakewapes.finance
@@ -72793,6 +72797,7 @@
 0.0.0.0 pooksrare.org
 0.0.0.0 pool-bakeryswap.org
 0.0.0.0 pool-chain.link
+0.0.0.0 pool-earnweb3.com
 0.0.0.0 pool-friend.tech
 0.0.0.0 pool-in-7582.onrender.com
 0.0.0.0 pool-liquidfarm.com

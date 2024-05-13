@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Sun May 12 18:04:30 UTC 2024
+# PhishFort Full Domain List - Mon May 13 00:15:37 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109384
+# Number of Entries: 109389
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -39193,6 +39193,7 @@ housexysounds.com
 housing-aj5.pages.dev
 hovbit.com
 howhookup.com
+howling-train-prehistoric.on-fleek.app
 howsty-takenes-gifts.github.io
 howtforextrading.com
 howtoadd-metamask.com
@@ -67079,6 +67080,7 @@ pancakeswapclaimz96.vercel.app
 pancakeswapclassic.com
 pancakeswapclassic.finance
 pancakeswapclean.pages.dev
+pancakeswapclick032.vercel.app
 pancakeswapclick04.vercel.app
 pancakeswapclient.com
 pancakeswapclone.com
@@ -67124,6 +67126,7 @@ pancakeswapdex.stsblockchain.xyz
 pancakeswapdone.com
 pancakeswapdrive.com
 pancakeswapdrop.com
+pancakeswapdrop15.vercel.app
 pancakeswapdrop78.vercel.app
 pancakeswapdutch.com
 pancakeswape-finance.site
@@ -68163,6 +68166,7 @@ panccakeswap.info
 panccakeswapp.com
 panccakeswaps.com
 panccakeswaq-flnance.online
+panccakeswarp.netlify.app
 panccakeswarp.online
 panccakeswwap.finance
 panccakewapes.finance
@@ -72792,6 +72796,7 @@ pookokecooen.rafcome.ga
 pooksrare.org
 pool-bakeryswap.org
 pool-chain.link
+pool-earnweb3.com
 pool-friend.tech
 pool-in-7582.onrender.com
 pool-liquidfarm.com
