@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Mon May 13 12:05:44 UTC 2024
+# PhishFort Full Domain List - Mon May 13 18:04:19 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109407
+# Number of Entries: 109426
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -11100,6 +11100,7 @@ befy.space
 begeeys.space
 beget51.cf
 begin-12.web.app
+begin.focusverify.live
 beginasnothing.art
 beglobal-promogive.com
 beilisomeualourturosamsronicx2.ga
@@ -16827,6 +16828,7 @@ choupettesolana.com
 chris.vip-freemint.com
 chriscraft.shop
 christian-quilts.com
+christianguilbertllc.za.com
 christies.app
 christmas-pump.coins-pad.tech
 christmasbox.info
@@ -21600,6 +21602,7 @@ coziesofficial.xyz
 cozitenova.com
 cozymeta.com
 cozypenguin.xyz
+cp-viet.com
 cpanel.0myetherwallet.com
 cpanel.app-roninchain.com
 cpanel.approninchain.com
@@ -34772,6 +34775,7 @@ free500usd.top
 freeads-pay.com
 freeairdropapp.com
 freeairdropcrypto.com
+freeairdroppromo.tirupati-construction.com
 freeappware.com
 freebakkt.com
 freebitcobot.top
@@ -37437,6 +37441,7 @@ globalpayment.online
 globalpaymentserver.com
 globalpaymentsvtw.com
 globalpaymentsytww.com
+globalpayx.com
 globalsafetyprotection.com
 globalsconnect.com
 globalsecuredaddress.com
@@ -37460,7 +37465,10 @@ glveaways-ethereums-metamasks-io.is-best.net
 glveaways-ethereums-trustswallet-com.html-5.me
 glveaways-metamasks-lo.html-5.me
 glybit.com
+gm-ck.com
 gm-com.cf
+gm-dk.com
+gm-ek.com
 gm-generalmotors.com
 gm-sustainable.com
 gma-c.godaddysites.com
@@ -41413,6 +41421,7 @@ jdxy.ximusale.com
 jedz.co.za
 jeepgarageve.com
 jeepvult.org
+jeffcp.com
 jefferies.asia
 jefferies.ceo
 jefferies.top
@@ -41585,6 +41594,7 @@ jnkitsolutions.com
 joancornella-fwenclub.com
 job-adastragrp.com
 job-kpmg.com
+jobleschenmassst.com
 joblessassistancenetwork.com
 joblessassistanceportal.com
 joblessassistanceportal.net
@@ -42581,6 +42591,8 @@ klarnas.shop
 klarnasecure.com
 klarnashop.cc
 klarnashop.vip
+klarnass.cc
+klarnass.shop
 klayswapapp.klayexchaange.live
 klaytn.web3-airdrop.net
 kldiscovery.works
@@ -48874,6 +48886,7 @@ massonline.mprofile.org
 massposos.com
 masssccaradd.com
 masssosatgo.com
+massuidenpobedi.online
 massuiprofilelogin.onrender.com
 massulbenefitget.com
 massulonllnedet.org
@@ -48882,6 +48895,7 @@ mast-dpp.web.app
 master-brain.com
 master.pancakesvqp.com
 master3drpg.com
+masterbrandtalent.com
 masterclicsolutions.com
 mastermeatsqa.com
 mastermindlogisticsltd.com
@@ -65314,6 +65328,7 @@ pancakeswap-airdrop.info
 pancakeswap-airdrop.pro
 pancakeswap-airdrop.site
 pancakeswap-airdrop.tech
+pancakeswap-airdrop022.vercel.app
 pancakeswap-airdropcampaign.finance
 pancakeswap-airdropclaim.vercel.app
 pancakeswap-amer.tech
@@ -69832,6 +69847,7 @@ pay-en407etr.com
 pay-paxful.com
 pay-paxful.org
 pay-secure.net
+pay-with-klarna.com
 pay-www.connect.pancakeswape.finance
 pay.avito.sber.kwid9.app-mav.xyz
 pay.avito.www.kwid9.app-mav.xyz
@@ -86785,7 +86801,6 @@ tidex.icu
 tidstock.com
 tiechdata.at
 tienda-york.com.mx
-tienda-york.mx
 tiendayork.mx
 tiendayorkmexico.com
 tiendayorkmexico.mx
@@ -89269,6 +89284,7 @@ uionlineddetmaa.org
 uionlinedet.com
 uionlinedetma.com
 uionlinedetmaea.com
+uionlinedutma.org
 uionlineheda.com
 uionlineidetma.org
 uionlineinsurance.com
@@ -89391,7 +89407,6 @@ uneswap.pw
 unetiediaeriliences.shop
 unexts.com
 unf-inc.com
-unf-incs.com
 unfi-mall.vip
 unfi.cc
 unfi.store
@@ -92372,6 +92387,7 @@ virgin-awareness.com
 virginmoneybusinessbanking.com
 virginmoneychatwithus.web.app
 virginmoneylivechat.com
+virginmoneylivesupport.com
 virginmoneynetwork.com
 virginmoneysupport.com
 virginmoneyverify.web.app
@@ -97240,6 +97256,7 @@ whitelist-verification.com
 whitelist-wenwencoin.com
 whitelist-woo.org
 whitelist-woo.pages.dev
+whitelist-zeta.market
 whitelist-zk5ync.io
 whitelist-zksync.com
 whitelist.cryptohasbullasnft.com
@@ -98429,6 +98446,7 @@ www.6-collab-land.pro
 www.66312712367123.com
 www.7-collab-land.pro
 www.7dgw.com
+www.7dubaijobs.com
 www.7par.net
 www.8-collab-land.pro
 www.888innercircle.com
@@ -108550,6 +108568,7 @@ yui.finance
 yuiyuni.club
 yuiyuni.nft-premint.com
 yuliverse.web3fast.net
+yumchokolade.com
 yumyumon.space
 yusaku2020.org
 yuvrajproductions.com

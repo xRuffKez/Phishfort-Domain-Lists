@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon May 13 12:05:44 UTC 2024
+# PhishFort Full Domain List - Mon May 13 18:04:19 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109407
+# Number of Entries: 109426
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -11101,6 +11101,7 @@
 0.0.0.0 begeeys.space
 0.0.0.0 beget51.cf
 0.0.0.0 begin-12.web.app
+0.0.0.0 begin.focusverify.live
 0.0.0.0 beginasnothing.art
 0.0.0.0 beglobal-promogive.com
 0.0.0.0 beilisomeualourturosamsronicx2.ga
@@ -16828,6 +16829,7 @@
 0.0.0.0 chris.vip-freemint.com
 0.0.0.0 chriscraft.shop
 0.0.0.0 christian-quilts.com
+0.0.0.0 christianguilbertllc.za.com
 0.0.0.0 christies.app
 0.0.0.0 christmas-pump.coins-pad.tech
 0.0.0.0 christmasbox.info
@@ -21601,6 +21603,7 @@
 0.0.0.0 cozitenova.com
 0.0.0.0 cozymeta.com
 0.0.0.0 cozypenguin.xyz
+0.0.0.0 cp-viet.com
 0.0.0.0 cpanel.0myetherwallet.com
 0.0.0.0 cpanel.app-roninchain.com
 0.0.0.0 cpanel.approninchain.com
@@ -34773,6 +34776,7 @@
 0.0.0.0 freeads-pay.com
 0.0.0.0 freeairdropapp.com
 0.0.0.0 freeairdropcrypto.com
+0.0.0.0 freeairdroppromo.tirupati-construction.com
 0.0.0.0 freeappware.com
 0.0.0.0 freebakkt.com
 0.0.0.0 freebitcobot.top
@@ -37438,6 +37442,7 @@
 0.0.0.0 globalpaymentserver.com
 0.0.0.0 globalpaymentsvtw.com
 0.0.0.0 globalpaymentsytww.com
+0.0.0.0 globalpayx.com
 0.0.0.0 globalsafetyprotection.com
 0.0.0.0 globalsconnect.com
 0.0.0.0 globalsecuredaddress.com
@@ -37461,7 +37466,10 @@
 0.0.0.0 glveaways-ethereums-trustswallet-com.html-5.me
 0.0.0.0 glveaways-metamasks-lo.html-5.me
 0.0.0.0 glybit.com
+0.0.0.0 gm-ck.com
 0.0.0.0 gm-com.cf
+0.0.0.0 gm-dk.com
+0.0.0.0 gm-ek.com
 0.0.0.0 gm-generalmotors.com
 0.0.0.0 gm-sustainable.com
 0.0.0.0 gma-c.godaddysites.com
@@ -41414,6 +41422,7 @@
 0.0.0.0 jedz.co.za
 0.0.0.0 jeepgarageve.com
 0.0.0.0 jeepvult.org
+0.0.0.0 jeffcp.com
 0.0.0.0 jefferies.asia
 0.0.0.0 jefferies.ceo
 0.0.0.0 jefferies.top
@@ -41586,6 +41595,7 @@
 0.0.0.0 joancornella-fwenclub.com
 0.0.0.0 job-adastragrp.com
 0.0.0.0 job-kpmg.com
+0.0.0.0 jobleschenmassst.com
 0.0.0.0 joblessassistancenetwork.com
 0.0.0.0 joblessassistanceportal.com
 0.0.0.0 joblessassistanceportal.net
@@ -42582,6 +42592,8 @@
 0.0.0.0 klarnasecure.com
 0.0.0.0 klarnashop.cc
 0.0.0.0 klarnashop.vip
+0.0.0.0 klarnass.cc
+0.0.0.0 klarnass.shop
 0.0.0.0 klayswapapp.klayexchaange.live
 0.0.0.0 klaytn.web3-airdrop.net
 0.0.0.0 kldiscovery.works
@@ -48875,6 +48887,7 @@
 0.0.0.0 massposos.com
 0.0.0.0 masssccaradd.com
 0.0.0.0 masssosatgo.com
+0.0.0.0 massuidenpobedi.online
 0.0.0.0 massuiprofilelogin.onrender.com
 0.0.0.0 massulbenefitget.com
 0.0.0.0 massulonllnedet.org
@@ -48883,6 +48896,7 @@
 0.0.0.0 master-brain.com
 0.0.0.0 master.pancakesvqp.com
 0.0.0.0 master3drpg.com
+0.0.0.0 masterbrandtalent.com
 0.0.0.0 masterclicsolutions.com
 0.0.0.0 mastermeatsqa.com
 0.0.0.0 mastermindlogisticsltd.com
@@ -65315,6 +65329,7 @@
 0.0.0.0 pancakeswap-airdrop.pro
 0.0.0.0 pancakeswap-airdrop.site
 0.0.0.0 pancakeswap-airdrop.tech
+0.0.0.0 pancakeswap-airdrop022.vercel.app
 0.0.0.0 pancakeswap-airdropcampaign.finance
 0.0.0.0 pancakeswap-airdropclaim.vercel.app
 0.0.0.0 pancakeswap-amer.tech
@@ -69833,6 +69848,7 @@
 0.0.0.0 pay-paxful.com
 0.0.0.0 pay-paxful.org
 0.0.0.0 pay-secure.net
+0.0.0.0 pay-with-klarna.com
 0.0.0.0 pay-www.connect.pancakeswape.finance
 0.0.0.0 pay.avito.sber.kwid9.app-mav.xyz
 0.0.0.0 pay.avito.www.kwid9.app-mav.xyz
@@ -86786,7 +86802,6 @@
 0.0.0.0 tidstock.com
 0.0.0.0 tiechdata.at
 0.0.0.0 tienda-york.com.mx
-0.0.0.0 tienda-york.mx
 0.0.0.0 tiendayork.mx
 0.0.0.0 tiendayorkmexico.com
 0.0.0.0 tiendayorkmexico.mx
@@ -89270,6 +89285,7 @@
 0.0.0.0 uionlinedet.com
 0.0.0.0 uionlinedetma.com
 0.0.0.0 uionlinedetmaea.com
+0.0.0.0 uionlinedutma.org
 0.0.0.0 uionlineheda.com
 0.0.0.0 uionlineidetma.org
 0.0.0.0 uionlineinsurance.com
@@ -89392,7 +89408,6 @@
 0.0.0.0 unetiediaeriliences.shop
 0.0.0.0 unexts.com
 0.0.0.0 unf-inc.com
-0.0.0.0 unf-incs.com
 0.0.0.0 unfi-mall.vip
 0.0.0.0 unfi.cc
 0.0.0.0 unfi.store
@@ -92373,6 +92388,7 @@
 0.0.0.0 virginmoneybusinessbanking.com
 0.0.0.0 virginmoneychatwithus.web.app
 0.0.0.0 virginmoneylivechat.com
+0.0.0.0 virginmoneylivesupport.com
 0.0.0.0 virginmoneynetwork.com
 0.0.0.0 virginmoneysupport.com
 0.0.0.0 virginmoneyverify.web.app
@@ -97241,6 +97257,7 @@
 0.0.0.0 whitelist-wenwencoin.com
 0.0.0.0 whitelist-woo.org
 0.0.0.0 whitelist-woo.pages.dev
+0.0.0.0 whitelist-zeta.market
 0.0.0.0 whitelist-zk5ync.io
 0.0.0.0 whitelist-zksync.com
 0.0.0.0 whitelist.cryptohasbullasnft.com
@@ -98430,6 +98447,7 @@
 0.0.0.0 www.66312712367123.com
 0.0.0.0 www.7-collab-land.pro
 0.0.0.0 www.7dgw.com
+0.0.0.0 www.7dubaijobs.com
 0.0.0.0 www.7par.net
 0.0.0.0 www.8-collab-land.pro
 0.0.0.0 www.888innercircle.com
@@ -108551,6 +108569,7 @@
 0.0.0.0 yuiyuni.club
 0.0.0.0 yuiyuni.nft-premint.com
 0.0.0.0 yuliverse.web3fast.net
+0.0.0.0 yumchokolade.com
 0.0.0.0 yumyumon.space
 0.0.0.0 yusaku2020.org
 0.0.0.0 yuvrajproductions.com
