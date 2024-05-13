@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May 13 00:07:32 UTC 2024
+# PhishFort Small Domain List - Mon May 13 06:02:39 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 5965
+# Number of Entries: 5967
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -43,7 +43,6 @@
 0.0.0.0 2acnmzzlink.webcindario.com
 0.0.0.0 2crlw.pro
 0.0.0.0 2er.hzgold.net
-0.0.0.0 2fa-metamask.online.snackbarko.nl
 0.0.0.0 2faprotector.com
 0.0.0.0 32f79d9c.7cdb6f3702a09bbbd3afc136.workers.dev
 0.0.0.0 338465.kossuthneedshousing.com
@@ -179,10 +178,9 @@
 0.0.0.0 agoda.reserv19471.org
 0.0.0.0 agoda.tkffw888.icu
 0.0.0.0 agoda.weboffer7181.com
-0.0.0.0 agoda.ycs-id.info
 0.0.0.0 agoda.ycs.my.id
 0.0.0.0 agodaa-booking.com
-0.0.0.0 agodaa.life
+0.0.0.0 agodabusiness.pro
 0.0.0.0 agodahotel.cc
 0.0.0.0 agodahotel.cyou
 0.0.0.0 agodahotel.pw
@@ -323,6 +321,7 @@
 0.0.0.0 alshayamegastore.com
 0.0.0.0 alshayamegastore.online
 0.0.0.0 alshayeagroup.com
+0.0.0.0 alshaymegastore.online
 0.0.0.0 alt-zerolend.xyz
 0.0.0.0 altdentifiys.com
 0.0.0.0 altidentlfler.net
@@ -550,7 +549,6 @@
 0.0.0.0 astarlabs.com-t.co
 0.0.0.0 astrafive.website
 0.0.0.0 asx-exs-trade.com
-0.0.0.0 asx-martdeskeia.com
 0.0.0.0 asx-tradeco.co
 0.0.0.0 asx-tsdkgt.com
 0.0.0.0 asx.am
@@ -3715,12 +3713,12 @@
 0.0.0.0 pancakeswapfinances.pages.dev
 0.0.0.0 pancakeswapgiveaway.com
 0.0.0.0 pancakeswapgiveawayclaim.com
-0.0.0.0 pancakeswaph.github.io
 0.0.0.0 pancakeswaphelp.pages.dev
 0.0.0.0 pancakeswapp.pages.dev
 0.0.0.0 pancakeswapp.web.app
 0.0.0.0 pancakeswappro.com
 0.0.0.0 pancakeswapreward.finance
+0.0.0.0 pancakeswaps.live
 0.0.0.0 pancakeswapsclaim02.vercel.app
 0.0.0.0 pancakeswapsfinance.pages.dev
 0.0.0.0 pancakeswapunlock.com
@@ -4323,6 +4321,7 @@
 0.0.0.0 rx0k8.getmobox.buzz
 0.0.0.0 saaksoff5th.com
 0.0.0.0 safe-nodebrigde.online
+0.0.0.0 safe-ton.pages.dev
 0.0.0.0 safeaccess-meta.com
 0.0.0.0 safeconnectfixdapp.web.app
 0.0.0.0 safegnosis.co
@@ -4333,7 +4332,6 @@
 0.0.0.0 saitama.gift
 0.0.0.0 saitapro.vercel.app
 0.0.0.0 sakoff5thshop.com
-0.0.0.0 saks5.store
 0.0.0.0 saksfifthpartner.com
 0.0.0.0 saksof5th.club
 0.0.0.0 saksoff.sakskoesad.com
@@ -4363,7 +4361,6 @@
 0.0.0.0 saksoff5thoi-ju.com
 0.0.0.0 saksoff5thsales.com
 0.0.0.0 saksoff5thw.com
-0.0.0.0 saksoff5thx.com
 0.0.0.0 saksoff5thy-co.com
 0.0.0.0 saksoff5thyy-kco.com
 0.0.0.0 saksoff5thyyppl.top
@@ -4557,6 +4554,7 @@
 0.0.0.0 sn.uibyte.online
 0.0.0.0 snap-dioneprotocol.com
 0.0.0.0 snap-pixels.com
+0.0.0.0 snapshot-1inch.com
 0.0.0.0 snapshot-defi.com
 0.0.0.0 snapshot-syncswap.com
 0.0.0.0 snexkr.com
@@ -4939,7 +4937,9 @@
 0.0.0.0 tonkeeper.help
 0.0.0.0 tonkeeper.in
 0.0.0.0 tonkeeper.io
+0.0.0.0 tonkeeper.is
 0.0.0.0 tonkeeper.pages.dev
+0.0.0.0 tonkeeper.pl
 0.0.0.0 tonkeeper.su
 0.0.0.0 tonkeeper.support
 0.0.0.0 tonkeeper.website
@@ -5120,7 +5120,6 @@
 0.0.0.0 uwv475.com
 0.0.0.0 uzmanplatform.com
 0.0.0.0 v1-vlaunch.com
-0.0.0.0 v2-pancake.pages.dev
 0.0.0.0 v2-pancakeswap.github.io
 0.0.0.0 v2-pancakeswap.pages.dev
 0.0.0.0 v3-pancakeswap.pages.dev
@@ -5390,8 +5389,8 @@
 0.0.0.0 weblinknode.firebaseapp.com
 0.0.0.0 weblinknode.web.app
 0.0.0.0 weblinknodeapp.web.app
+0.0.0.0 webmail.swagelok.cam
 0.0.0.0 webnet3.com
-0.0.0.0 webonlinez.sa.com
 0.0.0.0 webpaxos.com
 0.0.0.0 websmart-de.fi
 0.0.0.0 websolverdapp.pages.dev
@@ -5499,6 +5498,7 @@
 0.0.0.0 www.agoda-vip.com
 0.0.0.0 www.agodaa-booking.com
 0.0.0.0 www.agodabusiness.pro
+0.0.0.0 www.agodachina.cn
 0.0.0.0 www.agodaycs.net
 0.0.0.0 www.agrtech.tech
 0.0.0.0 www.ahikec.com
@@ -5553,6 +5553,7 @@
 0.0.0.0 www.bcilor.com
 0.0.0.0 www.big-x-drops.top
 0.0.0.0 www.birdeye.trade
+0.0.0.0 www.bitexbuk.com
 0.0.0.0 www.blockchainbets-vault.com
 0.0.0.0 www.bonkmassol.online
 0.0.0.0 www.botlun.com
@@ -5792,6 +5793,7 @@
 0.0.0.0 www.theplaybooksol.xyz
 0.0.0.0 www.ton.org-networks.top
 0.0.0.0 www.tonkeeper.domains
+0.0.0.0 www.tonkeeper.market
 0.0.0.0 www.toshithecat.org
 0.0.0.0 www.triplewealthbuilders.com
 0.0.0.0 www.troyswop.org

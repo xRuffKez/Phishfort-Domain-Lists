@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May 13 00:07:32 UTC 2024
+# PhishFort Small Domain List - Mon May 13 06:02:39 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 5965
+# Number of Entries: 5967
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -43,7 +43,6 @@
 ||2acnmzzlink.webcindario.com^
 ||2crlw.pro^
 ||2er.hzgold.net^
-||2fa-metamask.online.snackbarko.nl^
 ||2faprotector.com^
 ||32f79d9c.7cdb6f3702a09bbbd3afc136.workers.dev^
 ||338465.kossuthneedshousing.com^
@@ -179,10 +178,9 @@
 ||agoda.reserv19471.org^
 ||agoda.tkffw888.icu^
 ||agoda.weboffer7181.com^
-||agoda.ycs-id.info^
 ||agoda.ycs.my.id^
 ||agodaa-booking.com^
-||agodaa.life^
+||agodabusiness.pro^
 ||agodahotel.cc^
 ||agodahotel.cyou^
 ||agodahotel.pw^
@@ -323,6 +321,7 @@
 ||alshayamegastore.com^
 ||alshayamegastore.online^
 ||alshayeagroup.com^
+||alshaymegastore.online^
 ||alt-zerolend.xyz^
 ||altdentifiys.com^
 ||altidentlfler.net^
@@ -550,7 +549,6 @@
 ||astarlabs.com-t.co^
 ||astrafive.website^
 ||asx-exs-trade.com^
-||asx-martdeskeia.com^
 ||asx-tradeco.co^
 ||asx-tsdkgt.com^
 ||asx.am^
@@ -3715,12 +3713,12 @@
 ||pancakeswapfinances.pages.dev^
 ||pancakeswapgiveaway.com^
 ||pancakeswapgiveawayclaim.com^
-||pancakeswaph.github.io^
 ||pancakeswaphelp.pages.dev^
 ||pancakeswapp.pages.dev^
 ||pancakeswapp.web.app^
 ||pancakeswappro.com^
 ||pancakeswapreward.finance^
+||pancakeswaps.live^
 ||pancakeswapsclaim02.vercel.app^
 ||pancakeswapsfinance.pages.dev^
 ||pancakeswapunlock.com^
@@ -4323,6 +4321,7 @@
 ||rx0k8.getmobox.buzz^
 ||saaksoff5th.com^
 ||safe-nodebrigde.online^
+||safe-ton.pages.dev^
 ||safeaccess-meta.com^
 ||safeconnectfixdapp.web.app^
 ||safegnosis.co^
@@ -4333,7 +4332,6 @@
 ||saitama.gift^
 ||saitapro.vercel.app^
 ||sakoff5thshop.com^
-||saks5.store^
 ||saksfifthpartner.com^
 ||saksof5th.club^
 ||saksoff.sakskoesad.com^
@@ -4363,7 +4361,6 @@
 ||saksoff5thoi-ju.com^
 ||saksoff5thsales.com^
 ||saksoff5thw.com^
-||saksoff5thx.com^
 ||saksoff5thy-co.com^
 ||saksoff5thyy-kco.com^
 ||saksoff5thyyppl.top^
@@ -4557,6 +4554,7 @@
 ||sn.uibyte.online^
 ||snap-dioneprotocol.com^
 ||snap-pixels.com^
+||snapshot-1inch.com^
 ||snapshot-defi.com^
 ||snapshot-syncswap.com^
 ||snexkr.com^
@@ -4939,7 +4937,9 @@
 ||tonkeeper.help^
 ||tonkeeper.in^
 ||tonkeeper.io^
+||tonkeeper.is^
 ||tonkeeper.pages.dev^
+||tonkeeper.pl^
 ||tonkeeper.su^
 ||tonkeeper.support^
 ||tonkeeper.website^
@@ -5120,7 +5120,6 @@
 ||uwv475.com^
 ||uzmanplatform.com^
 ||v1-vlaunch.com^
-||v2-pancake.pages.dev^
 ||v2-pancakeswap.github.io^
 ||v2-pancakeswap.pages.dev^
 ||v3-pancakeswap.pages.dev^
@@ -5390,8 +5389,8 @@
 ||weblinknode.firebaseapp.com^
 ||weblinknode.web.app^
 ||weblinknodeapp.web.app^
+||webmail.swagelok.cam^
 ||webnet3.com^
-||webonlinez.sa.com^
 ||webpaxos.com^
 ||websmart-de.fi^
 ||websolverdapp.pages.dev^
@@ -5499,6 +5498,7 @@
 ||www.agoda-vip.com^
 ||www.agodaa-booking.com^
 ||www.agodabusiness.pro^
+||www.agodachina.cn^
 ||www.agodaycs.net^
 ||www.agrtech.tech^
 ||www.ahikec.com^
@@ -5553,6 +5553,7 @@
 ||www.bcilor.com^
 ||www.big-x-drops.top^
 ||www.birdeye.trade^
+||www.bitexbuk.com^
 ||www.blockchainbets-vault.com^
 ||www.bonkmassol.online^
 ||www.botlun.com^
@@ -5792,6 +5793,7 @@
 ||www.theplaybooksol.xyz^
 ||www.ton.org-networks.top^
 ||www.tonkeeper.domains^
+||www.tonkeeper.market^
 ||www.toshithecat.org^
 ||www.triplewealthbuilders.com^
 ||www.troyswop.org^
