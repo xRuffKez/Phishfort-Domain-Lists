@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon May 13 00:15:37 UTC 2024
+# PhishFort Full Domain List - Mon May 13 06:05:06 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109389
+# Number of Entries: 109400
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3172,6 +3172,7 @@
 0.0.0.0 agodaaffiliate.com
 0.0.0.0 agodaagency.com
 0.0.0.0 agodabook.com
+0.0.0.0 agodabusiness.pro
 0.0.0.0 agodachina.cn
 0.0.0.0 agodacs.online
 0.0.0.0 agodaexpert.vip
@@ -4605,6 +4606,7 @@
 0.0.0.0 alshayashop.com
 0.0.0.0 alshayastore.com
 0.0.0.0 alshayeagroup.com
+0.0.0.0 alshaymegastore.online
 0.0.0.0 alshehhi.net
 0.0.0.0 alshiayagroup.com
 0.0.0.0 alskaa.com
@@ -67496,6 +67498,7 @@
 0.0.0.0 pancakeswaps.io
 0.0.0.0 pancakeswaps.it
 0.0.0.0 pancakeswaps.life
+0.0.0.0 pancakeswaps.live
 0.0.0.0 pancakeswaps.money
 0.0.0.0 pancakeswaps.org
 0.0.0.0 pancakeswaps.ru
@@ -77892,6 +77895,7 @@
 0.0.0.0 safe-panel.com
 0.0.0.0 safe-paxful.com
 0.0.0.0 safe-protocol.com
+0.0.0.0 safe-ton.pages.dev
 0.0.0.0 safe-wallet-io.safe-swap.exchange
 0.0.0.0 safe.coinspaynow.com
 0.0.0.0 safe.confirmeth.com
@@ -80998,6 +81002,7 @@
 0.0.0.0 snap-pixels.com
 0.0.0.0 snaps-farcana.com
 0.0.0.0 snapseprotocol.com
+0.0.0.0 snapshot-1inch.com
 0.0.0.0 snapshot-defi.com
 0.0.0.0 snapshot-defi.xyz
 0.0.0.0 snapshot-hydroprotocol.com
@@ -87527,7 +87532,9 @@
 0.0.0.0 tonkeeper.help
 0.0.0.0 tonkeeper.in
 0.0.0.0 tonkeeper.io
+0.0.0.0 tonkeeper.is
 0.0.0.0 tonkeeper.pages.dev
+0.0.0.0 tonkeeper.pl
 0.0.0.0 tonkeeper.su
 0.0.0.0 tonkeeper.support
 0.0.0.0 tonkeeper.website
@@ -96826,6 +96833,7 @@
 0.0.0.0 webmail.receive-paxful.com
 0.0.0.0 webmail.serverwebmaillo.repl.co
 0.0.0.0 webmail.staging.io.1inch.help
+0.0.0.0 webmail.swagelok.cam
 0.0.0.0 webmail.tsecurity-paxful.com
 0.0.0.0 webmail.user-paxful.com
 0.0.0.0 webmail.val-paxful.com
@@ -98523,6 +98531,7 @@
 0.0.0.0 www.agodaa-booking.com
 0.0.0.0 www.agodabook.cc
 0.0.0.0 www.agodabusiness.pro
+0.0.0.0 www.agodachina.cn
 0.0.0.0 www.agodapools.com
 0.0.0.0 www.agodapools.net
 0.0.0.0 www.agodapools.net.prediksidisinitoto.com
@@ -99244,6 +99253,7 @@
 0.0.0.0 www.bitcoinira-trust.com
 0.0.0.0 www.bitdollarico.com
 0.0.0.0 www.bitexabc.com
+0.0.0.0 www.bitexbuk.com
 0.0.0.0 www.bithumb77.xyz
 0.0.0.0 www.bitivavu.tk
 0.0.0.0 www.bitkcep.online
@@ -104814,6 +104824,7 @@
 0.0.0.0 www.ton.org-networks.top
 0.0.0.0 www.tonb.finance
 0.0.0.0 www.tonkeeper.domains
+0.0.0.0 www.tonkeeper.market
 0.0.0.0 www.top-layer3.com
 0.0.0.0 www.topmainconnect.com
 0.0.0.0 www.topup-asset.live

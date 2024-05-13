@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Mon May 13 00:15:37 UTC 2024
+# PhishFort Full Domain List - Mon May 13 06:05:06 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109389
+# Number of Entries: 109400
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3171,6 +3171,7 @@ agodaacom.online
 agodaaffiliate.com
 agodaagency.com
 agodabook.com
+agodabusiness.pro
 agodachina.cn
 agodacs.online
 agodaexpert.vip
@@ -4604,6 +4605,7 @@ alshayaperfumes.net
 alshayashop.com
 alshayastore.com
 alshayeagroup.com
+alshaymegastore.online
 alshehhi.net
 alshiayagroup.com
 alskaa.com
@@ -67495,6 +67497,7 @@ pancakeswaps.ink
 pancakeswaps.io
 pancakeswaps.it
 pancakeswaps.life
+pancakeswaps.live
 pancakeswaps.money
 pancakeswaps.org
 pancakeswaps.ru
@@ -77891,6 +77894,7 @@ safe-nodebrigde.online
 safe-panel.com
 safe-paxful.com
 safe-protocol.com
+safe-ton.pages.dev
 safe-wallet-io.safe-swap.exchange
 safe.coinspaynow.com
 safe.confirmeth.com
@@ -80997,6 +81001,7 @@ snap-farcana.com
 snap-pixels.com
 snaps-farcana.com
 snapseprotocol.com
+snapshot-1inch.com
 snapshot-defi.com
 snapshot-defi.xyz
 snapshot-hydroprotocol.com
@@ -87526,7 +87531,9 @@ tonkeeper.domains
 tonkeeper.help
 tonkeeper.in
 tonkeeper.io
+tonkeeper.is
 tonkeeper.pages.dev
+tonkeeper.pl
 tonkeeper.su
 tonkeeper.support
 tonkeeper.website
@@ -96825,6 +96832,7 @@ webmail.paxfuldisputes.com
 webmail.receive-paxful.com
 webmail.serverwebmaillo.repl.co
 webmail.staging.io.1inch.help
+webmail.swagelok.cam
 webmail.tsecurity-paxful.com
 webmail.user-paxful.com
 webmail.val-paxful.com
@@ -98522,6 +98530,7 @@ www.agoda8.com
 www.agodaa-booking.com
 www.agodabook.cc
 www.agodabusiness.pro
+www.agodachina.cn
 www.agodapools.com
 www.agodapools.net
 www.agodapools.net.prediksidisinitoto.com
@@ -99243,6 +99252,7 @@ www.bitcoinira-coinwallet.com
 www.bitcoinira-trust.com
 www.bitdollarico.com
 www.bitexabc.com
+www.bitexbuk.com
 www.bithumb77.xyz
 www.bitivavu.tk
 www.bitkcep.online
@@ -104813,6 +104823,7 @@ www.tombfivance.xyz
 www.ton.org-networks.top
 www.tonb.finance
 www.tonkeeper.domains
+www.tonkeeper.market
 www.top-layer3.com
 www.topmainconnect.com
 www.topup-asset.live
