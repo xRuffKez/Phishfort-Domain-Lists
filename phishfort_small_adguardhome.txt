@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May 13 18:02:30 UTC 2024
+# PhishFort Small Domain List - Tue May 14 00:07:44 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 5933
+# Number of Entries: 5917
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -21,6 +21,7 @@
 ||1cbre.com^
 ||1ezagbg.cc^
 ||1icnh.com^
+||1inch-app.org^
 ||1inch-io.app^
 ||1inch-io.xyz^
 ||1inch-new-migration.com^
@@ -54,7 +55,6 @@
 ||444444-ai9.pages.dev^
 ||48444453456.cloud^
 ||4g5g544g54g5.pages.dev^
-||4tyqoaktqb.numirmilap.tech^
 ||4vcf.pro^
 ||50000usdt.cc^
 ||50000usdt.top^
@@ -453,6 +453,7 @@
 ||app.prisrnafinance.com^
 ||app.qirtm.com^
 ||app.renzoprotocols.net^
+||app.resolverdappactivator.com^
 ||app.solvsprotocol.com^
 ||app.spy-token.io^
 ||app.stonexvip.top^
@@ -944,7 +945,6 @@
 ||celebrators.pk^
 ||celestia-event.com^
 ||celestialabs.dev^
-||cellnextelecomservice.in^
 ||celowallet.finance^
 ||cels1us.network^
 ||centerjobless.online^
@@ -956,7 +956,6 @@
 ||chaenlict.org^
 ||chaibenefitmassimui.com^
 ||chain-base.pages.dev^
-||chain-linklabs.live^
 ||chain-list.top^
 ||chain-node.pages.dev^
 ||chain-strk.com^
@@ -1032,6 +1031,7 @@
 ||claim-molly.xyz^
 ||claim-nftpro.web.app^
 ||claim-nibiru.top^
+||claim-notcoin.pages.dev^
 ||claim-opensea.com^
 ||claim-opsecs.net^
 ||claim-paals.com^
@@ -1583,7 +1583,6 @@
 ||dvvnda.com^
 ||dydconnect.click^
 ||dydxdao.net^
-||dykemagosettantoney.online^
 ||dymeansion.io^
 ||dymension-approval.netlify.app^
 ||dymension-claim.netlify.app^
@@ -1725,7 +1724,6 @@
 ||ethereum-events.tiiny.co^
 ||ethereum-rewards.tiiny.co^
 ||ethereum-wpos.club^
-||ethereum.com.tr^
 ||ethereumgas.org^
 ||ethereummixer.cc^
 ||ethereumxfee.com^
@@ -1820,7 +1818,6 @@
 ||fatehelpsthebrave.com^
 ||faucetsankoscan.io^
 ||fcovcs.com^
-||fcstone.dsar.privally.io^
 ||fcstone.one^
 ||fcstone.plus^
 ||fcstone.pw^
@@ -2334,7 +2331,6 @@
 ||jobquestsolutions.com^
 ||jobs-teleperformance.com^
 ||jobs.www.coolgrids.com^
-||join-befilabs.com^
 ||join-blockgames.com^
 ||join-blockgames.xyz^
 ||join-etherfi.com^
@@ -2677,6 +2673,7 @@
 ||mainnetfix.firebaseapp.com^
 ||mainnetfix.web.app^
 ||mainnetfixhub.vercel.app^
+||mainnethub.firebaseapp.com^
 ||mainnethub.web.app^
 ||mainnetportal.org^
 ||mainnets.vercel.app^
@@ -2852,6 +2849,7 @@
 ||merlin.meson.fi^
 ||merlinlayer.app^
 ||mertamasek.azurewebsites.net^
+||messageriebbox.fr^
 ||meta-drop.xyz^
 ||meta-kyc-activations.io^
 ||meta-mask-wallet.com^
@@ -2923,7 +2921,6 @@
 ||metamaskio.sbs^
 ||metamaskio.xyz^
 ||metamasklo.cfd^
-||metamaskmal.ru^
 ||metamaskn.io^
 ||metamaskrich.life^
 ||metamaskrich.xyz^
@@ -2934,7 +2931,6 @@
 ||metamasksio.xyz^
 ||metamasksw.azurewebsites.net^
 ||metamasktrades.com^
-||metamaskusan.azurewebsites.net^
 ||metamaskv.net^
 ||metamaskv.org^
 ||metamaskwallet.pages.dev^
@@ -3164,6 +3160,7 @@
 ||multinoderesolve.pages.dev^
 ||multiplier.aitsprotcol.com^
 ||multisystemcoinwallet.web.app^
+||multiwalletapprovalsync.pages.dev^
 ||multiwalletresolve.vercel.app^
 ||multiwalletsystem.web.app^
 ||mumucoin.org^
@@ -3551,6 +3548,7 @@
 ||pacnoon.net^
 ||pacnoon.org^
 ||padchain-gpt.org^
+||pagibighousingloancal.com^
 ||pair-explorerzerion0i.pages.dev^
 ||pair-token-zerion0i.pages.dev^
 ||palmai-tech-io.web.app^
@@ -3763,7 +3761,6 @@
 ||parriss2024.org^
 ||partenariat-bouygues-telecom-entreprises.fr^
 ||partners-ait.tech^
-||partnership-ait.com^
 ||partnerwithequinor.com^
 ||parurhealth.com^
 ||patcoin.xyz^
@@ -3809,12 +3806,10 @@
 ||paxos-eth.com^
 ||paxos-gold.net^
 ||paxos-okta.com^
-||paxos-token.org^
 ||paxos-trades.com^
 ||paxosestm.com^
 ||paxosevct.com^
 ||paxosg.com^
-||paxoskop.com^
 ||paxovdsa.com^
 ||paxxful.live^
 ||pay-en407etr.com^
@@ -4048,7 +4043,6 @@
 ||psgyh.top^
 ||ptron.hk^
 ||pub-0186f027c154484fbcbeb90161ab83cf.r2.dev^
-||pub-306b361010174008ab5773c839617c85.r2.dev^
 ||pub-e9989cc0d26d4a2f9e7017c197e26310.r2.dev^
 ||pudgypenguines.com^
 ||puffer-quesst.info^
@@ -4101,7 +4095,6 @@
 ||radix.gift^
 ||raffleopnsea.com^
 ||raiffeisenfast.com^
-||rainbow.trading^
 ||rainy.synology-ds.de^
 ||raksfifthavenue.com^
 ||randomecoin-ads.eu^
@@ -4146,7 +4139,6 @@
 ||reg-shido.app^
 ||regdioneprotocol.com^
 ||register-lineabuild.com^
-||register-metis.io^
 ||register-qubic.org^
 ||register-smartlayer.network^
 ||register-snap.com^
@@ -4164,7 +4156,6 @@
 ||registration-fantasy.top^
 ||registration-fantom.network^
 ||registration-linea.com^
-||registration-zetachain.com^
 ||registry-blockgames.com^
 ||reiki-web3go.xyz^
 ||reloadsula.pages.dev^
@@ -4308,7 +4299,6 @@
 ||safegnosis.co^
 ||safeguard-meta.com^
 ||safewallet-meta.com^
-||saga-solanamobile.com^
 ||saita.vercel.app^
 ||saitama.gift^
 ||saitapro.vercel.app^
@@ -4392,7 +4382,6 @@
 ||sea-claim.live^
 ||sea-list.com^
 ||seapro.tech^
-||season1-nobody.com^
 ||seatoken-airdrop.com^
 ||seatokenclaim.com^
 ||seatsent.com^
@@ -4472,9 +4461,7 @@
 ||signup-bera.net^
 ||signup-defi.network^
 ||signup-defi.trading^
-||signup-mintify.xyz^
 ||signup-openfabric.com^
-||signup-orderly.network^
 ||signup-portal.com^
 ||signup-portalcoin.com^
 ||signup-velodrome.finance^
@@ -4750,6 +4737,7 @@
 ||swizaequity.com^
 ||sxws.pro^
 ||sync-multichain.in.net^
+||sync-wallets.on.fleek.co^
 ||syncappauth.pages.dev^
 ||syncapprectify.pages.dev^
 ||syncconnectdapp.xyz^
@@ -4872,7 +4860,6 @@
 ||token-illuvium.com^
 ||token-mainnetdapp.com^
 ||token-swap-seven.vercel.app^
-||token-theblock.co^
 ||token.strks-rocket.club^
 ||token.tonblockchain.click^
 ||tokenlon.app^
@@ -4905,6 +4892,7 @@
 ||tonkeepeer.com^
 ||tonkeeper-web.pages.dev^
 ||tonkeeper.bio^
+||tonkeeper.contact^
 ||tonkeeper.dev^
 ||tonkeeper.domains^
 ||tonkeeper.help^
@@ -4948,6 +4936,7 @@
 ||tpnkeeper.com^
 ||track-web3.online^
 ||tracomservices.com^
+||trade-paxful.offersverification.site^
 ||traderjoeyxz.app^
 ||tradeviewtoken.xyz^
 ||trafalpo-maniar.com^
@@ -5126,7 +5115,6 @@
 ||veolidetamast.com^
 ||verasity-io.live^
 ||verif-nulink.vercel.app^
-||verifi-vulcan.xyz^
 ||verification-assets.com^
 ||verification-collabland.xyz^
 ||verification-discord.com^
@@ -5377,7 +5365,6 @@
 ||wenexchange.net^
 ||wenwencoineth.com^
 ||wenwencoins.xyz^
-||wenwencoln.com^
 ||wesltchekspas.com^
 ||west-braves.info^
 ||westcon.com.mx^
@@ -5631,7 +5618,6 @@
 ||www.lendmarkfs.com^
 ||www.lethid.com^
 ||www.lifi.promo^
-||www.lite.a.covv.site^
 ||www.livewebpxfl.site^
 ||www.login.verificationpaxful.info^
 ||www.luckywin.x10.bz^
@@ -5728,7 +5714,6 @@
 ||www.prc-board.com^
 ||www.provisionstrk.xyz^
 ||www.recovermetawalletio.diviteca.com^
-||www.registrar-mavia.com^
 ||www.resolve-mm.com^
 ||www.revoke-approvals.xyz.polarmates.top^
 ||www.revokecash.store^
@@ -5806,7 +5791,6 @@
 ||xaidao.app^
 ||xhl.demo888.xyz^
 ||xion-bonusblock.space^
-||xion.bonusblock.in^
 ||xionbonusblock.io^
 ||xkpc.pro^
 ||xksl5.cc^

@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Mon May 13 18:02:30 UTC 2024
+# PhishFort Small Domain List - Tue May 14 00:07:44 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 5933
+# Number of Entries: 5917
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -21,6 +21,7 @@
 0.0.0.0 1cbre.com
 0.0.0.0 1ezagbg.cc
 0.0.0.0 1icnh.com
+0.0.0.0 1inch-app.org
 0.0.0.0 1inch-io.app
 0.0.0.0 1inch-io.xyz
 0.0.0.0 1inch-new-migration.com
@@ -54,7 +55,6 @@
 0.0.0.0 444444-ai9.pages.dev
 0.0.0.0 48444453456.cloud
 0.0.0.0 4g5g544g54g5.pages.dev
-0.0.0.0 4tyqoaktqb.numirmilap.tech
 0.0.0.0 4vcf.pro
 0.0.0.0 50000usdt.cc
 0.0.0.0 50000usdt.top
@@ -453,6 +453,7 @@
 0.0.0.0 app.prisrnafinance.com
 0.0.0.0 app.qirtm.com
 0.0.0.0 app.renzoprotocols.net
+0.0.0.0 app.resolverdappactivator.com
 0.0.0.0 app.solvsprotocol.com
 0.0.0.0 app.spy-token.io
 0.0.0.0 app.stonexvip.top
@@ -944,7 +945,6 @@
 0.0.0.0 celebrators.pk
 0.0.0.0 celestia-event.com
 0.0.0.0 celestialabs.dev
-0.0.0.0 cellnextelecomservice.in
 0.0.0.0 celowallet.finance
 0.0.0.0 cels1us.network
 0.0.0.0 centerjobless.online
@@ -956,7 +956,6 @@
 0.0.0.0 chaenlict.org
 0.0.0.0 chaibenefitmassimui.com
 0.0.0.0 chain-base.pages.dev
-0.0.0.0 chain-linklabs.live
 0.0.0.0 chain-list.top
 0.0.0.0 chain-node.pages.dev
 0.0.0.0 chain-strk.com
@@ -1032,6 +1031,7 @@
 0.0.0.0 claim-molly.xyz
 0.0.0.0 claim-nftpro.web.app
 0.0.0.0 claim-nibiru.top
+0.0.0.0 claim-notcoin.pages.dev
 0.0.0.0 claim-opensea.com
 0.0.0.0 claim-opsecs.net
 0.0.0.0 claim-paals.com
@@ -1583,7 +1583,6 @@
 0.0.0.0 dvvnda.com
 0.0.0.0 dydconnect.click
 0.0.0.0 dydxdao.net
-0.0.0.0 dykemagosettantoney.online
 0.0.0.0 dymeansion.io
 0.0.0.0 dymension-approval.netlify.app
 0.0.0.0 dymension-claim.netlify.app
@@ -1725,7 +1724,6 @@
 0.0.0.0 ethereum-events.tiiny.co
 0.0.0.0 ethereum-rewards.tiiny.co
 0.0.0.0 ethereum-wpos.club
-0.0.0.0 ethereum.com.tr
 0.0.0.0 ethereumgas.org
 0.0.0.0 ethereummixer.cc
 0.0.0.0 ethereumxfee.com
@@ -1820,7 +1818,6 @@
 0.0.0.0 fatehelpsthebrave.com
 0.0.0.0 faucetsankoscan.io
 0.0.0.0 fcovcs.com
-0.0.0.0 fcstone.dsar.privally.io
 0.0.0.0 fcstone.one
 0.0.0.0 fcstone.plus
 0.0.0.0 fcstone.pw
@@ -2334,7 +2331,6 @@
 0.0.0.0 jobquestsolutions.com
 0.0.0.0 jobs-teleperformance.com
 0.0.0.0 jobs.www.coolgrids.com
-0.0.0.0 join-befilabs.com
 0.0.0.0 join-blockgames.com
 0.0.0.0 join-blockgames.xyz
 0.0.0.0 join-etherfi.com
@@ -2677,6 +2673,7 @@
 0.0.0.0 mainnetfix.firebaseapp.com
 0.0.0.0 mainnetfix.web.app
 0.0.0.0 mainnetfixhub.vercel.app
+0.0.0.0 mainnethub.firebaseapp.com
 0.0.0.0 mainnethub.web.app
 0.0.0.0 mainnetportal.org
 0.0.0.0 mainnets.vercel.app
@@ -2852,6 +2849,7 @@
 0.0.0.0 merlin.meson.fi
 0.0.0.0 merlinlayer.app
 0.0.0.0 mertamasek.azurewebsites.net
+0.0.0.0 messageriebbox.fr
 0.0.0.0 meta-drop.xyz
 0.0.0.0 meta-kyc-activations.io
 0.0.0.0 meta-mask-wallet.com
@@ -2923,7 +2921,6 @@
 0.0.0.0 metamaskio.sbs
 0.0.0.0 metamaskio.xyz
 0.0.0.0 metamasklo.cfd
-0.0.0.0 metamaskmal.ru
 0.0.0.0 metamaskn.io
 0.0.0.0 metamaskrich.life
 0.0.0.0 metamaskrich.xyz
@@ -2934,7 +2931,6 @@
 0.0.0.0 metamasksio.xyz
 0.0.0.0 metamasksw.azurewebsites.net
 0.0.0.0 metamasktrades.com
-0.0.0.0 metamaskusan.azurewebsites.net
 0.0.0.0 metamaskv.net
 0.0.0.0 metamaskv.org
 0.0.0.0 metamaskwallet.pages.dev
@@ -3164,6 +3160,7 @@
 0.0.0.0 multinoderesolve.pages.dev
 0.0.0.0 multiplier.aitsprotcol.com
 0.0.0.0 multisystemcoinwallet.web.app
+0.0.0.0 multiwalletapprovalsync.pages.dev
 0.0.0.0 multiwalletresolve.vercel.app
 0.0.0.0 multiwalletsystem.web.app
 0.0.0.0 mumucoin.org
@@ -3551,6 +3548,7 @@
 0.0.0.0 pacnoon.net
 0.0.0.0 pacnoon.org
 0.0.0.0 padchain-gpt.org
+0.0.0.0 pagibighousingloancal.com
 0.0.0.0 pair-explorerzerion0i.pages.dev
 0.0.0.0 pair-token-zerion0i.pages.dev
 0.0.0.0 palmai-tech-io.web.app
@@ -3763,7 +3761,6 @@
 0.0.0.0 parriss2024.org
 0.0.0.0 partenariat-bouygues-telecom-entreprises.fr
 0.0.0.0 partners-ait.tech
-0.0.0.0 partnership-ait.com
 0.0.0.0 partnerwithequinor.com
 0.0.0.0 parurhealth.com
 0.0.0.0 patcoin.xyz
@@ -3809,12 +3806,10 @@
 0.0.0.0 paxos-eth.com
 0.0.0.0 paxos-gold.net
 0.0.0.0 paxos-okta.com
-0.0.0.0 paxos-token.org
 0.0.0.0 paxos-trades.com
 0.0.0.0 paxosestm.com
 0.0.0.0 paxosevct.com
 0.0.0.0 paxosg.com
-0.0.0.0 paxoskop.com
 0.0.0.0 paxovdsa.com
 0.0.0.0 paxxful.live
 0.0.0.0 pay-en407etr.com
@@ -4048,7 +4043,6 @@
 0.0.0.0 psgyh.top
 0.0.0.0 ptron.hk
 0.0.0.0 pub-0186f027c154484fbcbeb90161ab83cf.r2.dev
-0.0.0.0 pub-306b361010174008ab5773c839617c85.r2.dev
 0.0.0.0 pub-e9989cc0d26d4a2f9e7017c197e26310.r2.dev
 0.0.0.0 pudgypenguines.com
 0.0.0.0 puffer-quesst.info
@@ -4101,7 +4095,6 @@
 0.0.0.0 radix.gift
 0.0.0.0 raffleopnsea.com
 0.0.0.0 raiffeisenfast.com
-0.0.0.0 rainbow.trading
 0.0.0.0 rainy.synology-ds.de
 0.0.0.0 raksfifthavenue.com
 0.0.0.0 randomecoin-ads.eu
@@ -4146,7 +4139,6 @@
 0.0.0.0 reg-shido.app
 0.0.0.0 regdioneprotocol.com
 0.0.0.0 register-lineabuild.com
-0.0.0.0 register-metis.io
 0.0.0.0 register-qubic.org
 0.0.0.0 register-smartlayer.network
 0.0.0.0 register-snap.com
@@ -4164,7 +4156,6 @@
 0.0.0.0 registration-fantasy.top
 0.0.0.0 registration-fantom.network
 0.0.0.0 registration-linea.com
-0.0.0.0 registration-zetachain.com
 0.0.0.0 registry-blockgames.com
 0.0.0.0 reiki-web3go.xyz
 0.0.0.0 reloadsula.pages.dev
@@ -4308,7 +4299,6 @@
 0.0.0.0 safegnosis.co
 0.0.0.0 safeguard-meta.com
 0.0.0.0 safewallet-meta.com
-0.0.0.0 saga-solanamobile.com
 0.0.0.0 saita.vercel.app
 0.0.0.0 saitama.gift
 0.0.0.0 saitapro.vercel.app
@@ -4392,7 +4382,6 @@
 0.0.0.0 sea-claim.live
 0.0.0.0 sea-list.com
 0.0.0.0 seapro.tech
-0.0.0.0 season1-nobody.com
 0.0.0.0 seatoken-airdrop.com
 0.0.0.0 seatokenclaim.com
 0.0.0.0 seatsent.com
@@ -4472,9 +4461,7 @@
 0.0.0.0 signup-bera.net
 0.0.0.0 signup-defi.network
 0.0.0.0 signup-defi.trading
-0.0.0.0 signup-mintify.xyz
 0.0.0.0 signup-openfabric.com
-0.0.0.0 signup-orderly.network
 0.0.0.0 signup-portal.com
 0.0.0.0 signup-portalcoin.com
 0.0.0.0 signup-velodrome.finance
@@ -4750,6 +4737,7 @@
 0.0.0.0 swizaequity.com
 0.0.0.0 sxws.pro
 0.0.0.0 sync-multichain.in.net
+0.0.0.0 sync-wallets.on.fleek.co
 0.0.0.0 syncappauth.pages.dev
 0.0.0.0 syncapprectify.pages.dev
 0.0.0.0 syncconnectdapp.xyz
@@ -4872,7 +4860,6 @@
 0.0.0.0 token-illuvium.com
 0.0.0.0 token-mainnetdapp.com
 0.0.0.0 token-swap-seven.vercel.app
-0.0.0.0 token-theblock.co
 0.0.0.0 token.strks-rocket.club
 0.0.0.0 token.tonblockchain.click
 0.0.0.0 tokenlon.app
@@ -4905,6 +4892,7 @@
 0.0.0.0 tonkeepeer.com
 0.0.0.0 tonkeeper-web.pages.dev
 0.0.0.0 tonkeeper.bio
+0.0.0.0 tonkeeper.contact
 0.0.0.0 tonkeeper.dev
 0.0.0.0 tonkeeper.domains
 0.0.0.0 tonkeeper.help
@@ -4948,6 +4936,7 @@
 0.0.0.0 tpnkeeper.com
 0.0.0.0 track-web3.online
 0.0.0.0 tracomservices.com
+0.0.0.0 trade-paxful.offersverification.site
 0.0.0.0 traderjoeyxz.app
 0.0.0.0 tradeviewtoken.xyz
 0.0.0.0 trafalpo-maniar.com
@@ -5126,7 +5115,6 @@
 0.0.0.0 veolidetamast.com
 0.0.0.0 verasity-io.live
 0.0.0.0 verif-nulink.vercel.app
-0.0.0.0 verifi-vulcan.xyz
 0.0.0.0 verification-assets.com
 0.0.0.0 verification-collabland.xyz
 0.0.0.0 verification-discord.com
@@ -5377,7 +5365,6 @@
 0.0.0.0 wenexchange.net
 0.0.0.0 wenwencoineth.com
 0.0.0.0 wenwencoins.xyz
-0.0.0.0 wenwencoln.com
 0.0.0.0 wesltchekspas.com
 0.0.0.0 west-braves.info
 0.0.0.0 westcon.com.mx
@@ -5631,7 +5618,6 @@
 0.0.0.0 www.lendmarkfs.com
 0.0.0.0 www.lethid.com
 0.0.0.0 www.lifi.promo
-0.0.0.0 www.lite.a.covv.site
 0.0.0.0 www.livewebpxfl.site
 0.0.0.0 www.login.verificationpaxful.info
 0.0.0.0 www.luckywin.x10.bz
@@ -5728,7 +5714,6 @@
 0.0.0.0 www.prc-board.com
 0.0.0.0 www.provisionstrk.xyz
 0.0.0.0 www.recovermetawalletio.diviteca.com
-0.0.0.0 www.registrar-mavia.com
 0.0.0.0 www.resolve-mm.com
 0.0.0.0 www.revoke-approvals.xyz.polarmates.top
 0.0.0.0 www.revokecash.store
@@ -5806,7 +5791,6 @@
 0.0.0.0 xaidao.app
 0.0.0.0 xhl.demo888.xyz
 0.0.0.0 xion-bonusblock.space
-0.0.0.0 xion.bonusblock.in
 0.0.0.0 xionbonusblock.io
 0.0.0.0 xkpc.pro
 0.0.0.0 xksl5.cc
