@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May 14 12:03:00 UTC 2024
+# PhishFort Small Domain List - Tue May 14 18:02:20 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 5911
+# Number of Entries: 5905
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -416,7 +416,6 @@
 0.0.0.0 app.activitye.xyz
 0.0.0.0 app.agoda-promotion.com
 0.0.0.0 app.airrtm.com
-0.0.0.0 app.airtm10.com
 0.0.0.0 app.airtm11.com
 0.0.0.0 app.airtm12.com
 0.0.0.0 app.airtm31.com
@@ -735,7 +734,6 @@
 0.0.0.0 bitpulseportal.com
 0.0.0.0 bitsgapmis.com
 0.0.0.0 bittechsolutionz.online
-0.0.0.0 bks-at.com
 0.0.0.0 bks-partsners.com
 0.0.0.0 blackrockbtc-etf.org
 0.0.0.0 blackrockfund.xyz
@@ -881,6 +879,7 @@
 0.0.0.0 c7ed7c0a-a3f0-4a62-9092-b1bb34dc0ec4-00-2hhxxwsgft7jv.janeway.replit.dev
 0.0.0.0 cabinet-customs.com.ua
 0.0.0.0 cabinet-customs.org.ua
+0.0.0.0 cad-ence.com
 0.0.0.0 cadillac-usdt.com
 0.0.0.0 cafaland.com
 0.0.0.0 cagacrypto-en.web.app
@@ -941,6 +940,7 @@
 0.0.0.0 cdnmdn12.aysugallery.shop
 0.0.0.0 cdzhjzx.com
 0.0.0.0 ce1s1us.network
+0.0.0.0 ce3vna.cl
 0.0.0.0 ceislus.network
 0.0.0.0 cekiliis.com
 0.0.0.0 celebrators.pk
@@ -949,7 +949,6 @@
 0.0.0.0 celowallet.finance
 0.0.0.0 cels1us.network
 0.0.0.0 centerjobless.online
-0.0.0.0 centralpoultryprocessingscoltd.com
 0.0.0.0 centurysgold.net
 0.0.0.0 ceshi.wix-ecwid.com
 0.0.0.0 cfdconnect.online
@@ -998,7 +997,6 @@
 0.0.0.0 chriscraft.shop
 0.0.0.0 christianguilbertllc.za.com
 0.0.0.0 chrome-extension-nkbihfbeogaeaoeh.mx
-0.0.0.0 chrome.pancakeswap.finance.multichains.live
 0.0.0.0 chronoforgenft.com
 0.0.0.0 ciaiming.com
 0.0.0.0 ciel-tower.ae
@@ -1459,7 +1457,6 @@
 0.0.0.0 defichain-rewards.pages.dev
 0.0.0.0 deficoinsolutions.netlify.app
 0.0.0.0 defidydx.app
-0.0.0.0 defiilama.eu
 0.0.0.0 defilaunchpad.pages.dev
 0.0.0.0 defimining101.com
 0.0.0.0 defiphantom.io
@@ -1582,7 +1579,6 @@
 0.0.0.0 dvvnda.com
 0.0.0.0 dydconnect.click
 0.0.0.0 dydxdao.net
-0.0.0.0 dymeansion.io
 0.0.0.0 dymension-approval.netlify.app
 0.0.0.0 dymension-claim.netlify.app
 0.0.0.0 dymensiondrop.com
@@ -1787,6 +1783,7 @@
 0.0.0.0 execnetinc.com
 0.0.0.0 exhibitus-inc.com
 0.0.0.0 exhibitusinc.com
+0.0.0.0 expedias.shop
 0.0.0.0 experiencejobless.com
 0.0.0.0 expertsolver.pages.dev
 0.0.0.0 expl2.firstchain-zksync-90ee95.zeeve.net
@@ -2175,7 +2172,6 @@
 0.0.0.0 humminglinkgg.world
 0.0.0.0 hunnerdimental.com
 0.0.0.0 hvqk.pro
-0.0.0.0 hw.eingeenuity.net
 0.0.0.0 hxig64w.pro
 0.0.0.0 hyper-liquid.com
 0.0.0.0 hyperpaytech.com
@@ -2369,7 +2365,6 @@
 0.0.0.0 jumpers-exchanges.xyz
 0.0.0.0 jumpers.trading
 0.0.0.0 jumperweb3.pro
-0.0.0.0 jup444.com
 0.0.0.0 jupairdrop.com
 0.0.0.0 jupcase.io
 0.0.0.0 jupcases.xyz
@@ -2678,7 +2673,6 @@
 0.0.0.0 makepayment-407etr.com
 0.0.0.0 maker-dao.life
 0.0.0.0 maker-dao.network
-0.0.0.0 maker-fnd.net
 0.0.0.0 makerdaicoin.com
 0.0.0.0 makerdao-ai.com
 0.0.0.0 makerdao-event.net
@@ -3087,7 +3081,6 @@
 0.0.0.0 moe-ukraine.info
 0.0.0.0 moeamask.com
 0.0.0.0 mogcoin-xyz.vercel.app
-0.0.0.0 mogcoin.rewardshare.info
 0.0.0.0 mohpn.com
 0.0.0.0 molina-healthcareinc.com
 0.0.0.0 molinahealthcare.empyreandemo.com
@@ -3241,6 +3234,7 @@
 0.0.0.0 mysuperpayroll.com
 0.0.0.0 myteam-defi3.com
 0.0.0.0 mytherwallet.com
+0.0.0.0 myuicombain.website
 0.0.0.0 myuiionlinedetmadma.info
 0.0.0.0 myverybenef.com
 0.0.0.0 mywalletexodus.com
@@ -3414,7 +3408,6 @@
 0.0.0.0 olympus.gift
 0.0.0.0 olympusv2.net
 0.0.0.0 omg.altscoin.top
-0.0.0.0 on-407etr.com
 0.0.0.0 on-chainfix.com
 0.0.0.0 oncbhue.cc
 0.0.0.0 oneamerica.icu
@@ -4032,6 +4025,7 @@
 0.0.0.0 proximbe.ulcraft.com
 0.0.0.0 proximus-recovery.be
 0.0.0.0 proximus.at
+0.0.0.0 ps.ab.memacogilvy.digital
 0.0.0.0 psgyh.top
 0.0.0.0 ptron.hk
 0.0.0.0 pub-0186f027c154484fbcbeb90161ab83cf.r2.dev
@@ -4103,6 +4097,7 @@
 0.0.0.0 rdx.vercel.app
 0.0.0.0 rdxshoes.click
 0.0.0.0 realio.gift
+0.0.0.0 realtime.www.gmresearch.info
 0.0.0.0 realtyexcellence.com
 0.0.0.0 rebby.io
 0.0.0.0 rebirthcreepz.com
@@ -4266,7 +4261,6 @@
 0.0.0.0 rpc-flodapps.online
 0.0.0.0 rpc-interface.net
 0.0.0.0 rpcchainfix.net
-0.0.0.0 rpcdebug-extensiondapps.pages.dev
 0.0.0.0 rpchubnode.com
 0.0.0.0 rpchubnodeportal.pages.dev
 0.0.0.0 rpclistinfo.netlify.app
@@ -4573,7 +4567,6 @@
 0.0.0.0 stag.token.mlteam.net
 0.0.0.0 staikewise.net
 0.0.0.0 stake-gtprotocol.com
-0.0.0.0 stake-jup.com
 0.0.0.0 stake-official-online.com
 0.0.0.0 stake-roninchain.com
 0.0.0.0 stake-slerf.com
@@ -4883,6 +4876,7 @@
 0.0.0.0 tonkeeper-walletapproval.pages.dev
 0.0.0.0 tonkeeper-web.pages.dev
 0.0.0.0 tonkeeper.bio
+0.0.0.0 tonkeeper.business
 0.0.0.0 tonkeeper.com-safe-transaction.pro
 0.0.0.0 tonkeeper.dev
 0.0.0.0 tonkeeper.domains
@@ -4892,6 +4886,7 @@
 0.0.0.0 tonkeeper.io
 0.0.0.0 tonkeeper.is
 0.0.0.0 tonkeeper.marketing
+0.0.0.0 tonkeeper.online
 0.0.0.0 tonkeeper.pages.dev
 0.0.0.0 tonkeeper.pl
 0.0.0.0 tonkeeper.promo
@@ -5003,7 +4998,6 @@
 0.0.0.0 uimplmassa.com
 0.0.0.0 uiolinemassprofilleupdate.dynamic-dns.net
 0.0.0.0 uionlinedet.com
-0.0.0.0 uionlinedutma.org
 0.0.0.0 uionlineheda.com
 0.0.0.0 uionlineletma.com
 0.0.0.0 uiredofmassucherndy.com
@@ -5018,6 +5012,7 @@
 0.0.0.0 umusicr.com
 0.0.0.0 unapatches.com
 0.0.0.0 unblock.pancakeswaapfinance.net
+0.0.0.0 unfi-incs.com
 0.0.0.0 uni-swap-v4.web.app
 0.0.0.0 uni.mrr7.za.com
 0.0.0.0 uni.pro-coins.top
@@ -5090,6 +5085,7 @@
 0.0.0.0 v9d8w.pro
 0.0.0.0 v9si.cc
 0.0.0.0 vailddapps.pages.dev
+0.0.0.0 validardvplta.webcindario.com
 0.0.0.0 validatechains.pages.dev
 0.0.0.0 validatedwallet.com
 0.0.0.0 validaten0de.pages.dev
@@ -5327,7 +5323,6 @@
 0.0.0.0 web3love78.top
 0.0.0.0 web3mask.netlify.app
 0.0.0.0 web3nexa.com
-0.0.0.0 web3nodeconnection.org
 0.0.0.0 web3portal.com
 0.0.0.0 web3resolve.pages.dev
 0.0.0.0 web3rewards.app
@@ -5426,6 +5421,7 @@
 0.0.0.0 wwepunch.shop
 0.0.0.0 wwewatch.com
 0.0.0.0 www-1inch.top
+0.0.0.0 www-adpvantage.com
 0.0.0.0 www-adpworkforcenow.com
 0.0.0.0 www-ddao-v0-0-21.bb.dp.ua
 0.0.0.0 www-delfilama.com
@@ -5464,7 +5460,6 @@
 0.0.0.0 www.airtm.services
 0.0.0.0 www.airtmliberatupotencial.site
 0.0.0.0 www.ajbell-co.com
-0.0.0.0 www.allchainsfixer.site
 0.0.0.0 www.allianceprotectionservice.com
 0.0.0.0 www.alshayagroup.store
 0.0.0.0 www.altamwilalearabiu.com
@@ -5670,7 +5665,6 @@
 0.0.0.0 www.newmontminingcorp.com
 0.0.0.0 www.newmontvip.com
 0.0.0.0 www.ni.uipoint.online
-0.0.0.0 www.node-protocol.net
 0.0.0.0 www.node.authfxconnector.com
 0.0.0.0 www.nslinu.com
 0.0.0.0 www.o2-login.info
@@ -5708,6 +5702,7 @@
 0.0.0.0 www.portalcoin.join-airdrop.com
 0.0.0.0 www.prc-board.com
 0.0.0.0 www.provisionstrk.xyz
+0.0.0.0 www.qirtm.site
 0.0.0.0 www.recovermetawalletio.diviteca.com
 0.0.0.0 www.resolve-mm.com
 0.0.0.0 www.revoke-approvals.xyz.polarmates.top
@@ -5885,7 +5880,6 @@
 0.0.0.0 zk-look.org
 0.0.0.0 zk-manta-airdrop.pages.dev
 0.0.0.0 zk-polyhedra.com
-0.0.0.0 zkfair.supply
 0.0.0.0 zklink.in
 0.0.0.0 zkmindversatile.pages.dev
 0.0.0.0 zknewdcs.pages.dev

@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May 14 12:03:00 UTC 2024
+# PhishFort Small Domain List - Tue May 14 18:02:20 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 5911
+# Number of Entries: 5905
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -416,7 +416,6 @@
 ||app.activitye.xyz^
 ||app.agoda-promotion.com^
 ||app.airrtm.com^
-||app.airtm10.com^
 ||app.airtm11.com^
 ||app.airtm12.com^
 ||app.airtm31.com^
@@ -735,7 +734,6 @@
 ||bitpulseportal.com^
 ||bitsgapmis.com^
 ||bittechsolutionz.online^
-||bks-at.com^
 ||bks-partsners.com^
 ||blackrockbtc-etf.org^
 ||blackrockfund.xyz^
@@ -881,6 +879,7 @@
 ||c7ed7c0a-a3f0-4a62-9092-b1bb34dc0ec4-00-2hhxxwsgft7jv.janeway.replit.dev^
 ||cabinet-customs.com.ua^
 ||cabinet-customs.org.ua^
+||cad-ence.com^
 ||cadillac-usdt.com^
 ||cafaland.com^
 ||cagacrypto-en.web.app^
@@ -941,6 +940,7 @@
 ||cdnmdn12.aysugallery.shop^
 ||cdzhjzx.com^
 ||ce1s1us.network^
+||ce3vna.cl^
 ||ceislus.network^
 ||cekiliis.com^
 ||celebrators.pk^
@@ -949,7 +949,6 @@
 ||celowallet.finance^
 ||cels1us.network^
 ||centerjobless.online^
-||centralpoultryprocessingscoltd.com^
 ||centurysgold.net^
 ||ceshi.wix-ecwid.com^
 ||cfdconnect.online^
@@ -998,7 +997,6 @@
 ||chriscraft.shop^
 ||christianguilbertllc.za.com^
 ||chrome-extension-nkbihfbeogaeaoeh.mx^
-||chrome.pancakeswap.finance.multichains.live^
 ||chronoforgenft.com^
 ||ciaiming.com^
 ||ciel-tower.ae^
@@ -1459,7 +1457,6 @@
 ||defichain-rewards.pages.dev^
 ||deficoinsolutions.netlify.app^
 ||defidydx.app^
-||defiilama.eu^
 ||defilaunchpad.pages.dev^
 ||defimining101.com^
 ||defiphantom.io^
@@ -1582,7 +1579,6 @@
 ||dvvnda.com^
 ||dydconnect.click^
 ||dydxdao.net^
-||dymeansion.io^
 ||dymension-approval.netlify.app^
 ||dymension-claim.netlify.app^
 ||dymensiondrop.com^
@@ -1787,6 +1783,7 @@
 ||execnetinc.com^
 ||exhibitus-inc.com^
 ||exhibitusinc.com^
+||expedias.shop^
 ||experiencejobless.com^
 ||expertsolver.pages.dev^
 ||expl2.firstchain-zksync-90ee95.zeeve.net^
@@ -2175,7 +2172,6 @@
 ||humminglinkgg.world^
 ||hunnerdimental.com^
 ||hvqk.pro^
-||hw.eingeenuity.net^
 ||hxig64w.pro^
 ||hyper-liquid.com^
 ||hyperpaytech.com^
@@ -2369,7 +2365,6 @@
 ||jumpers-exchanges.xyz^
 ||jumpers.trading^
 ||jumperweb3.pro^
-||jup444.com^
 ||jupairdrop.com^
 ||jupcase.io^
 ||jupcases.xyz^
@@ -2678,7 +2673,6 @@
 ||makepayment-407etr.com^
 ||maker-dao.life^
 ||maker-dao.network^
-||maker-fnd.net^
 ||makerdaicoin.com^
 ||makerdao-ai.com^
 ||makerdao-event.net^
@@ -3087,7 +3081,6 @@
 ||moe-ukraine.info^
 ||moeamask.com^
 ||mogcoin-xyz.vercel.app^
-||mogcoin.rewardshare.info^
 ||mohpn.com^
 ||molina-healthcareinc.com^
 ||molinahealthcare.empyreandemo.com^
@@ -3241,6 +3234,7 @@
 ||mysuperpayroll.com^
 ||myteam-defi3.com^
 ||mytherwallet.com^
+||myuicombain.website^
 ||myuiionlinedetmadma.info^
 ||myverybenef.com^
 ||mywalletexodus.com^
@@ -3414,7 +3408,6 @@
 ||olympus.gift^
 ||olympusv2.net^
 ||omg.altscoin.top^
-||on-407etr.com^
 ||on-chainfix.com^
 ||oncbhue.cc^
 ||oneamerica.icu^
@@ -4032,6 +4025,7 @@
 ||proximbe.ulcraft.com^
 ||proximus-recovery.be^
 ||proximus.at^
+||ps.ab.memacogilvy.digital^
 ||psgyh.top^
 ||ptron.hk^
 ||pub-0186f027c154484fbcbeb90161ab83cf.r2.dev^
@@ -4103,6 +4097,7 @@
 ||rdx.vercel.app^
 ||rdxshoes.click^
 ||realio.gift^
+||realtime.www.gmresearch.info^
 ||realtyexcellence.com^
 ||rebby.io^
 ||rebirthcreepz.com^
@@ -4266,7 +4261,6 @@
 ||rpc-flodapps.online^
 ||rpc-interface.net^
 ||rpcchainfix.net^
-||rpcdebug-extensiondapps.pages.dev^
 ||rpchubnode.com^
 ||rpchubnodeportal.pages.dev^
 ||rpclistinfo.netlify.app^
@@ -4573,7 +4567,6 @@
 ||stag.token.mlteam.net^
 ||staikewise.net^
 ||stake-gtprotocol.com^
-||stake-jup.com^
 ||stake-official-online.com^
 ||stake-roninchain.com^
 ||stake-slerf.com^
@@ -4883,6 +4876,7 @@
 ||tonkeeper-walletapproval.pages.dev^
 ||tonkeeper-web.pages.dev^
 ||tonkeeper.bio^
+||tonkeeper.business^
 ||tonkeeper.com-safe-transaction.pro^
 ||tonkeeper.dev^
 ||tonkeeper.domains^
@@ -4892,6 +4886,7 @@
 ||tonkeeper.io^
 ||tonkeeper.is^
 ||tonkeeper.marketing^
+||tonkeeper.online^
 ||tonkeeper.pages.dev^
 ||tonkeeper.pl^
 ||tonkeeper.promo^
@@ -5003,7 +4998,6 @@
 ||uimplmassa.com^
 ||uiolinemassprofilleupdate.dynamic-dns.net^
 ||uionlinedet.com^
-||uionlinedutma.org^
 ||uionlineheda.com^
 ||uionlineletma.com^
 ||uiredofmassucherndy.com^
@@ -5018,6 +5012,7 @@
 ||umusicr.com^
 ||unapatches.com^
 ||unblock.pancakeswaapfinance.net^
+||unfi-incs.com^
 ||uni-swap-v4.web.app^
 ||uni.mrr7.za.com^
 ||uni.pro-coins.top^
@@ -5090,6 +5085,7 @@
 ||v9d8w.pro^
 ||v9si.cc^
 ||vailddapps.pages.dev^
+||validardvplta.webcindario.com^
 ||validatechains.pages.dev^
 ||validatedwallet.com^
 ||validaten0de.pages.dev^
@@ -5327,7 +5323,6 @@
 ||web3love78.top^
 ||web3mask.netlify.app^
 ||web3nexa.com^
-||web3nodeconnection.org^
 ||web3portal.com^
 ||web3resolve.pages.dev^
 ||web3rewards.app^
@@ -5426,6 +5421,7 @@
 ||wwepunch.shop^
 ||wwewatch.com^
 ||www-1inch.top^
+||www-adpvantage.com^
 ||www-adpworkforcenow.com^
 ||www-ddao-v0-0-21.bb.dp.ua^
 ||www-delfilama.com^
@@ -5464,7 +5460,6 @@
 ||www.airtm.services^
 ||www.airtmliberatupotencial.site^
 ||www.ajbell-co.com^
-||www.allchainsfixer.site^
 ||www.allianceprotectionservice.com^
 ||www.alshayagroup.store^
 ||www.altamwilalearabiu.com^
@@ -5670,7 +5665,6 @@
 ||www.newmontminingcorp.com^
 ||www.newmontvip.com^
 ||www.ni.uipoint.online^
-||www.node-protocol.net^
 ||www.node.authfxconnector.com^
 ||www.nslinu.com^
 ||www.o2-login.info^
@@ -5708,6 +5702,7 @@
 ||www.portalcoin.join-airdrop.com^
 ||www.prc-board.com^
 ||www.provisionstrk.xyz^
+||www.qirtm.site^
 ||www.recovermetawalletio.diviteca.com^
 ||www.resolve-mm.com^
 ||www.revoke-approvals.xyz.polarmates.top^
@@ -5885,7 +5880,6 @@
 ||zk-look.org^
 ||zk-manta-airdrop.pages.dev^
 ||zk-polyhedra.com^
-||zkfair.supply^
 ||zklink.in^
 ||zkmindversatile.pages.dev^
 ||zknewdcs.pages.dev^
