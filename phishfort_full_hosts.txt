@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May 14 06:05:51 UTC 2024
+# PhishFort Full Domain List - Tue May 14 12:05:50 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109447
+# Number of Entries: 109462
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -15671,6 +15671,7 @@
 0.0.0.0 cambridgetraders.com
 0.0.0.0 cambridgetrades.com
 0.0.0.0 camcaps.site
+0.0.0.0 cameco.vip
 0.0.0.0 camel-e8m.pages.dev
 0.0.0.0 camelneedlesnft.com
 0.0.0.0 camelot-app.com
@@ -32916,6 +32917,7 @@
 0.0.0.0 exouswallet.godaddysites.com
 0.0.0.0 exoxilarooves.online
 0.0.0.0 expecil.com
+0.0.0.0 experiencejobless.com
 0.0.0.0 expertcryptmine.com
 0.0.0.0 expertelover.com
 0.0.0.0 expertminingpools.com
@@ -44353,7 +44355,6 @@
 0.0.0.0 lendingtreeincusa.com
 0.0.0.0 lendingtreellc.org
 0.0.0.0 lendingtreeloans.online
-0.0.0.0 lendingtrees.in
 0.0.0.0 lendingtreeusa.cloud
 0.0.0.0 lendingtreeusa.com
 0.0.0.0 lendingtreeusa.online
@@ -65011,6 +65012,7 @@
 0.0.0.0 pancakepl.com
 0.0.0.0 pancakepoll-promogive.com
 0.0.0.0 pancakeprize.com
+0.0.0.0 pancakeproclaim097.vercel.app
 0.0.0.0 pancakepromos.lol
 0.0.0.0 pancakeprotectors.pages.dev
 0.0.0.0 pancakepsawp.com
@@ -83557,6 +83559,7 @@
 0.0.0.0 sudoswap-trader.xyz
 0.0.0.0 sudoswap.app
 0.0.0.0 sudoswap.website
+0.0.0.0 sudredio.com
 0.0.0.0 sueta777.pages.dev
 0.0.0.0 suffer.sadwing.za.com
 0.0.0.0 sugar-dady.fun
@@ -87517,9 +87520,11 @@
 0.0.0.0 ton-chain.top
 0.0.0.0 ton-credit.bond
 0.0.0.0 ton-drop.org
+0.0.0.0 ton-giveaway.art
 0.0.0.0 ton-gramico.com
 0.0.0.0 ton-ico.com
 0.0.0.0 ton-ico.ga
+0.0.0.0 ton-kepeer.com
 0.0.0.0 ton-reward.com
 0.0.0.0 ton-sale.com
 0.0.0.0 ton-stn-app.xyz
@@ -87527,6 +87532,7 @@
 0.0.0.0 ton-telegram.com
 0.0.0.0 ton-telegram.net
 0.0.0.0 ton-telegram.xyz
+0.0.0.0 ton-usdt.icu
 0.0.0.0 ton-wallet.store
 0.0.0.0 ton.fund
 0.0.0.0 ton.org-community.info
@@ -87559,22 +87565,29 @@
 0.0.0.0 tonkeepe.com
 0.0.0.0 tonkeepee.com
 0.0.0.0 tonkeepeer.com
+0.0.0.0 tonkeeper-fundsapproval.pages.dev
+0.0.0.0 tonkeeper-walletapproval.pages.dev
 0.0.0.0 tonkeeper-web.pages.dev
 0.0.0.0 tonkeeper.bio
-0.0.0.0 tonkeeper.contact
+0.0.0.0 tonkeeper.com-safe-transaction.pro
 0.0.0.0 tonkeeper.dev
 0.0.0.0 tonkeeper.domains
+0.0.0.0 tonkeeper.eu
 0.0.0.0 tonkeeper.help
 0.0.0.0 tonkeeper.in
 0.0.0.0 tonkeeper.io
 0.0.0.0 tonkeeper.is
+0.0.0.0 tonkeeper.marketing
 0.0.0.0 tonkeeper.pages.dev
 0.0.0.0 tonkeeper.pl
 0.0.0.0 tonkeeper.promo
 0.0.0.0 tonkeeper.su
 0.0.0.0 tonkeeper.support
+0.0.0.0 tonkeeper.tech
+0.0.0.0 tonkeeper.uk
 0.0.0.0 tonkeeper.website
 0.0.0.0 tonkeeperr.com
+0.0.0.0 tonkeeperwallet.net
 0.0.0.0 tonkeepet.com
 0.0.0.0 tonkeepper.com
 0.0.0.0 tonkeeprr.com
@@ -92422,6 +92435,7 @@
 0.0.0.0 virtualwallet.support
 0.0.0.0 virtueanimation.on-minting.xyz
 0.0.0.0 virtueumagazine.com
+0.0.0.0 virty-mccraerty-koew.yolasite.com
 0.0.0.0 virusworld.web3-airdrop.net
 0.0.0.0 visa-payments.site
 0.0.0.0 visagetapetess.blogspot.com
@@ -104871,6 +104885,7 @@
 0.0.0.0 www.tonb.finance
 0.0.0.0 www.tonkeeper.domains
 0.0.0.0 www.tonkeeper.market
+0.0.0.0 www.tonkeeper.pl
 0.0.0.0 www.top-layer3.com
 0.0.0.0 www.topmainconnect.com
 0.0.0.0 www.topup-asset.live
