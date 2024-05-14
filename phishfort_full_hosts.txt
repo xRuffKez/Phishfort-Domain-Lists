@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May 14 00:15:01 UTC 2024
+# PhishFort Full Domain List - Tue May 14 06:05:51 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109435
+# Number of Entries: 109447
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3080,6 +3080,7 @@
 0.0.0.0 agoda-grow.com
 0.0.0.0 agoda-hk-booking.com
 0.0.0.0 agoda-hotel.com
+0.0.0.0 agoda-hotelbooking.top
 0.0.0.0 agoda-hotelreservation.top
 0.0.0.0 agoda-info.com
 0.0.0.0 agoda-japan.co
@@ -4578,6 +4579,7 @@
 0.0.0.0 alshaya-group-ua.company.site
 0.0.0.0 alshaya-group.site
 0.0.0.0 alshaya.site
+0.0.0.0 alshaya.website
 0.0.0.0 alshayadeals.net
 0.0.0.0 alshayadealss.com
 0.0.0.0 alshayae.shop
@@ -15832,6 +15834,7 @@
 0.0.0.0 carnivalriotickets.com
 0.0.0.0 carp.restoreconnet.com
 0.0.0.0 carpetdiem.imints.xyz
+0.0.0.0 carreiras.oportunidadesevagas.com
 0.0.0.0 carroceriaspicosa.com
 0.0.0.0 carrorosabreas.blogspot.com
 0.0.0.0 cartesi-rewards-claims-erc20-token.my.id
@@ -25104,6 +25107,7 @@
 0.0.0.0 datmens.site
 0.0.0.0 datum.sale
 0.0.0.0 daulmienda.store
+0.0.0.0 dautuphattrien-bidv.com
 0.0.0.0 dav-network.io
 0.0.0.0 dav.icocrowdsale.io
 0.0.0.0 dav.systems
@@ -49401,6 +49405,7 @@
 0.0.0.0 meetherwallet.website
 0.0.0.0 meetmeorkakel.site
 0.0.0.0 meetnippys.com
+0.0.0.0 meetradialsparkhq.com
 0.0.0.0 meettam.diskstation.org
 0.0.0.0 meezaninteriorsolutions.com
 0.0.0.0 mefaetxension.com
@@ -61483,6 +61488,7 @@
 0.0.0.0 nogas.app
 0.0.0.0 noidkillnsmacsbirddye.ru
 0.0.0.0 noilehtnoil.com
+0.0.0.0 noisidgl.com
 0.0.0.0 noitailg.com
 0.0.0.0 noitargimekot2vpawz.live
 0.0.0.0 nolaisadog.com
@@ -78098,6 +78104,7 @@
 0.0.0.0 saitodai.app
 0.0.0.0 saiyansdrop.com
 0.0.0.0 sakamanb.site
+0.0.0.0 sakeoff5thus.com
 0.0.0.0 saketprakashan.in
 0.0.0.0 sakoff5thshop.com
 0.0.0.0 saks-off5th.shop
@@ -87563,6 +87570,7 @@
 0.0.0.0 tonkeeper.is
 0.0.0.0 tonkeeper.pages.dev
 0.0.0.0 tonkeeper.pl
+0.0.0.0 tonkeeper.promo
 0.0.0.0 tonkeeper.su
 0.0.0.0 tonkeeper.support
 0.0.0.0 tonkeeper.website
@@ -88315,6 +88323,7 @@
 0.0.0.0 truebit.gift
 0.0.0.0 trueconnectbase.com
 0.0.0.0 truedapps.vercel.app
+0.0.0.0 truedigital.group
 0.0.0.0 truegigatexpro.com
 0.0.0.0 trueid.stream
 0.0.0.0 trueonlines.com
@@ -88594,6 +88603,7 @@
 0.0.0.0 trustpad-tokens.com
 0.0.0.0 trustpad-tokens.net
 0.0.0.0 trustpad-trading.com
+0.0.0.0 trustpad-ul.com
 0.0.0.0 trustpad-us.com
 0.0.0.0 trustpad-vc.com
 0.0.0.0 trustpad-web.com
@@ -89417,6 +89427,7 @@
 0.0.0.0 unetiediaeriliences.shop
 0.0.0.0 unexts.com
 0.0.0.0 unf-inc.com
+0.0.0.0 unf-incs.com
 0.0.0.0 unfi-mall.vip
 0.0.0.0 unfi.cc
 0.0.0.0 unfi.store
@@ -98560,6 +98571,7 @@
 0.0.0.0 www.agoda-tours.com
 0.0.0.0 www.agoda-vip.cc
 0.0.0.0 www.agoda-vip.com
+0.0.0.0 www.agoda.ycs.my.id
 0.0.0.0 www.agoda007.cn
 0.0.0.0 www.agoda8.com
 0.0.0.0 www.agodaa-booking.com

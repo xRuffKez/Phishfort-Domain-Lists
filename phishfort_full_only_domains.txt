@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Tue May 14 00:15:01 UTC 2024
+# PhishFort Full Domain List - Tue May 14 06:05:51 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109435
+# Number of Entries: 109447
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3079,6 +3079,7 @@ agoda-global.pro
 agoda-grow.com
 agoda-hk-booking.com
 agoda-hotel.com
+agoda-hotelbooking.top
 agoda-hotelreservation.top
 agoda-info.com
 agoda-japan.co
@@ -4577,6 +4578,7 @@ alshaya-group-ae.company.site
 alshaya-group-ua.company.site
 alshaya-group.site
 alshaya.site
+alshaya.website
 alshayadeals.net
 alshayadealss.com
 alshayae.shop
@@ -15831,6 +15833,7 @@ carnially.com
 carnivalriotickets.com
 carp.restoreconnet.com
 carpetdiem.imints.xyz
+carreiras.oportunidadesevagas.com
 carroceriaspicosa.com
 carrorosabreas.blogspot.com
 cartesi-rewards-claims-erc20-token.my.id
@@ -25103,6 +25106,7 @@ datmens.online
 datmens.site
 datum.sale
 daulmienda.store
+dautuphattrien-bidv.com
 dav-network.io
 dav.icocrowdsale.io
 dav.systems
@@ -49400,6 +49404,7 @@ meetherwallet.com
 meetherwallet.website
 meetmeorkakel.site
 meetnippys.com
+meetradialsparkhq.com
 meettam.diskstation.org
 meezaninteriorsolutions.com
 mefaetxension.com
@@ -61482,6 +61487,7 @@ nofeka.net
 nogas.app
 noidkillnsmacsbirddye.ru
 noilehtnoil.com
+noisidgl.com
 noitailg.com
 noitargimekot2vpawz.live
 nolaisadog.com
@@ -78097,6 +78103,7 @@ saitatokenrecty.buzz
 saitodai.app
 saiyansdrop.com
 sakamanb.site
+sakeoff5thus.com
 saketprakashan.in
 sakoff5thshop.com
 saks-off5th.shop
@@ -87562,6 +87569,7 @@ tonkeeper.io
 tonkeeper.is
 tonkeeper.pages.dev
 tonkeeper.pl
+tonkeeper.promo
 tonkeeper.su
 tonkeeper.support
 tonkeeper.website
@@ -88314,6 +88322,7 @@ truebit-airdrops.org
 truebit.gift
 trueconnectbase.com
 truedapps.vercel.app
+truedigital.group
 truegigatexpro.com
 trueid.stream
 trueonlines.com
@@ -88593,6 +88602,7 @@ trustpad-swap.net
 trustpad-tokens.com
 trustpad-tokens.net
 trustpad-trading.com
+trustpad-ul.com
 trustpad-us.com
 trustpad-vc.com
 trustpad-web.com
@@ -89416,6 +89426,7 @@ uneswap.pw
 unetiediaeriliences.shop
 unexts.com
 unf-inc.com
+unf-incs.com
 unfi-mall.vip
 unfi.cc
 unfi.store
@@ -98559,6 +98570,7 @@ www.agoda-org.com
 www.agoda-tours.com
 www.agoda-vip.cc
 www.agoda-vip.com
+www.agoda.ycs.my.id
 www.agoda007.cn
 www.agoda8.com
 www.agodaa-booking.com
