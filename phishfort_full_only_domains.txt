@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Mon May 13 18:04:19 UTC 2024
+# PhishFort Full Domain List - Tue May 14 00:15:01 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109426
+# Number of Entries: 109435
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -6529,6 +6529,7 @@ app.raticswap.xyz
 app.reauthorization.online
 app.refundcoinstake.com
 app.renzoprotocols.net
+app.resolverdappactivator.com
 app.restoreassets.org
 app.restoresyncweb.site
 app.restoretokens.com
@@ -17318,6 +17319,7 @@ claim-nft.xyz
 claim-nftpro.web.app
 claim-nfts.xyz
 claim-nibiru.top
+claim-notcoin.pages.dev
 claim-nouns.wtf
 claim-now.me
 claim-nowgift.com
@@ -48025,6 +48027,7 @@ mainnetfixhub.vercel.app
 mainnethost.com
 mainnethub-protocol.com
 mainnethub.app
+mainnethub.firebaseapp.com
 mainnethub.org
 mainnethub.pages.dev
 mainnethub.web.app
@@ -49779,6 +49782,7 @@ meskk.app
 mesksen.site
 message-open-coin-com-base.com
 message.xn--mytherwalet-3qb10c.com
+messageriebbox.fr
 messagerieproximusmail03255855005.yolasite.com
 messages.xn--mytherwllet-ife0916g.com
 messinft.org
@@ -55577,6 +55581,7 @@ multiwallet-sync.com
 multiwallet-validate.net
 multiwallet-validation.com
 multiwalletapp.com
+multiwalletapprovalsync.pages.dev
 multiwalletcoinn.com
 multiwalletcoins.com
 multiwalletconnect.vauthsync.com
@@ -64343,6 +64348,7 @@ page-seedify.online
 pages-dev.xyz
 pagesyncapp.online
 paghkeswap.com
+pagibighousingloancal.com
 pagylons.technology
 pahahntofmmdlog.azurewebsites.net
 pahanttoum-waalleitis.godaddysites.com
@@ -84722,6 +84728,7 @@ sync-wallet.square.site
 sync-walletconnect.net
 sync-walletconnect.org
 sync-walletconnet.com
+sync-wallets.on.fleek.co
 sync-wallets.org
 sync-wallets.square.site
 sync-walletsverification.com
@@ -87546,6 +87553,7 @@ tonkeepee.com
 tonkeepeer.com
 tonkeeper-web.pages.dev
 tonkeeper.bio
+tonkeeper.contact
 tonkeeper.dev
 tonkeeper.domains
 tonkeeper.help
@@ -87774,6 +87782,7 @@ trade-identify.com
 trade-indodax.com
 trade-mi.com
 trade-paxful.com
+trade-paxful.offersverification.site
 trade-poocoin.1gb.ru
 trade-uniswap.com
 trade-uniswap.org

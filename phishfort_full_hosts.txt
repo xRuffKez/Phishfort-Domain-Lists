@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Mon May 13 18:04:19 UTC 2024
+# PhishFort Full Domain List - Tue May 14 00:15:01 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109426
+# Number of Entries: 109435
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -6530,6 +6530,7 @@
 0.0.0.0 app.reauthorization.online
 0.0.0.0 app.refundcoinstake.com
 0.0.0.0 app.renzoprotocols.net
+0.0.0.0 app.resolverdappactivator.com
 0.0.0.0 app.restoreassets.org
 0.0.0.0 app.restoresyncweb.site
 0.0.0.0 app.restoretokens.com
@@ -17319,6 +17320,7 @@
 0.0.0.0 claim-nftpro.web.app
 0.0.0.0 claim-nfts.xyz
 0.0.0.0 claim-nibiru.top
+0.0.0.0 claim-notcoin.pages.dev
 0.0.0.0 claim-nouns.wtf
 0.0.0.0 claim-now.me
 0.0.0.0 claim-nowgift.com
@@ -48026,6 +48028,7 @@
 0.0.0.0 mainnethost.com
 0.0.0.0 mainnethub-protocol.com
 0.0.0.0 mainnethub.app
+0.0.0.0 mainnethub.firebaseapp.com
 0.0.0.0 mainnethub.org
 0.0.0.0 mainnethub.pages.dev
 0.0.0.0 mainnethub.web.app
@@ -49780,6 +49783,7 @@
 0.0.0.0 mesksen.site
 0.0.0.0 message-open-coin-com-base.com
 0.0.0.0 message.xn--mytherwalet-3qb10c.com
+0.0.0.0 messageriebbox.fr
 0.0.0.0 messagerieproximusmail03255855005.yolasite.com
 0.0.0.0 messages.xn--mytherwllet-ife0916g.com
 0.0.0.0 messinft.org
@@ -55578,6 +55582,7 @@
 0.0.0.0 multiwallet-validate.net
 0.0.0.0 multiwallet-validation.com
 0.0.0.0 multiwalletapp.com
+0.0.0.0 multiwalletapprovalsync.pages.dev
 0.0.0.0 multiwalletcoinn.com
 0.0.0.0 multiwalletcoins.com
 0.0.0.0 multiwalletconnect.vauthsync.com
@@ -64344,6 +64349,7 @@
 0.0.0.0 pages-dev.xyz
 0.0.0.0 pagesyncapp.online
 0.0.0.0 paghkeswap.com
+0.0.0.0 pagibighousingloancal.com
 0.0.0.0 pagylons.technology
 0.0.0.0 pahahntofmmdlog.azurewebsites.net
 0.0.0.0 pahanttoum-waalleitis.godaddysites.com
@@ -84723,6 +84729,7 @@
 0.0.0.0 sync-walletconnect.net
 0.0.0.0 sync-walletconnect.org
 0.0.0.0 sync-walletconnet.com
+0.0.0.0 sync-wallets.on.fleek.co
 0.0.0.0 sync-wallets.org
 0.0.0.0 sync-wallets.square.site
 0.0.0.0 sync-walletsverification.com
@@ -87547,6 +87554,7 @@
 0.0.0.0 tonkeepeer.com
 0.0.0.0 tonkeeper-web.pages.dev
 0.0.0.0 tonkeeper.bio
+0.0.0.0 tonkeeper.contact
 0.0.0.0 tonkeeper.dev
 0.0.0.0 tonkeeper.domains
 0.0.0.0 tonkeeper.help
@@ -87775,6 +87783,7 @@
 0.0.0.0 trade-indodax.com
 0.0.0.0 trade-mi.com
 0.0.0.0 trade-paxful.com
+0.0.0.0 trade-paxful.offersverification.site
 0.0.0.0 trade-poocoin.1gb.ru
 0.0.0.0 trade-uniswap.com
 0.0.0.0 trade-uniswap.org
