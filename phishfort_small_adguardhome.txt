@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May 14 00:07:44 UTC 2024
+# PhishFort Small Domain List - Tue May 14 06:03:53 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 5917
+# Number of Entries: 5897
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -149,6 +149,7 @@
 ||agoda-checkout-id843753.com^
 ||agoda-confirm.com-id591057.com^
 ||agoda-global.pro^
+||agoda-hotelbooking.top^
 ||agoda-hotelreservation.top^
 ||agoda-japan.co^
 ||agoda-jp.cc^
@@ -286,7 +287,6 @@
 ||ajbell-mall.com.ng.swift-pay.site^
 ||ajbell.top^
 ||ajxg.cc^
-||aknanalofiq.com^
 ||akz3h.pro^
 ||albemarlesusa.com^
 ||albersafewayst.com^
@@ -313,6 +313,7 @@
 ||alrajh.prokhaliij.com^
 ||alshaya-group-ua.company.site^
 ||alshaya.site^
+||alshaya.website^
 ||alshayagrooup.shop^
 ||alshayagrooup.store^
 ||alshayagroup.blog^
@@ -405,13 +406,11 @@
 ||app-rage-trades.com^
 ||app-spaks.sbs^
 ||app-spark-fi.ipns.dweb.link^
-||app-superverse.com^
 ||app-susa.exchange^
 ||app-thruster-finance.aadhyaca.com^
 ||app-thruster.finance^
 ||app-uniswaps.com^
 ||app-venus.io^
-||app-wormhole.com^
 ||app-xpet.tech^
 ||app.1insh.io^
 ||app.2-airtm.cam^
@@ -924,6 +923,7 @@
 ||caraji.com^
 ||careerskier.co.uk^
 ||carlsbergpromo.amcn.in^
+||carreiras.oportunidadesevagas.com^
 ||carvnprotocol.com^
 ||cases-blockfi.com^
 ||catino-app.pages.dev^
@@ -1301,7 +1301,6 @@
 ||creepzrebirth.com^
 ||crepzz.app^
 ||cronos-bridge.org^
-||croptyloanhub.com^
 ||crtoadznew.com^
 ||crv.fi^
 ||crvfi.pro^
@@ -1409,6 +1408,7 @@
 ||data-trustwallet.com^
 ||dataownership-verification.vercel.app^
 ||dataownership-verify-open.vercel.app^
+||dautuphattrien-bidv.com^
 ||davicupo.site^
 ||daviplatanotific.webcindario.com^
 ||daviplataseeg.webcindario.com^
@@ -1441,7 +1441,6 @@
 ||decfinsolutions.com^
 ||dechatclaim.pages.dev^
 ||decline1.dvrcam.info^
-||decrypt-news.com^
 ||deelanceair.co^
 ||deepcoin-trade.com^
 ||defabuso.me^
@@ -1537,7 +1536,6 @@
 ||dogecoin20-st.web.app^
 ||dogecoin20resolve.pages.dev^
 ||dogescoinel20.club^
-||dogpad-financee.netlify.app^
 ||dogswapdex.netlify.app^
 ||dogwifbox.vip^
 ||dogwifcoin.live^
@@ -1658,7 +1656,6 @@
 ||en.clcejuun.life^
 ||en.coifixupresolver.com^
 ||en.pushdstore.xyz^
-||en407etr.com^
 ||enchor-roofs.com^
 ||enlist-mantanetwork.pages.dev^
 ||enlisted-portalgaming.com^
@@ -1751,7 +1748,6 @@
 ||ethtoken-defi.com^
 ||ethvnn.com^
 ||etr-407-payment.com^
-||etr407.ca^
 ||etr407en.com^
 ||etr407highway.com^
 ||etroute407.com^
@@ -2274,7 +2270,6 @@
 ||intel-pairtokenzerion0i.pages.dev^
 ||inter-chains-bridge.com^
 ||interac-ca.8mslg76dl.life^
-||interacsecurepayments.com^
 ||interactive-brokers.group^
 ||interactive-brokers.pro^
 ||interactive-brokers.top^
@@ -2469,7 +2464,6 @@
 ||launches-roninchain.com^
 ||launches-sharpnel.com^
 ||launching-sharpnel.com^
-||launchpad-dydx.com^
 ||launchpad-dymension.com^
 ||launchpad-overlord.xyz^
 ||launchpad-qubic.com^
@@ -2529,7 +2523,6 @@
 ||lido.finance.fi.be-drv.com^
 ||lido.liquid.inverni.us^
 ||lidocrypto.fi^
-||lidodrops.info^
 ||lidoex.com^
 ||lidostak.info^
 ||lidostakecoin.com^
@@ -2650,7 +2643,6 @@
 ||mail-celsius.network^
 ||mail.45-61-151-79.cprapid.com^
 ||mail.csagoda.site^
-||mail.layerszero.pics^
 ||mail.lendingtree.website^
 ||mail.magpiexyz.live^
 ||mail.metamaskarticle.com^
@@ -2816,6 +2808,7 @@
 ||medpacecareer.com^
 ||mee6-connect.xyz^
 ||meetamaskev.azurewebsites.net^
+||meetradialsparkhq.com^
 ||mefamask.com^
 ||megaapps.pages.dev^
 ||meiimask-log-iignin.godaddysites.com^
@@ -3086,7 +3079,6 @@
 ||mode.web3-apply.com^
 ||modealrdrop.com^
 ||modechain.pages.dev^
-||modenetwork.netlify.app^
 ||modhr.org^
 ||modulares.icu^
 ||moe-ukraine.com^
@@ -3351,6 +3343,7 @@
 ||nodemultichainprotcol.pages.dev^
 ||nodesync.vercel.app^
 ||nodeuniblocks.pages.dev^
+||noisidgl.com^
 ||noitailg.com^
 ||nolaisadog.com^
 ||nomlswlap.tech^
@@ -3479,7 +3472,6 @@
 ||opensrea.io^
 ||operenbox-javis-nyugens-projects.vercel.app^
 ||opernsea.io^
-||opeseapro.vercel.app^
 ||opnseaboxed.vercel.app^
 ||opnseafreemint34.vercel.app^
 ||opnsreapro.vercel.app^
@@ -3568,7 +3560,6 @@
 ||pancake-finance-swaps.pages.dev^
 ||pancake-frontend-9urm4h6ap-chefilip.vercel.app^
 ||pancake-frontend-flznr5rp3-chefilip.vercel.app^
-||pancake-ifo.pages.dev^
 ||pancake-magpiexyz.pages.dev^
 ||pancake-projclaim.vercel.app^
 ||pancake-stake.pages.dev^
@@ -3692,7 +3683,6 @@
 ||pancakeswapfinance-catamoto.pages.dev^
 ||pancakeswapfinance-gg3.pages.dev^
 ||pancakeswapfinance.in^
-||pancakeswapfinances.pages.dev^
 ||pancakeswapgiveaway.com^
 ||pancakeswapgiveawayclaim.com^
 ||pancakeswaphelp.pages.dev^
@@ -3975,7 +3965,6 @@
 ||polyhedrafoundation.net^
 ||polyhedranetwork.site^
 ||polyhedrazk.foundation^
-||pond0x.trading^
 ||pond0xtreasury.com^
 ||pool-earnweb3.com^
 ||pool-liquidfarm.com^
@@ -4080,7 +4069,6 @@
 ||quest-sharpnel.com^
 ||quest.puffer.events^
 ||quests-sharpnel.com^
-||quickswap-io.events^
 ||quicksystemicexplorer.co^
 ||quickupdateexplorer.co^
 ||r02bren.cc^
@@ -4233,7 +4221,6 @@
 ||rewards-emirates.com^
 ||rewards-ether.com^
 ||rewards-mantanetwork.com^
-||rewards-mantle.com^
 ||rewards-opsec.net^
 ||rewards-taiko.com^
 ||rewards.carrbify.com^
@@ -4302,6 +4289,7 @@
 ||saita.vercel.app^
 ||saitama.gift^
 ||saitapro.vercel.app^
+||sakeoff5thus.com^
 ||sakoff5thshop.com^
 ||saksfifthpartner.com^
 ||saksof5th.club^
@@ -4390,8 +4378,6 @@
 ||secondx.mypsx.net^
 ||secure-evy.pages.dev^
 ||secure.ingbhk.com^
-||secure1.ontario407etr.com^
-||secure9.ontario407etr.com^
 ||securedmainnetconnect.pages.dev^
 ||secureklarna.com^
 ||securenetsync.pages.dev^
@@ -4456,12 +4442,10 @@
 ||siemensgamesare.top^
 ||signet-gamma.vercel.app^
 ||signetfaucet.vercel.app^
-||signup-ancient8.games^
 ||signup-ator.com^
 ||signup-bera.net^
 ||signup-defi.network^
 ||signup-defi.trading^
-||signup-openfabric.com^
 ||signup-portal.com^
 ||signup-portalcoin.com^
 ||signup-velodrome.finance^
@@ -4472,7 +4456,6 @@
 ||simplepairingapp.com^
 ||sinbad.bio^
 ||singularity-sale.net^
-||singularitydao.app^
 ||siothana.o8l.xyz^
 ||sitemap.allocation-ether.fi^
 ||sk-sangvich.cyou^
@@ -4620,7 +4603,6 @@
 ||starkclaim.pro^
 ||starkclaim.services^
 ||starkexka.com^
-||starknet-airdrop.events^
 ||starknet-airdrops.io^
 ||starknet-crypto.com^
 ||starknet-foundation.io^
@@ -4901,6 +4883,7 @@
 ||tonkeeper.is^
 ||tonkeeper.pages.dev^
 ||tonkeeper.pl^
+||tonkeeper.promo^
 ||tonkeeper.su^
 ||tonkeeper.support^
 ||tonkeeper.website^
@@ -4964,8 +4947,10 @@
 ||trudie.win^
 ||truebit.gift^
 ||truedapps.vercel.app^
+||truedigital.group^
 ||trustcoin.vercel.app^
 ||trustpad-gs.com^
+||trustpad-ul.com^
 ||trustpud.life^
 ||trustvvallet-drawgift.com^
 ||trustwallectconnect.vercel.app^
@@ -5087,7 +5072,6 @@
 ||v2-pancakeswap.pages.dev^
 ||v3-pancakeswap.pages.dev^
 ||v3.app.staging.tgf.nyuki.io^
-||v3everrise.app^
 ||v6hd3.pro^
 ||v9d8w.pro^
 ||v9si.cc^
@@ -5100,7 +5084,6 @@
 ||valikut.com^
 ||valoklin.com^
 ||valoxeno.com^
-||vanar.trading^
 ||vansanhome.com^
 ||vdermo.us^
 ||veeam.careers^
@@ -5113,7 +5096,6 @@
 ||venomcrypto-io.com^
 ||venue.markets^
 ||veolidetamast.com^
-||verasity-io.live^
 ||verif-nulink.vercel.app^
 ||verification-assets.com^
 ||verification-collabland.xyz^
@@ -5131,7 +5113,6 @@
 ||verifyconnection.info^
 ||verifymywallets.com^
 ||verifytonkeeper.com^
-||verifyvulcan.com^
 ||vermillion-chebakia-72b023.netlify.app^
 ||versity-token.finance^
 ||vertiv-ups-dy.cn^
@@ -5357,7 +5338,6 @@
 ||websmart-de.fi^
 ||websolverdapp.pages.dev^
 ||webtransfer.vfjikpnlth.life^
-||weli3.xyz^
 ||wellingtoncolleges.org.uk^
 ||wen-jupiter.onchain-airdrop.com^
 ||wenbutusedgently.xyz^
@@ -5458,6 +5438,7 @@
 ||www.agoda-jp.net^
 ||www.agoda-vip.cc^
 ||www.agoda-vip.com^
+||www.agoda.ycs.my.id^
 ||www.agodaa-booking.com^
 ||www.agodabusiness.pro^
 ||www.agodachina.cn^
@@ -5807,7 +5788,6 @@
 ||xn--fixedfoat-0pb.com^
 ||xn--fixedfoat-wpb.com^
 ||xn--flxedfloat-78a.com^
-||xn--flxedfloat-yub.com^
 ||xn--fxadfloat-05a.com^
 ||xn--fxedflaot-vpbc.com^
 ||xn--fxedflcoat-68a.com^

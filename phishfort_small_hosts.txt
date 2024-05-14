@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May 14 00:07:44 UTC 2024
+# PhishFort Small Domain List - Tue May 14 06:03:53 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 5917
+# Number of Entries: 5897
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -149,6 +149,7 @@
 0.0.0.0 agoda-checkout-id843753.com
 0.0.0.0 agoda-confirm.com-id591057.com
 0.0.0.0 agoda-global.pro
+0.0.0.0 agoda-hotelbooking.top
 0.0.0.0 agoda-hotelreservation.top
 0.0.0.0 agoda-japan.co
 0.0.0.0 agoda-jp.cc
@@ -286,7 +287,6 @@
 0.0.0.0 ajbell-mall.com.ng.swift-pay.site
 0.0.0.0 ajbell.top
 0.0.0.0 ajxg.cc
-0.0.0.0 aknanalofiq.com
 0.0.0.0 akz3h.pro
 0.0.0.0 albemarlesusa.com
 0.0.0.0 albersafewayst.com
@@ -313,6 +313,7 @@
 0.0.0.0 alrajh.prokhaliij.com
 0.0.0.0 alshaya-group-ua.company.site
 0.0.0.0 alshaya.site
+0.0.0.0 alshaya.website
 0.0.0.0 alshayagrooup.shop
 0.0.0.0 alshayagrooup.store
 0.0.0.0 alshayagroup.blog
@@ -405,13 +406,11 @@
 0.0.0.0 app-rage-trades.com
 0.0.0.0 app-spaks.sbs
 0.0.0.0 app-spark-fi.ipns.dweb.link
-0.0.0.0 app-superverse.com
 0.0.0.0 app-susa.exchange
 0.0.0.0 app-thruster-finance.aadhyaca.com
 0.0.0.0 app-thruster.finance
 0.0.0.0 app-uniswaps.com
 0.0.0.0 app-venus.io
-0.0.0.0 app-wormhole.com
 0.0.0.0 app-xpet.tech
 0.0.0.0 app.1insh.io
 0.0.0.0 app.2-airtm.cam
@@ -924,6 +923,7 @@
 0.0.0.0 caraji.com
 0.0.0.0 careerskier.co.uk
 0.0.0.0 carlsbergpromo.amcn.in
+0.0.0.0 carreiras.oportunidadesevagas.com
 0.0.0.0 carvnprotocol.com
 0.0.0.0 cases-blockfi.com
 0.0.0.0 catino-app.pages.dev
@@ -1301,7 +1301,6 @@
 0.0.0.0 creepzrebirth.com
 0.0.0.0 crepzz.app
 0.0.0.0 cronos-bridge.org
-0.0.0.0 croptyloanhub.com
 0.0.0.0 crtoadznew.com
 0.0.0.0 crv.fi
 0.0.0.0 crvfi.pro
@@ -1409,6 +1408,7 @@
 0.0.0.0 data-trustwallet.com
 0.0.0.0 dataownership-verification.vercel.app
 0.0.0.0 dataownership-verify-open.vercel.app
+0.0.0.0 dautuphattrien-bidv.com
 0.0.0.0 davicupo.site
 0.0.0.0 daviplatanotific.webcindario.com
 0.0.0.0 daviplataseeg.webcindario.com
@@ -1441,7 +1441,6 @@
 0.0.0.0 decfinsolutions.com
 0.0.0.0 dechatclaim.pages.dev
 0.0.0.0 decline1.dvrcam.info
-0.0.0.0 decrypt-news.com
 0.0.0.0 deelanceair.co
 0.0.0.0 deepcoin-trade.com
 0.0.0.0 defabuso.me
@@ -1537,7 +1536,6 @@
 0.0.0.0 dogecoin20-st.web.app
 0.0.0.0 dogecoin20resolve.pages.dev
 0.0.0.0 dogescoinel20.club
-0.0.0.0 dogpad-financee.netlify.app
 0.0.0.0 dogswapdex.netlify.app
 0.0.0.0 dogwifbox.vip
 0.0.0.0 dogwifcoin.live
@@ -1658,7 +1656,6 @@
 0.0.0.0 en.clcejuun.life
 0.0.0.0 en.coifixupresolver.com
 0.0.0.0 en.pushdstore.xyz
-0.0.0.0 en407etr.com
 0.0.0.0 enchor-roofs.com
 0.0.0.0 enlist-mantanetwork.pages.dev
 0.0.0.0 enlisted-portalgaming.com
@@ -1751,7 +1748,6 @@
 0.0.0.0 ethtoken-defi.com
 0.0.0.0 ethvnn.com
 0.0.0.0 etr-407-payment.com
-0.0.0.0 etr407.ca
 0.0.0.0 etr407en.com
 0.0.0.0 etr407highway.com
 0.0.0.0 etroute407.com
@@ -2274,7 +2270,6 @@
 0.0.0.0 intel-pairtokenzerion0i.pages.dev
 0.0.0.0 inter-chains-bridge.com
 0.0.0.0 interac-ca.8mslg76dl.life
-0.0.0.0 interacsecurepayments.com
 0.0.0.0 interactive-brokers.group
 0.0.0.0 interactive-brokers.pro
 0.0.0.0 interactive-brokers.top
@@ -2469,7 +2464,6 @@
 0.0.0.0 launches-roninchain.com
 0.0.0.0 launches-sharpnel.com
 0.0.0.0 launching-sharpnel.com
-0.0.0.0 launchpad-dydx.com
 0.0.0.0 launchpad-dymension.com
 0.0.0.0 launchpad-overlord.xyz
 0.0.0.0 launchpad-qubic.com
@@ -2529,7 +2523,6 @@
 0.0.0.0 lido.finance.fi.be-drv.com
 0.0.0.0 lido.liquid.inverni.us
 0.0.0.0 lidocrypto.fi
-0.0.0.0 lidodrops.info
 0.0.0.0 lidoex.com
 0.0.0.0 lidostak.info
 0.0.0.0 lidostakecoin.com
@@ -2650,7 +2643,6 @@
 0.0.0.0 mail-celsius.network
 0.0.0.0 mail.45-61-151-79.cprapid.com
 0.0.0.0 mail.csagoda.site
-0.0.0.0 mail.layerszero.pics
 0.0.0.0 mail.lendingtree.website
 0.0.0.0 mail.magpiexyz.live
 0.0.0.0 mail.metamaskarticle.com
@@ -2816,6 +2808,7 @@
 0.0.0.0 medpacecareer.com
 0.0.0.0 mee6-connect.xyz
 0.0.0.0 meetamaskev.azurewebsites.net
+0.0.0.0 meetradialsparkhq.com
 0.0.0.0 mefamask.com
 0.0.0.0 megaapps.pages.dev
 0.0.0.0 meiimask-log-iignin.godaddysites.com
@@ -3086,7 +3079,6 @@
 0.0.0.0 mode.web3-apply.com
 0.0.0.0 modealrdrop.com
 0.0.0.0 modechain.pages.dev
-0.0.0.0 modenetwork.netlify.app
 0.0.0.0 modhr.org
 0.0.0.0 modulares.icu
 0.0.0.0 moe-ukraine.com
@@ -3351,6 +3343,7 @@
 0.0.0.0 nodemultichainprotcol.pages.dev
 0.0.0.0 nodesync.vercel.app
 0.0.0.0 nodeuniblocks.pages.dev
+0.0.0.0 noisidgl.com
 0.0.0.0 noitailg.com
 0.0.0.0 nolaisadog.com
 0.0.0.0 nomlswlap.tech
@@ -3479,7 +3472,6 @@
 0.0.0.0 opensrea.io
 0.0.0.0 operenbox-javis-nyugens-projects.vercel.app
 0.0.0.0 opernsea.io
-0.0.0.0 opeseapro.vercel.app
 0.0.0.0 opnseaboxed.vercel.app
 0.0.0.0 opnseafreemint34.vercel.app
 0.0.0.0 opnsreapro.vercel.app
@@ -3568,7 +3560,6 @@
 0.0.0.0 pancake-finance-swaps.pages.dev
 0.0.0.0 pancake-frontend-9urm4h6ap-chefilip.vercel.app
 0.0.0.0 pancake-frontend-flznr5rp3-chefilip.vercel.app
-0.0.0.0 pancake-ifo.pages.dev
 0.0.0.0 pancake-magpiexyz.pages.dev
 0.0.0.0 pancake-projclaim.vercel.app
 0.0.0.0 pancake-stake.pages.dev
@@ -3692,7 +3683,6 @@
 0.0.0.0 pancakeswapfinance-catamoto.pages.dev
 0.0.0.0 pancakeswapfinance-gg3.pages.dev
 0.0.0.0 pancakeswapfinance.in
-0.0.0.0 pancakeswapfinances.pages.dev
 0.0.0.0 pancakeswapgiveaway.com
 0.0.0.0 pancakeswapgiveawayclaim.com
 0.0.0.0 pancakeswaphelp.pages.dev
@@ -3975,7 +3965,6 @@
 0.0.0.0 polyhedrafoundation.net
 0.0.0.0 polyhedranetwork.site
 0.0.0.0 polyhedrazk.foundation
-0.0.0.0 pond0x.trading
 0.0.0.0 pond0xtreasury.com
 0.0.0.0 pool-earnweb3.com
 0.0.0.0 pool-liquidfarm.com
@@ -4080,7 +4069,6 @@
 0.0.0.0 quest-sharpnel.com
 0.0.0.0 quest.puffer.events
 0.0.0.0 quests-sharpnel.com
-0.0.0.0 quickswap-io.events
 0.0.0.0 quicksystemicexplorer.co
 0.0.0.0 quickupdateexplorer.co
 0.0.0.0 r02bren.cc
@@ -4233,7 +4221,6 @@
 0.0.0.0 rewards-emirates.com
 0.0.0.0 rewards-ether.com
 0.0.0.0 rewards-mantanetwork.com
-0.0.0.0 rewards-mantle.com
 0.0.0.0 rewards-opsec.net
 0.0.0.0 rewards-taiko.com
 0.0.0.0 rewards.carrbify.com
@@ -4302,6 +4289,7 @@
 0.0.0.0 saita.vercel.app
 0.0.0.0 saitama.gift
 0.0.0.0 saitapro.vercel.app
+0.0.0.0 sakeoff5thus.com
 0.0.0.0 sakoff5thshop.com
 0.0.0.0 saksfifthpartner.com
 0.0.0.0 saksof5th.club
@@ -4390,8 +4378,6 @@
 0.0.0.0 secondx.mypsx.net
 0.0.0.0 secure-evy.pages.dev
 0.0.0.0 secure.ingbhk.com
-0.0.0.0 secure1.ontario407etr.com
-0.0.0.0 secure9.ontario407etr.com
 0.0.0.0 securedmainnetconnect.pages.dev
 0.0.0.0 secureklarna.com
 0.0.0.0 securenetsync.pages.dev
@@ -4456,12 +4442,10 @@
 0.0.0.0 siemensgamesare.top
 0.0.0.0 signet-gamma.vercel.app
 0.0.0.0 signetfaucet.vercel.app
-0.0.0.0 signup-ancient8.games
 0.0.0.0 signup-ator.com
 0.0.0.0 signup-bera.net
 0.0.0.0 signup-defi.network
 0.0.0.0 signup-defi.trading
-0.0.0.0 signup-openfabric.com
 0.0.0.0 signup-portal.com
 0.0.0.0 signup-portalcoin.com
 0.0.0.0 signup-velodrome.finance
@@ -4472,7 +4456,6 @@
 0.0.0.0 simplepairingapp.com
 0.0.0.0 sinbad.bio
 0.0.0.0 singularity-sale.net
-0.0.0.0 singularitydao.app
 0.0.0.0 siothana.o8l.xyz
 0.0.0.0 sitemap.allocation-ether.fi
 0.0.0.0 sk-sangvich.cyou
@@ -4620,7 +4603,6 @@
 0.0.0.0 starkclaim.pro
 0.0.0.0 starkclaim.services
 0.0.0.0 starkexka.com
-0.0.0.0 starknet-airdrop.events
 0.0.0.0 starknet-airdrops.io
 0.0.0.0 starknet-crypto.com
 0.0.0.0 starknet-foundation.io
@@ -4901,6 +4883,7 @@
 0.0.0.0 tonkeeper.is
 0.0.0.0 tonkeeper.pages.dev
 0.0.0.0 tonkeeper.pl
+0.0.0.0 tonkeeper.promo
 0.0.0.0 tonkeeper.su
 0.0.0.0 tonkeeper.support
 0.0.0.0 tonkeeper.website
@@ -4964,8 +4947,10 @@
 0.0.0.0 trudie.win
 0.0.0.0 truebit.gift
 0.0.0.0 truedapps.vercel.app
+0.0.0.0 truedigital.group
 0.0.0.0 trustcoin.vercel.app
 0.0.0.0 trustpad-gs.com
+0.0.0.0 trustpad-ul.com
 0.0.0.0 trustpud.life
 0.0.0.0 trustvvallet-drawgift.com
 0.0.0.0 trustwallectconnect.vercel.app
@@ -5087,7 +5072,6 @@
 0.0.0.0 v2-pancakeswap.pages.dev
 0.0.0.0 v3-pancakeswap.pages.dev
 0.0.0.0 v3.app.staging.tgf.nyuki.io
-0.0.0.0 v3everrise.app
 0.0.0.0 v6hd3.pro
 0.0.0.0 v9d8w.pro
 0.0.0.0 v9si.cc
@@ -5100,7 +5084,6 @@
 0.0.0.0 valikut.com
 0.0.0.0 valoklin.com
 0.0.0.0 valoxeno.com
-0.0.0.0 vanar.trading
 0.0.0.0 vansanhome.com
 0.0.0.0 vdermo.us
 0.0.0.0 veeam.careers
@@ -5113,7 +5096,6 @@
 0.0.0.0 venomcrypto-io.com
 0.0.0.0 venue.markets
 0.0.0.0 veolidetamast.com
-0.0.0.0 verasity-io.live
 0.0.0.0 verif-nulink.vercel.app
 0.0.0.0 verification-assets.com
 0.0.0.0 verification-collabland.xyz
@@ -5131,7 +5113,6 @@
 0.0.0.0 verifyconnection.info
 0.0.0.0 verifymywallets.com
 0.0.0.0 verifytonkeeper.com
-0.0.0.0 verifyvulcan.com
 0.0.0.0 vermillion-chebakia-72b023.netlify.app
 0.0.0.0 versity-token.finance
 0.0.0.0 vertiv-ups-dy.cn
@@ -5357,7 +5338,6 @@
 0.0.0.0 websmart-de.fi
 0.0.0.0 websolverdapp.pages.dev
 0.0.0.0 webtransfer.vfjikpnlth.life
-0.0.0.0 weli3.xyz
 0.0.0.0 wellingtoncolleges.org.uk
 0.0.0.0 wen-jupiter.onchain-airdrop.com
 0.0.0.0 wenbutusedgently.xyz
@@ -5458,6 +5438,7 @@
 0.0.0.0 www.agoda-jp.net
 0.0.0.0 www.agoda-vip.cc
 0.0.0.0 www.agoda-vip.com
+0.0.0.0 www.agoda.ycs.my.id
 0.0.0.0 www.agodaa-booking.com
 0.0.0.0 www.agodabusiness.pro
 0.0.0.0 www.agodachina.cn
@@ -5807,7 +5788,6 @@
 0.0.0.0 xn--fixedfoat-0pb.com
 0.0.0.0 xn--fixedfoat-wpb.com
 0.0.0.0 xn--flxedfloat-78a.com
-0.0.0.0 xn--flxedfloat-yub.com
 0.0.0.0 xn--fxadfloat-05a.com
 0.0.0.0 xn--fxedflaot-vpbc.com
 0.0.0.0 xn--fxedflcoat-68a.com
