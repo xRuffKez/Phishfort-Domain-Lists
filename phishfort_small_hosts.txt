@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May 14 06:03:53 UTC 2024
+# PhishFort Small Domain List - Tue May 14 12:03:00 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 5897
+# Number of Entries: 5911
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -364,7 +364,6 @@
 0.0.0.0 apecoin-pass.com
 0.0.0.0 apecoin-web3.com
 0.0.0.0 aperiron.rxp.app
-0.0.0.0 apes-coinz-claim.com
 0.0.0.0 apesglves.com
 0.0.0.0 apeswap.us
 0.0.0.0 apeterminal.lol
@@ -729,6 +728,7 @@
 0.0.0.0 bitkub-th.pro
 0.0.0.0 bitkub-th.vip
 0.0.0.0 bitkub.fafa855casino.com
+0.0.0.0 bitkub.jp
 0.0.0.0 bitkub.trade
 0.0.0.0 bitkubonlineslot.com
 0.0.0.0 bitkubvip.com
@@ -911,6 +911,7 @@
 0.0.0.0 calindaly.com
 0.0.0.0 cambridgesecure.seconfirmationdev.com
 0.0.0.0 cambridgetraders.com
+0.0.0.0 cameco.vip
 0.0.0.0 camelot.magpiexyz.io.wallet-connect.site
 0.0.0.0 camelot.magpiexyz.io.web-3.li
 0.0.0.0 cancelar-ahorat.webcindario.com
@@ -1786,6 +1787,7 @@
 0.0.0.0 execnetinc.com
 0.0.0.0 exhibitus-inc.com
 0.0.0.0 exhibitusinc.com
+0.0.0.0 experiencejobless.com
 0.0.0.0 expertsolver.pages.dev
 0.0.0.0 expl2.firstchain-zksync-90ee95.zeeve.net
 0.0.0.0 exploremanta.pages.dev
@@ -3608,6 +3610,7 @@
 0.0.0.0 pancakelps.com
 0.0.0.0 pancakelps.org
 0.0.0.0 pancakeopenclaim15.vercel.app
+0.0.0.0 pancakeproclaim097.vercel.app
 0.0.0.0 pancakepromos.lol
 0.0.0.0 pancakeprotectors.pages.dev
 0.0.0.0 pancakes-swaps.pages.dev
@@ -4651,6 +4654,7 @@
 0.0.0.0 strkprimary.pics
 0.0.0.0 stroom-network-web3.vercel.app
 0.0.0.0 suburloia.com
+0.0.0.0 sudredio.com
 0.0.0.0 sui-network.mom
 0.0.0.0 sui.webs3drop.top
 0.0.0.0 suimine.com
@@ -4852,8 +4856,11 @@
 0.0.0.0 tomandgerimail.com
 0.0.0.0 ton-chain.one
 0.0.0.0 ton-chain.top
+0.0.0.0 ton-giveaway.art
+0.0.0.0 ton-kepeer.com
 0.0.0.0 ton-telegram.click
 0.0.0.0 ton-telegram.xyz
+0.0.0.0 ton-usdt.icu
 0.0.0.0 ton.org-ethsendair.xyz
 0.0.0.0 tonblockchain.click
 0.0.0.0 tonchains.one
@@ -4872,22 +4879,29 @@
 0.0.0.0 tonkeepe.com
 0.0.0.0 tonkeepee.com
 0.0.0.0 tonkeepeer.com
+0.0.0.0 tonkeeper-fundsapproval.pages.dev
+0.0.0.0 tonkeeper-walletapproval.pages.dev
 0.0.0.0 tonkeeper-web.pages.dev
 0.0.0.0 tonkeeper.bio
-0.0.0.0 tonkeeper.contact
+0.0.0.0 tonkeeper.com-safe-transaction.pro
 0.0.0.0 tonkeeper.dev
 0.0.0.0 tonkeeper.domains
+0.0.0.0 tonkeeper.eu
 0.0.0.0 tonkeeper.help
 0.0.0.0 tonkeeper.in
 0.0.0.0 tonkeeper.io
 0.0.0.0 tonkeeper.is
+0.0.0.0 tonkeeper.marketing
 0.0.0.0 tonkeeper.pages.dev
 0.0.0.0 tonkeeper.pl
 0.0.0.0 tonkeeper.promo
 0.0.0.0 tonkeeper.su
 0.0.0.0 tonkeeper.support
+0.0.0.0 tonkeeper.tech
+0.0.0.0 tonkeeper.uk
 0.0.0.0 tonkeeper.website
 0.0.0.0 tonkeeperr.com
+0.0.0.0 tonkeeperwallet.net
 0.0.0.0 tonkeepet.com
 0.0.0.0 tonkeepper.com
 0.0.0.0 tonkeeprr.com
@@ -5080,7 +5094,6 @@
 0.0.0.0 validatedwallet.com
 0.0.0.0 validaten0de.pages.dev
 0.0.0.0 validatorsync.net
-0.0.0.0 valikane.com
 0.0.0.0 valikut.com
 0.0.0.0 valoklin.com
 0.0.0.0 valoxeno.com
@@ -5139,6 +5152,7 @@
 0.0.0.0 virginmoneyverify.web.app
 0.0.0.0 virtua.gift
 0.0.0.0 virtualsecrets.org
+0.0.0.0 virty-mccraerty-koew.yolasite.com
 0.0.0.0 visit-driphaus.com
 0.0.0.0 visit-otherside.xyz
 0.0.0.0 visitlinea.com
@@ -5733,6 +5747,7 @@
 0.0.0.0 www.ton.org-networks.top
 0.0.0.0 www.tonkeeper.domains
 0.0.0.0 www.tonkeeper.market
+0.0.0.0 www.tonkeeper.pl
 0.0.0.0 www.triplewealthbuilders.com
 0.0.0.0 www.troyswop.org
 0.0.0.0 www.trustlimitedinvestment.com
@@ -5899,6 +5914,5 @@
 0.0.0.0 zroclaim.xyz
 0.0.0.0 zsgai.pro
 0.0.0.0 zulu-verification.vercel.app
-0.0.0.0 zyberswap.news
 0.0.0.0 zzbtg.pro
 0.0.0.0 zzh.wfjlg.club

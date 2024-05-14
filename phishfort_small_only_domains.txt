@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Tue May 14 06:03:53 UTC 2024
+# PhishFort Small Domain List - Tue May 14 12:03:00 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 5897
+# Number of Entries: 5911
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -363,7 +363,6 @@ apecoin-airdrop-claim-pooldrop.codeanyapp.com
 apecoin-pass.com
 apecoin-web3.com
 aperiron.rxp.app
-apes-coinz-claim.com
 apesglves.com
 apeswap.us
 apeterminal.lol
@@ -728,6 +727,7 @@ bitkub-capital.org
 bitkub-th.pro
 bitkub-th.vip
 bitkub.fafa855casino.com
+bitkub.jp
 bitkub.trade
 bitkubonlineslot.com
 bitkubvip.com
@@ -910,6 +910,7 @@ cakevalidator.pages.dev
 calindaly.com
 cambridgesecure.seconfirmationdev.com
 cambridgetraders.com
+cameco.vip
 camelot.magpiexyz.io.wallet-connect.site
 camelot.magpiexyz.io.web-3.li
 cancelar-ahorat.webcindario.com
@@ -1785,6 +1786,7 @@ exclusive-blast.com
 execnetinc.com
 exhibitus-inc.com
 exhibitusinc.com
+experiencejobless.com
 expertsolver.pages.dev
 expl2.firstchain-zksync-90ee95.zeeve.net
 exploremanta.pages.dev
@@ -3607,6 +3609,7 @@ pancakelp.org
 pancakelps.com
 pancakelps.org
 pancakeopenclaim15.vercel.app
+pancakeproclaim097.vercel.app
 pancakepromos.lol
 pancakeprotectors.pages.dev
 pancakes-swaps.pages.dev
@@ -4650,6 +4653,7 @@ strknet.network
 strkprimary.pics
 stroom-network-web3.vercel.app
 suburloia.com
+sudredio.com
 sui-network.mom
 sui.webs3drop.top
 suimine.com
@@ -4851,8 +4855,11 @@ tollvest.org
 tomandgerimail.com
 ton-chain.one
 ton-chain.top
+ton-giveaway.art
+ton-kepeer.com
 ton-telegram.click
 ton-telegram.xyz
+ton-usdt.icu
 ton.org-ethsendair.xyz
 tonblockchain.click
 tonchains.one
@@ -4871,22 +4878,29 @@ tonkeep.org
 tonkeepe.com
 tonkeepee.com
 tonkeepeer.com
+tonkeeper-fundsapproval.pages.dev
+tonkeeper-walletapproval.pages.dev
 tonkeeper-web.pages.dev
 tonkeeper.bio
-tonkeeper.contact
+tonkeeper.com-safe-transaction.pro
 tonkeeper.dev
 tonkeeper.domains
+tonkeeper.eu
 tonkeeper.help
 tonkeeper.in
 tonkeeper.io
 tonkeeper.is
+tonkeeper.marketing
 tonkeeper.pages.dev
 tonkeeper.pl
 tonkeeper.promo
 tonkeeper.su
 tonkeeper.support
+tonkeeper.tech
+tonkeeper.uk
 tonkeeper.website
 tonkeeperr.com
+tonkeeperwallet.net
 tonkeepet.com
 tonkeepper.com
 tonkeeprr.com
@@ -5079,7 +5093,6 @@ validatechains.pages.dev
 validatedwallet.com
 validaten0de.pages.dev
 validatorsync.net
-valikane.com
 valikut.com
 valoklin.com
 valoxeno.com
@@ -5138,6 +5151,7 @@ virginmoneysupport.com
 virginmoneyverify.web.app
 virtua.gift
 virtualsecrets.org
+virty-mccraerty-koew.yolasite.com
 visit-driphaus.com
 visit-otherside.xyz
 visitlinea.com
@@ -5732,6 +5746,7 @@ www.theplaybooksol.xyz
 www.ton.org-networks.top
 www.tonkeeper.domains
 www.tonkeeper.market
+www.tonkeeper.pl
 www.triplewealthbuilders.com
 www.troyswop.org
 www.trustlimitedinvestment.com
@@ -5898,6 +5913,5 @@ zro-claim.xyz
 zroclaim.xyz
 zsgai.pro
 zulu-verification.vercel.app
-zyberswap.news
 zzbtg.pro
 zzh.wfjlg.club
