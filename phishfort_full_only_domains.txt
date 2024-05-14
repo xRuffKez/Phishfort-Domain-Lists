@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Tue May 14 12:05:50 UTC 2024
+# PhishFort Full Domain List - Tue May 14 18:04:28 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109462
+# Number of Entries: 109472
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -15530,6 +15530,7 @@ cache-protocol.xyz
 cache.looksrare.so
 cacheserver.co
 cacti-01.wlink.com.np
+cad-ence.com
 cadenceprotocol.net
 cadenerranks.cc
 cadillac-usdt.com
@@ -16015,6 +16016,7 @@ cdtiun.com
 cdzhjzx.com
 ce.crypto-eth.site
 ce1s1us.network
+ce3vna.cl
 cealtis.co
 cealtis.fail
 cealtis.money
@@ -32916,6 +32918,7 @@ exosame.com
 exouswallet.godaddysites.com
 exoxilarooves.online
 expecil.com
+expedias.shop
 experiencejobless.com
 expertcryptmine.com
 expertelover.com
@@ -39383,7 +39386,6 @@ hvqk.pro
 hvu24h.atacadista.site
 hvww-metams.top
 hvwwv-metamas.top
-hw.eingeenuity.net
 hwcdnwww.redmine.pancakeswape.finance
 hwliecg.top
 hwy407etr.com
@@ -59840,6 +59842,7 @@ myttherwalet.com
 myubiqwallet.com
 myuetherwallet.com
 myuetherwallets.com
+myuicombain.website
 myuidetmadmu.io
 myuidetmadmu.online
 myuidetmadmu.org
@@ -73900,6 +73903,7 @@ prunarium.com
 prupim.com
 prymeart.live
 ps-btc.info
+ps.ab.memacogilvy.digital
 psancakeswap.com
 psancakeswap.net
 psancakeswap.org
@@ -75378,6 +75382,7 @@ realsecures.org
 realshibadoge.web3fast.net
 realstradesoffers.online
 realsynapseprotocol.com
+realtime.www.gmresearch.info
 realtyexcellence.com
 realvision.nft-premint.com
 realvision.premint.site
@@ -87568,6 +87573,7 @@ tonkeeper-fundsapproval.pages.dev
 tonkeeper-walletapproval.pages.dev
 tonkeeper-web.pages.dev
 tonkeeper.bio
+tonkeeper.business
 tonkeeper.com-safe-transaction.pro
 tonkeeper.dev
 tonkeeper.domains
@@ -87577,6 +87583,7 @@ tonkeeper.in
 tonkeeper.io
 tonkeeper.is
 tonkeeper.marketing
+tonkeeper.online
 tonkeeper.pages.dev
 tonkeeper.pl
 tonkeeper.promo
@@ -89316,7 +89323,6 @@ uionlineddetmaa.org
 uionlinedet.com
 uionlinedetma.com
 uionlinedetmaea.com
-uionlinedutma.org
 uionlineheda.com
 uionlineidetma.org
 uionlineinsurance.com
@@ -89440,6 +89446,7 @@ unetiediaeriliences.shop
 unexts.com
 unf-inc.com
 unf-incs.com
+unfi-incs.com
 unfi-mall.vip
 unfi.cc
 unfi.store
@@ -91525,6 +91532,7 @@ validaciones--notificaciondaviapp.repl.co
 validappauthentication.com
 validapps.online
 validappsync.live
+validardvplta.webcindario.com
 validat0rdesk.com
 validate-chain.com
 validate-collab.land
@@ -98064,6 +98072,7 @@ www-account-bitvavo.tk
 www-acesso-bit-90.blogspot.com
 www-acesso-bitkub-vip-2023.blogspot.com
 www-acessplatfom-nexo.blogspot.com
+www-adpvantage.com
 www-adpworkforcenow.com
 www-altlayer-io.top
 www-altlayer.top
@@ -103892,6 +103901,7 @@ www.qatar2022.work
 www.qbdkqw.com
 www.qbt.finance
 www.qiananjs.com
+www.qirtm.site
 www.qiyunchun.com
 www.qoocoin.com
 www.qptmetacard.xyz

@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May 14 12:05:50 UTC 2024
+# PhishFort Full Domain List - Tue May 14 18:04:28 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109462
+# Number of Entries: 109472
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -15531,6 +15531,7 @@
 0.0.0.0 cache.looksrare.so
 0.0.0.0 cacheserver.co
 0.0.0.0 cacti-01.wlink.com.np
+0.0.0.0 cad-ence.com
 0.0.0.0 cadenceprotocol.net
 0.0.0.0 cadenerranks.cc
 0.0.0.0 cadillac-usdt.com
@@ -16016,6 +16017,7 @@
 0.0.0.0 cdzhjzx.com
 0.0.0.0 ce.crypto-eth.site
 0.0.0.0 ce1s1us.network
+0.0.0.0 ce3vna.cl
 0.0.0.0 cealtis.co
 0.0.0.0 cealtis.fail
 0.0.0.0 cealtis.money
@@ -32917,6 +32919,7 @@
 0.0.0.0 exouswallet.godaddysites.com
 0.0.0.0 exoxilarooves.online
 0.0.0.0 expecil.com
+0.0.0.0 expedias.shop
 0.0.0.0 experiencejobless.com
 0.0.0.0 expertcryptmine.com
 0.0.0.0 expertelover.com
@@ -39384,7 +39387,6 @@
 0.0.0.0 hvu24h.atacadista.site
 0.0.0.0 hvww-metams.top
 0.0.0.0 hvwwv-metamas.top
-0.0.0.0 hw.eingeenuity.net
 0.0.0.0 hwcdnwww.redmine.pancakeswape.finance
 0.0.0.0 hwliecg.top
 0.0.0.0 hwy407etr.com
@@ -59841,6 +59843,7 @@
 0.0.0.0 myubiqwallet.com
 0.0.0.0 myuetherwallet.com
 0.0.0.0 myuetherwallets.com
+0.0.0.0 myuicombain.website
 0.0.0.0 myuidetmadmu.io
 0.0.0.0 myuidetmadmu.online
 0.0.0.0 myuidetmadmu.org
@@ -73901,6 +73904,7 @@
 0.0.0.0 prupim.com
 0.0.0.0 prymeart.live
 0.0.0.0 ps-btc.info
+0.0.0.0 ps.ab.memacogilvy.digital
 0.0.0.0 psancakeswap.com
 0.0.0.0 psancakeswap.net
 0.0.0.0 psancakeswap.org
@@ -75379,6 +75383,7 @@
 0.0.0.0 realshibadoge.web3fast.net
 0.0.0.0 realstradesoffers.online
 0.0.0.0 realsynapseprotocol.com
+0.0.0.0 realtime.www.gmresearch.info
 0.0.0.0 realtyexcellence.com
 0.0.0.0 realvision.nft-premint.com
 0.0.0.0 realvision.premint.site
@@ -87569,6 +87574,7 @@
 0.0.0.0 tonkeeper-walletapproval.pages.dev
 0.0.0.0 tonkeeper-web.pages.dev
 0.0.0.0 tonkeeper.bio
+0.0.0.0 tonkeeper.business
 0.0.0.0 tonkeeper.com-safe-transaction.pro
 0.0.0.0 tonkeeper.dev
 0.0.0.0 tonkeeper.domains
@@ -87578,6 +87584,7 @@
 0.0.0.0 tonkeeper.io
 0.0.0.0 tonkeeper.is
 0.0.0.0 tonkeeper.marketing
+0.0.0.0 tonkeeper.online
 0.0.0.0 tonkeeper.pages.dev
 0.0.0.0 tonkeeper.pl
 0.0.0.0 tonkeeper.promo
@@ -89317,7 +89324,6 @@
 0.0.0.0 uionlinedet.com
 0.0.0.0 uionlinedetma.com
 0.0.0.0 uionlinedetmaea.com
-0.0.0.0 uionlinedutma.org
 0.0.0.0 uionlineheda.com
 0.0.0.0 uionlineidetma.org
 0.0.0.0 uionlineinsurance.com
@@ -89441,6 +89447,7 @@
 0.0.0.0 unexts.com
 0.0.0.0 unf-inc.com
 0.0.0.0 unf-incs.com
+0.0.0.0 unfi-incs.com
 0.0.0.0 unfi-mall.vip
 0.0.0.0 unfi.cc
 0.0.0.0 unfi.store
@@ -91526,6 +91533,7 @@
 0.0.0.0 validappauthentication.com
 0.0.0.0 validapps.online
 0.0.0.0 validappsync.live
+0.0.0.0 validardvplta.webcindario.com
 0.0.0.0 validat0rdesk.com
 0.0.0.0 validate-chain.com
 0.0.0.0 validate-collab.land
@@ -98065,6 +98073,7 @@
 0.0.0.0 www-acesso-bit-90.blogspot.com
 0.0.0.0 www-acesso-bitkub-vip-2023.blogspot.com
 0.0.0.0 www-acessplatfom-nexo.blogspot.com
+0.0.0.0 www-adpvantage.com
 0.0.0.0 www-adpworkforcenow.com
 0.0.0.0 www-altlayer-io.top
 0.0.0.0 www-altlayer.top
@@ -103893,6 +103902,7 @@
 0.0.0.0 www.qbdkqw.com
 0.0.0.0 www.qbt.finance
 0.0.0.0 www.qiananjs.com
+0.0.0.0 www.qirtm.site
 0.0.0.0 www.qiyunchun.com
 0.0.0.0 www.qoocoin.com
 0.0.0.0 www.qptmetacard.xyz
