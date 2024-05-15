@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May 15 00:15:12 UTC 2024
+# PhishFort Full Domain List - Wed May 15 06:04:47 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109484
+# Number of Entries: 109494
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -9693,7 +9693,10 @@
 0.0.0.0 axiinninfinityy.com
 0.0.0.0 axiinninfinityz.com
 0.0.0.0 axijinfinity.com
+0.0.0.0 axileilnfinity.com
+0.0.0.0 axileinfilnity.com
 0.0.0.0 axileinfinity.com
+0.0.0.0 axilelinfinity.com
 0.0.0.0 axilinfinity.xyz
 0.0.0.0 axinfinitey.cam
 0.0.0.0 axinfinitybot.com
@@ -29493,6 +29496,7 @@
 0.0.0.0 emmatully.com
 0.0.0.0 empiretokenworld.com
 0.0.0.0 emploeemygochek.com
+0.0.0.0 emploerfirsstep.site
 0.0.0.0 employeejiofinance.com
 0.0.0.0 empower-retirnnent.com
 0.0.0.0 empower.gr
@@ -39391,6 +39395,7 @@
 0.0.0.0 hvu24h.atacadista.site
 0.0.0.0 hvww-metams.top
 0.0.0.0 hvwwv-metamas.top
+0.0.0.0 hw.eingeenuity.net
 0.0.0.0 hwcdnwww.redmine.pancakeswape.finance
 0.0.0.0 hwliecg.top
 0.0.0.0 hwy407etr.com
@@ -44361,6 +44366,7 @@
 0.0.0.0 lendingtreeincusa.com
 0.0.0.0 lendingtreellc.org
 0.0.0.0 lendingtreeloans.online
+0.0.0.0 lendingtrees.in
 0.0.0.0 lendingtreeusa.cloud
 0.0.0.0 lendingtreeusa.com
 0.0.0.0 lendingtreeusa.online
@@ -65084,6 +65090,7 @@
 0.0.0.0 pancakescwap.finance
 0.0.0.0 pancakescwap.org
 0.0.0.0 pancakesdropcclaims36.vercel.app
+0.0.0.0 pancakesdropswaps84.vercel.app
 0.0.0.0 pancakeseap.com
 0.0.0.0 pancakeseap.info
 0.0.0.0 pancakesewaps.finance
@@ -65458,6 +65465,7 @@
 0.0.0.0 pancakeswap-drop.sytes.net
 0.0.0.0 pancakeswap-drops.com
 0.0.0.0 pancakeswap-drops.pro
+0.0.0.0 pancakeswap-drops17.vercel.app
 0.0.0.0 pancakeswap-earn.com
 0.0.0.0 pancakeswap-earn.pro
 0.0.0.0 pancakeswap-earnings.com
@@ -67173,6 +67181,7 @@
 0.0.0.0 pancakeswapdrop15.vercel.app
 0.0.0.0 pancakeswapdrop78.vercel.app
 0.0.0.0 pancakeswapdrops076.vercel.app
+0.0.0.0 pancakeswapdrops41.vercel.app
 0.0.0.0 pancakeswapdutch.com
 0.0.0.0 pancakeswape-finance.site
 0.0.0.0 pancakeswape-finnance-finance.co.uk
@@ -89335,6 +89344,7 @@
 0.0.0.0 uionlinedet.com
 0.0.0.0 uionlinedetma.com
 0.0.0.0 uionlinedetmaea.com
+0.0.0.0 uionlinedutma.org
 0.0.0.0 uionlineheda.com
 0.0.0.0 uionlineidetma.org
 0.0.0.0 uionlineinsurance.com

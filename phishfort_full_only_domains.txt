@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Wed May 15 00:15:12 UTC 2024
+# PhishFort Full Domain List - Wed May 15 06:04:47 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109484
+# Number of Entries: 109494
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -9692,7 +9692,10 @@ axiinninfinityx.com
 axiinninfinityy.com
 axiinninfinityz.com
 axijinfinity.com
+axileilnfinity.com
+axileinfilnity.com
 axileinfinity.com
+axilelinfinity.com
 axilinfinity.xyz
 axinfinitey.cam
 axinfinitybot.com
@@ -29492,6 +29495,7 @@ emmanft.xyz
 emmatully.com
 empiretokenworld.com
 emploeemygochek.com
+emploerfirsstep.site
 employeejiofinance.com
 empower-retirnnent.com
 empower.gr
@@ -39390,6 +39394,7 @@ hvqk.pro
 hvu24h.atacadista.site
 hvww-metams.top
 hvwwv-metamas.top
+hw.eingeenuity.net
 hwcdnwww.redmine.pancakeswape.finance
 hwliecg.top
 hwy407etr.com
@@ -44360,6 +44365,7 @@ lendingtreehelp.com
 lendingtreeincusa.com
 lendingtreellc.org
 lendingtreeloans.online
+lendingtrees.in
 lendingtreeusa.cloud
 lendingtreeusa.com
 lendingtreeusa.online
@@ -65083,6 +65089,7 @@ pancakescwap.com
 pancakescwap.finance
 pancakescwap.org
 pancakesdropcclaims36.vercel.app
+pancakesdropswaps84.vercel.app
 pancakeseap.com
 pancakeseap.info
 pancakesewaps.finance
@@ -65457,6 +65464,7 @@ pancakeswap-drop.pro
 pancakeswap-drop.sytes.net
 pancakeswap-drops.com
 pancakeswap-drops.pro
+pancakeswap-drops17.vercel.app
 pancakeswap-earn.com
 pancakeswap-earn.pro
 pancakeswap-earnings.com
@@ -67172,6 +67180,7 @@ pancakeswapdrop.com
 pancakeswapdrop15.vercel.app
 pancakeswapdrop78.vercel.app
 pancakeswapdrops076.vercel.app
+pancakeswapdrops41.vercel.app
 pancakeswapdutch.com
 pancakeswape-finance.site
 pancakeswape-finnance-finance.co.uk
@@ -89334,6 +89343,7 @@ uionlineddetmaa.org
 uionlinedet.com
 uionlinedetma.com
 uionlinedetmaea.com
+uionlinedutma.org
 uionlineheda.com
 uionlineidetma.org
 uionlineinsurance.com
