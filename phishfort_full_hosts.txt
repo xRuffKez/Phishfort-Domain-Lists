@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May 15 12:06:43 UTC 2024
+# PhishFort Full Domain List - Wed May 15 18:04:26 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109517
+# Number of Entries: 109533
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -10916,6 +10916,7 @@
 0.0.0.0 bb.btb11111.com
 0.0.0.0 bbb.ahyoo.buzz
 0.0.0.0 bbcoin.website
+0.0.0.0 bbd.sh
 0.0.0.0 bbexpro.xyz
 0.0.0.0 bbin.maadu.xyz
 0.0.0.0 bbl-get.com
@@ -11440,6 +11441,7 @@
 0.0.0.0 bi-swaps.win
 0.0.0.0 bi-tkub-iok.com
 0.0.0.0 bi-ttrex.com
+0.0.0.0 bi.lacblanc.online
 0.0.0.0 biaki.com
 0.0.0.0 biamper.com
 0.0.0.0 bianace.online
@@ -14531,6 +14533,7 @@
 0.0.0.0 breezeline.verify-now.workers.dev
 0.0.0.0 breezelinespeedtest.com
 0.0.0.0 bremerfinancegroup.com
+0.0.0.0 bremersecure.com
 0.0.0.0 brestchange.ru
 0.0.0.0 breznanikova.web3fast.net
 0.0.0.0 brg-corp.top
@@ -16737,6 +16740,7 @@
 0.0.0.0 chelnlist.org
 0.0.0.0 chendimassachoist.com
 0.0.0.0 chendimasslost.com
+0.0.0.0 chendumasst.com
 0.0.0.0 chenlisting.com
 0.0.0.0 chensibenifitist.com
 0.0.0.0 chensymalst.com
@@ -18164,7 +18168,6 @@
 0.0.0.0 cliffchnlaw.com
 0.0.0.0 cliffchnllp.com
 0.0.0.0 cliffchnrecovery.com
-0.0.0.0 clifford-chance-consulting.com
 0.0.0.0 clifford-chance-holding.com
 0.0.0.0 clifford-chance-llp.uk
 0.0.0.0 clifford-chance-uk.co
@@ -19301,6 +19304,7 @@
 0.0.0.0 coingeckorewards.life
 0.0.0.0 coingeckorewards.pw
 0.0.0.0 coingeckorewards.space
+0.0.0.0 coingeckos.pages.dev
 0.0.0.0 coingeckosocks.com
 0.0.0.0 coingeckotoken.info
 0.0.0.0 coingeckowallet.com
@@ -28248,6 +28252,7 @@
 0.0.0.0 dthiq3nxdqfatmo.www.www.amazon.www.wiki.pancakeswape.finance
 0.0.0.0 dtravel.polka-starter.com.pl
 0.0.0.0 dtudao.com
+0.0.0.0 du.lacblanc.online
 0.0.0.0 du1z2pl69.ukit.me
 0.0.0.0 dual-near.org
 0.0.0.0 dualboardmoonify.pages.dev
@@ -32930,7 +32935,6 @@
 0.0.0.0 exoxilarooves.online
 0.0.0.0 expecil.com
 0.0.0.0 expedias.shop
-0.0.0.0 experiencejobless.com
 0.0.0.0 expertcryptmine.com
 0.0.0.0 expertelover.com
 0.0.0.0 expertminingpools.com
@@ -35892,6 +35896,8 @@
 0.0.0.0 gallery.ie
 0.0.0.0 gallgenial.com
 0.0.0.0 galmudugmof.so
+0.0.0.0 galp-profit-pt.online
+0.0.0.0 galp-profit-pt.world
 0.0.0.0 galprofit.com
 0.0.0.0 galxe-claim.com
 0.0.0.0 galxe-drops.com
@@ -37498,6 +37504,7 @@
 0.0.0.0 gm-ek.com
 0.0.0.0 gm-generalmotors.com
 0.0.0.0 gm-sustainable.com
+0.0.0.0 gm-uk.com
 0.0.0.0 gma-c.godaddysites.com
 0.0.0.0 gmdaostudio.vip-freemint.com
 0.0.0.0 gmesolana.com
@@ -48935,6 +48942,7 @@
 0.0.0.0 mastiffinu-promogive.com
 0.0.0.0 mastodontereme.25u.com
 0.0.0.0 mastopvent.site
+0.0.0.0 maszonebenef.com
 0.0.0.0 mataemesk.top
 0.0.0.0 matamaask.com
 0.0.0.0 matamask.co
@@ -68650,6 +68658,7 @@
 0.0.0.0 pankaige.com
 0.0.0.0 pankaige.org
 0.0.0.0 pankake-swap.com
+0.0.0.0 pankake.shop
 0.0.0.0 pankakecwap.com
 0.0.0.0 pankakesswap.com
 0.0.0.0 pankakesswop.com
@@ -69841,7 +69850,6 @@
 0.0.0.0 paxosapp.com
 0.0.0.0 paxosbounty.com
 0.0.0.0 paxosest.com
-0.0.0.0 paxosestm.com
 0.0.0.0 paxosevct.com
 0.0.0.0 paxosg.com
 0.0.0.0 paxosgold.net
@@ -69921,6 +69929,7 @@
 0.0.0.0 payb0lt.io
 0.0.0.0 paybnb.club
 0.0.0.0 paybnb.top
+0.0.0.0 paybyklarna.com
 0.0.0.0 paybyklarna.de
 0.0.0.0 paybyplatema.pro
 0.0.0.0 paybyplatema.site
@@ -76410,6 +76419,7 @@
 0.0.0.0 revoke-now.cash
 0.0.0.0 revoke-paraswap.com
 0.0.0.0 revoke-permit2.cash
+0.0.0.0 revoke-prisma.app
 0.0.0.0 revoke-realio.com
 0.0.0.0 revoke-security.net
 0.0.0.0 revoke-shido.pages.dev
@@ -80277,6 +80287,7 @@
 0.0.0.0 singularty.net
 0.0.0.0 singup.maverlcks.co
 0.0.0.0 sinistron.com.br
+0.0.0.0 siniytractor.com
 0.0.0.0 sinkeffect.cc
 0.0.0.0 sinkeffect.co
 0.0.0.0 sinkeffect.info
@@ -82329,6 +82340,7 @@
 0.0.0.0 squishiverse.vip
 0.0.0.0 squishiversenft.xyz
 0.0.0.0 squishysquadnft1-free.xyz
+0.0.0.0 sr.lacblanc.online
 0.0.0.0 srfabricademoveisbraz.blogspot.com
 0.0.0.0 srmpool.xyz
 0.0.0.0 srnartgallery-promogive.com
@@ -87567,6 +87579,7 @@
 0.0.0.0 ton-telegram.com
 0.0.0.0 ton-telegram.net
 0.0.0.0 ton-telegram.xyz
+0.0.0.0 ton-usd.net
 0.0.0.0 ton-usdt.icu
 0.0.0.0 ton-wallet.store
 0.0.0.0 ton.fund
@@ -92470,6 +92483,8 @@
 0.0.0.0 viralethereum-promogive.com
 0.0.0.0 virgeeny.shop
 0.0.0.0 virgin-awareness.com
+0.0.0.0 virginmoney-livechat.com
+0.0.0.0 virginmoney.business-liveapp.com
 0.0.0.0 virginmoneybusinessbanking.com
 0.0.0.0 virginmoneychatwithus.web.app
 0.0.0.0 virginmoneylivechat.com
@@ -103381,6 +103396,7 @@
 0.0.0.0 www.paxfuly.ltd
 0.0.0.0 www.paxiful.com
 0.0.0.0 www.paxonline.online
+0.0.0.0 www.paxos-web.com
 0.0.0.0 www.paxosdapp.co
 0.0.0.0 www.paxosweb.top
 0.0.0.0 www.paxsecurity-paxful.com
@@ -103509,7 +103525,6 @@
 0.0.0.0 www.pltumb.com
 0.0.0.0 www.pluscex.io
 0.0.0.0 www.plxf4l.fun
-0.0.0.0 www.pmaxw.com
 0.0.0.0 www.pmooncoln.com
 0.0.0.0 www.pndc0x.com
 0.0.0.0 www.pnoocoin-swap.us
@@ -104459,6 +104474,7 @@
 0.0.0.0 www.smatterentries.org
 0.0.0.0 www.smipleswap.ws
 0.0.0.0 www.smudge.money.nyanmemecoin.xyz
+0.0.0.0 www.sn.blaport.online
 0.0.0.0 www.snapshot-multibit.com
 0.0.0.0 www.sneedify.fund
 0.0.0.0 www.sniperxbot.com

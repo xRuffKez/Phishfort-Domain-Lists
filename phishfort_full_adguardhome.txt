@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May 15 12:06:43 UTC 2024
+# PhishFort Full Domain List - Wed May 15 18:04:26 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109517
+# Number of Entries: 109533
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -10916,6 +10916,7 @@
 ||bb.btb11111.com^
 ||bbb.ahyoo.buzz^
 ||bbcoin.website^
+||bbd.sh^
 ||bbexpro.xyz^
 ||bbin.maadu.xyz^
 ||bbl-get.com^
@@ -11440,6 +11441,7 @@
 ||bi-swaps.win^
 ||bi-tkub-iok.com^
 ||bi-ttrex.com^
+||bi.lacblanc.online^
 ||biaki.com^
 ||biamper.com^
 ||bianace.online^
@@ -14531,6 +14533,7 @@
 ||breezeline.verify-now.workers.dev^
 ||breezelinespeedtest.com^
 ||bremerfinancegroup.com^
+||bremersecure.com^
 ||brestchange.ru^
 ||breznanikova.web3fast.net^
 ||brg-corp.top^
@@ -16737,6 +16740,7 @@
 ||chelnlist.org^
 ||chendimassachoist.com^
 ||chendimasslost.com^
+||chendumasst.com^
 ||chenlisting.com^
 ||chensibenifitist.com^
 ||chensymalst.com^
@@ -18164,7 +18168,6 @@
 ||cliffchnlaw.com^
 ||cliffchnllp.com^
 ||cliffchnrecovery.com^
-||clifford-chance-consulting.com^
 ||clifford-chance-holding.com^
 ||clifford-chance-llp.uk^
 ||clifford-chance-uk.co^
@@ -19301,6 +19304,7 @@
 ||coingeckorewards.life^
 ||coingeckorewards.pw^
 ||coingeckorewards.space^
+||coingeckos.pages.dev^
 ||coingeckosocks.com^
 ||coingeckotoken.info^
 ||coingeckowallet.com^
@@ -28248,6 +28252,7 @@
 ||dthiq3nxdqfatmo.www.www.amazon.www.wiki.pancakeswape.finance^
 ||dtravel.polka-starter.com.pl^
 ||dtudao.com^
+||du.lacblanc.online^
 ||du1z2pl69.ukit.me^
 ||dual-near.org^
 ||dualboardmoonify.pages.dev^
@@ -32930,7 +32935,6 @@
 ||exoxilarooves.online^
 ||expecil.com^
 ||expedias.shop^
-||experiencejobless.com^
 ||expertcryptmine.com^
 ||expertelover.com^
 ||expertminingpools.com^
@@ -35892,6 +35896,8 @@
 ||gallery.ie^
 ||gallgenial.com^
 ||galmudugmof.so^
+||galp-profit-pt.online^
+||galp-profit-pt.world^
 ||galprofit.com^
 ||galxe-claim.com^
 ||galxe-drops.com^
@@ -37498,6 +37504,7 @@
 ||gm-ek.com^
 ||gm-generalmotors.com^
 ||gm-sustainable.com^
+||gm-uk.com^
 ||gma-c.godaddysites.com^
 ||gmdaostudio.vip-freemint.com^
 ||gmesolana.com^
@@ -48935,6 +48942,7 @@
 ||mastiffinu-promogive.com^
 ||mastodontereme.25u.com^
 ||mastopvent.site^
+||maszonebenef.com^
 ||mataemesk.top^
 ||matamaask.com^
 ||matamask.co^
@@ -68650,6 +68658,7 @@
 ||pankaige.com^
 ||pankaige.org^
 ||pankake-swap.com^
+||pankake.shop^
 ||pankakecwap.com^
 ||pankakesswap.com^
 ||pankakesswop.com^
@@ -69841,7 +69850,6 @@
 ||paxosapp.com^
 ||paxosbounty.com^
 ||paxosest.com^
-||paxosestm.com^
 ||paxosevct.com^
 ||paxosg.com^
 ||paxosgold.net^
@@ -69921,6 +69929,7 @@
 ||payb0lt.io^
 ||paybnb.club^
 ||paybnb.top^
+||paybyklarna.com^
 ||paybyklarna.de^
 ||paybyplatema.pro^
 ||paybyplatema.site^
@@ -76410,6 +76419,7 @@
 ||revoke-now.cash^
 ||revoke-paraswap.com^
 ||revoke-permit2.cash^
+||revoke-prisma.app^
 ||revoke-realio.com^
 ||revoke-security.net^
 ||revoke-shido.pages.dev^
@@ -80277,6 +80287,7 @@
 ||singularty.net^
 ||singup.maverlcks.co^
 ||sinistron.com.br^
+||siniytractor.com^
 ||sinkeffect.cc^
 ||sinkeffect.co^
 ||sinkeffect.info^
@@ -82329,6 +82340,7 @@
 ||squishiverse.vip^
 ||squishiversenft.xyz^
 ||squishysquadnft1-free.xyz^
+||sr.lacblanc.online^
 ||srfabricademoveisbraz.blogspot.com^
 ||srmpool.xyz^
 ||srnartgallery-promogive.com^
@@ -87567,6 +87579,7 @@
 ||ton-telegram.com^
 ||ton-telegram.net^
 ||ton-telegram.xyz^
+||ton-usd.net^
 ||ton-usdt.icu^
 ||ton-wallet.store^
 ||ton.fund^
@@ -92470,6 +92483,8 @@
 ||viralethereum-promogive.com^
 ||virgeeny.shop^
 ||virgin-awareness.com^
+||virginmoney-livechat.com^
+||virginmoney.business-liveapp.com^
 ||virginmoneybusinessbanking.com^
 ||virginmoneychatwithus.web.app^
 ||virginmoneylivechat.com^
@@ -103381,6 +103396,7 @@
 ||www.paxfuly.ltd^
 ||www.paxiful.com^
 ||www.paxonline.online^
+||www.paxos-web.com^
 ||www.paxosdapp.co^
 ||www.paxosweb.top^
 ||www.paxsecurity-paxful.com^
@@ -103509,7 +103525,6 @@
 ||www.pltumb.com^
 ||www.pluscex.io^
 ||www.plxf4l.fun^
-||www.pmaxw.com^
 ||www.pmooncoln.com^
 ||www.pndc0x.com^
 ||www.pnoocoin-swap.us^
@@ -104459,6 +104474,7 @@
 ||www.smatterentries.org^
 ||www.smipleswap.ws^
 ||www.smudge.money.nyanmemecoin.xyz^
+||www.sn.blaport.online^
 ||www.snapshot-multibit.com^
 ||www.sneedify.fund^
 ||www.sniperxbot.com^
