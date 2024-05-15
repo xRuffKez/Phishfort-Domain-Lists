@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May 15 06:04:47 UTC 2024
+# PhishFort Full Domain List - Wed May 15 12:06:43 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109494
+# Number of Entries: 109517
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3174,6 +3174,7 @@
 ||agodaaffiliate.com^
 ||agodaagency.com^
 ||agodabook.com^
+||agodabusiness.com^
 ||agodabusiness.pro^
 ||agodachina.cn^
 ||agodacs.online^
@@ -14026,6 +14027,7 @@
 ||bondex.bz^
 ||bondexapp.network^
 ||bondfold.help^
+||bondibackery.fun^
 ||bondinvest.site^
 ||bone-airdrops.org^
 ||boneclaims.com^
@@ -15413,6 +15415,7 @@
 ||buypad.top^
 ||buypaxful-offer.com^
 ||buyspx.com^
+||buyua.olx-shop.workers.dev^
 ||buyuniswap.xyz^
 ||buyverifiedaccounts.com^
 ||buywalletwebbronline.xyz^
@@ -34674,7 +34677,10 @@
 ||fractional-community.com^
 ||fractional-explore.com^
 ||frafchaincoldstorage.com^
+||fragment.ltd^
+||fragmentnft.net^
 ||fragments-nft.pro^
+||fragmrnt.com^
 ||fragnantinglev.life^
 ||frame-xyz.events^
 ||frame-xyz.gift^
@@ -34960,6 +34966,8 @@
 ||frostyfloki-promogive.com^
 ||froued.com^
 ||frp.bio^
+||frragment.com^
+||frragment.us^
 ||frrax.finance^
 ||frregge.com^
 ||frustpad.com^
@@ -63954,6 +63962,7 @@
 ||org-protocol-airdrop.com^
 ||org-site-v3-defi.pro^
 ||org-swap-pool.site^
+||org-tonaway.top^
 ||org-ubeswaps.com^
 ||orgderma.com^
 ||orgnlt.me^
@@ -75679,6 +75688,7 @@
 ||redlido.com^
 ||redliytefi.com^
 ||redmine.pancakeswape.finance^
+||redo-ton.com^
 ||redorned.za.com^
 ||redpulsetoken.co^
 ||redstonefi.net^
@@ -85582,6 +85592,7 @@
 ||tclink.net^
 ||tcm-telemarketing.nl^
 ||tcrustwallet.com^
+||tcs-plan.com^
 ||td1ppspnmuzwzrz.bot.pancakeswasap.one^
 ||td1ppspnmuzwzrz.www.bot.pancakeswasap.one^
 ||td34hiwuoyrvv1y.www.demo.pancakeswaps.it^
@@ -87548,6 +87559,7 @@
 ||ton-ico.com^
 ||ton-ico.ga^
 ||ton-kepeer.com^
+||ton-redo.com^
 ||ton-reward.com^
 ||ton-sale.com^
 ||ton-stn-app.xyz^
@@ -87589,29 +87601,39 @@
 ||tonkeepee.com^
 ||tonkeepeer.com^
 ||tonkeeper-fundsapproval.pages.dev^
+||tonkeeper-security.com^
 ||tonkeeper-walletapproval.pages.dev^
 ||tonkeeper-web.pages.dev^
 ||tonkeeper.bio^
 ||tonkeeper.business^
+||tonkeeper.cloud^
 ||tonkeeper.com-safe-transaction.pro^
 ||tonkeeper.dev^
 ||tonkeeper.domains^
 ||tonkeeper.eu^
 ||tonkeeper.help^
+||tonkeeper.homes^
 ||tonkeeper.host^
 ||tonkeeper.in^
 ||tonkeeper.io^
 ||tonkeeper.is^
 ||tonkeeper.life^
+||tonkeeper.live^
+||tonkeeper.ltd^
 ||tonkeeper.marketing^
+||tonkeeper.mom^
+||tonkeeper.one^
 ||tonkeeper.online^
 ||tonkeeper.pages.dev^
 ||tonkeeper.pl^
 ||tonkeeper.promo^
+||tonkeeper.store^
 ||tonkeeper.su^
 ||tonkeeper.support^
 ||tonkeeper.tech^
+||tonkeeper.trade^
 ||tonkeeper.uk^
+||tonkeeper.vip^
 ||tonkeeper.website^
 ||tonkeeperr.com^
 ||tonkeeperwallet.net^
@@ -98621,6 +98643,7 @@
 ||www.agoda8.com^
 ||www.agodaa-booking.com^
 ||www.agodabook.cc^
+||www.agodabusiness.com^
 ||www.agodabusiness.pro^
 ||www.agodachina.cn^
 ||www.agodapools.com^

@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May 15 06:04:47 UTC 2024
+# PhishFort Full Domain List - Wed May 15 12:06:43 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109494
+# Number of Entries: 109517
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3174,6 +3174,7 @@
 0.0.0.0 agodaaffiliate.com
 0.0.0.0 agodaagency.com
 0.0.0.0 agodabook.com
+0.0.0.0 agodabusiness.com
 0.0.0.0 agodabusiness.pro
 0.0.0.0 agodachina.cn
 0.0.0.0 agodacs.online
@@ -14026,6 +14027,7 @@
 0.0.0.0 bondex.bz
 0.0.0.0 bondexapp.network
 0.0.0.0 bondfold.help
+0.0.0.0 bondibackery.fun
 0.0.0.0 bondinvest.site
 0.0.0.0 bone-airdrops.org
 0.0.0.0 boneclaims.com
@@ -15413,6 +15415,7 @@
 0.0.0.0 buypad.top
 0.0.0.0 buypaxful-offer.com
 0.0.0.0 buyspx.com
+0.0.0.0 buyua.olx-shop.workers.dev
 0.0.0.0 buyuniswap.xyz
 0.0.0.0 buyverifiedaccounts.com
 0.0.0.0 buywalletwebbronline.xyz
@@ -34674,7 +34677,10 @@
 0.0.0.0 fractional-community.com
 0.0.0.0 fractional-explore.com
 0.0.0.0 frafchaincoldstorage.com
+0.0.0.0 fragment.ltd
+0.0.0.0 fragmentnft.net
 0.0.0.0 fragments-nft.pro
+0.0.0.0 fragmrnt.com
 0.0.0.0 fragnantinglev.life
 0.0.0.0 frame-xyz.events
 0.0.0.0 frame-xyz.gift
@@ -34960,6 +34966,8 @@
 0.0.0.0 frostyfloki-promogive.com
 0.0.0.0 froued.com
 0.0.0.0 frp.bio
+0.0.0.0 frragment.com
+0.0.0.0 frragment.us
 0.0.0.0 frrax.finance
 0.0.0.0 frregge.com
 0.0.0.0 frustpad.com
@@ -63954,6 +63962,7 @@
 0.0.0.0 org-protocol-airdrop.com
 0.0.0.0 org-site-v3-defi.pro
 0.0.0.0 org-swap-pool.site
+0.0.0.0 org-tonaway.top
 0.0.0.0 org-ubeswaps.com
 0.0.0.0 orgderma.com
 0.0.0.0 orgnlt.me
@@ -75679,6 +75688,7 @@
 0.0.0.0 redlido.com
 0.0.0.0 redliytefi.com
 0.0.0.0 redmine.pancakeswape.finance
+0.0.0.0 redo-ton.com
 0.0.0.0 redorned.za.com
 0.0.0.0 redpulsetoken.co
 0.0.0.0 redstonefi.net
@@ -85582,6 +85592,7 @@
 0.0.0.0 tclink.net
 0.0.0.0 tcm-telemarketing.nl
 0.0.0.0 tcrustwallet.com
+0.0.0.0 tcs-plan.com
 0.0.0.0 td1ppspnmuzwzrz.bot.pancakeswasap.one
 0.0.0.0 td1ppspnmuzwzrz.www.bot.pancakeswasap.one
 0.0.0.0 td34hiwuoyrvv1y.www.demo.pancakeswaps.it
@@ -87548,6 +87559,7 @@
 0.0.0.0 ton-ico.com
 0.0.0.0 ton-ico.ga
 0.0.0.0 ton-kepeer.com
+0.0.0.0 ton-redo.com
 0.0.0.0 ton-reward.com
 0.0.0.0 ton-sale.com
 0.0.0.0 ton-stn-app.xyz
@@ -87589,29 +87601,39 @@
 0.0.0.0 tonkeepee.com
 0.0.0.0 tonkeepeer.com
 0.0.0.0 tonkeeper-fundsapproval.pages.dev
+0.0.0.0 tonkeeper-security.com
 0.0.0.0 tonkeeper-walletapproval.pages.dev
 0.0.0.0 tonkeeper-web.pages.dev
 0.0.0.0 tonkeeper.bio
 0.0.0.0 tonkeeper.business
+0.0.0.0 tonkeeper.cloud
 0.0.0.0 tonkeeper.com-safe-transaction.pro
 0.0.0.0 tonkeeper.dev
 0.0.0.0 tonkeeper.domains
 0.0.0.0 tonkeeper.eu
 0.0.0.0 tonkeeper.help
+0.0.0.0 tonkeeper.homes
 0.0.0.0 tonkeeper.host
 0.0.0.0 tonkeeper.in
 0.0.0.0 tonkeeper.io
 0.0.0.0 tonkeeper.is
 0.0.0.0 tonkeeper.life
+0.0.0.0 tonkeeper.live
+0.0.0.0 tonkeeper.ltd
 0.0.0.0 tonkeeper.marketing
+0.0.0.0 tonkeeper.mom
+0.0.0.0 tonkeeper.one
 0.0.0.0 tonkeeper.online
 0.0.0.0 tonkeeper.pages.dev
 0.0.0.0 tonkeeper.pl
 0.0.0.0 tonkeeper.promo
+0.0.0.0 tonkeeper.store
 0.0.0.0 tonkeeper.su
 0.0.0.0 tonkeeper.support
 0.0.0.0 tonkeeper.tech
+0.0.0.0 tonkeeper.trade
 0.0.0.0 tonkeeper.uk
+0.0.0.0 tonkeeper.vip
 0.0.0.0 tonkeeper.website
 0.0.0.0 tonkeeperr.com
 0.0.0.0 tonkeeperwallet.net
@@ -98621,6 +98643,7 @@
 0.0.0.0 www.agoda8.com
 0.0.0.0 www.agodaa-booking.com
 0.0.0.0 www.agodabook.cc
+0.0.0.0 www.agodabusiness.com
 0.0.0.0 www.agodabusiness.pro
 0.0.0.0 www.agodachina.cn
 0.0.0.0 www.agodapools.com
