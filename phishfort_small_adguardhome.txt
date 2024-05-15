@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May 15 06:02:39 UTC 2024
+# PhishFort Small Domain List - Wed May 15 12:03:54 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 5910
+# Number of Entries: 5923
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -180,6 +180,7 @@
 ||agoda.tkffw888.icu^
 ||agoda.weboffer7181.com^
 ||agodaa-booking.com^
+||agodabusiness.com^
 ||agodabusiness.pro^
 ||agodahotel.cc^
 ||agodahotel.cyou^
@@ -536,7 +537,6 @@
 ||asset-collab.netlify.app^
 ||asset-validation.info^
 ||assetcweb.com^
-||assets-collabland.com^
 ||assiestwebcadbot.tech^
 ||assisted-hy.com^
 ||astar-network.com-t.co^
@@ -811,6 +811,7 @@
 ||bomebome.cc^
 ||bomeonsol.xyz^
 ||bondexapp.network^
+||bondibackery.fun^
 ||bonelp.com^
 ||bonk-premium.web.app^
 ||bonk-token.xyz^
@@ -820,7 +821,6 @@
 ||bopan.xyz^
 ||boson-faucet.pages.dev^
 ||bostonglobemediapr.com^
-||bots-collabland.pages.dev^
 ||bouyguesgroups.com^
 ||bouyguesiptv.fr^
 ||bovr8d.cc^
@@ -864,6 +864,7 @@
 ||butterfieldportal.com^
 ||buy.scottyai.org^
 ||buy1inch.org^
+||buyua.olx-shop.workers.dev^
 ||buzz-bsquared.store^
 ||buzz.bsquareed.online^
 ||bvutyf.pages.dev^
@@ -1036,7 +1037,6 @@
 ||claim-pancakaswap.web.app^
 ||claim-pancakeswap.web.app^
 ||claim-pancakeswep.firebaseapp.com^
-||claim-pancakeswep.web.app^
 ||claim-pandoshi.web.app^
 ||claim-pendlefinance.com^
 ||claim-poodlinu.pages.dev^
@@ -1762,7 +1762,6 @@
 ||event.stockcoin.top^
 ||event.velodrome-fi.xyz^
 ||events-altlayer.com^
-||events-mantanetwork.com^
 ||events-pancakeswap.finance^
 ||events-pandora.com^
 ||events-pendle.fi^
@@ -1898,12 +1897,17 @@
 ||fox-dao.web.app^
 ||fqb5hw.cn^
 ||fr-worldcoin.web.app^
+||fragment.ltd^
+||fragmentnft.net^
+||fragmrnt.com^
 ||free.bitzgroup.xyz^
 ||freeairdroppromo.tirupati-construction.com^
 ||freedompork.net^
 ||freestorecol.online^
 ||frontend2.vercel.app^
 ||frp.bio^
+||frragment.com^
+||frragment.us^
 ||fsafeds.combid.sa.com^
 ||fsafeds.comet.sa.com^
 ||fsafeds.comt.sa.com^
@@ -2692,7 +2696,6 @@
 ||mamasuimestmaorgst.com^
 ||manage.adoga-4262.com^
 ||manda-network.com^
-||manranetwcrk.com^
 ||mant-app.com^
 ||manta-1c8.pages.dev^
 ||manta-air.xyz^
@@ -2723,14 +2726,12 @@
 ||mantas-net.app^
 ||mantawebapp.pages.dev^
 ||mantax.pages.dev^
-||mantcnetwcrk.com^
 ||mantka-network.pics^
 ||mantla.online^
 ||mantle.claiming-link.site^
 ||mantle.oxecosystem.xyz^
 ||mantledao.net^
 ||mantletoday.xyz^
-||mantnetworks.com^
 ||manto-hetwork.com^
 ||mantrachains-io.pages.dev^
 ||manttanetwork.com^
@@ -3503,6 +3504,7 @@
 ||ordinalswallet-tqi6.onrender.com^
 ||ordiswaps.fi^
 ||ordivalifusion.pages.dev^
+||org-tonaway.top^
 ||orgderma.com^
 ||orgnlt.me^
 ||origindollar.net^
@@ -4121,6 +4123,7 @@
 ||rectifytrust.com^
 ||rectifywallet.42web.io^
 ||redirect-airtm.com^
+||redo-ton.com^
 ||redstonefi.net^
 ||reeboks.ink^
 ||reevoke.app^
@@ -4227,7 +4230,6 @@
 ||rewards-circle.com^
 ||rewards-emirates.com^
 ||rewards-ether.com^
-||rewards-mantanetwork.com^
 ||rewards-opsec.net^
 ||rewards-taiko.com^
 ||rewards.carrbify.com^
@@ -4764,6 +4766,7 @@
 ||taylorswiftmerchshop.us^
 ||taylorswiftmerchstore.net^
 ||taytaymerch.com^
+||tcs-plan.com^
 ||tdg7gr.pro^
 ||tdserv.com^
 ||tdsynnexs.com^
@@ -4857,6 +4860,7 @@
 ||ton-chain.top^
 ||ton-giveaway.art^
 ||ton-kepeer.com^
+||ton-redo.com^
 ||ton-telegram.click^
 ||ton-telegram.xyz^
 ||ton-usdt.icu^
@@ -4879,29 +4883,39 @@
 ||tonkeepee.com^
 ||tonkeepeer.com^
 ||tonkeeper-fundsapproval.pages.dev^
+||tonkeeper-security.com^
 ||tonkeeper-walletapproval.pages.dev^
 ||tonkeeper-web.pages.dev^
 ||tonkeeper.bio^
 ||tonkeeper.business^
+||tonkeeper.cloud^
 ||tonkeeper.com-safe-transaction.pro^
 ||tonkeeper.dev^
 ||tonkeeper.domains^
 ||tonkeeper.eu^
 ||tonkeeper.help^
+||tonkeeper.homes^
 ||tonkeeper.host^
 ||tonkeeper.in^
 ||tonkeeper.io^
 ||tonkeeper.is^
 ||tonkeeper.life^
+||tonkeeper.live^
+||tonkeeper.ltd^
 ||tonkeeper.marketing^
+||tonkeeper.mom^
+||tonkeeper.one^
 ||tonkeeper.online^
 ||tonkeeper.pages.dev^
 ||tonkeeper.pl^
 ||tonkeeper.promo^
+||tonkeeper.store^
 ||tonkeeper.su^
 ||tonkeeper.support^
 ||tonkeeper.tech^
+||tonkeeper.trade^
 ||tonkeeper.uk^
+||tonkeeper.vip^
 ||tonkeeper.website^
 ||tonkeeperr.com^
 ||tonkeeperwallet.net^
@@ -5459,6 +5473,7 @@
 ||www.agoda-vip.com^
 ||www.agoda.ycs.my.id^
 ||www.agodaa-booking.com^
+||www.agodabusiness.com^
 ||www.agodabusiness.pro^
 ||www.agodachina.cn^
 ||www.agodaycs.net^
@@ -5761,7 +5776,6 @@
 ||www.verifone-entire.com^
 ||www.verifoneentire.com^
 ||www.verify-collab-land.com^
-||www.verify-collabland.xyz^
 ||www.vip-asx.com^
 ||www.virtualsafetysolutions.net^
 ||www.viziosetup.com^
@@ -5832,7 +5846,6 @@
 ||y-predict.web.app^
 ||yasno-gov.pages.dev^
 ||ybixfed.pro^
-||ycs-agoda.cc^
 ||ycs-extranet.com^
 ||ycs.com-find-extra.com^
 ||ycsextranetagoda.com^

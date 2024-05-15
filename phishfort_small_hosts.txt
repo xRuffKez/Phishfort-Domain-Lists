@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May 15 06:02:39 UTC 2024
+# PhishFort Small Domain List - Wed May 15 12:03:54 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 5910
+# Number of Entries: 5923
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -180,6 +180,7 @@
 0.0.0.0 agoda.tkffw888.icu
 0.0.0.0 agoda.weboffer7181.com
 0.0.0.0 agodaa-booking.com
+0.0.0.0 agodabusiness.com
 0.0.0.0 agodabusiness.pro
 0.0.0.0 agodahotel.cc
 0.0.0.0 agodahotel.cyou
@@ -536,7 +537,6 @@
 0.0.0.0 asset-collab.netlify.app
 0.0.0.0 asset-validation.info
 0.0.0.0 assetcweb.com
-0.0.0.0 assets-collabland.com
 0.0.0.0 assiestwebcadbot.tech
 0.0.0.0 assisted-hy.com
 0.0.0.0 astar-network.com-t.co
@@ -811,6 +811,7 @@
 0.0.0.0 bomebome.cc
 0.0.0.0 bomeonsol.xyz
 0.0.0.0 bondexapp.network
+0.0.0.0 bondibackery.fun
 0.0.0.0 bonelp.com
 0.0.0.0 bonk-premium.web.app
 0.0.0.0 bonk-token.xyz
@@ -820,7 +821,6 @@
 0.0.0.0 bopan.xyz
 0.0.0.0 boson-faucet.pages.dev
 0.0.0.0 bostonglobemediapr.com
-0.0.0.0 bots-collabland.pages.dev
 0.0.0.0 bouyguesgroups.com
 0.0.0.0 bouyguesiptv.fr
 0.0.0.0 bovr8d.cc
@@ -864,6 +864,7 @@
 0.0.0.0 butterfieldportal.com
 0.0.0.0 buy.scottyai.org
 0.0.0.0 buy1inch.org
+0.0.0.0 buyua.olx-shop.workers.dev
 0.0.0.0 buzz-bsquared.store
 0.0.0.0 buzz.bsquareed.online
 0.0.0.0 bvutyf.pages.dev
@@ -1036,7 +1037,6 @@
 0.0.0.0 claim-pancakaswap.web.app
 0.0.0.0 claim-pancakeswap.web.app
 0.0.0.0 claim-pancakeswep.firebaseapp.com
-0.0.0.0 claim-pancakeswep.web.app
 0.0.0.0 claim-pandoshi.web.app
 0.0.0.0 claim-pendlefinance.com
 0.0.0.0 claim-poodlinu.pages.dev
@@ -1762,7 +1762,6 @@
 0.0.0.0 event.stockcoin.top
 0.0.0.0 event.velodrome-fi.xyz
 0.0.0.0 events-altlayer.com
-0.0.0.0 events-mantanetwork.com
 0.0.0.0 events-pancakeswap.finance
 0.0.0.0 events-pandora.com
 0.0.0.0 events-pendle.fi
@@ -1898,12 +1897,17 @@
 0.0.0.0 fox-dao.web.app
 0.0.0.0 fqb5hw.cn
 0.0.0.0 fr-worldcoin.web.app
+0.0.0.0 fragment.ltd
+0.0.0.0 fragmentnft.net
+0.0.0.0 fragmrnt.com
 0.0.0.0 free.bitzgroup.xyz
 0.0.0.0 freeairdroppromo.tirupati-construction.com
 0.0.0.0 freedompork.net
 0.0.0.0 freestorecol.online
 0.0.0.0 frontend2.vercel.app
 0.0.0.0 frp.bio
+0.0.0.0 frragment.com
+0.0.0.0 frragment.us
 0.0.0.0 fsafeds.combid.sa.com
 0.0.0.0 fsafeds.comet.sa.com
 0.0.0.0 fsafeds.comt.sa.com
@@ -2692,7 +2696,6 @@
 0.0.0.0 mamasuimestmaorgst.com
 0.0.0.0 manage.adoga-4262.com
 0.0.0.0 manda-network.com
-0.0.0.0 manranetwcrk.com
 0.0.0.0 mant-app.com
 0.0.0.0 manta-1c8.pages.dev
 0.0.0.0 manta-air.xyz
@@ -2723,14 +2726,12 @@
 0.0.0.0 mantas-net.app
 0.0.0.0 mantawebapp.pages.dev
 0.0.0.0 mantax.pages.dev
-0.0.0.0 mantcnetwcrk.com
 0.0.0.0 mantka-network.pics
 0.0.0.0 mantla.online
 0.0.0.0 mantle.claiming-link.site
 0.0.0.0 mantle.oxecosystem.xyz
 0.0.0.0 mantledao.net
 0.0.0.0 mantletoday.xyz
-0.0.0.0 mantnetworks.com
 0.0.0.0 manto-hetwork.com
 0.0.0.0 mantrachains-io.pages.dev
 0.0.0.0 manttanetwork.com
@@ -3503,6 +3504,7 @@
 0.0.0.0 ordinalswallet-tqi6.onrender.com
 0.0.0.0 ordiswaps.fi
 0.0.0.0 ordivalifusion.pages.dev
+0.0.0.0 org-tonaway.top
 0.0.0.0 orgderma.com
 0.0.0.0 orgnlt.me
 0.0.0.0 origindollar.net
@@ -4121,6 +4123,7 @@
 0.0.0.0 rectifytrust.com
 0.0.0.0 rectifywallet.42web.io
 0.0.0.0 redirect-airtm.com
+0.0.0.0 redo-ton.com
 0.0.0.0 redstonefi.net
 0.0.0.0 reeboks.ink
 0.0.0.0 reevoke.app
@@ -4227,7 +4230,6 @@
 0.0.0.0 rewards-circle.com
 0.0.0.0 rewards-emirates.com
 0.0.0.0 rewards-ether.com
-0.0.0.0 rewards-mantanetwork.com
 0.0.0.0 rewards-opsec.net
 0.0.0.0 rewards-taiko.com
 0.0.0.0 rewards.carrbify.com
@@ -4764,6 +4766,7 @@
 0.0.0.0 taylorswiftmerchshop.us
 0.0.0.0 taylorswiftmerchstore.net
 0.0.0.0 taytaymerch.com
+0.0.0.0 tcs-plan.com
 0.0.0.0 tdg7gr.pro
 0.0.0.0 tdserv.com
 0.0.0.0 tdsynnexs.com
@@ -4857,6 +4860,7 @@
 0.0.0.0 ton-chain.top
 0.0.0.0 ton-giveaway.art
 0.0.0.0 ton-kepeer.com
+0.0.0.0 ton-redo.com
 0.0.0.0 ton-telegram.click
 0.0.0.0 ton-telegram.xyz
 0.0.0.0 ton-usdt.icu
@@ -4879,29 +4883,39 @@
 0.0.0.0 tonkeepee.com
 0.0.0.0 tonkeepeer.com
 0.0.0.0 tonkeeper-fundsapproval.pages.dev
+0.0.0.0 tonkeeper-security.com
 0.0.0.0 tonkeeper-walletapproval.pages.dev
 0.0.0.0 tonkeeper-web.pages.dev
 0.0.0.0 tonkeeper.bio
 0.0.0.0 tonkeeper.business
+0.0.0.0 tonkeeper.cloud
 0.0.0.0 tonkeeper.com-safe-transaction.pro
 0.0.0.0 tonkeeper.dev
 0.0.0.0 tonkeeper.domains
 0.0.0.0 tonkeeper.eu
 0.0.0.0 tonkeeper.help
+0.0.0.0 tonkeeper.homes
 0.0.0.0 tonkeeper.host
 0.0.0.0 tonkeeper.in
 0.0.0.0 tonkeeper.io
 0.0.0.0 tonkeeper.is
 0.0.0.0 tonkeeper.life
+0.0.0.0 tonkeeper.live
+0.0.0.0 tonkeeper.ltd
 0.0.0.0 tonkeeper.marketing
+0.0.0.0 tonkeeper.mom
+0.0.0.0 tonkeeper.one
 0.0.0.0 tonkeeper.online
 0.0.0.0 tonkeeper.pages.dev
 0.0.0.0 tonkeeper.pl
 0.0.0.0 tonkeeper.promo
+0.0.0.0 tonkeeper.store
 0.0.0.0 tonkeeper.su
 0.0.0.0 tonkeeper.support
 0.0.0.0 tonkeeper.tech
+0.0.0.0 tonkeeper.trade
 0.0.0.0 tonkeeper.uk
+0.0.0.0 tonkeeper.vip
 0.0.0.0 tonkeeper.website
 0.0.0.0 tonkeeperr.com
 0.0.0.0 tonkeeperwallet.net
@@ -5459,6 +5473,7 @@
 0.0.0.0 www.agoda-vip.com
 0.0.0.0 www.agoda.ycs.my.id
 0.0.0.0 www.agodaa-booking.com
+0.0.0.0 www.agodabusiness.com
 0.0.0.0 www.agodabusiness.pro
 0.0.0.0 www.agodachina.cn
 0.0.0.0 www.agodaycs.net
@@ -5761,7 +5776,6 @@
 0.0.0.0 www.verifone-entire.com
 0.0.0.0 www.verifoneentire.com
 0.0.0.0 www.verify-collab-land.com
-0.0.0.0 www.verify-collabland.xyz
 0.0.0.0 www.vip-asx.com
 0.0.0.0 www.virtualsafetysolutions.net
 0.0.0.0 www.viziosetup.com
@@ -5832,7 +5846,6 @@
 0.0.0.0 y-predict.web.app
 0.0.0.0 yasno-gov.pages.dev
 0.0.0.0 ybixfed.pro
-0.0.0.0 ycs-agoda.cc
 0.0.0.0 ycs-extranet.com
 0.0.0.0 ycs.com-find-extra.com
 0.0.0.0 ycsextranetagoda.com
