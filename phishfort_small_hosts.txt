@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May 15 12:03:54 UTC 2024
+# PhishFort Small Domain List - Wed May 15 18:02:20 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 5923
+# Number of Entries: 5926
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -371,7 +371,6 @@
 0.0.0.0 api.kavaglobal.one
 0.0.0.0 api.kavashield.icu
 0.0.0.0 api05-collab.com
-0.0.0.0 api15vulcan.com
 0.0.0.0 apid.tiktokcz.com
 0.0.0.0 apisynchronizer.live
 0.0.0.0 apksave.me
@@ -658,6 +657,7 @@
 0.0.0.0 basedtrump-token-swap-restore.netlify.app
 0.0.0.0 batmansol.com
 0.0.0.0 baycarepatientportal.net
+0.0.0.0 bbd.sh
 0.0.0.0 bbl-get.com
 0.0.0.0 bbxo.duckdns.org
 0.0.0.0 bdb7.cc
@@ -689,6 +689,7 @@
 0.0.0.0 beta-opensea.com
 0.0.0.0 bezoeknummer0734859938.info
 0.0.0.0 bezoeknummer48912543221.info
+0.0.0.0 bi.lacblanc.online
 0.0.0.0 biasts.me
 0.0.0.0 biblecoderesearch.org
 0.0.0.0 bid-offer.org
@@ -836,6 +837,7 @@
 0.0.0.0 bratishkaa.com
 0.0.0.0 brave-blog.mylviajes.com.ve
 0.0.0.0 bravekto.com
+0.0.0.0 bremersecure.com
 0.0.0.0 bridge-a3vigrfjd-pancakeswap.vercel.app
 0.0.0.0 bridge.carier.xyz
 0.0.0.0 bridge.jumper.limo
@@ -983,8 +985,8 @@
 0.0.0.0 checker-whole.app
 0.0.0.0 checksart.top
 0.0.0.0 cheelee.io-5000-usd-air.info
-0.0.0.0 chendimassachoist.com
 0.0.0.0 chendimasslost.com
+0.0.0.0 chendumasst.com
 0.0.0.0 chensibenifitist.com
 0.0.0.0 chensymalst.com
 0.0.0.0 chevroletshopdrive.ws
@@ -1135,7 +1137,6 @@
 0.0.0.0 cldss.xyz
 0.0.0.0 cliamsolana.c3mongtho.edu.vn
 0.0.0.0 client.plataformainteractivebrokers.com
-0.0.0.0 clifford-chance-consulting.com
 0.0.0.0 clifford-chance-holding.com
 0.0.0.0 clifford-chance-llp.uk
 0.0.0.0 clifford-chance-w.com
@@ -1196,6 +1197,7 @@
 0.0.0.0 coingecko.kycregulations.com
 0.0.0.0 coingecko.kycregulatory.com
 0.0.0.0 coingeckokyc.kycregulatory.com
+0.0.0.0 coingeckos.pages.dev
 0.0.0.0 coinlist-subsquids.vercel.app
 0.0.0.0 coinlist.fun
 0.0.0.0 coinmainnets.com
@@ -1410,7 +1412,6 @@
 0.0.0.0 davicupo.site
 0.0.0.0 daviplatanotific.webcindario.com
 0.0.0.0 daviplataseeg.webcindario.com
-0.0.0.0 davitahealthcarepartners.com
 0.0.0.0 daviviendainforma.zya.me
 0.0.0.0 dbdefi-discover.com
 0.0.0.0 dbrs-fin.com
@@ -1570,6 +1571,7 @@
 0.0.0.0 dropxmulti.top
 0.0.0.0 dsadsadsadsaeq.pages.dev
 0.0.0.0 dsjgfsdjifsdjifsji.web.app
+0.0.0.0 du.lacblanc.online
 0.0.0.0 dualboardmoonify.pages.dev
 0.0.0.0 dualdappsconnect.pages.dev
 0.0.0.0 dumb-coin.fun
@@ -1739,7 +1741,6 @@
 0.0.0.0 ethmintairdrop.com
 0.0.0.0 ethna.vip
 0.0.0.0 ethnafinace-claimrewards.vercel.app
-0.0.0.0 ethnft.app
 0.0.0.0 ethorv.com
 0.0.0.0 ethpeg.com
 0.0.0.0 ethrefund.xyz
@@ -1784,7 +1785,6 @@
 0.0.0.0 exhibitus-inc.com
 0.0.0.0 exhibitusinc.com
 0.0.0.0 expedias.shop
-0.0.0.0 experiencejobless.com
 0.0.0.0 expertsolver.pages.dev
 0.0.0.0 expl2.firstchain-zksync-90ee95.zeeve.net
 0.0.0.0 exploremanta.pages.dev
@@ -1928,6 +1928,8 @@
 0.0.0.0 galagames-6nj.com
 0.0.0.0 galaxies.mantasnetworks.app
 0.0.0.0 galmudugmof.so
+0.0.0.0 galp-profit-pt.online
+0.0.0.0 galp-profit-pt.world
 0.0.0.0 galprofit.com
 0.0.0.0 galxe.co.bz
 0.0.0.0 galxe.pl
@@ -2021,6 +2023,7 @@
 0.0.0.0 gm-ck.com
 0.0.0.0 gm-dk.com
 0.0.0.0 gm-ek.com
+0.0.0.0 gm-uk.com
 0.0.0.0 gmn.dvrcam.info
 0.0.0.0 gmnt.org
 0.0.0.0 gmoassure.vip
@@ -2244,7 +2247,6 @@
 0.0.0.0 ing-bank.info
 0.0.0.0 ingb.online
 0.0.0.0 inggroupe1logen.blogspot.com
-0.0.0.0 ingonlineb.com
 0.0.0.0 ingres-ficohs-ahora.netlify.app
 0.0.0.0 ingresobienvnido.cloud
 0.0.0.0 injective-network-en.web.app
@@ -2673,7 +2675,6 @@
 0.0.0.0 mainnethub.firebaseapp.com
 0.0.0.0 mainnethub.web.app
 0.0.0.0 mainnetportal.org
-0.0.0.0 mainnets.vercel.app
 0.0.0.0 mainnetserver.site
 0.0.0.0 maintaincedojoswap.click
 0.0.0.0 maintech-pages.dev
@@ -2768,6 +2769,7 @@
 0.0.0.0 massulbenefitget.com
 0.0.0.0 massulonllnedet.org
 0.0.0.0 masterbrandtalent.com
+0.0.0.0 maszonebenef.com
 0.0.0.0 mate-mask.com
 0.0.0.0 matemank.io
 0.0.0.0 matemask.cc
@@ -3003,6 +3005,7 @@
 0.0.0.0 mew-wallet.com
 0.0.0.0 mew.best
 0.0.0.0 mewt-token-swap-restore.netlify.app
+0.0.0.0 mewwallet-landing-page.pages.dev
 0.0.0.0 mewwallet.cc
 0.0.0.0 mewwalletfix.pages.dev
 0.0.0.0 mfa-expiration-notification-authservices2fa.us-ord-1.linodeobjects.com
@@ -3239,7 +3242,6 @@
 0.0.0.0 myteam-defi3.com
 0.0.0.0 mytherwallet.com
 0.0.0.0 myuicombain.website
-0.0.0.0 myuiionlinedetmadma.info
 0.0.0.0 myverybenef.com
 0.0.0.0 mywalletexodus.com
 0.0.0.0 mywfmanager.com
@@ -3730,6 +3732,7 @@
 0.0.0.0 panexpode.com
 0.0.0.0 pangolin-x.com
 0.0.0.0 pankaceswap.tech
+0.0.0.0 pankake.shop
 0.0.0.0 pankcakeswap.com
 0.0.0.0 panteamspark.com
 0.0.0.0 pape-coin.net
@@ -3801,7 +3804,6 @@
 0.0.0.0 paxos-gold.net
 0.0.0.0 paxos-okta.com
 0.0.0.0 paxos-trades.com
-0.0.0.0 paxosestm.com
 0.0.0.0 paxosevct.com
 0.0.0.0 paxosg.com
 0.0.0.0 paxovdsa.com
@@ -3819,6 +3821,7 @@
 0.0.0.0 pay8-2v-gbz1keyte-ekontetevi-gmailcom.vercel.app
 0.0.0.0 pay8-2v-kbawr6w4i-ekontetevi-gmailcom.vercel.app
 0.0.0.0 paybnb.top
+0.0.0.0 paybyklarna.com
 0.0.0.0 paybyklarna.de
 0.0.0.0 paylink.fun.augusttarget.online
 0.0.0.0 paylocily.com
@@ -3854,7 +3857,6 @@
 0.0.0.0 pcylcalty.com
 0.0.0.0 pcylccity.com
 0.0.0.0 pcylcclty.com
-0.0.0.0 pcyloclty.com
 0.0.0.0 peapodsfinance.app
 0.0.0.0 peapodsstake.finance
 0.0.0.0 peaq-airdrop.vercel.app
@@ -3881,7 +3883,6 @@
 0.0.0.0 pepeairdrop.live
 0.0.0.0 pepeairdrop.world
 0.0.0.0 pepeairdrops.space
-0.0.0.0 pepechainx.com
 0.0.0.0 pepecoin2.net
 0.0.0.0 peplicator-nu.vercel.app
 0.0.0.0 pepsi-mall.com
@@ -3931,7 +3932,6 @@
 0.0.0.0 pixels-verify.pages.dev
 0.0.0.0 pixelsairdrop.com
 0.0.0.0 pixelsapp-play.xyz
-0.0.0.0 pixelscoin.com
 0.0.0.0 pixelsgame.world
 0.0.0.0 pixxelnft.eu
 0.0.0.0 pl.xpiym.shop
@@ -4199,6 +4199,7 @@
 0.0.0.0 revoke-eth.xyz
 0.0.0.0 revoke-etherscan.online
 0.0.0.0 revoke-paraswap.com
+0.0.0.0 revoke-prisma.app
 0.0.0.0 revoke-realio.com
 0.0.0.0 revoke-tips.com
 0.0.0.0 revoke.plus
@@ -4461,6 +4462,7 @@
 0.0.0.0 simplepairingapp.com
 0.0.0.0 sinbad.bio
 0.0.0.0 singularity-sale.net
+0.0.0.0 siniytractor.com
 0.0.0.0 siothana.o8l.xyz
 0.0.0.0 sitemap.allocation-ether.fi
 0.0.0.0 sk-sangvich.cyou
@@ -4566,6 +4568,7 @@
 0.0.0.0 springbokinfo.co.za
 0.0.0.0 sprooker.codefishstudio.com
 0.0.0.0 square-dream-wailing.on-fleek.app
+0.0.0.0 sr.lacblanc.online
 0.0.0.0 srsdistribution-us.com
 0.0.0.0 srtoos.com
 0.0.0.0 st.betiutima.online
@@ -4863,6 +4866,7 @@
 0.0.0.0 ton-redo.com
 0.0.0.0 ton-telegram.click
 0.0.0.0 ton-telegram.xyz
+0.0.0.0 ton-usd.net
 0.0.0.0 ton-usdt.icu
 0.0.0.0 ton.org-ethsendair.xyz
 0.0.0.0 tonblockchain.click
@@ -4974,7 +4978,6 @@
 0.0.0.0 tron-claim.top
 0.0.0.0 tronado.cash
 0.0.0.0 trrecoin.com
-0.0.0.0 trsutwallexension.godaddysites.com
 0.0.0.0 trudie.win
 0.0.0.0 truebit.gift
 0.0.0.0 truedapps.vercel.app
@@ -5028,7 +5031,6 @@
 0.0.0.0 ukvirginmoney-livechat.com
 0.0.0.0 ulgeturbfnow.com
 0.0.0.0 ulonlinedetma.org
-0.0.0.0 ultra-prismafinance.com
 0.0.0.0 umassuigovst.com
 0.0.0.0 umusic.co.in
 0.0.0.0 umusiceu.com
@@ -5164,6 +5166,8 @@
 0.0.0.0 vipnewmont.com
 0.0.0.0 virgeeny.shop
 0.0.0.0 virgin-awareness.com
+0.0.0.0 virginmoney-livechat.com
+0.0.0.0 virginmoney.business-liveapp.com
 0.0.0.0 virginmoneybusinessbanking.com
 0.0.0.0 virginmoneychatwithus.web.app
 0.0.0.0 virginmoneylivechat.com
@@ -5295,7 +5299,6 @@
 0.0.0.0 web3-bkex.top
 0.0.0.0 web3-cakedefi.com
 0.0.0.0 web3-cyptoo.com
-0.0.0.0 web3-ethereum.info
 0.0.0.0 web3-financialpcs.com
 0.0.0.0 web3-games.web.app
 0.0.0.0 web3-liquiditypools.com
@@ -5712,15 +5715,14 @@
 0.0.0.0 www.pandoshi.net.bakery-swap.com
 0.0.0.0 www.paxflapp.online
 0.0.0.0 www.paxful.instenpay.com
+0.0.0.0 www.paxos-web.com
 0.0.0.0 www.paxosweb.top
 0.0.0.0 www.penguinrandomshouse.com
 0.0.0.0 www.pepechain.info
 0.0.0.0 www.per-empower.com.affiliateadvantageventures.com
 0.0.0.0 www.personalles-accesoscolombia.online
 0.0.0.0 www.pfizer.i.ng.sba-sales.com.ng
-0.0.0.0 www.pmaxw.com
 0.0.0.0 www.pork-event.net
-0.0.0.0 www.portal-ait.tech
 0.0.0.0 www.portalcoin.join-airdrop.com
 0.0.0.0 www.prc-board.com
 0.0.0.0 www.provisionstrk.xyz
@@ -5746,6 +5748,7 @@
 0.0.0.0 www.smartlayer-claims.com
 0.0.0.0 www.smartlayer-claims.net
 0.0.0.0 www.smartweb3.live
+0.0.0.0 www.sn.blaport.online
 0.0.0.0 www.snapshot-multibit.com
 0.0.0.0 www.somethingbad.com
 0.0.0.0 www.st.blancui.online

@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May 15 12:03:54 UTC 2024
+# PhishFort Small Domain List - Wed May 15 18:02:20 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 5923
+# Number of Entries: 5926
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -371,7 +371,6 @@
 ||api.kavaglobal.one^
 ||api.kavashield.icu^
 ||api05-collab.com^
-||api15vulcan.com^
 ||apid.tiktokcz.com^
 ||apisynchronizer.live^
 ||apksave.me^
@@ -658,6 +657,7 @@
 ||basedtrump-token-swap-restore.netlify.app^
 ||batmansol.com^
 ||baycarepatientportal.net^
+||bbd.sh^
 ||bbl-get.com^
 ||bbxo.duckdns.org^
 ||bdb7.cc^
@@ -689,6 +689,7 @@
 ||beta-opensea.com^
 ||bezoeknummer0734859938.info^
 ||bezoeknummer48912543221.info^
+||bi.lacblanc.online^
 ||biasts.me^
 ||biblecoderesearch.org^
 ||bid-offer.org^
@@ -836,6 +837,7 @@
 ||bratishkaa.com^
 ||brave-blog.mylviajes.com.ve^
 ||bravekto.com^
+||bremersecure.com^
 ||bridge-a3vigrfjd-pancakeswap.vercel.app^
 ||bridge.carier.xyz^
 ||bridge.jumper.limo^
@@ -983,8 +985,8 @@
 ||checker-whole.app^
 ||checksart.top^
 ||cheelee.io-5000-usd-air.info^
-||chendimassachoist.com^
 ||chendimasslost.com^
+||chendumasst.com^
 ||chensibenifitist.com^
 ||chensymalst.com^
 ||chevroletshopdrive.ws^
@@ -1135,7 +1137,6 @@
 ||cldss.xyz^
 ||cliamsolana.c3mongtho.edu.vn^
 ||client.plataformainteractivebrokers.com^
-||clifford-chance-consulting.com^
 ||clifford-chance-holding.com^
 ||clifford-chance-llp.uk^
 ||clifford-chance-w.com^
@@ -1196,6 +1197,7 @@
 ||coingecko.kycregulations.com^
 ||coingecko.kycregulatory.com^
 ||coingeckokyc.kycregulatory.com^
+||coingeckos.pages.dev^
 ||coinlist-subsquids.vercel.app^
 ||coinlist.fun^
 ||coinmainnets.com^
@@ -1410,7 +1412,6 @@
 ||davicupo.site^
 ||daviplatanotific.webcindario.com^
 ||daviplataseeg.webcindario.com^
-||davitahealthcarepartners.com^
 ||daviviendainforma.zya.me^
 ||dbdefi-discover.com^
 ||dbrs-fin.com^
@@ -1570,6 +1571,7 @@
 ||dropxmulti.top^
 ||dsadsadsadsaeq.pages.dev^
 ||dsjgfsdjifsdjifsji.web.app^
+||du.lacblanc.online^
 ||dualboardmoonify.pages.dev^
 ||dualdappsconnect.pages.dev^
 ||dumb-coin.fun^
@@ -1739,7 +1741,6 @@
 ||ethmintairdrop.com^
 ||ethna.vip^
 ||ethnafinace-claimrewards.vercel.app^
-||ethnft.app^
 ||ethorv.com^
 ||ethpeg.com^
 ||ethrefund.xyz^
@@ -1784,7 +1785,6 @@
 ||exhibitus-inc.com^
 ||exhibitusinc.com^
 ||expedias.shop^
-||experiencejobless.com^
 ||expertsolver.pages.dev^
 ||expl2.firstchain-zksync-90ee95.zeeve.net^
 ||exploremanta.pages.dev^
@@ -1928,6 +1928,8 @@
 ||galagames-6nj.com^
 ||galaxies.mantasnetworks.app^
 ||galmudugmof.so^
+||galp-profit-pt.online^
+||galp-profit-pt.world^
 ||galprofit.com^
 ||galxe.co.bz^
 ||galxe.pl^
@@ -2021,6 +2023,7 @@
 ||gm-ck.com^
 ||gm-dk.com^
 ||gm-ek.com^
+||gm-uk.com^
 ||gmn.dvrcam.info^
 ||gmnt.org^
 ||gmoassure.vip^
@@ -2244,7 +2247,6 @@
 ||ing-bank.info^
 ||ingb.online^
 ||inggroupe1logen.blogspot.com^
-||ingonlineb.com^
 ||ingres-ficohs-ahora.netlify.app^
 ||ingresobienvnido.cloud^
 ||injective-network-en.web.app^
@@ -2673,7 +2675,6 @@
 ||mainnethub.firebaseapp.com^
 ||mainnethub.web.app^
 ||mainnetportal.org^
-||mainnets.vercel.app^
 ||mainnetserver.site^
 ||maintaincedojoswap.click^
 ||maintech-pages.dev^
@@ -2768,6 +2769,7 @@
 ||massulbenefitget.com^
 ||massulonllnedet.org^
 ||masterbrandtalent.com^
+||maszonebenef.com^
 ||mate-mask.com^
 ||matemank.io^
 ||matemask.cc^
@@ -3003,6 +3005,7 @@
 ||mew-wallet.com^
 ||mew.best^
 ||mewt-token-swap-restore.netlify.app^
+||mewwallet-landing-page.pages.dev^
 ||mewwallet.cc^
 ||mewwalletfix.pages.dev^
 ||mfa-expiration-notification-authservices2fa.us-ord-1.linodeobjects.com^
@@ -3239,7 +3242,6 @@
 ||myteam-defi3.com^
 ||mytherwallet.com^
 ||myuicombain.website^
-||myuiionlinedetmadma.info^
 ||myverybenef.com^
 ||mywalletexodus.com^
 ||mywfmanager.com^
@@ -3730,6 +3732,7 @@
 ||panexpode.com^
 ||pangolin-x.com^
 ||pankaceswap.tech^
+||pankake.shop^
 ||pankcakeswap.com^
 ||panteamspark.com^
 ||pape-coin.net^
@@ -3801,7 +3804,6 @@
 ||paxos-gold.net^
 ||paxos-okta.com^
 ||paxos-trades.com^
-||paxosestm.com^
 ||paxosevct.com^
 ||paxosg.com^
 ||paxovdsa.com^
@@ -3819,6 +3821,7 @@
 ||pay8-2v-gbz1keyte-ekontetevi-gmailcom.vercel.app^
 ||pay8-2v-kbawr6w4i-ekontetevi-gmailcom.vercel.app^
 ||paybnb.top^
+||paybyklarna.com^
 ||paybyklarna.de^
 ||paylink.fun.augusttarget.online^
 ||paylocily.com^
@@ -3854,7 +3857,6 @@
 ||pcylcalty.com^
 ||pcylccity.com^
 ||pcylcclty.com^
-||pcyloclty.com^
 ||peapodsfinance.app^
 ||peapodsstake.finance^
 ||peaq-airdrop.vercel.app^
@@ -3881,7 +3883,6 @@
 ||pepeairdrop.live^
 ||pepeairdrop.world^
 ||pepeairdrops.space^
-||pepechainx.com^
 ||pepecoin2.net^
 ||peplicator-nu.vercel.app^
 ||pepsi-mall.com^
@@ -3931,7 +3932,6 @@
 ||pixels-verify.pages.dev^
 ||pixelsairdrop.com^
 ||pixelsapp-play.xyz^
-||pixelscoin.com^
 ||pixelsgame.world^
 ||pixxelnft.eu^
 ||pl.xpiym.shop^
@@ -4199,6 +4199,7 @@
 ||revoke-eth.xyz^
 ||revoke-etherscan.online^
 ||revoke-paraswap.com^
+||revoke-prisma.app^
 ||revoke-realio.com^
 ||revoke-tips.com^
 ||revoke.plus^
@@ -4461,6 +4462,7 @@
 ||simplepairingapp.com^
 ||sinbad.bio^
 ||singularity-sale.net^
+||siniytractor.com^
 ||siothana.o8l.xyz^
 ||sitemap.allocation-ether.fi^
 ||sk-sangvich.cyou^
@@ -4566,6 +4568,7 @@
 ||springbokinfo.co.za^
 ||sprooker.codefishstudio.com^
 ||square-dream-wailing.on-fleek.app^
+||sr.lacblanc.online^
 ||srsdistribution-us.com^
 ||srtoos.com^
 ||st.betiutima.online^
@@ -4863,6 +4866,7 @@
 ||ton-redo.com^
 ||ton-telegram.click^
 ||ton-telegram.xyz^
+||ton-usd.net^
 ||ton-usdt.icu^
 ||ton.org-ethsendair.xyz^
 ||tonblockchain.click^
@@ -4974,7 +4978,6 @@
 ||tron-claim.top^
 ||tronado.cash^
 ||trrecoin.com^
-||trsutwallexension.godaddysites.com^
 ||trudie.win^
 ||truebit.gift^
 ||truedapps.vercel.app^
@@ -5028,7 +5031,6 @@
 ||ukvirginmoney-livechat.com^
 ||ulgeturbfnow.com^
 ||ulonlinedetma.org^
-||ultra-prismafinance.com^
 ||umassuigovst.com^
 ||umusic.co.in^
 ||umusiceu.com^
@@ -5164,6 +5166,8 @@
 ||vipnewmont.com^
 ||virgeeny.shop^
 ||virgin-awareness.com^
+||virginmoney-livechat.com^
+||virginmoney.business-liveapp.com^
 ||virginmoneybusinessbanking.com^
 ||virginmoneychatwithus.web.app^
 ||virginmoneylivechat.com^
@@ -5295,7 +5299,6 @@
 ||web3-bkex.top^
 ||web3-cakedefi.com^
 ||web3-cyptoo.com^
-||web3-ethereum.info^
 ||web3-financialpcs.com^
 ||web3-games.web.app^
 ||web3-liquiditypools.com^
@@ -5712,15 +5715,14 @@
 ||www.pandoshi.net.bakery-swap.com^
 ||www.paxflapp.online^
 ||www.paxful.instenpay.com^
+||www.paxos-web.com^
 ||www.paxosweb.top^
 ||www.penguinrandomshouse.com^
 ||www.pepechain.info^
 ||www.per-empower.com.affiliateadvantageventures.com^
 ||www.personalles-accesoscolombia.online^
 ||www.pfizer.i.ng.sba-sales.com.ng^
-||www.pmaxw.com^
 ||www.pork-event.net^
-||www.portal-ait.tech^
 ||www.portalcoin.join-airdrop.com^
 ||www.prc-board.com^
 ||www.provisionstrk.xyz^
@@ -5746,6 +5748,7 @@
 ||www.smartlayer-claims.com^
 ||www.smartlayer-claims.net^
 ||www.smartweb3.live^
+||www.sn.blaport.online^
 ||www.snapshot-multibit.com^
 ||www.somethingbad.com^
 ||www.st.blancui.online^
