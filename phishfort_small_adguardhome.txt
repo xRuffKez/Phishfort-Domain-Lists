@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May 14 18:02:20 UTC 2024
+# PhishFort Small Domain List - Wed May 15 00:07:31 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 5905
+# Number of Entries: 5903
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -376,7 +376,6 @@
 ||apid.tiktokcz.com^
 ||apisynchronizer.live^
 ||apksave.me^
-||apn.com.np^
 ||apnasecure.com^
 ||app-aerodorme.finance^
 ||app-angle.money^
@@ -818,7 +817,6 @@
 ||booking.agoda-checkout-id843753.com^
 ||bookinghotel-word.com^
 ||bopan.xyz^
-||borgverse.app^
 ||boson-faucet.pages.dev^
 ||bostonglobemediapr.com^
 ||bots-collabland.pages.dev^
@@ -1316,6 +1314,7 @@
 ||cryptovipweb30.top^
 ||cryptovipweb30.vip^
 ||cryptowrapped.cc^
+||cryt00-df.com^
 ||csagoda.co^
 ||csagoda.my.id^
 ||csagoda.store^
@@ -1577,6 +1576,7 @@
 ||durexwalletbridge.co.za^
 ||dvhuh.pages.dev^
 ||dvvnda.com^
+||dxq0.sa.com^
 ||dydconnect.click^
 ||dydxdao.net^
 ||dymension-approval.netlify.app^
@@ -1659,6 +1659,7 @@
 ||enstoken.net^
 ||entangle-fi.org^
 ||enter-wormhole.network^
+||enterpriserent.uk^
 ||entry.secureentry.live^
 ||enudeekc.one^
 ||eonexvip.com^
@@ -1764,7 +1765,6 @@
 ||events-pancakeswap.finance^
 ||events-pandora.com^
 ||events-pendle.fi^
-||evercorecapitalgroup.com^
 ||evercoregmbh.com^
 ||evernode-airdrop.com^
 ||everyconnects.com^
@@ -2149,6 +2149,7 @@
 ||hkasia-pooldefi.com^
 ||hlbtn-company.ltd^
 ||hlxfsx.com^
+||hmkcapqa.com^
 ||hntevent.com^
 ||hodl-checker.web.app^
 ||hodl-insight.net^
@@ -2830,7 +2831,6 @@
 ||memes-kombats.web.app^
 ||memeskombats.online^
 ||merative.site^
-||merc404.xyz^
 ||merchantserviceadvisers.com^
 ||mergeappseversd.pages.dev^
 ||mergeben.tech^
@@ -3427,7 +3427,6 @@
 ||opebnsea.io^
 ||opemnsea.io^
 ||open-6lz.pages.dev^
-||open-sea.systeme.io^
 ||open-seasclick.vercel.app^
 ||open-zkbridge.com^
 ||open2mysterybox.vercel.app^
@@ -3445,7 +3444,6 @@
 ||opensea-drainer.vercel.app^
 ||opensea-pronfts.vercel.app^
 ||opensea.app^
-||opensea.io.in^
 ||openseaclaim43.vercel.app^
 ||openseaclickclaims01.vercel.app^
 ||openseanft-projs.vercel.app^
@@ -3643,6 +3641,7 @@
 ||pancakeswap-platform.pages.dev^
 ||pancakeswap-pro.com^
 ||pancakeswap-proclaim.com^
+||pancakeswap-proclaimme.com^
 ||pancakeswap-prodrop.com^
 ||pancakeswap-server.com^
 ||pancakeswap-v3.pages.dev^
@@ -3761,6 +3760,7 @@
 ||paxful78291047.com.ng^
 ||paxful987.com^
 ||paxfula.com^
+||paxfulax.com^
 ||paxfulb.com^
 ||paxfulbb.com^
 ||paxfulbit.top^
@@ -3825,6 +3825,7 @@
 ||pcdefimy.com^
 ||pcearnweb3.com^
 ||pceme.cc^
+||pciassure.com^
 ||pckweb3-platform.com^
 ||pcs-cakexdefi.com^
 ||pcs-defistakeexc-v3.com^
@@ -3884,9 +3885,11 @@
 ||per-empower.com.affiliateadvantageventures.com^
 ||peraxel.com^
 ||perks-pepe.com^
+||perourhealth.com^
 ||perponschainrewards.pages.dev^
 ||persistent.com.es^
 ||persistrent.com^
+||peryour-health.live^
 ||peryourhealth.be^
 ||peryourhealth.biz^
 ||peryourhealth.blog^
@@ -4235,7 +4238,6 @@
 ||roachcoin.in^
 ||robopunksnft.cristovao.codes^
 ||rockelpool.net^
-||rocketpool.org^
 ||rocketpool.pro^
 ||rohp.cc^
 ||roinen-wallit.godaddysites.com^
@@ -4316,7 +4318,6 @@
 ||saksoff5tho.com^
 ||saksoff5thoi-ju.com^
 ||saksoff5thsales.com^
-||saksoff5thw.com^
 ||saksoff5thy-co.com^
 ||saksoff5thyy-kco.com^
 ||saksoff5thyyppl.top^
@@ -4369,7 +4370,6 @@
 ||seapro.tech^
 ||seatoken-airdrop.com^
 ||seatokenclaim.com^
-||seatsent.com^
 ||sebavip.com^
 ||sebotics.com^
 ||secondx.mypsx.net^
@@ -4882,9 +4882,11 @@
 ||tonkeeper.domains^
 ||tonkeeper.eu^
 ||tonkeeper.help^
+||tonkeeper.host^
 ||tonkeeper.in^
 ||tonkeeper.io^
 ||tonkeeper.is^
+||tonkeeper.life^
 ||tonkeeper.marketing^
 ||tonkeeper.online^
 ||tonkeeper.pages.dev^
@@ -5125,6 +5127,7 @@
 ||vermillion-chebakia-72b023.netlify.app^
 ||versity-token.finance^
 ||vertiv-ups-dy.cn^
+||vertiv-venture.com^
 ||vertiv.dns.cz^
 ||vertiv.jifang365.com^
 ||vertiv.mitarbeiterangebote.de^
@@ -5390,7 +5393,6 @@
 ||womensecretoutlet.shop^
 ||woo-fi.vercel.app^
 ||woofibit.space^
-||workforcenow.adp.returnlite.com^
 ||world-blast.com^
 ||worldcoin-token.org^
 ||worldfruitforest.world^
@@ -5624,7 +5626,6 @@
 ||www.mavia.comapp.yaya6.com^
 ||www.mavia.la^
 ||www.mavia.lc^
-||www.mavias.club^
 ||www.mavla.xyz^
 ||www.meetup.services^
 ||www.meta.pika.asia^
@@ -5692,7 +5693,6 @@
 ||www.paxosweb.top^
 ||www.penguinrandomshouse.com^
 ||www.pepechain.info^
-||www.pepeoncrack.fun^
 ||www.per-empower.com.affiliateadvantageventures.com^
 ||www.personalles-accesoscolombia.online^
 ||www.pfizer.i.ng.sba-sales.com.ng^
@@ -5719,7 +5719,6 @@
 ||www.seijpe.com^
 ||www.shibus.site^
 ||www.sinfutures.com^
-||www.smart-square.net^
 ||www.smartlayer-claim.com^
 ||www.smartlayer-claim.net^
 ||www.smartlayer-claims.com^
@@ -5801,7 +5800,6 @@
 ||xn--fxadfloat-05a.com^
 ||xn--fxedflaot-vpbc.com^
 ||xn--fxedflcoat-68a.com^
-||xn--fxedflloat-xub.com^
 ||xn--fxedflooad-68a.com^
 ||xn--fxedflooat-68a.net^
 ||xn--fxeldfloat-bub.com^

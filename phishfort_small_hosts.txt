@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Tue May 14 18:02:20 UTC 2024
+# PhishFort Small Domain List - Wed May 15 00:07:31 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 5905
+# Number of Entries: 5903
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -376,7 +376,6 @@
 0.0.0.0 apid.tiktokcz.com
 0.0.0.0 apisynchronizer.live
 0.0.0.0 apksave.me
-0.0.0.0 apn.com.np
 0.0.0.0 apnasecure.com
 0.0.0.0 app-aerodorme.finance
 0.0.0.0 app-angle.money
@@ -818,7 +817,6 @@
 0.0.0.0 booking.agoda-checkout-id843753.com
 0.0.0.0 bookinghotel-word.com
 0.0.0.0 bopan.xyz
-0.0.0.0 borgverse.app
 0.0.0.0 boson-faucet.pages.dev
 0.0.0.0 bostonglobemediapr.com
 0.0.0.0 bots-collabland.pages.dev
@@ -1316,6 +1314,7 @@
 0.0.0.0 cryptovipweb30.top
 0.0.0.0 cryptovipweb30.vip
 0.0.0.0 cryptowrapped.cc
+0.0.0.0 cryt00-df.com
 0.0.0.0 csagoda.co
 0.0.0.0 csagoda.my.id
 0.0.0.0 csagoda.store
@@ -1577,6 +1576,7 @@
 0.0.0.0 durexwalletbridge.co.za
 0.0.0.0 dvhuh.pages.dev
 0.0.0.0 dvvnda.com
+0.0.0.0 dxq0.sa.com
 0.0.0.0 dydconnect.click
 0.0.0.0 dydxdao.net
 0.0.0.0 dymension-approval.netlify.app
@@ -1659,6 +1659,7 @@
 0.0.0.0 enstoken.net
 0.0.0.0 entangle-fi.org
 0.0.0.0 enter-wormhole.network
+0.0.0.0 enterpriserent.uk
 0.0.0.0 entry.secureentry.live
 0.0.0.0 enudeekc.one
 0.0.0.0 eonexvip.com
@@ -1764,7 +1765,6 @@
 0.0.0.0 events-pancakeswap.finance
 0.0.0.0 events-pandora.com
 0.0.0.0 events-pendle.fi
-0.0.0.0 evercorecapitalgroup.com
 0.0.0.0 evercoregmbh.com
 0.0.0.0 evernode-airdrop.com
 0.0.0.0 everyconnects.com
@@ -2149,6 +2149,7 @@
 0.0.0.0 hkasia-pooldefi.com
 0.0.0.0 hlbtn-company.ltd
 0.0.0.0 hlxfsx.com
+0.0.0.0 hmkcapqa.com
 0.0.0.0 hntevent.com
 0.0.0.0 hodl-checker.web.app
 0.0.0.0 hodl-insight.net
@@ -2830,7 +2831,6 @@
 0.0.0.0 memes-kombats.web.app
 0.0.0.0 memeskombats.online
 0.0.0.0 merative.site
-0.0.0.0 merc404.xyz
 0.0.0.0 merchantserviceadvisers.com
 0.0.0.0 mergeappseversd.pages.dev
 0.0.0.0 mergeben.tech
@@ -3427,7 +3427,6 @@
 0.0.0.0 opebnsea.io
 0.0.0.0 opemnsea.io
 0.0.0.0 open-6lz.pages.dev
-0.0.0.0 open-sea.systeme.io
 0.0.0.0 open-seasclick.vercel.app
 0.0.0.0 open-zkbridge.com
 0.0.0.0 open2mysterybox.vercel.app
@@ -3445,7 +3444,6 @@
 0.0.0.0 opensea-drainer.vercel.app
 0.0.0.0 opensea-pronfts.vercel.app
 0.0.0.0 opensea.app
-0.0.0.0 opensea.io.in
 0.0.0.0 openseaclaim43.vercel.app
 0.0.0.0 openseaclickclaims01.vercel.app
 0.0.0.0 openseanft-projs.vercel.app
@@ -3643,6 +3641,7 @@
 0.0.0.0 pancakeswap-platform.pages.dev
 0.0.0.0 pancakeswap-pro.com
 0.0.0.0 pancakeswap-proclaim.com
+0.0.0.0 pancakeswap-proclaimme.com
 0.0.0.0 pancakeswap-prodrop.com
 0.0.0.0 pancakeswap-server.com
 0.0.0.0 pancakeswap-v3.pages.dev
@@ -3761,6 +3760,7 @@
 0.0.0.0 paxful78291047.com.ng
 0.0.0.0 paxful987.com
 0.0.0.0 paxfula.com
+0.0.0.0 paxfulax.com
 0.0.0.0 paxfulb.com
 0.0.0.0 paxfulbb.com
 0.0.0.0 paxfulbit.top
@@ -3825,6 +3825,7 @@
 0.0.0.0 pcdefimy.com
 0.0.0.0 pcearnweb3.com
 0.0.0.0 pceme.cc
+0.0.0.0 pciassure.com
 0.0.0.0 pckweb3-platform.com
 0.0.0.0 pcs-cakexdefi.com
 0.0.0.0 pcs-defistakeexc-v3.com
@@ -3884,9 +3885,11 @@
 0.0.0.0 per-empower.com.affiliateadvantageventures.com
 0.0.0.0 peraxel.com
 0.0.0.0 perks-pepe.com
+0.0.0.0 perourhealth.com
 0.0.0.0 perponschainrewards.pages.dev
 0.0.0.0 persistent.com.es
 0.0.0.0 persistrent.com
+0.0.0.0 peryour-health.live
 0.0.0.0 peryourhealth.be
 0.0.0.0 peryourhealth.biz
 0.0.0.0 peryourhealth.blog
@@ -4235,7 +4238,6 @@
 0.0.0.0 roachcoin.in
 0.0.0.0 robopunksnft.cristovao.codes
 0.0.0.0 rockelpool.net
-0.0.0.0 rocketpool.org
 0.0.0.0 rocketpool.pro
 0.0.0.0 rohp.cc
 0.0.0.0 roinen-wallit.godaddysites.com
@@ -4316,7 +4318,6 @@
 0.0.0.0 saksoff5tho.com
 0.0.0.0 saksoff5thoi-ju.com
 0.0.0.0 saksoff5thsales.com
-0.0.0.0 saksoff5thw.com
 0.0.0.0 saksoff5thy-co.com
 0.0.0.0 saksoff5thyy-kco.com
 0.0.0.0 saksoff5thyyppl.top
@@ -4369,7 +4370,6 @@
 0.0.0.0 seapro.tech
 0.0.0.0 seatoken-airdrop.com
 0.0.0.0 seatokenclaim.com
-0.0.0.0 seatsent.com
 0.0.0.0 sebavip.com
 0.0.0.0 sebotics.com
 0.0.0.0 secondx.mypsx.net
@@ -4882,9 +4882,11 @@
 0.0.0.0 tonkeeper.domains
 0.0.0.0 tonkeeper.eu
 0.0.0.0 tonkeeper.help
+0.0.0.0 tonkeeper.host
 0.0.0.0 tonkeeper.in
 0.0.0.0 tonkeeper.io
 0.0.0.0 tonkeeper.is
+0.0.0.0 tonkeeper.life
 0.0.0.0 tonkeeper.marketing
 0.0.0.0 tonkeeper.online
 0.0.0.0 tonkeeper.pages.dev
@@ -5125,6 +5127,7 @@
 0.0.0.0 vermillion-chebakia-72b023.netlify.app
 0.0.0.0 versity-token.finance
 0.0.0.0 vertiv-ups-dy.cn
+0.0.0.0 vertiv-venture.com
 0.0.0.0 vertiv.dns.cz
 0.0.0.0 vertiv.jifang365.com
 0.0.0.0 vertiv.mitarbeiterangebote.de
@@ -5390,7 +5393,6 @@
 0.0.0.0 womensecretoutlet.shop
 0.0.0.0 woo-fi.vercel.app
 0.0.0.0 woofibit.space
-0.0.0.0 workforcenow.adp.returnlite.com
 0.0.0.0 world-blast.com
 0.0.0.0 worldcoin-token.org
 0.0.0.0 worldfruitforest.world
@@ -5624,7 +5626,6 @@
 0.0.0.0 www.mavia.comapp.yaya6.com
 0.0.0.0 www.mavia.la
 0.0.0.0 www.mavia.lc
-0.0.0.0 www.mavias.club
 0.0.0.0 www.mavla.xyz
 0.0.0.0 www.meetup.services
 0.0.0.0 www.meta.pika.asia
@@ -5692,7 +5693,6 @@
 0.0.0.0 www.paxosweb.top
 0.0.0.0 www.penguinrandomshouse.com
 0.0.0.0 www.pepechain.info
-0.0.0.0 www.pepeoncrack.fun
 0.0.0.0 www.per-empower.com.affiliateadvantageventures.com
 0.0.0.0 www.personalles-accesoscolombia.online
 0.0.0.0 www.pfizer.i.ng.sba-sales.com.ng
@@ -5719,7 +5719,6 @@
 0.0.0.0 www.seijpe.com
 0.0.0.0 www.shibus.site
 0.0.0.0 www.sinfutures.com
-0.0.0.0 www.smart-square.net
 0.0.0.0 www.smartlayer-claim.com
 0.0.0.0 www.smartlayer-claim.net
 0.0.0.0 www.smartlayer-claims.com
@@ -5801,7 +5800,6 @@
 0.0.0.0 xn--fxadfloat-05a.com
 0.0.0.0 xn--fxedflaot-vpbc.com
 0.0.0.0 xn--fxedflcoat-68a.com
-0.0.0.0 xn--fxedflloat-xub.com
 0.0.0.0 xn--fxedflooad-68a.com
 0.0.0.0 xn--fxedflooat-68a.net
 0.0.0.0 xn--fxeldfloat-bub.com
