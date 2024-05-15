@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Tue May 14 18:04:28 UTC 2024
+# PhishFort Full Domain List - Wed May 15 00:15:12 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109472
+# Number of Entries: 109484
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -22618,6 +22618,7 @@
 0.0.0.0 crystalplay.io
 0.0.0.0 crystals-dash.com
 0.0.0.0 crystalwallet-promogive.com
+0.0.0.0 cryt00-df.com
 0.0.0.0 crytfxpro.com
 0.0.0.0 crytofxwallets.net
 0.0.0.0 crytorectify.net
@@ -28342,6 +28343,7 @@
 0.0.0.0 dxesla.app
 0.0.0.0 dxlink.net
 0.0.0.0 dxmanager.site
+0.0.0.0 dxq0.sa.com
 0.0.0.0 dxrsale.app
 0.0.0.0 dxsael.app
 0.0.0.0 dxsaie.app
@@ -29803,6 +29805,7 @@
 0.0.0.0 enter.ethereum-giveaway.net
 0.0.0.0 enter.play-metawin.com
 0.0.0.0 enternow.info
+0.0.0.0 enterpriserent.uk
 0.0.0.0 enterpriserentacar.shop
 0.0.0.0 entesporbrazzz.blogspot.com
 0.0.0.0 entitymultidappsolution.online
@@ -38907,6 +38910,7 @@
 0.0.0.0 hlxfsx.com
 0.0.0.0 hm.elegiac.site
 0.0.0.0 hm.flabbergast.site
+0.0.0.0 hmkcapqa.com
 0.0.0.0 hmqfoundation.com
 0.0.0.0 hmrc-crypto-gov-uk.com
 0.0.0.0 hmrcmeclaim.com
@@ -65759,6 +65763,7 @@
 0.0.0.0 pancakeswap-presaletoken-finance.com
 0.0.0.0 pancakeswap-pro.com
 0.0.0.0 pancakeswap-proclaim.com
+0.0.0.0 pancakeswap-proclaimme.com
 0.0.0.0 pancakeswap-prodrop.com
 0.0.0.0 pancakeswap-profile.online
 0.0.0.0 pancakeswap-promoute.com
@@ -69560,6 +69565,7 @@
 0.0.0.0 paxfulassist.com
 0.0.0.0 paxfulassistant.com
 0.0.0.0 paxfulassists.com
+0.0.0.0 paxfulax.com
 0.0.0.0 paxfulb.com
 0.0.0.0 paxfulbase.com
 0.0.0.0 paxfulbb.com
@@ -69987,6 +69993,7 @@
 0.0.0.0 pceme.cc
 0.0.0.0 pcertification.xyz
 0.0.0.0 pchocoishoes2.gq
+0.0.0.0 pciassure.com
 0.0.0.0 pckweb3-platform.com
 0.0.0.0 pcloudfxcrediteconnectverification.com
 0.0.0.0 pcncakeswap.com
@@ -70441,6 +70448,7 @@
 0.0.0.0 permission.get-flashloan.com
 0.0.0.0 permissions-revoke.com
 0.0.0.0 pernimt.com
+0.0.0.0 perourhealth.com
 0.0.0.0 perpetualprotocolofficial.click
 0.0.0.0 perpnft.xyz
 0.0.0.0 perponschainrewards.pages.dev
@@ -70461,6 +70469,7 @@
 0.0.0.0 perucotiza.com
 0.0.0.0 perurest.com
 0.0.0.0 perurhealth.com
+0.0.0.0 peryour-health.live
 0.0.0.0 peryourhealth.be
 0.0.0.0 peryourhealth.biz
 0.0.0.0 peryourhealth.blog
@@ -87580,9 +87589,11 @@
 0.0.0.0 tonkeeper.domains
 0.0.0.0 tonkeeper.eu
 0.0.0.0 tonkeeper.help
+0.0.0.0 tonkeeper.host
 0.0.0.0 tonkeeper.in
 0.0.0.0 tonkeeper.io
 0.0.0.0 tonkeeper.is
+0.0.0.0 tonkeeper.life
 0.0.0.0 tonkeeper.marketing
 0.0.0.0 tonkeeper.online
 0.0.0.0 tonkeeper.pages.dev
@@ -92285,6 +92296,7 @@
 0.0.0.0 vertiv-power.cn
 0.0.0.0 vertiv-power.com.cn
 0.0.0.0 vertiv-ups-dy.cn
+0.0.0.0 vertiv-venture.com
 0.0.0.0 vertiv-vertiv.com
 0.0.0.0 vertiv.dns.cz
 0.0.0.0 vertiv.jifang365.com

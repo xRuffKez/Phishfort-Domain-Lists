@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Tue May 14 18:04:28 UTC 2024
+# PhishFort Full Domain List - Wed May 15 00:15:12 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109472
+# Number of Entries: 109484
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -22617,6 +22617,7 @@ crystalfiles.ru
 crystalplay.io
 crystals-dash.com
 crystalwallet-promogive.com
+cryt00-df.com
 crytfxpro.com
 crytofxwallets.net
 crytorectify.net
@@ -28341,6 +28342,7 @@ dxdy-finance.dapp-links.com
 dxesla.app
 dxlink.net
 dxmanager.site
+dxq0.sa.com
 dxrsale.app
 dxsael.app
 dxsaie.app
@@ -29802,6 +29804,7 @@ enter-zkcsync.com
 enter.ethereum-giveaway.net
 enter.play-metawin.com
 enternow.info
+enterpriserent.uk
 enterpriserentacar.shop
 entesporbrazzz.blogspot.com
 entitymultidappsolution.online
@@ -38906,6 +38909,7 @@ hltbtc.online
 hlxfsx.com
 hm.elegiac.site
 hm.flabbergast.site
+hmkcapqa.com
 hmqfoundation.com
 hmrc-crypto-gov-uk.com
 hmrcmeclaim.com
@@ -65758,6 +65762,7 @@ pancakeswap-portaal.de
 pancakeswap-presaletoken-finance.com
 pancakeswap-pro.com
 pancakeswap-proclaim.com
+pancakeswap-proclaimme.com
 pancakeswap-prodrop.com
 pancakeswap-profile.online
 pancakeswap-promoute.com
@@ -69559,6 +69564,7 @@ paxfulasset.com
 paxfulassist.com
 paxfulassistant.com
 paxfulassists.com
+paxfulax.com
 paxfulb.com
 paxfulbase.com
 paxfulbb.com
@@ -69986,6 +69992,7 @@ pcearnweb3.com
 pceme.cc
 pcertification.xyz
 pchocoishoes2.gq
+pciassure.com
 pckweb3-platform.com
 pcloudfxcrediteconnectverification.com
 pcncakeswap.com
@@ -70440,6 +70447,7 @@ perminft.xyz
 permission.get-flashloan.com
 permissions-revoke.com
 pernimt.com
+perourhealth.com
 perpetualprotocolofficial.click
 perpnft.xyz
 perponschainrewards.pages.dev
@@ -70460,6 +70468,7 @@ perstbek.store
 perucotiza.com
 perurest.com
 perurhealth.com
+peryour-health.live
 peryourhealth.be
 peryourhealth.biz
 peryourhealth.blog
@@ -87579,9 +87588,11 @@ tonkeeper.dev
 tonkeeper.domains
 tonkeeper.eu
 tonkeeper.help
+tonkeeper.host
 tonkeeper.in
 tonkeeper.io
 tonkeeper.is
+tonkeeper.life
 tonkeeper.marketing
 tonkeeper.online
 tonkeeper.pages.dev
@@ -92284,6 +92295,7 @@ vertiv-emerson.com
 vertiv-power.cn
 vertiv-power.com.cn
 vertiv-ups-dy.cn
+vertiv-venture.com
 vertiv-vertiv.com
 vertiv.dns.cz
 vertiv.jifang365.com
