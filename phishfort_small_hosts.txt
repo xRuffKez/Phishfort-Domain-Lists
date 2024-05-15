@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May 15 00:07:31 UTC 2024
+# PhishFort Small Domain List - Wed May 15 06:02:39 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 5903
+# Number of Entries: 5910
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -22,7 +22,6 @@
 0.0.0.0 1ezagbg.cc
 0.0.0.0 1icnh.com
 0.0.0.0 1inch-app.org
-0.0.0.0 1inch-io.app
 0.0.0.0 1inch-io.xyz
 0.0.0.0 1inch-new-migration.com
 0.0.0.0 1inch-usdt.vip
@@ -180,7 +179,6 @@
 0.0.0.0 agoda.reserv19471.org
 0.0.0.0 agoda.tkffw888.icu
 0.0.0.0 agoda.weboffer7181.com
-0.0.0.0 agoda.ycs.my.id
 0.0.0.0 agodaa-booking.com
 0.0.0.0 agodabusiness.pro
 0.0.0.0 agodahotel.cc
@@ -602,6 +600,9 @@
 0.0.0.0 axieinfinity-rewards.com
 0.0.0.0 axieinfinlty.pages.dev
 0.0.0.0 axielnfinity.pages.dev
+0.0.0.0 axileilnfinity.com
+0.0.0.0 axileinfilnity.com
+0.0.0.0 axilelinfinity.com
 0.0.0.0 axonnet.xyz
 0.0.0.0 axs.ltd
 0.0.0.0 axstokenhub.com
@@ -887,7 +888,6 @@
 0.0.0.0 cake-distribution.net
 0.0.0.0 cake-magpiexyz.pages.dev
 0.0.0.0 cake-pies.org
-0.0.0.0 cake-rewards.online
 0.0.0.0 cake-swap.co
 0.0.0.0 cake-swapper.com
 0.0.0.0 cake.5degrees.io
@@ -1648,6 +1648,7 @@
 0.0.0.0 emiratesgroupae.online
 0.0.0.0 emiratesholiday.net
 0.0.0.0 emiratesvacationspackages.com
+0.0.0.0 emploerfirsstep.site
 0.0.0.0 empowerpersonalasset.com
 0.0.0.0 empowerprivateasset.com
 0.0.0.0 en.clcejuun.life
@@ -2173,6 +2174,7 @@
 0.0.0.0 humminglinkgg.world
 0.0.0.0 hunnerdimental.com
 0.0.0.0 hvqk.pro
+0.0.0.0 hw.eingeenuity.net
 0.0.0.0 hxig64w.pro
 0.0.0.0 hyper-liquid.com
 0.0.0.0 hyperpaytech.com
@@ -2506,6 +2508,7 @@
 0.0.0.0 lendingtreecalifornia.com
 0.0.0.0 lendingtreeincusa.com
 0.0.0.0 lendingtreellc.org
+0.0.0.0 lendingtrees.in
 0.0.0.0 lendingworld.online
 0.0.0.0 lengthepengkiller.xyz
 0.0.0.0 lfg-up.icu
@@ -3608,6 +3611,7 @@
 0.0.0.0 pancakesavp.org
 0.0.0.0 pancakesawpifnance.com
 0.0.0.0 pancakesdropcclaims36.vercel.app
+0.0.0.0 pancakesdropswaps84.vercel.app
 0.0.0.0 pancakesfinances-swap.pages.dev
 0.0.0.0 pancakesswap.in
 0.0.0.0 pancakesswap.info
@@ -3626,6 +3630,7 @@
 0.0.0.0 pancakeswap-claimnow.com
 0.0.0.0 pancakeswap-clone-nine.vercel.app
 0.0.0.0 pancakeswap-connect.xyz
+0.0.0.0 pancakeswap-drops17.vercel.app
 0.0.0.0 pancakeswap-earn.pro
 0.0.0.0 pancakeswap-exchange-testnet.netlify.app
 0.0.0.0 pancakeswap-finances.pages.dev
@@ -3671,6 +3676,7 @@
 0.0.0.0 pancakeswapdrop15.vercel.app
 0.0.0.0 pancakeswapdrop78.vercel.app
 0.0.0.0 pancakeswapdrops076.vercel.app
+0.0.0.0 pancakeswapdrops41.vercel.app
 0.0.0.0 pancakeswaper.app
 0.0.0.0 pancakeswapertoday.xyz
 0.0.0.0 pancakeswapes.finance
@@ -5000,6 +5006,7 @@
 0.0.0.0 uimplmassa.com
 0.0.0.0 uiolinemassprofilleupdate.dynamic-dns.net
 0.0.0.0 uionlinedet.com
+0.0.0.0 uionlinedutma.org
 0.0.0.0 uionlineheda.com
 0.0.0.0 uionlineletma.com
 0.0.0.0 uiredofmassucherndy.com

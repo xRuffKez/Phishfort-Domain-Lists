@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Wed May 15 00:07:31 UTC 2024
+# PhishFort Small Domain List - Wed May 15 06:02:39 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 5903
+# Number of Entries: 5910
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -21,7 +21,6 @@
 1ezagbg.cc
 1icnh.com
 1inch-app.org
-1inch-io.app
 1inch-io.xyz
 1inch-new-migration.com
 1inch-usdt.vip
@@ -179,7 +178,6 @@ agoda.res94219.com
 agoda.reserv19471.org
 agoda.tkffw888.icu
 agoda.weboffer7181.com
-agoda.ycs.my.id
 agodaa-booking.com
 agodabusiness.pro
 agodahotel.cc
@@ -601,6 +599,9 @@ axieinfinity-game.ru
 axieinfinity-rewards.com
 axieinfinlty.pages.dev
 axielnfinity.pages.dev
+axileilnfinity.com
+axileinfilnity.com
+axilelinfinity.com
 axonnet.xyz
 axs.ltd
 axstokenhub.com
@@ -886,7 +887,6 @@ cake-distibution-pancakeswap.com
 cake-distribution.net
 cake-magpiexyz.pages.dev
 cake-pies.org
-cake-rewards.online
 cake-swap.co
 cake-swapper.com
 cake.5degrees.io
@@ -1647,6 +1647,7 @@ emiratescashreward.com
 emiratesgroupae.online
 emiratesholiday.net
 emiratesvacationspackages.com
+emploerfirsstep.site
 empowerpersonalasset.com
 empowerprivateasset.com
 en.clcejuun.life
@@ -2172,6 +2173,7 @@ hubuoasys-games.com
 humminglinkgg.world
 hunnerdimental.com
 hvqk.pro
+hw.eingeenuity.net
 hxig64w.pro
 hyper-liquid.com
 hyperpaytech.com
@@ -2505,6 +2507,7 @@ lendingtree1.mydurable.com
 lendingtreecalifornia.com
 lendingtreeincusa.com
 lendingtreellc.org
+lendingtrees.in
 lendingworld.online
 lengthepengkiller.xyz
 lfg-up.icu
@@ -3607,6 +3610,7 @@ pancakes-swaps.pages.dev
 pancakesavp.org
 pancakesawpifnance.com
 pancakesdropcclaims36.vercel.app
+pancakesdropswaps84.vercel.app
 pancakesfinances-swap.pages.dev
 pancakesswap.in
 pancakesswap.info
@@ -3625,6 +3629,7 @@ pancakeswap-claimdrop.com
 pancakeswap-claimnow.com
 pancakeswap-clone-nine.vercel.app
 pancakeswap-connect.xyz
+pancakeswap-drops17.vercel.app
 pancakeswap-earn.pro
 pancakeswap-exchange-testnet.netlify.app
 pancakeswap-finances.pages.dev
@@ -3670,6 +3675,7 @@ pancakeswapdrop.com
 pancakeswapdrop15.vercel.app
 pancakeswapdrop78.vercel.app
 pancakeswapdrops076.vercel.app
+pancakeswapdrops41.vercel.app
 pancakeswaper.app
 pancakeswapertoday.xyz
 pancakeswapes.finance
@@ -4999,6 +5005,7 @@ uhrecruits.online
 uimplmassa.com
 uiolinemassprofilleupdate.dynamic-dns.net
 uionlinedet.com
+uionlinedutma.org
 uionlineheda.com
 uionlineletma.com
 uiredofmassucherndy.com
