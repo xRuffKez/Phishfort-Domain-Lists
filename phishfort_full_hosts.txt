@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May 15 18:04:26 UTC 2024
+# PhishFort Full Domain List - Thu May 16 00:14:36 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109533
+# Number of Entries: 109543
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -32935,6 +32935,7 @@
 0.0.0.0 exoxilarooves.online
 0.0.0.0 expecil.com
 0.0.0.0 expedias.shop
+0.0.0.0 experiencejobless.com
 0.0.0.0 expertcryptmine.com
 0.0.0.0 expertelover.com
 0.0.0.0 expertminingpools.com
@@ -37529,6 +37530,8 @@
 0.0.0.0 gmt-client-review-hotfix-nft-8ips22.gmt.yuca.digital
 0.0.0.0 gmt-token.online
 0.0.0.0 gmtcoinmeta.com
+0.0.0.0 gmvci.com
+0.0.0.0 gmvci.gmprog.com
 0.0.0.0 gmvendorbillinginterest.com
 0.0.0.0 gmvinpin.com
 0.0.0.0 gmws.eu
@@ -44381,6 +44384,7 @@
 0.0.0.0 lendingtreeincusa.com
 0.0.0.0 lendingtreellc.org
 0.0.0.0 lendingtreeloans.online
+0.0.0.0 lendingtreeloans.us
 0.0.0.0 lendingtrees.in
 0.0.0.0 lendingtreeusa.cloud
 0.0.0.0 lendingtreeusa.com
@@ -63797,6 +63801,7 @@
 0.0.0.0 optiverex.com
 0.0.0.0 optiveronline.com
 0.0.0.0 optiveronlinetrading.com
+0.0.0.0 optivers.cc
 0.0.0.0 optivertradeoptions.com
 0.0.0.0 optiverusdt.net
 0.0.0.0 optlmism.io
@@ -69657,6 +69662,7 @@
 0.0.0.0 paxfulinc.com
 0.0.0.0 paxfulinfo.com
 0.0.0.0 paxfulinfo.com.new-techy.com
+0.0.0.0 paxfulink.com
 0.0.0.0 paxfulintervenor.com
 0.0.0.0 paxfulinvest.co.ke
 0.0.0.0 paxfulj.com
@@ -69850,6 +69856,7 @@
 0.0.0.0 paxosapp.com
 0.0.0.0 paxosbounty.com
 0.0.0.0 paxosest.com
+0.0.0.0 paxosestm.com
 0.0.0.0 paxosevct.com
 0.0.0.0 paxosg.com
 0.0.0.0 paxosgold.net
@@ -78219,6 +78226,7 @@
 0.0.0.0 saksfifthavenueysl.com
 0.0.0.0 saksfifthavenuezone.com
 0.0.0.0 saksfifthpartner.com
+0.0.0.0 saksfifthshire.com
 0.0.0.0 saksof5th.club
 0.0.0.0 saksoff-55th.com
 0.0.0.0 saksoff.sakskoesad.com
@@ -78584,6 +78592,7 @@
 0.0.0.0 sce.team
 0.0.0.0 scex.rocks
 0.0.0.0 schain-defiint.org
+0.0.0.0 scheduleal.top
 0.0.0.0 schizoposters.nft-premint.com
 0.0.0.0 scholarfundhub.com
 0.0.0.0 schoolfirstcenter0reversalonline.duckdns.org
@@ -86156,6 +86165,7 @@
 0.0.0.0 test.pancokeswap.com
 0.0.0.0 test.paxful.mobi
 0.0.0.0 test.saf9gti25klom8xz79iyn2s.xyz
+0.0.0.0 test.saksoff5thyypptt.com
 0.0.0.0 test.stage.pancakeswape.finance
 0.0.0.0 test.superligapaxful.com
 0.0.0.0 test.support.pancakeswape.finance

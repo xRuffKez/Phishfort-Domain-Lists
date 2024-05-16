@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Wed May 15 18:04:26 UTC 2024
+# PhishFort Full Domain List - Thu May 16 00:14:36 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109533
+# Number of Entries: 109543
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -32935,6 +32935,7 @@
 ||exoxilarooves.online^
 ||expecil.com^
 ||expedias.shop^
+||experiencejobless.com^
 ||expertcryptmine.com^
 ||expertelover.com^
 ||expertminingpools.com^
@@ -37529,6 +37530,8 @@
 ||gmt-client-review-hotfix-nft-8ips22.gmt.yuca.digital^
 ||gmt-token.online^
 ||gmtcoinmeta.com^
+||gmvci.com^
+||gmvci.gmprog.com^
 ||gmvendorbillinginterest.com^
 ||gmvinpin.com^
 ||gmws.eu^
@@ -44381,6 +44384,7 @@
 ||lendingtreeincusa.com^
 ||lendingtreellc.org^
 ||lendingtreeloans.online^
+||lendingtreeloans.us^
 ||lendingtrees.in^
 ||lendingtreeusa.cloud^
 ||lendingtreeusa.com^
@@ -63797,6 +63801,7 @@
 ||optiverex.com^
 ||optiveronline.com^
 ||optiveronlinetrading.com^
+||optivers.cc^
 ||optivertradeoptions.com^
 ||optiverusdt.net^
 ||optlmism.io^
@@ -69657,6 +69662,7 @@
 ||paxfulinc.com^
 ||paxfulinfo.com^
 ||paxfulinfo.com.new-techy.com^
+||paxfulink.com^
 ||paxfulintervenor.com^
 ||paxfulinvest.co.ke^
 ||paxfulj.com^
@@ -69850,6 +69856,7 @@
 ||paxosapp.com^
 ||paxosbounty.com^
 ||paxosest.com^
+||paxosestm.com^
 ||paxosevct.com^
 ||paxosg.com^
 ||paxosgold.net^
@@ -78219,6 +78226,7 @@
 ||saksfifthavenueysl.com^
 ||saksfifthavenuezone.com^
 ||saksfifthpartner.com^
+||saksfifthshire.com^
 ||saksof5th.club^
 ||saksoff-55th.com^
 ||saksoff.sakskoesad.com^
@@ -78584,6 +78592,7 @@
 ||sce.team^
 ||scex.rocks^
 ||schain-defiint.org^
+||scheduleal.top^
 ||schizoposters.nft-premint.com^
 ||scholarfundhub.com^
 ||schoolfirstcenter0reversalonline.duckdns.org^
@@ -86156,6 +86165,7 @@
 ||test.pancokeswap.com^
 ||test.paxful.mobi^
 ||test.saf9gti25klom8xz79iyn2s.xyz^
+||test.saksoff5thyypptt.com^
 ||test.stage.pancakeswape.finance^
 ||test.superligapaxful.com^
 ||test.support.pancakeswape.finance^
