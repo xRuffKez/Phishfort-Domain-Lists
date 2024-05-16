@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May 16 06:02:12 UTC 2024
+# PhishFort Small Domain List - Thu May 16 12:03:08 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 5922
+# Number of Entries: 5917
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -22,6 +22,7 @@
 0.0.0.0 1ezagbg.cc
 0.0.0.0 1icnh.com
 0.0.0.0 1inch-app.org
+0.0.0.0 1inch-defi.vercel.app
 0.0.0.0 1inch-io.xyz
 0.0.0.0 1inch-new-migration.com
 0.0.0.0 1inch-usdt.vip
@@ -431,7 +432,6 @@
 0.0.0.0 app.earn-swellnetwork.com
 0.0.0.0 app.etheir.fi
 0.0.0.0 app.etherfi.us
-0.0.0.0 app.ethgas-refund.com
 0.0.0.0 app.expertcapitalsus.com
 0.0.0.0 app.financeglobal.trade
 0.0.0.0 app.ibkr-ex.com
@@ -860,6 +860,7 @@
 0.0.0.0 burtonwright.net
 0.0.0.0 butterfield-portal.com
 0.0.0.0 butterfieldportal.com
+0.0.0.0 buy.pro-olx-dostavka.workers.dev
 0.0.0.0 buy.scottyai.org
 0.0.0.0 buy1inch.org
 0.0.0.0 buyua.olx-shop.workers.dev
@@ -1176,7 +1177,6 @@
 0.0.0.0 coin-gcko.com
 0.0.0.0 coin-geko.com
 0.0.0.0 coin-multiresolve.firebaseapp.com
-0.0.0.0 coin-multiresolve.web.app
 0.0.0.0 coin-qr.to
 0.0.0.0 coin-swap.global
 0.0.0.0 coin.searchclaim.top
@@ -1222,6 +1222,7 @@
 0.0.0.0 collab-portal.com
 0.0.0.0 collab.bot-community.com
 0.0.0.0 collab.defender-system.com
+0.0.0.0 collab.land-role.com
 0.0.0.0 collab.land-verifeds.com
 0.0.0.0 collab.role-bot.net
 0.0.0.0 collab.web-role.com
@@ -1265,7 +1266,6 @@
 0.0.0.0 connect.gala-games.org
 0.0.0.0 connect.gatekava.top
 0.0.0.0 connect.web3authenticatehub.com
-0.0.0.0 connect1038.lol
 0.0.0.0 connectdappresolve.pages.dev
 0.0.0.0 connectdappsuniverse.click
 0.0.0.0 connectextension.info
@@ -1366,7 +1366,6 @@
 0.0.0.0 dappradar-ads-x.com
 0.0.0.0 dappradar.mom
 0.0.0.0 dappradar.qa
-0.0.0.0 dappradar.works
 0.0.0.0 dappradardrop.com
 0.0.0.0 dappradare.eu
 0.0.0.0 dapps-0auth.net
@@ -1377,7 +1376,6 @@
 0.0.0.0 dappsapi.pages.dev
 0.0.0.0 dappsdropclaim.com
 0.0.0.0 dappsfixed.pages.dev
-0.0.0.0 dappsfixerweb.42web.io
 0.0.0.0 dappsfixing.pages.dev
 0.0.0.0 dappslog.vercel.app
 0.0.0.0 dappsnodesauthenticator.com
@@ -1389,7 +1387,6 @@
 0.0.0.0 dappsxfix.pages.dev
 0.0.0.0 dappsyncrecovery.pages.dev
 0.0.0.0 dapptest-mindnetwork.firebaseapp.com
-0.0.0.0 dapptest-mindnetwork.web.app
 0.0.0.0 dappwalletnode.pages.dev
 0.0.0.0 dappx-connect.pages.dev
 0.0.0.0 dapradar.eu
@@ -1936,6 +1933,7 @@
 0.0.0.0 gamesgalina.shop
 0.0.0.0 gamestop-memes.web.app
 0.0.0.0 gamium.pages.dev
+0.0.0.0 gargpje62.ukit.me
 0.0.0.0 gas-claim-3ag1r.github.io
 0.0.0.0 gas-claim-4gcsj.github.io
 0.0.0.0 gas-claim-7oyyj.github.io
@@ -2720,8 +2718,6 @@
 0.0.0.0 manta8.pages.dev
 0.0.0.0 mantaclick.vercel.app
 0.0.0.0 mantanetwork.events
-0.0.0.0 mantao-network.life
-0.0.0.0 mantao-network.xyz
 0.0.0.0 mantas-net.app
 0.0.0.0 mantawebapp.pages.dev
 0.0.0.0 mantax.pages.dev
@@ -2838,6 +2834,7 @@
 0.0.0.0 merchantserviceadvisers.com
 0.0.0.0 mergeappseversd.pages.dev
 0.0.0.0 mergeben.tech
+0.0.0.0 mergesappsever.pages.dev
 0.0.0.0 merlin-chain-chi.vercel.app
 0.0.0.0 merlin.meson.fi
 0.0.0.0 merlinlayer.app
@@ -2853,7 +2850,6 @@
 0.0.0.0 meta2fa.io
 0.0.0.0 metabmasskus.azurewebsites.net
 0.0.0.0 metabolt.io
-0.0.0.0 metaconfirmed.io
 0.0.0.0 metaemaesk-waleet.godaddysites.com
 0.0.0.0 metaemaskk-wwallit.godaddysites.com
 0.0.0.0 metafix.vercel.app
@@ -4764,7 +4760,6 @@
 0.0.0.0 taobank.net
 0.0.0.0 tasfinancial.co
 0.0.0.0 tataconsultancy.in
-0.0.0.0 tataconsultants.com
 0.0.0.0 tawuniya.online-link.net
 0.0.0.0 taxltg.com
 0.0.0.0 taylorswiftmerchofficial.com
@@ -5174,6 +5169,7 @@
 0.0.0.0 virginmoneylivechat.com
 0.0.0.0 virginmoneylivesupport.com
 0.0.0.0 virginmoneysupport.com
+0.0.0.0 virginmoneysupportchat.com
 0.0.0.0 virginmoneyverify.web.app
 0.0.0.0 virtua.gift
 0.0.0.0 virtualsecrets.org
@@ -5258,7 +5254,6 @@
 0.0.0.0 walletconnectio.vercel.app
 0.0.0.0 walletdefi69.top
 0.0.0.0 walletresolution.com
-0.0.0.0 wallets-collabland.com
 0.0.0.0 walletsvalidate.vercel.app
 0.0.0.0 wallettrust.net
 0.0.0.0 walletverify-collab.land

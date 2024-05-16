@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Thu May 16 06:02:12 UTC 2024
+# PhishFort Small Domain List - Thu May 16 12:03:08 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 5922
+# Number of Entries: 5917
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -21,6 +21,7 @@
 1ezagbg.cc
 1icnh.com
 1inch-app.org
+1inch-defi.vercel.app
 1inch-io.xyz
 1inch-new-migration.com
 1inch-usdt.vip
@@ -430,7 +431,6 @@ app.defi-origin.com
 app.earn-swellnetwork.com
 app.etheir.fi
 app.etherfi.us
-app.ethgas-refund.com
 app.expertcapitalsus.com
 app.financeglobal.trade
 app.ibkr-ex.com
@@ -859,6 +859,7 @@ bursapimapen.com
 burtonwright.net
 butterfield-portal.com
 butterfieldportal.com
+buy.pro-olx-dostavka.workers.dev
 buy.scottyai.org
 buy1inch.org
 buyua.olx-shop.workers.dev
@@ -1175,7 +1176,6 @@ coin-base.events
 coin-gcko.com
 coin-geko.com
 coin-multiresolve.firebaseapp.com
-coin-multiresolve.web.app
 coin-qr.to
 coin-swap.global
 coin.searchclaim.top
@@ -1221,6 +1221,7 @@ collab-land.x10.bz
 collab-portal.com
 collab.bot-community.com
 collab.defender-system.com
+collab.land-role.com
 collab.land-verifeds.com
 collab.role-bot.net
 collab.web-role.com
@@ -1264,7 +1265,6 @@ connect.collabverify.xyz
 connect.gala-games.org
 connect.gatekava.top
 connect.web3authenticatehub.com
-connect1038.lol
 connectdappresolve.pages.dev
 connectdappsuniverse.click
 connectextension.info
@@ -1365,7 +1365,6 @@ dappnetsfp.com
 dappradar-ads-x.com
 dappradar.mom
 dappradar.qa
-dappradar.works
 dappradardrop.com
 dappradare.eu
 dapps-0auth.net
@@ -1376,7 +1375,6 @@ dapps.toolsynchr.online
 dappsapi.pages.dev
 dappsdropclaim.com
 dappsfixed.pages.dev
-dappsfixerweb.42web.io
 dappsfixing.pages.dev
 dappslog.vercel.app
 dappsnodesauthenticator.com
@@ -1388,7 +1386,6 @@ dappstaking.net
 dappsxfix.pages.dev
 dappsyncrecovery.pages.dev
 dapptest-mindnetwork.firebaseapp.com
-dapptest-mindnetwork.web.app
 dappwalletnode.pages.dev
 dappx-connect.pages.dev
 dapradar.eu
@@ -1935,6 +1932,7 @@ games-gala-xx.com
 gamesgalina.shop
 gamestop-memes.web.app
 gamium.pages.dev
+gargpje62.ukit.me
 gas-claim-3ag1r.github.io
 gas-claim-4gcsj.github.io
 gas-claim-7oyyj.github.io
@@ -2719,8 +2717,6 @@ manta7.pages.dev
 manta8.pages.dev
 mantaclick.vercel.app
 mantanetwork.events
-mantao-network.life
-mantao-network.xyz
 mantas-net.app
 mantawebapp.pages.dev
 mantax.pages.dev
@@ -2837,6 +2833,7 @@ merative.site
 merchantserviceadvisers.com
 mergeappseversd.pages.dev
 mergeben.tech
+mergesappsever.pages.dev
 merlin-chain-chi.vercel.app
 merlin.meson.fi
 merlinlayer.app
@@ -2852,7 +2849,6 @@ meta-safelogin.com
 meta2fa.io
 metabmasskus.azurewebsites.net
 metabolt.io
-metaconfirmed.io
 metaemaesk-waleet.godaddysites.com
 metaemaskk-wwallit.godaddysites.com
 metafix.vercel.app
@@ -4763,7 +4759,6 @@ taob-ai.com
 taobank.net
 tasfinancial.co
 tataconsultancy.in
-tataconsultants.com
 tawuniya.online-link.net
 taxltg.com
 taylorswiftmerchofficial.com
@@ -5173,6 +5168,7 @@ virginmoneychatwithus.web.app
 virginmoneylivechat.com
 virginmoneylivesupport.com
 virginmoneysupport.com
+virginmoneysupportchat.com
 virginmoneyverify.web.app
 virtua.gift
 virtualsecrets.org
@@ -5257,7 +5253,6 @@ walletconnect.dappsynchronizer.live
 walletconnectio.vercel.app
 walletdefi69.top
 walletresolution.com
-wallets-collabland.com
 walletsvalidate.vercel.app
 wallettrust.net
 walletverify-collab.land
