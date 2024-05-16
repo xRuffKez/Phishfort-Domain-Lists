@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Wed May 15 18:02:20 UTC 2024
+# PhishFort Small Domain List - Thu May 16 00:07:05 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 5926
+# Number of Entries: 5923
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -35,7 +35,6 @@
 0.0.0.0 1inchwallet.app
 0.0.0.0 1inchwallet.org
 0.0.0.0 1lnch-claim.com
-0.0.0.0 1lnch.network
 0.0.0.0 1yagodame.com
 0.0.0.0 2-fa-metmask.io
 0.0.0.0 24x7enterpriserental.agency
@@ -392,7 +391,6 @@
 0.0.0.0 app-kaspanet.com
 0.0.0.0 app-mdex.one
 0.0.0.0 app-metamask-kyc-auth.com
-0.0.0.0 app-metamsak-io-conditionapp.netlify.app
 0.0.0.0 app-nibirufi-checkers.vercel.app
 0.0.0.0 app-pacmoon.org
 0.0.0.0 app-pancakesvap.github.io
@@ -587,7 +585,6 @@
 0.0.0.0 autotecc.pages.dev
 0.0.0.0 autovalidateweb3.pages.dev
 0.0.0.0 avaxtoken.pro
-0.0.0.0 awesomestrawberry.za.com
 0.0.0.0 axie.valimrocha.workers.dev
 0.0.0.0 axiee-infinity.github.io
 0.0.0.0 axieinfinite.vip
@@ -627,7 +624,6 @@
 0.0.0.0 badge-chain.link
 0.0.0.0 badges-chain.link
 0.0.0.0 bafybeiacdlff4jtqcufouraliealwkunukjhozwiy7mdojmsq45xzswlri.ipfs.dweb.link
-0.0.0.0 bafybeianm7lllm6v2rpyuah5gzsh22gxfikab5ie3xei6f2n3ngfvsx524.ipfs.dweb.link
 0.0.0.0 bafybeiaqyixakyqz7ywj3o6yeug5bsxp5fro6s55uh32j4mmhrdrjgsluq.ipfs.dweb.link
 0.0.0.0 bafybeiar2pi2heiwfhdlbrulhqyy5oen5k2xx767xss7d5slu5rt3tdpia.ipfs.dweb.link
 0.0.0.0 bafybeic6j3arnlyilwq2grp6f4x25qzssdnluormxdmpzogfn2u7lytrxe.ipfs.dweb.link
@@ -1785,6 +1781,7 @@
 0.0.0.0 exhibitus-inc.com
 0.0.0.0 exhibitusinc.com
 0.0.0.0 expedias.shop
+0.0.0.0 experiencejobless.com
 0.0.0.0 expertsolver.pages.dev
 0.0.0.0 expl2.firstchain-zksync-90ee95.zeeve.net
 0.0.0.0 exploremanta.pages.dev
@@ -2027,6 +2024,8 @@
 0.0.0.0 gmn.dvrcam.info
 0.0.0.0 gmnt.org
 0.0.0.0 gmoassure.vip
+0.0.0.0 gmvci.com
+0.0.0.0 gmvci.gmprog.com
 0.0.0.0 gnfymrm14.ukit.me
 0.0.0.0 gnosis.gift
 0.0.0.0 go-bookingline.com
@@ -2171,7 +2170,6 @@
 0.0.0.0 horizonblue.firstlight.am
 0.0.0.0 horyksmassast.com
 0.0.0.0 hostbreno.com
-0.0.0.0 housexysounds.com
 0.0.0.0 howling-train-prehistoric.on-fleek.app
 0.0.0.0 hpwhmw10itwo.xyz
 0.0.0.0 ht52ik.top
@@ -2514,6 +2512,7 @@
 0.0.0.0 lendingtreecalifornia.com
 0.0.0.0 lendingtreeincusa.com
 0.0.0.0 lendingtreellc.org
+0.0.0.0 lendingtreeloans.us
 0.0.0.0 lendingtrees.in
 0.0.0.0 lendingworld.online
 0.0.0.0 lengthepengkiller.xyz
@@ -3238,7 +3237,6 @@
 0.0.0.0 mysteryopn.vercel.app
 0.0.0.0 mysticmonoliths.org
 0.0.0.0 mysupbenefits.com
-0.0.0.0 mysuperpayroll.com
 0.0.0.0 myteam-defi3.com
 0.0.0.0 mytherwallet.com
 0.0.0.0 myuicombain.website
@@ -3489,6 +3487,7 @@
 0.0.0.0 optiver-vip.com
 0.0.0.0 optiver-vipapp.vip
 0.0.0.0 optiver.cc
+0.0.0.0 optivers.cc
 0.0.0.0 optiverusdt.net
 0.0.0.0 optpodeg.com
 0.0.0.0 optqsou.com
@@ -3780,6 +3779,7 @@
 0.0.0.0 paxfulfe.com
 0.0.0.0 paxfulft.com
 0.0.0.0 paxfulhack.site
+0.0.0.0 paxfulink.com
 0.0.0.0 paxfulmj.com
 0.0.0.0 paxfulmk.com
 0.0.0.0 paxfulml.com
@@ -3804,6 +3804,7 @@
 0.0.0.0 paxos-gold.net
 0.0.0.0 paxos-okta.com
 0.0.0.0 paxos-trades.com
+0.0.0.0 paxosestm.com
 0.0.0.0 paxosevct.com
 0.0.0.0 paxosg.com
 0.0.0.0 paxovdsa.com
@@ -3909,7 +3910,6 @@
 0.0.0.0 phanntm-walluut.godaddysites.com
 0.0.0.0 phantjum.xyz
 0.0.0.0 phantomapp.support
-0.0.0.0 phantomm-ewallett.godaddysites.com
 0.0.0.0 phantomwaalet.godaddysites.com
 0.0.0.0 phantomzwalllet.godaddysites.com
 0.0.0.0 phantuumwaleet.godaddysites.com
@@ -4300,6 +4300,7 @@
 0.0.0.0 sakeoff5thus.com
 0.0.0.0 sakoff5thshop.com
 0.0.0.0 saksfifthpartner.com
+0.0.0.0 saksfifthshire.com
 0.0.0.0 saksof5th.club
 0.0.0.0 saksoff.sakskoesad.com
 0.0.0.0 saksoff05.com
@@ -4361,6 +4362,7 @@
 0.0.0.0 scansairdrops.ca
 0.0.0.0 scapemania.sale
 0.0.0.0 scburnet.okta.acmecorp.name
+0.0.0.0 scheduleal.top
 0.0.0.0 schoolfirstcenter0reversalonline.duckdns.org
 0.0.0.0 scorpioncasinos.pages.dev
 0.0.0.0 scotltytheai.xyz
@@ -4789,7 +4791,7 @@
 0.0.0.0 tesairdrop.online
 0.0.0.0 tesdt56n.pages.dev
 0.0.0.0 test-project-llfwf7bel-artemkk787-gmailcom.vercel.app
-0.0.0.0 test.saf9gti25klom8xz79iyn2s.xyz
+0.0.0.0 test.saksoff5thyypptt.com
 0.0.0.0 test.vortexcapitaltrade.com
 0.0.0.0 test3.amlbotscheck.site
 0.0.0.0 testingdrxx.web.app
@@ -5031,7 +5033,6 @@
 0.0.0.0 ukvirginmoney-livechat.com
 0.0.0.0 ulgeturbfnow.com
 0.0.0.0 ulonlinedetma.org
-0.0.0.0 umassuigovst.com
 0.0.0.0 umusic.co.in
 0.0.0.0 umusiceu.com
 0.0.0.0 umusicr.com
@@ -5403,7 +5404,6 @@
 0.0.0.0 whitelists-roninchain.com
 0.0.0.0 wi789.vip
 0.0.0.0 widget-additional.pages.dev
-0.0.0.0 wigggin.com
 0.0.0.0 wild.gift
 0.0.0.0 winnings-beam.net
 0.0.0.0 winsolana.org
@@ -5446,7 +5446,6 @@
 0.0.0.0 wwenser.xyz
 0.0.0.0 wwepunch.shop
 0.0.0.0 wwewatch.com
-0.0.0.0 www-1inch.top
 0.0.0.0 www-adpvantage.com
 0.0.0.0 www-adpworkforcenow.com
 0.0.0.0 www-ddao-v0-0-21.bb.dp.ua
@@ -5817,7 +5816,6 @@
 0.0.0.0 xn--fixedfaot-wpbe.com
 0.0.0.0 xn--fixedflaot-2ub.net
 0.0.0.0 xn--fixedflaot-xub.com
-0.0.0.0 xn--fixedfloat-3ub.com
 0.0.0.0 xn--fixedfoat-0pb.com
 0.0.0.0 xn--fixedfoat-wpb.com
 0.0.0.0 xn--flxedfloat-78a.com
@@ -5916,7 +5914,6 @@
 0.0.0.0 zksync-airdrop.one
 0.0.0.0 zksync-era-isa.nfts2.me
 0.0.0.0 zksync-era-zktv.nfts2.me
-0.0.0.0 zksync-now.com
 0.0.0.0 zksync.line.pm
 0.0.0.0 zksync.nirbhik.com
 0.0.0.0 zksynoc.github.io

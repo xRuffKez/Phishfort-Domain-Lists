@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Wed May 15 18:02:20 UTC 2024
+# PhishFort Small Domain List - Thu May 16 00:07:05 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 5926
+# Number of Entries: 5923
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -34,7 +34,6 @@
 1inchwallet.app
 1inchwallet.org
 1lnch-claim.com
-1lnch.network
 1yagodame.com
 2-fa-metmask.io
 24x7enterpriserental.agency
@@ -391,7 +390,6 @@ app-juilce.finance
 app-kaspanet.com
 app-mdex.one
 app-metamask-kyc-auth.com
-app-metamsak-io-conditionapp.netlify.app
 app-nibirufi-checkers.vercel.app
 app-pacmoon.org
 app-pancakesvap.github.io
@@ -586,7 +584,6 @@ autorestore.pages.dev
 autotecc.pages.dev
 autovalidateweb3.pages.dev
 avaxtoken.pro
-awesomestrawberry.za.com
 axie.valimrocha.workers.dev
 axiee-infinity.github.io
 axieinfinite.vip
@@ -626,7 +623,6 @@ bac-swappcoin.web.app
 badge-chain.link
 badges-chain.link
 bafybeiacdlff4jtqcufouraliealwkunukjhozwiy7mdojmsq45xzswlri.ipfs.dweb.link
-bafybeianm7lllm6v2rpyuah5gzsh22gxfikab5ie3xei6f2n3ngfvsx524.ipfs.dweb.link
 bafybeiaqyixakyqz7ywj3o6yeug5bsxp5fro6s55uh32j4mmhrdrjgsluq.ipfs.dweb.link
 bafybeiar2pi2heiwfhdlbrulhqyy5oen5k2xx767xss7d5slu5rt3tdpia.ipfs.dweb.link
 bafybeic6j3arnlyilwq2grp6f4x25qzssdnluormxdmpzogfn2u7lytrxe.ipfs.dweb.link
@@ -1784,6 +1780,7 @@ execnetinc.com
 exhibitus-inc.com
 exhibitusinc.com
 expedias.shop
+experiencejobless.com
 expertsolver.pages.dev
 expl2.firstchain-zksync-90ee95.zeeve.net
 exploremanta.pages.dev
@@ -2026,6 +2023,8 @@ gm-uk.com
 gmn.dvrcam.info
 gmnt.org
 gmoassure.vip
+gmvci.com
+gmvci.gmprog.com
 gnfymrm14.ukit.me
 gnosis.gift
 go-bookingline.com
@@ -2170,7 +2169,6 @@ hopper.travsrv.com
 horizonblue.firstlight.am
 horyksmassast.com
 hostbreno.com
-housexysounds.com
 howling-train-prehistoric.on-fleek.app
 hpwhmw10itwo.xyz
 ht52ik.top
@@ -2513,6 +2511,7 @@ lendingtree1.mydurable.com
 lendingtreecalifornia.com
 lendingtreeincusa.com
 lendingtreellc.org
+lendingtreeloans.us
 lendingtrees.in
 lendingworld.online
 lengthepengkiller.xyz
@@ -3237,7 +3236,6 @@ mysteryobox.vercel.app
 mysteryopn.vercel.app
 mysticmonoliths.org
 mysupbenefits.com
-mysuperpayroll.com
 myteam-defi3.com
 mytherwallet.com
 myuicombain.website
@@ -3488,6 +3486,7 @@ optimism4.com
 optiver-vip.com
 optiver-vipapp.vip
 optiver.cc
+optivers.cc
 optiverusdt.net
 optpodeg.com
 optqsou.com
@@ -3779,6 +3778,7 @@ paxfulcv.com
 paxfulfe.com
 paxfulft.com
 paxfulhack.site
+paxfulink.com
 paxfulmj.com
 paxfulmk.com
 paxfulml.com
@@ -3803,6 +3803,7 @@ paxos-eth.com
 paxos-gold.net
 paxos-okta.com
 paxos-trades.com
+paxosestm.com
 paxosevct.com
 paxosg.com
 paxovdsa.com
@@ -3908,7 +3909,6 @@ phammt.xyz
 phanntm-walluut.godaddysites.com
 phantjum.xyz
 phantomapp.support
-phantomm-ewallett.godaddysites.com
 phantomwaalet.godaddysites.com
 phantomzwalllet.godaddysites.com
 phantuumwaleet.godaddysites.com
@@ -4299,6 +4299,7 @@ saitapro.vercel.app
 sakeoff5thus.com
 sakoff5thshop.com
 saksfifthpartner.com
+saksfifthshire.com
 saksof5th.club
 saksoff.sakskoesad.com
 saksoff05.com
@@ -4360,6 +4361,7 @@ scallop-airdrop-claim.com
 scansairdrops.ca
 scapemania.sale
 scburnet.okta.acmecorp.name
+scheduleal.top
 schoolfirstcenter0reversalonline.duckdns.org
 scorpioncasinos.pages.dev
 scotltytheai.xyz
@@ -4788,7 +4790,7 @@ terra-claim.xyz
 tesairdrop.online
 tesdt56n.pages.dev
 test-project-llfwf7bel-artemkk787-gmailcom.vercel.app
-test.saf9gti25klom8xz79iyn2s.xyz
+test.saksoff5thyypptt.com
 test.vortexcapitaltrade.com
 test3.amlbotscheck.site
 testingdrxx.web.app
@@ -5030,7 +5032,6 @@ uk-applovinlife.com
 ukvirginmoney-livechat.com
 ulgeturbfnow.com
 ulonlinedetma.org
-umassuigovst.com
 umusic.co.in
 umusiceu.com
 umusicr.com
@@ -5402,7 +5403,6 @@ whitelists-redstone.com
 whitelists-roninchain.com
 wi789.vip
 widget-additional.pages.dev
-wigggin.com
 wild.gift
 winnings-beam.net
 winsolana.org
@@ -5445,7 +5445,6 @@ wwemerch.shop
 wwenser.xyz
 wwepunch.shop
 wwewatch.com
-www-1inch.top
 www-adpvantage.com
 www-adpworkforcenow.com
 www-ddao-v0-0-21.bb.dp.ua
@@ -5816,7 +5815,6 @@ xn--1nh-3la2a.com
 xn--fixedfaot-wpbe.com
 xn--fixedflaot-2ub.net
 xn--fixedflaot-xub.com
-xn--fixedfloat-3ub.com
 xn--fixedfoat-0pb.com
 xn--fixedfoat-wpb.com
 xn--flxedfloat-78a.com
@@ -5915,7 +5913,6 @@ zksync-airdrop.mooo.com
 zksync-airdrop.one
 zksync-era-isa.nfts2.me
 zksync-era-zktv.nfts2.me
-zksync-now.com
 zksync.line.pm
 zksync.nirbhik.com
 zksynoc.github.io
