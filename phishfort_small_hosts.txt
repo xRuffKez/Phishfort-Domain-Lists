@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May 16 00:07:05 UTC 2024
+# PhishFort Small Domain List - Thu May 16 06:02:12 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 5923
+# Number of Entries: 5922
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1622,7 +1622,6 @@
 0.0.0.0 ehajj.ph
 0.0.0.0 eigen-layer.live
 0.0.0.0 eigenfundation.com
-0.0.0.0 eigenlaver.magpiexyz.site
 0.0.0.0 eigenlayer-airdrop.claims
 0.0.0.0 eigenlayer-app-magpie-eigenpie-staking.kemi-g.com
 0.0.0.0 eigenlayers.club
@@ -3540,6 +3539,7 @@
 0.0.0.0 pacnoon.org
 0.0.0.0 padchain-gpt.org
 0.0.0.0 pagibighousingloancal.com
+0.0.0.0 paidwithklarna.com
 0.0.0.0 pair-explorerzerion0i.pages.dev
 0.0.0.0 pair-token-zerion0i.pages.dev
 0.0.0.0 palmai-tech-io.web.app
@@ -5406,7 +5406,6 @@
 0.0.0.0 widget-additional.pages.dev
 0.0.0.0 wild.gift
 0.0.0.0 winnings-beam.net
-0.0.0.0 winsolana.org
 0.0.0.0 wizink.app-cartaopt.site
 0.0.0.0 wizink.cartoespt-app.online
 0.0.0.0 wkkuail.vip
@@ -5568,7 +5567,6 @@
 0.0.0.0 www.du.normbyte.online
 0.0.0.0 www.du.uibits.online
 0.0.0.0 www.eigen-layer.sale
-0.0.0.0 www.eigenlaver.magpiexyz.site
 0.0.0.0 www.elettrovisiongroup.com
 0.0.0.0 www.emidiscount.top
 0.0.0.0 www.empassetsmanagement.com
@@ -5721,6 +5719,7 @@
 0.0.0.0 www.per-empower.com.affiliateadvantageventures.com
 0.0.0.0 www.personalles-accesoscolombia.online
 0.0.0.0 www.pfizer.i.ng.sba-sales.com.ng
+0.0.0.0 www.pmaxw.com
 0.0.0.0 www.pork-event.net
 0.0.0.0 www.portalcoin.join-airdrop.com
 0.0.0.0 www.prc-board.com

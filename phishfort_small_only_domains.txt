@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Thu May 16 00:07:05 UTC 2024
+# PhishFort Small Domain List - Thu May 16 06:02:12 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 5923
+# Number of Entries: 5922
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -1621,7 +1621,6 @@ egymonuments.net
 ehajj.ph
 eigen-layer.live
 eigenfundation.com
-eigenlaver.magpiexyz.site
 eigenlayer-airdrop.claims
 eigenlayer-app-magpie-eigenpie-staking.kemi-g.com
 eigenlayers.club
@@ -3539,6 +3538,7 @@ pacnoon.net
 pacnoon.org
 padchain-gpt.org
 pagibighousingloancal.com
+paidwithklarna.com
 pair-explorerzerion0i.pages.dev
 pair-token-zerion0i.pages.dev
 palmai-tech-io.web.app
@@ -5405,7 +5405,6 @@ wi789.vip
 widget-additional.pages.dev
 wild.gift
 winnings-beam.net
-winsolana.org
 wizink.app-cartaopt.site
 wizink.cartoespt-app.online
 wkkuail.vip
@@ -5567,7 +5566,6 @@ www.dex-bitconnect.lol
 www.du.normbyte.online
 www.du.uibits.online
 www.eigen-layer.sale
-www.eigenlaver.magpiexyz.site
 www.elettrovisiongroup.com
 www.emidiscount.top
 www.empassetsmanagement.com
@@ -5720,6 +5718,7 @@ www.pepechain.info
 www.per-empower.com.affiliateadvantageventures.com
 www.personalles-accesoscolombia.online
 www.pfizer.i.ng.sba-sales.com.ng
+www.pmaxw.com
 www.pork-event.net
 www.portalcoin.join-airdrop.com
 www.prc-board.com
