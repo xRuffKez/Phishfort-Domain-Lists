@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May 16 00:14:36 UTC 2024
+# PhishFort Full Domain List - Thu May 16 06:04:13 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109543
+# Number of Entries: 109545
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -64431,6 +64431,7 @@
 ||paidnetwork-giveaway.com^
 ||paidnetwork.app^
 ||paidnetwork.live^
+||paidwithklarna.com^
 ||paincacesvvip-api.com^
 ||paincaceswaep-funds.com^
 ||paincaceswep-api.com^
@@ -103535,6 +103536,7 @@
 ||www.pltumb.com^
 ||www.pluscex.io^
 ||www.plxf4l.fun^
+||www.pmaxw.com^
 ||www.pmooncoln.com^
 ||www.pndc0x.com^
 ||www.pnoocoin-swap.us^
