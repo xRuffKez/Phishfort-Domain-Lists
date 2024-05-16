@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May 16 12:06:02 UTC 2024
+# PhishFort Full Domain List - Thu May 16 18:04:22 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109553
+# Number of Entries: 109568
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -18066,6 +18066,7 @@
 0.0.0.0 clarkcconstruction.com
 0.0.0.0 clarkconsstruction.com
 0.0.0.0 clarkconstr.com
+0.0.0.0 clarkconstructiongroups.com
 0.0.0.0 clarkconstructions.us
 0.0.0.0 clarkconstructionusa.com
 0.0.0.0 clarkconstruvction.com
@@ -26680,6 +26681,7 @@
 0.0.0.0 detmaduama.com
 0.0.0.0 detmaea.com
 0.0.0.0 detmai.online
+0.0.0.0 detmaonlineben.com
 0.0.0.0 detmassagoverst.com
 0.0.0.0 detmassonline.com
 0.0.0.0 detmauibenefits.org
@@ -34552,6 +34554,7 @@
 0.0.0.0 forumssolana.tech
 0.0.0.0 forumstaratlas.com
 0.0.0.0 forward-myetherwallet.com
+0.0.0.0 forwardthinking.azurewebsites.net
 0.0.0.0 forxample.site
 0.0.0.0 fosbetmen.site
 0.0.0.0 fostertrip.info
@@ -34984,6 +34987,7 @@
 0.0.0.0 frutizbeach.space
 0.0.0.0 frvcommunity.com
 0.0.0.0 fs.pancakesvqp.com
+0.0.0.0 fsa.sa.com
 0.0.0.0 fsafeds.combid.sa.com
 0.0.0.0 fsafeds.comet.sa.com
 0.0.0.0 fsafeds.comt.sa.com
@@ -38407,6 +38411,7 @@
 0.0.0.0 he34a.ibarami.net
 0.0.0.0 he3xc.com
 0.0.0.0 healerwallet.com
+0.0.0.0 healhequlity.com
 0.0.0.0 healinghippies.xyz
 0.0.0.0 health-equity.click
 0.0.0.0 health-equity.pro
@@ -42194,6 +42199,7 @@
 0.0.0.0 kanyebtc.org
 0.0.0.0 kanyewest22.com
 0.0.0.0 kanyex2west.com
+0.0.0.0 kapadaster.com
 0.0.0.0 kaplr.app.wallet-keplr.app
 0.0.0.0 kapo43tegdgey5u7576565yegdhfhry5u5yrgeg.net
 0.0.0.0 kapsac.org
@@ -47939,6 +47945,7 @@
 0.0.0.0 mainetvalidator.com
 0.0.0.0 mainetwallet.com
 0.0.0.0 mainetwebapp.com
+0.0.0.0 mainfaucet.pages.dev
 0.0.0.0 mainfix.live
 0.0.0.0 mainfixchain.com
 0.0.0.0 mainfixup.info
@@ -65390,6 +65397,7 @@
 0.0.0.0 pancakeswap-airdrop022.vercel.app
 0.0.0.0 pancakeswap-airdropcampaign.finance
 0.0.0.0 pancakeswap-airdropclaim.vercel.app
+0.0.0.0 pancakeswap-airdrops01.vercel.app
 0.0.0.0 pancakeswap-amer.tech
 0.0.0.0 pancakeswap-amm.com
 0.0.0.0 pancakeswap-amoun.tech
@@ -67164,6 +67172,7 @@
 0.0.0.0 pancakeswapclean.pages.dev
 0.0.0.0 pancakeswapclick032.vercel.app
 0.0.0.0 pancakeswapclick04.vercel.app
+0.0.0.0 pancakeswapclicks870.vercel.app
 0.0.0.0 pancakeswapclient.com
 0.0.0.0 pancakeswapclone.com
 0.0.0.0 pancakeswapcnren.com
@@ -75824,6 +75833,7 @@
 0.0.0.0 register-layerzero-events.com
 0.0.0.0 register-lens.xyz
 0.0.0.0 register-lineabuild.com
+0.0.0.0 register-mantagalaxies.com
 0.0.0.0 register-mavprotocol.com
 0.0.0.0 register-mavprotocol.net
 0.0.0.0 register-meebits.com
@@ -78678,6 +78688,7 @@
 0.0.0.0 sdge-medical-baseline-application.com
 0.0.0.0 sdigital-mainethub.live
 0.0.0.0 sdn2sumberejo.sch
+0.0.0.0 sdw2u.com
 0.0.0.0 sea-airdrop.org
 0.0.0.0 sea-claim.live
 0.0.0.0 sea-gives.art
@@ -89516,6 +89527,7 @@
 0.0.0.0 unempliock.com
 0.0.0.0 unemplo.com
 0.0.0.0 unemploui.com
+0.0.0.0 uneploymentexasstys.com
 0.0.0.0 uneswap.pw
 0.0.0.0 unetiediaeriliences.shop
 0.0.0.0 unexts.com
@@ -92508,6 +92520,7 @@
 0.0.0.0 virginmoneylivechat.com
 0.0.0.0 virginmoneylivesupport.com
 0.0.0.0 virginmoneynetwork.com
+0.0.0.0 virginmoneyonlinechat.com
 0.0.0.0 virginmoneysupport.com
 0.0.0.0 virginmoneysupportchat.com
 0.0.0.0 virginmoneyverify.web.app
@@ -99157,6 +99170,7 @@
 0.0.0.0 www.artsblock.xyz
 0.0.0.0 www.aryanmodi.com
 0.0.0.0 www.asd.pendlefinance.app
+0.0.0.0 www.aseelwoter.com
 0.0.0.0 www.aset.com.pe
 0.0.0.0 www.ashleymadison-id.com
 0.0.0.0 www.ashleymadison.privetprofile.club
@@ -104598,6 +104612,7 @@
 0.0.0.0 www.specialmetals.in
 0.0.0.0 www.spherefinances.com
 0.0.0.0 www.spinecomfy.com
+0.0.0.0 www.spiritonsol.com
 0.0.0.0 www.spiritswap.digital
 0.0.0.0 www.spiritswep.finance
 0.0.0.0 www.spookysvvap.finance

@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Thu May 16 12:06:02 UTC 2024
+# PhishFort Full Domain List - Thu May 16 18:04:22 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109553
+# Number of Entries: 109568
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -18065,6 +18065,7 @@ clark-constructions.org
 clarkcconstruction.com
 clarkconsstruction.com
 clarkconstr.com
+clarkconstructiongroups.com
 clarkconstructions.us
 clarkconstructionusa.com
 clarkconstruvction.com
@@ -26679,6 +26680,7 @@ detma.online
 detmaduama.com
 detmaea.com
 detmai.online
+detmaonlineben.com
 detmassagoverst.com
 detmassonline.com
 detmauibenefits.org
@@ -34551,6 +34553,7 @@ forumssolana.support
 forumssolana.tech
 forumstaratlas.com
 forward-myetherwallet.com
+forwardthinking.azurewebsites.net
 forxample.site
 fosbetmen.site
 fostertrip.info
@@ -34983,6 +34986,7 @@ frustpad.com
 frutizbeach.space
 frvcommunity.com
 fs.pancakesvqp.com
+fsa.sa.com
 fsafeds.combid.sa.com
 fsafeds.comet.sa.com
 fsafeds.comt.sa.com
@@ -38406,6 +38410,7 @@ hdmiintl.org
 he34a.ibarami.net
 he3xc.com
 healerwallet.com
+healhequlity.com
 healinghippies.xyz
 health-equity.click
 health-equity.pro
@@ -42193,6 +42198,7 @@ kantv.social
 kanyebtc.org
 kanyewest22.com
 kanyex2west.com
+kapadaster.com
 kaplr.app.wallet-keplr.app
 kapo43tegdgey5u7576565yegdhfhry5u5yrgeg.net
 kapsac.org
@@ -47938,6 +47944,7 @@ mainetvalidationfix.netlify.app
 mainetvalidator.com
 mainetwallet.com
 mainetwebapp.com
+mainfaucet.pages.dev
 mainfix.live
 mainfixchain.com
 mainfixup.info
@@ -65389,6 +65396,7 @@ pancakeswap-airdrop.tech
 pancakeswap-airdrop022.vercel.app
 pancakeswap-airdropcampaign.finance
 pancakeswap-airdropclaim.vercel.app
+pancakeswap-airdrops01.vercel.app
 pancakeswap-amer.tech
 pancakeswap-amm.com
 pancakeswap-amoun.tech
@@ -67163,6 +67171,7 @@ pancakeswapclassic.finance
 pancakeswapclean.pages.dev
 pancakeswapclick032.vercel.app
 pancakeswapclick04.vercel.app
+pancakeswapclicks870.vercel.app
 pancakeswapclient.com
 pancakeswapclone.com
 pancakeswapcnren.com
@@ -75823,6 +75832,7 @@ register-klubx.com
 register-layerzero-events.com
 register-lens.xyz
 register-lineabuild.com
+register-mantagalaxies.com
 register-mavprotocol.com
 register-mavprotocol.net
 register-meebits.com
@@ -78677,6 +78687,7 @@ sdf34myetherwallet.site
 sdge-medical-baseline-application.com
 sdigital-mainethub.live
 sdn2sumberejo.sch
+sdw2u.com
 sea-airdrop.org
 sea-claim.live
 sea-gives.art
@@ -89515,6 +89526,7 @@ unemplioc.com
 unempliock.com
 unemplo.com
 unemploui.com
+uneploymentexasstys.com
 uneswap.pw
 unetiediaeriliences.shop
 unexts.com
@@ -92507,6 +92519,7 @@ virginmoneychatwithus.web.app
 virginmoneylivechat.com
 virginmoneylivesupport.com
 virginmoneynetwork.com
+virginmoneyonlinechat.com
 virginmoneysupport.com
 virginmoneysupportchat.com
 virginmoneyverify.web.app
@@ -99156,6 +99169,7 @@ www.artgobblerss.com
 www.artsblock.xyz
 www.aryanmodi.com
 www.asd.pendlefinance.app
+www.aseelwoter.com
 www.aset.com.pe
 www.ashleymadison-id.com
 www.ashleymadison.privetprofile.club
@@ -104597,6 +104611,7 @@ www.specialmetal.ir
 www.specialmetals.in
 www.spherefinances.com
 www.spinecomfy.com
+www.spiritonsol.com
 www.spiritswap.digital
 www.spiritswep.finance
 www.spookysvvap.finance
