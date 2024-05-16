@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May 16 12:03:08 UTC 2024
+# PhishFort Small Domain List - Thu May 16 18:02:15 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 5917
+# Number of Entries: 5922
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -527,7 +527,6 @@
 ||arkm.air-trastpad.top^
 ||arkm.t-wallets.top^
 ||armadorasanluis.com^
-||artegiron.co^
 ||artprocollect.pro^
 ||asals.info^
 ||asolgift.com^
@@ -1128,6 +1127,7 @@
 ||clarckconstruction.com^
 ||clark-constructions.org^
 ||clarkconstr.com^
+||clarkconstructiongroups.com^
 ||clarkcorstruction.com^
 ||clarkgroup-us.co^
 ||claynosaurz-nft.web.app^
@@ -1166,7 +1166,6 @@
 ||co-tbtcasojdhgsa.com^
 ||co.llab-land.icu^
 ||co.llab-lands.icu^
-||co.llabz.land^
 ||co11ab-1and.com^
 ||code-iq.com^
 ||codexchain.org^
@@ -1176,7 +1175,6 @@
 ||coin-base.events^
 ||coin-gcko.com^
 ||coin-geko.com^
-||coin-multiresolve.firebaseapp.com^
 ||coin-qr.to^
 ||coin-swap.global^
 ||coin.searchclaim.top^
@@ -1240,6 +1238,7 @@
 ||collabland.web-guard.net^
 ||collabland.x10.mx^
 ||collablandconnect.xyz^
+||collabverify-connect.pages.dev^
 ||collad-land.me^
 ||collbalnand.pages.dev^
 ||colleb-verify.xyz^
@@ -1258,7 +1257,6 @@
 ||connect-arbitrum.io^
 ||connect-collabs.com^
 ||connect-protocol.com^
-||connect-rpcdefi.com^
 ||connect.coilab.xyz^
 ||connect.collabiand.com^
 ||connect.collabland-web.com^
@@ -1266,6 +1264,7 @@
 ||connect.gala-games.org^
 ||connect.gatekava.top^
 ||connect.web3authenticatehub.com^
+||connect.xn--colab-m7a.land^
 ||connectdappresolve.pages.dev^
 ||connectdappsuniverse.click^
 ||connectextension.info^
@@ -1474,6 +1473,7 @@
 ||descontosgm.com^
 ||descriptionconnect.onrender.com^
 ||detma-secure.insystdetmaa.in^
+||detmaonlineben.com^
 ||detmassonline.com^
 ||detnmama.com^
 ||dev-nanocredito-daviplata.pantheonsite.io^
@@ -1562,7 +1562,6 @@
 ||dropdao-pro.web.app^
 ||dropnibiru.link^
 ||dropxmulti.top^
-||dsadsadsadsaeq.pages.dev^
 ||dsjgfsdjifsdjifsji.web.app^
 ||du.lacblanc.online^
 ||dualboardmoonify.pages.dev^
@@ -1884,6 +1883,7 @@
 ||forexgcoin-5.com^
 ||fortanetwork.eu^
 ||fortewebklap.pages.dev^
+||forwardthinking.azurewebsites.net^
 ||foundarb.xyz^
 ||fourseasonsmsk.ru^
 ||fox-club.xyz^
@@ -1901,6 +1901,7 @@
 ||frp.bio^
 ||frragment.com^
 ||frragment.us^
+||fsa.sa.com^
 ||fsafeds.combid.sa.com^
 ||fsafeds.comet.sa.com^
 ||fsafeds.comt.sa.com^
@@ -2113,6 +2114,7 @@
 ||hbar-distribution.com^
 ||hca-healthcare.com^
 ||hcahealthcarecorp.com^
+||healhequlity.com^
 ||health-equity.click^
 ||health-equity.pro^
 ||health-equity.sa.com^
@@ -2235,7 +2237,6 @@
 ||imtoken-qw.pro^
 ||imx-news.com^
 ||imxcoin.eu^
-||inaallert.com^
 ||incsribe.app^
 ||indeconnec.pages.dev^
 ||infiniteworks.net^
@@ -2367,7 +2368,6 @@
 ||jumperexchange.info^
 ||jumperexchange.xyz^
 ||jumpers-exchanges.xyz^
-||jumpers.trading^
 ||jumperweb3.pro^
 ||jupairdrop.com^
 ||jupcase.io^
@@ -2397,6 +2397,7 @@
 ||kamino-financec.one^
 ||kamino.life^
 ||kamno.finance^
+||kapadaster.com^
 ||karnatakaaromas.com^
 ||kasgca.com^
 ||katana-ronchain.com^
@@ -2507,7 +2508,6 @@
 ||lendingtree.website^
 ||lendingtree1.mydurable.com^
 ||lendingtreecalifornia.com^
-||lendingtreeincusa.com^
 ||lendingtreellc.org^
 ||lendingtreeloans.us^
 ||lendingtrees.in^
@@ -2658,6 +2658,7 @@
 ||mail.xn--pncakeswap-3gb.com^
 ||maindexapp.pages.dev^
 ||mainetnodeauth.pages.dev^
+||mainfaucet.pages.dev^
 ||mainfixchain.com^
 ||mainnet-blaster.com^
 ||mainnetapp.net^
@@ -2887,7 +2888,6 @@
 ||metamask.cool^
 ||metamask.firsthfb.com^
 ||metamask.fit^
-||metamask.grsrc.com^
 ||metamask.i98.xyz^
 ||metamask.imtoken.hk.cn^
 ||metamask.io.circletokenhub.com^
@@ -3083,7 +3083,6 @@
 ||moeamask.com^
 ||mogcoin-xyz.vercel.app^
 ||mohpn.com^
-||molina-healthcareinc.com^
 ||molinahealthcare.empyreandemo.com^
 ||monad--chain.com^
 ||mondoffices.com^
@@ -3372,7 +3371,6 @@
 ||o2-cert.com^
 ||o2-kundenverwaltung.info^
 ||o2-mobilefunkvetrag.de^
-||o2online-service.de^
 ||o2online.com.de^
 ||ob-app.com^
 ||obamacareenrollment.org^
@@ -3623,6 +3621,7 @@
 ||pancakeswap-airdrop-giveaway.com^
 ||pancakeswap-airdrop022.vercel.app^
 ||pancakeswap-airdropclaim.vercel.app^
+||pancakeswap-airdrops01.vercel.app^
 ||pancakeswap-app.com^
 ||pancakeswap-claim112.vercel.app^
 ||pancakeswap-claimdrop.com^
@@ -3670,6 +3669,7 @@
 ||pancakeswapclaimz96.vercel.app^
 ||pancakeswapclick032.vercel.app^
 ||pancakeswapclick04.vercel.app^
+||pancakeswapclicks870.vercel.app^
 ||pancakeswapcrypto.com^
 ||pancakeswapdrop.com^
 ||pancakeswapdrop15.vercel.app^
@@ -4133,6 +4133,7 @@
 ||reg-shido.app^
 ||regdioneprotocol.com^
 ||register-lineabuild.com^
+||register-mantagalaxies.com^
 ||register-qubic.org^
 ||register-smartlayer.network^
 ||register-snap.com^
@@ -4372,6 +4373,7 @@
 ||scrolli.space^
 ||scybautosolution.com^
 ||sdb-trk.0ybq.info^
+||sdw2u.com^
 ||sea-claim.live^
 ||sea-list.com^
 ||seapro.tech^
@@ -4759,7 +4761,6 @@
 ||taob-ai.com^
 ||taobank.net^
 ||tasfinancial.co^
-||tataconsultancy.in^
 ||tawuniya.online-link.net^
 ||taxltg.com^
 ||taylorswiftmerchofficial.com^
@@ -5033,6 +5034,7 @@
 ||umusicr.com^
 ||unapatches.com^
 ||unblock.pancakeswaapfinance.net^
+||uneploymentexasstys.com^
 ||unfi-incs.com^
 ||uni-swap-v4.web.app^
 ||uni.mrr7.za.com^
@@ -5168,6 +5170,7 @@
 ||virginmoneychatwithus.web.app^
 ||virginmoneylivechat.com^
 ||virginmoneylivesupport.com^
+||virginmoneyonlinechat.com^
 ||virginmoneysupport.com^
 ||virginmoneysupportchat.com^
 ||virginmoneyverify.web.app^
@@ -5501,6 +5504,7 @@
 ||www.applovin.pro^
 ||www.appscallop.io^
 ||www.appsofamon.xyz^
+||www.aseelwoter.com^
 ||www.assets-gate.com^
 ||www.asx-danman.top^
 ||www.asx-exs.com^
@@ -5744,6 +5748,7 @@
 ||www.sn.blaport.online^
 ||www.snapshot-multibit.com^
 ||www.somethingbad.com^
+||www.spiritonsol.com^
 ||www.st.blancui.online^
 ||www.st.uiworth.online^
 ||www.staging.chat.login.fixedfloat.pw^

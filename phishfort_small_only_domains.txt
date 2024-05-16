@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Thu May 16 12:03:08 UTC 2024
+# PhishFort Small Domain List - Thu May 16 18:02:15 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 5917
+# Number of Entries: 5922
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -526,7 +526,6 @@ areyoubullishsol.io
 arkm.air-trastpad.top
 arkm.t-wallets.top
 armadorasanluis.com
-artegiron.co
 artprocollect.pro
 asals.info
 asolgift.com
@@ -1127,6 +1126,7 @@ claimzeriondapps.pages.dev
 clarckconstruction.com
 clark-constructions.org
 clarkconstr.com
+clarkconstructiongroups.com
 clarkcorstruction.com
 clarkgroup-us.co
 claynosaurz-nft.web.app
@@ -1165,7 +1165,6 @@ cndipn.pro
 co-tbtcasojdhgsa.com
 co.llab-land.icu
 co.llab-lands.icu
-co.llabz.land
 co11ab-1and.com
 code-iq.com
 codexchain.org
@@ -1175,7 +1174,6 @@ coiauthapp.pages.dev
 coin-base.events
 coin-gcko.com
 coin-geko.com
-coin-multiresolve.firebaseapp.com
 coin-qr.to
 coin-swap.global
 coin.searchclaim.top
@@ -1239,6 +1237,7 @@ collabland.role-guard.com
 collabland.web-guard.net
 collabland.x10.mx
 collablandconnect.xyz
+collabverify-connect.pages.dev
 collad-land.me
 collbalnand.pages.dev
 colleb-verify.xyz
@@ -1257,7 +1256,6 @@ confulxnetwork.info
 connect-arbitrum.io
 connect-collabs.com
 connect-protocol.com
-connect-rpcdefi.com
 connect.coilab.xyz
 connect.collabiand.com
 connect.collabland-web.com
@@ -1265,6 +1263,7 @@ connect.collabverify.xyz
 connect.gala-games.org
 connect.gatekava.top
 connect.web3authenticatehub.com
+connect.xn--colab-m7a.land
 connectdappresolve.pages.dev
 connectdappsuniverse.click
 connectextension.info
@@ -1473,6 +1472,7 @@ desblq-davi.waw.pl
 descontosgm.com
 descriptionconnect.onrender.com
 detma-secure.insystdetmaa.in
+detmaonlineben.com
 detmassonline.com
 detnmama.com
 dev-nanocredito-daviplata.pantheonsite.io
@@ -1561,7 +1561,6 @@ drop.lfgjup.xyz
 dropdao-pro.web.app
 dropnibiru.link
 dropxmulti.top
-dsadsadsadsaeq.pages.dev
 dsjgfsdjifsdjifsji.web.app
 du.lacblanc.online
 dualboardmoonify.pages.dev
@@ -1883,6 +1882,7 @@ foeziwo.pro
 forexgcoin-5.com
 fortanetwork.eu
 fortewebklap.pages.dev
+forwardthinking.azurewebsites.net
 foundarb.xyz
 fourseasonsmsk.ru
 fox-club.xyz
@@ -1900,6 +1900,7 @@ frontend2.vercel.app
 frp.bio
 frragment.com
 frragment.us
+fsa.sa.com
 fsafeds.combid.sa.com
 fsafeds.comet.sa.com
 fsafeds.comt.sa.com
@@ -2112,6 +2113,7 @@ haven1.vercel.app
 hbar-distribution.com
 hca-healthcare.com
 hcahealthcarecorp.com
+healhequlity.com
 health-equity.click
 health-equity.pro
 health-equity.sa.com
@@ -2234,7 +2236,6 @@ immutablle.me
 imtoken-qw.pro
 imx-news.com
 imxcoin.eu
-inaallert.com
 incsribe.app
 indeconnec.pages.dev
 infiniteworks.net
@@ -2366,7 +2367,6 @@ jumper-exchange.network
 jumperexchange.info
 jumperexchange.xyz
 jumpers-exchanges.xyz
-jumpers.trading
 jumperweb3.pro
 jupairdrop.com
 jupcase.io
@@ -2396,6 +2396,7 @@ kamino-allocation.vercel.app
 kamino-financec.one
 kamino.life
 kamno.finance
+kapadaster.com
 karnatakaaromas.com
 kasgca.com
 katana-ronchain.com
@@ -2506,7 +2507,6 @@ lenanet.work
 lendingtree.website
 lendingtree1.mydurable.com
 lendingtreecalifornia.com
-lendingtreeincusa.com
 lendingtreellc.org
 lendingtreeloans.us
 lendingtrees.in
@@ -2657,6 +2657,7 @@ mail.web3-metamask-gateway.com
 mail.xn--pncakeswap-3gb.com
 maindexapp.pages.dev
 mainetnodeauth.pages.dev
+mainfaucet.pages.dev
 mainfixchain.com
 mainnet-blaster.com
 mainnetapp.net
@@ -2886,7 +2887,6 @@ metamask.com-a62.xyz
 metamask.cool
 metamask.firsthfb.com
 metamask.fit
-metamask.grsrc.com
 metamask.i98.xyz
 metamask.imtoken.hk.cn
 metamask.io.circletokenhub.com
@@ -3082,7 +3082,6 @@ moe-ukraine.info
 moeamask.com
 mogcoin-xyz.vercel.app
 mohpn.com
-molina-healthcareinc.com
 molinahealthcare.empyreandemo.com
 monad--chain.com
 mondoffices.com
@@ -3371,7 +3370,6 @@ nzwinz.com
 o2-cert.com
 o2-kundenverwaltung.info
 o2-mobilefunkvetrag.de
-o2online-service.de
 o2online.com.de
 ob-app.com
 obamacareenrollment.org
@@ -3622,6 +3620,7 @@ pancakeswaapfinance.net
 pancakeswap-airdrop-giveaway.com
 pancakeswap-airdrop022.vercel.app
 pancakeswap-airdropclaim.vercel.app
+pancakeswap-airdrops01.vercel.app
 pancakeswap-app.com
 pancakeswap-claim112.vercel.app
 pancakeswap-claimdrop.com
@@ -3669,6 +3668,7 @@ pancakeswapclaimz01.vercel.app
 pancakeswapclaimz96.vercel.app
 pancakeswapclick032.vercel.app
 pancakeswapclick04.vercel.app
+pancakeswapclicks870.vercel.app
 pancakeswapcrypto.com
 pancakeswapdrop.com
 pancakeswapdrop15.vercel.app
@@ -4132,6 +4132,7 @@ reg-shib.com
 reg-shido.app
 regdioneprotocol.com
 register-lineabuild.com
+register-mantagalaxies.com
 register-qubic.org
 register-smartlayer.network
 register-snap.com
@@ -4371,6 +4372,7 @@ scroll-reward.com
 scrolli.space
 scybautosolution.com
 sdb-trk.0ybq.info
+sdw2u.com
 sea-claim.live
 sea-list.com
 seapro.tech
@@ -4758,7 +4760,6 @@ tamairdrop.netlify.app
 taob-ai.com
 taobank.net
 tasfinancial.co
-tataconsultancy.in
 tawuniya.online-link.net
 taxltg.com
 taylorswiftmerchofficial.com
@@ -5032,6 +5033,7 @@ umusiceu.com
 umusicr.com
 unapatches.com
 unblock.pancakeswaapfinance.net
+uneploymentexasstys.com
 unfi-incs.com
 uni-swap-v4.web.app
 uni.mrr7.za.com
@@ -5167,6 +5169,7 @@ virginmoneybusinessbanking.com
 virginmoneychatwithus.web.app
 virginmoneylivechat.com
 virginmoneylivesupport.com
+virginmoneyonlinechat.com
 virginmoneysupport.com
 virginmoneysupportchat.com
 virginmoneyverify.web.app
@@ -5500,6 +5503,7 @@ www.applovin.club
 www.applovin.pro
 www.appscallop.io
 www.appsofamon.xyz
+www.aseelwoter.com
 www.assets-gate.com
 www.asx-danman.top
 www.asx-exs.com
@@ -5743,6 +5747,7 @@ www.smartweb3.live
 www.sn.blaport.online
 www.snapshot-multibit.com
 www.somethingbad.com
+www.spiritonsol.com
 www.st.blancui.online
 www.st.uiworth.online
 www.staging.chat.login.fixedfloat.pw

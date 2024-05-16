@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May 16 12:03:08 UTC 2024
+# PhishFort Small Domain List - Thu May 16 18:02:15 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 5917
+# Number of Entries: 5922
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -527,7 +527,6 @@
 0.0.0.0 arkm.air-trastpad.top
 0.0.0.0 arkm.t-wallets.top
 0.0.0.0 armadorasanluis.com
-0.0.0.0 artegiron.co
 0.0.0.0 artprocollect.pro
 0.0.0.0 asals.info
 0.0.0.0 asolgift.com
@@ -1128,6 +1127,7 @@
 0.0.0.0 clarckconstruction.com
 0.0.0.0 clark-constructions.org
 0.0.0.0 clarkconstr.com
+0.0.0.0 clarkconstructiongroups.com
 0.0.0.0 clarkcorstruction.com
 0.0.0.0 clarkgroup-us.co
 0.0.0.0 claynosaurz-nft.web.app
@@ -1166,7 +1166,6 @@
 0.0.0.0 co-tbtcasojdhgsa.com
 0.0.0.0 co.llab-land.icu
 0.0.0.0 co.llab-lands.icu
-0.0.0.0 co.llabz.land
 0.0.0.0 co11ab-1and.com
 0.0.0.0 code-iq.com
 0.0.0.0 codexchain.org
@@ -1176,7 +1175,6 @@
 0.0.0.0 coin-base.events
 0.0.0.0 coin-gcko.com
 0.0.0.0 coin-geko.com
-0.0.0.0 coin-multiresolve.firebaseapp.com
 0.0.0.0 coin-qr.to
 0.0.0.0 coin-swap.global
 0.0.0.0 coin.searchclaim.top
@@ -1240,6 +1238,7 @@
 0.0.0.0 collabland.web-guard.net
 0.0.0.0 collabland.x10.mx
 0.0.0.0 collablandconnect.xyz
+0.0.0.0 collabverify-connect.pages.dev
 0.0.0.0 collad-land.me
 0.0.0.0 collbalnand.pages.dev
 0.0.0.0 colleb-verify.xyz
@@ -1258,7 +1257,6 @@
 0.0.0.0 connect-arbitrum.io
 0.0.0.0 connect-collabs.com
 0.0.0.0 connect-protocol.com
-0.0.0.0 connect-rpcdefi.com
 0.0.0.0 connect.coilab.xyz
 0.0.0.0 connect.collabiand.com
 0.0.0.0 connect.collabland-web.com
@@ -1266,6 +1264,7 @@
 0.0.0.0 connect.gala-games.org
 0.0.0.0 connect.gatekava.top
 0.0.0.0 connect.web3authenticatehub.com
+0.0.0.0 connect.xn--colab-m7a.land
 0.0.0.0 connectdappresolve.pages.dev
 0.0.0.0 connectdappsuniverse.click
 0.0.0.0 connectextension.info
@@ -1474,6 +1473,7 @@
 0.0.0.0 descontosgm.com
 0.0.0.0 descriptionconnect.onrender.com
 0.0.0.0 detma-secure.insystdetmaa.in
+0.0.0.0 detmaonlineben.com
 0.0.0.0 detmassonline.com
 0.0.0.0 detnmama.com
 0.0.0.0 dev-nanocredito-daviplata.pantheonsite.io
@@ -1562,7 +1562,6 @@
 0.0.0.0 dropdao-pro.web.app
 0.0.0.0 dropnibiru.link
 0.0.0.0 dropxmulti.top
-0.0.0.0 dsadsadsadsaeq.pages.dev
 0.0.0.0 dsjgfsdjifsdjifsji.web.app
 0.0.0.0 du.lacblanc.online
 0.0.0.0 dualboardmoonify.pages.dev
@@ -1884,6 +1883,7 @@
 0.0.0.0 forexgcoin-5.com
 0.0.0.0 fortanetwork.eu
 0.0.0.0 fortewebklap.pages.dev
+0.0.0.0 forwardthinking.azurewebsites.net
 0.0.0.0 foundarb.xyz
 0.0.0.0 fourseasonsmsk.ru
 0.0.0.0 fox-club.xyz
@@ -1901,6 +1901,7 @@
 0.0.0.0 frp.bio
 0.0.0.0 frragment.com
 0.0.0.0 frragment.us
+0.0.0.0 fsa.sa.com
 0.0.0.0 fsafeds.combid.sa.com
 0.0.0.0 fsafeds.comet.sa.com
 0.0.0.0 fsafeds.comt.sa.com
@@ -2113,6 +2114,7 @@
 0.0.0.0 hbar-distribution.com
 0.0.0.0 hca-healthcare.com
 0.0.0.0 hcahealthcarecorp.com
+0.0.0.0 healhequlity.com
 0.0.0.0 health-equity.click
 0.0.0.0 health-equity.pro
 0.0.0.0 health-equity.sa.com
@@ -2235,7 +2237,6 @@
 0.0.0.0 imtoken-qw.pro
 0.0.0.0 imx-news.com
 0.0.0.0 imxcoin.eu
-0.0.0.0 inaallert.com
 0.0.0.0 incsribe.app
 0.0.0.0 indeconnec.pages.dev
 0.0.0.0 infiniteworks.net
@@ -2367,7 +2368,6 @@
 0.0.0.0 jumperexchange.info
 0.0.0.0 jumperexchange.xyz
 0.0.0.0 jumpers-exchanges.xyz
-0.0.0.0 jumpers.trading
 0.0.0.0 jumperweb3.pro
 0.0.0.0 jupairdrop.com
 0.0.0.0 jupcase.io
@@ -2397,6 +2397,7 @@
 0.0.0.0 kamino-financec.one
 0.0.0.0 kamino.life
 0.0.0.0 kamno.finance
+0.0.0.0 kapadaster.com
 0.0.0.0 karnatakaaromas.com
 0.0.0.0 kasgca.com
 0.0.0.0 katana-ronchain.com
@@ -2507,7 +2508,6 @@
 0.0.0.0 lendingtree.website
 0.0.0.0 lendingtree1.mydurable.com
 0.0.0.0 lendingtreecalifornia.com
-0.0.0.0 lendingtreeincusa.com
 0.0.0.0 lendingtreellc.org
 0.0.0.0 lendingtreeloans.us
 0.0.0.0 lendingtrees.in
@@ -2658,6 +2658,7 @@
 0.0.0.0 mail.xn--pncakeswap-3gb.com
 0.0.0.0 maindexapp.pages.dev
 0.0.0.0 mainetnodeauth.pages.dev
+0.0.0.0 mainfaucet.pages.dev
 0.0.0.0 mainfixchain.com
 0.0.0.0 mainnet-blaster.com
 0.0.0.0 mainnetapp.net
@@ -2887,7 +2888,6 @@
 0.0.0.0 metamask.cool
 0.0.0.0 metamask.firsthfb.com
 0.0.0.0 metamask.fit
-0.0.0.0 metamask.grsrc.com
 0.0.0.0 metamask.i98.xyz
 0.0.0.0 metamask.imtoken.hk.cn
 0.0.0.0 metamask.io.circletokenhub.com
@@ -3083,7 +3083,6 @@
 0.0.0.0 moeamask.com
 0.0.0.0 mogcoin-xyz.vercel.app
 0.0.0.0 mohpn.com
-0.0.0.0 molina-healthcareinc.com
 0.0.0.0 molinahealthcare.empyreandemo.com
 0.0.0.0 monad--chain.com
 0.0.0.0 mondoffices.com
@@ -3372,7 +3371,6 @@
 0.0.0.0 o2-cert.com
 0.0.0.0 o2-kundenverwaltung.info
 0.0.0.0 o2-mobilefunkvetrag.de
-0.0.0.0 o2online-service.de
 0.0.0.0 o2online.com.de
 0.0.0.0 ob-app.com
 0.0.0.0 obamacareenrollment.org
@@ -3623,6 +3621,7 @@
 0.0.0.0 pancakeswap-airdrop-giveaway.com
 0.0.0.0 pancakeswap-airdrop022.vercel.app
 0.0.0.0 pancakeswap-airdropclaim.vercel.app
+0.0.0.0 pancakeswap-airdrops01.vercel.app
 0.0.0.0 pancakeswap-app.com
 0.0.0.0 pancakeswap-claim112.vercel.app
 0.0.0.0 pancakeswap-claimdrop.com
@@ -3670,6 +3669,7 @@
 0.0.0.0 pancakeswapclaimz96.vercel.app
 0.0.0.0 pancakeswapclick032.vercel.app
 0.0.0.0 pancakeswapclick04.vercel.app
+0.0.0.0 pancakeswapclicks870.vercel.app
 0.0.0.0 pancakeswapcrypto.com
 0.0.0.0 pancakeswapdrop.com
 0.0.0.0 pancakeswapdrop15.vercel.app
@@ -4133,6 +4133,7 @@
 0.0.0.0 reg-shido.app
 0.0.0.0 regdioneprotocol.com
 0.0.0.0 register-lineabuild.com
+0.0.0.0 register-mantagalaxies.com
 0.0.0.0 register-qubic.org
 0.0.0.0 register-smartlayer.network
 0.0.0.0 register-snap.com
@@ -4372,6 +4373,7 @@
 0.0.0.0 scrolli.space
 0.0.0.0 scybautosolution.com
 0.0.0.0 sdb-trk.0ybq.info
+0.0.0.0 sdw2u.com
 0.0.0.0 sea-claim.live
 0.0.0.0 sea-list.com
 0.0.0.0 seapro.tech
@@ -4759,7 +4761,6 @@
 0.0.0.0 taob-ai.com
 0.0.0.0 taobank.net
 0.0.0.0 tasfinancial.co
-0.0.0.0 tataconsultancy.in
 0.0.0.0 tawuniya.online-link.net
 0.0.0.0 taxltg.com
 0.0.0.0 taylorswiftmerchofficial.com
@@ -5033,6 +5034,7 @@
 0.0.0.0 umusicr.com
 0.0.0.0 unapatches.com
 0.0.0.0 unblock.pancakeswaapfinance.net
+0.0.0.0 uneploymentexasstys.com
 0.0.0.0 unfi-incs.com
 0.0.0.0 uni-swap-v4.web.app
 0.0.0.0 uni.mrr7.za.com
@@ -5168,6 +5170,7 @@
 0.0.0.0 virginmoneychatwithus.web.app
 0.0.0.0 virginmoneylivechat.com
 0.0.0.0 virginmoneylivesupport.com
+0.0.0.0 virginmoneyonlinechat.com
 0.0.0.0 virginmoneysupport.com
 0.0.0.0 virginmoneysupportchat.com
 0.0.0.0 virginmoneyverify.web.app
@@ -5501,6 +5504,7 @@
 0.0.0.0 www.applovin.pro
 0.0.0.0 www.appscallop.io
 0.0.0.0 www.appsofamon.xyz
+0.0.0.0 www.aseelwoter.com
 0.0.0.0 www.assets-gate.com
 0.0.0.0 www.asx-danman.top
 0.0.0.0 www.asx-exs.com
@@ -5744,6 +5748,7 @@
 0.0.0.0 www.sn.blaport.online
 0.0.0.0 www.snapshot-multibit.com
 0.0.0.0 www.somethingbad.com
+0.0.0.0 www.spiritonsol.com
 0.0.0.0 www.st.blancui.online
 0.0.0.0 www.st.uiworth.online
 0.0.0.0 www.staging.chat.login.fixedfloat.pw
