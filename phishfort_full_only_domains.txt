@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Thu May 16 06:04:13 UTC 2024
+# PhishFort Full Domain List - Thu May 16 12:06:02 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109545
+# Number of Entries: 109553
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -357,6 +357,7 @@
 1inch-cryptoevent.site
 1inch-dapp.site
 1inch-defi.app
+1inch-defi.vercel.app
 1inch-dex.com
 1inch-dexs.com
 1inch-drop.cc
@@ -15402,6 +15403,7 @@ buy-paxful.com
 buy-tamadoge.live
 buy.btcetf.network
 buy.pomerdoge.live
+buy.pro-olx-dostavka.workers.dev
 buy.scottyai.org
 buy1bigeyes.space
 buy1inch.org
@@ -20095,6 +20097,7 @@ collab.host
 collab.inload.xyz
 collab.intapps.xyz
 collab.ioapps.info
+collab.land-role.com
 collab.land-satoshivm.com
 collab.land-verifeds.com
 collab.land.gd
@@ -20328,6 +20331,7 @@ collabsync.onrender.com
 collabsyncwallet.com
 collabvalidator.com
 collabverification.com
+collabverify-connect.pages.dev
 collabverify.in
 collabverify.online
 collabwallett.com
@@ -20861,6 +20865,7 @@ connect.watchkava.xyz
 connect.web3authenticatehub.com
 connect.xn--1ich-c3a.app
 connect.xn--colab-0sa.land
+connect.xn--colab-m7a.land
 connect.xn--collb-jra.land
 connect.zcsync.site
 connect1038.lol
@@ -36023,6 +36028,7 @@ garbagefriends.app
 garbageuniverse.fun
 garbageuniversity.app
 garbege-friends.io
+gargpje62.ukit.me
 garlinghouse.ceo
 garotadads.blogspot.com
 garrafasmix.blogspot.com
@@ -49771,6 +49777,7 @@ mergenowmywallets.com
 mergeofmeta.com
 mergepos.com
 mergerouter.info
+mergesappsever.pages.dev
 mergesmeta.com
 mergethnow.com
 mergethwallets.com
@@ -92501,6 +92508,7 @@ virginmoneylivechat.com
 virginmoneylivesupport.com
 virginmoneynetwork.com
 virginmoneysupport.com
+virginmoneysupportchat.com
 virginmoneyverify.web.app
 virtua.gift
 virtua.web3-airdrop.net

@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Thu May 16 06:04:13 UTC 2024
+# PhishFort Full Domain List - Thu May 16 12:06:02 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109545
+# Number of Entries: 109553
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -358,6 +358,7 @@
 0.0.0.0 1inch-cryptoevent.site
 0.0.0.0 1inch-dapp.site
 0.0.0.0 1inch-defi.app
+0.0.0.0 1inch-defi.vercel.app
 0.0.0.0 1inch-dex.com
 0.0.0.0 1inch-dexs.com
 0.0.0.0 1inch-drop.cc
@@ -15403,6 +15404,7 @@
 0.0.0.0 buy-tamadoge.live
 0.0.0.0 buy.btcetf.network
 0.0.0.0 buy.pomerdoge.live
+0.0.0.0 buy.pro-olx-dostavka.workers.dev
 0.0.0.0 buy.scottyai.org
 0.0.0.0 buy1bigeyes.space
 0.0.0.0 buy1inch.org
@@ -20096,6 +20098,7 @@
 0.0.0.0 collab.inload.xyz
 0.0.0.0 collab.intapps.xyz
 0.0.0.0 collab.ioapps.info
+0.0.0.0 collab.land-role.com
 0.0.0.0 collab.land-satoshivm.com
 0.0.0.0 collab.land-verifeds.com
 0.0.0.0 collab.land.gd
@@ -20329,6 +20332,7 @@
 0.0.0.0 collabsyncwallet.com
 0.0.0.0 collabvalidator.com
 0.0.0.0 collabverification.com
+0.0.0.0 collabverify-connect.pages.dev
 0.0.0.0 collabverify.in
 0.0.0.0 collabverify.online
 0.0.0.0 collabwallett.com
@@ -20862,6 +20866,7 @@
 0.0.0.0 connect.web3authenticatehub.com
 0.0.0.0 connect.xn--1ich-c3a.app
 0.0.0.0 connect.xn--colab-0sa.land
+0.0.0.0 connect.xn--colab-m7a.land
 0.0.0.0 connect.xn--collb-jra.land
 0.0.0.0 connect.zcsync.site
 0.0.0.0 connect1038.lol
@@ -36024,6 +36029,7 @@
 0.0.0.0 garbageuniverse.fun
 0.0.0.0 garbageuniversity.app
 0.0.0.0 garbege-friends.io
+0.0.0.0 gargpje62.ukit.me
 0.0.0.0 garlinghouse.ceo
 0.0.0.0 garotadads.blogspot.com
 0.0.0.0 garrafasmix.blogspot.com
@@ -49772,6 +49778,7 @@
 0.0.0.0 mergeofmeta.com
 0.0.0.0 mergepos.com
 0.0.0.0 mergerouter.info
+0.0.0.0 mergesappsever.pages.dev
 0.0.0.0 mergesmeta.com
 0.0.0.0 mergethnow.com
 0.0.0.0 mergethwallets.com
@@ -92502,6 +92509,7 @@
 0.0.0.0 virginmoneylivesupport.com
 0.0.0.0 virginmoneynetwork.com
 0.0.0.0 virginmoneysupport.com
+0.0.0.0 virginmoneysupportchat.com
 0.0.0.0 virginmoneyverify.web.app
 0.0.0.0 virtua.gift
 0.0.0.0 virtua.web3-airdrop.net
