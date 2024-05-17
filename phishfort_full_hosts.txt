@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May 17 12:05:39 UTC 2024
+# PhishFort Full Domain List - Fri May 17 18:04:39 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109586
+# Number of Entries: 109598
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -29513,6 +29513,7 @@
 0.0.0.0 emkryopt.odfex.xyz
 0.0.0.0 emmanft.xyz
 0.0.0.0 emmatully.com
+0.0.0.0 emmnails.com
 0.0.0.0 empiretokenworld.com
 0.0.0.0 emploeemygochek.com
 0.0.0.0 emploerfirsstep.site
@@ -38810,6 +38811,7 @@
 0.0.0.0 hiltonnft.top
 0.0.0.0 himalaya.nft-premint.com
 0.0.0.0 himoworld.online
+0.0.0.0 hims.store
 0.0.0.0 hindustannews18.com
 0.0.0.0 hindustannews18.in
 0.0.0.0 hindustantowers.in
@@ -41953,6 +41955,7 @@
 0.0.0.0 jumper.markets
 0.0.0.0 jumper.trading
 0.0.0.0 jumper.web3-airdrop.net
+0.0.0.0 jumperexchange.app
 0.0.0.0 jumperexchange.info
 0.0.0.0 jumperexchange.space
 0.0.0.0 jumperexchange.xyz
@@ -45107,6 +45110,7 @@
 0.0.0.0 linkyourwallet.github.io
 0.0.0.0 linnkks.vercel.app
 0.0.0.0 linux.twitter-events22.com
+0.0.0.0 linvateccorp.com
 0.0.0.0 liocalbitcoins.com
 0.0.0.0 lion3d.org
 0.0.0.0 lioncash.top
@@ -68692,6 +68696,7 @@
 0.0.0.0 pankakecwap.com
 0.0.0.0 pankakesswap.com
 0.0.0.0 pankakesswop.com
+0.0.0.0 pankakestake.xyz
 0.0.0.0 pankakesvap-finance.com
 0.0.0.0 pankakesvap.com
 0.0.0.0 pankakesvop.com
@@ -70528,6 +70533,7 @@
 0.0.0.0 perucotiza.com
 0.0.0.0 perurest.com
 0.0.0.0 perurhealth.com
+0.0.0.0 perxreward.net
 0.0.0.0 peryour-health.live
 0.0.0.0 peryourhealth.be
 0.0.0.0 peryourhealth.biz
@@ -71542,6 +71548,7 @@
 0.0.0.0 pnanton.app
 0.0.0.0 pnantonn.app
 0.0.0.0 pnathuhamwouat.godaddysites.com
+0.0.0.0 pnbmetlife.vercel.app
 0.0.0.0 pnbsyariahmalaysia.com
 0.0.0.0 pnc.cryptouswallets.com
 0.0.0.0 pncakessweap.cloud
@@ -78817,6 +78824,7 @@
 0.0.0.0 secure-metamask.org
 0.0.0.0 secure-myee-account.com
 0.0.0.0 secure-myetherwallet.com
+0.0.0.0 secure-one-time-verification-tdecu.com
 0.0.0.0 secure-onerooftop.com
 0.0.0.0 secure-opensea-x03.com
 0.0.0.0 secure-paxful.com
@@ -90597,6 +90605,7 @@
 0.0.0.0 universe-overlord.xyz
 0.0.0.0 universebybarnabe.truly-minting.com
 0.0.0.0 universeconnect-server.com
+0.0.0.0 universeswap.io
 0.0.0.0 universesync.xyz
 0.0.0.0 universex.org
 0.0.0.0 univgen.buzz
@@ -92532,13 +92541,16 @@
 0.0.0.0 virgeeny.shop
 0.0.0.0 virgin-awareness.com
 0.0.0.0 virginmoney-livechat.com
+0.0.0.0 virginmoney-ob.com
 0.0.0.0 virginmoney.business-liveapp.com
 0.0.0.0 virginmoneybusinessbanking.com
 0.0.0.0 virginmoneychatonline.com
 0.0.0.0 virginmoneychatwithus.web.app
 0.0.0.0 virginmoneylivechat.com
+0.0.0.0 virginmoneylivehelp.com
 0.0.0.0 virginmoneylivesupport.com
 0.0.0.0 virginmoneynetwork.com
+0.0.0.0 virginmoneyob.com
 0.0.0.0 virginmoneyonlinechat.com
 0.0.0.0 virginmoneysupport.com
 0.0.0.0 virginmoneysupportchat.com

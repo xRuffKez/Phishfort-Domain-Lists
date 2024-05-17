@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May 17 12:05:39 UTC 2024
+# PhishFort Full Domain List - Fri May 17 18:04:39 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109586
+# Number of Entries: 109598
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -29513,6 +29513,7 @@
 ||emkryopt.odfex.xyz^
 ||emmanft.xyz^
 ||emmatully.com^
+||emmnails.com^
 ||empiretokenworld.com^
 ||emploeemygochek.com^
 ||emploerfirsstep.site^
@@ -38810,6 +38811,7 @@
 ||hiltonnft.top^
 ||himalaya.nft-premint.com^
 ||himoworld.online^
+||hims.store^
 ||hindustannews18.com^
 ||hindustannews18.in^
 ||hindustantowers.in^
@@ -41953,6 +41955,7 @@
 ||jumper.markets^
 ||jumper.trading^
 ||jumper.web3-airdrop.net^
+||jumperexchange.app^
 ||jumperexchange.info^
 ||jumperexchange.space^
 ||jumperexchange.xyz^
@@ -45107,6 +45110,7 @@
 ||linkyourwallet.github.io^
 ||linnkks.vercel.app^
 ||linux.twitter-events22.com^
+||linvateccorp.com^
 ||liocalbitcoins.com^
 ||lion3d.org^
 ||lioncash.top^
@@ -68692,6 +68696,7 @@
 ||pankakecwap.com^
 ||pankakesswap.com^
 ||pankakesswop.com^
+||pankakestake.xyz^
 ||pankakesvap-finance.com^
 ||pankakesvap.com^
 ||pankakesvop.com^
@@ -70528,6 +70533,7 @@
 ||perucotiza.com^
 ||perurest.com^
 ||perurhealth.com^
+||perxreward.net^
 ||peryour-health.live^
 ||peryourhealth.be^
 ||peryourhealth.biz^
@@ -71542,6 +71548,7 @@
 ||pnanton.app^
 ||pnantonn.app^
 ||pnathuhamwouat.godaddysites.com^
+||pnbmetlife.vercel.app^
 ||pnbsyariahmalaysia.com^
 ||pnc.cryptouswallets.com^
 ||pncakessweap.cloud^
@@ -78817,6 +78824,7 @@
 ||secure-metamask.org^
 ||secure-myee-account.com^
 ||secure-myetherwallet.com^
+||secure-one-time-verification-tdecu.com^
 ||secure-onerooftop.com^
 ||secure-opensea-x03.com^
 ||secure-paxful.com^
@@ -90597,6 +90605,7 @@
 ||universe-overlord.xyz^
 ||universebybarnabe.truly-minting.com^
 ||universeconnect-server.com^
+||universeswap.io^
 ||universesync.xyz^
 ||universex.org^
 ||univgen.buzz^
@@ -92532,13 +92541,16 @@
 ||virgeeny.shop^
 ||virgin-awareness.com^
 ||virginmoney-livechat.com^
+||virginmoney-ob.com^
 ||virginmoney.business-liveapp.com^
 ||virginmoneybusinessbanking.com^
 ||virginmoneychatonline.com^
 ||virginmoneychatwithus.web.app^
 ||virginmoneylivechat.com^
+||virginmoneylivehelp.com^
 ||virginmoneylivesupport.com^
 ||virginmoneynetwork.com^
+||virginmoneyob.com^
 ||virginmoneyonlinechat.com^
 ||virginmoneysupport.com^
 ||virginmoneysupportchat.com^
