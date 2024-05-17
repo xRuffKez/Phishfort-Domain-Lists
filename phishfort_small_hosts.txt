@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May 17 12:02:57 UTC 2024
+# PhishFort Small Domain List - Fri May 17 18:02:32 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 5920
+# Number of Entries: 5921
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -411,7 +411,6 @@
 0.0.0.0 app.activitye.xyz
 0.0.0.0 app.agoda-promotion.com
 0.0.0.0 app.airrtm.com
-0.0.0.0 app.airtm11.com
 0.0.0.0 app.airtm12.com
 0.0.0.0 app.airtm31.com
 0.0.0.0 app.airtm5.com
@@ -483,7 +482,6 @@
 0.0.0.0 appnodecon.pages.dev
 0.0.0.0 appresolvefix.pages.dev
 0.0.0.0 apprestakefinance.com
-0.0.0.0 apps-aevo.xyz
 0.0.0.0 apps-linea.build
 0.0.0.0 apps-pancakeswap.finance
 0.0.0.0 appserversdex.network
@@ -813,7 +811,6 @@
 0.0.0.0 booking.agoda-checkout-id843753.com
 0.0.0.0 bookinghotel-word.com
 0.0.0.0 bopan.xyz
-0.0.0.0 boson-faucet.pages.dev
 0.0.0.0 bostonglobemediapr.com
 0.0.0.0 bouyguesgroups.com
 0.0.0.0 bouyguesiptv.fr
@@ -1636,6 +1633,7 @@
 0.0.0.0 emiratesgroupae.online
 0.0.0.0 emiratesholiday.net
 0.0.0.0 emiratesvacationspackages.com
+0.0.0.0 emmnails.com
 0.0.0.0 emploerfirsstep.site
 0.0.0.0 empowerpersonalasset.com
 0.0.0.0 empowerprivateasset.com
@@ -2147,6 +2145,7 @@
 0.0.0.0 hhfh.cc
 0.0.0.0 hidden-airdrops.xyz
 0.0.0.0 highllght.com
+0.0.0.0 hims.store
 0.0.0.0 hkasia-pooldefi.com
 0.0.0.0 hlbtn-company.ltd
 0.0.0.0 hlxfsx.com
@@ -2361,6 +2360,7 @@
 0.0.0.0 jumper-exchange-2ba.pages.dev
 0.0.0.0 jumper-exchange.live
 0.0.0.0 jumper-exchange.network
+0.0.0.0 jumperexchange.app
 0.0.0.0 jumperexchange.info
 0.0.0.0 jumperexchange.xyz
 0.0.0.0 jumperweb3.pro
@@ -2558,6 +2558,7 @@
 0.0.0.0 link.kavashield.help
 0.0.0.0 link.kavashield.icu
 0.0.0.0 links-airtm.com
+0.0.0.0 linvateccorp.com
 0.0.0.0 liquidether.rip
 0.0.0.0 liquidetherv2.com
 0.0.0.0 liquidsync.pages.dev
@@ -2792,7 +2793,6 @@
 0.0.0.0 mavismerch.com
 0.0.0.0 mcfrzev.cc
 0.0.0.0 mcnabhi.github.io
-0.0.0.0 mducksspace.com
 0.0.0.0 me9.us
 0.0.0.0 meatmesk.com
 0.0.0.0 mediaflex.live
@@ -3499,7 +3499,6 @@
 0.0.0.0 osaic-wisconsin.com
 0.0.0.0 osmososis-zone.xyz
 0.0.0.0 otsea.gift
-0.0.0.0 outildecisionregimederetraitesunchemical.ca
 0.0.0.0 overrik.com
 0.0.0.0 ownrwallet.online
 0.0.0.0 oxyppso.cc
@@ -3647,7 +3646,6 @@
 0.0.0.0 pancakeswap.airdrop-cake-v3.com
 0.0.0.0 pancakeswap.cake-web3.com
 0.0.0.0 pancakeswap.click
-0.0.0.0 pancakeswap.dikecoin.com
 0.0.0.0 pancakeswap.sipf.cc
 0.0.0.0 pancakeswap92.vercel.app
 0.0.0.0 pancakeswapairdrop.com
@@ -3724,6 +3722,7 @@
 0.0.0.0 pangolin-x.com
 0.0.0.0 pankaceswap.tech
 0.0.0.0 pankake.shop
+0.0.0.0 pankakestake.xyz
 0.0.0.0 pankcakeswap.com
 0.0.0.0 panteamspark.com
 0.0.0.0 pape-coin.net
@@ -3945,6 +3944,7 @@
 0.0.0.0 plusmigrate.com
 0.0.0.0 pmaxw.com
 0.0.0.0 pmjvggq.icu
+0.0.0.0 pnbmetlife.vercel.app
 0.0.0.0 pncakeswap.com
 0.0.0.0 pocakedefi.cfd
 0.0.0.0 pocakedefi.top
@@ -4375,6 +4375,7 @@
 0.0.0.0 sebotics.com
 0.0.0.0 secondx.mypsx.net
 0.0.0.0 secure-evy.pages.dev
+0.0.0.0 secure-one-time-verification-tdecu.com
 0.0.0.0 secure.ingbhk.com
 0.0.0.0 securedmainnetconnect.pages.dev
 0.0.0.0 secureklarna.com
@@ -5064,6 +5065,7 @@
 0.0.0.0 unitedhealthvip.com
 0.0.0.0 unitycryptotrading.com
 0.0.0.0 univ4-platform.pages.dev
+0.0.0.0 universeswap.io
 0.0.0.0 unknownbasenfts2.me
 0.0.0.0 unniswapp.com
 0.0.0.0 unstoppable-domains.top
@@ -5163,12 +5165,15 @@
 0.0.0.0 virgeeny.shop
 0.0.0.0 virgin-awareness.com
 0.0.0.0 virginmoney-livechat.com
+0.0.0.0 virginmoney-ob.com
 0.0.0.0 virginmoney.business-liveapp.com
 0.0.0.0 virginmoneybusinessbanking.com
 0.0.0.0 virginmoneychatonline.com
 0.0.0.0 virginmoneychatwithus.web.app
 0.0.0.0 virginmoneylivechat.com
+0.0.0.0 virginmoneylivehelp.com
 0.0.0.0 virginmoneylivesupport.com
+0.0.0.0 virginmoneyob.com
 0.0.0.0 virginmoneyonlinechat.com
 0.0.0.0 virginmoneysupport.com
 0.0.0.0 virginmoneysupportchat.com
@@ -5418,13 +5423,10 @@
 0.0.0.0 worldfruitforest.world
 0.0.0.0 worldgeowayw.world
 0.0.0.0 worm-hole-airdrop.vercel.app
-0.0.0.0 wormhole-airdrop.store
 0.0.0.0 wormhole-dev.netlify.app
 0.0.0.0 wormhole-drops.live
 0.0.0.0 wormhole-network.com
 0.0.0.0 wormhole.cx
-0.0.0.0 wormholeairdrop.fun
-0.0.0.0 wormholeairdrop.shop
 0.0.0.0 wormholetech.click
 0.0.0.0 wornholepresales.vercel.app
 0.0.0.0 wowsniperbot.io
@@ -5669,7 +5671,6 @@
 0.0.0.0 www.moneypak.store
 0.0.0.0 www.mwallet8.com
 0.0.0.0 www.mwwbyin.com
-0.0.0.0 www.my43.icu
 0.0.0.0 www.myetherewallet.org
 0.0.0.0 www.myetherwallest.org
 0.0.0.0 www.myetherwallet.cm

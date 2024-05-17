@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May 17 12:02:57 UTC 2024
+# PhishFort Small Domain List - Fri May 17 18:02:32 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 5920
+# Number of Entries: 5921
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -411,7 +411,6 @@
 ||app.activitye.xyz^
 ||app.agoda-promotion.com^
 ||app.airrtm.com^
-||app.airtm11.com^
 ||app.airtm12.com^
 ||app.airtm31.com^
 ||app.airtm5.com^
@@ -483,7 +482,6 @@
 ||appnodecon.pages.dev^
 ||appresolvefix.pages.dev^
 ||apprestakefinance.com^
-||apps-aevo.xyz^
 ||apps-linea.build^
 ||apps-pancakeswap.finance^
 ||appserversdex.network^
@@ -813,7 +811,6 @@
 ||booking.agoda-checkout-id843753.com^
 ||bookinghotel-word.com^
 ||bopan.xyz^
-||boson-faucet.pages.dev^
 ||bostonglobemediapr.com^
 ||bouyguesgroups.com^
 ||bouyguesiptv.fr^
@@ -1636,6 +1633,7 @@
 ||emiratesgroupae.online^
 ||emiratesholiday.net^
 ||emiratesvacationspackages.com^
+||emmnails.com^
 ||emploerfirsstep.site^
 ||empowerpersonalasset.com^
 ||empowerprivateasset.com^
@@ -2147,6 +2145,7 @@
 ||hhfh.cc^
 ||hidden-airdrops.xyz^
 ||highllght.com^
+||hims.store^
 ||hkasia-pooldefi.com^
 ||hlbtn-company.ltd^
 ||hlxfsx.com^
@@ -2361,6 +2360,7 @@
 ||jumper-exchange-2ba.pages.dev^
 ||jumper-exchange.live^
 ||jumper-exchange.network^
+||jumperexchange.app^
 ||jumperexchange.info^
 ||jumperexchange.xyz^
 ||jumperweb3.pro^
@@ -2558,6 +2558,7 @@
 ||link.kavashield.help^
 ||link.kavashield.icu^
 ||links-airtm.com^
+||linvateccorp.com^
 ||liquidether.rip^
 ||liquidetherv2.com^
 ||liquidsync.pages.dev^
@@ -2792,7 +2793,6 @@
 ||mavismerch.com^
 ||mcfrzev.cc^
 ||mcnabhi.github.io^
-||mducksspace.com^
 ||me9.us^
 ||meatmesk.com^
 ||mediaflex.live^
@@ -3499,7 +3499,6 @@
 ||osaic-wisconsin.com^
 ||osmososis-zone.xyz^
 ||otsea.gift^
-||outildecisionregimederetraitesunchemical.ca^
 ||overrik.com^
 ||ownrwallet.online^
 ||oxyppso.cc^
@@ -3647,7 +3646,6 @@
 ||pancakeswap.airdrop-cake-v3.com^
 ||pancakeswap.cake-web3.com^
 ||pancakeswap.click^
-||pancakeswap.dikecoin.com^
 ||pancakeswap.sipf.cc^
 ||pancakeswap92.vercel.app^
 ||pancakeswapairdrop.com^
@@ -3724,6 +3722,7 @@
 ||pangolin-x.com^
 ||pankaceswap.tech^
 ||pankake.shop^
+||pankakestake.xyz^
 ||pankcakeswap.com^
 ||panteamspark.com^
 ||pape-coin.net^
@@ -3945,6 +3944,7 @@
 ||plusmigrate.com^
 ||pmaxw.com^
 ||pmjvggq.icu^
+||pnbmetlife.vercel.app^
 ||pncakeswap.com^
 ||pocakedefi.cfd^
 ||pocakedefi.top^
@@ -4375,6 +4375,7 @@
 ||sebotics.com^
 ||secondx.mypsx.net^
 ||secure-evy.pages.dev^
+||secure-one-time-verification-tdecu.com^
 ||secure.ingbhk.com^
 ||securedmainnetconnect.pages.dev^
 ||secureklarna.com^
@@ -5064,6 +5065,7 @@
 ||unitedhealthvip.com^
 ||unitycryptotrading.com^
 ||univ4-platform.pages.dev^
+||universeswap.io^
 ||unknownbasenfts2.me^
 ||unniswapp.com^
 ||unstoppable-domains.top^
@@ -5163,12 +5165,15 @@
 ||virgeeny.shop^
 ||virgin-awareness.com^
 ||virginmoney-livechat.com^
+||virginmoney-ob.com^
 ||virginmoney.business-liveapp.com^
 ||virginmoneybusinessbanking.com^
 ||virginmoneychatonline.com^
 ||virginmoneychatwithus.web.app^
 ||virginmoneylivechat.com^
+||virginmoneylivehelp.com^
 ||virginmoneylivesupport.com^
+||virginmoneyob.com^
 ||virginmoneyonlinechat.com^
 ||virginmoneysupport.com^
 ||virginmoneysupportchat.com^
@@ -5418,13 +5423,10 @@
 ||worldfruitforest.world^
 ||worldgeowayw.world^
 ||worm-hole-airdrop.vercel.app^
-||wormhole-airdrop.store^
 ||wormhole-dev.netlify.app^
 ||wormhole-drops.live^
 ||wormhole-network.com^
 ||wormhole.cx^
-||wormholeairdrop.fun^
-||wormholeairdrop.shop^
 ||wormholetech.click^
 ||wornholepresales.vercel.app^
 ||wowsniperbot.io^
@@ -5669,7 +5671,6 @@
 ||www.moneypak.store^
 ||www.mwallet8.com^
 ||www.mwwbyin.com^
-||www.my43.icu^
 ||www.myetherewallet.org^
 ||www.myetherwallest.org^
 ||www.myetherwallet.cm^
