@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May 17 06:05:04 UTC 2024
+# PhishFort Full Domain List - Fri May 17 12:05:39 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109579
+# Number of Entries: 109586
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -67497,6 +67497,7 @@
 0.0.0.0 pancakeswapp-flnance.org
 0.0.0.0 pancakeswapp.biz
 0.0.0.0 pancakeswapp.cc
+0.0.0.0 pancakeswapp.click
 0.0.0.0 pancakeswapp.com
 0.0.0.0 pancakeswapp.exchange
 0.0.0.0 pancakeswapp.fans
@@ -81970,6 +81971,7 @@
 0.0.0.0 sonikcoinsofficial.com
 0.0.0.0 soniktokenfix.pages.dev
 0.0.0.0 sonirkcoin.com
+0.0.0.0 sonne-revoke.net
 0.0.0.0 sonne.gift
 0.0.0.0 sonnefinancet.com
 0.0.0.0 sonofshib-promogive.com
@@ -87602,6 +87604,7 @@
 0.0.0.0 ton-chain.top
 0.0.0.0 ton-credit.bond
 0.0.0.0 ton-drop.org
+0.0.0.0 ton-gift.net
 0.0.0.0 ton-giveaway.art
 0.0.0.0 ton-gramico.com
 0.0.0.0 ton-ico.com
@@ -87617,6 +87620,7 @@
 0.0.0.0 ton-telegram.xyz
 0.0.0.0 ton-usd.net
 0.0.0.0 ton-usdt.icu
+0.0.0.0 ton-usdt.net
 0.0.0.0 ton-wallet.store
 0.0.0.0 ton.fund
 0.0.0.0 ton.org-community.info
@@ -87653,10 +87657,12 @@
 0.0.0.0 tonkeeper-fundsapproval.pages.dev
 0.0.0.0 tonkeeper-security.com
 0.0.0.0 tonkeeper-walletapproval.pages.dev
+0.0.0.0 tonkeeper-wallets.pages.dev
 0.0.0.0 tonkeeper-web.pages.dev
 0.0.0.0 tonkeeper.art
 0.0.0.0 tonkeeper.bio
 0.0.0.0 tonkeeper.business
+0.0.0.0 tonkeeper.cash
 0.0.0.0 tonkeeper.cloud
 0.0.0.0 tonkeeper.com-safe-transaction.pro
 0.0.0.0 tonkeeper.dev
@@ -87693,6 +87699,7 @@
 0.0.0.0 tonkeepper.com
 0.0.0.0 tonkeeprr.com
 0.0.0.0 tonkeepwr.com
+0.0.0.0 tonkepeer.net
 0.0.0.0 tonkeper.com
 0.0.0.0 tonkerper.com
 0.0.0.0 tonkewper.com
@@ -92527,6 +92534,7 @@
 0.0.0.0 virginmoney-livechat.com
 0.0.0.0 virginmoney.business-liveapp.com
 0.0.0.0 virginmoneybusinessbanking.com
+0.0.0.0 virginmoneychatonline.com
 0.0.0.0 virginmoneychatwithus.web.app
 0.0.0.0 virginmoneylivechat.com
 0.0.0.0 virginmoneylivesupport.com
@@ -96188,7 +96196,6 @@
 0.0.0.0 weathereport.xyz
 0.0.0.0 weautocheck.com
 0.0.0.0 web-3-4i8.pages.dev
-0.0.0.0 web-4w4zabtw9.pancake.run
 0.0.0.0 web-aave.cc
 0.0.0.0 web-airtm.com
 0.0.0.0 web-anyswap.exchange

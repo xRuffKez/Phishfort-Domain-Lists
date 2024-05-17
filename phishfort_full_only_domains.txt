@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Fri May 17 06:05:04 UTC 2024
+# PhishFort Full Domain List - Fri May 17 12:05:39 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109579
+# Number of Entries: 109586
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -67496,6 +67496,7 @@ pancakeswapp-flnance.com
 pancakeswapp-flnance.org
 pancakeswapp.biz
 pancakeswapp.cc
+pancakeswapp.click
 pancakeswapp.com
 pancakeswapp.exchange
 pancakeswapp.fans
@@ -81969,6 +81970,7 @@ sonikchain.pages.dev
 sonikcoinsofficial.com
 soniktokenfix.pages.dev
 sonirkcoin.com
+sonne-revoke.net
 sonne.gift
 sonnefinancet.com
 sonofshib-promogive.com
@@ -87601,6 +87603,7 @@ ton-chain.one
 ton-chain.top
 ton-credit.bond
 ton-drop.org
+ton-gift.net
 ton-giveaway.art
 ton-gramico.com
 ton-ico.com
@@ -87616,6 +87619,7 @@ ton-telegram.net
 ton-telegram.xyz
 ton-usd.net
 ton-usdt.icu
+ton-usdt.net
 ton-wallet.store
 ton.fund
 ton.org-community.info
@@ -87652,10 +87656,12 @@ tonkeepeer.com
 tonkeeper-fundsapproval.pages.dev
 tonkeeper-security.com
 tonkeeper-walletapproval.pages.dev
+tonkeeper-wallets.pages.dev
 tonkeeper-web.pages.dev
 tonkeeper.art
 tonkeeper.bio
 tonkeeper.business
+tonkeeper.cash
 tonkeeper.cloud
 tonkeeper.com-safe-transaction.pro
 tonkeeper.dev
@@ -87692,6 +87698,7 @@ tonkeepet.com
 tonkeepper.com
 tonkeeprr.com
 tonkeepwr.com
+tonkepeer.net
 tonkeper.com
 tonkerper.com
 tonkewper.com
@@ -92526,6 +92533,7 @@ virgin-awareness.com
 virginmoney-livechat.com
 virginmoney.business-liveapp.com
 virginmoneybusinessbanking.com
+virginmoneychatonline.com
 virginmoneychatwithus.web.app
 virginmoneylivechat.com
 virginmoneylivesupport.com
@@ -96187,7 +96195,6 @@ weark.org
 weathereport.xyz
 weautocheck.com
 web-3-4i8.pages.dev
-web-4w4zabtw9.pancake.run
 web-aave.cc
 web-airtm.com
 web-anyswap.exchange

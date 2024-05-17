@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May 17 06:05:04 UTC 2024
+# PhishFort Full Domain List - Fri May 17 12:05:39 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109579
+# Number of Entries: 109586
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -67497,6 +67497,7 @@
 ||pancakeswapp-flnance.org^
 ||pancakeswapp.biz^
 ||pancakeswapp.cc^
+||pancakeswapp.click^
 ||pancakeswapp.com^
 ||pancakeswapp.exchange^
 ||pancakeswapp.fans^
@@ -81970,6 +81971,7 @@
 ||sonikcoinsofficial.com^
 ||soniktokenfix.pages.dev^
 ||sonirkcoin.com^
+||sonne-revoke.net^
 ||sonne.gift^
 ||sonnefinancet.com^
 ||sonofshib-promogive.com^
@@ -87602,6 +87604,7 @@
 ||ton-chain.top^
 ||ton-credit.bond^
 ||ton-drop.org^
+||ton-gift.net^
 ||ton-giveaway.art^
 ||ton-gramico.com^
 ||ton-ico.com^
@@ -87617,6 +87620,7 @@
 ||ton-telegram.xyz^
 ||ton-usd.net^
 ||ton-usdt.icu^
+||ton-usdt.net^
 ||ton-wallet.store^
 ||ton.fund^
 ||ton.org-community.info^
@@ -87653,10 +87657,12 @@
 ||tonkeeper-fundsapproval.pages.dev^
 ||tonkeeper-security.com^
 ||tonkeeper-walletapproval.pages.dev^
+||tonkeeper-wallets.pages.dev^
 ||tonkeeper-web.pages.dev^
 ||tonkeeper.art^
 ||tonkeeper.bio^
 ||tonkeeper.business^
+||tonkeeper.cash^
 ||tonkeeper.cloud^
 ||tonkeeper.com-safe-transaction.pro^
 ||tonkeeper.dev^
@@ -87693,6 +87699,7 @@
 ||tonkeepper.com^
 ||tonkeeprr.com^
 ||tonkeepwr.com^
+||tonkepeer.net^
 ||tonkeper.com^
 ||tonkerper.com^
 ||tonkewper.com^
@@ -92527,6 +92534,7 @@
 ||virginmoney-livechat.com^
 ||virginmoney.business-liveapp.com^
 ||virginmoneybusinessbanking.com^
+||virginmoneychatonline.com^
 ||virginmoneychatwithus.web.app^
 ||virginmoneylivechat.com^
 ||virginmoneylivesupport.com^
@@ -96188,7 +96196,6 @@
 ||weathereport.xyz^
 ||weautocheck.com^
 ||web-3-4i8.pages.dev^
-||web-4w4zabtw9.pancake.run^
 ||web-aave.cc^
 ||web-airtm.com^
 ||web-anyswap.exchange^
