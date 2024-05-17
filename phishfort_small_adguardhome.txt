@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May 17 00:07:33 UTC 2024
+# PhishFort Small Domain List - Fri May 17 06:02:52 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 5926
+# Number of Entries: 5913
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -27,10 +27,8 @@
 ||1inch-new-migration.com^
 ||1inch-usdt.vip^
 ||1inch.coinmarketcap-app.com^
-||1inch.fyi^
 ||1inch.web3connect.mom^
 ||1incha.coinmarketcap-app.com^
-||1inchfinance.com^
 ||1inchnetwork.org^
 ||1inchnetwork.top^
 ||1inchwallet.app^
@@ -179,6 +177,7 @@
 ||agoda.reserv19471.org^
 ||agoda.tkffw888.icu^
 ||agoda.weboffer7181.com^
+||agoda24jam.online^
 ||agodaa-booking.com^
 ||agodabusiness.com^
 ||agodabusiness.pro^
@@ -280,7 +279,6 @@
 ||airtm-22.com^
 ||airtm.com.br^
 ||airtm.help^
-||airtm11.com^
 ||airtm30.com^
 ||airtm9.com^
 ||aitechblockresolve.pages.dev^
@@ -607,7 +605,6 @@
 ||azabltkckub-com.blogspot.com^
 ||azarlegal.com^
 ||azukiairdrop.netlify.app^
-||aîrtm.com^
 ||b2xb.pro^
 ||ba.inletuta.online^
 ||baaa.app^
@@ -836,7 +833,6 @@
 ||bremersecure.com^
 ||bridge-a3vigrfjd-pancakeswap.vercel.app^
 ||bridge.carier.xyz^
-||bridge.jumper.limo^
 ||bridgee-modei.network^
 ||bridgermrk.app^
 ||brldgemantle.com^
@@ -880,7 +876,6 @@
 ||cabinet-customs.org.ua^
 ||cad-ence.com^
 ||cadillac-usdt.com^
-||cafaland.com^
 ||cagacrypto-en.web.app^
 ||cake-airdrop.pages.dev^
 ||cake-defiweb3.com^
@@ -1034,8 +1029,6 @@
 ||claim-opsecs.net^
 ||claim-paals.com^
 ||claim-pacmon.xyz^
-||claim-pancakaswap.web.app^
-||claim-pancakeswap.web.app^
 ||claim-pancakeswep.firebaseapp.com^
 ||claim-pandoshi.web.app^
 ||claim-pendlefinance.com^
@@ -2371,7 +2364,6 @@
 ||jumper-exchange.network^
 ||jumperexchange.info^
 ||jumperexchange.xyz^
-||jumpers-exchanges.xyz^
 ||jumperweb3.pro^
 ||jupairdrop.com^
 ||jupcase.io^
@@ -3112,8 +3104,6 @@
 ||moshcuoss.com^
 ||motion-iind.com^
 ||motion-ind.co^
-||motion-industries.co^
-||motion-lndustries.com^
 ||motionindustries.info^
 ||motlon-inds.com^
 ||moz-dia-meviplota.com^
@@ -3669,6 +3659,7 @@
 ||pancakeswapclaimbox.com^
 ||pancakeswapclaimdropnow.com^
 ||pancakeswapclaimmdrop.com^
+||pancakeswapclaimnft.vercel.app^
 ||pancakeswapclaimz01.vercel.app^
 ||pancakeswapclaimz96.vercel.app^
 ||pancakeswapclick032.vercel.app^
@@ -3680,6 +3671,7 @@
 ||pancakeswapdrop78.vercel.app^
 ||pancakeswapdrops076.vercel.app^
 ||pancakeswapdrops41.vercel.app^
+||pancakeswapdropsclaimz.vercel.app^
 ||pancakeswaper.app^
 ||pancakeswapertoday.xyz^
 ||pancakeswapes.finance^
@@ -4115,7 +4107,6 @@
 ||receive.pilxeisgame.xyz^
 ||received-ethena.app^
 ||receivemetamask.com^
-||reckonmexico.com^
 ||reconnectto.org^
 ||recoveryportal.pages.dev^
 ||rectification-data.com^
@@ -4325,8 +4316,6 @@
 ||saksoff5thkppltpj.com^
 ||saksoff5thnn-us.com^
 ||saksoff5thnns.com^
-||saksoff5thnu.com^
-||saksoff5tho.com^
 ||saksoff5thoi-ju.com^
 ||saksoff5thsales.com^
 ||saksoff5thy-co.com^
@@ -4348,7 +4337,6 @@
 ||sappy3d.top^
 ||saqa-cases.app^
 ||saqacase.vip^
-||sareachbuy.com^
 ||satoshi-one.vercel.app^
 ||satoshidex-in.web.app^
 ||satoshiprotocol.vercel.app^
@@ -4472,9 +4460,6 @@
 ||sk-sangvich.cyou^
 ||sk8pes.world^
 ||skaddenlawfirm.com^
-||skasoff5th01.com^
-||skasoff5th02.com^
-||skasoff5th03.com^
 ||skinsmonkey.combine.tundragon.com^
 ||skipton-login.com^
 ||skymavis.cfd^
@@ -4871,6 +4856,7 @@
 ||ton-usd.net^
 ||ton-usdt.icu^
 ||ton.org-ethsendair.xyz^
+||tonapes.online^
 ||tonblockchain.click^
 ||tonchains.one^
 ||tonclaim.online^
@@ -4892,6 +4878,7 @@
 ||tonkeeper-security.com^
 ||tonkeeper-walletapproval.pages.dev^
 ||tonkeeper-web.pages.dev^
+||tonkeeper.art^
 ||tonkeeper.bio^
 ||tonkeeper.business^
 ||tonkeeper.cloud^
@@ -4903,6 +4890,7 @@
 ||tonkeeper.homes^
 ||tonkeeper.host^
 ||tonkeeper.in^
+||tonkeeper.ink^
 ||tonkeeper.io^
 ||tonkeeper.is^
 ||tonkeeper.life^
@@ -5583,7 +5571,6 @@
 ||www.evoypremium.com.br^
 ||www.express-tollroute407.com^
 ||www.f2poolc.com^
-||www.faq-legal.com^
 ||www.fcmdlo.com^
 ||www.fegtokenmigrate.com^
 ||www.fixedfloaflt.com^

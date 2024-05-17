@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May 17 00:07:33 UTC 2024
+# PhishFort Small Domain List - Fri May 17 06:02:52 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 5926
+# Number of Entries: 5913
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -27,10 +27,8 @@
 0.0.0.0 1inch-new-migration.com
 0.0.0.0 1inch-usdt.vip
 0.0.0.0 1inch.coinmarketcap-app.com
-0.0.0.0 1inch.fyi
 0.0.0.0 1inch.web3connect.mom
 0.0.0.0 1incha.coinmarketcap-app.com
-0.0.0.0 1inchfinance.com
 0.0.0.0 1inchnetwork.org
 0.0.0.0 1inchnetwork.top
 0.0.0.0 1inchwallet.app
@@ -179,6 +177,7 @@
 0.0.0.0 agoda.reserv19471.org
 0.0.0.0 agoda.tkffw888.icu
 0.0.0.0 agoda.weboffer7181.com
+0.0.0.0 agoda24jam.online
 0.0.0.0 agodaa-booking.com
 0.0.0.0 agodabusiness.com
 0.0.0.0 agodabusiness.pro
@@ -280,7 +279,6 @@
 0.0.0.0 airtm-22.com
 0.0.0.0 airtm.com.br
 0.0.0.0 airtm.help
-0.0.0.0 airtm11.com
 0.0.0.0 airtm30.com
 0.0.0.0 airtm9.com
 0.0.0.0 aitechblockresolve.pages.dev
@@ -607,7 +605,6 @@
 0.0.0.0 azabltkckub-com.blogspot.com
 0.0.0.0 azarlegal.com
 0.0.0.0 azukiairdrop.netlify.app
-0.0.0.0 aîrtm.com
 0.0.0.0 b2xb.pro
 0.0.0.0 ba.inletuta.online
 0.0.0.0 baaa.app
@@ -836,7 +833,6 @@
 0.0.0.0 bremersecure.com
 0.0.0.0 bridge-a3vigrfjd-pancakeswap.vercel.app
 0.0.0.0 bridge.carier.xyz
-0.0.0.0 bridge.jumper.limo
 0.0.0.0 bridgee-modei.network
 0.0.0.0 bridgermrk.app
 0.0.0.0 brldgemantle.com
@@ -880,7 +876,6 @@
 0.0.0.0 cabinet-customs.org.ua
 0.0.0.0 cad-ence.com
 0.0.0.0 cadillac-usdt.com
-0.0.0.0 cafaland.com
 0.0.0.0 cagacrypto-en.web.app
 0.0.0.0 cake-airdrop.pages.dev
 0.0.0.0 cake-defiweb3.com
@@ -1034,8 +1029,6 @@
 0.0.0.0 claim-opsecs.net
 0.0.0.0 claim-paals.com
 0.0.0.0 claim-pacmon.xyz
-0.0.0.0 claim-pancakaswap.web.app
-0.0.0.0 claim-pancakeswap.web.app
 0.0.0.0 claim-pancakeswep.firebaseapp.com
 0.0.0.0 claim-pandoshi.web.app
 0.0.0.0 claim-pendlefinance.com
@@ -2371,7 +2364,6 @@
 0.0.0.0 jumper-exchange.network
 0.0.0.0 jumperexchange.info
 0.0.0.0 jumperexchange.xyz
-0.0.0.0 jumpers-exchanges.xyz
 0.0.0.0 jumperweb3.pro
 0.0.0.0 jupairdrop.com
 0.0.0.0 jupcase.io
@@ -3112,8 +3104,6 @@
 0.0.0.0 moshcuoss.com
 0.0.0.0 motion-iind.com
 0.0.0.0 motion-ind.co
-0.0.0.0 motion-industries.co
-0.0.0.0 motion-lndustries.com
 0.0.0.0 motionindustries.info
 0.0.0.0 motlon-inds.com
 0.0.0.0 moz-dia-meviplota.com
@@ -3669,6 +3659,7 @@
 0.0.0.0 pancakeswapclaimbox.com
 0.0.0.0 pancakeswapclaimdropnow.com
 0.0.0.0 pancakeswapclaimmdrop.com
+0.0.0.0 pancakeswapclaimnft.vercel.app
 0.0.0.0 pancakeswapclaimz01.vercel.app
 0.0.0.0 pancakeswapclaimz96.vercel.app
 0.0.0.0 pancakeswapclick032.vercel.app
@@ -3680,6 +3671,7 @@
 0.0.0.0 pancakeswapdrop78.vercel.app
 0.0.0.0 pancakeswapdrops076.vercel.app
 0.0.0.0 pancakeswapdrops41.vercel.app
+0.0.0.0 pancakeswapdropsclaimz.vercel.app
 0.0.0.0 pancakeswaper.app
 0.0.0.0 pancakeswapertoday.xyz
 0.0.0.0 pancakeswapes.finance
@@ -4115,7 +4107,6 @@
 0.0.0.0 receive.pilxeisgame.xyz
 0.0.0.0 received-ethena.app
 0.0.0.0 receivemetamask.com
-0.0.0.0 reckonmexico.com
 0.0.0.0 reconnectto.org
 0.0.0.0 recoveryportal.pages.dev
 0.0.0.0 rectification-data.com
@@ -4325,8 +4316,6 @@
 0.0.0.0 saksoff5thkppltpj.com
 0.0.0.0 saksoff5thnn-us.com
 0.0.0.0 saksoff5thnns.com
-0.0.0.0 saksoff5thnu.com
-0.0.0.0 saksoff5tho.com
 0.0.0.0 saksoff5thoi-ju.com
 0.0.0.0 saksoff5thsales.com
 0.0.0.0 saksoff5thy-co.com
@@ -4348,7 +4337,6 @@
 0.0.0.0 sappy3d.top
 0.0.0.0 saqa-cases.app
 0.0.0.0 saqacase.vip
-0.0.0.0 sareachbuy.com
 0.0.0.0 satoshi-one.vercel.app
 0.0.0.0 satoshidex-in.web.app
 0.0.0.0 satoshiprotocol.vercel.app
@@ -4472,9 +4460,6 @@
 0.0.0.0 sk-sangvich.cyou
 0.0.0.0 sk8pes.world
 0.0.0.0 skaddenlawfirm.com
-0.0.0.0 skasoff5th01.com
-0.0.0.0 skasoff5th02.com
-0.0.0.0 skasoff5th03.com
 0.0.0.0 skinsmonkey.combine.tundragon.com
 0.0.0.0 skipton-login.com
 0.0.0.0 skymavis.cfd
@@ -4871,6 +4856,7 @@
 0.0.0.0 ton-usd.net
 0.0.0.0 ton-usdt.icu
 0.0.0.0 ton.org-ethsendair.xyz
+0.0.0.0 tonapes.online
 0.0.0.0 tonblockchain.click
 0.0.0.0 tonchains.one
 0.0.0.0 tonclaim.online
@@ -4892,6 +4878,7 @@
 0.0.0.0 tonkeeper-security.com
 0.0.0.0 tonkeeper-walletapproval.pages.dev
 0.0.0.0 tonkeeper-web.pages.dev
+0.0.0.0 tonkeeper.art
 0.0.0.0 tonkeeper.bio
 0.0.0.0 tonkeeper.business
 0.0.0.0 tonkeeper.cloud
@@ -4903,6 +4890,7 @@
 0.0.0.0 tonkeeper.homes
 0.0.0.0 tonkeeper.host
 0.0.0.0 tonkeeper.in
+0.0.0.0 tonkeeper.ink
 0.0.0.0 tonkeeper.io
 0.0.0.0 tonkeeper.is
 0.0.0.0 tonkeeper.life
@@ -5583,7 +5571,6 @@
 0.0.0.0 www.evoypremium.com.br
 0.0.0.0 www.express-tollroute407.com
 0.0.0.0 www.f2poolc.com
-0.0.0.0 www.faq-legal.com
 0.0.0.0 www.fcmdlo.com
 0.0.0.0 www.fegtokenmigrate.com
 0.0.0.0 www.fixedfloaflt.com
