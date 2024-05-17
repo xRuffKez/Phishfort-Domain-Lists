@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May 17 00:14:55 UTC 2024
+# PhishFort Full Domain List - Fri May 17 06:05:04 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109573
+# Number of Entries: 109579
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3143,6 +3143,7 @@
 0.0.0.0 agoda007.cn
 0.0.0.0 agoda15.com
 0.0.0.0 agoda2.com
+0.0.0.0 agoda24jam.online
 0.0.0.0 agoda3.cc
 0.0.0.0 agoda3.com
 0.0.0.0 agoda3.vip
@@ -67168,6 +67169,7 @@
 0.0.0.0 pancakeswapclaimbox.com
 0.0.0.0 pancakeswapclaimdropnow.com
 0.0.0.0 pancakeswapclaimmdrop.com
+0.0.0.0 pancakeswapclaimnft.vercel.app
 0.0.0.0 pancakeswapclaims.com
 0.0.0.0 pancakeswapclaimz01.vercel.app
 0.0.0.0 pancakeswapclaimz96.vercel.app
@@ -67225,6 +67227,7 @@
 0.0.0.0 pancakeswapdrop78.vercel.app
 0.0.0.0 pancakeswapdrops076.vercel.app
 0.0.0.0 pancakeswapdrops41.vercel.app
+0.0.0.0 pancakeswapdropsclaimz.vercel.app
 0.0.0.0 pancakeswapdutch.com
 0.0.0.0 pancakeswape-finance.site
 0.0.0.0 pancakeswape-finnance-finance.co.uk
@@ -87621,6 +87624,7 @@
 0.0.0.0 ton.org-newyear.fun
 0.0.0.0 ton.vu
 0.0.0.0 ton.x-wallet.top
+0.0.0.0 tonapes.online
 0.0.0.0 tonblockchain.click
 0.0.0.0 tonc0in.website
 0.0.0.0 tonchains.one
@@ -87650,6 +87654,7 @@
 0.0.0.0 tonkeeper-security.com
 0.0.0.0 tonkeeper-walletapproval.pages.dev
 0.0.0.0 tonkeeper-web.pages.dev
+0.0.0.0 tonkeeper.art
 0.0.0.0 tonkeeper.bio
 0.0.0.0 tonkeeper.business
 0.0.0.0 tonkeeper.cloud
@@ -87661,6 +87666,7 @@
 0.0.0.0 tonkeeper.homes
 0.0.0.0 tonkeeper.host
 0.0.0.0 tonkeeper.in
+0.0.0.0 tonkeeper.ink
 0.0.0.0 tonkeeper.io
 0.0.0.0 tonkeeper.is
 0.0.0.0 tonkeeper.life

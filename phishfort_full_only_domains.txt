@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Fri May 17 00:14:55 UTC 2024
+# PhishFort Full Domain List - Fri May 17 06:05:04 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109573
+# Number of Entries: 109579
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3142,6 +3142,7 @@ agoda.ycs.my.id
 agoda007.cn
 agoda15.com
 agoda2.com
+agoda24jam.online
 agoda3.cc
 agoda3.com
 agoda3.vip
@@ -67167,6 +67168,7 @@ pancakeswapclaim6754.vercel.app
 pancakeswapclaimbox.com
 pancakeswapclaimdropnow.com
 pancakeswapclaimmdrop.com
+pancakeswapclaimnft.vercel.app
 pancakeswapclaims.com
 pancakeswapclaimz01.vercel.app
 pancakeswapclaimz96.vercel.app
@@ -67224,6 +67226,7 @@ pancakeswapdrop15.vercel.app
 pancakeswapdrop78.vercel.app
 pancakeswapdrops076.vercel.app
 pancakeswapdrops41.vercel.app
+pancakeswapdropsclaimz.vercel.app
 pancakeswapdutch.com
 pancakeswape-finance.site
 pancakeswape-finnance-finance.co.uk
@@ -87620,6 +87623,7 @@ ton.org-ethsendair.xyz
 ton.org-newyear.fun
 ton.vu
 ton.x-wallet.top
+tonapes.online
 tonblockchain.click
 tonc0in.website
 tonchains.one
@@ -87649,6 +87653,7 @@ tonkeeper-fundsapproval.pages.dev
 tonkeeper-security.com
 tonkeeper-walletapproval.pages.dev
 tonkeeper-web.pages.dev
+tonkeeper.art
 tonkeeper.bio
 tonkeeper.business
 tonkeeper.cloud
@@ -87660,6 +87665,7 @@ tonkeeper.help
 tonkeeper.homes
 tonkeeper.host
 tonkeeper.in
+tonkeeper.ink
 tonkeeper.io
 tonkeeper.is
 tonkeeper.life
