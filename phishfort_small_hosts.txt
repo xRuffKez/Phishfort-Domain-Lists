@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May 16 18:02:15 UTC 2024
+# PhishFort Small Domain List - Fri May 17 00:07:33 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 5922
+# Number of Entries: 5926
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -204,6 +204,7 @@
 0.0.0.0 agveah.cc
 0.0.0.0 ahora-ingres-aca.netlify.app
 0.0.0.0 ai-dapp.pages.dev
+0.0.0.0 ai788.net
 0.0.0.0 aibaoinsurance.com
 0.0.0.0 aicoinex-amm.com
 0.0.0.0 aidexi.net
@@ -908,6 +909,7 @@
 0.0.0.0 cambridgesecure.seconfirmationdev.com
 0.0.0.0 cambridgetraders.com
 0.0.0.0 cameco.vip
+0.0.0.0 cameco88.vip
 0.0.0.0 camelot.magpiexyz.io.wallet-connect.site
 0.0.0.0 camelot.magpiexyz.io.web-3.li
 0.0.0.0 cancelar-ahorat.webcindario.com
@@ -1146,6 +1148,7 @@
 0.0.0.0 clifford-l-chance.com
 0.0.0.0 clifford-law-chance.com
 0.0.0.0 cliffordchance-international.com
+0.0.0.0 cliffordchance-london.com
 0.0.0.0 cliffordchance-merger-acquisition.com
 0.0.0.0 cliffordchance.business
 0.0.0.0 cliffordchance.site
@@ -2295,6 +2298,7 @@
 0.0.0.0 invite-starknet.org
 0.0.0.0 io-net.pages.dev
 0.0.0.0 iotmodysbln.com
+0.0.0.0 ipv6.162-0-208-72.cprapid.com
 0.0.0.0 iqz2.sa.com
 0.0.0.0 ireth.rnag.site
 0.0.0.0 irrahkar.com
@@ -5080,6 +5084,7 @@
 0.0.0.0 us-coinmarketcap.com
 0.0.0.0 us4f.cc
 0.0.0.0 us_mettmsika_en_us3.godaddysites.com
+0.0.0.0 usaluxurybags.com
 0.0.0.0 usbnkrellacrd.site
 0.0.0.0 uscmd.pro
 0.0.0.0 usdc-r9kaq.github.io
@@ -5136,7 +5141,6 @@
 0.0.0.0 verification.memesonsol.com
 0.0.0.0 verification.pancakeswapfinancee.net
 0.0.0.0 verification.pancakeswapunlock.com
-0.0.0.0 verificheck.com
 0.0.0.0 verified-portalgaming.pages.dev
 0.0.0.0 verify-assets.xyz
 0.0.0.0 verify-matrica.vercel.app

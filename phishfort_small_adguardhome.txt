@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Thu May 16 18:02:15 UTC 2024
+# PhishFort Small Domain List - Fri May 17 00:07:33 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 5922
+# Number of Entries: 5926
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -204,6 +204,7 @@
 ||agveah.cc^
 ||ahora-ingres-aca.netlify.app^
 ||ai-dapp.pages.dev^
+||ai788.net^
 ||aibaoinsurance.com^
 ||aicoinex-amm.com^
 ||aidexi.net^
@@ -908,6 +909,7 @@
 ||cambridgesecure.seconfirmationdev.com^
 ||cambridgetraders.com^
 ||cameco.vip^
+||cameco88.vip^
 ||camelot.magpiexyz.io.wallet-connect.site^
 ||camelot.magpiexyz.io.web-3.li^
 ||cancelar-ahorat.webcindario.com^
@@ -1146,6 +1148,7 @@
 ||clifford-l-chance.com^
 ||clifford-law-chance.com^
 ||cliffordchance-international.com^
+||cliffordchance-london.com^
 ||cliffordchance-merger-acquisition.com^
 ||cliffordchance.business^
 ||cliffordchance.site^
@@ -2295,6 +2298,7 @@
 ||invite-starknet.org^
 ||io-net.pages.dev^
 ||iotmodysbln.com^
+||ipv6.162-0-208-72.cprapid.com^
 ||iqz2.sa.com^
 ||ireth.rnag.site^
 ||irrahkar.com^
@@ -5080,6 +5084,7 @@
 ||us-coinmarketcap.com^
 ||us4f.cc^
 ||us_mettmsika_en_us3.godaddysites.com^
+||usaluxurybags.com^
 ||usbnkrellacrd.site^
 ||uscmd.pro^
 ||usdc-r9kaq.github.io^
@@ -5136,7 +5141,6 @@
 ||verification.memesonsol.com^
 ||verification.pancakeswapfinancee.net^
 ||verification.pancakeswapunlock.com^
-||verificheck.com^
 ||verified-portalgaming.pages.dev^
 ||verify-assets.xyz^
 ||verify-matrica.vercel.app^
