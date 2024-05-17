@@ -1,6 +1,6 @@
-# PhishFort Full Domain List - Thu May 16 18:04:22 UTC 2024
+# PhishFort Full Domain List - Fri May 17 00:14:55 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 109568
+# Number of Entries: 109573
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -3279,6 +3279,7 @@ ai-worldcoin.org
 ai-ypredlict.com
 ai.cosmicpet.cc
 ai.cosmmodog.xyz
+ai788.net
 aiaai-acs-network.herokuapp.com
 aiaegis.xyz
 aiarbdoge.co
@@ -15683,6 +15684,7 @@ cambridgetraders.com
 cambridgetrades.com
 camcaps.site
 cameco.vip
+cameco88.vip
 camel-e8m.pages.dev
 camelneedlesnft.com
 camelot-app.com
@@ -18192,6 +18194,7 @@ cliffordchance-attorney.com
 cliffordchance-international.com
 cliffordchance-legal.co.uk
 cliffordchance-llp.com
+cliffordchance-london.com
 cliffordchance-merger-acquisition.com
 cliffordchance.akrdesign.co
 cliffordchance.business
@@ -41230,6 +41233,7 @@ ipuncakeswap.com
 ipuncakeswaps-finance.com
 ipuncakeswaps.org
 ipunks-app.web3-bridge-claimings.pro
+ipv6.162-0-208-72.cprapid.com
 iq-repair.com
 iqancakeswap.com
 iqancakesweps.net
@@ -90934,6 +90938,7 @@ usa5starshop.com
 usabank.sa.com
 usagrantor.com
 usahere.sa.com
+usaluxurybags.com
 usapad.top
 usaseoseller.com
 usatexasunigiri.com
