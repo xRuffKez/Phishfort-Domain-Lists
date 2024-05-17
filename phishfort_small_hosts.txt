@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May 17 06:02:52 UTC 2024
+# PhishFort Small Domain List - Fri May 17 12:02:57 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 5913
+# Number of Entries: 5920
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -878,7 +878,6 @@
 0.0.0.0 cadillac-usdt.com
 0.0.0.0 cagacrypto-en.web.app
 0.0.0.0 cake-airdrop.pages.dev
-0.0.0.0 cake-defiweb3.com
 0.0.0.0 cake-distibution-pancakeswap.com
 0.0.0.0 cake-distribution.net
 0.0.0.0 cake-magpiexyz.pages.dev
@@ -3682,6 +3681,7 @@
 0.0.0.0 pancakeswapgiveaway.com
 0.0.0.0 pancakeswapgiveawayclaim.com
 0.0.0.0 pancakeswaphelp.pages.dev
+0.0.0.0 pancakeswapp.click
 0.0.0.0 pancakeswapp.pages.dev
 0.0.0.0 pancakeswapp.web.app
 0.0.0.0 pancakeswappro.com
@@ -4534,6 +4534,7 @@
 0.0.0.0 somnia-network-web3.vercel.app
 0.0.0.0 sonae.com.ng
 0.0.0.0 sonicswall.com
+0.0.0.0 sonne-revoke.net
 0.0.0.0 sophon-registrations.com
 0.0.0.0 sor-nft.web.app
 0.0.0.0 space-catch.web.app
@@ -4848,6 +4849,7 @@
 0.0.0.0 tomandgerimail.com
 0.0.0.0 ton-chain.one
 0.0.0.0 ton-chain.top
+0.0.0.0 ton-gift.net
 0.0.0.0 ton-giveaway.art
 0.0.0.0 ton-kepeer.com
 0.0.0.0 ton-redo.com
@@ -4855,6 +4857,7 @@
 0.0.0.0 ton-telegram.xyz
 0.0.0.0 ton-usd.net
 0.0.0.0 ton-usdt.icu
+0.0.0.0 ton-usdt.net
 0.0.0.0 ton.org-ethsendair.xyz
 0.0.0.0 tonapes.online
 0.0.0.0 tonblockchain.click
@@ -4877,10 +4880,12 @@
 0.0.0.0 tonkeeper-fundsapproval.pages.dev
 0.0.0.0 tonkeeper-security.com
 0.0.0.0 tonkeeper-walletapproval.pages.dev
+0.0.0.0 tonkeeper-wallets.pages.dev
 0.0.0.0 tonkeeper-web.pages.dev
 0.0.0.0 tonkeeper.art
 0.0.0.0 tonkeeper.bio
 0.0.0.0 tonkeeper.business
+0.0.0.0 tonkeeper.cash
 0.0.0.0 tonkeeper.cloud
 0.0.0.0 tonkeeper.com-safe-transaction.pro
 0.0.0.0 tonkeeper.dev
@@ -4917,6 +4922,7 @@
 0.0.0.0 tonkeepper.com
 0.0.0.0 tonkeeprr.com
 0.0.0.0 tonkeepwr.com
+0.0.0.0 tonkepeer.net
 0.0.0.0 tonkeper.com
 0.0.0.0 tonkerper.com
 0.0.0.0 tonkewper.com
@@ -5159,6 +5165,7 @@
 0.0.0.0 virginmoney-livechat.com
 0.0.0.0 virginmoney.business-liveapp.com
 0.0.0.0 virginmoneybusinessbanking.com
+0.0.0.0 virginmoneychatonline.com
 0.0.0.0 virginmoneychatwithus.web.app
 0.0.0.0 virginmoneylivechat.com
 0.0.0.0 virginmoneylivesupport.com

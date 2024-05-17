@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Fri May 17 06:02:52 UTC 2024
+# PhishFort Small Domain List - Fri May 17 12:02:57 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 5913
+# Number of Entries: 5920
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -877,7 +877,6 @@ cad-ence.com
 cadillac-usdt.com
 cagacrypto-en.web.app
 cake-airdrop.pages.dev
-cake-defiweb3.com
 cake-distibution-pancakeswap.com
 cake-distribution.net
 cake-magpiexyz.pages.dev
@@ -3681,6 +3680,7 @@ pancakeswapfinance.in
 pancakeswapgiveaway.com
 pancakeswapgiveawayclaim.com
 pancakeswaphelp.pages.dev
+pancakeswapp.click
 pancakeswapp.pages.dev
 pancakeswapp.web.app
 pancakeswappro.com
@@ -4533,6 +4533,7 @@ sommelier-finance.web.app
 somnia-network-web3.vercel.app
 sonae.com.ng
 sonicswall.com
+sonne-revoke.net
 sophon-registrations.com
 sor-nft.web.app
 space-catch.web.app
@@ -4847,6 +4848,7 @@ tollvest.org
 tomandgerimail.com
 ton-chain.one
 ton-chain.top
+ton-gift.net
 ton-giveaway.art
 ton-kepeer.com
 ton-redo.com
@@ -4854,6 +4856,7 @@ ton-telegram.click
 ton-telegram.xyz
 ton-usd.net
 ton-usdt.icu
+ton-usdt.net
 ton.org-ethsendair.xyz
 tonapes.online
 tonblockchain.click
@@ -4876,10 +4879,12 @@ tonkeepeer.com
 tonkeeper-fundsapproval.pages.dev
 tonkeeper-security.com
 tonkeeper-walletapproval.pages.dev
+tonkeeper-wallets.pages.dev
 tonkeeper-web.pages.dev
 tonkeeper.art
 tonkeeper.bio
 tonkeeper.business
+tonkeeper.cash
 tonkeeper.cloud
 tonkeeper.com-safe-transaction.pro
 tonkeeper.dev
@@ -4916,6 +4921,7 @@ tonkeepet.com
 tonkeepper.com
 tonkeeprr.com
 tonkeepwr.com
+tonkepeer.net
 tonkeper.com
 tonkerper.com
 tonkewper.com
@@ -5158,6 +5164,7 @@ virgin-awareness.com
 virginmoney-livechat.com
 virginmoney.business-liveapp.com
 virginmoneybusinessbanking.com
+virginmoneychatonline.com
 virginmoneychatwithus.web.app
 virginmoneylivechat.com
 virginmoneylivesupport.com
