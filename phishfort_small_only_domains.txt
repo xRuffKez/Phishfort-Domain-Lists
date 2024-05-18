@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Sat May 18 05:50:16 UTC 2024
+# PhishFort Small Domain List - Sat May 18 06:59:53 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 5731
 # Project: PhishFort (https://phishfort.com/)
@@ -172,6 +172,7 @@ agoda.tkffw888.icu
 agoda.weboffer7181.com
 agoda24jam.online
 agodaa-booking.com
+agodabooking.top
 agodabusiness.com
 agodabusiness.pro
 agodahotel.cc
@@ -1726,6 +1727,7 @@ fasrrermigr.com
 fassstokenguidepapy.com
 fastdevmigrathaslite.pro
 fastdevmigrathxqnzv.pro
+fatehelpsthebrave.com
 faucetsankoscan.io
 fcovcs.com
 fcstone.one
@@ -1827,6 +1829,7 @@ fsafeds.comt.sa.com
 fsafeds.sa.com
 fsafeds.za.com
 ftp.jeddah-airport-city.com
+fuadazzad.net
 fuelnetwork-register.vercel.app
 fujimitsudynamic.com
 fullmoonbird-next.vercel.app
@@ -2540,7 +2543,6 @@ magiciorewards.com
 magiclyeden.app
 magicsquares.io
 magpiesxyz.site
-magpiexyz.in
 magpiexyz.pages.dev
 magpiiexyz.cyou
 magplexyz.site
@@ -3589,7 +3591,6 @@ pandefi.co
 pandora-boxes.app
 pandora-launchpad.com
 pandoraerc.xyz
-pandoshi.net
 pandoshidaapsintegration.onrender.com
 pandosi.pro
 panexpode.com
@@ -4486,7 +4487,6 @@ stonfx.com
 strk-coin.xyz
 strkclaim.space
 strknet.com
-strknet.network
 stroom-network-web3.vercel.app
 suburloia.com
 sudredio.com

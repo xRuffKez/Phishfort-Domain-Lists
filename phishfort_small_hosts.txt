@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Sat May 18 05:50:16 UTC 2024
+# PhishFort Small Domain List - Sat May 18 06:59:53 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 5731
@@ -173,6 +173,7 @@
 0.0.0.0 agoda.weboffer7181.com
 0.0.0.0 agoda24jam.online
 0.0.0.0 agodaa-booking.com
+0.0.0.0 agodabooking.top
 0.0.0.0 agodabusiness.com
 0.0.0.0 agodabusiness.pro
 0.0.0.0 agodahotel.cc
@@ -1727,6 +1728,7 @@
 0.0.0.0 fassstokenguidepapy.com
 0.0.0.0 fastdevmigrathaslite.pro
 0.0.0.0 fastdevmigrathxqnzv.pro
+0.0.0.0 fatehelpsthebrave.com
 0.0.0.0 faucetsankoscan.io
 0.0.0.0 fcovcs.com
 0.0.0.0 fcstone.one
@@ -1828,6 +1830,7 @@
 0.0.0.0 fsafeds.sa.com
 0.0.0.0 fsafeds.za.com
 0.0.0.0 ftp.jeddah-airport-city.com
+0.0.0.0 fuadazzad.net
 0.0.0.0 fuelnetwork-register.vercel.app
 0.0.0.0 fujimitsudynamic.com
 0.0.0.0 fullmoonbird-next.vercel.app
@@ -2541,7 +2544,6 @@
 0.0.0.0 magiclyeden.app
 0.0.0.0 magicsquares.io
 0.0.0.0 magpiesxyz.site
-0.0.0.0 magpiexyz.in
 0.0.0.0 magpiexyz.pages.dev
 0.0.0.0 magpiiexyz.cyou
 0.0.0.0 magplexyz.site
@@ -3590,7 +3592,6 @@
 0.0.0.0 pandora-boxes.app
 0.0.0.0 pandora-launchpad.com
 0.0.0.0 pandoraerc.xyz
-0.0.0.0 pandoshi.net
 0.0.0.0 pandoshidaapsintegration.onrender.com
 0.0.0.0 pandosi.pro
 0.0.0.0 panexpode.com
@@ -4487,7 +4488,6 @@
 0.0.0.0 strk-coin.xyz
 0.0.0.0 strkclaim.space
 0.0.0.0 strknet.com
-0.0.0.0 strknet.network
 0.0.0.0 stroom-network-web3.vercel.app
 0.0.0.0 suburloia.com
 0.0.0.0 sudredio.com

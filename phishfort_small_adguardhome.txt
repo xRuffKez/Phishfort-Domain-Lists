@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Sat May 18 05:50:16 UTC 2024
+# PhishFort Small Domain List - Sat May 18 06:59:53 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
 # Number of Entries: 5731
@@ -173,6 +173,7 @@
 ||agoda.weboffer7181.com^
 ||agoda24jam.online^
 ||agodaa-booking.com^
+||agodabooking.top^
 ||agodabusiness.com^
 ||agodabusiness.pro^
 ||agodahotel.cc^
@@ -1727,6 +1728,7 @@
 ||fassstokenguidepapy.com^
 ||fastdevmigrathaslite.pro^
 ||fastdevmigrathxqnzv.pro^
+||fatehelpsthebrave.com^
 ||faucetsankoscan.io^
 ||fcovcs.com^
 ||fcstone.one^
@@ -1828,6 +1830,7 @@
 ||fsafeds.sa.com^
 ||fsafeds.za.com^
 ||ftp.jeddah-airport-city.com^
+||fuadazzad.net^
 ||fuelnetwork-register.vercel.app^
 ||fujimitsudynamic.com^
 ||fullmoonbird-next.vercel.app^
@@ -2541,7 +2544,6 @@
 ||magiclyeden.app^
 ||magicsquares.io^
 ||magpiesxyz.site^
-||magpiexyz.in^
 ||magpiexyz.pages.dev^
 ||magpiiexyz.cyou^
 ||magplexyz.site^
@@ -3590,7 +3592,6 @@
 ||pandora-boxes.app^
 ||pandora-launchpad.com^
 ||pandoraerc.xyz^
-||pandoshi.net^
 ||pandoshidaapsintegration.onrender.com^
 ||pandosi.pro^
 ||panexpode.com^
@@ -4487,7 +4488,6 @@
 ||strk-coin.xyz^
 ||strkclaim.space^
 ||strknet.com^
-||strknet.network^
 ||stroom-network-web3.vercel.app^
 ||suburloia.com^
 ||sudredio.com^
