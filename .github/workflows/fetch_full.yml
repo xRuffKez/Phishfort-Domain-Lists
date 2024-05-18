@@ -2,7 +2,7 @@ name: Update PhishFort Full Domain List
 
 on:
   schedule:
-    # Schedule the action to run every 10 minutes
+    # Schedule the action to run every 6 hours
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
@@ -25,10 +25,17 @@ jobs:
       - name: Download PhishFort domain list
         run: curl -o domains.json https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/domains.json
 
-      # Parse JSON and extract domains
-      - name: Parse JSON and extract domains
+      # Parse JSON and extract domains with DNS status OK
+      - name: Parse JSON and extract valid domains
         run: |
-          jq -r '.[]' domains.json | sort | uniq > phishfort_full_only_domains_new.txt
+          jq -r '.[]' domains.json | sort | uniq > phishfort_full_only_domains_all.txt
+          > phishfort_full_only_domains_new.txt
+          while read -r domain; do
+            if dig +short "$domain" > /dev/null; then
+              echo "$domain" >> phishfort_full_only_domains_new.txt
+            fi
+          done < phishfort_full_only_domains_all.txt
+
       # Check if the domain list is not empty
       - name: Check if domain list is not empty
         run: |
@@ -38,16 +45,18 @@ jobs:
             echo "Domain list is empty."
             exit 1
           fi
+
       # Count the number of domains
       - name: Count the number of domains
         run: |
           num_domains=$(wc -l < phishfort_full_only_domains_new.txt)
           echo "::set-output name=num_domains::$num_domains"
+
       # Add descriptions and count to output files
       - name: Add descriptions and count to output files
         run: |
           timestamp=$(date)
-          num_domains=$(cat phishfort_full_only_domains_new.txt | wc -l)
+          num_domains=$(wc -l < phishfort_full_only_domains_new.txt)
           
           echo "# PhishFort Full Domain List - $timestamp" > phishfort_full_hosts.txt
           echo "# This list is formatted for use with hosts file." >> phishfort_full_hosts.txt
@@ -96,6 +105,7 @@ jobs:
           awk '{ print $1 }' phishfort_full_only_domains_new.txt >> phishfort_full_only_domains.txt
           awk '{ print "local-zone: \"" $1 "\" redirect\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_full_only_domains_new.txt >> phishfort_full_rpz.conf
           awk '{ print "local-zone: \"" $1 "\" static\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_full_only_domains_new.txt >> phishfort_full_unbound.conf
+
       # Check if only the timestamp line has changed
       - name: Check if only the timestamp line has changed
         id: check_timestamp_change
@@ -105,6 +115,7 @@ jobs:
           else
             echo "::set-output name=changed::true"
           fi
+
       # Commit and push changes if the content has changed
       - name: Commit and push changes if the content has changed
         if: steps.check_timestamp_change.outputs.changed == 'true'
