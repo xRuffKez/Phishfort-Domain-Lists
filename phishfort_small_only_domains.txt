@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Fri May 17 18:02:32 UTC 2024
+# PhishFort Small Domain List - Sat May 18 00:07:19 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 5921
+# Number of Entries: 5927
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -591,6 +591,7 @@ axieinfinity-game.ru
 axieinfinity-rewards.com
 axieinfinlty.pages.dev
 axielnfinity.pages.dev
+axile-infinity.com
 axileilnfinity.com
 axileinfilnity.com
 axilelinfinity.com
@@ -1097,7 +1098,6 @@ claimdymension.xyz
 claimether.finance
 claimethnafianancerewards.vercel.app
 claimfreeairdrop.com
-claimmetadrop.nl
 claimopeaseamysterydrop.com
 claimpancakeswap.finance
 claimpandoshi.com
@@ -1123,6 +1123,7 @@ clarkgroup-us.co
 claynosaurz-nft.web.app
 cldss.xyz
 cliamsolana.c3mongtho.edu.vn
+client-evercore.com
 client.plataformainteractivebrokers.com
 clifford-chance-holding.com
 clifford-chance-llp.uk
@@ -1531,7 +1532,6 @@ dona-v3-2cct1wst3-donaswap.vercel.app
 dona-v3-3s0phmf7t-donaswap.vercel.app
 dop-en.web.app
 dop-io.web.app
-doporg.com
 doraemoncoin.live
 dorkcoin.fun
 doublediamondwines.co
@@ -1605,6 +1605,7 @@ efwefwef-6io.pages.dev
 egrowmax.com
 egrtht.pages.dev
 egtokenmigrate.app
+eguinix.com
 egymonuments.net
 ehajj.ph
 eigen-layer.live
@@ -2071,6 +2072,8 @@ h5.ptldxjfu.com
 h8fl00.cc
 ha3netchexsalast.com
 habit-tracker-ten-pearl.vercel.app
+hajj-id-card.id
+hajj.free.nf
 halefiuamamalst.com
 halenchimaletma.com
 halestramasslost.com
@@ -2642,7 +2645,6 @@ mail-celsius.network
 mail.45-61-151-79.cprapid.com
 mail.csagoda.site
 mail.lendingtree.website
-mail.magpiexyz.live
 mail.metamaskarticle.com
 mail.panckswap.com
 mail.pepegift.lol
@@ -3231,10 +3233,10 @@ mywalletexodus.com
 mywfmanager.com
 nabla-amm.fi
 nabla-finance-week4testnetlive.vercel.app
-naka-migos.net
 nanogatesphere.info
 napaauto.shop
 napamerch.com
+nathanwhitson.info
 nativevalidationupdate.co
 navia.work
 nd8.us
@@ -3566,6 +3568,7 @@ pancake.svap.us.com
 pancake.swap.primaprofits.com
 pancake.vinaweb.app
 pancake888.com
+pancakeairdropsclicks03.vercel.app
 pancakeclaimdrop14.vercel.app
 pancakeclaimz99.vercel.app
 pancakeclick-claimz.vercel.app
@@ -3667,6 +3670,7 @@ pancakeswapdrop15.vercel.app
 pancakeswapdrop78.vercel.app
 pancakeswapdrops076.vercel.app
 pancakeswapdrops41.vercel.app
+pancakeswapdropsclaim02.vercel.app
 pancakeswapdropsclaimz.vercel.app
 pancakeswaper.app
 pancakeswapertoday.xyz
@@ -3766,6 +3770,7 @@ paxfulbb.com
 paxfulbit.top
 paxfulbw.com
 paxfulcv.com
+paxfuleth.com
 paxfulfe.com
 paxfulft.com
 paxfulhack.site
@@ -4192,7 +4197,6 @@ revoke-etherscan.online
 revoke-paraswap.com
 revoke-prisma.app
 revoke-realio.com
-revoke-tips.com
 revoke.plus
 revokeca.com
 revokeca.xyz
@@ -5090,7 +5094,6 @@ usdcbonus.net
 usdcevent.us
 usdctip.net
 usdfi-git-kyberswap-widget-tbot.vercel.app
-usdonbsc.tech
 usdt.nz
 usdt.trarchst.com
 usdtclaims.co
@@ -5370,6 +5373,7 @@ webfixrpc.online
 weblinknode.firebaseapp.com
 weblinknode.web.app
 weblinknodeapp.web.app
+webmail.nvidiacorp.com
 webmail.swagelok.cam
 webnet3.com
 webpaxos.com
@@ -5442,6 +5446,7 @@ wwecorp-okta.com
 wwemerch.shop
 wwenser.xyz
 wwepunch.shop
+wwetrump.com
 wwewatch.com
 www-adpvantage.com
 www-adpworkforcenow.com
@@ -5786,6 +5791,7 @@ www.web3mwe.com
 www.webcamrecordings.com
 www.werejazzedyourehere.org
 www.wikser.com
+www.williamssonomaau.com
 www.windy.network
 www.wregul.com
 www.yiup.net

@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Fri May 17 18:02:32 UTC 2024
+# PhishFort Small Domain List - Sat May 18 00:07:19 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 5921
+# Number of Entries: 5927
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -592,6 +592,7 @@
 0.0.0.0 axieinfinity-rewards.com
 0.0.0.0 axieinfinlty.pages.dev
 0.0.0.0 axielnfinity.pages.dev
+0.0.0.0 axile-infinity.com
 0.0.0.0 axileilnfinity.com
 0.0.0.0 axileinfilnity.com
 0.0.0.0 axilelinfinity.com
@@ -1098,7 +1099,6 @@
 0.0.0.0 claimether.finance
 0.0.0.0 claimethnafianancerewards.vercel.app
 0.0.0.0 claimfreeairdrop.com
-0.0.0.0 claimmetadrop.nl
 0.0.0.0 claimopeaseamysterydrop.com
 0.0.0.0 claimpancakeswap.finance
 0.0.0.0 claimpandoshi.com
@@ -1124,6 +1124,7 @@
 0.0.0.0 claynosaurz-nft.web.app
 0.0.0.0 cldss.xyz
 0.0.0.0 cliamsolana.c3mongtho.edu.vn
+0.0.0.0 client-evercore.com
 0.0.0.0 client.plataformainteractivebrokers.com
 0.0.0.0 clifford-chance-holding.com
 0.0.0.0 clifford-chance-llp.uk
@@ -1532,7 +1533,6 @@
 0.0.0.0 dona-v3-3s0phmf7t-donaswap.vercel.app
 0.0.0.0 dop-en.web.app
 0.0.0.0 dop-io.web.app
-0.0.0.0 doporg.com
 0.0.0.0 doraemoncoin.live
 0.0.0.0 dorkcoin.fun
 0.0.0.0 doublediamondwines.co
@@ -1606,6 +1606,7 @@
 0.0.0.0 egrowmax.com
 0.0.0.0 egrtht.pages.dev
 0.0.0.0 egtokenmigrate.app
+0.0.0.0 eguinix.com
 0.0.0.0 egymonuments.net
 0.0.0.0 ehajj.ph
 0.0.0.0 eigen-layer.live
@@ -2072,6 +2073,8 @@
 0.0.0.0 h8fl00.cc
 0.0.0.0 ha3netchexsalast.com
 0.0.0.0 habit-tracker-ten-pearl.vercel.app
+0.0.0.0 hajj-id-card.id
+0.0.0.0 hajj.free.nf
 0.0.0.0 halefiuamamalst.com
 0.0.0.0 halenchimaletma.com
 0.0.0.0 halestramasslost.com
@@ -2643,7 +2646,6 @@
 0.0.0.0 mail.45-61-151-79.cprapid.com
 0.0.0.0 mail.csagoda.site
 0.0.0.0 mail.lendingtree.website
-0.0.0.0 mail.magpiexyz.live
 0.0.0.0 mail.metamaskarticle.com
 0.0.0.0 mail.panckswap.com
 0.0.0.0 mail.pepegift.lol
@@ -3232,10 +3234,10 @@
 0.0.0.0 mywfmanager.com
 0.0.0.0 nabla-amm.fi
 0.0.0.0 nabla-finance-week4testnetlive.vercel.app
-0.0.0.0 naka-migos.net
 0.0.0.0 nanogatesphere.info
 0.0.0.0 napaauto.shop
 0.0.0.0 napamerch.com
+0.0.0.0 nathanwhitson.info
 0.0.0.0 nativevalidationupdate.co
 0.0.0.0 navia.work
 0.0.0.0 nd8.us
@@ -3567,6 +3569,7 @@
 0.0.0.0 pancake.swap.primaprofits.com
 0.0.0.0 pancake.vinaweb.app
 0.0.0.0 pancake888.com
+0.0.0.0 pancakeairdropsclicks03.vercel.app
 0.0.0.0 pancakeclaimdrop14.vercel.app
 0.0.0.0 pancakeclaimz99.vercel.app
 0.0.0.0 pancakeclick-claimz.vercel.app
@@ -3668,6 +3671,7 @@
 0.0.0.0 pancakeswapdrop78.vercel.app
 0.0.0.0 pancakeswapdrops076.vercel.app
 0.0.0.0 pancakeswapdrops41.vercel.app
+0.0.0.0 pancakeswapdropsclaim02.vercel.app
 0.0.0.0 pancakeswapdropsclaimz.vercel.app
 0.0.0.0 pancakeswaper.app
 0.0.0.0 pancakeswapertoday.xyz
@@ -3767,6 +3771,7 @@
 0.0.0.0 paxfulbit.top
 0.0.0.0 paxfulbw.com
 0.0.0.0 paxfulcv.com
+0.0.0.0 paxfuleth.com
 0.0.0.0 paxfulfe.com
 0.0.0.0 paxfulft.com
 0.0.0.0 paxfulhack.site
@@ -4193,7 +4198,6 @@
 0.0.0.0 revoke-paraswap.com
 0.0.0.0 revoke-prisma.app
 0.0.0.0 revoke-realio.com
-0.0.0.0 revoke-tips.com
 0.0.0.0 revoke.plus
 0.0.0.0 revokeca.com
 0.0.0.0 revokeca.xyz
@@ -5091,7 +5095,6 @@
 0.0.0.0 usdcevent.us
 0.0.0.0 usdctip.net
 0.0.0.0 usdfi-git-kyberswap-widget-tbot.vercel.app
-0.0.0.0 usdonbsc.tech
 0.0.0.0 usdt.nz
 0.0.0.0 usdt.trarchst.com
 0.0.0.0 usdtclaims.co
@@ -5371,6 +5374,7 @@
 0.0.0.0 weblinknode.firebaseapp.com
 0.0.0.0 weblinknode.web.app
 0.0.0.0 weblinknodeapp.web.app
+0.0.0.0 webmail.nvidiacorp.com
 0.0.0.0 webmail.swagelok.cam
 0.0.0.0 webnet3.com
 0.0.0.0 webpaxos.com
@@ -5443,6 +5447,7 @@
 0.0.0.0 wwemerch.shop
 0.0.0.0 wwenser.xyz
 0.0.0.0 wwepunch.shop
+0.0.0.0 wwetrump.com
 0.0.0.0 wwewatch.com
 0.0.0.0 www-adpvantage.com
 0.0.0.0 www-adpworkforcenow.com
@@ -5787,6 +5792,7 @@
 0.0.0.0 www.webcamrecordings.com
 0.0.0.0 www.werejazzedyourehere.org
 0.0.0.0 www.wikser.com
+0.0.0.0 www.williamssonomaau.com
 0.0.0.0 www.windy.network
 0.0.0.0 www.wregul.com
 0.0.0.0 www.yiup.net
