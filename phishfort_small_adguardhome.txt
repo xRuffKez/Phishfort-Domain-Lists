@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Sat May 18 13:00:40 UTC 2024
+# PhishFort Small Domain List - Sat May 18 18:59:56 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
 # Number of Entries: 5722
@@ -1543,6 +1543,7 @@
 ||ecolab.cam^
 ||economisteveningreptile.xyz^
 ||econopure.com.vn^
+||edgemarketdcx.online^
 ||eeogresources.com^
 ||efther.fi^
 ||efwefwef-6io.pages.dev^
@@ -3587,7 +3588,6 @@
 ||pandora-boxes.app^
 ||pandora-launchpad.com^
 ||pandoraerc.xyz^
-||pandoshi.net^
 ||pandoshidaapsintegration.onrender.com^
 ||pandosi.pro^
 ||panexpode.com^
@@ -5196,6 +5196,7 @@
 ||websolverdapp.pages.dev^
 ||webtransfer.vfjikpnlth.life^
 ||wellingtoncolleges.org.uk^
+||wen-jupiter.onchain-airdrop.com^
 ||wenbutusedgently.xyz^
 ||wencoins.xyz^
 ||wenexchange.net^
@@ -5302,7 +5303,6 @@
 ||www.ajbell-co.com^
 ||www.allianceprotectionservice.com^
 ||www.alshayagroup.store^
-||www.altamwilalearabiu.com^
 ||www.amspresale.cz^
 ||www.amswallet.cz^
 ||www.amz998.com^

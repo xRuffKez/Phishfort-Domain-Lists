@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Sat May 18 13:00:40 UTC 2024
+# PhishFort Small Domain List - Sat May 18 18:59:56 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
 # Number of Entries: 5722
@@ -1543,6 +1543,7 @@
 0.0.0.0 ecolab.cam
 0.0.0.0 economisteveningreptile.xyz
 0.0.0.0 econopure.com.vn
+0.0.0.0 edgemarketdcx.online
 0.0.0.0 eeogresources.com
 0.0.0.0 efther.fi
 0.0.0.0 efwefwef-6io.pages.dev
@@ -3587,7 +3588,6 @@
 0.0.0.0 pandora-boxes.app
 0.0.0.0 pandora-launchpad.com
 0.0.0.0 pandoraerc.xyz
-0.0.0.0 pandoshi.net
 0.0.0.0 pandoshidaapsintegration.onrender.com
 0.0.0.0 pandosi.pro
 0.0.0.0 panexpode.com
@@ -5196,6 +5196,7 @@
 0.0.0.0 websolverdapp.pages.dev
 0.0.0.0 webtransfer.vfjikpnlth.life
 0.0.0.0 wellingtoncolleges.org.uk
+0.0.0.0 wen-jupiter.onchain-airdrop.com
 0.0.0.0 wenbutusedgently.xyz
 0.0.0.0 wencoins.xyz
 0.0.0.0 wenexchange.net
@@ -5302,7 +5303,6 @@
 0.0.0.0 www.ajbell-co.com
 0.0.0.0 www.allianceprotectionservice.com
 0.0.0.0 www.alshayagroup.store
-0.0.0.0 www.altamwilalearabiu.com
 0.0.0.0 www.amspresale.cz
 0.0.0.0 www.amswallet.cz
 0.0.0.0 www.amz998.com

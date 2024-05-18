@@ -1,4 +1,4 @@
-# PhishFort Small Domain List - Sat May 18 13:00:40 UTC 2024
+# PhishFort Small Domain List - Sat May 18 18:59:56 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
 # Number of Entries: 5722
 # Project: PhishFort (https://phishfort.com/)
@@ -1542,6 +1542,7 @@ ecocryptoworld.pro
 ecolab.cam
 economisteveningreptile.xyz
 econopure.com.vn
+edgemarketdcx.online
 eeogresources.com
 efther.fi
 efwefwef-6io.pages.dev
@@ -3586,7 +3587,6 @@ pandefi.co
 pandora-boxes.app
 pandora-launchpad.com
 pandoraerc.xyz
-pandoshi.net
 pandoshidaapsintegration.onrender.com
 pandosi.pro
 panexpode.com
@@ -5195,6 +5195,7 @@ websmart-de.fi
 websolverdapp.pages.dev
 webtransfer.vfjikpnlth.life
 wellingtoncolleges.org.uk
+wen-jupiter.onchain-airdrop.com
 wenbutusedgently.xyz
 wencoins.xyz
 wenexchange.net
@@ -5301,7 +5302,6 @@ www.airtmliberatupotencial.site
 www.ajbell-co.com
 www.allianceprotectionservice.com
 www.alshayagroup.store
-www.altamwilalearabiu.com
 www.amspresale.cz
 www.amswallet.cz
 www.amz998.com
