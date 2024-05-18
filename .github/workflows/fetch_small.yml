@@ -17,18 +17,18 @@ jobs:
       - name: Download PhishFort domain list
         run: curl -o hotlist.json https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/hotlist.json
 
-      # Install GNU Parallel
-      - name: Install GNU Parallel
-        run: sudo apt-get update && sudo apt-get install -y parallel
+      # Install necessary tools
+      - name: Install tools
+        run: sudo apt-get update && sudo apt-get install -y parallel jq
 
       # Parse JSON and extract domains with DNS status OK using multiple DNS servers and parallel processing
       - name: Parse JSON and extract valid domains
         run: |
           jq -r '.[]' hotlist.json | sort | uniq > phishfort_small_only_domains_all.txt
           > phishfort_small_only_domains_new.txt
-          DNS_SERVERS=(8.8.8.8 8.8.4.4 1.1.1.1 9.9.9.9 208.67.222.222 208.67.220.220)
+          DNS_SERVERS=("8.8.8.8" "8.8.4.4" "1.1.1.1" "9.9.9.9" "208.67.222.222" "208.67.220.220")
           export DNS_SERVERS
-          cat phishfort_small_only_domains_all.txt | parallel -j 20 'for dns in ${DNS_SERVERS[@]}; do if dig +short @"$dns" {} > /dev/null; then echo {}; break; fi; done' >> phishfort_small_only_domains_new.txt
+          cat phishfort_small_only_domains_all.txt | parallel -j 20 'for dns in "${DNS_SERVERS[@]}"; do if dig +short @"$dns" {} > /dev/null; then echo {}; break; fi; done' >> phishfort_small_only_domains_new.txt
 
       # Check if the domain list is not empty
       - name: Check if domain list is not empty
@@ -45,7 +45,7 @@ jobs:
         id: count_domains
         run: |
           num_domains=$(wc -l < phishfort_small_only_domains_new.txt)
-          echo "::set-output name=num_domains::$num_domains"
+          echo "num_domains=$num_domains" >> $GITHUB_ENV
 
       # Add descriptions and count to output files
       - name: Add descriptions and count to output files
@@ -97,13 +97,13 @@ jobs:
         id: check_timestamp_change
         run: |
           if diff --suppress-common-lines -q <(tail -n +2 phishfort_small_only_domains.txt) <(tail -n +2 phishfort_small_only_domains_new.txt) >/dev/null; then
-            echo "::set-output name=changed::false"
+            echo "changed=false" >> $GITHUB_ENV
           else
-            echo "::set-output name=changed::true"
+            echo "changed=true" >> $GITHUB_ENV
           fi
 
       - name: Commit and push changes if the content has changed
-        if: steps.check_timestamp_change.outputs.changed == 'true'
+        if: env.changed == 'true'
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@users.noreply.github.com"
