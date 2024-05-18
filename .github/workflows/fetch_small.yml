@@ -2,7 +2,7 @@ name: Update PhishFort Small Domain List
 
 on:
   schedule:
-    # Schedule the action to run every 10 minutes
+    # Schedule the action to run every 6 hours
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
@@ -20,7 +20,14 @@ jobs:
       # Parse JSON and extract domains
       - name: Parse JSON and extract domains
         run: |
-          jq -r '.[]' hotlist.json | sort | uniq > phishfort_small_only_domains_new.txt
+          jq -r '.[]' hotlist.json | sort | uniq > phishfort_small_only_domains_all.txt
+          > phishfort_small_only_domains_new.txt
+          while read -r domain; do
+            if dig +short "$domain" > /dev/null; then
+              echo "$domain" >> phishfort_small_only_domains_new.txt
+            fi
+          done < phishfort_small_only_domains_all.txt
+
       # Check if the domain list is not empty
       - name: Check if domain list is not empty
         run: |
@@ -36,11 +43,12 @@ jobs:
         run: |
           num_domains=$(wc -l < phishfort_small_only_domains_new.txt)
           echo "::set-output name=num_domains::$num_domains"
+          
       # Add descriptions and count to output files
       - name: Add descriptions and count to output files
         run: |
           timestamp=$(date)
-          num_domains=$(cat phishfort_small_only_domains_new.txt | wc -l)
+          num_domains=$(wc -l < phishfort_small_only_domains_new.txt)
           
           echo "# PhishFort Small Domain List - $timestamp" > phishfort_small_hosts.txt
           echo "# This list is formatted for use with hosts file." >> phishfort_small_hosts.txt
@@ -89,6 +97,7 @@ jobs:
           awk '{ print $1 }' phishfort_small_only_domains_new.txt >> phishfort_small_only_domains.txt
           awk '{ print "local-zone: \"" $1 "\" redirect\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_small_only_domains_new.txt >> phishfort_small_rpz.conf
           awk '{ print "local-zone: \"" $1 "\" static\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_small_only_domains_new.txt >> phishfort_small_unbound.conf
+          
       # Check if only the timestamp line has changed
       - name: Check if only the timestamp line has changed
         id: check_timestamp_change
@@ -98,6 +107,7 @@ jobs:
           else
             echo "::set-output name=changed::true"
           fi
+          
       # Commit and push changes if the content has changed
       - name: Commit and push changes if the content has changed
         if: steps.check_timestamp_change.outputs.changed == 'true'
