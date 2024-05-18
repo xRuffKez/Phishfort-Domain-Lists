@@ -20,21 +20,23 @@ jobs:
       # Pull changes from the remote main branch and rebase
       - name: Pull changes and rebase
         run: git pull origin main --rebase
-        
+
       # Download PhishFort domain list
       - name: Download PhishFort domain list
         run: curl -o domains.json https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/domains.json
 
-      # Parse JSON and extract domains with DNS status OK
+      # Install GNU Parallel
+      - name: Install GNU Parallel
+        run: sudo apt-get update && sudo apt-get install -y parallel
+
+      # Parse JSON and extract domains with DNS status OK using multiple DNS servers and parallel processing
       - name: Parse JSON and extract valid domains
         run: |
           jq -r '.[]' domains.json | sort | uniq > phishfort_full_only_domains_all.txt
           > phishfort_full_only_domains_new.txt
-          while read -r domain; do
-            if dig +short "$domain" > /dev/null; then
-              echo "$domain" >> phishfort_full_only_domains_new.txt
-            fi
-          done < phishfort_full_only_domains_all.txt
+          DNS_SERVERS=(8.8.8.8 8.8.4.4 1.1.1.1 9.9.9.9 208.67.222.222 208.67.220.220)
+          export DNS_SERVERS
+          cat phishfort_full_only_domains_all.txt | parallel -j 20 'for dns in ${DNS_SERVERS[@]}; do if dig +short @"$dns" {} > /dev/null; then echo {}; break; fi; done' >> phishfort_full_only_domains_new.txt
 
       # Check if the domain list is not empty
       - name: Check if domain list is not empty
@@ -57,46 +59,39 @@ jobs:
         run: |
           timestamp=$(date)
           num_domains=$(wc -l < phishfort_full_only_domains_new.txt)
-          
-          echo "# PhishFort Full Domain List - $timestamp" > phishfort_full_hosts.txt
-          echo "# This list is formatted for use with hosts file." >> phishfort_full_hosts.txt
-          echo "# It redirects listed domains to 0.0.0.0, blocking access." >> phishfort_full_hosts.txt
-          echo "# Number of Entries: $num_domains" >> phishfort_full_hosts.txt
-          echo "# Project: PhishFort (https://phishfort.com/)" >> phishfort_full_hosts.txt
-          echo "# This list is provided by the PhishFort project, which aims to combat phishing and malicious activities." >> phishfort_full_hosts.txt
-          echo "" >> phishfort_full_hosts.txt
-          
-          echo "# PhishFort Full Domain List - $timestamp" > phishfort_full_adguardhome.txt
-          echo "# This list is formatted for use with AdGuard Home." >> phishfort_full_adguardhome.txt
-          echo "# It blocks access to domains listed in PhishFort blacklists." >> phishfort_full_adguardhome.txt
-          echo "# Number of Entries: $num_domains" >> phishfort_full_adguardhome.txt
-          echo "# Project: PhishFort (https://phishfort.com/)" >> phishfort_full_adguardhome.txt
-          echo "# This list is provided by the PhishFort project, which aims to combat phishing and malicious activities." >> phishfort_full_adguardhome.txt
-          echo "" >> phishfort_full_adguardhome.txt
-          
-          echo "# PhishFort Full Domain List - $timestamp" > phishfort_full_only_domains.txt
-          echo "# This list contains only the domain names listed in PhishFort blacklists." >> phishfort_full_only_domains.txt
-          echo "# Number of Entries: $num_domains" >> phishfort_full_only_domains.txt
-          echo "# Project: PhishFort (https://phishfort.com/)" >> phishfort_full_only_domains.txt
-          echo "# This list is provided by the PhishFort project, which aims to combat phishing and malicious activities." >> phishfort_full_only_domains.txt
-          echo "" >> phishfort_full_only_domains.txt
-          
-          echo "# PhishFort Full Domain List - $timestamp" > phishfort_full_rpz.conf
-          echo "# This list is formatted for use with DNS Response Policy Zone (RPZ) servers." >> phishfort_full_rpz.conf
-          echo "# It redirects listed domains to 0.0.0.0, blocking access." >> phishfort_full_rpz.conf
-          echo "# Number of Entries: $num_domains" >> phishfort_full_rpz.conf
-          echo "# Project: PhishFort (https://phishfort.com/)" >> phishfort_full_rpz.conf
-          echo "# This list is provided by the PhishFort project, which aims to combat phishing and malicious activities." >> phishfort_full_rpz.conf
-          echo "" >> phishfort_full_rpz.conf
-          
-          echo "# PhishFort Full Domain List - $timestamp" > phishfort_full_unbound.conf
-          echo "# This list is formatted for use with Unbound DNS servers." >> phishfort_full_unbound.conf
-          echo "# It blocks access to domains listed in PhishFort blacklists." >> phishfort_full_unbound.conf
-          echo "# Number of Entries: $num_domains" >> phishfort_full_unbound.conf
-          echo "# Project: PhishFort (https://phishfort.com/)" >> phishfort_full_unbound.conf
-          echo "# This list is provided by the PhishFort project, which aims to combat phishing and malicious activities." >> phishfort_full_unbound.conf
-          echo "" >> phishfort_full_unbound.conf
-          
+
+          for format in hosts adguardhome only_domains rpz unbound; do
+            output_file="phishfort_full_${format}.txt"
+            {
+              echo "# PhishFort Full Domain List - $timestamp"
+              echo "# Number of Entries: $num_domains"
+              echo "# Project: PhishFort (https://phishfort.com/)"
+              case $format in
+                hosts)
+                  echo "# This list is formatted for use with hosts file."
+                  echo "# It redirects listed domains to 0.0.0.0, blocking access."
+                  ;;
+                adguardhome)
+                  echo "# This list is formatted for use with AdGuard Home."
+                  echo "# It blocks access to domains listed in PhishFort blacklists."
+                  ;;
+                only_domains)
+                  echo "# This list contains only the domain names listed in PhishFort blacklists."
+                  ;;
+                rpz)
+                  echo "# This list is formatted for use with DNS Response Policy Zone (RPZ) servers."
+                  echo "# It redirects listed domains to 0.0.0.0, blocking access."
+                  ;;
+                unbound)
+                  echo "# This list is formatted for use with Unbound DNS servers."
+                  echo "# It blocks access to domains listed in PhishFort blacklists."
+                  ;;
+              esac
+              echo "# This list is provided by the PhishFort project, which aims to combat phishing and malicious activities."
+              echo ""
+            } > "$output_file"
+          done
+
       # Generate output lists
       - name: Generate output lists
         run: |
