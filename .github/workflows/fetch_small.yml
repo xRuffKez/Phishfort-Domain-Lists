@@ -42,6 +42,7 @@ jobs:
 
       # Count the number of domains
       - name: Count the number of domains
+        id: count_domains
         run: |
           num_domains=$(wc -l < phishfort_small_only_domains_new.txt)
           echo "::set-output name=num_domains::$num_domains"
@@ -84,7 +85,6 @@ jobs:
             } > "$output_file"
           done
 
-      # Generate output lists
       - name: Generate output lists
         run: |
           awk '{ print "0.0.0.0", $1 }' phishfort_small_only_domains_new.txt >> phishfort_small_hosts.txt
@@ -93,7 +93,6 @@ jobs:
           awk '{ print "local-zone: \"" $1 "\" redirect\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_small_only_domains_new.txt >> phishfort_small_rpz.conf
           awk '{ print "local-zone: \"" $1 "\" static\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_small_only_domains_new.txt >> phishfort_small_unbound.conf
 
-      # Check if only the timestamp line has changed
       - name: Check if only the timestamp line has changed
         id: check_timestamp_change
         run: |
@@ -103,7 +102,6 @@ jobs:
             echo "::set-output name=changed::true"
           fi
 
-      # Commit and push changes if the content has changed
       - name: Commit and push changes if the content has changed
         if: steps.check_timestamp_change.outputs.changed == 'true'
         run: |
