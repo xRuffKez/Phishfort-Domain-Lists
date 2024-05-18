@@ -1,7 +1,7 @@
-# PhishFort Small Domain List - Sat May 18 06:59:53 UTC 2024
+# PhishFort Small Domain List - Sat May 18 13:00:40 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 5731
+# Number of Entries: 5722
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -917,6 +917,7 @@
 0.0.0.0 chaenlict.org
 0.0.0.0 chaibenefitmassimui.com
 0.0.0.0 chain-base.pages.dev
+0.0.0.0 chain-claimzerionindex.pages.dev
 0.0.0.0 chain-list.top
 0.0.0.0 chain-node.pages.dev
 0.0.0.0 chain-strk.com
@@ -990,6 +991,7 @@
 0.0.0.0 claim-nftpro.web.app
 0.0.0.0 claim-nibiru.top
 0.0.0.0 claim-notcoin.pages.dev
+0.0.0.0 claim-notcoin.site
 0.0.0.0 claim-opensea.com
 0.0.0.0 claim-opsecs.net
 0.0.0.0 claim-paals.com
@@ -1032,7 +1034,6 @@
 0.0.0.0 claim.nftrealm.io
 0.0.0.0 claim.ondotreasury.org
 0.0.0.0 claim.paalai.mobi
-0.0.0.0 claim.padgy.xyz
 0.0.0.0 claim.pancakesswap.fi
 0.0.0.0 claim.pancakeswap.cfd
 0.0.0.0 claim.penddle.fun
@@ -1542,7 +1543,6 @@
 0.0.0.0 ecolab.cam
 0.0.0.0 economisteveningreptile.xyz
 0.0.0.0 econopure.com.vn
-0.0.0.0 edgemarketdcx.online
 0.0.0.0 eeogresources.com
 0.0.0.0 efther.fi
 0.0.0.0 efwefwef-6io.pages.dev
@@ -1830,7 +1830,6 @@
 0.0.0.0 fsafeds.sa.com
 0.0.0.0 fsafeds.za.com
 0.0.0.0 ftp.jeddah-airport-city.com
-0.0.0.0 fuadazzad.net
 0.0.0.0 fuelnetwork-register.vercel.app
 0.0.0.0 fujimitsudynamic.com
 0.0.0.0 fullmoonbird-next.vercel.app
@@ -2682,7 +2681,6 @@
 0.0.0.0 matricas.xyz
 0.0.0.0 matricaworld.com
 0.0.0.0 matriica.vercel.app
-0.0.0.0 matrika.vercel.app
 0.0.0.0 maunemploymentcenter.com
 0.0.0.0 mavia-airdrop.club
 0.0.0.0 mavia.bz
@@ -2787,7 +2785,6 @@
 0.0.0.0 metamask.fit
 0.0.0.0 metamask.i98.xyz
 0.0.0.0 metamask.imtoken.hk.cn
-0.0.0.0 metamask.io.circletokenhub.com
 0.0.0.0 metamask.ioqj.live
 0.0.0.0 metamask.je
 0.0.0.0 metamask.land
@@ -3123,7 +3120,6 @@
 0.0.0.0 myverybenef.com
 0.0.0.0 mywalletexodus.com
 0.0.0.0 mywfmanager.com
-0.0.0.0 nabla-amm.fi
 0.0.0.0 nabla-finance-week4testnetlive.vercel.app
 0.0.0.0 nanogatesphere.info
 0.0.0.0 napaauto.shop
@@ -3314,7 +3310,6 @@
 0.0.0.0 openmsea.io
 0.0.0.0 openmysterybox44.vercel.app
 0.0.0.0 openmysteryboxx19.vercel.app
-0.0.0.0 openoffersea.io
 0.0.0.0 opensaea.io
 0.0.0.0 opensaebox.vercel.app
 0.0.0.0 opensaepro.vercel.app
@@ -3592,6 +3587,7 @@
 0.0.0.0 pandora-boxes.app
 0.0.0.0 pandora-launchpad.com
 0.0.0.0 pandoraerc.xyz
+0.0.0.0 pandoshi.net
 0.0.0.0 pandoshidaapsintegration.onrender.com
 0.0.0.0 pandosi.pro
 0.0.0.0 panexpode.com
@@ -3620,7 +3616,6 @@
 0.0.0.0 parknationalkgt.pics
 0.0.0.0 parriss2024.org
 0.0.0.0 partenariat-bouygues-telecom-entreprises.fr
-0.0.0.0 partners-ait.tech
 0.0.0.0 partnerwithequinor.com
 0.0.0.0 parurhealth.com
 0.0.0.0 patcoin.xyz
@@ -3807,7 +3802,6 @@
 0.0.0.0 playbux.info
 0.0.0.0 playbuxdrop.xyz
 0.0.0.0 playmunchables.app
-0.0.0.0 playpixles.com
 0.0.0.0 playzkasino.net
 0.0.0.0 plnksale.financial
 0.0.0.0 plots-launch.com
@@ -4076,7 +4070,6 @@
 0.0.0.0 reward-layerzero.net
 0.0.0.0 reward-strk.network
 0.0.0.0 rewardbase.click
-0.0.0.0 rewarding-strk.network
 0.0.0.0 rewardpancakeswap.finance
 0.0.0.0 rewards-circle.com
 0.0.0.0 rewards-emirates.com
@@ -4203,7 +4196,6 @@
 0.0.0.0 savmtoken.net
 0.0.0.0 scallop-airdrop-claim.com
 0.0.0.0 scansairdrops.ca
-0.0.0.0 scapemania.sale
 0.0.0.0 scburnet.okta.acmecorp.name
 0.0.0.0 scheduleal.top
 0.0.0.0 schoolfirstcenter0reversalonline.duckdns.org
@@ -4342,7 +4334,6 @@
 0.0.0.0 smog-token-st.web.app
 0.0.0.0 smogtoken-io.web.app
 0.0.0.0 smogtokens.vip
-0.0.0.0 smogtokens.xyz
 0.0.0.0 smogxtoken.com
 0.0.0.0 smolesol.com
 0.0.0.0 sn.uibyte.online
@@ -4453,7 +4444,6 @@
 0.0.0.0 starknet-crypto.com
 0.0.0.0 starknet-foundation.io
 0.0.0.0 starknet-program.xyz
-0.0.0.0 starknet-reward.network
 0.0.0.0 starknet.pro.in
 0.0.0.0 starknet.sk
 0.0.0.0 starknetairdrop.shop
@@ -4488,6 +4478,7 @@
 0.0.0.0 strk-coin.xyz
 0.0.0.0 strkclaim.space
 0.0.0.0 strknet.com
+0.0.0.0 strknet.network
 0.0.0.0 stroom-network-web3.vercel.app
 0.0.0.0 suburloia.com
 0.0.0.0 sudredio.com
@@ -4712,7 +4703,9 @@
 0.0.0.0 tonkeepe.com
 0.0.0.0 tonkeepee.com
 0.0.0.0 tonkeepeer.com
+0.0.0.0 tonkeeper-exchange.app
 0.0.0.0 tonkeeper-fundsapproval.pages.dev
+0.0.0.0 tonkeeper-safe.com
 0.0.0.0 tonkeeper-security.com
 0.0.0.0 tonkeeper-walletapproval.pages.dev
 0.0.0.0 tonkeeper-wallets.pages.dev
@@ -4785,7 +4778,6 @@
 0.0.0.0 tpnkeeper.com
 0.0.0.0 track-web3.online
 0.0.0.0 tracomservices.com
-0.0.0.0 trade-paxful.offersverification.site
 0.0.0.0 traderjoeyxz.app
 0.0.0.0 trafalpo-maniar.com
 0.0.0.0 tranlnter-web.ilckgpb9wxf.life
@@ -4922,7 +4914,6 @@
 0.0.0.0 usdfi-git-kyberswap-widget-tbot.vercel.app
 0.0.0.0 usdt.nz
 0.0.0.0 usdt.trarchst.com
-0.0.0.0 usdtclaims.co
 0.0.0.0 usdtreward.info
 0.0.0.0 usemexus.org
 0.0.0.0 ushark-portal.com
@@ -4931,6 +4922,7 @@
 0.0.0.0 v1-vlaunch.com
 0.0.0.0 v2-pancakeswap.github.io
 0.0.0.0 v2-pancakeswap.pages.dev
+0.0.0.0 v2node-59c.pages.dev
 0.0.0.0 v3-pancakeswap.pages.dev
 0.0.0.0 v3.app.staging.tgf.nyuki.io
 0.0.0.0 v6hd3.pro
@@ -5310,6 +5302,7 @@
 0.0.0.0 www.ajbell-co.com
 0.0.0.0 www.allianceprotectionservice.com
 0.0.0.0 www.alshayagroup.store
+0.0.0.0 www.altamwilalearabiu.com
 0.0.0.0 www.amspresale.cz
 0.0.0.0 www.amswallet.cz
 0.0.0.0 www.amz998.com
@@ -5442,8 +5435,6 @@
 0.0.0.0 www.ju.uiworth.online
 0.0.0.0 www.jutsunft.com.soillabs.app
 0.0.0.0 www.ka.bpoint.online
-0.0.0.0 www.kenetix.finance
-0.0.0.0 www.kinetx.finance
 0.0.0.0 www.kmjm.shop
 0.0.0.0 www.krakenusdt.com
 0.0.0.0 www.latoken-exchange.com

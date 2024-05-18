@@ -1,6 +1,6 @@
-# PhishFort Small Domain List - Sat May 18 06:59:53 UTC 2024
+# PhishFort Small Domain List - Sat May 18 13:00:40 UTC 2024
 # This list contains only the domain names listed in PhishFort blacklists.
-# Number of Entries: 5731
+# Number of Entries: 5722
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -916,6 +916,7 @@ chaemlist.org
 chaenlict.org
 chaibenefitmassimui.com
 chain-base.pages.dev
+chain-claimzerionindex.pages.dev
 chain-list.top
 chain-node.pages.dev
 chain-strk.com
@@ -989,6 +990,7 @@ claim-molly.xyz
 claim-nftpro.web.app
 claim-nibiru.top
 claim-notcoin.pages.dev
+claim-notcoin.site
 claim-opensea.com
 claim-opsecs.net
 claim-paals.com
@@ -1031,7 +1033,6 @@ claim.memskombat.site
 claim.nftrealm.io
 claim.ondotreasury.org
 claim.paalai.mobi
-claim.padgy.xyz
 claim.pancakesswap.fi
 claim.pancakeswap.cfd
 claim.penddle.fun
@@ -1541,7 +1542,6 @@ ecocryptoworld.pro
 ecolab.cam
 economisteveningreptile.xyz
 econopure.com.vn
-edgemarketdcx.online
 eeogresources.com
 efther.fi
 efwefwef-6io.pages.dev
@@ -1829,7 +1829,6 @@ fsafeds.comt.sa.com
 fsafeds.sa.com
 fsafeds.za.com
 ftp.jeddah-airport-city.com
-fuadazzad.net
 fuelnetwork-register.vercel.app
 fujimitsudynamic.com
 fullmoonbird-next.vercel.app
@@ -2681,7 +2680,6 @@ matricaclaim.eu
 matricas.xyz
 matricaworld.com
 matriica.vercel.app
-matrika.vercel.app
 maunemploymentcenter.com
 mavia-airdrop.club
 mavia.bz
@@ -2786,7 +2784,6 @@ metamask.firsthfb.com
 metamask.fit
 metamask.i98.xyz
 metamask.imtoken.hk.cn
-metamask.io.circletokenhub.com
 metamask.ioqj.live
 metamask.je
 metamask.land
@@ -3122,7 +3119,6 @@ myuicombain.website
 myverybenef.com
 mywalletexodus.com
 mywfmanager.com
-nabla-amm.fi
 nabla-finance-week4testnetlive.vercel.app
 nanogatesphere.info
 napaauto.shop
@@ -3313,7 +3309,6 @@ openboxclaimz12.vercel.app
 openmsea.io
 openmysterybox44.vercel.app
 openmysteryboxx19.vercel.app
-openoffersea.io
 opensaea.io
 opensaebox.vercel.app
 opensaepro.vercel.app
@@ -3591,6 +3586,7 @@ pandefi.co
 pandora-boxes.app
 pandora-launchpad.com
 pandoraerc.xyz
+pandoshi.net
 pandoshidaapsintegration.onrender.com
 pandosi.pro
 panexpode.com
@@ -3619,7 +3615,6 @@ parclllimited.com
 parknationalkgt.pics
 parriss2024.org
 partenariat-bouygues-telecom-entreprises.fr
-partners-ait.tech
 partnerwithequinor.com
 parurhealth.com
 patcoin.xyz
@@ -3806,7 +3801,6 @@ play-pixelsapp.xyz
 playbux.info
 playbuxdrop.xyz
 playmunchables.app
-playpixles.com
 playzkasino.net
 plnksale.financial
 plots-launch.com
@@ -4075,7 +4069,6 @@ reward-1inch.com
 reward-layerzero.net
 reward-strk.network
 rewardbase.click
-rewarding-strk.network
 rewardpancakeswap.finance
 rewards-circle.com
 rewards-emirates.com
@@ -4202,7 +4195,6 @@ sautikenya.com
 savmtoken.net
 scallop-airdrop-claim.com
 scansairdrops.ca
-scapemania.sale
 scburnet.okta.acmecorp.name
 scheduleal.top
 schoolfirstcenter0reversalonline.duckdns.org
@@ -4341,7 +4333,6 @@ smartsheetusa.team
 smog-token-st.web.app
 smogtoken-io.web.app
 smogtokens.vip
-smogtokens.xyz
 smogxtoken.com
 smolesol.com
 sn.uibyte.online
@@ -4452,7 +4443,6 @@ starknet-airdrops.io
 starknet-crypto.com
 starknet-foundation.io
 starknet-program.xyz
-starknet-reward.network
 starknet.pro.in
 starknet.sk
 starknetairdrop.shop
@@ -4487,6 +4477,7 @@ stonfx.com
 strk-coin.xyz
 strkclaim.space
 strknet.com
+strknet.network
 stroom-network-web3.vercel.app
 suburloia.com
 sudredio.com
@@ -4711,7 +4702,9 @@ tonkeep.org
 tonkeepe.com
 tonkeepee.com
 tonkeepeer.com
+tonkeeper-exchange.app
 tonkeeper-fundsapproval.pages.dev
+tonkeeper-safe.com
 tonkeeper-security.com
 tonkeeper-walletapproval.pages.dev
 tonkeeper-wallets.pages.dev
@@ -4784,7 +4777,6 @@ tpgcapitalrul.com
 tpnkeeper.com
 track-web3.online
 tracomservices.com
-trade-paxful.offersverification.site
 traderjoeyxz.app
 trafalpo-maniar.com
 tranlnter-web.ilckgpb9wxf.life
@@ -4921,7 +4913,6 @@ usdctip.net
 usdfi-git-kyberswap-widget-tbot.vercel.app
 usdt.nz
 usdt.trarchst.com
-usdtclaims.co
 usdtreward.info
 usemexus.org
 ushark-portal.com
@@ -4930,6 +4921,7 @@ uzmanplatform.com
 v1-vlaunch.com
 v2-pancakeswap.github.io
 v2-pancakeswap.pages.dev
+v2node-59c.pages.dev
 v3-pancakeswap.pages.dev
 v3.app.staging.tgf.nyuki.io
 v6hd3.pro
@@ -5309,6 +5301,7 @@ www.airtmliberatupotencial.site
 www.ajbell-co.com
 www.allianceprotectionservice.com
 www.alshayagroup.store
+www.altamwilalearabiu.com
 www.amspresale.cz
 www.amswallet.cz
 www.amz998.com
@@ -5441,8 +5434,6 @@ www.ju.normbit.online
 www.ju.uiworth.online
 www.jutsunft.com.soillabs.app
 www.ka.bpoint.online
-www.kenetix.finance
-www.kinetx.finance
 www.kmjm.shop
 www.krakenusdt.com
 www.latoken-exchange.com
