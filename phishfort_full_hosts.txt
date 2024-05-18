@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May 17 18:04:39 UTC 2024
+# PhishFort Full Domain List - Sat May 18 00:14:38 UTC 2024
 # This list is formatted for use with hosts file.
 # It redirects listed domains to 0.0.0.0, blocking access.
-# Number of Entries: 109598
+# Number of Entries: 109610
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -9697,6 +9697,7 @@
 0.0.0.0 axiinninfinityy.com
 0.0.0.0 axiinninfinityz.com
 0.0.0.0 axijinfinity.com
+0.0.0.0 axile-infinity.com
 0.0.0.0 axileilnfinity.com
 0.0.0.0 axileinfilnity.com
 0.0.0.0 axileinfinity.com
@@ -18142,6 +18143,7 @@
 0.0.0.0 clicksvacancies.com
 0.0.0.0 clicltocollab.com
 0.0.0.0 client-crypto-bridge.com
+0.0.0.0 client-evercore.com
 0.0.0.0 client-metamask.online
 0.0.0.0 client-paxful.pro
 0.0.0.0 client-qi.pro
@@ -28953,6 +28955,7 @@
 0.0.0.0 egrowmax.com
 0.0.0.0 egrtht.pages.dev
 0.0.0.0 egtokenmigrate.app
+0.0.0.0 eguinix.com
 0.0.0.0 eguzkilorelogistic.com
 0.0.0.0 egymonuments.net
 0.0.0.0 egyptsky.net
@@ -38209,7 +38212,9 @@
 0.0.0.0 haigou.space
 0.0.0.0 hailianparts.cn
 0.0.0.0 haitwik.com
+0.0.0.0 hajj-id-card.id
 0.0.0.0 hajj-nusuk.foundation
+0.0.0.0 hajj.free.nf
 0.0.0.0 hajjdomestic-sa.info
 0.0.0.0 hakigiveaway.com
 0.0.0.0 halefiuamamalst.com
@@ -60144,6 +60149,7 @@
 0.0.0.0 natbonk.site
 0.0.0.0 natcets.site
 0.0.0.0 nathanielpopper.promo-eths.com
+0.0.0.0 nathanwhitson.info
 0.0.0.0 nationalheritagebank.co
 0.0.0.0 nationalnews18.com
 0.0.0.0 nationalparksnft.nft-premint.com
@@ -64918,6 +64924,7 @@
 0.0.0.0 pancake2n.live
 0.0.0.0 pancake888.com
 0.0.0.0 pancakeairdrop.com
+0.0.0.0 pancakeairdropsclicks03.vercel.app
 0.0.0.0 pancakeapp.live
 0.0.0.0 pancakeapp.net
 0.0.0.0 pancakeappswap.ru
@@ -67231,6 +67238,7 @@
 0.0.0.0 pancakeswapdrop78.vercel.app
 0.0.0.0 pancakeswapdrops076.vercel.app
 0.0.0.0 pancakeswapdrops41.vercel.app
+0.0.0.0 pancakeswapdropsclaim02.vercel.app
 0.0.0.0 pancakeswapdropsclaimz.vercel.app
 0.0.0.0 pancakeswapdutch.com
 0.0.0.0 pancakeswape-finance.site
@@ -69678,6 +69686,7 @@
 0.0.0.0 paxfulemoderator.com
 0.0.0.0 paxfulesc.com
 0.0.0.0 paxfulescrow.com
+0.0.0.0 paxfuleth.com
 0.0.0.0 paxfulex.com
 0.0.0.0 paxfulfe.com
 0.0.0.0 paxfulft.com
@@ -97012,6 +97021,7 @@
 0.0.0.0 webmail.myeltherwallet.pw
 0.0.0.0 webmail.myetherwailet.cf
 0.0.0.0 webmail.myetherwallets.website
+0.0.0.0 webmail.nvidiacorp.com
 0.0.0.0 webmail.paxful-authenticate.com
 0.0.0.0 webmail.paxful-fi.com
 0.0.0.0 webmail.paxful-security.com
@@ -98089,6 +98099,7 @@
 0.0.0.0 wwesmackdown.us
 0.0.0.0 wwesolana.com
 0.0.0.0 wwesupercard.top
+0.0.0.0 wwetrump.com
 0.0.0.0 wwevbnet-com.1gb.ru
 0.0.0.0 wwewatch.com
 0.0.0.0 wwewrestlers.com
@@ -105507,6 +105518,7 @@
 0.0.0.0 www.wikser.com
 0.0.0.0 www.wildcard-not-existed-test-000000.pancakesvaop.com
 0.0.0.0 www.wildoasis.xyz
+0.0.0.0 www.williamssonomaau.com
 0.0.0.0 www.windy.network
 0.0.0.0 www.wirdaw.com
 0.0.0.0 www.wise-crypto.com

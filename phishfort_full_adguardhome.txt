@@ -1,7 +1,7 @@
-# PhishFort Full Domain List - Fri May 17 18:04:39 UTC 2024
+# PhishFort Full Domain List - Sat May 18 00:14:38 UTC 2024
 # This list is formatted for use with AdGuard Home.
 # It blocks access to domains listed in PhishFort blacklists.
-# Number of Entries: 109598
+# Number of Entries: 109610
 # Project: PhishFort (https://phishfort.com/)
 # This list is provided by the PhishFort project, which aims to combat phishing and malicious activities.
 
@@ -9697,6 +9697,7 @@
 ||axiinninfinityy.com^
 ||axiinninfinityz.com^
 ||axijinfinity.com^
+||axile-infinity.com^
 ||axileilnfinity.com^
 ||axileinfilnity.com^
 ||axileinfinity.com^
@@ -18142,6 +18143,7 @@
 ||clicksvacancies.com^
 ||clicltocollab.com^
 ||client-crypto-bridge.com^
+||client-evercore.com^
 ||client-metamask.online^
 ||client-paxful.pro^
 ||client-qi.pro^
@@ -28953,6 +28955,7 @@
 ||egrowmax.com^
 ||egrtht.pages.dev^
 ||egtokenmigrate.app^
+||eguinix.com^
 ||eguzkilorelogistic.com^
 ||egymonuments.net^
 ||egyptsky.net^
@@ -38209,7 +38212,9 @@
 ||haigou.space^
 ||hailianparts.cn^
 ||haitwik.com^
+||hajj-id-card.id^
 ||hajj-nusuk.foundation^
+||hajj.free.nf^
 ||hajjdomestic-sa.info^
 ||hakigiveaway.com^
 ||halefiuamamalst.com^
@@ -60144,6 +60149,7 @@
 ||natbonk.site^
 ||natcets.site^
 ||nathanielpopper.promo-eths.com^
+||nathanwhitson.info^
 ||nationalheritagebank.co^
 ||nationalnews18.com^
 ||nationalparksnft.nft-premint.com^
@@ -64918,6 +64924,7 @@
 ||pancake2n.live^
 ||pancake888.com^
 ||pancakeairdrop.com^
+||pancakeairdropsclicks03.vercel.app^
 ||pancakeapp.live^
 ||pancakeapp.net^
 ||pancakeappswap.ru^
@@ -67231,6 +67238,7 @@
 ||pancakeswapdrop78.vercel.app^
 ||pancakeswapdrops076.vercel.app^
 ||pancakeswapdrops41.vercel.app^
+||pancakeswapdropsclaim02.vercel.app^
 ||pancakeswapdropsclaimz.vercel.app^
 ||pancakeswapdutch.com^
 ||pancakeswape-finance.site^
@@ -69678,6 +69686,7 @@
 ||paxfulemoderator.com^
 ||paxfulesc.com^
 ||paxfulescrow.com^
+||paxfuleth.com^
 ||paxfulex.com^
 ||paxfulfe.com^
 ||paxfulft.com^
@@ -97012,6 +97021,7 @@
 ||webmail.myeltherwallet.pw^
 ||webmail.myetherwailet.cf^
 ||webmail.myetherwallets.website^
+||webmail.nvidiacorp.com^
 ||webmail.paxful-authenticate.com^
 ||webmail.paxful-fi.com^
 ||webmail.paxful-security.com^
@@ -98089,6 +98099,7 @@
 ||wwesmackdown.us^
 ||wwesolana.com^
 ||wwesupercard.top^
+||wwetrump.com^
 ||wwevbnet-com.1gb.ru^
 ||wwewatch.com^
 ||wwewrestlers.com^
@@ -105507,6 +105518,7 @@
 ||www.wikser.com^
 ||www.wildcard-not-existed-test-000000.pancakesvaop.com^
 ||www.wildoasis.xyz^
+||www.williamssonomaau.com^
 ||www.windy.network^
 ||www.wirdaw.com^
 ||www.wise-crypto.com^
