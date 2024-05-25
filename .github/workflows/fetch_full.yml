@@ -36,8 +36,22 @@ jobs:
           > phishfort_full_only_domains_new.txt
           DNS_SERVERS=(8.8.8.8 8.8.4.4 1.1.1.1 9.9.9.9 208.67.222.222 208.67.220.220)
           export DNS_SERVERS
-          cat phishfort_full_only_domains_all.txt | parallel -j 20 'for dns in ${DNS_SERVERS[@]}; do if dig +short @"$dns" {} > /dev/null; then echo {}; break; fi; done' >> phishfort_full_only_domains_new.txt
 
+          # Loop over each domain and query DNS servers for IP address
+          for domain in $(cat phishfort_full_only_domains_all.txt); do
+              resolved=false
+              for dns in "${DNS_SERVERS[@]}"; do
+                  if dig +short @"$dns" "$domain" > /dev/null; then
+                      echo "$domain" >> phishfort_full_only_domains_new.txt
+                      resolved=true
+                      break
+                  fi
+              done
+              if [ "$resolved" = false ]; then
+                  echo "Failed to resolve domain: $domain"
+              fi
+          done
+          
       # Check if the domain list is not empty
       - name: Check if domain list is not empty
         run: |
