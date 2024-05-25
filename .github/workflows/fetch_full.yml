@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       # Fetch latest changes from the remote repository
       - name: Fetch latest changes
@@ -25,9 +25,9 @@ jobs:
       - name: Download PhishFort domain list
         run: curl -o domains.json https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/domains.json
 
-      # Install GNU Parallel
-      - name: Install GNU Parallel
-        run: sudo apt-get update && sudo apt-get install -y parallel
+      # Install necessary tools
+      - name: Install dependencies
+        run: sudo apt-get update && sudo apt-get install -y parallel jq
 
       # Parse JSON and extract domains with DNS status OK using multiple DNS servers and parallel processing
       - name: Parse JSON and extract valid domains
@@ -50,17 +50,19 @@ jobs:
 
       # Count the number of domains
       - name: Count the number of domains
+        id: count_domains
         run: |
           num_domains=$(wc -l < phishfort_full_only_domains_new.txt)
-          echo "::set-output name=num_domains::$num_domains"
+          echo "num_domains=$num_domains" >> $GITHUB_ENV
 
       # Add descriptions and count to output files
       - name: Add descriptions and count to output files
         run: |
           timestamp=$(date)
           num_domains=$(wc -l < phishfort_full_only_domains_new.txt)
+          formats=("hosts" "adguardhome" "only_domains" "rpz" "unbound")
 
-          for format in hosts adguardhome only_domains rpz unbound; do
+          for format in "${formats[@]}"; do
             output_file="phishfort_full_${format}.txt"
             {
               echo "# PhishFort Full Domain List - $timestamp"
@@ -106,14 +108,13 @@ jobs:
         id: check_timestamp_change
         run: |
           if diff --suppress-common-lines -q <(tail -n +2 phishfort_full_only_domains.txt) <(tail -n +2 phishfort_full_only_domains_new.txt) >/dev/null; then
-            echo "::set-output name=changed::false"
+            echo "changed=false" >> $GITHUB_ENV
           else
-            echo "::set-output name=changed::true"
-          fi
+            echo "changed=true" >> $GITHUB_ENV
 
       # Commit and push changes if the content has changed
       - name: Commit and push changes if the content has changed
-        if: steps.check_timestamp_change.outputs.changed == 'true'
+        if: env.changed == 'true'
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@users.noreply.github.com"
