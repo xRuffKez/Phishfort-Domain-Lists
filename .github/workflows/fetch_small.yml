@@ -1,4 +1,4 @@
-name: Update PhishFort Small Domain List 
+name: Update PhishFort Small Domain List
 
 on:
   schedule:
@@ -95,10 +95,10 @@ jobs:
           awk '{ print "local-zone: \"" $1 "\" redirect\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_small_only_domains_new.txt >> phishfort_small_rpz.conf
           awk '{ print "local-zone: \"" $1 "\" static\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_small_only_domains_new.txt >> phishfort_small_unbound.conf
 
-      - name: Check if only the timestamp line has changed
-        id: check_timestamp_change
+      - name: Check if the content has changed
+        id: check_content_change
         run: |
-          if diff --suppress-common-lines -q <(tail -n +2 phishfort_small_only_domains.txt) <(tail -n +2 phishfort_small_only_domains_new.txt) >/dev/null; then
+          if diff -q phishfort_small_only_domains.txt phishfort_small_only_domains_new.txt >/dev/null; then
             echo "changed=false" >> $GITHUB_ENV
           else
             echo "changed=true" >> $GITHUB_ENV
