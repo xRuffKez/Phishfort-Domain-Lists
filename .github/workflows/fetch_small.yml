@@ -2,7 +2,6 @@ name: Update PhishFort Small Domain List
 
 on:
   schedule:
-    # Schedule the action to run every 6 hours
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
@@ -15,21 +14,22 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Download PhishFort domain list
-        run: curl -o hotlist.json https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/hotlist.json
-
-      - name: Display downloaded domain list for debugging
-        run: cat hotlist.json
+        run: |
+          curl -o hotlist.json https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/hotlist.json
+          echo "Downloaded hotlist.json:"
+          cat hotlist.json
 
       - name: Install tools
         run: sudo apt-get update && sudo apt-get install -y parallel jq dnsutils
 
-      - name: Parse JSON and extract valid domains
+      - name: Parse JSON and extract domains
         run: |
           jq -r '.[]' hotlist.json | sort | uniq > phishfort_small_only_domains_all.txt
+          echo "Extracted domains:"
           cat phishfort_small_only_domains_all.txt
 
       - name: Initialize new domain list file
-        run: > phishfort_small_only_domains_new.txt
+        run: echo "" > phishfort_small_only_domains_new.txt
 
       - name: Check DNS status of each domain
         run: |
@@ -42,9 +42,8 @@ jobs:
                 break;
               fi;
             done' >> phishfort_small_only_domains_new.txt
-
-      - name: Display extracted valid domains for debugging
-        run: cat phishfort_small_only_domains_new.txt
+          echo "Domains after DNS check:"
+          cat phishfort_small_only_domains_new.txt
 
       - name: Check if domain list is not empty
         run: |
@@ -101,11 +100,11 @@ jobs:
 
       - name: Generate output lists
         run: |
-          awk '{ print "0.0.0.0", $1 }' phishfort_small_only_domains_new.txt >> phishfort_small_hosts.txt
-          awk '{ print "||" $1 "^" }' phishfort_small_only_domains_new.txt >> phishfort_small_adguardhome.txt
-          awk '{ print $1 }' phishfort_small_only_domains_new.txt >> phishfort_small_only_domains.txt
-          awk '{ print "local-zone: \"" $1 "\" redirect\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_small_only_domains_new.txt >> phishfort_small_rpz.conf
-          awk '{ print "local-zone: \"" $1 "\" static\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_small_only_domains_new.txt >> phishfort_small_unbound.conf
+          awk '{ print "0.0.0.0", $1 }' phishfort_small_only_domains_new.txt > phishfort_small_hosts.txt
+          awk '{ print "||" $1 "^" }' phishfort_small_only_domains_new.txt > phishfort_small_adguardhome.txt
+          awk '{ print $1 }' phishfort_small_only_domains_new.txt > phishfort_small_only_domains.txt
+          awk '{ print "local-zone: \"" $1 "\" redirect\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_small_only_domains_new.txt > phishfort_small_rpz.conf
+          awk '{ print "local-zone: \"" $1 "\" static\nlocal-data: \"" $1 " A 0.0.0.0\"" }' phishfort_small_only_domains_new.txt > phishfort_small_unbound.conf
 
       - name: Check if the content has changed
         id: check_content_change
