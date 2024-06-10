@@ -1,4 +1,4 @@
-name: Update PhishFort Small Domain List
+name: Update PhishFort Small Domain List 
 
 on:
   schedule:
