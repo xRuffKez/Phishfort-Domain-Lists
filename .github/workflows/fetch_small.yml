@@ -17,13 +17,22 @@ jobs:
       - name: Download PhishFort domain list
         run: curl -o hotlist.json https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/hotlist.json
 
+      - name: Display downloaded domain list for debugging
+        run: cat hotlist.json
+
       - name: Install tools
         run: sudo apt-get update && sudo apt-get install -y parallel jq dnsutils
 
       - name: Parse JSON and extract valid domains
         run: |
           jq -r '.[]' hotlist.json | sort | uniq > phishfort_small_only_domains_all.txt
-          > phishfort_small_only_domains_new.txt
+          cat phishfort_small_only_domains_all.txt
+
+      - name: Initialize new domain list file
+        run: > phishfort_small_only_domains_new.txt
+
+      - name: Check DNS status of each domain
+        run: |
           DNS_SERVERS=("8.8.8.8" "8.8.4.4" "1.1.1.1" "9.9.9.9" "208.67.222.222" "208.67.220.220")
           export DNS_SERVERS
           cat phishfort_small_only_domains_all.txt | parallel -j 20 '
@@ -33,6 +42,9 @@ jobs:
                 break;
               fi;
             done' >> phishfort_small_only_domains_new.txt
+
+      - name: Display extracted valid domains for debugging
+        run: cat phishfort_small_only_domains_new.txt
 
       - name: Check if domain list is not empty
         run: |
